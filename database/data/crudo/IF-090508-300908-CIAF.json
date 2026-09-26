@@ -1,0 +1,913 @@
+{
+ "id": "IF-090508-300908-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/F955301A-3240-4865-8552-015500F72189/46939/IF090508300908CIAF.pdf",
+ "pdf": "pdfs/ES/IF-090508-300908-CIAF.pdf",
+ "md5_pdf": "9c479c08e8c3a6bf38a2713139ec3eb9",
+ "paginas_md": 10,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 7,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0013/2008",
+   "pagina": 1,
+   "cita": "nº 0013/2008 ocurrido el 09.05.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 9 de mayo de 2008 a las 22:40, el tren de mercancías VK194 de Renfe Operadora arrolló a un vehículo Nissan Pick-Up con dos ocupantes en el paso a nivel tipo A del P.K. 214,220 de la línea 200 Madrid-Barcelona, entre Ariza y Alhama de Aragón (Zaragoza). El vehículo invadió la vía intempestivamente sin que sus ocupantes percibieran la aproximación del tren. Ambos ocupantes fallecieron. La locomotora circulaba a 100 km/h, velocidad máxima permitida. No hubo daños materiales en tren ni infraestructura. La señalización de carretera del paso a nivel era inexistente en el lado de acceso del vehículo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-05-09",
+    "hora": "22:40",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "214,220",
+     "linea": "200 Madrid-Barcelona",
+     "provincia": "Zaragoza",
+     "descripcion_lugar": "Paso a nivel tipo A, Camino rural de Heredades, entre Ariza y Alhama de Aragón, municipio de Cetina (Zaragoza). Tramo de vía doble con perfil horizontal y recto."
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 9 de mayo de 2008, a las 22:40 horas, el tren de mercancías VK194, de la empresa",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Sin daños en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Vía 2 interceptada entre Ariza y Alhama de Aragón de 23:06 a 04:24. Un tren de viajeros de larga distancia con 31 minutos de retraso. Seis trenes de mercancías con 238 minutos de retraso total."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Cruce del vehículo por el paso a nivel en el momento en que el tren se aproximaba, sin que sus ocupantes se percataran de su presencia.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Noche y lluvia intensa que redujeron la visibilidad y la percepción auditiva tanto del maquinista como de los ocupantes del vehículo",
+    "Falta total de señalización de carretera reglamentaria en el lado izquierdo del paso a nivel (por donde accedió el vehículo); solo se conservaba una antigua marca con vigencia prescrita"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ausencia de señalización de carretera en el paso a nivel tipo A, siendo responsabilidad del Ayuntamiento de Cetina como titular del camino"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Trasladar al ayuntamiento del municipio la necesidad de dotar al paso a nivel de la señalización de carretera pertinente, según lo establecido en la Disposición adicional sexta de la Orden de 2 de agosto de 2001 por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel. No procede recomendar la supresión del paso a nivel pues su momento de circulación se ajusta a la normativa.",
+     "destinatario": "Ayuntamiento de Cetina (Zaragoza)"
+    }
+   ],
+   "pagina": 2,
+   "cita": "no procede recomendar su supresión, si bien se recomienda trasladar al ayuntamiento del municipio la",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Trasladar al ayuntamiento del municipio la necesidad de dotar al paso a nivel de la señalización de carretera pertinente, según lo establecido en la Disposición adicional sexta de la Orden de 2 de agosto de 2001 por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel. No procede recomendar la supresión del paso a nivel pues su momento de circulación se ajusta a la normativa.",
+     "destinatario": "Ayuntamiento de Cetina (Zaragoza)"
+    }
+   ],
+   "pagina": 2,
+   "cita": "no procede recomendar su supresión, si bien se recomienda trasladar al ayuntamiento del municipio la",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora-Mercancías",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "ferroviaria Renfe Operadora-Mercancías, arrolla a un vehículo con dos ocupantes en el paso a nivel",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-05-09",
+   "pagina": 2,
+   "cita": "El día 9 de mayo de 2008, a las 22:40 horas, el tren de mercancías VK194, de la empresa",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "22:40",
+   "pagina": 2,
+   "cita": "El día 9 de mayo de 2008, a las 22:40 horas, el tren de mercancías VK194, de la empresa",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "214,220",
+    "linea": "200 Madrid-Barcelona",
+    "provincia": "Zaragoza",
+    "descripcion_lugar": "Paso a nivel tipo A, Camino rural de Heredades, entre Ariza y Alhama de Aragón, municipio de Cetina (Zaragoza). Tramo de vía doble con perfil horizontal y recto."
+   },
+   "pagina": 2,
+   "cita": "tipo A, en el P.K. 214,220, de la línea 200 Madrid-Barcelona, perteneciente a la Red Ferroviaria de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 200 Madrid-Barcelona",
+   "pagina": 2,
+   "cita": "tipo A, en el P.K. 214,220, de la línea 200 Madrid-Barcelona, perteneciente a la Red Ferroviaria de",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 289102 (UIC: 957102891026)",
+    "averia": "Ninguna. Funcionamiento correcto.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de mercancías VK194, compuesto por la locomotora aislada 289102 de Renfe Operadora-Mercancías con masa remolcada de 168 Tm, circulaba por el P.K. 214,220 de la línea 200 Madrid-Barcelona en el trayecto Ariza-Alhama de Aragón. A las 22:40 horas, un vehículo Nissan Pick-Up (matrícula 8205 BRL) con dos ocupantes invadió de forma intempestiva la vía de izquierda a derecha en el sentido de la marcha del tren, cruzando el paso a nivel tipo A. Tras la colisión frontal con el lado derecho del vehículo, este fue arrastrado por la caja de la vía aproximadamente 724 metros hasta quedar detenido en el P.K. 214,944. El maquinista observó el cartel de silbar cerca del apeadero de Cetina y hizo uso del silbato; al aproximarse al paso a nivel volvió a silbar y, al percatarse de la irrupción del vehículo, accionó el freno de emergencia sin poder evitar el arrollamiento. En el momento del accidente era de noche y llovía intensamente, lo que redujo la visibilidad y la percepción auditiva tanto del maquinista como de los ocupantes del vehículo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "214,220",
+    "linea": "200 Madrid-Barcelona",
+    "provincia": "Zaragoza",
+    "descripcion_lugar": "Paso a nivel tipo A, Camino rural de Heredades, entre Ariza y Alhama de Aragón, municipio de Cetina (Zaragoza). Tramo de vía doble con perfil horizontal y recto."
+   },
+   "pagina": 2,
+   "cita": "tipo A, en el P.K. 214,220, de la línea 200 Madrid-Barcelona, perteneciente a la Red Ferroviaria de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Sin daños en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Vía 2 interceptada entre Ariza y Alhama de Aragón de 23:06 a 04:24. Un tren de viajeros de larga distancia con 31 minutos de retraso. Seis trenes de mercancías con 238 minutos de retraso total."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección. \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0013/2008 ocurrido el 09.05.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-090508-300908-CIAF \n \n \nPág. 8 de 10",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren VK194 (matrícula 9733916)",
+     "implicacion": "Circulaba con normalidad, hizo uso del silbato antes de aproximarse al paso a nivel y al percatarse de la irrupción del vehículo; accionó el freno de emergencia sin poder evitar el arrollamiento. Actuación correcta. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada de conducción 3h26min, jornada de trabajo 6h50min. Último reciclaje formativo 07/02/2007, último reconocimiento médico y psicotécnico 08/11/2005."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "VK194 (asimilada su marcha al tren 58160)",
+     "tipo": "tren de mercancías",
+     "operador": "Renfe Operadora-Mercancías",
+     "danos": "Sin daños"
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 9 de mayo de 2008, a las 22:40 horas, el tren de mercancías VK194, de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 289102 (UIC: 957102891026)",
+    "averia": "Ninguna. Funcionamiento correcto.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), el",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señalización a la vía reglamentaria (cartelones de silbar). Señalización al camino por el lado izquierdo (sentido ascendente), lugar de acceso del vehículo: falta toda la señalización reglamentaria; se conserva antigua marca cuya vigencia ha prescrito.",
+    "tipo_via": "Vía doble con bloqueo automático (B.A.D.) y control de tráfico centralizado (C.T.C.)",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Perfil horizontal y recto",
+    "otro": "Paso a nivel tipo A catalogado como de clase A, titularidad del Ayuntamiento de Cetina. Camino rural de Heredades. Momento de circulación: 229. Sistemas de comunicación: teléfono señal."
+   },
+   "pagina": 4,
+   "cita": "Trayecto de vía doble con bloqueo automático (B.A.D.) y control de tráfico centralizado (C.T.C).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señalización a la vía reglamentaria (cartelones de silbar). Señalización al camino por el lado izquierdo (sentido ascendente), lugar de acceso del vehículo: falta toda la señalización reglamentaria; se conserva antigua marca cuya vigencia ha prescrito.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Sin daños en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Vía 2 interceptada entre Ariza y Alhama de Aragón de 23:06 a 04:24. Un tren de viajeros de larga distancia con 31 minutos de retraso. Seis trenes de mercancías con 238 minutos de retraso total."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Sin daños en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Vía 2 interceptada entre Ariza y Alhama de Aragón de 23:06 a 04:24. Un tren de viajeros de larga distancia con 31 minutos de retraso. Seis trenes de mercancías con 238 minutos de retraso total."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-090508-300908-CIAF Pág. 1 de 10 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0013/200",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Sin daños en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Vía 2 interceptada entre Ariza y Alhama de Aragón de 23:06 a 04:24. Un tren de viajeros de larga distancia con 31 minutos de retraso. Seis trenes de mercancías con 238 minutos de retraso total."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 289102 (UIC: 957102891026)",
+    "averia": "Ninguna. Funcionamiento correcto.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señalización a la vía reglamentaria (cartelones de silbar). Señalización al camino por el lado izquierdo (sentido ascendente), lugar de acceso del vehículo: falta toda la señalización reglamentaria; se conserva antigua marca cuya vigencia ha prescrito.",
+    "tipo_via": "Vía doble con bloqueo automático (B.A.D.) y control de tráfico centralizado (C.T.C.)",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Perfil horizontal y recto",
+    "otro": "Paso a nivel tipo A catalogado como de clase A, titularidad del Ayuntamiento de Cetina. Camino rural de Heredades. Momento de circulación: 229. Sistemas de comunicación: teléfono señal."
+   },
+   "pagina": 4,
+   "cita": "Trayecto de vía doble con bloqueo automático (B.A.D.) y control de tráfico centralizado (C.T.C).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche con lluvia intensa, condiciones que redujeron la visibilidad y la percepción auditiva",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Zaragoza",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 2,
+   "cita": "Zaragoza El tren de mercancías VK194 (asimilada su marcha al tren de mercancías 58160); compuesto por la locomotora aislada 289102 de Renfe Operadora- Mercancías, con masa remolcada de 168 Tm; circulando por el punto",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche con lluvia intensa, condiciones que redujeron la visibilidad y la percepción auditiva",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señalización a la vía reglamentaria (cartelones de silbar). Señalización al camino por el lado izquierdo (sentido ascendente), lugar de acceso del vehículo: falta toda la señalización reglamentaria; se conserva antigua marca cuya vigencia ha prescrito.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señalización a la vía reglamentaria (cartelones de silbar). Señalización al camino por el lado izquierdo (sentido ascendente), lugar de acceso del vehículo: falta toda la señalización reglamentaria; se conserva antigua marca cuya vigencia ha prescrito.",
+    "tipo_via": "Vía doble con bloqueo automático (B.A.D.) y control de tráfico centralizado (C.T.C.)",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Perfil horizontal y recto",
+    "otro": "Paso a nivel tipo A catalogado como de clase A, titularidad del Ayuntamiento de Cetina. Camino rural de Heredades. Momento de circulación: 229. Sistemas de comunicación: teléfono señal."
+   },
+   "pagina": 4,
+   "cita": "Trayecto de vía doble con bloqueo automático (B.A.D.) y control de tráfico centralizado (C.T.C).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 289102 (UIC: 957102891026)",
+    "averia": "Ninguna. Funcionamiento correcto.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Vehículo invadió paso a nivel intempestivamente",
+    "Ocupantes no percibieron presencia tren",
+    "Faltaba señalización carretera reglamentaria",
+    "Lluvia intensa redujo percepción auditiva"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de mercancías VK194, compuesto por la locomotora aislada 289102 de Renfe Operadora-Mercancías con masa remolcada de 168 Tm, circulaba por el P.K. 214,220 de la línea 200 Madrid-Barcelona en el trayecto Ariza-Alhama de Aragón. A las 22:40 horas, un vehículo Nissan Pick-Up (matrícula 8205 BRL) con dos ocupantes invadió de forma intempestiva la vía de izquierda a derecha en el sentido de la marcha del tren, cruzando el paso a nivel tipo A. Tras la colisión frontal con el lado derecho del vehículo, este fue arrastrado por la caja de la vía aproximadamente 724 metros hasta quedar detenido en el P.K. 214,944. El maquinista observó el cartel de silbar cerca del apeadero de Cetina y hizo uso del silbato; al aproximarse al paso a nivel volvió a silbar y, al percatarse de la irrupción del vehículo, accionó el freno de emergencia sin poder evitar el arrollamiento. En el momento del accidente era de noche y llovía intensamente, lo que redujo la visibilidad y la percepción auditiva tanto del maquinista como de los ocupantes del vehículo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en el paso a nivel tipo A, situado en plena vía, en el P.K. 214,220 de la \nlínea 200 Madrid-Barcelona. \nSegún el registrador de seguridad de la locomotora, el tren circulaba a una velocidad adecuada al \ntramo y al tipo de tren. \nSegún lo declarado por el maquinista, hizo uso del silbato antes de aproximarse al paso a nivel y al \npercatarse de la irrupción del vehículo. Posteriormente actuó sobre el freno de emergencia, por lo que \nla actuación del maquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasas de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario. \nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \nQue la señalización del paso a nivel a la vía es la reglamentaria no siendo así para las marcas a la \ncarretera. \nA efectos de la causalidad del accidente se ha podido comprobar que: \n Aunque el tramo presenta un perfil horizontal y recto, que en el momento del accidente fuera de \nnoche y lloviera intensamente propició que la visibilidad y la percepción auditiva, tanto del maquinista \ncomo de los ocupantes del vehículo, fuera muy reducida. \nSegún lo declarado por el maquinista, la locomotora llevaba las luces y el foco de gran intensidad \nencendidos, de acuerdo al Reglamento General de Circulación. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \n• \nEl accidente tuvo su origen en el cruce del vehículo por el paso a nivel en el momento que el tren \nse aproximaba, sin que sus ocupantes se percataran de su presencia.",
+   "pagina": 7,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Cruce del vehículo por el paso a nivel en el momento en que el tren se aproximaba, sin que sus ocupantes se percataran de su presencia.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Noche y lluvia intensa que redujeron la visibilidad y la percepción auditiva tanto del maquinista como de los ocupantes del vehículo",
+    "Falta total de señalización de carretera reglamentaria en el lado izquierdo del paso a nivel (por donde accedió el vehículo); solo se conservaba una antigua marca con vigencia prescrita"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección. \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0013/2008 ocurrido el 09.05.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-090508-300908-CIAF \n \n \nPág. 8 de 10",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección. \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0013/2008 ocurrido el 09.05.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-090508-300908-CIAF \n \n \nPág. 8 de 10",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección. \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0013/2008 ocurrido el 09.05.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-090508-300908-CIAF \n \n \nPág. 8 de 10",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Trasladar al ayuntamiento del municipio la necesidad de dotar al paso a nivel de la señalización de carretera pertinente, según lo establecido en la Disposición adicional sexta de la Orden de 2 de agosto de 2001 por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel. No procede recomendar la supresión del paso a nivel pues su momento de circulación se ajusta a la normativa.",
+     "destinatario": "Ayuntamiento de Cetina (Zaragoza)"
+    }
+   ],
+   "pagina": 2,
+   "cita": "no procede recomendar su supresión, si bien se recomienda trasladar al ayuntamiento del municipio la",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "22:40",
+     "evento": "Arrollamiento del vehículo por el tren VK194 en el paso a nivel tipo A, P.K. 214,220"
+    },
+    {
+     "hora": "23:06",
+     "evento": "Interceptación de la vía 2 entre Ariza y Alhama de Aragón"
+    },
+    {
+     "hora": "00:17",
+     "evento": "El Coordinador de accidentes de Adif comunica el suceso a la CIAF (10 de mayo)"
+    },
+    {
+     "hora": "00:22",
+     "evento": "Efectivos de Guardia Civil y Bomberos se personan en el lugar del accidente"
+    },
+    {
+     "hora": "00:27",
+     "evento": "El Juez autoriza el comienzo de las labores de liberación de los restos"
+    },
+    {
+     "hora": "01:56",
+     "evento": "El Puesto de Mando ordena la salida del tren VK194 hacia la estación de Ariza"
+    },
+    {
+     "hora": "02:33",
+     "evento": "Queda suspendida la circulación del tren VK194 en la estación de Ariza"
+    },
+    {
+     "hora": "03:20",
+     "evento": "Levantamiento de los cadáveres"
+    },
+    {
+     "hora": "04:10",
+     "evento": "Retirada del vehículo siniestrado de la vía; reanudación de la circulación normal"
+    },
+    {
+     "hora": "04:24",
+     "evento": "Fin de la interceptación de la vía 2"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0013/2008",
+ "expediente": "0013/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de vehículo por tren en paso a nivel tipo A, línea Madrid-Barcelona, P.K. 214,220 (Zaragoza)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-090508-300908-CIAF.md"
+}

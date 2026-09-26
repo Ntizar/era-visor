@@ -1,0 +1,884 @@
+{
+ "id": "IF-280908-181208-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/38F109FA-59CB-480D-897F-8CF2E1975827/46974/IF280908181208CIAF.pdf",
+ "pdf": "pdfs/ES/IF-280908-181208-CIAF.pdf",
+ "md5_pdf": "72b5a46416f6bc36fe985142b2b50750",
+ "paginas_md": 9,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 7,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0045/2008",
+   "pagina": 1,
+   "cita": "nº 0045/2008 ocurrido el 28.09.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 28 de septiembre de 2008 a las 13:28 horas, el tren de cercanías 23219 de Renfe Operadora arrolló a un varón de 38 años en el P.K. 140,750 de la línea 400 Alcázar de San Juan-Cádiz, entre los apeaderos de San Fernando de Cádiz y Puerto Real. La víctima se encontraba en la caja de la vía, distraída, de espaldas al tren y lanzando piedras. El maquinista hizo uso del silbato y del freno de emergencia, pero no pudo evitar el impacto mortal. Adif consideró el suceso como un presunto suicidio. No se produjeron daños materiales ni se establecieron recomendaciones.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-09-28",
+    "hora": "13:28",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "140,750",
+     "linea": "400 Alcázar de San Juan – Cádiz",
+     "provincia": "Cádiz",
+     "descripcion_lugar": "Entre los apeaderos de San Fernando de Cádiz y Puerto Real. Trayecto Bahía Sur – Las Aletas. Tramo de alineación recta, vía única electrificada."
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 28 de septiembre de 2008, a las 13:28 horas, el tren de viajeros de cercanías 23219, de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños ni en el material rodante, ni en la infraestructura, ni al medio ambiente",
+    "afectacion_servicio": "1 tren de larga distancia con 6 min de retraso; 2 trenes de media distancia con 12 min de retraso total; 4 trenes de cercanías (incluido el implicado) con 73 min de retraso total. Circulación interrumpida desde las 13:28 hasta las 16:10 horas"
+   },
+   "pagina": 4,
+   "cita": "Daños materiales No se produjeron daños ni en el material rodante, ni en la infraestructura ni al medio ambiente. 2.3.3 Minutos perdidos. Interceptación de vía Resultan afectados: Un tren de larga distancia, con un",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Ocupación de la víctima en la caja de la vía, lugar no autorizado, al paso del tren de viajeros 23219",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima se encontraba distraída, de espaldas al tren, lanzando piedras, sin ser consciente de la presencia del tren",
+    "Adif consideró el accidente como un presunto suicidio"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Dadas las características del suceso, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 7,
+   "cita": "Dadas las características del suceso, no se establecen recomendaciones.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Dadas las características del suceso, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 7,
+   "cita": "Dadas las características del suceso, no se establecen recomendaciones.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento",
+   "pagina": 2,
+   "cita": "evitar el arrollamiento de la víctima, quedando su cadáver fuera de la caja de la vía.",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "empresa ferroviaria Renfe Operadora, arrolla a una persona en el P.K. 140,750 de la línea 400 Alcázar",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-09-28",
+   "pagina": 2,
+   "cita": "El día 28 de septiembre de 2008, a las 13:28 horas, el tren de viajeros de cercanías 23219, de la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "13:28",
+   "pagina": 2,
+   "cita": "El día 28 de septiembre de 2008, a las 13:28 horas, el tren de viajeros de cercanías 23219, de la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "140,750",
+    "linea": "400 Alcázar de San Juan – Cádiz",
+    "provincia": "Cádiz",
+    "descripcion_lugar": "Entre los apeaderos de San Fernando de Cádiz y Puerto Real. Trayecto Bahía Sur – Las Aletas. Tramo de alineación recta, vía única electrificada."
+   },
+   "pagina": 2,
+   "cita": "400 Alcázar de San Juan – Cádiz",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "400 Alcázar de San Juan-Cádiz",
+   "pagina": 2,
+   "cita": "empresa ferroviaria Renfe Operadora, arrolla a una persona en el P.K. 140,750 de la línea 400 Alcázar",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UT 463215 (3 coches, 154 Tm masa remolcada); Número UIC: 967194632155",
+    "averia": "Ninguna; funcionó correctamente",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 28 de septiembre de 2008, a las 13:28 horas, el tren de viajeros de cercanías 23219 de Renfe Operadora, compuesto por la UT 463215 (3 vehículos, 154 Tm de masa remolcada), procedente del apeadero de San Fernando de Cádiz con destino a Puerto Real, arrolló a un hombre que se encontraba en la caja de la vía, distraído, de espaldas al tren y lanzando piedras. El maquinista hizo uso del silbato repetidas veces y accionó el freno de emergencia, reduciendo la velocidad, pero no pudo evitar el arrollamiento. La víctima, un varón de 38 años, falleció en el acto y su cadáver quedó fuera de la caja de la vía.\n\nEl Coordinador de accidentes ferroviarios de Adif comunicó el suceso a la CIAF el mismo día a las 14:28 horas. Al día siguiente, 29 de septiembre, Adif comunicó que tras las primeras investigaciones el accidente pasaba a ser considerado como un presunto suicidio. A las 13:48 horas se personaron efectivos de la Policía Nacional y el Puesto de Mando ordenó que el tren prosiguiera su marcha, quedando el Interventor en Ruta custodiando los restos. Se prescribió a las demás circulaciones parada en el P.K. 140,800 y marcha a la vista. A las 15:16 horas llegaron los servicios funerarios y a las 16:00 horas se procedió al levantamiento del cadáver. A las 16:10 horas se reanudó la circulación en condiciones normales.\n\nEl análisis de la memoria estática de la UT 463215 determinó que en el momento de accionar el freno de emergencia el tren circulaba a 111 km/h, por debajo de la velocidad máxima permitida de 140 km/h. La prueba de alcoholemia del maquinista arrojó resultado negativo (0,00 mg/1000 ml). Tanto el material rodante como las instalaciones técnicas funcionaron correctamente. El técnico responsable concluyó que el accidente tuvo su origen en la ocupación de la víctima en la caja de la vía, lugar no autorizado, al paso del tren 23219.",
+   "pagina": 2,
+   "cita": "1. RESUMEN El día 28 de septiembre de 2008, a las 13:28 horas, el tren de viajeros de cercanías 23219, de la empresa ferroviaria Renfe Operadora, arrolla a una persona en el P.K. 140,750 de la línea 400 Alcázar de San",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "140,750",
+    "linea": "400 Alcázar de San Juan – Cádiz",
+    "provincia": "Cádiz",
+    "descripcion_lugar": "Entre los apeaderos de San Fernando de Cádiz y Puerto Real. Trayecto Bahía Sur – Las Aletas. Tramo de alineación recta, vía única electrificada."
+   },
+   "pagina": 2,
+   "cita": "400 Alcázar de San Juan – Cádiz",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños ni en el material rodante, ni en la infraestructura, ni al medio ambiente",
+    "afectacion_servicio": "1 tren de larga distancia con 6 min de retraso; 2 trenes de media distancia con 12 min de retraso total; 4 trenes de cercanías (incluido el implicado) con 73 min de retraso total. Circulación interrumpida desde las 13:28 hasta las 16:10 horas"
+   },
+   "pagina": 4,
+   "cita": "Daños materiales No se produjeron daños ni en el material rodante, ni en la infraestructura ni al medio ambiente. 2.3.3 Minutos perdidos. Interceptación de vía Resultan afectados: Un tren de larga distancia, con un",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 23219",
+     "implicacion": "Hizo uso del silbato repetidas veces y accionó el freno de emergencia; actuación correcta; prueba de alcoholemia negativa (0,00 mg/1000 ml); jornada de conducción 4h07min; último reciclaje formativo 30/10/2007; último reconocimiento médico y psicotécnico 27/09/2005"
+    },
+    {
+     "rol": "Interventor en Ruta",
+     "implicacion": "Viajaba en el tren 23219; se quedó custodiando los restos de la víctima tras el suceso"
+    },
+    {
+     "rol": "Viajero del tren",
+     "implicacion": "Testigo; firmó el Acta de uso del silbato, dejando constancia de que el maquinista hizo uso del silbato"
+    }
+   ],
+   "pagina": 4,
+   "cita": "tren 23219 prosiga su marcha, siendo el Interventor en Ruta que viajaba en el tren quien se queda",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "23219",
+     "tipo": "cercanías (viajeros)",
+     "operador": "Renfe Operadora",
+     "danos": "No se produjeron daños materiales"
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 28 de septiembre de 2008, a las 13:28 horas, el tren de viajeros de cercanías 23219, de la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UT 463215 (3 coches, 154 Tm masa remolcada); Número UIC: 967194632155",
+    "averia": "Ninguna; funcionó correctamente",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático con Control de Tráfico Centralizado (BAU con CTC)",
+    "tipo_via": "Vía única, alineación recta",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "Radiotelefonía modalidad A; Consigna Serie B nº 9 de la Gerencia Operativa de Sevilla"
+   },
+   "pagina": 4,
+   "cita": "El accidente ocurre en un tramo de alineación recta, de vía única electrificada con Bloqueo",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo Automático con Control de Tráfico Centralizado (BAU con CTC)",
+   "pagina": 4,
+   "cita": "El accidente ocurre en un tramo de alineación recta, de vía única electrificada con Bloqueo",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños ni en el material rodante, ni en la infraestructura, ni al medio ambiente",
+    "afectacion_servicio": "1 tren de larga distancia con 6 min de retraso; 2 trenes de media distancia con 12 min de retraso total; 4 trenes de cercanías (incluido el implicado) con 73 min de retraso total. Circulación interrumpida desde las 13:28 hasta las 16:10 horas"
+   },
+   "pagina": 4,
+   "cita": "Daños materiales No se produjeron daños ni en el material rodante, ni en la infraestructura ni al medio ambiente. 2.3.3 Minutos perdidos. Interceptación de vía Resultan afectados: Un tren de larga distancia, con un",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños ni en el material rodante, ni en la infraestructura, ni al medio ambiente",
+    "afectacion_servicio": "1 tren de larga distancia con 6 min de retraso; 2 trenes de media distancia con 12 min de retraso total; 4 trenes de cercanías (incluido el implicado) con 73 min de retraso total. Circulación interrumpida desde las 13:28 hasta las 16:10 horas"
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-280908-181208-CIAF Pág. 1 de 9 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0045/2008",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños ni en el material rodante, ni en la infraestructura, ni al medio ambiente",
+    "afectacion_servicio": "1 tren de larga distancia con 6 min de retraso; 2 trenes de media distancia con 12 min de retraso total; 4 trenes de cercanías (incluido el implicado) con 73 min de retraso total. Circulación interrumpida desde las 13:28 hasta las 16:10 horas"
+   },
+   "pagina": 4,
+   "cita": "Daños materiales No se produjeron daños ni en el material rodante, ni en la infraestructura ni al medio ambiente. 2.3.3 Minutos perdidos. Interceptación de vía Resultan afectados: Un tren de larga distancia, con un",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 463215 (3 coches, 154 Tm masa remolcada); Número UIC: 967194632155",
+    "averia": "Ninguna; funcionó correctamente",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático con Control de Tráfico Centralizado (BAU con CTC)",
+    "tipo_via": "Vía única, alineación recta",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "Radiotelefonía modalidad A; Consigna Serie B nº 9 de la Gerencia Operativa de Sevilla"
+   },
+   "pagina": 4,
+   "cita": "El accidente ocurre en un tramo de alineación recta, de vía única electrificada con Bloqueo",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Cádiz",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 2,
+   "cita": "de San Juan- Cádiz. Como consecuencia del impacto el hombre fallece en el acto.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo Automático con Control de Tráfico Centralizado (BAU con CTC)",
+   "pagina": 4,
+   "cita": "El accidente ocurre en un tramo de alineación recta, de vía única electrificada con Bloqueo",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático con Control de Tráfico Centralizado (BAU con CTC)",
+    "tipo_via": "Vía única, alineación recta",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "Radiotelefonía modalidad A; Consigna Serie B nº 9 de la Gerencia Operativa de Sevilla"
+   },
+   "pagina": 4,
+   "cita": "El accidente ocurre en un tramo de alineación recta, de vía única electrificada con Bloqueo",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 463215 (3 coches, 154 Tm masa remolcada); Número UIC: 967194632155",
+    "averia": "Ninguna; funcionó correctamente",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "La víctima se encontraba distraída, de espaldas al tren, lanzando piedras, sin ser consciente de la presencia del tren",
+    "Adif consideró el accidente como un presunto suicidio"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 28 de septiembre de 2008, a las 13:28 horas, el tren de viajeros de cercanías 23219 de Renfe Operadora, compuesto por la UT 463215 (3 vehículos, 154 Tm de masa remolcada), procedente del apeadero de San Fernando de Cádiz con destino a Puerto Real, arrolló a un hombre que se encontraba en la caja de la vía, distraído, de espaldas al tren y lanzando piedras. El maquinista hizo uso del silbato repetidas veces y accionó el freno de emergencia, reduciendo la velocidad, pero no pudo evitar el arrollamiento. La víctima, un varón de 38 años, falleció en el acto y su cadáver quedó fuera de la caja de la vía.\n\nEl Coordinador de accidentes ferroviarios de Adif comunicó el suceso a la CIAF el mismo día a las 14:28 horas. Al día siguiente, 29 de septiembre, Adif comunicó que tras las primeras investigaciones el accidente pasaba a ser considerado como un presunto suicidio. A las 13:48 horas se personaron efectivos de la Policía Nacional y el Puesto de Mando ordenó que el tren prosiguiera su marcha, quedando el Interventor en Ruta custodiando los restos. Se prescribió a las demás circulaciones parada en el P.K. 140,800 y marcha a la vista. A las 15:16 horas llegaron los servicios funerarios y a las 16:00 horas se procedió al levantamiento del cadáver. A las 16:10 horas se reanudó la circulación en condiciones normales.\n\nEl análisis de la memoria estática de la UT 463215 determinó que en el momento de accionar el freno de emergencia el tren circulaba a 111 km/h, por debajo de la velocidad máxima permitida de 140 km/h. La prueba de alcoholemia del maquinista arrojó resultado negativo (0,00 mg/1000 ml). Tanto el material rodante como las instalaciones técnicas funcionaron correctamente. El técnico responsable concluyó que el accidente tuvo su origen en la ocupación de la víctima en la caja de la vía, lugar no autorizado, al paso del tren 23219.",
+   "pagina": 2,
+   "cita": "1. RESUMEN El día 28 de septiembre de 2008, a las 13:28 horas, el tren de viajeros de cercanías 23219, de la empresa ferroviaria Renfe Operadora, arrolla a una persona en el P.K. 140,750 de la línea 400 Alcázar de San",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en el P.K. 140,750, entre los apeaderos de San Fernando de Cádiz y Puerto \nReal, en la línea 400 Alcázar de San Juan – Cádiz. \nSegún la memoria estática de la U/T 463215, el tren circulaba a una velocidad inferior a la máxima \npermitida en el tramo. \nSegún lo declarado por el maquinista y lo reflejado en el Acta de uso del silbato, al percatarse de la \npresencia de la víctima, hizo uso del silbato repetidas veces y actuó sobre el freno de emergencia, por \nlo que la actuación del maquinista fue correcta.  \n\n## Página 7\n\n \n \n \nInvestigación del accidente \nnº 0045/2008 ocurrido el 28.09.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-280908-181208-CIAF \n \n \nPág. 7 de 9\nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nTanto el funcionamiento de la infraestructura como la actuación del maquinista se ajustan a la \nnormativa y no influyeron en el desarrollo de los hechos. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como el informe particular de Renfe Operadora, el técnico responsable de la investigación concluye \nque: \n- \nEl accidente tuvo su origen en la ocupación de la víctima en la caja de la vía, lugar no \nautorizado para ello, al paso del tren de viajeros 23219.",
+   "pagina": 6,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Ocupación de la víctima en la caja de la vía, lugar no autorizado, al paso del tren de viajeros 23219",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima se encontraba distraída, de espaldas al tren, lanzando piedras, sin ser consciente de la presencia del tren",
+    "Adif consideró el accidente como un presunto suicidio"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Dadas las características del suceso, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 7,
+   "cita": "Dadas las características del suceso, no se establecen recomendaciones.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "13:28",
+     "evento": "Arrollamiento de la víctima por el tren 23219 en el P.K. 140,750"
+    },
+    {
+     "hora": "13:48",
+     "evento": "Se personan efectivos de la Policía Nacional; el Puesto de Mando ordena que el tren 23219 prosiga su marcha; se prescribe parada en P.K. 140,800 y marcha a la vista al resto de circulaciones"
+    },
+    {
+     "hora": "14:28",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF por correo electrónico"
+    },
+    {
+     "hora": "15:16",
+     "evento": "Llegan los servicios funerarios"
+    },
+    {
+     "hora": "16:00",
+     "evento": "Se procede al levantamiento del cadáver"
+    },
+    {
+     "hora": "16:10",
+     "evento": "Se reanuda la circulación en condiciones normales"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0045/2008",
+ "expediente": "0045/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de una persona por tren 23219 en P.K. 140,750 de la línea 400 Alcázar de San Juan-Cádiz",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-280908-181208-CIAF.md"
+}

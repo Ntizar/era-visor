@@ -1,0 +1,944 @@
+{
+ "id": "IF-240809-260110-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/5F8D9B6A-8CB9-46EF-8841-C61561316CAE/70239/0045_09_CIAF.pdf",
+ "pdf": "pdfs/ES/IF-240809-260110-CIAF.pdf",
+ "md5_pdf": "179b915bff95e929989b98d646e08bf4",
+ "paginas_md": 11,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 32,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "D.G. Infraestructuras Ferroviarias",
+     "Número": "45/09-1",
+     "Recomendación": "Insistir en la implementación de la recomendación general emitida en el documento: CIAF, Estudio sobre el arrollamiento de personas en plena vía, estación o apeadero y paso a nivel. Años 2005-2008, noviembre 2009; contemplando la situación de las personas de movilidad reducida. Esta recomendación dice así: “A la vista de la siniestralidad existente en estaciones y apeaderos y de la falta de una normativa general que establezca los dispositivos de seguridad pertinentes en las estaciones, y dada la distinta tipología que éstas presentan, sería conveniente que por la autoridad de seguridad ferroviaria se estudiara la posibilidad de realizar un inventario de las estaciones y apeaderos existentes en la RFIG, en el que se incluyan diferentes parámetros con el fin de realizar un análisis de riesgos que dé idea de la peligrosidad de las mismas. En base a los resultados se elaboraría un plan de medidas a adoptar, que jerarquizase las estaciones y apeaderos donde se debe actuar y la diferente actuación a llevar a cabo en función de su nivel de riesgo.”"
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 11,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "D.G. Infraestructuras Ferroviarias",
+     "Número": "45/09-1",
+     "Recomendación": "Insistir en la implementación de la recomendación general emitida en el documento: CIAF, Estudio sobre el arrollamiento de personas en plena vía, estación o apeadero y paso a nivel. Años 2005-2008, noviembre 2009; contemplando la situación de las personas de movilidad reducida. Esta recomendación dice así: “A la vista de la siniestralidad existente en estaciones y apeaderos y de la falta de una normativa general que establezca los dispositivos de seguridad pertinentes en las estaciones, y dada la distinta tipología que éstas presentan, sería conveniente que por la autoridad de seguridad ferroviaria se estudiara la posibilidad de realizar un inventario de las estaciones y apeaderos existentes en la RFIG, en el que se incluyan diferentes parámetros con el fin de realizar un análisis de riesgos que dé idea de la peligrosidad de las mismas. En base a los resultados se elaboraría un plan de medidas a adoptar, que jerarquizase las estaciones y apeaderos donde se debe actuar y la diferente actuación a llevar a cabo en función de su nivel de riesgo.”"
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0045/2009",
+   "pagina": 1,
+   "cita": "nº 0045/2009 ocurrido el 24.08.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 24 de agosto de 2009, a las 16:57, el tren de cercanías 25163 de Renfe Operadora arrolló a una mujer de 72 años que cruzaba en silla de ruedas por un paso entarimado entre andenes en la estación de Sant Feliú de Llobregat (Barcelona). La víctima invadió indebidamente el gálibo de la vía al cruzar cuando se aproximaba el tren. El deficiente estado de conservación del pavimento del paso pudo contribuir al accidente. Como medida correctiva se sustituyó el pavimento por goma vulcanizada (sistema strail). La investigación recomendó a la D.G. de Infraestructuras Ferroviarias un análisis de riesgos en estaciones y apeaderos para personas de movilidad reducida.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-08-24",
+    "hora": "16:57",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Sant Feliú de Llobregat",
+     "pk": "89+150",
+     "linea": "240 Sant Vicent de Calders – L'Hospitalet de Llobregat",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Paso entarimado entre andenes en la punta de andenes del lado Barcelona, en deficiente estado de conservación. Tramo Molins de Rei – L'Hospitalet."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 24 de agosto de 2009, a las 16:57 horas, el tren de viajeros de cercanías 25163, de Renfe",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Ninguno significativo en el tren; equipos de seguridad funcionaron correctamente.",
+    "afectacion_servicio": "Interrupción de la circulación por vía 1 de 16:57 a 18:50 (2 h). Circulaciones por vía 2 banalizada entre Sant Joan Despí y Molins de Rei con marcha a la vista. 19 trenes de cercanías suprimidos. 8 trenes de cercanías con retraso total de 375 minutos. Viajeros del tren 25163 apeados en Sant Feliú."
+   },
+   "pagina": 6,
+   "cita": "2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión indebida del gálibo de la vía por la víctima que cruzaba el paso entarimado entre andenes cuando se aproximaba un tren.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión indebida del gálibo de la vía por la víctima",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Deficiente estado de conservación del pavimento del paso entarimado (pudo contribuir, sin poder afirmarse como causa).",
+    "Falta de adaptación de la línea para personas con movilidad reducida (la hija fue informada el 21/08/2009 de que los trenes carecían de plataforma para minusválidos).",
+    "Inexistencia de una normativa general que establezca dispositivos de seguridad pertinentes en las estaciones."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ausencia de un inventario y análisis de riesgos de estaciones y apeaderos de la RFIG que jerarquice las actuaciones necesarias.",
+    "Deficiencias en la accesibilidad para personas con movilidad reducida en estaciones y material rodante."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Insistir en la implementación de la recomendación general emitida en el documento: CIAF, Estudio sobre el arrollamiento de personas en plena vía, estación o apeadero y paso a nivel. Años 2005-2008, noviembre 2009; contemplando la situación de las personas de movilidad reducida. Esta recomendación dice así: “A la vista de la siniestralidad existente en estaciones y apeaderos y de la falta de una normativa general que establezca los dispositivos de seguridad pertinentes en las estaciones, y dada la distinta tipología que éstas presentan, sería conveniente que por la autoridad de seguridad ferroviaria se estudiara la posibilidad de realizar un inventario de las estaciones y apeaderos existentes en la RFIG, en el que se incluyan diferentes parámetros con el fin de realizar un análisis de riesgos que dé idea de la peligrosidad de las mismas. En base a los resultados se elaboraría un plan de medidas a adoptar, que jerarquizase las estaciones y apeaderos donde se debe actuar y la diferente actuación a llevar a cabo en función de su nivel de riesgo.”",
+    "Insistir en la implementación de la recomendación general emitida en el documento: CIAF, Estudio sobre el arrollamiento de personas en plena vía, estación o apeadero y paso a nivel. Años 2005-2008, noviembre 2009; contemplando la situación de las personas de movilidad reducida. Esta recomendación dice así: “A la vista de la siniestralidad existente en estaciones y apeaderos y de la falta de una normativa general que establezca los dispositivos de seguridad pertinentes en las estaciones, y dada la distinta tipología que éstas presentan, sería conveniente que por la autoridad de seguridad ferroviaria se estudiara la posibilidad de realizar un inventario de las estaciones y apeaderos existentes en la RFIG, en el que se incluyan diferentes parámetros con el fin de realizar un análisis de riesgos que dé idea de la peligrosidad de las mismas. En base a los resultados se elaboraría un plan de medidas a adoptar, que jerarquizase las estaciones y apeaderos donde se debe actuar y la diferente actuación a llevar a cabo en función de su nivel de riesgo.”"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "D.G. Infraestructuras Ferroviarias",
+    "D.G. Infraestructuras Ferroviarias"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento",
+   "pagina": 3,
+   "cita": "en el documento: CIAF, Estudio sobre el arrollamiento de",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 4,
+   "cita": "El día 24 de agosto de 2009, el tren de viajeros de cercanías 25163 de Renfe Operadora,",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-08-24",
+   "pagina": 3,
+   "cita": "El día 24 de agosto de 2009, a las 16:57 horas, el tren de viajeros de cercanías 25163, de Renfe",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "16:57",
+   "pagina": 3,
+   "cita": "El día 24 de agosto de 2009, a las 16:57 horas, el tren de viajeros de cercanías 25163, de Renfe",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Sant Feliú de Llobregat",
+    "pk": "89+150",
+    "linea": "240 Sant Vicent de Calders – L'Hospitalet de Llobregat",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Paso entarimado entre andenes en la punta de andenes del lado Barcelona, en deficiente estado de conservación. Tramo Molins de Rei – L'Hospitalet."
+   },
+   "pagina": 3,
+   "cita": "la vista de la siniestralidad existente en estaciones y apeaderos y",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "240 Sant Vicent de Calders – L’Hospitalet de Llobregat",
+   "pagina": 4,
+   "cita": "240 Sant Vicent de Calders – L’Hospitalet de Llobregat",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "447004 (cabeza) y 447136 (cola), tren tipo 120 A, matrícula 8880445",
+    "averia": "Ninguna; equipos de seguridad (freno y silbato) funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 24 de agosto de 2009, el tren de viajeros de cercanías 25163 de Renfe Operadora, procedente de Tarrasa con destino Martorell, pasaba por la estación de Sant Feliú de Llobregat. Una mujer de 72 años, en silla de ruedas y acompañada por su hija, cruzaba las vías por el paso entarimado existente en la punta de andenes del lado Barcelona, desde el andén principal hacia el andén de la vía 1. La hija logró saltar al andén, pero la madre fue arrollada por el tren, que circulaba a 32 km/h en el punto del impacto tras haber aplicado el freno de emergencia. El maquinista, al observar la silla de ruedas arrastrada por una mujer, accionó el silbato y el freno de urgencia, rebasando el punto de arrollamiento unos 25 metros. La víctima falleció.",
+   "pagina": 4,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Sant Feliú de Llobregat",
+    "pk": "89+150",
+    "linea": "240 Sant Vicent de Calders – L'Hospitalet de Llobregat",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Paso entarimado entre andenes en la punta de andenes del lado Barcelona, en deficiente estado de conservación. Tramo Molins de Rei – L'Hospitalet."
+   },
+   "pagina": 3,
+   "cita": "la vista de la siniestralidad existente en estaciones y apeaderos y",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Ninguno significativo en el tren; equipos de seguridad funcionaron correctamente.",
+    "afectacion_servicio": "Interrupción de la circulación por vía 1 de 16:57 a 18:50 (2 h). Circulaciones por vía 2 banalizada entre Sant Joan Despí y Molins de Rei con marcha a la vista. 19 trenes de cercanías suprimidos. 8 trenes de cercanías con retraso total de 375 minutos. Viajeros del tren 25163 apeados en Sant Feliú."
+   },
+   "pagina": 6,
+   "cita": "2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Con posterioridad al accidente se cambió el pavimento del paso entre andenes por otro del tipo de \ngoma vulcanizada (sistema strail). \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0045/2009 ocurrido el 24.08.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-240809-260110-CIAF \n \n \nPág. 11 de 11",
+   "pagina": 10,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 25163",
+     "implicacion": "Título de conducción categoría B, habilitado conforme a Orden FOM/2520/2006. Último reciclaje formativo 08/03/2009, último reconocimiento médico y psicotécnico 30/01/2007. Alcohol test negativo. Accionó silbato y freno de urgencia sin poder evitar el arrollamiento."
+    },
+    {
+     "rol": "Auxiliar de taquilla (testigo)",
+     "implicacion": "Informó el 21/08/2009 a la hija de la víctima de que los trenes hacia Villafranca carecían de plataforma para minusválidos."
+    }
+   ],
+   "pagina": 7,
+   "cita": "De la ficha de toma de declaración del maquinista del tren 25163, realizada el mismo día del",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "25163",
+     "tipo": "cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Ninguno significativo; equipos de seguridad (freno y silbato) funcionaron correctamente."
+    },
+    {
+     "numero": "25945",
+     "tipo": "cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Retrocede a Cornellá; viajeros trasbordados en Sant Joan Despí al tren 25049."
+    },
+    {
+     "numero": "25049",
+     "tipo": "cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Acoge viajeros trasbordados del tren 25945."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 24 de agosto de 2009, a las 16:57 horas, el tren de viajeros de cercanías 25163, de Renfe",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "447004 (cabeza) y 447136 (cola), tren tipo 120 A, matrícula 8880445",
+    "averia": "Ninguna; equipos de seguridad (freno y silbato) funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 3,
+   "cita": "Infraestructuras Ferroviarias 45/09-1 Insistir en la implementación de la recomendación general emitida en el documento: CIAF, Estudio sobre el arrollamiento de personas en plena vía, estación o apeadero y paso a ni",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales de entrada E1 y salida S1-1 en indicación de vía libre; control de tráfico centralizado (BAD con CTC).",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Sin limitaciones temporales de velocidad en el momento del accidente. Paso entarimado entre andenes en deficiente estado de conservación.",
+    "otro": "Estación con dos vías generales, paso inferior entre andenes (acceso por escaleras) y paso entarimado en punta de andenes lado Barcelona. Alineación en curva a izquierda a la entrada por lado Barcelona. Media semanal de 1.243 circulaciones (alta): 2 larga distancia, 2 media distancia, 1.235 cercanías, 4 servicio."
+   },
+   "pagina": 6,
+   "cita": "Vía doble electrificada con control de tráfico centralizado (BAD con CTC).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales de entrada E1 y salida S1-1 en indicación de vía libre; control de tráfico centralizado (BAD con CTC).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía A.",
+   "pagina": 6,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Ninguno significativo en el tren; equipos de seguridad funcionaron correctamente.",
+    "afectacion_servicio": "Interrupción de la circulación por vía 1 de 16:57 a 18:50 (2 h). Circulaciones por vía 2 banalizada entre Sant Joan Despí y Molins de Rei con marcha a la vista. 19 trenes de cercanías suprimidos. 8 trenes de cercanías con retraso total de 375 minutos. Viajeros del tren 25163 apeados en Sant Feliú."
+   },
+   "pagina": 4,
+   "cita": "El día 24 de agosto de 2009, el tren de viajeros de cercanías 25163 de Renfe Operadora,",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Ninguno significativo en el tren; equipos de seguridad funcionaron correctamente.",
+    "afectacion_servicio": "Interrupción de la circulación por vía 1 de 16:57 a 18:50 (2 h). Circulaciones por vía 2 banalizada entre Sant Joan Despí y Molins de Rei con marcha a la vista. 19 trenes de cercanías suprimidos. 8 trenes de cercanías con retraso total de 375 minutos. Viajeros del tren 25163 apeados en Sant Feliú."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe final IF-240809-260110-CIAF Pág. 1 de 11 INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0045/2009 OCURRIDO EL DÍA 24.08.2009 EN LA ESTACI",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Ninguno significativo en el tren; equipos de seguridad funcionaron correctamente.",
+    "afectacion_servicio": "Interrupción de la circulación por vía 1 de 16:57 a 18:50 (2 h). Circulaciones por vía 2 banalizada entre Sant Joan Despí y Molins de Rei con marcha a la vista. 19 trenes de cercanías suprimidos. 8 trenes de cercanías con retraso total de 375 minutos. Viajeros del tren 25163 apeados en Sant Feliú."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "447004 (cabeza) y 447136 (cola), tren tipo 120 A, matrícula 8880445",
+    "averia": "Ninguna; equipos de seguridad (freno y silbato) funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de entrada E1 y salida S1-1 en indicación de vía libre; control de tráfico centralizado (BAD con CTC).",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Sin limitaciones temporales de velocidad en el momento del accidente. Paso entarimado entre andenes en deficiente estado de conservación.",
+    "otro": "Estación con dos vías generales, paso inferior entre andenes (acceso por escaleras) y paso entarimado en punta de andenes lado Barcelona. Alineación en curva a izquierda a la entrada por lado Barcelona. Media semanal de 1.243 circulaciones (alta): 2 larga distancia, 2 media distancia, 1.235 cercanías, 4 servicio."
+   },
+   "pagina": 6,
+   "cita": "Vía doble electrificada con control de tráfico centralizado (BAD con CTC).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Sant Feliú de Llobregat"
+   },
+   "pagina": 4,
+   "cita": "Barcelona 2.1.2. Descripción del suceso El día 24 de agosto de 2009, el tren de viajeros de cercanías 25163 de Renfe Operadora, procedente de Tarrasa y con destino Martorell, a su paso por la estación de Sant Feliú de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales de entrada E1 y salida S1-1 en indicación de vía libre; control de tráfico centralizado (BAD con CTC).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de entrada E1 y salida S1-1 en indicación de vía libre; control de tráfico centralizado (BAD con CTC).",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Sin limitaciones temporales de velocidad en el momento del accidente. Paso entarimado entre andenes en deficiente estado de conservación.",
+    "otro": "Estación con dos vías generales, paso inferior entre andenes (acceso por escaleras) y paso entarimado en punta de andenes lado Barcelona. Alineación en curva a izquierda a la entrada por lado Barcelona. Media semanal de 1.243 circulaciones (alta): 2 larga distancia, 2 media distancia, 1.235 cercanías, 4 servicio."
+   },
+   "pagina": 6,
+   "cita": "Vía doble electrificada con control de tráfico centralizado (BAD con CTC).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía A.",
+   "pagina": 6,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "447004 (cabeza) y 447136 (cola), tren tipo 120 A, matrícula 8880445",
+    "averia": "Ninguna; equipos de seguridad (freno y silbato) funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "cruce indebido por paso entarimado",
+    "deficiente estado del pavimento",
+    "invasión del gálibo de vía"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 25163 posee el título de conducción categoría B y está habilitado conforme \na la Orden FOM/2520/2006, de 27 de julio. \nRealizó su último reciclaje formativo el 08/03/09 y su último reconocimiento médico y \npsicotécnico el 30/01/07.",
+   "pagina": 8,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "Jornada laboral del maquinista del tren 25163: \n- el día 24: 10 minutos. \n- el día 23: descanso. \n- el día 22: descanso. \nAl maquinista del tren 25163 se le realiza la prueba de alcoholemia, el día del accidente a las 19:10 \nhoras, dando resultado negativo.",
+   "pagina": 9,
+   "cita": "3.5. INTERFAZ HOMBRE-MAQUÍNA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Jornada laboral del maquinista del tren 25163: \n- el día 24: 10 minutos. \n- el día 23: descanso. \n- el día 22: descanso. \nAl maquinista del tren 25163 se le realiza la prueba de alcoholemia, el día del accidente a las 19:10 \nhoras, dando resultado negativo.",
+   "pagina": 9,
+   "cita": "3.5. INTERFAZ HOMBRE-MAQUÍNA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 24 de agosto de 2009, el tren de viajeros de cercanías 25163 de Renfe Operadora, procedente de Tarrasa con destino Martorell, pasaba por la estación de Sant Feliú de Llobregat. Una mujer de 72 años, en silla de ruedas y acompañada por su hija, cruzaba las vías por el paso entarimado existente en la punta de andenes del lado Barcelona, desde el andén principal hacia el andén de la vía 1. La hija logró saltar al andén, pero la madre fue arrollada por el tren, que circulaba a 32 km/h en el punto del impacto tras haber aplicado el freno de emergencia. El maquinista, al observar la silla de ruedas arrastrada por una mujer, accionó el silbato y el freno de urgencia, rebasando el punto de arrollamiento unos 25 metros. La víctima falleció.",
+   "pagina": 4,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar en el paso entarimado entre andenes del P.K. 89+150, de la estación de \nSant Feliú de Llobregat, lado Barcelona. \nEl día 24 de agosto de 2009, el tren de viajeros de cercanías 25163, procedente de Tarrasa y con \ndestino Martorell, a su paso por la estación de Sant Feliú de Llobregat, arrolla a una mujer que \ncruzaba por el paso entarimado entre andenes. La víctima iba en silla de ruedas y estaba acompañada \npor su hija. Las mujeres cruzaban las vías desde el andén principal hacia el andén de la vía 1 (de \nizquierda a derecha en el sentido de la marcha del tren 25163) por el paso entarimado. La hija salta al \nandén y la madre es arrollada por el tren. \nDel registro de seguridad (que presenta un desfase de tres minutos) del tren 25163 se comprueba \nlo siguiente: \n- Que al rebasar la señal de entrada a la estación el tren reduce la velocidad y se actúa sobre \nel silbato. \n- Que a las 17:00:05 horas se registra una manipulación del freno de servicio cuando circulaba \na una velocidad de 80 km/h y seguidamente se actúa sobre el freno de emergencia. \n- Que la velocidad que llevaba el tren en el punto del arrollamiento es de 32 Km/h. \nDe la moviola del CTC del día 24 /08/09 se verifica lo siguiente: \n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0045/2009 ocurrido el 24.08.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-240809-260110-CIAF \n \n \nPág. 10 de 11\n- A las 16:56:52. Se ha establecido itinerario de paso directo por vía 1 para el tren 25163 y las \nseñales de entrada E1 y de salida S1-1 presentan la indicación de vía libre. \n- A las 16:57:12. El tren 25163 rebasa la señal de entrada E1 en indicación de vía libre y la \nseñal S1-1 sigue en indicación de vía libre. \n- A las 16:57:18. El tren 25163 libera el circuito de vía de la señal de entrada E1 y se detiene \nen el circuito de estacionamiento de la vía 1 de la estación. \n4.2. DELIBERACIÓN \nEl personal de conducción cumple los requisitos normativos establecidos referentes a titulo, \nhabilitaciones, reciclaje y reconocimiento médico y psicotécnico. \nLos equipos de seguridad del tren 25163 -freno y silbato- y las instalaciones técnicas funcionaban \ncorrectamente en el momento del accidente. \nLa velocidad del tren era inferior a la máxima permitida. \nSegún lo declarado por la auxiliar de taquilla de la estación de Sant Feliú de Llobregat, la persona \nacompañante fue informada, el día el 21 de agosto, de que la línea no estaba adaptada para personas \ncon movilidad reducida. \n4.3. CONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en la invasión indebida del gálibo de la vía por la víctima que cruzaba el \npaso entarimado entre andenes cuando se aproximaba un tren. \nSin poder afirmar que fue la causa del accidente, pudo contribuir a éste el deficiente estado de \nconservación del pavimento del paso.",
+   "pagina": 9,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión indebida del gálibo de la vía por la víctima que cruzaba el paso entarimado entre andenes cuando se aproximaba un tren.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión indebida del gálibo de la vía por la víctima",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Deficiente estado de conservación del pavimento del paso entarimado (pudo contribuir, sin poder afirmarse como causa).",
+    "Falta de adaptación de la línea para personas con movilidad reducida (la hija fue informada el 21/08/2009 de que los trenes carecían de plataforma para minusválidos).",
+    "Inexistencia de una normativa general que establezca dispositivos de seguridad pertinentes en las estaciones."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en la invasión indebida del gálibo de la vía por la víctima que cruzaba el \npaso entarimado entre andenes cuando se aproximaba un tren. \nSin poder afirmar que fue la causa del accidente, pudo contribuir a éste el deficiente estado de \nconservación del pavimento del paso.",
+   "pagina": 10,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en la invasión indebida del gálibo de la vía por la víctima que cruzaba el \npaso entarimado entre andenes cuando se aproximaba un tren. \nSin poder afirmar que fue la causa del accidente, pudo contribuir a éste el deficiente estado de \nconservación del pavimento del paso.",
+   "pagina": 10,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Con posterioridad al accidente se cambió el pavimento del paso entre andenes por otro del tipo de \ngoma vulcanizada (sistema strail). \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0045/2009 ocurrido el 24.08.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-240809-260110-CIAF \n \n \nPág. 11 de 11",
+   "pagina": 10,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Con posterioridad al accidente se cambió el pavimento del paso entre andenes por otro del tipo de \ngoma vulcanizada (sistema strail). \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0045/2009 ocurrido el 24.08.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-240809-260110-CIAF \n \n \nPág. 11 de 11",
+   "pagina": 10,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Con posterioridad al accidente se cambió el pavimento del paso entre andenes por otro del tipo de \ngoma vulcanizada (sistema strail). \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0045/2009 ocurrido el 24.08.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-240809-260110-CIAF \n \n \nPág. 11 de 11",
+   "pagina": 10,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Insistir en la implementación de la recomendación general emitida en el documento: CIAF, Estudio sobre el arrollamiento de personas en plena vía, estación o apeadero y paso a nivel. Años 2005-2008, noviembre 2009; contemplando la situación de las personas de movilidad reducida. Esta recomendación dice así: “A la vista de la siniestralidad existente en estaciones y apeaderos y de la falta de una normativa general que establezca los dispositivos de seguridad pertinentes en las estaciones, y dada la distinta tipología que éstas presentan, sería conveniente que por la autoridad de seguridad ferroviaria se estudiara la posibilidad de realizar un inventario de las estaciones y apeaderos existentes en la RFIG, en el que se incluyan diferentes parámetros con el fin de realizar un análisis de riesgos que dé idea de la peligrosidad de las mismas. En base a los resultados se elaboraría un plan de medidas a adoptar, que jerarquizase las estaciones y apeaderos donde se debe actuar y la diferente actuación a llevar a cabo en función de su nivel de riesgo.”",
+    "Insistir en la implementación de la recomendación general emitida en el documento: CIAF, Estudio sobre el arrollamiento de personas en plena vía, estación o apeadero y paso a nivel. Años 2005-2008, noviembre 2009; contemplando la situación de las personas de movilidad reducida. Esta recomendación dice así: “A la vista de la siniestralidad existente en estaciones y apeaderos y de la falta de una normativa general que establezca los dispositivos de seguridad pertinentes en las estaciones, y dada la distinta tipología que éstas presentan, sería conveniente que por la autoridad de seguridad ferroviaria se estudiara la posibilidad de realizar un inventario de las estaciones y apeaderos existentes en la RFIG, en el que se incluyan diferentes parámetros con el fin de realizar un análisis de riesgos que dé idea de la peligrosidad de las mismas. En base a los resultados se elaboraría un plan de medidas a adoptar, que jerarquizase las estaciones y apeaderos donde se debe actuar y la diferente actuación a llevar a cabo en función de su nivel de riesgo.”"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "D.G. Infraestructuras Ferroviarias",
+    "D.G. Infraestructuras Ferroviarias"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "16:56:52",
+     "evento": "Se establece itinerario de paso directo por vía 1 para el tren 25163; señales E1 y S1-1 en vía libre."
+    },
+    {
+     "hora": "16:57",
+     "evento": "Arrollamiento de la víctima en el paso entarimado entre andenes."
+    },
+    {
+     "hora": "16:57:12",
+     "evento": "El tren 25163 rebasa la señal de entrada E1 en indicación de vía libre."
+    },
+    {
+     "hora": "16:57:18",
+     "evento": "El tren 25163 libera el circuito de vía de la señal E1 y se detiene en el circuito de estacionamiento de la vía 1."
+    },
+    {
+     "hora": "17:00:05",
+     "evento": "Registro (con desfase de 3 min) de manipulación del freno de servicio a 80 km/h y posterior actuación del freno de emergencia."
+    },
+    {
+     "hora": "18:50",
+     "evento": "Se restablece la circulación; las circulaciones se realizan por vía 2 banalizada entre Sant Joan Despí y Molins de Rei con marcha a la vista al paso por el apeadero."
+    },
+    {
+     "hora": "19:10",
+     "evento": "Prueba de alcoholemia al maquinista: resultado negativo."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0045/2009",
+ "expediente": "0045/09",
+ "anio": 2009,
+ "titulo": "Arrollamiento de una mujer en silla de ruedas en la estación de Sant Feliú de Llobregat (Barcelona)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-240809-260110-CIAF.md"
+}

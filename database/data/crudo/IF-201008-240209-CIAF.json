@@ -1,0 +1,879 @@
+{
+ "id": "IF-201008-240209-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/0E9DAD28-1E8C-49F0-B05E-65C0CE4B8D9E/46985/IF201008240209CIAF.pdf",
+ "pdf": "pdfs/ES/IF-201008-240209-CIAF.pdf",
+ "md5_pdf": "4ac293b020b6ec5d9c7799d0c25f6c01",
+ "paginas_md": 9,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 6,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0052/2008",
+   "pagina": 1,
+   "cita": "nº 0052/2008 ocurrido el 20.10.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 20 de octubre de 2008, a las 12:36 horas, el tren de media distancia 17012 de Renfe Operadora arrolló a una mujer de 77 años en el paso a nivel de clase C de la estación de Santa María de Huerta, P.K. 191,876 de la línea 200 Madrid Chamartín-Barcelona Sants. La víctima falleció en el acto al cruzar el paso cuando las semibarreras estaban bajadas y el paso para peatones estaba prohibido. El maquinista advirtió la intención de cruzar, hizo uso del silbato y accionó el freno de emergencia, pero no pudo evitar el impacto. El tren circulaba a 140 km/h, por debajo de la velocidad máxima de 160 km/h, y tanto el material rodante como las instalaciones funcionaban correctamente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-10-20",
+    "hora": "12:36",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Santa María de Huerta",
+     "pk": "191,876",
+     "linea": "200 Madrid Chamartín - Barcelona Sants",
+     "provincia": "Soria",
+     "descripcion_lugar": "Paso a nivel de clase C de la estación de Santa María de Huerta, dotado de señalización luminosa y acústica, semibarreras automáticas conjugadas con el enclavamiento de la estación (SBE) y paso peatonal con señalización. La superficie del paso a nivel es de strail y la del camino de asfalto."
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 20 de octubre de 2008, a las 12:36 horas, el tren de viajeros de media distancia 17012, de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Se producen retrasos en 1 tren de mercancías (36 minutos) y 2 trenes de media distancia (62 minutos). Desde las 12:35 horas hasta las 15:08 horas se circula con marcha a la vista por la estación de Santa María de Huerta."
+   },
+   "pagina": 4,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "El accidente tuvo su origen en el cruce de la víctima por el paso a nivel cuando éste se encontraba con las barreras bajadas y prohibido el paso para los peatones.",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en el cruce de la víctima por el paso a nivel cuando éste",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Recordar a la Dirección General de Ferrocarriles la conveniencia de incluir este paso a nivel en el Programa de Supresión y Mejora de Pasos a Nivel cuando los presupuestos lo permitan.",
+     "destinatario": "Dirección General de Ferrocarriles"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones. Recordar a la Dirección General de Ferrocarriles la conveniencia de incluir",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Recordar a la Dirección General de Ferrocarriles la conveniencia de incluir este paso a nivel en el Programa de Supresión y Mejora de Pasos a Nivel cuando los presupuestos lo permitan.",
+     "destinatario": "Dirección General de Ferrocarriles"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones. Recordar a la Dirección General de Ferrocarriles la conveniencia de incluir",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "empresa ferroviaria Renfe Operadora, arrolla a una persona en el paso a nivel de clase C, de la",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-10-20",
+   "pagina": 2,
+   "cita": "El día 20 de octubre de 2008, a las 12:36 horas, el tren de viajeros de media distancia 17012, de la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "12:36",
+   "pagina": 2,
+   "cita": "El día 20 de octubre de 2008, a las 12:36 horas, el tren de viajeros de media distancia 17012, de la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Santa María de Huerta",
+    "pk": "191,876",
+    "linea": "200 Madrid Chamartín - Barcelona Sants",
+    "provincia": "Soria",
+    "descripcion_lugar": "Paso a nivel de clase C de la estación de Santa María de Huerta, dotado de señalización luminosa y acústica, semibarreras automáticas conjugadas con el enclavamiento de la estación (SBE) y paso peatonal con señalización. La superficie del paso a nivel es de strail y la del camino de asfalto."
+   },
+   "pagina": 2,
+   "cita": "estación de Santa María de Huerta, situado en el P.K. 191,876 de la línea 200 Madrid Chamartín-",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "200 Madrid Chamartín - Barcelona Sants",
+   "pagina": 2,
+   "cita": "200 Madrid Chamartín - Barcelona Sants.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Motor 470136; número UIC 967194701363; tren de media distancia 17012 compuesto por tres coches y masa remolcada de 205 Tn.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 20 de octubre de 2008, a las 12:36 horas, el tren de viajeros de media distancia 17012, de Renfe Operadora, compuesto por el motor 470136 con tres coches y una masa remolcada de 205 Tn, arrolló a una mujer de 77 años en el paso a nivel de clase C de la estación de Santa María de Huerta, situado en el P.K. 191,876 de la línea 200 Madrid Chamartín-Barcelona Sants, trayecto Arcos de Jalón-Ariza, provincia de Soria. Como consecuencia del impacto, la víctima falleció en el acto.\n\nSegún la declaración del maquinista, al aproximarse al paso a nivel observó a una persona próxima a la vía en el lado izquierdo del sentido de la marcha, hizo uso del silbato para advertir su presencia y tuvo la sensación de que la persona dudaba entre pasar o no. Cuando el tren estaba prácticamente encima del paso, la mujer se puso a cruzar desde el lado izquierdo al derecho y fue golpeada con el tope del lado derecho del tren.\n\nEl análisis de los registradores del paso a nivel y de la estación confirmó que, en el momento del accidente, las semibarreras estaban bajadas. Del registrador de seguridad del vehículo motor se desprende que, al accionar el freno de emergencia, el tren circulaba a 140 km/h, velocidad inferior a la máxima permitida de 160 km/h en el trayecto. Las instalaciones de seguridad funcionaron correctamente, el tiempo era despejado y no se produjeron daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+   "pagina": 2,
+   "cita": "1. RESUMEN El día 20 de octubre de 2008, a las 12:36 horas, el tren de viajeros de media distancia 17012, de la empresa ferroviaria Renfe Operadora, arrolla a una persona en el paso a nivel de clase C, de la estación",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Santa María de Huerta",
+    "pk": "191,876",
+    "linea": "200 Madrid Chamartín - Barcelona Sants",
+    "provincia": "Soria",
+    "descripcion_lugar": "Paso a nivel de clase C de la estación de Santa María de Huerta, dotado de señalización luminosa y acústica, semibarreras automáticas conjugadas con el enclavamiento de la estación (SBE) y paso peatonal con señalización. La superficie del paso a nivel es de strail y la del camino de asfalto."
+   },
+   "pagina": 2,
+   "cita": "estación de Santa María de Huerta, situado en el P.K. 191,876 de la línea 200 Madrid Chamartín-",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Se producen retrasos en 1 tren de mercancías (36 minutos) y 2 trenes de media distancia (62 minutos). Desde las 12:35 horas hasta las 15:08 horas se circula con marcha a la vista por la estación de Santa María de Huerta."
+   },
+   "pagina": 4,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren de media distancia 17012",
+     "implicacion": "Advirtió la intención de la víctima de cruzar el paso a nivel, hizo uso del silbato y accionó el freno de emergencia, pero no pudo evitar el arrollamiento. Su actuación fue correcta; poseía título de conducción y habilitación vigente, alcoholimia negativa y jornada conforme a la normativa."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El Maquinista principal del tren de media distancia 17012.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "17012",
+     "tipo": "tren de viajeros de media distancia",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños en el material rodante."
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 20 de octubre de 2008, a las 12:36 horas, el tren de viajeros de media distancia 17012, de la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Motor 470136; número UIC 967194701363; tren de media distancia 17012 compuesto por tres coches y masa remolcada de 205 Tn.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel de clase C con señalización luminosa y acústica, semibarreras automáticas conjugadas con el enclavamiento de la estación (SBE) y paso peatonal con señalización.",
+    "tipo_via": "Vía doble electrificada con bloqueo de liberación automática con control de tráfico centralizado (BLAD con CTC).",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Todos los elementos del paso a nivel estaban en buenas condiciones y funcionaban correctamente.",
+    "otro": "Momento de circulación AxT: 750*32=24.000. Sistemas de comunicación: radiotelefonía modalidad A. Transcurren 2 minutos y 46 segundos desde que se inicia el proceso de bajada de las semibarreras hasta su apertura."
+   },
+   "pagina": 3,
+   "cita": "Trayecto de vía doble electrificada con bloqueo de liberación automática con control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso a nivel de clase C con señalización luminosa y acústica, semibarreras automáticas conjugadas con el enclavamiento de la estación (SBE) y paso peatonal con señalización.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Se producen retrasos en 1 tren de mercancías (36 minutos) y 2 trenes de media distancia (62 minutos). Desde las 12:35 horas hasta las 15:08 horas se circula con marcha a la vista por la estación de Santa María de Huerta."
+   },
+   "pagina": 4,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Se producen retrasos en 1 tren de mercancías (36 minutos) y 2 trenes de media distancia (62 minutos). Desde las 12:35 horas hasta las 15:08 horas se circula con marcha a la vista por la estación de Santa María de Huerta."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-201008-240209-CIAF Pág. 1 de 9 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0052/2008",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Se producen retrasos en 1 tren de mercancías (36 minutos) y 2 trenes de media distancia (62 minutos). Desde las 12:35 horas hasta las 15:08 horas se circula con marcha a la vista por la estación de Santa María de Huerta."
+   },
+   "pagina": 4,
+   "cita": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Motor 470136; número UIC 967194701363; tren de media distancia 17012 compuesto por tres coches y masa remolcada de 205 Tn.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel de clase C con señalización luminosa y acústica, semibarreras automáticas conjugadas con el enclavamiento de la estación (SBE) y paso peatonal con señalización.",
+    "tipo_via": "Vía doble electrificada con bloqueo de liberación automática con control de tráfico centralizado (BLAD con CTC).",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Todos los elementos del paso a nivel estaban en buenas condiciones y funcionaban correctamente.",
+    "otro": "Momento de circulación AxT: 750*32=24.000. Sistemas de comunicación: radiotelefonía modalidad A. Transcurren 2 minutos y 46 segundos desde que se inicia el proceso de bajada de las semibarreras hasta su apertura."
+   },
+   "pagina": 3,
+   "cita": "Trayecto de vía doble electrificada con bloqueo de liberación automática con control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Soria",
+    "municipio": null,
+    "estacion": "Santa María de Huerta"
+   },
+   "pagina": 2,
+   "cita": "Soria El tren de media distancia 17012, de Renfe Operadora, compuesto por el motor 470136 (tres coches y masa remolcada de 205 Tn), a su paso por el paso a nivel de clase C, de la estación de Santa María de Huerta, ar",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso a nivel de clase C con señalización luminosa y acústica, semibarreras automáticas conjugadas con el enclavamiento de la estación (SBE) y paso peatonal con señalización.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel de clase C con señalización luminosa y acústica, semibarreras automáticas conjugadas con el enclavamiento de la estación (SBE) y paso peatonal con señalización.",
+    "tipo_via": "Vía doble electrificada con bloqueo de liberación automática con control de tráfico centralizado (BLAD con CTC).",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Todos los elementos del paso a nivel estaban en buenas condiciones y funcionaban correctamente.",
+    "otro": "Momento de circulación AxT: 750*32=24.000. Sistemas de comunicación: radiotelefonía modalidad A. Transcurren 2 minutos y 46 segundos desde que se inicia el proceso de bajada de las semibarreras hasta su apertura."
+   },
+   "pagina": 3,
+   "cita": "Trayecto de vía doble electrificada con bloqueo de liberación automática con control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Motor 470136; número UIC 967194701363; tren de media distancia 17012 compuesto por tres coches y masa remolcada de 205 Tn.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "cruce peatón con barreras bajadas"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 20 de octubre de 2008, a las 12:36 horas, el tren de viajeros de media distancia 17012, de Renfe Operadora, compuesto por el motor 470136 con tres coches y una masa remolcada de 205 Tn, arrolló a una mujer de 77 años en el paso a nivel de clase C de la estación de Santa María de Huerta, situado en el P.K. 191,876 de la línea 200 Madrid Chamartín-Barcelona Sants, trayecto Arcos de Jalón-Ariza, provincia de Soria. Como consecuencia del impacto, la víctima falleció en el acto.\n\nSegún la declaración del maquinista, al aproximarse al paso a nivel observó a una persona próxima a la vía en el lado izquierdo del sentido de la marcha, hizo uso del silbato para advertir su presencia y tuvo la sensación de que la persona dudaba entre pasar o no. Cuando el tren estaba prácticamente encima del paso, la mujer se puso a cruzar desde el lado izquierdo al derecho y fue golpeada con el tope del lado derecho del tren.\n\nEl análisis de los registradores del paso a nivel y de la estación confirmó que, en el momento del accidente, las semibarreras estaban bajadas. Del registrador de seguridad del vehículo motor se desprende que, al accionar el freno de emergencia, el tren circulaba a 140 km/h, velocidad inferior a la máxima permitida de 160 km/h en el trayecto. Las instalaciones de seguridad funcionaron correctamente, el tiempo era despejado y no se produjeron daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+   "pagina": 2,
+   "cita": "1. RESUMEN El día 20 de octubre de 2008, a las 12:36 horas, el tren de viajeros de media distancia 17012, de la empresa ferroviaria Renfe Operadora, arrolla a una persona en el paso a nivel de clase C, de la estación",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en el paso a nivel  clase C, de la estación de Santa María de la Huerta, en el \np.K. 191,876 de la línea 200 Madrid Chamartín - Barcelona Sants. \n\n## Página 7\n\n \n \n \nInvestigación del accidente \nnº 0052/2008 ocurrido el 20.10.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-201008-240209-CIAF \n \n \nPág. 7 de 9\nSegún el registrador de eventos del paso a nivel y el registrador videográfico de la estación, las \nsemibarreras se encontraban bajadas. \nSegún el registrador de seguridad del vehículo motor 470136, el tren circulaba a una velocidad \ninferior a la máxima permitida en el tramo. \nSegún lo declarado por el maquinista, al percatarse de la intención de la víctima de cruzar el paso \na nivel, hizo uso del silbato repetidas veces, por lo que la actuación del maquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nTanto el funcionamiento de la infraestructura como la actuación del maquinista, se ajustan a la \nnormativa y no influyeron den el desarrollo de los hechos. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en el cruce de la víctima por el paso a nivel cuando éste se encontraba \ncon las barreras bajadas y prohibido el paso para los peatones.",
+   "pagina": 6,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "El accidente tuvo su origen en el cruce de la víctima por el paso a nivel cuando éste se encontraba con las barreras bajadas y prohibido el paso para los peatones.",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en el cruce de la víctima por el paso a nivel cuando éste",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "cruce peatón con barreras bajadas"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Recordar a la Dirección General de Ferrocarriles la conveniencia de incluir este paso a nivel en el Programa de Supresión y Mejora de Pasos a Nivel cuando los presupuestos lo permitan.",
+     "destinatario": "Dirección General de Ferrocarriles"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones. Recordar a la Dirección General de Ferrocarriles la conveniencia de incluir",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "12:35",
+     "evento": "Desde las 12:35 horas se circula con marcha a la vista por la estación de Santa María de Huerta."
+    },
+    {
+     "hora": "12:36",
+     "evento": "El tren de media distancia 17012 de Renfe Operadora arrolla a una mujer de 77 años en el paso a nivel de clase C de Santa María de Huerta; la víctima fallece en el acto."
+    },
+    {
+     "hora": "13:30",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif comunica a la Comisión de Investigación de Accidentes Ferroviarios el arrollamiento producido en el paso a nivel de Santa María de Huerta."
+    },
+    {
+     "hora": "15:08",
+     "evento": "Hasta las 15:08 horas se circula con marcha a la vista por la estación de Santa María de Huerta."
+    },
+    {
+     "hora": null,
+     "evento": "El 02.12.08 el Responsable de Seguridad de Renfe Operadora entrega su informe particular del accidente."
+    },
+    {
+     "hora": null,
+     "evento": "El 30.12.08 el Gerente Territorial de Seguridad en la Circulación Centro de Adif entrega su informe particular del accidente."
+    },
+    {
+     "hora": null,
+     "evento": "El 24.02.2009 la Comisión de Investigación de Accidentes Ferroviarios aprueba como definitivo el informe del técnico investigador con la recomendación relativa al paso a nivel."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0052/2008",
+ "expediente": "0052/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de una persona por un tren en el paso a nivel de Santa María de Huerta (Soria)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-201008-240209-CIAF.md"
+}

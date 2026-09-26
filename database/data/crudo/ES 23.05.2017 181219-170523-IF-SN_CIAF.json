@@ -1,0 +1,1073 @@
+{
+ "id": "ES 23.05.2017 181219-170523-IF-SN_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/181219-170523-if-sn_ciaf.pdf",
+ "pdf": "pdfs/ES/ES 23.05.2017 181219-170523-IF-SN_CIAF.pdf",
+ "md5_pdf": "e8950ce54a9927b7d22e79d719959fd0",
+ "paginas_md": 42,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 34,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 5,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Agencia Estatal de Seguridad Ferroviaria",
+     "Implementador final": "TRANSFESA - Empresa Operadora",
+     "Número": "25/17-1",
+     "Recomendación": "Estudiar el plan de mantenimiento para realizar posibles ajustes en la inspección y periodicidad de las intervenciones en los elementos de la suspensión. Así mismo esto podría ser extendido a otros vagones de similares características con este tipo de suspensión, para evitar la repetición de este tipo de sucesos."
+    },
+    {
+     "Destinatario": "Agencia Estatal de Seguridad Ferroviaria",
+     "Implementador final": "TRANSFESA - Empresa Operadora",
+     "Número": "25/17-2",
+     "Recomendación": "Dada la difícil visión de estos elementos de la suspensión en vía, habría que estudiar un procedimiento eficaz para el control del estado de los mismos."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 42,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Agencia Estatal de Seguridad Ferroviaria",
+     "Implementador final": "TRANSFESA - Empresa Operadora",
+     "Número": "25/17-1",
+     "Recomendación": "Estudiar el plan de mantenimiento para realizar posibles ajustes en la inspección y periodicidad de las intervenciones en los elementos de la suspensión. Así mismo esto podría ser extendido a otros vagones de similares características con este tipo de suspensión, para evitar la repetición de este tipo de sucesos."
+    },
+    {
+     "Destinatario": "Agencia Estatal de Seguridad Ferroviaria",
+     "Implementador final": "TRANSFESA - Empresa Operadora",
+     "Número": "25/17-2",
+     "Recomendación": "Dada la difícil visión de estos elementos de la suspensión en vía, habría que estudiar un procedimiento eficaz para el control del estado de los mismos."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0025/2017",
+   "pagina": 1,
+   "cita": "nº 0025/2017 ocurrido el 23.05.2017",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 23 de mayo de 2017, el tren de mercancías 90073 operado por Low Cost Rail descarriló en el PK 183+815 de la línea 700 (Abando Indalecio Prieto–Casetas), cerca de la estación de Inoso-Oiardo (Álava), al remontar la rueda izquierda del 2º eje del vagón Laagrss 43 71 437 8 118-9. Tras encarrilarse en la aguja nº 1, volvió a descarrilar en el PK 185+880 y recorrió 5.031 m descarrilado hasta detenerse en el PK 189+855. No hubo víctimas. La CIAF apunta como posible causa directa un fallo técnico del material rodante por rotura de la hoja maestra y adyacente de la ballesta de suspensión, y como causa subyacente la inadecuación del plan de mantenimiento ante nuevos tráficos en régimen de alquiler.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2017-05-23",
+    "hora": "12:29",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Inoso-Oiardo",
+     "pk": "183+815 (primer descarrilamiento); 185+880 (segundo descarrilamiento); detención PK 189+855 (eje) / 189+966 (locomotora)",
+     "linea": "700 Intermodal Abando Indalecio Prieto a Casetas",
+     "provincia": "Álava",
+     "descripcion_lugar": "Entre las estaciones de Izarra e Inoso-Oiardo (primer descarrilamiento) y entre Inoso-Oiardo y Lezama (segundo). Municipio de Urcabustaiz. Zona de curvas a izquierda de radio inferior a 300 m. La locomotora quedó a unos 50 m fuera de un túnel de 215 m (PK 189+701 a 189+916)."
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 23 de mayo de 2017 el tren de mercancías 90073 descarrila, a las 12:29 horas en el PK",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Vagón Laagrss 43 71 437 8 118-9: daños en topes, gancho de tracción, suspensión, rodadura y freno (valoración pendiente a 20/09/2018). Infraestructura: daños en carril, agujas, traviesas y balasto a lo largo de 5.031 m; sujeciones de baliza de señal 1895 y circuitos de vía.",
+    "afectacion_servicio": "Interrupción total de la circulación durante 11 horas y 1 minuto (12:29 del 23/05/2017 a 00:30 del 24/05/2017). Retrasos a 3 trenes de viajeros (105 min total) y a 11 trenes de mercancías (3.614 min total; 468 min al tren del suceso). Transbordados y suprimidos 3 trenes de Larga Distancia. Tren 00435 suprimido en Izarra con viajeros por carretera. LTV 60 km/h PK 183+743-189+438 y LTV 30 km/h PK 187+800 tras el suceso."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Posible causa (sin poderse aseverar): fallo técnico del material rodante debido a la rotura de la hoja maestra y su adyacente de la ballesta de la suspensión del lado izquierdo del 2º eje del vagón Laagrss 43 71 437 8 118-9 (5º lugar de la composición). No se han encontrado evidencias contrastadas del momento de la rotura de la ballesta.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Vagones explotados parcialmente en régimen de alquiler que pueden estar soportando nuevos tráficos de características distintas a las habituales",
+    "Circulación por líneas de diferente trazado (curvas de radio inferior a 300 m en ancho ibérico 1.668 mm), haciendo no efectivas las intervenciones programadas del plan de mantenimiento",
+    "Dificultad de detección visual de roturas parciales de ballestas en vía (solo roturas a sección total detectables por personal de conducción)",
+    "Concentración de sucesos similares en red de ancho ibérico con curvas de radio < 300 m",
+    "Valores de alabeo en dos puntos fuera de tolerancia NAV 7.3.5.0 (aunque dentro de ETI e IFI-6) en la zona del primer descarrilamiento",
+    "Peralte con 4 puntos en los 15 m posteriores al inicio del descarrilamiento fuera de tolerancia NAV 7.3.5.0"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Falta de análisis detallado de las roturas de suspensión detectadas en revisiones ordinarias en los últimos años (causas posiblemente debidas a nuevos tráficos y líneas de diferente trazado)",
+    "Posible inadecuación del plan de mantenimiento ante las condiciones reales de explotación (tráfico internacional, régimen intermodal, alquiler parcial)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Estudiar el plan de mantenimiento para realizar posibles ajustes en la inspección y periodicidad de las intervenciones en los elementos de la suspensión. Así mismo esto podría ser extendido a otros vagones de similares características con este tipo de suspensión, para evitar la repetición de este tipo de sucesos.",
+    "Dada la difícil visión de estos elementos de la suspensión en vía, habría que estudiar un procedimiento eficaz para el control del estado de los mismos.",
+    "Estudiar el plan de mantenimiento para realizar posibles ajustes en la inspección y periodicidad de las intervenciones en los elementos de la suspensión. Así mismo esto podría ser extendido a otros vagones de similares características con este tipo de suspensión, para evitar la repetición de este tipo de sucesos.",
+    "Dada la difícil visión de estos elementos de la suspensión en vía, habría que estudiar un procedimiento eficaz para el control del estado de los mismos."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Agencia Estatal de Seguridad Ferroviaria",
+    "Agencia Estatal de Seguridad Ferroviaria",
+    "Agencia Estatal de Seguridad Ferroviaria",
+    "Agencia Estatal de Seguridad Ferroviaria"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Descarrilamiento",
+   "pagina": 34,
+   "cita": "65,050 a 32 km/h. Vagón 43 71 437 8 665-9 perteneciente a COMSA. Descarrilamiento del tercer",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Transfesa",
+    "Low Cost Rail"
+   ],
+   "pagina": 5,
+   "cita": "333-3, y 23 vagones de la empresa Transfesa.",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2017-05-23",
+   "pagina": 5,
+   "cita": "El día 23 de mayo de 2017 el tren de mercancías 90073 descarrila, a las 12:29 horas en el PK",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "12:29",
+   "pagina": 5,
+   "cita": "El día 23 de mayo de 2017 el tren de mercancías 90073 descarrila, a las 12:29 horas en el PK",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Inoso-Oiardo",
+    "pk": "183+815 (primer descarrilamiento); 185+880 (segundo descarrilamiento); detención PK 189+855 (eje) / 189+966 (locomotora)",
+    "linea": "700 Intermodal Abando Indalecio Prieto a Casetas",
+    "provincia": "Álava",
+    "descripcion_lugar": "Entre las estaciones de Izarra e Inoso-Oiardo (primer descarrilamiento) y entre Inoso-Oiardo y Lezama (segundo). Municipio de Urcabustaiz. Zona de curvas a izquierda de radio inferior a 300 m. La locomotora quedó a unos 50 m fuera de un túnel de 215 m (PK 189+701 a 189+916)."
+   },
+   "pagina": 5,
+   "cita": "descarrilamientos se producen en las proximidades de la estación de Inoso-Oiardo (Álava).",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "183+815",
+   "pagina": 5,
+   "cita": "El día 23 de mayo de 2017 el tren de mercancías 90073 descarrila, a las 12:29 horas en el PK",
+   "origen": "importado",
+   "regla": "db:pk",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 95 71 0 333 333-3. Vagón descarrilado: Laagrss 43 71 437 8 118-9 (2 semivagones, 2 ejes cada uno, 31,48 m entre topes, 26,6 t tara, 8 t carga = 2 contenedores vacíos de 40 pies). Tren de 23 vagones plataforma de diferentes series propiedad de TRANSFESA. Parque Transfesa: 642 vagones tipo Laagrss construidos entre 1997 y 2004.",
+    "averia": "Rotura de la hoja maestra y su adyacente de la ballesta de suspensión del lado izquierdo del 2º eje del vagón Laagrss 43 71 437 8 118-9. Daños en ambas ruedas del eje descarrilado, topes y gancho de unión entre semivagones. Tope derecho montado sobre la primera parte del vagón; tope izquierdo bajo la estructura del 2º semivagón (acaballamiento). Altura inferior del tope al carril tras encarrilamiento: 60 cm (izq.) y 71 cm (der.); parte superior: 83 cm y 93 cm. Parámetros de rodadura (espesor pestaña, altura pestaña, Qr, distancias entre caras internas y activas) de los 4 ejes: dentro de tolerancia tras el accidente.",
+    "mantenimiento": "Plan de mantenimiento aprobado en enero 2015 (edición 2, revisión 0). RSI cada 3 años (±3 meses); R (gran reparación) cada 6 años (±3 meses). Última intervención: R el 08/07/2016 en talleres Soto del Real de TRANSERVI (EEM: Transfesa; centro de mantenimiento Transervi, 100% propiedad de Transfesa). Certificado de revisión 26/07/2016. Operaciones de suspensión realizadas: limpieza, desmontaje completo, verificación de anillas/ejes/guías/muelles, inspección de muelle parabólico, ensayo en prensa de muelles, engrase y montaje. Ensayo en prensa realizado menos de un año antes del descarrilamiento. Sin constancia de mantenimiento correctivo en la suspensión siniestrada. Sustituciones de ballestas sin incidencia previa en vía: 3 (2014), 5 (2015), 9 (2016), 7 (2017). Transfesa indica que no se ha sobrepasado la tasa anual del 10‰ de rotura/incidencia en muelles de suspensión (valor de referencia de experiencia SNCF)."
+   },
+   "pagina": 5,
+   "cita": "estaba operado por la empresa ferroviaria Low Cost Rail y compuesto por la locomotora 95 71 0 333",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de mercancías 90073, operado por Low Cost Rail con locomotora 95 71 0 333 333-3 y 23 vagones plataforma de Transfesa, procedía de Valencia Fuente de San Luis Mercancías con destino Bilbao Mercancías. Circulaba con normalidad desde su salida. En su aproximación a la estación de Inoso-Oiardo, pasó la señal E'1 (PK 182+643) en vía libre a 65 km/h a las 12:27:48. A las 12:28:57, a 55 km/h (máxima permitida 70 km/h), se produjo el primer descarrilamiento del 2º eje del vagón Laagrss 43 71 437 8 118-9 (5º lugar de la composición) en el PK 183+815, en una curva a izquierda de radio 257 m, pendiente 14,21‰ y peralte 130 mm en el punto 0. La rueda izquierda remonta el hilo izquierdo (hilo bajo). Tras recorrer 1.056 m descarrilado, se encarriló en la aguja nº 1 (PK 184+871) a las 12:30:05. Recorridos 1.009 m encarrilado, volvió a descarrilar a las 12:31:08 en el PK 185+880, en curva a izquierda de radio 272 m, pendiente 14,26‰ y peralte 152 mm. El CTC ordenó detención inmediata tras ser avisado por agentes de mantenimiento a las 12:35:08 y 12:35:45. El tren se detuvo a las 12:37:07 con la locomotora en PK 189+966 y el eje descarrilado en PK 189+855, tras 3.975 m más descarrilado (total del eje: 5.031 m).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Inoso-Oiardo",
+    "pk": "183+815 (primer descarrilamiento); 185+880 (segundo descarrilamiento); detención PK 189+855 (eje) / 189+966 (locomotora)",
+    "linea": "700 Intermodal Abando Indalecio Prieto a Casetas",
+    "provincia": "Álava",
+    "descripcion_lugar": "Entre las estaciones de Izarra e Inoso-Oiardo (primer descarrilamiento) y entre Inoso-Oiardo y Lezama (segundo). Municipio de Urcabustaiz. Zona de curvas a izquierda de radio inferior a 300 m. La locomotora quedó a unos 50 m fuera de un túnel de 215 m (PK 189+701 a 189+916)."
+   },
+   "pagina": 5,
+   "cita": "descarrilamientos se producen en las proximidades de la estación de Inoso-Oiardo (Álava).",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Vagón Laagrss 43 71 437 8 118-9: daños en topes, gancho de tracción, suspensión, rodadura y freno (valoración pendiente a 20/09/2018). Infraestructura: daños en carril, agujas, traviesas y balasto a lo largo de 5.031 m; sujeciones de baliza de señal 1895 y circuitos de vía.",
+    "afectacion_servicio": "Interrupción total de la circulación durante 11 horas y 1 minuto (12:29 del 23/05/2017 a 00:30 del 24/05/2017). Retrasos a 3 trenes de viajeros (105 min total) y a 11 trenes de mercancías (3.614 min total; 468 min al tren del suceso). Transbordados y suprimidos 3 trenes de Larga Distancia. Tren 00435 suprimido en Izarra con viajeros por carretera. LTV 60 km/h PK 183+743-189+438 y LTV 30 km/h PK 187+800 tras el suceso."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista titular (Low Cost Rail)",
+     "implicacion": "Conducía el tren 90073 bajo supervisión del titular mientras un alumno en prácticas conducía. Título B desde 20-06-2011, habilitación de vehículo desde 23-03-2017, línea 700 desde 23-01-2017. Último reciclaje 23.03.2017, reconocimiento médico-psicotécnico 11.05.2017. Controles de alcohol y drogas negativos. No se percató del descarrilamiento. Se instruyó expediente informativo cerrado el 28/05/2017 con apercibimiento general."
+    },
+    {
+     "rol": "Alumno en prácticas (conducción) - Low Cost Rail",
+     "implicacion": "Conducía el tren supervisado por el maquinista titular. Certificado de formación 650 h para título B desde 18-04-2017, psicofísico 14-03-2017. Controles de alcohol y drogas negativos. No se percató del descarrilamiento."
+    },
+    {
+     "rol": "Alumno en prácticas (acompañante en cabina) - Low Cost Rail",
+     "implicacion": "Acompañaba en cabina. No se percató del descarrilamiento."
+    },
+    {
+     "rol": "Jefe de CTC / Jefe de circulación (Adif, PM Bilbao Abando)",
+     "implicacion": "Recibió aviso del descarrilamiento, ordenó detención inmediata, cortó la circulación entre Izarra y Lezama y activó protocolos del plan de contingencias."
+    },
+    {
+     "rol": "Encargado de trabajos / agente de mantenimiento (Adif)",
+     "implicacion": "Situado en PK 189+400/189+500 (obras de pilotes y anclajes), observó el vagón descarrilado e informó al CTC a las 12:35:08."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "90073",
+     "tipo": "tren de mercancías (intermodal, tipo 100N, máx 100 km/h)",
+     "operador": "Low Cost Rail",
+     "danos": "Vagón Laagrss 43 71 437 8 118-9 con daños en topes, gancho de tracción, suspensión, rodadura y freno. Valoración pendiente (vagón estacionado en topera vía 3 de Lezama a 20/09/2018). Locomotora sin daños reportados."
+    },
+    {
+     "numero": "00435",
+     "tipo": "tren de viajeros Larga Distancia (Renfe)",
+     "operador": "Renfe Operadora",
+     "danos": "Suprimido en Izarra; viajeros trasladados por carretera. Material vacío devuelto a Miranda de Ebro como tren 96970."
+    }
+   ],
+   "pagina": 5,
+   "cita": "El día 23 de mayo de 2017 el tren de mercancías 90073 descarrila, a las 12:29 horas en el PK",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 95 71 0 333 333-3. Vagón descarrilado: Laagrss 43 71 437 8 118-9 (2 semivagones, 2 ejes cada uno, 31,48 m entre topes, 26,6 t tara, 8 t carga = 2 contenedores vacíos de 40 pies). Tren de 23 vagones plataforma de diferentes series propiedad de TRANSFESA. Parque Transfesa: 642 vagones tipo Laagrss construidos entre 1997 y 2004.",
+    "averia": "Rotura de la hoja maestra y su adyacente de la ballesta de suspensión del lado izquierdo del 2º eje del vagón Laagrss 43 71 437 8 118-9. Daños en ambas ruedas del eje descarrilado, topes y gancho de unión entre semivagones. Tope derecho montado sobre la primera parte del vagón; tope izquierdo bajo la estructura del 2º semivagón (acaballamiento). Altura inferior del tope al carril tras encarrilamiento: 60 cm (izq.) y 71 cm (der.); parte superior: 83 cm y 93 cm. Parámetros de rodadura (espesor pestaña, altura pestaña, Qr, distancias entre caras internas y activas) de los 4 ejes: dentro de tolerancia tras el accidente.",
+    "mantenimiento": "Plan de mantenimiento aprobado en enero 2015 (edición 2, revisión 0). RSI cada 3 años (±3 meses); R (gran reparación) cada 6 años (±3 meses). Última intervención: R el 08/07/2016 en talleres Soto del Real de TRANSERVI (EEM: Transfesa; centro de mantenimiento Transervi, 100% propiedad de Transfesa). Certificado de revisión 26/07/2016. Operaciones de suspensión realizadas: limpieza, desmontaje completo, verificación de anillas/ejes/guías/muelles, inspección de muelle parabólico, ensayo en prensa de muelles, engrase y montaje. Ensayo en prensa realizado menos de un año antes del descarrilamiento. Sin constancia de mantenimiento correctivo en la suspensión siniestrada. Sustituciones de ballestas sin incidencia previa en vía: 3 (2014), 5 (2015), 9 (2016), 7 (2017). Transfesa indica que no se ha sobrepasado la tasa anual del 10‰ de rotura/incidencia en muelles de suspensión (valor de referencia de experiencia SNCF)."
+   },
+   "pagina": 5,
+   "cita": "estaba operado por la empresa ferroviaria Low Cost Rail y compuesto por la locomotora 95 71 0 333",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático con ASFA. Señales E'1 (PK 182+643), E1 (PK 184+540), S1/1 (PK 185+614), señal de bloqueo 1895 (PK 189+594). Baliza ASFA asociada a señal de anuncio de velocidad máxima 70 km/h en PK 180+858. Señal fija de anuncio de LTV 30 km/h en PK 188+077. En el momento del accidente, mando centralizado en la estación de Inoso-Oiardo.",
+    "tipo_via": "Vía única, barra larga soldada, traviesas de hormigón monoblock, carril 54 kg/m. Estación de Inoso-Oiardo (PK 185+388) con dos vías (1 y 3).",
+    "velocidad_maxima": "70 km/h del PK 182+400 a la estación de Inoso-Oiardo (PK 185+400); 65 km/h de Inoso-Oiardo a Lezama (PK 194+500). Tramo anterior: 110 km/h. LTV: 60 km/h PK 184+799-184+829; 30 km/h PK 189+438-189+610.",
+    "ancho": "1.668 mm (ancho ibérico)",
+    "electrificacion": null,
+    "estado_via": "Zona del primer descarrilamiento nivelada y alineada con bateadora y perfiladora el 27/04/2017 (26 días antes). Ancho de vía dentro de tolerancia. Peralte: en los 30 m anteriores al descarrilamiento, dentro de tolerancia. En los 15 m posteriores, 4 puntos fuera de tolerancia NAV 7.3.5.0 (±10 mm) pero dentro de ETI e IFI-6. Alabeo: puntos -12 (6,7 mm) y -11 (8,2 mm) fuera de tolerancia NAV 7.3.5.0 (6 mm/3 m) pero dentro de ETI e IFI-6. Escasez de balasto en hilo bajo. Tras el suceso: traviesas machacadas sin afectar tornillería; daños en carril, agujas, traviesas, balasto, sujeciones de baliza y circuitos de vía en 5.031 m.",
+    "otro": "CTC en Puesto de Mando de Bilbao Abando. Consigna A nº 2296 v19 (01-09-2016) para bloqueos Castejón de Ebro-Orduña. Consigna Serie A 2882 v3 (03-11-2016) para estación de Inoso-Oiardo. Obras de estabilización con LTV 30 km/h (pilotes y anclajes por deslizamiento de ladera) en PK 189+500, fuera de las zonas de descarrilamiento. Media semanal de circulaciones en el tramo Miranda de Ebro-Artomaña: 168 (67 LD, 1 MD, 96 mercancías, 4 servicio)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático con ASFA. Señales E'1 (PK 182+643), E1 (PK 184+540), S1/1 (PK 185+614), señal de bloqueo 1895 (PK 189+594). Baliza ASFA asociada a señal de anuncio de velocidad máxima 70 km/h en PK 180+858. Señal fija de anuncio de LTV 30 km/h en PK 188+077. En el momento del accidente, mando centralizado en la estación de Inoso-Oiardo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía tren-tierra y teléfono móvil corporativo.",
+   "pagina": 13,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": "Se efectuaban trabajos, recogidos en el punto 341 del acta semanal de trabajos nº 30 (del 22 al\n28/05/2017) de la Subdirección de Operaciones Norte, de ejecución de pilotes y anclajes en el PK\n189+500 por deslizamiento de la ladera, fuera de las zonas de descarrilamiento, si bien el tren se\ndetiene en el PK 189+966.\n\n## Página 14\n\nA\nMINISTERIO\nDE FOMENTO\nSUBSECRETARÍA\nInvestigación del accidente\nnº 0025/2017 ocurrido el 23.05.2017\nInforme final de la CIAF\nCOMISIÓN DE INVESTIGACIÓN\nDE ACCIDENTES FERROVIARIOS\n181219-170523-IF-SN_CIAF.doc\nPág. 14 de 42",
+   "pagina": 13,
+   "cita": "2.2.5. Obras en el lugar o cercanías",
+   "origen": "determinista",
+   "regla": "sec:^obras en el lugar o cercan[íi]as$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Vagón Laagrss 43 71 437 8 118-9: daños en topes, gancho de tracción, suspensión, rodadura y freno (valoración pendiente a 20/09/2018). Infraestructura: daños en carril, agujas, traviesas y balasto a lo largo de 5.031 m; sujeciones de baliza de señal 1895 y circuitos de vía.",
+    "afectacion_servicio": "Interrupción total de la circulación durante 11 horas y 1 minuto (12:29 del 23/05/2017 a 00:30 del 24/05/2017). Retrasos a 3 trenes de viajeros (105 min total) y a 11 trenes de mercancías (3.614 min total; 468 min al tren del suceso). Transbordados y suprimidos 3 trenes de Larga Distancia. Tren 00435 suprimido en Izarra con viajeros por carretera. LTV 60 km/h PK 183+743-189+438 y LTV 30 km/h PK 187+800 tras el suceso."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Vagón Laagrss 43 71 437 8 118-9: daños en topes, gancho de tracción, suspensión, rodadura y freno (valoración pendiente a 20/09/2018). Infraestructura: daños en carril, agujas, traviesas y balasto a lo largo de 5.031 m; sujeciones de baliza de señal 1895 y circuitos de vía.",
+    "afectacion_servicio": "Interrupción total de la circulación durante 11 horas y 1 minuto (12:29 del 23/05/2017 a 00:30 del 24/05/2017). Retrasos a 3 trenes de viajeros (105 min total) y a 11 trenes de mercancías (3.614 min total; 468 min al tren del suceso). Transbordados y suprimidos 3 trenes de Larga Distancia. Tren 00435 suprimido en Izarra con viajeros por carretera. LTV 60 km/h PK 183+743-189+438 y LTV 30 km/h PK 187+800 tras el suceso."
+   },
+   "pagina": 10,
+   "cita": "2.2.1. Personal ferroviario implicado",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Vagón Laagrss 43 71 437 8 118-9: daños en topes, gancho de tracción, suspensión, rodadura y freno (valoración pendiente a 20/09/2018). Infraestructura: daños en carril, agujas, traviesas y balasto a lo largo de 5.031 m; sujeciones de baliza de señal 1895 y circuitos de vía.",
+    "afectacion_servicio": "Interrupción total de la circulación durante 11 horas y 1 minuto (12:29 del 23/05/2017 a 00:30 del 24/05/2017). Retrasos a 3 trenes de viajeros (105 min total) y a 11 trenes de mercancías (3.614 min total; 468 min al tren del suceso). Transbordados y suprimidos 3 trenes de Larga Distancia. Tren 00435 suprimido en Izarra con viajeros por carretera. LTV 60 km/h PK 183+743-189+438 y LTV 30 km/h PK 187+800 tras el suceso."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 95 71 0 333 333-3. Vagón descarrilado: Laagrss 43 71 437 8 118-9 (2 semivagones, 2 ejes cada uno, 31,48 m entre topes, 26,6 t tara, 8 t carga = 2 contenedores vacíos de 40 pies). Tren de 23 vagones plataforma de diferentes series propiedad de TRANSFESA. Parque Transfesa: 642 vagones tipo Laagrss construidos entre 1997 y 2004.",
+    "averia": "Rotura de la hoja maestra y su adyacente de la ballesta de suspensión del lado izquierdo del 2º eje del vagón Laagrss 43 71 437 8 118-9. Daños en ambas ruedas del eje descarrilado, topes y gancho de unión entre semivagones. Tope derecho montado sobre la primera parte del vagón; tope izquierdo bajo la estructura del 2º semivagón (acaballamiento). Altura inferior del tope al carril tras encarrilamiento: 60 cm (izq.) y 71 cm (der.); parte superior: 83 cm y 93 cm. Parámetros de rodadura (espesor pestaña, altura pestaña, Qr, distancias entre caras internas y activas) de los 4 ejes: dentro de tolerancia tras el accidente.",
+    "mantenimiento": "Plan de mantenimiento aprobado en enero 2015 (edición 2, revisión 0). RSI cada 3 años (±3 meses); R (gran reparación) cada 6 años (±3 meses). Última intervención: R el 08/07/2016 en talleres Soto del Real de TRANSERVI (EEM: Transfesa; centro de mantenimiento Transervi, 100% propiedad de Transfesa). Certificado de revisión 26/07/2016. Operaciones de suspensión realizadas: limpieza, desmontaje completo, verificación de anillas/ejes/guías/muelles, inspección de muelle parabólico, ensayo en prensa de muelles, engrase y montaje. Ensayo en prensa realizado menos de un año antes del descarrilamiento. Sin constancia de mantenimiento correctivo en la suspensión siniestrada. Sustituciones de ballestas sin incidencia previa en vía: 3 (2014), 5 (2015), 9 (2016), 7 (2017). Transfesa indica que no se ha sobrepasado la tasa anual del 10‰ de rotura/incidencia en muelles de suspensión (valor de referencia de experiencia SNCF)."
+   },
+   "pagina": 5,
+   "cita": "estaba operado por la empresa ferroviaria Low Cost Rail y compuesto por la locomotora 95 71 0 333",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático con ASFA. Señales E'1 (PK 182+643), E1 (PK 184+540), S1/1 (PK 185+614), señal de bloqueo 1895 (PK 189+594). Baliza ASFA asociada a señal de anuncio de velocidad máxima 70 km/h en PK 180+858. Señal fija de anuncio de LTV 30 km/h en PK 188+077. En el momento del accidente, mando centralizado en la estación de Inoso-Oiardo.",
+    "tipo_via": "Vía única, barra larga soldada, traviesas de hormigón monoblock, carril 54 kg/m. Estación de Inoso-Oiardo (PK 185+388) con dos vías (1 y 3).",
+    "velocidad_maxima": "70 km/h del PK 182+400 a la estación de Inoso-Oiardo (PK 185+400); 65 km/h de Inoso-Oiardo a Lezama (PK 194+500). Tramo anterior: 110 km/h. LTV: 60 km/h PK 184+799-184+829; 30 km/h PK 189+438-189+610.",
+    "ancho": "1.668 mm (ancho ibérico)",
+    "electrificacion": null,
+    "estado_via": "Zona del primer descarrilamiento nivelada y alineada con bateadora y perfiladora el 27/04/2017 (26 días antes). Ancho de vía dentro de tolerancia. Peralte: en los 30 m anteriores al descarrilamiento, dentro de tolerancia. En los 15 m posteriores, 4 puntos fuera de tolerancia NAV 7.3.5.0 (±10 mm) pero dentro de ETI e IFI-6. Alabeo: puntos -12 (6,7 mm) y -11 (8,2 mm) fuera de tolerancia NAV 7.3.5.0 (6 mm/3 m) pero dentro de ETI e IFI-6. Escasez de balasto en hilo bajo. Tras el suceso: traviesas machacadas sin afectar tornillería; daños en carril, agujas, traviesas, balasto, sujeciones de baliza y circuitos de vía en 5.031 m.",
+    "otro": "CTC en Puesto de Mando de Bilbao Abando. Consigna A nº 2296 v19 (01-09-2016) para bloqueos Castejón de Ebro-Orduña. Consigna Serie A 2882 v3 (03-11-2016) para estación de Inoso-Oiardo. Obras de estabilización con LTV 30 km/h (pilotes y anclajes por deslizamiento de ladera) en PK 189+500, fuera de las zonas de descarrilamiento. Media semanal de circulaciones en el tramo Miranda de Ebro-Artomaña: 168 (67 LD, 1 MD, 96 mercancías, 4 servicio)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Momento del suceso: día. Condiciones meteorológicas: tiempo despejado. Condiciones atmosféricas buenas según declaraciones.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Álava",
+    "municipio": null,
+    "estacion": "Inoso-Oiardo"
+   },
+   "pagina": 5,
+   "cita": "descarrilamientos se producen en las proximidades de la estación de Inoso-Oiardo (Álava).",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Momento del suceso: día. Condiciones meteorológicas: tiempo despejado. Condiciones atmosféricas buenas según declaraciones.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático con ASFA. Señales E'1 (PK 182+643), E1 (PK 184+540), S1/1 (PK 185+614), señal de bloqueo 1895 (PK 189+594). Baliza ASFA asociada a señal de anuncio de velocidad máxima 70 km/h en PK 180+858. Señal fija de anuncio de LTV 30 km/h en PK 188+077. En el momento del accidente, mando centralizado en la estación de Inoso-Oiardo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático con ASFA. Señales E'1 (PK 182+643), E1 (PK 184+540), S1/1 (PK 185+614), señal de bloqueo 1895 (PK 189+594). Baliza ASFA asociada a señal de anuncio de velocidad máxima 70 km/h en PK 180+858. Señal fija de anuncio de LTV 30 km/h en PK 188+077. En el momento del accidente, mando centralizado en la estación de Inoso-Oiardo.",
+    "tipo_via": "Vía única, barra larga soldada, traviesas de hormigón monoblock, carril 54 kg/m. Estación de Inoso-Oiardo (PK 185+388) con dos vías (1 y 3).",
+    "velocidad_maxima": "70 km/h del PK 182+400 a la estación de Inoso-Oiardo (PK 185+400); 65 km/h de Inoso-Oiardo a Lezama (PK 194+500). Tramo anterior: 110 km/h. LTV: 60 km/h PK 184+799-184+829; 30 km/h PK 189+438-189+610.",
+    "ancho": "1.668 mm (ancho ibérico)",
+    "electrificacion": null,
+    "estado_via": "Zona del primer descarrilamiento nivelada y alineada con bateadora y perfiladora el 27/04/2017 (26 días antes). Ancho de vía dentro de tolerancia. Peralte: en los 30 m anteriores al descarrilamiento, dentro de tolerancia. En los 15 m posteriores, 4 puntos fuera de tolerancia NAV 7.3.5.0 (±10 mm) pero dentro de ETI e IFI-6. Alabeo: puntos -12 (6,7 mm) y -11 (8,2 mm) fuera de tolerancia NAV 7.3.5.0 (6 mm/3 m) pero dentro de ETI e IFI-6. Escasez de balasto en hilo bajo. Tras el suceso: traviesas machacadas sin afectar tornillería; daños en carril, agujas, traviesas, balasto, sujeciones de baliza y circuitos de vía en 5.031 m.",
+    "otro": "CTC en Puesto de Mando de Bilbao Abando. Consigna A nº 2296 v19 (01-09-2016) para bloqueos Castejón de Ebro-Orduña. Consigna Serie A 2882 v3 (03-11-2016) para estación de Inoso-Oiardo. Obras de estabilización con LTV 30 km/h (pilotes y anclajes por deslizamiento de ladera) en PK 189+500, fuera de las zonas de descarrilamiento. Media semanal de circulaciones en el tramo Miranda de Ebro-Artomaña: 168 (67 LD, 1 MD, 96 mercancías, 4 servicio)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía tren-tierra y teléfono móvil corporativo.",
+   "pagina": 13,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 95 71 0 333 333-3. Vagón descarrilado: Laagrss 43 71 437 8 118-9 (2 semivagones, 2 ejes cada uno, 31,48 m entre topes, 26,6 t tara, 8 t carga = 2 contenedores vacíos de 40 pies). Tren de 23 vagones plataforma de diferentes series propiedad de TRANSFESA. Parque Transfesa: 642 vagones tipo Laagrss construidos entre 1997 y 2004.",
+    "averia": "Rotura de la hoja maestra y su adyacente de la ballesta de suspensión del lado izquierdo del 2º eje del vagón Laagrss 43 71 437 8 118-9. Daños en ambas ruedas del eje descarrilado, topes y gancho de unión entre semivagones. Tope derecho montado sobre la primera parte del vagón; tope izquierdo bajo la estructura del 2º semivagón (acaballamiento). Altura inferior del tope al carril tras encarrilamiento: 60 cm (izq.) y 71 cm (der.); parte superior: 83 cm y 93 cm. Parámetros de rodadura (espesor pestaña, altura pestaña, Qr, distancias entre caras internas y activas) de los 4 ejes: dentro de tolerancia tras el accidente.",
+    "mantenimiento": "Plan de mantenimiento aprobado en enero 2015 (edición 2, revisión 0). RSI cada 3 años (±3 meses); R (gran reparación) cada 6 años (±3 meses). Última intervención: R el 08/07/2016 en talleres Soto del Real de TRANSERVI (EEM: Transfesa; centro de mantenimiento Transervi, 100% propiedad de Transfesa). Certificado de revisión 26/07/2016. Operaciones de suspensión realizadas: limpieza, desmontaje completo, verificación de anillas/ejes/guías/muelles, inspección de muelle parabólico, ensayo en prensa de muelles, engrase y montaje. Ensayo en prensa realizado menos de un año antes del descarrilamiento. Sin constancia de mantenimiento correctivo en la suspensión siniestrada. Sustituciones de ballestas sin incidencia previa en vía: 3 (2014), 5 (2015), 9 (2016), 7 (2017). Transfesa indica que no se ha sobrepasado la tasa anual del 10‰ de rotura/incidencia en muelles de suspensión (valor de referencia de experiencia SNCF)."
+   },
+   "pagina": 5,
+   "cita": "estaba operado por la empresa ferroviaria Low Cost Rail y compuesto por la locomotora 95 71 0 333",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": "Conocido el incidente por el puesto de mando, éste ordena al maquinista la inmediata detención del\ntren y el reconocimiento del mismo.\nTambién procede al corte de la circulación y a la activación de los protocolos previstos en el plan de\ncontingencias.",
+   "pagina": 33,
+   "cita": "3.5.1. Medidas tomadas por el personal de circulación",
+   "origen": "determinista",
+   "regla": "sec:^medidas tomadas por el personal de circulaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Rotura de hoja maestra y adyacente",
+    "Vagones explotados en régimen de alquiler",
+    "Circulación por líneas de distinto trazado",
+    "Intervenciones programadas de mantenimiento no efectivas"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de mercancías 90073, operado por Low Cost Rail con locomotora 95 71 0 333 333-3 y 23 vagones plataforma de Transfesa, procedía de Valencia Fuente de San Luis Mercancías con destino Bilbao Mercancías. Circulaba con normalidad desde su salida. En su aproximación a la estación de Inoso-Oiardo, pasó la señal E'1 (PK 182+643) en vía libre a 65 km/h a las 12:27:48. A las 12:28:57, a 55 km/h (máxima permitida 70 km/h), se produjo el primer descarrilamiento del 2º eje del vagón Laagrss 43 71 437 8 118-9 (5º lugar de la composición) en el PK 183+815, en una curva a izquierda de radio 257 m, pendiente 14,21‰ y peralte 130 mm en el punto 0. La rueda izquierda remonta el hilo izquierdo (hilo bajo). Tras recorrer 1.056 m descarrilado, se encarriló en la aguja nº 1 (PK 184+871) a las 12:30:05. Recorridos 1.009 m encarrilado, volvió a descarrilar a las 12:31:08 en el PK 185+880, en curva a izquierda de radio 272 m, pendiente 14,26‰ y peralte 152 mm. El CTC ordenó detención inmediata tras ser avisado por agentes de mantenimiento a las 12:35:08 y 12:35:45. El tren se detuvo a las 12:37:07 con la locomotora en PK 189+966 y el eje descarrilado en PK 189+855, tras 3.975 m más descarrilado (total del eje: 5.031 m).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Posible causa (sin poderse aseverar): fallo técnico del material rodante debido a la rotura de la hoja maestra y su adyacente de la ballesta de la suspensión del lado izquierdo del 2º eje del vagón Laagrss 43 71 437 8 118-9 (5º lugar de la composición). No se han encontrado evidencias contrastadas del momento de la rotura de la ballesta.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Vagones explotados parcialmente en régimen de alquiler que pueden estar soportando nuevos tráficos de características distintas a las habituales",
+    "Circulación por líneas de diferente trazado (curvas de radio inferior a 300 m en ancho ibérico 1.668 mm), haciendo no efectivas las intervenciones programadas del plan de mantenimiento",
+    "Dificultad de detección visual de roturas parciales de ballestas en vía (solo roturas a sección total detectables por personal de conducción)",
+    "Concentración de sucesos similares en red de ancho ibérico con curvas de radio < 300 m",
+    "Valores de alabeo en dos puntos fuera de tolerancia NAV 7.3.5.0 (aunque dentro de ETI e IFI-6) en la zona del primer descarrilamiento",
+    "Peralte con 4 puntos en los 15 m posteriores al inicio del descarrilamiento fuera de tolerancia NAV 7.3.5.0"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "La Directiva 2004/49/CE establece en su artículo 4 que las empresas ferroviarias se responsabilizarán\nde una explotación segura y que, para cumplir con esta responsabilidad, tendrán que establecer un\nSistema de Gestión de la Seguridad.\nLa vigente ley 38/2015 del sector ferroviario en su artículo 66 (Certificado de seguridad) indica que\npara prestar servicios de transporte sobre una determinada línea o tramo de la Red Ferroviaria de\nInterés General, las empresas ferroviarias deberán disponer de un certificado de seguridad.\nDicho certificado de seguridad acredita que la empresa ferroviaria tiene establecido un sistema\npropio de gestión de la seguridad y está en condiciones de cumplir los requisitos sobre sistemas de\ncontrol, circulación y seguridad ferroviaria, sobre conocimientos y requisitos de su personal\nrelacionado con seguridad de la circulación ferroviaria y sobre características técnicas del material\nrodante que utilizará y de las condiciones de su mantenimiento.",
+   "pagina": 18,
+   "cita": "3.2.1. Normativa La Directiva 2004/49/CE establece en su artículo 4 que las empresas ferroviarias se responsabilizarán de una explotación segura y que, para cumplir con esta responsabilidad, tendrán que establecer un Sis",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": "El tren 90073 en su aproximación a la estación de Izarra (PK 180+107) pasa por la señal avanzada\nE´1 (PK 176+878) en anuncio de precaución, a las 11:49:09 horas a la velocidad de 63 km/h. A las\n11:52:05 horas pasa por la baliza previa (PK 178+854), a la velocidad de 39 km/h, de la señal de la\nseñal de entrada E1 y cuatro segundos después se produce urgencia ASFA al no reconocer el\nmaquinista la indicación de anuncio de parada de la mencionada baliza. El tren queda detenido a las\n11:52:23 horas en el PK 178+989, reanudando la marcha seguidamente con normalidad.\n\n## Página 41\n\nA\nMINISTERIO\nDE FOMENTO\nSUBSECRETARÍA\nInvestigación del accidente\nnº 0025/2017 ocurrido el 23.05.2017\nInforme final de la CIAF\nCOMISIÓN DE INVESTIGACIÓN\nDE ACCIDENTES FERROVIARIOS\n181219-170523-IF-SN_CIAF.doc\nPág. 41 de 42\nEn aplicación del Procedimiento General SGS-PG12 (Gestión de los certificados y las habilitaciones del\npersonal que realiza labores relacionadas con la seguridad en la circulación), el Director de Seguridad\nde Low Cost Rail acuerda, el 24 de mayo de 2017, instruir un expediente informativo al maquinista.\nCon fecha 28 de mayo de 2017, tras la información facilitada por maquinista y revisado su\nexpediente personal, el Director de Seguridad de Low Cost Rail cierra el expediente informativo, “sin\notras consecuencias que las de apercibir a todo el personal de conducción sobre la necesidad de que\nextremen su diligencia en la prestación de sus servicios de conducción”.\n5.\nMEDIDAS ADOPTADAS\nPor parte de Transfesa.\nTeniendo en cuenta los últimos descarrilamientos ocurridos en Portugal, desde el pasado 3/05/2018\nTransfesa como EEM certificada según el Reglamento 445/2011 y asociada a estos vagones tipo\nLaagrss ha tomado la decisión de proceder, antes de la salida del tren, a la inspección de los órganos\nde suspensión que forman parte de todos los vagones que en la actualidad desarrollan el tráfico\nConstanti e Alfarelos – TMIP, y complementariamente a las que deben realizar las empresas\nferroviarias a la salida del tren.\nEste tipo de inspección, se está llevando a cabo en los puntos Alfarelos (Portugal) y Constanti\n(España) y bajo las consistencias referidas en la Norma Técnica de Mantenimiento DT-NTM.001-14\nque forma parte del Sistema de Gestión de Mantenimiento de Transfesa como EEM.\nAdicionalmente, Transfesa (EEM) va a realizar a modo de investigación y medida preventiva\nexcepcional, ensayo en prensa de todos los muelles de suspensión de aquellos vagones que entren\nen taller para la realización de revisión tipo RSI de acuerdo a su plan de mantenimiento asociado.\n\n## Página 42\n\nA\nMINISTERIO\nDE FOMENTO\nSUBSECRETARÍA\nInvestigación del accidente\nnº 0025/2017 ocurrido el 23.05.2017\nInforme final de la CIAF\nCOMISIÓN DE INVESTIGACIÓN\nDE ACCIDENTES FERROVIARIOS\n181219-170523-IF-SN_CIAF.doc\nPág. 42 de 42\n6.\nRECOMENDACIONES\nDestinatario\nImplementador\nfinal\nNúmero\nRecomendación\nAgencia\nEstatal de\nSeguridad\nFerroviaria\nTRANSFESA -\nEmpresa\nOperadora\n25/17-1\nEstudiar el plan de mantenimiento para realizar\nposibles ajustes en la inspección y periodicidad de\nlas\nintervenciones\nen\nlos\nelementos\nde\nla\nsuspensión. Así mismo esto podría ser extendido a\notros vagones de similares características con este\ntipo de suspensión, para evitar la repetición de\neste tipo de sucesos.\nAgencia\nEstatal de\nSeguridad\nFerroviaria\nTRANSFESA -\nEmpresa\nOperadora\n25/17-2\nDada la difícil visión de estos elementos de la\nsuspensión\nen\nvía,\nhabría\nque\nestudiar\nun\nprocedimiento eficaz para el control del estado de\nlos mismos.\nMadrid, 19 de diciembre de 2018\n\n### Tablas de la página 42\n\n| Destinatario | Implementador final | Número | Recomendación |\n|---|---|---|---|\n| Agencia Estatal de Seguridad Ferroviaria | TRANSFESA - Empresa Operadora | 25/17-1 | Estudiar el plan de mantenimiento para realizar posibles ajustes en la inspección y periodicidad de las intervenciones en los elementos de la suspensión. Así mismo esto podría ser extendido a otros vagones de similares características con este tipo de suspensión, para evitar la repetición de este tipo de sucesos. |\n| Agencia Estatal de Seguridad Ferroviaria | TRANSFESA - Empresa Operadora | 25/17-2 | Dada la difícil visión de estos elementos de la suspensión en vía, habría que estudiar un procedimiento eficaz para el control del estado de los mismos. |",
+   "pagina": 40,
+   "cita": "4.3.4. Observaciones adicionales",
+   "origen": "determinista",
+   "regla": "sec:^observaciones adicionales",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Estudiar el plan de mantenimiento para realizar posibles ajustes en la inspección y periodicidad de las intervenciones en los elementos de la suspensión. Así mismo esto podría ser extendido a otros vagones de similares características con este tipo de suspensión, para evitar la repetición de este tipo de sucesos.",
+    "Dada la difícil visión de estos elementos de la suspensión en vía, habría que estudiar un procedimiento eficaz para el control del estado de los mismos.",
+    "Estudiar el plan de mantenimiento para realizar posibles ajustes en la inspección y periodicidad de las intervenciones en los elementos de la suspensión. Así mismo esto podría ser extendido a otros vagones de similares características con este tipo de suspensión, para evitar la repetición de este tipo de sucesos.",
+    "Dada la difícil visión de estos elementos de la suspensión en vía, habría que estudiar un procedimiento eficaz para el control del estado de los mismos."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Agencia Estatal de Seguridad Ferroviaria",
+    "Agencia Estatal de Seguridad Ferroviaria",
+    "Agencia Estatal de Seguridad Ferroviaria",
+    "Agencia Estatal de Seguridad Ferroviaria"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "TRANSFESA - Empresa Operadora",
+    "TRANSFESA - Empresa Operadora",
+    "TRANSFESA - Empresa Operadora",
+    "TRANSFESA - Empresa Operadora"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "11:49:09",
+     "evento": "Paso por señal E'1 de Izarra (PK 176+878) en anuncio de precaución a 63 km/h"
+    },
+    {
+     "hora": "11:52:05",
+     "evento": "Paso por baliza previa de señal E1 de Izarra (PK 178+854) en anuncio de parada a 39 km/h"
+    },
+    {
+     "hora": "11:52:09",
+     "evento": "Actuación de urgencia ASFA en PK 178+893 a 38 km/h por no reconocimiento de anuncio de parada"
+    },
+    {
+     "hora": "11:52:23",
+     "evento": "Detención del tren en PK 178+989 (Izarra)"
+    },
+    {
+     "hora": "11:54:19",
+     "evento": "Reinicio de la marcha"
+    },
+    {
+     "hora": "11:58:24",
+     "evento": "Detención en PK 180+107 en estación de Izarra"
+    },
+    {
+     "hora": "12:24:15",
+     "evento": "Paso por señal S1/3 de Izarra (PK 180+134) en vía libre a 12 km/h"
+    },
+    {
+     "hora": "12:27:48",
+     "evento": "Paso por señal E'1 de Inoso-Oiardo (PK 182+643) en vía libre a 65 km/h"
+    },
+    {
+     "hora": "12:28:57",
+     "evento": "PRIMER DESCARRILAMIENTO en PK 183+815 a 55 km/h (máx. 70 km/h). 2º eje del vagón Laagrss 43 71 437 8 118-9 (5º lugar). Rueda izquierda remonta hilo izquierdo en curva a izq. R=257 m"
+    },
+    {
+     "hora": "12:29:42",
+     "evento": "Paso por señal E1 de Inoso-Oiardo (PK 184+540) en vía libre a 55 km/h, circulando descarrilado"
+    },
+    {
+     "hora": "12:30:05",
+     "evento": "ENCARRILAMIENTO en desvío nº 1 (PK 184+871) tras 1.056 m descarrilado, a 55 km/h"
+    },
+    {
+     "hora": "12:30:51",
+     "evento": "Paso por señal S1/1 (PK 185+614) en vía libre a 56 km/h"
+    },
+    {
+     "hora": "12:31:08",
+     "evento": "SEGUNDO DESCARRILAMIENTO en PK 185+880 a 55 km/h (máx. 65 km/h). Mismo eje. Curva a izq. R=272 m"
+    },
+    {
+     "hora": "12:33:22",
+     "evento": "Paso por señal de anuncio de LTV 30 km/h (PK 188+077) a 53 km/h"
+    },
+    {
+     "hora": "12:35:08",
+     "evento": "Encargado de trabajos (PK 189+400) informa al CTC del vagón descarrilado y solicita detención"
+    },
+    {
+     "hora": "12:35:45",
+     "evento": "Agente de vías y obras de Izarra (PK 189+500) informa también al CTC. El CTC ordena detención inmediata y corte de circulación Izarra-Lezama"
+    },
+    {
+     "hora": "12:36:07",
+     "evento": "Paso por señal de bloqueo 1895 (PK 189+594) en vía libre a 23 km/h"
+    },
+    {
+     "hora": "12:37:07",
+     "evento": "DETENCIÓN del tren. Locomotora en PK 189+966; eje descarrilado en PK 189+855. Total descarrilado del eje: 5.031 m"
+    },
+    {
+     "hora": "12:57",
+     "evento": "Maquinista informa al CTC del descarrilamiento del 2º eje del 5º vagón"
+    },
+    {
+     "hora": "13:01",
+     "evento": "Inicio de coordinación Adif-Low Cost Rail para encarrilamiento y liberación de vía"
+    },
+    {
+     "hora": "13:23",
+     "evento": "Agentes de mantenimiento informan PK 183+815 y traviesas machacadas sin afectar tornillería"
+    },
+    {
+     "hora": "15:24",
+     "evento": "Llegada al lugar del personal de Mantenimiento de Adif y de Integria de Renfe Operadora"
+    },
+    {
+     "hora": "16:30",
+     "evento": "Se encarrila el vagón"
+    },
+    {
+     "hora": "17:33",
+     "evento": "Maniobras para apartar el vagón accidentado a la topera de vía 3 en Lezama"
+    },
+    {
+     "hora": "20:14",
+     "evento": "El tren 90073 reinicia marcha sin el vagón accidentado. LTV 60 km/h del PK 183+743 al 189+438"
+    },
+    {
+     "hora": "20:47",
+     "evento": "Se establece LTV 30 km/h en PK 187+800 por defectos en la vía"
+    },
+    {
+     "hora": "00:30",
+     "evento": "Reapertura del tramo tras finalizar reparación de infraestructura (24/05/2017; el texto indica 2018, errata probable)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0025/2017",
+ "expediente": "0025/17",
+ "anio": 2017,
+ "titulo": "Descarrilamiento del tren de mercancías 90073 cerca de la estación de Inoso-Oiardo (Álava)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 23.05.2017 181219-170523-IF-SN_CIAF.md"
+}

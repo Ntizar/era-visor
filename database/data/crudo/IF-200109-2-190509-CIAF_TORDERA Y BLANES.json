@@ -1,0 +1,937 @@
+{
+ "id": "IF-200109-2-190509-CIAF_TORDERA Y BLANES",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/254DEAFD-A974-43AE-A06E-8FE4B52D018C/47503/409IF200109190509CIAF1.pdf",
+ "pdf": "pdfs/ES/IF-200109-2-190509-CIAF_TORDERA Y BLANES.pdf",
+ "md5_pdf": "4ee2c7ec8a8728d8921c392390ab579b",
+ "paginas_md": 12,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 5,
+ "n_tablas": 3,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "DGF",
+     "Número": "04/09-1",
+     "Recomendación": "Retirada de todas las señales vinculadas al paso a nivel que ya fue suprimido."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 10,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "DGF",
+     "Número": "04/09-1",
+     "Recomendación": "Retirada de todas las señales vinculadas al paso a nivel que ya fue suprimido."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 12,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "DGF",
+     "Número": "04/09-1",
+     "Recomendación": "Retirada de todas las señales vinculadas al paso a nivel que ya fue suprimido."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0004/2009",
+   "pagina": 1,
+   "cita": "nº 0004/2009 ocurrido el 20.01.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 20 de enero de 2009, a las 13:46, el tren de cercanías 25630 de Renfe Operadora arrolló a un hombre de 80 años en plena vía, en el PK 64,810 de la línea 276, entre Tordera y Blanes. La víctima intentaba cruzar la vía por un antiguo paso a nivel ya suprimido, aunque todavía quedaban marcas de señalización. El maquinista usó silbato y freno de emergencia, pero no pudo evitar el atropello, y el fallecido murió en el acto. La investigación concluyó que el origen fue la invasión del galibo por la víctima y recomendó retirar las señales vinculadas al paso a nivel suprimido.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-01-20",
+    "hora": "13:46",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "64,810",
+     "linea": "276 Barcelona Sagrera a Macanet-Massanes",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Plena vía entre Tordera y Blanes, PK 64,810, tramo Blanes – Macanet Massanes, zona de huertos con restos de un antiguo paso a nivel suprimido y vegetación que disminuía la visibilidad."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 20 de enero de 2009, a las 13:46 horas, el tren de cercanías 25630 de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Interrupción de circulaciones entre Maçanet–Masanes y Blanes desde las 13:46 hasta las 16:49 horas; 11 trenes de cercanías afectados con 163 minutos de retraso total y 2 trenes suprimidos; durante la intervención se autorizó la circulación de dos trenes a 5 km/h por el lugar del accidente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión del galibo de la vía por la víctima cuando pasaba el tren 25630.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión del galibo de la vía por la víctima cuando",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima cruzó la vía por el lugar donde hubo un paso a nivel ya suprimido.",
+    "Aún quedaban marcas de la señalización de carretera del paso a nivel suprimido.",
+    "En el punto de acceso a la vía la vegetación se espesaba y había árboles de altura considerable que disminuían la visibilidad."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Retirada de todas las señales vinculadas al paso a nivel que ya fue suprimido.",
+    "Retirada de todas las señales vinculadas al paso a nivel que ya fue suprimido.",
+    "Retirada de todas las señales vinculadas al paso a nivel que ya fue suprimido."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "DGF",
+    "DGF",
+    "DGF"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "Renfe Operadora, procedente de Tordera y con dirección a Blanes, arrolla a una persona en plena vía",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-01-20",
+   "pagina": 3,
+   "cita": "El día 20 de enero de 2009, a las 13:46 horas, el tren de cercanías 25630 de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "13:46",
+   "pagina": 3,
+   "cita": "El día 20 de enero de 2009, a las 13:46 horas, el tren de cercanías 25630 de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "64,810",
+    "linea": "276 Barcelona Sagrera a Macanet-Massanes",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Plena vía entre Tordera y Blanes, PK 64,810, tramo Blanes – Macanet Massanes, zona de huertos con restos de un antiguo paso a nivel suprimido y vegetación que disminuía la visibilidad."
+   },
+   "pagina": 3,
+   "cita": "276 Barcelona Sagrera a Macanet-Massanes.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "276 Barcelona Sagrera a Macanet-Massanes, tramo Blanes-Macanet Massanes",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UTs 464204 en cabeza y 463214 en cola, 7 coches y 352 Tn de masa remolcada; Nº UIC 927164642047",
+    "averia": "No se producen daños; los equipos de seguridad del tren (freno, ASFA, sistema de vigilancia, etc.) funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 20 de enero de 2009, a las 13:46 horas, el tren de cercanías 25630 de Renfe Operadora, procedente de Tordera y con dirección a Blanes, arrolló en plena vía a una persona que intentaba cruzar la vía de izquierda a derecha en sentido de la circulación del tren. El accidente se produjo en el PK 64,810, entre las estaciones de Tordera y Blanes, en la línea 276 Barcelona Sagrera a Macanet-Massanes.\nAunque el maquinista hizo uso del silbato y del freno de emergencia, no pudo evitar el impacto. Como consecuencia del arrollamiento, la víctima, un hombre de 80 años, falleció en el acto.\nEn el lugar existía una zona de huertos y trazas de un antiguo camino que cruzaba la vía por un paso a nivel suprimido, del que aún quedaban marcas de señalización de carretera. En el punto de acceso a la vía la vegetación era espesa y había árboles de altura considerable que disminuían la visibilidad.",
+   "pagina": 3,
+   "cita": "1. RESUMEN El día 20 de enero de 2009, a las 13:46 horas, el tren de cercanías 25630 de la empresa ferroviaria Renfe Operadora, procedente de Tordera y con dirección a Blanes, arrolla a una persona en plena vía cuando",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "64,810",
+    "linea": "276 Barcelona Sagrera a Macanet-Massanes",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Plena vía entre Tordera y Blanes, PK 64,810, tramo Blanes – Macanet Massanes, zona de huertos con restos de un antiguo paso a nivel suprimido y vegetación que disminuía la visibilidad."
+   },
+   "pagina": 3,
+   "cita": "276 Barcelona Sagrera a Macanet-Massanes.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Interrupción de circulaciones entre Maçanet–Masanes y Blanes desde las 13:46 hasta las 16:49 horas; 11 trenes de cercanías afectados con 163 minutos de retraso total y 2 trenes suprimidos; durante la intervención se autorizó la circulación de dos trenes a 5 km/h por el lugar del accidente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren de viajeros 25630",
+     "implicacion": "Matrícula 8862989; hizo uso del silbato y del freno de emergencia, pero no pudo evitar el accidente; actuación considerada correcta; alcoholemia negativa (0,00 mg/1000 ml); poseía título de conducción habilitado conforme a la Orden Ministerial 2520/2006; último reciclaje formativo 27/05/08 y último reconocimiento médico y psicotécnico 05/04/05."
+    }
+   ],
+   "pagina": 5,
+   "cita": " El Maquinista principal del tren de viajeros 25630.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "25630",
+     "tipo": "Tren de cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños en el material rodante."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 20 de enero de 2009, a las 13:46 horas, el tren de cercanías 25630 de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UTs 464204 en cabeza y 463214 en cola, 7 coches y 352 Tn de masa remolcada; Nº UIC 927164642047",
+    "averia": "No se producen daños; los equipos de seguridad del tren (freno, ASFA, sistema de vigilancia, etc.) funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 4,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Antigua señalización de carretera vinculada a un paso a nivel ya suprimido; aún quedaban marcas y se recomendó su retirada.",
+    "tipo_via": "Vía única electrificada",
+    "velocidad_maxima": "105 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "Bloqueo de liberación automática (BLAU), control de tráfico centralizado (CTC), radiotelefonía modalidad A; tramo con media semanal de 223 circulaciones de cercanías, considerada muy baja."
+   },
+   "pagina": 5,
+   "cita": "Trayecto de vía única  electrificada con bloqueo de liberación automática (BLAU) con control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Antigua señalización de carretera vinculada a un paso a nivel ya suprimido; aún quedaban marcas y se recomendó su retirada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Interrupción de circulaciones entre Maçanet–Masanes y Blanes desde las 13:46 hasta las 16:49 horas; 11 trenes de cercanías afectados con 163 minutos de retraso total y 2 trenes suprimidos; durante la intervención se autorizó la circulación de dos trenes a 5 km/h por el lugar del accidente."
+   },
+   "pagina": 6,
+   "cita": "A las 15.15 horas los viajeros del tren implicado en el accidente son evacuados en autobús.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Interrupción de circulaciones entre Maçanet–Masanes y Blanes desde las 13:46 hasta las 16:49 horas; 11 trenes de cercanías afectados con 163 minutos de retraso total y 2 trenes suprimidos; durante la intervención se autorizó la circulación de dos trenes a 5 km/h por el lugar del accidente."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Interrupción de circulaciones entre Maçanet–Masanes y Blanes desde las 13:46 hasta las 16:49 horas; 11 trenes de cercanías afectados con 163 minutos de retraso total y 2 trenes suprimidos; durante la intervención se autorizó la circulación de dos trenes a 5 km/h por el lugar del accidente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTs 464204 en cabeza y 463214 en cola, 7 coches y 352 Tn de masa remolcada; Nº UIC 927164642047",
+    "averia": "No se producen daños; los equipos de seguridad del tren (freno, ASFA, sistema de vigilancia, etc.) funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Antigua señalización de carretera vinculada a un paso a nivel ya suprimido; aún quedaban marcas y se recomendó su retirada.",
+    "tipo_via": "Vía única electrificada",
+    "velocidad_maxima": "105 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "Bloqueo de liberación automática (BLAU), control de tráfico centralizado (CTC), radiotelefonía modalidad A; tramo con media semanal de 223 circulaciones de cercanías, considerada muy baja."
+   },
+   "pagina": 5,
+   "cita": "Trayecto de vía única  electrificada con bloqueo de liberación automática (BLAU) con control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Día y tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 3,
+   "cita": "276 Barcelona Sagrera a Macanet-Massanes.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Día y tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Antigua señalización de carretera vinculada a un paso a nivel ya suprimido; aún quedaban marcas y se recomendó su retirada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Antigua señalización de carretera vinculada a un paso a nivel ya suprimido; aún quedaban marcas y se recomendó su retirada.",
+    "tipo_via": "Vía única electrificada",
+    "velocidad_maxima": "105 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "Bloqueo de liberación automática (BLAU), control de tráfico centralizado (CTC), radiotelefonía modalidad A; tramo con media semanal de 223 circulaciones de cercanías, considerada muy baja."
+   },
+   "pagina": 5,
+   "cita": "Trayecto de vía única  electrificada con bloqueo de liberación automática (BLAU) con control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTs 464204 en cabeza y 463214 en cola, 7 coches y 352 Tn de masa remolcada; Nº UIC 927164642047",
+    "averia": "No se producen daños; los equipos de seguridad del tren (freno, ASFA, sistema de vigilancia, etc.) funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Víctima intentó cruzar vía",
+    "Señalización residual de paso suprimido",
+    "Vegetación espesa redujo visibilidad",
+    "Paso a nivel no retirado"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 20 de enero de 2009, a las 13:46 horas, el tren de cercanías 25630 de Renfe Operadora, procedente de Tordera y con dirección a Blanes, arrolló en plena vía a una persona que intentaba cruzar la vía de izquierda a derecha en sentido de la circulación del tren. El accidente se produjo en el PK 64,810, entre las estaciones de Tordera y Blanes, en la línea 276 Barcelona Sagrera a Macanet-Massanes.\nAunque el maquinista hizo uso del silbato y del freno de emergencia, no pudo evitar el impacto. Como consecuencia del arrollamiento, la víctima, un hombre de 80 años, falleció en el acto.\nEn el lugar existía una zona de huertos y trazas de un antiguo camino que cruzaba la vía por un paso a nivel suprimido, del que aún quedaban marcas de señalización de carretera. En el punto de acceso a la vía la vegetación era espesa y había árboles de altura considerable que disminuían la visibilidad.",
+   "pagina": 3,
+   "cita": "1. RESUMEN El día 20 de enero de 2009, a las 13:46 horas, el tren de cercanías 25630 de la empresa ferroviaria Renfe Operadora, procedente de Tordera y con dirección a Blanes, arrolla a una persona en plena vía cuando",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en el P.K. 64,810, en plena vía, entre las estaciones de Tordera y Blanes.  \nDel análisis del registrador de seguridad del tren se desprende que circulaba a una velocidad \ninferior a la máxima permitida en el tramo. \nSegún lo declarado por el maquinista, al percatarse de la presencia del hombre en la caja de la vía, \nhizo uso del silbato repetidas veces y actuó sobre el freno de emergencia, por lo que la actuación del \nmaquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nIF-200109-190509-CIAF \n \n \nPág. 9 de 12\n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0004/2009 ocurrido el 20.01.2009 \nSECRETARIA DE ESTADO \nDE  PLANIFICACIÓN E \nINFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-200109-190509-CIAF \n \n \nPág. 10 de 12\nLos equipos de seguridad del tren funcionaban correctamente en el momento del accidente y de \nacuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nLa víctima cruzó la vía por el lugar en el que hubo un paso a nivel y en la actualidad ya no existe, \naunque todavía quedan marcas de su señalización de carretera. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en la invasión del galibo de la vía por la víctima cuando pasaba el tren \n25630.",
+   "pagina": 9,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión del galibo de la vía por la víctima cuando pasaba el tren 25630.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión del galibo de la vía por la víctima cuando",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima cruzó la vía por el lugar donde hubo un paso a nivel ya suprimido.",
+    "Aún quedaban marcas de la señalización de carretera del paso a nivel suprimido.",
+    "En el punto de acceso a la vía la vegetación se espesaba y había árboles de altura considerable que disminuían la visibilidad."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Retirada de todas las señales vinculadas al paso a nivel que ya fue suprimido.",
+    "Retirada de todas las señales vinculadas al paso a nivel que ya fue suprimido.",
+    "Retirada de todas las señales vinculadas al paso a nivel que ya fue suprimido."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "DGF",
+    "DGF",
+    "DGF"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "13:46",
+     "evento": "El tren de cercanías 25630 arrolla a una persona en plena vía en el PK 64,810; se interrumpe la circulación entre Maçanet–Masanes y Blanes."
+    },
+    {
+     "hora": "14:13",
+     "evento": "El coordinador de accidentes ferroviarios de Adif comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios."
+    },
+    {
+     "hora": "14:24",
+     "evento": "Llegan al lugar los Mossos d'Esquadra, policía local, bomberos y ambulancia."
+    },
+    {
+     "hora": "15:15",
+     "evento": "Los viajeros del tren implicado son evacuados en autobús."
+    },
+    {
+     "hora": "16:40",
+     "evento": "Se realiza el levantamiento del cadáver."
+    },
+    {
+     "hora": "16:49",
+     "evento": "Se reanuda la circulación normal."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0004/2009",
+ "expediente": "0004/09",
+ "anio": 2009,
+ "titulo": "Arrollamiento de una persona por tren de cercanías entre Tordera y Blanes (Barcelona)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-200109-2-190509-CIAF_TORDERA Y BLANES.md"
+}

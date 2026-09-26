@@ -1,0 +1,955 @@
+{
+ "id": "ID-210406-020307",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-210406-020307.pdf",
+ "pdf": "pdfs/ES/ID-210406-020307.pdf",
+ "md5_pdf": "4f6f307080ea33c407fee67c4a06a6f3",
+ "paginas_md": 6,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 13,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0018/2006",
+   "pagina": 1,
+   "cita": "Nº 0018/2006 OCURRIDO EL DÍA 21.04.2006 ID-210406-020307 Pág. 1 de 6 ## Página 2 Investigación del accidente nº 18/2006 ocurrido el 21.04.2006 SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 21 de abril de 2006, un varón de 67 años fue arrollado mortalmente por el tren de Larga Distancia nº78 de RENFE en el apeadero de Grijota (PK 5,800, Línea 130 Venta de Baños-Gijón Cercanías, Palencia). La víctima cruzó las vías desde el andén secundario al principal en un punto no habilitado, siendo alcanzada por el tren que circulaba a 155 km/h. No se produjeron daños materiales ni lesiones al personal ferroviario. ADIF y RENFE coincidieron en atribuir la causa a la imprudencia del peatón. La vía quedó interceptada durante 1 hora y 46 minutos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2006-04-21",
+    "hora": "12:44",
+    "lugar": {
+     "tipo": "apartado",
+     "estacion": "Grijota",
+     "pk": "5,800",
+     "linea": "Línea 130 Venta de Baños-Gijón Cercanías",
+     "provincia": "Palencia",
+     "descripcion_lugar": "Vía par del apeadero de Grijota, entre los dos andenes, en recta y terreno raso y despejado, a unos 10 metros de un paso entablonado entre andenes para uso de viajeros. Visibilidad superior a 600 metros. Trayecto Palencia-Becerril."
+    }
+   },
+   "pagina": 4,
+   "cita": "De la toma de datos mencionada en el apartado anterior se desprende que:",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Intercepción de la vía 2 de 12:44 a 14:30 (1 h 46 min). Retardos: 16 min en Larga Distancia, 2 min en Media Distancia, 53 min en Mercancías."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Imprudencia de la víctima (varón de 67 años) que cruzó las vías por un lugar no habilitado para el tránsito de personas, invadiendo el gálibo del tren en el momento de la llegada del LD nº78, desoyendo el aviso acústico del silbato del maquinista. El arrollamiento fue inevitable.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Ausencia de paso inferior o superior de cruce de vías en el apeadero de Grijota.",
+    "La víctima trató de cruzar desde el andén secundario al principal sin utilizar el paso entablonado situado a unos 10 metros.",
+    "Alta velocidad de paso del tren (155 km/h), aunque inferior a la máxima autorizada (160 km/h)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Existencia de múltiples accidentes similares desde el 01.01.05 que evidencian la necesidad de una revisión global de la seguridad peatonal en apeaderos sin paso inferior.",
+    "Falta de un plan jerarquizado de actuaciones en estaciones y apeaderos que no disponen de paso inferior de cruce de vías."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Realizar un estudio pormenorizado en aquellas estaciones que no dispongan de paso inferior de cruce de vías, en función de variables como tráfico ferroviario, velocidad de paso de los trenes más rápidos, tráfico de usuarios y tiempo de cruce del paso entre andenes, para elaborar un plan de actuaciones jerarquizado.",
+     "destinatario": "Dirección General de Ferrocarriles y ADIF"
+    },
+    {
+     "texto": "Mejora de señalización pasiva en apeaderos sin paso inferior.",
+     "destinatario": "ADIF"
+    },
+    {
+     "texto": "Dotación de señales luminosas peatonales con accionamiento similar al de los pasos a nivel.",
+     "destinatario": "ADIF"
+    },
+    {
+     "texto": "Sustitución de pasos entre andenes por pasos superiores o inferiores.",
+     "destinatario": "ADIF"
+    }
+   ],
+   "pagina": 6,
+   "cita": " Realizar un estudio pormenorizado en aquellas estaciones que no dispongan de paso inferior de cruce de vías, de tal forma que en función de variables tales como: tráfico ferroviario, velocidad de paso de los trenes",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Realizar un estudio pormenorizado en aquellas estaciones que no dispongan de paso inferior de cruce de vías, en función de variables como tráfico ferroviario, velocidad de paso de los trenes más rápidos, tráfico de usuarios y tiempo de cruce del paso entre andenes, para elaborar un plan de actuaciones jerarquizado.",
+     "destinatario": "Dirección General de Ferrocarriles y ADIF"
+    },
+    {
+     "texto": "Mejora de señalización pasiva en apeaderos sin paso inferior.",
+     "destinatario": "ADIF"
+    },
+    {
+     "texto": "Dotación de señales luminosas peatonales con accionamiento similar al de los pasos a nivel.",
+     "destinatario": "ADIF"
+    },
+    {
+     "texto": "Sustitución de pasos entre andenes por pasos superiores o inferiores.",
+     "destinatario": "ADIF"
+    }
+   ],
+   "pagina": 6,
+   "cita": " Realizar un estudio pormenorizado en aquellas estaciones que no dispongan de paso inferior de cruce de vías, de tal forma que en función de variables tales como: tráfico ferroviario, velocidad de paso de los trenes",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "grave",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "RENFE"
+   ],
+   "pagina": 2,
+   "cita": "(ADIF), comunicó a través de mensaje de texto de telefonía móvil el pasado 21 de abril, que",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2006-04-21",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "12:44",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:hora"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "apartado",
+    "estacion": "Grijota",
+    "pk": "5,800",
+    "linea": "Línea 130 Venta de Baños-Gijón Cercanías",
+    "provincia": "Palencia",
+    "descripcion_lugar": "Vía par del apeadero de Grijota, entre los dos andenes, en recta y terreno raso y despejado, a unos 10 metros de un paso entablonado entre andenes para uso de viajeros. Visibilidad superior a 600 metros. Trayecto Palencia-Becerril."
+   },
+   "pagina": 4,
+   "cita": "De la toma de datos mencionada en el apartado anterior se desprende que:",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 130 Venta de Baños-Gijón Cercanías",
+   "pagina": 2,
+   "cita": "punto kilométrico 5,800 situado en la vía par del apeadero de Grijota, en la Línea 130 Venta",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 269.603-7 con 11 vehículos, masa total 169 Tm",
+    "averia": "Ninguna. Manchas de sangre en el estribo izquierdo tras el arrollamiento.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de Larga Distancia nº78 de RENFE, compuesto por la locomotora 269.603-7 y 11 vehículos con masa de 169 Tm, que efectuaba el recorrido Gijón Cercanías-Alicante, detuvo su marcha a las 12:44 horas en la vía par del apeadero de Grijota, PK 5,800 de la Línea 130 Venta de Baños-Gijón Cercanías, tras arrollar a una persona que resultó fallecida en el acto. La víctima, un varón de 67 años, cruzó las vías desde el andén secundario (lado derecho) al andén principal (lado izquierdo, sentido línea y marcha del tren), por un lugar no habilitado para el tránsito de personas, a unos 10 metros del paso entablonado entre andenes. El tren circulaba a 155 km/h (máximo autorizado 160 km/h) con visibilidad superior a 600 metros. El maquinista hizo uso del silbato repetidamente; la persona subió al andén pero no llegó a situarse fuera del gálibo del tren. Al pasar a su altura, el maquinista oyó un golpe en el costado izquierdo. Se detuvo a 1,5 km del apeadero y comunicó los hechos al Puesto de Mando de León para que enviaran una ambulancia. Se comprobó que había manchas de sangre en el estribo izquierdo de la locomotora.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "apartado",
+    "estacion": "Grijota",
+    "pk": "5,800",
+    "linea": "Línea 130 Venta de Baños-Gijón Cercanías",
+    "provincia": "Palencia",
+    "descripcion_lugar": "Vía par del apeadero de Grijota, entre los dos andenes, en recta y terreno raso y despejado, a unos 10 metros de un paso entablonado entre andenes para uso de viajeros. Visibilidad superior a 600 metros. Trayecto Palencia-Becerril."
+   },
+   "pagina": 4,
+   "cita": "De la toma de datos mencionada en el apartado anterior se desprende que:",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Intercepción de la vía 2 de 12:44 a 14:30 (1 h 46 min). Retardos: 16 min en Larga Distancia, 2 min en Media Distancia, 53 min en Mercancías."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "El maquinista informó al Puesto de Mando de León, el cual cursó aviso a las Gerencias \nTerritoriales de Seguridad en la Circulación Noroeste de ADIF y RENFE, Gerencias \nTerritoriales de Protección Civil y Seguridad de ADIF de Irún y de RENFE de Oviedo, \nMantenimiento de Infraestructura, Jefatura de Gestión y Seguridad de la Gerencia Operativa \nde León, GIRE, Operadores afectados y servicios de emergencia. \n \nAgentes de ADIF, se desplazaron al lugar del suceso para realizar la recogida de datos así \ncomo inspeccionar el punto del arrollamiento.  \nSe realizó la prueba de control de alcoholemia al maquinista con resultado negativo \n(0,00mg/1000ml.). \n \n El cadáver quedó custodiado por agentes de Guardia Civil, hasta las 14 horas y 05 minutos \nque se persona la Autoridad Judicial autorizando el levantamiento del cadáver. El tren 78 \nestuvo detenido en el lugar del accidente, a las 14:30 horas queda la vía par en condiciones \nnormales de circulación. \n \n \n \n \nID-210406-020307 \n \n \nPág. 3 de 6\n\n## Página 4\n\n \nInvestigación del accidente \nnº 18/2006 ocurrido el 21.04.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 78",
+     "implicacion": "Conducía el tren a 155 km/h. Hizo uso del silbato al observar a la persona. Detuvo el tren a 1,5 km y comunicó los hechos. Alcoholemia negativa (0,00 mg/1000ml). Reconocimiento médico y psicotécnico del 20.01.06. Curso de reciclaje RGC del 31.01.06 y 01.02.06. Jornada de conducción el día de la incidencia: 55 minutos. Descanso las 24 y 48 horas anteriores. Cumplía reglamentariamente las jornadas de conducción."
+    },
+    {
+     "rol": "Jefe delegado",
+     "implicacion": "Intervino en el accidente (sin detalle adicional en el informe)."
+    }
+   ],
+   "pagina": 3,
+   "cita": "-  El maquinista del tren 78.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "78",
+     "tipo": "Larga Distancia",
+     "operador": "RENFE",
+     "danos": "No se produjeron daños materiales. Manchas de sangre en el estribo izquierdo de la locomotora."
+    }
+   ],
+   "pagina": 2,
+   "cita": "El tren de Larga Distancia nº78 de la empresa ferroviaria RENFE, compuesto por la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 269.603-7 con 11 vehículos, masa total 169 Tm",
+    "averia": "Ninguna. Manchas de sangre en el estribo izquierdo tras el arrollamiento.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso entablonado entre andenes para uso de viajeros, en aceptables condiciones de conservación. No se dispone de paso inferior de cruce de vías. Se recomienda mejora de señalización pasiva y dotación de señales luminosas peatonales.",
+    "tipo_via": "Vía par del apeadero, en recta, terreno raso y despejado. Bloqueo B.A.D. con CTC.",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Vía en condiciones normales antes del accidente. Intercepción de la vía 2 de 12:44 a 14:30.",
+    "otro": "Visibilidad superior a 600 metros en el punto del arrollamiento. El paso entablonado se encontraba a unos 10 metros del punto donde cruzó la víctima."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso entablonado entre andenes para uso de viajeros, en aceptables condiciones de conservación. No se dispone de paso inferior de cruce de vías. Se recomienda mejora de señalización pasiva y dotación de señales luminosas peatonales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Intercepción de la vía 2 de 12:44 a 14:30 (1 h 46 min). Retardos: 16 min en Larga Distancia, 2 min en Media Distancia, 53 min en Mercancías."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Intercepción de la vía 2 de 12:44 a 14:30 (1 h 46 min). Retardos: 16 min en Larga Distancia, 2 min en Media Distancia, 53 min en Mercancías."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Intercepción de la vía 2 de 12:44 a 14:30 (1 h 46 min). Retardos: 16 min en Larga Distancia, 2 min en Media Distancia, 53 min en Mercancías."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 269.603-7 con 11 vehículos, masa total 169 Tm",
+    "averia": "Ninguna. Manchas de sangre en el estribo izquierdo tras el arrollamiento.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso entablonado entre andenes para uso de viajeros, en aceptables condiciones de conservación. No se dispone de paso inferior de cruce de vías. Se recomienda mejora de señalización pasiva y dotación de señales luminosas peatonales.",
+    "tipo_via": "Vía par del apeadero, en recta, terreno raso y despejado. Bloqueo B.A.D. con CTC.",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Vía en condiciones normales antes del accidente. Intercepción de la vía 2 de 12:44 a 14:30.",
+    "otro": "Visibilidad superior a 600 metros en el punto del arrollamiento. El paso entablonado se encontraba a unos 10 metros del punto donde cruzó la víctima."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Palencia",
+    "municipio": null,
+    "estacion": "Apeadero de Grijota"
+   },
+   "pagina": 2,
+   "cita": "de Baños- Gijón Cercanías, en la provincia de Palencia, perteneciente a la Red Ferroviaria de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso entablonado entre andenes para uso de viajeros, en aceptables condiciones de conservación. No se dispone de paso inferior de cruce de vías. Se recomienda mejora de señalización pasiva y dotación de señales luminosas peatonales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso entablonado entre andenes para uso de viajeros, en aceptables condiciones de conservación. No se dispone de paso inferior de cruce de vías. Se recomienda mejora de señalización pasiva y dotación de señales luminosas peatonales.",
+    "tipo_via": "Vía par del apeadero, en recta, terreno raso y despejado. Bloqueo B.A.D. con CTC.",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Vía en condiciones normales antes del accidente. Intercepción de la vía 2 de 12:44 a 14:30.",
+    "otro": "Visibilidad superior a 600 metros en el punto del arrollamiento. El paso entablonado se encontraba a unos 10 metros del punto donde cruzó la víctima."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 269.603-7 con 11 vehículos, masa total 169 Tm",
+    "averia": "Ninguna. Manchas de sangre en el estribo izquierdo tras el arrollamiento.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Cruce de vías por peatón",
+    "No utilizar paso entre andenes",
+    "Invadir gálibo de la vía",
+    "Desoír aviso acústico del tren"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de Larga Distancia nº78 de RENFE, compuesto por la locomotora 269.603-7 y 11 vehículos con masa de 169 Tm, que efectuaba el recorrido Gijón Cercanías-Alicante, detuvo su marcha a las 12:44 horas en la vía par del apeadero de Grijota, PK 5,800 de la Línea 130 Venta de Baños-Gijón Cercanías, tras arrollar a una persona que resultó fallecida en el acto. La víctima, un varón de 67 años, cruzó las vías desde el andén secundario (lado derecho) al andén principal (lado izquierdo, sentido línea y marcha del tren), por un lugar no habilitado para el tránsito de personas, a unos 10 metros del paso entablonado entre andenes. El tren circulaba a 155 km/h (máximo autorizado 160 km/h) con visibilidad superior a 600 metros. El maquinista hizo uso del silbato repetidamente; la persona subió al andén pero no llegó a situarse fuera del gálibo del tren. Al pasar a su altura, el maquinista oyó un golpe en el costado izquierdo. Se detuvo a 1,5 km del apeadero y comunicó los hechos al Puesto de Mando de León para que enviaran una ambulancia. Se comprobó que había manchas de sangre en el estribo izquierdo de la locomotora.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "LA INFRAESTRUCTURA Y POR LA EMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl ADIF concluye “El accidente fue debido a la imprudencia de la víctima que cruzó las vías \npor lugar no habilitado para este uso, en el momento de llegar el tren 78 de Larga Distancia, \nlo que produjo su arrollamiento”. \nPor su parte, la empresa ferroviaria RENFE concluye, “La causa del accidente debe a ribuirse\na la imprudencia de la víctima por cruzar la vía por un lugar no habilitado para el tránsito de \npersonas, invadiendo el gálibo de la vía en el momen o de la llegada del tren de Larga \nDistancia , desoyendo el reiterado aviso acústico efectuado por el maquinista mediante la \nactuación del silbato de la locomotora y siendo inevitable el arrollamiento”. \nt\n \nt\nPor tanto, ambas conclusiones son coincidentes en cuanto a la causa del accidente.",
+   "pagina": 5,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Imprudencia de la víctima (varón de 67 años) que cruzó las vías por un lugar no habilitado para el tránsito de personas, invadiendo el gálibo del tren en el momento de la llegada del LD nº78, desoyendo el aviso acústico del silbato del maquinista. El arrollamiento fue inevitable.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Ausencia de paso inferior o superior de cruce de vías en el apeadero de Grijota.",
+    "La víctima trató de cruzar desde el andén secundario al principal sin utilizar el paso entablonado situado a unos 10 metros.",
+    "Alta velocidad de paso del tren (155 km/h), aunque inferior a la máxima autorizada (160 km/h)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Se estima que el accidente fue causado por el tránsito sobre las vías, entre los andenes del \napeadero de Grijota, de la víctima, siendo alcanzado por el tren nº78. \n \n \n \nID-210406-020307 \n \n \nPág. 5 de 6\n\n## Página 6\n\n \nInvestigación del accidente \nnº 18/2006 ocurrido el 21.04.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES Se estima que el accidente fue causado por el tránsito sobre las vías, entre los andenes del apeadero de Grijota, de la víctima, siendo alcanzado por el tren nº78. ID-210406-020307 Pág. 5 d",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Se estima que el accidente fue causado por el tránsito sobre las vías, entre los andenes del \napeadero de Grijota, de la víctima, siendo alcanzado por el tren nº78. \n \n \n \nID-210406-020307 \n \n \nPág. 5 de 6\n\n## Página 6\n\n \nInvestigación del accidente \nnº 18/2006 ocurrido el 21.04.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES Se estima que el accidente fue causado por el tránsito sobre las vías, entre los andenes del apeadero de Grijota, de la víctima, siendo alcanzado por el tren nº78. ID-210406-020307 Pág. 5 d",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "El maquinista informó al Puesto de Mando de León, el cual cursó aviso a las Gerencias \nTerritoriales de Seguridad en la Circulación Noroeste de ADIF y RENFE, Gerencias \nTerritoriales de Protección Civil y Seguridad de ADIF de Irún y de RENFE de Oviedo, \nMantenimiento de Infraestructura, Jefatura de Gestión y Seguridad de la Gerencia Operativa \nde León, GIRE, Operadores afectados y servicios de emergencia. \n \nAgentes de ADIF, se desplazaron al lugar del suceso para realizar la recogida de datos así \ncomo inspeccionar el punto del arrollamiento.  \nSe realizó la prueba de control de alcoholemia al maquinista con resultado negativo \n(0,00mg/1000ml.). \n \n El cadáver quedó custodiado por agentes de Guardia Civil, hasta las 14 horas y 05 minutos \nque se persona la Autoridad Judicial autorizando el levantamiento del cadáver. El tren 78 \nestuvo detenido en el lugar del accidente, a las 14:30 horas queda la vía par en condiciones \nnormales de circulación. \n \n \n \n \nID-210406-020307 \n \n \nPág. 3 de 6\n\n## Página 4\n\n \nInvestigación del accidente \nnº 18/2006 ocurrido el 21.04.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "El maquinista informó al Puesto de Mando de León, el cual cursó aviso a las Gerencias \nTerritoriales de Seguridad en la Circulación Noroeste de ADIF y RENFE, Gerencias \nTerritoriales de Protección Civil y Seguridad de ADIF de Irún y de RENFE de Oviedo, \nMantenimiento de Infraestructura, Jefatura de Gestión y Seguridad de la Gerencia Operativa \nde León, GIRE, Operadores afectados y servicios de emergencia. \n \nAgentes de ADIF, se desplazaron al lugar del suceso para realizar la recogida de datos así \ncomo inspeccionar el punto del arrollamiento.  \nSe realizó la prueba de control de alcoholemia al maquinista con resultado negativo \n(0,00mg/1000ml.). \n \n El cadáver quedó custodiado por agentes de Guardia Civil, hasta las 14 horas y 05 minutos \nque se persona la Autoridad Judicial autorizando el levantamiento del cadáver. El tren 78 \nestuvo detenido en el lugar del accidente, a las 14:30 horas queda la vía par en condiciones \nnormales de circulación. \n \n \n \n \nID-210406-020307 \n \n \nPág. 3 de 6\n\n## Página 4\n\n \nInvestigación del accidente \nnº 18/2006 ocurrido el 21.04.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "El maquinista informó al Puesto de Mando de León, el cual cursó aviso a las Gerencias \nTerritoriales de Seguridad en la Circulación Noroeste de ADIF y RENFE, Gerencias \nTerritoriales de Protección Civil y Seguridad de ADIF de Irún y de RENFE de Oviedo, \nMantenimiento de Infraestructura, Jefatura de Gestión y Seguridad de la Gerencia Operativa \nde León, GIRE, Operadores afectados y servicios de emergencia. \n \nAgentes de ADIF, se desplazaron al lugar del suceso para realizar la recogida de datos así \ncomo inspeccionar el punto del arrollamiento.  \nSe realizó la prueba de control de alcoholemia al maquinista con resultado negativo \n(0,00mg/1000ml.). \n \n El cadáver quedó custodiado por agentes de Guardia Civil, hasta las 14 horas y 05 minutos \nque se persona la Autoridad Judicial autorizando el levantamiento del cadáver. El tren 78 \nestuvo detenido en el lugar del accidente, a las 14:30 horas queda la vía par en condiciones \nnormales de circulación. \n \n \n \n \nID-210406-020307 \n \n \nPág. 3 de 6\n\n## Página 4\n\n \nInvestigación del accidente \nnº 18/2006 ocurrido el 21.04.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Realizar un estudio pormenorizado en aquellas estaciones que no dispongan de paso inferior de cruce de vías, en función de variables como tráfico ferroviario, velocidad de paso de los trenes más rápidos, tráfico de usuarios y tiempo de cruce del paso entre andenes, para elaborar un plan de actuaciones jerarquizado.",
+     "destinatario": "Dirección General de Ferrocarriles y ADIF"
+    },
+    {
+     "texto": "Mejora de señalización pasiva en apeaderos sin paso inferior.",
+     "destinatario": "ADIF"
+    },
+    {
+     "texto": "Dotación de señales luminosas peatonales con accionamiento similar al de los pasos a nivel.",
+     "destinatario": "ADIF"
+    },
+    {
+     "texto": "Sustitución de pasos entre andenes por pasos superiores o inferiores.",
+     "destinatario": "ADIF"
+    }
+   ],
+   "pagina": 6,
+   "cita": " Realizar un estudio pormenorizado en aquellas estaciones que no dispongan de paso inferior de cruce de vías, de tal forma que en función de variables tales como: tráfico ferroviario, velocidad de paso de los trenes",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "12:44",
+     "evento": "El tren LD nº78 arrolla a una persona en la vía par del apeadero de Grijota, PK 5,800. La víctima fallece en el acto."
+    },
+    {
+     "hora": "12:44",
+     "evento": "El maquinista hace uso del silbato al observar a una persona en la vía; oye un golpe en el costado izquierdo del tren."
+    },
+    {
+     "hora": null,
+     "evento": "El maquinista detiene el tren a 1,5 km del apeadero y comunica los hechos al Puesto de Mando de León."
+    },
+    {
+     "hora": null,
+     "evento": "El Puesto de Mando de León cursa aviso a Gerencias Territoriales de Seguridad en la Circulación, Protección Civil, Mantenimiento de Infraestructura, GIRE, operadores afectados y servicios de emergencia."
+    },
+    {
+     "hora": null,
+     "evento": "Agentes de ADIF se desplazan al lugar para recogida de datos e inspección. Se realiza prueba de alcoholemia al maquinista (resultado negativo: 0,00 mg/1000ml)."
+    },
+    {
+     "hora": null,
+     "evento": "El cadáver queda custodiado por agentes de Guardia Civil."
+    },
+    {
+     "hora": "14:05",
+     "evento": "Se persona la Autoridad Judicial y autoriza el levantamiento del cadáver."
+    },
+    {
+     "hora": "14:30",
+     "evento": "La vía par queda en condiciones normales de circulación. Fin de la intercepción de la vía 2."
+    },
+    {
+     "hora": null,
+     "evento": "El 22 de abril de 2006 se realiza el parte de accidente del maquinista en Oviedo."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0018/2006",
+ "expediente": "0018/2006",
+ "anio": 2006,
+ "titulo": "Arrollamiento de persona en el apeadero de Grijota (Palencia) por tren de Larga Distancia",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-210406-020307.md"
+}

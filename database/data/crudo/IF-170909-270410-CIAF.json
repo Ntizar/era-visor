@@ -1,0 +1,930 @@
+{
+ "id": "IF-170909-270410-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/32BA88B8-DE03-464F-9ABC-972A1C089114/74820/IF_N_54_CIAF.pdf",
+ "pdf": "pdfs/ES/IF-170909-270410-CIAF.pdf",
+ "md5_pdf": "a2f3707d9b9ed22c1e42d5ba9d134482",
+ "paginas_md": 12,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 37,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Adif",
+     "Número": "54/09-1",
+     "Recomendación": "Reforzar los planes de mantenimiento en aquellas zonas localizadas de infraestructura en las que existan problemas sistemáticos con los parámetros de la vía, y así conseguir que cumplan con las tolerancias establecidas."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 12,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Adif",
+     "Número": "54/09-1",
+     "Recomendación": "Reforzar los planes de mantenimiento en aquellas zonas localizadas de infraestructura en las que existan problemas sistemáticos con los parámetros de la vía, y así conseguir que cumplan con las tolerancias establecidas."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0054/2009",
+   "pagina": 1,
+   "cita": "nº 0054/2009 ocurrido el 17.09.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 17 de septiembre de 2009, a las 16:00 horas, el tren de mercancías 93614 de Renfe Operadora descarriló en el PK 566+856, vía 2, entre las señales de avanzada y entrada de la estación de Zumárraga, Guipúzcoa, en la línea 100 Madrid Chamartín - Hendaya. No hubo víctimas mortales ni heridos. El accidente se originó por un exceso de peralte y variaciones del mismo fuera de tolerancia en la zona del descarrilamiento. Se produjo la interrupción de la circulación en ambas vías y daños materiales valorados en 971.695,62 euros. La recomendación principal se dirige a Adif para reforzar el mantenimiento de los parámetros de vía.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-09-17",
+    "hora": "16:00",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Zumárraga",
+     "pk": "566+856",
+     "linea": "100 Madrid Chamartín - Hendaya",
+     "provincia": "Guipúzcoa",
+     "descripcion_lugar": "Vía 2, entre las señales de avanzada y de entrada de la estación de Zumárraga, lado Hendaya, en el tramo Tolosa - Zumárraga"
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 17 de septiembre de 2009, a las 16:00 horas, el tren de mercancías 93614 de la empresa",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Derribo de dos columnas de electrificación y del poste de la señal S1/2; arrollamiento de los motores de las agujas 4 y 6 y de una caseta de obra; daños en instalaciones valorados por Adif en 971.695,62 euros; no se dispone de datos de daños al material móvil",
+    "afectacion_servicio": "Vía 1 cortada desde las 16:00 hasta las 21:30 del 17/09/2009; vía 2 cortada desde las 16:00 del 17/09/2009 hasta las 07:45 del 19/09/2009; supresión de la circulación en el trayecto afectado y establecimiento del plan alternativo de transportes"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Exceso de peralte y variaciones del mismo en la zona de la vía donde se produce el descarrilamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Reforzar los planes de mantenimiento en aquellas zonas localizadas de infraestructura en las que existan problemas sistemáticos con los parámetros de la vía, y así conseguir que cumplan con las tolerancias establecidas.",
+    "Reforzar los planes de mantenimiento en aquellas zonas localizadas de infraestructura en las que existan problemas sistemáticos con los parámetros de la vía, y así conseguir que cumplan con las tolerancias establecidas."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Descarrilamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "ferroviaria Renfe Operadora descarrila en el P.K. 566+856, de la vía 2, situado entre las señales de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-09-17",
+   "pagina": 3,
+   "cita": "El día 17 de septiembre de 2009, a las 16:00 horas, el tren de mercancías 93614 de la empresa",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "16:00",
+   "pagina": 3,
+   "cita": "El día 17 de septiembre de 2009, a las 16:00 horas, el tren de mercancías 93614 de la empresa",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Zumárraga",
+    "pk": "566+856",
+    "linea": "100 Madrid Chamartín - Hendaya",
+    "provincia": "Guipúzcoa",
+    "descripcion_lugar": "Vía 2, entre las señales de avanzada y de entrada de la estación de Zumárraga, lado Hendaya, en el tramo Tolosa - Zumárraga"
+   },
+   "pagina": 3,
+   "cita": "avanzada y de entrada de la estación de Zumárraga, provincia de Guipúzcoa, de la línea 100 Madrid",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "100 Madrid Chamartín - Hendaya",
+   "pagina": 3,
+   "cita": "100 Madrid Chamartín - Hendaya",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 269503; tren tipo 100; 14 vagones; 762 t de masa remolcada; Nº UIC 437143783623",
+    "averia": "No se aprecian averías: los equipos de seguridad funcionaron correctamente, los parámetros de rodadura de los vagones descarrilados estaban en norma y la carga se encontraba correctamente estibada",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de mercancías 93614, procedente de Hendaya y con destino Vicálvaro (Madrid), circulaba por la vía 2 hacia la estación de Zumárraga con itinerario de paso directo y señal de vía libre. A la altura del PK 566+856, con una velocidad de 28 km/h, se produjo el descarrilamiento del tercer eje del vagón undécimo por remonte de la rueda izquierda hacia el interior de una curva a izquierda; después descarrilaron los vagones décimo y duodécimo. El tren continuó hasta la aguja 6 de la estación, donde el vagón décimo terminó de descarrilar y el duodécimo quedó parcialmente descarrilado. La locomotora quedó detenida en el PK 565+257. Las señales indicaban vía libre, los equipos de seguridad del tren funcionaron correctamente y la velocidad era inferior a la máxima permitida. La investigación concluyó que el origen fue el exceso de peralte y las variaciones del mismo en la zona del descarrilamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Zumárraga",
+    "pk": "566+856",
+    "linea": "100 Madrid Chamartín - Hendaya",
+    "provincia": "Guipúzcoa",
+    "descripcion_lugar": "Vía 2, entre las señales de avanzada y de entrada de la estación de Zumárraga, lado Hendaya, en el tramo Tolosa - Zumárraga"
+   },
+   "pagina": 3,
+   "cita": "avanzada y de entrada de la estación de Zumárraga, provincia de Guipúzcoa, de la línea 100 Madrid",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Derribo de dos columnas de electrificación y del poste de la señal S1/2; arrollamiento de los motores de las agujas 4 y 6 y de una caseta de obra; daños en instalaciones valorados por Adif en 971.695,62 euros; no se dispone de datos de daños al material móvil",
+    "afectacion_servicio": "Vía 1 cortada desde las 16:00 hasta las 21:30 del 17/09/2009; vía 2 cortada desde las 16:00 del 17/09/2009 hasta las 07:45 del 19/09/2009; supresión de la circulación en el trayecto afectado y establecimiento del plan alternativo de transportes"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Renfe Operadora informó al propietario de los vagones sobre el error de la inscripción de los \nmismos y la obligatoriedad de eliminar tal inscripción. \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0054/2009 ocurrido el 17.09.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-170909-270410-CIAF.doc \n \n \nPág. 12 de 12\nYa no se entrega Boletín de Órdenes e Informaciones Temporales de Circulación en el sentido \ncitado anteriormente.",
+   "pagina": 11,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista principal",
+     "implicacion": "Conducía el tren 93614; poseía título B de conducción, habilitación vigente, reciclaje formativo del 14/12/2007 y reconocimiento médico y psicotécnico del 11/05/2005; alcoholemia negativa"
+    },
+    {
+     "rol": "factor",
+     "implicacion": "Indicó al maquinista que continuara la marcha antes del descarrilamiento"
+    },
+    {
+     "rol": "responsable de circulación de la estación de Zumárraga",
+     "implicacion": "Observó el paso del tren, vio que iba descarrilado, cerró la señal S2/2 e informó al maquinista y al puesto de mando"
+    }
+   ],
+   "pagina": 5,
+   "cita": "El maquinista principal del tren de mercancías 93614, con matrícula: 9753609.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "93614",
+     "tipo": "tren de mercancías",
+     "operador": "Renfe Operadora",
+     "danos": "Descarrilamiento de los vagones décimo, undécimo y duodécimo; locomotora, nueve primeros vagones y vagones decimotercero y decimocuarto sin daños; no se dispone de datos de daños al material móvil"
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 17 de septiembre de 2009, a las 16:00 horas, el tren de mercancías 93614 de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 269503; tren tipo 100; 14 vagones; 762 t de masa remolcada; Nº UIC 437143783623",
+    "averia": "No se aprecian averías: los equipos de seguridad funcionaron correctamente, los parámetros de rodadura de los vagones descarrilados estaban en norma y la carga se encontraba correctamente estibada",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 5,
+   "cita": "El jefe de investigación de accidentes ferroviarios del Administrador de Infraestructuras",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales de avanzada y de entrada; baliza previa de la señal de entrada E2; señal de entrada E2 en PK 565+881; baliza previa de la señal de salida S2/2; señal S1/2 derribada; agujas 4 y 6 arrolladas",
+    "tipo_via": "vía doble electrificada",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "Exceso de peralte de hasta 62 mm fuera de tolerancia en la zona del inicio del descarrilamiento; curva de transición tipo clotoide de radio 285 m, rampa del 10%, carril de 54 kg y traviesas monobloque; último paso del tren auscultador el 25/03/2009",
+    "otro": "Bloqueo automático banalizado (BAB), control de tráfico centralizado (CTC) y radiotelefonía A"
+   },
+   "pagina": 6,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático banalizado (B.A.B.) y control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales de avanzada y de entrada; baliza previa de la señal de entrada E2; señal de entrada E2 en PK 565+881; baliza previa de la señal de salida S2/2; señal S1/2 derribada; agujas 4 y 6 arrolladas",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía A.",
+   "pagina": 6,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Derribo de dos columnas de electrificación y del poste de la señal S1/2; arrollamiento de los motores de las agujas 4 y 6 y de una caseta de obra; daños en instalaciones valorados por Adif en 971.695,62 euros; no se dispone de datos de daños al material móvil",
+    "afectacion_servicio": "Vía 1 cortada desde las 16:00 hasta las 21:30 del 17/09/2009; vía 2 cortada desde las 16:00 del 17/09/2009 hasta las 07:45 del 19/09/2009; supresión de la circulación en el trayecto afectado y establecimiento del plan alternativo de transportes"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Derribo de dos columnas de electrificación y del poste de la señal S1/2; arrollamiento de los motores de las agujas 4 y 6 y de una caseta de obra; daños en instalaciones valorados por Adif en 971.695,62 euros; no se dispone de datos de daños al material móvil",
+    "afectacion_servicio": "Vía 1 cortada desde las 16:00 hasta las 21:30 del 17/09/2009; vía 2 cortada desde las 16:00 del 17/09/2009 hasta las 07:45 del 19/09/2009; supresión de la circulación en el trayecto afectado y establecimiento del plan alternativo de transportes"
+   },
+   "pagina": 10,
+   "cita": "FERROVIARIOS Informe final IF-170909-270410-CIAF.doc Pág. 10 de 12 3.5. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO Jornadas laboral y de conducción del maquinista del tren 93614: - el día 17: 5 horas (2 hor",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Derribo de dos columnas de electrificación y del poste de la señal S1/2; arrollamiento de los motores de las agujas 4 y 6 y de una caseta de obra; daños en instalaciones valorados por Adif en 971.695,62 euros; no se dispone de datos de daños al material móvil",
+    "afectacion_servicio": "Vía 1 cortada desde las 16:00 hasta las 21:30 del 17/09/2009; vía 2 cortada desde las 16:00 del 17/09/2009 hasta las 07:45 del 19/09/2009; supresión de la circulación en el trayecto afectado y establecimiento del plan alternativo de transportes"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 269503; tren tipo 100; 14 vagones; 762 t de masa remolcada; Nº UIC 437143783623",
+    "averia": "No se aprecian averías: los equipos de seguridad funcionaron correctamente, los parámetros de rodadura de los vagones descarrilados estaban en norma y la carga se encontraba correctamente estibada",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de avanzada y de entrada; baliza previa de la señal de entrada E2; señal de entrada E2 en PK 565+881; baliza previa de la señal de salida S2/2; señal S1/2 derribada; agujas 4 y 6 arrolladas",
+    "tipo_via": "vía doble electrificada",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "Exceso de peralte de hasta 62 mm fuera de tolerancia en la zona del inicio del descarrilamiento; curva de transición tipo clotoide de radio 285 m, rampa del 10%, carril de 54 kg y traviesas monobloque; último paso del tren auscultador el 25/03/2009",
+    "otro": "Bloqueo automático banalizado (BAB), control de tráfico centralizado (CTC) y radiotelefonía A"
+   },
+   "pagina": 6,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático banalizado (B.A.B.) y control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "despejado",
+   "pagina": 7,
+   "cita": "En el momento del arrollamiento el tiempo era despejado.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Guipúzcoa",
+    "municipio": null,
+    "estacion": "Zumárraga"
+   },
+   "pagina": 3,
+   "cita": "avanzada y de entrada de la estación de Zumárraga, provincia de Guipúzcoa, de la línea 100 Madrid",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "despejado",
+   "pagina": 7,
+   "cita": "En el momento del arrollamiento el tiempo era despejado.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales de avanzada y de entrada; baliza previa de la señal de entrada E2; señal de entrada E2 en PK 565+881; baliza previa de la señal de salida S2/2; señal S1/2 derribada; agujas 4 y 6 arrolladas",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de avanzada y de entrada; baliza previa de la señal de entrada E2; señal de entrada E2 en PK 565+881; baliza previa de la señal de salida S2/2; señal S1/2 derribada; agujas 4 y 6 arrolladas",
+    "tipo_via": "vía doble electrificada",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "Exceso de peralte de hasta 62 mm fuera de tolerancia en la zona del inicio del descarrilamiento; curva de transición tipo clotoide de radio 285 m, rampa del 10%, carril de 54 kg y traviesas monobloque; último paso del tren auscultador el 25/03/2009",
+    "otro": "Bloqueo automático banalizado (BAB), control de tráfico centralizado (CTC) y radiotelefonía A"
+   },
+   "pagina": 6,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático banalizado (B.A.B.) y control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía A.",
+   "pagina": 6,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 269503; tren tipo 100; 14 vagones; 762 t de masa remolcada; Nº UIC 437143783623",
+    "averia": "No se aprecian averías: los equipos de seguridad funcionaron correctamente, los parámetros de rodadura de los vagones descarrilados estaban en norma y la carga se encontraba correctamente estibada",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "No se corrigió peralte excesivo",
+    "No se detectó peralte excesivo",
+    "Última auscultación meses antes del accidente",
+    "Insuficiente mantenimiento de infraestructura"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. \nRealizó su último reciclaje formativo el 14/12/07 y su último reconocimiento médico y \npsicotécnico el 11/05/05, conforme a la normativa vigente.",
+   "pagina": 8,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "Jornadas laboral y de conducción del maquinista del tren 93614: \n- el día 17: 5 horas (2 horas y 24 minutos de conducción). \n- el día 16: 6 horas y 55 minutos (3 horas y 54 minutos de conducción). \n- el día 15: descanso. \nAl maquinista, el día del accidente, a las 18:10 horas, se le realiza la prueba de alcoholemia en aire \nespirado dando resultado negativo (0,00 mg/1000 ml).",
+   "pagina": 10,
+   "cita": "3.5. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Jornadas laboral y de conducción del maquinista del tren 93614: \n- el día 17: 5 horas (2 horas y 24 minutos de conducción). \n- el día 16: 6 horas y 55 minutos (3 horas y 54 minutos de conducción). \n- el día 15: descanso. \nAl maquinista, el día del accidente, a las 18:10 horas, se le realiza la prueba de alcoholemia en aire \nespirado dando resultado negativo (0,00 mg/1000 ml).",
+   "pagina": 10,
+   "cita": "3.5. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de mercancías 93614, procedente de Hendaya y con destino Vicálvaro (Madrid), circulaba por la vía 2 hacia la estación de Zumárraga con itinerario de paso directo y señal de vía libre. A la altura del PK 566+856, con una velocidad de 28 km/h, se produjo el descarrilamiento del tercer eje del vagón undécimo por remonte de la rueda izquierda hacia el interior de una curva a izquierda; después descarrilaron los vagones décimo y duodécimo. El tren continuó hasta la aguja 6 de la estación, donde el vagón décimo terminó de descarrilar y el duodécimo quedó parcialmente descarrilado. La locomotora quedó detenida en el PK 565+257. Las señales indicaban vía libre, los equipos de seguridad del tren funcionaron correctamente y la velocidad era inferior a la máxima permitida. La investigación concluyó que el origen fue el exceso de peralte y las variaciones del mismo en la zona del descarrilamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar el día 17 de septiembre de 2009, a las 16:00 horas, en vía 2, entre las \nseñales de avanzada y entrada de la estación de Zumárraga (Guipúzcoa). \nEl tren de mercancías 93614, procedente de Hendaya y destino Vicálvaro (Madrid), circulaba con \nnormalidad por vía 2 hacia la estación de Zumárraga, con itinerario de paso directo con vía libre, \ncirculando a la velocidad de 49 km/h en la señal avanzada 5674, situada en P.K. 567+309. \nA la velocidad de 28 km/h, en el P.K. 566+856 se produce el descarrilamiento del tercer eje del \nvagón que ocupaba el undécimo lugar de la composición, por el remonte de la rueda izquierda hacia \nel interior de la curva a izquierda, sentido de la marcha. La caída de la rueda izquierda se produce en \nel P.K. 566+838 y la caída de la rueda derecha (hacia el interior de la caja de la vía) se produce en el \nP.K. 566+834. \nAl paso por la baliza previa de la señal de entrada E2, en indicación de vía libre, circulaba a 14 \nKm/h y, al paso por la señal de entrada E2, en indicación de vía libre y situada en el P.K. 565+881, \ncirculaba a 12 Km/h. \nEl tren continúa la marcha con el vagón undécimo descarrilado hasta llegar a la altura de la aguja \n6 de la estación de Zumárraga, donde descarrila el décimo vagón, el vagón undécimo continúa \ndescarrilado y el vagón duodécimo queda descarrilado parcialmente. \nPor la baliza previa de la señal de salida S2/2 circulaba a 22 Km/h. \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0054/2009 ocurrido el 17.09.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-170909-270410-CIAF.doc \n \n \nPág. 11 de 12\nLa locomotora del tren queda detenida en vía 2, P.K. 565+257. \nLa locomotora del tren, los nueve primeros vagones, y los que ocupan los lugares decimotercero y \ndecimocuarto, no sufrieron daños. \n4.2. DELIBERACIÓN \nEl personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje \ny reconocimiento médico y psicotécnico. \nLa velocidad del tren, en el momento del accidente, era de 28 km/h, inferior a la máxima permitida \nen ese punto. \nDel registrador de seguridad de la locomotora se comprueba que las señales indicaban vía libre \npara el paso del tren. \nEn la infraestructura, el peralte de la vía estaba fuera de tolerancia en la zona donde se inicia el \ndescarrilamiento del tren. \nLas comprobaciones realizadas en los vagones descarrilados, el mismo día del accidente, indican \nque los parámetros de rodadura eran correctos. \n4.3. CONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en el exceso de peralte y las variaciones del mismo en la zona de la vía \ndonde se produce el descarrilamiento. \n4.4. OBSERVACIONES ADICIONALES \nEn los vagones descarrilados figuraba la inscripción errónea “exceso de gálibo cumplimentará \nconsigna C-6”, cuando la consigna C-6 no hace referencia a este tipo de vagones. \nEn origen, al maquinista se le entrega, erróneamente, el Boletín de Órdenes e Informaciones \nTemporales de Circulación, que contempla “Circulando con las prescripciones de la consigna C-6” \nentre otras.",
+   "pagina": 10,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Exceso de peralte y variaciones del mismo en la zona de la vía donde se produce el descarrilamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No se corrigió peralte excesivo",
+    "No se detectó peralte excesivo",
+    "Última auscultación meses antes del accidente",
+    "Insuficiente mantenimiento de infraestructura"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en el exceso de peralte y las variaciones del mismo en la zona de la vía \ndonde se produce el descarrilamiento.",
+   "pagina": 11,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investiga",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en el exceso de peralte y las variaciones del mismo en la zona de la vía \ndonde se produce el descarrilamiento.",
+   "pagina": 11,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investiga",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": "En los vagones descarrilados figuraba la inscripción errónea “exceso de gálibo cumplimentará \nconsigna C-6”, cuando la consigna C-6 no hace referencia a este tipo de vagones. \nEn origen, al maquinista se le entrega, erróneamente, el Boletín de Órdenes e Informaciones \nTemporales de Circulación, que contempla “Circulando con las prescripciones de la consigna C-6” \nentre otras.",
+   "pagina": 11,
+   "cita": "4.4. OBSERVACIONES ADICIONALES",
+   "origen": "determinista",
+   "regla": "sec:^observaciones adicionales",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Renfe Operadora informó al propietario de los vagones sobre el error de la inscripción de los \nmismos y la obligatoriedad de eliminar tal inscripción. \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0054/2009 ocurrido el 17.09.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-170909-270410-CIAF.doc \n \n \nPág. 12 de 12\nYa no se entrega Boletín de Órdenes e Informaciones Temporales de Circulación en el sentido \ncitado anteriormente.",
+   "pagina": 11,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Renfe Operadora informó al propietario de los vagones sobre el error de la inscripción de los \nmismos y la obligatoriedad de eliminar tal inscripción. \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0054/2009 ocurrido el 17.09.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-170909-270410-CIAF.doc \n \n \nPág. 12 de 12\nYa no se entrega Boletín de Órdenes e Informaciones Temporales de Circulación en el sentido \ncitado anteriormente.",
+   "pagina": 11,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Renfe Operadora informó al propietario de los vagones sobre el error de la inscripción de los \nmismos y la obligatoriedad de eliminar tal inscripción. \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0054/2009 ocurrido el 17.09.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-170909-270410-CIAF.doc \n \n \nPág. 12 de 12\nYa no se entrega Boletín de Órdenes e Informaciones Temporales de Circulación en el sentido \ncitado anteriormente.",
+   "pagina": 11,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Reforzar los planes de mantenimiento en aquellas zonas localizadas de infraestructura en las que existan problemas sistemáticos con los parámetros de la vía, y así conseguir que cumplan con las tolerancias establecidas.",
+    "Reforzar los planes de mantenimiento en aquellas zonas localizadas de infraestructura en las que existan problemas sistemáticos con los parámetros de la vía, y así conseguir que cumplan con las tolerancias establecidas."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "16:00",
+     "evento": "Descarrilamiento del tercer eje del vagón undécimo del tren 93614 en el PK 566+856, seguido del descarrilamiento de los vagones décimo y duodécimo"
+    },
+    {
+     "hora": "16:00",
+     "evento": "Se corta la circulación en vía 1 y vía 2 y se establece el plan alternativo de transportes"
+    },
+    {
+     "hora": "18:10",
+     "evento": "Prueba de alcoholemia al maquinista con resultado negativo (0,00 mg/1000 ml)"
+    },
+    {
+     "hora": "21:30",
+     "evento": "Se reabre la vía 1 el 17 de septiembre de 2009"
+    },
+    {
+     "hora": "07:45",
+     "evento": "Se reabre la vía 2 el 19 de septiembre de 2009"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0054/2009",
+ "expediente": "0054/09",
+ "anio": 2009,
+ "titulo": "Descarrilamiento del tren de mercancías 93614 en la entrada de la estación de Zumárraga (Guipúzcoa)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-170909-270410-CIAF.md"
+}

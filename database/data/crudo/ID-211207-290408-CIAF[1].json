@@ -1,0 +1,888 @@
+{
+ "id": "ID-211207-290408-CIAF[1]",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/F4F6F91C-AF1E-41D0-83F8-61600C8112CE/46894/ID211207290408CIAF.pdf",
+ "pdf": "pdfs/ES/ID-211207-290408-CIAF[1].pdf",
+ "md5_pdf": "1526479a0f035018a379e0871f768d52",
+ "paginas_md": 9,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 9,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0063/2007",
+   "pagina": 8,
+   "cita": "Nº 0063/2007 OCURRIDO EL DÍA 21.12.2007 ## Página 9 Investigación del accidente nº 063/2007 ocurrido el 21.12.2007 SECRETARIA DE ESTADO DE INFRAESTRUCTURAS SECRETARÍA GENERAL DE INFRAESTRUCTURAS A MINIS",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 21 de diciembre de 2007, a las 07:32, un tren Regional Express de Renfe Operadora arrolló a una persona en la estación de Salou, punto kilométrico 263,600 de la línea 600 Valencia-San Vicente Calders, en Tarragona. La víctima, un varón de 65 años que trabajaba en la cafetería de la estación, falleció a las 08:20 mientras era trasladada en ambulancia. El accidente se originó por el cruce indebido de las vías por un paso vicioso practicado en el vallado, sin percatarse la víctima de la llegada del tren. No se produjeron daños materiales en el tren ni en las instalaciones, y la circulación quedó restablecida a las 08:08.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-12-21",
+    "hora": "07:32",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Salou",
+     "pk": "263,600",
+     "linea": "600 Valencia-San Vicente Calders",
+     "provincia": "Tarragona",
+     "descripcion_lugar": "Estación situada en zona urbana, con vías valladas por el municipio; el arrollamiento se produjo a la altura de uno de los pasos entarimados de la estación, donde existía una abertura en el vallado que servía de paso vicioso para acceder al andén principal."
+    }
+   },
+   "pagina": 9,
+   "cita": "21/12/2007, se aprueba como definitivo el informe particular presentado por el técnico investigador,",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños ni en el material motor ni en las instalaciones.",
+    "afectacion_servicio": "El tren 18059 quedó detenido en vía 1, interceptándose las vías 1 y 2; la circulación se estableció por la vía 4. La circulación normal se restableció a las 08:08 y el tren reanudó su marcha a las 08:11, con un retraso de 39 minutos."
+   },
+   "pagina": 4,
+   "cita": "No se produjeron daños ni en el material motor ni en las instalaciones.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "El accidente tuvo su origen en el cruce de las vías por la víctima, sin hacer caso a las indicaciones de atención del andén, en el momento en que el tren 18059 llegaba a la estación.",
+   "pagina": 7,
+   "cita": "concluye que: - El accidente tuvo su origen en el cruce de las vías por la víctima – sin hacer caso a las indicaciones de atención que figuran en el andén- en el momento en que el tren citado llegaba a la estación.",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Invasión imprudente del gálibo por parte de la víctima al cruzar las vías sin percatarse de la llegada del tren.",
+    "Existencia de un paso vicioso practicado en el vallado de la estación, por donde accedió la víctima al recinto ferroviario.",
+    "Condiciones atmosféricas del día del accidente, con noche, fuerte lluvia y viento, que disminuían la visibilidad."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Constatado que se ha reparado el vallado, se recomienda su mantenimiento.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Constatado que se ha reparado el vallado, se recomienda su mantenimiento.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de persona",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe Operadora"
+   ],
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-12-21",
+   "pagina": 9,
+   "cita": "21/12/2007, se aprueba como definitivo el informe particular presentado por el técnico investigador,",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "07:32",
+   "pagina": 3,
+   "cita": "21.12.07/ 07:32 Tipo de bloqueo: Bloqueo Automático de vía única con Control de Tráfico Centralizado (C.T.C.) 3. RECOGIDA DE DATOS De acuerdo con la Orden Circular del 3/2004, el administrador de la infraestructur",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Salou",
+    "pk": "263,600",
+    "linea": "600 Valencia-San Vicente Calders",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Estación situada en zona urbana, con vías valladas por el municipio; el arrollamiento se produjo a la altura de uno de los pasos entarimados de la estación, donde existía una abertura en el vallado que servía de paso vicioso para acceder al andén principal."
+   },
+   "pagina": 5,
+   "cita": "El tren recorrió 100 metros antes de quedar estacionado.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "600 Valencia-San Vicente Calders",
+   "pagina": 2,
+   "cita": "situada en el punto kilométrico 263,600 de la línea 600 Valencia-San Vicente Calders, en la provincia de",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "U/T 470035, formada por 3 coches, masa total 161 toneladas.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros Regional Express nº 18059, de Renfe Operadora, compuesto por la U/T 470035 formada por 3 coches con masa total de 161 toneladas, entraba por la vía 1 de la estación de Salou, en el PK 263,600 de la línea 600 Valencia-San Vicente Calders, cuando golpeó a una persona que cruzaba las vías por el lado izquierdo en sentido de la marcha del tren, a la altura de uno de los pasos entarimados de la estación. Como consecuencia del arrollamiento resultó fallecido un varón de 65 años.\n\nEl maquinista, al escuchar un golpe mientras entraba en la estación, bajó de la U/T y, avisado por testigos, comprobó que había arrollado a un hombre. Comunicó el suceso al Puesto de Mando de Barcelona, desde donde se informó a los servicios internos y externos. La víctima, aún con vida, fue evacuada, pero falleció a las 08:20 mientras era trasladada en ambulancia.\n\nEl tren implicado quedó detenido en la vía 1, interceptándose las vías 1 y 2, y la circulación quedó establecida por la vía 4. A las 08:08 se restableció la circulación normal tras la evacuación de la víctima, y a las 08:11 el tren 18059 reanudó su marcha, con un retraso de 39 minutos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Salou",
+    "pk": "263,600",
+    "linea": "600 Valencia-San Vicente Calders",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Estación situada en zona urbana, con vías valladas por el municipio; el arrollamiento se produjo a la altura de uno de los pasos entarimados de la estación, donde existía una abertura en el vallado que servía de paso vicioso para acceder al andén principal."
+   },
+   "pagina": 5,
+   "cita": "El tren recorrió 100 metros antes de quedar estacionado.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños ni en el material motor ni en las instalaciones.",
+    "afectacion_servicio": "El tren 18059 quedó detenido en vía 1, interceptándose las vías 1 y 2; la circulación se estableció por la vía 4. La circulación normal se restableció a las 08:08 y el tren reanudó su marcha a las 08:11, con un retraso de 39 minutos."
+   },
+   "pagina": 4,
+   "cita": "No se produjeron daños ni en el material motor ni en las instalaciones.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 18059",
+     "implicacion": "Escuchó un golpe al entrar en la estación, bajó de la U/T, comprobó el arrollamiento y comunicó el suceso al Puesto de Mando de Barcelona. Las pruebas de alcoholemia y drogas fueron negativas y su actuación fue considerada correcta."
+    },
+    {
+     "rol": "Víctima",
+     "implicacion": "Varón de 65 años, trabajador de la cafetería de la estación, que cruzó las vías por un paso vicioso practicado en el vallado y resultó fallecido."
+    }
+   ],
+   "pagina": 4,
+   "cita": "El maquinista principal del tren 18059",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "18059",
+     "tipo": "Regional Express",
+     "operador": "Renfe Operadora",
+     "danos": "No se produjeron daños en el material motor ni en las instalaciones."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El tren de viajeros Regional Express nº 18059; de la empresa ferroviaria Renfe Operadora,",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "U/T 470035, formada por 3 coches, masa total 161 toneladas.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático de vía única con Control de Tráfico Centralizado (CTC).",
+    "tipo_via": "Vía única.",
+    "velocidad_maxima": "140 km/h.",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Estación urbana con vías valladas por el municipio. Existen tres pasos a nivel con semibarreras automáticas y dos pasos enmaderados en la zona de andenes. En el paso donde se produjo el accidente había una abertura en el vallado que servía de paso vicioso, con carteles de aviso del peligro de cruzar la vía."
+   },
+   "pagina": 5,
+   "cita": "Descripción de la infraestructura y señalización: Bloqueo Automático de vía única con Control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo Automático de vía única con Control de Tráfico Centralizado (CTC).",
+   "pagina": 5,
+   "cita": "Descripción de la infraestructura y señalización: Bloqueo Automático de vía única con Control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños ni en el material motor ni en las instalaciones.",
+    "afectacion_servicio": "El tren 18059 quedó detenido en vía 1, interceptándose las vías 1 y 2; la circulación se estableció por la vía 4. La circulación normal se restableció a las 08:08 y el tren reanudó su marcha a las 08:11, con un retraso de 39 minutos."
+   },
+   "pagina": 3,
+   "cita": "El tren de viajeros Regional Express nº 18059; de la empresa ferroviaria Renfe Operadora,",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños ni en el material motor ni en las instalaciones.",
+    "afectacion_servicio": "El tren 18059 quedó detenido en vía 1, interceptándose las vías 1 y 2; la circulación se estableció por la vía 4. La circulación normal se restableció a las 08:08 y el tren reanudó su marcha a las 08:11, con un retraso de 39 minutos."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe definitivo ID-211207-290408-CIAF Pág. 1 de 9 INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO N",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños ni en el material motor ni en las instalaciones.",
+    "afectacion_servicio": "El tren 18059 quedó detenido en vía 1, interceptándose las vías 1 y 2; la circulación se estableció por la vía 4. La circulación normal se restableció a las 08:08 y el tren reanudó su marcha a las 08:11, con un retraso de 39 minutos."
+   },
+   "pagina": 4,
+   "cita": "No se produjeron daños ni en el material motor ni en las instalaciones.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "U/T 470035, formada por 3 coches, masa total 161 toneladas.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático de vía única con Control de Tráfico Centralizado (CTC).",
+    "tipo_via": "Vía única.",
+    "velocidad_maxima": "140 km/h.",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Estación urbana con vías valladas por el municipio. Existen tres pasos a nivel con semibarreras automáticas y dos pasos enmaderados en la zona de andenes. En el paso donde se produjo el accidente había una abertura en el vallado que servía de paso vicioso, con carteles de aviso del peligro de cruzar la vía."
+   },
+   "pagina": 5,
+   "cita": "Descripción de la infraestructura y señalización: Bloqueo Automático de vía única con Control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "De noche, con fuerte lluvia y viento, lo que disminuía la visibilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Tarragona",
+    "municipio": null,
+    "estacion": "Salou (Salou-Port Aventura)"
+   },
+   "pagina": 2,
+   "cita": "Tarragona, perteneciente a la Red Ferroviaria de Interés General administrada por Adif.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "De noche, con fuerte lluvia y viento, lo que disminuía la visibilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo Automático de vía única con Control de Tráfico Centralizado (CTC).",
+   "pagina": 5,
+   "cita": "Descripción de la infraestructura y señalización: Bloqueo Automático de vía única con Control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático de vía única con Control de Tráfico Centralizado (CTC).",
+    "tipo_via": "Vía única.",
+    "velocidad_maxima": "140 km/h.",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Estación urbana con vías valladas por el municipio. Existen tres pasos a nivel con semibarreras automáticas y dos pasos enmaderados en la zona de andenes. En el paso donde se produjo el accidente había una abertura en el vallado que servía de paso vicioso, con carteles de aviso del peligro de cruzar la vía."
+   },
+   "pagina": 5,
+   "cita": "Descripción de la infraestructura y señalización: Bloqueo Automático de vía única con Control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "U/T 470035, formada por 3 coches, masa total 161 toneladas.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Cruce indebido de vías por víctima",
+    "Abertura ilegal en vallado de estación",
+    "Acceso al recinto ferroviario por paso vicioso",
+    "No atender indicaciones de atención en andén"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), \ncomunicó a la C.I.A.F. a través de mensaje de telefonía móvil el pasado 21 de diciembre a las 10:38 \nque se había producido el arrollamiento de una persona, resultando fallecida, en la estación de Salou, \nsituada en el punto kilométrico 263,600 de la línea 600 Valencia-San Vicente Calders, en la provincia de \nTarragona, perteneciente a la Red Ferroviaria de Interés General administrada por Adif. \nEl Reglamento sobre seguridad en la circulación de la Red Ferroviaria de Interés General aprobado \npor el Real Decreto 810/2007, de 22 de junio (B.O.E. nº 162 de 07.07.07), en su artículo 21 asigna la \ncompetencia para la investigación de accidentes ferroviarios a la Comisión de Investigación de \nAccidentes Ferroviarios. \nDe conformidad con el artículo 23.1 del mencionado Reglamento, el 11 de diciembre de 2007, el \npresidente de la Comisión de Investigación de Accidentes Ferroviarios designó como técnico \ninvestigador responsable de la Secretaría de la Comisión a : \n− \nUn técnico integrado en la Secretaría de la Comisión de Investigación de Accidentes Ferroviarios. \nIntegrándose el equipo investigador con  \n− \nEl responsable de seguridad de ADIF en la zona Noroeste quien, por delegación expresa del \nDirector de Seguridad en la Circulación de ADIF, entregó su informe particular del accidente el \n21.01.08. \n− \nEl Responsable de Seguridad de RENFE Operadora quien, por delegación expresa del Director de \nSeguridad en la Circulación de RENFE Operadora, entregó su informe particular del accidente el \n15.02.08. \nINECO S.A., empresa pública, en el marco del Acuerdo para la Encomienda de Gestión para el apoyo \na la investigación de accidentes ferroviarios, suscrito con la Dirección General de Ferrocarriles en marzo \nde 2008, ha realizado trabajos de apoyo en la investigación de este accidente al Técnico Responsable \nde la misma.  \n\n## Página 3\n\n \n \n \nInvestigación del accidente \nnº 063/2007 ocurrido el 21.12.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO \nDE \nFOMENTO \nCOMISION DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS \nInforme definitivo \n \n \nID-211207-290408-CIAF \n \n \nPág. 3 de 9",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), comunicó a la C.I.A.F. a través de mensaje de telefonía móvil el pasado 21 de diciembre a las 10:38",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros Regional Express nº 18059, de Renfe Operadora, compuesto por la U/T 470035 formada por 3 coches con masa total de 161 toneladas, entraba por la vía 1 de la estación de Salou, en el PK 263,600 de la línea 600 Valencia-San Vicente Calders, cuando golpeó a una persona que cruzaba las vías por el lado izquierdo en sentido de la marcha del tren, a la altura de uno de los pasos entarimados de la estación. Como consecuencia del arrollamiento resultó fallecido un varón de 65 años.\n\nEl maquinista, al escuchar un golpe mientras entraba en la estación, bajó de la U/T y, avisado por testigos, comprobó que había arrollado a un hombre. Comunicó el suceso al Puesto de Mando de Barcelona, desde donde se informó a los servicios internos y externos. La víctima, aún con vida, fue evacuada, pero falleció a las 08:20 mientras era trasladada en ambulancia.\n\nEl tren implicado quedó detenido en la vía 1, interceptándose las vías 1 y 2, y la circulación quedó establecida por la vía 4. A las 08:08 se restableció la circulación normal tras la evacuación de la víctima, y a las 08:11 el tren 18059 reanudó su marcha, con un retraso de 39 minutos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR LA EMPRESA FERROVIARIA \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por Adif concluye: “El arrollamiento se produce por invasión del gálibo \nimprudentemente de la víctima al cruzar las vías, sin percatarse de la llegada del tren 18059 en ese \nmomento” \nEl elaborado por Renfe Operadora establece que “Causas directas e inmediatas del accidente: \nimprudencia de la víctima que cruzó la vía indebidamente.  \n\n## Página 7\n\n \n \n \nInvestigación del accidente \nnº 063/2007 ocurrido el 21.12.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO \nDE \nFOMENTO \nCOMISION DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS \nInforme definitivo \n \n \nID-211207-290408-CIAF \n \n \nPág. 7 de 9\nPor tanto, ambas conclusiones son coincidentes entre sí en cuanto a la causa del accidente y \ncoincidentes con los datos recogidos.",
+   "pagina": 6,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "El accidente tuvo su origen en el cruce de las vías por la víctima, sin hacer caso a las indicaciones de atención del andén, en el momento en que el tren 18059 llegaba a la estación.",
+   "pagina": 7,
+   "cita": "concluye que: - El accidente tuvo su origen en el cruce de las vías por la víctima – sin hacer caso a las indicaciones de atención que figuran en el andén- en el momento en que el tren citado llegaba a la estación.",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Invasión imprudente del gálibo por parte de la víctima al cruzar las vías sin percatarse de la llegada del tren.",
+    "Existencia de un paso vicioso practicado en el vallado de la estación, por donde accedió la víctima al recinto ferroviario.",
+    "Condiciones atmosféricas del día del accidente, con noche, fuerte lluvia y viento, que disminuían la visibilidad."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así \ncomo los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la investigación \nconcluye que: \n-  \nEl accidente tuvo su origen en el cruce de las vías por la víctima – sin hacer caso a las \nindicaciones de atención que figuran en el andén- en el momento en que el tren citado llegaba a la \nestación.",
+   "pagina": 7,
+   "cita": "6. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la investiga",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así \ncomo los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la investigación \nconcluye que: \n-  \nEl accidente tuvo su origen en el cruce de las vías por la víctima – sin hacer caso a las \nindicaciones de atención que figuran en el andén- en el momento en que el tren citado llegaba a la \nestación.",
+   "pagina": 7,
+   "cita": "6. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la investiga",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Constatado que se ha reparado el vallado, se recomienda su mantenimiento.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "07:32",
+     "evento": "Se produce el arrollamiento de una persona por el tren Regional Express nº 18059 a la entrada del tren en la vía 1 de la estación de Salou."
+    },
+    {
+     "hora": "08:08",
+     "evento": "Una vez evacuada la víctima, se restablece la circulación normal."
+    },
+    {
+     "hora": "08:11",
+     "evento": "El tren 18059 reanuda su marcha."
+    },
+    {
+     "hora": "08:20",
+     "evento": "La víctima fallece mientras era trasladada en ambulancia."
+    },
+    {
+     "hora": "10:38",
+     "evento": "El coordinador de accidentes ferroviarios de Adif comunica a la CIAF el arrollamiento de una persona fallecida en la estación de Salou."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0063/2007",
+ "expediente": "0063/07",
+ "anio": 2007,
+ "titulo": "Arrollamiento de una persona por un tren en la estación de Salou (Tarragona)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ID-211207-290408-CIAF[1].md"
+}

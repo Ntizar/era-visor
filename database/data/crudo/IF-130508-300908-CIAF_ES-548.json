@@ -1,0 +1,887 @@
+{
+ "id": "IF-130508-300908-CIAF_ES-548",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/7CEEF07D-78DE-4070-BA5C-612A96730165/46944/IF130508300908CIAF.pdf",
+ "pdf": "pdfs/ES/IF-130508-300908-CIAF_ES-548.pdf",
+ "md5_pdf": "4e7ef39d94d5ab4ebd6bc240985257fd",
+ "paginas_md": 10,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 6,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0015/2008",
+   "pagina": 1,
+   "cita": "nº 0015/2008 ocurrido el 13.05.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 13 de mayo de 2008, a las 16:35, en el apeadero de Hernani Centro (Guipúzcoa), el tren de larga distancia 401 de Renfe Operadora arrolló a una joven de 27 años que cruzaba por el paso entarimado desde el andén de la vía II a la vía I sin percatarse de la aproximación del tren. La víctima falleció en el lugar. El tren circulaba a 108 km/h, ligeramente por encima de la velocidad máxima permitida de 105 km/h. La actuación del maquinista fue correcta. La CIAF recomendó campañas de sensibilización ciudadana para el uso responsable de las instalaciones ferroviarias.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-05-13",
+    "hora": "16:35",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Hernani Centro",
+     "pk": "615,049",
+     "linea": "100 Madrid-Hendaya",
+     "provincia": "Guipúzcoa",
+     "descripcion_lugar": "Paso entarimado del apeadero de Hernani Centro, vía I. Trayecto Andoaín - Hernani. El tramo se encuentra en curva a derecha (sentido kilometración). A ambos lados del paso entarimado existen avisos con la leyenda 'Cuidado al cruzar. Trenes circulando en ambos sentidos' en euskera y castellano."
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 13 de mayo de 2008, a las 16:35 horas, en el apeadero de Hernani Centro (Guipúzcoa),",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Ambas vías interceptadas 45 minutos (hasta las 17:20). Circulación normal interrumpida 115 minutos. Tren 401 retrasado 85 minutos. Otros 8 trenes de viajeros retrasados 83 minutos en total. 5 trenes de mercancías retrasados 192 minutos en total. Tren 26856 suspendido."
+   },
+   "pagina": 4,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Cruce de la víctima por el paso entarimado sin percatarse de la aproximación del tren 401 por la vía I.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La joven llevaba auriculares puestos, lo que pudo impedirle oír el silbato del tren.",
+    "La joven cruzó sin mirar.",
+    "El tren circulaba a 108 km/h, 3 km/h por encima de la velocidad máxima permitida de 105 km/h (aunque la CIAF concluye que esta diferencia no influyó en el desencadenamiento)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Fomentar campañas de sensibilización ciudadana para el uso responsable de las instalaciones ferroviarias.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: fomentar campañas de sensibilización ciudadana para el uso responsable de las",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Fomentar campañas de sensibilización ciudadana para el uso responsable de las instalaciones ferroviarias.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: fomentar campañas de sensibilización ciudadana para el uso responsable de las",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": 6,
+   "cita": "18/03/2007 Arrollamiento de varón en plena vía, en el P.K. 615,644, entre las estaciones de",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe Operadora"
+   ],
+   "pagina": 2,
+   "cita": "Interés General administrada por Adif, el tren de viajeros de larga distancia 401, de la empresa",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-05-13",
+   "pagina": 2,
+   "cita": "El día 13 de mayo de 2008, a las 16:35 horas, en el apeadero de Hernani Centro (Guipúzcoa),",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "16:35",
+   "pagina": 2,
+   "cita": "El día 13 de mayo de 2008, a las 16:35 horas, en el apeadero de Hernani Centro (Guipúzcoa),",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Hernani Centro",
+    "pk": "615,049",
+    "linea": "100 Madrid-Hendaya",
+    "provincia": "Guipúzcoa",
+    "descripcion_lugar": "Paso entarimado del apeadero de Hernani Centro, vía I. Trayecto Andoaín - Hernani. El tramo se encuentra en curva a derecha (sentido kilometración). A ambos lados del paso entarimado existen avisos con la leyenda 'Cuidado al cruzar. Trenes circulando en ambos sentidos' en euskera y castellano."
+   },
+   "pagina": 6,
+   "cita": "18/03/2007 Arrollamiento de varón en plena vía, en el P.K. 615,644, entre las estaciones de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "100 Madrid-Hendaya",
+   "pagina": 2,
+   "cita": "situado en el P.K. 615,100 de la línea 100 Madrid-Hendaya, perteneciente a la Red Ferroviaria de",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 252071 (UIC: 967192520716) + 3 coches, masa remolcada 150 Tm",
+    "averia": "Ninguna. El material rodante funcionó correctamente según el registrador de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 13 de mayo de 2008, a las 16:35 horas, el tren de viajeros de larga distancia 401 de Renfe Operadora, formado por la locomotora 252071 y 3 coches con una masa remolcada de 150 Tm, circulaba por la vía I del apeadero de Hernani Centro (P.K. 615,049, línea 100 Madrid-Hendaya). Una joven de 27 años, pasajera de otro tren del que se acababa de apear, cruzó por el paso entarimado desde el andén de la vía II hacia la vía I sin percatarse de la aproximación del tren 401. El maquinista, al observar un tren de cercanías detenido en el apeadero, hizo sonar el silbato varias veces. Al iniciar la marcha el tren de cercanías y quedar libre el paso entre andenes, vio a los viajeros esperando, pero la joven, con auriculares puestos, cruzó sin mirar y fue arrollada de lleno por la locomotora. El maquinista frenó y accionó la seta de urgencia, pero no pudo evitar el impacto. Tras detener el tren, comunicó el suceso al Puesto de Mando de Miranda de Ebro. Los servicios sanitarios atendieron a la víctima a las 16:40 horas y comunicaron su fallecimiento a las 18:30 horas, momento en que se levantó el cadáver. Ambas vías quedaron interceptadas hasta las 17:20 horas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Hernani Centro",
+    "pk": "615,049",
+    "linea": "100 Madrid-Hendaya",
+    "provincia": "Guipúzcoa",
+    "descripcion_lugar": "Paso entarimado del apeadero de Hernani Centro, vía I. Trayecto Andoaín - Hernani. El tramo se encuentra en curva a derecha (sentido kilometración). A ambos lados del paso entarimado existen avisos con la leyenda 'Cuidado al cruzar. Trenes circulando en ambos sentidos' en euskera y castellano."
+   },
+   "pagina": 6,
+   "cita": "18/03/2007 Arrollamiento de varón en plena vía, en el P.K. 615,644, entre las estaciones de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Ambas vías interceptadas 45 minutos (hasta las 17:20). Circulación normal interrumpida 115 minutos. Tren 401 retrasado 85 minutos. Otros 8 trenes de viajeros retrasados 83 minutos en total. 5 trenes de mercancías retrasados 192 minutos en total. Tren 26856 suspendido."
+   },
+   "pagina": 4,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección. \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0015/2008 ocurrido el 13.05.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-130508-300908-CIAF \n \n \nPág. 8 de 10",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 401",
+     "implicacion": "Matrícula 8868911. Hacía sonar el silbato al acercarse al apeadero. Al ver cruzar a la joven, frenó y accionó la seta de urgencia. Actuación correcta según la investigación. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Último reciclaje formativo: 20/02/2007. Último reconocimiento psicofísico: 11/11/2005."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El Maquinista principal del tren 401",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "401",
+     "tipo": "viajeros larga distancia",
+     "operador": "Renfe Operadora",
+     "danos": "No se produjeron daños en el material rodante. Retraso de 85 minutos."
+    }
+   ],
+   "pagina": 2,
+   "cita": "ferroviaria Renfe Operadora, a su paso por la vía I arrolla a una persona que cruzaba por el paso",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 252071 (UIC: 967192520716) + 3 coches, masa remolcada 150 Tm",
+    "averia": "Ninguna. El material rodante funcionó correctamente según el registrador de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.). Radiotelefonía modalidad A. Avisos a ambos lados del paso entarimado: 'Cuidado al cruzar. Trenes circulando en ambos sentidos' (euskera y castellano).",
+    "tipo_via": "Vía doble",
+    "velocidad_maxima": "105 km/h (libro horario del tren 401 en el apeadero de Hernani Centro)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "En curva a derecha (sentido kilometración) en el P.K. 615,049. Funcionamiento correcto de los sistemas de control.",
+    "otro": "Paso entarimado entre andenes de vía II y vía I. Administrada por Adif (Red Ferroviaria de Interés General)."
+   },
+   "pagina": 3,
+   "cita": "Trayecto de vía doble con bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.). Radiotelefonía modalidad A. Avisos a ambos lados del paso entarimado: 'Cuidado al cruzar. Trenes circulando en ambos sentidos' (euskera y castellano).",
+   "pagina": 3,
+   "cita": "Trayecto de vía doble con bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Ambas vías interceptadas 45 minutos (hasta las 17:20). Circulación normal interrumpida 115 minutos. Tren 401 retrasado 85 minutos. Otros 8 trenes de viajeros retrasados 83 minutos en total. 5 trenes de mercancías retrasados 192 minutos en total. Tren 26856 suspendido."
+   },
+   "pagina": 4,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Ambas vías interceptadas 45 minutos (hasta las 17:20). Circulación normal interrumpida 115 minutos. Tren 401 retrasado 85 minutos. Otros 8 trenes de viajeros retrasados 83 minutos en total. 5 trenes de mercancías retrasados 192 minutos en total. Tren 26856 suspendido."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-130508-300908-CIAF Pág. 1 de 10 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0015/200",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Ambas vías interceptadas 45 minutos (hasta las 17:20). Circulación normal interrumpida 115 minutos. Tren 401 retrasado 85 minutos. Otros 8 trenes de viajeros retrasados 83 minutos en total. 5 trenes de mercancías retrasados 192 minutos en total. Tren 26856 suspendido."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252071 (UIC: 967192520716) + 3 coches, masa remolcada 150 Tm",
+    "averia": "Ninguna. El material rodante funcionó correctamente según el registrador de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.). Radiotelefonía modalidad A. Avisos a ambos lados del paso entarimado: 'Cuidado al cruzar. Trenes circulando en ambos sentidos' (euskera y castellano).",
+    "tipo_via": "Vía doble",
+    "velocidad_maxima": "105 km/h (libro horario del tren 401 en el apeadero de Hernani Centro)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "En curva a derecha (sentido kilometración) en el P.K. 615,049. Funcionamiento correcto de los sistemas de control.",
+    "otro": "Paso entarimado entre andenes de vía II y vía I. Administrada por Adif (Red Ferroviaria de Interés General)."
+   },
+   "pagina": 3,
+   "cita": "Trayecto de vía doble con bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "De día, condiciones atmosféricas buenas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Guipúzcoa",
+    "municipio": null,
+    "estacion": "Hernani Centro"
+   },
+   "pagina": 2,
+   "cita": "El día 13 de mayo de 2008, a las 16:35 horas, en el apeadero de Hernani Centro (Guipúzcoa),",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "De día, condiciones atmosféricas buenas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.). Radiotelefonía modalidad A. Avisos a ambos lados del paso entarimado: 'Cuidado al cruzar. Trenes circulando en ambos sentidos' (euskera y castellano).",
+   "pagina": 3,
+   "cita": "Trayecto de vía doble con bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.). Radiotelefonía modalidad A. Avisos a ambos lados del paso entarimado: 'Cuidado al cruzar. Trenes circulando en ambos sentidos' (euskera y castellano).",
+    "tipo_via": "Vía doble",
+    "velocidad_maxima": "105 km/h (libro horario del tren 401 en el apeadero de Hernani Centro)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "En curva a derecha (sentido kilometración) en el P.K. 615,049. Funcionamiento correcto de los sistemas de control.",
+    "otro": "Paso entarimado entre andenes de vía II y vía I. Administrada por Adif (Red Ferroviaria de Interés General)."
+   },
+   "pagina": 3,
+   "cita": "Trayecto de vía doble con bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252071 (UIC: 967192520716) + 3 coches, masa remolcada 150 Tm",
+    "averia": "Ninguna. El material rodante funcionó correctamente según el registrador de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Cruce imprudente por paso entarimado",
+    "Uso de auriculares impidiendo percepción",
+    "No mirar antes de cruzar la vía"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 13 de mayo de 2008, a las 16:35 horas, el tren de viajeros de larga distancia 401 de Renfe Operadora, formado por la locomotora 252071 y 3 coches con una masa remolcada de 150 Tm, circulaba por la vía I del apeadero de Hernani Centro (P.K. 615,049, línea 100 Madrid-Hendaya). Una joven de 27 años, pasajera de otro tren del que se acababa de apear, cruzó por el paso entarimado desde el andén de la vía II hacia la vía I sin percatarse de la aproximación del tren 401. El maquinista, al observar un tren de cercanías detenido en el apeadero, hizo sonar el silbato varias veces. Al iniciar la marcha el tren de cercanías y quedar libre el paso entre andenes, vio a los viajeros esperando, pero la joven, con auriculares puestos, cruzó sin mirar y fue arrollada de lleno por la locomotora. El maquinista frenó y accionó la seta de urgencia, pero no pudo evitar el impacto. Tras detener el tren, comunicó el suceso al Puesto de Mando de Miranda de Ebro. Los servicios sanitarios atendieron a la víctima a las 16:40 horas y comunicaron su fallecimiento a las 18:30 horas, momento en que se levantó el cadáver. Ambas vías quedaron interceptadas hasta las 17:20 horas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl lugar donde se produjo el arrollamiento se sitúa en el paso entarimado del apeadero de Hernani \nCentro. \nSegún lo declarado por el maquinista, momentos antes del arrollamiento, hizo uso del silbato y \nposteriormente, ante la imposibilidad de evitar el arrollamiento, accionó la seta de urgencia, sistema \nque actúa sobre el freno. Por ello, la actuación del maquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasas de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario. \nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nSegún el registrador de seguridad de la locomotora, el tren circulaba a una velocidad tres \nkilómetros por encima de la máxima permitida. Esta ligera diferencia únicamente aumenta el tiempo \nde frenado en milésimas de segundo, situación que no influyó en el desencadenamiento de los \nhechos. \nSegún lo declarado por el maquinista, la joven, pasajera de otro tren del que se acababa de apear, \ncruzó sin mirar y con unos auriculares puestos, una circunstancia que se puede valorar como \ncoadyuvante del accidente. \nComo se recoge en el punto 2.2.3. de este informe, a ambos lados del paso entarimado existen \nsendos carteles de aviso recomendando precaución al cruzar. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \n- El accidente tuvo su origen en el cruce de la víctima por el paso entarimado sin darse cuenta de \nque el tren 401 se aproximaba por la vía I.",
+   "pagina": 7,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Cruce de la víctima por el paso entarimado sin percatarse de la aproximación del tren 401 por la vía I.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La joven llevaba auriculares puestos, lo que pudo impedirle oír el silbato del tren.",
+    "La joven cruzó sin mirar.",
+    "El tren circulaba a 108 km/h, 3 km/h por encima de la velocidad máxima permitida de 105 km/h (aunque la CIAF concluye que esta diferencia no influyó en el desencadenamiento)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección. \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0015/2008 ocurrido el 13.05.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-130508-300908-CIAF \n \n \nPág. 8 de 10",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección. \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0015/2008 ocurrido el 13.05.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-130508-300908-CIAF \n \n \nPág. 8 de 10",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección. \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0015/2008 ocurrido el 13.05.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-130508-300908-CIAF \n \n \nPág. 8 de 10",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Fomentar campañas de sensibilización ciudadana para el uso responsable de las instalaciones ferroviarias.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: fomentar campañas de sensibilización ciudadana para el uso responsable de las",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "16:35",
+     "evento": "Arrollamiento de la joven por el tren 401 en el paso entarimado del apeadero de Hernani Centro, vía I."
+    },
+    {
+     "hora": "16:40",
+     "evento": "Los servicios sanitarios proceden a atender a la víctima."
+    },
+    {
+     "hora": "17:17",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF vía telefonía móvil."
+    },
+    {
+     "hora": "17:20",
+     "evento": "Se levanta la interceptación de ambas vías; por la vía I se autoriza circulación a 5 km/h."
+    },
+    {
+     "hora": "18:30",
+     "evento": "Comunicación del fallecimiento de la víctima; se levanta el cadáver."
+    },
+    {
+     "hora": null,
+     "evento": "Circulación normal restablecida tras 115 minutos de interrupción total."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0015/2008",
+ "expediente": "0015/08",
+ "anio": 2008,
+ "titulo": "Informe final sobre la investigación del accidente ferroviario nº 0015/2008 ocurrido el día 13.05.2008",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-130508-300908-CIAF_ES-548.md"
+}

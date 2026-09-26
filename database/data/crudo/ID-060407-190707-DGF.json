@@ -1,0 +1,897 @@
+{
+ "id": "ID-060407-190707-DGF",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-060407-190707-DGF.pdf",
+ "pdf": "pdfs/ES/ID-060407-190707-DGF.pdf",
+ "md5_pdf": "79860deaeb0409f3cfea8885d5d2779b",
+ "paginas_md": 6,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 11,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "23/2007",
+   "pagina": 1,
+   "cita": "nº 23/2007 ocurrido el 06.04.2007",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 6 de abril de 2007, en la estación de Villalba de Guadarrama (Madrid), un viajero de 54 años fue arrollado mortalmente al intentar abrir la puerta y subir a un tren de Cercanías de Renfe (nº 21162) ya en marcha. El tren se detuvo a los 21 metros tras alcanzar una velocidad máxima de 13 km/h, pero la persona quedó atrapada entre el andén y el tren. Pese a los intentos de reanimación, se certificó su muerte a las 22:00. El accidente se atribuyó a la imprudencia de la víctima.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-04-06",
+    "hora": "20:53",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Villalba de Guadarrama",
+     "pk": "37/893",
+     "linea": "100 Madrid-Hendaya",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Andén de la vía 10, en recta, topera de vía 10. Red Ferroviaria de Interés General administrada por Adif."
+    }
+   },
+   "pagina": 5,
+   "cita": "El tren 21162 estaba estacionado en topera de vía 10, lugar donde iniciaba su marcha a las",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+    "afectacion_servicio": "Transbordo de los viajeros del tren 21162 al tren 17246."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Imprudencia de la víctima al caminar en paralelo al tren en marcha e intentar abrir la puerta para acceder al mismo, introduciéndose el pie entre coche y andén y cayendo atrapada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Lluvia y visibilidad reducida en el andén",
+    "Espejo retrovisor del maquinista mojado por la lluvia, dificultando la visión",
+    "La víctima se encontraba en el andén sin hacer ademán de subir, lo que pudo llevar al maquinista a no prever su intención"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Realizar campañas de sensibilización para evitar que viajeros intenten subir o bajar de un tren en marcha.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 6,
+   "cita": "Se estima conveniente realizar campañas de sensibilización para evitar que viajeros",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Realizar campañas de sensibilización para evitar que viajeros intenten subir o bajar de un tren en marcha.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 6,
+   "cita": "Se estima conveniente realizar campañas de sensibilización para evitar que viajeros",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó a través de mensaje de texto de telefonía móvil el pasado 6 de abril, que se",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-04-06",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "20:53",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:hora"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Villalba de Guadarrama",
+    "pk": "37/893",
+    "linea": "100 Madrid-Hendaya",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Andén de la vía 10, en recta, topera de vía 10. Red Ferroviaria de Interés General administrada por Adif."
+   },
+   "pagina": 5,
+   "cita": "El tren 21162 estaba estacionado en topera de vía 10, lugar donde iniciaba su marcha a las",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 100 Madrid-Hendaya",
+   "pagina": 2,
+   "cita": "de Villalba de Guadarrama, pk 37/893 de la Línea 100 Madrid-Hendaya, en la provincia de",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "3v/198t Tm.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de Cercanías 21162 de Renfe, compuesto por 3 vagones y 198 toneladas, realizaba su salida a las 20:53 desde la topera de vía 10 de la estación de Villalba de Guadarrama. Un viajero de 54 años que se encontraba en el andén, a la altura de la última puerta de la composición, intentó abrir la puerta para subir al tren ya en marcha, introduciéndose el pie entre el coche y el andén, cayendo y quedando atrapado entre ambos. El tren fue detenido a 21 metros de su inicio de marcha, tras alcanzar una velocidad máxima de 13 km/h. La persona fue rescatada a las 21:30 por los Bomberos de la Comunidad, y tras los intentos de reanimación por parte del SAMUR, se certificó su fallecimiento a las 22:00. El levantamiento del cadáver se autorizó a las 23:30.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Villalba de Guadarrama",
+    "pk": "37/893",
+    "linea": "100 Madrid-Hendaya",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Andén de la vía 10, en recta, topera de vía 10. Red Ferroviaria de Interés General administrada por Adif."
+   },
+   "pagina": 5,
+   "cita": "El tren 21162 estaba estacionado en topera de vía 10, lugar donde iniciaba su marcha a las",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+    "afectacion_servicio": "Transbordo de los viajeros del tren 21162 al tren 17246."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Jefe de Circulación de Villalba de Guadarrama",
+     "implicacion": "Matrícula 1344951. Presintió el riesgo y cerró la señal de salida S2/10."
+    },
+    {
+     "rol": "Maquinista del tren 21162",
+     "implicacion": "Matrícula 8845711. Detuvo el tren de motu proprio. Jornada previa 3h18min, 24h anteriores 8h, 48h anteriores descanso. Último reconocimiento médico 17.09.2004. Curso reciclaje RGC 01.02.2007. Prueba de alcoholemia negativa (0,00mg/1000ml)."
+    },
+    {
+     "rol": "Víctima",
+     "implicacion": "Varón de 54 años, viajero que intentó subir al tren en marcha."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El Jefe de Circulación de Villalba de Guadarrama, con nº de matrícula 1344951.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "21162",
+     "tipo": "Cercanías",
+     "operador": "Renfe",
+     "danos": "ninguno"
+    },
+    {
+     "numero": "17246",
+     "tipo": "Cercanías",
+     "operador": "Renfe",
+     "danos": "ninguno"
+    }
+   ],
+   "pagina": 2,
+   "cita": "El tren de Cercanías 21162 de la empresa ferroviaria Renfe, compuesto por 3v/198t  Tm.,",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "3v/198t Tm.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado. Señal de salida S2/10. Monitores de circuito cerrado de TV en el gabinete de circulación con visión longitudinal del andén. Megafonía y cartelones luminosos anunciando la salida de los trenes.",
+    "tipo_via": "Andén de vía 10 en recta",
+    "velocidad_maxima": "13 km/h (velocidad alcanzada por el tren antes de frenar)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Red Ferroviaria de Interés General administrada por Adif. Línea 100 Madrid-Hendaya."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con Control de Tráfico Centralizado.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado. Señal de salida S2/10. Monitores de circuito cerrado de TV en el gabinete de circulación con visión longitudinal del andén. Megafonía y cartelones luminosos anunciando la salida de los trenes.",
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con Control de Tráfico Centralizado.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+    "afectacion_servicio": "Transbordo de los viajeros del tren 21162 al tren 17246."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+    "afectacion_servicio": "Transbordo de los viajeros del tren 21162 al tren 17246."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+    "afectacion_servicio": "Transbordo de los viajeros del tren 21162 al tren 17246."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "3v/198t Tm.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado. Señal de salida S2/10. Monitores de circuito cerrado de TV en el gabinete de circulación con visión longitudinal del andén. Megafonía y cartelones luminosos anunciando la salida de los trenes.",
+    "tipo_via": "Andén de vía 10 en recta",
+    "velocidad_maxima": "13 km/h (velocidad alcanzada por el tren antes de frenar)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Red Ferroviaria de Interés General administrada por Adif. Línea 100 Madrid-Hendaya."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con Control de Tráfico Centralizado.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Lluvia en el momento del accidente, visibilidad reducida. El espejo retrovisor del maquinista se encontraba mojado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": "Villalba de Guadarrama"
+   },
+   "pagina": 2,
+   "cita": "de Villalba de Guadarrama, pk 37/893 de la Línea 100 Madrid-Hendaya, en la provincia de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Lluvia en el momento del accidente, visibilidad reducida. El espejo retrovisor del maquinista se encontraba mojado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado. Señal de salida S2/10. Monitores de circuito cerrado de TV en el gabinete de circulación con visión longitudinal del andén. Megafonía y cartelones luminosos anunciando la salida de los trenes.",
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con Control de Tráfico Centralizado.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado. Señal de salida S2/10. Monitores de circuito cerrado de TV en el gabinete de circulación con visión longitudinal del andén. Megafonía y cartelones luminosos anunciando la salida de los trenes.",
+    "tipo_via": "Andén de vía 10 en recta",
+    "velocidad_maxima": "13 km/h (velocidad alcanzada por el tren antes de frenar)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Red Ferroviaria de Interés General administrada por Adif. Línea 100 Madrid-Hendaya."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con Control de Tráfico Centralizado.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "3v/198t Tm.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Lluvia y visibilidad reducida en el andén",
+    "Espejo retrovisor del maquinista mojado por la lluvia, dificultando la visión",
+    "La víctima se encontraba en el andén sin hacer ademán de subir, lo que pudo llevar al maquinista a no prever su intención"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(Adif), comunicó a través de mensaje de texto de telefonía móvil el pasado 6 de abril, que se \nhabía producido el arrollamiento de una persona resultando fallecida la misma, en la estación \nde Villalba de Guadarrama, pk 37/893 de la Línea 100 Madrid-Hendaya, en la provincia de \nMadrid, perteneciente a la Red Ferroviaria de Interés General administrada por Adif. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles de acuerdo \ncon el citado artículo.  \nDe conformidad con el artículo 112 del mencionado Reglamento, el 1 de Enero de 2007 la \nDirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), comunicó a través de mensaje de texto de telefonía móvil el pasado 6 de abril, que se había producid",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de Cercanías 21162 de Renfe, compuesto por 3 vagones y 198 toneladas, realizaba su salida a las 20:53 desde la topera de vía 10 de la estación de Villalba de Guadarrama. Un viajero de 54 años que se encontraba en el andén, a la altura de la última puerta de la composición, intentó abrir la puerta para subir al tren ya en marcha, introduciéndose el pie entre el coche y el andén, cayendo y quedando atrapado entre ambos. El tren fue detenido a 21 metros de su inicio de marcha, tras alcanzar una velocidad máxima de 13 km/h. La persona fue rescatada a las 21:30 por los Bomberos de la Comunidad, y tras los intentos de reanimación por parte del SAMUR, se certificó su fallecimiento a las 22:00. El levantamiento del cadáver se autorizó a las 23:30.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR LA EMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por ADIF concluye “El accidente se origina por la imprudencia de la víctima, al\ncaminar en paralelo al en, para intentar abrir la puerta y acceder al mismo una vez iniciada \nla marcha”.  \n \ntr\nt\n \nEl elaborado por RENFE establece que “Imprudencia de la víctima por correr jun o al tren \ncuando se encuentra en movimiento”.  \nPor tanto, ambas conclusiones son coincidentes entre sí en cuanto a la causa del accidente.",
+   "pagina": 5,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Imprudencia de la víctima al caminar en paralelo al tren en marcha e intentar abrir la puerta para acceder al mismo, introduciéndose el pie entre coche y andén y cayendo atrapada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Lluvia y visibilidad reducida en el andén",
+    "Espejo retrovisor del maquinista mojado por la lluvia, dificultando la visión",
+    "La víctima se encontraba en el andén sin hacer ademán de subir, lo que pudo llevar al maquinista a no prever su intención"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "A la vista de los datos recogidos por el Administrador de la infraestructura, se estima que el \naccidente tuvo su origen en la impudencia de la víctima por correr en paralelo al tren e \nintentar abrir la puerta una vez iniciada la marcha. \n \n \nID-060407-190707-DGF \n \n \nPág. 5 de 6\n\n## Página 6\n\n \nInvestigación del accidente \nnº 23/2007 ocurrido el 06.04.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme  definitivo \n19.07.2007",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES A la vista de los datos recogidos por el Administrador de la infraestructura, se estima que el accidente tuvo su origen en la impudencia de la víctima por correr en paralelo al tren e intentar abrir la",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "A la vista de los datos recogidos por el Administrador de la infraestructura, se estima que el \naccidente tuvo su origen en la impudencia de la víctima por correr en paralelo al tren e \nintentar abrir la puerta una vez iniciada la marcha. \n \n \nID-060407-190707-DGF \n \n \nPág. 5 de 6\n\n## Página 6\n\n \nInvestigación del accidente \nnº 23/2007 ocurrido el 06.04.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme  definitivo \n19.07.2007",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES A la vista de los datos recogidos por el Administrador de la infraestructura, se estima que el accidente tuvo su origen en la impudencia de la víctima por correr en paralelo al tren e intentar abrir la",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Realizar campañas de sensibilización para evitar que viajeros intenten subir o bajar de un tren en marcha.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 6,
+   "cita": "Se estima conveniente realizar campañas de sensibilización para evitar que viajeros",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "20:53",
+     "evento": "Salida del tren 21162 desde la topera de vía 10. El viajero cae entre el andén y el tren en movimiento."
+    },
+    {
+     "hora": "20:53",
+     "evento": "Detención del tren a 21 metros de su inicio de marcha. Se verifica que la persona está atrapada pero con vida."
+    },
+    {
+     "hora": "21:30",
+     "evento": "Rescate de la persona por los Bomberos de la Comunidad."
+    },
+    {
+     "hora": "22:00",
+     "evento": "Certificación del fallecimiento tras intentos de reanimación por Urgencia Médica de Madrid."
+    },
+    {
+     "hora": "23:30",
+     "evento": "Autorización del levantamiento del cadáver."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0023/2007",
+ "expediente": "23/2007",
+ "anio": 2007,
+ "titulo": "Arrollamiento mortal de un viajero en la estación de Villalba de Guadarrama (Madrid)",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-060407-190707-DGF.md"
+}

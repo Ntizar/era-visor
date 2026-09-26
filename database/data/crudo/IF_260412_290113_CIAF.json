@@ -1,0 +1,893 @@
+{
+ "id": "IF_260412_290113_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/EAB2B735-BA34-474C-BAA4-A04767860091/116386/IF260412290113CIAF.pdf",
+ "pdf": "pdfs/ES/IF_260412_290113_CIAF.pdf",
+ "md5_pdf": "52ddb75194057504d21973c87d3b7a3f",
+ "paginas_md": 13,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 18,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0030/2012",
+   "pagina": 1,
+   "cita": "nº 0030/2012 ocurrido el 26.04.2012",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2012-04-26, a las 23:58 horas, el tren de mercancías 99561 de Logitren rebasó indebidamente la señal de salida S1/3 en parada en la estación (apartadero) de Río Huerva, Zaragoza. El rebase produjo un conato de colisión con el tren 91182 de Renfe Operadora, que estaba detenido ante la señal de entrada E2 para el cruce. No hubo fallecidos, heridos ni daños materiales, pero el tren 99561 acumuló 180 minutos de retraso y el 91182, 6 minutos. La causa directa fue el incumplimiento de la orden de parada por el personal de conducción; no se establecieron recomendaciones.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2012-04-26",
+    "hora": "23:58",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Río Huerva",
+     "pk": "16+973",
+     "linea": "214 La Cartuja a CIM de Zaragoza",
+     "provincia": "Zaragoza",
+     "descripcion_lugar": "Estación (apartadero) de Río Huerva, PK 16+973, tramo Bif. Teruel – Cartuja –Ag. 23.3, municipio Cerveruela, provincia de Zaragoza; vía única electrificada, enclavamiento electrónico y dos vías, en paralelo con el Bypass de Zaragoza de la LAV Madrid-Barcelona."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 26 de abril de 2012, a las 23:58 horas, en la estación (apartadero) de Río Huerva (Zaragoza),",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en la infraestructura ni en el material rodante.",
+    "afectacion_servicio": "Conato de colisión; el tren 99561 sufrió 180 minutos de retraso y el tren 91182, 6 minutos; el 99561 fue autorizado a retroceder a vía 3 y reanudó la marcha a las 02:50 del 27 de abril de 2012."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Rebase indebido de la señal de salida S1/3 en indicación de parada, por incumplimiento de la orden dada por la señal al personal de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El maquinista observó varias señales en parada al final de la vía 3 y pensó que la S1/3 no era la señal de salida de la vía por la que circulaba.",
+    "El inicio del frenado se produjo a solo 25 metros de la señal S1/3, a 24 km/h, lo que impidió detenerse antes de rebasarla.",
+    "Aunque las señales tenían buena visibilidad y el tren circulaba a poca velocidad, el maquinista no se apercibió a tiempo de la indicación de parada."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente",
+   "pagina": 1,
+   "cita": "Investigación del incidente",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Logitren",
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "Logitren rebasa indebidamente la señal de salida S1/3 que se encontraba en parada, produciéndose un",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2012-04-26",
+   "pagina": 3,
+   "cita": "El día 26 de abril de 2012, a las 23:58 horas, en la estación (apartadero) de Río Huerva (Zaragoza),",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "23:58",
+   "pagina": 3,
+   "cita": "El día 26 de abril de 2012, a las 23:58 horas, en la estación (apartadero) de Río Huerva (Zaragoza),",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Río Huerva",
+    "pk": "16+973",
+    "linea": "214 La Cartuja a CIM de Zaragoza",
+    "provincia": "Zaragoza",
+    "descripcion_lugar": "Estación (apartadero) de Río Huerva, PK 16+973, tramo Bif. Teruel – Cartuja –Ag. 23.3, municipio Cerveruela, provincia de Zaragoza; vía única electrificada, enclavamiento electrónico y dos vías, en paralelo con el Bypass de Zaragoza de la LAV Madrid-Barcelona."
+   },
+   "pagina": 4,
+   "cita": "circuito de agujas y estacionarse en ésta al no haber talonado la aguja.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "214 La Cartuja a CIM de Zaragoza",
+   "pagina": 3,
+   "cita": "214 La Cartuja a CIM de Zaragoza",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tren 99561: origen Barcelona-Morrot, destino Santurce (Vizcaya); locomotora diésel-eléctrica serie 335, Nº UIC 957103350287; tren tipo T100; 14 vagones PMMC cargados; 84 ejes; 414 metros; 947 toneladas.",
+    "averia": "Ninguna; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 26 de abril de 2012, a las 23:58 horas, los trenes de mercancías 99561 de Logitren y 91182 de Renfe Operadora circulaban en sentido contrario por vía única hacia la estación de Río Huerva, en la línea 214 La Cartuja a CIM de Zaragoza. Para permitir el cruce, el CTC dispuso la detención del tren 91182 ante la señal de entrada E2 y un itinerario de entrada hasta la señal S1/3 para el tren 99561.\n\nEl tren 99561 encontró la señal de avanzada E'1 en anuncio de precaución y la señal de entrada E1 en anuncio de parada, ambas reconocidas por el maquinista. Tras acceder a vía 3, el maquinista no se apercibió a tiempo de la señal de salida S1/3, que indicaba parada; aplicó el freno de emergencia a 24 km/h y a 25 metros de la señal, pero rebasó la señal a 20 km/h y quedó detenido 18 metros después, sin talonar el cambio de acceso a vía general. El sistema ASFA activó de forma redundante el frenado de urgencia.\n\nEn ese momento, el tren 91182 estaba detenido ante la señal E2, con indicación de parada, produciéndose un conato de colisión entre ambos trenes, que quedaron enfrentados a más de 110 metros. El tren 99561 comunicó el suceso al CTC y se cursó aviso a Seguridad en la circulación, Jefatura técnica de operaciones de Aragón, CPS de Adif y Logitren; al no haber talonado la aguja, fue autorizado a retroceder por vía 3 hasta liberar el circuito de agujas y estacionarse, reanudando la marcha a las 02:50 horas del 27 de abril de 2012.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Río Huerva",
+    "pk": "16+973",
+    "linea": "214 La Cartuja a CIM de Zaragoza",
+    "provincia": "Zaragoza",
+    "descripcion_lugar": "Estación (apartadero) de Río Huerva, PK 16+973, tramo Bif. Teruel – Cartuja –Ag. 23.3, municipio Cerveruela, provincia de Zaragoza; vía única electrificada, enclavamiento electrónico y dos vías, en paralelo con el Bypass de Zaragoza de la LAV Madrid-Barcelona."
+   },
+   "pagina": 4,
+   "cita": "circuito de agujas y estacionarse en ésta al no haber talonado la aguja.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en la infraestructura ni en el material rodante.",
+    "afectacion_servicio": "Conato de colisión; el tren 99561 sufrió 180 minutos de retraso y el tren 91182, 6 minutos; el 99561 fue autorizado a retroceder a vía 3 y reanudó la marcha a las 02:50 del 27 de abril de 2012."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 99561",
+     "implicacion": "Conducía el tren Logitren; matrícula 41515728-Y-B; no llevaba acompañante; llevaba teléfono móvil particular pero no lo utilizó; no recibió ninguna orden, solo las señales; título B habilitado; llevaba 7 meses como maquinista para Logitren desde junio de 2011; último reconocimiento médico y psicotécnico 2010-12-09; prueba de alcoholemia 2012-04-27 a las 01:15 negativa; rebasó la señal S1/3 en parada; Logitren aplicó procedimiento de actuación por fallo humano."
+    }
+   ],
+   "pagina": 5,
+   "cita": "El maquinista del tren 99561, con matrícula 41515728-Y-B.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "99561",
+     "tipo": "Tren de mercancías",
+     "operador": "Logitren",
+     "danos": "Sin daños materiales"
+    },
+    {
+     "numero": "91182",
+     "tipo": "Tren",
+     "operador": "Renfe Operadora",
+     "danos": "Sin daños materiales"
+    }
+   ],
+   "pagina": 3,
+   "cita": "perteneciente a la línea 214 La Cartuja a Zaragoza CIM, el tren de mercancías 99561 de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tren 99561: origen Barcelona-Morrot, destino Santurce (Vizcaya); locomotora diésel-eléctrica serie 335, Nº UIC 957103350287; tren tipo T100; 14 vagones PMMC cargados; 84 ejes; 414 metros; 947 toneladas.",
+    "averia": "Ninguna; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de avanzada E'1 alta de tres focos, con baliza previa, baliza de señal y pantalla alfanumérica; señal de entrada E1 alta de tres focos, con baliza previa y de señal; señal de salida S1/3 mono bajo de cuatro focos, con baliza de pie y buena visibilidad; señal E2 en parada para el tren 91182; enclavamiento electrónico; ASFA activo.",
+    "tipo_via": "Vía única electrificada; estación/apartadero con dos vías; escapes tipo B por ambos lados, con paso por vía desviada a 50 km/h.",
+    "velocidad_maxima": "160 km/h en el tramo; 50 km/h en el paso por desvío; tren 99561 tipo T100, velocidad máxima 100 km/h.",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Funcionó correctamente; no se produjeron daños en la infraestructura.",
+    "otro": "Bloqueo automático BAU con control de tráfico centralizado (CTC) gestionado desde Zaragoza; radiotelefonía analógica y telefonía móvil GSM; tráfico medio semanal de 230 circulaciones en el tramo, considerado bajo; variante exterior a Zaragoza para mercancías; trazado en curva a derechas de radio amplio (unos 2000 m) y rampa de 16 milésimas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de avanzada E'1 alta de tres focos, con baliza previa, baliza de señal y pantalla alfanumérica; señal de entrada E1 alta de tres focos, con baliza previa y de señal; señal de salida S1/3 mono bajo de cuatro focos, con baliza de pie y buena visibilidad; señal E2 en parada para el tren 91182; enclavamiento electrónico; ASFA activo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía analógica y telefonía móvil GSM.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en la infraestructura ni en el material rodante.",
+    "afectacion_servicio": "Conato de colisión; el tren 99561 sufrió 180 minutos de retraso y el tren 91182, 6 minutos; el 99561 fue autorizado a retroceder a vía 3 y reanudó la marcha a las 02:50 del 27 de abril de 2012."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en la infraestructura ni en el material rodante.",
+    "afectacion_servicio": "Conato de colisión; el tren 99561 sufrió 180 minutos de retraso y el tren 91182, 6 minutos; el 99561 fue autorizado a retroceder a vía 3 y reanudó la marcha a las 02:50 del 27 de abril de 2012."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en la infraestructura ni en el material rodante.",
+    "afectacion_servicio": "Conato de colisión; el tren 99561 sufrió 180 minutos de retraso y el tren 91182, 6 minutos; el 99561 fue autorizado a retroceder a vía 3 y reanudó la marcha a las 02:50 del 27 de abril de 2012."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 99561: origen Barcelona-Morrot, destino Santurce (Vizcaya); locomotora diésel-eléctrica serie 335, Nº UIC 957103350287; tren tipo T100; 14 vagones PMMC cargados; 84 ejes; 414 metros; 947 toneladas.",
+    "averia": "Ninguna; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de avanzada E'1 alta de tres focos, con baliza previa, baliza de señal y pantalla alfanumérica; señal de entrada E1 alta de tres focos, con baliza previa y de señal; señal de salida S1/3 mono bajo de cuatro focos, con baliza de pie y buena visibilidad; señal E2 en parada para el tren 91182; enclavamiento electrónico; ASFA activo.",
+    "tipo_via": "Vía única electrificada; estación/apartadero con dos vías; escapes tipo B por ambos lados, con paso por vía desviada a 50 km/h.",
+    "velocidad_maxima": "160 km/h en el tramo; 50 km/h en el paso por desvío; tren 99561 tipo T100, velocidad máxima 100 km/h.",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Funcionó correctamente; no se produjeron daños en la infraestructura.",
+    "otro": "Bloqueo automático BAU con control de tráfico centralizado (CTC) gestionado desde Zaragoza; radiotelefonía analógica y telefonía móvil GSM; tráfico medio semanal de 230 circulaciones en el tramo, considerado bajo; variante exterior a Zaragoza para mercancías; trazado en curva a derechas de radio amplio (unos 2000 m) y rampa de 16 milésimas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche, con tiempo atmosférico despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Zaragoza",
+    "municipio": null,
+    "estacion": "Río Huerva"
+   },
+   "pagina": 3,
+   "cita": "El día 26 de abril de 2012, a las 23:58 horas, en la estación (apartadero) de Río Huerva (Zaragoza),",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche, con tiempo atmosférico despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de avanzada E'1 alta de tres focos, con baliza previa, baliza de señal y pantalla alfanumérica; señal de entrada E1 alta de tres focos, con baliza previa y de señal; señal de salida S1/3 mono bajo de cuatro focos, con baliza de pie y buena visibilidad; señal E2 en parada para el tren 91182; enclavamiento electrónico; ASFA activo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de avanzada E'1 alta de tres focos, con baliza previa, baliza de señal y pantalla alfanumérica; señal de entrada E1 alta de tres focos, con baliza previa y de señal; señal de salida S1/3 mono bajo de cuatro focos, con baliza de pie y buena visibilidad; señal E2 en parada para el tren 91182; enclavamiento electrónico; ASFA activo.",
+    "tipo_via": "Vía única electrificada; estación/apartadero con dos vías; escapes tipo B por ambos lados, con paso por vía desviada a 50 km/h.",
+    "velocidad_maxima": "160 km/h en el tramo; 50 km/h en el paso por desvío; tren 99561 tipo T100, velocidad máxima 100 km/h.",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Funcionó correctamente; no se produjeron daños en la infraestructura.",
+    "otro": "Bloqueo automático BAU con control de tráfico centralizado (CTC) gestionado desde Zaragoza; radiotelefonía analógica y telefonía móvil GSM; tráfico medio semanal de 230 circulaciones en el tramo, considerado bajo; variante exterior a Zaragoza para mercancías; trazado en curva a derechas de radio amplio (unos 2000 m) y rampa de 16 milésimas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía analógica y telefonía móvil GSM.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 99561: origen Barcelona-Morrot, destino Santurce (Vizcaya); locomotora diésel-eléctrica serie 335, Nº UIC 957103350287; tren tipo T100; 14 vagones PMMC cargados; 84 ejes; 414 metros; 947 toneladas.",
+    "averia": "Ninguna; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "CTC dispuso itinerario de entrada",
+    "CTC dispuso detención de tren",
+    "Maquinista no se apercibió a tiempo",
+    "Inició frenado a 25 metros"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 99561 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio (Título V – Personal de conducción – en vigor hasta 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre).  \n\n## Página 9\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0030/2012 ocurrido el 26.04.2012 \nInforme final  \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n \nIF-260412-290113-CIAF \n \n \nPág. 9 de 13\nHasta el suceso, había trabajado como maquinista para la empresa Logitren 7 meses, desde junio de \n2011 y en dos periodos separados. Desde su inicio realizaba este servicio.  \nRealizó último reconocimiento médico y psicotécnico el 09/12/2010 de acuerdo a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 8,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 26 de abril de 2012, a las 23:58 horas, los trenes de mercancías 99561 de Logitren y 91182 de Renfe Operadora circulaban en sentido contrario por vía única hacia la estación de Río Huerva, en la línea 214 La Cartuja a CIM de Zaragoza. Para permitir el cruce, el CTC dispuso la detención del tren 91182 ante la señal de entrada E2 y un itinerario de entrada hasta la señal S1/3 para el tren 99561.\n\nEl tren 99561 encontró la señal de avanzada E'1 en anuncio de precaución y la señal de entrada E1 en anuncio de parada, ambas reconocidas por el maquinista. Tras acceder a vía 3, el maquinista no se apercibió a tiempo de la señal de salida S1/3, que indicaba parada; aplicó el freno de emergencia a 24 km/h y a 25 metros de la señal, pero rebasó la señal a 20 km/h y quedó detenido 18 metros después, sin talonar el cambio de acceso a vía general. El sistema ASFA activó de forma redundante el frenado de urgencia.\n\nEn ese momento, el tren 91182 estaba detenido ante la señal E2, con indicación de parada, produciéndose un conato de colisión entre ambos trenes, que quedaron enfrentados a más de 110 metros. El tren 99561 comunicó el suceso al CTC y se cursó aviso a Seguridad en la circulación, Jefatura técnica de operaciones de Aragón, CPS de Adif y Logitren; al no haber talonado la aguja, fue autorizado a retroceder por vía 3 hasta liberar el circuito de agujas y estacionarse, reanudando la marcha a las 02:50 horas del 27 de abril de 2012.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Rebase indebido de la señal de salida S1/3 en indicación de parada, por incumplimiento de la orden dada por la señal al personal de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El maquinista observó varias señales en parada al final de la vía 3 y pensó que la S1/3 no era la señal de salida de la vía por la que circulaba.",
+    "El inicio del frenado se produjo a solo 25 metros de la señal S1/3, a 24 km/h, lo que impidió detenerse antes de rebasarla.",
+    "Aunque las señales tenían buena visibilidad y el tren circulaba a poca velocidad, el maquinista no se apercibió a tiempo de la indicación de parada."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "23:55",
+     "evento": "El tren 99561 pasa por la baliza de pie de la señal de avanzada E'1 en anuncio de precaución, a 47 km/h."
+    },
+    {
+     "hora": "23:57",
+     "evento": "El tren 99561 pasa por la baliza previa y de pie de la señal de entrada E1 en anuncio de parada; el maquinista reconoce las indicaciones."
+    },
+    {
+     "hora": "23:58",
+     "evento": "El tren 99561 aplica freno de emergencia a 24 km/h, a 25 metros de la señal S1/3, al percatarse de su indicación de parada."
+    },
+    {
+     "hora": "23:58",
+     "evento": "El tren 99561 rebasa la señal S1/3 en parada a 20 km/h; se activa el frenado de urgencia por ASFA y se produce el conato de colisión con el tren 91182."
+    },
+    {
+     "hora": "23:59",
+     "evento": "El tren 99561 queda detenido 18 metros después de la señal S1/3, sin talonar el cambio."
+    },
+    {
+     "hora": "01:15",
+     "evento": "El 27 de abril de 2012 se realiza prueba de alcoholemia al maquinista del tren 99561, con resultado negativo."
+    },
+    {
+     "hora": "02:50",
+     "evento": "El 27 de abril de 2012, el tren 99561 reanuda la marcha tras retroceder a vía 3 y ser relevado el maquinista."
+    },
+    {
+     "hora": "08:23",
+     "evento": "El 27 de abril de 2012, el jefe de gabinete de investigación de accidentes e inspección de Adif comunica el suceso a la CIAF."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0030/2012",
+ "expediente": "30/012",
+ "anio": 2012,
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0030/2012 OCURRIDO EL DÍA 26.04.2012 EN LA ESTACIÓN DE RÍO HUERVA (ZARAGOZA)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_260412_290113_CIAF.md"
+}

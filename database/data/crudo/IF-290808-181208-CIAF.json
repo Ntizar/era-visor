@@ -1,0 +1,896 @@
+{
+ "id": "IF-290808-181208-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/26599ED8-1116-4784-A2FB-FF33ED31D3DD/46968/IF290808181208CIAF.pdf",
+ "pdf": "pdfs/ES/IF-290808-181208-CIAF.pdf",
+ "md5_pdf": "83a45904b5c3ce6de8214f1dcec8dc1c",
+ "paginas_md": 11,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 7,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0037/2008",
+   "pagina": 1,
+   "cita": "nº 0037/2008 ocurrido el 29.08.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 29 de agosto de 2008, a las 12:51, el tren de Media Distancia 15058 de Renfe Operadora arrolló a un varón de 67 años con movilidad reducida (caminaba con muleta) que cruzaba el paso enmaderado del apeadero de Segur de Calafell (Tarragona) sin percatarse de la llegada del tren. El maquinista hizo uso del silbato y del freno de emergencia, pero no pudo evitar el impacto. La víctima falleció en el acto. El accidente se originó en el tránsito de la víctima por el paso enmaderado sin advertir la aproximación del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-08-29",
+    "hora": "12:51",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Segur de Calafell (apeadero)",
+     "pk": "624,800",
+     "linea": "200 Madrid Chamartín – Barcelona-Sants",
+     "provincia": "Tarragona",
+     "descripcion_lugar": "Paso enmaderado (paso entablonado) situado al final de ambos andenes (sentido San Vicente de Calders), aproximadamente a 50 metros del edificio de viajeros. Trayecto con alineación recta y perfil horizontal, con buena visibilidad para trenes y personas."
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 29 de agosto de 2008, a las 12:51 horas, el tren de Viajeros de Media Distancia 15058, de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Desperfectos en la tapa frontal del lado derecho de la U/T 470070",
+    "afectacion_servicio": "Interrupción de la vía 2 desde las 12:51 hasta las 15:03 (2 h 12 min). Interrupción de la vía 1 desde las 13:40 hasta las 14:16 (36 min). Marcha a la vista hasta el restablecimiento. Retrasos en 2 trenes de larga distancia, 6 de media distancia y 11 de corta distancia, sumando 355 minutos. Supresión de 3 trenes de cercanías, 3 de media distancia y 1 de larga distancia. Transbordo de pasajeros del tren 15058 a otro tren."
+   },
+   "pagina": 5,
+   "cita": "Desperfectos en la tapa frontal del lado derecho de la U/T 470070.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Tránsito de la víctima por el paso enmaderado sin percatarse de la llegada del tren.",
+   "pagina": 2,
+   "cita": "Conclusión: El accidente tuvo su origen en el tránsito de la víctima por el paso enmaderado sin",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Movilidad reducida de la víctima (caminaba con muleta), lo que condicionó la velocidad de su paso e impidió que llegara al andén antes del impacto.",
+    "El paso enmaderado era de uso habitual para cruzar entre núcleos de población divididos por el ferrocarril.",
+    "El paso inferior existente no permitía el acceso a los andenes por su salida mediante escalera, obligando a personas con movilidad reducida a usar el paso enmaderado.",
+    "Existencia de varios pasos viciosos en las inmediaciones con frecuente tránsito de personas.",
+    "En la línea 200, entre marzo de 2005 y agosto de 2008, se habían producido 8 arrollamientos mortales de personas, 6 en estaciones y apeaderos (dos en pasos entablonados), todos dotados de pasos inferiores."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Falta de permeabilidad peatonal accesible en el apeadero: el paso inferior no era accesible para personas con movilidad reducida.",
+    "El ferrocarril divide los núcleos urbanos donde se ubica, generando cruces habituales por pasos no habilitados.",
+    "Alta densidad de tráfico ferroviario en el tramo (media semanal de 1.332 circulaciones, considerada ALTA)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "A la vista de los arrollamientos enumerados en el punto 3.8 del informe (Incidencias anteriores de carácter similar) y teniendo en cuenta que, en la mayoría de los casos, el ferrocarril divide a los núcleos urbanos donde se ubica, se recomienda a las autoridades competentes que tomen las medidas necesarias para mejorar la permeabilidad.",
+     "destinatario": "Autoridades competentes"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: A la vista de los arrollamientos enumerados en el punto 3.8 de este informe",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "A la vista de los arrollamientos enumerados en el punto 3.8 del informe (Incidencias anteriores de carácter similar) y teniendo en cuenta que, en la mayoría de los casos, el ferrocarril divide a los núcleos urbanos donde se ubica, se recomienda a las autoridades competentes que tomen las medidas necesarias para mejorar la permeabilidad.",
+     "destinatario": "Autoridades competentes"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: A la vista de los arrollamientos enumerados en el punto 3.8 de este informe",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento",
+   "pagina": 2,
+   "cita": "Recomendaciones: A la vista de los arrollamientos enumerados en el punto 3.8 de este informe",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "empresa ferroviaria Renfe Operadora, arrolla a una persona en el P.K. 624,800 de la línea 200 Madrid-",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-08-29",
+   "pagina": 2,
+   "cita": "El día 29 de agosto de 2008, a las 12:51 horas, el tren de Viajeros de Media Distancia 15058, de la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "12:51",
+   "pagina": 2,
+   "cita": "El día 29 de agosto de 2008, a las 12:51 horas, el tren de Viajeros de Media Distancia 15058, de la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Segur de Calafell (apeadero)",
+    "pk": "624,800",
+    "linea": "200 Madrid Chamartín – Barcelona-Sants",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Paso enmaderado (paso entablonado) situado al final de ambos andenes (sentido San Vicente de Calders), aproximadamente a 50 metros del edificio de viajeros. Trayecto con alineación recta y perfil horizontal, con buena visibilidad para trenes y personas."
+   },
+   "pagina": 8,
+   "cita": "de los cuales han ocurrido en estaciones y apeaderos (dos de ellos en pasos entablonados), todos",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "200 Madrid-Chamartín-Barcelona-Sants",
+   "pagina": 2,
+   "cita": "empresa ferroviaria Renfe Operadora, arrolla a una persona en el P.K. 624,800 de la línea 200 Madrid-",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "U/T 470070 (Matrícula UIC: 967194700704), 3 vehículos, masa remolcada 220 Tm",
+    "averia": "Ninguna. Funcionamiento correcto según análisis del registrador de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": 6,
+   "cita": "Ninguna. En el lugar y momento del accidente, no existían condiciones especiales de circulación.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros de Media Distancia 15058 de Renfe Operadora, compuesto por la U/T 470070 (3 vehículos, masa remolcada de 220 Tm), procedente de Cambrils con destino a Barcelona, circulaba por el trayecto San Vicente de Calders - Cunit. A unos 300 metros del apeadero de Segur de Calafell, el maquinista observó a una persona que cruzaba de montaña a mar por el paso entarimado de madera del lado San Vicente de Calders. Al percatarse de que iba con muletas y a paso muy lento, hizo uso del silbato repetidas veces y accionó el freno de emergencia (posición ocho, máxima), pero no pudo evitar el arrollamiento. La víctima, un varón de 67 años, fue golpeada por el lado derecho del tren y quedó ya cadáver en la vía 2 entre el carril derecho y el andén. El tren quedó detenido en el apeadero de Segur de Calafell.\n\nAcompañaba al maquinista principal un maquinista sin servicio que había subido en San Vicente de Calders para iniciar su turno en Barcelona. Ambos coincidieron en que el paso de la víctima era excesivamente lento debido a la muleta. El tren circulaba a 123 km/h antes de aplicar el freno de emergencia, por debajo de la velocidad máxima permitida de 140 km/h.\n\nEl paso enmaderado era de uso habitual no solo para acceder a los andenes sino también para cruzar entre los dos núcleos de población divididos por el ferrocarril. Existía un paso inferior cercano, pero su salida hacia los andenes solo era posible por una escalera, lo que obligaba a personas con movilidad reducida a cruzar por el paso enmaderado. Además, en las inmediaciones existían varios pasos viciosos con frecuente tránsito de personas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Segur de Calafell (apeadero)",
+    "pk": "624,800",
+    "linea": "200 Madrid Chamartín – Barcelona-Sants",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Paso enmaderado (paso entablonado) situado al final de ambos andenes (sentido San Vicente de Calders), aproximadamente a 50 metros del edificio de viajeros. Trayecto con alineación recta y perfil horizontal, con buena visibilidad para trenes y personas."
+   },
+   "pagina": 8,
+   "cita": "de los cuales han ocurrido en estaciones y apeaderos (dos de ellos en pasos entablonados), todos",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Desperfectos en la tapa frontal del lado derecho de la U/T 470070",
+    "afectacion_servicio": "Interrupción de la vía 2 desde las 12:51 hasta las 15:03 (2 h 12 min). Interrupción de la vía 1 desde las 13:40 hasta las 14:16 (36 min). Marcha a la vista hasta el restablecimiento. Retrasos en 2 trenes de larga distancia, 6 de media distancia y 11 de corta distancia, sumando 355 minutos. Supresión de 3 trenes de cercanías, 3 de media distancia y 1 de larga distancia. Transbordo de pasajeros del tren 15058 a otro tren."
+   },
+   "pagina": 5,
+   "cita": "Desperfectos en la tapa frontal del lado derecho de la U/T 470070.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "A fecha de redacción de este informe no se han adoptado medidas específicas de protección. \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0037/2008 ocurrido el 29.08.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-290808-181208-CIAF \n \n \nPág. 9 de 11",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 15058",
+     "implicacion": "Observó a la víctima a unos 300 m, hizo uso del silbato y accionó el freno de emergencia. Actuación correcta. Tasa de alcoholemia negativa (0,00 mg/1000 ml)."
+    },
+    {
+     "rol": "Maquinista sin servicio (acompañante)",
+     "implicacion": "Subió en San Vicente de Calders para iniciar turno en Barcelona. Declaró los hechos y confirmó la lentitud del paso de la víctima por la muleta."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "15058",
+     "tipo": "Viajeros de Media Distancia",
+     "operador": "Renfe Operadora",
+     "danos": "Desperfectos en la tapa frontal del lado derecho de la U/T 470070"
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 29 de agosto de 2008, a las 12:51 horas, el tren de Viajeros de Media Distancia 15058, de la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "U/T 470070 (Matrícula UIC: 967194700704), 3 vehículos, masa remolcada 220 Tm",
+    "averia": "Ninguna. Funcionamiento correcto según análisis del registrador de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": 6,
+   "cita": "Ninguna. En el lugar y momento del accidente, no existían condiciones especiales de circulación.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 3,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (B.A.B.)",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Sí",
+    "estado_via": "Correcta; alineación recta y perfil horizontal; buena visibilidad",
+    "otro": "Control de tráfico centralizado (C.T.C.). Radiotelefonía modalidad A. Apeadero con paso inferior accesible por rampa pero salida a andenes solo por escalera. Paso enmaderado al final de ambos andenes. Varios pasos viciosos en las inmediaciones."
+   },
+   "pagina": 4,
+   "cita": "Vía doble electrificada con bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático banalizado (B.A.B.)",
+   "pagina": 4,
+   "cita": "Vía doble electrificada con bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Desperfectos en la tapa frontal del lado derecho de la U/T 470070",
+    "afectacion_servicio": "Interrupción de la vía 2 desde las 12:51 hasta las 15:03 (2 h 12 min). Interrupción de la vía 1 desde las 13:40 hasta las 14:16 (36 min). Marcha a la vista hasta el restablecimiento. Retrasos en 2 trenes de larga distancia, 6 de media distancia y 11 de corta distancia, sumando 355 minutos. Supresión de 3 trenes de cercanías, 3 de media distancia y 1 de larga distancia. Transbordo de pasajeros del tren 15058 a otro tren."
+   },
+   "pagina": 4,
+   "cita": "Se establece un plan alternativo de transporte de los viajeros afectados por el suceso y a las 13:38",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Desperfectos en la tapa frontal del lado derecho de la U/T 470070",
+    "afectacion_servicio": "Interrupción de la vía 2 desde las 12:51 hasta las 15:03 (2 h 12 min). Interrupción de la vía 1 desde las 13:40 hasta las 14:16 (36 min). Marcha a la vista hasta el restablecimiento. Retrasos en 2 trenes de larga distancia, 6 de media distancia y 11 de corta distancia, sumando 355 minutos. Supresión de 3 trenes de cercanías, 3 de media distancia y 1 de larga distancia. Transbordo de pasajeros del tren 15058 a otro tren."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-290808-181208-CIAF Pág. 1 de 11 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0037/2008",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Desperfectos en la tapa frontal del lado derecho de la U/T 470070",
+    "afectacion_servicio": "Interrupción de la vía 2 desde las 12:51 hasta las 15:03 (2 h 12 min). Interrupción de la vía 1 desde las 13:40 hasta las 14:16 (36 min). Marcha a la vista hasta el restablecimiento. Retrasos en 2 trenes de larga distancia, 6 de media distancia y 11 de corta distancia, sumando 355 minutos. Supresión de 3 trenes de cercanías, 3 de media distancia y 1 de larga distancia. Transbordo de pasajeros del tren 15058 a otro tren."
+   },
+   "pagina": 5,
+   "cita": "Desperfectos en la tapa frontal del lado derecho de la U/T 470070.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "U/T 470070 (Matrícula UIC: 967194700704), 3 vehículos, masa remolcada 220 Tm",
+    "averia": "Ninguna. Funcionamiento correcto según análisis del registrador de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": 6,
+   "cita": "Ninguna. En el lugar y momento del accidente, no existían condiciones especiales de circulación.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (B.A.B.)",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Sí",
+    "estado_via": "Correcta; alineación recta y perfil horizontal; buena visibilidad",
+    "otro": "Control de tráfico centralizado (C.T.C.). Radiotelefonía modalidad A. Apeadero con paso inferior accesible por rampa pero salida a andenes solo por escalera. Paso enmaderado al final de ambos andenes. Varios pasos viciosos en las inmediaciones."
+   },
+   "pagina": 4,
+   "cita": "Vía doble electrificada con bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo atmosférico despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Tarragona",
+    "municipio": null,
+    "estacion": "Apeadero de Segur de Calafell"
+   },
+   "pagina": 2,
+   "cita": "accidente es el paso enmaderado existente en el apeadero de Segur de Calafell (Tarragona).",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo atmosférico despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático banalizado (B.A.B.)",
+   "pagina": 4,
+   "cita": "Vía doble electrificada con bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (B.A.B.)",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Sí",
+    "estado_via": "Correcta; alineación recta y perfil horizontal; buena visibilidad",
+    "otro": "Control de tráfico centralizado (C.T.C.). Radiotelefonía modalidad A. Apeadero con paso inferior accesible por rampa pero salida a andenes solo por escalera. Paso enmaderado al final de ambos andenes. Varios pasos viciosos en las inmediaciones."
+   },
+   "pagina": 4,
+   "cita": "Vía doble electrificada con bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "U/T 470070 (Matrícula UIC: 967194700704), 3 vehículos, masa remolcada 220 Tm",
+    "averia": "Ninguna. Funcionamiento correcto según análisis del registrador de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": 6,
+   "cita": "Ninguna. En el lugar y momento del accidente, no existían condiciones especiales de circulación.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Víctima cruza por paso enmaderado",
+    "No percibe llegada del tren",
+    "Camina con muleta lentamente",
+    "Paso inferior no accesible"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros de Media Distancia 15058 de Renfe Operadora, compuesto por la U/T 470070 (3 vehículos, masa remolcada de 220 Tm), procedente de Cambrils con destino a Barcelona, circulaba por el trayecto San Vicente de Calders - Cunit. A unos 300 metros del apeadero de Segur de Calafell, el maquinista observó a una persona que cruzaba de montaña a mar por el paso entarimado de madera del lado San Vicente de Calders. Al percatarse de que iba con muletas y a paso muy lento, hizo uso del silbato repetidas veces y accionó el freno de emergencia (posición ocho, máxima), pero no pudo evitar el arrollamiento. La víctima, un varón de 67 años, fue golpeada por el lado derecho del tren y quedó ya cadáver en la vía 2 entre el carril derecho y el andén. El tren quedó detenido en el apeadero de Segur de Calafell.\n\nAcompañaba al maquinista principal un maquinista sin servicio que había subido en San Vicente de Calders para iniciar su turno en Barcelona. Ambos coincidieron en que el paso de la víctima era excesivamente lento debido a la muleta. El tren circulaba a 123 km/h antes de aplicar el freno de emergencia, por debajo de la velocidad máxima permitida de 140 km/h.\n\nEl paso enmaderado era de uso habitual no solo para acceder a los andenes sino también para cruzar entre los dos núcleos de población divididos por el ferrocarril. Existía un paso inferior cercano, pero su salida hacia los andenes solo era posible por una escalera, lo que obligaba a personas con movilidad reducida a cruzar por el paso enmaderado. Además, en las inmediaciones existían varios pasos viciosos con frecuente tránsito de personas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en el paso entablonado del apeadero de Segur de Calafell, en el P.K. \n624,800 de la línea 200 Madrid-Chamartín a Barcelona- Sants. \nSegún lo declarado por los dos maquinistas, que estaban presentes en la cabina de conducción en \nel momento del accidente, el maquinista principal, momentos antes del arrollamiento, hizo uso del \nsilbato y del freno de emergencia, por lo que su actuación fue correcta.  \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nDe las palabras del maquinista principal, citadas en su declaración por el maquinista sin servicio, se \ndeduce que en este trayecto es habitual que las personas crucen las vías por lugares no habilitados \npara ello.  \nSegún lo declarado por ambos maquinistas, el que la víctima caminara con una muleta condicionó \nla velocidad de su paso, impidiendo que llegara al andén antes de que el tren lo arrollara. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en el tránsito de la víctima por el paso enmaderado sin percatarse de la \nllegada del tren.",
+   "pagina": 8,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Tránsito de la víctima por el paso enmaderado sin percatarse de la llegada del tren.",
+   "pagina": 2,
+   "cita": "Conclusión: El accidente tuvo su origen en el tránsito de la víctima por el paso enmaderado sin",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Movilidad reducida de la víctima (caminaba con muleta), lo que condicionó la velocidad de su paso e impidió que llegara al andén antes del impacto.",
+    "El paso enmaderado era de uso habitual para cruzar entre núcleos de población divididos por el ferrocarril.",
+    "El paso inferior existente no permitía el acceso a los andenes por su salida mediante escalera, obligando a personas con movilidad reducida a usar el paso enmaderado.",
+    "Existencia de varios pasos viciosos en las inmediaciones con frecuente tránsito de personas.",
+    "En la línea 200, entre marzo de 2005 y agosto de 2008, se habían producido 8 arrollamientos mortales de personas, 6 en estaciones y apeaderos (dos en pasos entablonados), todos dotados de pasos inferiores."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "A fecha de redacción de este informe no se han adoptado medidas específicas de protección. \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0037/2008 ocurrido el 29.08.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-290808-181208-CIAF \n \n \nPág. 9 de 11",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "A fecha de redacción de este informe no se han adoptado medidas específicas de protección. \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0037/2008 ocurrido el 29.08.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-290808-181208-CIAF \n \n \nPág. 9 de 11",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "A fecha de redacción de este informe no se han adoptado medidas específicas de protección. \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0037/2008 ocurrido el 29.08.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-290808-181208-CIAF \n \n \nPág. 9 de 11",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "A la vista de los arrollamientos enumerados en el punto 3.8 del informe (Incidencias anteriores de carácter similar) y teniendo en cuenta que, en la mayoría de los casos, el ferrocarril divide a los núcleos urbanos donde se ubica, se recomienda a las autoridades competentes que tomen las medidas necesarias para mejorar la permeabilidad.",
+     "destinatario": "Autoridades competentes"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: A la vista de los arrollamientos enumerados en el punto 3.8 de este informe",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "12:51",
+     "evento": "Arrollamiento de la víctima por el tren 15058 en el paso enmaderado. Interrupción de la circulación por la vía 2."
+    },
+    {
+     "hora": "13:38",
+     "evento": "Transbordo de los pasajeros del tren 15058 a otro tren para terminar su recorrido."
+    },
+    {
+     "hora": "13:40",
+     "evento": "Interrupción de la circulación por la vía 1 para intervención de la policía judicial."
+    },
+    {
+     "hora": "14:16",
+     "evento": "Reanudación de la circulación por la vía 1."
+    },
+    {
+     "hora": "15:03",
+     "evento": "Se levanta el cadáver y se reanuda la circulación normal por ambas vías."
+    },
+    {
+     "hora": "13:40",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF (1 de septiembre, a las 13:40)."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0037/2008",
+ "expediente": "0037/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de una persona en el paso enmaderado del apeadero de Segur de Calafell (Tarragona)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-290808-181208-CIAF.md"
+}

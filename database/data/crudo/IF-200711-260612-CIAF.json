@@ -1,0 +1,1057 @@
+{
+ "id": "IF-200711-260612-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/3723B6D5-BDB8-4B5F-8E6D-AAEF40D0A38A/112541/IF200711260612CIAF.pdf",
+ "pdf": "pdfs/ES/IF-200711-260612-CIAF.pdf",
+ "md5_pdf": "37008a54aedbfabc7a5eb8be1a49777f",
+ "paginas_md": 26,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 23,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "36/11-1",
+     "Recomendación": "El acta semanal de trabajos deberá recoger las actividades concretas a ejecutar y la maquinaria prevista a emplear, así como los accesos de ésta."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "36/11-2",
+     "Recomendación": "Analizar la viabilidad de incrementar las visitas de inspección a trabajos en vía por el personal con responsabilidad en la seguridad."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "36/11-3",
+     "Recomendación": "En las acciones formativas a los encargados de trabajos incidir en los aspectos reglamentarios sobre trabajos en vía."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 26,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "36/11-1",
+     "Recomendación": "El acta semanal de trabajos deberá recoger las actividades concretas a ejecutar y la maquinaria prevista a emplear, así como los accesos de ésta."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "36/11-2",
+     "Recomendación": "Analizar la viabilidad de incrementar las visitas de inspección a trabajos en vía por el personal con responsabilidad en la seguridad."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "36/11-3",
+     "Recomendación": "En las acciones formativas a los encargados de trabajos incidir en los aspectos reglamentarios sobre trabajos en vía."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0036/2011",
+   "pagina": 1,
+   "cita": "nº 0036/2011 ocurrido el 20.07.2011",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 20 de julio de 2011, a las 16:25 horas, el tren de media distancia 17016 de Renfe Operadora arrolló a un operario de la empresa contratista COPROSA que realizaba trabajos de conservación en el tablero del puente sobre el río Guadarrama, en el PK 66+480 de la línea 500. La víctima, un hombre de 58 años, falleció en el lugar. El accidente se originó por incumplimiento de la normativa reglamentaria para trabajos en vía, al encontrarse el operario dentro del gálibo de la vía sin protección adecuada. La vía permaneció interceptada durante 88 minutos, afectando a 8 trenes.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2011-07-20",
+    "hora": "16:25",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "entre Villaluenga-Yuncler y Villamiel de Toledo",
+     "pk": "66+480",
+     "linea": "500 Bif. Planetario (Madrid) a Valencia Alcántara",
+     "provincia": "Toledo",
+     "descripcion_lugar": "Tablero de puente de vía única sobre el río Guadarrama, 200,10 m de longitud y 4,80 m de ancho, a unos 6 m del estribo del lado Torrijos. Tramo recto con perfil horizontal desde PK 66+150 a 66+665, visibilidad buena. Municipio: Bargas. Tramo: Villaluenga-Yuncler a Torrijos."
+    }
+   },
+   "pagina": 9,
+   "cita": "La vía general queda interceptada desde las 16:25 horas hasta las 17:53 horas del día 20/07/2011,",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Leves daños en la parte delantera izquierda del material rodante. Sin daños en la infraestructura.",
+    "afectacion_servicio": "Vía interceptada entre Villaluenga-Yuncler y Torrijos desde las 16:25 hasta las 17:53 (88 minutos). Afectados 8 trenes: el 17016 con 73 minutos de retraso, 5 trenes de media distancia con 141 minutos de retraso total, y 2 trenes de media distancia suprimidos."
+   },
+   "pagina": 9,
+   "cita": "Leves daños en la parte delantera izquierda del material rodante y sin daños en la infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "El operario se encontraba dentro del gálibo de la vía (zona de seguridad) en el momento del paso del tren 17016, por incumplimiento de la normativa reglamentaria para este tipo de trabajos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El acta semanal de trabajos (punto 167, modalidad FZ) no recogía la modificación autorizada en reunión de obra de marzo de 2011 para ejecutar trabajos de tablero en horario diurno con presencia de piloto de Adif.",
+    "Los trabajos que se realizaban en el momento del accidente (montaje de placas, ménsulas, guardabalasto, aportación de balasto) se ejecutaban dentro de la zona de seguridad, no fuera como indicaba la modalidad FZ del punto 167.",
+    "No se estableció ningún régimen de liberación por tiempo, interrupción de la circulación ni bloqueo entre el encargado de trabajos y las estaciones colaterales.",
+    "La comunicación del piloto de seguridad con los operarios era exclusivamente por voz directa, sin radioteléfono ni móvil, y los operarios no oían los avisos por el ruido de las herramientas (radial).",
+    "El piloto se encontraba debajo del puente y no pudo avisar eficazmente a los operarios del tablero.",
+    "El encargado de trabajos de Adif no detectó que un operario realizaba trabajos sobre la zona de peligro sin su autorización.",
+    "No había piloto de seguridad visible en el tablero, ni limitación de velocidad específica por trabajos, ni cartelón de silbar.",
+    "El encargado de trabajos interpretó erróneamente que los trenes de Madrid venían con 22 minutos de retraso (confundiendo el retraso del tren 17702 anterior), cuando el tren 17016 venía solo con 4 minutos de retraso."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Deficiencia en el acta semanal de trabajos: no recogía las actividades concretas, la maquinaria prevista ni los accesos de ésta.",
+    "Insuficiencia en las inspecciones de trabajos en vía por personal con responsabilidad en la seguridad.",
+    "Deficiencias formativas de los encargados de trabajos en los aspectos reglamentarios sobre trabajos en vía.",
+    "Modificación de condiciones de trabajo (de nocturno a diurno) autorizada en reunión de obra pero no trasladada al acta semanal de trabajos vigente."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "El acta semanal de trabajos deberá recoger las actividades concretas a ejecutar y la maquinaria prevista a emplear, así como los accesos de ésta.",
+    "Analizar la viabilidad de incrementar las visitas de inspección a trabajos en vía por el personal con responsabilidad en la seguridad.",
+    "En las acciones formativas a los encargados de trabajos incidir en los aspectos reglamentarios sobre trabajos en vía.",
+    "El acta semanal de trabajos deberá recoger las actividades concretas a ejecutar y la maquinaria prevista a emplear, así como los accesos de ésta.",
+    "Analizar la viabilidad de incrementar las visitas de inspección a trabajos en vía por el personal con responsabilidad en la seguridad.",
+    "En las acciones formativas a los encargados de trabajos incidir en los aspectos reglamentarios sobre trabajos en vía."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif",
+    "Adif",
+    "Adif",
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "Valencia Alcántara, el tren de media distancia 17016, perteneciente a la empresa ferroviaria Renfe Operadora,",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2011-07-20",
+   "pagina": 9,
+   "cita": "La vía general queda interceptada desde las 16:25 horas hasta las 17:53 horas del día 20/07/2011,",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "16:25",
+   "pagina": 3,
+   "cita": "El día 20 de julio de 2011, a las 16:25 horas, en el PK 66+480 de la línea 500 Bif. Planetario (Madrid) a",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "entre Villaluenga-Yuncler y Villamiel de Toledo",
+    "pk": "66+480",
+    "linea": "500 Bif. Planetario (Madrid) a Valencia Alcántara",
+    "provincia": "Toledo",
+    "descripcion_lugar": "Tablero de puente de vía única sobre el río Guadarrama, 200,10 m de longitud y 4,80 m de ancho, a unos 6 m del estribo del lado Torrijos. Tramo recto con perfil horizontal desde PK 66+150 a 66+665, visibilidad buena. Municipio: Bargas. Tramo: Villaluenga-Yuncler a Torrijos."
+   },
+   "pagina": 3,
+   "cita": "de un puente sobre el río Guadarrama, en el trayecto entre Villaluenga-Yuncler y Villamiel de Toledo.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "500 Bif. Planetario (Madrid) a Valencia Alcántara",
+   "pagina": 3,
+   "cita": "500 Bif. Planetario (Madrid) a Valencia Alcántara",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tipo 160A (motor 598002, 3 coches, 167 toneladas). Nº UIC motor: 967195980024.",
+    "averia": null,
+    "mantenimiento": "Los equipos de seguridad del tren funcionaron correctamente."
+   },
+   "pagina": 20,
+   "cita": "Los equipos de seguridad del tren funcionaron correctamente.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 20 de julio de 2011, a las 16:25 horas, en plena vía, en el PK 66+480 de la línea 500 Bif. Planetario (Madrid) a Valencia Alcántara, entre las estaciones de Villaluenga-Yuncler y Villamiel de Toledo (provincia de Toledo), el tren de media distancia 17016 de Renfe Operadora, procedente de Madrid-Atocha con destino Plasencia, circulaba con normalidad. Al aproximarse al puente de vía única sobre el río Guadarrama, cuyo trazado es recto, el maquinista observó a una persona dentro de la caja de la vía y a otra fuera del hilo izquierdo, invadiendo el gálibo. El maquinista hizo uso del silbato y aplicó freno de urgencia, pero no pudo evitar el arrollamiento de uno de los operarios.\n\nEn el puente se realizaban trabajos de conservación (limpieza, saneado de estructura y tablero, reposición de barandilla, nuevo paseo de servicio con ménsulas en voladizo, y nuevo murete guardabalasto con placas tramex), adjudicados por Adif a la empresa contratista COPROSA. Los trabajos se ejecutaban al amparo del acta semanal de trabajos nº 29, punto 167, en modalidad FZ (fuera de zona de seguridad), que no preveía afectación a la circulación. En el momento del arrollamiento, cuatro operarios trabajaban desde dos plataformas elevadoras con cestas y dos operarios restantes se situaban sobre el tablero del puente. El encargado de trabajos de Adif y el de COPROSA se encontraban debajo del puente. La protección ante el paso de trenes se realizaba mediante un piloto de seguridad de Adif que avisaba por voz directa, sin radioteléfono ni móvil.\n\nEl tren circulaba a unos 140 km/h (dentro de la limitación temporal de 140 km/h vigente por el estado del puente). A las 16:18:57 h, en el PK 66+306, el maquinista activó la bocina de forma continuada y un segundo después inició el frenado. El arrollamiento se produjo en el PK 66+480 a 137 km/h. El tren quedó detenido en el PK 67+164, habiendo recorrido unos 579 metros desde el punto del impacto.",
+   "pagina": 4,
+   "cita": "Los hechos tuvieron lugar el día 20 de julio de 2011, a las 16:25 horas, en plena vía, en el PK 66+480",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "entre Villaluenga-Yuncler y Villamiel de Toledo",
+    "pk": "66+480",
+    "linea": "500 Bif. Planetario (Madrid) a Valencia Alcántara",
+    "provincia": "Toledo",
+    "descripcion_lugar": "Tablero de puente de vía única sobre el río Guadarrama, 200,10 m de longitud y 4,80 m de ancho, a unos 6 m del estribo del lado Torrijos. Tramo recto con perfil horizontal desde PK 66+150 a 66+665, visibilidad buena. Municipio: Bargas. Tramo: Villaluenga-Yuncler a Torrijos."
+   },
+   "pagina": 3,
+   "cita": "de un puente sobre el río Guadarrama, en el trayecto entre Villaluenga-Yuncler y Villamiel de Toledo.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Leves daños en la parte delantera izquierda del material rodante. Sin daños en la infraestructura.",
+    "afectacion_servicio": "Vía interceptada entre Villaluenga-Yuncler y Torrijos desde las 16:25 hasta las 17:53 (88 minutos). Afectados 8 trenes: el 17016 con 73 minutos de retraso, 5 trenes de media distancia con 141 minutos de retraso total, y 2 trenes de media distancia suprimidos."
+   },
+   "pagina": 9,
+   "cita": "Leves daños en la parte delantera izquierda del material rodante y sin daños en la infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 17016",
+     "implicacion": "Observó a las personas en el puente, usó silbato y aplicó freno de urgencia; no pudo evitar el arrollamiento. Título B de conducción, antigüedad desde 02/01/2007. Prueba de alcoholemia no realizada por decisión de la Guardia Civil."
+    },
+    {
+     "rol": "Encargado de trabajos de Adif",
+     "implicacion": "Responsable de la obra del puente; no detectó que un operario realizaba trabajos sobre la zona de peligro sin autorización. Situado debajo del puente en el momento del accidente. Prueba de alcoholemia negativa."
+    },
+    {
+     "rol": "Jefe de circulación de Villaluenga-Yuncler",
+     "implicacion": "No había recibido petición de trabajos en vía. Recibió llamada del encargado a las 16:25 que se cortó por el pitido del tren. Prueba de alcoholemia negativa."
+    },
+    {
+     "rol": "Jefe de circulación de Torrijos",
+     "implicacion": "Recibió llamadas del encargado de trabajos para información de trenes. No había establecido bloqueo ni liberación por tiempo. Prueba de alcoholemia negativa."
+    },
+    {
+     "rol": "Piloto de seguridad de Adif",
+     "implicacion": "Encargado de avisar del paso de trenes por voz directa. En el momento del accidente estaba debajo del puente. Gritó 'FUERA, FUERA, FUERA' durante el paso del tren, pero los operarios no lo oyeron por el ruido de la radial."
+    },
+    {
+     "rol": "Encargado de obra de COPROSA",
+     "implicacion": "Organizó los trabajos con 2 personas por cesta y operarios para derramar balasto. Recurso preventivo del equipo. Situado debajo del puente. Prueba de alcoholemia no mencionada."
+    },
+    {
+     "rol": "Operario fallecido (B., COPROSA)",
+     "implicacion": "Hombre de 58 años. Se encontraba sobre el tablero del puente, dentro del gálibo de la vía, echando balasto entre guardabalastos y recogiendo materiales. Arrollado por el tren 17016. Falleció en el lugar."
+    },
+    {
+     "rol": "Operarios COPROSA (C., G., M., L., P.)",
+     "implicacion": "Trabajaban en cestas y tablero del puente; no recibieron instrucciones de retirarse antes de la llegada del tren. No oyeron la llegada del tren por el ruido de las herramientas."
+    }
+   ],
+   "pagina": 12,
+   "cita": "De la toma de declaración realizada al maquinista del tren 17016, el día 21 de julio de 2011 en Madrid,",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "17016",
+     "tipo": "media distancia (viajeros)",
+     "operador": "Renfe Operadora",
+     "danos": "Leves daños en la parte delantera izquierda del material rodante"
+    },
+    {
+     "numero": "17702",
+     "tipo": "media distancia (viajeros)",
+     "operador": "Renfe Operadora",
+     "danos": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "Valencia Alcántara, el tren de media distancia 17016, perteneciente a la empresa ferroviaria Renfe Operadora,",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tipo 160A (motor 598002, 3 coches, 167 toneladas). Nº UIC motor: 967195980024.",
+    "averia": null,
+    "mantenimiento": "Los equipos de seguridad del tren funcionaron correctamente."
+   },
+   "pagina": 20,
+   "cita": "Los equipos de seguridad del tren funcionaron correctamente.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Mantenimiento",
+   "pagina": 22,
+   "cita": "técnico de la Gerencia de Mantenimiento En ella se plantea y autoriza la realización de los trabajos de",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "ASFA",
+    "tipo_via": "vía única",
+    "velocidad_maxima": "155 km/h (limitación temporal a 140 km/h entre PK 66+495 y 66+667 por estado del puente, Consigna serie B nº 8)",
+    "ancho": "convencional",
+    "electrificacion": "no electrificada",
+    "estado_via": "Puente con estado que motivó limitación temporal de velocidad a 140 km/h. Bloqueo telefónico concertado entre Villaluenga-Yuncler y Torrijos. Puesto de mando: Madrid-Chamartín. No dispone de radiotelefonía analógica tren-tierra.",
+    "otro": "Puente recto de 200,10 m de longitud y 4,80 m de ancho sobre el río Guadarrama. Tramo anterior al puente: recta de 1.200 m con visibilidad buena. Media semanal de circulaciones del tramo: 124 (baja): 27 larga distancia, 89 media distancia, 8 mercancías, 1 servicio."
+   },
+   "pagina": 7,
+   "cita": "El tramo donde ocurre el accidente es de vía única no electrificada de ancho convencional y con ASFA.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "ASFA",
+   "pagina": 7,
+   "cita": "El tramo donde ocurre el accidente es de vía única no electrificada de ancho convencional y con ASFA.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "No dispone de radiotelefonía analógica (tren tierra). \nEl encargado de los trabajos de Adif y el encargado de COPROSA se comunicaban de forma oral.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Leves daños en la parte delantera izquierda del material rodante. Sin daños en la infraestructura.",
+    "afectacion_servicio": "Vía interceptada entre Villaluenga-Yuncler y Torrijos desde las 16:25 hasta las 17:53 (88 minutos). Afectados 8 trenes: el 17016 con 73 minutos de retraso, 5 trenes de media distancia con 141 minutos de retraso total, y 2 trenes de media distancia suprimidos."
+   },
+   "pagina": 9,
+   "cita": "Leves daños en la parte delantera izquierda del material rodante y sin daños en la infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Leves daños en la parte delantera izquierda del material rodante. Sin daños en la infraestructura.",
+    "afectacion_servicio": "Vía interceptada entre Villaluenga-Yuncler y Torrijos desde las 16:25 hasta las 17:53 (88 minutos). Afectados 8 trenes: el 17016 con 73 minutos de retraso, 5 trenes de media distancia con 141 minutos de retraso total, y 2 trenes de media distancia suprimidos."
+   },
+   "pagina": 1,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Leves daños en la parte delantera izquierda del material rodante. Sin daños en la infraestructura.",
+    "afectacion_servicio": "Vía interceptada entre Villaluenga-Yuncler y Torrijos desde las 16:25 hasta las 17:53 (88 minutos). Afectados 8 trenes: el 17016 con 73 minutos de retraso, 5 trenes de media distancia con 141 minutos de retraso total, y 2 trenes de media distancia suprimidos."
+   },
+   "pagina": 9,
+   "cita": "Leves daños en la parte delantera izquierda del material rodante y sin daños en la infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tipo 160A (motor 598002, 3 coches, 167 toneladas). Nº UIC motor: 967195980024.",
+    "averia": null,
+    "mantenimiento": "Los equipos de seguridad del tren funcionaron correctamente."
+   },
+   "pagina": 20,
+   "cita": "Los equipos de seguridad del tren funcionaron correctamente.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "ASFA",
+    "tipo_via": "vía única",
+    "velocidad_maxima": "155 km/h (limitación temporal a 140 km/h entre PK 66+495 y 66+667 por estado del puente, Consigna serie B nº 8)",
+    "ancho": "convencional",
+    "electrificacion": "no electrificada",
+    "estado_via": "Puente con estado que motivó limitación temporal de velocidad a 140 km/h. Bloqueo telefónico concertado entre Villaluenga-Yuncler y Torrijos. Puesto de mando: Madrid-Chamartín. No dispone de radiotelefonía analógica tren-tierra.",
+    "otro": "Puente recto de 200,10 m de longitud y 4,80 m de ancho sobre el río Guadarrama. Tramo anterior al puente: recta de 1.200 m con visibilidad buena. Media semanal de circulaciones del tramo: 124 (baja): 27 larga distancia, 89 media distancia, 8 mercancías, 1 servicio."
+   },
+   "pagina": 7,
+   "cita": "El tramo donde ocurre el accidente es de vía única no electrificada de ancho convencional y con ASFA.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Día, tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Toledo",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 3,
+   "cita": "de un puente sobre el río Guadarrama, en el trayecto entre Villaluenga-Yuncler y Villamiel de Toledo.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Día, tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "ASFA",
+   "pagina": 7,
+   "cita": "El tramo donde ocurre el accidente es de vía única no electrificada de ancho convencional y con ASFA.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "ASFA",
+    "tipo_via": "vía única",
+    "velocidad_maxima": "155 km/h (limitación temporal a 140 km/h entre PK 66+495 y 66+667 por estado del puente, Consigna serie B nº 8)",
+    "ancho": "convencional",
+    "electrificacion": "no electrificada",
+    "estado_via": "Puente con estado que motivó limitación temporal de velocidad a 140 km/h. Bloqueo telefónico concertado entre Villaluenga-Yuncler y Torrijos. Puesto de mando: Madrid-Chamartín. No dispone de radiotelefonía analógica tren-tierra.",
+    "otro": "Puente recto de 200,10 m de longitud y 4,80 m de ancho sobre el río Guadarrama. Tramo anterior al puente: recta de 1.200 m con visibilidad buena. Media semanal de circulaciones del tramo: 124 (baja): 27 larga distancia, 89 media distancia, 8 mercancías, 1 servicio."
+   },
+   "pagina": 7,
+   "cita": "El tramo donde ocurre el accidente es de vía única no electrificada de ancho convencional y con ASFA.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "No dispone de radiotelefonía analógica (tren tierra). \nEl encargado de los trabajos de Adif y el encargado de COPROSA se comunicaban de forma oral.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tipo 160A (motor 598002, 3 coches, 167 toneladas). Nº UIC motor: 967195980024.",
+    "averia": null,
+    "mantenimiento": "Los equipos de seguridad del tren funcionaron correctamente."
+   },
+   "pagina": 20,
+   "cita": "Los equipos de seguridad del tren funcionaron correctamente.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "operario dentro del gálibo",
+    "incumplimiento normativa trabajos en vía",
+    "acta no recogía modificación diurna",
+    "sin bloqueo ni interrupción circulación"
+   ],
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen al estar el operario dentro del gálibo de la vía en el momento en que",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Por parte de Adif: \nEl personal de Adif está habilitado conforme a la de la Orden FOM/2872/2010, de 5 de noviembre por \nla que se determinan las condiciones para la obtención de títulos y habilitaciones que permiten el \nejercicio de las funciones del personal ferroviario relacionadas con la seguridad: \nEl encargado de los trabajos realizó su último reciclaje formativo el 25/11/2008 y su último \nreconocimiento médico y psicotécnico el 25/11/2009, conforme a la normativa vigente. \nEl jefe de circulación de Villaluenga-Yuncler realizó su último reciclaje formativo el 26/11/2008 y su \núltimo reconocimiento médico y psicotécnico el 22/07/2010, conforme a la normativa vigente. \nEl jefe de circulación de Torrijos realizó su último reciclaje formativo el 27/04/2009 y su último \nreconocimiento médico y psicotécnico el 22/09/2008, conforme a la normativa vigente. \nPor parte de Renfe Operadora: \nEl maquinista del tren 17016 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene antigüedad en el cargo desde el 02/01/2007. \nRealizó su último reciclaje formativo el 26/06/2009 y su último reconocimiento médico y psicotécnico el \n01/06/2011, conforme a la normativa vigente.",
+   "pagina": 17,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 20 de julio de 2011, a las 16:25 horas, en plena vía, en el PK 66+480 de la línea 500 Bif. Planetario (Madrid) a Valencia Alcántara, entre las estaciones de Villaluenga-Yuncler y Villamiel de Toledo (provincia de Toledo), el tren de media distancia 17016 de Renfe Operadora, procedente de Madrid-Atocha con destino Plasencia, circulaba con normalidad. Al aproximarse al puente de vía única sobre el río Guadarrama, cuyo trazado es recto, el maquinista observó a una persona dentro de la caja de la vía y a otra fuera del hilo izquierdo, invadiendo el gálibo. El maquinista hizo uso del silbato y aplicó freno de urgencia, pero no pudo evitar el arrollamiento de uno de los operarios.\n\nEn el puente se realizaban trabajos de conservación (limpieza, saneado de estructura y tablero, reposición de barandilla, nuevo paseo de servicio con ménsulas en voladizo, y nuevo murete guardabalasto con placas tramex), adjudicados por Adif a la empresa contratista COPROSA. Los trabajos se ejecutaban al amparo del acta semanal de trabajos nº 29, punto 167, en modalidad FZ (fuera de zona de seguridad), que no preveía afectación a la circulación. En el momento del arrollamiento, cuatro operarios trabajaban desde dos plataformas elevadoras con cestas y dos operarios restantes se situaban sobre el tablero del puente. El encargado de trabajos de Adif y el de COPROSA se encontraban debajo del puente. La protección ante el paso de trenes se realizaba mediante un piloto de seguridad de Adif que avisaba por voz directa, sin radioteléfono ni móvil.\n\nEl tren circulaba a unos 140 km/h (dentro de la limitación temporal de 140 km/h vigente por el estado del puente). A las 16:18:57 h, en el PK 66+306, el maquinista activó la bocina de forma continuada y un segundo después inició el frenado. El arrollamiento se produjo en el PK 66+480 a 137 km/h. El tren quedó detenido en el PK 67+164, habiendo recorrido unos 579 metros desde el punto del impacto.",
+   "pagina": 4,
+   "cita": "Los hechos tuvieron lugar el día 20 de julio de 2011, a las 16:25 horas, en plena vía, en el PK 66+480",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "El operario se encontraba dentro del gálibo de la vía (zona de seguridad) en el momento del paso del tren 17016, por incumplimiento de la normativa reglamentaria para este tipo de trabajos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El acta semanal de trabajos (punto 167, modalidad FZ) no recogía la modificación autorizada en reunión de obra de marzo de 2011 para ejecutar trabajos de tablero en horario diurno con presencia de piloto de Adif.",
+    "Los trabajos que se realizaban en el momento del accidente (montaje de placas, ménsulas, guardabalasto, aportación de balasto) se ejecutaban dentro de la zona de seguridad, no fuera como indicaba la modalidad FZ del punto 167.",
+    "No se estableció ningún régimen de liberación por tiempo, interrupción de la circulación ni bloqueo entre el encargado de trabajos y las estaciones colaterales.",
+    "La comunicación del piloto de seguridad con los operarios era exclusivamente por voz directa, sin radioteléfono ni móvil, y los operarios no oían los avisos por el ruido de las herramientas (radial).",
+    "El piloto se encontraba debajo del puente y no pudo avisar eficazmente a los operarios del tablero.",
+    "El encargado de trabajos de Adif no detectó que un operario realizaba trabajos sobre la zona de peligro sin su autorización.",
+    "No había piloto de seguridad visible en el tablero, ni limitación de velocidad específica por trabajos, ni cartelón de silbar.",
+    "El encargado de trabajos interpretó erróneamente que los trenes de Madrid venían con 22 minutos de retraso (confundiendo el retraso del tren 17702 anterior), cuando el tren 17016 venía solo con 4 minutos de retraso."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "El acta semanal de trabajos deberá recoger las actividades concretas a ejecutar y la maquinaria prevista a emplear, así como los accesos de ésta.",
+    "Analizar la viabilidad de incrementar las visitas de inspección a trabajos en vía por el personal con responsabilidad en la seguridad.",
+    "En las acciones formativas a los encargados de trabajos incidir en los aspectos reglamentarios sobre trabajos en vía.",
+    "El acta semanal de trabajos deberá recoger las actividades concretas a ejecutar y la maquinaria prevista a emplear, así como los accesos de ésta.",
+    "Analizar la viabilidad de incrementar las visitas de inspección a trabajos en vía por el personal con responsabilidad en la seguridad.",
+    "En las acciones formativas a los encargados de trabajos incidir en los aspectos reglamentarios sobre trabajos en vía."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif",
+    "Adif",
+    "Adif",
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "08:20",
+     "evento": "El encargado de trabajos de Adif comunica inicio de trabajos a Torrijos, Villaluenga, Puesto de Mando y Logística (punto 167 del acta semanal)."
+    },
+    {
+     "hora": "08:30",
+     "evento": "Comunicación ET-PM: confirma que están en el puente del Guadarrama con punto 167, no afecta a circulación, poniendo barandilla, fuera de la vía, hasta las 17:00."
+    },
+    {
+     "hora": "15:30",
+     "evento": "Tras la comida se reinician los trabajos. El encargado de trabajos llama a Torrijos para información de trenes."
+    },
+    {
+     "hora": "15:36",
+     "evento": "El encargado de trabajos pregunta a Torrijos por situación de trenes; le informan de petición de vía para tren 17702 a las 15:38 y que los pares circulan sin retraso."
+    },
+    {
+     "hora": "15:38",
+     "evento": "Paso del tren 17702 (último tren antes del accidente) por el PK 66+480, con 22 minutos de retraso."
+    },
+    {
+     "hora": "15:12",
+     "evento": "Salida del tren 17016 de Fuenlabrada con 4 minutos de retraso (según horario previsto: salida de Madrid-Atocha 15:27)."
+    },
+    {
+     "hora": "16:07",
+     "evento": "Telefonema de petición de vía (nº 368) de Villaluenga-Yuncler a Torrijos para expedir tren 17016 a las 16:12."
+    },
+    {
+     "hora": "16:08",
+     "evento": "Paso previsto del tren 17016 por Villaluenga-Yuncler (según horario)."
+    },
+    {
+     "hora": "16:12",
+     "evento": "Paso real del tren 17016 por Villaluenga-Yuncler, con 4 minutos de retraso."
+    },
+    {
+     "hora": "16:15",
+     "evento": "El encargado de trabajos llama a Villaluenga-Yuncler preguntando por el tren 17016; le contestan que ya lo han expedido. Empieza a llamar y silbar a los operarios."
+    },
+    {
+     "hora": "16:18:57",
+     "evento": "El maquinista observa personas en el puente en el PK 66+306, a 139 km/h, y activa la bocina de forma continuada."
+    },
+    {
+     "hora": "16:18:58",
+     "evento": "El maquinista inicia el frenado de urgencia."
+    },
+    {
+     "hora": "16:25",
+     "evento": "Arrollamiento del operario en el PK 66+480, a 137 km/h. El tren queda detenido en el PK 67+164."
+    },
+    {
+     "hora": "16:23",
+     "evento": "Comunicación VY-PM: el piloto informa de que el tren ha atropellado a una persona (tren 17016)."
+    },
+    {
+     "hora": "16:30",
+     "evento": "El encargado de trabajos llama a Villaluenga-Yuncler para avisar del arrollamiento (5 min después de la llamada interrumpida)."
+    },
+    {
+     "hora": "16:33",
+     "evento": "Comunicación PM-ET: confirma que trabajan al amparo del punto 167, que no afecta a circulación, pero que en ese momento estaba echando balasto dentro de la zona de seguridad."
+    },
+    {
+     "hora": "16:45",
+     "evento": "Comunicación PM-VY: confirma que no había bloqueo, liberación por tiempo ni interrupción de circulación establecidos."
+    },
+    {
+     "hora": "17:00",
+     "evento": "El tren 17016 queda estacionado en Torrijos, a disposición de la Guardia Civil."
+    },
+    {
+     "hora": "17:25",
+     "evento": "El jefe de investigación de accidentes de Adif comunica a la CIAF la producción del suceso."
+    },
+    {
+     "hora": "17:45",
+     "evento": "Se autoriza la expedición del tren 17016 desde Torrijos."
+    },
+    {
+     "hora": "17:53",
+     "evento": "Se restablece la circulación en el trayecto Villaluenga-Yuncler a Torrijos."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0036/2011",
+ "expediente": "0036/011",
+ "anio": 2011,
+ "titulo": "Arrollamiento de un operario de contratista de Adif por tren 17016 entre Villaluenga-Yuncler y Villamiel de Toledo",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-200711-260612-CIAF.md"
+}

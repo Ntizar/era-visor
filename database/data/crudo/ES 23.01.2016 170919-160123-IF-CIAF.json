@@ -1,0 +1,1373 @@
+{
+ "id": "ES 23.01.2016 170919-160123-IF-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/comodin/recursos/170919160123ifsn_ciaf.pdf",
+ "pdf": "pdfs/ES/ES 23.01.2016 170919-160123-IF-CIAF.pdf",
+ "md5_pdf": "8468d0fcbf50ffb0758dbbef5ffdbd51",
+ "paginas_md": 49,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 48,
+ "n_tablas": 6,
+ "tablas": [
+  {
+   "pagina": 6,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "10/2016 - 1",
+     "Recomendación": "Dado el elevado tráfico de mercancías en el tramo unido a la accidentalidad que soporta, se debe reconsiderar una actuación de envergadura en la zona, tendente a la renovación de las características de la infraestructura (drenaje) y superestructura que permitan la circulación segura."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "10/2016 - 2",
+     "Recomendación": "Cumplimiento riguroso en la línea 210, y principalmente en el tramo Flix-Reus, de lo establecido en el SGS en lo referente a la periodicidad de las auscultaciones de vía y de las visitas de vigilancia a pie y en cabina, actuando en consecuencia, y al menos hasta que no se proceda a una actuación de envergadura para la mejora del tramo."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 9,
+   "cabecera": [
+    "Nº orden composición",
+    "Serie",
+    "Nº Vehículo UIC",
+    "Origen - destino",
+    "Mercancía",
+    "Ejes",
+    "Peso remolcado (Tm.)",
+    "",
+    ""
+   ],
+   "filas": [
+    {
+     "Nº orden composición": "",
+     "Serie": "",
+     "Nº Vehículo UIC": "",
+     "Origen - destino": "",
+     "Mercancía": "",
+     "Ejes": "",
+     "Peso remolcado (Tm.)": "Tara"
+    },
+    {
+     "Nº orden composición": "1º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "247144330252",
+     "Origen - destino": "Constantí – La Salud",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "2",
+     "Peso remolcado (Tm.)": "12,7"
+    },
+    {
+     "Nº orden composición": "2º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "437143783326",
+     "Origen - destino": "Constantí – La Salud",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "4",
+     "Peso remolcado (Tm.)": "26,6"
+    },
+    {
+     "Nº orden composición": "3º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "437143782799",
+     "Origen - destino": "Constantí – La Salud",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "4",
+     "Peso remolcado (Tm.)": "26,6"
+    },
+    {
+     "Nº orden composición": "4º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "247144330302",
+     "Origen - destino": "Constantí – La Salud",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "2",
+     "Peso remolcado (Tm.)": "12,7"
+    },
+    {
+     "Nº orden composición": "5º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "437143782278",
+     "Origen - destino": "Constantí – La Salud",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "4",
+     "Peso remolcado (Tm.)": "12,7"
+    },
+    {
+     "Nº orden composición": "6º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "247144330161",
+     "Origen - destino": "Constantí – La Salud",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "2",
+     "Peso remolcado (Tm.)": "12,7"
+    }
+   ],
+   "cita": "| Nº orden composición | Serie | Nº Vehículo UIC | Origen - destino | Mercancía | Ejes | Peso remolcado (Tm.) |   |   |"
+  },
+  {
+   "pagina": 10,
+   "cabecera": [
+    "Nº orden composición",
+    "Serie",
+    "Nº Vehículo UIC",
+    "Origen - destino",
+    "",
+    "",
+    "Mercancía",
+    "Ejes",
+    "Peso remolcado (Tm.)",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "filas": [
+    {
+     "Nº orden composición": "",
+     "Serie": "",
+     "Nº Vehículo UIC": "",
+     "Origen - destino": "",
+     "Mercancía": "",
+     "Ejes": "",
+     "Peso remolcado (Tm.)": "Tara"
+    },
+    {
+     "Nº orden composición": "7º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "247144330211",
+     "Origen - destino": "Constantí – La Salud",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "2",
+     "Peso remolcado (Tm.)": "12,7"
+    },
+    {
+     "Nº orden composición": "8º",
+     "Serie": "PMMC",
+     "Nº Vehículo UIC": "378049521834",
+     "Origen - destino": "Constantí – La Salud",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "6",
+     "Peso remolcado (Tm.)": "30,0"
+    },
+    {
+     "Nº orden composición": "9º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "247144330146",
+     "Origen - destino": "Constantí – La Salud",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "2",
+     "Peso remolcado (Tm.)": "12,7"
+    },
+    {
+     "Nº orden composición": "10º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "437143785206",
+     "Origen - destino": "Constantí – La Salud",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "4",
+     "Peso remolcado (Tm.)": "26,6"
+    },
+    {
+     "Nº orden composición": "11º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "247144330245",
+     "Origen - destino": "Constantí – La Salud",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "2",
+     "Peso remolcado (Tm.)": "12,7"
+    },
+    {
+     "Nº orden composición": "12º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "247144330013",
+     "Origen - destino": "Constantí – La Salud",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "2",
+     "Peso remolcado (Tm.)": "12,7"
+    },
+    {
+     "Nº orden composición": "13º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "247144330344",
+     "Origen - destino": "Constantí – La Salud",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "2",
+     "Peso remolcado (Tm.)": "12.7"
+    },
+    {
+     "Nº orden composición": "14º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "247144330187",
+     "Origen - destino": "Constantí – La Salud",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "2",
+     "Peso remolcado (Tm.)": "12,7"
+    },
+    {
+     "Nº orden composición": "15º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "247144330369",
+     "Origen - destino": "Constantí – La Salud",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "2",
+     "Peso remolcado (Tm.)": "12,7"
+    },
+    {
+     "Nº orden composición": "16º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "247144330005",
+     "Origen - destino": "Constantí – La Salud",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "2",
+     "Peso remolcado (Tm.)": "12,7"
+    },
+    {
+     "Nº orden composición": "*17º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "437143783615",
+     "Origen - destino": "C",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "4",
+     "Peso remolcado (Tm.)": "26,6"
+    },
+    {
+     "Nº orden composición": "*18º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "434143782567",
+     "Origen - destino": "C",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "4",
+     "Peso remolcado (Tm.)": "26,6"
+    },
+    {
+     "Nº orden composición": "*19º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "434143782021",
+     "Origen - destino": "C",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "4",
+     "Peso remolcado (Tm.)": "26,6"
+    },
+    {
+     "Nº orden composición": "*20º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "434143781874",
+     "Origen - destino": "C",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "4",
+     "Peso remolcado (Tm.)": "26,6"
+    },
+    {
+     "Nº orden composición": "*21º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "247144330328",
+     "Origen - destino": "C",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "2",
+     "Peso remolcado (Tm.)": "12,7"
+    },
+    {
+     "Nº orden composición": "*22º",
+     "Serie": "PMC",
+     "Nº Vehículo UIC": "434143781791",
+     "Origen - destino": "C",
+     "Mercancía": "CONTENEDORES",
+     "Ejes": "4",
+     "Peso remolcado (Tm.)": "26,6"
+    },
+    {
+     "Nº orden composición": "TOTAL",
+     "Serie": "",
+     "Nº Vehículo UIC": "",
+     "Origen - destino": "",
+     "Mercancía": "",
+     "Ejes": "66",
+     "Peso remolcado (Tm.)": "407,9"
+    }
+   ],
+   "cita": "| Nº orden composición | Serie | Nº Vehículo UIC | Origen - destino |   |   | Mercancía | Ejes | Peso remolcado (Tm.) |   |   |   |   |"
+  },
+  {
+   "pagina": 15,
+   "cabecera": [
+    "Nº orden composición",
+    "Serie",
+    "Nº UIC",
+    "Nº de ejes",
+    "Daños"
+   ],
+   "filas": [
+    {
+     "Nº orden composición": "17º",
+     "Serie": "PMC",
+     "Nº UIC": "437143783615",
+     "Nº de ejes": "4",
+     "Daños": "Descarrilados los ejes 3 y 4."
+    },
+    {
+     "Nº orden composición": "18º",
+     "Serie": "PMC",
+     "Nº UIC": "437143782567",
+     "Nº de ejes": "4",
+     "Daños": "Descarrilados los 4 ejes. Descomposición del cargamento de la primera semiplataforma."
+    },
+    {
+     "Nº orden composición": "19º",
+     "Serie": "PMC",
+     "Nº UIC": "437143782021",
+     "Nº de ejes": "4",
+     "Daños": "Descarrilados los ejes 1, 2 y 4."
+    },
+    {
+     "Nº orden composición": "20º",
+     "Serie": "PMC",
+     "Nº UIC": "437143781874",
+     "Nº de ejes": "4",
+     "Daños": "Descarrilados los ejes 2, 3 y 4."
+    },
+    {
+     "Nº orden composición": "21º",
+     "Serie": "PMC",
+     "Nº UIC": "247144330328",
+     "Nº de ejes": "2",
+     "Daños": "Descarrilados los 2 ejes."
+    },
+    {
+     "Nº orden composición": "22º",
+     "Serie": "PMC",
+     "Nº UIC": "437143781791",
+     "Nº de ejes": "4",
+     "Daños": "Descarrilados los 4 ejes."
+    }
+   ],
+   "cita": "| Nº orden composición | Serie | Nº UIC | Nº de ejes | Daños |"
+  },
+  {
+   "pagina": 34,
+   "cabecera": [
+    "Nº orden composición",
+    "Serie",
+    "Nº UIC",
+    "Conservación"
+   ],
+   "filas": [
+    {
+     "Nº orden composición": "17º",
+     "Serie": "PMC",
+     "Nº UIC": "437143783615",
+     "Conservación": "Mantenimiento R el 22.06.2012. Taller TRANSERVI, SA. Mantenimiento RSI el 16.07.2015. Taller TRANSERVI, SA."
+    },
+    {
+     "Nº orden composición": "18º",
+     "Serie": "PMC",
+     "Nº UIC": "437143782567",
+     "Conservación": "Mantenimiento R el 30.09.2011. Taller TRANSERVI, SA."
+    },
+    {
+     "Nº orden composición": "19º",
+     "Serie": "PMC",
+     "Nº UIC": "437143782021",
+     "Conservación": "Mantenimiento R el 13.05.2010. Taller TAFESA Mantenimiento RSI el 04.03.2013. Taller TRANSERVI, SA."
+    },
+    {
+     "Nº orden composición": "20º",
+     "Serie": "PMC",
+     "Nº UIC": "437143781874",
+     "Conservación": "Mantenimiento R el 3.04.2015. Taller TRANSERVI, SA."
+    },
+    {
+     "Nº orden composición": "21º",
+     "Serie": "PMC",
+     "Nº UIC": "247144330328",
+     "Conservación": "Mantenimiento R el 28.08.2014. Taller TRANSERVI, SA."
+    },
+    {
+     "Nº orden composición": "22º",
+     "Serie": "PMC",
+     "Nº UIC": "437143781791",
+     "Conservación": "Mantenimiento R el 11.11.2015. Taller TRANSERVI, SA."
+    }
+   ],
+   "cita": "| Nº orden composición | Serie | Nº UIC | Conservación |"
+  },
+  {
+   "pagina": 49,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "10/2016 - 1",
+     "Recomendación": "Dado el elevado tráfico de mercancías en el tramo unido a la accidentalidad que soporta, se debe reconsiderar una actuación de envergadura en la zona, tendente a la renovación de las características de la infraestructura (drenaje) y superestructura que permitan la circulación segura."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "10/2016 - 2",
+     "Recomendación": "Cumplimiento riguroso en la línea 210, y principalmente en el tramo Flix-Reus, de lo establecido en el SGS en lo referente a la periodicidad de las auscultaciones de vía y de las visitas de vigilancia a pie y en cabina, actuando en consecuencia, y al menos hasta que no se proceda a una actuación de envergadura para la mejora del tramo."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0010/2016",
+   "pagina": 1,
+   "cita": "nº 0010/2016 ocurrido el 23.01.2016",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 23 de enero de 2016 a las 12:17 h, el tren de mercancías nº 97535 de TRANSFESA RAIL, con locomotora 335 y 22 vagones, descarriló en el pk 518+063 de la línea 210, a la salida de la estación de Ascó (Tarragona), circulando a 48 km/h por vía principal. Seis vagones (posiciones 17 a 22) resultaron descarrilados y el tren se fraccionó en dos partes separadas 120 m. No hubo víctimas ni heridos, pero se produjeron daños materiales significativos en material remolcado e infraestructura. La causa directa fue el fallo de la infraestructura por variaciones de peralte (alabeo) fuera de tolerancia, con causa subyacente en la desconsolidación del asiento de traviesas por deficiente drenaje y tráfico pesado, e incumplimiento del SGS en vigilancia y auscultación de vía.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2016-01-23",
+    "hora": "12:17:55",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Ascó",
+     "pk": "518+063",
+     "linea": "210 (Miraflores – Tarragona)",
+     "provincia": "Tarragona",
+     "descripcion_lugar": "Estación de Ascó, entre pk 517+833 y pk 518+929 de la línea 210. Punto cero del descarrilamiento a la altura de la señal de salida S1/1 (pk 518+061), en la transición de salida de una curva a derechas de radio 467 m con peralte de 160 mm. Vía única electrificada, ancho ibérico, traviesas de hormigón pretensado monobloque sobre balasto. Bloqueo Automático en Vía Única (BAU) con CTC desde Zaragoza."
+    }
+   },
+   "pagina": 5,
+   "cita": "El suceso tiene lugar el día 23 de enero de 2016 a las 12:17 horas en el pk 518+063 de la línea 210",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante (TRANSFESA): 55.000 € (6 vagones descarrilados, contenedor ACOU5700476 desguazado con pérdida de mercancía). Infraestructura (ADIF): 221.885,71 € (150 m de vía dañados, aparatos de vía 2 y 4, 4 postes de catenaria, 8 vanos de sustentador e hilo de contacto, cableado de señales). Servicio de ayuda en accidentes (tren taller ADIF): 46.702,47 €.",
+    "afectacion_servicio": "Interrupción total de la circulación entre Ascó y Flix desde el 23/01/2016 12:17 h hasta el 28/01/2016 04:55 h (~5 días). Anulados los cambios 2 y 4 de Ascó. Supresión de 21 trenes (3 media distancia, 18 mercancías). Retrasos en 55 trenes (33 media distancia, 19 mercancías, 3 otros) con 699 minutos de pérdida total. Trenes de mercancías desviados vía Lleida (línea 200). Viajeros de media distancia RENFE transbordados por carretera entre Flix y Mora la Nova."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo de la infraestructura: existencia de variaciones de peralte significativas (alabeo) fuera de tolerancia en la zona del accidente. El alabeo provoca que los planos de rodadura del vehículo y de la vía no coincidan, generando sobrecargas y descargas en las ruedas. En el punto cero, la diferencia de peralte entre el eje 1 (109 mm) y el eje 2 (148,7 mm) del vagón 18 (39,7 mm) dejó descargada la rueda izquierda del eje 1 sobre el hilo alto, que remontó el carril por la fuerza centrífuga en la curva.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Desconsolidación del asiento de las traviesas, más pronunciada bajo el hilo bajo, debido a un deficiente sistema de drenaje superficial (aguas pluviales atraviesan perpendicularmente las vías).",
+    "Considerable tráfico de mercancías de gran tonelaje que soporta la línea, causando mayor deterioro de la infraestructura.",
+    "Traviesas agrietadas (14%), tirafondos sueltos o ausentes, falta de balasto en cabezas de traviesas.",
+    "Peralte de 160 mm en curva a derechas de radio 467 m con alabeo acumulado."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Incumplimiento del Procedimiento Operativo SGSC-PO-24.00.09 (auscultación de vía): no se realizó auscultación geométrica durante 13 meses tras la reparación del 16.12.2014, cuando la periodicidad mínima es de 2 veces al año para línea A-2.",
+    "Incumplimiento del Procedimiento Operativo SGSC-PO-24.00.08 (vigilancia): no se constató la realización de vigilancias a pie (2/año) ni en cabina (3/año) desde diciembre de 2014 hasta el suceso.",
+    "Plazo excesivo entre la auscultación de 19.02.2014 (calidad 2) y la actuación correctiva del 16.12.2014 (10 meses, superando el máximo de 6 meses establecido).",
+    "Elevada accidentalidad recurrente en el tramo Flix-Reus (11 accidentes y 87 incidentes en 10 años) sin actuación de envergadura.",
+    "Posteriormente (24.05.2017) se produjo otro descarrilamiento en Ascó por la misma causa (alabeo por deficiente drenaje)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Dado el elevado tráfico de mercancías en el tramo unido a la accidentalidad que soporta, se debe reconsiderar una actuación de envergadura en la zona, tendente a la renovación de las características de la infraestructura (drenaje) y superestructura que permitan la circulación segura.",
+    "Cumplimiento riguroso en la línea 210, y principalmente en el tramo Flix-Reus, de lo establecido en el SGS en lo referente a la periodicidad de las auscultaciones de vía y de las visitas de vigilancia a pie y en cabina, actuando en consecuencia, y al menos hasta que no se proceda a una actuación de envergadura para la mejora del tramo.",
+    "Dado el elevado tráfico de mercancías en el tramo unido a la accidentalidad que soporta, se debe reconsiderar una actuación de envergadura en la zona, tendente a la renovación de las características de la infraestructura (drenaje) y superestructura que permitan la circulación segura.",
+    "Cumplimiento riguroso en la línea 210, y principalmente en el tramo Flix-Reus, de lo establecido en el SGS en lo referente a la periodicidad de las auscultaciones de vía y de las visitas de vigilancia a pie y en cabina, actuando en consecuencia, y al menos hasta que no se proceda a una actuación de envergadura para la mejora del tramo."
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "descarrilamiento",
+   "pagina": 5,
+   "cita": "A la altura de la señal de salida S1 (lado Zaragoza) de la estación de Ascó se produce el descarrilamiento",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "TRANSFESA RAIL",
+    "ADIF"
+   ],
+   "pagina": 3,
+   "cita": "3.2.1. Sistema de Gestión de la Seguridad del Operador, TRANSFESA RAIL. Aspectos",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2016-01-23",
+   "pagina": 5,
+   "cita": "El suceso tiene lugar el día 23 de enero de 2016 a las 12:17 horas en el pk 518+063 de la línea 210",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "12:17:55",
+   "pagina": 7,
+   "cita": "de velocidad). Incrementa la velocidad a su paso por la estación, y a las 12:17:55 descarrila el primer",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Ascó",
+    "pk": "518+063",
+    "linea": "210 (Miraflores – Tarragona)",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Estación de Ascó, entre pk 517+833 y pk 518+929 de la línea 210. Punto cero del descarrilamiento a la altura de la señal de salida S1/1 (pk 518+061), en la transición de salida de una curva a derechas de radio 467 m con peralte de 160 mm. Vía única electrificada, ancho ibérico, traviesas de hormigón pretensado monobloque sobre balasto. Bloqueo Automático en Vía Única (BAU) con CTC desde Zaragoza."
+   },
+   "pagina": 21,
+   "cita": "desconexión entre las subestaciones de Mora y Flix y no hay tensión en catenaria.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 210",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora: 335 (UIC 95.71.3.335.006.3), tipo 100N, velocidad máxima 100 km/h, con registrador TELOC 1500 y ASFA Digital. Vagones: 1 serie PMMC (378049521834) y 21 serie PMC. Total peso remolcado: 852 Tm (tara 407,9 + carga 444,1).",
+    "averia": "No se detectó ninguna avería ni incidencia en el material rodante. Mediciones geométricas del material remolcado afectado: dentro de tolerancias admitidas. Locomotora sin daños. Equipos y dispositivos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": "Plan de mantenimiento TF437800 (01.01.2015) para vagones PMC: RSI cada 3 años, R (gran reparación) cada 6 años. Vagones afectados con mantenimiento al día. Últimas visitas de seguridad (VS) certificadas por TRANSERVI: 10.12.2015 (La Negrilla, Sevilla) y 19.01.2016 (Sevilla Puerto). Inspección previa a la salida del tren: sin incidencias detectadas. Inspección cada 5000 km (procedimiento NTCMA 052 RENFE) subcontratada a centro certificado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 23 de enero de 2016, a las 12:17 horas, el tren de mercancías nº 97535 de TRANSFESA RAIL, compuesto por locomotora serie 335 y 22 vagones (1 PMMC y 21 PMC) con contenedores, procedente de Costantí (Tarragona) con destino La Salud (Sevilla), circulaba por vía principal (vía 1) de la estación de Ascó a 48 km/h, conforme a la limitación temporal vigente. A la altura de la señal de salida S1/1, en el pk 518+063, se produjo el descarrilamiento del primer eje del vagón situado en la posición 18 de la composición. El tren continuó la marcha aumentando velocidad durante unos 30 segundos, momento en que el maquinista aplicó el freno a 56 km/h. Tras recorrer unos 280 m, el tren quedó detenido en el pk 517+350, fraccionado en dos partes separadas 120 m: la locomotora con los 13 primeros vagones, y los 9 restantes, de los cuales seis (posiciones 17 a 22) resultaron descarrilados. Como consecuencia, varios contenedores volcaron, se derribó un poste de catenaria y se dañaron aparatos de vía. No se produjeron víctimas mortales ni heridos. La circulación entre Ascó y Flix quedó interrumpida hasta las 04:55 horas del 28 de enero de 2016.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Ascó",
+    "pk": "518+063",
+    "linea": "210 (Miraflores – Tarragona)",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Estación de Ascó, entre pk 517+833 y pk 518+929 de la línea 210. Punto cero del descarrilamiento a la altura de la señal de salida S1/1 (pk 518+061), en la transición de salida de una curva a derechas de radio 467 m con peralte de 160 mm. Vía única electrificada, ancho ibérico, traviesas de hormigón pretensado monobloque sobre balasto. Bloqueo Automático en Vía Única (BAU) con CTC desde Zaragoza."
+   },
+   "pagina": 21,
+   "cita": "desconexión entre las subestaciones de Mora y Flix y no hay tensión en catenaria.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante (TRANSFESA): 55.000 € (6 vagones descarrilados, contenedor ACOU5700476 desguazado con pérdida de mercancía). Infraestructura (ADIF): 221.885,71 € (150 m de vía dañados, aparatos de vía 2 y 4, 4 postes de catenaria, 8 vanos de sustentador e hilo de contacto, cableado de señales). Servicio de ayuda en accidentes (tren taller ADIF): 46.702,47 €.",
+    "afectacion_servicio": "Interrupción total de la circulación entre Ascó y Flix desde el 23/01/2016 12:17 h hasta el 28/01/2016 04:55 h (~5 días). Anulados los cambios 2 y 4 de Ascó. Supresión de 21 trenes (3 media distancia, 18 mercancías). Retrasos en 55 trenes (33 media distancia, 19 mercancías, 3 otros) con 699 minutos de pérdida total. Trenes de mercancías desviados vía Lleida (línea 200). Viajeros de media distancia RENFE transbordados por carretera entre Flix y Mora la Nova."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "En la actualidad se encuentra en fase de contratación las obras del Proyecto: “SUSTITUCIÓN DE DESVÍOS \nEN VARIAS ESTACIONES”. Plan 306, que no plantea un tratamiento generalizado de la infraestructura en \nla zona del suceso. \n \n \n\n## Página 49\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0010/2016 ocurrido el 23.01.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n170919-160123-IF-SN_CIAF.docx \nPág. 49 de 49",
+   "pagina": 48,
+   "cita": "4.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 97535 (R.M.)",
+     "implicacion": "Conducía el tren. Licencia de Conducción B obtenida 04.02.2010, caducidad 04.04.2016, último reciclaje 19.01.2016. Habilitaciones línea 210 (29.03.2010) y serie 335 (17.02.2010). Último reconocimiento médico 12.04.2013. Control de alcoholemia y drogas: negativo. Cumplió la limitación temporal de velocidad. Aplicó freno 30 s tras notar el suceso."
+    },
+    {
+     "rol": "Jefe de CTC (J.A., ADIF)",
+     "implicacion": "Observó la pérdida de comprobación de agujas 2 y 4 y ocupación simultánea de circuitos de vía. Contactó con el maquinista y comunicó al regulador de servicio."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "97535",
+     "tipo": "Mercancías, tipo 100N, 22 vagones (1 PMMC + 21 PMC) con contenedores",
+     "operador": "TRANSFESA RAIL",
+     "danos": "Seis vagones descarrilados (posiciones 17-22) con daños en ejes, elementos de tracción y timonería. Valoración de daños en material rodante: 55.000 €. Contenedor ACOU5700476 (ACOTRAL) deformado y desguazado con pérdida de mercancía. Locomotora sin daños."
+    }
+   ],
+   "pagina": 7,
+   "cita": "“Miraflores – Tarragona”, situado a la salida de la estación de Ascó, cuando el tren de mercancías nº 97535,",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora: 335 (UIC 95.71.3.335.006.3), tipo 100N, velocidad máxima 100 km/h, con registrador TELOC 1500 y ASFA Digital. Vagones: 1 serie PMMC (378049521834) y 21 serie PMC. Total peso remolcado: 852 Tm (tara 407,9 + carga 444,1).",
+    "averia": "No se detectó ninguna avería ni incidencia en el material rodante. Mediciones geométricas del material remolcado afectado: dentro de tolerancias admitidas. Locomotora sin daños. Equipos y dispositivos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": "Plan de mantenimiento TF437800 (01.01.2015) para vagones PMC: RSI cada 3 años, R (gran reparación) cada 6 años. Vagones afectados con mantenimiento al día. Últimas visitas de seguridad (VS) certificadas por TRANSERVI: 10.12.2015 (La Negrilla, Sevilla) y 19.01.2016 (Sevilla Puerto). Inspección previa a la salida del tren: sin incidencias detectadas. Inspección cada 5000 km (procedimiento NTCMA 052 RENFE) subcontratada a centro certificado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 9,
+   "cita": "Personal perteneciente al Administrador de Infraestructuras, (ADIF)",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E1 (pk 519+055) y señal de salida S1/1 (pk 518+061), ambas con balizas ASFA de pie de señal y previas a 300 m. Enclavamiento con GRP activo en Ascó.",
+    "tipo_via": "Vía única electrificada, ancho ibérico, traviesas de hormigón pretensado tipo monobloque sobre balasto. Estación con 3 vías: vía 1 (general, 508 m), vía 2 (550 m), vía 3 (536 m). Bloqueo Automático en Vía Única (BAU) con CTC desde Zaragoza.",
+    "velocidad_maxima": "90 km/h (cuadro de velocidades línea 210). Limitaciones temporales: 60 km/h tramo Mora la Nova-Flix; 30 km/h tramo Mora la Nova-Ascó (por descarrilamiento del 31.12.2015).",
+    "ancho": "Ibérico",
+    "electrificacion": "Sí, electrificada. Desconexión entre subestaciones de Mora la Nova y Flix durante el suceso; poste de catenaria derribado.",
+    "estado_via": "Deficiente. Variaciones de peralte (alabeo) fuera de tolerancia: 22,9 mm de diferencia en el punto cero, superando los límites de calidad 2 y situándose en calidad 3. Desconsolidación del asiento de traviesas, más pronunciada bajo el hilo bajo. Traviesas agrietadas (14%), tirafondos sueltos o ausentes, falta de balasto en cabezas de traviesas del hilo alto, polvo por roce continuo en hilo bajo. Deficiencias en drenaje superficial: aguas pluviales atraviesan perpendicularmente las vías.",
+    "otro": "Última auscultación geométrica: 19.02.2014 (resultados cerca de límite calidad 2). Nivelación con maquinaria pesada: 16.12.2014. Desde entonces hasta el suceso (13 meses) no se constató nueva auscultación ni vigilancias a pie/en cabina. Operaciones de mantenimiento en aparatos de vía 2 y 4: 27.02.2015 y 31.08.2015. Tramo Flix-Reus con historial de 11 accidentes y 87 incidentes en 10 años (2006-2016) por deficiencias de infraestructura."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de entrada E1 (pk 519+055) y señal de salida S1/1 (pk 518+061), ambas con balizas ASFA de pie de señal y previas a 300 m. Enclavamiento con GRP activo en Ascó.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Sistema de radiotelefonía tren – tierra, canal 66. \nTelefonía móvil.",
+   "pagina": 14,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": "No existían en ejecución obras en el lugar del accidente ni en sus inmediaciones en la fecha del suceso.",
+   "pagina": 14,
+   "cita": "2.2.5. Obras en el lugar o cercanías",
+   "origen": "determinista",
+   "regla": "sec:^obras en el lugar o cercan[íi]as$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante (TRANSFESA): 55.000 € (6 vagones descarrilados, contenedor ACOU5700476 desguazado con pérdida de mercancía). Infraestructura (ADIF): 221.885,71 € (150 m de vía dañados, aparatos de vía 2 y 4, 4 postes de catenaria, 8 vanos de sustentador e hilo de contacto, cableado de señales). Servicio de ayuda en accidentes (tren taller ADIF): 46.702,47 €.",
+    "afectacion_servicio": "Interrupción total de la circulación entre Ascó y Flix desde el 23/01/2016 12:17 h hasta el 28/01/2016 04:55 h (~5 días). Anulados los cambios 2 y 4 de Ascó. Supresión de 21 trenes (3 media distancia, 18 mercancías). Retrasos en 55 trenes (33 media distancia, 19 mercancías, 3 otros) con 699 minutos de pérdida total. Trenes de mercancías desviados vía Lleida (línea 200). Viajeros de media distancia RENFE transbordados por carretera entre Flix y Mora la Nova."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante (TRANSFESA): 55.000 € (6 vagones descarrilados, contenedor ACOU5700476 desguazado con pérdida de mercancía). Infraestructura (ADIF): 221.885,71 € (150 m de vía dañados, aparatos de vía 2 y 4, 4 postes de catenaria, 8 vanos de sustentador e hilo de contacto, cableado de señales). Servicio de ayuda en accidentes (tren taller ADIF): 46.702,47 €.",
+    "afectacion_servicio": "Interrupción total de la circulación entre Ascó y Flix desde el 23/01/2016 12:17 h hasta el 28/01/2016 04:55 h (~5 días). Anulados los cambios 2 y 4 de Ascó. Supresión de 21 trenes (3 media distancia, 18 mercancías). Retrasos en 55 trenes (33 media distancia, 19 mercancías, 3 otros) con 699 minutos de pérdida total. Trenes de mercancías desviados vía Lleida (línea 200). Viajeros de media distancia RENFE transbordados por carretera entre Flix y Mora la Nova."
+   },
+   "pagina": 10,
+   "cita": "ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante (TRANSFESA): 55.000 € (6 vagones descarrilados, contenedor ACOU5700476 desguazado con pérdida de mercancía). Infraestructura (ADIF): 221.885,71 € (150 m de vía dañados, aparatos de vía 2 y 4, 4 postes de catenaria, 8 vanos de sustentador e hilo de contacto, cableado de señales). Servicio de ayuda en accidentes (tren taller ADIF): 46.702,47 €.",
+    "afectacion_servicio": "Interrupción total de la circulación entre Ascó y Flix desde el 23/01/2016 12:17 h hasta el 28/01/2016 04:55 h (~5 días). Anulados los cambios 2 y 4 de Ascó. Supresión de 21 trenes (3 media distancia, 18 mercancías). Retrasos en 55 trenes (33 media distancia, 19 mercancías, 3 otros) con 699 minutos de pérdida total. Trenes de mercancías desviados vía Lleida (línea 200). Viajeros de media distancia RENFE transbordados por carretera entre Flix y Mora la Nova."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora: 335 (UIC 95.71.3.335.006.3), tipo 100N, velocidad máxima 100 km/h, con registrador TELOC 1500 y ASFA Digital. Vagones: 1 serie PMMC (378049521834) y 21 serie PMC. Total peso remolcado: 852 Tm (tara 407,9 + carga 444,1).",
+    "averia": "No se detectó ninguna avería ni incidencia en el material rodante. Mediciones geométricas del material remolcado afectado: dentro de tolerancias admitidas. Locomotora sin daños. Equipos y dispositivos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": "Plan de mantenimiento TF437800 (01.01.2015) para vagones PMC: RSI cada 3 años, R (gran reparación) cada 6 años. Vagones afectados con mantenimiento al día. Últimas visitas de seguridad (VS) certificadas por TRANSERVI: 10.12.2015 (La Negrilla, Sevilla) y 19.01.2016 (Sevilla Puerto). Inspección previa a la salida del tren: sin incidencias detectadas. Inspección cada 5000 km (procedimiento NTCMA 052 RENFE) subcontratada a centro certificado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E1 (pk 519+055) y señal de salida S1/1 (pk 518+061), ambas con balizas ASFA de pie de señal y previas a 300 m. Enclavamiento con GRP activo en Ascó.",
+    "tipo_via": "Vía única electrificada, ancho ibérico, traviesas de hormigón pretensado tipo monobloque sobre balasto. Estación con 3 vías: vía 1 (general, 508 m), vía 2 (550 m), vía 3 (536 m). Bloqueo Automático en Vía Única (BAU) con CTC desde Zaragoza.",
+    "velocidad_maxima": "90 km/h (cuadro de velocidades línea 210). Limitaciones temporales: 60 km/h tramo Mora la Nova-Flix; 30 km/h tramo Mora la Nova-Ascó (por descarrilamiento del 31.12.2015).",
+    "ancho": "Ibérico",
+    "electrificacion": "Sí, electrificada. Desconexión entre subestaciones de Mora la Nova y Flix durante el suceso; poste de catenaria derribado.",
+    "estado_via": "Deficiente. Variaciones de peralte (alabeo) fuera de tolerancia: 22,9 mm de diferencia en el punto cero, superando los límites de calidad 2 y situándose en calidad 3. Desconsolidación del asiento de traviesas, más pronunciada bajo el hilo bajo. Traviesas agrietadas (14%), tirafondos sueltos o ausentes, falta de balasto en cabezas de traviesas del hilo alto, polvo por roce continuo en hilo bajo. Deficiencias en drenaje superficial: aguas pluviales atraviesan perpendicularmente las vías.",
+    "otro": "Última auscultación geométrica: 19.02.2014 (resultados cerca de límite calidad 2). Nivelación con maquinaria pesada: 16.12.2014. Desde entonces hasta el suceso (13 meses) no se constató nueva auscultación ni vigilancias a pie/en cabina. Operaciones de mantenimiento en aparatos de vía 2 y 4: 27.02.2015 y 31.08.2015. Tramo Flix-Reus con historial de 11 accidentes y 87 incidentes en 10 años (2006-2016) por deficiencias de infraestructura."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Horas diurnas, condiciones meteorológicas normales, sin condiciones adversas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Tarragona",
+    "municipio": null,
+    "estacion": "Ascó"
+   },
+   "pagina": 5,
+   "cita": "Tarragona – Miraflores, estación de Ascó (Tarragona), cuando el tren de mercancías nº 97534 propiedad",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Horas diurnas, condiciones meteorológicas normales, sin condiciones adversas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de entrada E1 (pk 519+055) y señal de salida S1/1 (pk 518+061), ambas con balizas ASFA de pie de señal y previas a 300 m. Enclavamiento con GRP activo en Ascó.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E1 (pk 519+055) y señal de salida S1/1 (pk 518+061), ambas con balizas ASFA de pie de señal y previas a 300 m. Enclavamiento con GRP activo en Ascó.",
+    "tipo_via": "Vía única electrificada, ancho ibérico, traviesas de hormigón pretensado tipo monobloque sobre balasto. Estación con 3 vías: vía 1 (general, 508 m), vía 2 (550 m), vía 3 (536 m). Bloqueo Automático en Vía Única (BAU) con CTC desde Zaragoza.",
+    "velocidad_maxima": "90 km/h (cuadro de velocidades línea 210). Limitaciones temporales: 60 km/h tramo Mora la Nova-Flix; 30 km/h tramo Mora la Nova-Ascó (por descarrilamiento del 31.12.2015).",
+    "ancho": "Ibérico",
+    "electrificacion": "Sí, electrificada. Desconexión entre subestaciones de Mora la Nova y Flix durante el suceso; poste de catenaria derribado.",
+    "estado_via": "Deficiente. Variaciones de peralte (alabeo) fuera de tolerancia: 22,9 mm de diferencia en el punto cero, superando los límites de calidad 2 y situándose en calidad 3. Desconsolidación del asiento de traviesas, más pronunciada bajo el hilo bajo. Traviesas agrietadas (14%), tirafondos sueltos o ausentes, falta de balasto en cabezas de traviesas del hilo alto, polvo por roce continuo en hilo bajo. Deficiencias en drenaje superficial: aguas pluviales atraviesan perpendicularmente las vías.",
+    "otro": "Última auscultación geométrica: 19.02.2014 (resultados cerca de límite calidad 2). Nivelación con maquinaria pesada: 16.12.2014. Desde entonces hasta el suceso (13 meses) no se constató nueva auscultación ni vigilancias a pie/en cabina. Operaciones de mantenimiento en aparatos de vía 2 y 4: 27.02.2015 y 31.08.2015. Tramo Flix-Reus con historial de 11 accidentes y 87 incidentes en 10 años (2006-2016) por deficiencias de infraestructura."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Sistema de radiotelefonía tren – tierra, canal 66. \nTelefonía móvil.",
+   "pagina": 14,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora: 335 (UIC 95.71.3.335.006.3), tipo 100N, velocidad máxima 100 km/h, con registrador TELOC 1500 y ASFA Digital. Vagones: 1 serie PMMC (378049521834) y 21 serie PMC. Total peso remolcado: 852 Tm (tara 407,9 + carga 444,1).",
+    "averia": "No se detectó ninguna avería ni incidencia en el material rodante. Mediciones geométricas del material remolcado afectado: dentro de tolerancias admitidas. Locomotora sin daños. Equipos y dispositivos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": "Plan de mantenimiento TF437800 (01.01.2015) para vagones PMC: RSI cada 3 años, R (gran reparación) cada 6 años. Vagones afectados con mantenimiento al día. Últimas visitas de seguridad (VS) certificadas por TRANSERVI: 10.12.2015 (La Negrilla, Sevilla) y 19.01.2016 (Sevilla Puerto). Inspección previa a la salida del tren: sin incidencias detectadas. Inspección cada 5000 km (procedimiento NTCMA 052 RENFE) subcontratada a centro certificado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": "Notificación \n- A las 12:19 horas, el maquinista del tren 97535 de TRANSFESA RAIL, informa que ha detenido su \nmarcha en el Km 517/300, a la salida de Ascó como consecuencia de un posible descarrilamiento. \n- A las 12:34 horas, el maquinista confirma el suceso e informa que han descarrilado los seis últimos \nvagones de la composición y que ha golpeado un poste de catenaria derribándolo. \nA partir de la notificación del accidente al Jefe de CTC de Zaragoza, se comunica el suceso a los \ndepartamentos afectados, así como a los diferentes servicios de actuación: H24, Centro Permanente de \nSeguridad, (CPS), Empresas Ferroviarias, Logística, Seguridad en la Circulación, y Jefatura Operativa. \n\n## Página 44\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0010/2016 ocurrido el 23.01.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n170919-160123-IF-SN_CIAF.docx \nPág. 44 de 49 \nQueda interrumpida la circulación entre Ascó y Flix por vía general (vía 1) y anulados los cambios 2 y 4 \nde la estación de Ascó. La circulación se restablece a las 04:55 horas del día 28.01.2016. \nSe activa Plan Alternativo de Transporte: Los trenes de mercancías se desvían vía Lleida y se procede al \ntransbordo de los viajeros de los trenes de media distancia de RENFE a otro modo de transporte, por \ncarretera entre Flix y Mora la Nova.",
+   "pagina": 43,
+   "cita": "3.5.1. Medidas tomadas por el personal de circulación",
+   "origen": "determinista",
+   "regla": "sec:^medidas tomadas por el personal de circulaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Deficiente sistema de drenaje",
+    "Desconsolidación asiento traviesas",
+    "Exceso alabeo fuera tolerancia",
+    "Incumplimiento plazos auscultación"
+   ],
+   "pagina": 29,
+   "cita": "producidas por un deficiente sistema de drenaje, no son preceptivas la realización de inspecciones",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Personal perteneciente al Operador TRANSFESA RAIL \nMaquinista del tren 97535: Se identifica como R. M., perteneciente a la empresa ferroviaria TRANSFESA \nRAIL. Se encuentra en posesión de la Licencia de Conducción B, fecha de obtención 04.02.2010, \ncaducidad 04.04.2016 y último reciclaje 19.01.2016. Habilitaciones correspondientes a la línea 210 de \nfecha 29.03.2010 y material de la serie 335 de fecha 17/02/2010. \nÚltimo reconocimiento médico de aptitud psicofísica: 12.04.2013",
+   "pagina": 32,
+   "cita": "3.2.3. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 23 de enero de 2016, a las 12:17 horas, el tren de mercancías nº 97535 de TRANSFESA RAIL, compuesto por locomotora serie 335 y 22 vagones (1 PMMC y 21 PMC) con contenedores, procedente de Costantí (Tarragona) con destino La Salud (Sevilla), circulaba por vía principal (vía 1) de la estación de Ascó a 48 km/h, conforme a la limitación temporal vigente. A la altura de la señal de salida S1/1, en el pk 518+063, se produjo el descarrilamiento del primer eje del vagón situado en la posición 18 de la composición. El tren continuó la marcha aumentando velocidad durante unos 30 segundos, momento en que el maquinista aplicó el freno a 56 km/h. Tras recorrer unos 280 m, el tren quedó detenido en el pk 517+350, fraccionado en dos partes separadas 120 m: la locomotora con los 13 primeros vagones, y los 9 restantes, de los cuales seis (posiciones 17 a 22) resultaron descarrilados. Como consecuencia, varios contenedores volcaron, se derribó un poste de catenaria y se dañaron aparatos de vía. No se produjeron víctimas mortales ni heridos. La circulación entre Ascó y Flix quedó interrumpida hasta las 04:55 horas del 28 de enero de 2016.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nEl suceso tiene lugar el día 23 de enero de 2016 a las 12:17 horas en el pk 518+063 de la línea 210 \nTarragona – Miraflores en la estación de Ascó (Tarragona), cuando el tren de mercancías nº 97534 \npropiedad de la empresa ferroviaria TRANSFESA RAIL, procedente de Costantí (Tarragona) con destino \nLa Salud (Sevilla), circula por vía principal (vía 1 en sentido impar) hacia Flix, a una velocidad de 48 \nkm/hora. \n\n## Página 46\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0010/2016 ocurrido el 23.01.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n170919-160123-IF-SN_CIAF.docx \nPág. 46 de 49 \nAl salir de la estación se produce el descarrilamiento del vagón que ocupa el lugar nº 18 en la composición \nsegún el sentido de la marcha. \n- A las 12:09:24 horas, el tren 97535 circula con normalidad y se encuentra ocupando el CV E’1 – señal \nde avanzada de la estación de Ascó. Está establecido itinerario de paso sin parada por la estación de \nAscó vía general (vía 1). Las señales E1 (entrada de Ascó) y S1/1 (salida de Ascó) se encuentran en \nindicación de vía libre. \n- A las 12:16:08 horas, se produce el paso del tren por la baliza de la señal de entrada E1 (pk 519+055) \nen indicación de vía libre a una velocidad de 27 km/hora. [debido a la limitación de velocidad de 30 \nkm/hora impuesta entre Ascó y Mora la Nova] \nEl tren incrementa la velocidad a su paso por la estación, y a las 12:17:55 horas descarrila el primer \neje del vagón nº 18 a la velocidad de 48 Km/hora, en el pk 518+063 (punto 0), a la altura de la señal \nde salida S1/1 (situada 2 m después del punto cero). \nEl tren continúa la marcha aumentando la velocidad, y 30 segundos después (a las 12:18:25 horas) \nel maquinista aplica freno a 56 Km/hora en el pk 517+636, tras recorrer 425 m desde el punto 0, al \nhaber notado las consecuencias del suceso.  \n- A las 12:18:51 horas, y tras recorrer unos 280 m desde la aplicación de freno, el tren queda detenido \nen el pk 517+350 fraccionado en dos partes separadas entre sí 120 m: Una primera parte formada \npor la locomotora y los trece primeros vagones (desde el pk 517+350 al pk 517+660) y una segunda \n(desde el pk 517+780 al pk 517+950) formada por los 9 vagones restantes, estando descarrilados \nseis, los situados entre las posiciones 17 a 22. \nSe interrumpe la circulación por vía 1(general) entre Flix y Ascó y por los cambios 2 y 4 de esta última \nestación desde el momento de la notificación del accidente por el maquinista a las 12:18 horas del día",
+   "pagina": 45,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo de la infraestructura: existencia de variaciones de peralte significativas (alabeo) fuera de tolerancia en la zona del accidente. El alabeo provoca que los planos de rodadura del vehículo y de la vía no coincidan, generando sobrecargas y descargas en las ruedas. En el punto cero, la diferencia de peralte entre el eje 1 (109 mm) y el eje 2 (148,7 mm) del vagón 18 (39,7 mm) dejó descargada la rueda izquierda del eje 1 sobre el hilo alto, que remontó el carril por la fuerza centrífuga en la curva.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Desconsolidación del asiento de las traviesas, más pronunciada bajo el hilo bajo, debido a un deficiente sistema de drenaje superficial (aguas pluviales atraviesan perpendicularmente las vías).",
+    "Considerable tráfico de mercancías de gran tonelaje que soporta la línea, causando mayor deterioro de la infraestructura.",
+    "Traviesas agrietadas (14%), tirafondos sueltos o ausentes, falta de balasto en cabezas de traviesas.",
+    "Peralte de 160 mm en curva a derechas de radio 467 m con alabeo acumulado."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl descarrilamiento se produjo por fallo de la infraestructura en la zona del accidente, en \nconcreto por la existencia de variaciones de peralte significativas (alabeo) fuera de tolerancia. \nComo causa coadyuvante se apunta el considerable tráfico de mercancías de gran tonelaje que \nsoporta la línea. \n4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nComo causa subyacente se apunta la desconsolidación del asiento de las traviesas, más \npronunciado bajo el hilo bajo en la zona del descarrilamiento, debido a un deficiente sistema de \ndrenaje. (Recomendación 10/2016 – 1).  \n4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nDeficiencias en la aplicación del Sistema de Gestión de la Seguridad en lo relativo a: \n- \nProcedimiento \nOperativo \nSGSC-PO-24.00.08 \n“VIGILANCIA \nDEL \nESTADO \nDE \nLA \nINFRAESTRUCTURA Y VÍA”, de junio de 2015, al no realizarse vigilancias a pie y/o en cabina. \n- \nProcedimiento \nOperativo \nSGSC-PO-24.00.09 \n“AUSCULTACIÓN \nDE \nVÍA \nEN \nRED \nCONVENCIONAL”, de junio de 2015, por incumplimiento de la periodicidad en la auscultación \nde vía establecida en éste. (Ver recomendación 10/2016 – 2)",
+   "pagina": 48,
+   "cita": "4.3. CONCLUSIONES 4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalacio",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl descarrilamiento se produjo por fallo de la infraestructura en la zona del accidente, en \nconcreto por la existencia de variaciones de peralte significativas (alabeo) fuera de tolerancia. \nComo causa coadyuvante se apunta el considerable tráfico de mercancías de gran tonelaje que \nsoporta la línea. \n4.3.2. Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \nComo causa subyacente se apunta la desconsolidación del asiento de las traviesas, más \npronunciado bajo el hilo bajo en la zona del descarrilamiento, debido a un deficiente sistema de \ndrenaje. (Recomendación 10/2016 – 1).  \n4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nDeficiencias en la aplicación del Sistema de Gestión de la Seguridad en lo relativo a: \n- \nProcedimiento \nOperativo \nSGSC-PO-24.00.08 \n“VIGILANCIA \nDEL \nESTADO \nDE \nLA \nINFRAESTRUCTURA Y VÍA”, de junio de 2015, al no realizarse vigilancias a pie y/o en cabina. \n- \nProcedimiento \nOperativo \nSGSC-PO-24.00.09 \n“AUSCULTACIÓN \nDE \nVÍA \nEN \nRED \nCONVENCIONAL”, de junio de 2015, por incumplimiento de la periodicidad en la auscultación \nde vía establecida en éste. (Ver recomendación 10/2016 – 2)",
+   "pagina": 48,
+   "cita": "4.3. CONCLUSIONES 4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalacio",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "En la actualidad se encuentra en fase de contratación las obras del Proyecto: “SUSTITUCIÓN DE DESVÍOS \nEN VARIAS ESTACIONES”. Plan 306, que no plantea un tratamiento generalizado de la infraestructura en \nla zona del suceso. \n \n \n\n## Página 49\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0010/2016 ocurrido el 23.01.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n170919-160123-IF-SN_CIAF.docx \nPág. 49 de 49",
+   "pagina": 48,
+   "cita": "4.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "En la actualidad se encuentra en fase de contratación las obras del Proyecto: “SUSTITUCIÓN DE DESVÍOS \nEN VARIAS ESTACIONES”. Plan 306, que no plantea un tratamiento generalizado de la infraestructura en \nla zona del suceso. \n \n \n\n## Página 49\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0010/2016 ocurrido el 23.01.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n170919-160123-IF-SN_CIAF.docx \nPág. 49 de 49",
+   "pagina": 48,
+   "cita": "4.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "En la actualidad se encuentra en fase de contratación las obras del Proyecto: “SUSTITUCIÓN DE DESVÍOS \nEN VARIAS ESTACIONES”. Plan 306, que no plantea un tratamiento generalizado de la infraestructura en \nla zona del suceso. \n \n \n\n## Página 49\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0010/2016 ocurrido el 23.01.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n170919-160123-IF-SN_CIAF.docx \nPág. 49 de 49",
+   "pagina": 48,
+   "cita": "4.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Dado el elevado tráfico de mercancías en el tramo unido a la accidentalidad que soporta, se debe reconsiderar una actuación de envergadura en la zona, tendente a la renovación de las características de la infraestructura (drenaje) y superestructura que permitan la circulación segura.",
+    "Cumplimiento riguroso en la línea 210, y principalmente en el tramo Flix-Reus, de lo establecido en el SGS en lo referente a la periodicidad de las auscultaciones de vía y de las visitas de vigilancia a pie y en cabina, actuando en consecuencia, y al menos hasta que no se proceda a una actuación de envergadura para la mejora del tramo.",
+    "Dado el elevado tráfico de mercancías en el tramo unido a la accidentalidad que soporta, se debe reconsiderar una actuación de envergadura en la zona, tendente a la renovación de las características de la infraestructura (drenaje) y superestructura que permitan la circulación segura.",
+    "Cumplimiento riguroso en la línea 210, y principalmente en el tramo Flix-Reus, de lo establecido en el SGS en lo referente a la periodicidad de las auscultaciones de vía y de las visitas de vigilancia a pie y en cabina, actuando en consecuencia, y al menos hasta que no se proceda a una actuación de envergadura para la mejora del tramo."
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "12:09:24",
+     "evento": "Tren 97535 circula con normalidad ocupando CV E'1; itinerario establecido para paso por vía 1 de Ascó, señales E1 y S1/1 en vía libre."
+    },
+    {
+     "hora": "12:16:08",
+     "evento": "Tren pasa por señal de entrada E1 (pk 519+055) a 27 km/h, en indicación de vía libre."
+    },
+    {
+     "hora": "12:17:55",
+     "evento": "Descarrilamiento del primer eje del vagón nº 18 a 48 km/h en pk 518+063, junto a la señal de salida S1/1."
+    },
+    {
+     "hora": "12:18:25",
+     "evento": "Maquinista aplica freno a 56 km/h en pk 517+636, tras recorrer 425 m desde el punto cero (30 s después del descarrilamiento)."
+    },
+    {
+     "hora": "12:18:51",
+     "evento": "Tren queda detenido en pk 517+350, fraccionado en dos partes separadas 120 m. Seis vagones (17-22) descarrilados."
+    },
+    {
+     "hora": "12:19",
+     "evento": "Maquinista informa al jefe de CTC de posible descarrilamiento y detención en pk 517+300."
+    },
+    {
+     "hora": "12:32",
+     "evento": "Maquinista confirma por teléfono móvil la gravedad del suceso y descarrilamiento de vagones de cola."
+    },
+    {
+     "hora": "12:34",
+     "evento": "Maquinista confirma que han descarrilado seis últimos vagones y que un contenedor golpeó y derribó un poste de catenaria."
+    },
+    {
+     "hora": "18:45",
+     "evento": "Se autoriza la circulación de la locomotora con los 16 vagones no descarrilados (primer bloque)."
+    },
+    {
+     "hora": "21:20",
+     "evento": "Primer bloque sale como tren CGX29/40 hacia su destino."
+    },
+    {
+     "hora": "18:01",
+     "evento": "Día 25/01: quedan retirados de la vía los vagones 17, 18, 19, 21 y 22; contenedores transbordados por carretera."
+    },
+    {
+     "hora": "13:05",
+     "evento": "Día 26/01: queda retirado de la vía el vagón nº 20."
+    },
+    {
+     "hora": "04:55",
+     "evento": "Día 28/01: se restablece la circulación entre Ascó y Flix."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0010/2016",
+ "expediente": "0010/16",
+ "anio": 2016,
+ "titulo": "Descarrilamiento de tren de mercancías en la estación de Ascó (Tarragona) por fallo de infraestructura",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 23.01.2016 170919-160123-IF-CIAF.md"
+}

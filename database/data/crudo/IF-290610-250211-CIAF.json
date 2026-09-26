@@ -1,0 +1,928 @@
+{
+ "id": "IF-290610-250211-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/4394BC08-4880-45C5-A073-1DEDC27496D3/101326/IF290610_250211CIAF.pdf",
+ "pdf": "pdfs/ES/IF-290610-250211-CIAF.pdf",
+ "md5_pdf": "23589793ea2bedcd1097f6320d270991",
+ "paginas_md": 13,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 18,
+ "n_tablas": 1,
+ "tablas": [
+  {
+   "pagina": 10,
+   "cabecera": [
+    "",
+    "29/06/10",
+    "Entre el maquinista de la maniobra de material vacío (procedente de tren 25122) y"
+   ],
+   "filas": [
+    {
+     "29/06/10": "09:35:00",
+     "Entre el maquinista de la maniobra de material vacío (procedente de tren 25122) y": "el operador del puesto de mando de Barcelona Sants"
+    },
+    {
+     "29/06/10": "25122 buenos días. Buenos días, ¿qué ha pasado en la vía 4? soy el maquinista de maniobras (silencio 4 segundos)…. Has metido la maniobra del 25122 le has vuelto a meter en la vía 4. No, no, no, ¿tú dónde estás ahora? Pues en cabeza, soy el maquinista de maniobras, pues han puesto…. la maniobra del 25122 está en la vía 4 y ha habido un conato de choque aquí…. ¿Está en la vía 4? Sí. ¿Estaba abierta la señal para la maniobra? Pues ... qué ha pasado... no sé… aquí está el tren este la maniobra del 25122 vuelve a estar en la vía 4 y por el otro lado estaba entrando otro tren…. ¿Se han visto de lejos y está parado? Sí, lo he visto de lejos… Pero esa maniobra tenía que continuar para hacer la maniobra hasta la R3, ¿cómo es que se ha metido para dentro? ¿Qué, no ha librado? (silencio unos segundos)… ¿No había librado? No, no, pero es que se tiene que meter, se tiene que ir hasta la R3, esa maniobra. Ya lo sé, pero es que no sé… los maquinistas… yo había venido a relevarlo al maquinista,… he venido a relevarlo al maquinista porque ha vuelto a entrar aquí. Y ¿por qué ha vuelto a entrar? Yo que sé… te lo digo de verdad que no lo sé... no lo sé. O sea, ¿que tú estás en la vía 4 ahora? Sí, sí, a ver si hacemos esta maniobra y ya aclaramos luego lo que ha pasado. Pero esta maniobra estaba abierta para la R3. ¿Qué no ha llegado a librarla? O sea, ¿que no se ha movido de ahí? No, no, !sí que se ha movido el tren de ahí! ¿Se ha movido, entonces para qué ha tirado otra vez para la vía 4? No lo sé, la verdad es que no lo sé. Pues te estoy abriendo ahora la S2/4 otra vez. Voy a…. voy a llamar a otro maquinista de maniobras para que la haga conmigo ¿eh? Un segundito. Venga de acuerdo.",
+     "Entre el maquinista de la maniobra de material vacío (procedente de tren 25122) y": ""
+    }
+   ],
+   "cita": "|   | 29/06/10 | Entre el maquinista de la maniobra de material vacío (procedente de tren 25122) y |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0032/2010",
+   "pagina": 1,
+   "cita": "nº 0032/2010 ocurrido el 29.06.2010",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 29 de junio de 2010 a las 09:07 se produjo un conato de colisión en la estación subterránea de Sant Andreu Arenal (Barcelona) entre una maniobra de material vacío procedente del tren de cercanías 25122 y el tren de cercanías 28708, ambos de Renfe Operadora. La maniobra rebasó indebidamente la señal de retroceso R3, que se encontraba en indicación de parada, tras un cambio de mandos en cabina, y quedó enfrentada al tren 28708 a unos 100 metros en vía 4. No hubo víctimas ni daños materiales, pero se produjeron 114 minutos de retraso en 9 trenes de cercanías. La CIAF concluyó que el origen fue el incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2010-06-29",
+    "hora": "09:07",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Sant Andreu Arenal",
+     "pk": "361+100",
+     "linea": "220 Lleida-Pirineus a Hospitalet de Llobregat",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Estación subterránea con enclavamiento electrónico, adscrita al puesto de mando de Barcelona Sants. Tramo Montcada Bif.-Bif. Vilanova. La señal R3 está dentro de un túnel."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 29 de junio de 2010, a las 9:07 horas, en la estación de Sant Andreu Arenal (Barcelona), de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno, ni a la infraestructura ni al material rodante",
+    "afectacion_servicio": "Retraso total de 114 minutos en 9 trenes de cercanías; no se activó plan de emergencia interno-externo"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Rebase indebido por la maniobra de material vacío (procedente de tren 25122) de la señal de retroceso R3, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción (artículo 217 del Reglamento General de Circulación)",
+   "pagina": 12,
+   "cita": "El incidente tuvo su origen en el rebase indebido por la maniobra de material vacío (procedente de",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Cambio de mandos en cabina tras librar la señal R3, lo que pudo generar confusión en el maquinista sobre la indicación de la señal",
+    "El maquinista interpretó erróneamente la señal R3 como rebase autorizado cuando estaba en indicación de parada",
+    "El itinerario establecido por el CTC para la maniobra la encaminaba de nuevo a vía 4, lo que sorprendió al maquinista"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Gestión del riesgo por fallo humano en la conducción (Renfe Operadora puso en marcha proyectos de mejora tras el incidente)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Considerando suficientes las medidas adoptadas por Renfe Operadora (oficina de gestión del fallo humano, comunidad de gestión de conocimiento para formación de maquinistas, programas formativos sobre fiabilidad de la conducción y prevención de rebases), no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Considerando suficientes las medidas adoptadas por Renfe Operadora (oficina de gestión del fallo humano, comunidad de gestión de conocimiento para formación de maquinistas, programas formativos sobre fiabilidad de la conducción y prevención de rebases), no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "conato de colisión",
+   "pagina": 3,
+   "cita": "línea 220 Lleida-Pirineus a Hospitalet de Llobregat, se produce un conato de colisión entre la maniobra",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "empresa ferroviaria Renfe Operadora, cuando el primero rebasa indebidamente la señal de retroceso",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2010-06-29",
+   "pagina": 3,
+   "cita": "El día 29 de junio de 2010, a las 9:07 horas, en la estación de Sant Andreu Arenal (Barcelona), de la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "09:07",
+   "pagina": 3,
+   "cita": "29.06.10/ 09:07 Lugar: Estación de Sant Andreu Arenal, P.K. 361+100 Línea: 220 Lleida-Pirineus/ Hospitalet de Llobregat Tramo: Montcada Bif.- Bif. Vilanova Municipio: Sant Andreu Arenal Provincia: B",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Sant Andreu Arenal",
+    "pk": "361+100",
+    "linea": "220 Lleida-Pirineus a Hospitalet de Llobregat",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Estación subterránea con enclavamiento electrónico, adscrita al puesto de mando de Barcelona Sants. Tramo Montcada Bif.-Bif. Vilanova. La señal R3 está dentro de un túnel."
+   },
+   "pagina": 3,
+   "cita": "terminadas las operaciones comerciales y estando la composición vacía, se encuentra estacionado en",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "220 Lleida-Pirineus a Hospitalet de Llobregat",
+   "pagina": 3,
+   "cita": "línea 220 Lleida-Pirineus a Hospitalet de Llobregat, se produce un conato de colisión entre la maniobra",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UTs 447099/447053, 6 coches, 152 metros, 432 toneladas; UIC 967194470530 y 967194740993",
+    "averia": "ninguna; funcionó correctamente",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 29 de junio de 2010, a las 09:02:40, el tren de cercanías 25122 de Renfe Operadora, procedente de Terrassa, se estacionó en vía 4 de la estación de Sant Andreu Arenal. Tras finalizar las operaciones comerciales, el material vacío debía situarse en vía 3 para realizar el tren de cercanías 28621 con destino Cerdanyola Universidad. A las 09:04:13, tras indicar rebase autorizado la señal S2/4, la maniobra de material vacío inició la marcha desde vía 4 hasta la señal R3 en vía 2. A las 09:05:33, tras recorrer 500 metros, la maniobra libró la señal R3 y se realizó un cambio de mandos en cabina. Seguidamente, el CTC autorizó la entrada por lado Montcada al tren 28708, con rebase autorizado de la señal de entrada E2 e itinerario de entrada a vía 4. A las 09:06:34, la maniobra de material vacío inició movimiento en sentido Terrassa y rebasó indebidamente la señal R3, que estaba en indicación de parada, encaminándose de nuevo a vía 4. A las 09:07:00, ambos trenes quedaron enfrentados sobre la vía 4 a una distancia de unos 100 metros. El maquinista de la maniobra, al ver unos focos enfrente y gente que le hacía señales de parada, efectuó detención inmediata. El tren 28708 quedó detenido a la altura de la señal S1/4.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Sant Andreu Arenal",
+    "pk": "361+100",
+    "linea": "220 Lleida-Pirineus a Hospitalet de Llobregat",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Estación subterránea con enclavamiento electrónico, adscrita al puesto de mando de Barcelona Sants. Tramo Montcada Bif.-Bif. Vilanova. La señal R3 está dentro de un túnel."
+   },
+   "pagina": 3,
+   "cita": "terminadas las operaciones comerciales y estando la composición vacía, se encuentra estacionado en",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno, ni a la infraestructura ni al material rodante",
+    "afectacion_servicio": "Retraso total de 114 minutos en 9 trenes de cercanías; no se activó plan de emergencia interno-externo"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista de la maniobra de material vacío (tren 25122)",
+     "implicacion": "Rebasó indebidamente la señal R3 en indicación de parada tras cambio de mandos en cabina; matrícula 6820658; título B de conducción; prueba de alcoholemia negativa"
+    },
+    {
+     "rol": "supervisor de circulación del CTC en Barcelona",
+     "implicacion": "Autorizó la entrada del tren 28708 a vía 4 tras observar que la maniobra había librado la señal R3; comunicó por tren tierra al maquinista que estuviera atento a la señal"
+    }
+   ],
+   "pagina": 7,
+   "cita": "De la ficha de toma de declaración realizada por el supervisor de circulación del CTC en Barcelona el",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "25122",
+     "tipo": "cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "ninguno"
+    },
+    {
+     "numero": "28708",
+     "tipo": "cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "ninguno"
+    }
+   ],
+   "pagina": 3,
+   "cita": "de material vacío (procedente de tren de cercanías 25122) y el tren de cercanías 28708, ambos de la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UTs 447099/447053, 6 coches, 152 metros, 432 toneladas; UIC 967194470530 y 967194740993",
+    "averia": "ninguna; funcionó correctamente",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal R3: baja de cuatro focos, buena visibilidad, dentro de un túnel, sin baliza, en indicación de parada. Señal S2/4: rebase autorizado. Señal E2: rebase autorizado para tren 28708.",
+    "tipo_via": "vía doble electrificada, estación subterránea con enclavamiento electrónico",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "sí",
+    "estado_via": "correcto; bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC) funcionaban correctamente",
+    "otro": "Adscrita al puesto de mando de Barcelona Sants; mando central; consigna serie A número 1545; radiotelefonía modalidad A (tren-tierra)"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal R3: baja de cuatro focos, buena visibilidad, dentro de un túnel, sin baliza, en indicación de parada. Señal S2/4: rebase autorizado. Señal E2: rebase autorizado para tren 28708.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad A (tren tierra).",
+   "pagina": 6,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno, ni a la infraestructura ni al material rodante",
+    "afectacion_servicio": "Retraso total de 114 minutos en 9 trenes de cercanías; no se activó plan de emergencia interno-externo"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno, ni a la infraestructura ni al material rodante",
+    "afectacion_servicio": "Retraso total de 114 minutos en 9 trenes de cercanías; no se activó plan de emergencia interno-externo"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno, ni a la infraestructura ni al material rodante",
+    "afectacion_servicio": "Retraso total de 114 minutos en 9 trenes de cercanías; no se activó plan de emergencia interno-externo"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTs 447099/447053, 6 coches, 152 metros, 432 toneladas; UIC 967194470530 y 967194740993",
+    "averia": "ninguna; funcionó correctamente",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal R3: baja de cuatro focos, buena visibilidad, dentro de un túnel, sin baliza, en indicación de parada. Señal S2/4: rebase autorizado. Señal E2: rebase autorizado para tren 28708.",
+    "tipo_via": "vía doble electrificada, estación subterránea con enclavamiento electrónico",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "sí",
+    "estado_via": "correcto; bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC) funcionaban correctamente",
+    "otro": "Adscrita al puesto de mando de Barcelona Sants; mando central; consigna serie A número 1545; radiotelefonía modalidad A (tren-tierra)"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Sant Andreu Arenal"
+   },
+   "pagina": 3,
+   "cita": "El día 29 de junio de 2010, a las 9:07 horas, en la estación de Sant Andreu Arenal (Barcelona), de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal R3: baja de cuatro focos, buena visibilidad, dentro de un túnel, sin baliza, en indicación de parada. Señal S2/4: rebase autorizado. Señal E2: rebase autorizado para tren 28708.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal R3: baja de cuatro focos, buena visibilidad, dentro de un túnel, sin baliza, en indicación de parada. Señal S2/4: rebase autorizado. Señal E2: rebase autorizado para tren 28708.",
+    "tipo_via": "vía doble electrificada, estación subterránea con enclavamiento electrónico",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "sí",
+    "estado_via": "correcto; bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC) funcionaban correctamente",
+    "otro": "Adscrita al puesto de mando de Barcelona Sants; mando central; consigna serie A número 1545; radiotelefonía modalidad A (tren-tierra)"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad A (tren tierra).",
+   "pagina": 6,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTs 447099/447053, 6 coches, 152 metros, 432 toneladas; UIC 967194470530 y 967194740993",
+    "averia": "ninguna; funcionó correctamente",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Cambio de mandos en cabina tras librar la señal R3, lo que pudo generar confusión en el maquinista sobre la indicación de la señal",
+    "El maquinista interpretó erróneamente la señal R3 como rebase autorizado cuando estaba en indicación de parada",
+    "El itinerario establecido por el CTC para la maniobra la encaminaba de nuevo a vía 4, lo que sorprendió al maquinista"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Por parte de Renfe Operadora \nEl maquinista de la maniobra de material vacío (procedente de tren 25122) posee el título B de \nconducción y está habilitado conforme a la Orden FOM/2520/2006, de 27 de julio. \nRealizó su último reciclaje formativo el 23/02/10 y su último reconocimiento médico y psicotécnico el \n25/02/09 de acuerdo a la normativa vigente. \n3.2. \nNORMATIVA",
+   "pagina": 8,
+   "cita": "3.1.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 29 de junio de 2010, a las 09:02:40, el tren de cercanías 25122 de Renfe Operadora, procedente de Terrassa, se estacionó en vía 4 de la estación de Sant Andreu Arenal. Tras finalizar las operaciones comerciales, el material vacío debía situarse en vía 3 para realizar el tren de cercanías 28621 con destino Cerdanyola Universidad. A las 09:04:13, tras indicar rebase autorizado la señal S2/4, la maniobra de material vacío inició la marcha desde vía 4 hasta la señal R3 en vía 2. A las 09:05:33, tras recorrer 500 metros, la maniobra libró la señal R3 y se realizó un cambio de mandos en cabina. Seguidamente, el CTC autorizó la entrada por lado Montcada al tren 28708, con rebase autorizado de la señal de entrada E2 e itinerario de entrada a vía 4. A las 09:06:34, la maniobra de material vacío inició movimiento en sentido Terrassa y rebasó indebidamente la señal R3, que estaba en indicación de parada, encaminándose de nuevo a vía 4. A las 09:07:00, ambos trenes quedaron enfrentados sobre la vía 4 a una distancia de unos 100 metros. El maquinista de la maniobra, al ver unos focos enfrente y gente que le hacía señales de parada, efectuó detención inmediata. El tren 28708 quedó detenido a la altura de la señal S1/4.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Rebase indebido por la maniobra de material vacío (procedente de tren 25122) de la señal de retroceso R3, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción (artículo 217 del Reglamento General de Circulación)",
+   "pagina": 12,
+   "cita": "El incidente tuvo su origen en el rebase indebido por la maniobra de material vacío (procedente de",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Cambio de mandos en cabina tras librar la señal R3, lo que pudo generar confusión en el maquinista sobre la indicación de la señal",
+    "El maquinista interpretó erróneamente la señal R3 como rebase autorizado cuando estaba en indicación de parada",
+    "El itinerario establecido por el CTC para la maniobra la encaminaba de nuevo a vía 4, lo que sorprendió al maquinista"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Considerando suficientes las medidas adoptadas por Renfe Operadora (oficina de gestión del fallo humano, comunidad de gestión de conocimiento para formación de maquinistas, programas formativos sobre fiabilidad de la conducción y prevención de rebases), no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "09:02:40",
+     "evento": "El tren de cercanías 25122 se estaciona en vía 4 de Sant Andreu Arenal, procedente de Terrassa"
+    },
+    {
+     "hora": "09:04:13",
+     "evento": "La maniobra de material vacío inicia la marcha de vía 4 hacia la señal R3 en vía 2, tras rebase autorizado de la señal S2/4"
+    },
+    {
+     "hora": "09:05:33",
+     "evento": "La maniobra libra la señal R3 tras recorrer 500 metros; se realiza cambio de mandos en cabina; el CTC autoriza entrada del tren 28708 a vía 4"
+    },
+    {
+     "hora": "09:06:34",
+     "evento": "La maniobra de material vacío inicia movimiento en sentido Terrassa y rebasa indebidamente la señal R3 en indicación de parada, encaminándose de nuevo a vía 4"
+    },
+    {
+     "hora": "09:07:00",
+     "evento": "Conato de colisión: ambos trenes quedan enfrentados en vía 4 a unos 100 metros; parada inmediata de la maniobra al ver focos enfrente"
+    },
+    {
+     "hora": "09:35:00",
+     "evento": "Comunicación telefónica entre el maquinista de la maniobra y el operador del puesto de mando de Barcelona Sants"
+    },
+    {
+     "hora": "14:14",
+     "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica a la CIAF la producción del suceso"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0032/2010",
+ "expediente": "0032/010",
+ "anio": 2010,
+ "titulo": "Conato de colisión entre maniobra de material vacío y tren de cercanías en la estación de Sant Andreu Arenal, Barcelona",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-290610-250211-CIAF.md"
+}

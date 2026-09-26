@@ -1,0 +1,941 @@
+{
+ "id": "IF_200913_230914_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/46124A71-B62D-4B73-8AB5-BB8326FA8A68/127011/IF200913230914CIAF.pdf",
+ "pdf": "pdfs/ES/IF_200913_230914_CIAF.pdf",
+ "md5_pdf": "e392d1ca4e34b50a2eee49043a4be240",
+ "paginas_md": 20,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 18,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0064/2013",
+   "pagina": 1,
+   "cita": "nº 0064/2013 ocurrido el 20.09.2013",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2013-09-20, a las 10:04, el tren de cercanías 25706 de Renfe Operadora colisionó por alcance con el tren 28132, estacionado en la vía 7 de la estación de Barcelona Sants. El 25706 pasó la señal E9 en rebase autorizado y circulaba a 28 km/h, mientras el maquinista consultaba el libro horario. La colisión provocó el descarrilamiento del bogie de cabeza del 25706 y 24 heridos leves. La causa fue un fallo humano por falta de atención, con incumplimiento de la marcha de maniobras y de la disposición de detención.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2013-09-20",
+    "hora": "10:04",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Barcelona Sants",
+     "pk": "678+098 (señal E9)",
+     "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Vía 7 de la estación subterránea de Barcelona Sants, en el circuito de estacionamiento CV7, entre la señal interior de entrada E9 y la señal de salida S1/7A."
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 20 de septiembre de 2013 a las 10:04 horas en la estación de Barcelona Sants, de la línea 220",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 24,
+    "danos_materiales": "Roturas y deformaciones frontales en el coche motor de cola del tren 28132 y en el coche motor de cabeza del tren 25706; valoración total de 247.000 €; infraestructura sin daños.",
+    "afectacion_servicio": "Vía 7 interceptada de 10:04 a 17:37; vía 6 de AVE bloqueada de 11:16 a 17:16; desvíos y supresiones; retrasos acumulados de 3419 minutos (2955 de cercanías, 338 de media distancia y 126 de larga distancia); 73 trenes suprimidos."
+   },
+   "pagina": 10,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del maquinista del tren 25706: falta de atención en la conducción al consultar el libro horario, con incumplimiento del artículo 218.1 del RGC (circular con marcha de maniobras ante un rebase autorizado) y del artículo 141.2 del RGC (disposición de detención ante cualquier obstáculo).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Circulación con velocidad prefijada incumpliendo el Aviso SC nº 37, que prescribe conducción manual en marcha a la vista.",
+    "Curva a la izquierda y pilares que impedían la visibilidad de la parte posterior del andén de la vía 7, según la declaración del maquinista."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Colisión por alcance",
+   "pagina": 5,
+   "cita": "rebase autorizado por la señal que protege la entrada a vía 7, circula por ésta y se produce la colisión",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "nº 37 de la DSC de Renfe Operadora, que prescribe conducción manual en las circunstancias de este",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2013-09-20",
+   "pagina": 5,
+   "cita": "El día 20 de septiembre de 2013 a las 10:04 horas en la estación de Barcelona Sants, de la línea 220",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "10:04",
+   "pagina": 5,
+   "cita": "El día 20 de septiembre de 2013 a las 10:04 horas en la estación de Barcelona Sants, de la línea 220",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Barcelona Sants",
+    "pk": "678+098 (señal E9)",
+    "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Vía 7 de la estación subterránea de Barcelona Sants, en el circuito de estacionamiento CV7, entre la señal interior de entrada E9 y la señal de salida S1/7A."
+   },
+   "pagina": 5,
+   "cita": "por alcance del tren 28132 que se encontraba estacionado en la mencionada vía realizando parada",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "220 Lleida Pirineus – L'Hospitalet de Llobregat",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Automotores eléctricos serie 447: 447023/447070 (tren 28132) y 447069/447071 (tren 25706); tren tipo 120A.",
+    "averia": "No se describe avería; los equipos de seguridad de ambos trenes funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 2013-09-20, a las 10:04, el tren de cercanías 28132 de Renfe Operadora, procedente de Terrassa y con destino Martorell, quedó estacionado en la vía 7 de la estación de Barcelona Sants para realizar parada comercial y relevo de maquinistas. Detrás, el tren de cercanías 25706, procedente de Calella y con destino L'Hospitalet de Llobregat, pasó la señal de entrada E1 en anuncio de parada y la señal interior E9 en indicación de rebase autorizado, circulando a 28 km/h.\n\nEl maquinista del tren 25706 se distrajo consultando el libro horario del tren. Cuando percibió la cola del tren 28132 estacionado, accionó el manipulador de tracción/freno a la posición de urgencia, pero no pudo evitar la colisión por alcance. Como consecuencia, descarriló el bogie de cabeza del tren 25706 y resultaron 24 heridos leves, entre ellos el maquinista de dicho tren.\n\nLa investigación concluye que el accidente se produjo por un fallo humano del personal de conducción del tren 25706, por falta de atención en la conducción, al no cumplir las condiciones reglamentarias del rebase autorizado. Como factor coadyuvante se apunta la circulación con velocidad prefijada, incumpliendo el Aviso SC nº 37, que prescribe conducción manual en marcha a la vista.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Barcelona Sants",
+    "pk": "678+098 (señal E9)",
+    "linea": "220 Lleida Pirineus – L’Hospitalet de Llobregat",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Vía 7 de la estación subterránea de Barcelona Sants, en el circuito de estacionamiento CV7, entre la señal interior de entrada E9 y la señal de salida S1/7A."
+   },
+   "pagina": 5,
+   "cita": "por alcance del tren 28132 que se encontraba estacionado en la mencionada vía realizando parada",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 24,
+    "danos_materiales": "Roturas y deformaciones frontales en el coche motor de cola del tren 28132 y en el coche motor de cabeza del tren 25706; valoración total de 247.000 €; infraestructura sin daños.",
+    "afectacion_servicio": "Vía 7 interceptada de 10:04 a 17:37; vía 6 de AVE bloqueada de 11:16 a 17:16; desvíos y supresiones; retrasos acumulados de 3419 minutos (2955 de cercanías, 338 de media distancia y 126 de larga distancia); 73 trenes suprimidos."
+   },
+   "pagina": 10,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 25706 (matrícula 6826150)",
+     "implicacion": "Falta de atención/despiste al consultar el libro horario; incumplió las condiciones reglamentarias del rebase autorizado (marcha de maniobras y disposición de detención); circulaba con velocidad prefijada; resultó herido leve; pruebas de alcoholemia y drogas negativas a las 11:20."
+    },
+    {
+     "rol": "Maquinista del tren 28132 que había dado el relevo (matrícula 6820609)",
+     "implicacion": "Estacionó el tren en vía 7 y realizó el relevo; no se le atribuye responsabilidad; pruebas de alcoholemia y drogas negativas a las 11:45."
+    },
+    {
+     "rol": "Maquinista del tren 28132 que se disponía a conducir (matrícula 6814990)",
+     "implicacion": "Se encontraba en el tren estacionado preparando la documentación cuando se produjo la colisión; no se le atribuye responsabilidad; prueba de alcoholemia negativa a las 13:00."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "25706",
+     "tipo": "Tren de viajeros de cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Descarrilamiento del bogie de cabeza; roturas y deformaciones en la parte frontal del coche motor de cabeza; contribuye a la valoración total de daños de 247.000 €."
+    },
+    {
+     "numero": "28132",
+     "tipo": "Tren de viajeros de cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Roturas y deformaciones en la parte frontal del coche motor de cola; contribuye a la valoración total de daños de 247.000 €."
+    },
+    {
+     "numero": "25770",
+     "tipo": null,
+     "operador": null,
+     "danos": "No se mencionan daños."
+    }
+   ],
+   "pagina": 5,
+   "cita": "Lleida Pirineus – L’Hospitalet de Llobregat, el tren de cercanías 25706, tras pasar en indicación de",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Automotores eléctricos serie 447: 447023/447070 (tren 28132) y 447069/447071 (tren 25706); tren tipo 120A.",
+    "averia": "No se describe avería; los equipos de seguridad de ambos trenes funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal E1 (entrada, PK 678+552) en anuncio de parada; señal E9 (entrada interior, PK 678+098) en rebase autorizado (foco blanco a destellos; en la moviola del CTC se describe con focos rojo y blanco encendidos); señales de salida S1/7 (PK 677+040) y S1/7A (PK 677+565).",
+    "tipo_via": "Vía de estación (vía 7), ancho ibérico, trazado en curva a la izquierda en el sentido de marcha.",
+    "velocidad_maxima": "120 km/h para el material tipo 120A; 30 km/h en marcha de maniobras.",
+    "ancho": "Ancho ibérico en vías 7 a 14; ancho estándar en vías 1 a 6.",
+    "electrificacion": null,
+    "estado_via": "Vía 7 ocupada por tren estacionado; tras el suceso quedó interceptada; no se produjeron daños de infraestructura.",
+    "otro": "Estación subterránea con iluminación artificial; distancia de visibilidad medida de unos 125 m; deceleración necesaria para detenerse era 0,24 m/s² frente a una máxima de frenado de 1,2 m/s²."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal E1 (entrada, PK 678+552) en anuncio de parada; señal E9 (entrada interior, PK 678+098) en rebase autorizado (foco blanco a destellos; en la moviola del CTC se describe con focos rojo y blanco encendidos); señales de salida S1/7 (PK 677+040) y S1/7A (PK 677+565).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía tren tierra.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 24,
+    "danos_materiales": "Roturas y deformaciones frontales en el coche motor de cola del tren 28132 y en el coche motor de cabeza del tren 25706; valoración total de 247.000 €; infraestructura sin daños.",
+    "afectacion_servicio": "Vía 7 interceptada de 10:04 a 17:37; vía 6 de AVE bloqueada de 11:16 a 17:16; desvíos y supresiones; retrasos acumulados de 3419 minutos (2955 de cercanías, 338 de media distancia y 126 de larga distancia); 73 trenes suprimidos."
+   },
+   "pagina": 10,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 24,
+    "danos_materiales": "Roturas y deformaciones frontales en el coche motor de cola del tren 28132 y en el coche motor de cabeza del tren 25706; valoración total de 247.000 €; infraestructura sin daños.",
+    "afectacion_servicio": "Vía 7 interceptada de 10:04 a 17:37; vía 6 de AVE bloqueada de 11:16 a 17:16; desvíos y supresiones; retrasos acumulados de 3419 minutos (2955 de cercanías, 338 de media distancia y 126 de larga distancia); 73 trenes suprimidos."
+   },
+   "pagina": 10,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 24,
+    "danos_materiales": "Roturas y deformaciones frontales en el coche motor de cola del tren 28132 y en el coche motor de cabeza del tren 25706; valoración total de 247.000 €; infraestructura sin daños.",
+    "afectacion_servicio": "Vía 7 interceptada de 10:04 a 17:37; vía 6 de AVE bloqueada de 11:16 a 17:16; desvíos y supresiones; retrasos acumulados de 3419 minutos (2955 de cercanías, 338 de media distancia y 126 de larga distancia); 73 trenes suprimidos."
+   },
+   "pagina": 10,
+   "cita": "2.3.1. Víctimas mortales y heridos",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotores eléctricos serie 447: 447023/447070 (tren 28132) y 447069/447071 (tren 25706); tren tipo 120A.",
+    "averia": "No se describe avería; los equipos de seguridad de ambos trenes funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal E1 (entrada, PK 678+552) en anuncio de parada; señal E9 (entrada interior, PK 678+098) en rebase autorizado (foco blanco a destellos; en la moviola del CTC se describe con focos rojo y blanco encendidos); señales de salida S1/7 (PK 677+040) y S1/7A (PK 677+565).",
+    "tipo_via": "Vía de estación (vía 7), ancho ibérico, trazado en curva a la izquierda en el sentido de marcha.",
+    "velocidad_maxima": "120 km/h para el material tipo 120A; 30 km/h en marcha de maniobras.",
+    "ancho": "Ancho ibérico en vías 7 a 14; ancho estándar en vías 1 a 6.",
+    "electrificacion": null,
+    "estado_via": "Vía 7 ocupada por tren estacionado; tras el suceso quedó interceptada; no se produjeron daños de infraestructura.",
+    "otro": "Estación subterránea con iluminación artificial; distancia de visibilidad medida de unos 125 m; deceleración necesaria para detenerse era 0,24 m/s² frente a una máxima de frenado de 1,2 m/s²."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Barcelona Sants"
+   },
+   "pagina": 5,
+   "cita": "El día 20 de septiembre de 2013 a las 10:04 horas en la estación de Barcelona Sants, de la línea 220",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal E1 (entrada, PK 678+552) en anuncio de parada; señal E9 (entrada interior, PK 678+098) en rebase autorizado (foco blanco a destellos; en la moviola del CTC se describe con focos rojo y blanco encendidos); señales de salida S1/7 (PK 677+040) y S1/7A (PK 677+565).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal E1 (entrada, PK 678+552) en anuncio de parada; señal E9 (entrada interior, PK 678+098) en rebase autorizado (foco blanco a destellos; en la moviola del CTC se describe con focos rojo y blanco encendidos); señales de salida S1/7 (PK 677+040) y S1/7A (PK 677+565).",
+    "tipo_via": "Vía de estación (vía 7), ancho ibérico, trazado en curva a la izquierda en el sentido de marcha.",
+    "velocidad_maxima": "120 km/h para el material tipo 120A; 30 km/h en marcha de maniobras.",
+    "ancho": "Ancho ibérico en vías 7 a 14; ancho estándar en vías 1 a 6.",
+    "electrificacion": null,
+    "estado_via": "Vía 7 ocupada por tren estacionado; tras el suceso quedó interceptada; no se produjeron daños de infraestructura.",
+    "otro": "Estación subterránea con iluminación artificial; distancia de visibilidad medida de unos 125 m; deceleración necesaria para detenerse era 0,24 m/s² frente a una máxima de frenado de 1,2 m/s²."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía tren tierra.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotores eléctricos serie 447: 447023/447070 (tren 28132) y 447069/447071 (tren 25706); tren tipo 120A.",
+    "averia": "No se describe avería; los equipos de seguridad de ambos trenes funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Circulación con velocidad prefijada incumpliendo el Aviso SC nº 37, que prescribe conducción manual en marcha a la vista.",
+    "Curva a la izquierda y pilares que impedían la visibilidad de la parte posterior del andén de la vía 7, según la declaración del maquinista."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 25706 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene una antigüedad en el cargo de fecha 09/12/2010 y posee habilitaciones para el vehículo de \nfecha 28/12/2011 y para la línea desde el 10/07/2012. \nRealizó su último reciclaje formativo el 12/07/2011 y su último reconocimiento médico y psicotécnico el \n18/10/2010, conforme a la normativa vigente. \nEl maquinista del tren 28132 (que se disponía a conducir el tren cuando se produce el accidente) \nposee el título B de conducción y está habilitado conforme a la Orden FOM/2520/2006, de 27 de julio. \n(Título V – Personal de conducción - en vigor hasta el 11 de enero de 2019, en virtud de la disposición \ntransitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \n\n## Página 13\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0064/2013 ocurrido el 20.09.2013 \nInforme del técnico investigador \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-200913-230914-CIAF \n \n \nPág. 13 de 20\nÉste tiene una antigüedad en el cargo de fecha 21/06/2010, posee habilitación para el vehículo de \nfecha 24/05/2010 y para la línea desde el 18/06/2010. \nRealizó su último reciclaje formativo el 06/11/2011 y su último reconocimiento médico y psicotécnico el \n24/02/2009, conforme a la normativa vigente. \nEl maquinista del tren 28132 (al que relevan en Barcelona Sants) posee el título B de conducción y \nestá habilitado conforme a la Orden FOM/2520/2006, de 27 de julio. (Título V – Personal de \nconducción - en vigor hasta el 11 de enero de 2019, en virtud de la disposición transitoria octava de la \nOrden FOM/2872/2010, de 5 de noviembre). \nÉste tiene una antigüedad en el cargo de fecha 06/10/2008, posee habilitación para el vehículo de \nfecha 24/01/2011 y para la línea desde el 06/06/2011. \nRealizó su último reciclaje formativo el 05/04/2011 y su último reconocimiento médico y psicotécnico el \n24/04/2013, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 12,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 2013-09-20, a las 10:04, el tren de cercanías 28132 de Renfe Operadora, procedente de Terrassa y con destino Martorell, quedó estacionado en la vía 7 de la estación de Barcelona Sants para realizar parada comercial y relevo de maquinistas. Detrás, el tren de cercanías 25706, procedente de Calella y con destino L'Hospitalet de Llobregat, pasó la señal de entrada E1 en anuncio de parada y la señal interior E9 en indicación de rebase autorizado, circulando a 28 km/h.\n\nEl maquinista del tren 25706 se distrajo consultando el libro horario del tren. Cuando percibió la cola del tren 28132 estacionado, accionó el manipulador de tracción/freno a la posición de urgencia, pero no pudo evitar la colisión por alcance. Como consecuencia, descarriló el bogie de cabeza del tren 25706 y resultaron 24 heridos leves, entre ellos el maquinista de dicho tren.\n\nLa investigación concluye que el accidente se produjo por un fallo humano del personal de conducción del tren 25706, por falta de atención en la conducción, al no cumplir las condiciones reglamentarias del rebase autorizado. Como factor coadyuvante se apunta la circulación con velocidad prefijada, incumpliendo el Aviso SC nº 37, que prescribe conducción manual en marcha a la vista.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del maquinista del tren 25706: falta de atención en la conducción al consultar el libro horario, con incumplimiento del artículo 218.1 del RGC (circular con marcha de maniobras ante un rebase autorizado) y del artículo 141.2 del RGC (disposición de detención ante cualquier obstáculo).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Circulación con velocidad prefijada incumpliendo el Aviso SC nº 37, que prescribe conducción manual en marcha a la vista.",
+    "Curva a la izquierda y pilares que impedían la visibilidad de la parte posterior del andén de la vía 7, según la declaración del maquinista."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "09:57",
+     "evento": "El tren 28132 pasa por la baliza de la señal E9 en indicación de rebase autorizado a 24 km/h."
+    },
+    {
+     "hora": "09:59",
+     "evento": "El tren 28132 queda estacionado en la vía 7 ante la señal S1/7A, en indicación de parada, y se realiza el relevo de maquinistas."
+    },
+    {
+     "hora": "10:01",
+     "evento": "El tren 25770 permanece ante la señal de salida S1/7 en indicación de parada; el tren 28132 está entre E9 y S1/7A; el tren 25706 se encuentra entre la señal avanzada E'1 y la señal de entrada E1, en anuncio de parada."
+    },
+    {
+     "hora": "10:02",
+     "evento": "El tren 25706 pasa por la señal de entrada E1 y avanza por la zona de cambios 105/109."
+    },
+    {
+     "hora": "10:03",
+     "evento": "El tren 25706 avanza hacia la señal E9, que presenta indicación de rebase autorizado; el tren 25770 recibe anuncio de parada en la señal de salida S1/7."
+    },
+    {
+     "hora": "10:04",
+     "evento": "El tren 25706 pasa por la baliza de la señal E9 actuando el rebase a 28 km/h; tras recorrer unos 210 metros, el maquinista aplica el freno a posición de urgencia."
+    },
+    {
+     "hora": "10:04",
+     "evento": "Se produce la colisión por alcance del tren 25706 contra el tren 28132; descarrila el bogie de cabeza del 25706 y resultan 24 heridos leves."
+    },
+    {
+     "hora": "10:26",
+     "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF."
+    },
+    {
+     "hora": "11:05",
+     "evento": "Queda suprimida la relación de trenes entre Martorell y Terrassa."
+    },
+    {
+     "hora": "11:16",
+     "evento": "Queda bloqueada la vía 6 de Barcelona Sants (vía de AVE) para trabajar en la incidencia."
+    },
+    {
+     "hora": "11:45",
+     "evento": "Queda suprimida la relación de trenes de L'Hospitalet a Granollers Canovelles y La Garriga."
+    },
+    {
+     "hora": "12:12",
+     "evento": "Comienza la maniobra para la separación de las unidades de los trenes 28132 y 25706."
+    },
+    {
+     "hora": "14:29",
+     "evento": "Se autoriza el envío de los autopropulsados del tren 28132 a Vilanova i la Geltrú como tren BR551."
+    },
+    {
+     "hora": "15:46",
+     "evento": "Sale de la vía 7 de Barcelona Sants el tren BR551 con las unidades del 28132."
+    },
+    {
+     "hora": "17:01",
+     "evento": "Se autoriza la circulación de los autopropulsados del tren 25706 hasta Montcada Bifurcación como tren BR553."
+    },
+    {
+     "hora": "17:16",
+     "evento": "Queda libre y expedita la vía 6 de AVE."
+    },
+    {
+     "hora": "17:24",
+     "evento": "El tren BR551 llega a Vilanova i la Geltrú."
+    },
+    {
+     "hora": "17:30",
+     "evento": "Queda libre la vía 7 de Barcelona Sants."
+    },
+    {
+     "hora": "17:37",
+     "evento": "Sale de la vía 7 de Barcelona Sants el tren BR553 con las unidades del 25706."
+    },
+    {
+     "hora": "18:15",
+     "evento": "El tren BR553 llega a Montcada Bifurcación."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0064/2013",
+ "expediente": "0064/13",
+ "anio": 2013,
+ "titulo": "Colisión por alcance y descarrilamiento en la estación de Barcelona Sants",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_200913_230914_CIAF.md"
+}

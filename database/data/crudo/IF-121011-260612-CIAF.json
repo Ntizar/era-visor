@@ -1,0 +1,965 @@
+{
+ "id": "IF-121011-260612-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/8E362085-AD63-4EB6-BF0B-1FCF7A59E719/112542/IF121011260612CIAF.pdf",
+ "pdf": "pdfs/ES/IF-121011-260612-CIAF.pdf",
+ "md5_pdf": "db170485d1dcefbabc42ebb0f81618ea",
+ "paginas_md": 18,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 17,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0047/2011",
+   "pagina": 1,
+   "cita": "nº 0047/2011 ocurrido el 12.10.2011",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 12 de octubre de 2011, a las 17:40, el tren 15837 de Renfe Operadora, de ancho convencional, descarriló en el desvío nº5 de la estación de Vilamalla (Girona). El suceso se produjo tras un fallo técnico del cambio nº5, que no daba comprobación a posición normal, y una autorización de rebase sobre un itinerario inexistente para el ancho del tren. Un viajero resultó herido leve y se produjeron daños materiales de escasa cuantía. La investigación atribuye el origen a una gestión no adecuada del fallo por parte del jefe de circulación y del personal de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2011-10-12",
+    "hora": "17:40",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Vilamalla",
+     "pk": "241+083",
+     "linea": "270 Bifurcación Sagrera a Cerbere",
+     "provincia": "Girona",
+     "descripcion_lugar": "Desvío nº5 (PK 241+083) en la estación de Vilamalla, tramo Girona - Vilamalla, municipio de Vilamalla, provincia de Girona."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 12 de octubre de 2011, a las 17:40 horas, en la estación de Vilamalla, de la línea 270 Bifurcación",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 1,
+    "danos_materiales": "Daños de escasa cuantía en la unidad tracción y en el cambio nº5.",
+    "afectacion_servicio": "Interrupción de circulación por vías 1 y 2 entre Sant Miquel de Fluvià y Vilamalla y por vía 3; restablecida vía 2 a las 18:45 y vías 1 y 3 a las 04:30 del 2011-10-13; 17 trenes con 593 minutos de retraso acumulado, 2 trenes de media distancia suprimidos y transporte por carretera entre Vilamalla y Sant Miquel de Fluvià."
+   },
+   "pagina": 9,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Paso del tren 15837 de ancho convencional sobre el cambio nº5, orientado en posición invertida hacia vía 3, de ancho UIC, cuyo escape 5/7 es exclusivamente de ancho UIC, provocando el descarrilamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Fallo técnico del cambio nº5, que no daba comprobación a posición normal y impedía el itinerario a vía 2.",
+    "El jefe del CTC autorizó un rebase sobre un itinerario inexistente para el ancho del tren.",
+    "El jefe del CTC no especificó la posición que debían presentar los aparatos de vía en la autorización de rebase, incumpliendo el Aviso nº43 de la DSC de Adif.",
+    "El jefe del CTC no percibió que el escape 5/7 era exclusivamente de ancho UIC y no especificó el itinerario definitivo por vía 2.",
+    "El maquinista transitó por un tramo con interrupción total para el material rodante que conducía.",
+    "El maquinista desconocía que el cambio nº5 era de ancho UIC."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Señalado en recomendaciones: necesidad de establecer pautas claras y lógicas para rebases de señal con comprobación de aparatos de vía, adaptadas a nuevas tecnologías.",
+    "Señalado en recomendaciones: reforzar la formación del personal de conducción sobre aparatos de vía y desvíos cuando coinciden diferentes anchos en un enclavamiento.",
+    "Señalado en recomendaciones: intensificar la formación de jefes de circulación en líneas con tercer carril y conocimiento de instalaciones."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "47/11-1: Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción, en los casos de rebases de señal con orden de comprobación de los aparatos de vía, adaptando la normativa a las nuevas tecnologías.",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    },
+    {
+     "texto": "47/11-2: Analizar la viabilidad de reforzar los contenidos de los programas de formación para la obtención del título de conducción y reciclajes en lo referente a los conocimientos técnicos sobre aparatos de vía y especialmente de los desvíos, cuando coinciden en un enclavamiento diferentes anchos.",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    },
+    {
+     "texto": "47/11-3: Evaluar la conveniencia de intensificar la formación de los jefes de circulación que gestionan líneas dotadas de tercer carril, en lo relativo al conocimiento de las instalaciones que tienen a su cargo y en el cumplimiento del Aviso nº 43 de la Dirección de Seguridad en la Circulación (DSC) de Adif.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 3,
+   "cita": "Recomendación Dirección General de Ferrocarriles (DGF) 47/11-1 Se reitera la recomendación hecha en el expediente 24/11: Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción,",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "47/11-1: Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción, en los casos de rebases de señal con orden de comprobación de los aparatos de vía, adaptando la normativa a las nuevas tecnologías.",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    },
+    {
+     "texto": "47/11-2: Analizar la viabilidad de reforzar los contenidos de los programas de formación para la obtención del título de conducción y reciclajes en lo referente a los conocimientos técnicos sobre aparatos de vía y especialmente de los desvíos, cuando coinciden en un enclavamiento diferentes anchos.",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    },
+    {
+     "texto": "47/11-3: Evaluar la conveniencia de intensificar la formación de los jefes de circulación que gestionan líneas dotadas de tercer carril, en lo relativo al conocimiento de las instalaciones que tienen a su cargo y en el cumplimiento del Aviso nº 43 de la Dirección de Seguridad en la Circulación (DSC) de Adif.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 3,
+   "cita": "Recomendación Dirección General de Ferrocarriles (DGF) 47/11-1 Se reitera la recomendación hecha en el expediente 24/11: Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción,",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Descarrilamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "ancho convencional, perteneciente a la empresa ferroviaria Renfe Operadora. Descarrilan los dos",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2011-10-12",
+   "pagina": 3,
+   "cita": "El día 12 de octubre de 2011, a las 17:40 horas, en la estación de Vilamalla, de la línea 270 Bifurcación",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "17:40",
+   "pagina": 3,
+   "cita": "El día 12 de octubre de 2011, a las 17:40 horas, en la estación de Vilamalla, de la línea 270 Bifurcación",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Vilamalla",
+    "pk": "241+083",
+    "linea": "270 Bifurcación Sagrera a Cerbere",
+    "provincia": "Girona",
+    "descripcion_lugar": "Desvío nº5 (PK 241+083) en la estación de Vilamalla, tramo Girona - Vilamalla, municipio de Vilamalla, provincia de Girona."
+   },
+   "pagina": 15,
+   "cita": "marcha de maniobras hasta su estacionamiento previa comprobación de cambios nº A5, y autorizando",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "270 Bifurcación Sagrera a Cerbere",
+   "pagina": 4,
+   "cita": "270 Bifurcación Sagrera a Cerbere",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Serie 470, tipo 140, 3 coches, 12 ejes, 205 toneladas; Nº UIC 987184701173.",
+    "averia": "Equipos de seguridad del tren funcionaron correctamente; el descarrilamiento se produjo por pasar sobre un cambio de ancho UIC con un tren de ancho convencional.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros 15837, de ancho convencional y perteneciente a Renfe Operadora, procedente de El Prat de Llobregat y con destino Cerbere, detuvo su marcha ante la señal de entrada E1 de la estación de Vilamalla, en indicación de parada. El jefe del CTC intentó establecer itinerario de entrada a vía 2, pero el cambio nº5 no daba comprobación a posición normal; después intentó vía 1, pero el escape 5/7 era de ancho UIC y resultaba incompatible con el ancho del tren. El jefe del CTC autorizó entonces el rebase de las señales E1 y R1 en régimen de maniobra mediante telefonema, incluyendo la comprobación de cambios. El tren inició la marcha, pasó por el cambio nº5 en posición invertida hacia vía 3, de ancho UIC, y descarrilaron los dos primeros ejes del primer bogie y una rueda del segundo bogie. Un viajero resultó herido leve, y se produjeron daños materiales de escasa cuantía en la unidad tracción y en el cambio nº5.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Vilamalla",
+    "pk": "241+083",
+    "linea": "270 Bifurcación Sagrera a Cerbere",
+    "provincia": "Girona",
+    "descripcion_lugar": "Desvío nº5 (PK 241+083) en la estación de Vilamalla, tramo Girona - Vilamalla, municipio de Vilamalla, provincia de Girona."
+   },
+   "pagina": 15,
+   "cita": "marcha de maniobras hasta su estacionamiento previa comprobación de cambios nº A5, y autorizando",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 1,
+    "danos_materiales": "Daños de escasa cuantía en la unidad tracción y en el cambio nº5.",
+    "afectacion_servicio": "Interrupción de circulación por vías 1 y 2 entre Sant Miquel de Fluvià y Vilamalla y por vía 3; restablecida vía 2 a las 18:45 y vías 1 y 3 a las 04:30 del 2011-10-13; 17 trenes con 593 minutos de retraso acumulado, 2 trenes de media distancia suprimidos y transporte por carretera entre Vilamalla y Sant Miquel de Fluvià."
+   },
+   "pagina": 9,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Jefe del CTC (Adif)",
+     "implicacion": "Intentó establecer itinerarios afectados por el fallo del cambio nº5, no percibió la incompatibilidad de ancho del escape 5/7 y autorizó el rebase de E1 y R1 por telefonema sin especificar la posición de los cambios, incumpliendo el Aviso nº43 de la DSC de Adif."
+    },
+    {
+     "rol": "Maquinista del tren 15837 (Renfe Operadora)",
+     "implicacion": "Recibió autorización de rebase, utilizó llave de rebase autorizado, comprobó aparatos de vía pero desconocía que el cambio nº5 era exclusivamente de ancho UIC y transitó por un tramo con interrupción total para el material rodante que conducía."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "15837",
+     "tipo": "tren de viajeros de media distancia, ancho convencional, serie 470, tipo 140",
+     "operador": "Renfe Operadora",
+     "danos": "Daños de escasa cuantía en la unidad tracción."
+    },
+    {
+     "numero": "BK507",
+     "tipo": "tren de ancho UIC",
+     "operador": null,
+     "danos": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "Sagrera a Cerbere, se produce el descarrilamiento del tren 15837 de viajeros de media distancia, de",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Serie 470, tipo 140, 3 coches, 12 ejes, 205 toneladas; Nº UIC 987184701173.",
+    "averia": "Equipos de seguridad del tren funcionaron correctamente; el descarrilamiento se produjo por pasar sobre un cambio de ancho UIC con un tren de ancho convencional.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de avanzada E'1 en anuncio de parada; señal de entrada E1 en parada; señal de retroceso R1; rebase autorizado por telefonema nº 90 en régimen de maniobra con comprobación de cambios; la señal E1 no se abría por falta de comprobación del cambio nº5.",
+    "tipo_via": "Estación de 4 vías; tramo de vía doble electrificada; vía 2 general de ancho mixto; vía 1 de ancho convencional; vía 3 de ancho UIC; vía 4 de apartado de ancho convencional; desvío nº5 conjugado con nº7, con agujas de ancho UIC.",
+    "velocidad_maxima": "30 km/h",
+    "ancho": "Ancho convencional, ancho UIC y ancho mixto; línea 260 con tercer carril hasta Figueres Vilafant.",
+    "electrificacion": "Vía doble electrificada; línea 260 electrificada.",
+    "estado_via": "Fallo técnico: el cambio nº5 no daba comprobación a posición normal; el enclavamiento impedía establecer itinerarios afectados; en posición invertida era incompatible con el ancho convencional del tren.",
+    "otro": "Gestión desde el puesto de mando de Barcelona; tráfico regulado por CTC; bloqueo automático banalizado con CTC en el tramo; Vilamalla es origen de la línea 260 con bloqueo automático de vía única con CTC."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de avanzada E'1 en anuncio de parada; señal de entrada E1 en parada; señal de retroceso R1; rebase autorizado por telefonema nº 90 en régimen de maniobra con comprobación de cambios; la señal E1 no se abría por falta de comprobación del cambio nº5.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Tren Tierra modalidad A.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 1,
+    "danos_materiales": "Daños de escasa cuantía en la unidad tracción y en el cambio nº5.",
+    "afectacion_servicio": "Interrupción de circulación por vías 1 y 2 entre Sant Miquel de Fluvià y Vilamalla y por vía 3; restablecida vía 2 a las 18:45 y vías 1 y 3 a las 04:30 del 2011-10-13; 17 trenes con 593 minutos de retraso acumulado, 2 trenes de media distancia suprimidos y transporte por carretera entre Vilamalla y Sant Miquel de Fluvià."
+   },
+   "pagina": 4,
+   "cita": "El tren de viajeros 15837, de ancho convencional, perteneciente a la empresa ferroviaria Renfe",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 1,
+    "danos_materiales": "Daños de escasa cuantía en la unidad tracción y en el cambio nº5.",
+    "afectacion_servicio": "Interrupción de circulación por vías 1 y 2 entre Sant Miquel de Fluvià y Vilamalla y por vía 3; restablecida vía 2 a las 18:45 y vías 1 y 3 a las 04:30 del 2011-10-13; 17 trenes con 593 minutos de retraso acumulado, 2 trenes de media distancia suprimidos y transporte por carretera entre Vilamalla y Sant Miquel de Fluvià."
+   },
+   "pagina": 1,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 1,
+    "danos_materiales": "Daños de escasa cuantía en la unidad tracción y en el cambio nº5.",
+    "afectacion_servicio": "Interrupción de circulación por vías 1 y 2 entre Sant Miquel de Fluvià y Vilamalla y por vía 3; restablecida vía 2 a las 18:45 y vías 1 y 3 a las 04:30 del 2011-10-13; 17 trenes con 593 minutos de retraso acumulado, 2 trenes de media distancia suprimidos y transporte por carretera entre Vilamalla y Sant Miquel de Fluvià."
+   },
+   "pagina": 9,
+   "cita": "2.3.1. Víctimas mortales y heridos",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 470, tipo 140, 3 coches, 12 ejes, 205 toneladas; Nº UIC 987184701173.",
+    "averia": "Equipos de seguridad del tren funcionaron correctamente; el descarrilamiento se produjo por pasar sobre un cambio de ancho UIC con un tren de ancho convencional.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de avanzada E'1 en anuncio de parada; señal de entrada E1 en parada; señal de retroceso R1; rebase autorizado por telefonema nº 90 en régimen de maniobra con comprobación de cambios; la señal E1 no se abría por falta de comprobación del cambio nº5.",
+    "tipo_via": "Estación de 4 vías; tramo de vía doble electrificada; vía 2 general de ancho mixto; vía 1 de ancho convencional; vía 3 de ancho UIC; vía 4 de apartado de ancho convencional; desvío nº5 conjugado con nº7, con agujas de ancho UIC.",
+    "velocidad_maxima": "30 km/h",
+    "ancho": "Ancho convencional, ancho UIC y ancho mixto; línea 260 con tercer carril hasta Figueres Vilafant.",
+    "electrificacion": "Vía doble electrificada; línea 260 electrificada.",
+    "estado_via": "Fallo técnico: el cambio nº5 no daba comprobación a posición normal; el enclavamiento impedía establecer itinerarios afectados; en posición invertida era incompatible con el ancho convencional del tren.",
+    "otro": "Gestión desde el puesto de mando de Barcelona; tráfico regulado por CTC; bloqueo automático banalizado con CTC en el tramo; Vilamalla es origen de la línea 260 con bloqueo automático de vía única con CTC."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Era de día y no existían condiciones meteorológicas adversas.",
+   "pagina": 10,
+   "cita": "En el momento del suceso era de día y no existían condiciones meteorológicas adversas.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Girona",
+    "municipio": null,
+    "estacion": "Vilamalla"
+   },
+   "pagina": 4,
+   "cita": "Girona - Vilamalla Municipio: Vilamalla Provincia: Girona 2.1.2. Descripción del suceso Los hechos tuvieron lugar el día 12 de octubre de 2011, a las 17:40 horas, en el desvío nº5 de la estación de Vilamalla,",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Era de día y no existían condiciones meteorológicas adversas.",
+   "pagina": 10,
+   "cita": "En el momento del suceso era de día y no existían condiciones meteorológicas adversas.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de avanzada E'1 en anuncio de parada; señal de entrada E1 en parada; señal de retroceso R1; rebase autorizado por telefonema nº 90 en régimen de maniobra con comprobación de cambios; la señal E1 no se abría por falta de comprobación del cambio nº5.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de avanzada E'1 en anuncio de parada; señal de entrada E1 en parada; señal de retroceso R1; rebase autorizado por telefonema nº 90 en régimen de maniobra con comprobación de cambios; la señal E1 no se abría por falta de comprobación del cambio nº5.",
+    "tipo_via": "Estación de 4 vías; tramo de vía doble electrificada; vía 2 general de ancho mixto; vía 1 de ancho convencional; vía 3 de ancho UIC; vía 4 de apartado de ancho convencional; desvío nº5 conjugado con nº7, con agujas de ancho UIC.",
+    "velocidad_maxima": "30 km/h",
+    "ancho": "Ancho convencional, ancho UIC y ancho mixto; línea 260 con tercer carril hasta Figueres Vilafant.",
+    "electrificacion": "Vía doble electrificada; línea 260 electrificada.",
+    "estado_via": "Fallo técnico: el cambio nº5 no daba comprobación a posición normal; el enclavamiento impedía establecer itinerarios afectados; en posición invertida era incompatible con el ancho convencional del tren.",
+    "otro": "Gestión desde el puesto de mando de Barcelona; tráfico regulado por CTC; bloqueo automático banalizado con CTC en el tramo; Vilamalla es origen de la línea 260 con bloqueo automático de vía única con CTC."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Tren Tierra modalidad A.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 470, tipo 140, 3 coches, 12 ejes, 205 toneladas; Nº UIC 987184701173.",
+    "averia": "Equipos de seguridad del tren funcionaron correctamente; el descarrilamiento se produjo por pasar sobre un cambio de ancho UIC con un tren de ancho convencional.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Fallo técnico del cambio nº5, que no daba comprobación a posición normal y impedía el itinerario a vía 2.",
+    "El jefe del CTC autorizó un rebase sobre un itinerario inexistente para el ancho del tren.",
+    "El jefe del CTC no especificó la posición que debían presentar los aparatos de vía en la autorización de rebase, incumpliendo el Aviso nº43 de la DSC de Adif.",
+    "El jefe del CTC no percibió que el escape 5/7 era exclusivamente de ancho UIC y no especificó el itinerario definitivo por vía 2.",
+    "El maquinista transitó por un tramo con interrupción total para el material rodante que conducía.",
+    "El maquinista desconocía que el cambio nº5 era de ancho UIC."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El responsable de circulación está habilitado conforme a la Orden FOM/2872/2010, de 5 de noviembre, \npor la que se determinan las condiciones para la obtención de títulos y habilitaciones que permiten el \nejercicio de las funciones del personal ferroviario relacionadas con la seguridad. \nÉste tiene antigüedad en el cargo desde el 11/02/2011. \nRealizó su último reciclaje formativo del RGC el 22/10/2009 y su último reconocimiento médico y \npsicotécnico el 10/10/2011, conforme a la normativa vigente. \nEl maquinista del tren 15837 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene antigüedad en el cargo desde el 29/03/2009. \nRealizó su último reciclaje formativo el 12/02/2010 y su último reconocimiento médico y psicotécnico el \n15/02/2011, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 12,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros 15837, de ancho convencional y perteneciente a Renfe Operadora, procedente de El Prat de Llobregat y con destino Cerbere, detuvo su marcha ante la señal de entrada E1 de la estación de Vilamalla, en indicación de parada. El jefe del CTC intentó establecer itinerario de entrada a vía 2, pero el cambio nº5 no daba comprobación a posición normal; después intentó vía 1, pero el escape 5/7 era de ancho UIC y resultaba incompatible con el ancho del tren. El jefe del CTC autorizó entonces el rebase de las señales E1 y R1 en régimen de maniobra mediante telefonema, incluyendo la comprobación de cambios. El tren inició la marcha, pasó por el cambio nº5 en posición invertida hacia vía 3, de ancho UIC, y descarrilaron los dos primeros ejes del primer bogie y una rueda del segundo bogie. Un viajero resultó herido leve, y se produjeron daños materiales de escasa cuantía en la unidad tracción y en el cambio nº5.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Paso del tren 15837 de ancho convencional sobre el cambio nº5, orientado en posición invertida hacia vía 3, de ancho UIC, cuyo escape 5/7 es exclusivamente de ancho UIC, provocando el descarrilamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Fallo técnico del cambio nº5, que no daba comprobación a posición normal y impedía el itinerario a vía 2.",
+    "El jefe del CTC autorizó un rebase sobre un itinerario inexistente para el ancho del tren.",
+    "El jefe del CTC no especificó la posición que debían presentar los aparatos de vía en la autorización de rebase, incumpliendo el Aviso nº43 de la DSC de Adif.",
+    "El jefe del CTC no percibió que el escape 5/7 era exclusivamente de ancho UIC y no especificó el itinerario definitivo por vía 2.",
+    "El maquinista transitó por un tramo con interrupción total para el material rodante que conducía.",
+    "El maquinista desconocía que el cambio nº5 era de ancho UIC."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "47/11-1: Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción, en los casos de rebases de señal con orden de comprobación de los aparatos de vía, adaptando la normativa a las nuevas tecnologías.",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    },
+    {
+     "texto": "47/11-2: Analizar la viabilidad de reforzar los contenidos de los programas de formación para la obtención del título de conducción y reciclajes en lo referente a los conocimientos técnicos sobre aparatos de vía y especialmente de los desvíos, cuando coinciden en un enclavamiento diferentes anchos.",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    },
+    {
+     "texto": "47/11-3: Evaluar la conveniencia de intensificar la formación de los jefes de circulación que gestionan líneas dotadas de tercer carril, en lo relativo al conocimiento de las instalaciones que tienen a su cargo y en el cumplimiento del Aviso nº 43 de la Dirección de Seguridad en la Circulación (DSC) de Adif.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 3,
+   "cita": "Recomendación Dirección General de Ferrocarriles (DGF) 47/11-1 Se reitera la recomendación hecha en el expediente 24/11: Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción,",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "17:25",
+     "evento": "El tren 15837 tiene itinerario hasta la señal de entrada E1; la señal de avanzada E'1 está en anuncio de parada y E1 en parada."
+    },
+    {
+     "hora": "17:25",
+     "evento": "El tren ocupa el circuito de vía CVE1; el CTC intenta establecer itinerario a vía 2, pero el cambio nº5 no da comprobación a normal."
+    },
+    {
+     "hora": "17:27",
+     "evento": "El tren permanece detenido ante la señal E1 en indicación de parada."
+    },
+    {
+     "hora": "17:28",
+     "evento": "Conversación entre jefe de circulación y maquinista: se comunica falta de comprobación de cambios y se anuncia paso por vía desviada o vía 1."
+    },
+    {
+     "hora": "17:31",
+     "evento": "No se puede itinerario a vía 2; se intenta vía 1, pero el escape 5/7 es de ancho UIC e incompatible con el tren; el CTC autoriza rebase de E1 y R1 por telefonema nº 90 en régimen de maniobra con comprobación de cambios."
+    },
+    {
+     "hora": "17:39",
+     "evento": "El tren activa el rebase autorizado e inicia la marcha tras 12 minutos detenido ante E1."
+    },
+    {
+     "hora": "17:40",
+     "evento": "El tren pasa por la baliza de E1 a 24 km/h, rebasa R1, pasa por la aguja nº3 normal y el cambiador de hilo CH1, y accede al cambio nº5 en invertido hacia vía 3, de ancho UIC."
+    },
+    {
+     "hora": "17:40",
+     "evento": "Se produce el descarrilamiento al pasar sobre el cambio nº5 a 25 km/h; descarrilan dos ejes del primer bogie y la rueda izquierda del primer eje del segundo bogie."
+    },
+    {
+     "hora": "17:41",
+     "evento": "El tren queda detenido 30 metros después del descarrilamiento."
+    },
+    {
+     "hora": "18:45",
+     "evento": "Se restablece la circulación por vía 2, de ancho convencional."
+    },
+    {
+     "hora": "20:14",
+     "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios."
+    },
+    {
+     "hora": "21:20",
+     "evento": "Se realiza al maquinista prueba de alcoholemia y drogas con resultado negativo."
+    },
+    {
+     "hora": "04:30",
+     "evento": "El 2011-10-13 se restablece la circulación por vía 3, de ancho UIC, y vía 1, de ancho convencional, en condiciones normales."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0047/2011",
+ "expediente": "0047/011",
+ "anio": 2011,
+ "titulo": "Descarrilamiento del tren 15837 de ancho convencional en el desvío nº5 de la estación de Vilamalla (Girona)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-121011-260612-CIAF.md"
+}

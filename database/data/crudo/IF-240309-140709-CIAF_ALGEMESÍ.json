@@ -1,0 +1,896 @@
+{
+ "id": "IF-240309-140709-CIAF_ALGEMESÍ",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/A7344E91-D04C-4BAF-9D77-D01141A62A01/53044/240309140709CIAF.pdf",
+ "pdf": "pdfs/ES/IF-240309-140709-CIAF_ALGEMESÍ.pdf",
+ "md5_pdf": "72952c602e9e94652446c96a2a25e1da",
+ "paginas_md": 12,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 5,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0017/2009",
+   "pagina": 1,
+   "cita": "nº 0017/2009 ocurrido el 24.03.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 24 de marzo de 2009, a las 14:10 horas, el tren de viajeros 24048 de Renfe Operadora arrolló a un peatón en un paso a nivel peatonal provisional tipo F de la estación de Algemesí. La víctima cruzó cuando las señales ópticas y acústicas indicaban que no se podía cruzar. El accidente causó un fallecido y no produjo daños materiales en tren, infraestructura ni medio ambiente. El informe concluye que el origen estuvo en el cruce indebido de la víctima y no establece recomendaciones porque el paso a nivel fue sustituido por un paso inferior el 22 de mayo de 2009.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-03-24",
+    "hora": "14:10",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Algemesí",
+     "pk": "81,494",
+     "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+     "provincia": "Valencia",
+     "descripcion_lugar": "Paso a nivel peatonal provisional clase F, situado en la estación de Algemesí, entre andenes, en el tramo Xátiva-Silla de la línea 300 Madrid Chamartín – Valencia Estació del Nord."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 24 de marzo de 2009, a las 14:10 horas, el tren de viajeros 24048, procedente de Xátiva y",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Tren implicado: 9 minutos de retraso. Un tren de media distancia: 8 minutos. Once trenes de corta distancia: 78 minutos en total. Cinco trenes de larga distancia: 19 minutos en total. Circulación por vía 3 desde las 14:10 hasta las 15:20 horas y circulación por vías 1 y 2 con marcha a la vista hasta las 16:20 horas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "La víctima cruzó el paso a nivel haciendo caso omiso de las señales ópticas y acústicas que indicaban que no se podía cruzar, en el momento en que pasaba el tren 24048.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Otro tren estacionándose en el andén 1, en sentido contrario al tren implicado, pudo confundir a la víctima.",
+    "El paso a nivel tipo F era provisional y se utilizaba como paso entre andenes."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones, dado que el 22 de mayo de 2009 \nse ha procedido a la apertura de un paso inferior que clausura este \npaso a nivel. \n \n \n \n \n \n \n \n \nMadrid, 14 de julio de 2009.",
+   "pagina": 12,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones, dado que el 22 de mayo de 2009 se ha procedido a la apertura de un paso inferior que clausura este paso a nivel.",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "con destino Valencia, de la empresa ferroviaria Renfe Operadora, arrolla a una persona que cruzaba",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-03-24",
+   "pagina": 3,
+   "cita": "El día 24 de marzo de 2009, a las 14:10 horas, el tren de viajeros 24048, procedente de Xátiva y",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "14:10",
+   "pagina": 3,
+   "cita": "El día 24 de marzo de 2009, a las 14:10 horas, el tren de viajeros 24048, procedente de Xátiva y",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Algemesí",
+    "pk": "81,494",
+    "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+    "provincia": "Valencia",
+    "descripcion_lugar": "Paso a nivel peatonal provisional clase F, situado en la estación de Algemesí, entre andenes, en el tramo Xátiva-Silla de la línea 300 Madrid Chamartín – Valencia Estació del Nord."
+   },
+   "pagina": 3,
+   "cita": "Según la declaración del maquinista, se estaba estacionando en el andén de la vía 2 cuando una",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "300 Madrid Chamartín – Valencia Estació del Nord",
+   "pagina": 3,
+   "cita": "300 Madrid Chamartín – Valencia Estació del Nord",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": null,
+    "averia": "Ninguna; los equipos de seguridad del tren, freno, ASFA y sistema de vigilancia funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros 24048, procedente de Xátiva y con destino Valencia, circulaba hacia Valencia y se estaba estacionando en el andén de la vía 2 de la estación de Algemesí. En ese momento, un hombre de 77 años irrumpió en el paso a nivel peatonal provisional tipo F del P.K. 81,494, que sirve de paso entre andenes, cuando las señales acústicas y luminosas indicaban que no se podía cruzar. El maquinista hizo uso del silbato y del freno de urgencia, pero no pudo evitar el arrollamiento.\n\nSegún la declaración del maquinista, al mismo tiempo que el tren implicado se estacionaba en el andén 2, otro tren lo hacía en el andén 1, lo que pudo confundir a la víctima. El tren circulaba a 60 km/h, por debajo de la velocidad máxima permitida de 120 km/h, y los equipos de seguridad del tren y las instalaciones del paso a nivel funcionaron correctamente. La víctima falleció y no se produjeron daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Algemesí",
+    "pk": "81,494",
+    "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+    "provincia": "Valencia",
+    "descripcion_lugar": "Paso a nivel peatonal provisional clase F, situado en la estación de Algemesí, entre andenes, en el tramo Xátiva-Silla de la línea 300 Madrid Chamartín – Valencia Estació del Nord."
+   },
+   "pagina": 3,
+   "cita": "Según la declaración del maquinista, se estaba estacionando en el andén de la vía 2 cuando una",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Tren implicado: 9 minutos de retraso. Un tren de media distancia: 8 minutos. Once trenes de corta distancia: 78 minutos en total. Cinco trenes de larga distancia: 19 minutos en total. Circulación por vía 3 desde las 14:10 hasta las 15:20 horas y circulación por vías 1 y 2 con marcha a la vista hasta las 16:20 horas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista principal del tren 24048",
+     "implicacion": "Matrícula 9702739. Utilizó el silbato y el freno de urgencia/emergencia al ver cruzar a la víctima. Su actuación fue considerada correcta. Prueba de alcoholemia negativa: 0,00 mg/1000 ml. Jornada efectiva de conducción el día del accidente: 4 horas y 34 minutos."
+    },
+    {
+     "rol": "peatón",
+     "implicacion": "Víctima mortal, hombre de 77 años que cruzó el paso a nivel cuando las señales ópticas y acústicas indicaban que no se podía cruzar."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "24048",
+     "tipo": "tren de viajeros",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños en el material rodante."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 24 de marzo de 2009, a las 14:10 horas, el tren de viajeros 24048, procedente de Xátiva y",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": null,
+    "averia": "Ninguna; los equipos de seguridad del tren, freno, ASFA y sistema de vigilancia funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 4,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "El paso a nivel tipo F estaba dotado de señales acústicas y luminosas; funcionaron correctamente y comenzaron a funcionar a las 14:03 horas.",
+    "tipo_via": "Línea de vía doble electrificada; en el paso a nivel existen 4 vías.",
+    "velocidad_maxima": "120 km/h permitida al paso por la estación de Algemesí",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": null,
+    "otro": "Bloqueo automático (BAD), control de tráfico centralizado (CTC), enclavamiento eléctrico, pavimento tipo strail, radiotelefonía modalidad A. Paso a nivel provisional creado mientras duraban las obras de un paso inferior para sustituir el paso a nivel tipo C del P.K. 81,454."
+   },
+   "pagina": 5,
+   "cita": "La línea es de vía doble electrificada, aunque en el paso a nivel existen 4 vías.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "El paso a nivel tipo F estaba dotado de señales acústicas y luminosas; funcionaron correctamente y comenzaron a funcionar a las 14:03 horas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Tren implicado: 9 minutos de retraso. Un tren de media distancia: 8 minutos. Once trenes de corta distancia: 78 minutos en total. Cinco trenes de larga distancia: 19 minutos en total. Circulación por vía 3 desde las 14:10 hasta las 15:20 horas y circulación por vías 1 y 2 con marcha a la vista hasta las 16:20 horas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Tren implicado: 9 minutos de retraso. Un tren de media distancia: 8 minutos. Once trenes de corta distancia: 78 minutos en total. Cinco trenes de larga distancia: 19 minutos en total. Circulación por vía 3 desde las 14:10 hasta las 15:20 horas y circulación por vías 1 y 2 con marcha a la vista hasta las 16:20 horas."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Tren implicado: 9 minutos de retraso. Un tren de media distancia: 8 minutos. Once trenes de corta distancia: 78 minutos en total. Cinco trenes de larga distancia: 19 minutos en total. Circulación por vía 3 desde las 14:10 hasta las 15:20 horas y circulación por vías 1 y 2 con marcha a la vista hasta las 16:20 horas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": null,
+    "averia": "Ninguna; los equipos de seguridad del tren, freno, ASFA y sistema de vigilancia funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "El paso a nivel tipo F estaba dotado de señales acústicas y luminosas; funcionaron correctamente y comenzaron a funcionar a las 14:03 horas.",
+    "tipo_via": "Línea de vía doble electrificada; en el paso a nivel existen 4 vías.",
+    "velocidad_maxima": "120 km/h permitida al paso por la estación de Algemesí",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": null,
+    "otro": "Bloqueo automático (BAD), control de tráfico centralizado (CTC), enclavamiento eléctrico, pavimento tipo strail, radiotelefonía modalidad A. Paso a nivel provisional creado mientras duraban las obras de un paso inferior para sustituir el paso a nivel tipo C del P.K. 81,454."
+   },
+   "pagina": 5,
+   "cita": "La línea es de vía doble electrificada, aunque en el paso a nivel existen 4 vías.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Día con tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Valencia",
+    "municipio": null,
+    "estacion": "Algemesí"
+   },
+   "pagina": 3,
+   "cita": "con destino Valencia, de la empresa ferroviaria Renfe Operadora, arrolla a una persona que cruzaba",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Día con tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "El paso a nivel tipo F estaba dotado de señales acústicas y luminosas; funcionaron correctamente y comenzaron a funcionar a las 14:03 horas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "El paso a nivel tipo F estaba dotado de señales acústicas y luminosas; funcionaron correctamente y comenzaron a funcionar a las 14:03 horas.",
+    "tipo_via": "Línea de vía doble electrificada; en el paso a nivel existen 4 vías.",
+    "velocidad_maxima": "120 km/h permitida al paso por la estación de Algemesí",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": null,
+    "otro": "Bloqueo automático (BAD), control de tráfico centralizado (CTC), enclavamiento eléctrico, pavimento tipo strail, radiotelefonía modalidad A. Paso a nivel provisional creado mientras duraban las obras de un paso inferior para sustituir el paso a nivel tipo C del P.K. 81,454."
+   },
+   "pagina": 5,
+   "cita": "La línea es de vía doble electrificada, aunque en el paso a nivel existen 4 vías.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": null,
+    "averia": "Ninguna; los equipos de seguridad del tren, freno, ASFA y sistema de vigilancia funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Cruce peatonal con protección activada",
+    "Ignora señales ópticas y acústicas",
+    "Otro tren estacionaba en andén contrario"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros 24048, procedente de Xátiva y con destino Valencia, circulaba hacia Valencia y se estaba estacionando en el andén de la vía 2 de la estación de Algemesí. En ese momento, un hombre de 77 años irrumpió en el paso a nivel peatonal provisional tipo F del P.K. 81,494, que sirve de paso entre andenes, cuando las señales acústicas y luminosas indicaban que no se podía cruzar. El maquinista hizo uso del silbato y del freno de urgencia, pero no pudo evitar el arrollamiento.\n\nSegún la declaración del maquinista, al mismo tiempo que el tren implicado se estacionaba en el andén 2, otro tren lo hacía en el andén 1, lo que pudo confundir a la víctima. El tren circulaba a 60 km/h, por debajo de la velocidad máxima permitida de 120 km/h, y los equipos de seguridad del tren y las instalaciones del paso a nivel funcionaron correctamente. La víctima falleció y no se produjeron daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en el paso a nivel provisional tipo F, del P.K. 81,494 situado en la estación \nde Algemesí. \nDel análisis del registrador de seguridad del tren se desprende que el tren circulaba a una \nvelocidad inferior a su máxima permitida en el tramo. \nSegún lo declarado por el maquinista, al ver a una persona que cruzaba apresuradamente por el \npaso de peatones, hizo uso del silbato y del freno de emergencia, por lo que la actuación del \nmaquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nLos equipos de seguridad del tren y las instalaciones del paso a nivel funcionaban correctamente \nen el momento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nLa víctima cruzó el paso a nivel cuando éste se encontraba con sus sistemas de protección \nactivados. \nSegún declaraciones del maquinista, al tiempo que el tren implicado (tren 24048) estaba \nestacionándose en el andén de la vía 2, había otro tren en sentido contrario que lo hacía en el andén \nde la vía 1, lo que pudo confundir a la víctima. \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0017/2009 ocurrido el 24.03.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-240309-140709-CIAF \n \n \nPág. 12 de 12\n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen cuando la víctima cruza el paso a nivel, haciendo caso omiso de las \nseñales ópticas y acústicas que indicaban que no se podía cruzar, en el momento en que el pasaba el \ntren 24048.",
+   "pagina": 11,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "La víctima cruzó el paso a nivel haciendo caso omiso de las señales ópticas y acústicas que indicaban que no se podía cruzar, en el momento en que pasaba el tren 24048.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Otro tren estacionándose en el andén 1, en sentido contrario al tren implicado, pudo confundir a la víctima.",
+    "El paso a nivel tipo F era provisional y se utilizaba como paso entre andenes."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones, dado que el 22 de mayo de 2009 \nse ha procedido a la apertura de un paso inferior que clausura este \npaso a nivel. \n \n \n \n \n \n \n \n \nMadrid, 14 de julio de 2009.",
+   "pagina": 12,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones, dado que el 22 de mayo de 2009 se ha procedido a la apertura de un paso inferior que clausura este paso a nivel.",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "14:03",
+     "evento": "Comienzan a funcionar las protecciones del paso a nivel tipo F, señales acústicas y luminosas."
+    },
+    {
+     "hora": "14:10",
+     "evento": "El tren de viajeros 24048 de Renfe Operadora arrolla a un peatón que cruza el paso a nivel tipo F en la estación de Algemesí."
+    },
+    {
+     "hora": "14:20",
+     "evento": "El tren implicado reanuda la marcha desde la vía 2."
+    },
+    {
+     "hora": "14:30",
+     "evento": "Acuden efectivos de la policía local y de la Guardia Civil, que custodian el cadáver."
+    },
+    {
+     "hora": "15:20",
+     "evento": "Finaliza la circulación por vía 3."
+    },
+    {
+     "hora": "16:20",
+     "evento": "Se produce el levantamiento del cadáver."
+    },
+    {
+     "hora": "18:10",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif comunica a la CIAF el arrollamiento de una persona en el paso a nivel clase F de la estación de Algemesí."
+    },
+    {
+     "hora": null,
+     "evento": "2009-04-22: El Gerente Territorial de Seguridad en la Circulación de Levante de Adif entrega su informe particular del accidente."
+    },
+    {
+     "hora": null,
+     "evento": "2009-04-24: El Responsable de Seguridad de Renfe Operadora entrega su informe particular del accidente."
+    },
+    {
+     "hora": null,
+     "evento": "2009-05-22: Se abre al público el paso inferior y se clausura el paso a nivel provisional tipo F."
+    },
+    {
+     "hora": null,
+     "evento": "2009-07-14: Fecha del informe final en Madrid."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0017/2009",
+ "expediente": "0017/09",
+ "anio": 2009,
+ "titulo": "Arrollamiento de peatón en paso a nivel tipo F de la estación de Algemesí (Valencia)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-240309-140709-CIAF_ALGEMESÍ.md"
+}

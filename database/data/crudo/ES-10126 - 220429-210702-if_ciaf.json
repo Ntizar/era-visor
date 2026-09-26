@@ -1,0 +1,1051 @@
+{
+ "id": "ES-10126 - 220429-210702-if_ciaf",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/220429-210702-if_ciaf.pdf",
+ "pdf": "pdfs/ES/ES-10126 - 220429-210702-if_ciaf.pdf",
+ "md5_pdf": "ac3996b52e7f3b7f1e94a1381ad58c38",
+ "paginas_md": 53,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 13,
+ "n_tablas": 3,
+ "tablas": [
+  {
+   "pagina": 6,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AESF y Ayuntamiento de Novelda",
+     "Implementador final": "Adif y Ayuntamiento de Novelda",
+     "Número": "59/21-1",
+     "Recomendación": "Estudiar medidas de refuerzo de la seguridad de este paso a nivel ante las dificultades detectadas, incluyendo la posibilidad de acelerar su proceso de supresión."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "AESF y Adif",
+     "Número": "59/21-2",
+     "Recomendación": "Acelerar o potenciar el cumplimiento del artículo 52.6 del RDSOIF, impulsando estudios y actuaciones concertadas con las diferentes administraciones implicadas, para identificar y mejorar la seguridad de aquellos pasos a nivel en los que la presencia de intersecciones con otras carreteras y vías (aparte de la principal) pueda predisponer a accidentes similares."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 32,
+   "cabecera": [
+    "Hora registrada",
+    "",
+    "Hora ajustada al CTC",
+    "Velocidad (km/h)",
+    "Distancia (km)",
+    "Evento"
+   ],
+   "filas": [
+    {
+     "Hora registrada": "17:14:05",
+     "Hora ajustada al CTC": "17:14:33",
+     "Velocidad (km/h)": "84",
+     "Distancia (km)": "4515,250",
+     "Evento": "Paso por señal E2 (vía libre)"
+    },
+    {
+     "Hora registrada": "17:14:30",
+     "Hora ajustada al CTC": "",
+     "Velocidad (km/h)": "113",
+     "Distancia (km)": "4515,990",
+     "Evento": "Paso por señal S2-1 (vía libre)"
+    },
+    {
+     "Hora registrada": "17:14:34*",
+     "Hora ajustada al CTC": "17:15:01*",
+     "Velocidad (km/h)": "113*",
+     "Distancia (km)": "4516,117",
+     "Evento": "Punto y momento estimados del impacto"
+    },
+    {
+     "Hora registrada": "17:14:35",
+     "Hora ajustada al CTC": "",
+     "Velocidad (km/h)": "113",
+     "Distancia (km)": "4516,145",
+     "Evento": "Aplicación de freno de emergencia"
+    },
+    {
+     "Hora registrada": "17:14:36",
+     "Hora ajustada al CTC": "",
+     "Velocidad (km/h)": "111*",
+     "Distancia (km)": "4516,180",
+     "Evento": "Paso por señal S2-1A (vía libre)"
+    },
+    {
+     "Hora registrada": "17:15:10",
+     "Hora ajustada al CTC": "",
+     "Velocidad (km/h)": "0",
+     "Distancia (km)": "4516,750",
+     "Evento": "Detención del tren"
+    }
+   ],
+   "cita": "| Hora registrada |   | Hora ajustada al CTC | Velocidad (km/h) | Distancia (km) | Evento |"
+  },
+  {
+   "pagina": 47,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AESF y Ayuntamiento de Novelda",
+     "Implementador final": "Adif y Ayuntamiento de Novelda",
+     "Número": "59/21-1",
+     "Recomendación": "Estudiar medidas de refuerzo de la seguridad de este paso a nivel ante las dificultades detectadas, incluyendo la posibilidad de acelerar su proceso de supresión."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "AESF y Adif",
+     "Número": "59/21-2",
+     "Recomendación": "Acelerar o potenciar el cumplimiento del artículo 52.6 del RDSOIF, impulsando estudios y actuaciones concertadas con las diferentes administraciones implicadas, para identificar y mejorar la seguridad de aquellos pasos a nivel en los que la presencia de intersecciones con otras carreteras y vías (aparte de la principal) pueda predisponer a accidentes similares."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "59/2021",
+   "pagina": 1,
+   "cita": "INFORME FINAL DE LA CIAF (IF) 59/2021",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2 de julio de 2021, a las 17:15, un tren Intercity Barcelona-Lorca de Renfe Viajeros arrolló a un automóvil en el paso a nivel A3 del PK 424+690 de la línea 330, a la salida de la estación de Novelda-Aspe (Alicante). Los cuatro ocupantes del coche fallecieron. El paso estaba cerrado, con semibarreras bajadas y señalización luminosa y acústica activadas, pero el vehículo invadió el paso atravesando el hueco de la semibarrera. La causa directa fue el fallo humano del conductor, con factores contribuyentes relacionados con la disposición viaria y la difícil percepción de la barrera y las señales.",
+   "pagina": 5,
+   "cita": "RESUMEN El 2 de julio de 2021, a las 17:15, un tren Intercity Barcelona-Lorca, de Renfe Viajeros, arrolla a un automóvil en el paso a nivel de Novelda, situado en el PK 424+690 de la línea 330 (La Encina – Alacant Ter",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2021-07-02",
+    "hora": null,
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Novelda-Aspe",
+     "pk": "424+690 oficial (424+897 real)",
+     "linea": "330 La Encina – Alacant Terminal",
+     "provincia": "Alicante",
+     "descripcion_lugar": "Paso a nivel en la cabecera lado Alicante de la estación de Novelda-Aspe, donde las vías 1 y 3 cruzan la calle Camí de Castella; la calle Rafael Altamira se incorpora justo antes del paso."
+    }
+   },
+   "pagina": 5,
+   "cita": "El 2 de julio de 2021, a las 17:15, un tren Intercity Barcelona-Lorca, de Renfe Viajeros, arrolla a un",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 4,
+    "heridos_graves": null,
+    "heridos_leves": 1,
+    "danos_materiales": "Locomotora con daños frontales; automóvil arrollado con restos enganchados a la locomotora; sin daños apreciables en instalaciones fijas ni al medio ambiente.",
+    "afectacion_servicio": "Vía interrumpida de 17:15 a 21:08 (3 h 53 min); 18 trenes con retraso (1423 min) más 255 min del tren implicado, total 1678 min; 6 trenes suprimidos; 25 circulaciones afectadas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del conductor del coche, que habría pasado por alto las últimas señales antes del paso y la semibarrera bajada, entrando en el paso cuando llegaba el tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Disposición en planta de la intersección con una calle secundaria que se incorpora justo antes del paso.",
+    "Ángulo muy pronunciado de la incorporación, que facilita una trayectoria que esquiva la semibarrera.",
+    "Difícil percepción de la semibarrera bajada desde la calle Rafael Altamira, al verse casi de punta.",
+    "Señalización luminosa limitada en la práctica a un solo foco orientado hacia la calle secundaria.",
+    "Posibles ocultaciones parciales del foco luminoso por un poste de alumbrado y la esquina de una casa.",
+    "Atención del conductor desplazada por el giro cerrado, el estrechamiento de la calle y otros vehículos."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Problemática de pasos a nivel cuyos accesos viarios incluyen intersecciones, giros o incorporaciones que dificultan la percepción del paso.",
+    "Necesidad de aplicar el artículo 52.6 del RDSOIF para coordinar actuaciones entre administraciones ferroviarias y viarias."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Estudiar medidas de refuerzo de la seguridad de este paso a nivel ante las dificultades detectadas, incluyendo la posibilidad de acelerar su proceso de supresión.",
+    "Acelerar o potenciar el cumplimiento del artículo 52.6 del RDSOIF, impulsando estudios y actuaciones concertadas con las diferentes administraciones implicadas, para identificar y mejorar la seguridad de aquellos pasos a nivel en los que la presencia de intersecciones con otras carreteras y vías (aparte de la principal) pueda predisponer a accidentes similares.",
+    "Estudiar medidas de refuerzo de la seguridad de este paso a nivel ante las dificultades detectadas, incluyendo la posibilidad de acelerar su proceso de supresión.",
+    "Acelerar o potenciar el cumplimiento del artículo 52.6 del RDSOIF, impulsando estudios y actuaciones concertadas con las diferentes administraciones implicadas, para identificar y mejorar la seguridad de aquellos pasos a nivel en los que la presencia de intersecciones con otras carreteras y vías (aparte de la principal) pueda predisponer a accidentes similares."
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF y Ayuntamiento de Novelda",
+    "AESF",
+    "AESF y Ayuntamiento de Novelda",
+    "AESF"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Accidente en paso a nivel",
+   "pagina": 1,
+   "cita": "Accidente en paso a nivel en Novelda (Alicante), ocurrido el 2",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "Renfe Viajeros"
+   ],
+   "pagina": 4,
+   "cita": "ADIF Administrador de Infraestructuras Ferroviarias, administrador de la RFIG ASFA Anuncio de Señales y Frenado Automático BAU Bloqueo Automático de vía Única CIAF Comisión de Investigación de Accidentes Ferroviar",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2021-07-02",
+   "pagina": 5,
+   "cita": "El 2 de julio de 2021, a las 17:15, un tren Intercity Barcelona-Lorca, de Renfe Viajeros, arrolla a un",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Novelda-Aspe",
+    "pk": "424+690 oficial (424+897 real)",
+    "linea": "330 La Encina – Alacant Terminal",
+    "provincia": "Alicante",
+    "descripcion_lugar": "Paso a nivel en la cabecera lado Alicante de la estación de Novelda-Aspe, donde las vías 1 y 3 cruzan la calle Camí de Castella; la calle Rafael Altamira se incorpora justo antes del paso."
+   },
+   "pagina": 19,
+   "cita": "automático en vía única, en este caso) y los enclavamientos de las estaciones. Todos estos sistemas",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 252.059 + composición Talgo 6B5 de 9 vehículos y 10 ejes.",
+    "averia": "Ninguna; velocidad, frenos, registros y sistemas de asistencia a la conducción funcionaron correctamente.",
+    "mantenimiento": "Revisiones y mantenimiento conformes al plan de Renfe."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El accidente se produjo el 2 de julio de 2021 a las 17:15 en el paso a nivel situado en el PK 424+690 oficial (424+897 real) de la línea 330 La Encina – Alacant Terminal, a la salida de la estación de Novelda-Aspe, lado Alicante. Un tren Intercity 462/463 de Renfe Viajeros, con locomotora 252.059 y composición Talgo 6B5, circulaba con unos 12 minutos de retraso por la vía 1 cuando se produjo el arrollamiento de un turismo Kia Stonic. El paso era del tipo A3, con semibarreras automáticas enclavadas, señales luminosas y acústicas, y señalización horizontal y vertical. Según los registros y testimonios, las protecciones funcionaron correctamente y las semibarreras estaban bajadas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Novelda-Aspe",
+    "pk": "424+690 oficial (424+897 real)",
+    "linea": "330 La Encina – Alacant Terminal",
+    "provincia": "Alicante",
+    "descripcion_lugar": "Paso a nivel en la cabecera lado Alicante de la estación de Novelda-Aspe, donde las vías 1 y 3 cruzan la calle Camí de Castella; la calle Rafael Altamira se incorpora justo antes del paso."
+   },
+   "pagina": 19,
+   "cita": "automático en vía única, en este caso) y los enclavamientos de las estaciones. Todos estos sistemas",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 4,
+    "heridos_graves": null,
+    "heridos_leves": 1,
+    "danos_materiales": "Locomotora con daños frontales; automóvil arrollado con restos enganchados a la locomotora; sin daños apreciables en instalaciones fijas ni al medio ambiente.",
+    "afectacion_servicio": "Vía interrumpida de 17:15 a 21:08 (3 h 53 min); 18 trenes con retraso (1423 min) más 255 min del tren implicado, total 1678 min; 6 trenes suprimidos; 25 circulaciones afectadas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 462",
+     "implicacion": "Actuó correctamente; observó la invasión del paso, aplicó freno de emergencia y no pudo evitar el choque; control de alcohol y drogas negativo."
+    },
+    {
+     "rol": "Responsable de Circulación del CTC",
+     "implicacion": "Actuó correctamente; no se observaron incumplimientos ni anomalías en la circulación."
+    },
+    {
+     "rol": "Conductor del automóvil",
+     "implicacion": "Fallecido; según la investigación, pasó por alto las últimas señales y la semibarrera bajada e invadió el paso."
+    }
+   ],
+   "pagina": 15,
+   "cita": "Por parte de Renfe, el maquinista del tren 462/463 (M).",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "462/463 (denominado 462 en el tramo del accidente)",
+     "tipo": "Intercity Barcelona-Sants – Lorca-Sutullena",
+     "operador": "Renfe Viajeros",
+     "danos": "Daños en la parte frontal de la locomotora: quitarreses frontal y algunos manguitos y conducciones en bajos."
+    }
+   ],
+   "pagina": 5,
+   "cita": "El 2 de julio de 2021, a las 17:15, un tren Intercity Barcelona-Lorca, de Renfe Viajeros, arrolla a un",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 252.059 + composición Talgo 6B5 de 9 vehículos y 10 ejes.",
+    "averia": "Ninguna; velocidad, frenos, registros y sistemas de asistencia a la conducción funcionaron correctamente.",
+    "mantenimiento": "Revisiones y mantenimiento conformes al plan de Renfe."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 4,
+   "cita": "Administrador de Infraestructuras Ferroviarias, administrador de la RFIG",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "ASFA digital en el tren; señales luminosas y acústicas del paso a nivel; cartelones de silbar FI15A a unos 500 m; señales verticales y horizontales en el entorno viario.",
+    "tipo_via": "Vía única electrificada en el tramo; paso situado en el haz de la estación.",
+    "velocidad_maxima": "110 km/h normal; 115 km/h para trenes tipo A y B; el tren implicado era tipo 200-B.",
+    "ancho": "Ibérico",
+    "electrificacion": "Electrificada",
+    "estado_via": "Vía recta y horizontal en el tramo del paso; sin obras en el lugar ni cercanías.",
+    "otro": "Paso a nivel A3 con semibarreras enclavadas; pavimento Strail en vía 1 y asfalto en vía 3; enclavamiento Smartlock de Alstom; tecnología Thales-Electrans; CTC de Valencia Fuente de San Luis."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "ASFA digital en el tren; señales luminosas y acústicas del paso a nivel; cartelones de silbar FI15A a unos 500 m; señales verticales y horizontales en el entorno viario.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 4,
+    "heridos_graves": null,
+    "heridos_leves": 1,
+    "danos_materiales": "Locomotora con daños frontales; automóvil arrollado con restos enganchados a la locomotora; sin daños apreciables en instalaciones fijas ni al medio ambiente.",
+    "afectacion_servicio": "Vía interrumpida de 17:15 a 21:08 (3 h 53 min); 18 trenes con retraso (1423 min) más 255 min del tren implicado, total 1678 min; 6 trenes suprimidos; 25 circulaciones afectadas."
+   },
+   "pagina": 8,
+   "cita": "La empresa ferroviaria (Renfe Viajeros) remitió a la CIAF su informe particular sobre el suceso el 22",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 4,
+    "heridos_graves": null,
+    "heridos_leves": 1,
+    "danos_materiales": "Locomotora con daños frontales; automóvil arrollado con restos enganchados a la locomotora; sin daños apreciables en instalaciones fijas ni al medio ambiente.",
+    "afectacion_servicio": "Vía interrumpida de 17:15 a 21:08 (3 h 53 min); 18 trenes con retraso (1423 min) más 255 min del tren implicado, total 1678 min; 6 trenes suprimidos; 25 circulaciones afectadas."
+   },
+   "pagina": 2,
+   "cita": "de Investigación de Accidentes Ferroviarios en relación con las circunstancias en que se",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 4,
+    "heridos_graves": null,
+    "heridos_leves": 1,
+    "danos_materiales": "Locomotora con daños frontales; automóvil arrollado con restos enganchados a la locomotora; sin daños apreciables en instalaciones fijas ni al medio ambiente.",
+    "afectacion_servicio": "Vía interrumpida de 17:15 a 21:08 (3 h 53 min); 18 trenes con retraso (1423 min) más 255 min del tren implicado, total 1678 min; 6 trenes suprimidos; 25 circulaciones afectadas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252.059 + composición Talgo 6B5 de 9 vehículos y 10 ejes.",
+    "averia": "Ninguna; velocidad, frenos, registros y sistemas de asistencia a la conducción funcionaron correctamente.",
+    "mantenimiento": "Revisiones y mantenimiento conformes al plan de Renfe."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "ASFA digital en el tren; señales luminosas y acústicas del paso a nivel; cartelones de silbar FI15A a unos 500 m; señales verticales y horizontales en el entorno viario.",
+    "tipo_via": "Vía única electrificada en el tramo; paso situado en el haz de la estación.",
+    "velocidad_maxima": "110 km/h normal; 115 km/h para trenes tipo A y B; el tren implicado era tipo 200-B.",
+    "ancho": "Ibérico",
+    "electrificacion": "Electrificada",
+    "estado_via": "Vía recta y horizontal en el tramo del paso; sin obras en el lugar ni cercanías.",
+    "otro": "Paso a nivel A3 con semibarreras enclavadas; pavimento Strail en vía 1 y asfalto en vía 3; enclavamiento Smartlock de Alstom; tecnología Thales-Electrans; CTC de Valencia Fuente de San Luis."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Pleno día, tiempo despejado; el sol estaba casi al oeste, a espaldas de la aproximación del coche, con 47,52° de altura sobre el horizonte; no se apreció deslumbramiento relevante.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Alicante",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 1,
+   "cita": "Accidente en paso a nivel en Novelda (Alicante), ocurrido el 2",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Pleno día, tiempo despejado; el sol estaba casi al oeste, a espaldas de la aproximación del coche, con 47,52° de altura sobre el horizonte; no se apreció deslumbramiento relevante.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "ASFA digital en el tren; señales luminosas y acústicas del paso a nivel; cartelones de silbar FI15A a unos 500 m; señales verticales y horizontales en el entorno viario.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "ASFA digital en el tren; señales luminosas y acústicas del paso a nivel; cartelones de silbar FI15A a unos 500 m; señales verticales y horizontales en el entorno viario.",
+    "tipo_via": "Vía única electrificada en el tramo; paso situado en el haz de la estación.",
+    "velocidad_maxima": "110 km/h normal; 115 km/h para trenes tipo A y B; el tren implicado era tipo 200-B.",
+    "ancho": "Ibérico",
+    "electrificacion": "Electrificada",
+    "estado_via": "Vía recta y horizontal en el tramo del paso; sin obras en el lugar ni cercanías.",
+    "otro": "Paso a nivel A3 con semibarreras enclavadas; pavimento Strail en vía 1 y asfalto en vía 3; enclavamiento Smartlock de Alstom; tecnología Thales-Electrans; CTC de Valencia Fuente de San Luis."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252.059 + composición Talgo 6B5 de 9 vehículos y 10 ejes.",
+    "averia": "Ninguna; velocidad, frenos, registros y sistemas de asistencia a la conducción funcionaron correctamente.",
+    "mantenimiento": "Revisiones y mantenimiento conformes al plan de Renfe."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Conductor ignoró semibarrera cerrada",
+    "Conductor omitió señales previas al paso a nivel",
+    "Conductor aceleró antes de colisión",
+    "Conductor invadió vía con tren aproximándose"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El accidente se produjo el 2 de julio de 2021 a las 17:15 en el paso a nivel situado en el PK 424+690 oficial (424+897 real) de la línea 330 La Encina – Alacant Terminal, a la salida de la estación de Novelda-Aspe, lado Alicante. Un tren Intercity 462/463 de Renfe Viajeros, con locomotora 252.059 y composición Talgo 6B5, circulaba con unos 12 minutos de retraso por la vía 1 cuando se produjo el arrollamiento de un turismo Kia Stonic. El paso era del tipo A3, con semibarreras automáticas enclavadas, señales luminosas y acústicas, y señalización horizontal y vertical. Según los registros y testimonios, las protecciones funcionaron correctamente y las semibarreras estaban bajadas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del conductor del coche, que habría pasado por alto las últimas señales antes del paso y la semibarrera bajada, entrando en el paso cuando llegaba el tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Disposición en planta de la intersección con una calle secundaria que se incorpora justo antes del paso.",
+    "Ángulo muy pronunciado de la incorporación, que facilita una trayectoria que esquiva la semibarrera.",
+    "Difícil percepción de la semibarrera bajada desde la calle Rafael Altamira, al verse casi de punta.",
+    "Señalización luminosa limitada en la práctica a un solo foco orientado hacia la calle secundaria.",
+    "Posibles ocultaciones parciales del foco luminoso por un poste de alumbrado y la esquina de una casa.",
+    "Atención del conductor desplazada por el giro cerrado, el estrechamiento de la calle y otros vehículos."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Estudiar medidas de refuerzo de la seguridad de este paso a nivel ante las dificultades detectadas, incluyendo la posibilidad de acelerar su proceso de supresión.",
+    "Acelerar o potenciar el cumplimiento del artículo 52.6 del RDSOIF, impulsando estudios y actuaciones concertadas con las diferentes administraciones implicadas, para identificar y mejorar la seguridad de aquellos pasos a nivel en los que la presencia de intersecciones con otras carreteras y vías (aparte de la principal) pueda predisponer a accidentes similares.",
+    "Estudiar medidas de refuerzo de la seguridad de este paso a nivel ante las dificultades detectadas, incluyendo la posibilidad de acelerar su proceso de supresión.",
+    "Acelerar o potenciar el cumplimiento del artículo 52.6 del RDSOIF, impulsando estudios y actuaciones concertadas con las diferentes administraciones implicadas, para identificar y mejorar la seguridad de aquellos pasos a nivel en los que la presencia de intersecciones con otras carreteras y vías (aparte de la principal) pueda predisponer a accidentes similares."
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF y Ayuntamiento de Novelda",
+    "AESF",
+    "AESF y Ayuntamiento de Novelda",
+    "AESF"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "Adif y Ayuntamiento de Novelda",
+    "AESF y Adif",
+    "Adif y Ayuntamiento de Novelda",
+    "AESF y Adif"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "17:11",
+     "evento": "17:11:39: el tren 462 ocupa el CV E'1 MP e inicia la secuencia de cierre del paso a nivel."
+    },
+    {
+     "hora": "17:11",
+     "evento": "17:11:40: inicio de las luces de carretera del paso a nivel."
+    },
+    {
+     "hora": "17:11",
+     "evento": "17:11:48: inicio de la bajada de las semibarreras."
+    },
+    {
+     "hora": "17:11",
+     "evento": "17:11:55: comprobación de barrera cerrada y paso a nivel protegido."
+    },
+    {
+     "hora": "17:12",
+     "evento": "17:12:05: señales del trayecto en vía libre."
+    },
+    {
+     "hora": "17:14",
+     "evento": "17:14:46: el tren atraviesa la estación por la vía 1 con el paso cerrado y protegido."
+    },
+    {
+     "hora": "17:15",
+     "evento": "17:15:01: impacto estimado; el coche invade el paso por el hueco de la semibarrera."
+    },
+    {
+     "hora": "17:15",
+     "evento": "17:15:02: el maquinista aplica el freno de emergencia."
+    },
+    {
+     "hora": "17:15",
+     "evento": "17:15:03: el tren pasa la señal S2-1A tras la colisión."
+    },
+    {
+     "hora": "17:15",
+     "evento": "17:15:12: fin del mando de enclavamiento."
+    },
+    {
+     "hora": "17:15",
+     "evento": "17:15:13: inicio de la subida de las barreras."
+    },
+    {
+     "hora": "17:15",
+     "evento": "17:15:37: detención del tren tras unos 633 m recorridos después del impacto."
+    },
+    {
+     "hora": "17:57",
+     "evento": "Adif notifica oficialmente el suceso a la CIAF mediante SMS."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0059/2021",
+ "expediente": "059/21",
+ "anio": 2021,
+ "titulo": "Accidente en paso a nivel en Novelda (Alicante), ocurrido el 2 de julio de 2021",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES-10126 - 220429-210702-if_ciaf.md"
+}

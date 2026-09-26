@@ -1,0 +1,1288 @@
+{
+ "id": "IF_240713_ERA-2014-0070-EN",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/0ADE7F17-84BB-4CBD-9451-C750EDE06170/125127/IF240713200514CIAF.pdf",
+ "pdf": "pdfs/ES/IF_240713_ERA-2014-0070-EN.pdf",
+ "md5_pdf": "d8d0f75c9c5d8ac85c9aee35ef1ff92d",
+ "paginas_md": 110,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 126,
+ "n_tablas": 15,
+ "tablas": [
+  {
+   "pagina": 8,
+   "cabecera": [
+    "Final addressee",
+    "Number",
+    "Recommendation"
+   ],
+   "filas": [
+    {
+     "Final addressee": "Adif",
+     "Number": "54/13-1",
+     "Recommendation": "Make it a rule that all speed reductions, from a certain deceleration onwards, must be marked at the trackside by fixed speed limit signs."
+    },
+    {
+     "Final addressee": "Adif",
+     "Number": "54/13-2",
+     "Recommendation": "For these situations (significant speed reductions), arrange to set up balises progressively which may help to control the speed of trains, so that they brake in case the speed limit for entry into the block section is lowered. Therefore, implement the necessary ASFA Digital (Automatic Braking and Announcement of Signals) systems."
+    },
+    {
+     "Final addressee": "Renfe Operadora",
+     "Number": "54/13-3.1",
+     "Recommendation": "Reinforce the procedures set in the Renfe Operadora SMS so that safety-related defects detected at any level are referred to the departments with the prescribed function of analysing and considering them, thereby assuring effective preventive management."
+    }
+   ],
+   "cita": "| Final addressee | Number | Recommendation |"
+  },
+  {
+   "pagina": 14,
+   "cabecera": [
+    "Numeración UIC",
+    "Tipo de vehículo"
+   ],
+   "filas": [
+    {
+     "Numeración UIC": "96719 730 045-2",
+     "Tipo de vehículo": "CABEZA MOTRIZ 2 (1º)"
+    },
+    {
+     "Numeración UIC": "90717 730 132-8",
+     "Tipo de vehículo": "COCHE EXTREMO TÉCNICO (2º)"
+    },
+    {
+     "Numeración UIC": "90717 730 131-0",
+     "Tipo de vehículo": "COCHE TURISTA (3º)"
+    },
+    {
+     "Numeración UIC": "90717 730 130-2",
+     "Tipo de vehículo": "COCHE TURISTA (4º)"
+    },
+    {
+     "Numeración UIC": "90717 730 129-4",
+     "Tipo de vehículo": "COCHE TURISTA (5º)"
+    },
+    {
+     "Numeración UIC": "90717 730 128-6",
+     "Tipo de vehículo": "COCHE TURISTA (6º)"
+    },
+    {
+     "Numeración UIC": "90717 730 127-8",
+     "Tipo de vehículo": "COCHE TURISTA (7º)"
+    },
+    {
+     "Numeración UIC": "90717 730 126-0",
+     "Tipo de vehículo": "COCHE TURISTA (8º)"
+    },
+    {
+     "Numeración UIC": "90717 730 125-2",
+     "Tipo de vehículo": "COCHE CAFETERIA-BAR (9º)"
+    },
+    {
+     "Numeración UIC": "90717 730 124-5",
+     "Tipo de vehículo": "COCHE ACCESIBLE PREFERENTE (10º)"
+    },
+    {
+     "Numeración UIC": "90717 730 123-7",
+     "Tipo de vehículo": "COCHE PREFERENTE (11º)"
+    },
+    {
+     "Numeración UIC": "90717 730 122-9",
+     "Tipo de vehículo": "COCHE EXTREMO TÉCNICO (12º)"
+    },
+    {
+     "Numeración UIC": "96719 730 046-0",
+     "Tipo de vehículo": "CABEZA MOTRIZ 1 (13º)"
+    }
+   ],
+   "cita": "| Numeración UIC | Tipo de vehículo |"
+  },
+  {
+   "pagina": 15,
+   "cabecera": [
+    "Coche turista",
+    "Passenger coach"
+   ],
+   "filas": [
+    {
+     "Coche turista": "Coche cafetería-bar",
+     "Passenger coach": "Restaurant car"
+    },
+    {
+     "Coche turista": "Coche preferente",
+     "Passenger coach": "Club class coach"
+    },
+    {
+     "Coche turista": "Coche CET preferente",
+     "Passenger coach": "Club class generator car"
+    },
+    {
+     "Coche turista": "Coche accesible preferente",
+     "Passenger coach": "Club class coach with mobility access"
+    }
+   ],
+   "cita": "| Coche turista | Passenger coach |"
+  },
+  {
+   "pagina": 18,
+   "cabecera": [
+    "Ibérico",
+    "Iberian"
+   ],
+   "filas": [
+    {
+     "Ibérico": "Doble",
+     "Iberian": "Double (track)"
+    },
+    {
+     "Ibérico": "Única",
+     "Iberian": "Single (track)"
+    },
+    {
+     "Ibérico": "Sin elec(trificar)/No electrificada",
+     "Iberian": "Unelectrified"
+    }
+   ],
+   "cita": "| Ibérico | Iberian |"
+  },
+  {
+   "pagina": 19,
+   "cabecera": [
+    "Bif.",
+    "Branch"
+   ],
+   "filas": [
+    {
+     "Bif.": "Línea",
+     "Branch": "Line"
+    },
+    {
+     "Bif.": "Accidente",
+     "Branch": "Accident"
+    },
+    {
+     "Bif.": "Estación",
+     "Branch": "Station"
+    }
+   ],
+   "cita": "| Bif. | Branch |"
+  },
+  {
+   "pagina": 21,
+   "cabecera": [
+    "Bif.",
+    "Branch"
+   ],
+   "filas": [
+    {
+     "Bif.": "Enclavamiento (electronico)",
+     "Branch": "(electronic) interlocking system"
+    },
+    {
+     "Bif.": "Nivel 1",
+     "Branch": "Level 1"
+    },
+    {
+     "Bif.": "Transición",
+     "Branch": "Transition"
+    }
+   ],
+   "cita": "| Bif. | Branch |"
+  },
+  {
+   "pagina": 61,
+   "cabecera": [
+    "VÍA 2 150/151 VÍA 1 ENTRY SIGNAL TO CAUTION SIGNAL CAUTION SIGNAL A A GRANDEIRA BRCH SANTIAGO COMPOSTELA ENTRY SIGNAL GRANDEIRA BRCH SANTIAGO COMPOSTELA SANTIAGO DE OURENSE COMPOSTELA",
+    ""
+   ],
+   "filas": [
+    {
+     "VÍA 2 150/151 VÍA 1 ENTRY SIGNAL TO CAUTION SIGNAL CAUTION SIGNAL A A GRANDEIRA BRCH SANTIAGO COMPOSTELA ENTRY SIGNAL GRANDEIRA BRCH SANTIAGO COMPOSTELA SANTIAGO DE OURENSE COMPOSTELA": "Bif. (Bifurcación)"
+    },
+    {
+     "VÍA 2 150/151 VÍA 1 ENTRY SIGNAL TO CAUTION SIGNAL CAUTION SIGNAL A A GRANDEIRA BRCH SANTIAGO COMPOSTELA ENTRY SIGNAL GRANDEIRA BRCH SANTIAGO COMPOSTELA SANTIAGO DE OURENSE COMPOSTELA": "Vía"
+    }
+   ],
+   "cita": "| VÍA 2 150/151 VÍA 1 ENTRY SIGNAL TO CAUTION SIGNAL CAUTION SIGNAL A A GRANDEIRA BRCH SANTIAGO COMPOSTELA ENTRY SIGNAL GRANDEIRA BRCH SANTIAGO COMPOSTELA SANTIAGO DE OURENSE COMPOSTELA |   |"
+  },
+  {
+   "pagina": 62,
+   "cabecera": [
+    "VÍA 2 150/151 VÍA 1 TRAIN 150/151 OCCUPYING TRACK CIRCUIT 844, BEFORE E7 SANTIAGO DE OURENSE COMPOSTELA",
+    ""
+   ],
+   "filas": [
+    {
+     "VÍA 2 150/151 VÍA 1 TRAIN 150/151 OCCUPYING TRACK CIRCUIT 844, BEFORE E7 SANTIAGO DE OURENSE COMPOSTELA": "Bifurcación"
+    },
+    {
+     "VÍA 2 150/151 VÍA 1 TRAIN 150/151 OCCUPYING TRACK CIRCUIT 844, BEFORE E7 SANTIAGO DE OURENSE COMPOSTELA": "Vía"
+    }
+   ],
+   "cita": "| VÍA 2 150/151 VÍA 1 TRAIN 150/151 OCCUPYING TRACK CIRCUIT 844, BEFORE E7 SANTIAGO DE OURENSE COMPOSTELA |   |"
+  },
+  {
+   "pagina": 63,
+   "cabecera": [
+    "Bifurcación",
+    "Branch"
+   ],
+   "filas": [
+    {
+     "Bifurcación": "Vía",
+     "Branch": "Track"
+    }
+   ],
+   "cita": "| Bifurcación | Branch |"
+  },
+  {
+   "pagina": 64,
+   "cabecera": [
+    "Bifurcación",
+    "Branch"
+   ],
+   "filas": [
+    {
+     "Bifurcación": "Vía",
+     "Branch": "Track"
+    }
+   ],
+   "cita": "| Bifurcación | Branch |"
+  },
+  {
+   "pagina": 81,
+   "cabecera": [
+    "",
+    "",
+    "Minimum",
+    "",
+    "Medium",
+    "Maximum"
+   ],
+   "filas": [
+    {
+     "Minimum": "km",
+     "Medium": "km",
+     "Maximum": "km"
+    },
+    {
+     "Minimum": "4 800",
+     "Medium": "7 200",
+     "Maximum": ""
+    },
+    {
+     "Minimum": "33 600",
+     "Medium": "50 400",
+     "Maximum": ""
+    },
+    {
+     "Minimum": "100 800",
+     "Medium": "151 200",
+     "Maximum": ""
+    },
+    {
+     "Minimum": "201 600",
+     "Medium": "302 400",
+     "Maximum": ""
+    },
+    {
+     "Minimum": "403 200",
+     "Medium": "604 800",
+     "Maximum": ""
+    },
+    {
+     "Minimum": "806 400",
+     "Medium": "1 209 600",
+     "Maximum": ""
+    },
+    {
+     "Minimum": "1 612 800",
+     "Medium": "2 419 000",
+     "Maximum": ""
+    },
+    {
+     "Minimum": "3 225 600",
+     "Medium": "4 838 400",
+     "Maximum": ""
+    }
+   ],
+   "cita": "|   |   | Minimum |   | Medium | Maximum |"
+  },
+  {
+   "pagina": 83,
+   "cabecera": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Campo",
+    "",
+    "",
+    "Taller",
+    "Campo",
+    "",
+    "",
+    "Taller",
+    "Taller"
+   ],
+   "filas": [
+    {
+     "Campo": "Espesor (mm)",
+     "Taller": "Distancia entre caras internas (mm)"
+    },
+    {
+     "Campo": "Rueda izquierda",
+     "Taller": ""
+    },
+    {
+     "Campo": "Nº 65450-234",
+     "Taller": ""
+    },
+    {
+     "Campo": "29,4",
+     "Taller": "1.358,8"
+    },
+    {
+     "Campo": "Nº 65448-263",
+     "Taller": ""
+    },
+    {
+     "Campo": "31,7",
+     "Taller": "1.359,0"
+    },
+    {
+     "Campo": "Nº 30841-067",
+     "Taller": ""
+    },
+    {
+     "Campo": "30,1",
+     "Taller": "1.359,1"
+    },
+    {
+     "Campo": "Nº 30841-057",
+     "Taller": ""
+    },
+    {
+     "Campo": "29,4",
+     "Taller": "1.358,9"
+    },
+    {
+     "Campo": "Nº 65093-127",
+     "Taller": ""
+    },
+    {
+     "Campo": "29,7",
+     "Taller": "1.359,0"
+    },
+    {
+     "Campo": "Nº 65094-209",
+     "Taller": ""
+    },
+    {
+     "Campo": "29,3",
+     "Taller": "1.359,3"
+    },
+    {
+     "Campo": "Nº 65357-131",
+     "Taller": ""
+    },
+    {
+     "Campo": "30,9",
+     "Taller": "1.360,8"
+    },
+    {
+     "Campo": "Nº 65357-118",
+     "Taller": ""
+    },
+    {
+     "Campo": "28,2",
+     "Taller": "1.360,6"
+    },
+    {
+     "Campo": "Nº 65521-124",
+     "Taller": ""
+    },
+    {
+     "Campo": "30,9",
+     "Taller": "1.361,1"
+    },
+    {
+     "Campo": "Nº 65357-101",
+     "Taller": ""
+    },
+    {
+     "Campo": "28,6",
+     "Taller": "1.360,8"
+    },
+    {
+     "Campo": "Nº 65357-216",
+     "Taller": ""
+    },
+    {
+     "Campo": "28,4",
+     "Taller": "1.361,0"
+    },
+    {
+     "Campo": "Nº 65357-021",
+     "Taller": ""
+    },
+    {
+     "Campo": "29,2",
+     "Taller": "1.361,0"
+    },
+    {
+     "Campo": "Nº 65357-230",
+     "Taller": ""
+    },
+    {
+     "Campo": "30,2",
+     "Taller": "1.360,8"
+    },
+    {
+     "Campo": "Nº 65357-157",
+     "Taller": ""
+    },
+    {
+     "Campo": "27,8",
+     "Taller": "1.360,1"
+    },
+    {
+     "Campo": "Nº 65357-225",
+     "Taller": ""
+    },
+    {
+     "Campo": "28,3",
+     "Taller": "1.360,4"
+    },
+    {
+     "Campo": "Nº 69613-02",
+     "Taller": ""
+    },
+    {
+     "Campo": "28,6",
+     "Taller": "1.360,5"
+    },
+    {
+     "Campo": "Nº 56922-032",
+     "Taller": ""
+    },
+    {
+     "Campo": "29,0",
+     "Taller": "1.359,0"
+    },
+    {
+     "Campo": "Nº 56922-024",
+     "Taller": ""
+    },
+    {
+     "Campo": "28,5",
+     "Taller": "1.359,2"
+    },
+    {
+     "Campo": "Nº 65448-226",
+     "Taller": ""
+    },
+    {
+     "Campo": "29,7",
+     "Taller": "1.359,8"
+    },
+    {
+     "Campo": "Nº 065448-242",
+     "Taller": ""
+    },
+    {
+     "Campo": "29,1",
+     "Taller": "1.358,8"
+    },
+    {
+     "Campo": "Nº 65450-253",
+     "Taller": ""
+    },
+    {
+     "Campo": "29,6",
+     "Taller": "1.359,1"
+    },
+    {
+     "Campo": "Nº 65462-232",
+     "Taller": ""
+    },
+    {
+     "Campo": "30,3",
+     "Taller": "1.359,2"
+    }
+   ],
+   "cita": "|   |   |   |   |   | Campo |   |   | Taller | Campo |   |   | Taller | Taller |"
+  },
+  {
+   "pagina": 84,
+   "cabecera": [
+    "[In numbers] .",
+    ","
+   ],
+   "filas": [
+    {
+     "[In numbers] .": "Campo",
+     ",": "In the field"
+    },
+    {
+     "[In numbers] .": "Taller",
+     ",": "In the workshop"
+    },
+    {
+     "[In numbers] .": "Espesor",
+     ",": "Thickness"
+    },
+    {
+     "[In numbers] .": "Altura",
+     ",": "Height"
+    },
+    {
+     "[In numbers] .": "Diámetro",
+     ",": "Diameter"
+    },
+    {
+     "[In numbers] .": "Distancia entre caras internas",
+     ",": "Distance between internal faces"
+    },
+    {
+     "[In numbers] .": "Composición en sentido de marcha",
+     ",": "Make-up in direction of travel"
+    },
+    {
+     "[In numbers] .": "Numeración UIC",
+     ",": "UIC number"
+    },
+    {
+     "[In numbers] .": "Tipo veiculo",
+     ",": "Vehicle type"
+    },
+    {
+     "[In numbers] .": "Posición del eje",
+     ",": "Axle position"
+    },
+    {
+     "[In numbers] .": "Eje - rodal",
+     ",": "Axle - wheelset"
+    },
+    {
+     "[In numbers] .": "Rueda derecha / izquierda",
+     ",": "Right-hand / left-hand wheel"
+    },
+    {
+     "[In numbers] .": "Cabeza motriz",
+     ",": "Power car"
+    },
+    {
+     "[In numbers] .": "Coche (CET) turista",
+     ",": "Passenger (generator) car"
+    },
+    {
+     "[In numbers] .": "Coche (accessible) preferente",
+     ",": "Club class coach (with mobility access)"
+    }
+   ],
+   "cita": "| [In numbers] . | , |"
+  },
+  {
+   "pagina": 109,
+   "cabecera": [
+    "Final addressee",
+    "Number",
+    "Recommendation"
+   ],
+   "filas": [
+    {
+     "Final addressee": "Adif",
+     "Number": "54/13-1",
+     "Recommendation": "Make it a rule that all speed reductions, from a certain deceleration onwards, must be marked on the track by fixed speed limit signs."
+    },
+    {
+     "Final addressee": "Adif",
+     "Number": "54/13-2",
+     "Recommendation": "For these situations (significant speed reductions), arrange progressive set-up of balises which may help to control the speed of trains, so that they brake in case the speed limit for entry into the next section is lowered. Therefore, implement the necessary ASFA Digital (Automatic Braking and Announcement of Signals) systems."
+    },
+    {
+     "Final addressee": "Renfe Operadora",
+     "Number": "54/13-3.1",
+     "Recommendation": "Reinforce the procedures set in the Renfe Operadora SMS so that safety-related defects detected at any level are referred to the departments with the prescribed function of analysing and considering them, thereby assuring effective preventive management."
+    },
+    {
+     "Final addressee": "DGF",
+     "Number": "54/13-3.2",
+     "Recommendation": "The national railway safety authority will ensure that Recommendation 54/13-3.1 is extended to the other railway undertakings."
+    },
+    {
+     "Final addressee": "DGF",
+     "Number": "54/13-4",
+     "Recommendation": "The national railway safety authority should consider whether to reconvene the Joint Traffic Safety Committees, including representatives from Adif and the railway undertakings, and under the authority’s supervision. These committees can analyse risk situations deriving from the interaction between driving, vehicle and track."
+    }
+   ],
+   "cita": "| Final addressee | Number | Recommendation |"
+  },
+  {
+   "pagina": 110,
+   "cabecera": [
+    "DGF",
+    "54/13-5",
+    "The process of commissioning new railway lines and alternative stretches should include a specific risk assessment. This should include identification and management of possible hazards driving from the interaction between subsystems, in normal and degraded operating conditions, and their links with the driving and traffic staff involved when a train is travelling from beginning to end of the line or alternative stretch, and its connection to the existing network. Also analyse the viability of the layout at the various construction stages. In justified cases, promote the application of such assessments to lines which are in service."
+   ],
+   "filas": [
+    {
+     "DGF": "DGF",
+     "54/13-5": "54/13-6",
+     "The process of commissioning new railway lines and alternative stretches should include a specific risk assessment. This should include identification and management of possible hazards driving from the interaction between subsystems, in normal and degraded operating conditions, and their links with the driving and traffic staff involved when a train is travelling from beginning to end of the line or alternative stretch, and its connection to the existing network. Also analyse the viability of the layout at the various construction stages. In justified cases, promote the application of such assessments to lines which are in service.": "Make the necessary arrangements for communications with driving staff in the cab to take place safely and avoid possible distractions. Make these arrangements part of the general regulations and pass them on to the railway undertakings for inclusion in their safety management systems."
+    },
+    {
+     "DGF": "Renfe Operadora",
+     "54/13-5": "54/13-7.1",
+     "The process of commissioning new railway lines and alternative stretches should include a specific risk assessment. This should include identification and management of possible hazards driving from the interaction between subsystems, in normal and degraded operating conditions, and their links with the driving and traffic staff involved when a train is travelling from beginning to end of the line or alternative stretch, and its connection to the existing network. Also analyse the viability of the layout at the various construction stages. In justified cases, promote the application of such assessments to lines which are in service.": "Promote the progressive implementation of an audio recording system in drivers’ cabs. Assess the feasibility of adding a video recording system as well."
+    },
+    {
+     "DGF": "DGF",
+     "54/13-5": "54/13-7.2",
+     "The process of commissioning new railway lines and alternative stretches should include a specific risk assessment. This should include identification and management of possible hazards driving from the interaction between subsystems, in normal and degraded operating conditions, and their links with the driving and traffic staff involved when a train is travelling from beginning to end of the line or alternative stretch, and its connection to the existing network. Also analyse the viability of the layout at the various construction stages. In justified cases, promote the application of such assessments to lines which are in service.": "The national railway safety authority will ensure that Recommendation 54/13-7.1 is extended to the other railway undertakings."
+    }
+   ],
+   "cita": "| DGF | 54/13-5 | The process of commissioning new railway lines and alternative stretches should include a specific risk assessment. This should include identification and management of possible haza"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  }
+ },
+ "clave": "0054/2013",
+ "expediente": "0054/13",
+ "anio": 2013,
+ "titulo": "Accidente grave ferroviario en las proximidades de la estación de Santiago de Compostela (A Coruña)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_240713_ERA-2014-0070-EN.md"
+}

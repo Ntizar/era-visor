@@ -1,0 +1,1025 @@
+{
+ "id": "ES 05.09.2013 IF_050913_270115_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/588A94C9-2496-4120-8B0E-B6C094E739C1/129127/IF050913270115CIAF.pdf",
+ "pdf": "pdfs/ES/ES 05.09.2013 IF_050913_270115_CIAF.pdf",
+ "md5_pdf": "07b4a087d58292706a4978b2b9d3827a",
+ "paginas_md": 20,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 17,
+ "n_tablas": 3,
+ "tablas": [
+  {
+   "pagina": 6,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "60/13-1",
+     "Recomendación": "Determinar dentro de la RAM los lugares en los que haya instalados equipos similares a los descritos en este informe, con el propósito de analizar su estado de funcionamiento estudiando la posibilidad de actuaciones de mejora."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "60/13-2",
+     "Recomendación": "Incluir en los planes de mantenimiento de las instalaciones actuaciones encaminadas a revisar y verificar el funcionamiento de los sistemas de relés de características similares a los descritos en este informe. La revisión y verificación deberá realizarse con la periodicidad y consistencia indicada en las especificaciones técnicas del fabricante."
+    },
+    {
+     "Destinatario final": "Renfe Integria",
+     "Número": "60/13-3",
+     "Recomendación": "Analizar la posibilidad de reducir los caudales del arenado de las unidades 3800 adecuándolas a las recomendaciones existentes."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 14,
+   "cabecera": [
+    "TREN 6725",
+    "",
+    ""
+   ],
+   "filas": [
+    {
+     "TREN 6725": "Rueda izquierda"
+    },
+    {
+     "TREN 6725": "Eje 1º CM"
+    },
+    {
+     "TREN 6725": "Eje 2º CM"
+    },
+    {
+     "TREN 6725": "Eje 3º CM"
+    },
+    {
+     "TREN 6725": "Eje 4º CM"
+    },
+    {
+     "TREN 6725": "Eje 1º RC"
+    }
+   ],
+   "cita": "| TREN 6725 |   |   |"
+  },
+  {
+   "pagina": 20,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "60/13-1",
+     "Recomendación": "Determinar dentro de la RAM los lugares en los que haya instalados equipos similares a los descritos en este informe, con el propósito de analizar su estado de funcionamiento estudiando la posibilidad de actuaciones de mejora."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "60/13-2",
+     "Recomendación": "Incluir en los planes de mantenimiento de las instalaciones actuaciones encaminadas a revisar y verificar el funcionamiento de los sistemas de relés de características similares a los descritos en este informe. La revisión y verificación deberá realizarse con la periodicidad y consistencia indicada en las especificaciones técnicas del fabricante."
+    },
+    {
+     "Destinatario final": "Renfe Integria",
+     "Número": "60/13-3",
+     "Recomendación": "Analizar la posibilidad de reducir los caudales del arenado de las unidades 3800 adecuándolas a las recomendaciones existentes."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0060/2013",
+   "pagina": 1,
+   "cita": "nº 0060/2013 ocurrido el 05.09.2013",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 5 de septiembre de 2013 a las 15:44 se produjo un conato de colisión entre los trenes 6923 y 6725 en el tramo Mogro-Bezana de la línea 770 RAM Santander-Oviedo (Cantabria). El tren 6725, con problemas eléctricos y fusionado en mando múltiple con el 6727, realizó 18 frenadas de emergencia que provocaron un exceso de arenado sobre los carriles, causando pérdida de shuntado en el circuito de vía. Simultáneamente, un relé de secuencia (bobina R3-R4) falló, permitiendo que la señal B5192 pasara indebidamente a vía libre. El tren 6923, detenido ante la señal, reanudó la marcha y rebasó la señal 48 metros antes de que el ASFA activara el freno de emergencia. No hubo heridos, víctimas ni daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2013-09-05",
+    "hora": "15:44",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "519+295",
+     "linea": "770 RAM Santander – Oviedo",
+     "provincia": "Cantabria",
+     "descripcion_lugar": "Tramo entre Mogro (PK 516+702) y Bezana (PK 522+207), entre los apeaderos de Boo (PK 518+166) y Mortera (PK 520+655), municipio de Requejada. Señal intermedia B5192 situada en curva a la izquierda de radio ~300 m."
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 5 de septiembre de 2013 a las 15:44 horas se produjo un conato de colisión en el tramo Mogro",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura",
+    "afectacion_servicio": "No hubo interceptación de la vía. Retraso de 57 min en el tren 6725 y 50 min en el tren 6727. No hubo más circulaciones afectadas. Sucesión automática suspendida entre Mogro y Bezana desde el 13/09/2013 hasta el 17/09/2013."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo combinado: pérdida de shuntado por exceso de arenado en carriles + funcionamiento anómalo del relé RCVS P2/2 (bobina R3-R4) que impidió detectar la secuencia anómala, provocando la apertura indebida de la señal B5192 a vía libre con el cantón ocupado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Problemas eléctricos de la UT 3811 que impidieron superar 20 km/h",
+    "Dieciocho frenadas de emergencia consecutivas del tren 6725",
+    "Activación repetida y excesiva del sistema de arenado de ambos trenes acoplados (episodio de 32 s)",
+    "Volumen de arena eyectado superior a la especificación técnica ETI CMS",
+    "Corte de arenado solo por debajo de 3 km/h, insuficiente para marcha lenta",
+    "Curva de radio ~300 m en la ubicación de la señal"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ausencia de plan de mantenimiento preventivo para los relés de secuencia de paso por circuitos de vía",
+    "No se había realizado la verificación decenal recomendada por el fabricante Alstom desde las modificaciones de 1998",
+    "Sistema de sucesión automática de trenes dependiente de relés de tecnología obsoleta sin revisión periódica reglada",
+    "Diseño del sistema de arenado de la serie 3800 con caudal excesivo y umbral de corte demasiado bajo"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Determinar dentro de la RAM los lugares en los que haya instalados equipos similares a los descritos en este informe, con el propósito de analizar su estado de funcionamiento estudiando la posibilidad de actuaciones de mejora.",
+    "Incluir en los planes de mantenimiento de las instalaciones actuaciones encaminadas a revisar y verificar el funcionamiento de los sistemas de relés de características similares a los descritos en este informe. La revisión y verificación deberá realizarse con la periodicidad y consistencia indicada en las especificaciones técnicas del fabricante.",
+    "Analizar la posibilidad de reducir los caudales del arenado de las unidades 3800 adecuándolas a las recomendaciones existentes.",
+    "Determinar dentro de la RAM los lugares en los que haya instalados equipos similares a los descritos en este informe, con el propósito de analizar su estado de funcionamiento estudiando la posibilidad de actuaciones de mejora.",
+    "Incluir en los planes de mantenimiento de las instalaciones actuaciones encaminadas a revisar y verificar el funcionamiento de los sistemas de relés de características similares a los descritos en este informe. La revisión y verificación deberá realizarse con la periodicidad y consistencia indicada en las especificaciones técnicas del fabricante.",
+    "Analizar la posibilidad de reducir los caudales del arenado de las unidades 3800 adecuándolas a las recomendaciones existentes."
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif",
+    "Renfe Integria",
+    "Adif",
+    "Adif",
+    "Renfe Integria"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Incidente",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "y destino Santander, ambos de la empresa ferroviaria Renfe Operadora. El tren 6725 circulaba con",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2013-09-05",
+   "pagina": 5,
+   "cita": "El día 5 de septiembre de 2013 a las 15:44 horas se produjo un conato de colisión en el tramo Mogro",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "15:44",
+   "pagina": 5,
+   "cita": "El día 5 de septiembre de 2013 a las 15:44 horas se produjo un conato de colisión en el tramo Mogro",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "519+295",
+    "linea": "770 RAM Santander – Oviedo",
+    "provincia": "Cantabria",
+    "descripcion_lugar": "Tramo entre Mogro (PK 516+702) y Bezana (PK 522+207), entre los apeaderos de Boo (PK 518+166) y Mortera (PK 520+655), municipio de Requejada. Señal intermedia B5192 situada en curva a la izquierda de radio ~300 m."
+   },
+   "pagina": 5,
+   "cita": "– Bezana (Cantabria) de la línea 770 RAM Santander – Oviedo, entre el tren de viajeros 6923, con",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 770 Santander-Oviedo, tramo Mogro-Bezana",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Serie 3800 (UT 3811, UT 3808, UT 3803); composición CM-RI-RC; 3 vehículos, 12 ejes, 48 m, 100 t; tipo 80 (velocidad máxima 80 km/h)",
+    "averia": "Problemas eléctricos en UT 3811; 18 frenadas de emergencia; arenado excesivo (episodio de 32 s continuos); volúmenes eyectados en prueba superan la ETI CMS (400-500 g/30 s); corte de arenado solo a <3 km/h",
+    "mantenimiento": "No se tiene constancia de mantenimiento preventivo de los relés de secuencia; últimas intervenciones (28/09/2012 y 03/08/2013) fueron correctivas; fabricante Alstom recomienda verificación cada 10 años (no realizada desde modificaciones de 1998)"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren 6725 (UT 3811) de Renfe Operadora, con origen Puente de San Miguel y destino Santander, circulaba con problemas eléctricos y quedó detenido en la estación de Requejada, donde se decidió fusionarlo en mando múltiple con el tren 6727 (UT 3808). Los problemas persistieron: la UT 3811 no superaba 20 km/h y se produjeron dieciocho frenadas de emergencia que activaron repetidamente los sistemas de arenado de ambos trenes, eyectando un volumen excesivo de arena sobre los carriles. El tren 6923 (UT 3803), que circulaba a continuación, se detuvo a las 15:43:31 ante la señal intermedia B5192 en indicación de parada, al estar el cantón ocupado por el 6725. La acumulación de arena provocó una pérdida de shuntado en el circuito de vía P2/2. A su vez, la bobina R3-R4 del relé RCVS P2/2, encargado de controlar la lógica de secuencia de paso de trenes, presentaba un fallo que impedía detectar la anomalía. La combinación de ambos fallos hizo que la señal B5192 pasara a vía libre durante unos segundos. El tren 6923 reanudó la marcha a las 15:44:00, pero al recuperar el shuntado la señal volvió a rojo y la baliza de pie de señal activó el ASFA a las 15:44:11. El tren frenó de urgencia y quedó detenido a las 15:44:16 en el PK 519+301, habiendo rebasado la señal 48 metros y quedando a 198 metros del tren 6725.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "519+295",
+    "linea": "770 RAM Santander – Oviedo",
+    "provincia": "Cantabria",
+    "descripcion_lugar": "Tramo entre Mogro (PK 516+702) y Bezana (PK 522+207), entre los apeaderos de Boo (PK 518+166) y Mortera (PK 520+655), municipio de Requejada. Señal intermedia B5192 situada en curva a la izquierda de radio ~300 m."
+   },
+   "pagina": 5,
+   "cita": "– Bezana (Cantabria) de la línea 770 RAM Santander – Oviedo, entre el tren de viajeros 6923, con",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura",
+    "afectacion_servicio": "No hubo interceptación de la vía. Retraso de 57 min en el tren 6725 y 50 min en el tren 6727. No hubo más circulaciones afectadas. Sucesión automática suspendida entre Mogro y Bezana desde el 13/09/2013 hasta el 17/09/2013."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista del tren 6923",
+     "implicacion": "matrícula 9285; detenido ante señal B5192, reinició marcha al pasar la señal a verde por fallo combinado; informó al CTC de Santander; habilitado, antigüedad 01/01/1995, último reciclaje 29/04/2011, último reconocimiento médico 25/03/2013"
+    },
+    {
+     "rol": "maquinista del tren 6725",
+     "implicacion": "matrícula 9511; circulaba con problemas eléctricos, 18 frenadas de emergencia con arenado excesivo; habilitado, antigüedad 25/01/2010, último reciclaje 11/07/2011, último reconocimiento médico 23/04/2013"
+    }
+   ],
+   "pagina": 11,
+   "cita": "El maquinista del tren 6923 informó al CTC de Santander.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "6725",
+     "tipo": "tren de cercanías (UT 3811-6861-6811, serie 3800)",
+     "operador": "Renfe Operadora",
+     "danos": "ninguno"
+    },
+    {
+     "numero": "6727",
+     "tipo": "tren de cercanías (UT 3808-6858-6808, serie 3800), fusionado en mando múltiple con el 6725",
+     "operador": "Renfe Operadora",
+     "danos": "ninguno"
+    },
+    {
+     "numero": "6923",
+     "tipo": "tren de cercanías (UT 3803, serie 3800)",
+     "operador": "Renfe Operadora",
+     "danos": "ninguno"
+    }
+   ],
+   "pagina": 5,
+   "cita": "origen Puente de San Miguel y con destino Santander y el tren 6725, con origen en Cabezón de la Sal",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Serie 3800 (UT 3811, UT 3808, UT 3803); composición CM-RI-RC; 3 vehículos, 12 ejes, 48 m, 100 t; tipo 80 (velocidad máxima 80 km/h)",
+    "averia": "Problemas eléctricos en UT 3811; 18 frenadas de emergencia; arenado excesivo (episodio de 32 s continuos); volúmenes eyectados en prueba superan la ETI CMS (400-500 g/30 s); corte de arenado solo a <3 km/h",
+    "mantenimiento": "No se tiene constancia de mantenimiento preventivo de los relés de secuencia; últimas intervenciones (28/09/2012 y 03/08/2013) fueron correctivas; fabricante Alstom recomienda verificación cada 10 años (no realizada desde modificaciones de 1998)"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 8,
+   "cita": "de Infraestructuras Ferroviarias (Adif), a las 13:20 horas del 13 de septiembre de 2013, a través de",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal intermedia B5192 alta de tres focos con baliza previa y de pie de señal; sistema ASFA; bloqueo automático (BAD) con sucesión automática de trenes; relé de secuencia RCVS P2/2 con bobinas de stick magnético Alstom",
+    "tipo_via": "vía doble electrificada con balasto silíceo, traviesas de hormigón, sujeciones elásticas, carril de 54 kg/ml en barra larga soldada",
+    "velocidad_maxima": "80 km/h",
+    "ancho": "métrico (RAM)",
+    "electrificacion": "sí",
+    "estado_via": "normal; curva a la izquierda de radio ~300 m en la señal B5192; 104 circulaciones medias diarias",
+    "otro": "CTC en Santander; radiotelefonía modalidad C; sistema de control de secuencia de paso por circuitos de vía (ocupación anterior → ocupación posterior → liberación anterior)"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal intermedia B5192 alta de tres focos con baliza previa y de pie de señal; sistema ASFA; bloqueo automático (BAD) con sucesión automática de trenes; relé de secuencia RCVS P2/2 con bobinas de stick magnético Alstom",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad C.",
+   "pagina": 11,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura",
+    "afectacion_servicio": "No hubo interceptación de la vía. Retraso de 57 min en el tren 6725 y 50 min en el tren 6727. No hubo más circulaciones afectadas. Sucesión automática suspendida entre Mogro y Bezana desde el 13/09/2013 hasta el 17/09/2013."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura",
+    "afectacion_servicio": "No hubo interceptación de la vía. Retraso de 57 min en el tren 6725 y 50 min en el tren 6727. No hubo más circulaciones afectadas. Sucesión automática suspendida entre Mogro y Bezana desde el 13/09/2013 hasta el 17/09/2013."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura",
+    "afectacion_servicio": "No hubo interceptación de la vía. Retraso de 57 min en el tren 6725 y 50 min en el tren 6727. No hubo más circulaciones afectadas. Sucesión automática suspendida entre Mogro y Bezana desde el 13/09/2013 hasta el 17/09/2013."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 3800 (UT 3811, UT 3808, UT 3803); composición CM-RI-RC; 3 vehículos, 12 ejes, 48 m, 100 t; tipo 80 (velocidad máxima 80 km/h)",
+    "averia": "Problemas eléctricos en UT 3811; 18 frenadas de emergencia; arenado excesivo (episodio de 32 s continuos); volúmenes eyectados en prueba superan la ETI CMS (400-500 g/30 s); corte de arenado solo a <3 km/h",
+    "mantenimiento": "No se tiene constancia de mantenimiento preventivo de los relés de secuencia; últimas intervenciones (28/09/2012 y 03/08/2013) fueron correctivas; fabricante Alstom recomienda verificación cada 10 años (no realizada desde modificaciones de 1998)"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal intermedia B5192 alta de tres focos con baliza previa y de pie de señal; sistema ASFA; bloqueo automático (BAD) con sucesión automática de trenes; relé de secuencia RCVS P2/2 con bobinas de stick magnético Alstom",
+    "tipo_via": "vía doble electrificada con balasto silíceo, traviesas de hormigón, sujeciones elásticas, carril de 54 kg/ml en barra larga soldada",
+    "velocidad_maxima": "80 km/h",
+    "ancho": "métrico (RAM)",
+    "electrificacion": "sí",
+    "estado_via": "normal; curva a la izquierda de radio ~300 m en la señal B5192; 104 circulaciones medias diarias",
+    "otro": "CTC en Santander; radiotelefonía modalidad C; sistema de control de secuencia de paso por circuitos de vía (ocupación anterior → ocupación posterior → liberación anterior)"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "No existían condiciones meteorológicas adversas en el momento del suceso",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Cantabria",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 5,
+   "cita": "– Bezana (Cantabria) de la línea 770 RAM Santander – Oviedo, entre el tren de viajeros 6923, con",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "No existían condiciones meteorológicas adversas en el momento del suceso",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal intermedia B5192 alta de tres focos con baliza previa y de pie de señal; sistema ASFA; bloqueo automático (BAD) con sucesión automática de trenes; relé de secuencia RCVS P2/2 con bobinas de stick magnético Alstom",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal intermedia B5192 alta de tres focos con baliza previa y de pie de señal; sistema ASFA; bloqueo automático (BAD) con sucesión automática de trenes; relé de secuencia RCVS P2/2 con bobinas de stick magnético Alstom",
+    "tipo_via": "vía doble electrificada con balasto silíceo, traviesas de hormigón, sujeciones elásticas, carril de 54 kg/ml en barra larga soldada",
+    "velocidad_maxima": "80 km/h",
+    "ancho": "métrico (RAM)",
+    "electrificacion": "sí",
+    "estado_via": "normal; curva a la izquierda de radio ~300 m en la señal B5192; 104 circulaciones medias diarias",
+    "otro": "CTC en Santander; radiotelefonía modalidad C; sistema de control de secuencia de paso por circuitos de vía (ocupación anterior → ocupación posterior → liberación anterior)"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad C.",
+   "pagina": 11,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 3800 (UT 3811, UT 3808, UT 3803); composición CM-RI-RC; 3 vehículos, 12 ejes, 48 m, 100 t; tipo 80 (velocidad máxima 80 km/h)",
+    "averia": "Problemas eléctricos en UT 3811; 18 frenadas de emergencia; arenado excesivo (episodio de 32 s continuos); volúmenes eyectados en prueba superan la ETI CMS (400-500 g/30 s); corte de arenado solo a <3 km/h",
+    "mantenimiento": "No se tiene constancia de mantenimiento preventivo de los relés de secuencia; últimas intervenciones (28/09/2012 y 03/08/2013) fueron correctivas; fabricante Alstom recomienda verificación cada 10 años (no realizada desde modificaciones de 1998)"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Problemas eléctricos tren 6725",
+    "Múltiples frenadas de emergencia",
+    "Exceso de arenado en carriles",
+    "Fallo relé secuencia circuitos vía"
+   ],
+   "pagina": 5,
+   "cita": "que circulaban en cabeza continúan dando problemas ocasionando múltiples frenadas de emergencia.",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 6725 se encuentra habilitado para la conducción de vehículos ferroviarios en \nvirtud de la capacitación adquirida de conformidad con el estatuto propio y la normativa legal aplicable \na Feve. \nTiene una antigüedad en el cargo de fecha 25.01.2010. \nRealizó su último reciclaje formativo el 11.07.2011 y su último reconocimiento médico y psicotécnico el \n23.04.2013, conforme a la normativa vigente. \nEl maquinista del tren 6923 se encuentra habilitado para la conducción de vehículos ferroviarios en \nvirtud de la capacitación adquirida de conformidad con el estatuto propio y la normativa legal aplicable \na Feve. \nTiene una antigüedad en el cargo de fecha 01.01.1995. \nRealizó su último reciclaje formativo el 29.04.2011 y su último reconocimiento médico y psicotécnico el \n25.03.2013, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 12,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren 6725 (UT 3811) de Renfe Operadora, con origen Puente de San Miguel y destino Santander, circulaba con problemas eléctricos y quedó detenido en la estación de Requejada, donde se decidió fusionarlo en mando múltiple con el tren 6727 (UT 3808). Los problemas persistieron: la UT 3811 no superaba 20 km/h y se produjeron dieciocho frenadas de emergencia que activaron repetidamente los sistemas de arenado de ambos trenes, eyectando un volumen excesivo de arena sobre los carriles. El tren 6923 (UT 3803), que circulaba a continuación, se detuvo a las 15:43:31 ante la señal intermedia B5192 en indicación de parada, al estar el cantón ocupado por el 6725. La acumulación de arena provocó una pérdida de shuntado en el circuito de vía P2/2. A su vez, la bobina R3-R4 del relé RCVS P2/2, encargado de controlar la lógica de secuencia de paso de trenes, presentaba un fallo que impedía detectar la anomalía. La combinación de ambos fallos hizo que la señal B5192 pasara a vía libre durante unos segundos. El tren 6923 reanudó la marcha a las 15:44:00, pero al recuperar el shuntado la señal volvió a rojo y la baliza de pie de señal activó el ASFA a las 15:44:11. El tren frenó de urgencia y quedó detenido a las 15:44:16 en el PK 519+301, habiendo rebasado la señal 48 metros y quedando a 198 metros del tren 6725.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo combinado: pérdida de shuntado por exceso de arenado en carriles + funcionamiento anómalo del relé RCVS P2/2 (bobina R3-R4) que impidió detectar la secuencia anómala, provocando la apertura indebida de la señal B5192 a vía libre con el cantón ocupado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Problemas eléctricos de la UT 3811 que impidieron superar 20 km/h",
+    "Dieciocho frenadas de emergencia consecutivas del tren 6725",
+    "Activación repetida y excesiva del sistema de arenado de ambos trenes acoplados (episodio de 32 s)",
+    "Volumen de arena eyectado superior a la especificación técnica ETI CMS",
+    "Corte de arenado solo por debajo de 3 km/h, insuficiente para marcha lenta",
+    "Curva de radio ~300 m en la ubicación de la señal"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Determinar dentro de la RAM los lugares en los que haya instalados equipos similares a los descritos en este informe, con el propósito de analizar su estado de funcionamiento estudiando la posibilidad de actuaciones de mejora.",
+    "Incluir en los planes de mantenimiento de las instalaciones actuaciones encaminadas a revisar y verificar el funcionamiento de los sistemas de relés de características similares a los descritos en este informe. La revisión y verificación deberá realizarse con la periodicidad y consistencia indicada en las especificaciones técnicas del fabricante.",
+    "Analizar la posibilidad de reducir los caudales del arenado de las unidades 3800 adecuándolas a las recomendaciones existentes.",
+    "Determinar dentro de la RAM los lugares en los que haya instalados equipos similares a los descritos en este informe, con el propósito de analizar su estado de funcionamiento estudiando la posibilidad de actuaciones de mejora.",
+    "Incluir en los planes de mantenimiento de las instalaciones actuaciones encaminadas a revisar y verificar el funcionamiento de los sistemas de relés de características similares a los descritos en este informe. La revisión y verificación deberá realizarse con la periodicidad y consistencia indicada en las especificaciones técnicas del fabricante.",
+    "Analizar la posibilidad de reducir los caudales del arenado de las unidades 3800 adecuándolas a las recomendaciones existentes."
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif",
+    "Renfe Integria",
+    "Adif",
+    "Adif",
+    "Renfe Integria"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "15:41:29",
+     "evento": "El tren 6923 inicia la marcha en el apeadero de Boo"
+    },
+    {
+     "hora": "15:42:53",
+     "evento": "El tren 6923 pasa por la baliza previa de la señal B5192 a 44 km/h"
+    },
+    {
+     "hora": "15:43:31",
+     "evento": "El tren 6923 se detiene ante la señal B5192 en indicación de parada (rojo)"
+    },
+    {
+     "hora": "15:44:00",
+     "evento": "Pérdida de shuntado + fallo de relé: la señal B5192 pasa a vía libre; el tren 6923 reanuda la marcha"
+    },
+    {
+     "hora": "15:44:11",
+     "evento": "Se recupera el shuntado, la señal vuelve a rojo; el tren 6923 pasa por la baliza de pie de señal a 13 km/h y el ASFA activa el freno de urgencia"
+    },
+    {
+     "hora": "15:44:16",
+     "evento": "El tren 6923 queda detenido en PK 519+301, 48 m tras la señal, a 198 m del tren 6725"
+    },
+    {
+     "hora": "13:20",
+     "evento": "El 13/09/2013, el jefe de investigación de accidentes de Adif comunica el suceso a la CIAF"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0060/2013",
+ "expediente": "0060/13",
+ "anio": 2013,
+ "titulo": "Conato de colisión entre trenes en plena vía entre Boo y Mortera (Cantabria)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 05.09.2013 IF_050913_270115_CIAF.md"
+}

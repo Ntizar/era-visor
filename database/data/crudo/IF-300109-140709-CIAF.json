@@ -1,0 +1,873 @@
+{
+ "id": "IF-300109-140709-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/C721502D-8523-46C9-AB02-AE2527DC502F/53040/300109140709CIAF.pdf",
+ "pdf": "pdfs/ES/IF-300109-140709-CIAF.pdf",
+ "md5_pdf": "30f35c21a05c0060400fc4452d20f659",
+ "paginas_md": 11,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 6,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0007/2009",
+   "pagina": 1,
+   "cita": "nº 0007/2009 ocurrido el 30.01.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 30 de enero de 2009, a las 19:58, el tren de viajeros 8604 de Feve arrolló a una persona en el paso a nivel tipo C de la estación de Sodupe. Las barreras estaban bajadas y las señales acústicas y luminosas funcionaban correctamente. La víctima, un joven de 18 años, falleció y no se produjeron daños materiales en tren, infraestructura ni medio ambiente. El suceso afectó a 10 trenes de corta distancia y 2 de media distancia, con 480 minutos de retraso acumulado y 78 minutos de interrupción. Dadas las circunstancias, no se establecieron recomendaciones.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-01-30",
+    "hora": "19:58",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Sodupe",
+     "pk": "631,562",
+     "linea": "24 Santander - Bilbao",
+     "provincia": "Vizcaya",
+     "descripcion_lugar": "Paso a nivel nº 0168, tipo C, en el P.K. 631,562 de la estación de Sodupe, casco urbano, tramo recto y buena visibilidad, cruzado por la carretera foral BI-504 de Sodupe a Gordejuela."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 30 de enero de 2009, a las 19:58 horas, el tren de viajeros 8604, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Afectados 10 trenes de corta distancia y 2 de media distancia, con 480 minutos de retraso total acumulado; circulación interrumpida 78 minutos en dos periodos: 19:57-20:49 y 22:15-22:40."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "La víctima cruzó el paso a nivel sorteando las barreras bajadas en el momento en que el tren 8604 circulaba por él.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima hizo caso omiso de la barrera, de las señales del paso y de las señales del tren.",
+    "La víctima intentó cruzar antes de que el tren 8604 sobrepasara el paso a nivel."
+   ],
+   "pagina": 10,
+   "cita": "Según la declaración del maquinista, la víctima intentó cruzar antes de que el tren 8604",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "El paso a nivel se encuentra en el casco urbano de Sodupe, es muy transitado y los peatones cruzan aún cuando el paso está protegido."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nDadas las circunstancias en que se produjo el suceso, no se establecen \nrecomendaciones. Además, está prevista la licitación de un estudio \npara aumentar la capacidad en el tramo Aranguren – Zaramillo que \npodría implicar la supresión del paso a nivel. \n \n \n \n \n \n \n \n \nMadrid, 14 de julio de 2009.",
+   "pagina": 11,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación Dadas las circunstancias en que se produjo el suceso, no se establecen recomendaciones. Además, está prevista la licitación de un estudio para aumentar la",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "Feve, arrolla a una persona que cruzaba por un paso a nivel tipo C, situado en la estación de Sodupe,",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-01-30",
+   "pagina": 3,
+   "cita": "El día 30 de enero de 2009, a las 19:58 horas, el tren de viajeros 8604, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "19:58",
+   "pagina": 3,
+   "cita": "El día 30 de enero de 2009, a las 19:58 horas, el tren de viajeros 8604, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Sodupe",
+    "pk": "631,562",
+    "linea": "24 Santander - Bilbao",
+    "provincia": "Vizcaya",
+    "descripcion_lugar": "Paso a nivel nº 0168, tipo C, en el P.K. 631,562 de la estación de Sodupe, casco urbano, tramo recto y buena visibilidad, cruzado por la carretera foral BI-504 de Sodupe a Gordejuela."
+   },
+   "pagina": 3,
+   "cita": "Feve, arrolla a una persona que cruzaba por un paso a nivel tipo C, situado en la estación de Sodupe,",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "24 Santander - Bilbao",
+   "pagina": 3,
+   "cita": "24 Santander - Bilbao",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Unidades de tren diésel eléctricas 2459-2409 y 2474-2424 (UTDE 2459/09-2474/24).",
+    "averia": "No se producen daños; los equipos de seguridad del tren funcionaron correctamente; al accionar el freno de servicio el tren circulaba a 36,5 km/h y golpeó a unos 30 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros 8604 de Feve, procedente de Aranguren y con trayecto Aranguren-Bilbao, circulaba por la línea 24 Santander-Bilbao al paso por la estación de Sodupe. A las 19:58 horas del 30 de enero de 2009, arrolló a una persona que cruzaba el paso a nivel tipo C, P.K. 631,562, cuando las barreras estaban bajadas y las señales acústicas y luminosas en funcionamiento.\n\nSegún la declaración del maquinista, poco antes de llegar al paso a nivel hizo uso del silbato y observó a una persona que cruzaba corriendo la vía de derecha a izquierda, con intención de hacerlo antes de la llegada del tren. Volvió a hacer uso del silbato y accionó el freno, pero no pudo evitar el golpe con la parte delantera de la unidad 2459, que circulaba a una velocidad aproximada de 30 km/h.\n\nEl paso a nivel nº 0168, denominado Sodupe, estaba dotado de semibarreras enclavadas, señales acústicas y luminosas y zona peatonal, con pavimento de asfalto. El tren estaba compuesto por las unidades diésel-eléctricas 2459-2409 y 2474-2424. Como consecuencia del suceso falleció un joven de 18 años y no se produjeron daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Sodupe",
+    "pk": "631,562",
+    "linea": "24 Santander - Bilbao",
+    "provincia": "Vizcaya",
+    "descripcion_lugar": "Paso a nivel nº 0168, tipo C, en el P.K. 631,562 de la estación de Sodupe, casco urbano, tramo recto y buena visibilidad, cruzado por la carretera foral BI-504 de Sodupe a Gordejuela."
+   },
+   "pagina": 3,
+   "cita": "Feve, arrolla a una persona que cruzaba por un paso a nivel tipo C, situado en la estación de Sodupe,",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Afectados 10 trenes de corta distancia y 2 de media distancia, con 480 minutos de retraso total acumulado; circulación interrumpida 78 minutos en dos periodos: 19:57-20:49 y 22:15-22:40."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 8604",
+     "implicacion": "Carné ferroviario nº 8659; habilitado para la conducción; reciclaje formativo el 28/05/08 y reconocimiento médico y psicotécnico el 01/11/08; jornada efectiva de conducción el día 30 de 2 horas y 57 minutos; hizo uso del silbato y accionó el freno, siendo su actuación correcta."
+    }
+   ],
+   "pagina": 7,
+   "cita": "De la toma de declaración realizada al maquinista del tren 8604, se transcribe lo siguiente:",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "8604",
+     "tipo": "tren de viajeros",
+     "operador": "Feve",
+     "danos": "No se producen daños en el material rodante."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 30 de enero de 2009, a las 19:58 horas, el tren de viajeros 8604, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Unidades de tren diésel eléctricas 2459-2409 y 2474-2424 (UTDE 2459/09-2474/24).",
+    "averia": "No se producen daños; los equipos de seguridad del tren funcionaron correctamente; al accionar el freno de servicio el tren circulaba a 36,5 km/h y golpeó a unos 30 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Semibarreras enclavadas, señales acústicas y luminosas en funcionamiento; barreras bajadas durante 56 segundos antes de la llegada del tren; señales indicadoras del cierre del paso a nivel y de acceso a la estación en posición correcta.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Alineación recta y buena visibilidad; el paso a nivel funcionó conforme a la norma.",
+    "otro": "Bloqueo automático en vía única (BAU) y control de tráfico centralizado y mando local (CTC ML); radio analógica; paso a nivel nº 0168 Sodupe, clase C, pavimento de asfalto y zona peatonal; desfase horario de 14 minutos entre registrador/moviola y hora oficial; previsto estudio para aumentar capacidad en Aranguren-Zaramillo que podría implicar la supresión del paso a nivel."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Semibarreras enclavadas, señales acústicas y luminosas en funcionamiento; barreras bajadas durante 56 segundos antes de la llegada del tren; señales indicadoras del cierre del paso a nivel y de acceso a la estación en posición correcta.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Afectados 10 trenes de corta distancia y 2 de media distancia, con 480 minutos de retraso total acumulado; circulación interrumpida 78 minutos en dos periodos: 19:57-20:49 y 22:15-22:40."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Afectados 10 trenes de corta distancia y 2 de media distancia, con 480 minutos de retraso total acumulado; circulación interrumpida 78 minutos en dos periodos: 19:57-20:49 y 22:15-22:40."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Afectados 10 trenes de corta distancia y 2 de media distancia, con 480 minutos de retraso total acumulado; circulación interrumpida 78 minutos en dos periodos: 19:57-20:49 y 22:15-22:40."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Unidades de tren diésel eléctricas 2459-2409 y 2474-2424 (UTDE 2459/09-2474/24).",
+    "averia": "No se producen daños; los equipos de seguridad del tren funcionaron correctamente; al accionar el freno de servicio el tren circulaba a 36,5 km/h y golpeó a unos 30 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Semibarreras enclavadas, señales acústicas y luminosas en funcionamiento; barreras bajadas durante 56 segundos antes de la llegada del tren; señales indicadoras del cierre del paso a nivel y de acceso a la estación en posición correcta.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Alineación recta y buena visibilidad; el paso a nivel funcionó conforme a la norma.",
+    "otro": "Bloqueo automático en vía única (BAU) y control de tráfico centralizado y mando local (CTC ML); radio analógica; paso a nivel nº 0168 Sodupe, clase C, pavimento de asfalto y zona peatonal; desfase horario de 14 minutos entre registrador/moviola y hora oficial; previsto estudio para aumentar capacidad en Aranguren-Zaramillo que podría implicar la supresión del paso a nivel."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "En el momento del arrollamiento era de noche.",
+   "pagina": 7,
+   "cita": "En el momento del arrollamiento era de noche.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Vizcaya",
+    "municipio": null,
+    "estacion": "Sodupe"
+   },
+   "pagina": 3,
+   "cita": "Vizcaya El tren de viajeros 8604 de Feve, procedente de Aranguren, arrolla a un hombre que cruza el paso a nivel, situado en el P.K. 631,562 de la estación de Sodupe, cuando las barreras estaban bajadas y las señales",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "En el momento del arrollamiento era de noche.",
+   "pagina": 7,
+   "cita": "En el momento del arrollamiento era de noche.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Semibarreras enclavadas, señales acústicas y luminosas en funcionamiento; barreras bajadas durante 56 segundos antes de la llegada del tren; señales indicadoras del cierre del paso a nivel y de acceso a la estación en posición correcta.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Semibarreras enclavadas, señales acústicas y luminosas en funcionamiento; barreras bajadas durante 56 segundos antes de la llegada del tren; señales indicadoras del cierre del paso a nivel y de acceso a la estación en posición correcta.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Alineación recta y buena visibilidad; el paso a nivel funcionó conforme a la norma.",
+    "otro": "Bloqueo automático en vía única (BAU) y control de tráfico centralizado y mando local (CTC ML); radio analógica; paso a nivel nº 0168 Sodupe, clase C, pavimento de asfalto y zona peatonal; desfase horario de 14 minutos entre registrador/moviola y hora oficial; previsto estudio para aumentar capacidad en Aranguren-Zaramillo que podría implicar la supresión del paso a nivel."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Unidades de tren diésel eléctricas 2459-2409 y 2474-2424 (UTDE 2459/09-2474/24).",
+    "averia": "No se producen daños; los equipos de seguridad del tren funcionaron correctamente; al accionar el freno de servicio el tren circulaba a 36,5 km/h y golpeó a unos 30 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Peatón cruza con barreras bajadas",
+    "Intento de cruzar antes del tren"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros 8604 de Feve, procedente de Aranguren y con trayecto Aranguren-Bilbao, circulaba por la línea 24 Santander-Bilbao al paso por la estación de Sodupe. A las 19:58 horas del 30 de enero de 2009, arrolló a una persona que cruzaba el paso a nivel tipo C, P.K. 631,562, cuando las barreras estaban bajadas y las señales acústicas y luminosas en funcionamiento.\n\nSegún la declaración del maquinista, poco antes de llegar al paso a nivel hizo uso del silbato y observó a una persona que cruzaba corriendo la vía de derecha a izquierda, con intención de hacerlo antes de la llegada del tren. Volvió a hacer uso del silbato y accionó el freno, pero no pudo evitar el golpe con la parte delantera de la unidad 2459, que circulaba a una velocidad aproximada de 30 km/h.\n\nEl paso a nivel nº 0168, denominado Sodupe, estaba dotado de semibarreras enclavadas, señales acústicas y luminosas y zona peatonal, con pavimento de asfalto. El tren estaba compuesto por las unidades diésel-eléctricas 2459-2409 y 2474-2424. Como consecuencia del suceso falleció un joven de 18 años y no se produjeron daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en el paso a nivel nº 0168, tipo C, del P.K. 631,562 situado en la estación \nde Sodupe. \nDel análisis del registrador de seguridad del tren se desprende que el tren circulaba a una \nvelocidad inferior a su máxima permitida en el tramo. \nSegún lo declarado por el maquinista, antes de llegar al paso a nivel hizo uso del silbato y \nposteriormente, cuando se percató de la presencia de una persona cruzando el paso  hizo uso de \nnuevo del silbato y actuó sobre el freno de servicio, por lo que la actuación del maquinista fue \ncorrecta. \nLa jornada de trabajo del maquinista cumple con lo establecido en la Comisión Paritaria del XVII \nConvenio Colectivo de Feve, que señala el “Tiempo Máximo de conducción continuada en todos los \ncasos es de 6 horas con una interrupción de cuarenta y cinco minutos”, tal como establece el \nReglamento que desarrolla la Ley del Sector Ferroviario (RD 2387/2004 de 30 de diciembre). \nLos equipos de seguridad del tren y las instalaciones del paso a nivel funcionaron correctamente en \nel momento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nLa víctima, cruzó el paso a nivel cuando éste se encontraba con sus sistemas de protección \nactivados. \nSegún la declaración del maquinista, la víctima intentó cruzar antes de que el tren 8604 \nsobrepasara el paso a nivel. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como el informe particular de Feve, el técnico responsable de la investigación concluye que: \nEl accidente tuvo su origen cuando la víctima cruza el paso a nivel, sorteando las barreras bajadas, \nen el momento en que el tren 8604 circulaba por él. \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0007/2009 ocurrido el 30.01.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-300109-140709-CIAF \n \n \nPág. 11 de 11",
+   "pagina": 10,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "La víctima cruzó el paso a nivel sorteando las barreras bajadas en el momento en que el tren 8604 circulaba por él.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima hizo caso omiso de la barrera, de las señales del paso y de las señales del tren.",
+    "La víctima intentó cruzar antes de que el tren 8604 sobrepasara el paso a nivel."
+   ],
+   "pagina": 10,
+   "cita": "Según la declaración del maquinista, la víctima intentó cruzar antes de que el tren 8604",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nDadas las circunstancias en que se produjo el suceso, no se establecen \nrecomendaciones. Además, está prevista la licitación de un estudio \npara aumentar la capacidad en el tramo Aranguren – Zaramillo que \npodría implicar la supresión del paso a nivel. \n \n \n \n \n \n \n \n \nMadrid, 14 de julio de 2009.",
+   "pagina": 11,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación Dadas las circunstancias en que se produjo el suceso, no se establecen recomendaciones. Además, está prevista la licitación de un estudio para aumentar la",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "19:57",
+     "evento": "Inicio de la interrupción de la circulación."
+    },
+    {
+     "hora": "19:58",
+     "evento": "El tren de viajeros 8604 de Feve arrolla a una persona en el paso a nivel tipo C de la estación de Sodupe."
+    },
+    {
+     "hora": "20:49",
+     "evento": "Fin de la primera interrupción de la circulación."
+    },
+    {
+     "hora": "22:15",
+     "evento": "Inicio de la segunda interrupción de la circulación."
+    },
+    {
+     "hora": "22:40",
+     "evento": "La autoridad judicial autoriza el levantamiento del cadáver y finaliza la segunda interrupción."
+    },
+    {
+     "hora": "23:00",
+     "evento": "El Inspector General de Feve comunica a la CIAF el arrollamiento de una persona por el tren 8604."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0007/2009",
+ "expediente": "0007/09",
+ "anio": 2009,
+ "titulo": "Arrollamiento de una persona por el tren 8604 de Feve en el paso a nivel de la estación de Sodupe",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-300109-140709-CIAF.md"
+}

@@ -1,0 +1,945 @@
+{
+ "id": "ID_120507_140907",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID_120507_140907.pdf",
+ "pdf": "pdfs/ES/ID_120507_140907.pdf",
+ "md5_pdf": "8adea9334b02241f6968a7e4bc372f02",
+ "paginas_md": 7,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 19,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "030/2007",
+   "pagina": 1,
+   "cita": "nº 030/2007 ocurrido el 12.05.2007",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2007-05-12, a las 21:55, el tren de larga distancia 77 arrolló a una persona externa en el pk 508+180 de la línea 160 Santander-Palencia, cerca del antiguo apeadero de Camargo, Cantabria. La víctima cruzaba por un paso vicioso no habilitado e invadió el gálibo del tren, resultando fallecida. El accidente fue calificado como grave. No se produjeron daños materiales. La investigación atribuyó el accidente a imprudencia de la víctima y recomendó ejecutar cerramientos e intensificar la vigilancia y sensibilización.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-05-12",
+    "hora": "21:55",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "antiguo apeadero de Camargo",
+     "pk": "508+180",
+     "linea": "160 Santander-Palencia",
+     "provincia": "Cantabria",
+     "descripcion_lugar": "Plena vía, entre los apeaderos de Maliaño y Murieras-Bahía; trayecto Boo-Muriedas; p.k. 508+180, principio del antiguo apeadero de Camargo; curva de radio 1735; paso vicioso con acceso a ambos lados de la vía al núcleo urbano; bloqueo automático de vía única con C.T.C."
+    }
+   },
+   "pagina": 2,
+   "cita": "Ferroviarias, comunicó el pasado 12 de mayo de 2007, que se había producido el",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños.",
+    "afectacion_servicio": "Tren de viajeros 77: 50 minutos de retraso; tren de viajeros 26964 (cercanías): 23 minutos de retraso; tren de viajeros 26962 (cercanías): 5 minutos de retraso; tren de viajeros 26967 (cercanías): 7 minutos de retraso; tren de mercancías VB627: 94 minutos de retraso; tren de media distancia 8105: 15 minutos de retraso."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Imprudencia de la víctima por cruzar la vía por lugar no autorizado e invadir el gálibo del tren 77.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Existencia de un paso vicioso por el que transitaba la víctima, con acceso a ambos lados de la vía al núcleo urbano.",
+    "Los márgenes de la vía en la zona del arrollamiento estaban incluidos en un proyecto de cerramiento urbano aprobado y licitado, pero no ejecutado."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Ejecutar los cerramientos previstos en el paso vicioso a la mayor brevedad posible.",
+     "destinatario": null
+    },
+    {
+     "texto": "Intensificar la vigilancia de estos pasos viciosos y sensibilizar a la población de los riesgos de cruzar las vías por lugares no autorizados.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 6,
+   "cita": "Ejecutar los cerramientos previstos en el paso vicioso a la mayor brevedad posible.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Ejecutar los cerramientos previstos en el paso vicioso a la mayor brevedad posible.",
+     "destinatario": null
+    },
+    {
+     "texto": "Intensificar la vigilancia de estos pasos viciosos y sensibilizar a la población de los riesgos de cruzar las vías por lugares no autorizados.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 6,
+   "cita": "Ejecutar los cerramientos previstos en el paso vicioso a la mayor brevedad posible.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento de una persona",
+   "pagina": 2,
+   "cita": "arrollamiento de una persona resultando muerta en el kilómetro 508+180 de la línea 160 de",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "RENFE Operadora"
+   ],
+   "pagina": 2,
+   "cita": "Santander, perteneciente a la Red Ferroviaria de Interés General administrada por ADIF.",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-05-12",
+   "pagina": 2,
+   "cita": "Ferroviarias, comunicó el pasado 12 de mayo de 2007, que se había producido el",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "21:55",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:hora"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "antiguo apeadero de Camargo",
+    "pk": "508+180",
+    "linea": "160 Santander-Palencia",
+    "provincia": "Cantabria",
+    "descripcion_lugar": "Plena vía, entre los apeaderos de Maliaño y Murieras-Bahía; trayecto Boo-Muriedas; p.k. 508+180, principio del antiguo apeadero de Camargo; curva de radio 1735; paso vicioso con acceso a ambos lados de la vía al núcleo urbano; bloqueo automático de vía única con C.T.C."
+   },
+   "pagina": 2,
+   "cita": "Santander a Palencia, en las cercanías del antiguo apeadero de Camargo provincia de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 160 Santander-Palencia",
+   "pagina": 2,
+   "cita": "Línea: Punto kilométrico 508+180 de la Línea 160 Santander-Palencia.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 269604; 9 vehículos; masa remolcada 135 t",
+    "averia": "No se producen daños.",
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "No se producen daños.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de larga distancia 77, compuesto por la locomotora 269604 y 9 vehículos, con masa remolcada de 135 t, circulaba por la línea 160 Santander-Palencia en plena vía, entre los apeaderos de Maliaño y Murieras-Bahía, trayecto Boo-Muriedas. En el p.k. 508+180, principio del antiguo apeadero de Camargo, el tren arrolló a una persona externa a la actividad ferroviaria que cruzaba la vía por un paso no habilitado para ello. Como consecuencia del arrollamiento resultó fallecida una persona.",
+   "pagina": 3,
+   "cita": "concordante con el informe particular de RENFE, los hechos fueron los siguientes:",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "antiguo apeadero de Camargo",
+    "pk": "508+180",
+    "linea": "160 Santander-Palencia",
+    "provincia": "Cantabria",
+    "descripcion_lugar": "Plena vía, entre los apeaderos de Maliaño y Murieras-Bahía; trayecto Boo-Muriedas; p.k. 508+180, principio del antiguo apeadero de Camargo; curva de radio 1735; paso vicioso con acceso a ambos lados de la vía al núcleo urbano; bloqueo automático de vía única con C.T.C."
+   },
+   "pagina": 2,
+   "cita": "Santander a Palencia, en las cercanías del antiguo apeadero de Camargo provincia de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños.",
+    "afectacion_servicio": "Tren de viajeros 77: 50 minutos de retraso; tren de viajeros 26964 (cercanías): 23 minutos de retraso; tren de viajeros 26962 (cercanías): 5 minutos de retraso; tren de viajeros 26967 (cercanías): 7 minutos de retraso; tren de mercancías VB627: 94 minutos de retraso; tren de media distancia 8105: 15 minutos de retraso."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "El maquinista del tren 77 informó del suceso al Puesto de Mando de Santander, que cursó \naviso a Seguridad Corporativa y Protección Civil del ADIF, Gerencia Territorial de Seguridad en \nla circulación Norte del ADIF, Gerencia Territorial de Seguridad en la Circulación Norte de \nRENFE OPERADORA, Operador de Larga Distancia, Jefatura Técnica de Operaciones de \nSantander y medios Sanitarios. \n Avisada la Gerencia Territorial de Seguridad en la Circulación Norte de ADIF, se desplazó \nun agente de la misma al lugar del arrollamiento para proceder al reconocimiento y toma de \ndatos. \nSe realizó la prueba de alcoholemia al maquinista, con resultado negativo. \nLa Guardia Civil se personó en el lugar de los hechos, procediendo a analizar el lugar del \narrollamiento. \nLos Medios Sanitarios se personan en el lugar de los hechos para reconocer a la víctima, \nsiendo levantado el cadáver a las 23.50 h.",
+   "pagina": 4,
+   "cita": "3.4 MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista del tren 77",
+     "implicacion": "Llevaba una jornada de 07:15 horas, de las cuales 04:09 horas fueron de conducción. La prueba de alcoholemia fue negativa. Se encontraba en condiciones aptas para el desarrollo de su función y su actuación fue correcta. Informó del suceso al Puesto de Mando de Santander."
+    },
+    {
+     "rol": "persona externa a la actividad ferroviaria (víctima)",
+     "implicacion": "Cruzaba la vía por un paso no habilitado, invadiendo el gálibo del tren 77. Resultó fallecida."
+    },
+    {
+     "rol": "agente de la Gerencia Territorial de Seguridad en la Circulación Norte de ADIF",
+     "implicacion": "Se desplazó al lugar del arrollamiento para proceder al reconocimiento y toma de datos."
+    },
+    {
+     "rol": "Guardia Civil",
+     "implicacion": "Se personó en el lugar de los hechos y procedió a analizar el lugar del arrollamiento."
+    },
+    {
+     "rol": "Medios Sanitarios",
+     "implicacion": "Se personaron en el lugar de los hechos para reconocer a la víctima; el cadáver fue levantado a las 23:50 h."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El maquinista del tren 77, con D.N.I. 97366781 L",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "77",
+     "tipo": "tren de larga distancia",
+     "operador": "RENFE Operadora",
+     "danos": "No se producen daños."
+    },
+    {
+     "numero": "26964",
+     "tipo": "tren de viajeros (cercanías)",
+     "operador": null,
+     "danos": null
+    },
+    {
+     "numero": "26962",
+     "tipo": "tren de viajeros (cercanías)",
+     "operador": null,
+     "danos": null
+    },
+    {
+     "numero": "26967",
+     "tipo": "tren de viajeros (cercanías)",
+     "operador": null,
+     "danos": null
+    },
+    {
+     "numero": "VB627",
+     "tipo": "tren de mercancías",
+     "operador": null,
+     "danos": null
+    },
+    {
+     "numero": "8105",
+     "tipo": "tren de media distancia",
+     "operador": null,
+     "danos": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "El tren de larga distancia 77 compuesto por la locomotora 269604 y 9 vehículos, con masa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 269604; 9 vehículos; masa remolcada 135 t",
+    "averia": "No se producen daños.",
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "No se producen daños.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático de vía única (BAU) con C.T.C.",
+    "tipo_via": "vía única",
+    "velocidad_maxima": "155 km/h; limitación permanente de 140 km/h para trenes con tracción eléctrica por catenaria sin compensar",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Curva de radio 1735; paso vicioso; márgenes de la vía incluidos en un proyecto de cerramiento urbano aprobado y licitado.",
+    "otro": "Paso vicioso por el que transitaba la víctima, con acceso a ambos lados de la vía al núcleo urbano."
+   },
+   "pagina": 3,
+   "cita": "Tipo de bloqueo: Bloqueo Automático de vía única (BAU) con C.T.C",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo Automático de vía única (BAU) con C.T.C.",
+   "pagina": 3,
+   "cita": "Tipo de bloqueo: Bloqueo Automático de vía única (BAU) con C.T.C",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños.",
+    "afectacion_servicio": "Tren de viajeros 77: 50 minutos de retraso; tren de viajeros 26964 (cercanías): 23 minutos de retraso; tren de viajeros 26962 (cercanías): 5 minutos de retraso; tren de viajeros 26967 (cercanías): 7 minutos de retraso; tren de mercancías VB627: 94 minutos de retraso; tren de media distancia 8105: 15 minutos de retraso."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños.",
+    "afectacion_servicio": "Tren de viajeros 77: 50 minutos de retraso; tren de viajeros 26964 (cercanías): 23 minutos de retraso; tren de viajeros 26962 (cercanías): 5 minutos de retraso; tren de viajeros 26967 (cercanías): 7 minutos de retraso; tren de mercancías VB627: 94 minutos de retraso; tren de media distancia 8105: 15 minutos de retraso."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños.",
+    "afectacion_servicio": "Tren de viajeros 77: 50 minutos de retraso; tren de viajeros 26964 (cercanías): 23 minutos de retraso; tren de viajeros 26962 (cercanías): 5 minutos de retraso; tren de viajeros 26967 (cercanías): 7 minutos de retraso; tren de mercancías VB627: 94 minutos de retraso; tren de media distancia 8105: 15 minutos de retraso."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 269604; 9 vehículos; masa remolcada 135 t",
+    "averia": "No se producen daños.",
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "No se producen daños.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático de vía única (BAU) con C.T.C.",
+    "tipo_via": "vía única",
+    "velocidad_maxima": "155 km/h; limitación permanente de 140 km/h para trenes con tracción eléctrica por catenaria sin compensar",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Curva de radio 1735; paso vicioso; márgenes de la vía incluidos en un proyecto de cerramiento urbano aprobado y licitado.",
+    "otro": "Paso vicioso por el que transitaba la víctima, con acceso a ambos lados de la vía al núcleo urbano."
+   },
+   "pagina": 3,
+   "cita": "Tipo de bloqueo: Bloqueo Automático de vía única (BAU) con C.T.C",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "De noche, tiempo despejado y visibilidad buena.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Cantabria",
+    "municipio": null,
+    "estacion": "antiguo apeadero de Camargo"
+   },
+   "pagina": 3,
+   "cita": "Provincia: Cantabria.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "De noche, tiempo despejado y visibilidad buena.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo Automático de vía única (BAU) con C.T.C.",
+   "pagina": 3,
+   "cita": "Tipo de bloqueo: Bloqueo Automático de vía única (BAU) con C.T.C",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático de vía única (BAU) con C.T.C.",
+    "tipo_via": "vía única",
+    "velocidad_maxima": "155 km/h; limitación permanente de 140 km/h para trenes con tracción eléctrica por catenaria sin compensar",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Curva de radio 1735; paso vicioso; márgenes de la vía incluidos en un proyecto de cerramiento urbano aprobado y licitado.",
+    "otro": "Paso vicioso por el que transitaba la víctima, con acceso a ambos lados de la vía al núcleo urbano."
+   },
+   "pagina": 3,
+   "cita": "Tipo de bloqueo: Bloqueo Automático de vía única (BAU) con C.T.C",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 269604; 9 vehículos; masa remolcada 135 t",
+    "averia": "No se producen daños.",
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "No se producen daños.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "cruce por paso no habilitado",
+    "ausencia de cerramiento en zona",
+    "paso vicioso no autorizado",
+    "persona invade gálibo del tren"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras \nFerroviarias, comunicó el pasado 12 de mayo de 2007, que se había producido el \narrollamiento de una persona resultando muerta en el kilómetro 508+180 de la línea 160 de \nSantander a Palencia, en las cercanías del antiguo apeadero de Camargo provincia de \nSantander, perteneciente a la Red Ferroviaria de Interés General administrada por ADIF.  \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles. Investigación \nque tendrá como finalidad determinar sus causas y formular recomendaciones para reducir los \nriesgos en el transporte ferroviario de acuerdo con el artículo 112 del citado Reglamento. \nReglamento que traspone parcialmente la Directiva 2004/49/CE del Parlamento Europeo de 29 \nde abril de 2004 sobre la seguridad de los ferrocarriles comunitarios, que en su  Artículo 19 \ncircunscribe la investigación a la mejora de la seguridad, y en ningún caso a la determinación \nde culpas o responsabilidades. \nDe conformidad con el artículo 112 del mencionado Reglamento, el 01 de mayo de 2007,  \nla Dirección General de Ferrocarriles designó los Técnicos responsables de la investigación de \naccidentes ferroviarios para el periodo comprendido entre el 01.05.07 al 30.06.07 compuesto \npor las siguientes personas para este accidente: \n \nTécnico responsable de la investigación del accidente: un funcionario adscrito a la \nDirección General de Ferrocarriles, que suscribe este informe. \n \nResponsable de seguridad de ADIF en la zona de Norte: entregó su informe particular del \naccidente el 20.06.2007. \n \nResponsable de seguridad de RENFE: entregó su informe particular del accidente el \n19.07.2007. \nLa empresa pública INECO S.A. en el marco del convenio de colaboración suscrito con la \nDirección General de Ferrocarriles el 26.09.2005 ha realizado trabajos de apoyo en la \ninvestigación de este accidente al Técnico responsable de la misma.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias, comunicó el pasado 12 de mayo de 2007, que se había producido el arrollamiento de una persona resultando mu",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de larga distancia 77, compuesto por la locomotora 269604 y 9 vehículos, con masa remolcada de 135 t, circulaba por la línea 160 Santander-Palencia en plena vía, entre los apeaderos de Maliaño y Murieras-Bahía, trayecto Boo-Muriedas. En el p.k. 508+180, principio del antiguo apeadero de Camargo, el tren arrolló a una persona externa a la actividad ferroviaria que cruzaba la vía por un paso no habilitado para ello. Como consecuencia del arrollamiento resultó fallecida una persona.",
+   "pagina": 3,
+   "cita": "concordante con el informe particular de RENFE, los hechos fueron los siguientes:",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "DE LA INFRAESTRUCTURA Y POR EL LA EMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl ADIF concluye “El motivo del accidente fue debido a la imprudencia de la persona arrollada \nque se encontraba cruzando la vía férrea por un paso habilitado para el efecto” \n Renfe Operadora, “Imprudencia de la víctima al intentar pasar la vía cuando pasaba el Tren \nde Larga Distancia 77”.  \nPor tanto, ambas conclusiones son coincidentes en cuanto a la causa del accidente.",
+   "pagina": 6,
+   "cita": "5.  ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Imprudencia de la víctima por cruzar la vía por lugar no autorizado e invadir el gálibo del tren 77.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Existencia de un paso vicioso por el que transitaba la víctima, con acceso a ambos lados de la vía al núcleo urbano.",
+    "Los márgenes de la vía en la zona del arrollamiento estaban incluidos en un proyecto de cerramiento urbano aprobado y licitado, pero no ejecutado."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Se estima que el accidente tuvo su origen en la imprudencia de la víctima por cruzar la vía \npor lugar no autorizado para ello, e invadiendo el gálibo del tren 77.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES Se estima que el accidente tuvo su origen en la imprudencia de la víctima por cruzar la vía por lugar no autorizado para ello, e invadiendo el gálibo del tren 77. 7. RECOMENDACIONES Como actuación de",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Se estima que el accidente tuvo su origen en la imprudencia de la víctima por cruzar la vía \npor lugar no autorizado para ello, e invadiendo el gálibo del tren 77.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES Se estima que el accidente tuvo su origen en la imprudencia de la víctima por cruzar la vía por lugar no autorizado para ello, e invadiendo el gálibo del tren 77. 7. RECOMENDACIONES Como actuación de",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "El maquinista del tren 77 informó del suceso al Puesto de Mando de Santander, que cursó \naviso a Seguridad Corporativa y Protección Civil del ADIF, Gerencia Territorial de Seguridad en \nla circulación Norte del ADIF, Gerencia Territorial de Seguridad en la Circulación Norte de \nRENFE OPERADORA, Operador de Larga Distancia, Jefatura Técnica de Operaciones de \nSantander y medios Sanitarios. \n Avisada la Gerencia Territorial de Seguridad en la Circulación Norte de ADIF, se desplazó \nun agente de la misma al lugar del arrollamiento para proceder al reconocimiento y toma de \ndatos. \nSe realizó la prueba de alcoholemia al maquinista, con resultado negativo. \nLa Guardia Civil se personó en el lugar de los hechos, procediendo a analizar el lugar del \narrollamiento. \nLos Medios Sanitarios se personan en el lugar de los hechos para reconocer a la víctima, \nsiendo levantado el cadáver a las 23.50 h.",
+   "pagina": 4,
+   "cita": "3.4 MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "El maquinista del tren 77 informó del suceso al Puesto de Mando de Santander, que cursó \naviso a Seguridad Corporativa y Protección Civil del ADIF, Gerencia Territorial de Seguridad en \nla circulación Norte del ADIF, Gerencia Territorial de Seguridad en la Circulación Norte de \nRENFE OPERADORA, Operador de Larga Distancia, Jefatura Técnica de Operaciones de \nSantander y medios Sanitarios. \n Avisada la Gerencia Territorial de Seguridad en la Circulación Norte de ADIF, se desplazó \nun agente de la misma al lugar del arrollamiento para proceder al reconocimiento y toma de \ndatos. \nSe realizó la prueba de alcoholemia al maquinista, con resultado negativo. \nLa Guardia Civil se personó en el lugar de los hechos, procediendo a analizar el lugar del \narrollamiento. \nLos Medios Sanitarios se personan en el lugar de los hechos para reconocer a la víctima, \nsiendo levantado el cadáver a las 23.50 h.",
+   "pagina": 4,
+   "cita": "3.4 MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "El maquinista del tren 77 informó del suceso al Puesto de Mando de Santander, que cursó \naviso a Seguridad Corporativa y Protección Civil del ADIF, Gerencia Territorial de Seguridad en \nla circulación Norte del ADIF, Gerencia Territorial de Seguridad en la Circulación Norte de \nRENFE OPERADORA, Operador de Larga Distancia, Jefatura Técnica de Operaciones de \nSantander y medios Sanitarios. \n Avisada la Gerencia Territorial de Seguridad en la Circulación Norte de ADIF, se desplazó \nun agente de la misma al lugar del arrollamiento para proceder al reconocimiento y toma de \ndatos. \nSe realizó la prueba de alcoholemia al maquinista, con resultado negativo. \nLa Guardia Civil se personó en el lugar de los hechos, procediendo a analizar el lugar del \narrollamiento. \nLos Medios Sanitarios se personan en el lugar de los hechos para reconocer a la víctima, \nsiendo levantado el cadáver a las 23.50 h.",
+   "pagina": 4,
+   "cita": "3.4 MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Ejecutar los cerramientos previstos en el paso vicioso a la mayor brevedad posible.",
+     "destinatario": null
+    },
+    {
+     "texto": "Intensificar la vigilancia de estos pasos viciosos y sensibilizar a la población de los riesgos de cruzar las vías por lugares no autorizados.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 6,
+   "cita": "Ejecutar los cerramientos previstos en el paso vicioso a la mayor brevedad posible.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "21:55",
+     "evento": "Arrollamiento de una persona por el tren de larga distancia 77 en el p.k. 508+180 de la línea 160 Santander-Palencia."
+    },
+    {
+     "hora": null,
+     "evento": "2007-05-12: El maquinista del tren 77 informa del suceso al Puesto de Mando de Santander, que cursa avisos a Seguridad Corporativa y Protección Civil de ADIF, Gerencia Territorial de Seguridad en la Circulación Norte de ADIF, Gerencia Territorial de Seguridad en la Circulación Norte de RENFE Operadora, Operador de Larga Distancia, Jefatura Técnica de Operaciones de Santander y medios sanitarios."
+    },
+    {
+     "hora": null,
+     "evento": "2007-05-12: Se desplaza un agente de la Gerencia Territorial de Seguridad en la Circulación Norte de ADIF para reconocimiento y toma de datos; la Guardia Civil se persona y analiza el lugar; se realiza prueba de alcoholemia negativa al maquinista."
+    },
+    {
+     "hora": "23:50",
+     "evento": "Levantamiento del cadáver tras el reconocimiento de la víctima por los medios sanitarios."
+    },
+    {
+     "hora": null,
+     "evento": "2007-06-20: El responsable de seguridad de ADIF en la zona de Norte entrega su informe particular del accidente."
+    },
+    {
+     "hora": null,
+     "evento": "2007-07-19: El responsable de seguridad de RENFE entrega su informe particular del accidente."
+    },
+    {
+     "hora": null,
+     "evento": "2007-09-14: Se emite el informe definitivo de la investigación."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0030/2007",
+ "expediente": "030/2007",
+ "anio": 2007,
+ "titulo": "Arrollamiento de una persona por tren en paso vicioso cerca del apeadero de Camargo, Cantabria",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID_120507_140907.md"
+}

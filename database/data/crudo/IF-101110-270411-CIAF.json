@@ -1,0 +1,948 @@
+{
+ "id": "IF-101110-270411-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/5A5E4911-4D17-4B62-8B50-8CF3E7547210/103115/00622011.pdf",
+ "pdf": "pdfs/ES/IF-101110-270411-CIAF.pdf",
+ "md5_pdf": "e28791f31eb46dae23a9a10ef51d23ad",
+ "paginas_md": 12,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 19,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "62/10-1",
+     "Recomendación": "Que en las inspecciones periódicas de la infraestructura se haga hincapié en el estado de las sujeciones."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "62/10-2",
+     "Recomendación": "Insistir en la necesidad de un periódico y adecuado mantenimiento de todos los elementos de la infraestructura."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 12,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "62/10-1",
+     "Recomendación": "Que en las inspecciones periódicas de la infraestructura se haga hincapié en el estado de las sujeciones."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "62/10-2",
+     "Recomendación": "Insistir en la necesidad de un periódico y adecuado mantenimiento de todos los elementos de la infraestructura."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0062/2010",
+   "pagina": 1,
+   "cita": "nº 0062/2010 ocurrido el 10.11.2010",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 10 de noviembre de 2010 a las 18:20 horas, la locomotora del tren de mercancías 81729 de Renfe Operadora descarriló 5 ejes al paso por el cruzamiento del cambio 9 en la estación Betanzos-Infesta (A Coruña), P.K. 524+416 de la línea 800. El tren transportaba parte de su carga con mercancías peligrosas (etanol). El accidente se originó por el deficiente estado de la sujeción del carril de unión del desvío 9, lo que provocó la apertura de la vía al paso de la locomotora. No hubo víctimas mortales ni heridos, aunque se produjeron daños en la infraestructura y una interceptación total de la vía durante 4 horas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2010-11-10",
+    "hora": "18:20",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Betanzos-Infesta",
+     "pk": "524+416",
+     "linea": "800 A Coruña - León",
+     "provincia": "A Coruña",
+     "descripcion_lugar": "Estación Betanzos-Infesta, a la altura del cruzamiento del cambio 9, tramo Guitiriz – Betanzos-Infesta. Desvío 9 instalado en curva a la derecha, lado León."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 10 de noviembre de 2010, a las 18:20 horas se produce el descarrilamiento de cinco ejes de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en infraestructura: varias traviesas y elementos de sujeción rotos, algunos tramos de carril. Sin daños en material rodante ni en la carga (mercancías peligrosas: etanol 33/1170).",
+    "afectacion_servicio": "Interceptación total de la vía general (lado Oza dos Ríos) de 18:20 a 22:23 (4h 3min). Vía 5 interceptada hasta las 01:00. Retrasos: tren implicado 179 min; dos trenes de larga distancia 44 min; un tren de media distancia 30 min. Activación del plan de contingencias interno desde el puesto de mando de Ourense. Personación de Guardia Civil y bomberos de Betanzos por mercancías peligrosas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo técnico en las instalaciones de la vía: el deficiente estado de la sujeción del carril de unión del desvío 9 provocó la apertura de la vía al paso de la locomotora y la posterior caída de los primeros ejes.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Traviesas defectuosas y tirafondos sueltos en el desvío 9",
+    "Sobreanchos fuera de tolerancia (30-60 mm) no detectados en inspecciones previas",
+    "Dos vigilancias a pie realizadas en los cinco meses anteriores (08/06/2010 y 24/09/2010) sin detectar defectos ni anormalidades",
+    "Inspección de infraestructura 45 días antes del accidente sin detectar anomalías"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Deficiencias en el mantenimiento periódico de la infraestructura",
+    "Ineficacia de las inspecciones periódicas para detectar el deterioro progresivo de las sujeciones del desvío",
+    "Periodicidad de seis meses para vigilancias de vía insuficiente para detectar deterioros en elementos críticos como desvíos"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Que en las inspecciones periódicas de la infraestructura se haga hincapié en el estado de las sujeciones.",
+    "Insistir en la necesidad de un periódico y adecuado mantenimiento de todos los elementos de la infraestructura.",
+    "Que en las inspecciones periódicas de la infraestructura se haga hincapié en el estado de las sujeciones.",
+    "Insistir en la necesidad de un periódico y adecuado mantenimiento de todos los elementos de la infraestructura."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif",
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Descarrilamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "peligrosas), de la empresa ferroviaria Renfe Operadora, en el P.K. 524+416 de la línea 800 A Coruña -",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2010-11-10",
+   "pagina": 3,
+   "cita": "El día 10 de noviembre de 2010, a las 18:20 horas se produce el descarrilamiento de cinco ejes de la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "18:20",
+   "pagina": 3,
+   "cita": "El día 10 de noviembre de 2010, a las 18:20 horas se produce el descarrilamiento de cinco ejes de la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Betanzos-Infesta",
+    "pk": "524+416",
+    "linea": "800 A Coruña - León",
+    "provincia": "A Coruña",
+    "descripcion_lugar": "Estación Betanzos-Infesta, a la altura del cruzamiento del cambio 9, tramo Guitiriz – Betanzos-Infesta. Desvío 9 instalado en curva a la derecha, lado León."
+   },
+   "pagina": 7,
+   "cita": "los operadores, estaciones y viajeros afectados.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "800 A Coruña - León",
+   "pagina": 3,
+   "cita": "800 A Coruña - León Tramo: Guitiriz – Betanzos-Infesta Trayecto: Teixeiro - A Coruña Municipio: Betanzos Provincia: A Coruña ### Tablas de la página 3 | Destinatario final | Número | Recomendación | |",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 335008 (Nº UIC: 967193350089), 14 vehículos, 725 toneladas de masa remolcada",
+    "averia": "No se producen daños en el material rodante. Equipos de seguridad funcionaron correctamente. Parámetros de rodadura (altura y espesor de pestaña, factor Qr) dentro de tolerancia.",
+    "mantenimiento": "No se especifica estado de mantenimiento del material rodante; se indica que los equipos de seguridad funcionaron correctamente y los parámetros de rodadura eran correctos."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños en el material rodante ni en la carga transportada pero sí en la infraestructura:",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 10 de noviembre de 2010, a las 18:20 horas, el tren de mercancías 81729 de Renfe Operadora, con origen en Teixeiro y destino A Coruña, se aproxima a la estación Betanzos-Infesta. Una vez rebasada la señal de entrada E3, se le establece itinerario de entrada a vía 5. Al pasar por el cruzamiento del cambio 9, a la altura del P.K. 524+416 (lado León), la locomotora 335008 descarrila parcialmente de 5 ejes (1º, 2º, 3º, 5º y 6º) del lado derecho según el sentido de la marcha. El tren circulaba a 21 km/h cuando se produjo el descarrilamiento, dentro de la velocidad máxima permitida de 30 km/h para la marcha de maniobra tras el rebase autorizado de la señal interior E1.\n\nEl maquinista detectó un fuerte impacto y accionó el frenado de emergencia, recorriendo 28 metros hasta la detención total. Las ruedas derechas de los ejes implicados quedaron descarriladas en la parte interior de la vía. Como consecuencia se produjeron daños en la infraestructura: varias traviesas y elementos de sujeción rotos y algunos tramos de carril. No hubo daños en el material rodante ni en la carga transportada.\n\nEl desvío 9 presentaba un estado deficiente de sujeción y clavazón con traviesas defectuosas y tirafondos sueltos. Tras el descarrilamiento se comprobaron sobreanchos fuera de tolerancia (entre 30 y 60 mm en los 30 metros medidos), con valores de ancho de vía desde 1.699 hasta 1.730 mm. En los cinco meses anteriores se habían realizado dos vigilancias a pie sin detectar defectos.",
+   "pagina": 5,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Betanzos-Infesta",
+    "pk": "524+416",
+    "linea": "800 A Coruña - León",
+    "provincia": "A Coruña",
+    "descripcion_lugar": "Estación Betanzos-Infesta, a la altura del cruzamiento del cambio 9, tramo Guitiriz – Betanzos-Infesta. Desvío 9 instalado en curva a la derecha, lado León."
+   },
+   "pagina": 7,
+   "cita": "los operadores, estaciones y viajeros afectados.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en infraestructura: varias traviesas y elementos de sujeción rotos, algunos tramos de carril. Sin daños en material rodante ni en la carga (mercancías peligrosas: etanol 33/1170).",
+    "afectacion_servicio": "Interceptación total de la vía general (lado Oza dos Ríos) de 18:20 a 22:23 (4h 3min). Vía 5 interceptada hasta las 01:00. Retrasos: tren implicado 179 min; dos trenes de larga distancia 44 min; un tren de media distancia 30 min. Activación del plan de contingencias interno desde el puesto de mando de Ourense. Personación de Guardia Civil y bomberos de Betanzos por mercancías peligrosas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista",
+     "implicacion": "Condujo el tren 81729 (matrícula 8907354). Título B de conducción, habilitado conforme a Orden FOM/2520/2006. Último reciclaje formativo 03/02/2010, último reconocimiento médico y psicotécnico 21/10/2008. Prueba de alcoholemia a las 21:05 con resultado negativo (0,00 mg/1000 ml). Jornada del día 10: 2h10min (conducción efectiva 1h21min). Cumplió la normativa vigente."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "81729",
+     "tipo": "Tren de mercancías, tipo 100",
+     "operador": "Renfe Operadora",
+     "danos": "Sin daños en el material rodante ni en la carga transportada"
+    }
+   ],
+   "pagina": 3,
+   "cita": "locomotora que remolcaba el tren de mercancías 81729 (parte de su carga, compuesta por mercancías",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 335008 (Nº UIC: 967193350089), 14 vehículos, 725 toneladas de masa remolcada",
+    "averia": "No se producen daños en el material rodante. Equipos de seguridad funcionaron correctamente. Parámetros de rodadura (altura y espesor de pestaña, factor Qr) dentro de tolerancia.",
+    "mantenimiento": "No se especifica estado de mantenimiento del material rodante; se indica que los equipos de seguridad funcionaron correctamente y los parámetros de rodadura eran correctos."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños en el material rodante ni en la carga transportada pero sí en la infraestructura:",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E3, señal de entrada interior E1 con rebase autorizado (movimientos 6 y 13 de Consigna Serie A 2250). Control de velocidad L7.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "80 km/h en estación; 30 km/h tras rebase autorizado (marcha de maniobra)",
+    "ancho": "Convencional",
+    "electrificacion": "No electrificada",
+    "estado_via": "Deficiente sujeción del desvío 9: traviesas defectuosas y tirafondos sueltos. Sobreanchos fuera de tolerancia (30-60 mm) en 30 m medidos. Ancho de vía desde 1.699 hasta 1.730 mm tras el descarrilamiento.",
+    "otro": "Bloqueo de liberación automática (BLAU). CTC desde puesto de mando de Ourense. Desvío 9 tipo A recto, carril 45 kg/ml, traviesas de madera. Vigilancias de vía por sección de vía y obra de A Coruña (Gerencia de mantenimiento de Ourense, Adif) con periodicidad de seis meses."
+   },
+   "pagina": 7,
+   "cita": "Centro Permanente de Seguridad (CPS), la Delegación de Red Convencional y la Gerencia Territorial",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de entrada E3, señal de entrada interior E1 con rebase autorizado (movimientos 6 y 13 de Consigna Serie A 2250). Control de velocidad L7.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad A.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en infraestructura: varias traviesas y elementos de sujeción rotos, algunos tramos de carril. Sin daños en material rodante ni en la carga (mercancías peligrosas: etanol 33/1170).",
+    "afectacion_servicio": "Interceptación total de la vía general (lado Oza dos Ríos) de 18:20 a 22:23 (4h 3min). Vía 5 interceptada hasta las 01:00. Retrasos: tren implicado 179 min; dos trenes de larga distancia 44 min; un tren de media distancia 30 min. Activación del plan de contingencias interno desde el puesto de mando de Ourense. Personación de Guardia Civil y bomberos de Betanzos por mercancías peligrosas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en infraestructura: varias traviesas y elementos de sujeción rotos, algunos tramos de carril. Sin daños en material rodante ni en la carga (mercancías peligrosas: etanol 33/1170).",
+    "afectacion_servicio": "Interceptación total de la vía general (lado Oza dos Ríos) de 18:20 a 22:23 (4h 3min). Vía 5 interceptada hasta las 01:00. Retrasos: tren implicado 179 min; dos trenes de larga distancia 44 min; un tren de media distancia 30 min. Activación del plan de contingencias interno desde el puesto de mando de Ourense. Personación de Guardia Civil y bomberos de Betanzos por mercancías peligrosas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en infraestructura: varias traviesas y elementos de sujeción rotos, algunos tramos de carril. Sin daños en material rodante ni en la carga (mercancías peligrosas: etanol 33/1170).",
+    "afectacion_servicio": "Interceptación total de la vía general (lado Oza dos Ríos) de 18:20 a 22:23 (4h 3min). Vía 5 interceptada hasta las 01:00. Retrasos: tren implicado 179 min; dos trenes de larga distancia 44 min; un tren de media distancia 30 min. Activación del plan de contingencias interno desde el puesto de mando de Ourense. Personación de Guardia Civil y bomberos de Betanzos por mercancías peligrosas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 335008 (Nº UIC: 967193350089), 14 vehículos, 725 toneladas de masa remolcada",
+    "averia": "No se producen daños en el material rodante. Equipos de seguridad funcionaron correctamente. Parámetros de rodadura (altura y espesor de pestaña, factor Qr) dentro de tolerancia.",
+    "mantenimiento": "No se especifica estado de mantenimiento del material rodante; se indica que los equipos de seguridad funcionaron correctamente y los parámetros de rodadura eran correctos."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños en el material rodante ni en la carga transportada pero sí en la infraestructura:",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E3, señal de entrada interior E1 con rebase autorizado (movimientos 6 y 13 de Consigna Serie A 2250). Control de velocidad L7.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "80 km/h en estación; 30 km/h tras rebase autorizado (marcha de maniobra)",
+    "ancho": "Convencional",
+    "electrificacion": "No electrificada",
+    "estado_via": "Deficiente sujeción del desvío 9: traviesas defectuosas y tirafondos sueltos. Sobreanchos fuera de tolerancia (30-60 mm) en 30 m medidos. Ancho de vía desde 1.699 hasta 1.730 mm tras el descarrilamiento.",
+    "otro": "Bloqueo de liberación automática (BLAU). CTC desde puesto de mando de Ourense. Desvío 9 tipo A recto, carril 45 kg/ml, traviesas de madera. Vigilancias de vía por sección de vía y obra de A Coruña (Gerencia de mantenimiento de Ourense, Adif) con periodicidad de seis meses."
+   },
+   "pagina": 7,
+   "cita": "Centro Permanente de Seguridad (CPS), la Delegación de Red Convencional y la Gerencia Territorial",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Anocheciendo y lloviendo",
+   "pagina": 8,
+   "cita": "En el momento del suceso, estaba anocheciendo y lloviendo.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "A Coruña",
+    "municipio": null,
+    "estacion": "Betanzos-Infesta"
+   },
+   "pagina": 3,
+   "cita": "peligrosas), de la empresa ferroviaria Renfe Operadora, en el P.K. 524+416 de la línea 800 A Coruña -",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Anocheciendo y lloviendo",
+   "pagina": 8,
+   "cita": "En el momento del suceso, estaba anocheciendo y lloviendo.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de entrada E3, señal de entrada interior E1 con rebase autorizado (movimientos 6 y 13 de Consigna Serie A 2250). Control de velocidad L7.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E3, señal de entrada interior E1 con rebase autorizado (movimientos 6 y 13 de Consigna Serie A 2250). Control de velocidad L7.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "80 km/h en estación; 30 km/h tras rebase autorizado (marcha de maniobra)",
+    "ancho": "Convencional",
+    "electrificacion": "No electrificada",
+    "estado_via": "Deficiente sujeción del desvío 9: traviesas defectuosas y tirafondos sueltos. Sobreanchos fuera de tolerancia (30-60 mm) en 30 m medidos. Ancho de vía desde 1.699 hasta 1.730 mm tras el descarrilamiento.",
+    "otro": "Bloqueo de liberación automática (BLAU). CTC desde puesto de mando de Ourense. Desvío 9 tipo A recto, carril 45 kg/ml, traviesas de madera. Vigilancias de vía por sección de vía y obra de A Coruña (Gerencia de mantenimiento de Ourense, Adif) con periodicidad de seis meses."
+   },
+   "pagina": 7,
+   "cita": "Centro Permanente de Seguridad (CPS), la Delegación de Red Convencional y la Gerencia Territorial",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad A.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 335008 (Nº UIC: 967193350089), 14 vehículos, 725 toneladas de masa remolcada",
+    "averia": "No se producen daños en el material rodante. Equipos de seguridad funcionaron correctamente. Parámetros de rodadura (altura y espesor de pestaña, factor Qr) dentro de tolerancia.",
+    "mantenimiento": "No se especifica estado de mantenimiento del material rodante; se indica que los equipos de seguridad funcionaron correctamente y los parámetros de rodadura eran correctos."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños en el material rodante ni en la carga transportada pero sí en la infraestructura:",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Deficiente sujeción del desvío",
+    "Tirafondos sueltos en vía",
+    "Traviesas defectuosas sin reparar",
+    "Inspección no detectó defectos"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. \nRealizó su último reciclaje formativo el 03/02/10 y su último reconocimiento médico y psicotécnico el \n21/10/08, conforme a la normativa vigente.",
+   "pagina": 8,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 10 de noviembre de 2010, a las 18:20 horas, el tren de mercancías 81729 de Renfe Operadora, con origen en Teixeiro y destino A Coruña, se aproxima a la estación Betanzos-Infesta. Una vez rebasada la señal de entrada E3, se le establece itinerario de entrada a vía 5. Al pasar por el cruzamiento del cambio 9, a la altura del P.K. 524+416 (lado León), la locomotora 335008 descarrila parcialmente de 5 ejes (1º, 2º, 3º, 5º y 6º) del lado derecho según el sentido de la marcha. El tren circulaba a 21 km/h cuando se produjo el descarrilamiento, dentro de la velocidad máxima permitida de 30 km/h para la marcha de maniobra tras el rebase autorizado de la señal interior E1.\n\nEl maquinista detectó un fuerte impacto y accionó el frenado de emergencia, recorriendo 28 metros hasta la detención total. Las ruedas derechas de los ejes implicados quedaron descarriladas en la parte interior de la vía. Como consecuencia se produjeron daños en la infraestructura: varias traviesas y elementos de sujeción rotos y algunos tramos de carril. No hubo daños en el material rodante ni en la carga transportada.\n\nEl desvío 9 presentaba un estado deficiente de sujeción y clavazón con traviesas defectuosas y tirafondos sueltos. Tras el descarrilamiento se comprobaron sobreanchos fuera de tolerancia (entre 30 y 60 mm en los 30 metros medidos), con valores de ancho de vía desde 1.699 hasta 1.730 mm. En los cinco meses anteriores se habían realizado dos vigilancias a pie sin detectar defectos.",
+   "pagina": 5,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo técnico en las instalaciones de la vía: el deficiente estado de la sujeción del carril de unión del desvío 9 provocó la apertura de la vía al paso de la locomotora y la posterior caída de los primeros ejes.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Traviesas defectuosas y tirafondos sueltos en el desvío 9",
+    "Sobreanchos fuera de tolerancia (30-60 mm) no detectados en inspecciones previas",
+    "Dos vigilancias a pie realizadas en los cinco meses anteriores (08/06/2010 y 24/09/2010) sin detectar defectos ni anormalidades",
+    "Inspección de infraestructura 45 días antes del accidente sin detectar anomalías"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Que en las inspecciones periódicas de la infraestructura se haga hincapié en el estado de las sujeciones.",
+    "Insistir en la necesidad de un periódico y adecuado mantenimiento de todos los elementos de la infraestructura.",
+    "Que en las inspecciones periódicas de la infraestructura se haga hincapié en el estado de las sujeciones.",
+    "Insistir en la necesidad de un periódico y adecuado mantenimiento de todos los elementos de la infraestructura."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif",
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "18:19:00",
+     "evento": "El tren 81729 pasa por la baliza de pie de señal E3 (en anuncio de parada) a 17 km/h"
+    },
+    {
+     "hora": "18:19:31",
+     "evento": "Pasa por la baliza previa de la señal de entrada interior E1 (control de velocidad L7) a 27 km/h"
+    },
+    {
+     "hora": "18:20:22",
+     "evento": "Pasa por la baliza de pie de la señal E1 con indicación de rebase autorizado a 19 km/h"
+    },
+    {
+     "hora": "18:20:54",
+     "evento": "A 21 km/h, el maquinista aplica el freno de emergencia y recorre 28 metros hasta la detención total; descarrilamiento de 5 ejes del lado derecho de la locomotora"
+    },
+    {
+     "hora": "18:20",
+     "evento": "Hora oficial del descarrilamiento (P.K. 524+416)"
+    },
+    {
+     "hora": "22:23",
+     "evento": "Se levanta la interceptación total de la vía general, lado Oza dos Ríos"
+    },
+    {
+     "hora": "01:00",
+     "evento": "Se levanta la interceptación de la vía 5"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0062/2010",
+ "expediente": "0062/010",
+ "anio": 2010,
+ "titulo": "Descarrilamiento de locomotora en estación Betanzos-Infesta por fallo técnico en desvío",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-101110-270411-CIAF.md"
+}

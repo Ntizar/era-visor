@@ -1,0 +1,1365 @@
+{
+ "id": "ID_250407_171207",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID_250407_171207.pdf",
+ "pdf": "pdfs/ES/ID_250407_171207.pdf",
+ "md5_pdf": "79e25565560436b01162c951b32849ce",
+ "paginas_md": 23,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 56,
+ "n_tablas": 6,
+ "tablas": [
+  {
+   "pagina": 8,
+   "cabecera": [
+    "Hora CTC",
+    "Evento",
+    "Malla de trenes"
+   ],
+   "filas": [
+    {
+     "Hora CTC": "12:10",
+     "Evento": "Tren 39288 sale de Catoira dirección Pontecesures",
+     "Malla de trenes": "Retraso de 28 min."
+    },
+    {
+     "Hora CTC": "12:10",
+     "Evento": "Tren 39228 efectúa cruce con tren 2423 en la estación de Catoira.",
+     "Malla de trenes": ""
+    },
+    {
+     "Hora CTC": "12:17",
+     "Evento": "Tren 39228 efectúa su paso por la estación de Pontecesures.",
+     "Malla de trenes": "Retraso de 28min."
+    },
+    {
+     "Hora CTC": "12:56",
+     "Evento": "Tren 2425 efectúa su paso por la estación de Pontecesures.",
+     "Malla de trenes": ""
+    },
+    {
+     "Hora CTC": "12:59",
+     "Evento": "Tren 2425 establece su entrada en la estación de Catoira.",
+     "Malla de trenes": ""
+    },
+    {
+     "Hora CTC": "13:02",
+     "Evento": "Tren 2425 efectúa su salida de la estación de Catoira.",
+     "Malla de trenes": "Cruce de tren 2425 y tren 2424 en Catoira"
+    },
+    {
+     "Hora CTC": "13:02",
+     "Evento": "Tren 2424 efectúa su salida de la estación de Catoira.",
+     "Malla de trenes": "Detención en P.K. 66,722 por accidente."
+    }
+   ],
+   "cita": "| Hora CTC | Evento | Malla de trenes |"
+  },
+  {
+   "pagina": 9,
+   "cabecera": [
+    "Hora registro automotor",
+    "Evento",
+    "Veloc. de paso",
+    "Veloc. Máx."
+   ],
+   "filas": [
+    {
+     "Hora registro automotor": "13:02:32",
+     "Evento": "Utilización del silbato de la locomotora",
+     "Veloc. de paso": "",
+     "Veloc. Máx.": ""
+    },
+    {
+     "Hora registro automotor": "13:03:40 (*)",
+     "Evento": "Paso por el Pedal direccional A. (P.K. 64.548) (*)",
+     "Veloc. de paso": "124",
+     "Veloc. Máx.": "125"
+    },
+    {
+     "Hora registro automotor": "13:03:43",
+     "Evento": "Utilización del silbato de la locomotora.",
+     "Veloc. de paso": "",
+     "Veloc. Máx.": ""
+    },
+    {
+     "Hora registro automotor": "13:03:46",
+     "Evento": "Utilización del silbato de la locomotora.",
+     "Veloc. de paso": "",
+     "Veloc. Máx.": ""
+    },
+    {
+     "Hora registro automotor": "13:04:15",
+     "Evento": "Paso por la baliza Asfa situada en vía cuya indicación es L1.",
+     "Veloc. de paso": "122",
+     "Veloc. Máx.": "125"
+    },
+    {
+     "Hora registro automotor": "13:04:17",
+     "Evento": "Desaparece la indicación L1 del registro por reconocimiento",
+     "Veloc. de paso": "",
+     "Veloc. Máx.": ""
+    },
+    {
+     "Hora registro automotor": "13:04:44",
+     "Evento": "Se reduce la velocidad del tren",
+     "Veloc. de paso": "99",
+     "Veloc. Máx.": "125"
+    },
+    {
+     "Hora registro automotor": "13:04:46",
+     "Evento": "Aplicación del freno de emergencia.",
+     "Veloc. de paso": "99",
+     "Veloc. Máx.": "125"
+    },
+    {
+     "Hora registro automotor": "13:05:39",
+     "Evento": "Detención del tren.",
+     "Veloc. de paso": "0",
+     "Veloc. Máx.": "-"
+    }
+   ],
+   "cita": "| Hora registro automotor | Evento | Veloc. de paso | Veloc. Máx. |"
+  },
+  {
+   "pagina": 10,
+   "cabecera": [
+    "PN HORA OFICIAL",
+    "",
+    "",
+    "LUMINOSAS",
+    "BARRERA"
+   ],
+   "filas": [
+    {
+     "PN HORA OFICIAL": "12:13:41 12:05:50",
+     "LUMINOSAS": "APAGADA",
+     "BARRERA": "ABIERTA"
+    },
+    {
+     "PN HORA OFICIAL": "12:22:03 12:14:12",
+     "LUMINOSAS": "ENCENDIDA",
+     "BARRERA": "ABIERTA"
+    },
+    {
+     "PN HORA OFICIAL": "12:22:06 12:14:15",
+     "LUMINOSAS": "ENCENDIDA",
+     "BARRERA": "ABIERTA"
+    },
+    {
+     "PN HORA OFICIAL": "12:23:20 12:15:29",
+     "LUMINOSAS": "ENCENDIDA",
+     "BARRERA": "CERRADA"
+    },
+    {
+     "PN HORA OFICIAL": "12:23:22 12:15:31",
+     "LUMINOSAS": "ENCENDIDA",
+     "BARRERA": "CERRADA"
+    },
+    {
+     "PN HORA OFICIAL": "12:25:03 12:17:12",
+     "LUMINOSAS": "ENCENDIDA",
+     "BARRERA": "CERRADA"
+    },
+    {
+     "PN HORA OFICIAL": "12:32:02 12:24:11",
+     "LUMINOSAS": "ENCENDIDA",
+     "BARRERA": "CERRADA"
+    },
+    {
+     "PN HORA OFICIAL": "12:32:04 12:24:13",
+     "LUMINOSAS": "ENCENDIDA",
+     "BARRERA": "CERRADA"
+    },
+    {
+     "PN HORA OFICIAL": "12:32:06 12:24:15",
+     "LUMINOSAS": "ENCENDIDA",
+     "BARRERA": "SUBIENDO"
+    },
+    {
+     "PN HORA OFICIAL": "12:32:10 12:24:19",
+     "LUMINOSAS": "APAGADA",
+     "BARRERA": "ABIERTA"
+    },
+    {
+     "PN HORA OFICIAL": "13:01:58 12:54:07",
+     "LUMINOSAS": "ENCENDIDA",
+     "BARRERA": "ABIERTA"
+    },
+    {
+     "PN HORA OFICIAL": "13:02:00 12:54:09",
+     "LUMINOSAS": "ENCENDIDA",
+     "BARRERA": "ABIERTA"
+    },
+    {
+     "PN HORA OFICIAL": "13:02:08 12:54:17",
+     "LUMINOSAS": "ENCENDIDA",
+     "BARRERA": "CERRANDO"
+    },
+    {
+     "PN HORA OFICIAL": "13:02:16 12:54:25",
+     "LUMINOSAS": "ENCENDIDA",
+     "BARRERA": "CERRADA"
+    },
+    {
+     "PN HORA OFICIAL": "13:03:00 12:55:09",
+     "LUMINOSAS": "ENCENDIDA",
+     "BARRERA": "CERRADA"
+    },
+    {
+     "PN HORA OFICIAL": "13:03:03 12:55:12",
+     "LUMINOSAS": "ENCENDIDA",
+     "BARRERA": "CERRADA"
+    },
+    {
+     "PN HORA OFICIAL": "13:03:06 12:55:15",
+     "LUMINOSAS": "ENCENDIDA",
+     "BARRERA": "CERRADA"
+    },
+    {
+     "PN HORA OFICIAL": "13:05:00 12:57:09",
+     "LUMINOSAS": "ENCENDIDA",
+     "BARRERA": "CERRADA"
+    },
+    {
+     "PN HORA OFICIAL": "13:11:31",
+     "LUMINOSAS": "ENCENDIDA",
+     "BARRERA": "CERRADA"
+    }
+   ],
+   "cita": "| PN HORA OFICIAL |   |   | LUMINOSAS | BARRERA |"
+  },
+  {
+   "pagina": 11,
+   "cabecera": [
+    "13:03:40",
+    "",
+    "DESTELLOS",
+    "",
+    ""
+   ],
+   "filas": [
+    {
+     "13:03:40": "13:11:58 13:04:07",
+     "DESTELLOS": "ASPA AMARILLAA DESTELLOS"
+    },
+    {
+     "13:03:40": "13:12:00 13:04:09",
+     "DESTELLOS": "APAGADA."
+    },
+    {
+     "13:03:40": "13:12:02 13:04:11",
+     "DESTELLOS": "APAGADA."
+    },
+    {
+     "13:03:40": "13:12:05 13:04:14",
+     "DESTELLOS": "APAGADA."
+    },
+    {
+     "13:03:40": "13:12:06 13:04:15",
+     "DESTELLOS": "APAGADA."
+    },
+    {
+     "13:03:40": "13:12:35 13:04:44 ACCIDENTE",
+     "DESTELLOS": "ASPA AMARILLO."
+    }
+   ],
+   "cita": "| 13:03:40 |   | DESTELLOS |   |   |"
+  },
+  {
+   "pagina": 15,
+   "cabecera": [
+    "PARTE",
+    "DÍA",
+    "INCIDENTE",
+    "REPARACIÓN"
+   ],
+   "filas": [
+    {
+     "PARTE": "85714",
+     "DÍA": "30.01.07",
+     "INCIDENTE": "Señal del P.N. desprotegido.",
+     "REPARACIÓN": "Avería autonormalizada."
+    },
+    {
+     "PARTE": "86674",
+     "DÍA": "12.02.07",
+     "INCIDENTE": "P.N. averiado.",
+     "REPARACIÓN": "Pedal de rearme no funciona. Se regula la tarjeta AZM y se realizan pruebas."
+    },
+    {
+     "PARTE": "88812",
+     "DÍA": "11.03.07",
+     "INCIDENTE": "Señal y baliza del P.N. da desprotegido.",
+     "REPARACIÓN": "Avería autonormalizada. Reconocida la instalación no se observa ninguna anormalidad."
+    },
+    {
+     "PARTE": "90092",
+     "DÍA": "27.03.07",
+     "INCIDENTE": "Avería en P.N. Señal de P.N: da desprotegido.",
+     "REPARACIÓN": "Avería autonormalizada."
+    },
+    {
+     "PARTE": "91913",
+     "DÍA": "20.04.07",
+     "INCIDENTE": "Avería en P.N. Señal de P.N. da desprotegido.",
+     "REPARACIÓN": "Avería autonormalizada."
+    }
+   ],
+   "cita": "| PARTE | DÍA | INCIDENTE | REPARACIÓN |"
+  },
+  {
+   "pagina": 17,
+   "cabecera": [
+    "INDICACIÓN DE SEÑAL del P.N.",
+    "SITUACIÓN DEL P.N.",
+    "FRECUENCIA",
+    "OBSERVACIONES"
+   ],
+   "filas": [
+    {
+     "INDICACIÓN DE SEÑAL del P.N.": "Apagada",
+     "SITUACIÓN DEL P.N.": "Desprotegido",
+     "FRECUENCIA": "L1",
+     "OBSERVACIONES": "Ausencia de tensión en la señal"
+    },
+    {
+     "INDICACIÓN DE SEÑAL del P.N.": "Aspa amarillo destellante",
+     "SITUACIÓN DEL P.N.": "Desprotegido",
+     "FRECUENCIA": "L1",
+     "OBSERVACIONES": ""
+    },
+    {
+     "INDICACIÓN DE SEÑAL del P.N.": "Blanco fijo",
+     "SITUACIÓN DEL P.N.": "Protegido",
+     "FRECUENCIA": "L3",
+     "OBSERVACIONES": "Prueba realizada con circulación ordinaria"
+    }
+   ],
+   "cita": "| INDICACIÓN DE SEÑAL del P.N. | SITUACIÓN DEL P.N. | FRECUENCIA | OBSERVACIONES |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "025/2007",
+   "pagina": 1,
+   "cita": "nº 025/2007 ocurrido el 25.04.2007",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 25 de abril de 2007, el Tren de Media Distancia nº 2424 de Renfe-Operadora, en servicio Vigo-A Coruña, arrolló un Renault Laguna en el paso a nivel Clase C del pk 66/722 de la línea 824 Redondela-Santiago de Compostela, entre Catoira y Pontecesures (Pontevedra). El vehículo fue arrastrado 438 metros y sus tres ocupantes fallecieron. La investigación determinó que una avería intermitente del sistema de protección del paso a nivel provocó la apertura automática de las semibarreras por tiempo de cierre excesivo mientras el tren se aproximaba, y que el maquinista no cumplió la obligación reglamentaria de detenerse ante la señal apagada. Los daños materiales al material móvil ascendieron a 40.899,68 € y la vía estuvo interceptada 4 horas y 5 minutos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-04-25",
+    "hora": "13:05",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Entre Catoira y Pontecesures",
+     "pk": "66/722",
+     "linea": "824 Redondela-Santiago de Compostela",
+     "provincia": "Pontevedra",
+     "descripcion_lugar": "Paso a nivel Clase C no enclavado, protegido con semibarreras automáticas simples, situado en la intersección de la línea 824 con la carretera local que une los municipios de Valga y Campaña, dentro del municipio de Valga (Pontevedra, Galicia). Salida de curva de radio 728,630 m y pendiente de 3,2 milésimas. Visibilidad desde el acceso del vehículo prácticamente nula, cegada por la caseta de instalaciones."
+    }
+   },
+   "pagina": 21,
+   "cita": " En Inspección de Paso a Nivel realizada el 25/04/2007 por la Gerencia",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 3,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material móvil: 40.899,68 €. Vehículo Renault Laguna con graves desperfectos.",
+    "afectacion_servicio": "Vía interceptada durante 4 horas y 5 minutos (13:05 a 16:55). Tren 2424 autorizó restablecer marcha a las 16:55."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Falta de adecuación de la circulación del tren 2424 a las indicaciones de la señalización del paso a nivel: el maquinista no se puso en condiciones de parar ante el PN con señal apagada (PN sin protección), incumpliendo los artículos 220.3 y 221c del Reglamento General de Circulación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Avería intermitente en las instalaciones del paso a nivel que provocó la apertura automática de las semibarreras por tiempo de cierre excesivo (temporizador T2 de 7 min) mientras el tren 2424 se encontraba en aproximación, entre el pedal direccional A y la señal del PN.",
+    "El sistema de protección del PN no responde a los requisitos funcionales del Capítulo 8 del Manual de Circulación: permitió que, tras registrar la presencia del tren 2424 en el pedal direccional A, las semibarreras se levantaran antes de que el tren pasara por el PN.",
+    "La señal del PN, ante la avería existente, debió permanecer en la indicación más restrictiva (aspa amarilla a destellos = PN sin protección) y no pasar a apagada.",
+    "Visibilidad prácticamente nula desde el lugar de acceso del vehículo al paso a nivel, cegada por la caseta de instalaciones.",
+    "Señalización de carretera fija vertical y horizontal incompleta, no ajustada a la OM de 2 de agosto de 2001 (responsabilidad del Ayuntamiento de Valga).",
+    "El maquinista del tren 2425 no informó al PM ni al Jefe de Circulación de la observación de la señal del PN con flecha blanca a destellos (alarma), lo que podría haber permitido adoptar medidas previas.",
+    "El registro de eventos del tren no muestra aplicación del freno de emergencia tras el tiempo establecido para el reconocimiento del aviso ASFA."
+   ],
+   "pagina": 21,
+   "cita": " La señal del PN, ante la avería existente, debió permanecer en la indicación",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Las Especificaciones Técnicas del Paso a Nivel permiten que las semibarreras se encuentren levantadas aún con presencia de un tren en la proximidad del PN.",
+    "En condiciones degradadas, el nivel de seguridad del PN descansa en último término en la actuación del factor humano, sin redundancia suficiente.",
+    "El sistema ASFA analógico requiere del maquinista la constancia del reconocimiento de la señalización, sin supervisión automática de velocidad.",
+    "Repetición de incidencias de PN desprotegido autonormalizado en los meses previos sin resolución definitiva del problema de fondo."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Fomentar una campaña destinada al personal de conducción de reciclaje y formación sobre el Reglamento General de Circulación y del Manual de Circulación, recordando el riguroso cumplimiento de éste.",
+     "destinatario": "Renfe-Operadora (personal de conducción)"
+    },
+    {
+     "texto": "Recordar al personal de conducción la obligatoriedad de informar de cualquier fallo que observen en las instalaciones o en el funcionamiento del sistema.",
+     "destinatario": "Renfe-Operadora (personal de conducción)"
+    },
+    {
+     "texto": "Revisar y modificar la Descripción Técnica Semibarreras Automáticas (SBA) unificada de Renfe y, en consecuencia, adaptar el Manual de Circulación en su capítulo 8 'Protección de pasos a nivel' en cuanto a la interrelación del procedimiento de sucesión de trenes y del procedimiento de apertura automática por tiempo de cierre excesivo.",
+     "destinatario": "Adif / Renfe (instalaciones de pasos a nivel)"
+    },
+    {
+     "texto": "Revisar la fiabilidad de las instalaciones similares a la vista de las incidencias que se han registrado en los últimos meses en esta instalación, con el objeto de investigar si estas incidencias se repiten en otros puntos de la red ferroviaria.",
+     "destinatario": "Adif (instalaciones de pasos a nivel)"
+    },
+    {
+     "texto": "Una vez finalicen las pruebas de desarrollo y se valide el equipo ASFA Digital, que sea homologado por el órgano ferroviario competente, siendo de obligatoria instalación en el material nuevo e incorporado en el material existente en el menor plazo de tiempo posible.",
+     "destinatario": "Órgano ferroviario competente / fabricantes (sistemas de ayuda a la conducción)"
+    }
+   ],
+   "pagina": 22,
+   "cita": "1. Fomentar una campaña destinada al personal de conducción de reciclaje y",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Fomentar una campaña destinada al personal de conducción de reciclaje y formación sobre el Reglamento General de Circulación y del Manual de Circulación, recordando el riguroso cumplimiento de éste.",
+     "destinatario": "Renfe-Operadora (personal de conducción)"
+    },
+    {
+     "texto": "Recordar al personal de conducción la obligatoriedad de informar de cualquier fallo que observen en las instalaciones o en el funcionamiento del sistema.",
+     "destinatario": "Renfe-Operadora (personal de conducción)"
+    },
+    {
+     "texto": "Revisar y modificar la Descripción Técnica Semibarreras Automáticas (SBA) unificada de Renfe y, en consecuencia, adaptar el Manual de Circulación en su capítulo 8 'Protección de pasos a nivel' en cuanto a la interrelación del procedimiento de sucesión de trenes y del procedimiento de apertura automática por tiempo de cierre excesivo.",
+     "destinatario": "Adif / Renfe (instalaciones de pasos a nivel)"
+    },
+    {
+     "texto": "Revisar la fiabilidad de las instalaciones similares a la vista de las incidencias que se han registrado en los últimos meses en esta instalación, con el objeto de investigar si estas incidencias se repiten en otros puntos de la red ferroviaria.",
+     "destinatario": "Adif (instalaciones de pasos a nivel)"
+    },
+    {
+     "texto": "Una vez finalicen las pruebas de desarrollo y se valide el equipo ASFA Digital, que sea homologado por el órgano ferroviario competente, siendo de obligatoria instalación en el material nuevo e incorporado en el material existente en el menor plazo de tiempo posible.",
+     "destinatario": "Órgano ferroviario competente / fabricantes (sistemas de ayuda a la conducción)"
+    }
+   ],
+   "pagina": 22,
+   "cita": "1. Fomentar una campaña destinada al personal de conducción de reciclaje y",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": 14,
+   "cita": "-Arrollamiento de una semibarrera",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe-Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "de Media Distancia nº 2424 de la empresa ferroviaria Renfe-Operadora, que efectuaba",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-04-25",
+   "pagina": 21,
+   "cita": " En Inspección de Paso a Nivel realizada el 25/04/2007 por la Gerencia",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "13:05",
+   "pagina": 9,
+   "cita": "13:05:39 Detención del tren. 0 - (*) Estimación de cálculo contrastada con el registro de eventos del PP.NN. 7.2.3. Registro de eventos del paso a nivel Del análisis del registrador SERENA (Sistema de exp",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Entre Catoira y Pontecesures",
+    "pk": "66/722",
+    "linea": "824 Redondela-Santiago de Compostela",
+    "provincia": "Pontevedra",
+    "descripcion_lugar": "Paso a nivel Clase C no enclavado, protegido con semibarreras automáticas simples, situado en la intersección de la línea 824 con la carretera local que une los municipios de Valga y Campaña, dentro del municipio de Valga (Pontevedra, Galicia). Salida de curva de radio 728,630 m y pendiente de 3,2 milésimas. Visibilidad desde el acceso del vehículo prácticamente nula, cegada por la caseta de instalaciones."
+   },
+   "pagina": 2,
+   "cita": "matrícula PO-0108-BF, en el paso a nivel Clase C situado en el pk 66/722 de la línea",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "824 Redondela-Santiago de Compostela",
+   "pagina": 2,
+   "cita": "824 Redondela-Santiago de Compostela.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Automotor diésel 598.006-5 (referido también como 598.506-4 en verificaciones), más dos unidades adicionales; masa remolcada 159 t",
+    "averia": "Avería en el dispositivo de frenado automático Hombre Muerto, comunicada por el maquinista al Puesto de Mando. Equipo ASFA verificado correcto en taller de Vigo (26/04/2007) con balizas de prueba L1, L2, L3, L7 y L8.",
+    "mantenimiento": "Equipo ASFA del automotor verificado correctamente en taller de Vigo el 26/04/2007. Baliza ASFA a pie de señal del PN (pk 65,776) verificada el 25/04/2007: emite frecuencia concordante con indicación de señal."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "A las 13:05 del 25 de abril de 2007, el Tren de Media Distancia nº 2424 de Renfe-Operadora, con origen en Vigo y destino A Coruña San Cristóbal, integrado por la unidad automotor diésel 598.006-5 más dos unidades adicionales (masa remolcada 159 t), detuvo su marcha tras arrollar un vehículo Renault Laguna (matrícula PO-0108-BF) en el paso a nivel Clase C del pk 66/722 de la línea 824 Redondela-Santiago de Compostela, entre Catoira y Pontecesures. El automóvil fue arrastrado 438 metros desde el punto de arrollamiento, quedando bajo el carenado del tren. En el momento del accidente la visibilidad era buena y el cielo nublado. Los tres ocupantes del vehículo fallecieron; ningún viajero ni empleado del tren resultó herido.\n\nEl paso a nivel, protegido con semibarreras automáticas simples, había registrado durante la mañana la circulación de los trenes 32928 y 2425. Tras el paso del tren 2425, el sistema no ejecutó correctamente la orden de apertura en mando automático y, al transcurrir el temporizador T2 de 7 minutos, se activó la apertura automática por tiempo de cierre excesivo. El tren 2424 pisó el pedal direccional A a las 13:03:40, cuando las semibarreras aún estaban cerradas y la señal mostraba aspa amarilla a destellos. Sin embargo, a las 13:04:07 finalizó el temporizador T2, se ejecutó el rearme y las semibarreras se abrieron completamente a las 13:04:14, justo cuando el tren se encontraba entre el pedal y la señal del PN. La baliza ASFA transmitió la indicación L1 (señal apagada = PN sin protección) al tren, que el maquinista reconoció, pero no aplicó la parada obligatoria reglamentaria. El tren ocupó el circuito del PN a 97 km/h, momento en que se produjo el arrollamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Entre Catoira y Pontecesures",
+    "pk": "66/722",
+    "linea": "824 Redondela-Santiago de Compostela",
+    "provincia": "Pontevedra",
+    "descripcion_lugar": "Paso a nivel Clase C no enclavado, protegido con semibarreras automáticas simples, situado en la intersección de la línea 824 con la carretera local que une los municipios de Valga y Campaña, dentro del municipio de Valga (Pontevedra, Galicia). Salida de curva de radio 728,630 m y pendiente de 3,2 milésimas. Visibilidad desde el acceso del vehículo prácticamente nula, cegada por la caseta de instalaciones."
+   },
+   "pagina": 2,
+   "cita": "matrícula PO-0108-BF, en el paso a nivel Clase C situado en el pk 66/722 de la línea",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 3,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material móvil: 40.899,68 €. Vehículo Renault Laguna con graves desperfectos.",
+    "afectacion_servicio": "Vía interceptada durante 4 horas y 5 minutos (13:05 a 16:55). Tren 2424 autorizó restablecer marcha a las 16:55."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 2424 (matrícula 1877893)",
+     "implicacion": "No se puso en condiciones de parar ante el paso a nivel con señal apagada, incumpliendo arts. 220.3 y 221c del RGC. Declaró ver el PN protegido. Alcoholemia 0,00 mg/1000 ml. Jornada: tren 2417 Santiago-Vigo y tren 2424 Vigo-La Coruña; 24 h anteriores descanso; 48 h anteriores reserva."
+    },
+    {
+     "rol": "Interventor / Agente de acompañamiento del tren 2424 (matrícula 8895971)",
+     "implicacion": "Se encontraba en cabina al producirse la avería del Hombre Muerto. Jornada: tren 2515 La Coruña-Vigo y tren 2424 Vigo-La Coruña; 24 h anteriores tren 2019 y 2526; 48 h anteriores descanso."
+    },
+    {
+     "rol": "Supervisor de circulación del Puesto de Mando de Orense",
+     "implicacion": "Recibió aviso del accidente del maquinista y cursó aviso al Centro de Emergencias 112."
+    },
+    {
+     "rol": "Maquinista del tren 2425",
+     "implicacion": "Observó señal del PN con luz blanca a destellos (alarma) y no informó al PM ni al Jefe de Circulación de la primera estación de parada, como era preceptivo."
+    }
+   ],
+   "pagina": 5,
+   "cita": " Declaración del supervisor de circulación del Puesto de Mando de Orense (Anejo",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "2424",
+     "tipo": "Media Distancia",
+     "operador": "Renfe-Operadora",
+     "danos": "Daños en material móvil evaluados en 40.899,68 €"
+    },
+    {
+     "numero": "2425",
+     "tipo": null,
+     "operador": null,
+     "danos": null
+    },
+    {
+     "numero": "32928",
+     "tipo": null,
+     "operador": null,
+     "danos": null
+    }
+   ],
+   "pagina": 2,
+   "cita": "de Media Distancia nº 2424 de la empresa ferroviaria Renfe-Operadora, que efectuaba",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Automotor diésel 598.006-5 (referido también como 598.506-4 en verificaciones), más dos unidades adicionales; masa remolcada 159 t",
+    "averia": "Avería en el dispositivo de frenado automático Hombre Muerto, comunicada por el maquinista al Puesto de Mando. Equipo ASFA verificado correcto en taller de Vigo (26/04/2007) con balizas de prueba L1, L2, L3, L7 y L8.",
+    "mantenimiento": "Equipo ASFA del automotor verificado correctamente en taller de Vigo el 26/04/2007. Baliza ASFA a pie de señal del PN (pk 65,776) verificada el 25/04/2007: emite frecuencia concordante con indicación de señal."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel Clase C no enclavado con semibarreras automáticas simples. Balizamiento: pedal direccional A (pk 64,548), señal de protección PN (pk 65,776), semibarreras, señal de protección PN (pk 67,852), pedal direccional B (pk 68,566). Señalización luminosa: semáforo dos luces rojas alternativamente intermitentes; señal de PN con doble punta de flecha y aspa. Señalización a vía: cartelones de silbar. Señalización de carretera: incompleta, no conforme con art. 13 de la OM de 2 de agosto de 2001 (no dispone de marcas viales).",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "No se especifica el valor exacto; el tren circulaba a 122 km/h (inferior a la máxima prescrita) al pasar por la baliza ASFA y a 97 km/h en el momento del arrollamiento",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Firme del paso entarimado, con adecuado estado de mantenimiento. Bloqueo Automático de Vía Única (BAU) con CTC gobernado desde puesto de mando de Orense.",
+    "otro": "Temporizadores del PN: T1 = 3 min (medido 3 min 3 s), T2 = 7 min (medido 6 min 59 s). Registro de mantenimiento correctivo unificado del PN (01/01/2007-25/04/2007) muestra 5 incidencias: 30/01, 12/02 (pedal de rearme no funciona), 11/03, 27/03 y 20/04, todas calificadas como PN desprotegido con avería autonormalizada."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso a nivel Clase C no enclavado con semibarreras automáticas simples. Balizamiento: pedal direccional A (pk 64,548), señal de protección PN (pk 65,776), semibarreras, señal de protección PN (pk 67,852), pedal direccional B (pk 68,566). Señalización luminosa: semáforo dos luces rojas alternativamente intermitentes; señal de PN con doble punta de flecha y aspa. Señalización a vía: cartelones de silbar. Señalización de carretera: incompleta, no conforme con art. 13 de la OM de 2 de agosto de 2001 (no dispone de marcas viales).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 3,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material móvil: 40.899,68 €. Vehículo Renault Laguna con graves desperfectos.",
+    "afectacion_servicio": "Vía interceptada durante 4 horas y 5 minutos (13:05 a 16:55). Tren 2424 autorizó restablecer marcha a las 16:55."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 3,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material móvil: 40.899,68 €. Vehículo Renault Laguna con graves desperfectos.",
+    "afectacion_servicio": "Vía interceptada durante 4 horas y 5 minutos (13:05 a 16:55). Tren 2424 autorizó restablecer marcha a las 16:55."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 3,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material móvil: 40.899,68 €. Vehículo Renault Laguna con graves desperfectos.",
+    "afectacion_servicio": "Vía interceptada durante 4 horas y 5 minutos (13:05 a 16:55). Tren 2424 autorizó restablecer marcha a las 16:55."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor diésel 598.006-5 (referido también como 598.506-4 en verificaciones), más dos unidades adicionales; masa remolcada 159 t",
+    "averia": "Avería en el dispositivo de frenado automático Hombre Muerto, comunicada por el maquinista al Puesto de Mando. Equipo ASFA verificado correcto en taller de Vigo (26/04/2007) con balizas de prueba L1, L2, L3, L7 y L8.",
+    "mantenimiento": "Equipo ASFA del automotor verificado correctamente en taller de Vigo el 26/04/2007. Baliza ASFA a pie de señal del PN (pk 65,776) verificada el 25/04/2007: emite frecuencia concordante con indicación de señal."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel Clase C no enclavado con semibarreras automáticas simples. Balizamiento: pedal direccional A (pk 64,548), señal de protección PN (pk 65,776), semibarreras, señal de protección PN (pk 67,852), pedal direccional B (pk 68,566). Señalización luminosa: semáforo dos luces rojas alternativamente intermitentes; señal de PN con doble punta de flecha y aspa. Señalización a vía: cartelones de silbar. Señalización de carretera: incompleta, no conforme con art. 13 de la OM de 2 de agosto de 2001 (no dispone de marcas viales).",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "No se especifica el valor exacto; el tren circulaba a 122 km/h (inferior a la máxima prescrita) al pasar por la baliza ASFA y a 97 km/h en el momento del arrollamiento",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Firme del paso entarimado, con adecuado estado de mantenimiento. Bloqueo Automático de Vía Única (BAU) con CTC gobernado desde puesto de mando de Orense.",
+    "otro": "Temporizadores del PN: T1 = 3 min (medido 3 min 3 s), T2 = 7 min (medido 6 min 59 s). Registro de mantenimiento correctivo unificado del PN (01/01/2007-25/04/2007) muestra 5 incidencias: 30/01, 12/02 (pedal de rearme no funciona), 11/03, 27/03 y 20/04, todas calificadas como PN desprotegido con avería autonormalizada."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Cielo nublado con visibilidad buena",
+   "pagina": 2,
+   "cita": "En el momento del accidente la situación atmosférica era de cielo nublado con",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Pontevedra",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 2,
+   "cita": " Provincia: Pontevedra.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Cielo nublado con visibilidad buena",
+   "pagina": 2,
+   "cita": "En el momento del accidente la situación atmosférica era de cielo nublado con",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso a nivel Clase C no enclavado con semibarreras automáticas simples. Balizamiento: pedal direccional A (pk 64,548), señal de protección PN (pk 65,776), semibarreras, señal de protección PN (pk 67,852), pedal direccional B (pk 68,566). Señalización luminosa: semáforo dos luces rojas alternativamente intermitentes; señal de PN con doble punta de flecha y aspa. Señalización a vía: cartelones de silbar. Señalización de carretera: incompleta, no conforme con art. 13 de la OM de 2 de agosto de 2001 (no dispone de marcas viales).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel Clase C no enclavado con semibarreras automáticas simples. Balizamiento: pedal direccional A (pk 64,548), señal de protección PN (pk 65,776), semibarreras, señal de protección PN (pk 67,852), pedal direccional B (pk 68,566). Señalización luminosa: semáforo dos luces rojas alternativamente intermitentes; señal de PN con doble punta de flecha y aspa. Señalización a vía: cartelones de silbar. Señalización de carretera: incompleta, no conforme con art. 13 de la OM de 2 de agosto de 2001 (no dispone de marcas viales).",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "No se especifica el valor exacto; el tren circulaba a 122 km/h (inferior a la máxima prescrita) al pasar por la baliza ASFA y a 97 km/h en el momento del arrollamiento",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Firme del paso entarimado, con adecuado estado de mantenimiento. Bloqueo Automático de Vía Única (BAU) con CTC gobernado desde puesto de mando de Orense.",
+    "otro": "Temporizadores del PN: T1 = 3 min (medido 3 min 3 s), T2 = 7 min (medido 6 min 59 s). Registro de mantenimiento correctivo unificado del PN (01/01/2007-25/04/2007) muestra 5 incidencias: 30/01, 12/02 (pedal de rearme no funciona), 11/03, 27/03 y 20/04, todas calificadas como PN desprotegido con avería autonormalizada."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor diésel 598.006-5 (referido también como 598.506-4 en verificaciones), más dos unidades adicionales; masa remolcada 159 t",
+    "averia": "Avería en el dispositivo de frenado automático Hombre Muerto, comunicada por el maquinista al Puesto de Mando. Equipo ASFA verificado correcto en taller de Vigo (26/04/2007) con balizas de prueba L1, L2, L3, L7 y L8.",
+    "mantenimiento": "Equipo ASFA del automotor verificado correctamente en taller de Vigo el 26/04/2007. Baliza ASFA a pie de señal del PN (pk 65,776) verificada el 25/04/2007: emite frecuencia concordante con indicación de señal."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Avería intermitente en las instalaciones del paso a nivel que provocó la apertura automática de las semibarreras por tiempo de cierre excesivo (temporizador T2 de 7 min) mientras el tren 2424 se encontraba en aproximación, entre el pedal direccional A y la señal del PN.",
+    "El sistema de protección del PN no responde a los requisitos funcionales del Capítulo 8 del Manual de Circulación: permitió que, tras registrar la presencia del tren 2424 en el pedal direccional A, las semibarreras se levantaran antes de que el tren pasara por el PN.",
+    "La señal del PN, ante la avería existente, debió permanecer en la indicación más restrictiva (aspa amarilla a destellos = PN sin protección) y no pasar a apagada.",
+    "Visibilidad prácticamente nula desde el lugar de acceso del vehículo al paso a nivel, cegada por la caseta de instalaciones.",
+    "Señalización de carretera fija vertical y horizontal incompleta, no ajustada a la OM de 2 de agosto de 2001 (responsabilidad del Ayuntamiento de Valga).",
+    "El maquinista del tren 2425 no informó al PM ni al Jefe de Circulación de la observación de la señal del PN con flecha blanca a destellos (alarma), lo que podría haber permitido adoptar medidas previas.",
+    "El registro de eventos del tren no muestra aplicación del freno de emergencia tras el tiempo establecido para el reconocimiento del aviso ASFA."
+   ],
+   "pagina": 21,
+   "cita": " La señal del PN, ante la avería existente, debió permanecer en la indicación",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "A las 13:05 del 25 de abril de 2007, el Tren de Media Distancia nº 2424 de Renfe-Operadora, con origen en Vigo y destino A Coruña San Cristóbal, integrado por la unidad automotor diésel 598.006-5 más dos unidades adicionales (masa remolcada 159 t), detuvo su marcha tras arrollar un vehículo Renault Laguna (matrícula PO-0108-BF) en el paso a nivel Clase C del pk 66/722 de la línea 824 Redondela-Santiago de Compostela, entre Catoira y Pontecesures. El automóvil fue arrastrado 438 metros desde el punto de arrollamiento, quedando bajo el carenado del tren. En el momento del accidente la visibilidad era buena y el cielo nublado. Los tres ocupantes del vehículo fallecieron; ningún viajero ni empleado del tren resultó herido.\n\nEl paso a nivel, protegido con semibarreras automáticas simples, había registrado durante la mañana la circulación de los trenes 32928 y 2425. Tras el paso del tren 2425, el sistema no ejecutó correctamente la orden de apertura en mando automático y, al transcurrir el temporizador T2 de 7 minutos, se activó la apertura automática por tiempo de cierre excesivo. El tren 2424 pisó el pedal direccional A a las 13:03:40, cuando las semibarreras aún estaban cerradas y la señal mostraba aspa amarilla a destellos. Sin embargo, a las 13:04:07 finalizó el temporizador T2, se ejecutó el rearme y las semibarreras se abrieron completamente a las 13:04:14, justo cuando el tren se encontraba entre el pedal y la señal del PN. La baliza ASFA transmitió la indicación L1 (señal apagada = PN sin protección) al tren, que el maquinista reconoció, pero no aplicó la parada obligatoria reglamentaria. El tren ocupó el circuito del PN a 97 km/h, momento en que se produjo el arrollamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "7.1.1. Trazado ferroviario. \n \nEl accidente ocurrió en la intersección de la línea ferroviaria 824, Redondela -\nSantiago de Compostela, P.K. 66.722, con la carretera local que une el municipio de \nValga con el de Campaña. El punto del accidente  está ubicado a la salida de una \ncurva de radio 728,630 metros y pendiente de 3,2 milésimas, entre las estaciones de \nCatoira y Pontecesures. \n \nLa línea ferroviaria discurre en vía única, equipada con bloqueo automático de vía \núnica (BAU) y control de tráfico centralizado (CTC) gobernado desde el puesto de \nmando de Orense. \n \n \n \n7.1.2. Paso a nivel. \n \nEl paso a nivel ubicado en  la intersección de la línea ferroviaria 824, Santiago de \nCompostela – Redondela, P.K. 66.722, con la carretera local que une el municipio de \nValga con el de Compaña se encuentra ubicado dentro del municipio de Valga \n(Pontevedra). \n \nEn el Inventario de Pasos a Nivel  de mayo de 2006, este paso tiene asignado un \nmomento de circulación (AXT), medido a partir de la intensidad de tráfico de vehículos \n\n## Página 7\n\n \n A \nMINISTERIO \nDE \nFOMENTO \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nInvestigación del accidente \nnº 025/2007 ocurrido el 25.04.2007 \nInforme definitivo \n \nDIRECCION GENERAL DE \nFERROCARRILES \nID-250407-171207 \nPág. 7 de23 \nde carretera, A=347, y de trenes, T=34, de 11.912. Teniendo en cuenta esto, de \nacuerdo con la Orden Ministerial de 2 de Agosto de 2001, corresponde aplicar al paso \na nivel  una clase de protección “C”  \n \nEl paso a nivel se encuentra regulado por la consigna serie AO/CO nº 58/77 de la \nGerencia Operativa de León de fecha Marzo de 1993 y su anejo nº 1 de fecha \n15.03.2004. \n \nLa señalización a la vía férrea y a la carretera en el paso a nivel se describe a \ncontinuación:",
+   "pagina": 6,
+   "cita": "7. ANALISIS DE LOS DATOS",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Falta de adecuación de la circulación del tren 2424 a las indicaciones de la señalización del paso a nivel: el maquinista no se puso en condiciones de parar ante el PN con señal apagada (PN sin protección), incumpliendo los artículos 220.3 y 221c del Reglamento General de Circulación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Avería intermitente en las instalaciones del paso a nivel que provocó la apertura automática de las semibarreras por tiempo de cierre excesivo (temporizador T2 de 7 min) mientras el tren 2424 se encontraba en aproximación, entre el pedal direccional A y la señal del PN.",
+    "El sistema de protección del PN no responde a los requisitos funcionales del Capítulo 8 del Manual de Circulación: permitió que, tras registrar la presencia del tren 2424 en el pedal direccional A, las semibarreras se levantaran antes de que el tren pasara por el PN.",
+    "La señal del PN, ante la avería existente, debió permanecer en la indicación más restrictiva (aspa amarilla a destellos = PN sin protección) y no pasar a apagada.",
+    "Visibilidad prácticamente nula desde el lugar de acceso del vehículo al paso a nivel, cegada por la caseta de instalaciones.",
+    "Señalización de carretera fija vertical y horizontal incompleta, no ajustada a la OM de 2 de agosto de 2001 (responsabilidad del Ayuntamiento de Valga).",
+    "El maquinista del tren 2425 no informó al PM ni al Jefe de Circulación de la observación de la señal del PN con flecha blanca a destellos (alarma), lo que podría haber permitido adoptar medidas previas.",
+    "El registro de eventos del tren no muestra aplicación del freno de emergencia tras el tiempo establecido para el reconocimiento del aviso ASFA."
+   ],
+   "pagina": 21,
+   "cita": " La señal del PN, ante la avería existente, debió permanecer en la indicación",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "11.1. A la vista de los datos recogidos y del análisis de los mismos, se estima que \nel accidente tuvo su origen, según los eventos recogidos en los equipos de \nregistro a bordo del tren, en la falta de adecuación de la circulación del mismo \ncon las indicaciones de la señalización asociadas al paso a nivel, que \ncorresponden a los registros en el equipo instalado en el paso a nivel. La señal \nde protección del paso a nivel apagada esta asociada a  disponer el tren en \ncondiciones de parar ante el PN, sin rebasarlo hasta que se adopten las \nmedidas de seguridad suficientes. \n11.2. Por otra parte, el hecho de encontrarse la instalación del sistema de \nprotección del paso a nivel con prestaciones inferiores a las ordinarias, exige \nque el nivel de seguridad descanse en último término, en la actuación del \nfactor humano de acuerdo con la normativa reglamentaria. \n11.3. El nivel de seguridad de la instalación en condiciones “degradadas” \n(instalación con alguna incidencia) es suficiente, supliéndose las menores \nprestaciones de la instalación mediante la aplicación de las disposiciones \ncorrespondientes en la Reglamentación. Esto supone que la última actuación \n\n## Página 22\n\n \n A \nMINISTERIO \nDE \nFOMENTO \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nInvestigación del accidente \nnº 025/2007 ocurrido el 25.04.2007 \nInforme definitivo \n \nDIRECCION GENERAL DE \nFERROCARRILES \nID-250407-171207 \nPág. 22 de23 \ndepende del factor humano. No obstante, para reducir el posible riesgo \nsiempre inherente a toda actuación discrecional, el sistema ASFA con aviso en \ncabina requiere del maquinista la constancia del reconocimiento de la \nseñalización.",
+   "pagina": 21,
+   "cita": "11. CONCLUSIONES. 11.1. A la vista de los datos recogidos y del análisis de los mismos, se estima que el accidente tuvo su origen, según los eventos recogidos en los equipos de registro a bordo del tren, en la falta d",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "11.1. A la vista de los datos recogidos y del análisis de los mismos, se estima que \nel accidente tuvo su origen, según los eventos recogidos en los equipos de \nregistro a bordo del tren, en la falta de adecuación de la circulación del mismo \ncon las indicaciones de la señalización asociadas al paso a nivel, que \ncorresponden a los registros en el equipo instalado en el paso a nivel. La señal \nde protección del paso a nivel apagada esta asociada a  disponer el tren en \ncondiciones de parar ante el PN, sin rebasarlo hasta que se adopten las \nmedidas de seguridad suficientes. \n11.2. Por otra parte, el hecho de encontrarse la instalación del sistema de \nprotección del paso a nivel con prestaciones inferiores a las ordinarias, exige \nque el nivel de seguridad descanse en último término, en la actuación del \nfactor humano de acuerdo con la normativa reglamentaria. \n11.3. El nivel de seguridad de la instalación en condiciones “degradadas” \n(instalación con alguna incidencia) es suficiente, supliéndose las menores \nprestaciones de la instalación mediante la aplicación de las disposiciones \ncorrespondientes en la Reglamentación. Esto supone que la última actuación \n\n## Página 22\n\n \n A \nMINISTERIO \nDE \nFOMENTO \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nInvestigación del accidente \nnº 025/2007 ocurrido el 25.04.2007 \nInforme definitivo \n \nDIRECCION GENERAL DE \nFERROCARRILES \nID-250407-171207 \nPág. 22 de23 \ndepende del factor humano. No obstante, para reducir el posible riesgo \nsiempre inherente a toda actuación discrecional, el sistema ASFA con aviso en \ncabina requiere del maquinista la constancia del reconocimiento de la \nseñalización.",
+   "pagina": 21,
+   "cita": "11. CONCLUSIONES. 11.1. A la vista de los datos recogidos y del análisis de los mismos, se estima que el accidente tuvo su origen, según los eventos recogidos en los equipos de registro a bordo del tren, en la falta d",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Fomentar una campaña destinada al personal de conducción de reciclaje y formación sobre el Reglamento General de Circulación y del Manual de Circulación, recordando el riguroso cumplimiento de éste.",
+     "destinatario": "Renfe-Operadora (personal de conducción)"
+    },
+    {
+     "texto": "Recordar al personal de conducción la obligatoriedad de informar de cualquier fallo que observen en las instalaciones o en el funcionamiento del sistema.",
+     "destinatario": "Renfe-Operadora (personal de conducción)"
+    },
+    {
+     "texto": "Revisar y modificar la Descripción Técnica Semibarreras Automáticas (SBA) unificada de Renfe y, en consecuencia, adaptar el Manual de Circulación en su capítulo 8 'Protección de pasos a nivel' en cuanto a la interrelación del procedimiento de sucesión de trenes y del procedimiento de apertura automática por tiempo de cierre excesivo.",
+     "destinatario": "Adif / Renfe (instalaciones de pasos a nivel)"
+    },
+    {
+     "texto": "Revisar la fiabilidad de las instalaciones similares a la vista de las incidencias que se han registrado en los últimos meses en esta instalación, con el objeto de investigar si estas incidencias se repiten en otros puntos de la red ferroviaria.",
+     "destinatario": "Adif (instalaciones de pasos a nivel)"
+    },
+    {
+     "texto": "Una vez finalicen las pruebas de desarrollo y se valide el equipo ASFA Digital, que sea homologado por el órgano ferroviario competente, siendo de obligatoria instalación en el material nuevo e incorporado en el material existente en el menor plazo de tiempo posible.",
+     "destinatario": "Órgano ferroviario competente / fabricantes (sistemas de ayuda a la conducción)"
+    }
+   ],
+   "pagina": 22,
+   "cita": "1. Fomentar una campaña destinada al personal de conducción de reciclaje y",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "12:10",
+     "evento": "Tren 39288 sale de Catoira dirección Pontecesures (retraso 28 min)"
+    },
+    {
+     "hora": "12:10",
+     "evento": "Tren 39228 efectúa cruce con tren 2423 en estación de Catoira"
+    },
+    {
+     "hora": "12:17",
+     "evento": "Tren 39228 pasa por estación de Pontecesures (retraso 28 min)"
+    },
+    {
+     "hora": "12:56",
+     "evento": "Tren 2425 pasa por estación de Pontecesures"
+    },
+    {
+     "hora": "12:59",
+     "evento": "Tren 2425 establece entrada en estación de Catoira"
+    },
+    {
+     "hora": "13:02",
+     "evento": "Tren 2425 sale de Catoira; cruce con tren 2424"
+    },
+    {
+     "hora": "13:02",
+     "evento": "Tren 2424 sale de estación de Catoira"
+    },
+    {
+     "hora": "13:02:32",
+     "evento": "Uso del silbato de la locomotora (tren 2424)"
+    },
+    {
+     "hora": "13:03:40",
+     "evento": "Tren 2424 pisa pedal direccional A (pk 64,548); semibarreras cerradas, señal aspa amarilla a destellos"
+    },
+    {
+     "hora": "13:03:43",
+     "evento": "Uso del silbato"
+    },
+    {
+     "hora": "13:03:46",
+     "evento": "Uso del silbato"
+    },
+    {
+     "hora": "13:04:07",
+     "evento": "Finaliza temporizador T2; se ejecuta rearme del PN; señal pasa a apagada; semibarreras comienzan a subir"
+    },
+    {
+     "hora": "13:04:14",
+     "evento": "Apertura completa de semibarreras; señal apagada"
+    },
+    {
+     "hora": "13:04:15",
+     "evento": "Tren 2424 pasa por baliza ASFA; indicación L1 (PN sin protección); velocidad 122 km/h"
+    },
+    {
+     "hora": "13:04:17",
+     "evento": "Reconocimiento del aviso ASFA en cabina; desaparece indicación L1"
+    },
+    {
+     "hora": "13:04:44",
+     "evento": "Reducción de velocidad del tren; tren ocupa circuito de vía del PN"
+    },
+    {
+     "hora": "13:04:46",
+     "evento": "Aplicación del freno de emergencia"
+    },
+    {
+     "hora": "13:05",
+     "evento": "Arrollamiento del vehículo; velocidad en momento del impacto: 97 km/h"
+    },
+    {
+     "hora": "13:05:39",
+     "evento": "Detención del tren"
+    },
+    {
+     "hora": "16:55",
+     "evento": "Puesto de Mando de Orense autoriza al tren 2424 a restablecer marcha tras retirada del vehículo y levantamiento de cadáveres"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0025/2007",
+ "expediente": "025/2007",
+ "anio": 2007,
+ "titulo": "Arrollamiento de un vehículo automóvil por tren en paso a nivel en el trayecto Catoira-Puentecesures (Pontevedra)",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID_250407_171207.md"
+}

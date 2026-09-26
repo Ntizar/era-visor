@@ -1,0 +1,914 @@
+{
+ "id": "ID-140308-240608-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/3C5686F9-1052-430E-9CBC-A9294F4A1B64/46930/ID140308240608CIAF.pdf",
+ "pdf": "pdfs/ES/ID-140308-240608-CIAF.pdf",
+ "md5_pdf": "688fae324d2a2be9e816d35e6f7c4275",
+ "paginas_md": 10,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 6,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0004/2008",
+   "pagina": 1,
+   "cita": "nº 0004/2008 ocurrido el 14.03.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2008-03-14, a las 19:54, el tren de Cercanías 28460 de Renfe Operadora, entre San Celoni y Villanova i la Geltrú, arrolló una motocicleta en el Paso a Nivel de Clase C del P.K. 148/000, dentro de la estación de Llinars del Vallés. Las semibarreras estaban bajadas y enclavadas, y el paso a nivel funcionó correctamente. El conductor de la motocicleta, de 17 años, falleció en el acto; otra motocicleta cruzó antes sorteando las semibarreras sin resultar accidentada. No se produjeron daños materiales; hubo supresiones y retrasos hasta restablecer la circulación a las 22:22.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-03-14",
+    "hora": "19:54",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Llinars del Vallés",
+     "pk": "148/000",
+     "linea": "270 Barcelona-Cerbere",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Paso a Nivel de Clase C, Camino Rural de Can Moix, situado dentro de la estación de Llinars del Vallés, entre las señales de entrada y salida."
+    }
+   },
+   "pagina": 10,
+   "cita": "señales de entrada y salida de la estación de Llinars del Vallés, el 14/03/2008, se aprueba como",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni al Medio Ambiente.",
+    "afectacion_servicio": "Tren 28460 suprimido en Llinars del Vallés y viajeros transbordados al 28598; tren 25453 suprimido y viajeros continuaron en el 15841; vía 1 y 2 interceptadas de 19:54 a 22:22; 2 Cercanías suprimidos y 11 retrasados con 72'; 8 Media Distancia retrasados con 93'; 3 Larga Distancia retrasados con 21'; 3 Mercancías retrasados con 74'."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Cruce indebido del paso a nivel por una motocicleta sorteando las semibarreras bajadas, en el momento en que circulaba el tren 28460.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Paso a nivel no suprimido pese a superar el umbral de momento de circulación establecido para supresión"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "No se establecen recomendaciones específicas para este accidente en particular, al estar prevista la próxima supresión del paso a nivel.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "No se establecen recomendaciones específicas para este accidente en particular, al estar prevista la próxima supresión del paso a nivel.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "empresa ferroviaria Renfe Operadora, procedente de San Celoni con destino Villanova i la la Geltrú, al",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-03-14",
+   "pagina": 10,
+   "cita": "señales de entrada y salida de la estación de Llinars del Vallés, el 14/03/2008, se aprueba como",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "19:54",
+   "pagina": 2,
+   "cita": "El día 14 de marzo de 2008, a las 19:54 horas, el tren de viajeros de Cercanías 28460 de la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Llinars del Vallés",
+    "pk": "148/000",
+    "linea": "270 Barcelona-Cerbere",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Paso a Nivel de Clase C, Camino Rural de Can Moix, situado dentro de la estación de Llinars del Vallés, entre las señales de entrada y salida."
+   },
+   "pagina": 2,
+   "cita": "25453, que tras su estacionamiento en la estación de Llinars, se aproximaba por la vía impar donde",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "270 Barcelona-Cerbere",
+   "pagina": 2,
+   "cita": "270 Barcelona-Cerbere.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UT 451009 en cabeza y 451010 en cola; UT 987184451009 y 987184451010; 6 vehículos; masa total remolcada 355 TM",
+    "averia": "No se produjeron daños; memoria estática indica 89 km/h, uso continuado de bocina y señales en Vía libre",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de Cercanías 28460, formado por las U/T 451009 en cabeza y 451010 en cola, con 6 vehículos y 355 TM de masa total remolcada, arrolló a una motocicleta en el Paso a Nivel de Clase C del P.K. 148+000, Camino Rural de Can Moix, cuando las semibarreras estaban bajadas. La primera motocicleta consiguió pasar antes que el tren, pero la segunda fue alcanzada por el lateral del tren y su conductor falleció en el acto.\n\nConocido el accidente, el Puesto de Mando de Barcelona avisó al tren 25453, que se aproximaba por la vía impar, y logró detenerlo antes de llegar al punto del arrollamiento. El tren accidentado fue autorizado a estacionarse en Llinars del Vallés a las 21:39, estableciéndose circulación por vía 3 con limitación de 10 km/h; a las 22:22 se restableció la circulación normal.\n\nLos registros del paso a nivel, del enclavamiento y de las cámaras de vigilancia corroboraron que las semibarreras estaban abatidas y que el vehículo arrollado las sorteó.",
+   "pagina": 2,
+   "cita": "Barcelona El tren de Cercanías 28460, formado por las U/T 451009 en cabeza y 451010 en cola y 6 vehículos con masa total remolcada 355 TM, arrolla, en el Paso a Nivel de Clase C del P.K. 148+000 (Camino Rural de Can M",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Llinars del Vallés",
+    "pk": "148/000",
+    "linea": "270 Barcelona-Cerbere",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Paso a Nivel de Clase C, Camino Rural de Can Moix, situado dentro de la estación de Llinars del Vallés, entre las señales de entrada y salida."
+   },
+   "pagina": 2,
+   "cita": "25453, que tras su estacionamiento en la estación de Llinars, se aproximaba por la vía impar donde",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni al Medio Ambiente.",
+    "afectacion_servicio": "Tren 28460 suprimido en Llinars del Vallés y viajeros transbordados al 28598; tren 25453 suprimido y viajeros continuaron en el 15841; vía 1 y 2 interceptadas de 19:54 a 22:22; 2 Cercanías suprimidos y 11 retrasados con 72'; 8 Media Distancia retrasados con 93'; 3 Larga Distancia retrasados con 21'; 3 Mercancías retrasados con 74'."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Se realiza consulta a la Dirección General de Ferrocarriles respecto de las características del Paso a \nNivel, así como de posibles actuaciones realizadas encaminadas a su supresión, obteniéndose la \nsiguiente información: \n• \nEl paso a Nivel tiene un momento de circulación A x T de 32 x 144,83 = 4.635, superior a \n1.500, límite establecido por la Orden de 2 de agosto de 2001 en materia de supresión y \nprotección de pasos a nivel. \n• \nPor acuerdo verbal entre la Dirección General de Ferrocarriles y el Ayuntamiento de Llinars \ndel Vallés este último se comprometió a redactar el proyecto constructivo a partir del \nproyecto básico redactado por el Ministerio de Fomento.  \n• \nNo habiendo el Ayuntamiento , hasta la fecha, presentado el proyecto, dicho paso se ha \nincluido entre las actuaciones de supresión previstas en la encomienda para supresión y \nprotección de pasos a nivel, firmada recientemente este año, entre el Ministerio de \nFomento y Adif.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista principal del tren 28460",
+     "implicacion": "Titulado y habilitado; aplicó freno de emergencia y silbato; prueba de alcoholemia 0,00 mg/l; jornada efectiva hasta el suceso: 2 horas y 12 minutos."
+    },
+    {
+     "rol": "alumno de conducción en prácticas de la Escuela de Formación de Barcelona",
+     "implicacion": "Acompañaba al maquinista; prueba de alcoholemia 0,00 mg/l."
+    },
+    {
+     "rol": "conductor de la motocicleta arrollada",
+     "implicacion": "Fallecido en el acto; 17 años."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El maquinista principal del tren 28460",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "28460",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "No se produjeron daños en material rodante."
+    },
+    {
+     "numero": "25453",
+     "tipo": null,
+     "operador": null,
+     "danos": null
+    },
+    {
+     "numero": "28598",
+     "tipo": null,
+     "operador": null,
+     "danos": null
+    },
+    {
+     "numero": "15841",
+     "tipo": null,
+     "operador": null,
+     "danos": null
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 14 de marzo de 2008, a las 19:54 horas, el tren de viajeros de Cercanías 28460 de la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UT 451009 en cabeza y 451010 en cola; UT 987184451009 y 987184451010; 6 vehículos; masa total remolcada 355 TM",
+    "averia": "No se produjeron daños; memoria estática indica 89 km/h, uso continuado de bocina y señales en Vía libre",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 3,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales de entrada y avanzada de la vía 2 en Vía libre; semibarreras del Paso a Nivel de Clase C bajadas, enclavadas y abatidas; cámaras de vigilancia registraron el momento.",
+    "tipo_via": "Vía doble electrificada, BAB con CTC",
+    "velocidad_maxima": "No se especifica; el tren circulaba a 89 km/h, inferior a la máxima permitida",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Funcionamiento correcto del paso a nivel y del enclavamiento; semibarreras bajadas en el momento del accidente",
+    "otro": "Paso a Nivel de Clase C, Camino Rural de Can Moix, entre señales de entrada y salida; momento de circulación A x T 4.635, superior a 1.500; previsto su supresión."
+   },
+   "pagina": 4,
+   "cita": "Vía doble electrificada, BAB con CTC, Paso a Nivel Clase C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales de entrada y avanzada de la vía 2 en Vía libre; semibarreras del Paso a Nivel de Clase C bajadas, enclavadas y abatidas; cámaras de vigilancia registraron el momento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni al Medio Ambiente.",
+    "afectacion_servicio": "Tren 28460 suprimido en Llinars del Vallés y viajeros transbordados al 28598; tren 25453 suprimido y viajeros continuaron en el 15841; vía 1 y 2 interceptadas de 19:54 a 22:22; 2 Cercanías suprimidos y 11 retrasados con 72'; 8 Media Distancia retrasados con 93'; 3 Larga Distancia retrasados con 21'; 3 Mercancías retrasados con 74'."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni al Medio Ambiente.",
+    "afectacion_servicio": "Tren 28460 suprimido en Llinars del Vallés y viajeros transbordados al 28598; tren 25453 suprimido y viajeros continuaron en el 15841; vía 1 y 2 interceptadas de 19:54 a 22:22; 2 Cercanías suprimidos y 11 retrasados con 72'; 8 Media Distancia retrasados con 93'; 3 Larga Distancia retrasados con 21'; 3 Mercancías retrasados con 74'."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe definitivo ID-140308-240608-CIAF Pág. 1 de 10 INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0004/2008 OCURRIDO",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni al Medio Ambiente.",
+    "afectacion_servicio": "Tren 28460 suprimido en Llinars del Vallés y viajeros transbordados al 28598; tren 25453 suprimido y viajeros continuaron en el 15841; vía 1 y 2 interceptadas de 19:54 a 22:22; 2 Cercanías suprimidos y 11 retrasados con 72'; 8 Media Distancia retrasados con 93'; 3 Larga Distancia retrasados con 21'; 3 Mercancías retrasados con 74'."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 451009 en cabeza y 451010 en cola; UT 987184451009 y 987184451010; 6 vehículos; masa total remolcada 355 TM",
+    "averia": "No se produjeron daños; memoria estática indica 89 km/h, uso continuado de bocina y señales en Vía libre",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de entrada y avanzada de la vía 2 en Vía libre; semibarreras del Paso a Nivel de Clase C bajadas, enclavadas y abatidas; cámaras de vigilancia registraron el momento.",
+    "tipo_via": "Vía doble electrificada, BAB con CTC",
+    "velocidad_maxima": "No se especifica; el tren circulaba a 89 km/h, inferior a la máxima permitida",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Funcionamiento correcto del paso a nivel y del enclavamiento; semibarreras bajadas en el momento del accidente",
+    "otro": "Paso a Nivel de Clase C, Camino Rural de Can Moix, entre señales de entrada y salida; momento de circulación A x T 4.635, superior a 1.500; previsto su supresión."
+   },
+   "pagina": 4,
+   "cita": "Vía doble electrificada, BAB con CTC, Paso a Nivel Clase C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche; ya había anochecido y la visibilidad estaba mermada, aunque el tramo tenía perfil recto y buena visibilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Llinars del Vallés"
+   },
+   "pagina": 2,
+   "cita": "270 Barcelona-Cerbere.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche; ya había anochecido y la visibilidad estaba mermada, aunque el tramo tenía perfil recto y buena visibilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales de entrada y avanzada de la vía 2 en Vía libre; semibarreras del Paso a Nivel de Clase C bajadas, enclavadas y abatidas; cámaras de vigilancia registraron el momento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de entrada y avanzada de la vía 2 en Vía libre; semibarreras del Paso a Nivel de Clase C bajadas, enclavadas y abatidas; cámaras de vigilancia registraron el momento.",
+    "tipo_via": "Vía doble electrificada, BAB con CTC",
+    "velocidad_maxima": "No se especifica; el tren circulaba a 89 km/h, inferior a la máxima permitida",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Funcionamiento correcto del paso a nivel y del enclavamiento; semibarreras bajadas en el momento del accidente",
+    "otro": "Paso a Nivel de Clase C, Camino Rural de Can Moix, entre señales de entrada y salida; momento de circulación A x T 4.635, superior a 1.500; previsto su supresión."
+   },
+   "pagina": 4,
+   "cita": "Vía doble electrificada, BAB con CTC, Paso a Nivel Clase C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 451009 en cabeza y 451010 en cola; UT 987184451009 y 987184451010; 6 vehículos; masa total remolcada 355 TM",
+    "averia": "No se produjeron daños; memoria estática indica 89 km/h, uso continuado de bocina y señales en Vía libre",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "motocicleta sorteó semibarreras bajadas",
+    "segunda motocicleta cruzó indebidamente",
+    "visibilidad mermada por anochecer"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de Cercanías 28460, formado por las U/T 451009 en cabeza y 451010 en cola, con 6 vehículos y 355 TM de masa total remolcada, arrolló a una motocicleta en el Paso a Nivel de Clase C del P.K. 148+000, Camino Rural de Can Moix, cuando las semibarreras estaban bajadas. La primera motocicleta consiguió pasar antes que el tren, pero la segunda fue alcanzada por el lateral del tren y su conductor falleció en el acto.\n\nConocido el accidente, el Puesto de Mando de Barcelona avisó al tren 25453, que se aproximaba por la vía impar, y logró detenerlo antes de llegar al punto del arrollamiento. El tren accidentado fue autorizado a estacionarse en Llinars del Vallés a las 21:39, estableciéndose circulación por vía 3 con limitación de 10 km/h; a las 22:22 se restableció la circulación normal.\n\nLos registros del paso a nivel, del enclavamiento y de las cámaras de vigilancia corroboraron que las semibarreras estaban abatidas y que el vehículo arrollado las sorteó.",
+   "pagina": 2,
+   "cita": "Barcelona El tren de Cercanías 28460, formado por las U/T 451009 en cabeza y 451010 en cola y 6 vehículos con masa total remolcada 355 TM, arrolla, en el Paso a Nivel de Clase C del P.K. 148+000 (Camino Rural de Can M",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl paso a Nivel donde se produjo el arrollamiento se sitúa dentro de la estación de Llinars del \nVallés, en un tramo con trazado recto y buena visibilidad, si bien en el momento del accidente era de \nnoche. \nLa jornada de trabajo del maquinista cumple lo establecido en la Disposición adicional duodécima, \nTiempos máximos de conducción en el transporte ferroviario, del Reglamento del Sector Ferroviario \n(RD 2387/2004, de 30 de diciembre). \nLos resultados de la pruebas de alcoholemia realizados tanto al maquinista como al alumno de \nconducción están por debajo de lo establecido en la Disposición Adicional undécima “Tasas de \nalcoholemia de aplicación en el transporte ferroviario” \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0004/2008 ocurrido el 14.03.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS  \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme definitivo \n \n \nID-140308-240608-CIAF \n \n \nPág. 8 de 10\nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente. \nDe acuerdo, tanto a los registros de las instalaciones como a las cámaras de vigilancia, la \nmotocicleta arrollada, se saltó las barreras del paso a nivel, haciendo caso omiso de la señalización. \n4.2 \nCONCLUSIONES \nDado que: \n• \nLa infraestructura y el material rodante cumplían la normativa de seguridad y funcionaron \ncorrectamente. \n• \nEl comportamiento del maquinista, haciendo uso reiterado del silbato y aplicando el freno \nde emergencia fue el adecuado. \n• \nEl maquinista se encontraba en perfecto estado para la realización de sus funciones \n• \nTanto los registros de eventos del paso a nivel y del enclavamiento, así como las cámaras \nde vigilancia que grabaron el momento del accidente, corroboran que las semibarreras se \nencontraban abatidas.  \nEl técnico responsable de la investigación concluye que el accidente tuvo su origen en el cruce del \npaso a nivel en un momento en que éste, estando las semibarreras bajadas, no estaba habilitado para \nsobrepasarlo.",
+   "pagina": 7,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Cruce indebido del paso a nivel por una motocicleta sorteando las semibarreras bajadas, en el momento en que circulaba el tren 28460.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "motocicleta sorteó semibarreras bajadas",
+    "segunda motocicleta cruzó indebidamente",
+    "visibilidad mermada por anochecer"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Se realiza consulta a la Dirección General de Ferrocarriles respecto de las características del Paso a \nNivel, así como de posibles actuaciones realizadas encaminadas a su supresión, obteniéndose la \nsiguiente información: \n• \nEl paso a Nivel tiene un momento de circulación A x T de 32 x 144,83 = 4.635, superior a \n1.500, límite establecido por la Orden de 2 de agosto de 2001 en materia de supresión y \nprotección de pasos a nivel. \n• \nPor acuerdo verbal entre la Dirección General de Ferrocarriles y el Ayuntamiento de Llinars \ndel Vallés este último se comprometió a redactar el proyecto constructivo a partir del \nproyecto básico redactado por el Ministerio de Fomento.  \n• \nNo habiendo el Ayuntamiento , hasta la fecha, presentado el proyecto, dicho paso se ha \nincluido entre las actuaciones de supresión previstas en la encomienda para supresión y \nprotección de pasos a nivel, firmada recientemente este año, entre el Ministerio de \nFomento y Adif.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Se realiza consulta a la Dirección General de Ferrocarriles respecto de las características del Paso a \nNivel, así como de posibles actuaciones realizadas encaminadas a su supresión, obteniéndose la \nsiguiente información: \n• \nEl paso a Nivel tiene un momento de circulación A x T de 32 x 144,83 = 4.635, superior a \n1.500, límite establecido por la Orden de 2 de agosto de 2001 en materia de supresión y \nprotección de pasos a nivel. \n• \nPor acuerdo verbal entre la Dirección General de Ferrocarriles y el Ayuntamiento de Llinars \ndel Vallés este último se comprometió a redactar el proyecto constructivo a partir del \nproyecto básico redactado por el Ministerio de Fomento.  \n• \nNo habiendo el Ayuntamiento , hasta la fecha, presentado el proyecto, dicho paso se ha \nincluido entre las actuaciones de supresión previstas en la encomienda para supresión y \nprotección de pasos a nivel, firmada recientemente este año, entre el Ministerio de \nFomento y Adif.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Se realiza consulta a la Dirección General de Ferrocarriles respecto de las características del Paso a \nNivel, así como de posibles actuaciones realizadas encaminadas a su supresión, obteniéndose la \nsiguiente información: \n• \nEl paso a Nivel tiene un momento de circulación A x T de 32 x 144,83 = 4.635, superior a \n1.500, límite establecido por la Orden de 2 de agosto de 2001 en materia de supresión y \nprotección de pasos a nivel. \n• \nPor acuerdo verbal entre la Dirección General de Ferrocarriles y el Ayuntamiento de Llinars \ndel Vallés este último se comprometió a redactar el proyecto constructivo a partir del \nproyecto básico redactado por el Ministerio de Fomento.  \n• \nNo habiendo el Ayuntamiento , hasta la fecha, presentado el proyecto, dicho paso se ha \nincluido entre las actuaciones de supresión previstas en la encomienda para supresión y \nprotección de pasos a nivel, firmada recientemente este año, entre el Ministerio de \nFomento y Adif.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "No se establecen recomendaciones específicas para este accidente en particular, al estar prevista la próxima supresión del paso a nivel.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "19:54",
+     "evento": "2008-03-14: arrollamiento de una motocicleta por el tren 28460 en el Paso a Nivel de Clase C del P.K. 148/000, con las semibarreras bajadas."
+    },
+    {
+     "hora": null,
+     "evento": "Conocido el accidente, el Puesto de Mando de Barcelona avisa al tren 25453, que se detiene antes de llegar al punto del arrollamiento."
+    },
+    {
+     "hora": "21:39",
+     "evento": "El tren 28460 queda autorizado a estacionarse en Llinars del Vallés; se establece circulación por vía 3 con limitación de 10 km/h."
+    },
+    {
+     "hora": "22:17",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif comunica a la CIAF el arrollamiento en la línea 270 Barcelona-Cerbere."
+    },
+    {
+     "hora": "22:22",
+     "evento": "Se establece circulación normal por todas las vías."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0004/2008",
+ "expediente": "0004/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de motocicleta en paso a nivel de la estación de Llinars del Vallés (Barcelona)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ID-140308-240608-CIAF.md"
+}

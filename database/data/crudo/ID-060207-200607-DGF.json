@@ -1,0 +1,940 @@
+{
+ "id": "ID-060207-200607-DGF",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-060207-200607-DGF.pdf",
+ "pdf": "pdfs/ES/ID-060207-200607-DGF.pdf",
+ "md5_pdf": "52c044aaece192276d1de78d1b129a9a",
+ "paginas_md": 6,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 12,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0008/2007",
+   "pagina": 1,
+   "cita": "Nº 0008/2007 OCURRIDO EL DÍA 06.02.2007 ID-060207-200607-DGF Pág. 1 de 6 ## Página 2 Investigación del accidente nº 08/2007 ocurrido el 06.02.2007 SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y PLANIFICA",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El informe definitivo analiza el arrollamiento grave de un peatón ocurrido el 6 de febrero de 2007 en plena vía, junto a la señal de entrada de la estación de Catarroja. El tren de Larga Distancia 1091 de Renfe Operadora, con origen en Barcelona y destino Alicante, golpeó a un varón de 91 años que intentaba cruzar las vías. La investigación atribuye el accidente a la invasión indebida de la vía y constata deficiencias en el vallado y pasos viciosos en la zona. No se produjeron daños materiales, aunque hubo interrupción de la circulación y retrasos en otros trenes.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-02-06",
+    "hora": "12:12",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Catarroja",
+     "pk": "106,066",
+     "linea": "La Encina - Valencia",
+     "provincia": "Valencia",
+     "descripcion_lugar": "Plena vía en la señal de entrada E-1 de Catarroja, junto a un paso superior de vehículos situado a unos 12 metros del inicio del puente ferroviario sobre el Barranco de Chiva, entre Massanassa y el polígono industrial de Catarroja."
+    }
+   },
+   "pagina": 2,
+   "cita": "Lugar: Plena vía, en la señal de entrada de la estación de Catarroja.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación por vía 1 hasta las 12:30 h, marcha a la vista hasta las 12:45 h y retrasos acumulados en dos trenes de Cercanías de 22 minutos y en un tren de mercancías de 35 minutos. El tren L.D. 1091 estuvo detenido 13 minutos hasta que fue autorizado a continuar."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión indebida de la vía por una persona que intentaba cruzar las vías, calificada como imprudencia de la víctima.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Existencia de pasos viciosos muy frecuentados en el entorno.",
+    "Defectuoso estado de mantenimiento del vallado existente.",
+    "Falta de continuidad del cerramiento.",
+    "Ausencia de vallado en 175 metros del lado izquierdo.",
+    "Vallado del lado derecho forzado, permitiendo el paso de transeúntes.",
+    "Proximidad de núcleos urbanos y polígonos industriales a la línea ferroviaria."
+   ],
+   "pagina": 5,
+   "cita": "Se constata el defectuoso estado de mantenimiento del vallado existente, ya que carece",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Completar el vallado en ambos márgenes de la vía entre los dos núcleos de población y entre los dos polígonos industriales.",
+     "destinatario": "Administrador de la infraestructura (ADIF)"
+    },
+    {
+     "texto": "Reparar y mantener adecuadamente el cerramiento existente.",
+     "destinatario": "Administrador de la infraestructura (ADIF)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Completar el vallado en ambos márgenes de la vía entre los dos núcleos de población y entre los dos polígonos industriales.",
+     "destinatario": "Administrador de la infraestructura (ADIF)"
+    },
+    {
+     "texto": "Reparar y mantener adecuadamente el cerramiento existente.",
+     "destinatario": "Administrador de la infraestructura (ADIF)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento de una persona",
+   "pagina": 2,
+   "cita": "había producido el arrollamiento de una persona resultando fallecida la misma en la Red",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "Renfe Operadora"
+   ],
+   "pagina": 2,
+   "cita": "(ADIF), comunicó a través de mensaje de telefonía móvil el pasado 06 de febrero que se",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-02-06",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "12:12",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:hora"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Catarroja",
+    "pk": "106,066",
+    "linea": "La Encina - Valencia",
+    "provincia": "Valencia",
+    "descripcion_lugar": "Plena vía en la señal de entrada E-1 de Catarroja, junto a un paso superior de vehículos situado a unos 12 metros del inicio del puente ferroviario sobre el Barranco de Chiva, entre Massanassa y el polígono industrial de Catarroja."
+   },
+   "pagina": 2,
+   "cita": "Lugar: Plena vía, en la señal de entrada de la estación de Catarroja.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "La Encina - Valencia",
+   "pagina": 2,
+   "cita": "Punto kilométrico 106,066 de la línea La Encina - Valencia.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "101.101",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El 6 de febrero de 2007, a las 12:12 h, se produjo un accidente grave por arrollamiento de una persona en plena vía, en la señal de entrada de la estación de Catarroja, en el punto kilométrico 106,066 de la línea La Encina - Valencia. El tren afectado fue el de viajeros de Larga Distancia 1091 de Renfe Operadora, que realizaba el recorrido Barcelona - Alicante. La víctima fue un varón de 91 años que intentaba cruzar las vías.\n\nSegún el parte del maquinista, entre Massanassa y Catarroja, sobre el km 106 aproximadamente, observó a una persona que se aproximaba a la vía II por su lado izquierdo con intención de atravesar las vías. El maquinista hizo uso del silbato y vio que la persona levantó la cabeza hacia el tren, pero continuó cruzando. Aplicó el freno de emergencia y siguió haciendo sonar el silbato, sin conseguir que se detuviera, produciéndose el golpe con un soporte lateral derecho del tren. Del análisis de la memoria estática del vehículo motor 101.101 se desprende que la velocidad de circulación era de 138 km/h, siendo la máxima del tramo 140 km/h.\n\nTras el suceso, el maquinista comunicó el accidente al Jefe del CTC de Valencia, que cursó aviso a las gerencias de seguridad, protección civil y servicios de emergencia. Se realizaron actuaciones de toma de datos por ADIF y Renfe, prueba de alcoholemia negativa al maquinista y levantamiento del cadáver a las 13:55 h por autorización judicial. No se produjeron daños materiales, aunque se registraron perturbaciones en la circulación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Catarroja",
+    "pk": "106,066",
+    "linea": "La Encina - Valencia",
+    "provincia": "Valencia",
+    "descripcion_lugar": "Plena vía en la señal de entrada E-1 de Catarroja, junto a un paso superior de vehículos situado a unos 12 metros del inicio del puente ferroviario sobre el Barranco de Chiva, entre Massanassa y el polígono industrial de Catarroja."
+   },
+   "pagina": 2,
+   "cita": "Lugar: Plena vía, en la señal de entrada de la estación de Catarroja.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación por vía 1 hasta las 12:30 h, marcha a la vista hasta las 12:45 h y retrasos acumulados en dos trenes de Cercanías de 22 minutos y en un tren de mercancías de 35 minutos. El tren L.D. 1091 estuvo detenido 13 minutos hasta que fue autorizado a continuar."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 1091",
+     "implicacion": "Condujo el tren, observó a la persona, hizo sonar el silbato, aplicó el freno de emergencia y comunicó el suceso. Prueba de alcoholemia negativa (0,00 mg/ml)."
+    },
+    {
+     "rol": "Supervisor de a bordo del tren 1091",
+     "implicacion": "Intervino en el tren implicado en el accidente."
+    },
+    {
+     "rol": "Coordinador de accidentes ferroviarios de ADIF",
+     "implicacion": "Comunicó el accidente por mensaje de telefonía móvil el 6 de febrero."
+    },
+    {
+     "rol": "Jefe del CTC de Valencia",
+     "implicacion": "Recibió la comunicación del suceso realizada por el maquinista."
+    },
+    {
+     "rol": "Supervisor de línea de la Jefatura Técnica de Operaciones de Valencia (ADIF)",
+     "implicacion": "Fue nombrado jefe delegado del accidente."
+    },
+    {
+     "rol": "Agentes de Seguridad en la Circulación Levante de ADIF",
+     "implicacion": "Se personaron en el lugar del arrollamiento para realizar la toma de datos."
+    },
+    {
+     "rol": "Agentes de la Gerencia Territorial de Seguridad en la Circulación de Levante de Renfe",
+     "implicacion": "Realizaron la inspección del suceso y la recogida de datos del accidente."
+    },
+    {
+     "rol": "Autoridad judicial",
+     "implicacion": "Autorizó el levantamiento del cadáver a las 13:55 h."
+    },
+    {
+     "rol": "Víctima",
+     "implicacion": "Varón de 91 años que intentaba cruzar las vías y resultó fallecida por el arrollamiento."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El  maquinista del tren 1091.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "1091",
+     "tipo": "Viajeros de Larga Distancia",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños materiales."
+    }
+   ],
+   "pagina": 3,
+   "cita": "Larga Distancia 1091 de la empresa ferroviaria Renfe Operadora que efectuaba el recorrido",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "101.101",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E-1 de Catarroja; Bloqueo Automático Banalizado con CTC.",
+    "tipo_via": "Vía doble electrificada, en recta y terreno llano, sin trincheras.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "Paso superior de vehículos a unos 12 metros del puente sobre el Barranco de Chiva; paso vicioso muy frecuentado; visibilidad muy buena; ausencia de vallado en 175 metros del lado izquierdo; vallado del lado derecho forzado y con roturas, sin continuidad."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de entrada E-1 de Catarroja; Bloqueo Automático Banalizado con CTC.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación por vía 1 hasta las 12:30 h, marcha a la vista hasta las 12:45 h y retrasos acumulados en dos trenes de Cercanías de 22 minutos y en un tren de mercancías de 35 minutos. El tren L.D. 1091 estuvo detenido 13 minutos hasta que fue autorizado a continuar."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación por vía 1 hasta las 12:30 h, marcha a la vista hasta las 12:45 h y retrasos acumulados en dos trenes de Cercanías de 22 minutos y en un tren de mercancías de 35 minutos. El tren L.D. 1091 estuvo detenido 13 minutos hasta que fue autorizado a continuar."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación por vía 1 hasta las 12:30 h, marcha a la vista hasta las 12:45 h y retrasos acumulados en dos trenes de Cercanías de 22 minutos y en un tren de mercancías de 35 minutos. El tren L.D. 1091 estuvo detenido 13 minutos hasta que fue autorizado a continuar."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "101.101",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E-1 de Catarroja; Bloqueo Automático Banalizado con CTC.",
+    "tipo_via": "Vía doble electrificada, en recta y terreno llano, sin trincheras.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "Paso superior de vehículos a unos 12 metros del puente sobre el Barranco de Chiva; paso vicioso muy frecuentado; visibilidad muy buena; ausencia de vallado en 175 metros del lado izquierdo; vallado del lado derecho forzado y con roturas, sin continuidad."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Soleado",
+   "pagina": 2,
+   "cita": "Condiciones meteorológicas: Soleado.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Valencia",
+    "municipio": null,
+    "estacion": "Catarroja"
+   },
+   "pagina": 2,
+   "cita": "Punto kilométrico 106,066 de la línea La Encina - Valencia.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Soleado",
+   "pagina": 2,
+   "cita": "Condiciones meteorológicas: Soleado.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de entrada E-1 de Catarroja; Bloqueo Automático Banalizado con CTC.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E-1 de Catarroja; Bloqueo Automático Banalizado con CTC.",
+    "tipo_via": "Vía doble electrificada, en recta y terreno llano, sin trincheras.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "Paso superior de vehículos a unos 12 metros del puente sobre el Barranco de Chiva; paso vicioso muy frecuentado; visibilidad muy buena; ausencia de vallado en 175 metros del lado izquierdo; vallado del lado derecho forzado y con roturas, sin continuidad."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "101.101",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "invasión indebida de la vía",
+    "vallado defectuoso y roto",
+    "existencia de pasos viciosos"
+   ],
+   "pagina": 6,
+   "cita": "A la vista de los datos obtenidos, se estima que el accidente tuvo su origen en la invasión",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(ADIF), comunicó a través de mensaje de telefonía móvil el pasado 06 de febrero que se \nhabía producido el arrollamiento de una persona resultando fallecida la misma en la Red \nFerroviaria de Interés General administrada por ADIF. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles. Investigación \nque tendrá como finalidad determinar sus causas y formular recomendaciones para reducir los \nriesgos en el transporte ferroviario de acuerdo con el artículo 112 del citado Reglamento. \nReglamento que traspone parcialmente la Directiva 2004/49/CE del Parlamento Europeo de 29 \nde abril de 2004 sobre la seguridad de los ferrocarriles comunitarios, que en su  Artículo 19 \ncircunscribe la investigación a la mejora de la seguridad, y en ningún caso a la determinación \nde culpas o responsabilidades. \n− \nDe conformidad también con el artículo 112 del mencionado Reglamento, el 1 de enero de \n2007 la Dirección General de Ferrocarriles designó el equipo de investigación de \naccidentes ferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (ADIF), comunicó a través de mensaje de telefonía móvil el pasado 06 de febrero que se había producido el ar",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El 6 de febrero de 2007, a las 12:12 h, se produjo un accidente grave por arrollamiento de una persona en plena vía, en la señal de entrada de la estación de Catarroja, en el punto kilométrico 106,066 de la línea La Encina - Valencia. El tren afectado fue el de viajeros de Larga Distancia 1091 de Renfe Operadora, que realizaba el recorrido Barcelona - Alicante. La víctima fue un varón de 91 años que intentaba cruzar las vías.\n\nSegún el parte del maquinista, entre Massanassa y Catarroja, sobre el km 106 aproximadamente, observó a una persona que se aproximaba a la vía II por su lado izquierdo con intención de atravesar las vías. El maquinista hizo uso del silbato y vio que la persona levantó la cabeza hacia el tren, pero continuó cruzando. Aplicó el freno de emergencia y siguió haciendo sonar el silbato, sin conseguir que se detuviera, produciéndose el golpe con un soporte lateral derecho del tren. Del análisis de la memoria estática del vehículo motor 101.101 se desprende que la velocidad de circulación era de 138 km/h, siendo la máxima del tramo 140 km/h.\n\nTras el suceso, el maquinista comunicó el accidente al Jefe del CTC de Valencia, que cursó aviso a las gerencias de seguridad, protección civil y servicios de emergencia. Se realizaron actuaciones de toma de datos por ADIF y Renfe, prueba de alcoholemia negativa al maquinista y levantamiento del cadáver a las 13:55 h por autorización judicial. No se produjeron daños materiales, aunque se registraron perturbaciones en la circulación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR LA EMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por ADIF concluye “Se estima imprudenc a de la persona, que no h zo caso a \nlas indicaciones de silbato del en y continuó cruzando”.  \ni\ni\ntr\n \nt\nEl elaborado por RENFE establece como causa directa del accidente “Imprudencia de la \nvíctima que transitaba indebidamen e por la infraestructura ferroviaria”.  \nPor tanto, ambas conclusiones son coincidentes entre sí en cuanto a la causa del accidente. \n \n \n \nID-060207-200607-DGF \n \n \nPág. 5 de 6\n\n## Página 6\n\n \nInvestigación del accidente \nnº 08/2007 ocurrido el 06.02.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO \nDE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 5,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión indebida de la vía por una persona que intentaba cruzar las vías, calificada como imprudencia de la víctima.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Existencia de pasos viciosos muy frecuentados en el entorno.",
+    "Defectuoso estado de mantenimiento del vallado existente.",
+    "Falta de continuidad del cerramiento.",
+    "Ausencia de vallado en 175 metros del lado izquierdo.",
+    "Vallado del lado derecho forzado, permitiendo el paso de transeúntes.",
+    "Proximidad de núcleos urbanos y polígonos industriales a la línea ferroviaria."
+   ],
+   "pagina": 5,
+   "cita": "Se constata el defectuoso estado de mantenimiento del vallado existente, ya que carece",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "A la vista de los datos obtenidos, se estima que el accidente tuvo su origen en la invasión \nindebida de la vía en el momento de pasar el tren que causó el arrollamiento.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES. A la vista de los datos obtenidos, se estima que el accidente tuvo su origen en la invasión indebida de la vía en el momento de pasar el tren que causó el arrollamiento. 7. RECOMENDACIONES Una vez",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "A la vista de los datos obtenidos, se estima que el accidente tuvo su origen en la invasión \nindebida de la vía en el momento de pasar el tren que causó el arrollamiento.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES. A la vista de los datos obtenidos, se estima que el accidente tuvo su origen en la invasión indebida de la vía en el momento de pasar el tren que causó el arrollamiento. 7. RECOMENDACIONES Una vez",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Completar el vallado en ambos márgenes de la vía entre los dos núcleos de población y entre los dos polígonos industriales.",
+     "destinatario": "Administrador de la infraestructura (ADIF)"
+    },
+    {
+     "texto": "Reparar y mantener adecuadamente el cerramiento existente.",
+     "destinatario": "Administrador de la infraestructura (ADIF)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "07:20",
+     "evento": "Inicio del tiempo de trabajo del maquinista el día del accidente."
+    },
+    {
+     "hora": "12:12",
+     "evento": "Se produce el arrollamiento del peatón por el tren de Larga Distancia 1091."
+    },
+    {
+     "hora": "12:30",
+     "evento": "Finaliza la interrupción de la circulación por vía 1."
+    },
+    {
+     "hora": "12:45",
+     "evento": "Se restablece la marcha normal tras la marcha a la vista."
+    },
+    {
+     "hora": "13:55",
+     "evento": "La Autoridad Judicial autoriza el levantamiento del cadáver."
+    },
+    {
+     "hora": "14:45",
+     "evento": "Fin del tiempo de trabajo del maquinista el día del accidente."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0008/2007",
+ "expediente": "0008/2007",
+ "anio": 2007,
+ "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0008/2007 OCURRIDO EL DÍA 06.02.2007",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-060207-200607-DGF.md"
+}

@@ -1,0 +1,890 @@
+{
+ "id": "ID-180307-200607-DGF",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-180307-200607-DGF.pdf",
+ "pdf": "pdfs/ES/ID-180307-200607-DGF.pdf",
+ "md5_pdf": "02deb549953b00559206b7fc132fe65a",
+ "paginas_md": 6,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 11,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0021/2007",
+   "pagina": 1,
+   "cita": "nº 0021/2007 ocurrido el 18.03.2007",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 18 de marzo de 2007, un tren de Larga Distancia arrolló mortalmente a un varón de 32 años que caminaba por la caja de vía. El suceso ocurrió durante la madrugada entre Hernani Centro y Hernani, en la Línea 100 Madrid-Hendaya. La investigación determinó que la causa fue la imprudencia de la víctima, quien presuntamente cruzaba para acortar el camino desde unas fiestas locales. No hubo daños materiales, aunque se produjeron retrasos en otros trenes.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-03-18",
+    "hora": "06:03",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Hernani",
+     "pk": "615/644",
+     "linea": "Línea 100 Madrid-Hendaya",
+     "provincia": "Guipúzcoa",
+     "descripcion_lugar": "Entre el apeadero de Hernani Centro y la estación de Hernani, en un tramo de vía en curva de transición de parámetro 400 metros."
+    }
+   },
+   "pagina": 4,
+   "cita": "La incidencia tuvo una duración de 52 minutos, desde las 06:03 horas del día 18 de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños.",
+    "afectacion_servicio": "Retraso de 34 minutos para el tren 311, 59 minutos acumulados en 3 trenes de Cercanías y 29 minutos para el tren de Larga Distancia 205."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Imprudencia de la víctima al invadir el gálibo de la vía y caminar por la caja de vía sin percatarse de la llegada del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Horas nocturnas que dificultan la visualización de la persona por parte del maquinista.",
+    "Roturas en el cerramiento metálico de la vía en zonas próximas que facilitaron el acceso."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Revisar el vallado metálico que aísla la línea ferroviaria de la población y proceder a su reparación en aquellos puntos en los que se encuentre dañado o roto.",
+     "destinatario": "Administrador de Infraestructuras Ferroviarias (Adif)"
+    }
+   ],
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Revisar el vallado metálico que aísla la línea ferroviaria de la población y proceder a su reparación en aquellos puntos en los que se encuentre dañado o roto.",
+     "destinatario": "Administrador de Infraestructuras Ferroviarias (Adif)"
+    }
+   ],
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento",
+   "pagina": 2,
+   "cita": "arrollamiento de una persona resultando fallecida la misma, en el punto kilométrico 615/644",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe Operadora"
+   ],
+   "pagina": 2,
+   "cita": "Ferroviarias (Adif), comunicó por mensaje de correo electrónico que se había producido el",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-03-18",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "06:03",
+   "pagina": 4,
+   "cita": "La incidencia tuvo una duración de 52 minutos, desde las 06:03 horas del día 18 de",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Hernani",
+    "pk": "615/644",
+    "linea": "Línea 100 Madrid-Hendaya",
+    "provincia": "Guipúzcoa",
+    "descripcion_lugar": "Entre el apeadero de Hernani Centro y la estación de Hernani, en un tramo de vía en curva de transición de parámetro 400 metros."
+   },
+   "pagina": 2,
+   "cita": "situado entre las estaciones de Andoain y Hernani, de la Línea 100 Madrid-Hendaya, en la",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 100 Madrid-Hendaya",
+   "pagina": 2,
+   "cita": "situado entre las estaciones de Andoain y Hernani, de la Línea 100 Madrid-Hendaya, en la",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 333034",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros Larga Distancia 311 de Renfe Operadora, remolcado por la locomotora 333034, procedente de Fuentes de Oñoro con destino Hendaya, circulaba por la Línea 100 Madrid-Hendaya. A las 06:03 horas, a unos 100 metros de la señal de entrada de la estación de Hernani, el maquinista observó a una persona andando por la caja de vía de espaldas al tren. El conductor hizo uso del silbato y del freno de emergencia, pero fue imposible evitar el arrollamiento, resultando fallecido un varón de 32 años. El tren se detuvo en el punto kilométrico 617/067.\n\nTras el suceso, el maquinista avisó al puesto de mando de Miranda de Ebro, que alertó a los servicios de emergencia y a las autoridades. La Policía comprobó la posición del cuerpo y autorizó la reanudación de la marcha a las 06:54 horas, una vez retirado el cadáver por los bomberos. Los medios sanitarios confirmaron el fallecimiento y el levantamiento del cuerpo se realizó a las 07:37 horas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Hernani",
+    "pk": "615/644",
+    "linea": "Línea 100 Madrid-Hendaya",
+    "provincia": "Guipúzcoa",
+    "descripcion_lugar": "Entre el apeadero de Hernani Centro y la estación de Hernani, en un tramo de vía en curva de transición de parámetro 400 metros."
+   },
+   "pagina": 2,
+   "cita": "situado entre las estaciones de Andoain y Hernani, de la Línea 100 Madrid-Hendaya, en la",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños.",
+    "afectacion_servicio": "Retraso de 34 minutos para el tren 311, 59 minutos acumulados en 3 trenes de Cercanías y 29 minutos para el tren de Larga Distancia 205."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista",
+     "implicacion": "Realizó maniobras de frenado de emergencia y aviso acústico. Dio negativo en la prueba de alcoholemia (0,00mg/1000ml)."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "311",
+     "tipo": "Larga Distancia",
+     "operador": "Renfe Operadora",
+     "danos": "No se produjeron daños materiales"
+    },
+    {
+     "numero": "205",
+     "tipo": "Larga Distancia",
+     "operador": null,
+     "danos": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "El tren de viajeros Larga Distancia 311 de la empresa ferroviaria Renfe Operadora,",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 333034",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal E1 de entrada a la estación de Hernani",
+    "tipo_via": "Vía doble",
+    "velocidad_maxima": "105 km/h",
+    "ancho": null,
+    "electrificacion": "Sí",
+    "estado_via": "Ambos márgenes vallados con cerramiento metálico en buenas condiciones, aunque con roturas en zonas próximas.",
+    "otro": "Bloqueo Automático en vía doble (B.A.D). Pendiente de 0.3 milésimas."
+   },
+   "pagina": 4,
+   "cita": "La velocidad máxima en el tramo es de 105 km/h.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal E1 de entrada a la estación de Hernani",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños.",
+    "afectacion_servicio": "Retraso de 34 minutos para el tren 311, 59 minutos acumulados en 3 trenes de Cercanías y 29 minutos para el tren de Larga Distancia 205."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños.",
+    "afectacion_servicio": "Retraso de 34 minutos para el tren 311, 59 minutos acumulados en 3 trenes de Cercanías y 29 minutos para el tren de Larga Distancia 205."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños.",
+    "afectacion_servicio": "Retraso de 34 minutos para el tren 311, 59 minutos acumulados en 3 trenes de Cercanías y 29 minutos para el tren de Larga Distancia 205."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 333034",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal E1 de entrada a la estación de Hernani",
+    "tipo_via": "Vía doble",
+    "velocidad_maxima": "105 km/h",
+    "ancho": null,
+    "electrificacion": "Sí",
+    "estado_via": "Ambos márgenes vallados con cerramiento metálico en buenas condiciones, aunque con roturas en zonas próximas.",
+    "otro": "Bloqueo Automático en vía doble (B.A.D). Pendiente de 0.3 milésimas."
+   },
+   "pagina": 4,
+   "cita": "La velocidad máxima en el tramo es de 105 km/h.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Buenas condiciones meteorológicas, aunque el accidente se produjo de noche, lo que reducía la visibilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Guipúzcoa",
+    "municipio": null,
+    "estacion": "Hernani"
+   },
+   "pagina": 2,
+   "cita": "provincia de Guipúzcoa, perteneciente a la Red Ferroviaria de Interés General administrada",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Buenas condiciones meteorológicas, aunque el accidente se produjo de noche, lo que reducía la visibilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal E1 de entrada a la estación de Hernani",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal E1 de entrada a la estación de Hernani",
+    "tipo_via": "Vía doble",
+    "velocidad_maxima": "105 km/h",
+    "ancho": null,
+    "electrificacion": "Sí",
+    "estado_via": "Ambos márgenes vallados con cerramiento metálico en buenas condiciones, aunque con roturas en zonas próximas.",
+    "otro": "Bloqueo Automático en vía doble (B.A.D). Pendiente de 0.3 milésimas."
+   },
+   "pagina": 4,
+   "cita": "La velocidad máxima en el tramo es de 105 km/h.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 333034",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Víctima accedió a caja de vía",
+    "Cerramiento defectuoso en zonas próximas",
+    "Carpas de fiestas junto a vía",
+    "Tramo en curva reduce visibilidad"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras \nFerroviarias (Adif), comunicó por mensaje de correo electrónico que se había producido el \narrollamiento de una persona resultando fallecida la misma, en el punto kilométrico 615/644 \nsituado entre las estaciones de Andoain y Hernani, de la Línea 100 Madrid-Hendaya, en la \nprovincia de Guipúzcoa, perteneciente a la Red Ferroviaria de Interés General administrada \npor Adif. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles de acuerdo \ncon el citado artículo.  \nDe conformidad con el artículo 112 del mencionado Reglamento, el 1 de marzo de 2007 \nla Dirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), comunicó por mensaje de correo electrónico que se había producido el arrollamiento de una persona re",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros Larga Distancia 311 de Renfe Operadora, remolcado por la locomotora 333034, procedente de Fuentes de Oñoro con destino Hendaya, circulaba por la Línea 100 Madrid-Hendaya. A las 06:03 horas, a unos 100 metros de la señal de entrada de la estación de Hernani, el maquinista observó a una persona andando por la caja de vía de espaldas al tren. El conductor hizo uso del silbato y del freno de emergencia, pero fue imposible evitar el arrollamiento, resultando fallecido un varón de 32 años. El tren se detuvo en el punto kilométrico 617/067.\n\nTras el suceso, el maquinista avisó al puesto de mando de Miranda de Ebro, que alertó a los servicios de emergencia y a las autoridades. La Policía comprobó la posición del cuerpo y autorizó la reanudación de la marcha a las 06:54 horas, una vez retirado el cadáver por los bomberos. Los medios sanitarios confirmaron el fallecimiento y el levantamiento del cuerpo se realizó a las 07:37 horas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "LA INFRAESTRUCTURA Y POR LA EMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \n \n \n \nID-180307-200607-DGF \n \n \nPág. 5 de 6\n\n## Página 6\n\n \nInvestigación del accidente \nnº 0021/2007 ocurrido el 18.03.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo \n \nEl elaborado por Adif concluye “…el motivo del accidente fue debido a la imprudencia de \nla persona arrollada, accediendo y desplazándose por la caja de vía  agravándose el hecho \nal ser horas nocturnas y de difícil visualización por cualquier maquinista”. \n,\nEl elaborado por Renfe Operadora concluye “Imprudencia de la víctima por invadir el \ngálibo de la vía en el momento de la llegada del tren de Larga Distancia 311, haciendo caso \nomiso de las señales acústicas que realizó el maquinista con el silbato de la locomotora, \nsiendo inevitable el arrollamiento”.  \nPor tanto, ambas conclusiones son coincidentes en cuanto a la causa del accidente.",
+   "pagina": 5,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Imprudencia de la víctima al invadir el gálibo de la vía y caminar por la caja de vía sin percatarse de la llegada del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Horas nocturnas que dificultan la visualización de la persona por parte del maquinista.",
+    "Roturas en el cerramiento metálico de la vía en zonas próximas que facilitaron el acceso."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "El accidente tuvo su origen en la imprudencia de la víctima que transitaba indebidamente \npor las vías sin percatarse de la llegada del tren 311.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES El accidente tuvo su origen en la imprudencia de la víctima que transitaba indebidamente por las vías sin percatarse de la llegada del tren 311. 7. RECOMENDACIONES Aunque existe aislamiento entre",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "El accidente tuvo su origen en la imprudencia de la víctima que transitaba indebidamente \npor las vías sin percatarse de la llegada del tren 311.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES El accidente tuvo su origen en la imprudencia de la víctima que transitaba indebidamente por las vías sin percatarse de la llegada del tren 311. 7. RECOMENDACIONES Aunque existe aislamiento entre",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Revisar el vallado metálico que aísla la línea ferroviaria de la población y proceder a su reparación en aquellos puntos en los que se encuentre dañado o roto.",
+     "destinatario": "Administrador de Infraestructuras Ferroviarias (Adif)"
+    }
+   ],
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "06:03",
+     "evento": "Arrollamiento de la persona por el tren 311 en el PK 615/644."
+    },
+    {
+     "hora": null,
+     "evento": "El tren se detiene en el PK 617/067 y el maquinista informa al puesto de mando de Miranda de Ebro."
+    },
+    {
+     "hora": "06:54",
+     "evento": "La Policía autoriza a reanudar la marcha del tren tras retirar el cuerpo los bomberos."
+    },
+    {
+     "hora": "06:55",
+     "evento": "Fin de la incidencia y perturbación en el tráfico (duración total de 52 minutos)."
+    },
+    {
+     "hora": "07:37",
+     "evento": "Levantamiento del cadáver y traslado al tanatorio de Hernani."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0021/2007",
+ "expediente": "0021/2007",
+ "anio": 2007,
+ "titulo": "Arrollamiento de una persona, resultando fallecida, por tren Larga Distancia 311 entre Hernani Centro y Hernani, Línea 100 Madrid-Hendaya",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-180307-200607-DGF.md"
+}

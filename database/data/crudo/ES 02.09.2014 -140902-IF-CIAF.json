@@ -1,0 +1,1024 @@
+{
+ "id": "ES 02.09.2014 -140902-IF-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/3188C457-FC1D-4B3E-99A0-556425A72ABC/137598/151124140902IFCIAF1.pdf",
+ "pdf": "pdfs/ES/ES 02.09.2014 -140902-IF-CIAF.pdf",
+ "md5_pdf": "66bdb4ba65fb0a08229adc1d841298fb",
+ "paginas_md": 19,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 18,
+ "n_tablas": 3,
+ "tablas": [
+  {
+   "pagina": 5,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+     "Implementador final": "Adif (RAM)",
+     "Número": "51/14-1",
+     "Recomendación": "Impulsar la ejecución del proyecto “Segunda intervención en refuerzo de asentamientos Colombres” con el objeto de restablecer las condiciones normales de circulación. Mientras tanto se deberá mantener la pertinente LTV y las visitas de inspección al tramo."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 15,
+   "cabecera": [
+    "FECHA",
+    "PK",
+    "DESCRIPCIÓN DE LA OPERACIÓN"
+   ],
+   "filas": [
+    {
+     "FECHA": "15.03.2012",
+     "PK": "451+570 al 451+600",
+     "DESCRIPCIÓN DE LA OPERACIÓN": "Depuración manual"
+    },
+    {
+     "FECHA": "21.03.2012",
+     "PK": "451+570 al 451+600",
+     "DESCRIPCIÓN DE LA OPERACIÓN": "Depuración manual"
+    },
+    {
+     "FECHA": "22.03.2012",
+     "PK": "451+570 al 451+600",
+     "DESCRIPCIÓN DE LA OPERACIÓN": "Nivelación manual"
+    },
+    {
+     "FECHA": "22.03.2012",
+     "PK": "451+500 al 452+000",
+     "DESCRIPCIÓN DE LA OPERACIÓN": "Riego de balasto"
+    },
+    {
+     "FECHA": "Noviembre de 2012",
+     "PK": "451+550 al 452+000",
+     "DESCRIPCIÓN DE LA OPERACIÓN": "Bateo con maquinaria pesada"
+    },
+    {
+     "FECHA": "17.04.2013",
+     "PK": "451+550 al 452+000",
+     "DESCRIPCIÓN DE LA OPERACIÓN": "Bateo con maquinaria pesada"
+    },
+    {
+     "FECHA": "15.11.2013",
+     "PK": "451+560",
+     "DESCRIPCIÓN DE LA OPERACIÓN": "Nivelación manual en una longitud de 20 metros"
+    },
+    {
+     "FECHA": "08.07.2014",
+     "PK": "451+570",
+     "DESCRIPCIÓN DE LA OPERACIÓN": "Nivelación manual en una longitud de 40 metros"
+    }
+   ],
+   "cita": "| FECHA | PK | DESCRIPCIÓN DE LA OPERACIÓN |"
+  },
+  {
+   "pagina": 19,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+     "Implementador final": "Adif (RAM)",
+     "Número": "51/14-1",
+     "Recomendación": "Impulsar la ejecución del proyecto “Segunda intervención en refuerzo de asentamientos Colombres” con el objeto de restablecer las condiciones normales de circulación. Mientras tanto se deberá mantener la pertinente LTV y las visitas de inspección al tramo."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0051/2014",
+   "pagina": 1,
+   "cita": "nº 0051/2014 ocurrido el 02.09.2014",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2 de septiembre de 2014, el tren de mercancías 9656 de Renfe Mercancías (ancho métrico) descarriló en el PK 451+557 de la línea RAM 770 Santander-Oviedo, entre la estación de Unquera y el apeadero de Colombres. Descarrilaron los dos bogies traseros de ambas locomotoras (1908 y 1907) por remonte del carril, recorriendo 107 metros descarrilado. No hubo víctimas. La causa fue la existencia de defectos en la geometría de la vía (alabeos) ocasionados por un drenaje insuficiente de la plataforma, que ya motivaba una LTV a 30 km/h en la zona.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2014-09-02",
+    "hora": "21:11",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Unquera (estación) / Colombres (apeadero)",
+     "pk": "451+557",
+     "linea": "RAM 770 Santander – Oviedo",
+     "provincia": "Asturias",
+     "descripcion_lugar": "Plena vía entre la estación de Unquera (Cantabria) y el apeadero de Colombres (Asturias), municipio de Ribadedeva. Transición de entrada a curva a la izquierda, radio 182 m, trinchera, rampa de 12 milésimas. Zona con LTV a 30 km/h por deformación de vía e inestabilidad de plataforma."
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 2 de septiembre de 2014 a las 21:11 horas, el tren de mercancías 9656 del servicio de ancho",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: 40.500 € (tuberías de alimentación de bogies y pestañas de ruedas). Infraestructura: 39.500 € (rotura de traviesas, desalineación de geometría; sustitución de 180 traviesas de hormigón monobloque). Total: 80.000 €",
+    "afectacion_servicio": "Interrupción de circulación de 21:11 del 02/09/2014 a 13:45 del 03/09/2014 (~16,5 h). Supresión total de 4 trenes de mercancías; supresión parcial de 2 trenes de mercancías (incluido el accidentado) y 3 trenes de viajeros (media distancia). 1 tren de mercancías con retraso de 141 minutos. Restablecida la circulación con LTV a 10 km/h entre PK 450+600 y 451+400"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Defectos en la geometría de la vía, concretamente alabeos, ocasionados por un drenaje insuficiente de la plataforma, que provocaron el remonte del carril por las ruedas exteriores en curva de radio reducido",
+   "pagina": 5,
+   "cita": "Conclusión: El accidente se produjo por la existencia de defectos en la geometría de la vía,",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Baja velocidad del tren (32 km/h) que provoca sobrecarga de ruedas del carril interior y descarga de las del exterior, facilitando el remonte",
+    "Curva de radio reducido (R=181-182 m) con fuerte descenso de peralte (8 mm/m / 19 mm en 3 m) que impone ángulo de ataque significativo a la rueda exterior",
+    "Exceso de velocidad de 2 km/h sobre la LTV de 30 km/h (no considerado determinante)",
+    "Flechas con progresión no constante en la transición de entrada a curva con tramos rectilíneos intercalados",
+    "Contaminación del balasto y presencia de lodo por cuneta de hormigón a cota elevada que no drena eficazmente"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Las labores de mantenimiento preventivos (nivelaciones manuales, bateos, depuraciones, riego de balasto) no fueron suficientes para restablecer las condiciones adecuadas de circulación ni suprimir la LTV",
+    "Inestabilidad de la plataforma no resuelta a pesar de la LTV establecida"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Impulsar la ejecución del proyecto “Segunda intervención en refuerzo de asentamientos Colombres” con el objeto de restablecer las condiciones normales de circulación. Mientras tanto se deberá mantener la pertinente LTV y las visitas de inspección al tramo.",
+    "Impulsar la ejecución del proyecto “Segunda intervención en refuerzo de asentamientos Colombres” con el objeto de restablecer las condiciones normales de circulación. Mientras tanto se deberá mantener la pertinente LTV y las visitas de inspección al tramo."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Descarrilamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Mercancías",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "métrico (SAM) de la empresa ferroviaria Renfe Mercancías, procedente de Santander y destino El",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2014-09-02",
+   "pagina": 5,
+   "cita": "El día 2 de septiembre de 2014 a las 21:11 horas, el tren de mercancías 9656 del servicio de ancho",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "21:11",
+   "pagina": 5,
+   "cita": "El día 2 de septiembre de 2014 a las 21:11 horas, el tren de mercancías 9656 del servicio de ancho",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Unquera (estación) / Colombres (apeadero)",
+    "pk": "451+557",
+    "linea": "RAM 770 Santander – Oviedo",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Plena vía entre la estación de Unquera (Cantabria) y el apeadero de Colombres (Asturias), municipio de Ribadedeva. Transición de entrada a curva a la izquierda, radio 182 m, trinchera, rampa de 12 milésimas. Zona con LTV a 30 km/h por deformación de vía e inestabilidad de plataforma."
+   },
+   "pagina": 5,
+   "cita": "Berrón, detiene su marcha en el PK 451+450 de la línea RAM 770 Santander – Oviedo, tras haber",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "RAM 770 Santander - Oviedo",
+   "pagina": 5,
+   "cita": "Berrón, detiene su marcha en el PK 451+450 de la línea RAM 770 Santander – Oviedo, tras haber",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotoras serie 1900 (1908 y 1907); 19 vagones (13 portabobinas vacíos, 5 plataformas con palanquilla, 1 plataforma con útiles de amarre). Peso bruto remolcado: 559 t. Tipo 50 (Vmax 50 km/h)",
+    "averia": "No se detectó avería previa. Parámetros de rodadura (espesor y altura de pestaña, Qr) dentro de normativa. Registrador de seguridad en locomotora 1908 con retraso de 63 s respecto a hora oficial",
+    "mantenimiento": "No se menciona mantenimiento específico del material rodante como factor"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 2 de septiembre de 2014, el tren de mercancías 9656 del servicio de ancho métrico (SAM) de Renfe Mercancías, procedente de Santander con destino El Berrón, formado por las locomotoras 1908 y 1907 y 19 vagones (13 portabobinas vacíos, 5 plataformas cargadas con palanquilla y 1 plataforma con útiles de amarre), venía circulando con normalidad por la línea RAM 770 Santander-Oviedo. El tren circulaba a 32 km/h en un tramo con limitación temporal de velocidad (LTV) a 30 km/h establecida por deformación de la vía por inestabilidad de la plataforma. Al llegar al PK 451+557, en la transición de entrada a una curva a la izquierda de radio 182 metros, se produjo el remonte del carril por la rueda derecha del primer eje del segundo bogie de la locomotora en cabeza, seguido del descarrilamiento del segundo bogie de la locomotora siguiente.\n\nEl maquinista notó un comportamiento extraño del tren y desconectó el sistema ASFA, activándose el freno de emergencia. El tren recorrió 107 metros descarrilado hasta detenerse en el PK 451+450 a las 21:11 horas. No se produjeron víctimas mortales ni heridos. El maquinista protegió la composición y avisó al puesto de mando de Santander. Se activó el plan de contingencias interno de Renfe y Adif. A las 02:00 horas se apartaron los 19 vagones en Unquera, y a las 13:45 horas del día siguiente quedó desbloqueada la vía tras encarrilar ambas locomotoras.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Unquera (estación) / Colombres (apeadero)",
+    "pk": "451+557",
+    "linea": "RAM 770 Santander – Oviedo",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Plena vía entre la estación de Unquera (Cantabria) y el apeadero de Colombres (Asturias), municipio de Ribadedeva. Transición de entrada a curva a la izquierda, radio 182 m, trinchera, rampa de 12 milésimas. Zona con LTV a 30 km/h por deformación de vía e inestabilidad de plataforma."
+   },
+   "pagina": 5,
+   "cita": "Berrón, detiene su marcha en el PK 451+450 de la línea RAM 770 Santander – Oviedo, tras haber",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: 40.500 € (tuberías de alimentación de bogies y pestañas de ruedas). Infraestructura: 39.500 € (rotura de traviesas, desalineación de geometría; sustitución de 180 traviesas de hormigón monobloque). Total: 80.000 €",
+    "afectacion_servicio": "Interrupción de circulación de 21:11 del 02/09/2014 a 13:45 del 03/09/2014 (~16,5 h). Supresión total de 4 trenes de mercancías; supresión parcial de 2 trenes de mercancías (incluido el accidentado) y 3 trenes de viajeros (media distancia). 1 tren de mercancías con retraso de 141 minutos. Restablecida la circulación con LTV a 10 km/h entre PK 450+600 y 451+400"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 9656",
+     "implicacion": "Matrícula 6961817; habilitado desde 19.01.2000; último reciclaje formativo 09.10.2012; último reconocimiento médico/psicotécnico 17.06.2014; prueba de alcoholemia negativa (0,00 mg/1000 ml) a las 00:30 del 03.09.2014; cumplió normativa; protegió la composición reglamentariamente; desconectó ASFA para activar freno de emergencia al notar comportamiento extraño"
+    }
+   ],
+   "pagina": 7,
+   "cita": "El maquinista del tren 9656, con matrícula 6961817.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "No hubo heridos ni víctimas mortales.",
+   "pagina": 10,
+   "cita": "2.3.1. Viajeros, personal y terceros",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "9656",
+     "tipo": "mercancías (SAM, ancho métrico)",
+     "operador": "Renfe Mercancías",
+     "danos": "Daños en tuberías de alimentación de bogies descarrilados y en pestañas de ruedas; 40.500 €"
+    },
+    {
+     "numero": "1908",
+     "tipo": "locomotora (serie 1900)",
+     "operador": "Renfe Mercancías (SAM)",
+     "danos": "Descarrilamiento del segundo bogie; encarrilada a las 11:15"
+    },
+    {
+     "numero": "1907",
+     "tipo": "locomotora (serie 1900)",
+     "operador": "Renfe Mercancías (SAM)",
+     "danos": "Descarrilamiento del segundo bogie; encarrilada a las 08:00"
+    }
+   ],
+   "pagina": 5,
+   "cita": "El día 2 de septiembre de 2014 a las 21:11 horas, el tren de mercancías 9656 del servicio de ancho",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotoras serie 1900 (1908 y 1907); 19 vagones (13 portabobinas vacíos, 5 plataformas con palanquilla, 1 plataforma con útiles de amarre). Peso bruto remolcado: 559 t. Tipo 50 (Vmax 50 km/h)",
+    "averia": "No se detectó avería previa. Parámetros de rodadura (espesor y altura de pestaña, Qr) dentro de normativa. Registrador de seguridad en locomotora 1908 con retraso de 63 s respecto a hora oficial",
+    "mantenimiento": "No se menciona mantenimiento específico del material rodante como factor"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 8,
+   "cita": "nº 4/2011 DGI (Dirección General de Infraestructuras) “Velocidades máximas admitidas en los",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "ASFA",
+    "tipo_via": "Vía única, no electrificada, bloqueo telefónico",
+    "velocidad_maxima": "80 km/h (trayecto Llanes-Unquera, Consigna Serie C nº 4/2011 DGI); LTV 30 km/h en PK 451+550 a 452+000 por deformación de vía",
+    "ancho": "Ancho métrico (1000 mm)",
+    "electrificacion": "No electrificada",
+    "estado_via": "Defectos de geometría: alabeos de 8 mm/m (19 mm/3 m) incumpliendo máximo de 9 mm/3 m; variaciones peralte teórico-real hasta 26 mm (máximo ±10 mm); flechas con progresión no constante; contaminación del balasto y presencia de lodo por drenaje insuficiente de cuneta de hormigón a cota elevada",
+    "otro": "Carriles 54 kg/ml en barra larga soldada, traviesas hormigón monobloque, sujeción elástica tipo HM, balasto silíceo. Cuneta de hormigón en lado derecho que no drena eficazmente. Tramo en trinchera, rampa 12 milésimas, curva izquierda R=182 m."
+   },
+   "pagina": 6,
+   "cita": "desconecta el sistema ASFA, haciendo que se activase el freno de emergencia. El tren recorre",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "ASFA",
+   "pagina": 6,
+   "cita": "desconecta el sistema ASFA, haciendo que se activase el freno de emergencia. El tren recorre",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía analógica entre los trenes, las estaciones y el puesto de mando.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": "No existían de ningún tipo en las proximidades del suceso.",
+   "pagina": 9,
+   "cita": "2.2.5. Obras en el lugar o cercanías",
+   "origen": "determinista",
+   "regla": "sec:^obras en el lugar o cercan[íi]as$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: 40.500 € (tuberías de alimentación de bogies y pestañas de ruedas). Infraestructura: 39.500 € (rotura de traviesas, desalineación de geometría; sustitución de 180 traviesas de hormigón monobloque). Total: 80.000 €",
+    "afectacion_servicio": "Interrupción de circulación de 21:11 del 02/09/2014 a 13:45 del 03/09/2014 (~16,5 h). Supresión total de 4 trenes de mercancías; supresión parcial de 2 trenes de mercancías (incluido el accidentado) y 3 trenes de viajeros (media distancia). 1 tren de mercancías con retraso de 141 minutos. Restablecida la circulación con LTV a 10 km/h entre PK 450+600 y 451+400"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: 40.500 € (tuberías de alimentación de bogies y pestañas de ruedas). Infraestructura: 39.500 € (rotura de traviesas, desalineación de geometría; sustitución de 180 traviesas de hormigón monobloque). Total: 80.000 €",
+    "afectacion_servicio": "Interrupción de circulación de 21:11 del 02/09/2014 a 13:45 del 03/09/2014 (~16,5 h). Supresión total de 4 trenes de mercancías; supresión parcial de 2 trenes de mercancías (incluido el accidentado) y 3 trenes de viajeros (media distancia). 1 tren de mercancías con retraso de 141 minutos. Restablecida la circulación con LTV a 10 km/h entre PK 450+600 y 451+400"
+   },
+   "pagina": 18,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: 40.500 € (tuberías de alimentación de bogies y pestañas de ruedas). Infraestructura: 39.500 € (rotura de traviesas, desalineación de geometría; sustitución de 180 traviesas de hormigón monobloque). Total: 80.000 €",
+    "afectacion_servicio": "Interrupción de circulación de 21:11 del 02/09/2014 a 13:45 del 03/09/2014 (~16,5 h). Supresión total de 4 trenes de mercancías; supresión parcial de 2 trenes de mercancías (incluido el accidentado) y 3 trenes de viajeros (media distancia). 1 tren de mercancías con retraso de 141 minutos. Restablecida la circulación con LTV a 10 km/h entre PK 450+600 y 451+400"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras serie 1900 (1908 y 1907); 19 vagones (13 portabobinas vacíos, 5 plataformas con palanquilla, 1 plataforma con útiles de amarre). Peso bruto remolcado: 559 t. Tipo 50 (Vmax 50 km/h)",
+    "averia": "No se detectó avería previa. Parámetros de rodadura (espesor y altura de pestaña, Qr) dentro de normativa. Registrador de seguridad en locomotora 1908 con retraso de 63 s respecto a hora oficial",
+    "mantenimiento": "No se menciona mantenimiento específico del material rodante como factor"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "ASFA",
+    "tipo_via": "Vía única, no electrificada, bloqueo telefónico",
+    "velocidad_maxima": "80 km/h (trayecto Llanes-Unquera, Consigna Serie C nº 4/2011 DGI); LTV 30 km/h en PK 451+550 a 452+000 por deformación de vía",
+    "ancho": "Ancho métrico (1000 mm)",
+    "electrificacion": "No electrificada",
+    "estado_via": "Defectos de geometría: alabeos de 8 mm/m (19 mm/3 m) incumpliendo máximo de 9 mm/3 m; variaciones peralte teórico-real hasta 26 mm (máximo ±10 mm); flechas con progresión no constante; contaminación del balasto y presencia de lodo por drenaje insuficiente de cuneta de hormigón a cota elevada",
+    "otro": "Carriles 54 kg/ml en barra larga soldada, traviesas hormigón monobloque, sujeción elástica tipo HM, balasto silíceo. Cuneta de hormigón en lado derecho que no drena eficazmente. Tramo en trinchera, rampa 12 milésimas, curva izquierda R=182 m."
+   },
+   "pagina": 6,
+   "cita": "desconecta el sistema ASFA, haciendo que se activase el freno de emergencia. El tren recorre",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "No existían condiciones meteorológicas adversas en el momento del suceso",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Asturias",
+    "municipio": null,
+    "estacion": "Unquera - Colombres"
+   },
+   "pagina": 5,
+   "cita": "apeadero de Colombres (Asturias)",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "No existían condiciones meteorológicas adversas en el momento del suceso",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "ASFA",
+   "pagina": 6,
+   "cita": "desconecta el sistema ASFA, haciendo que se activase el freno de emergencia. El tren recorre",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "ASFA",
+    "tipo_via": "Vía única, no electrificada, bloqueo telefónico",
+    "velocidad_maxima": "80 km/h (trayecto Llanes-Unquera, Consigna Serie C nº 4/2011 DGI); LTV 30 km/h en PK 451+550 a 452+000 por deformación de vía",
+    "ancho": "Ancho métrico (1000 mm)",
+    "electrificacion": "No electrificada",
+    "estado_via": "Defectos de geometría: alabeos de 8 mm/m (19 mm/3 m) incumpliendo máximo de 9 mm/3 m; variaciones peralte teórico-real hasta 26 mm (máximo ±10 mm); flechas con progresión no constante; contaminación del balasto y presencia de lodo por drenaje insuficiente de cuneta de hormigón a cota elevada",
+    "otro": "Carriles 54 kg/ml en barra larga soldada, traviesas hormigón monobloque, sujeción elástica tipo HM, balasto silíceo. Cuneta de hormigón en lado derecho que no drena eficazmente. Tramo en trinchera, rampa 12 milésimas, curva izquierda R=182 m."
+   },
+   "pagina": 6,
+   "cita": "desconecta el sistema ASFA, haciendo que se activase el freno de emergencia. El tren recorre",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía analógica entre los trenes, las estaciones y el puesto de mando.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras serie 1900 (1908 y 1907); 19 vagones (13 portabobinas vacíos, 5 plataformas con palanquilla, 1 plataforma con útiles de amarre). Peso bruto remolcado: 559 t. Tipo 50 (Vmax 50 km/h)",
+    "averia": "No se detectó avería previa. Parámetros de rodadura (espesor y altura de pestaña, Qr) dentro de normativa. Registrador de seguridad en locomotora 1908 con retraso de 63 s respecto a hora oficial",
+    "mantenimiento": "No se menciona mantenimiento específico del material rodante como factor"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Drenaje de cuneta no eficaz",
+    "Contaminación del balasto",
+    "Mantenimiento no paliaba defectos plataforma",
+    "No se suprimió la LTV"
+   ],
+   "pagina": 13,
+   "cita": "manera eficaz dicha plataforma. Se aprecia contaminación del balasto y presencia de lodo en varios puntos.",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 9656 se encuentra habilitado para la conducción de vehículos ferroviarios en \nvirtud de la capacitación adquirida de conformidad con el estatuto propio y la normativa legal \naplicable a Feve. \nÉste tiene una antigüedad en el cargo desde el 19.01.2000. \nRealizó su último reciclaje formativo el 09.10.2012 y su último reconocimiento médico y psicotécnico el \n17.06.2014, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 11,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 2 de septiembre de 2014, el tren de mercancías 9656 del servicio de ancho métrico (SAM) de Renfe Mercancías, procedente de Santander con destino El Berrón, formado por las locomotoras 1908 y 1907 y 19 vagones (13 portabobinas vacíos, 5 plataformas cargadas con palanquilla y 1 plataforma con útiles de amarre), venía circulando con normalidad por la línea RAM 770 Santander-Oviedo. El tren circulaba a 32 km/h en un tramo con limitación temporal de velocidad (LTV) a 30 km/h establecida por deformación de la vía por inestabilidad de la plataforma. Al llegar al PK 451+557, en la transición de entrada a una curva a la izquierda de radio 182 metros, se produjo el remonte del carril por la rueda derecha del primer eje del segundo bogie de la locomotora en cabeza, seguido del descarrilamiento del segundo bogie de la locomotora siguiente.\n\nEl maquinista notó un comportamiento extraño del tren y desconectó el sistema ASFA, activándose el freno de emergencia. El tren recorrió 107 metros descarrilado hasta detenerse en el PK 451+450 a las 21:11 horas. No se produjeron víctimas mortales ni heridos. El maquinista protegió la composición y avisó al puesto de mando de Santander. Se activó el plan de contingencias interno de Renfe y Adif. A las 02:00 horas se apartaron los 19 vagones en Unquera, y a las 13:45 horas del día siguiente quedó desbloqueada la vía tras encarrilar ambas locomotoras.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Defectos en la geometría de la vía, concretamente alabeos, ocasionados por un drenaje insuficiente de la plataforma, que provocaron el remonte del carril por las ruedas exteriores en curva de radio reducido",
+   "pagina": 5,
+   "cita": "Conclusión: El accidente se produjo por la existencia de defectos en la geometría de la vía,",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Baja velocidad del tren (32 km/h) que provoca sobrecarga de ruedas del carril interior y descarga de las del exterior, facilitando el remonte",
+    "Curva de radio reducido (R=181-182 m) con fuerte descenso de peralte (8 mm/m / 19 mm en 3 m) que impone ángulo de ataque significativo a la rueda exterior",
+    "Exceso de velocidad de 2 km/h sobre la LTV de 30 km/h (no considerado determinante)",
+    "Flechas con progresión no constante en la transición de entrada a curva con tramos rectilíneos intercalados",
+    "Contaminación del balasto y presencia de lodo por cuneta de hormigón a cota elevada que no drena eficazmente"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Impulsar la ejecución del proyecto “Segunda intervención en refuerzo de asentamientos Colombres” con el objeto de restablecer las condiciones normales de circulación. Mientras tanto se deberá mantener la pertinente LTV y las visitas de inspección al tramo.",
+    "Impulsar la ejecución del proyecto “Segunda intervención en refuerzo de asentamientos Colombres” con el objeto de restablecer las condiciones normales de circulación. Mientras tanto se deberá mantener la pertinente LTV y las visitas de inspección al tramo."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "Adif (RAM)",
+    "Adif (RAM)"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "21:09:51",
+     "evento": "El tren entra en la zona de LTV a 30 km/h circulando a 24 km/h con velocidad descendente"
+    },
+    {
+     "hora": "21:09:55",
+     "evento": "El maquinista aplica tracción"
+    },
+    {
+     "hora": "21:10:54",
+     "evento": "Descarrilamiento en PK 451+557 a 32 km/h; remonte de carril por rueda derecha del segundo bogie de la locomotora 1908, seguido del segundo bogie de la 1907"
+    },
+    {
+     "hora": "21:10:57",
+     "evento": "Arenado automático por patinaje, freno neumático y freno de emergencia por desconexión del ASFA (tras ~80 m descarrilado)"
+    },
+    {
+     "hora": "21:11:15",
+     "evento": "Tren detenido en PK 451+450 tras 107 m descarrilado"
+    },
+    {
+     "hora": "21:11:00",
+     "evento": "Hora oficial del accidente según resumen; aviso al puesto de mando de Santander"
+    },
+    {
+     "hora": "02:00:00",
+     "evento": "Vagones del tren 9656 apartados por cola en estación de Unquera con locomotora 1914"
+    },
+    {
+     "hora": "04:05:00",
+     "evento": "Sale tren de socorro de Llanes hacia el PK del descarrilamiento"
+    },
+    {
+     "hora": "08:00:00",
+     "evento": "Queda encarrilada la locomotora 1907"
+    },
+    {
+     "hora": "11:15:00",
+     "evento": "Queda encarrilada la locomotora 1908"
+    },
+    {
+     "hora": "12:25:00",
+     "evento": "Locomotoras 1908 y 1907 apartadas en estación de Unquera"
+    },
+    {
+     "hora": "13:45:00",
+     "evento": "Vía desbloqueada; restablecida la circulación con LTV a 10 km/h entre PKs 450+600 y 451+400"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0051/2014",
+ "expediente": "0051/14",
+ "anio": 2014,
+ "titulo": "Descarrilamiento de tren de mercancías entre Unquera (Cantabria) y Colombres (Asturias)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 02.09.2014 -140902-IF-CIAF.md"
+}

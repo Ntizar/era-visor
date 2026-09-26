@@ -1,0 +1,967 @@
+{
+ "id": "IF_190712_280513_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/3F761E14-55BF-4731-AE1B-99ED94D01865/118403/IF190712280513CIAF.pdf",
+ "pdf": "pdfs/ES/IF_190712_280513_CIAF.pdf",
+ "md5_pdf": "3acfba26d51b56cbfaa7834e0785aaa8",
+ "paginas_md": 23,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 17,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0051/2012",
+   "pagina": 1,
+   "cita": "nº 0051/2012 ocurrido el 19.07.2012",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 19 de julio de 2012 a las 00:07 horas descarriló el vagón portacontenedores en posición decimoctava del tren de mercancías CGX10 de Renfe Operadora en el PK 393+525 de la línea 400 Alcázar de San Juan - Cádiz, entre Villa del Río y Montoro (Córdoba). El descarrilamiento se produjo por la rotura de la mangueta izquierda del primer eje del vagón, consecuencia del sobrecalentamiento de la caja de grasa detectado por un detector de ejes calientes. Una causa coadyuvante fue la circulación del tren fuera del canal asignado del tren tierra, lo que impidió la comunicación inmediata con el maquinista. No hubo víctimas, pero se produjeron importantes daños materiales en catenaria e infraestructura y una interrupción del servicio de unas 41 horas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2012-07-19",
+    "hora": "00:07",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "entre Villa del Río y Montoro",
+     "pk": "393+525",
+     "linea": "400 Alcázar de San Juan - Cádiz",
+     "provincia": "Córdoba",
+     "descripcion_lugar": "Tramo Los Siles - Alcolea Aguja 431+900, vía única electrificada en curva de radio 692 m, rasante 7 milésimas en rampa, municipio de Montoro"
+    }
+   },
+   "pagina": 12,
+   "cita": "19/07/2012 hasta las 17:36 horas del día 20/07/2012, momento en que se restablece.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en órganos de rodadura del vagón MC3FE 227144333050; contenedor MSKU 812057-0 volcado; daños en catenaria a lo largo de 1 km y 14 postes de electrificación afectados; daños en infraestructura entre PK 393+500 y 396+900; valoración total Adif: 1.067.653,87 €",
+    "afectacion_servicio": "Interrupción de la circulación entre Villa del Río y Montoro durante unas 41 horas (00:19 del 19/07 a 17:36 del 20/07); 13 trenes de viajeros transbordados por carretera; 15 trenes de viajeros con retraso total de 304 minutos; tren del suceso 360 minutos de retraso; suprimidos 7 trenes de viajeros y 8 de mercancías; al restablecerse, limitación a 30 km/h entre PK 393+500 y 396+800"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo técnico del material: rotura de la mangueta izquierda del primer eje del decimoctavo vagón como consecuencia del sobrecalentamiento de la caja de grasa (151ºC), probablemente iniciado por la contaminación de la grasa derivada de la anterior falta del tapón de cierre",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Circulación del tren fuera del canal asignado del tren tierra, impidiendo la comunicación inmediata por radiotelefonía con el maquinista",
+    "El maquinista no comprobó al iniciar servicio en Linares Baeza que el tren tierra estaba en el canal asignado",
+    "El puesto de mando no advirtió la situación de desconexión del tren tierra hasta el momento del suceso",
+    "Gestión de la incidencia no del todo adecuada: el jefe del CTC no utilizó la llamada general ni efectuó cierre de señales",
+    "Decisión de apartar el tren en Montoro (a ~10 km del DEC) sin recomendar disminución de velocidad",
+    "La intervención del 09/05/2012 en la caja de grasa por falta de tapón no incluyó la retirada del eje ni inspección de rodamientos, contraviniendo la NTCMA-052",
+    "La locomotora 253 carece de indicador de temperatura de ejes en cabina"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ausencia de normativa específica de actuación cuando un eje montado entra a reparar sin el tapón de cierre de la caja de grasa",
+    "Insuficiencia en la gestión normativa de las alarmas de los detectores de ejes calientes",
+    "Falta de verificación sistemática del canal de tren tierra por parte del personal de conducción y del puesto de mando"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Establecer una normativa específica de actuación en el caso de entrada a reparar un eje montado sin el tapón de cierre de la caja de grasa, especificando las comprobaciones y mediciones a realizar en rodamientos y eje; junto con una ficha de inspección a rellenar de las operaciones realizadas, a la vista de los resultados. Esta normativa podría estar incorporada a la actual Norma Técnica de Mantenimiento de Ejes Montados.",
+     "destinatario": "Renfe Operadora"
+    },
+    {
+     "texto": "Insistir al personal de conducción en los cursos de reciclaje sobre la conveniencia de verificar que la modalidad y canal del tren tierra con la que circula son los asignados.",
+     "destinatario": "Renfe Operadora"
+    },
+    {
+     "texto": "Se reitera la recomendación nº 4 realizada en el expediente 63/2010: Estudiar la conveniencia de realizar modificaciones en la normativa existente sobre la gestión de las alarmas que se producen en los equipos de detectores de ejes calientes.",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "51/12-1 Establecer una normativa específica de actuación en el caso de entrada a reparar un eje montado sin el tapón de cierre de la caja de grasa, especificando las comprobaciones y mediciones a realizar en r",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Establecer una normativa específica de actuación en el caso de entrada a reparar un eje montado sin el tapón de cierre de la caja de grasa, especificando las comprobaciones y mediciones a realizar en rodamientos y eje; junto con una ficha de inspección a rellenar de las operaciones realizadas, a la vista de los resultados. Esta normativa podría estar incorporada a la actual Norma Técnica de Mantenimiento de Ejes Montados.",
+     "destinatario": "Renfe Operadora"
+    },
+    {
+     "texto": "Insistir al personal de conducción en los cursos de reciclaje sobre la conveniencia de verificar que la modalidad y canal del tren tierra con la que circula son los asignados.",
+     "destinatario": "Renfe Operadora"
+    },
+    {
+     "texto": "Se reitera la recomendación nº 4 realizada en el expediente 63/2010: Estudiar la conveniencia de realizar modificaciones en la normativa existente sobre la gestión de las alarmas que se producen en los equipos de detectores de ejes calientes.",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "51/12-1 Establecer una normativa específica de actuación en el caso de entrada a reparar un eje montado sin el tapón de cierre de la caja de grasa, especificando las comprobaciones y mediciones a realizar en r",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "descarrilamiento",
+   "pagina": 3,
+   "cita": "Cádiz, entre las estaciones de Villa del Río y Montoro (Córdoba), se produce el descarrilamiento del",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "tren de mercancías CGX10 de la empresa ferroviaria Renfe Operadora. Descarrila el vagón",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2012-07-19",
+   "pagina": 12,
+   "cita": "19/07/2012 hasta las 17:36 horas del día 20/07/2012, momento en que se restablece.",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "00:07",
+   "pagina": 3,
+   "cita": "El día 19 de julio de 2012, a las 00:07 horas, en el PK 393+525 de la línea 400 Alcázar de San Juan -",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "entre Villa del Río y Montoro",
+    "pk": "393+525",
+    "linea": "400 Alcázar de San Juan - Cádiz",
+    "provincia": "Córdoba",
+    "descripcion_lugar": "Tramo Los Siles - Alcolea Aguja 431+900, vía única electrificada en curva de radio 692 m, rasante 7 milésimas en rampa, municipio de Montoro"
+   },
+   "pagina": 12,
+   "cita": "Se interrumpe la circulación entre Villa del Río y Montoro unas 41 horas, desde las 00:19 horas del día",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "400 Alcázar de San Juan - Cádiz",
+   "pagina": 4,
+   "cita": "400 Alcázar de San Juan - Cádiz",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 9571102530889 (serie 253); vagón portacontenedores MC3FE nº UIC 227144333050; tren tipo N, 35 vagones plataforma MC, 74 ejes, 1364 toneladas; eje afectado 2RV977-04439-4",
+    "averia": "Rotura de la mangueta izquierda del primer eje del decimoctavo vagón por sobrecalentamiento de la caja de grasa nº 4; la locomotora 253 no dispone en cabina de dispositivo indicador de temperatura en ejes de vagones",
+    "mantenimiento": "Última revisión R el 31/03/2009 (305.380 km, 8.003.461 TKBR); intervención el 09/05/2012 en taller de Valencia por falta de tapón de la caja de grasa nº 4: se sustituyó cuerpo de caja y se montó tapón, sin actuar sobre el eje (contrario a NTCMA-052 que exige baja inmediata y retirada del eje); 4 intervenciones VS posteriores (última 16/07/2012, 3.759 km); revisiones dentro de plazos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de mercancías CGX10 de Renfe Operadora, procedente de Vicálvaro-Puerto Seco (Madrid) con destino a Algeciras, circulaba por la línea 400 Alcázar de San Juan - Cádiz. Al paso por el detector de ejes calientes (DEC) del PK 384+625, se activó una alarma por sobrecalentamiento de 151ºC en la caja de grasa del lado izquierdo del eje 39. El jefe del CTC del Puesto de Mando de Córdoba intentó contactar con el maquinista por radiotelefonía analógica (tren tierra) sin éxito, ya que el tren no estaba en el canal asignado. Tras unos tres minutos, logró comunicarse por teléfono móvil e informó al maquinista de que el tren sería apartado en Montoro para reconocimiento del eje.\n\nA las 00:07 horas, en el PK 393+525, descarriló la rueda izquierda del eje 39 del decimoctavo vagón (MC3FE nº UIC 227144333050). El tren circuló descarrilado unos 3.300 metros hasta que el maquinista, al observar la apertura del disyuntor principal y el movimiento anormal de la catenaria, accionó el freno de emergencia deteniendo el tren en el PK 397+055. El contenedor MSKU 812057-0 volcó en la cuneta y se arrancaron postes y catenaria.\n\nTras el reconocimiento, el maquinista informó del descarrilamiento y los daños. Se apartaron los 17 vagones de cabeza en Montoro (08:07), los 17 de cola en Villa del Río (11:15) y el vagón descarrilado, tras cambiarle el eje y encarrilarlo, a las 13:44. La circulación se restableció a las 17:36 del 20 de julio con limitación a 30 km/h entre PK 393+500 y 396+800.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "entre Villa del Río y Montoro",
+    "pk": "393+525",
+    "linea": "400 Alcázar de San Juan - Cádiz",
+    "provincia": "Córdoba",
+    "descripcion_lugar": "Tramo Los Siles - Alcolea Aguja 431+900, vía única electrificada en curva de radio 692 m, rasante 7 milésimas en rampa, municipio de Montoro"
+   },
+   "pagina": 12,
+   "cita": "Se interrumpe la circulación entre Villa del Río y Montoro unas 41 horas, desde las 00:19 horas del día",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en órganos de rodadura del vagón MC3FE 227144333050; contenedor MSKU 812057-0 volcado; daños en catenaria a lo largo de 1 km y 14 postes de electrificación afectados; daños en infraestructura entre PK 393+500 y 396+900; valoración total Adif: 1.067.653,87 €",
+    "afectacion_servicio": "Interrupción de la circulación entre Villa del Río y Montoro durante unas 41 horas (00:19 del 19/07 a 17:36 del 20/07); 13 trenes de viajeros transbordados por carretera; 15 trenes de viajeros con retraso total de 304 minutos; tren del suceso 360 minutos de retraso; suprimidos 7 trenes de viajeros y 8 de mercancías; al restablecerse, limitación a 30 km/h entre PK 393+500 y 396+800"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista del tren CGX10",
+     "implicacion": "No comprobó al iniciar servicio en Linares Baeza que el tren tierra estaba en el canal asignado (61); no contactó con el puesto de mando por radiotelefonía; no percibió el descarrilamiento hasta observar anomalías en la catenaria; accionó parada de emergencia"
+    },
+    {
+     "rol": "jefe del CTC del Puesto de Mando de Córdoba",
+     "implicacion": "Intentó comunicar con el maquinista por tren tierra sin éxito; contactó por móvil pasados ~3,5 minutos; decidió apartar el tren en Montoro sin recomendar reducción de velocidad; no utilizó llamada general ni cierre de señales"
+    },
+    {
+     "rol": "regulador del puesto de mando de Córdoba",
+     "implicacion": "Acusó la alarma del DEC; facilitó el teléfono móvil del maquinista al jefe del CTC tras solicitarlo a gestión de tráfico"
+    }
+   ],
+   "pagina": 4,
+   "cita": "éxito, con el maquinista del tren CGX10 por el sistema de radiotelefonía analógica (tren tierra), para",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "CGX10",
+     "tipo": "mercancías",
+     "operador": "Renfe Operadora",
+     "danos": "Descarrilamiento del vagón MC3FE nº UIC 227144333050 (posición 18); rotura de mangueta izquierda del primer eje; contenedor MSKU 812057-0 volcado; daños en órganos de rodadura del vagón afectado"
+    }
+   ],
+   "pagina": 3,
+   "cita": "tren de mercancías CGX10 de la empresa ferroviaria Renfe Operadora. Descarrila el vagón",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 9571102530889 (serie 253); vagón portacontenedores MC3FE nº UIC 227144333050; tren tipo N, 35 vagones plataforma MC, 74 ejes, 1364 toneladas; eje afectado 2RV977-04439-4",
+    "averia": "Rotura de la mangueta izquierda del primer eje del decimoctavo vagón por sobrecalentamiento de la caja de grasa nº 4; la locomotora 253 no dispone en cabina de dispositivo indicador de temperatura en ejes de vagones",
+    "mantenimiento": "Última revisión R el 31/03/2009 (305.380 km, 8.003.461 TKBR); intervención el 09/05/2012 en taller de Valencia por falta de tapón de la caja de grasa nº 4: se sustituyó cuerpo de caja y se montó tapón, sin actuar sobre el eje (contrario a NTCMA-052 que exige baja inmediata y retirada del eje); 4 intervenciones VS posteriores (última 16/07/2012, 3.759 km); revisiones dentro de plazos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático (BAU) con CTC desde Puesto de Mando Auxiliar de Córdoba; señales intermedias 3904 (PK 390+680) y 3930 (PK 393+340); señalización coherente en todo momento",
+    "tipo_via": "vía única electrificada",
+    "velocidad_maxima": "110 km/h (limitaciones: 100 km/h PK 387+624 a 388+652; 90 km/h PK 396+908 a 397+718)",
+    "ancho": null,
+    "electrificacion": "catenaria (línea aérea de contacto)",
+    "estado_via": "parámetros de vía en el punto cero del descarrilamiento dentro de tolerancia; carril 54 kg/m, traviesas de hormigón monobloque, sujeciones elásticas; curva radio 692 m, rasante 7 milésimas en rampa",
+    "otro": "Detector de ejes calientes (DEC) en PK 384+625; alarma por temperatura absoluta >72ºC y diferencial >48ºC; DEC anteriores: Valdepeñas PK 230+000 y Vadollano PK 309+300; radiotelefonía analógica modalidad A (tren tierra)"
+   },
+   "pagina": 8,
+   "cita": "El trayecto de Villa del Río a Montoro es de vía única electrificada, con Bloqueo Automático y Control",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo Automático (BAU) con CTC desde Puesto de Mando Auxiliar de Córdoba; señales intermedias 3904 (PK 390+680) y 3930 (PK 393+340); señalización coherente en todo momento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía analógica modalidad A.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en órganos de rodadura del vagón MC3FE 227144333050; contenedor MSKU 812057-0 volcado; daños en catenaria a lo largo de 1 km y 14 postes de electrificación afectados; daños en infraestructura entre PK 393+500 y 396+900; valoración total Adif: 1.067.653,87 €",
+    "afectacion_servicio": "Interrupción de la circulación entre Villa del Río y Montoro durante unas 41 horas (00:19 del 19/07 a 17:36 del 20/07); 13 trenes de viajeros transbordados por carretera; 15 trenes de viajeros con retraso total de 304 minutos; tren del suceso 360 minutos de retraso; suprimidos 7 trenes de viajeros y 8 de mercancías; al restablecerse, limitación a 30 km/h entre PK 393+500 y 396+800"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en órganos de rodadura del vagón MC3FE 227144333050; contenedor MSKU 812057-0 volcado; daños en catenaria a lo largo de 1 km y 14 postes de electrificación afectados; daños en infraestructura entre PK 393+500 y 396+900; valoración total Adif: 1.067.653,87 €",
+    "afectacion_servicio": "Interrupción de la circulación entre Villa del Río y Montoro durante unas 41 horas (00:19 del 19/07 a 17:36 del 20/07); 13 trenes de viajeros transbordados por carretera; 15 trenes de viajeros con retraso total de 304 minutos; tren del suceso 360 minutos de retraso; suprimidos 7 trenes de viajeros y 8 de mercancías; al restablecerse, limitación a 30 km/h entre PK 393+500 y 396+800"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en órganos de rodadura del vagón MC3FE 227144333050; contenedor MSKU 812057-0 volcado; daños en catenaria a lo largo de 1 km y 14 postes de electrificación afectados; daños en infraestructura entre PK 393+500 y 396+900; valoración total Adif: 1.067.653,87 €",
+    "afectacion_servicio": "Interrupción de la circulación entre Villa del Río y Montoro durante unas 41 horas (00:19 del 19/07 a 17:36 del 20/07); 13 trenes de viajeros transbordados por carretera; 15 trenes de viajeros con retraso total de 304 minutos; tren del suceso 360 minutos de retraso; suprimidos 7 trenes de viajeros y 8 de mercancías; al restablecerse, limitación a 30 km/h entre PK 393+500 y 396+800"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 9571102530889 (serie 253); vagón portacontenedores MC3FE nº UIC 227144333050; tren tipo N, 35 vagones plataforma MC, 74 ejes, 1364 toneladas; eje afectado 2RV977-04439-4",
+    "averia": "Rotura de la mangueta izquierda del primer eje del decimoctavo vagón por sobrecalentamiento de la caja de grasa nº 4; la locomotora 253 no dispone en cabina de dispositivo indicador de temperatura en ejes de vagones",
+    "mantenimiento": "Última revisión R el 31/03/2009 (305.380 km, 8.003.461 TKBR); intervención el 09/05/2012 en taller de Valencia por falta de tapón de la caja de grasa nº 4: se sustituyó cuerpo de caja y se montó tapón, sin actuar sobre el eje (contrario a NTCMA-052 que exige baja inmediata y retirada del eje); 4 intervenciones VS posteriores (última 16/07/2012, 3.759 km); revisiones dentro de plazos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático (BAU) con CTC desde Puesto de Mando Auxiliar de Córdoba; señales intermedias 3904 (PK 390+680) y 3930 (PK 393+340); señalización coherente en todo momento",
+    "tipo_via": "vía única electrificada",
+    "velocidad_maxima": "110 km/h (limitaciones: 100 km/h PK 387+624 a 388+652; 90 km/h PK 396+908 a 397+718)",
+    "ancho": null,
+    "electrificacion": "catenaria (línea aérea de contacto)",
+    "estado_via": "parámetros de vía en el punto cero del descarrilamiento dentro de tolerancia; carril 54 kg/m, traviesas de hormigón monobloque, sujeciones elásticas; curva radio 692 m, rasante 7 milésimas en rampa",
+    "otro": "Detector de ejes calientes (DEC) en PK 384+625; alarma por temperatura absoluta >72ºC y diferencial >48ºC; DEC anteriores: Valdepeñas PK 230+000 y Vadollano PK 309+300; radiotelefonía analógica modalidad A (tren tierra)"
+   },
+   "pagina": 8,
+   "cita": "El trayecto de Villa del Río a Montoro es de vía única electrificada, con Bloqueo Automático y Control",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche despejada",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Córdoba",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 3,
+   "cita": "Cádiz, entre las estaciones de Villa del Río y Montoro (Córdoba), se produce el descarrilamiento del",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche despejada",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo Automático (BAU) con CTC desde Puesto de Mando Auxiliar de Córdoba; señales intermedias 3904 (PK 390+680) y 3930 (PK 393+340); señalización coherente en todo momento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático (BAU) con CTC desde Puesto de Mando Auxiliar de Córdoba; señales intermedias 3904 (PK 390+680) y 3930 (PK 393+340); señalización coherente en todo momento",
+    "tipo_via": "vía única electrificada",
+    "velocidad_maxima": "110 km/h (limitaciones: 100 km/h PK 387+624 a 388+652; 90 km/h PK 396+908 a 397+718)",
+    "ancho": null,
+    "electrificacion": "catenaria (línea aérea de contacto)",
+    "estado_via": "parámetros de vía en el punto cero del descarrilamiento dentro de tolerancia; carril 54 kg/m, traviesas de hormigón monobloque, sujeciones elásticas; curva radio 692 m, rasante 7 milésimas en rampa",
+    "otro": "Detector de ejes calientes (DEC) en PK 384+625; alarma por temperatura absoluta >72ºC y diferencial >48ºC; DEC anteriores: Valdepeñas PK 230+000 y Vadollano PK 309+300; radiotelefonía analógica modalidad A (tren tierra)"
+   },
+   "pagina": 8,
+   "cita": "El trayecto de Villa del Río a Montoro es de vía única electrificada, con Bloqueo Automático y Control",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía analógica modalidad A.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 9571102530889 (serie 253); vagón portacontenedores MC3FE nº UIC 227144333050; tren tipo N, 35 vagones plataforma MC, 74 ejes, 1364 toneladas; eje afectado 2RV977-04439-4",
+    "averia": "Rotura de la mangueta izquierda del primer eje del decimoctavo vagón por sobrecalentamiento de la caja de grasa nº 4; la locomotora 253 no dispone en cabina de dispositivo indicador de temperatura en ejes de vagones",
+    "mantenimiento": "Última revisión R el 31/03/2009 (305.380 km, 8.003.461 TKBR); intervención el 09/05/2012 en taller de Valencia por falta de tapón de la caja de grasa nº 4: se sustituyó cuerpo de caja y se montó tapón, sin actuar sobre el eje (contrario a NTCMA-052 que exige baja inmediata y retirada del eje); 4 intervenciones VS posteriores (última 16/07/2012, 3.759 km); revisiones dentro de plazos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "falta tapón caja grasa eje",
+    "sobrecalentamiento no detectado antes",
+    "tren tierra sin conexión asignada",
+    "demora comunicación vía móvil"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Por parte de Renfe Operadora \nEl maquinista del tren posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene una antigüedad en el cargo desde el 02/12/2005. \nRealizó su último reciclaje formativo el 15/02/2012 y su último reconocimiento médico y psicotécnico el \n02/02/2011, conforme a la normativa vigente. \nPor parte de Adif \nEl regulador del puesto de mando de Córdoba está habilitado conforme a la Orden FOM/2872/2010 de \n5 de noviembre, por la que se determinan las condiciones para la obtención de títulos y habilitaciones \nque permiten el ejercicio de las funciones del personal ferroviario relacionadas con la seguridad. \nÉste tiene una antigüedad en el cargo desde el 01/05/1995. \nRealizó su último reciclaje formativo el 13/12/2011 y su último reconocimiento médico y psicotécnico el \n01/04/2011, conforme a la normativa vigente. \nEl jefe del CTC está habilitado conforme a la Orden FOM/2872/2010 de 5 de noviembre, por la que se \ndeterminan las condiciones para la obtención de títulos y habilitaciones que permiten el ejercicio de las \nfunciones del personal ferroviario relacionadas con la seguridad. \nRealizó su último reciclaje formativo el 19/09/2010 y su último reconocimiento médico y psicotécnico el \n28/06/2010, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 14,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de mercancías CGX10 de Renfe Operadora, procedente de Vicálvaro-Puerto Seco (Madrid) con destino a Algeciras, circulaba por la línea 400 Alcázar de San Juan - Cádiz. Al paso por el detector de ejes calientes (DEC) del PK 384+625, se activó una alarma por sobrecalentamiento de 151ºC en la caja de grasa del lado izquierdo del eje 39. El jefe del CTC del Puesto de Mando de Córdoba intentó contactar con el maquinista por radiotelefonía analógica (tren tierra) sin éxito, ya que el tren no estaba en el canal asignado. Tras unos tres minutos, logró comunicarse por teléfono móvil e informó al maquinista de que el tren sería apartado en Montoro para reconocimiento del eje.\n\nA las 00:07 horas, en el PK 393+525, descarriló la rueda izquierda del eje 39 del decimoctavo vagón (MC3FE nº UIC 227144333050). El tren circuló descarrilado unos 3.300 metros hasta que el maquinista, al observar la apertura del disyuntor principal y el movimiento anormal de la catenaria, accionó el freno de emergencia deteniendo el tren en el PK 397+055. El contenedor MSKU 812057-0 volcó en la cuneta y se arrancaron postes y catenaria.\n\nTras el reconocimiento, el maquinista informó del descarrilamiento y los daños. Se apartaron los 17 vagones de cabeza en Montoro (08:07), los 17 de cola en Villa del Río (11:15) y el vagón descarrilado, tras cambiarle el eje y encarrilarlo, a las 13:44. La circulación se restableció a las 17:36 del 20 de julio con limitación a 30 km/h entre PK 393+500 y 396+800.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo técnico del material: rotura de la mangueta izquierda del primer eje del decimoctavo vagón como consecuencia del sobrecalentamiento de la caja de grasa (151ºC), probablemente iniciado por la contaminación de la grasa derivada de la anterior falta del tapón de cierre",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Circulación del tren fuera del canal asignado del tren tierra, impidiendo la comunicación inmediata por radiotelefonía con el maquinista",
+    "El maquinista no comprobó al iniciar servicio en Linares Baeza que el tren tierra estaba en el canal asignado",
+    "El puesto de mando no advirtió la situación de desconexión del tren tierra hasta el momento del suceso",
+    "Gestión de la incidencia no del todo adecuada: el jefe del CTC no utilizó la llamada general ni efectuó cierre de señales",
+    "Decisión de apartar el tren en Montoro (a ~10 km del DEC) sin recomendar disminución de velocidad",
+    "La intervención del 09/05/2012 en la caja de grasa por falta de tapón no incluyó la retirada del eje ni inspección de rodamientos, contraviniendo la NTCMA-052",
+    "La locomotora 253 carece de indicador de temperatura de ejes en cabina"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Establecer una normativa específica de actuación en el caso de entrada a reparar un eje montado sin el tapón de cierre de la caja de grasa, especificando las comprobaciones y mediciones a realizar en rodamientos y eje; junto con una ficha de inspección a rellenar de las operaciones realizadas, a la vista de los resultados. Esta normativa podría estar incorporada a la actual Norma Técnica de Mantenimiento de Ejes Montados.",
+     "destinatario": "Renfe Operadora"
+    },
+    {
+     "texto": "Insistir al personal de conducción en los cursos de reciclaje sobre la conveniencia de verificar que la modalidad y canal del tren tierra con la que circula son los asignados.",
+     "destinatario": "Renfe Operadora"
+    },
+    {
+     "texto": "Se reitera la recomendación nº 4 realizada en el expediente 63/2010: Estudiar la conveniencia de realizar modificaciones en la normativa existente sobre la gestión de las alarmas que se producen en los equipos de detectores de ejes calientes.",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "51/12-1 Establecer una normativa específica de actuación en el caso de entrada a reparar un eje montado sin el tapón de cierre de la caja de grasa, especificando las comprobaciones y mediciones a realizar en r",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "00:00:04",
+     "evento": "El tren CGX10 pasa por el detector de ejes calientes (DEC) del PK 384+625 a 96 km/h; se detecta 151ºC en el lado izquierdo del eje 39 y se activa la alarma en el Puesto de Mando de Córdoba"
+    },
+    {
+     "hora": "00:00:04",
+     "evento": "El jefe del CTC intenta contactar con el maquinista por tren tierra (radiotelefonía analógica) sin éxito"
+    },
+    {
+     "hora": "00:02:26",
+     "evento": "El tren pasa por la señal de entrada de Villa del Río (PK 386+986) a 53 km/h en vía libre"
+    },
+    {
+     "hora": "00:03:10",
+     "evento": "El tren pasa por la señal de salida de Villa del Río (PK 387+625) a 58 km/h"
+    },
+    {
+     "hora": "00:03:36",
+     "evento": "El jefe del CTC consigue comunicar por teléfono móvil con el maquinista e informa del caldeo y de que el tren será apartado en Montoro"
+    },
+    {
+     "hora": "00:07",
+     "evento": "Descarrilamiento de la rueda izquierda del eje 39 en el PK 393+525; el tren circula descarrilado unos 3.300 m"
+    },
+    {
+     "hora": "00:09:26",
+     "evento": "El tren pasa por la señal avanzada de Montoro (PK 396+050) a 66 km/h"
+    },
+    {
+     "hora": "00:10:52",
+     "evento": "El tren queda detenido en el PK 397+055 tras actuar el freno de emergencia"
+    },
+    {
+     "hora": "00:19",
+     "evento": "Se interrumpe la circulación entre Villa del Río y Montoro"
+    },
+    {
+     "hora": "08:07",
+     "evento": "Se apartan los 17 vagones de cabeza en la estación de Montoro"
+    },
+    {
+     "hora": "11:15",
+     "evento": "Se apartan los 17 vagones de cola en Villa del Río"
+    },
+    {
+     "hora": "13:44",
+     "evento": "El vagón descarrilado es encarrilado (tras cambio de eje) y apartado en Montoro"
+    },
+    {
+     "hora": "17:36",
+     "evento": "Se restablece la circulación entre Montoro y Villa del Río con limitación a 30 km/h (20/07/2012)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0051/2012",
+ "expediente": "51/012",
+ "anio": 2012,
+ "titulo": "Descarrilamiento de tren de mercancías entre Villa del Río y Montoro (Córdoba) por fallo en caja de grasa",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_190712_280513_CIAF.md"
+}

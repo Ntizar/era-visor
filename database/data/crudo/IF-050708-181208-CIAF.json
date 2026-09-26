@@ -1,0 +1,911 @@
+{
+ "id": "IF-050708-181208-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/CA50B8BB-15A6-4A30-A171-25E9D832D284/46963/IF050708181208CIAF.pdf",
+ "pdf": "pdfs/ES/IF-050708-181208-CIAF.pdf",
+ "md5_pdf": "1486b511b4b5e7fb942b1e797ef86f0e",
+ "paginas_md": 10,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 7,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0029/2008",
+   "pagina": 1,
+   "cita": "nº 0029/2008 ocurrido el 05.07.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 5 de julio de 2008, a las 11:56, el tren de viajeros 408 de larga distancia descarriló al entrar por vía 4 en la estación de Medina del Campo. La composición, formada por la locomotora 252031 y 23 vehículos TALGO, procedía de París con destino Madrid-Chamartín y circulaba con 309 minutos de retraso. Descarrilaron los siete primeros vehículos, mientras la locomotora quedó cortada y encarrilada a unos 30 metros. Hubo 9 heridos leves y daños materiales; la causa fue no adecuar la velocidad a las señales de limitación de 120 km/h y 90 km/h.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-07-05",
+    "hora": "11:56",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Medina del Campo",
+     "pk": "206,300",
+     "linea": "100 Madrid-Hendaya",
+     "provincia": "Valladolid",
+     "descripcion_lugar": "Estación de Medina del Campo; paso por vía 4, sin parada prescrita. Entrada en pendiente de 5 milésimas y alineación curva a izquierdas. Inicio del descarrilamiento en P.K. 206,695 y detención del primer vehículo remolcado en P.K. 206,390."
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 5 de julio de 2008, a las 11:56 horas, se produce el descarrilamiento de los siete primeros",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 9,
+    "danos_materiales": "Infraestructura: 300.000 € en vía y 70.000 € en aparatos de vía. Material rodante: aproximadamente 600.000 €. Daños importantes desde P.K. 206,695 hasta P.K. 206,390.",
+    "afectacion_servicio": "Vías 1, 2, 3 y 4 fuera de servicio para mantenimiento y reparación; vías 1 y 2 aptas el 2008-07-06 a las 10:35; vías 3 y 4 aptas el 2008-07-24. Minutos perdidos: 4 trenes de larga distancia 1h 14 min; 1 tren de cercanías 1h 11 min; 1 tren de media distancia 16 min; 7 trenes de mercancías 4h 24 min."
+   },
+   "pagina": 4,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Falta de adecuación de la conducción del maquinista en un tramo en curva a las señales de limitación de velocidad de 120 km/h y 90 km/h, pasando a 154 km/h y 151 km/h respectivamente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "No se establecen recomendaciones. \n \n \n \n \nMadrid, 18 de diciembre de 2008. \n \n \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0029/2008 ocurrido el 05.07.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-050708-181208-CIAF \n \n \nPág. 9 de 10\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0029/2008 \nOCURRIDO EL DÍA 05.07.2008 \n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0029/2008 ocurrido el 05.07.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-050708-181208-CIAF \n \n \nPág. 10 de 10\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día \n18 de diciembre de 2008, analizado el expediente nº 0029/2008; del accidente acaecido en la \nEstación de Medina del Campo, de la línea 100 Madrid-Hendaya, el 5.07.2008; se aprueba como \ndefinitivo el informe particular presentado por el técnico investigador con la siguiente \nrecomendación: \nNo se establecen recomendaciones \n \nMadrid, 18 de diciembre de 2008",
+   "pagina": 8,
+   "cita": "6. RECOMENDACIONES No se establecen recomendaciones. Madrid, 18 de diciembre de 2008. ## Página 9 Investigación del accidente nº 0029/2008 ocurrido el 05.07.2008 SECRETARIA DE ESTADO DE INFRAE",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "descarrilamiento",
+   "pagina": 2,
+   "cita": "El día 5 de julio de 2008, a las 11:56 horas, se produce el descarrilamiento de los siete primeros",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "El Responsable de Seguridad de Renfe Operadora, quien, por delegación expresa del Director",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-07-05",
+   "pagina": 2,
+   "cita": "El día 5 de julio de 2008, a las 11:56 horas, se produce el descarrilamiento de los siete primeros",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "11:56",
+   "pagina": 2,
+   "cita": "El día 5 de julio de 2008, a las 11:56 horas, se produce el descarrilamiento de los siete primeros",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Medina del Campo",
+    "pk": "206,300",
+    "linea": "100 Madrid-Hendaya",
+    "provincia": "Valladolid",
+    "descripcion_lugar": "Estación de Medina del Campo; paso por vía 4, sin parada prescrita. Entrada en pendiente de 5 milésimas y alineación curva a izquierdas. Inicio del descarrilamiento en P.K. 206,695 y detención del primer vehículo remolcado en P.K. 206,390."
+   },
+   "pagina": 2,
+   "cita": "entrada de la estación de Medina del Campo donde no tenía prescrita parada, efectuando su entrada",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "100 Madrid-Hendaya",
+   "pagina": 2,
+   "cita": "100 Madrid-Hendaya. Provincia: Valladolid. Descarrilamiento de tren de viajeros 408 de larga distancia, compuesto por locomotora 252031 y 23 vehículos TALGO (337 Tm remolcadas), cuando efectuaba su paso, con 309 m",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 252031 y 23 vehículos TALGO (337 Tm remolcadas).",
+    "averia": "No se detectan averías; el material rodante funcionó correctamente. El registro indica que la frenada actuó únicamente sobre el freno eléctrico de la locomotora, sin demandar activación del freno neumático de la composición.",
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "Composición: Locomotora 252031 y 23 vehículos TALGO (337 Tm remolcadas).",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 5 de julio de 2008, a las 11:56 horas, el tren de viajeros 408 de larga distancia, formado por la locomotora 252031 y 23 vehículos TALGO, con 309 minutos de retraso sobre su horario, procedente de París y con destino Madrid-Chamartín, acababa de rebasar la señal de entrada de la estación de Medina del Campo, donde no tenía parada, y efectuaba su entrada por vía 4. En ese tramo había señales de limitación permanente de velocidad de 120 km/h por catenaria y 90 km/h al entrar en curva; el registro de seguridad muestra pasos a 154 km/h y 151 km/h, respectivamente.\n\nComo consecuencia, descarrilaron los siete primeros vehículos de la composición. La locomotora quedó cortada y encarrilada sobre vía a unos 30 metros del primer vehículo descarrilado, y los vehículos restantes no descarrilaron. El Jefe de Circulación observó la entrada del tren, percibió una fuerte polvareda, hizo la señal de alto y comunicó el suceso al puesto de mando de Madrid Chamartín, activándose los protocolos de emergencia.\n\nEl tren se detuvo totalmente a las 11:57:12. Resultaron heridas leves 9 personas, 8 viajeros y un camarero. Se produjeron daños importantes a la infraestructura desde el P.K. 206,695 hasta el P.K. 206,390, valorados en 300.000 euros en vía y 70.000 euros en aparatos de vía, y daños en el material rodante por unos 600.000 euros.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Medina del Campo",
+    "pk": "206,300",
+    "linea": "100 Madrid-Hendaya",
+    "provincia": "Valladolid",
+    "descripcion_lugar": "Estación de Medina del Campo; paso por vía 4, sin parada prescrita. Entrada en pendiente de 5 milésimas y alineación curva a izquierdas. Inicio del descarrilamiento en P.K. 206,695 y detención del primer vehículo remolcado en P.K. 206,390."
+   },
+   "pagina": 2,
+   "cita": "entrada de la estación de Medina del Campo donde no tenía prescrita parada, efectuando su entrada",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 9,
+    "danos_materiales": "Infraestructura: 300.000 € en vía y 70.000 € en aparatos de vía. Material rodante: aproximadamente 600.000 €. Daños importantes desde P.K. 206,695 hasta P.K. 206,390.",
+    "afectacion_servicio": "Vías 1, 2, 3 y 4 fuera de servicio para mantenimiento y reparación; vías 1 y 2 aptas el 2008-07-06 a las 10:35; vías 3 y 4 aptas el 2008-07-24. Minutos perdidos: 4 trenes de larga distancia 1h 14 min; 1 tren de cercanías 1h 11 min; 1 tren de media distancia 16 min; 7 trenes de mercancías 4h 24 min."
+   },
+   "pagina": 4,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "El día 30 de julio de 2008, se realizó visita y acompañamiento de tren en cabina desde Valladolid \nhasta Villalba con la finalidad de comprobar in situ la visibilidad de la señalización, datos de vía y tener \nuna idea aproximada de lo que pudo ver el maquinista del TALGO 408 el día del accidente. Las \ncondiciones de visibilidad del acompañamiento del día 30 de julio se aproximaron bastante a las del \ndía del accidente. \nLa conclusión del viaje de acompañamiento en cabina fue que la señalización es correcta y no \ninduce por tanto a pensar que el día del accidente hubiera causas externas que propiciaran la mala \nvisibilidad de alguna de las señales existentes.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren",
+     "implicacion": "Matrícula 1347400. Condujo el tren 408; el informe concluye que no adecuó la conducción a las señales de limitación de velocidad, pasando a 154 km/h y 151 km/h. Declaró que usó el manipulador de freno y la seta de urgencia, sin recordar el orden. Alcoholemia negativa; jornada efectiva de conducción el día del accidente: 5 horas y 26 minutos; 24 y 48 horas anteriores: descanso por vacaciones. Habilitado conforme a la Orden Ministerial 2520 de 2006-07-27; último reciclaje formativo el 2007-10-30 y último reconocimiento médico y psicotécnico el 2008-05-14."
+    },
+    {
+     "rol": "Jefe de Circulación de Medina del Campo",
+     "implicacion": "Observó el paso del tren desde el andén, detectó una fuerte polvareda, hizo la señal de alto y comunicó de inmediato el suceso al puesto de mando de Madrid Chamartín. Alcoholemia negativa el día del accidente."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El Maquinista principal del tren",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "408",
+     "tipo": "Tren de viajeros de larga distancia",
+     "operador": "Renfe Operadora",
+     "danos": "Descarrilamiento de los siete primeros vehículos; locomotora 252031 cortada y encarrilada a unos 30 metros; daños en la composición por valor aproximado de 600.000 €."
+    }
+   ],
+   "pagina": 3,
+   "cita": " Tren de viajeros de Larga Distancia 408  Composición: Locomotora 252031 y 23 vehículos TALGO (337 Tm remolcadas). ## Página 4 Investigación del accidente nº 0029/2008 ocurrido el 05.07.2008 SECRETARIA DE",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 252031 y 23 vehículos TALGO (337 Tm remolcadas).",
+    "averia": "No se detectan averías; el material rodante funcionó correctamente. El registro indica que la frenada actuó únicamente sobre el freno eléctrico de la locomotora, sin demandar activación del freno neumático de la composición.",
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "Composición: Locomotora 252031 y 23 vehículos TALGO (337 Tm remolcadas).",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales de limitación permanente de velocidad a 120 km/h por catenaria y 90 km/h por curva; balizas de avanzada y de entrada. El acompañamiento en cabina del 2008-07-30 concluyó que la señalización es correcta y no induce a mala visibilidad.",
+    "tipo_via": "Vía doble con bloqueo automático en vía doble BAD; enclavamiento eléctrico y cambios tipo A; entrada por vía 4; pendiente de 5 milésimas y alineación curva a izquierdas.",
+    "velocidad_maxima": "120 km/h por catenaria y 90 km/h por curva en el trayecto Pozaldez-Medina del Campo.",
+    "ancho": null,
+    "electrificacion": "Catenaria; sin compensar del P.K. 250,030 al P.K. 247,600 y del P.K. 207,43 al P.K. 204,145.",
+    "estado_via": "Mediciones de vía dentro de tolerancias. Tras el accidente, vías 1, 2, 3 y 4 fuera de servicio; vías 1 y 2 aptas el 2008-07-06 a las 10:35; vías 3 y 4 aptas el 2008-07-24.",
+    "otro": "Radiotelefonía modalidad A. Daños a infraestructura valorados en 300.000 € en vía y 70.000 € en aparatos de vía. Inicio del descarrilamiento en P.K. 206,695 y detención del primer vehículo remolcado en P.K. 206,390."
+   },
+   "pagina": 4,
+   "cita": "Radiotelefonía modalidad A.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales de limitación permanente de velocidad a 120 km/h por catenaria y 90 km/h por curva; balizas de avanzada y de entrada. El acompañamiento en cabina del 2008-07-30 concluyó que la señalización es correcta y no induce a mala visibilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 9,
+    "danos_materiales": "Infraestructura: 300.000 € en vía y 70.000 € en aparatos de vía. Material rodante: aproximadamente 600.000 €. Daños importantes desde P.K. 206,695 hasta P.K. 206,390.",
+    "afectacion_servicio": "Vías 1, 2, 3 y 4 fuera de servicio para mantenimiento y reparación; vías 1 y 2 aptas el 2008-07-06 a las 10:35; vías 3 y 4 aptas el 2008-07-24. Minutos perdidos: 4 trenes de larga distancia 1h 14 min; 1 tren de cercanías 1h 11 min; 1 tren de media distancia 16 min; 7 trenes de mercancías 4h 24 min."
+   },
+   "pagina": 4,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 9,
+    "danos_materiales": "Infraestructura: 300.000 € en vía y 70.000 € en aparatos de vía. Material rodante: aproximadamente 600.000 €. Daños importantes desde P.K. 206,695 hasta P.K. 206,390.",
+    "afectacion_servicio": "Vías 1, 2, 3 y 4 fuera de servicio para mantenimiento y reparación; vías 1 y 2 aptas el 2008-07-06 a las 10:35; vías 3 y 4 aptas el 2008-07-24. Minutos perdidos: 4 trenes de larga distancia 1h 14 min; 1 tren de cercanías 1h 11 min; 1 tren de media distancia 16 min; 7 trenes de mercancías 4h 24 min."
+   },
+   "pagina": 4,
+   "cita": "Heridos graves No hubo heridos graves. 2.3.3 Heridos Leves 9 heridos leves (8 viajeros y un camarero del tren) 2.3.4 Daños materiales 2.3.4.1 Daños a la Infraestructura Se produjeron daños importantes a la infra",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 9,
+    "danos_materiales": "Infraestructura: 300.000 € en vía y 70.000 € en aparatos de vía. Material rodante: aproximadamente 600.000 €. Daños importantes desde P.K. 206,695 hasta P.K. 206,390.",
+    "afectacion_servicio": "Vías 1, 2, 3 y 4 fuera de servicio para mantenimiento y reparación; vías 1 y 2 aptas el 2008-07-06 a las 10:35; vías 3 y 4 aptas el 2008-07-24. Minutos perdidos: 4 trenes de larga distancia 1h 14 min; 1 tren de cercanías 1h 11 min; 1 tren de media distancia 16 min; 7 trenes de mercancías 4h 24 min."
+   },
+   "pagina": 4,
+   "cita": "Heridos graves No hubo heridos graves. 2.3.3 Heridos Leves 9 heridos leves (8 viajeros y un camarero del tren) 2.3.4 Daños materiales 2.3.4.1 Daños a la Infraestructura Se produjeron daños importantes a la infra",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252031 y 23 vehículos TALGO (337 Tm remolcadas).",
+    "averia": "No se detectan averías; el material rodante funcionó correctamente. El registro indica que la frenada actuó únicamente sobre el freno eléctrico de la locomotora, sin demandar activación del freno neumático de la composición.",
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "Composición: Locomotora 252031 y 23 vehículos TALGO (337 Tm remolcadas).",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de limitación permanente de velocidad a 120 km/h por catenaria y 90 km/h por curva; balizas de avanzada y de entrada. El acompañamiento en cabina del 2008-07-30 concluyó que la señalización es correcta y no induce a mala visibilidad.",
+    "tipo_via": "Vía doble con bloqueo automático en vía doble BAD; enclavamiento eléctrico y cambios tipo A; entrada por vía 4; pendiente de 5 milésimas y alineación curva a izquierdas.",
+    "velocidad_maxima": "120 km/h por catenaria y 90 km/h por curva en el trayecto Pozaldez-Medina del Campo.",
+    "ancho": null,
+    "electrificacion": "Catenaria; sin compensar del P.K. 250,030 al P.K. 247,600 y del P.K. 207,43 al P.K. 204,145.",
+    "estado_via": "Mediciones de vía dentro de tolerancias. Tras el accidente, vías 1, 2, 3 y 4 fuera de servicio; vías 1 y 2 aptas el 2008-07-06 a las 10:35; vías 3 y 4 aptas el 2008-07-24.",
+    "otro": "Radiotelefonía modalidad A. Daños a infraestructura valorados en 300.000 € en vía y 70.000 € en aparatos de vía. Inicio del descarrilamiento en P.K. 206,695 y detención del primer vehículo remolcado en P.K. 206,390."
+   },
+   "pagina": 4,
+   "cita": "Radiotelefonía modalidad A.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Valladolid",
+    "municipio": null,
+    "estacion": "Medina del Campo"
+   },
+   "pagina": 2,
+   "cita": "Valladolid. Descarrilamiento de tren de viajeros 408 de larga distancia, compuesto por locomotora 252031 y 23 vehículos TALGO (337 Tm remolcadas), cuando efectuaba su paso, con 309 minutos de retraso sobre su horario",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales de limitación permanente de velocidad a 120 km/h por catenaria y 90 km/h por curva; balizas de avanzada y de entrada. El acompañamiento en cabina del 2008-07-30 concluyó que la señalización es correcta y no induce a mala visibilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de limitación permanente de velocidad a 120 km/h por catenaria y 90 km/h por curva; balizas de avanzada y de entrada. El acompañamiento en cabina del 2008-07-30 concluyó que la señalización es correcta y no induce a mala visibilidad.",
+    "tipo_via": "Vía doble con bloqueo automático en vía doble BAD; enclavamiento eléctrico y cambios tipo A; entrada por vía 4; pendiente de 5 milésimas y alineación curva a izquierdas.",
+    "velocidad_maxima": "120 km/h por catenaria y 90 km/h por curva en el trayecto Pozaldez-Medina del Campo.",
+    "ancho": null,
+    "electrificacion": "Catenaria; sin compensar del P.K. 250,030 al P.K. 247,600 y del P.K. 207,43 al P.K. 204,145.",
+    "estado_via": "Mediciones de vía dentro de tolerancias. Tras el accidente, vías 1, 2, 3 y 4 fuera de servicio; vías 1 y 2 aptas el 2008-07-06 a las 10:35; vías 3 y 4 aptas el 2008-07-24.",
+    "otro": "Radiotelefonía modalidad A. Daños a infraestructura valorados en 300.000 € en vía y 70.000 € en aparatos de vía. Inicio del descarrilamiento en P.K. 206,695 y detención del primer vehículo remolcado en P.K. 206,390."
+   },
+   "pagina": 4,
+   "cita": "Radiotelefonía modalidad A.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252031 y 23 vehículos TALGO (337 Tm remolcadas).",
+    "averia": "No se detectan averías; el material rodante funcionó correctamente. El registro indica que la frenada actuó únicamente sobre el freno eléctrico de la locomotora, sin demandar activación del freno neumático de la composición.",
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "Composición: Locomotora 252031 y 23 vehículos TALGO (337 Tm remolcadas).",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "No adecuar conducción a señales",
+    "Circular sobre velocidad permitida",
+    "Pasar señal 120 a 154",
+    "Entrar curva a 151 km/h"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 5 de julio de 2008, a las 11:56 horas, el tren de viajeros 408 de larga distancia, formado por la locomotora 252031 y 23 vehículos TALGO, con 309 minutos de retraso sobre su horario, procedente de París y con destino Madrid-Chamartín, acababa de rebasar la señal de entrada de la estación de Medina del Campo, donde no tenía parada, y efectuaba su entrada por vía 4. En ese tramo había señales de limitación permanente de velocidad de 120 km/h por catenaria y 90 km/h al entrar en curva; el registro de seguridad muestra pasos a 154 km/h y 151 km/h, respectivamente.\n\nComo consecuencia, descarrilaron los siete primeros vehículos de la composición. La locomotora quedó cortada y encarrilada sobre vía a unos 30 metros del primer vehículo descarrilado, y los vehículos restantes no descarrilaron. El Jefe de Circulación observó la entrada del tren, percibió una fuerte polvareda, hizo la señal de alto y comunicó el suceso al puesto de mando de Madrid Chamartín, activándose los protocolos de emergencia.\n\nEl tren se detuvo totalmente a las 11:57:12. Resultaron heridas leves 9 personas, 8 viajeros y un camarero. Se produjeron daños importantes a la infraestructura desde el P.K. 206,695 hasta el P.K. 206,390, valorados en 300.000 euros en vía y 70.000 euros en aparatos de vía, y daños en el material rodante por unos 600.000 euros.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasas de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario. \nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0029/2008 ocurrido el 05.07.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-050708-181208-CIAF \n \n \nPág. 8 de 10\nDe las mediciones realizadas en la infraestructura se comprueba que las mismas se encontraban \ndentro de las tolerancias marcadas por las normas técnicas en el momento del accidente. \nSegún el registro de fallos de la locomotora, el maquinista realiza la frenada actuando única y \nexclusivamente sobre el freno eléctrico de la locomotora sin demandar activación del freno neumático \nde la composición.  \nA efectos de la causalidad del accidente se ha podido comprobar que: \nEl tren circulaba por encima de la velocidad permitida, tanto a la altura de la señal de limitación \npermanente a 120 Km/h por catenaria, como a la altura de la señal de limitación de velocidad \npermanente a 90 Km/h por curva, según cuadro de velocidades máximas, libro horario y señalización \nen el terreno. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \n- El descarrilamiento se produce como consecuencia de la falta de adecuación de la conducción en \nun tramo en curva, por parte del maquinista, a las señales existentes de limitación de velocidad de \n120 Km/h (anterior a la curva) y de 90Km/h al entrar en ella, pasando por dichas señales a 154 y 151 \nKm/h respectivamente.",
+   "pagina": 7,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Falta de adecuación de la conducción del maquinista en un tramo en curva a las señales de limitación de velocidad de 120 km/h y 90 km/h, pasando a 154 km/h y 151 km/h respectivamente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No adecuar conducción a señales",
+    "Circular sobre velocidad permitida",
+    "Pasar señal 120 a 154",
+    "Entrar curva a 151 km/h"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "El día 30 de julio de 2008, se realizó visita y acompañamiento de tren en cabina desde Valladolid \nhasta Villalba con la finalidad de comprobar in situ la visibilidad de la señalización, datos de vía y tener \nuna idea aproximada de lo que pudo ver el maquinista del TALGO 408 el día del accidente. Las \ncondiciones de visibilidad del acompañamiento del día 30 de julio se aproximaron bastante a las del \ndía del accidente. \nLa conclusión del viaje de acompañamiento en cabina fue que la señalización es correcta y no \ninduce por tanto a pensar que el día del accidente hubiera causas externas que propiciaran la mala \nvisibilidad de alguna de las señales existentes.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "El día 30 de julio de 2008, se realizó visita y acompañamiento de tren en cabina desde Valladolid \nhasta Villalba con la finalidad de comprobar in situ la visibilidad de la señalización, datos de vía y tener \nuna idea aproximada de lo que pudo ver el maquinista del TALGO 408 el día del accidente. Las \ncondiciones de visibilidad del acompañamiento del día 30 de julio se aproximaron bastante a las del \ndía del accidente. \nLa conclusión del viaje de acompañamiento en cabina fue que la señalización es correcta y no \ninduce por tanto a pensar que el día del accidente hubiera causas externas que propiciaran la mala \nvisibilidad de alguna de las señales existentes.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "El día 30 de julio de 2008, se realizó visita y acompañamiento de tren en cabina desde Valladolid \nhasta Villalba con la finalidad de comprobar in situ la visibilidad de la señalización, datos de vía y tener \nuna idea aproximada de lo que pudo ver el maquinista del TALGO 408 el día del accidente. Las \ncondiciones de visibilidad del acompañamiento del día 30 de julio se aproximaron bastante a las del \ndía del accidente. \nLa conclusión del viaje de acompañamiento en cabina fue que la señalización es correcta y no \ninduce por tanto a pensar que el día del accidente hubiera causas externas que propiciaran la mala \nvisibilidad de alguna de las señales existentes.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "No se establecen recomendaciones. \n \n \n \n \nMadrid, 18 de diciembre de 2008. \n \n \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0029/2008 ocurrido el 05.07.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-050708-181208-CIAF \n \n \nPág. 9 de 10\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0029/2008 \nOCURRIDO EL DÍA 05.07.2008 \n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0029/2008 ocurrido el 05.07.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-050708-181208-CIAF \n \n \nPág. 10 de 10\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día \n18 de diciembre de 2008, analizado el expediente nº 0029/2008; del accidente acaecido en la \nEstación de Medina del Campo, de la línea 100 Madrid-Hendaya, el 5.07.2008; se aprueba como \ndefinitivo el informe particular presentado por el técnico investigador con la siguiente \nrecomendación: \nNo se establecen recomendaciones \n \nMadrid, 18 de diciembre de 2008",
+   "pagina": 8,
+   "cita": "6. RECOMENDACIONES No se establecen recomendaciones. Madrid, 18 de diciembre de 2008. ## Página 9 Investigación del accidente nº 0029/2008 ocurrido el 05.07.2008 SECRETARIA DE ESTADO DE INFRAE",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "11:55",
+     "evento": "2008-07-05: paso por la baliza previa de la señal de avanzada a 154 km/h (11:55:43)."
+    },
+    {
+     "hora": "11:55",
+     "evento": "2008-07-05: paso por la baliza de señal avanzada a 154 km/h (11:55:50)."
+    },
+    {
+     "hora": "11:56",
+     "evento": "2008-07-05: paso por la baliza previa de señal de entrada a 154 km/h (11:56:26)."
+    },
+    {
+     "hora": "11:56",
+     "evento": "2008-07-05: paso por la señal de limitación de velocidad a 120 km/h por catenaria a 154 km/h."
+    },
+    {
+     "hora": "11:56",
+     "evento": "2008-07-05: paso por la baliza de señal de entrada a 154 km/h (11:56:33)."
+    },
+    {
+     "hora": "11:56",
+     "evento": "2008-07-05: paso por la señal de limitación por curva a 90 km/h a 151 km/h (11:56:40); comienza la deceleración."
+    },
+    {
+     "hora": "11:56",
+     "evento": "2008-07-05: descarrilamiento de los siete primeros vehículos del tren 408 en la estación de Medina del Campo."
+    },
+    {
+     "hora": "11:57",
+     "evento": "2008-07-05: detención total del tren (11:57:12)."
+    },
+    {
+     "hora": null,
+     "evento": "2008-07-05: el Jefe de Circulación observa el descarrilamiento, hace la señal de alto y comunica al puesto de mando de Madrid Chamartín."
+    },
+    {
+     "hora": "15:46",
+     "evento": "2008-07-05: el Coordinador de accidentes ferroviarios de Adif comunica por correo electrónico a la CIAF el descarrilamiento."
+    },
+    {
+     "hora": null,
+     "evento": "2008-07-09: el maquinista presta declaración en Madrid."
+    },
+    {
+     "hora": "10:35",
+     "evento": "2008-07-06: las vías 1 y 2 quedan aptas para servicio."
+    },
+    {
+     "hora": null,
+     "evento": "2008-07-24: las vías 3 y 4 quedan aptas para servicio."
+    },
+    {
+     "hora": null,
+     "evento": "2008-07-30: visita y acompañamiento de tren en cabina desde Valladolid hasta Villalba; conclusión: señalización correcta y visibilidad no afectada por causas externas."
+    },
+    {
+     "hora": null,
+     "evento": "2008-08-13: el Gerente Territorial de Seguridad en la Circulación Centro de Adif entrega su informe particular."
+    },
+    {
+     "hora": null,
+     "evento": "2008-09-05: el Responsable de Seguridad de Renfe Operadora entrega su informe particular."
+    },
+    {
+     "hora": null,
+     "evento": "2008-12-18: el Pleno de la CIAF aprueba el informe final y resuelve que no se establecen recomendaciones."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0029/2008",
+ "expediente": "0029/08",
+ "anio": 2008,
+ "titulo": "Descarrilamiento del tren 408 en la estación de Medina del Campo por exceso de velocidad",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-050708-181208-CIAF.md"
+}

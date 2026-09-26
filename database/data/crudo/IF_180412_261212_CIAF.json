@@ -1,0 +1,971 @@
+{
+ "id": "IF_180412_261212_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/0BE9C814-FE2B-4A34-A64E-CA8F0AD05EBA/115325/IF180412261212CIAF.pdf",
+ "pdf": "pdfs/ES/IF_180412_261212_CIAF.pdf",
+ "md5_pdf": "3983408e6cb782ed403a00d31a298c5d",
+ "paginas_md": 14,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 19,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Feve",
+     "Número": "28/12-1",
+     "Recomendación": "Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 14,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Feve",
+     "Número": "28/12-1",
+     "Recomendación": "Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0028/2012",
+   "pagina": 1,
+   "cita": "nº 0028/2012 ocurrido el 18.04.2012",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 18 de abril de 2012 a las 10:54 horas, el tren de mercancías 9860 de Feve rebasó indebidamente la señal de salida S2/2 en indicación de parada en la estación de Heras (Cantabria), talonando la aguja A1 y produciéndose un conato de colisión con el tren especial de servicio SR507, detenido ante la señal de entrada E1. No hubo víctimas ni heridos. El incidente se originó por incumplimiento de las órdenes dadas por las señales al personal de conducción. Se dañó el cambio A1 y se produjo una afectación al servicio durante el resto del día.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2012-04-18",
+    "hora": "10:54",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Heras",
+     "pk": "545+009",
+     "linea": "24 Santander - Bilbao",
+     "provincia": "Cantabria",
+     "descripcion_lugar": "Estación de Heras, tramo 24 Santander – Basurto, municipio de Medio Cudeyo, Cantabria. Dos vías, enclavamiento electrónico, vía única electrificada, bloqueo automático (BAU) con CTC en Santander."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 18 de abril de 2012, a las 10:54 horas, en la estación de Heras (Cantabria) perteneciente al",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: dañados varios elementos del cambio A1 (bielas, barras impulsoras y de comprobación, torsión del espadín izquierdo); valoración económica: 1.362,60 €. Material rodante: sin daños.",
+    "afectacion_servicio": "Aguja A1 inoperativa a vía directa, no realizándose cruces en la estación; circulación por vía 1 durante el resto del día; 8 trenes con retraso total acumulado de 118 minutos (1 mercancías: 50 min, 1 regional: 8 min, 6 cercanías: 60 min); tren 9860 detenido 50 minutos; reparación nocturna; normalidad al día siguiente"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Rebase indebido por el tren de mercancías 9860 de la señal de salida S2/2, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción",
+   "pagina": 3,
+   "cita": "Conclusión: El incidente tuvo su origen en el rebase indebido por el tren de mercancías 9860 de la",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No prestar la debida atención durante la conducción (incumplimiento art. 2/27/00 RCT)",
+    "Pasar por la aguja de entrada a velocidad superior a la permitida (37,5 km/h vs 30 km/h límite con anuncio de precaución) (incumplimiento art. 2/02/00 RS)",
+    "Reducir insuficientemente la velocidad ante señal E2 en aviso de parada, no poniéndose en condiciones de detenerse ante la siguiente señal (incumplimiento art. 2/03/00 RS)",
+    "Iniciar el frenado a una distancia sustancialmente inferior a la visibilidad de la señal (40 m frente a 180 m de visibilidad)",
+    "Carril húmedo por lluvia que redujo la deceleración del frenado de emergencia por debajo del mínimo de la NBSM",
+    "Presencia de un agente comercial y de trenes en cabina durante la conducción",
+    "Longitud considerable del tren (385 m, 25 vagones, 2 locomotoras)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ausencia de un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción.",
+    "Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Feve",
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente",
+   "pagina": 1,
+   "cita": "Investigación del incidente",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "tramo 24 Santander – Basurto, línea 24 Santander - Bilbao el tren de mercancías 9860 de Feve rebasa",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2012-04-18",
+   "pagina": 3,
+   "cita": "El día 18 de abril de 2012, a las 10:54 horas, en la estación de Heras (Cantabria) perteneciente al",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "10:54",
+   "pagina": 3,
+   "cita": "El día 18 de abril de 2012, a las 10:54 horas, en la estación de Heras (Cantabria) perteneciente al",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Heras",
+    "pk": "545+009",
+    "linea": "24 Santander - Bilbao",
+    "provincia": "Cantabria",
+    "descripcion_lugar": "Estación de Heras, tramo 24 Santander – Basurto, municipio de Medio Cudeyo, Cantabria. Dos vías, enclavamiento electrónico, vía única electrificada, bloqueo automático (BAU) con CTC en Santander."
+   },
+   "pagina": 3,
+   "cita": "El día 18 de abril de 2012, a las 10:54 horas, en la estación de Heras (Cantabria) perteneciente al",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "24 Santander - Bilbao",
+   "pagina": 3,
+   "cita": "tramo 24 Santander – Basurto, línea 24 Santander - Bilbao el tren de mercancías 9860 de Feve rebasa",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotoras L1917 (cabeza) y L1910, 25 vagones tipo 2SS; automotor de viajeros 2912 (SR507)",
+    "averia": "Sin avería; el tren 9860 circulaba cinco minutos adelantado sobre el horario previsto; el freno de emergencia produjo deceleración de 0,65 m/s² (media) y 0,82 m/s² (desde activación ASFA), inferior a la mínima de 0,85 m/s² de la NBSM, posiblemente por carril húmedo; el maquinista declaró freno deficiente en Carranza",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de mercancías 9860 (origen Aranguren, destino Santander) y el tren especial de servicio SR507 (origen Santander, destino Gama) circulaban en condiciones normales hacia la estación de Heras, donde estaba previsto el cruce de ambos. El CTC dispuso la detención del SR507 ante la señal de entrada E1 (lado Santander) y el itinerario de entrada hasta la señal S2/2 (en indicación de parada) para el tren 9860 (lado Bilbao). El tren 9860 entró por la vía 2, encontrando la señal avanzada E'2 en anuncio de precaución y la señal de entrada E2 en aviso de parada, pasando a 40 km/h. A una distancia menor de la visibilidad de la señal S2/2, el maquinista aplicó freno de emergencia, pero no logró detener el tren antes de la señal. El primer bogie talonó la aguja A1, dispuesta hacia vía 1 para la entrada del SR507, produciéndose un conato de colisión entre ambos trenes, que quedaron enfrentados a unos 205 metros. No se produjeron víctimas ni heridos. La aguja A1 quedó inoperativa a vía directa, impidiendo cruces durante el resto del día.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Heras",
+    "pk": "545+009",
+    "linea": "24 Santander - Bilbao",
+    "provincia": "Cantabria",
+    "descripcion_lugar": "Estación de Heras, tramo 24 Santander – Basurto, municipio de Medio Cudeyo, Cantabria. Dos vías, enclavamiento electrónico, vía única electrificada, bloqueo automático (BAU) con CTC en Santander."
+   },
+   "pagina": 3,
+   "cita": "El día 18 de abril de 2012, a las 10:54 horas, en la estación de Heras (Cantabria) perteneciente al",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: dañados varios elementos del cambio A1 (bielas, barras impulsoras y de comprobación, torsión del espadín izquierdo); valoración económica: 1.362,60 €. Material rodante: sin daños.",
+    "afectacion_servicio": "Aguja A1 inoperativa a vía directa, no realizándose cruces en la estación; circulación por vía 1 durante el resto del día; 8 trenes con retraso total acumulado de 118 minutos (1 mercancías: 50 min, 1 regional: 8 min, 6 cercanías: 60 min); tren 9860 detenido 50 minutos; reparación nocturna; normalidad al día siguiente"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista del tren 9860",
+     "implicacion": "Rebasó indebidamente la señal S2/2 en indicación de parada; incumplió artículos 2/27/00 RCT, 2/02/00 RS, 2/03/00 RS y 2/04/00 RS; no prestó la debida atención durante la conducción; redujo insuficientemente la velocidad ante aviso de parada; pasó por aguja de entrada a velocidad superior a la permitida (37,5 km/h vs 30 km/h)"
+    },
+    {
+     "rol": "agente comercial y de trenes",
+     "implicacion": "Se encontraba en la cabina de conducción del tren 9860 en el momento del incidente; declaró que el maquinista se quejó de que el tren respondía con lentitud al frenado"
+    }
+   ],
+   "pagina": 6,
+   "cita": "El maquinista del tren 9860, con carné ferroviario (CF) 6674.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "9860",
+     "tipo": "tren de mercancías",
+     "operador": "Feve",
+     "danos": "Sin daños en material rodante"
+    },
+    {
+     "numero": "SR507",
+     "tipo": "tren especial de servicio (verificación de comunicaciones analógicas-digitales)",
+     "operador": "Feve",
+     "danos": "Sin daños"
+    }
+   ],
+   "pagina": 3,
+   "cita": "tramo 24 Santander – Basurto, línea 24 Santander - Bilbao el tren de mercancías 9860 de Feve rebasa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotoras L1917 (cabeza) y L1910, 25 vagones tipo 2SS; automotor de viajeros 2912 (SR507)",
+    "averia": "Sin avería; el tren 9860 circulaba cinco minutos adelantado sobre el horario previsto; el freno de emergencia produjo deceleración de 0,65 m/s² (media) y 0,82 m/s² (desde activación ASFA), inferior a la mínima de 0,85 m/s² de la NBSM, posiblemente por carril húmedo; el maquinista declaró freno deficiente en Carranza",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal S2/2 alta de tres focos con baliza de señal y señal indicadora IS2/2; señal avanzada E'2; señal de entrada E2; señal de entrada E1; distancia de visibilidad de S2/2: 180 m; enclavamiento electrónico; CTC en Santander; bloqueo automático (BAU)",
+    "tipo_via": "vía única electrificada, estación de dos vías",
+    "velocidad_maxima": "80 km/h (tramo)",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "correcta; carril muy húmedo por lluvia; trazado en alineación curva a derechas de radio 500 m con nivelación longitudinal horizontal; aguja A1 dañada tras el suceso (bielas, barras impulsoras y de comprobación, torsión del espadín izquierdo)",
+    "otro": "Tramo soporta 57 circulaciones al día; estación alternativa a 2,5 km"
+   },
+   "pagina": 6,
+   "cita": "vía única electrificada. El bloqueo es automático (BAU) con control de tráfico centralizado (CTC) en",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal S2/2 alta de tres focos con baliza de señal y señal indicadora IS2/2; señal avanzada E'2; señal de entrada E2; señal de entrada E1; distancia de visibilidad de S2/2: 180 m; enclavamiento electrónico; CTC en Santander; bloqueo automático (BAU)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía analógica/digital",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: dañados varios elementos del cambio A1 (bielas, barras impulsoras y de comprobación, torsión del espadín izquierdo); valoración económica: 1.362,60 €. Material rodante: sin daños.",
+    "afectacion_servicio": "Aguja A1 inoperativa a vía directa, no realizándose cruces en la estación; circulación por vía 1 durante el resto del día; 8 trenes con retraso total acumulado de 118 minutos (1 mercancías: 50 min, 1 regional: 8 min, 6 cercanías: 60 min); tren 9860 detenido 50 minutos; reparación nocturna; normalidad al día siguiente"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: dañados varios elementos del cambio A1 (bielas, barras impulsoras y de comprobación, torsión del espadín izquierdo); valoración económica: 1.362,60 €. Material rodante: sin daños.",
+    "afectacion_servicio": "Aguja A1 inoperativa a vía directa, no realizándose cruces en la estación; circulación por vía 1 durante el resto del día; 8 trenes con retraso total acumulado de 118 minutos (1 mercancías: 50 min, 1 regional: 8 min, 6 cercanías: 60 min); tren 9860 detenido 50 minutos; reparación nocturna; normalidad al día siguiente"
+   },
+   "pagina": 12,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: dañados varios elementos del cambio A1 (bielas, barras impulsoras y de comprobación, torsión del espadín izquierdo); valoración económica: 1.362,60 €. Material rodante: sin daños.",
+    "afectacion_servicio": "Aguja A1 inoperativa a vía directa, no realizándose cruces en la estación; circulación por vía 1 durante el resto del día; 8 trenes con retraso total acumulado de 118 minutos (1 mercancías: 50 min, 1 regional: 8 min, 6 cercanías: 60 min); tren 9860 detenido 50 minutos; reparación nocturna; normalidad al día siguiente"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras L1917 (cabeza) y L1910, 25 vagones tipo 2SS; automotor de viajeros 2912 (SR507)",
+    "averia": "Sin avería; el tren 9860 circulaba cinco minutos adelantado sobre el horario previsto; el freno de emergencia produjo deceleración de 0,65 m/s² (media) y 0,82 m/s² (desde activación ASFA), inferior a la mínima de 0,85 m/s² de la NBSM, posiblemente por carril húmedo; el maquinista declaró freno deficiente en Carranza",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal S2/2 alta de tres focos con baliza de señal y señal indicadora IS2/2; señal avanzada E'2; señal de entrada E2; señal de entrada E1; distancia de visibilidad de S2/2: 180 m; enclavamiento electrónico; CTC en Santander; bloqueo automático (BAU)",
+    "tipo_via": "vía única electrificada, estación de dos vías",
+    "velocidad_maxima": "80 km/h (tramo)",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "correcta; carril muy húmedo por lluvia; trazado en alineación curva a derechas de radio 500 m con nivelación longitudinal horizontal; aguja A1 dañada tras el suceso (bielas, barras impulsoras y de comprobación, torsión del espadín izquierdo)",
+    "otro": "Tramo soporta 57 circulaciones al día; estación alternativa a 2,5 km"
+   },
+   "pagina": 6,
+   "cita": "vía única electrificada. El bloqueo es automático (BAU) con control de tráfico centralizado (CTC) en",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Nublado y con lluvia; carril muy húmedo",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Cantabria",
+    "municipio": null,
+    "estacion": "Heras"
+   },
+   "pagina": 3,
+   "cita": "El día 18 de abril de 2012, a las 10:54 horas, en la estación de Heras (Cantabria) perteneciente al",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Nublado y con lluvia; carril muy húmedo",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal S2/2 alta de tres focos con baliza de señal y señal indicadora IS2/2; señal avanzada E'2; señal de entrada E2; señal de entrada E1; distancia de visibilidad de S2/2: 180 m; enclavamiento electrónico; CTC en Santander; bloqueo automático (BAU)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal S2/2 alta de tres focos con baliza de señal y señal indicadora IS2/2; señal avanzada E'2; señal de entrada E2; señal de entrada E1; distancia de visibilidad de S2/2: 180 m; enclavamiento electrónico; CTC en Santander; bloqueo automático (BAU)",
+    "tipo_via": "vía única electrificada, estación de dos vías",
+    "velocidad_maxima": "80 km/h (tramo)",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "correcta; carril muy húmedo por lluvia; trazado en alineación curva a derechas de radio 500 m con nivelación longitudinal horizontal; aguja A1 dañada tras el suceso (bielas, barras impulsoras y de comprobación, torsión del espadín izquierdo)",
+    "otro": "Tramo soporta 57 circulaciones al día; estación alternativa a 2,5 km"
+   },
+   "pagina": 6,
+   "cita": "vía única electrificada. El bloqueo es automático (BAU) con control de tráfico centralizado (CTC) en",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía analógica/digital",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras L1917 (cabeza) y L1910, 25 vagones tipo 2SS; automotor de viajeros 2912 (SR507)",
+    "averia": "Sin avería; el tren 9860 circulaba cinco minutos adelantado sobre el horario previsto; el freno de emergencia produjo deceleración de 0,65 m/s² (media) y 0,82 m/s² (desde activación ASFA), inferior a la mínima de 0,85 m/s² de la NBSM, posiblemente por carril húmedo; el maquinista declaró freno deficiente en Carranza",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "No prestar la debida atención durante la conducción (incumplimiento art. 2/27/00 RCT)",
+    "Pasar por la aguja de entrada a velocidad superior a la permitida (37,5 km/h vs 30 km/h límite con anuncio de precaución) (incumplimiento art. 2/02/00 RS)",
+    "Reducir insuficientemente la velocidad ante señal E2 en aviso de parada, no poniéndose en condiciones de detenerse ante la siguiente señal (incumplimiento art. 2/03/00 RS)",
+    "Iniciar el frenado a una distancia sustancialmente inferior a la visibilidad de la señal (40 m frente a 180 m de visibilidad)",
+    "Carril húmedo por lluvia que redujo la deceleración del frenado de emergencia por debajo del mínimo de la NBSM",
+    "Presencia de un agente comercial y de trenes en cabina durante la conducción",
+    "Longitud considerable del tren (385 m, 25 vagones, 2 locomotoras)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 9860 se encuentra habilitado para la conducción de vehículos ferroviarios en \nvirtud de la capacitación adquirida de conformidad con el estatuto propio y la normativa legal aplicable \na Feve. \nÉste tiene una antigüedad en el cargo de 24 años y 5 años como maquinista principal. \nRealizó su último curso formativo el 20/02/2008 y su último reconocimiento médico y psicotécnico el \n01/12/2011, conforme a la normativa vigente establecida por Feve.  \n3.3. \nNORMATIVA",
+   "pagina": 9,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de mercancías 9860 (origen Aranguren, destino Santander) y el tren especial de servicio SR507 (origen Santander, destino Gama) circulaban en condiciones normales hacia la estación de Heras, donde estaba previsto el cruce de ambos. El CTC dispuso la detención del SR507 ante la señal de entrada E1 (lado Santander) y el itinerario de entrada hasta la señal S2/2 (en indicación de parada) para el tren 9860 (lado Bilbao). El tren 9860 entró por la vía 2, encontrando la señal avanzada E'2 en anuncio de precaución y la señal de entrada E2 en aviso de parada, pasando a 40 km/h. A una distancia menor de la visibilidad de la señal S2/2, el maquinista aplicó freno de emergencia, pero no logró detener el tren antes de la señal. El primer bogie talonó la aguja A1, dispuesta hacia vía 1 para la entrada del SR507, produciéndose un conato de colisión entre ambos trenes, que quedaron enfrentados a unos 205 metros. No se produjeron víctimas ni heridos. La aguja A1 quedó inoperativa a vía directa, impidiendo cruces durante el resto del día.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Rebase indebido por el tren de mercancías 9860 de la señal de salida S2/2, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción",
+   "pagina": 3,
+   "cita": "Conclusión: El incidente tuvo su origen en el rebase indebido por el tren de mercancías 9860 de la",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No prestar la debida atención durante la conducción (incumplimiento art. 2/27/00 RCT)",
+    "Pasar por la aguja de entrada a velocidad superior a la permitida (37,5 km/h vs 30 km/h límite con anuncio de precaución) (incumplimiento art. 2/02/00 RS)",
+    "Reducir insuficientemente la velocidad ante señal E2 en aviso de parada, no poniéndose en condiciones de detenerse ante la siguiente señal (incumplimiento art. 2/03/00 RS)",
+    "Iniciar el frenado a una distancia sustancialmente inferior a la visibilidad de la señal (40 m frente a 180 m de visibilidad)",
+    "Carril húmedo por lluvia que redujo la deceleración del frenado de emergencia por debajo del mínimo de la NBSM",
+    "Presencia de un agente comercial y de trenes en cabina durante la conducción",
+    "Longitud considerable del tren (385 m, 25 vagones, 2 locomotoras)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción.",
+    "Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Feve",
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "10:51:21",
+     "evento": "El tren 9860 pasa por la baliza de la señal avanzada E'2 a 49,9 km/h, en anuncio de precaución"
+    },
+    {
+     "hora": "10:52:46",
+     "evento": "El tren 9860 pasa por la baliza de la señal de entrada E2 a 40 km/h, en aviso de parada"
+    },
+    {
+     "hora": "10:52:47",
+     "evento": "El tren SR507 ocupa el circuito de vía anterior a la señal E1, con ésta cerrada; el 9860 tiene establecida entrada hasta S2/2, con ésta cerrada"
+    },
+    {
+     "hora": "10:53:43",
+     "evento": "El maquinista del 9860 aplica freno de emergencia (seta) circulando a 34,9 km/h, a unos 40 m de la señal S2/2"
+    },
+    {
+     "hora": "10:53:47",
+     "evento": "El tren 9860 pasa por la baliza de la señal S2/2 a 32,5 km/h, en indicación de parada; se activa freno de emergencia por ASFA; el primer eje de la locomotora 1917 alcanza y talona la aguja A1"
+    },
+    {
+     "hora": "10:53:58",
+     "evento": "El tren 9860 queda detenido, 93 metros después de la aplicación del freno de emergencia, a unos 55 m de la señal S2/2"
+    },
+    {
+     "hora": "10:54",
+     "evento": "Hora oficial del incidente según el informe"
+    },
+    {
+     "hora": "10:54:29",
+     "evento": "El tren 9860 ocupa el circuito de vía CV2 anterior a la señal S2/2, que sigue cerrada"
+    },
+    {
+     "hora": "10:54:34",
+     "evento": "El tren 9860 ocupa los circuitos de vía CV2 anterior y el de la señal S2/2"
+    },
+    {
+     "hora": "12:07",
+     "evento": "El director gerente de Feve comunica el suceso a la CIAF por telefonía móvil"
+    },
+    {
+     "hora": null,
+     "evento": "El tren SR507 retrocede a la estación de Astillero; se segrega el tren 9860 y se maniobra para liberar el desvío; el 9860 permanece detenido 50 minutos en Heras y luego retrocede por vía 1"
+    },
+    {
+     "hora": null,
+     "evento": "Circulación habilitada por vía 1 durante el resto del día, sin cruces; aguja A1 asegurada con cepo"
+    },
+    {
+     "hora": "05:00",
+     "evento": "Se restablece la circulación en condiciones normales tras reparación nocturna de la aguja A1 (día siguiente)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0028/2012",
+ "expediente": "28/012",
+ "anio": 2012,
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 28/2012 OCURRIDO EL DÍA 18.04.2012 EN LA ESTACIÓN DE HERAS (CANTABRIA)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_180412_261212_CIAF.md"
+}

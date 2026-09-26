@@ -1,0 +1,860 @@
+{
+ "id": "IF-091108-240209-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/E7387985-EAC3-4A61-92DA-8B91DD283B9D/46990/IF091108240209CIAF.pdf",
+ "pdf": "pdfs/ES/IF-091108-240209-CIAF.pdf",
+ "md5_pdf": "f3dbcd2dce7a4d2af460bb94e2f25b22",
+ "paginas_md": 10,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 8,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0060/2008",
+   "pagina": 1,
+   "cita": "nº 0060/2008 ocurrido el 09.11.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 9 de noviembre de 2008, a las 9:52, el tren de media distancia 18081 de Renfe Operadora arrolló a un Peugeot 406 en un paso a nivel clase A del P.K. 226,669, entre Almagro y El Campillo, en la línea 522 Manzanares-Ciudad Real. El conductor del vehículo, único ocupante, falleció en el lugar. La investigación concluye que el origen fue el cruce de la víctima por el paso a nivel sin percatarse de la presencia del tren. El material rodante y las instalaciones funcionaron correctamente y la actuación del maquinista fue correcta. No se establecieron recomendaciones.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-11-09",
+    "hora": "09:52",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "El Campillo",
+     "pk": "226,669",
+     "linea": "522 Manzanares-Ciudad Real",
+     "provincia": "Ciudad Real",
+     "descripcion_lugar": "Paso a nivel clase A situado entre Almagro y el apeadero de El Campillo, sobre la línea 522 Manzanares-Ciudad Real, en el camino carretero denominado camino de los Moledores."
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 9 de noviembre de 2008, a las 9:52 horas, el tren de viajeros de media distancia 18081, de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Tren: daños en el frontal de la cabina de conducción y desperfectos en el sistema de freno por rotura de las mangas de aire comprimido. Vehículo Peugeot 406: quedó totalmente deformado.",
+    "afectacion_servicio": "El tren 18081 fue suprimido y los viajeros continuaron su viaje por carretera; un tren de larga distancia sufrió 3 minutos de retraso; la vía no quedó interceptada, pero se prescribió marcha a la vista a todos los trenes que tenían paso por el punto del arrollamiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "El cruce de la víctima por el paso a nivel sin percatarse de la presencia del tren.",
+   "pagina": 2,
+   "cita": "Conclusión: El accidente tuvo su origen en el cruce de la víctima por el paso a nivel sin",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Dadas las características del suceso, no se establecen recomendaciones. \n \n \nMadrid, 24 de febrero de 2009. \n \n \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0060/2008 ocurrido el 09.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-091108-240209-CIAF \n \n \nPág. 9 de 10\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0060/2008 \nOCURRIDO EL DÍA 09.11.2008 \n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0060/2008 ocurrido el 09.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-091108-240209-CIAF \n \n \nPág. 10 de 10\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 24 \nde febrero de 2009, analizado el expediente nº 0060/2008 del accidente acaecido en el paso a \nnivel, clase A, situado en el P.K. 226,669 de la línea 522 Manzanares – Ciudad Real, el \n09.11.2008; se aprueba como definitivo el informe particular presentado por el técnico \ninvestigador con la siguiente recomendación: \nDadas las características del suceso, no se establecen recomendaciones. \n \n \n \nMadrid, 24 de febrero de 2009",
+   "pagina": 8,
+   "cita": "6. RECOMENDACIONES Dadas las características del suceso, no se establecen recomendaciones. Madrid, 24 de febrero de 2009. ## Página 9 Investigación del accidente nº 0060/2008 ocurrido el 09.11.2008 S",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "la empresa ferroviaria Renfe Operadora, arrolla a un vehículo en el paso a nivel clase A, situado en el",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-11-09",
+   "pagina": 2,
+   "cita": "El día 9 de noviembre de 2008, a las 9:52 horas, el tren de viajeros de media distancia 18081, de",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "09:52",
+   "pagina": 2,
+   "cita": "09.11.08/ 09:52 Lugar: Paso a nivel clase A, en el P.K. 226,669 Línea: 522 Manzanares – Ciudad Real. Trayecto: Manzanares - Almagro Provincia: Ciudad Real El tren de media distancia 18081 de la empresa ferro",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "El Campillo",
+    "pk": "226,669",
+    "linea": "522 Manzanares-Ciudad Real",
+    "provincia": "Ciudad Real",
+    "descripcion_lugar": "Paso a nivel clase A situado entre Almagro y el apeadero de El Campillo, sobre la línea 522 Manzanares-Ciudad Real, en el camino carretero denominado camino de los Moledores."
+   },
+   "pagina": 2,
+   "cita": "P.K. 226,669 entre Almagro y el apeadero de El Campillo, de la línea 522 Manzanares-Ciudad Real.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "522 Manzanares-Ciudad Real",
+   "pagina": 2,
+   "cita": "P.K. 226,669 entre Almagro y el apeadero de El Campillo, de la línea 522 Manzanares-Ciudad Real.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UT 470041; número UIC 967194700415; tren de media distancia 18081 formado por motor, 3 vehículos y 161 Tn de masa remolcada.",
+    "averia": "No se constataron averías; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 9 de noviembre de 2008, a las 9:52 horas, el tren de media distancia 18081 de Renfe Operadora, formado por la unidad de tracción 470041, tres vehículos y 161 toneladas de masa remolcada, arrolló a un automóvil Peugeot 406 en el paso a nivel clase A del P.K. 226,669, entre Almagro y el apeadero de El Campillo, en la línea 522 Manzanares-Ciudad Real.\n\nSegún la declaración del maquinista, observó un automóvil blanco que se aproximaba por un camino a la derecha, realizó señales acústicas y luminosas, tocó el silbato y accionó el freno de emergencia, pero no pudo evitar la colisión entre la parte derecha del testero del tren y la parte delantera izquierda del automóvil. El registrador de eventos indica que el tren circulaba a 136 km/h en el momento de accionar el freno de emergencia, por debajo de la velocidad máxima autorizada de 140 km/h. El tren quedó detenido tras recorrer unos 700 metros, en el km 226, junto al apartadero de El Campillo.\n\nEl conductor del vehículo, único ocupante, falleció en el lugar del accidente. El tiempo atmosférico era despejado y la visibilidad era buena, con un trazado recto de más de dos kilómetros.",
+   "pagina": 2,
+   "cita": "1. RESUMEN El día 9 de noviembre de 2008, a las 9:52 horas, el tren de viajeros de media distancia 18081, de la empresa ferroviaria Renfe Operadora, arrolla a un vehículo en el paso a nivel clase A, situado en el P.K.",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "El Campillo",
+    "pk": "226,669",
+    "linea": "522 Manzanares-Ciudad Real",
+    "provincia": "Ciudad Real",
+    "descripcion_lugar": "Paso a nivel clase A situado entre Almagro y el apeadero de El Campillo, sobre la línea 522 Manzanares-Ciudad Real, en el camino carretero denominado camino de los Moledores."
+   },
+   "pagina": 2,
+   "cita": "P.K. 226,669 entre Almagro y el apeadero de El Campillo, de la línea 522 Manzanares-Ciudad Real.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Tren: daños en el frontal de la cabina de conducción y desperfectos en el sistema de freno por rotura de las mangas de aire comprimido. Vehículo Peugeot 406: quedó totalmente deformado.",
+    "afectacion_servicio": "El tren 18081 fue suprimido y los viajeros continuaron su viaje por carretera; un tren de larga distancia sufrió 3 minutos de retraso; la vía no quedó interceptada, pero se prescribió marcha a la vista a todos los trenes que tenían paso por el punto del arrollamiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 18081",
+     "implicacion": "Matrícula 9692211; poseía título de conducción y habilitación; realizó señales acústicas y luminosas, tocó el silbato y accionó el freno de emergencia. Su actuación fue correcta; prueba de alcoholemia negativa (0,00 mg/1000 ml)."
+    },
+    {
+     "rol": "Conductor del vehículo Peugeot 406",
+     "implicacion": "Hombre de 62 años, único ocupante del vehículo; falleció en el lugar del accidente."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "18081",
+     "tipo": "tren de viajeros de media distancia",
+     "operador": "Renfe Operadora",
+     "danos": "Daños en el frontal de la cabina de conducción; desperfectos en el sistema de freno por rotura de las mangas de aire comprimido."
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 9 de noviembre de 2008, a las 9:52 horas, el tren de viajeros de media distancia 18081, de",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UT 470041; número UIC 967194700415; tren de media distancia 18081 formado por motor, 3 vehículos y 161 Tn de masa remolcada.",
+    "averia": "No se constataron averías; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), el",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase A protegido únicamente por señales fijas; señales reglamentarias de peligro y stop en el cruce.",
+    "tipo_via": "Vía única electrificada con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C.).",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Funcionamiento correcto; trazado recto en más de dos kilómetros y visibilidad buena.",
+    "otro": "Paso a nivel con entablonado y contracarriles; acceso por camino agrícola sin asfaltar 'camino de los Moledores', de 6 metros de ancho, que nace a 150 metros de la carretera CM-4170, con los últimos 30 metros en ligera rampa y visibilidad de la vía de más de 1000 metros. Radiotelefonía modalidad A. Media semanal de circulaciones del tramo: 108 (15 larga distancia, 56 media distancia, 32 mercancías, 4 servicio)."
+   },
+   "pagina": 4,
+   "cita": "Trayecto de vía única electrificada con bloqueo automático (B.A.U.) con control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso a nivel clase A protegido únicamente por señales fijas; señales reglamentarias de peligro y stop en el cruce.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Tren: daños en el frontal de la cabina de conducción y desperfectos en el sistema de freno por rotura de las mangas de aire comprimido. Vehículo Peugeot 406: quedó totalmente deformado.",
+    "afectacion_servicio": "El tren 18081 fue suprimido y los viajeros continuaron su viaje por carretera; un tren de larga distancia sufrió 3 minutos de retraso; la vía no quedó interceptada, pero se prescribió marcha a la vista a todos los trenes que tenían paso por el punto del arrollamiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Tren: daños en el frontal de la cabina de conducción y desperfectos en el sistema de freno por rotura de las mangas de aire comprimido. Vehículo Peugeot 406: quedó totalmente deformado.",
+    "afectacion_servicio": "El tren 18081 fue suprimido y los viajeros continuaron su viaje por carretera; un tren de larga distancia sufrió 3 minutos de retraso; la vía no quedó interceptada, pero se prescribió marcha a la vista a todos los trenes que tenían paso por el punto del arrollamiento."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-091108-240209-CIAF Pág. 1 de 10 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0060/2008",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Tren: daños en el frontal de la cabina de conducción y desperfectos en el sistema de freno por rotura de las mangas de aire comprimido. Vehículo Peugeot 406: quedó totalmente deformado.",
+    "afectacion_servicio": "El tren 18081 fue suprimido y los viajeros continuaron su viaje por carretera; un tren de larga distancia sufrió 3 minutos de retraso; la vía no quedó interceptada, pero se prescribió marcha a la vista a todos los trenes que tenían paso por el punto del arrollamiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 470041; número UIC 967194700415; tren de media distancia 18081 formado por motor, 3 vehículos y 161 Tn de masa remolcada.",
+    "averia": "No se constataron averías; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase A protegido únicamente por señales fijas; señales reglamentarias de peligro y stop en el cruce.",
+    "tipo_via": "Vía única electrificada con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C.).",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Funcionamiento correcto; trazado recto en más de dos kilómetros y visibilidad buena.",
+    "otro": "Paso a nivel con entablonado y contracarriles; acceso por camino agrícola sin asfaltar 'camino de los Moledores', de 6 metros de ancho, que nace a 150 metros de la carretera CM-4170, con los últimos 30 metros en ligera rampa y visibilidad de la vía de más de 1000 metros. Radiotelefonía modalidad A. Media semanal de circulaciones del tramo: 108 (15 larga distancia, 56 media distancia, 32 mercancías, 4 servicio)."
+   },
+   "pagina": 4,
+   "cita": "Trayecto de vía única electrificada con bloqueo automático (B.A.U.) con control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo atmosférico despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Ciudad Real",
+    "municipio": null,
+    "estacion": "El Campillo"
+   },
+   "pagina": 2,
+   "cita": "P.K. 226,669 entre Almagro y el apeadero de El Campillo, de la línea 522 Manzanares-Ciudad Real.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo atmosférico despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso a nivel clase A protegido únicamente por señales fijas; señales reglamentarias de peligro y stop en el cruce.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase A protegido únicamente por señales fijas; señales reglamentarias de peligro y stop en el cruce.",
+    "tipo_via": "Vía única electrificada con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C.).",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Funcionamiento correcto; trazado recto en más de dos kilómetros y visibilidad buena.",
+    "otro": "Paso a nivel con entablonado y contracarriles; acceso por camino agrícola sin asfaltar 'camino de los Moledores', de 6 metros de ancho, que nace a 150 metros de la carretera CM-4170, con los últimos 30 metros en ligera rampa y visibilidad de la vía de más de 1000 metros. Radiotelefonía modalidad A. Media semanal de circulaciones del tramo: 108 (15 larga distancia, 56 media distancia, 32 mercancías, 4 servicio)."
+   },
+   "pagina": 4,
+   "cita": "Trayecto de vía única electrificada con bloqueo automático (B.A.U.) con control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 470041; número UIC 967194700415; tren de media distancia 18081 formado por motor, 3 vehículos y 161 Tn de masa remolcada.",
+    "averia": "No se constataron averías; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Conductor no percibe presencia del tren",
+    "Vehículo cruza paso a nivel",
+    "Vehículo no se detiene en paso"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 9 de noviembre de 2008, a las 9:52 horas, el tren de media distancia 18081 de Renfe Operadora, formado por la unidad de tracción 470041, tres vehículos y 161 toneladas de masa remolcada, arrolló a un automóvil Peugeot 406 en el paso a nivel clase A del P.K. 226,669, entre Almagro y el apeadero de El Campillo, en la línea 522 Manzanares-Ciudad Real.\n\nSegún la declaración del maquinista, observó un automóvil blanco que se aproximaba por un camino a la derecha, realizó señales acústicas y luminosas, tocó el silbato y accionó el freno de emergencia, pero no pudo evitar la colisión entre la parte derecha del testero del tren y la parte delantera izquierda del automóvil. El registrador de eventos indica que el tren circulaba a 136 km/h en el momento de accionar el freno de emergencia, por debajo de la velocidad máxima autorizada de 140 km/h. El tren quedó detenido tras recorrer unos 700 metros, en el km 226, junto al apartadero de El Campillo.\n\nEl conductor del vehículo, único ocupante, falleció en el lugar del accidente. El tiempo atmosférico era despejado y la visibilidad era buena, con un trazado recto de más de dos kilómetros.",
+   "pagina": 2,
+   "cita": "1. RESUMEN El día 9 de noviembre de 2008, a las 9:52 horas, el tren de viajeros de media distancia 18081, de la empresa ferroviaria Renfe Operadora, arrolla a un vehículo en el paso a nivel clase A, situado en el P.K.",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en el paso a nivel clase A, situado en el P.K.226, 669, de la línea 522 \nManzanares - Ciudad Real \nSegún el registrador de seguridad del vehículo motor 18081, el tren circulaba a una velocidad \ninferior a la máxima permitida en el tramo. \nSegún lo declarado por el maquinista, al percatarse de que un el vehículo se aproximaba al paso a \nnivel sin intención de detenerse, hizo uso del silbato repetidas veces, efectuó señales luminosas y actuó \nsobre el freno de emergencia, por lo que la actuación del maquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido en \nlas Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0060/2008 ocurrido el 09.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-091108-240209-CIAF \n \n \nPág. 8 de 10\nA efectos de la causalidad del accidente se ha podido comprobar que: \nTanto el funcionamiento de la infraestructura como la actuación del maquinista, se ajustan a la \nnormativa y no influyeron en el desarrollo de los hechos. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en el cruce de la víctima por el paso a nivel sin percatarse de la \npresencia del tren.",
+   "pagina": 7,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "El cruce de la víctima por el paso a nivel sin percatarse de la presencia del tren.",
+   "pagina": 2,
+   "cita": "Conclusión: El accidente tuvo su origen en el cruce de la víctima por el paso a nivel sin",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Conductor no percibe presencia del tren",
+    "Vehículo cruza paso a nivel",
+    "Vehículo no se detiene en paso"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "Dadas las características del suceso, no se establecen recomendaciones. \n \n \nMadrid, 24 de febrero de 2009. \n \n \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0060/2008 ocurrido el 09.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-091108-240209-CIAF \n \n \nPág. 9 de 10\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0060/2008 \nOCURRIDO EL DÍA 09.11.2008 \n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0060/2008 ocurrido el 09.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-091108-240209-CIAF \n \n \nPág. 10 de 10\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 24 \nde febrero de 2009, analizado el expediente nº 0060/2008 del accidente acaecido en el paso a \nnivel, clase A, situado en el P.K. 226,669 de la línea 522 Manzanares – Ciudad Real, el \n09.11.2008; se aprueba como definitivo el informe particular presentado por el técnico \ninvestigador con la siguiente recomendación: \nDadas las características del suceso, no se establecen recomendaciones. \n \n \n \nMadrid, 24 de febrero de 2009",
+   "pagina": 8,
+   "cita": "6. RECOMENDACIONES Dadas las características del suceso, no se establecen recomendaciones. Madrid, 24 de febrero de 2009. ## Página 9 Investigación del accidente nº 0060/2008 ocurrido el 09.11.2008 S",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "09:52",
+     "evento": "Arrollamiento del vehículo por el tren 18081 en el paso a nivel clase A del P.K. 226,669."
+    },
+    {
+     "hora": "11:02",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el accidente a la Comisión de Investigación de Accidentes Ferroviarios por telefonía móvil."
+    },
+    {
+     "hora": "11:50",
+     "evento": "Se produce el levantamiento del cadáver."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0060/2008",
+ "expediente": "0060/08",
+ "anio": 2008,
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0060/2008 OCURRIDO EL DÍA 09.11.2008",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-091108-240209-CIAF.md"
+}

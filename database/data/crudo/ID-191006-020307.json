@@ -1,0 +1,910 @@
+{
+ "id": "ID-191006-020307",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-191006-020307.pdf",
+ "pdf": "pdfs/ES/ID-191006-020307.pdf",
+ "md5_pdf": "c5b306600fde3e6d67c2ebebe9e540da",
+ "paginas_md": 7,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 11,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0039/2006",
+   "pagina": 1,
+   "cita": "Nº 0039/2006 OCURRIDO EL DÍA 19.10.2006 ID-191006-020307 Pág. 1 de 7 ## Página 2 Investigación del accidente nº 39/2006 ocurrido el 19.10.2006 SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y PLANIFICACIÓN",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2006-10-19, a las 14:42, el tren de Media Distancia 6021 de RENFE arrolló a un Citroën Berlingo en un paso a nivel de clase B del punto kilométrico 420,623 de la línea Madrid-Hendaya, entre Briviesca y Calzada de Bureba (Burgos). El conductor y el acompañante del vehículo fallecieron. El paso estaba correctamente operativo, aunque la señalización vertical de carretera no se ajustaba a la normativa y había pérdida de visibilidad por vegetación y caseta. El tren circulaba a 128 km/h, por debajo de los 135 km/h permitidos, y el maquinista hizo uso repetido del silbato. La investigación atribuyó la causa principal a la invasión del paso por el vehículo pese a la señalización luminosa y acústica.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2006-10-19",
+    "hora": "14:42",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "420,623",
+     "linea": "100 Madrid-Hendaya",
+     "provincia": "Burgos",
+     "descripcion_lugar": "Paso a nivel de clase B sito en P.K. 420,623, entre las estaciones de Briviesca y Calzada de Bureba, municipio de Briviesca."
+    }
+   },
+   "pagina": 4,
+   "cita": "De la declaración del maquinista realizada el 19 de octubre de 2006 se extracta lo",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños en el material motor y en las instalaciones.",
+    "afectacion_servicio": "Perturbación de tráfico de 278 minutos; 204 minutos de retrasos acumulados en 8 trenes de viajeros y 815 minutos acumulados en 8 trenes de mercancías."
+   },
+   "pagina": 3,
+   "cita": "Daños en el material motor y en las instalaciones.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "El conductor del vehículo invadió el paso a nivel haciendo caso omiso de la señalización luminosa y acústica del paso y del silbato del tren.",
+   "pagina": 6,
+   "cita": "A la vista de los datos obtenidos se estima que el accidente fue causado porque el",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La señalización vertical de carretera de titularidad municipal no se ajusta a las prescripciones de la Orden Ministerial de 2001-08-02.",
+    "La señalización del paso es incompleta en el camino de acceso izquierdo.",
+    "La visibilidad se reduce al aproximarse al paso por la vegetación de la margen de las vías y por la caseta de instalaciones."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Que el Ayuntamiento de Briviesca, como titular del camino, disponga la señalización vertical del paso de acuerdo con la Orden Ministerial de 2001-08-02.",
+     "destinatario": "Ayuntamiento de Briviesca"
+    },
+    {
+     "texto": "Mejorar la seguridad del paso a nivel mediante el despeje de vegetación para mejorar la visibilidad.",
+     "destinatario": null
+    },
+    {
+     "texto": "Realizar un recuento de vehículos de carretera y, si fuera posible, dotar el paso de una protección de clase C.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 6,
+   "cita": "recomendar que el Ayuntamiento de Briviesca como titular del camino, disponga la",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Que el Ayuntamiento de Briviesca, como titular del camino, disponga la señalización vertical del paso de acuerdo con la Orden Ministerial de 2001-08-02.",
+     "destinatario": "Ayuntamiento de Briviesca"
+    },
+    {
+     "texto": "Mejorar la seguridad del paso a nivel mediante el despeje de vegetación para mejorar la visibilidad.",
+     "destinatario": null
+    },
+    {
+     "texto": "Realizar un recuento de vehículos de carretera y, si fuera posible, dotar el paso de una protección de clase C.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 6,
+   "cita": "recomendar que el Ayuntamiento de Briviesca como titular del camino, disponga la",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de un vehículo",
+   "pagina": 2,
+   "cita": "había producido el arrollamiento de un vehículo con el resultado de dos fallecidos en el paso a",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "RENFE Operadora"
+   ],
+   "pagina": 2,
+   "cita": "(ADIF), comunicó a través de mensaje de telefonía móvil el pasado 19 de octubre, que se",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2006-10-19",
+   "pagina": 4,
+   "cita": "De la declaración del maquinista realizada el 19 de octubre de 2006 se extracta lo",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "14:42",
+   "pagina": 3,
+   "cita": "La incidencia tuvo una duración de 278 minutos desde las 14:42 horas hasta las 19:20",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "420,623",
+    "linea": "100 Madrid-Hendaya",
+    "provincia": "Burgos",
+    "descripcion_lugar": "Paso a nivel de clase B sito en P.K. 420,623, entre las estaciones de Briviesca y Calzada de Bureba, municipio de Briviesca."
+   },
+   "pagina": 2,
+   "cita": "420,623 de la Línea 100 Madrid-Hendaya, en la provincia de Burgos perteneciente a la Red",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 100 Madrid-Hendaya",
+   "pagina": 2,
+   "cita": "420,623 de la Línea 100 Madrid-Hendaya, en la provincia de Burgos perteneciente a la Red",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "440105",
+    "averia": "No se constató anomalía en equipos de seguridad de la locomotora, del tren o de las señales; se registraron daños en material motor.",
+    "mantenimiento": null
+   },
+   "pagina": 2,
+   "cita": "por las unidades de tracción 440105 con 2 vehículos y masa remolcada de 107 toneladas,",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros de Media Distancia nº 6021 de RENFE, compuesto por las unidades de tracción 440105 con 2 vehículos y masa remolcada de 107 toneladas, arrolló a un vehículo de carretera Citroën Berlingo en el paso a nivel de clase B sito en el pk 420,623 de la línea Madrid-Hendaya, entre Briviesca y Calzada de Bureba. El vehículo cruzó el paso desde la margen izquierda a la derecha, en sentido de la kilometración.\n\nEn el momento del arrollamiento el tren circulaba a 128 km/h, con velocidad máxima permitida de 135 km/h. El paso se encontraba en trayecto BAB, en recta y con pendiente de 7,31 milésimas, con bloqueo automático banalizado y vía doble electrificada. Las condiciones atmosféricas eran buenas y el tiempo despejado.\n\nEl maquinista informó que, al pasar la señal del paso, vio un vehículo circulando por el camino en sentido izquierdo, hizo uso repetido del silbato y, tras perder momentáneamente la visión por la caseta, lo encontró pasando el paso y lo arrolló; no observó que frenara. A consecuencia del suceso fallecieron el conductor y el acompañante, dos varones de 36 y 34 años.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "420,623",
+    "linea": "100 Madrid-Hendaya",
+    "provincia": "Burgos",
+    "descripcion_lugar": "Paso a nivel de clase B sito en P.K. 420,623, entre las estaciones de Briviesca y Calzada de Bureba, municipio de Briviesca."
+   },
+   "pagina": 2,
+   "cita": "420,623 de la Línea 100 Madrid-Hendaya, en la provincia de Burgos perteneciente a la Red",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños en el material motor y en las instalaciones.",
+    "afectacion_servicio": "Perturbación de tráfico de 278 minutos; 204 minutos de retrasos acumulados en 8 trenes de viajeros y 815 minutos acumulados en 8 trenes de mercancías."
+   },
+   "pagina": 3,
+   "cita": "Daños en el material motor y en las instalaciones.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista del tren 6021",
+     "implicacion": "Apto para sus funciones; actuación correcta; prueba de alcoholemia negativa; hizo uso repetido del silbato."
+    },
+    {
+     "rol": "conductor del vehículo",
+     "implicacion": "Fallecido; invadió el paso a nivel pese a la señalización luminosa y acústica."
+    },
+    {
+     "rol": "acompañante del vehículo",
+     "implicacion": "Fallecido."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El maquinista del tren 6021.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "6021",
+     "tipo": "Media Distancia",
+     "operador": "RENFE",
+     "danos": "Daños en el material motor y en las instalaciones."
+    }
+   ],
+   "pagina": 2,
+   "cita": "Tren de viajeros de Media Distancia nº6021 de la empresa ferroviaria RENFE, compuesto",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "440105",
+    "averia": "No se constató anomalía en equipos de seguridad de la locomotora, del tren o de las señales; se registraron daños en material motor.",
+    "mantenimiento": null
+   },
+   "pagina": 2,
+   "cita": "por las unidades de tracción 440105 con 2 vehículos y masa remolcada de 107 toneladas,",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel de clase B dotado de señalización acústica y luminosa; la señalización vertical de carretera no se ajusta a la OM 2001-08-02; señalización incompleta en el camino de acceso izquierdo.",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "135 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Recta, pendiente de 7,31 milésimas; correcto funcionamiento de los sistemas de seguridad y de la señalización ferroviaria de ADIF.",
+    "otro": "Bloqueo Automático Banalizado; momento de circulación de 1.301 vehículos/día; relacionado con el Aviso nº66 de la Gerencia Operativa de Miranda de Ebro (2003-11-17) y capítulo 8 del Manual de Circulación; paso en fase de anteproyecto de supresión por ADIF."
+   },
+   "pagina": 5,
+   "cita": "ferroviario que discurre en vía doble electrificada.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso a nivel de clase B dotado de señalización acústica y luminosa; la señalización vertical de carretera no se ajusta a la OM 2001-08-02; señalización incompleta en el camino de acceso izquierdo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños en el material motor y en las instalaciones.",
+    "afectacion_servicio": "Perturbación de tráfico de 278 minutos; 204 minutos de retrasos acumulados en 8 trenes de viajeros y 815 minutos acumulados en 8 trenes de mercancías."
+   },
+   "pagina": 2,
+   "cita": "Tren de viajeros de Media Distancia nº6021 de la empresa ferroviaria RENFE, compuesto",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños en el material motor y en las instalaciones.",
+    "afectacion_servicio": "Perturbación de tráfico de 278 minutos; 204 minutos de retrasos acumulados en 8 trenes de viajeros y 815 minutos acumulados en 8 trenes de mercancías."
+   },
+   "pagina": 3,
+   "cita": "Daños en el material motor y en las instalaciones.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños en el material motor y en las instalaciones.",
+    "afectacion_servicio": "Perturbación de tráfico de 278 minutos; 204 minutos de retrasos acumulados en 8 trenes de viajeros y 815 minutos acumulados en 8 trenes de mercancías."
+   },
+   "pagina": 3,
+   "cita": "Daños en el material motor y en las instalaciones.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "440105",
+    "averia": "No se constató anomalía en equipos de seguridad de la locomotora, del tren o de las señales; se registraron daños en material motor.",
+    "mantenimiento": null
+   },
+   "pagina": 2,
+   "cita": "por las unidades de tracción 440105 con 2 vehículos y masa remolcada de 107 toneladas,",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel de clase B dotado de señalización acústica y luminosa; la señalización vertical de carretera no se ajusta a la OM 2001-08-02; señalización incompleta en el camino de acceso izquierdo.",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "135 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Recta, pendiente de 7,31 milésimas; correcto funcionamiento de los sistemas de seguridad y de la señalización ferroviaria de ADIF.",
+    "otro": "Bloqueo Automático Banalizado; momento de circulación de 1.301 vehículos/día; relacionado con el Aviso nº66 de la Gerencia Operativa de Miranda de Ebro (2003-11-17) y capítulo 8 del Manual de Circulación; paso en fase de anteproyecto de supresión por ADIF."
+   },
+   "pagina": 5,
+   "cita": "ferroviario que discurre en vía doble electrificada.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Buenas condiciones atmosféricas de visibilidad, con tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Burgos",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 2,
+   "cita": "420,623 de la Línea 100 Madrid-Hendaya, en la provincia de Burgos perteneciente a la Red",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Buenas condiciones atmosféricas de visibilidad, con tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso a nivel de clase B dotado de señalización acústica y luminosa; la señalización vertical de carretera no se ajusta a la OM 2001-08-02; señalización incompleta en el camino de acceso izquierdo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel de clase B dotado de señalización acústica y luminosa; la señalización vertical de carretera no se ajusta a la OM 2001-08-02; señalización incompleta en el camino de acceso izquierdo.",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "135 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Recta, pendiente de 7,31 milésimas; correcto funcionamiento de los sistemas de seguridad y de la señalización ferroviaria de ADIF.",
+    "otro": "Bloqueo Automático Banalizado; momento de circulación de 1.301 vehículos/día; relacionado con el Aviso nº66 de la Gerencia Operativa de Miranda de Ebro (2003-11-17) y capítulo 8 del Manual de Circulación; paso en fase de anteproyecto de supresión por ADIF."
+   },
+   "pagina": 5,
+   "cita": "ferroviario que discurre en vía doble electrificada.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "440105",
+    "averia": "No se constató anomalía en equipos de seguridad de la locomotora, del tren o de las señales; se registraron daños en material motor.",
+    "mantenimiento": null
+   },
+   "pagina": 2,
+   "cita": "por las unidades de tracción 440105 con 2 vehículos y masa remolcada de 107 toneladas,",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "conductor ignora señales luminosas",
+    "vehículo invade paso a nivel",
+    "señalización carretera no reglamentaria",
+    "vegetación reduce visibilidad"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(ADIF), comunicó a través de mensaje de telefonía móvil el pasado 19 de octubre, que se \nhabía producido el arrollamiento de un vehículo con el resultado de dos fallecidos en el paso a \nnivel situado entre las estaciones de Briviesca y Calzada de Bureba, en el punto kilométrico \n420,623 de la Línea 100 Madrid-Hendaya, en la provincia de Burgos perteneciente a la Red \nFerroviaria de Interés General administrada por ADIF. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles de acuerdo \ncon el citado artículo.  \nDe conformidad con el artículo 112 del mencionado Reglamento, el 1 de septiembre de \n2006 la Dirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (ADIF), comunicó a través de mensaje de telefonía móvil el pasado 19 de octubre, que se había producido el a",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros de Media Distancia nº 6021 de RENFE, compuesto por las unidades de tracción 440105 con 2 vehículos y masa remolcada de 107 toneladas, arrolló a un vehículo de carretera Citroën Berlingo en el paso a nivel de clase B sito en el pk 420,623 de la línea Madrid-Hendaya, entre Briviesca y Calzada de Bureba. El vehículo cruzó el paso desde la margen izquierda a la derecha, en sentido de la kilometración.\n\nEn el momento del arrollamiento el tren circulaba a 128 km/h, con velocidad máxima permitida de 135 km/h. El paso se encontraba en trayecto BAB, en recta y con pendiente de 7,31 milésimas, con bloqueo automático banalizado y vía doble electrificada. Las condiciones atmosféricas eran buenas y el tiempo despejado.\n\nEl maquinista informó que, al pasar la señal del paso, vio un vehículo circulando por el camino en sentido izquierdo, hizo uso repetido del silbato y, tras perder momentáneamente la visión por la caseta, lo encontró pasando el paso y lo arrolló; no observó que frenara. A consecuencia del suceso fallecieron el conductor y el acompañante, dos varones de 36 y 34 años.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR EL OPERADOR FERROVIARIO. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl ADIF concluye “De los hechos descritos y posteriores investigaciones, se deduce que el \nmo ivo del accidente ue debido a la falta de cumplimiento del conductor del vehículo de las \nordenes de las señales de carretera, así como de las señales luminosas del paso a nivel”. \nt\n f\nt\n \nRenfe Operadora, “Imprudencia del conductor del vehículo al no perca arse de la llegada del \ntren y no atender a la señalización del paso a nivel, luminosa y acústica, que impedía el paso \nde los vehículos de carretera por el paso a nivel”.  \nPor tanto, ambas conclusiones son coincidentes en cuanto a la causa del accidente.",
+   "pagina": 6,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "El conductor del vehículo invadió el paso a nivel haciendo caso omiso de la señalización luminosa y acústica del paso y del silbato del tren.",
+   "pagina": 6,
+   "cita": "A la vista de los datos obtenidos se estima que el accidente fue causado porque el",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La señalización vertical de carretera de titularidad municipal no se ajusta a las prescripciones de la Orden Ministerial de 2001-08-02.",
+    "La señalización del paso es incompleta en el camino de acceso izquierdo.",
+    "La visibilidad se reduce al aproximarse al paso por la vegetación de la margen de las vías y por la caseta de instalaciones."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "A la vista de los datos obtenidos se estima que el accidente fue causado porque el \nconductor del vehículo invadió el paso a nivel haciendo caso omiso de la señalización luminosa \ny acústica del paso a nivel y del silbato que efectuaba el maquinista del tren 6021 en las \ncercanías del mismo.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES A la vista de los datos obtenidos se estima que el accidente fue causado porque el conductor del vehículo invadió el paso a nivel haciendo caso omiso de la señalización luminosa y acústica del paso a n",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "A la vista de los datos obtenidos se estima que el accidente fue causado porque el \nconductor del vehículo invadió el paso a nivel haciendo caso omiso de la señalización luminosa \ny acústica del paso a nivel y del silbato que efectuaba el maquinista del tren 6021 en las \ncercanías del mismo.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES A la vista de los datos obtenidos se estima que el accidente fue causado porque el conductor del vehículo invadió el paso a nivel haciendo caso omiso de la señalización luminosa y acústica del paso a n",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Que el Ayuntamiento de Briviesca, como titular del camino, disponga la señalización vertical del paso de acuerdo con la Orden Ministerial de 2001-08-02.",
+     "destinatario": "Ayuntamiento de Briviesca"
+    },
+    {
+     "texto": "Mejorar la seguridad del paso a nivel mediante el despeje de vegetación para mejorar la visibilidad.",
+     "destinatario": null
+    },
+    {
+     "texto": "Realizar un recuento de vehículos de carretera y, si fuera posible, dotar el paso de una protección de clase C.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 6,
+   "cita": "recomendar que el Ayuntamiento de Briviesca como titular del camino, disponga la",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "14:42",
+     "evento": "Se produce el arrollamiento del vehículo por el tren 6021 en el paso a nivel."
+    },
+    {
+     "hora": "16:30",
+     "evento": "Prueba de alcoholemia al maquinista, con resultado negativo (0,00 mg/1000 ml)."
+    },
+    {
+     "hora": "16:55",
+     "evento": "Los servicios sanitarios proceden al levantamiento de los cadáveres."
+    },
+    {
+     "hora": "17:05",
+     "evento": "Los bomberos retiran los restos del vehículo."
+    },
+    {
+     "hora": "19:20",
+     "evento": "Finaliza la perturbación de tráfico, con una duración de 278 minutos."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0039/2006",
+ "expediente": "0039/2006",
+ "anio": 2006,
+ "titulo": "Arrollamiento de un vehículo por tren en paso a nivel entre Briviesca y Calzada de Bureba (Burgos)",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-191006-020307.md"
+}

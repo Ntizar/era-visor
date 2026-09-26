@@ -1,0 +1,935 @@
+{
+ "id": "ID-241207-230508-CIAF[1]",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/1A827EBA-339A-49F5-B5A8-368DB97D3AAB/46895/ID241207230508CIAF.pdf",
+ "pdf": "pdfs/ES/ID-241207-230508-CIAF[1].pdf",
+ "md5_pdf": "280f92ada5c961d3cbb6fa76dfd190ed",
+ "paginas_md": 9,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 9,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "064/2007",
+   "pagina": 1,
+   "cita": "nº 064/2007 ocurrido el 24.12.2007",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 24 de diciembre de 2007, a las 20:16, el tren de cercanías 21763 de Renfe Operadora arrolló a una persona en el P.K. 5,200 de la línea 930 Madrid-San Fernando de Henares, entre Vallecas Industrial y El Pozo. La víctima falleció por el impacto y su acompañante resultó ileso. El maquinista hizo sonar el silbato y aplicó el freno de emergencia, pero no pudo evitar el golpe. El informe concluye que el origen fue el tránsito indebido de la víctima por la vía y, por las características del suceso, no se establecieron recomendaciones en el informe particular, aunque la resolución plantea un inventario sistemático de situaciones similares y una planificación global de actuaciones.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-12-24",
+    "hora": "20:16",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "El Pozo",
+     "pk": "5,200",
+     "linea": "930 Madrid- San Fernando de Henares",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Plena vía entre Vallecas Industrial y El Pozo, cerca del apeadero de El Pozo, en el P.K. 5,200 de la línea 930 Madrid-San Fernando de Henares."
+    }
+   },
+   "pagina": 9,
+   "cita": "cerca del apeadero de El Pozo, el 24/12/2007, se aprueba como definitivo el informe particular",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material motor ni en instalaciones.",
+    "afectacion_servicio": "Ambas vías interceptadas hasta las 21:19; paso por vía II autorizado desde las 21:19 y vía I cortada hasta las 22:52. 16 trenes de Cercanías sumaron 642 minutos de retraso y 1 tren de Media Distancia sufrió 92 minutos de retraso."
+   },
+   "pagina": 4,
+   "cita": "Víctimas mortales Un varón de 22 años 2.3.2 Material rodante No se produjeron daños ni en el material motor ni en las instalaciones. 2.3.3 Minutos perdidos. Interceptación de vía Ambas vías quedaron interceptadas",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Tránsito indebido de la víctima por la vía.",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en el tránsito indebido de la víctima por la vía.",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima y su acompañante caminaban por la vía general en zona no autorizada para el público."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Dadas las características del accidente, no se establecen recomendaciones.",
+     "destinatario": null
+    },
+    {
+     "texto": "La recomendación deberá ser un inventario sistemático de situaciones de estas características en la Red Ferroviaria de Interés General y la subsiguiente planificación de actuaciones a nivel global.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 7,
+   "cita": "Dadas las características del accidente, no se establecen recomendaciones.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Dadas las características del accidente, no se establecen recomendaciones.",
+     "destinatario": null
+    },
+    {
+     "texto": "La recomendación deberá ser un inventario sistemático de situaciones de estas características en la Red Ferroviaria de Interés General y la subsiguiente planificación de actuaciones a nivel global.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 7,
+   "cita": "Dadas las características del accidente, no se establecen recomendaciones.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento",
+   "pagina": 2,
+   "cita": "Investigación de accidentes ferroviarios de que se había producido el arrollamiento de una persona en",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "ferroviaria Renfe Operadora, circulando entre las estaciones de Vallecas Industrial y El Pozo, golpea a",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-12-24",
+   "pagina": 9,
+   "cita": "cerca del apeadero de El Pozo, el 24/12/2007, se aprueba como definitivo el informe particular",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "20:16",
+   "pagina": 2,
+   "cita": "El día 24 de diciembre de 2007, a las 20:16 horas, el tren de cercanías 21763, de la empresa",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "El Pozo",
+    "pk": "5,200",
+    "linea": "930 Madrid- San Fernando de Henares",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Plena vía entre Vallecas Industrial y El Pozo, cerca del apeadero de El Pozo, en el P.K. 5,200 de la línea 930 Madrid-San Fernando de Henares."
+   },
+   "pagina": 2,
+   "cita": "ferroviaria Renfe Operadora, circulando entre las estaciones de Vallecas Industrial y El Pozo, golpea a",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "930 Madrid-San Fernando de Henares",
+   "pagina": 2,
+   "cita": "una persona a la altura del kilómetro 5,200 de la línea 930 Madrid- San Fernando de Henares,",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "U/T446012-446044; 6 vehículos; 346 toneladas; matrícula 96.71.94.46.012.7",
+    "averia": "No se produjeron daños en material motor ni instalaciones; funcionó correctamente",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 24 de diciembre de 2007, a las 20:16, el tren de cercanías 21763 de Renfe Operadora circulaba por vía impar entre Vallecas Industrial y El Pozo, por la línea 930 Madrid-San Fernando de Henares. A la altura del P.K. 5,200, el maquinista vio a dos personas caminando por la vía, hizo sonar el silbato y accionó el freno de emergencia, sin poder evitar golpear a una de ellas y expulsarla fuera de la vía.\n\nLa víctima, un varón de 22 años, falleció por el impacto; su acompañante resultó ileso. El maquinista detuvo el tren y comunicó el suceso al Puesto de Mando de Chamartín, desde donde se activaron los protocolos de actuación para accidentes y se avisó a los servicios de emergencia, a Seguridad Corporativa y a Servicios Internos de Adif y Renfe Operadora.\n\nEl registro de eventos indicó que el tren circulaba a 98 km/h cuando se aplicó el freno de emergencia, por debajo de los 120 km/h permitidos. Tanto el material rodante como las instalaciones técnicas funcionaron correctamente, y la prueba de alcoholemia y drogas del maquinista fue negativa.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "El Pozo",
+    "pk": "5,200",
+    "linea": "930 Madrid- San Fernando de Henares",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Plena vía entre Vallecas Industrial y El Pozo, cerca del apeadero de El Pozo, en el P.K. 5,200 de la línea 930 Madrid-San Fernando de Henares."
+   },
+   "pagina": 2,
+   "cita": "ferroviaria Renfe Operadora, circulando entre las estaciones de Vallecas Industrial y El Pozo, golpea a",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material motor ni en instalaciones.",
+    "afectacion_servicio": "Ambas vías interceptadas hasta las 21:19; paso por vía II autorizado desde las 21:19 y vía I cortada hasta las 22:52. 16 trenes de Cercanías sumaron 642 minutos de retraso y 1 tren de Media Distancia sufrió 92 minutos de retraso."
+   },
+   "pagina": 4,
+   "cita": "Víctimas mortales Un varón de 22 años 2.3.2 Material rodante No se produjeron daños ni en el material motor ni en las instalaciones. 2.3.3 Minutos perdidos. Interceptación de vía Ambas vías quedaron interceptadas",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 21763",
+     "implicacion": "Matrícula 9677873; título de conducción categoría B; habilitación conforme a la Orden Ministerial 2520 de 2006-07-27; último reciclaje formativo 2007-02-26 y último reconocimiento 2004-11-02. Jornada de trabajo en el momento del suceso: 4 h 15 min; jornada efectiva de conducción: 2 h 20 min. Observó a dos personas en la vía, hizo sonar el silbato y accionó el freno de emergencia; su actuación fue correcta. Prueba de alcoholemia y drogas realizada el 2007-12-24 a las 15:20: resultado negativo."
+    },
+    {
+     "rol": "Supervisor de Circulación de la Jefatura Técnica de Operaciones de Madrid",
+     "implicacion": "Nombrado Jefe Delegado en el punto del accidente."
+    },
+    {
+     "rol": "Técnico de Regulación",
+     "implicacion": "Nombrado Portavoz de la información en el Puesto de Mando."
+    },
+    {
+     "rol": "Acompañante de la víctima",
+     "implicacion": "Caminaba por la vía junto a la víctima y resultó ileso; testigo."
+    },
+    {
+     "rol": "Víctima (varón de 22 años)",
+     "implicacion": "Caminaba por la vía general en zona no autorizada para el público y falleció por el impacto."
+    },
+    {
+     "rol": "Coordinador de accidentes ferroviarios de Adif",
+     "implicacion": "Informó a la CIAF del arrollamiento el 2007-12-24 a las 21:18."
+    },
+    {
+     "rol": "Técnico integrado en la Secretaría de la CIAF",
+     "implicacion": "Designado técnico responsable de la investigación el 2007-12-11."
+    },
+    {
+     "rol": "Gerente Territorial de Seguridad en la Circulación Centro de Adif",
+     "implicacion": "Entregó informe particular del accidente el 2008-03-05."
+    },
+    {
+     "rol": "Responsable de Seguridad de Renfe Operadora",
+     "implicacion": "Entregó informe particular del accidente el 2008-03-05."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El maquinista principal del tren 21763",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "21763",
+     "tipo": "Tren de cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "No se produjeron daños en el material motor ni en las instalaciones."
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 24 de diciembre de 2007, a las 20:16 horas, el tren de cercanías 21763, de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "U/T446012-446044; 6 vehículos; 346 toneladas; matrícula 96.71.94.46.012.7",
+    "averia": "No se produjeron daños en material motor ni instalaciones; funcionó correctamente",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado con control de tráfico centralizado (B.A.B con C.T.C)",
+    "tipo_via": "Vía doble electrificada; el tren circulaba por vía impar",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Alineación en recta con visibilidad 150 m y perfil horizontal; los sistemas de control funcionaban correctamente",
+    "otro": "Sistemas de comunicación: radiotelefonía modalidad A"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático banalizado con control de tráfico centralizado (B.A.B con C.T.C)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material motor ni en instalaciones.",
+    "afectacion_servicio": "Ambas vías interceptadas hasta las 21:19; paso por vía II autorizado desde las 21:19 y vía I cortada hasta las 22:52. 16 trenes de Cercanías sumaron 642 minutos de retraso y 1 tren de Media Distancia sufrió 92 minutos de retraso."
+   },
+   "pagina": 4,
+   "cita": "Víctimas mortales Un varón de 22 años 2.3.2 Material rodante No se produjeron daños ni en el material motor ni en las instalaciones. 2.3.3 Minutos perdidos. Interceptación de vía Ambas vías quedaron interceptadas",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material motor ni en instalaciones.",
+    "afectacion_servicio": "Ambas vías interceptadas hasta las 21:19; paso por vía II autorizado desde las 21:19 y vía I cortada hasta las 22:52. 16 trenes de Cercanías sumaron 642 minutos de retraso y 1 tren de Media Distancia sufrió 92 minutos de retraso."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe definitivo ID-241207-230508-CIAF Pág. 1 de 9 INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material motor ni en instalaciones.",
+    "afectacion_servicio": "Ambas vías interceptadas hasta las 21:19; paso por vía II autorizado desde las 21:19 y vía I cortada hasta las 22:52. 16 trenes de Cercanías sumaron 642 minutos de retraso y 1 tren de Media Distancia sufrió 92 minutos de retraso."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "U/T446012-446044; 6 vehículos; 346 toneladas; matrícula 96.71.94.46.012.7",
+    "averia": "No se produjeron daños en material motor ni instalaciones; funcionó correctamente",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado con control de tráfico centralizado (B.A.B con C.T.C)",
+    "tipo_via": "Vía doble electrificada; el tren circulaba por vía impar",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Alineación en recta con visibilidad 150 m y perfil horizontal; los sistemas de control funcionaban correctamente",
+    "otro": "Sistemas de comunicación: radiotelefonía modalidad A"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Condiciones atmosféricas buenas; visibilidad atmosférica buena.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": "El Pozo"
+   },
+   "pagina": 2,
+   "cita": "una persona a la altura del kilómetro 5,200 de la línea 930 Madrid- San Fernando de Henares,",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Condiciones atmosféricas buenas; visibilidad atmosférica buena.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático banalizado con control de tráfico centralizado (B.A.B con C.T.C)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado con control de tráfico centralizado (B.A.B con C.T.C)",
+    "tipo_via": "Vía doble electrificada; el tren circulaba por vía impar",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Alineación en recta con visibilidad 150 m y perfil horizontal; los sistemas de control funcionaban correctamente",
+    "otro": "Sistemas de comunicación: radiotelefonía modalidad A"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "U/T446012-446044; 6 vehículos; 346 toneladas; matrícula 96.71.94.46.012.7",
+    "averia": "No se produjeron daños en material motor ni instalaciones; funcionó correctamente",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "víctima camina por vía",
+    "tránsito indebido de peatón",
+    "zona no autorizada para público",
+    "acompañante camina junto a víctima"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 24 de diciembre de 2007, a las 20:16, el tren de cercanías 21763 de Renfe Operadora circulaba por vía impar entre Vallecas Industrial y El Pozo, por la línea 930 Madrid-San Fernando de Henares. A la altura del P.K. 5,200, el maquinista vio a dos personas caminando por la vía, hizo sonar el silbato y accionó el freno de emergencia, sin poder evitar golpear a una de ellas y expulsarla fuera de la vía.\n\nLa víctima, un varón de 22 años, falleció por el impacto; su acompañante resultó ileso. El maquinista detuvo el tren y comunicó el suceso al Puesto de Mando de Chamartín, desde donde se activaron los protocolos de actuación para accidentes y se avisó a los servicios de emergencia, a Seguridad Corporativa y a Servicios Internos de Adif y Renfe Operadora.\n\nEl registro de eventos indicó que el tren circulaba a 98 km/h cuando se aplicó el freno de emergencia, por debajo de los 120 km/h permitidos. Tanto el material rodante como las instalaciones técnicas funcionaron correctamente, y la prueba de alcoholemia y drogas del maquinista fue negativa.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl lugar donde se produjo el arrollamiento se sitúa en plena vía, entre las estaciones de Vallecas \nIndustrial y El Pozo, en el punto kilométrico 5,200 de la línea 930 Madrid- San Fernando de Henares. \nLa visibilidad atmosférica era buena. \n\n## Página 7\n\n \n \n \nInvestigación del accidente \nnº 064/2007 ocurrido el 24.12.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO \nDE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme definitivo \n \n \nID-241207-230508-CIAF \n \n \nPág. 7 de 9\nSegún el registro de eventos del tren 21763, éste circulaba a velocidad inferior a la máxima \npermitida. \nDe la prueba de alcoholemia y drogas se constata que el maquinista se encontraba apto para el \ndesarrollo de sus funciones y su actuación en el momento del accidente fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasas de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario. \nSe ha comprobado que tanto el material rodante como los sistemas de control de la infraestructura \nfuncionaban correctamente en el momento del accidente. \nLa víctima, junto con su acompañante, caminaba por la vía general en zona no autorizada para el \npúblico. \n4.2 \nCONCLUSIONES \n \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \n \n-  \nEl accidente tuvo su origen en el tránsito indebido de la víctima por la vía.",
+   "pagina": 6,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Tránsito indebido de la víctima por la vía.",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en el tránsito indebido de la víctima por la vía.",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima y su acompañante caminaban por la vía general en zona no autorizada para el público."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Dadas las características del accidente, no se establecen recomendaciones.",
+     "destinatario": null
+    },
+    {
+     "texto": "La recomendación deberá ser un inventario sistemático de situaciones de estas características en la Red Ferroviaria de Interés General y la subsiguiente planificación de actuaciones a nivel global.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 7,
+   "cita": "Dadas las características del accidente, no se establecen recomendaciones.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "20:16",
+     "evento": "2007-12-24: El tren de cercanías 21763 arrolla a una persona en el P.K. 5,200 de la línea 930 Madrid-San Fernando de Henares."
+    },
+    {
+     "hora": "21:18",
+     "evento": "2007-12-24: El coordinador de accidentes ferroviarios de Adif informa a la CIAF del arrollamiento mediante mensaje de telefonía móvil."
+    },
+    {
+     "hora": "21:19",
+     "evento": "2007-12-24: Se autoriza el paso por vía II tras la interceptación inicial de ambas vías."
+    },
+    {
+     "hora": "22:52",
+     "evento": "2007-12-24: Se reabre la vía I, que había permanecido cortada desde el suceso."
+    },
+    {
+     "hora": null,
+     "evento": "2007-12-11: La CIAF designa técnico responsable de la investigación."
+    },
+    {
+     "hora": null,
+     "evento": "2008-03-05: Adif y Renfe Operadora entregan informes particulares del accidente."
+    },
+    {
+     "hora": null,
+     "evento": "2008-05-23: El Pleno de la CIAF aprueba como definitivo el informe y la resolución."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0064/2007",
+ "expediente": "0064/07",
+ "anio": 2007,
+ "titulo": "Arrollamiento de una persona por tren de cercanías en línea 930 Madrid-San Fernando de Henares, cerca de El Pozo",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ID-241207-230508-CIAF[1].md"
+}

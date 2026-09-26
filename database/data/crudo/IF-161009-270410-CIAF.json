@@ -1,0 +1,887 @@
+{
+ "id": "IF-161009-270410-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/A9E45E1E-CB65-4DB1-B773-66921463AC59/74821/IF_N_56_CIAF.pdf",
+ "pdf": "pdfs/ES/IF-161009-270410-CIAF.pdf",
+ "md5_pdf": "50ad51912e863b5da3d7ab01b80a8807",
+ "paginas_md": 11,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 35,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0056/2009",
+   "pagina": 1,
+   "cita": "nº 0056/2009 ocurrido el 16.10.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2009-10-16, a las 11:19, el tren de cercanías 24228 de Renfe Operadora arrolló a una mujer de 78 años en el paso a nivel clase C del P.K. 107+996, en la estación de Alfafar-Benetússer (Valencia). La víctima cruzó por uno de los pasos peatonales con las semibarreras bajadas y la señalización luminosa y acústica activadas. El maquinista usó silbato y freno de emergencia, pero no pudo evitar el atropello. No hubo daños materiales en tren ni infraestructura, y la vía estuvo interceptada entre 11:19 y 12:45.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-10-16",
+    "hora": "11:19",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Alfafar-Benetússer",
+     "pk": "107+996",
+     "linea": "300 Madrid (Chamartín)-Valencia (estación del Nord)",
+     "provincia": "Valencia",
+     "descripcion_lugar": "Paso a nivel clase C en la estación de Alfafar-Benetússer, a la salida hacia Valencia, en el centro de la población de Alfafar. Protege el cruce de la vía férrea con la carretera de Alfafar a Sedaví. Vía doble electrificada, trayecto recto y visibilidad buena."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 16 de octubre de 2009, a las 11:19 horas, el tren de viajeros de cercanías 24228, de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+    "afectacion_servicio": "Vía interceptada entre 11:19 y 12:45 entre Alfafar-Benetússer y Valencia; circulaciones por vía 1; transbordo de viajeros del tren 24228 al tren 24036; 3 trenes de cercanías suprimidos; 18 trenes de cercanías retrasados 254 minutos en total; 2 trenes de larga distancia retrasados 57 minutos; tren implicado retrasado 53 minutos."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños ni en el material rodante ni en la infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "La víctima cruzó el paso a nivel por la zona peatonal cuando circulaba el tren 24228, con semibarreras bajadas y señalización alertando de la llegada del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones.  \n \n \nMadrid, 27 de abril de 2010",
+   "pagina": 11,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones. Madrid, 27 de abril de 2010",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "empresa ferroviaria Renfe Operadora, arrolla a una persona que cruzaba por uno de los dos pasos",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-10-16",
+   "pagina": 3,
+   "cita": "El día 16 de octubre de 2009, a las 11:19 horas, el tren de viajeros de cercanías 24228, de la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "11:19",
+   "pagina": 3,
+   "cita": "El día 16 de octubre de 2009, a las 11:19 horas, el tren de viajeros de cercanías 24228, de la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Alfafar-Benetússer",
+    "pk": "107+996",
+    "linea": "300 Madrid (Chamartín)-Valencia (estación del Nord)",
+    "provincia": "Valencia",
+    "descripcion_lugar": "Paso a nivel clase C en la estación de Alfafar-Benetússer, a la salida hacia Valencia, en el centro de la población de Alfafar. Protege el cruce de la vía férrea con la carretera de Alfafar a Sedaví. Vía doble electrificada, trayecto recto y visibilidad buena."
+   },
+   "pagina": 10,
+   "cita": "11:18:10 horas: Tren 24228 ocupando circuitos estacionamiento de vía 2, tren 24225 ocupando",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "300 Madrid (Chamartín)-Valencia (estación del Nord)",
+   "pagina": 3,
+   "cita": "Línea: 300 Madrid (Chamartín)- Valencia (estación del Nord) Tramo: Alfafar Benetússer– Valencia (Nord) Municipio: Alfafar Provincia: Valencia 2.1.2. Descripción del suceso El tren de cercanías 24228 d",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tipo 120A; automotor 465230; 5 vagones; 333 Tn de masa remolcada; Nº UIC 967194652244",
+    "averia": "No se produjeron daños; los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de cercanías 24228, procedente de Gandía y con destino Valencia-Nord, salió de Alfafar-Benetússer y, al aproximarse al paso a nivel clase C situado en el P.K. 107+996 de la línea 300 Madrid (Chamartín)-Valencia (Nord), arrolló a una mujer de 78 años que cruzaba por la zona peatonal del paso a nivel. En ese momento el paso a nivel tenía las semibarreras bajadas y la señalización luminosa y acústica activada, indicando la proximidad del tren.\n\nLa víctima cruzaba de derecha a izquierda, en sentido de la marcha del tren, por el paso peatonal más cercano a la marcha, provisto de burladero, y quedó atrapada en la vía 2, debajo del tercer coche. En sentido contrario, por la vía 1, circulaba casi simultáneamente el tren de cercanías 24225. Según la moviola del enclavamiento, a las 11:17 el tren 24228 entraba en la estación por vía 2 con itinerario establecido para salir y paso a nivel cerrado; a las 11:19 se produjo el arrollamiento.\n\nEl registrador del vehículo motor indica que el maquinista accionó silbato y freno de emergencia cuando el tren circulaba a 65 km/h; la velocidad en el instante del arrollamiento se estimó en unos 51 km/h y el tren se detuvo en unos 85 metros. La vía quedó interceptada entre 11:19 y 12:45, realizándose las circulaciones por vía 1; los viajeros del tren 24228 fueron transbordados en plena vía al tren 24036 situado en paralelo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Alfafar-Benetússer",
+    "pk": "107+996",
+    "linea": "300 Madrid (Chamartín)-Valencia (estación del Nord)",
+    "provincia": "Valencia",
+    "descripcion_lugar": "Paso a nivel clase C en la estación de Alfafar-Benetússer, a la salida hacia Valencia, en el centro de la población de Alfafar. Protege el cruce de la vía férrea con la carretera de Alfafar a Sedaví. Vía doble electrificada, trayecto recto y visibilidad buena."
+   },
+   "pagina": 10,
+   "cita": "11:18:10 horas: Tren 24228 ocupando circuitos estacionamiento de vía 2, tren 24225 ocupando",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+    "afectacion_servicio": "Vía interceptada entre 11:19 y 12:45 entre Alfafar-Benetússer y Valencia; circulaciones por vía 1; transbordo de viajeros del tren 24228 al tren 24036; 3 trenes de cercanías suprimidos; 18 trenes de cercanías retrasados 254 minutos en total; 2 trenes de larga distancia retrasados 57 minutos; tren implicado retrasado 53 minutos."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños ni en el material rodante ni en la infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista del tren 24228",
+     "implicacion": "Matrícula 8866964. Posee título B de conducción y está habilitado conforme a la Orden FOM/2520/2006. Último reciclaje formativo: 2007-01-31; último reconocimiento médico y psicotécnico: 2006-03-23. El día del accidente su jornada laboral fue de 7 horas y 14 minutos, con 4 horas y 24 minutos de conducción. Usó silbato y freno de emergencia a 65 km/h; prueba de alcoholemia y drogas a las 12:30 negativa; actuación correcta."
+    }
+   ],
+   "pagina": 9,
+   "cita": "Jornadas laboral y de conducción del maquinista del tren 24228:",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "24228",
+     "tipo": "cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños en el material rodante"
+    },
+    {
+     "numero": "24225",
+     "tipo": "cercanías",
+     "operador": null,
+     "danos": null
+    },
+    {
+     "numero": "24036",
+     "tipo": null,
+     "operador": null,
+     "danos": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 16 de octubre de 2009, a las 11:19 horas, el tren de viajeros de cercanías 24228, de la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tipo 120A; automotor 465230; 5 vagones; 333 Tn de masa remolcada; Nº UIC 967194652244",
+    "averia": "No se produjeron daños; los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 4,
+   "cita": "El jefe de investigación de accidentes ferroviarios del Administrador de Infraestructuras",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Semibarreras bajadas y señalización luminosa y acústica activada; funcionamiento correcto según registrador de eventos.",
+    "tipo_via": "Vía doble electrificada en estación; bloqueo automático en vía doble banalizada (B.A.B.) y control de tráfico centralizado en Valencia.",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Trayecto recto, visibilidad buena, sin limitación de velocidad ni restricción en el momento del accidente; pavimento del paso a nivel tipo 'strail' en buen estado.",
+    "otro": "Paso a nivel clase C enclavado en la estación de Alfafar-Benetússer; consta de paso carretero y dos pasos peatonales con burladeros; AxT 260.527 (A=1.392, T=187,16). Tráfico medio semanal del tramo Alfafar-Benetússer–Valencia Nord: 1.370 circulaciones (204 larga distancia, 88 media distancia, 1.069 cercanías, 0 mercancías, 9 servicio). Sistemas de comunicación: radiotelefonía A. Tras el suceso, el maquinista comunicó al puesto de mando de Valencia, desde donde se cursó aviso al 112, al CPS de Valencia de Adif, a los operadores afectados y a la gerencia territorial. Precedente: el 2007-09-27 un tren de larga distancia arrolló a una persona de avanzada edad en el mismo paso a nivel."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Semibarreras bajadas y señalización luminosa y acústica activada; funcionamiento correcto según registrador de eventos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía A.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+    "afectacion_servicio": "Vía interceptada entre 11:19 y 12:45 entre Alfafar-Benetússer y Valencia; circulaciones por vía 1; transbordo de viajeros del tren 24228 al tren 24036; 3 trenes de cercanías suprimidos; 18 trenes de cercanías retrasados 254 minutos en total; 2 trenes de larga distancia retrasados 57 minutos; tren implicado retrasado 53 minutos."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños ni en el material rodante ni en la infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+    "afectacion_servicio": "Vía interceptada entre 11:19 y 12:45 entre Alfafar-Benetússer y Valencia; circulaciones por vía 1; transbordo de viajeros del tren 24228 al tren 24036; 3 trenes de cercanías suprimidos; 18 trenes de cercanías retrasados 254 minutos en total; 2 trenes de larga distancia retrasados 57 minutos; tren implicado retrasado 53 minutos."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+    "afectacion_servicio": "Vía interceptada entre 11:19 y 12:45 entre Alfafar-Benetússer y Valencia; circulaciones por vía 1; transbordo de viajeros del tren 24228 al tren 24036; 3 trenes de cercanías suprimidos; 18 trenes de cercanías retrasados 254 minutos en total; 2 trenes de larga distancia retrasados 57 minutos; tren implicado retrasado 53 minutos."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños ni en el material rodante ni en la infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tipo 120A; automotor 465230; 5 vagones; 333 Tn de masa remolcada; Nº UIC 967194652244",
+    "averia": "No se produjeron daños; los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Semibarreras bajadas y señalización luminosa y acústica activada; funcionamiento correcto según registrador de eventos.",
+    "tipo_via": "Vía doble electrificada en estación; bloqueo automático en vía doble banalizada (B.A.B.) y control de tráfico centralizado en Valencia.",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Trayecto recto, visibilidad buena, sin limitación de velocidad ni restricción en el momento del accidente; pavimento del paso a nivel tipo 'strail' en buen estado.",
+    "otro": "Paso a nivel clase C enclavado en la estación de Alfafar-Benetússer; consta de paso carretero y dos pasos peatonales con burladeros; AxT 260.527 (A=1.392, T=187,16). Tráfico medio semanal del tramo Alfafar-Benetússer–Valencia Nord: 1.370 circulaciones (204 larga distancia, 88 media distancia, 1.069 cercanías, 0 mercancías, 9 servicio). Sistemas de comunicación: radiotelefonía A. Tras el suceso, el maquinista comunicó al puesto de mando de Valencia, desde donde se cursó aviso al 112, al CPS de Valencia de Adif, a los operadores afectados y a la gerencia territorial. Precedente: el 2007-09-27 un tren de larga distancia arrolló a una persona de avanzada edad en el mismo paso a nivel."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Valencia",
+    "municipio": null,
+    "estacion": "Alfafar-Benetússer"
+   },
+   "pagina": 3,
+   "cita": "(Chamartín)-Valencia (estación de Nord), a la salida hacia Valencia desde la estación de Alfafar-",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Semibarreras bajadas y señalización luminosa y acústica activada; funcionamiento correcto según registrador de eventos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Semibarreras bajadas y señalización luminosa y acústica activada; funcionamiento correcto según registrador de eventos.",
+    "tipo_via": "Vía doble electrificada en estación; bloqueo automático en vía doble banalizada (B.A.B.) y control de tráfico centralizado en Valencia.",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Trayecto recto, visibilidad buena, sin limitación de velocidad ni restricción en el momento del accidente; pavimento del paso a nivel tipo 'strail' en buen estado.",
+    "otro": "Paso a nivel clase C enclavado en la estación de Alfafar-Benetússer; consta de paso carretero y dos pasos peatonales con burladeros; AxT 260.527 (A=1.392, T=187,16). Tráfico medio semanal del tramo Alfafar-Benetússer–Valencia Nord: 1.370 circulaciones (204 larga distancia, 88 media distancia, 1.069 cercanías, 0 mercancías, 9 servicio). Sistemas de comunicación: radiotelefonía A. Tras el suceso, el maquinista comunicó al puesto de mando de Valencia, desde donde se cursó aviso al 112, al CPS de Valencia de Adif, a los operadores afectados y a la gerencia territorial. Precedente: el 2007-09-27 un tren de larga distancia arrolló a una persona de avanzada edad en el mismo paso a nivel."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía A.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tipo 120A; automotor 465230; 5 vagones; 333 Tn de masa remolcada; Nº UIC 967194652244",
+    "averia": "No se produjeron daños; los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "victima cruza con barreras bajadas",
+    "señalizacion activa alerta llegada tren"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. \nRealizó su último reciclaje formativo el 31/01/07 y su último reconocimiento médico y \npsicotécnico el 23/03/06, conforme a la normativa vigente.",
+   "pagina": 8,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "Jornadas laboral y de conducción del maquinista del tren 24228: \n- el día 16: 7 horas y 14 minutos (4 horas y 24 minutos de conducción). \n- el día 15: 8 horas (4 horas y 30 minutos). \n- el día 14: 7 horas y 44 minutos (4 horas y 20 minutos de conducción). \nAl maquinista, el día del accidente, a las 12:30 horas, se le realiza la prueba de alcoholemia y \ndrogas con resultado negativo en ambas.",
+   "pagina": 9,
+   "cita": "3.5. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Jornadas laboral y de conducción del maquinista del tren 24228: \n- el día 16: 7 horas y 14 minutos (4 horas y 24 minutos de conducción). \n- el día 15: 8 horas (4 horas y 30 minutos). \n- el día 14: 7 horas y 44 minutos (4 horas y 20 minutos de conducción). \nAl maquinista, el día del accidente, a las 12:30 horas, se le realiza la prueba de alcoholemia y \ndrogas con resultado negativo en ambas.",
+   "pagina": 9,
+   "cita": "3.5. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de cercanías 24228, procedente de Gandía y con destino Valencia-Nord, salió de Alfafar-Benetússer y, al aproximarse al paso a nivel clase C situado en el P.K. 107+996 de la línea 300 Madrid (Chamartín)-Valencia (Nord), arrolló a una mujer de 78 años que cruzaba por la zona peatonal del paso a nivel. En ese momento el paso a nivel tenía las semibarreras bajadas y la señalización luminosa y acústica activada, indicando la proximidad del tren.\n\nLa víctima cruzaba de derecha a izquierda, en sentido de la marcha del tren, por el paso peatonal más cercano a la marcha, provisto de burladero, y quedó atrapada en la vía 2, debajo del tercer coche. En sentido contrario, por la vía 1, circulaba casi simultáneamente el tren de cercanías 24225. Según la moviola del enclavamiento, a las 11:17 el tren 24228 entraba en la estación por vía 2 con itinerario establecido para salir y paso a nivel cerrado; a las 11:19 se produjo el arrollamiento.\n\nEl registrador del vehículo motor indica que el maquinista accionó silbato y freno de emergencia cuando el tren circulaba a 65 km/h; la velocidad en el instante del arrollamiento se estimó en unos 51 km/h y el tren se detuvo en unos 85 metros. La vía quedó interceptada entre 11:19 y 12:45, realizándose las circulaciones por vía 1; los viajeros del tren 24228 fueron transbordados en plena vía al tren 24036 situado en paralelo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar el día 16 de octubre de 2009, a las 11:19 horas, en el paso a nivel clase \nC, situado en el P.K. 107+996 de la línea 300 Madrid (Chamartín) - Valencia (estación del Nord), en la \nestación de Alfafar-Benetússer, provincia de Valencia. \nSegún la moviola de los eventos del enclavamiento: \n11:17:31 horas: Tren 24228, que realizaba el recorrido entre Gandía y Valencia (Nord), entrando \nen la estación de Alfafar-Benetússer por vía 2, con itinerario establecido para salir y PN cerrado. \n11:18:10 horas: Tren 24228 ocupando circuitos estacionamiento de vía 2, tren 24225 ocupando \ncircuito señal de entrada vía 1, con los itinerarios establecidos y el PN funcionando correctamente. \n11:19:04 horas: Tren 24228 ocupando circuitos estacionamiento de vía 2, tren 24225 ocupando \ncircuito señal de entrada vía 1, con los itinerarios establecidos y el PN funcionando correctamente. \n11:19:21 horas: Tren 24228 no ha ocupado los circuitos de cambio de salida vía 2, tren 24225 \nocupando circuitos cambios de entrada y el PN funcionando correctamente. \n11:19:31 horas: Momento del arrollamiento, tren de cercanías 24228 pasando por el PN al mismo \ntiempo que el tren 24225, con itinerarios establecidos y el PN funcionando correctamente. \nDel registro del vehículo motor se verifica que el maquinista hace uso del silbato y del freno de \nurgencia cuando circulaba a 65 km/h. La velocidad en el instante del arrollamiento se estima en unos",
+   "pagina": 10,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "La víctima cruzó el paso a nivel por la zona peatonal cuando circulaba el tren 24228, con semibarreras bajadas y señalización alertando de la llegada del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "victima cruza con barreras bajadas",
+    "señalizacion activa alerta llegada tren"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en la actuación de la víctima que cruza por el paso a nivel cuando \ncirculaba el tren 24228, estando las semibarreras bajadas y la señalización alertando de la llegada del \nmismo.",
+   "pagina": 11,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investiga",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en la actuación de la víctima que cruza por el paso a nivel cuando \ncirculaba el tren 24228, estando las semibarreras bajadas y la señalización alertando de la llegada del \nmismo.",
+   "pagina": 11,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investiga",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones.  \n \n \nMadrid, 27 de abril de 2010",
+   "pagina": 11,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones. Madrid, 27 de abril de 2010",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "11:17",
+     "evento": "El tren 24228 entra en la estación de Alfafar-Benetússer por vía 2, con itinerario establecido para salir y paso a nivel cerrado."
+    },
+    {
+     "hora": "11:18",
+     "evento": "El tren 24228 ocupa circuitos de estacionamiento de vía 2; el tren 24225 ocupa circuito de señal de entrada vía 1; itinerarios establecidos y paso a nivel funcionando correctamente."
+    },
+    {
+     "hora": "11:19",
+     "evento": "Momento del arrollamiento: el tren 24228 pasa por el paso a nivel mientras el tren 24225 circula por vía 1 en sentido contrario; el paso a nivel funciona correctamente."
+    },
+    {
+     "hora": "11:47",
+     "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica a la CIAF el arrollamiento mediante mensaje de telefonía móvil."
+    },
+    {
+     "hora": "12:30",
+     "evento": "Se realiza al maquinista prueba de alcoholemia y drogas, con resultado negativo en ambas."
+    },
+    {
+     "hora": "12:45",
+     "evento": "Finaliza la interceptación de la vía entre Alfafar-Benetússer y Valencia; las circulaciones se realizan por vía 1."
+    },
+    {
+     "hora": null,
+     "evento": "El 2009-10-27 la Comisión de Investigación de accidentes ferroviarios resuelve abrir la investigación."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0056/2009",
+ "expediente": "0056/09",
+ "anio": 2009,
+ "titulo": "Arrollamiento de una persona en el paso a nivel de Alfafar-Benetússer (Valencia)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-161009-270410-CIAF.md"
+}

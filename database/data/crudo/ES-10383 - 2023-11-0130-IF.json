@@ -1,0 +1,1080 @@
+{
+ "id": "ES-10383 - 2023-11-0130-IF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/2023-11-3001_if_1.1.pdf",
+ "pdf": "pdfs/ES/ES-10383 - 2023-11-0130-IF.pdf",
+ "md5_pdf": "4d3366e5ac5416e8fab4b19b05394748",
+ "paginas_md": 46,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 34,
+ "n_tablas": 3,
+ "tablas": [
+  {
+   "pagina": 39,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "CAF y RENFE",
+     "Número": "11/2023-1",
+     "Recomendación": "Estudiar la operativa de cambio de ancho en situaciones degradadas de forma que se evalúen los riesgos derivados de dicha maniobra y en especial cuando se requiere circular a una velocidad superior a los 5 km/h, estableciendo procedimientos que mitiguen esos riesgos y que se incluyan en los documentos correspondientes."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "CAF y RENFE",
+     "Número": "11/2023-2",
+     "Recomendación": "Actualizar el Manual de Conducción de la serie S 120.050 y asimilables, de manera que se reflejen de forma fidedigna y detallada los pasos a seguir en los procedimientos de cambio de ancho, especialmente en situaciones degradadas, así como los supuestos en los cuales se debe proceder a la anulación de pantógrafos."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ACTREN y RENFE",
+     "Número": "11/2023-3",
+     "Recomendación": "Establecer procedimientos adicionales de revisión de la zona de pantógrafos cuando por alguna causa se haya tenido que llevar a cabo un cambio de ancho en situación degradada. En este procedimiento deberá considerarse la comunicación de tal hecho por parte de los actores involucrados en la maniobra de cambio de ancho."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ACTREN y CAF",
+     "Número": "11/2023-4",
+     "Recomendación": "Estudiar la posibilidad de establecer mecanismos de detección de averías en los pararrayos, así como evolucionar en la mejora de herramientas de diagnosis como Lead Mind."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF",
+     "Número": "11/2023-5",
+     "Recomendación": "Establecer procedimientos de actuación que limiten los reenganches de tensión por parte de los telemandos en situaciones en las que se producen sucesivos y seguidos cortes de tensión."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 40,
+   "cabecera": [
+    "AESF",
+    "ADIF",
+    "11/2023-6",
+    "Estudiar la posibilidad de que el personal de los telemandos pueda disponer de información en tiempo real sobre las circulaciones existentes en un tramo."
+   ],
+   "filas": [
+    {
+     "AESF": "AESF",
+     "ADIF": "ADIF",
+     "11/2023-6": "11/2023-7",
+     "Estudiar la posibilidad de que el personal de los telemandos pueda disponer de información en tiempo real sobre las circulaciones existentes en un tramo.": "Promover un estudio que analice la posibilidad de establecer medidas técnicas en las subestaciones que permitan que se pueda discriminar entre un consumo elevado y un cortocircuito no franco."
+    }
+   ],
+   "cita": "| AESF | ADIF | 11/2023-6 | Estudiar la posibilidad de que el personal de los telemandos pueda disponer de información en tiempo real sobre las circulaciones existentes en un tramo. |"
+  },
+  {
+   "pagina": 46,
+   "cabecera": [
+    "AESF (NSA-ES)",
+    "ADIF (IM)",
+    "11/2023-6",
+    "To study the possibility for telecontrol centres staff to have real-time information about existing traffic in a track section."
+   ],
+   "filas": [
+    {
+     "AESF (NSA-ES)": "AESF (NSA-ES)",
+     "ADIF (IM)": "ADIF (IM)",
+     "11/2023-6": "11/2023-7",
+     "To study the possibility for telecontrol centres staff to have real-time information about existing traffic in a track section.": "To promote a study to analyse the possibility of implementing technical measures in substations to allow to discriminate between high consumption and non-frank short circuits"
+    }
+   ],
+   "cita": "| AESF (NSA-ES) | ADIF (IM) | 11/2023-6 | To study the possibility for telecontrol centres staff to have real-time information about existing traffic in a track section. |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "11/2023",
+   "pagina": 1,
+   "cita": "INFORME FINAL DE LA CIAF (IF) 11/2023",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 30 de enero de 2023 se produjo un incendio en la zona de pantógrafos del coche MCP de la rama 120.054 durante la maniobra de cambio de ancho en el cambiador de Alcolea. El suceso se originó por una avería previa en el pararrayos de 3 kV del MCP, producida el día anterior durante un cambio de ancho degradado en Zaragoza Delicias. La avería no fue diagnosticada correctamente y provocó múltiples caídas de tensión en catenaria. Los reenganches sucesivos del telemando y la soldadura del pantógrafo a la catenaria derivaron en el incendio. Como consecuencia hubo tres heridos leves, daños materiales y una afectación importante del servicio.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2023-01-30",
+    "hora": null,
+    "lugar": {
+     "tipo": "apartado",
+     "estacion": "Cambiador de ancho de Alcolea",
+     "pk": "000+490",
+     "linea": "408",
+     "provincia": "Córdoba",
+     "descripcion_lugar": "Cambiador de ancho de tercera generación situado en el p.k. 000+490 de la línea 408, Alcolea Ag. 434,9 – Cambiador de Alcolea, término municipal de Córdoba, provincia de Córdoba. El tramo conecta la línea 400 Alcázar de San Juan – Cádiz con la línea 010 Puerta de Atocha – Sevilla Santa Justa. Dispone de zona neutra de 42 metros entre ancho ibérico electrificado a 3 kV cc y ancho estándar electrificado a 25 kV ca."
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 30 de enero de 2023, se produjo un incendio en la zona de pantógrafos del coche Motor Cabina",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": null,
+    "heridos_leves": 3,
+    "danos_materiales": "Daños en ambos pantógrafos y en el techo del coche trasero del automotor 120.054; daños en la catenaria, con rotura del hilo de contacto y descompensación mecánica.",
+    "afectacion_servicio": "Vía interceptada 2 horas y 39 minutos, desde las 19:05 hasta las 21:44. Retraso acumulado de 16 horas y 52 minutos: 2 horas y 12 minutos en Larga Distancia, 9 horas y 10 minutos en Media Distancia y 5 horas y 30 minutos en Mercancías. Viajeros transbordados al tren 97063 hasta Córdoba y desde allí en autobús."
+   },
+   "pagina": 5,
+   "cita": "Como consecuencia del incendio se produjeron tres heridos leves.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "La avería del pararrayos de 3 kV del MCP causó una derivación a tierra de la tensión proporcionada por la catenaria; los sucesivos reenganches del telemando hicieron que el pantógrafo quedase soldado al hilo de contacto, originando el incendio.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El paso por el cambiador de ancho de Zaragoza Delicias en situación degradada no se realizó correctamente y provocó la avería del pararrayos.",
+    "La inexistencia de un indicador en el sistema del tren que informe de avería en el pararrayos.",
+    "La falta de concreción en la información proporcionada por Lead Mind, que indujo a considerar un error de lectura de tensión y a subestimar la gravedad de la avería."
+   ],
+   "pagina": 37,
+   "cita": "2. La inexistencia de un indicador en el sistema del tren que informe de avería en el pararrayos",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "El personal de los telemandos dispone de información limitada sobre las circulaciones presentes en cada tramo de la línea.",
+    "Los sistemas técnicos de las subestaciones no discriminan entre consumos elevados y cortocircuitos no francos.",
+    "Existen omisiones e incorrecciones en el manual de conducción de la serie S 120.050 que pueden inducir a error al personal de conducción en cambios de ancho en situaciones degradadas y al personal de mantenimiento en la anulación de pantógrafos."
+   ],
+   "pagina": 38,
+   "cita": "3. Existen omisiones e incorrecciones en el manual de conducción de la serie S 120.050 que",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Estudiar la operativa de cambio de ancho en situaciones degradadas de forma que se evalúen los riesgos derivados de dicha maniobra y en especial cuando se requiere circular a una velocidad superior a los 5 km/h, estableciendo procedimientos que mitiguen esos riesgos y que se incluyan en los documentos correspondientes.",
+    "Actualizar el Manual de Conducción de la serie S 120.050 y asimilables, de manera que se reflejen de forma fidedigna y detallada los pasos a seguir en los procedimientos de cambio de ancho, especialmente en situaciones degradadas, así como los supuestos en los cuales se debe proceder a la anulación de pantógrafos.",
+    "Establecer procedimientos adicionales de revisión de la zona de pantógrafos cuando por alguna causa se haya tenido que llevar a cabo un cambio de ancho en situación degradada. En este procedimiento deberá considerarse la comunicación de tal hecho por parte de los actores involucrados en la maniobra de cambio de ancho.",
+    "Estudiar la posibilidad de establecer mecanismos de detección de averías en los pararrayos, así como evolucionar en la mejora de herramientas de diagnosis como Lead Mind.",
+    "Establecer procedimientos de actuación que limiten los reenganches de tensión por parte de los telemandos en situaciones en las que se producen sucesivos y seguidos cortes de tensión."
+   ],
+   "pagina": 39,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 39,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Incendio de material rodante",
+   "pagina": 1,
+   "cita": "Incendio de material rodante ocurrido el día 30 de enero de",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "RENFE",
+    "ADIF"
+   ],
+   "pagina": 8,
+   "cita": "La CIAF solicitó información vía email a ADIF, RENFE y Actren. Adicionalmente, la CIAF realizó una",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2023-01-30",
+   "pagina": 5,
+   "cita": "El día 30 de enero de 2023, se produjo un incendio en la zona de pantógrafos del coche Motor Cabina",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "apartado",
+    "estacion": "Cambiador de ancho de Alcolea",
+    "pk": "000+490",
+    "linea": "408",
+    "provincia": "Córdoba",
+    "descripcion_lugar": "Cambiador de ancho de tercera generación situado en el p.k. 000+490 de la línea 408, Alcolea Ag. 434,9 – Cambiador de Alcolea, término municipal de Córdoba, provincia de Córdoba. El tramo conecta la línea 400 Alcázar de San Juan – Cádiz con la línea 010 Puerta de Atocha – Sevilla Santa Justa. Dispone de zona neutra de 42 metros entre ancho ibérico electrificado a 3 kV cc y ancho estándar electrificado a 25 kV ca."
+   },
+   "pagina": 27,
+   "cita": "Conducción de la serie S 120.050 dedica un apartado, el 5.10, en el que se detalla cómo proceder en",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "408",
+   "pagina": 4,
+   "cita": "Transductor de Tensión de Línea, para reconocer 25 kV",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "S 120.050, rama 120.054, composición MCT-MIT-MIP-MCP, bogies Brava de rodadura desplazable.",
+    "averia": "Fallo neumático previo en el pantógrafo de 3 kV del MCT; avería del pararrayos de 3 kV del MCP por sobretensión; cortocircuito permanente que se manifestaba intermitente por la actuación del seccionador ST; pantógrafo de 3 kV del MCP soldado a la catenaria e incendio.",
+    "mantenimiento": "Mantenedor Actren; revisión en taller de Can Tunis centrada en el fallo neumático del MCT; diagnóstico remoto mediante Lead Mind; sin detección de la avería del pararrayos antes del incendio."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 29 de enero de 2023, la rama 120.054 prestaba el servicio 436 entre Bilbao y Barcelona. Durante el trayecto, a la altura de Orduña, se produjo un fallo neumático en el pantógrafo de 3 kV del coche MCT, por lo que el tren continuó circulando con el pantógrafo delantero de 3 kV del MCP. En el cambiador de ancho de Zaragoza Delicias, la maniobra se realizó en situación degradada y sin la antelación adecuada en el accionamiento del cambio automático de ancho, lo que provocó una sobretensión que dañó el pararrayos de 3 kV del MCP. La avería no fue detectada ni por el personal de conducción ni en el taller de Can Tunis, donde se reparó únicamente el fallo neumático del MCT.\n\nEl 30 de enero, la misma unidad realizó el servicio 10696 entre Barcelona y Cádiz. Durante el recorrido se produjeron caídas de tensión en el cambiador de La Boella, Cambrils, Alcázar de San Juan y Alcolea, asociadas al pararrayos averiado. El tren llegó al cambiador de ancho de Alcolea circulando con el pantógrafo delantero de 3 kV del MCT. Al activarse el procedimiento automático de cambio de ancho, el sistema elevó el pantógrafo de 25 kV del MCP; detectada la tensión de 3 kV, la corriente derivó hacia el pararrayos averiado, produciéndose una caída de tensión y la pérdida de tracción. La unidad quedó detenida con el coche delantero en zona neutra y el trasero bajo catenaria de 3 kV.\n\nTras varias gestiones para recuperar tracción y una petición de retroceso, la unidad perdió presión de freno y quedó inmovilizada. El maquinista, el mantenedor Actren y el CRC intentaron sucesivas subidas de pantógrafos del MCP, lo que originó nuevas caídas de tensión y reenganches del telemando. Finalmente, el pantógrafo de 3 kV del MCP quedó soldado al hilo de contacto y se produjo un incendio. Bomberos y servicios de emergencia intervinieron, los viajeros fueron evacuados y transbordados, y la vía permaneció interceptada durante 2 horas y 39 minutos.",
+   "pagina": 15,
+   "cita": "Día 29 tren 436 sentido Bilbao - Barcelona:",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "apartado",
+    "estacion": "Cambiador de ancho de Alcolea",
+    "pk": "000+490",
+    "linea": "408",
+    "provincia": "Córdoba",
+    "descripcion_lugar": "Cambiador de ancho de tercera generación situado en el p.k. 000+490 de la línea 408, Alcolea Ag. 434,9 – Cambiador de Alcolea, término municipal de Córdoba, provincia de Córdoba. El tramo conecta la línea 400 Alcázar de San Juan – Cádiz con la línea 010 Puerta de Atocha – Sevilla Santa Justa. Dispone de zona neutra de 42 metros entre ancho ibérico electrificado a 3 kV cc y ancho estándar electrificado a 25 kV ca."
+   },
+   "pagina": 27,
+   "cita": "Conducción de la serie S 120.050 dedica un apartado, el 5.10, en el que se detalla cómo proceder en",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": null,
+    "heridos_leves": 3,
+    "danos_materiales": "Daños en ambos pantógrafos y en el techo del coche trasero del automotor 120.054; daños en la catenaria, con rotura del hilo de contacto y descompensación mecánica.",
+    "afectacion_servicio": "Vía interceptada 2 horas y 39 minutos, desde las 19:05 hasta las 21:44. Retraso acumulado de 16 horas y 52 minutos: 2 horas y 12 minutos en Larga Distancia, 9 horas y 10 minutos en Media Distancia y 5 horas y 30 minutos en Mercancías. Viajeros transbordados al tren 97063 hasta Córdoba y desde allí en autobús."
+   },
+   "pagina": 5,
+   "cita": "Como consecuencia del incendio se produjeron tres heridos leves.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 436 primera conducción Bilbao Abando – Miranda del Ebro",
+     "implicacion": "Personal de conducción del servicio previo donde se originó la avería del pararrayos."
+    },
+    {
+     "rol": "Maquinista del tren 436 segunda conducción Miranda del Ebro – Zaragoza Delicias",
+     "implicacion": "Personal de conducción del servicio previo donde se originó la avería del pararrayos."
+    },
+    {
+     "rol": "Maquinista del tren 436 tercera conducción Zaragoza Delicias – Barcelona Sants",
+     "implicacion": "Personal de conducción del servicio previo donde se originó la avería del pararrayos."
+    },
+    {
+     "rol": "Maquinista del tren 10696 primera conducción Barcelona Sants – Valencia Nord",
+     "implicacion": "Personal de conducción del servicio afectado; notificó problemas con el pantógrafo de 3 kV del MCP."
+    },
+    {
+     "rol": "Maquinista del tren 10696 segunda conducción Valencia Nord – Alcázar de San Juan",
+     "implicacion": "Personal de conducción del servicio afectado; continuó con el pantógrafo de 3 kV del MCT."
+    },
+    {
+     "rol": "Maquinista del tren 10696 tercera conducción Alcázar de San Juan – Alcolea",
+     "implicacion": "Personal de conducción del servicio afectado; realizó la maniobra de cambio de ancho en Alcolea y solicitó corte de tensión."
+    },
+    {
+     "rol": "Responsable de telemando de Barcelona",
+     "implicacion": "Gestionó caídas de tensión y reenganches asociados al recorrido del tren."
+    },
+    {
+     "rol": "Responsable de telemando de Córdoba",
+     "implicacion": "Gestionó caídas de tensión y reenganches en el entorno de Alcolea hasta el incendio."
+    },
+    {
+     "rol": "Personal de mantenimiento de Actren en el taller de Can Tunis",
+     "implicacion": "Reparó el fallo neumático del pantógrafo de 3 kV del MCT sin detectar la avería del pararrayos del MCP."
+    },
+    {
+     "rol": "Personal de Asistencia Técnica en Línea de Actren",
+     "implicacion": "Diagnóstico remoto mediante Lead Mind; no detectó la avería del pararrayos y orientó intentos de elevación de pantógrafos."
+    },
+    {
+     "rol": "Mecánico en el cambiador de ancho de La Boella",
+     "implicacion": "Comunicó a ATL las incidencias de caída de tensión tras el cambio de ancho."
+    },
+    {
+     "rol": "Mecánico en el cambiador de ancho de Alcolea",
+     "implicacion": "Comunicó a ATL la detención del tren en el cambiador y las incidencias del pantógrafo trasero."
+    },
+    {
+     "rol": "RC del CRC de Barcelona",
+     "implicacion": "Participó en la gestión de incidencias de circulación."
+    },
+    {
+     "rol": "RC del CRC de Córdoba",
+     "implicacion": "Participó en la gestión de incidencias de circulación y en la autorización de retroceso."
+    }
+   ],
+   "pagina": 11,
+   "cita": "➢ Responsable de telemando de Barcelona del administrador de infraestructuras ADIF.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "Resultan relevantes para la investigación de este suceso las actuaciones previas del personal \nferroviario siguiente: \nPersonal de conducción: \n➢ Maquinista del tren 436 primera conducción (Bilbao Abando – Miranda del Ebro) de la \nempresa ferroviaria RENFE.  \n➢ Maquinista del tren 436 segunda conducción (Miranda del Ebro – Zaragoza Delicias) de la \nempresa ferroviaria RENFE.  \n➢ Maquinista del tren 436 tercera conducción (Zaragoza Delicias – Barcelona Sants) de la \nempresa ferroviaria RENFE.  \n➢ Maquinista del tren 10696 primera conducción (Barcelona Sants – Valencia Nord) de la \nempresa ferroviaria RENFE.  \n➢ Maquinista del tren 10696 segunda conducción (Valencia Nord – Alcázar de San Juan) de la \nempresa ferroviaria RENFE.  \n➢ Maquinista del tren 10696 tercera conducción (Alcázar de San Juan – Alcolea) de la empresa \nferroviaria RENFE.  \nTodo el personal de conducción implicado en este suceso estaba debidamente cualificado y había \nrecibido la formación correspondiente. \nPersonal de circulación, operación de telemandos y mantenimiento: \n➢ Responsable de telemando de Barcelona del administrador de infraestructuras ADIF.  \n➢ Responsable de telemando de Córdoba del administrador de infraestructuras ADIF.  \n➢ Personal de mantenimiento de Actren del taller de Can Tunis.  \n➢ Personal de Asistencia Técnica en Línea (ATL) de Actren.  \n➢ Mecánico presente en el cambiador de ancho de La Boella perteneciente a la subcontrata de \nActren.  \n\n## Página 12\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n12 \n \n \n \n \n➢ Mecánico presente en el cambiador de ancho de Alcolea perteneciente a la subcontrata de \nActren.  \n➢ RC del CRC de Barcelona del administrador de infraestructuras ADIF.  \n➢ RC del CRC de Córdoba del administrador de infraestructuras ADIF.  \nLas entidades relacionadas con el accidente son las siguientes:  \n➢ ADIF: Administrador de Infraestructuras Ferroviarias \n➢ RENFE Viajeros: Empresa Ferroviaria del tren implicado en el suceso \n➢ CAF: Empresa fabricante de la serie S 120.050. \n➢ ACTREN: Empresa participada por CAF y RENFE, mantenedor del material rodante implicado \nen el suceso.",
+   "pagina": 11,
+   "cita": "3.1.4. Personal y entidades",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "10696",
+     "tipo": "Intercity",
+     "operador": "RENFE Viajeros",
+     "danos": "Daños en ambos pantógrafos y en el techo del coche trasero del automotor 120.054; incendio en la zona de pantógrafos del MCP."
+    },
+    {
+     "numero": "436",
+     "tipo": "Servicio de viajeros",
+     "operador": "RENFE Viajeros",
+     "danos": "Avería previa en el pararrayos de 3 kV del MCP durante el cambio de ancho en Zaragoza Delicias; sin incendio."
+    },
+    {
+     "numero": "97063",
+     "tipo": "Servicio de transbordo",
+     "operador": "RENFE Viajeros",
+     "danos": "Sin daños mencionados; utilizado para transbordar viajeros hasta Córdoba."
+    }
+   ],
+   "pagina": 5,
+   "cita": "Preferente (MCP) de la rama 120.054 que prestaba el servicio 10696 con origen Barcelona y destino",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "S 120.050, rama 120.054, composición MCT-MIT-MIP-MCP, bogies Brava de rodadura desplazable.",
+    "averia": "Fallo neumático previo en el pantógrafo de 3 kV del MCT; avería del pararrayos de 3 kV del MCP por sobretensión; cortocircuito permanente que se manifestaba intermitente por la actuación del seccionador ST; pantógrafo de 3 kV del MCP soldado a la catenaria e incendio.",
+    "mantenimiento": "Mantenedor Actren; revisión en taller de Can Tunis centrada en el fallo neumático del MCT; diagnóstico remoto mediante Lead Mind; sin detección de la avería del pararrayos antes del incendio."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático en vía única con CTC y sistema de protección ASFA.",
+    "tipo_via": "Vía única en ancho ibérico en el tramo 408; cambiador de ancho con plataforma abatible dual para composiciones autopropulsadas.",
+    "velocidad_maxima": "50 km/h en el tramo; 5 km/h en el cambio de ancho en condiciones normales; 10-12 km/h indicados para algunas situaciones degradadas.",
+    "ancho": "Ancho ibérico 1.688 mm y ancho estándar 1.435 mm.",
+    "electrificacion": "3 kV cc en ancho ibérico y 25 kV ca en ancho estándar; zona neutra de 42 metros.",
+    "estado_via": "Vía interceptada durante 2 horas y 39 minutos; daños en catenaria con rotura del hilo de contacto y descompensación mecánica.",
+    "otro": "El cambiador de Alcolea permite la conexión entre la línea 400 Alcázar de San Juan – Cádiz y la línea 010 Puerta de Atocha – Sevilla Santa Justa; pertenece a la subred B2 de la RFIG."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático en vía única con CTC y sistema de protección ASFA.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": null,
+    "heridos_leves": 3,
+    "danos_materiales": "Daños en ambos pantógrafos y en el techo del coche trasero del automotor 120.054; daños en la catenaria, con rotura del hilo de contacto y descompensación mecánica.",
+    "afectacion_servicio": "Vía interceptada 2 horas y 39 minutos, desde las 19:05 hasta las 21:44. Retraso acumulado de 16 horas y 52 minutos: 2 horas y 12 minutos en Larga Distancia, 9 horas y 10 minutos en Media Distancia y 5 horas y 30 minutos en Mercancías. Viajeros transbordados al tren 97063 hasta Córdoba y desde allí en autobús."
+   },
+   "pagina": 5,
+   "cita": "Como consecuencia del incendio se produjeron tres heridos leves.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": null,
+    "heridos_leves": 3,
+    "danos_materiales": "Daños en ambos pantógrafos y en el techo del coche trasero del automotor 120.054; daños en la catenaria, con rotura del hilo de contacto y descompensación mecánica.",
+    "afectacion_servicio": "Vía interceptada 2 horas y 39 minutos, desde las 19:05 hasta las 21:44. Retraso acumulado de 16 horas y 52 minutos: 2 horas y 12 minutos en Larga Distancia, 9 horas y 10 minutos en Media Distancia y 5 horas y 30 minutos en Mercancías. Viajeros transbordados al tren 97063 hasta Córdoba y desde allí en autobús."
+   },
+   "pagina": 2,
+   "cita": "Comisión de Investigación de Accidentes Ferroviarios – CIAF",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": null,
+    "heridos_leves": 3,
+    "danos_materiales": "Daños en ambos pantógrafos y en el techo del coche trasero del automotor 120.054; daños en la catenaria, con rotura del hilo de contacto y descompensación mecánica.",
+    "afectacion_servicio": "Vía interceptada 2 horas y 39 minutos, desde las 19:05 hasta las 21:44. Retraso acumulado de 16 horas y 52 minutos: 2 horas y 12 minutos en Larga Distancia, 9 horas y 10 minutos en Media Distancia y 5 horas y 30 minutos en Mercancías. Viajeros transbordados al tren 97063 hasta Córdoba y desde allí en autobús."
+   },
+   "pagina": 5,
+   "cita": "Como consecuencia del incendio se produjeron tres heridos leves.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "S 120.050, rama 120.054, composición MCT-MIT-MIP-MCP, bogies Brava de rodadura desplazable.",
+    "averia": "Fallo neumático previo en el pantógrafo de 3 kV del MCT; avería del pararrayos de 3 kV del MCP por sobretensión; cortocircuito permanente que se manifestaba intermitente por la actuación del seccionador ST; pantógrafo de 3 kV del MCP soldado a la catenaria e incendio.",
+    "mantenimiento": "Mantenedor Actren; revisión en taller de Can Tunis centrada en el fallo neumático del MCT; diagnóstico remoto mediante Lead Mind; sin detección de la avería del pararrayos antes del incendio."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático en vía única con CTC y sistema de protección ASFA.",
+    "tipo_via": "Vía única en ancho ibérico en el tramo 408; cambiador de ancho con plataforma abatible dual para composiciones autopropulsadas.",
+    "velocidad_maxima": "50 km/h en el tramo; 5 km/h en el cambio de ancho en condiciones normales; 10-12 km/h indicados para algunas situaciones degradadas.",
+    "ancho": "Ancho ibérico 1.688 mm y ancho estándar 1.435 mm.",
+    "electrificacion": "3 kV cc en ancho ibérico y 25 kV ca en ancho estándar; zona neutra de 42 metros.",
+    "estado_via": "Vía interceptada durante 2 horas y 39 minutos; daños en catenaria con rotura del hilo de contacto y descompensación mecánica.",
+    "otro": "El cambiador de Alcolea permite la conexión entre la línea 400 Alcázar de San Juan – Cádiz y la línea 010 Puerta de Atocha – Sevilla Santa Justa; pertenece a la subred B2 de la RFIG."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "De noche; condiciones meteorológicas no adversas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Córdoba",
+    "municipio": null,
+    "estacion": "Cambiador de ancho de Alcolea"
+   },
+   "pagina": 5,
+   "cita": "Córdoba, provincia de Córdoba), durante la maniobra de cambio de ancho de la composición, que",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "De noche; condiciones meteorológicas no adversas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático en vía única con CTC y sistema de protección ASFA.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático en vía única con CTC y sistema de protección ASFA.",
+    "tipo_via": "Vía única en ancho ibérico en el tramo 408; cambiador de ancho con plataforma abatible dual para composiciones autopropulsadas.",
+    "velocidad_maxima": "50 km/h en el tramo; 5 km/h en el cambio de ancho en condiciones normales; 10-12 km/h indicados para algunas situaciones degradadas.",
+    "ancho": "Ancho ibérico 1.688 mm y ancho estándar 1.435 mm.",
+    "electrificacion": "3 kV cc en ancho ibérico y 25 kV ca en ancho estándar; zona neutra de 42 metros.",
+    "estado_via": "Vía interceptada durante 2 horas y 39 minutos; daños en catenaria con rotura del hilo de contacto y descompensación mecánica.",
+    "otro": "El cambiador de Alcolea permite la conexión entre la línea 400 Alcázar de San Juan – Cádiz y la línea 010 Puerta de Atocha – Sevilla Santa Justa; pertenece a la subred B2 de la RFIG."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "El jefe de área de investigación de accidentes de la Dirección Corporativa de Seguridad en la \nCirculación del Administrador de Infraestructuras Ferroviarias (ADIF), mediante mensajería móvil \n\n## Página 8\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n8 \n \n \n \n \n(SMS) a las 10:18 horas del día 31 de enero de 2023, comunicó a la Comisión de Investigación de \nAccidentes Ferroviarios que se había producido el suceso objeto de esta investigación. \nLa CIAF solicitó información vía email a ADIF, RENFE y Actren. Adicionalmente, la CIAF realizó una \nvisita a las instalaciones de Actren en Madrid en donde mantuvo entrevistas con personal de dicha \nempresa el día 22 de mayo de 2023.  \nLos días 2 y 3 de julio de 2023 personal de la CIAF se desplazó a Córdoba con objeto de visitar el \ncambiador de ancho de Alcolea y realizar diversas entrevistas con personal de RENFE y ADIF. El día 12 \nde diciembre de 2023 se mantuvo una reunión por videoconferencia con personal del telemando de \nCórdoba. \nDadas las características de este suceso, la CIAF decidió celebrar una reunión monográfica interna \npara el análisis de todas las circunstancias que convergen en el mismo. \nADIF ha realizado su propia investigación sobre el suceso, trasladándose el informe de esta a la CIAF \nel día 19 de mayo de 2023.  \nA fecha de aprobación del presente informe, la CIAF aún no ha recibido el informe particular de la \nempresa ferroviaria RENFE.  \nEn cumplimiento del artículo 15.2 del Real Decreto 623/2014, de 18 de julio, por el que se regula la \ninvestigación de los accidentes e incidentes ferroviarios y la Comisión de Investigación de Accidentes \nFerroviarios, se remitió el informe provisional a las siguientes entidades para que facilitaran \ninformación técnica pertinente para mejorar la calidad del informe de investigación: ACTREN, ADIF, \nAESF, CGT, RENFE Viajeros y SEMAF.  \nRemitieron información: ACTREN, ADIF, AESF, RENFE Viajeros y SEMAF.",
+   "pagina": 7,
+   "cita": "2.4. CANALES DE COMUNICACIÓN",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "S 120.050, rama 120.054, composición MCT-MIT-MIP-MCP, bogies Brava de rodadura desplazable.",
+    "averia": "Fallo neumático previo en el pantógrafo de 3 kV del MCT; avería del pararrayos de 3 kV del MCP por sobretensión; cortocircuito permanente que se manifestaba intermitente por la actuación del seccionador ST; pantógrafo de 3 kV del MCP soldado a la catenaria e incendio.",
+    "mantenimiento": "Mantenedor Actren; revisión en taller de Can Tunis centrada en el fallo neumático del MCT; diagnóstico remoto mediante Lead Mind; sin detección de la avería del pararrayos antes del incendio."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Avería pararrayos en Zaragoza Delicias",
+    "Maniobra degradada incorrecta",
+    "Falta de diagnóstico oportuno",
+    "Reconexiones sucesivas por telemando"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Proceso de cambio de ancho \nEl proceso de cambio de ancho en Zaragoza Delicias tuvo que realizarse en situación degradada, \ndebido a que se circulaba con el pantógrafo delantero elevado. Para estos casos, el Manual de \nConducción de la serie S 120.050 dedica un apartado, el 5.10, en el que se detalla cómo proceder en \nsituaciones degradadas con respecto a la operativa de cambio de ancho. De nuevo, y tal y como se \nexpuso en los puntos 4.1 y 4.2 del presente informe, se ha detectado que en el manual no se recoge \nla operativa adecuada que el personal de conducción debe ejecutar si el pantógrafo trasero de la \ntensión de entrada no está operativo.  \nLa operativa adecuada en estos casos es accionar el pulsador de cambio de ancho con una antelación \nmayor que en la situación normal, de manera que exista tiempo suficiente para que el sistema baje \nel pantógrafo delantero y suba el pantógrafo trasero de la otra tensión. Esta mayor antelación \nrequerida no se indica en el manual, aunque sí se recoge en otra documentación que frecuentemente \nse usa en cursos de formación de maquinistas. Este hecho supone que nuevamente el manual no \nrecoge la operativa real del cambio de ancho en situación degradada y puede inducir a error al \npersonal de conducción, que de hecho realizó el cambio de ancho a una velocidad mayor de la \nrecomendada.  \n\n## Página 28\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n28 \n \n \n \n \n \nFigura 12 Extracto de la página 5-54 del Manual de Conducción de la S 120.050 \n \nFigura 13 Extracto de documentación utilizada en la formación del personal de conducción \nPor otra parte, en el cambiador de ancho de Alcolea también se realizaba el cambio de ancho en \nsituación degradada, pero en este caso, por falta de una correcta diagnosis del problema que tenía el \n\n## Página 29\n\n \nInforme Final de la CIAF 11/2023 \n \n \n \n \n \n \n \n \n \n \n \n \n29 \n \ntren, el maquinista realizó una operativa de una situación degradada que no era la adecuada. El \nmaquinista que operaba el tren en el cambiador de ancho de Alcolea “sabía” que tenía un problema \ncon el pantógrafo trasero de la tensión de entrada y por lo tanto circulaba con el pantógrafo \ndelantero. No obstante, la información que tenía el maquinista no era completa, pues el fallo no \nestaba en el pantógrafo trasero de la tensión de entrada, sino en el pararrayos trasero de 3 kV. Esto \nimplicaba que ninguno de los dos pantógrafos traseros podría suministrar tracción al tren ya que el \nfallo no era de pantógrafos sino de circuito. En este caso, el maquinista tendría que haber aplicado la \noperativa que se detalla en el Manual de Conducción para cambio de ancho con los dos pantógrafos \ntraseros inútiles y que consiste en realizar el cambio de ancho a una mayor velocidad para que toda \nla composición pase por inercia. El maquinista no aplicó este procedimiento pues desconocía la \nnaturaleza de la avería.  \nDiagnosis de la avería  \nTal y como se ha comentado anteriormente, la avería en el pararrayos se produjo en el cambiador de \nancho de Zaragoza Delicias. No obstante, esta circunstancia no se conoció hasta después del suceso \nen el cambiador de Alcolea. No existe ningún indicador en ninguno de los sistemas del tren que alerte \nde un funcionamiento incorrecto de este elemento en concreto, y por lo tanto esta avería específica \nes difícilmente detectable. Según la información recabada durante la investigación, estos daños sobre \nel pararrayos son frecuentes en cambiadores de ancho donde la zona neutra es corta, aunque \ntambién pueden darse por el paso de la composición por zonas neutras donde no existe cambio de \nancho ni tensión.  \nDebe tenerse en cuenta también que, aunque la avería no se descubriese hasta después del suceso, \nsí se detectaron sus consecuencias durante el recorrido del tren el día 30 de enero. En primer lugar, \ntras la primera caída de tensión en el cambiador de ancho de La Boella, el mecánico del cambiador \nde ancho presente en el lugar contactó con ATL de Actren para comunicarle los problemas que se \nestaban produciendo. Desde ATL se generó una Orden de Trabajo (OT) y se comprobó vía Lead Mind \nlas lecturas de los parámetros del tren. Lead Mind es una herramienta comercial de CAF que \nproporciona en tiempo real información sobre diversos parámetros del tren y que es usada por parte \nde ATL a la hora de diagnosticar averías. Basándose en la información proporcionada por Lead Mind, \nATL concluyó que la avería estaba relacionada con un error de lectura, pidiendo al maquinista que se \nhiciese un segundo intento de elevación de pantógrafo en Cambrils para descartar problemas \nrelacionados con la catenaria.  \n\n## Página 30\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n30 \n \n \n \n \nA partir de este momento, el mantenedor no realizó ninguna acción adicional hasta que el tren llegó \nal cambiador de ancho de Alcolea. En este punto, de nuevo es el mecánico presente en el cambiador \nde ancho el que contacta con ATL para comunicarles que el tren se ha quedado detenido en el \ncambiador con el pantógrafo delantero en la zona neutra y que el pantógrafo trasero continuaba con \nla avería que había sido notificada ese día por la mañana en La Boella.  \nATL dio indicaciones al maquinista sobre cómo actuar en este momento, desactivando el cambio de \nancho automático y elevando pantógrafos traseros manualmente, en función de la información \nproporcionada por Lead Mind y de nuevo sin detectar que el problema se encontraba en el pararrayos \nde 3 kV.  \nProcedimiento de reenganche tras caídas de tensión por parte del telemando  \nOtra cuestión relevante en el suceso es cómo se gestionaron desde los respectivos telemandos las \ncaídas de tensión provocadas en este caso por la avería en el pararrayos del tren, y cómo se gestionan \nen general las caídas de tensión en catenaria.  \nTras la primera caída de tensión en La Boella, el telemando realizó un reenganche ya que es el \nprocedimiento habitual. Así lo hizo t",
+   "pagina": 27,
+   "cita": "4.3. FACTORES HUMANOS RELACIONADOS CON EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "Con respecto a la avería del pararrayos de 3 kV ocasionada por una sobretensión de 25 kV, se ha dado \nun suceso similar en el cambiador de ancho de Valencia el día 13 de abril de 2023. En este caso, la \nunidad 121.016 realizaba el servicio 11510, recorriendo con normalidad el trayecto desde Chamartín \nhasta el cambiador de ancho de Valencia. Durante el proceso de cambio de ancho, se produjo una \ncaída de tensión tras haber tocado catenaria el pantógrafo delantero de 3 kV (a las 14:26), quedando \nla unidad detenida con ambos pantógrafos traseros en zona neutra del cambiador. Se produjeron a \ncontinuación varias caídas de tensión al ser empleados cualquiera de los dos pantógrafos delanteros. \nTras la última caída de tensión a las 14:31, y ya en contacto con ATL, se declaró el tren inútil con \nnecesidad de socorro.  \nEn este caso no se produjo un incendio, ya que desde ATL diagnosticaron correctamente una avería \naguas abajo de los pantógrafos y tomaron la decisión de no seguir intentando captar tensión de \ncatenaria. Cabe señalar que este suceso se produjo con posterioridad al suceso de Alcolea, lo que \npudo facilitar el diagnóstico por parte de ATL. A pesar de ser este suceso posterior, se produjo durante \nel proceso de investigación del incendio de Alcolea y dada su relevancia y relación se considera \noportuno mencionarlo.  \nExiste una diferencia con respecto al suceso de Alcolea en cuanto al origen de la avería en el \npararrayos de 3 kV, y es que en este caso esa avería no se produjo durante un procedimiento de \n\n## Página 35\n\n \nInforme Final de la CIAF 11/2023 \n \n \n \n \n \n \n \n \n \n \n \n \n35 \n \ncambio de ancho como en Zaragoza Delicias. En el suceso de Valencia, la derivación en el pararrayos \nse produjo al paso por la primera zona neutra a la salida de Segovia sentido Valladolid, en el servicio \n4909 del día 11 de abril. La avería no se detectó antes del 13 de abril ya que hasta ese momento el \ntren circuló bajo catenaria de 25 kV, permaneciendo sin uso el circuito de 3 kV.  \nAl paso por esta zona neutra de cambio de fase, situada entre dos tramos electrificados a 25 kV, \ndebido a un fallo en la gestión del freno eléctrico, el TPM detectó una tensión residual de unos 1920 \nvoltios durante 5 segundos, motivo por el cual se produjo el cambio de posición del seccionador ST 3 \nkV de abierto a cerrado, dado que el software COSMOS interpretó que se estaba circulando bajo \ncatenaria de 3 kV. De esta manera, en el momento en que el tren volvió a situarse bajo catenaria de \n25 kV, con el pantógrafo de 25 kV elevado, la tensión atravesó la cuchilla ST de 3 kV que estaba \ncerrada llegando hasta el pararrayos de 3 kV ocasionando su avería. Este suceso no constituye un \nincidente, ya que se diagnosticó la avería correctamente, y por ello no tiene asignado un número de \nexpediente de la CIAF.  \nCon respecto a la problemática de incendios en los techos de material rodante, se han sucedido una \nserie de sucesos en los que, aun con la insuficiente información recibida por la CIAF, se puede intuir \nque las protecciones de las subestaciones no son suficientes para impedir que estos hechos se \nproduzcan. Tales sucesos se indican a continuación:   \n- \n30/01/2022 04:58 h. Maçanet-Massanes estación; subestación en la propia estación. Al \nponer en funcionamiento el vehículo se produjo un incendio y corte del hilo de contacto. \nVehículo 465-234 sin viajeros. Deben actuar los bomberos. Se desconoce si hubo \nreenganches, pero frente a un cortocircuito posiblemente no franco, las protecciones \npresuntamente no actuaron. \n- \n12/02/2023 05:51 h. Maçanet-Massanes estación; subestación en la propia estación. Al \nponer en funcionamiento el vehículo se produjo un incendio y corte del hilo de contacto. \nVehículo 465-234 sin viajeros. Deben actuar los bomberos. Se desconoce si hubo \nreenganches, pero frente a un cortocircuito posiblemente no franco, las protecciones \npresuntamente no actuaron. \n- \n09/05/2023 19:45 h. Manlleu estación; ocurrió con el tren parado al efectuar apertura de \npuertas; vehículo 447-108. Se produjeron arcos y fuego en el techo, y luego cayó la catenaria. \nSe desconectaron S/E de Manlleu y Ripoll. Incendio sofocado por sí mismo. Un aislador del \npantógrafo quedó destruido, atribuyéndose la causa a algún cuerpo extraño. Los viajeros \ndesalojaron por propia iniciativa. En este caso parece que las protecciones actuaron \n\n## Página 36\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n36 \n \n \n \n \ncorrectamente, aunque con algo de retraso por la propia característica del defecto, dando \nlugar al corte del hilo de contacto. Posiblemente no abrieran los extrarrápidos de las S/E hasta \nque no cayó la catenaria. En este suceso no hubo reenganches. \n- \n20/07/2023 20:30 h. trayecto Manresa a Calaf; entre dos túneles a unos dos kilómetros del \napeadero de Rajadell (CIAF 64/2023); vehículo 447-159. Enganchón de catenaria con incendio \nposterior; intervención de los bomberos. Los viajeros fueron evacuados y trasladados por los \nbomberos. Las subestaciones colaterales son: Calaf (PK aprox. 266,8) y San Vicent de Castellet \n(PK aprox. 309,6), que están situadas a unos 21,5 km del suceso. \n \n \n\n## Página 37\n\n \nInforme Final de la CIAF 11/2023 \n \n \n \n \n \n \n \n \n \n \n \n \n37",
+   "pagina": 34,
+   "cita": "4.5. SUCESOS ANTERIORES DE CARÁCTER SIMILAR",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 29 de enero de 2023, la rama 120.054 prestaba el servicio 436 entre Bilbao y Barcelona. Durante el trayecto, a la altura de Orduña, se produjo un fallo neumático en el pantógrafo de 3 kV del coche MCT, por lo que el tren continuó circulando con el pantógrafo delantero de 3 kV del MCP. En el cambiador de ancho de Zaragoza Delicias, la maniobra se realizó en situación degradada y sin la antelación adecuada en el accionamiento del cambio automático de ancho, lo que provocó una sobretensión que dañó el pararrayos de 3 kV del MCP. La avería no fue detectada ni por el personal de conducción ni en el taller de Can Tunis, donde se reparó únicamente el fallo neumático del MCT.\n\nEl 30 de enero, la misma unidad realizó el servicio 10696 entre Barcelona y Cádiz. Durante el recorrido se produjeron caídas de tensión en el cambiador de La Boella, Cambrils, Alcázar de San Juan y Alcolea, asociadas al pararrayos averiado. El tren llegó al cambiador de ancho de Alcolea circulando con el pantógrafo delantero de 3 kV del MCT. Al activarse el procedimiento automático de cambio de ancho, el sistema elevó el pantógrafo de 25 kV del MCP; detectada la tensión de 3 kV, la corriente derivó hacia el pararrayos averiado, produciéndose una caída de tensión y la pérdida de tracción. La unidad quedó detenida con el coche delantero en zona neutra y el trasero bajo catenaria de 3 kV.\n\nTras varias gestiones para recuperar tracción y una petición de retroceso, la unidad perdió presión de freno y quedó inmovilizada. El maquinista, el mantenedor Actren y el CRC intentaron sucesivas subidas de pantógrafos del MCP, lo que originó nuevas caídas de tensión y reenganches del telemando. Finalmente, el pantógrafo de 3 kV del MCP quedó soldado al hilo de contacto y se produjo un incendio. Bomberos y servicios de emergencia intervinieron, los viajeros fueron evacuados y transbordados, y la vía permaneció interceptada durante 2 horas y 39 minutos.",
+   "pagina": 15,
+   "cita": "Día 29 tren 436 sentido Bilbao - Barcelona:",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "De la descripción de los hechos se pueden extraer las siguientes constataciones:  \n1. Se produjo una avería en el sistema neumático de elevación del pantógrafo 3 kV MCT (trasero) \nel día 29 de enero de 2023 a la altura de Orduña y por ello se circuló con el pantógrafo delantero",
+   "pagina": 20,
+   "cita": "4. ANÁLISIS DEL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "La avería del pararrayos de 3 kV del MCP causó una derivación a tierra de la tensión proporcionada por la catenaria; los sucesivos reenganches del telemando hicieron que el pantógrafo quedase soldado al hilo de contacto, originando el incendio.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El paso por el cambiador de ancho de Zaragoza Delicias en situación degradada no se realizó correctamente y provocó la avería del pararrayos.",
+    "La inexistencia de un indicador en el sistema del tren que informe de avería en el pararrayos.",
+    "La falta de concreción en la información proporcionada por Lead Mind, que indujo a considerar un error de lectura de tensión y a subestimar la gravedad de la avería."
+   ],
+   "pagina": 37,
+   "cita": "2. La inexistencia de un indicador en el sistema del tren que informe de avería en el pararrayos",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nUna vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores:  \n \n \nFigura 18 Árbol causal del suceso \nFactores causales \n1. La avería presente en el pararrayos de 3 kV MCP causó una derivación a tierra de la tensión \nproporcionada por la catenaria. Ver Recomendación 11/2023-3 \n2. Los sucesivos reenganches por parte del Telemando provocaron que el pantógrafo en \ncontacto con la catenaria quedase soldado a ésta, generando el incendio. Ver \nRecomendaciones 11/2023-4, 11/2023-5 y 11/2023-6 \nFactores contribuyentes \n1. El paso por el cambiador de ancho en situación degradada en Zaragoza Delicias no se realizó \ncorrectamente, provocando la avería en el pararrayos. Ver Recomendación 11/2023-3  \n2. La inexistencia de un indicador en el sistema del tren que informe de avería en el pararrayos \ncontribuyó a la falta de diagnosis de la avería. Ver Recomendación 11/2023-4. \n\n## Página 38\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n38 \n \n \n \n \n3. La falta de concreción en la información proporcionada por Lead Mind provocó que ATL \nsubestimase la gravedad de la avería al indicar Lead Mind que se trataba de un error de \nlectura de la tensión. Ver Recomendación 11/2023-4. \nFactores sistémicos \n1. El personal presente en los telemandos posee información limitada sobre las circulaciones \npresentes en cada tramo de la línea, lo que genera una indeterminación en casos similares al \npresente suceso. Ver Recomendación 11/2023-6 \n2. Los sistemas técnicos de las subestaciones en la actualidad no discriminan entre consumos y \ncortocircuitos. Ver Recomendación 11/2023-7 \n3. Existen omisiones e incorrecciones en el manual de conducción de la serie S 120.050 que \npueden inducir a error al personal de conducción a la hora de realizar el cambio de ancho en \nsituaciones degradadas, o incluso al personal de mantenimiento en cuanto a anulación de \npantógrafos en situación de avería. Ver Recomendación 11/2023-2. \n5.2. OBSERVACIONES ADICIONALES  \nTal y como se ha expuesto en el punto 4.4, se ha detectado una incongruencia con respecto a las \nmedidas de seguridad implementadas en el año 2009. En el apartado 4.1 se detalla que en dicho año \nse implementó una medida de seguridad consistente en disminuir la velocidad de paso por \ncambiadores de ancho a 5 km/h. No obstante, en el Manual de Conducción de la serie S 120.050, y \nen otros documentos se indica que en las situaciones degradas que impliquen fallo de ambos \npantógrafos o incluso en el caso de haberse anulado por avería, el paso por el cambiador debe \nrealizarse a mayor velocidad para permitir el paso por inercia de la zona neutra.  \nEl aumento de la velocidad de paso en estas situaciones puede constituir un riesgo adicional al \nexistente en la maniobra de cambio de ancho en condiciones normales, en la que la velocidad está \nlimitada a esos 5 km/h, ya que en estos casos se indica que debe pasarse a una velocidad de 10-12 \nkm/h. Ver Recomendación 11/2023-1  \nPor último, es importante destacar que resulta conveniente asegurar la transmisión de la Cultura de \nSeguridad de Riesgos al personal operativo, a través de canales de comunicación y medios que se \nconsideren, sobre la existencia y, en su caso, actualización del Mapa de Riesgos Operativos. \nEspecialmente, la necesaria evaluación del riesgo en puntos singulares y cambiadores de \nancho/tensión, así como las medidas de mitigación asociadas, para su adecuado conocimiento por el \npersonal operativo en su desempeño. \n \n\n## Página 39\n\n \nInforme Final de la CIAF 11/2023 \n \n \n \n \n \n \n \n \n \n \n \n \n39",
+   "pagina": 37,
+   "cita": "5. CONCLUSIONES 5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO Una vez analizados los datos disponibles y la documentación proporcionada, se consideran los siguientes factores: Figura 18 Árb",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nUna vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores:  \n \n \nFigura 18 Árbol causal del suceso \nFactores causales \n1. La avería presente en el pararrayos de 3 kV MCP causó una derivación a tierra de la tensión \nproporcionada por la catenaria. Ver Recomendación 11/2023-3 \n2. Los sucesivos reenganches por parte del Telemando provocaron que el pantógrafo en \ncontacto con la catenaria quedase soldado a ésta, generando el incendio. Ver \nRecomendaciones 11/2023-4, 11/2023-5 y 11/2023-6 \nFactores contribuyentes \n1. El paso por el cambiador de ancho en situación degradada en Zaragoza Delicias no se realizó \ncorrectamente, provocando la avería en el pararrayos. Ver Recomendación 11/2023-3  \n2. La inexistencia de un indicador en el sistema del tren que informe de avería en el pararrayos \ncontribuyó a la falta de diagnosis de la avería. Ver Recomendación 11/2023-4. \n\n## Página 38\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n38 \n \n \n \n \n3. La falta de concreción en la información proporcionada por Lead Mind provocó que ATL \nsubestimase la gravedad de la avería al indicar Lead Mind que se trataba de un error de \nlectura de la tensión. Ver Recomendación 11/2023-4. \nFactores sistémicos \n1. El personal presente en los telemandos posee información limitada sobre las circulaciones \npresentes en cada tramo de la línea, lo que genera una indeterminación en casos similares al \npresente suceso. Ver Recomendación 11/2023-6 \n2. Los sistemas técnicos de las subestaciones en la actualidad no discriminan entre consumos y \ncortocircuitos. Ver Recomendación 11/2023-7 \n3. Existen omisiones e incorrecciones en el manual de conducción de la serie S 120.050 que \npueden inducir a error al personal de conducción a la hora de realizar el cambio de ancho en \nsituaciones degradadas, o incluso al personal de mantenimiento en cuanto a anulación de \npantógrafos en situación de avería. Ver Recomendación 11/2023-2. \n5.2. OBSERVACIONES ADICIONALES  \nTal y como se ha expuesto en el punto 4.4, se ha detectado una incongruencia con respecto a las \nmedidas de seguridad implementadas en el año 2009. En el apartado 4.1 se detalla que en dicho año \nse implementó una medida de seguridad consistente en disminuir la velocidad de paso por \ncambiadores de ancho a 5 km/h. No obstante, en el Manual de Conducción de la serie S 120.050, y \nen otros documentos se indica que en las situaciones degradas que impliquen fallo de ambos \npantógrafos o incluso en el caso de haberse anulado por avería, el paso por el cambiador debe \nrealizarse a mayor velocidad para permitir el paso por inercia de la zona neutra.  \nEl aumento de la velocidad de paso en estas situaciones puede constituir un riesgo adicional al \nexistente en la maniobra de cambio de ancho en condiciones normales, en la que la velocidad está \nlimitada a esos 5 km/h, ya que en estos casos se indica que debe pasarse a una velocidad de 10-12 \nkm/h. Ver Recomendación 11/2023-1  \nPor último, es importante destacar que resulta conveniente asegurar la transmisión de la Cultura de \nSeguridad de Riesgos al personal operativo, a través de canales de comunicación y medios que se \nconsideren, sobre la existencia y, en su caso, actualización del Mapa de Riesgos Operativos. \nEspecialmente, la necesaria evaluación del riesgo en puntos singulares y cambiadores de \nancho/tensión, así como las medidas de mitigación asociadas, para su adecuado conocimiento por el \npersonal operativo en su desempeño. \n \n\n## Página 39\n\n \nInforme Final de la CIAF 11/2023 \n \n \n \n \n \n \n \n \n \n \n \n \n39",
+   "pagina": 37,
+   "cita": "5. CONCLUSIONES 5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO Una vez analizados los datos disponibles y la documentación proporcionada, se consideran los siguientes factores: Figura 18 Árb",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": "Tal y como se ha expuesto en el punto 4.4, se ha detectado una incongruencia con respecto a las \nmedidas de seguridad implementadas en el año 2009. En el apartado 4.1 se detalla que en dicho año \nse implementó una medida de seguridad consistente en disminuir la velocidad de paso por \ncambiadores de ancho a 5 km/h. No obstante, en el Manual de Conducción de la serie S 120.050, y \nen otros documentos se indica que en las situaciones degradas que impliquen fallo de ambos \npantógrafos o incluso en el caso de haberse anulado por avería, el paso por el cambiador debe \nrealizarse a mayor velocidad para permitir el paso por inercia de la zona neutra.  \nEl aumento de la velocidad de paso en estas situaciones puede constituir un riesgo adicional al \nexistente en la maniobra de cambio de ancho en condiciones normales, en la que la velocidad está \nlimitada a esos 5 km/h, ya que en estos casos se indica que debe pasarse a una velocidad de 10-12 \nkm/h. Ver Recomendación 11/2023-1  \nPor último, es importante destacar que resulta conveniente asegurar la transmisión de la Cultura de \nSeguridad de Riesgos al personal operativo, a través de canales de comunicación y medios que se \nconsideren, sobre la existencia y, en su caso, actualización del Mapa de Riesgos Operativos. \nEspecialmente, la necesaria evaluación del riesgo en puntos singulares y cambiadores de \nancho/tensión, así como las medidas de mitigación asociadas, para su adecuado conocimiento por el \npersonal operativo en su desempeño. \n \n\n## Página 39\n\n \nInforme Final de la CIAF 11/2023 \n \n \n \n \n \n \n \n \n \n \n \n \n39",
+   "pagina": 38,
+   "cita": "5.2. OBSERVACIONES ADICIONALES",
+   "origen": "determinista",
+   "regla": "sec:^observaciones adicionales",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Estudiar la operativa de cambio de ancho en situaciones degradadas de forma que se evalúen los riesgos derivados de dicha maniobra y en especial cuando se requiere circular a una velocidad superior a los 5 km/h, estableciendo procedimientos que mitiguen esos riesgos y que se incluyan en los documentos correspondientes.",
+    "Actualizar el Manual de Conducción de la serie S 120.050 y asimilables, de manera que se reflejen de forma fidedigna y detallada los pasos a seguir en los procedimientos de cambio de ancho, especialmente en situaciones degradadas, así como los supuestos en los cuales se debe proceder a la anulación de pantógrafos.",
+    "Establecer procedimientos adicionales de revisión de la zona de pantógrafos cuando por alguna causa se haya tenido que llevar a cabo un cambio de ancho en situación degradada. En este procedimiento deberá considerarse la comunicación de tal hecho por parte de los actores involucrados en la maniobra de cambio de ancho.",
+    "Estudiar la posibilidad de establecer mecanismos de detección de averías en los pararrayos, así como evolucionar en la mejora de herramientas de diagnosis como Lead Mind.",
+    "Establecer procedimientos de actuación que limiten los reenganches de tensión por parte de los telemandos en situaciones en las que se producen sucesivos y seguidos cortes de tensión."
+   ],
+   "pagina": 39,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 39,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "CAF y RENFE",
+    "CAF y RENFE",
+    "ACTREN y RENFE",
+    "ACTREN y CAF",
+    "ADIF"
+   ],
+   "pagina": 39,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": null,
+     "evento": "2023-01-29: el tren 436 Bilbao-Barcelona sufre un fallo neumático en el pantógrafo de 3 kV del MCT a la altura de Orduña y continúa con el pantógrafo de 3 kV del MCP elevado."
+    },
+    {
+     "hora": null,
+     "evento": "2023-01-29: durante el cambio de ancho en Zaragoza Delicias se produce una sobretensión que daña el pararrayos de 3 kV del MCP; la avería no se detecta."
+    },
+    {
+     "hora": null,
+     "evento": "Noche del 29 al 30 de enero de 2023: se revisan en Can Tunis el equipo neumático y los pantógrafos del MCT, resolviendo el fallo neumático pero sin detectar la avería del pararrayos del MCP."
+    },
+    {
+     "hora": null,
+     "evento": "2023-01-30: el tren 10696 Barcelona-Cádiz realiza el servicio con la rama 120.054; se producen caídas de tensión en La Boella, Cambrils, Alcázar de San Juan y Alcolea."
+    },
+    {
+     "hora": "19:05",
+     "evento": "Inicio del procedimiento de cambio de ancho en el cambiador de Alcolea y posterior detención del tren; se producen sucesivas caídas de tensión y reenganches hasta el incendio."
+    },
+    {
+     "hora": "19:40",
+     "evento": "El maquinista solicita corte urgente de tensión en catenaria y presencia de bomberos."
+    },
+    {
+     "hora": "19:45",
+     "evento": "Los bomberos llegan al lugar y el telemando confirma corte de tensión por emergencia desde Alcolea de Córdoba a Villarrubia."
+    },
+    {
+     "hora": "19:50",
+     "evento": "El telemando confirma que el corte de tensión queda acotado entre las subestaciones de Alcolea de Córdoba y Córdoba Central, ambas con tensión."
+    },
+    {
+     "hora": "20:50",
+     "evento": "Se presenta personal del Servicio de Incidencias en la Circulación."
+    },
+    {
+     "hora": "20:52",
+     "evento": "El personal de Electrificación informa de que están colocadas las pértigas y confirma que el trayecto está sin tensión."
+    },
+    {
+     "hora": "21:05",
+     "evento": "Los bomberos han sofocado la totalidad del incendio y se retiran."
+    },
+    {
+     "hora": "21:44",
+     "evento": "El personal de Electrificación confirma que existe tensión entre Alcolea y Córdoba; finaliza la interceptación de vía."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0011/2023",
+ "expediente": "0011/2023",
+ "anio": 2023,
+ "titulo": "Incendio de material rodante ocurrido el día 30 de enero de 2023 en el cambiador de ancho de Alcolea",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES-10383 - 2023-11-0130-IF.md"
+}

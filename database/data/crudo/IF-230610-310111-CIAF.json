@@ -1,0 +1,1001 @@
+{
+ "id": "IF-230610-310111-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/296201B3-8D22-49CD-B6BE-C03F09B71681/100148/IF230610_310111CIAF.pdf",
+ "pdf": "pdfs/ES/IF-230610-310111-CIAF.pdf",
+ "md5_pdf": "7e95ac803601919857535041dd762028",
+ "paginas_md": 28,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 17,
+ "n_tablas": 1,
+ "tablas": [
+  {
+   "pagina": 22,
+   "cabecera": [
+    "Tren 28391",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "filas": [
+    {
+     "Tren 28391": "Señal"
+    },
+    {
+     "Tren 28391": "6577-1"
+    },
+    {
+     "Tren 28391": "Ocupa CV E´2-1B"
+    },
+    {
+     "Tren 28391": "Libera CV E`2-1"
+    },
+    {
+     "Tren 28391": "6565-1"
+    },
+    {
+     "Tren 28391": "Libera CV E´2-1B Tren 1202"
+    },
+    {
+     "Tren 28391": "Señal"
+    },
+    {
+     "Tren 28391": "6552-2"
+    },
+    {
+     "Tren 28391": "Sigue en CV 6552"
+    },
+    {
+     "Tren 28391": "E´2/2"
+    },
+    {
+     "Tren 28391": "Previa"
+    },
+    {
+     "Tren 28391": "Actúa sobre seta de urgencia a 139 km/h"
+    },
+    {
+     "Tren 28391": "Pie"
+    },
+    {
+     "Tren 28391": "Parada"
+    }
+   ],
+   "cita": "| Tren 28391 |   |   |   |   |   |   |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0030/2010",
+   "pagina": 1,
+   "cita": "nº 0030/2010 ocurrido el 23.06.2010",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 23 de junio de 2010 a las 23:23, el tren Alaris 1202 de larga distancia, circulando por vía 2 sin parada establecida en el apeadero de Platja de Castelldefels, arrolló a un grupo de personas que cruzaban las vías desde el andén 1 hacia el andén 2 por un lugar no autorizado. Momentos antes, el tren de cercanías 28391 había realizado parada en vía 1 y descendido un gran número de viajeros con destino a la playa. El accidente causó 12 fallecidos, 10 heridos graves y 7 leves. La causa fue la invasión del gálibo por parte de las víctimas, que no percibieron la llegada del tren al cruzar por detrás del cercanías en marcha. No se emitió ninguna recomendación de seguridad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2010-06-23",
+    "hora": "23:23",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Apeadero de Platja de Castelldefels",
+     "pk": "656+598",
+     "linea": "200 Madrid Chamartín – Barcelona Sants",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Apeadero con dos andenes enfrentados de 258 m, sin andén central, vía doble. Acceso por el lado mar. Remodelado en noviembre de 2009 con paso inferior entre andenes, ascensor, recrecido de andenes y nuevo vallado. El paso superior fue clausurado. Tramo Sitges-Castelldefels, trayecto Garraf-Castelldefels, municipio de Castelldefels."
+    }
+   },
+   "pagina": 23,
+   "cita": "DÍA 23/06/2010, HORA 23:25:57 PUESTO DE MANDO BARCELONA/TREN 1202",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 12,
+    "heridos_graves": 10,
+    "heridos_leves": 7,
+    "danos_materiales": "Daños en la parte delantera del tren 1202 por valor de 14.983,78 €. Sin daños en infraestructura.",
+    "afectacion_servicio": "13 horas y 2 minutos de anormalidad (23:23 del 23/06 a 12:25 del 24/06). Vía 1 restablecida a las 11:25. Tren 1202 suprimido, 47 viajeros transbordados por carretera. 5 trenes LD: 100 min retraso acumulado; 6 MD: 181 min; 59 cercanías: 828 min. Autobuses entre estaciones colaterales desde las 01:53."
+   },
+   "pagina": 10,
+   "cita": "2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión del gálibo de la vía por parte de las víctimas, al cruzar por un lugar no autorizado y sin percatarse de la llegada del tren 1202. Incumplimiento del artículo 40 del Reglamento del Sector Ferroviario.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión del gálibo de la vía por parte de las víctimas,",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Gran afluencia de personas por la celebración de la Noche de San Juan con actuaciones musicales en la playa próxima",
+    "El tren de cercanías 28391, al reiniciar marcha, dificultaba la visibilidad del tren 1202 que llegaba por vía 2 en sentido contrario",
+    "Solo 15 segundos transcurrieron entre la salida del cercanías del andén 1 y el paso del Alaris por el andén 2",
+    "Algunos testigos indican que la pasarela superior (puente del pueblo sobre la C-32) estaba cerrada con cadena y candado, lo que pudo generar confusión en parte de los viajeros",
+    "Desconocimiento del paso inferior por parte de algunos viajeros (testigos indican que no lo veían o no lo conocían)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "El cruce imprudente de vías por lugares no autorizados, especialmente en estaciones, tiene un peso significativo en la siniestralidad de la RFIG",
+    "No se identificaron deficiencias en la infraestructura, señalización, iluminación, accesos o material rodante"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Se remite a la D.G. Infraestructuras Ferroviarias, como Autoridad Nacional de Seguridad Ferroviaria, la información recabada de otros países europeos sobre elementos de seguridad en estaciones (incluida la práctica de instalar vallas entre vías como medida disuasoria), a fin de que analice la factibilidad de implantar en estaciones especialmente conflictivas de la RFIG alguna/s de las medidas de seguridad existentes en esos países u otras actuaciones similares.",
+     "destinatario": "Dirección General de Infraestructuras Ferroviarias (Autoridad Nacional de Seguridad Ferroviaria)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "(*).- Se remite a la D.G. Infraestructuras Ferroviarias, como Autoridad Nacional de Seguridad",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Se remite a la D.G. Infraestructuras Ferroviarias, como Autoridad Nacional de Seguridad Ferroviaria, la información recabada de otros países europeos sobre elementos de seguridad en estaciones (incluida la práctica de instalar vallas entre vías como medida disuasoria), a fin de que analice la factibilidad de implantar en estaciones especialmente conflictivas de la RFIG alguna/s de las medidas de seguridad existentes en esos países u otras actuaciones similares.",
+     "destinatario": "Dirección General de Infraestructuras Ferroviarias (Autoridad Nacional de Seguridad Ferroviaria)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "(*).- Se remite a la D.G. Infraestructuras Ferroviarias, como Autoridad Nacional de Seguridad",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "distancia Alaris 1202, de la empresa ferroviaria Renfe Operadora, sin parada establecida en dicho",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2010-06-23",
+   "pagina": 23,
+   "cita": "DÍA 23/06/2010, HORA 23:25:57 PUESTO DE MANDO BARCELONA/TREN 1202",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "23:23",
+   "pagina": 3,
+   "cita": "El día 23 de junio de 2010, a las 23:23 horas, en el apeadero de Platja de Castelldefels",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Apeadero de Platja de Castelldefels",
+    "pk": "656+598",
+    "linea": "200 Madrid Chamartín – Barcelona Sants",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Apeadero con dos andenes enfrentados de 258 m, sin andén central, vía doble. Acceso por el lado mar. Remodelado en noviembre de 2009 con paso inferior entre andenes, ascensor, recrecido de andenes y nuevo vallado. El paso superior fue clausurado. Tramo Sitges-Castelldefels, trayecto Garraf-Castelldefels, municipio de Castelldefels."
+   },
+   "pagina": 3,
+   "cita": "Ferroviaria, la información que sobre elementos de seguridad en estaciones se ha recabado de otros",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 200 Madrid Chamartín – Barcelona Sants",
+   "pagina": 3,
+   "cita": "(P.K. 656+598), de la línea 200 Madrid Chamartín – Barcelona Sants, el tren de viajeros de larga",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tren 1202: autopropulsado 967194900031 (3 vehículos, 12 ejes, 80 m, 172 t). Tren 28391: doble composición UEM serie 451 (unidades 451008 y 451010), capacidad 1.816 plazas (996 sentadas, 820 de pie).",
+    "averia": "Ninguna; ambos trenes funcionaron correctamente según registradores de seguridad",
+    "mantenimiento": "No se especifica en el informe"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 23 de junio de 2010, a las 23:23 horas, en el apeadero de Platja de Castelldefels (P.K. 656+598) de la línea 200 Madrid Chamartín – Barcelona Sants, el tren de viajeros de larga distancia Alaris 1202 de Renfe Operadora, procedente de Alicante con destino Barcelona Sants, sin parada establecida y circulando por la vía 2, arrolló a varias personas que cruzaban la vía de izquierda a derecha en sentido de la marcha del tren. Momentos antes, el tren de cercanías 28391, también de Renfe Operadora, había realizado parada comercial en la vía 1 (lado montaña) en sentido contrario, procedente de Barcelona con destino Vilanova i la Geltrú, descendiendo un gran número de viajeros con destino a la playa cercana situada en el lado del andén 2. Para desplazarse entre andenes se utiliza mayoritariamente el paso inferior existente, pero un grupo numeroso cruzó a nivel y de forma indebida las vías, lo que provocó su arrollamiento por el tren 1202. Como consecuencia del arrollamiento fallecieron 12 personas, 10 resultaron con heridas graves y 7 con heridas leves; ambas vías quedaron interceptadas y se produjeron ciertos daños en el material rodante. El accidente tuvo lugar en la noche de San Juan, con actuaciones musicales programadas en la playa próxima y fiesta al día siguiente, lo que generó una afluencia muy considerable de personas.",
+   "pagina": 3,
+   "cita": "RESUMEN El día 23 de junio de 2010, a las 23:23 horas, en el apeadero de Platja de Castelldefels (P.K. 656+598), de la línea 200 Madrid Chamartín – Barcelona Sants, el tren de viajeros de larga distancia Alaris 1202,",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Apeadero de Platja de Castelldefels",
+    "pk": "656+598",
+    "linea": "200 Madrid Chamartín – Barcelona Sants",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Apeadero con dos andenes enfrentados de 258 m, sin andén central, vía doble. Acceso por el lado mar. Remodelado en noviembre de 2009 con paso inferior entre andenes, ascensor, recrecido de andenes y nuevo vallado. El paso superior fue clausurado. Tramo Sitges-Castelldefels, trayecto Garraf-Castelldefels, municipio de Castelldefels."
+   },
+   "pagina": 3,
+   "cita": "Ferroviaria, la información que sobre elementos de seguridad en estaciones se ha recabado de otros",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 12,
+    "heridos_graves": 10,
+    "heridos_leves": 7,
+    "danos_materiales": "Daños en la parte delantera del tren 1202 por valor de 14.983,78 €. Sin daños en infraestructura.",
+    "afectacion_servicio": "13 horas y 2 minutos de anormalidad (23:23 del 23/06 a 12:25 del 24/06). Vía 1 restablecida a las 11:25. Tren 1202 suprimido, 47 viajeros transbordados por carretera. 5 trenes LD: 100 min retraso acumulado; 6 MD: 181 min; 59 cercanías: 828 min. Autobuses entre estaciones colaterales desde las 01:53."
+   },
+   "pagina": 10,
+   "cita": "2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 1202",
+     "implicacion": "Circulaba a 139-140 km/h (inferior a la permitida de 150 km/h), en vía libre, sin retraso. Accionó bocina (2 s) y seta de emergencia. Llevaba encendido el faro de gran intensidad y focos LED laterales. Prueba de alcohol y drogas negativa. Título B de conducción habilitado. Jornada de 5 h 38 min (3 h 38 min de conducción)."
+    },
+    {
+     "rol": "Maquinista del tren 28391",
+     "implicacion": "Circulaba con ~10 min de retraso. Realizó parada comercial de ~3 min. Accionó retrovisores laterales. No percibió cruce de personas por detrás del tren."
+    },
+    {
+     "rol": "Interventor del tren 1202",
+     "implicacion": "Acompañó al maquinista tras la detención para socorrer a las víctimas"
+    }
+   ],
+   "pagina": 6,
+   "cita": "El maquinista del tren 1202, con matrícula: 8006223.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "1202",
+     "tipo": "Alaris (larga distancia)",
+     "operador": "Renfe Operadora",
+     "danos": "Daños en la parte delantera por valor de 14.983,78 €"
+    },
+    {
+     "numero": "28391",
+     "tipo": "Cercanías (doble composición, UEM 451008 en cabeza y 451010 en cola)",
+     "operador": "Renfe Operadora",
+     "danos": "Sin daños; continuó su servicio comercial hasta destino"
+    }
+   ],
+   "pagina": 3,
+   "cita": "distancia Alaris 1202, de la empresa ferroviaria Renfe Operadora, sin parada establecida en dicho",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tren 1202: autopropulsado 967194900031 (3 vehículos, 12 ejes, 80 m, 172 t). Tren 28391: doble composición UEM serie 451 (unidades 451008 y 451010), capacidad 1.816 plazas (996 sentadas, 820 de pie).",
+    "averia": "Ninguna; ambos trenes funcionaron correctamente según registradores de seguridad",
+    "mantenimiento": "No se especifica en el informe"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 3,
+   "cita": "(*).- Se remite a la D.G. Infraestructuras Ferroviarias, como Autoridad Nacional de Seguridad",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado (C.T.C.) gestionado desde Puesto de Mando Barcelona Sants. Señalización funcionó correctamente; todas las señales en verde/vía libre.",
+    "tipo_via": "Vía doble, perfil horizontal y recto, buena visibilidad",
+    "velocidad_maxima": "150 km/h (sin limitaciones en el tramo)",
+    "ancho": "Ibérico (no especificado explícitamente en el informe)",
+    "electrificacion": "No especificado en el texto",
+    "estado_via": "En buen estado; no se produjeron daños en infraestructura",
+    "otro": "Andenes de 258 m, recrecidos a 68 cm sobre cabeza de carril, ancho medio 3 m, franja de seguridad. Paso inferior entre andenes de 3 m de ancho y 2,55 m de altura libre, con ascensores y escalera de 1,75 m. Paso superior clausurado tras remodelación (noviembre 2009, coste 1,4 M€). Carteles de salida y de prohibición de cruzar vías. 1.840 viajeros/día; 228 circulaciones/día (87 sin parada, 141 con parada). Tramo Sitges-Castelldefels: 1.593 circulaciones/semana (222 LD, 377 MD, 990 cercanías, 4 servicio). Radiotelefonía modalidad A."
+   },
+   "pagina": 7,
+   "cita": "El tramo del accidente es de vía doble y está equipado con bloqueo automático banalizado (B.A.B.) y",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado (C.T.C.) gestionado desde Puesto de Mando Barcelona Sants. Señalización funcionó correctamente; todas las señales en verde/vía libre.",
+   "pagina": 7,
+   "cita": "El tramo del accidente es de vía doble y está equipado con bloqueo automático banalizado (B.A.B.) y",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 12,
+    "heridos_graves": 10,
+    "heridos_leves": 7,
+    "danos_materiales": "Daños en la parte delantera del tren 1202 por valor de 14.983,78 €. Sin daños en infraestructura.",
+    "afectacion_servicio": "13 horas y 2 minutos de anormalidad (23:23 del 23/06 a 12:25 del 24/06). Vía 1 restablecida a las 11:25. Tren 1202 suprimido, 47 viajeros transbordados por carretera. 5 trenes LD: 100 min retraso acumulado; 6 MD: 181 min; 59 cercanías: 828 min. Autobuses entre estaciones colaterales desde las 01:53."
+   },
+   "pagina": 3,
+   "cita": "(P.K. 656+598), de la línea 200 Madrid Chamartín – Barcelona Sants, el tren de viajeros de larga",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 12,
+    "heridos_graves": 10,
+    "heridos_leves": 7,
+    "danos_materiales": "Daños en la parte delantera del tren 1202 por valor de 14.983,78 €. Sin daños en infraestructura.",
+    "afectacion_servicio": "13 horas y 2 minutos de anormalidad (23:23 del 23/06 a 12:25 del 24/06). Vía 1 restablecida a las 11:25. Tren 1202 suprimido, 47 viajeros transbordados por carretera. 5 trenes LD: 100 min retraso acumulado; 6 MD: 181 min; 59 cercanías: 828 min. Autobuses entre estaciones colaterales desde las 01:53."
+   },
+   "pagina": 6,
+   "cita": "la investigación de accidentes ferroviarios, suscrito con la Secretaría General de Transportes en julio",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 12,
+    "heridos_graves": 10,
+    "heridos_leves": 7,
+    "danos_materiales": "Daños en la parte delantera del tren 1202 por valor de 14.983,78 €. Sin daños en infraestructura.",
+    "afectacion_servicio": "13 horas y 2 minutos de anormalidad (23:23 del 23/06 a 12:25 del 24/06). Vía 1 restablecida a las 11:25. Tren 1202 suprimido, 47 viajeros transbordados por carretera. 5 trenes LD: 100 min retraso acumulado; 6 MD: 181 min; 59 cercanías: 828 min. Autobuses entre estaciones colaterales desde las 01:53."
+   },
+   "pagina": 10,
+   "cita": "Víctimas mortales – heridos",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 1202: autopropulsado 967194900031 (3 vehículos, 12 ejes, 80 m, 172 t). Tren 28391: doble composición UEM serie 451 (unidades 451008 y 451010), capacidad 1.816 plazas (996 sentadas, 820 de pie).",
+    "averia": "Ninguna; ambos trenes funcionaron correctamente según registradores de seguridad",
+    "mantenimiento": "No se especifica en el informe"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado (C.T.C.) gestionado desde Puesto de Mando Barcelona Sants. Señalización funcionó correctamente; todas las señales en verde/vía libre.",
+    "tipo_via": "Vía doble, perfil horizontal y recto, buena visibilidad",
+    "velocidad_maxima": "150 km/h (sin limitaciones en el tramo)",
+    "ancho": "Ibérico (no especificado explícitamente en el informe)",
+    "electrificacion": "No especificado en el texto",
+    "estado_via": "En buen estado; no se produjeron daños en infraestructura",
+    "otro": "Andenes de 258 m, recrecidos a 68 cm sobre cabeza de carril, ancho medio 3 m, franja de seguridad. Paso inferior entre andenes de 3 m de ancho y 2,55 m de altura libre, con ascensores y escalera de 1,75 m. Paso superior clausurado tras remodelación (noviembre 2009, coste 1,4 M€). Carteles de salida y de prohibición de cruzar vías. 1.840 viajeros/día; 228 circulaciones/día (87 sin parada, 141 con parada). Tramo Sitges-Castelldefels: 1.593 circulaciones/semana (222 LD, 377 MD, 990 cercanías, 4 servicio). Radiotelefonía modalidad A."
+   },
+   "pagina": 7,
+   "cita": "El tramo del accidente es de vía doble y está equipado con bloqueo automático banalizado (B.A.B.) y",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche, tiempo despejado, temperatura agradable. Noche de San Juan con actuaciones musicales programadas en la playa próxima y fiesta al día siguiente, lo que generó una afluencia muy considerable de personas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Apeadero de Platja de Castelldefels"
+   },
+   "pagina": 3,
+   "cita": "(P.K. 656+598), de la línea 200 Madrid Chamartín – Barcelona Sants, el tren de viajeros de larga",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche, tiempo despejado, temperatura agradable. Noche de San Juan con actuaciones musicales programadas en la playa próxima y fiesta al día siguiente, lo que generó una afluencia muy considerable de personas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado (C.T.C.) gestionado desde Puesto de Mando Barcelona Sants. Señalización funcionó correctamente; todas las señales en verde/vía libre.",
+   "pagina": 7,
+   "cita": "El tramo del accidente es de vía doble y está equipado con bloqueo automático banalizado (B.A.B.) y",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado (C.T.C.) gestionado desde Puesto de Mando Barcelona Sants. Señalización funcionó correctamente; todas las señales en verde/vía libre.",
+    "tipo_via": "Vía doble, perfil horizontal y recto, buena visibilidad",
+    "velocidad_maxima": "150 km/h (sin limitaciones en el tramo)",
+    "ancho": "Ibérico (no especificado explícitamente en el informe)",
+    "electrificacion": "No especificado en el texto",
+    "estado_via": "En buen estado; no se produjeron daños en infraestructura",
+    "otro": "Andenes de 258 m, recrecidos a 68 cm sobre cabeza de carril, ancho medio 3 m, franja de seguridad. Paso inferior entre andenes de 3 m de ancho y 2,55 m de altura libre, con ascensores y escalera de 1,75 m. Paso superior clausurado tras remodelación (noviembre 2009, coste 1,4 M€). Carteles de salida y de prohibición de cruzar vías. 1.840 viajeros/día; 228 circulaciones/día (87 sin parada, 141 con parada). Tramo Sitges-Castelldefels: 1.593 circulaciones/semana (222 LD, 377 MD, 990 cercanías, 4 servicio). Radiotelefonía modalidad A."
+   },
+   "pagina": 7,
+   "cita": "El tramo del accidente es de vía doble y está equipado con bloqueo automático banalizado (B.A.B.) y",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 1202: autopropulsado 967194900031 (3 vehículos, 12 ejes, 80 m, 172 t). Tren 28391: doble composición UEM serie 451 (unidades 451008 y 451010), capacidad 1.816 plazas (996 sentadas, 820 de pie).",
+    "averia": "Ninguna; ambos trenes funcionaron correctamente según registradores de seguridad",
+    "mantenimiento": "No se especifica en el informe"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Parada comercial del tren cercanías",
+    "Descenso masivo de viajeros",
+    "No uso del paso inferior",
+    "Cruce tras salida del tren"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "Por parte de Renfe Operadora \n \nJornada laboral del maquinista del tren 1202: \n- \nel día 23: 5 horas y 38 minutos (efectiva de conducción: 3 horas y 38 minutos). \n- \nel día 22: descanso. \n- \nel día 21: descanso. \nSe le realizó la prueba de alcohol y drogas, siendo el resultado negativo en ambos.",
+   "pagina": 24,
+   "cita": "3.6. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Por parte de Renfe Operadora \n \nJornada laboral del maquinista del tren 1202: \n- \nel día 23: 5 horas y 38 minutos (efectiva de conducción: 3 horas y 38 minutos). \n- \nel día 22: descanso. \n- \nel día 21: descanso. \nSe le realizó la prueba de alcohol y drogas, siendo el resultado negativo en ambos.",
+   "pagina": 24,
+   "cita": "3.6. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 23 de junio de 2010, a las 23:23 horas, en el apeadero de Platja de Castelldefels (P.K. 656+598) de la línea 200 Madrid Chamartín – Barcelona Sants, el tren de viajeros de larga distancia Alaris 1202 de Renfe Operadora, procedente de Alicante con destino Barcelona Sants, sin parada establecida y circulando por la vía 2, arrolló a varias personas que cruzaban la vía de izquierda a derecha en sentido de la marcha del tren. Momentos antes, el tren de cercanías 28391, también de Renfe Operadora, había realizado parada comercial en la vía 1 (lado montaña) en sentido contrario, procedente de Barcelona con destino Vilanova i la Geltrú, descendiendo un gran número de viajeros con destino a la playa cercana situada en el lado del andén 2. Para desplazarse entre andenes se utiliza mayoritariamente el paso inferior existente, pero un grupo numeroso cruzó a nivel y de forma indebida las vías, lo que provocó su arrollamiento por el tren 1202. Como consecuencia del arrollamiento fallecieron 12 personas, 10 resultaron con heridas graves y 7 con heridas leves; ambas vías quedaron interceptadas y se produjeron ciertos daños en el material rodante. El accidente tuvo lugar en la noche de San Juan, con actuaciones musicales programadas en la playa próxima y fiesta al día siguiente, lo que generó una afluencia muy considerable de personas.",
+   "pagina": 3,
+   "cita": "RESUMEN El día 23 de junio de 2010, a las 23:23 horas, en el apeadero de Platja de Castelldefels (P.K. 656+598), de la línea 200 Madrid Chamartín – Barcelona Sants, el tren de viajeros de larga distancia Alaris 1202,",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión del gálibo de la vía por parte de las víctimas, al cruzar por un lugar no autorizado y sin percatarse de la llegada del tren 1202. Incumplimiento del artículo 40 del Reglamento del Sector Ferroviario.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión del gálibo de la vía por parte de las víctimas,",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Gran afluencia de personas por la celebración de la Noche de San Juan con actuaciones musicales en la playa próxima",
+    "El tren de cercanías 28391, al reiniciar marcha, dificultaba la visibilidad del tren 1202 que llegaba por vía 2 en sentido contrario",
+    "Solo 15 segundos transcurrieron entre la salida del cercanías del andén 1 y el paso del Alaris por el andén 2",
+    "Algunos testigos indican que la pasarela superior (puente del pueblo sobre la C-32) estaba cerrada con cadena y candado, lo que pudo generar confusión en parte de los viajeros",
+    "Desconocimiento del paso inferior por parte de algunos viajeros (testigos indican que no lo veían o no lo conocían)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así \ncomo los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigación \nconcluye que: \nEl accidente tuvo su origen en la invasión del gálibo de la vía por parte de las víctimas, al cruzar por \nun lugar no autorizado, y sin percatarse de la llegada del tren 1202.",
+   "pagina": 27,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigac",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así \ncomo los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigación \nconcluye que: \nEl accidente tuvo su origen en la invasión del gálibo de la vía por parte de las víctimas, al cruzar por \nun lugar no autorizado, y sin percatarse de la llegada del tren 1202.",
+   "pagina": 27,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigac",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": "Durante el proceso de investigación de este suceso, se solicitó a los cuerpos de investigación \nnacionales de otros países de la Unión Europea, a través de la Agencia Europea Ferroviaria (ERA), \ninformación sobre normas y estándares existentes en los distintos países para el diseño de elementos \nde seguridad en estaciones y sobre la práctica de instalar vallas entre las vías, como medida \ndisuasoria que evite el cruce de las mismas. \nDe la información remitida, y de la propia investigación realizada, no se desprende la necesidad de \nrealizar ninguna recomendación de seguridad específica. \n\n## Página 28\n\n \n \n \nInvestigación del accidente \nnº 0030/2010 ocurrido el 23.06.2010 \nSECRETARÍA DE ESTADO \nDE TRANSPORTES \n \nSECRETARÍA GENERAL DE \nTRANSPORTES \nA\nMINISTERIO \nDE FOMENTO \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nInforme final \n \nIF-230610-310111-CIAF \n \n \nPág. 28 de 28\nNo obstante, el cruce imprudente de las vías por lugares no autorizados, y más concretamente en \nestaciones, da lugar a que este tipo de sucesos tenga un peso significativo dentro de la siniestralidad \nen la Red Ferroviaria de Interés General (RFIG). \nPor ello, el pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el 28 de \ndiciembre de 2010, acordó remitir la información recopilada a la Dirección General de Infraestructuras \nFerroviarias, a fin de que analice la factibilidad de implantar, en estaciones especialmente conflictivas \nde la RFIG, alguna de las medidas de seguridad existentes en esos países u otras actuaciones \nsimilares. \n5. \nRECOMENDACIONES  \n \nDestinatario final \nNúmero \nRecomendación \n \n \nNo se establece ninguna recomendación. (*) \n \n(*).- Se remite a la D.G. Infraestructuras Ferroviarias, como Autoridad Nacional de Seguridad \nFerroviaria, la información que sobre elementos de seguridad en estaciones se ha recabado de otros \npaíses europeos, a fin de que analice la factibilidad de implantar en estaciones especialmente \nconflictivas de la RFIG alguna/s de las medidas de seguridad existentes en esos países u otras \nactuaciones similares. \n \nMadrid, 31 de enero de 2011",
+   "pagina": 27,
+   "cita": "4.4. OBSERVACIONES ADICIONALES",
+   "origen": "determinista",
+   "regla": "sec:^observaciones adicionales",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Se remite a la D.G. Infraestructuras Ferroviarias, como Autoridad Nacional de Seguridad Ferroviaria, la información recabada de otros países europeos sobre elementos de seguridad en estaciones (incluida la práctica de instalar vallas entre vías como medida disuasoria), a fin de que analice la factibilidad de implantar en estaciones especialmente conflictivas de la RFIG alguna/s de las medidas de seguridad existentes en esos países u otras actuaciones similares.",
+     "destinatario": "Dirección General de Infraestructuras Ferroviarias (Autoridad Nacional de Seguridad Ferroviaria)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "(*).- Se remite a la D.G. Infraestructuras Ferroviarias, como Autoridad Nacional de Seguridad",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "23:10",
+     "evento": "Hora prevista de parada comercial del tren 28391 en el apeadero (llegó con ~10 min de retraso)"
+    },
+    {
+     "hora": "23:18:44",
+     "evento": "Tren 28391 rebasa baliza de pie de señal 6577-1 (P.K. 657+655) a 89 km/h, vía libre, y ocupa circuito de vía E'2-1B"
+    },
+    {
+     "hora": "23:18:46",
+     "evento": "Tren 28391 ocupa circuito de vía E'2-1B (andén 1); comienza parada comercial y descenso masivo de viajeros"
+    },
+    {
+     "hora": "23:22:06",
+     "evento": "Tren 1202 rebasa señal 6552-2 (P.K. 655+132) a 140 km/h, vía libre, y ocupa circuito de vía 6552"
+    },
+    {
+     "hora": "23:22:57",
+     "evento": "Tren 28391 reinicia marcha, rebasa señal 6565-1 (P.K. 656+426) a 23 km/h"
+    },
+    {
+     "hora": "23:23:11",
+     "evento": "Tren 28391 libera circuito de vía E'2-1B; cola del tren al final del andén 1"
+    },
+    {
+     "hora": "23:23:16",
+     "evento": "Maquinista del tren 1202 actúa sobre la bocina durante 2 segundos"
+    },
+    {
+     "hora": "23:23:19",
+     "evento": "Maquinista del tren 1202 acciona la seta de emergencia a 139 km/h"
+    },
+    {
+     "hora": "23:23:26",
+     "evento": "Tren 1202 rebasa baliza de pie de señal E'2/2 (P.K. 656+700) a 122 km/h y arrolla a las personas que cruzan; 15 segundos después de que la cola del 28391 saliera del andén 1"
+    },
+    {
+     "hora": "23:24:30",
+     "evento": "Tren 1202 se detiene en P.K. 657+245 tras recorrer 800 m desde aplicación del freno"
+    },
+    {
+     "hora": "23:25:57",
+     "evento": "Comunicación del maquinista del 1202 al Puesto de Mando de Barcelona"
+    },
+    {
+     "hora": "23:31:54",
+     "evento": "Segunda comunicación Puesto de Mando / tren 1202"
+    },
+    {
+     "hora": "01:53",
+     "evento": "Se disponen autobuses entre estaciones colaterales para mantener servicio de cercanías (día 24/06)"
+    },
+    {
+     "hora": "11:25",
+     "evento": "Se restablece la circulación por vía 1 (día 24/06)"
+    },
+    {
+     "hora": "12:25",
+     "evento": "Se restablece la circulación normal y sin limitaciones por ambas vías entre Castelldefels y Garraf (día 24/06)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0030/2010",
+ "expediente": "0030/010",
+ "anio": 2010,
+ "titulo": "Arrollamiento de personas que cruzaban vías en el apeadero de Platja de Castelldefels (Barcelona)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-230610-310111-CIAF.md"
+}

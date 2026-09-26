@@ -1,0 +1,896 @@
+{
+ "id": "IF-031108-240209-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/4CF3ED5A-B6F8-447D-91CE-AA0E3BF64098/46988/IF031108240209CIAF.pdf",
+ "pdf": "pdfs/ES/IF-031108-240209-CIAF.pdf",
+ "md5_pdf": "e7a481bb0e4f732715e58ec6953dc593",
+ "paginas_md": 9,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 6,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0057/2008",
+   "pagina": 1,
+   "cita": "nº 0057/2008 ocurrido el 03.11.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 3 de noviembre de 2008, a las 20:29, el tren de cercanías 15818 de Renfe Operadora arrolló a una mujer de 62 años que cruzaba la vía de forma no autorizada en la estación de Cardedeu (PK 143,105, línea 270). El maquinista activó el silbato y el freno de emergencia sin poder evitar el impacto. La víctima falleció en el acto. El accidente se originó por el tránsito de la víctima por zona no autorizada. Se recomienda estudiar el vallado del aparcamiento colindante con las vías.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-11-03",
+    "hora": "20:29",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Cardedeu",
+     "pk": "143,105",
+     "linea": "270 Portbou Cerbere-Barcelona Sant Andreu Comtal",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Estación de Cardedeu, tramo de vía en curva, vía doble electrificada, con paso inferior para acceso a andenes. Junto a las vías existe un aparcamiento de automóviles sin valla ni muro que impida el acceso a las vías."
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 3 de noviembre de 2008, a las 20:29 horas, el tren de viajeros de cercanías 15818, de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Vía 2 interceptada de 20:30 a 23:50. Retrasos: 10 trenes cercanías (203 min), 7 media distancia (319 min), 3 grandes distancias (93 min), 5 mercancías (232 min). Total 25 trenes, 847 minutos de retraso acumulado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizada para ello",
+   "pagina": 2,
+   "cita": "Conclusión: El accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Ausencia de valla o muro que impida el acceso libre desde el aparcamiento colindante a las vías",
+    "Muchos usuarios acceden directamente a la estación cruzando las vías"
+   ],
+   "pagina": 6,
+   "cita": "que impida el acceso a las vías. Se observa que muchos usuarios acceden directamente a la estación",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Falta de barrera física entre el aparcamiento de la estación y las vías"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Se recomienda estudiar, por parte de la autoridad competente, la necesidad de vallar la zona del aparcamiento de la estación, para impedir el libre acceso a las vías desde el mismo.",
+     "destinatario": "Autoridad competente"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: Se recomienda estudiar, por parte de la autoridad competente, la necesidad",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Se recomienda estudiar, por parte de la autoridad competente, la necesidad de vallar la zona del aparcamiento de la estación, para impedir el libre acceso a las vías desde el mismo.",
+     "destinatario": "Autoridad competente"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: Se recomienda estudiar, por parte de la autoridad competente, la necesidad",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento de una persona",
+   "pagina": 2,
+   "cita": "de Investigación de accidentes ferroviarios que se había producido el arrollamiento de una persona",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "empresa ferroviaria Renfe Operadora, arrolla a una persona que cruzaba la vía, en la estación de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-11-03",
+   "pagina": 2,
+   "cita": "El día 3 de noviembre de 2008, a las 20:29 horas, el tren de viajeros de cercanías 15818, de la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "20:29",
+   "pagina": 2,
+   "cita": "El día 3 de noviembre de 2008, a las 20:29 horas, el tren de viajeros de cercanías 15818, de la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Cardedeu",
+    "pk": "143,105",
+    "linea": "270 Portbou Cerbere-Barcelona Sant Andreu Comtal",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Estación de Cardedeu, tramo de vía en curva, vía doble electrificada, con paso inferior para acceso a andenes. Junto a las vías existe un aparcamiento de automóviles sin valla ni muro que impida el acceso a las vías."
+   },
+   "pagina": 4,
+   "cita": "estacionarse en el andén, por lo que los viajeros siguen en el tren. De este modo puede reanudarse la",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "270 Portbou Cerbere-Barcelona Sant Andreu Comtal",
+   "pagina": 2,
+   "cita": "Cardedeu, en el P.K 143,105 de la línea 270 Portbou Cerbere-Barcelona Sant Andreu Comtal. Como",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Automotor 440185 (UT 440185), Nº UIC 987184401857, 3 coches, masa remolcada 205 Tn",
+    "averia": "Ninguna. Funcionamiento correcto según registrador de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 3 de noviembre de 2008, a las 20:29 horas, el tren de cercanías 15818 de Renfe Operadora, compuesto por el automotor 440185, tres coches y masa remolcada de 205 Tn, circulaba de Barcelona Sant Andreu Comtal a Sant Celoni. A su paso por la estación de Cardedeu, a la altura del edificio de viajeros (P.K. 143,105), arrolló a una mujer de 62 años que cruzaba la vía de izquierda a derecha en el sentido de la marcha del tren. Al percatarse de la llegada del tren, la víctima intentó subirse al andén sin conseguirlo. El maquinista, al observar a la persona en la caja de la vía, hizo uso simultáneo del silbato y del freno de emergencia, sin poder evitar el impacto. La víctima falleció en el acto. No se produjeron daños en material rodante, infraestructura ni medio ambiente. El tren quedó detenido y los viajeros permanecieron a bordo hasta que los Mossos d'Esquadra autorizaron el retroceso del tren a las 21:01, sin poder estacionarse en el andén. A las 21:58 el tren reanudó la marcha y a las 23:11 se produjo el levantamiento del cadáver. La vía 2 quedó interceptada entre las 20:30 y las 23:50 horas.",
+   "pagina": 2,
+   "cita": "1. RESUMEN El día 3 de noviembre de 2008, a las 20:29 horas, el tren de viajeros de cercanías 15818, de la empresa ferroviaria Renfe Operadora, arrolla a una persona que cruzaba la vía, en la estación de Cardedeu, en",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Cardedeu",
+    "pk": "143,105",
+    "linea": "270 Portbou Cerbere-Barcelona Sant Andreu Comtal",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Estación de Cardedeu, tramo de vía en curva, vía doble electrificada, con paso inferior para acceso a andenes. Junto a las vías existe un aparcamiento de automóviles sin valla ni muro que impida el acceso a las vías."
+   },
+   "pagina": 4,
+   "cita": "estacionarse en el andén, por lo que los viajeros siguen en el tren. De este modo puede reanudarse la",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Vía 2 interceptada de 20:30 a 23:50. Retrasos: 10 trenes cercanías (203 min), 7 media distancia (319 min), 3 grandes distancias (93 min), 5 mercancías (232 min). Total 25 trenes, 847 minutos de retraso acumulado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 15818",
+     "implicacion": "Matrícula 9703869. Activó silbato y freno de emergencia al detectar a la víctima. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada de conducción el día del accidente: 2 h 5 min (jornada laboral 7 h 26 min). Último reciclaje formativo: 06/05/2008. Último reconocimiento médico y psicotécnico: 12/09/2005. Habilitado conforme a OM 2520/2006. Actuación correcta según la investigación."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "15818",
+     "tipo": "cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Ninguno"
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 3 de noviembre de 2008, a las 20:29 horas, el tren de viajeros de cercanías 15818, de la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Automotor 440185 (UT 440185), Nº UIC 987184401857, 3 coches, masa remolcada 205 Tn",
+    "averia": "Ninguna. Funcionamiento correcto según registrador de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático con C.T.C.",
+    "tipo_via": "Vía doble electrificada, tramo en curva",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "Correcto, funcionando de acuerdo a la normativa de seguridad",
+    "otro": "Paso inferior para acceso a andenes. Aparcamiento junto a las vías sin valla ni muro que impida el acceso libre a las vías. Radiotelefonía modalidad A. Media semanal de circulaciones del tramo Granollers Centre-Sant Celoni: 1002 (60 larga distancia, 294 media distancia, 488 cercanías, 156 mercancías, 4 servicio)."
+   },
+   "pagina": 3,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático con C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático con C.T.C.",
+   "pagina": 3,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático con C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Vía 2 interceptada de 20:30 a 23:50. Retrasos: 10 trenes cercanías (203 min), 7 media distancia (319 min), 3 grandes distancias (93 min), 5 mercancías (232 min). Total 25 trenes, 847 minutos de retraso acumulado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Vía 2 interceptada de 20:30 a 23:50. Retrasos: 10 trenes cercanías (203 min), 7 media distancia (319 min), 3 grandes distancias (93 min), 5 mercancías (232 min). Total 25 trenes, 847 minutos de retraso acumulado."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-031108-240209-CIAF Pág. 1 de 9 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0057/2008",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Vía 2 interceptada de 20:30 a 23:50. Retrasos: 10 trenes cercanías (203 min), 7 media distancia (319 min), 3 grandes distancias (93 min), 5 mercancías (232 min). Total 25 trenes, 847 minutos de retraso acumulado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 440185 (UT 440185), Nº UIC 987184401857, 3 coches, masa remolcada 205 Tn",
+    "averia": "Ninguna. Funcionamiento correcto según registrador de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático con C.T.C.",
+    "tipo_via": "Vía doble electrificada, tramo en curva",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "Correcto, funcionando de acuerdo a la normativa de seguridad",
+    "otro": "Paso inferior para acceso a andenes. Aparcamiento junto a las vías sin valla ni muro que impida el acceso libre a las vías. Radiotelefonía modalidad A. Media semanal de circulaciones del tramo Granollers Centre-Sant Celoni: 1002 (60 larga distancia, 294 media distancia, 488 cercanías, 156 mercancías, 4 servicio)."
+   },
+   "pagina": 3,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático con C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche, tiempo atmosférico despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Cardedeu"
+   },
+   "pagina": 2,
+   "cita": "Cardedeu, en el P.K 143,105 de la línea 270 Portbou Cerbere-Barcelona Sant Andreu Comtal. Como",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche, tiempo atmosférico despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático con C.T.C.",
+   "pagina": 3,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático con C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático con C.T.C.",
+    "tipo_via": "Vía doble electrificada, tramo en curva",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "Correcto, funcionando de acuerdo a la normativa de seguridad",
+    "otro": "Paso inferior para acceso a andenes. Aparcamiento junto a las vías sin valla ni muro que impida el acceso libre a las vías. Radiotelefonía modalidad A. Media semanal de circulaciones del tramo Granollers Centre-Sant Celoni: 1002 (60 larga distancia, 294 media distancia, 488 cercanías, 156 mercancías, 4 servicio)."
+   },
+   "pagina": 3,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático con C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 440185 (UT 440185), Nº UIC 987184401857, 3 coches, masa remolcada 205 Tn",
+    "averia": "Ninguna. Funcionamiento correcto según registrador de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Cruce no autorizado de vía",
+    "Ausencia de valla perimetral",
+    "Acceso libre desde aparcamiento",
+    "Falta de control de accesos"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 3 de noviembre de 2008, a las 20:29 horas, el tren de cercanías 15818 de Renfe Operadora, compuesto por el automotor 440185, tres coches y masa remolcada de 205 Tn, circulaba de Barcelona Sant Andreu Comtal a Sant Celoni. A su paso por la estación de Cardedeu, a la altura del edificio de viajeros (P.K. 143,105), arrolló a una mujer de 62 años que cruzaba la vía de izquierda a derecha en el sentido de la marcha del tren. Al percatarse de la llegada del tren, la víctima intentó subirse al andén sin conseguirlo. El maquinista, al observar a la persona en la caja de la vía, hizo uso simultáneo del silbato y del freno de emergencia, sin poder evitar el impacto. La víctima falleció en el acto. No se produjeron daños en material rodante, infraestructura ni medio ambiente. El tren quedó detenido y los viajeros permanecieron a bordo hasta que los Mossos d'Esquadra autorizaron el retroceso del tren a las 21:01, sin poder estacionarse en el andén. A las 21:58 el tren reanudó la marcha y a las 23:11 se produjo el levantamiento del cadáver. La vía 2 quedó interceptada entre las 20:30 y las 23:50 horas.",
+   "pagina": 2,
+   "cita": "1. RESUMEN El día 3 de noviembre de 2008, a las 20:29 horas, el tren de viajeros de cercanías 15818, de la empresa ferroviaria Renfe Operadora, arrolla a una persona que cruzaba la vía, en la estación de Cardedeu, en",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en la estación de Cardedeu, en el P.K. 143,105 de la línea 270 Portbou \nCerbere-Barcelona Sant Andreu Comtal. \nSegún el registrador de seguridad de la UT 440185, el tren circulaba a una velocidad inferior a la \nmáxima permitida en el tramo. \nSegún lo declarado por el maquinista, al percatarse de la presencia de una persona en un lugar no \nautorizado para ello, hizo uso del silbato y actuó sobre el freno de emergencia, por lo que la actuación \ndel maquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nTanto el funcionamiento de la infraestructura como la actuación del maquinista, se ajustan a la \nnormativa y no influyeron den el desarrollo de los hechos. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba el tren, sin \nestar autorizado para ello.",
+   "pagina": 7,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizada para ello",
+   "pagina": 2,
+   "cita": "Conclusión: El accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Ausencia de valla o muro que impida el acceso libre desde el aparcamiento colindante a las vías",
+    "Muchos usuarios acceden directamente a la estación cruzando las vías"
+   ],
+   "pagina": 6,
+   "cita": "que impida el acceso a las vías. Se observa que muchos usuarios acceden directamente a la estación",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Se recomienda estudiar, por parte de la autoridad competente, la necesidad de vallar la zona del aparcamiento de la estación, para impedir el libre acceso a las vías desde el mismo.",
+     "destinatario": "Autoridad competente"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: Se recomienda estudiar, por parte de la autoridad competente, la necesidad",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "20:29",
+     "evento": "Arrollamiento de una persona por el tren 15818 en la estación de Cardedeu"
+    },
+    {
+     "hora": "20:30",
+     "evento": "Inicio de la interceptación de la vía 2"
+    },
+    {
+     "hora": "21:01",
+     "evento": "Los Mossos d'Esquadra autorizan el retroceso del tren 15818 sin estacionarse en el andén"
+    },
+    {
+     "hora": "21:03",
+     "evento": "Se restablece la circulación a la vista por la vía 3"
+    },
+    {
+     "hora": "21:58",
+     "evento": "El tren 15818 reanuda la marcha; se restablece circulación a la vista por la vía 1"
+    },
+    {
+     "hora": "22:23",
+     "evento": "El Coordinador de accidentes de Adif comunica el suceso a la CIAF por telefonía móvil"
+    },
+    {
+     "hora": "23:11",
+     "evento": "Levantamiento del cadáver"
+    },
+    {
+     "hora": "23:50",
+     "evento": "Fin de la interceptación de la vía 2"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0057/2008",
+ "expediente": "0057/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de una persona por un tren de cercanías en la estación de Cardedeu (Barcelona)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-031108-240209-CIAF.md"
+}

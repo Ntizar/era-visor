@@ -1,0 +1,918 @@
+{
+ "id": "ID-151106-130407",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-151106-130407.pdf",
+ "pdf": "pdfs/ES/ID-151106-130407.pdf",
+ "md5_pdf": "2771aafe9340ba3f3d03cb2be5eef5e2",
+ "paginas_md": 7,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 13,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0049/2006",
+   "pagina": 1,
+   "cita": "nº 0049/2006 ocurrido el 15.11.2006",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 15 de noviembre de 2006, a las 08:50, un turismo Opel Corsa fue arrollado por el tren de Cercanías nº 24215 de Renfe en un paso a nivel de clase C situado entre las estaciones de Cullera y Tavernes (línea Silla-Gandía, pk 28,363, provincia de Valencia). El conductor, un varón de 66 años, falleció tras sortear la semibarrera bajada e invadir la vía. Las instalaciones del paso a nivel funcionaban correctamente y el tren circulaba a velocidad inferior a la máxima permitida. El accidente se atribuyó a la imprudencia del conductor del automóvil. Se recomienda incidir en el mantenimiento de la señalización luminosa.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2006-11-15",
+    "hora": "08:50",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "28,363",
+     "linea": "Silla-Gandía",
+     "provincia": "Valencia",
+     "descripcion_lugar": "Paso a nivel de clase C en la intersección con el camino de Barranquet, dentro del municipio de Cullera, entre las estaciones de Cullera y Tavernes. Entorno rural, fuera del núcleo urbano. Traza en recta. Línea electrificada de vía única con bloqueo banalizado y control de tráfico centralizado (CTC)."
+    }
+   },
+   "pagina": 3,
+   "cita": "169 toneladas, motor 447.017, el día 15 de noviembre de 2006 a las 08 horas y 50 minutos en",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Siniestro total del vehículo Opel Corsa. Desperfectos varios en material móvil (11.668,90 euros). Rotura del pedal y de la caja de conexiones del circuito de vía del paso a nivel; sueltas algunas grapas de sujeción de carril. Daños en instalaciones pendientes de valorar.",
+    "afectacion_servicio": "Retrasos de 201 minutos acumulados en 16 trenes de Cercanías (ADIF) / 246 minutos en 29 trenes más 4 suprimidos con trasbordo por autobús (Renfe). Tren accidentado detenido 120 minutos en el paso a nivel. Vía libre a las 12:35."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión indebida de la vía por el conductor del vehículo automóvil, que sorteó la semibarrera bajada y accedió al paso a nivel por sentido contrario al normal de circulación, saltándose la isleta de ordenación del tráfico.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Posible fallo parcial en la señalización luminosa: uno de los dos focos del lado derecho no funcionaba adecuadamente",
+    "Diseño del acceso al paso a nivel por dos caminos que confluyen separados por isleta, lo que pudo facilitar la maniobra indebida del conductor"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Necesidad de supresión del paso a nivel y sustitución por paso superior (en fase de proyecto)",
+    "Mantenimiento insuficiente de la señalización luminosa del paso a nivel"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Incidir en el correcto mantenimiento de la señalización luminosa del paso a nivel.",
+     "destinatario": "ADIF (Administrador de Infraestructuras Ferroviarias)"
+    },
+    {
+     "texto": "Proceder a la supresión del paso a nivel y su sustitución por un paso superior (proyecto en fase de redacción).",
+     "destinatario": "ADIF (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Incidir en el correcto mantenimiento de la señalización luminosa del paso a nivel.",
+     "destinatario": "ADIF (Administrador de Infraestructuras Ferroviarias)"
+    },
+    {
+     "texto": "Proceder a la supresión del paso a nivel y su sustitución por un paso superior (proyecto en fase de redacción).",
+     "destinatario": "ADIF (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento en paso a nivel",
+   "pagina": 2,
+   "cita": "arrollamiento en paso a nivel de un vehículo automóvil resultando fallecido el conductor del",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "Renfe Operadora"
+   ],
+   "pagina": 2,
+   "cita": "(ADIF), comunicó por mensaje de texto de telefonía móvil que se había producido el",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2006-11-15",
+   "pagina": 3,
+   "cita": "169 toneladas, motor 447.017, el día 15 de noviembre de 2006 a las 08 horas y 50 minutos en",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "08:50",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:hora"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "28,363",
+    "linea": "Silla-Gandía",
+    "provincia": "Valencia",
+    "descripcion_lugar": "Paso a nivel de clase C en la intersección con el camino de Barranquet, dentro del municipio de Cullera, entre las estaciones de Cullera y Tavernes. Entorno rural, fuera del núcleo urbano. Traza en recta. Línea electrificada de vía única con bloqueo banalizado y control de tráfico centralizado (CTC)."
+   },
+   "pagina": 2,
+   "cita": "Valencia, en el punto kilométrico 28,363 de la Línea Silla-Gandía, perteneciente a la Red",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Silla-Gandía",
+   "pagina": 2,
+   "cita": "Valencia, en el punto kilométrico 28,363 de la Línea Silla-Gandía, perteneciente a la Red",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "447.017 (motor), UT de 3 vehículos, 169 toneladas",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "Un vehículo automóvil Opel Corsa, matrícula V-8284-CK, se introdujo en el paso a nivel de clase C del pk 28,363 de la línea Silla-Gandía (entre Cullera y Tavernes, provincia de Valencia) por el lado derecho en sentido de la marcha, sorteando la semibarrera que se encontraba bajada, encontrándose el paso protegido con señalización luminosa y semibarreras. El tren de Cercanías nº 24215 de Renfe, compuesto por 3 vehículos con 169 toneladas y motor 447.017, circulaba a 117 km/h (máxima permitida 120 km/h). El maquinista, al observar el vehículo invadiendo la vía a unos 5-10 metros, accionó simultáneamente silbato y freno, sin poder evitar el arrollamiento. El único ocupante del vehículo, un varón de 66 años, falleció en el lugar. Según el reportaje fotográfico, el vehículo presuntamente se saltó la isleta de ordenación del tráfico y accedió al paso a nivel por sentido contrario al normal de circulación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "28,363",
+    "linea": "Silla-Gandía",
+    "provincia": "Valencia",
+    "descripcion_lugar": "Paso a nivel de clase C en la intersección con el camino de Barranquet, dentro del municipio de Cullera, entre las estaciones de Cullera y Tavernes. Entorno rural, fuera del núcleo urbano. Traza en recta. Línea electrificada de vía única con bloqueo banalizado y control de tráfico centralizado (CTC)."
+   },
+   "pagina": 2,
+   "cita": "Valencia, en el punto kilométrico 28,363 de la Línea Silla-Gandía, perteneciente a la Red",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Siniestro total del vehículo Opel Corsa. Desperfectos varios en material móvil (11.668,90 euros). Rotura del pedal y de la caja de conexiones del circuito de vía del paso a nivel; sueltas algunas grapas de sujeción de carril. Daños en instalaciones pendientes de valorar.",
+    "afectacion_servicio": "Retrasos de 201 minutos acumulados en 16 trenes de Cercanías (ADIF) / 246 minutos en 29 trenes más 4 suprimidos con trasbordo por autobús (Renfe). Tren accidentado detenido 120 minutos en el paso a nivel. Vía libre a las 12:35."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 24215",
+     "implicacion": "Accionó silbato y freno simultáneamente al ver el vehículo invadiendo la vía; prueba de alcoholemia negativa (0,00 mg/l) realizada dos veces"
+    },
+    {
+     "rol": "Técnico de la Jefatura Técnica de Operaciones de Valencia",
+     "implicacion": "Nombrado jefe delegado del accidente"
+    },
+    {
+     "rol": "Conductor del vehículo Opel Corsa",
+     "implicacion": "Fallecido (varón de 66 años); invadió la vía con semibarrera bajada"
+    }
+   ],
+   "pagina": 3,
+   "cita": "El maquinista del tren 24215.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "24215",
+     "tipo": "Cercanías",
+     "operador": "Renfe",
+     "danos": "Desperfectos varios en material móvil (11.668,90 euros según informe de RENFE)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "tren de Cercanías nº 24215 de la empresa ferroviaria Renfe, compuesto por 3 vehículos con",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "447.017 (motor), UT de 3 vehículos, 169 toneladas",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel de clase C con semibarreras automáticas, señalización acústica y luminosa. Señalización ferroviaria y de camino reglamentaria. Uno de los dos focos del lado derecho no funcionaba adecuadamente.",
+    "tipo_via": "Vía única electrificada con bloqueo automático banalizado y control de tráfico centralizado (CTC)",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Correcto; visibilidad de 800 m a ambos lados por cada margen; traza en recta; vallado metálico en margen derecha",
+    "otro": "Momento de circulación del paso a nivel: 11.640. Ordenación del tráfico de carretera por dos caminos de asfalto que confluyen separados por una isleta. En fase de redacción de proyecto para supresión del paso a nivel y sustitución por paso superior."
+   },
+   "pagina": 5,
+   "cita": "velocidad máxima permitida en ese tramo de 120 km/h.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso a nivel de clase C con semibarreras automáticas, señalización acústica y luminosa. Señalización ferroviaria y de camino reglamentaria. Uno de los dos focos del lado derecho no funcionaba adecuadamente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Siniestro total del vehículo Opel Corsa. Desperfectos varios en material móvil (11.668,90 euros). Rotura del pedal y de la caja de conexiones del circuito de vía del paso a nivel; sueltas algunas grapas de sujeción de carril. Daños en instalaciones pendientes de valorar.",
+    "afectacion_servicio": "Retrasos de 201 minutos acumulados en 16 trenes de Cercanías (ADIF) / 246 minutos en 29 trenes más 4 suprimidos con trasbordo por autobús (Renfe). Tren accidentado detenido 120 minutos en el paso a nivel. Vía libre a las 12:35."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Siniestro total del vehículo Opel Corsa. Desperfectos varios en material móvil (11.668,90 euros). Rotura del pedal y de la caja de conexiones del circuito de vía del paso a nivel; sueltas algunas grapas de sujeción de carril. Daños en instalaciones pendientes de valorar.",
+    "afectacion_servicio": "Retrasos de 201 minutos acumulados en 16 trenes de Cercanías (ADIF) / 246 minutos en 29 trenes más 4 suprimidos con trasbordo por autobús (Renfe). Tren accidentado detenido 120 minutos en el paso a nivel. Vía libre a las 12:35."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Siniestro total del vehículo Opel Corsa. Desperfectos varios en material móvil (11.668,90 euros). Rotura del pedal y de la caja de conexiones del circuito de vía del paso a nivel; sueltas algunas grapas de sujeción de carril. Daños en instalaciones pendientes de valorar.",
+    "afectacion_servicio": "Retrasos de 201 minutos acumulados en 16 trenes de Cercanías (ADIF) / 246 minutos en 29 trenes más 4 suprimidos con trasbordo por autobús (Renfe). Tren accidentado detenido 120 minutos en el paso a nivel. Vía libre a las 12:35."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "447.017 (motor), UT de 3 vehículos, 169 toneladas",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel de clase C con semibarreras automáticas, señalización acústica y luminosa. Señalización ferroviaria y de camino reglamentaria. Uno de los dos focos del lado derecho no funcionaba adecuadamente.",
+    "tipo_via": "Vía única electrificada con bloqueo automático banalizado y control de tráfico centralizado (CTC)",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Correcto; visibilidad de 800 m a ambos lados por cada margen; traza en recta; vallado metálico en margen derecha",
+    "otro": "Momento de circulación del paso a nivel: 11.640. Ordenación del tráfico de carretera por dos caminos de asfalto que confluyen separados por una isleta. En fase de redacción de proyecto para supresión del paso a nivel y sustitución por paso superior."
+   },
+   "pagina": 5,
+   "cita": "velocidad máxima permitida en ese tramo de 120 km/h.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Día soleado con buenas condiciones atmosféricas y perfecta visibilidad",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Valencia",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 2,
+   "cita": "Valencia, en el punto kilométrico 28,363 de la Línea Silla-Gandía, perteneciente a la Red",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Día soleado con buenas condiciones atmosféricas y perfecta visibilidad",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso a nivel de clase C con semibarreras automáticas, señalización acústica y luminosa. Señalización ferroviaria y de camino reglamentaria. Uno de los dos focos del lado derecho no funcionaba adecuadamente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel de clase C con semibarreras automáticas, señalización acústica y luminosa. Señalización ferroviaria y de camino reglamentaria. Uno de los dos focos del lado derecho no funcionaba adecuadamente.",
+    "tipo_via": "Vía única electrificada con bloqueo automático banalizado y control de tráfico centralizado (CTC)",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Correcto; visibilidad de 800 m a ambos lados por cada margen; traza en recta; vallado metálico en margen derecha",
+    "otro": "Momento de circulación del paso a nivel: 11.640. Ordenación del tráfico de carretera por dos caminos de asfalto que confluyen separados por una isleta. En fase de redacción de proyecto para supresión del paso a nivel y sustitución por paso superior."
+   },
+   "pagina": 5,
+   "cita": "velocidad máxima permitida en ese tramo de 120 km/h.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "447.017 (motor), UT de 3 vehículos, 169 toneladas",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Conductor sortea semibarrera bajada",
+    "Vehículo invade vía por sentido contrario"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(ADIF), comunicó por mensaje de texto de telefonía móvil que se había producido el \narrollamiento en paso a nivel de un vehículo automóvil resultando fallecido el conductor del \nmismo. El paso a nivel esta situado entre las estaciones de Cullera y Tavernes, provincia de \nValencia, en el punto kilométrico 28,363 de la Línea Silla-Gandía, perteneciente a la Red \nFerroviaria de Interés General administrada por ADIF. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles. Investigación \nque tendrá como finalidad determinar sus causas y formular recomendaciones para reducir los \nriesgos en el transporte ferroviario de acuerdo con el artículo 112 del citado Reglamento. \nReglamento que traspone parcialmente la Directiva 2004/49/CE del Parlamento Europeo de 29 \nde abril de 2004 sobre la seguridad de los ferrocarriles comunitarios, que en su  Artículo 19 \ncircunscribe la investigación a la mejora de la seguridad, y en ningún caso a la determinación \nde culpas o responsabilidades. \nDe conformidad también con el artículo 112 del mencionado Reglamento, el 1 de \nnoviembre de 2006 la Dirección General de Ferrocarriles designó el equipo de investigación de \naccidentes ferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (ADIF), comunicó por mensaje de texto de telefonía móvil que se había producido el arrollamiento en paso a n",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "Un vehículo automóvil Opel Corsa, matrícula V-8284-CK, se introdujo en el paso a nivel de clase C del pk 28,363 de la línea Silla-Gandía (entre Cullera y Tavernes, provincia de Valencia) por el lado derecho en sentido de la marcha, sorteando la semibarrera que se encontraba bajada, encontrándose el paso protegido con señalización luminosa y semibarreras. El tren de Cercanías nº 24215 de Renfe, compuesto por 3 vehículos con 169 toneladas y motor 447.017, circulaba a 117 km/h (máxima permitida 120 km/h). El maquinista, al observar el vehículo invadiendo la vía a unos 5-10 metros, accionó simultáneamente silbato y freno, sin poder evitar el arrollamiento. El único ocupante del vehículo, un varón de 66 años, falleció en el lugar. Según el reportaje fotográfico, el vehículo presuntamente se saltó la isleta de ordenación del tráfico y accedió al paso a nivel por sentido contrario al normal de circulación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR LA EMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \n      El ADIF concluye “El accidente se produce por el paso indebido de la vía, teniendo las \nsemibarreras bajadas y la señalización óptica y acústica que prohibían el paso de vehículos y \npersonas”. \n      Por la parte de Renfe Operadora, “Teniendo en cuenta que el funcionamiento de las \ninstalaciones del paso a nivel fueron correctas, dada la hora en que se p odujo el accidente  a\nlas 08,50, tratandose de un día soleado y con perfecta visibilidad, se considera que la causa \ndel acciden e fue por imprudencia del conductor del automóvil que intentó sortear las \nsemibarreras del paso a nivel  no percatándose de la proximidad del tren”.  \nr\n,\n \n \nt\n,\n      Por tanto, ambas conclusiones son coincidentes en cuanto a la causa del accidente.",
+   "pagina": 6,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión indebida de la vía por el conductor del vehículo automóvil, que sorteó la semibarrera bajada y accedió al paso a nivel por sentido contrario al normal de circulación, saltándose la isleta de ordenación del tráfico.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Posible fallo parcial en la señalización luminosa: uno de los dos focos del lado derecho no funcionaba adecuadamente",
+    "Diseño del acceso al paso a nivel por dos caminos que confluyen separados por isleta, lo que pudo facilitar la maniobra indebida del conductor"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "A la vista de los datos obtenidos, se estima que el accidente tuvo su origen en la invasión \nindebida de las vías férreas en el paso a nivel de clase C del punto kilométrico 28,363 de la \nlínea Silla-Gandía, por el conductor del vehículo automóvil. \n \n \n \nID-151106-130407 \n \n \nPág. 6 de 7\n\n## Página 7\n\n \nInvestigación del accidente \nnº 0049/2006 ocurrido el 15.11.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES A la vista de los datos obtenidos, se estima que el accidente tuvo su origen en la invasión indebida de las vías férreas en el paso a nivel de clase C del punto kilométrico 28,363 de la línea Silla-Gan",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "A la vista de los datos obtenidos, se estima que el accidente tuvo su origen en la invasión \nindebida de las vías férreas en el paso a nivel de clase C del punto kilométrico 28,363 de la \nlínea Silla-Gandía, por el conductor del vehículo automóvil. \n \n \n \nID-151106-130407 \n \n \nPág. 6 de 7\n\n## Página 7\n\n \nInvestigación del accidente \nnº 0049/2006 ocurrido el 15.11.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES A la vista de los datos obtenidos, se estima que el accidente tuvo su origen en la invasión indebida de las vías férreas en el paso a nivel de clase C del punto kilométrico 28,363 de la línea Silla-Gan",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Incidir en el correcto mantenimiento de la señalización luminosa del paso a nivel.",
+     "destinatario": "ADIF (Administrador de Infraestructuras Ferroviarias)"
+    },
+    {
+     "texto": "Proceder a la supresión del paso a nivel y su sustitución por un paso superior (proyecto en fase de redacción).",
+     "destinatario": "ADIF (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "06:00",
+     "evento": "Inicio de jornada del maquinista del tren 24215"
+    },
+    {
+     "hora": "08:50",
+     "evento": "Arrollamiento del vehículo por el tren de Cercanías nº 24215 en el paso a nivel del pk 28,363"
+    },
+    {
+     "hora": "10:45",
+     "evento": "Los bomberos liberan el vehículo de debajo del tren"
+    },
+    {
+     "hora": "11:10",
+     "evento": "Se autoriza el levantamiento del cadáver"
+    },
+    {
+     "hora": "12:35",
+     "evento": "Se restablece la tensión y queda libre la vía"
+    },
+    {
+     "hora": "14:11",
+     "evento": "Finalización de la jornada del maquinista"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0049/2006",
+ "expediente": "0049/2006",
+ "anio": 2006,
+ "titulo": "Arrollamiento de un vehículo por un tren de Cercanías en paso a nivel entre Cullera y Tavernes (Valencia)",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-151106-130407.md"
+}

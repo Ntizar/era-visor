@@ -1,0 +1,875 @@
+{
+ "id": "IF-010109-190509-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/73D0F2BC-4B16-4D03-BF9A-940BCC392859/47495/109IF010109190509CIAF.pdf",
+ "pdf": "pdfs/ES/IF-010109-190509-CIAF.pdf",
+ "md5_pdf": "a80cc57a828aac85588b1cd964849b11",
+ "paginas_md": 13,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 5,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0001/2009",
+   "pagina": 1,
+   "cita": "nº 0001/2009 ocurrido el 01.01.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 1 de enero de 2009 a las 08:13, el tren de cercanías 28467 de Renfe Operadora arrolló a un hombre de 33 años que intentó subirse al tren antes de que quedara completamente parado en la vía 1 de la estación de Sitges. La víctima cayó a la vía y quedó aprisionada entre el muro del andén y el segundo bogie del tercer coche. El hombre falleció mientras era atendido en el andén por personal sanitario. No se produjeron daños materiales ni en el material rodante ni en la infraestructura. La CIAF concluyó que el accidente se originó en el acercamiento de la víctima al tren antes de que estuviera completamente parado y no estableció recomendaciones.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-01-01",
+    "hora": "08:13",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Sitges",
+     "pk": "643,230",
+     "linea": "200 Madrid Chamartín - Barcelona Sants",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Andén de la vía 1 de la estación de Sitges, situada dentro del núcleo urbano. La estación dispone de otro andén principal en la vía 2 con edificio de viajeros, y cuenta con un paso inferior. Vía doble electrificada con bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.)."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 1 de enero de 2009, a las 08:13 horas, el tren de viajeros 28467, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente",
+    "afectacion_servicio": "4 trenes de larga distancia (22 min retraso total), 10 trenes de media distancia (52 min retraso total), 31 trenes de cercanías (120 min retraso total). Vía 1 interceptada con circulación a la vista por vías 2 y 3 hasta las 11:43. Viajeros transbordados al tren 28471."
+   },
+   "pagina": 6,
+   "cita": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Acercamiento de la víctima al tren antes de que estuviera completamente parado (puertas cerradas), intentando subir",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones. \n \n \n \n \n \n \nMadrid, 19 de mayo de 2009. \n \n \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0001/2009 ocurrido el 01.01.2009 \nSECRETARIA DE ESTADO \nDE  PLANIFICACIÓN E \nINFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-010109-190509-CIAF \n \n \nPág. 12 de 13\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA INVESTIGACIÓN  \nDEL ACCIDENTE FERROVIARIO Nº 0001/2009 \nOCURRIDO EL DÍA 01.01.2009 \nEN LA ESTACIÓN DE SITGES \n\n## Página 13\n\n \n \n \nInvestigación del accidente \nnº 0001/2009 ocurrido el 01.01.2009 \nSECRETARIA DE ESTADO \nDE  PLANIFICACIÓN E \nINFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-010109-190509-CIAF \n \n \nPág. 13 de 13\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 19 de \nmayo de 2009, analizado el expediente nº 0001/2009 del accidente acaecido el 01.01.2009, en la \nestación de Sitges, de la línea 200 Madrid Chamartín - Barcelona Sants, se aprueba como definitivo el \ninforme particular presentado por el técnico investigador, con la siguiente recomendación: \n \nDestinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones. \n \n \n \nMadrid, 19 de mayo de 2009",
+   "pagina": 11,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones. Madrid, 19 de mayo de 2009. ## Página 12 Investigación del accidente nº 0001/2009 ocurrido el 01",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "Renfe Operadora, arrolla a una persona cuando se estaba estacionando en la estación de Sitges. La",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-01-01",
+   "pagina": 3,
+   "cita": "El día 1 de enero de 2009, a las 08:13 horas, el tren de viajeros 28467, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "08:13",
+   "pagina": 3,
+   "cita": "El día 1 de enero de 2009, a las 08:13 horas, el tren de viajeros 28467, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Sitges",
+    "pk": "643,230",
+    "linea": "200 Madrid Chamartín - Barcelona Sants",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Andén de la vía 1 de la estación de Sitges, situada dentro del núcleo urbano. La estación dispone de otro andén principal en la vía 2 con edificio de viajeros, y cuenta con un paso inferior. Vía doble electrificada con bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.)."
+   },
+   "pagina": 3,
+   "cita": "Renfe Operadora, arrolla a una persona cuando se estaba estacionando en la estación de Sitges. La",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "200 Madrid Chamartín - Barcelona Sants",
+   "pagina": 3,
+   "cita": "200 Madrid Chamartín - Barcelona Sants",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UT 447 (447071 en cabeza, 447031 en cola)",
+    "averia": "Ninguna. Equipos de seguridad (freno, ASFA, sistemas de vigilancia) funcionaron correctamente.",
+    "mantenimiento": "No se menciona en el informe"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de cercanías 28467 de Renfe Operadora, procedente de Barcelona y con destino San Vicente de Calders (Tarragona), se estaba estacionando en la vía 1 de la estación de Sitges cuando golpeó a un hombre que intentaba subirse al tren antes de que quedara completamente parado. Como consecuencia del golpe, la víctima cayó a la vía y quedó herida y aprisionada entre el muro del andén y el segundo bogie del tercer coche del tren. El tren circulaba a 21 km/h en el momento del arrollamiento, muy por debajo de la velocidad máxima permitida de 110 km/h. El maquinista, al oír un golpe lateral y un chillido, detuvo inmediatamente el tren mediante el freno de urgencia.\n\nEl hombre de 33 años falleció mientras estaba siendo atendido en el andén por el personal sanitario. La vía 1 quedó interceptada y los viajeros del tren afectado fueron transbordados al tren 28471. El tren 28467 reanudó la marcha sin servicio a las 11:00 horas con destino Villanova i la Geltrú. A las 11:43 se produjo el levantamiento del cadáver y se reanudó la circulación normal por todas las vías.\n\nLa investigación determinó que los equipos de seguridad del tren (freno, ASFA, sistemas de vigilancia) funcionaron correctamente, que la actuación del maquinista fue correcta, y que tanto la tasa de alcoholemia como las jornadas de trabajo cumplían la normativa vigente. La víctima se acercó al tren cuando aún estaba con las puertas cerradas y no se había detenido completamente.",
+   "pagina": 3,
+   "cita": "Barcelona El tren de cercanías 28467 de Renfe Operadora, procedente de Barcelona y con destino San Vicente de Calders (Tarragona), golpea a un hombre que intenta subirse al tren antes de que éste quedara completamente",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Sitges",
+    "pk": "643,230",
+    "linea": "200 Madrid Chamartín - Barcelona Sants",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Andén de la vía 1 de la estación de Sitges, situada dentro del núcleo urbano. La estación dispone de otro andén principal en la vía 2 con edificio de viajeros, y cuenta con un paso inferior. Vía doble electrificada con bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.)."
+   },
+   "pagina": 3,
+   "cita": "Renfe Operadora, arrolla a una persona cuando se estaba estacionando en la estación de Sitges. La",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente",
+    "afectacion_servicio": "4 trenes de larga distancia (22 min retraso total), 10 trenes de media distancia (52 min retraso total), 31 trenes de cercanías (120 min retraso total). Vía 1 interceptada con circulación a la vista por vías 2 y 3 hasta las 11:43. Viajeros transbordados al tren 28471."
+   },
+   "pagina": 6,
+   "cita": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 28467 (matrícula 8936635)",
+     "implicacion": "Circulaba a 21 km/h (por debajo de los 110 km/h permitidos). Al oír el golpe lateral detuvo inmediatamente el tren con el freno de urgencia. Actuación correcta. Alcoholemia negativa (0,00 mg/1000 ml). Jornadas de conducción dentro de límites normativos. Título de conducción habilitado conforme a OM 2520/2006. Último reciclaje formativo: 15/01/2008. Último reconocimiento médico y psicotécnico: 26/07/2008."
+    },
+    {
+     "rol": "Víctima (hombre de 33 años)",
+     "implicacion": "Se acercó al tren cuando aún estaba con las puertas cerradas y no se había detenido completamente, intentando subirse. Golpeado por el tren, cayó a la vía y quedó aprisionada entre el muro del andén y el segundo bogie del tercer coche. Falleció mientras era atendida en el andén por personal sanitario."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "28467",
+     "tipo": "cercanías (6 vehículos, UTs 447071 en cabeza y 447031 en cola, 432 Tn masa remolcada)",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños en el material rodante"
+    },
+    {
+     "numero": "28471",
+     "tipo": "cercanías (tren receptor de transbordo)",
+     "operador": "Renfe Operadora",
+     "danos": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 1 de enero de 2009, a las 08:13 horas, el tren de viajeros 28467, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UT 447 (447071 en cabeza, 447031 en cola)",
+    "averia": "Ninguna. Equipos de seguridad (freno, ASFA, sistemas de vigilancia) funcionaron correctamente.",
+    "mantenimiento": "No se menciona en el informe"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.)",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "110 km/h (paso por estación)",
+    "ancho": null,
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "No se mencionan defectos; la vía 1 quedó interceptada tras el accidente",
+    "otro": "Radiotelefonía modalidad A. Estación dentro del núcleo urbano de Sitges. Paso inferior disponible. Andén de vía 1 habitual para cercanías destino San Vicente de Calders."
+   },
+   "pagina": 6,
+   "cita": "Vía doble electrificada con bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.)",
+   "pagina": 6,
+   "cita": "Vía doble electrificada con bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente",
+    "afectacion_servicio": "4 trenes de larga distancia (22 min retraso total), 10 trenes de media distancia (52 min retraso total), 31 trenes de cercanías (120 min retraso total). Vía 1 interceptada con circulación a la vista por vías 2 y 3 hasta las 11:43. Viajeros transbordados al tren 28471."
+   },
+   "pagina": 6,
+   "cita": "Los viajeros del tren implicado son transbordados al tren 28471. El tren 28467 (implicado en el",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente",
+    "afectacion_servicio": "4 trenes de larga distancia (22 min retraso total), 10 trenes de media distancia (52 min retraso total), 31 trenes de cercanías (120 min retraso total). Vía 1 interceptada con circulación a la vista por vías 2 y 3 hasta las 11:43. Viajeros transbordados al tren 28471."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente",
+    "afectacion_servicio": "4 trenes de larga distancia (22 min retraso total), 10 trenes de media distancia (52 min retraso total), 31 trenes de cercanías (120 min retraso total). Vía 1 interceptada con circulación a la vista por vías 2 y 3 hasta las 11:43. Viajeros transbordados al tren 28471."
+   },
+   "pagina": 6,
+   "cita": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 447 (447071 en cabeza, 447031 en cola)",
+    "averia": "Ninguna. Equipos de seguridad (freno, ASFA, sistemas de vigilancia) funcionaron correctamente.",
+    "mantenimiento": "No se menciona en el informe"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.)",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "110 km/h (paso por estación)",
+    "ancho": null,
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "No se mencionan defectos; la vía 1 quedó interceptada tras el accidente",
+    "otro": "Radiotelefonía modalidad A. Estación dentro del núcleo urbano de Sitges. Paso inferior disponible. Andén de vía 1 habitual para cercanías destino San Vicente de Calders."
+   },
+   "pagina": 6,
+   "cita": "Vía doble electrificada con bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo despejado con buena visibilidad en el momento del arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Sitges"
+   },
+   "pagina": 3,
+   "cita": "200 Madrid Chamartín - Barcelona Sants",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo despejado con buena visibilidad en el momento del arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.)",
+   "pagina": 6,
+   "cita": "Vía doble electrificada con bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.)",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "110 km/h (paso por estación)",
+    "ancho": null,
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "No se mencionan defectos; la vía 1 quedó interceptada tras el accidente",
+    "otro": "Radiotelefonía modalidad A. Estación dentro del núcleo urbano de Sitges. Paso inferior disponible. Andén de vía 1 habitual para cercanías destino San Vicente de Calders."
+   },
+   "pagina": 6,
+   "cita": "Vía doble electrificada con bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 447 (447071 en cabeza, 447031 en cola)",
+    "averia": "Ninguna. Equipos de seguridad (freno, ASFA, sistemas de vigilancia) funcionaron correctamente.",
+    "mantenimiento": "No se menciona en el informe"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Acercamiento de la víctima al tren",
+    "Intento de subir al tren",
+    "Tren aún no detenido",
+    "Puertas del tren cerradas"
+   ],
+   "pagina": 3,
+   "cita": "Conclusión: el accidente tuvo su origen en el acercamiento de la víctima al tren antes de que éste",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de cercanías 28467 de Renfe Operadora, procedente de Barcelona y con destino San Vicente de Calders (Tarragona), se estaba estacionando en la vía 1 de la estación de Sitges cuando golpeó a un hombre que intentaba subirse al tren antes de que quedara completamente parado. Como consecuencia del golpe, la víctima cayó a la vía y quedó herida y aprisionada entre el muro del andén y el segundo bogie del tercer coche del tren. El tren circulaba a 21 km/h en el momento del arrollamiento, muy por debajo de la velocidad máxima permitida de 110 km/h. El maquinista, al oír un golpe lateral y un chillido, detuvo inmediatamente el tren mediante el freno de urgencia.\n\nEl hombre de 33 años falleció mientras estaba siendo atendido en el andén por el personal sanitario. La vía 1 quedó interceptada y los viajeros del tren afectado fueron transbordados al tren 28471. El tren 28467 reanudó la marcha sin servicio a las 11:00 horas con destino Villanova i la Geltrú. A las 11:43 se produjo el levantamiento del cadáver y se reanudó la circulación normal por todas las vías.\n\nLa investigación determinó que los equipos de seguridad del tren (freno, ASFA, sistemas de vigilancia) funcionaron correctamente, que la actuación del maquinista fue correcta, y que tanto la tasa de alcoholemia como las jornadas de trabajo cumplían la normativa vigente. La víctima se acercó al tren cuando aún estaba con las puertas cerradas y no se había detenido completamente.",
+   "pagina": 3,
+   "cita": "Barcelona El tren de cercanías 28467 de Renfe Operadora, procedente de Barcelona y con destino San Vicente de Calders (Tarragona), golpea a un hombre que intenta subirse al tren antes de que éste quedara completamente",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en el andén de la vía 1 de la estación de Sitges. \nDel análisis del registrador de seguridad del vehículo motor se desprende que el tren circulaba a \nuna velocidad inferior a su máxima permitida en el tramo. \nSegún lo declarado por el maquinista, al oír un golpe lateral detiene el tren inmediatamente \nmediante la manipulación del freno de urgencia, por lo que la actuación del maquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nIF-010109-190509-CIAF \n \n \nPág. 10 de 13\n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0001/2009 ocurrido el 01.01.2009 \nSECRETARIA DE ESTADO \nDE  PLANIFICACIÓN E \nINFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-010109-190509-CIAF \n \n \nPág. 11 de 13\nLos equipos de seguridad del tren y las instalaciones técnicas funcionaban correctamente en el \nmomento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nQue la víctima se acerca al tren cuando éste se estaba estacionando y aún estaba con las puertas \ncerradas. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en el acercamiento de la víctima al tren antes de que éste estuviera \ncompletamente parado.",
+   "pagina": 10,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Acercamiento de la víctima al tren antes de que estuviera completamente parado (puertas cerradas), intentando subir",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Acercamiento de la víctima al tren",
+    "Intento de subir al tren",
+    "Tren aún no detenido",
+    "Puertas del tren cerradas"
+   ],
+   "pagina": 3,
+   "cita": "Conclusión: el accidente tuvo su origen en el acercamiento de la víctima al tren antes de que éste",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones. \n \n \n \n \n \n \nMadrid, 19 de mayo de 2009. \n \n \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0001/2009 ocurrido el 01.01.2009 \nSECRETARIA DE ESTADO \nDE  PLANIFICACIÓN E \nINFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-010109-190509-CIAF \n \n \nPág. 12 de 13\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA INVESTIGACIÓN  \nDEL ACCIDENTE FERROVIARIO Nº 0001/2009 \nOCURRIDO EL DÍA 01.01.2009 \nEN LA ESTACIÓN DE SITGES \n\n## Página 13\n\n \n \n \nInvestigación del accidente \nnº 0001/2009 ocurrido el 01.01.2009 \nSECRETARIA DE ESTADO \nDE  PLANIFICACIÓN E \nINFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-010109-190509-CIAF \n \n \nPág. 13 de 13\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 19 de \nmayo de 2009, analizado el expediente nº 0001/2009 del accidente acaecido el 01.01.2009, en la \nestación de Sitges, de la línea 200 Madrid Chamartín - Barcelona Sants, se aprueba como definitivo el \ninforme particular presentado por el técnico investigador, con la siguiente recomendación: \n \nDestinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones. \n \n \n \nMadrid, 19 de mayo de 2009",
+   "pagina": 11,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones. Madrid, 19 de mayo de 2009. ## Página 12 Investigación del accidente nº 0001/2009 ocurrido el 01",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "08:13",
+     "evento": "El tren de cercanías 28467 arrolla a una persona al estacionarse en la vía 1 de la estación de Sitges"
+    },
+    {
+     "hora": "08:13",
+     "evento": "El maquinista oye un golpe lateral y un chillido y detiene el tren con el freno de urgencia"
+    },
+    {
+     "hora": "11:00",
+     "evento": "El tren 28467 reanuda la marcha sin servicio, destino Villanova i la Geltrú"
+    },
+    {
+     "hora": "11:39",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF por mensajería móvil"
+    },
+    {
+     "hora": "11:43",
+     "evento": "Levantamiento del cadáver y reanudación de la circulación normal por todas las vías"
+    },
+    {
+     "hora": null,
+     "evento": "Los viajeros del tren implicado son transbordados al tren 28471"
+    },
+    {
+     "hora": null,
+     "evento": "La vía 1 queda interceptada y se establece circulación a la vista por vías 2 y 3"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0001/2009",
+ "expediente": "0001/09",
+ "anio": 2009,
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0001/2009 OCURRIDO EL DÍA 01.01.2009 EN LA ESTACIÓN DE SITGES",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-010109-190509-CIAF.md"
+}

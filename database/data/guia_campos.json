@@ -1,0 +1,682 @@
+[
+ {
+  "ref": "0. DATOS DE CONTROL DEL INFORME",
+  "campo": "",
+  "info": "",
+  "cumplimentar": "",
+  "normalizar": "",
+  "base": ""
+ },
+ {
+  "ref": "0.1",
+  "campo": "Número de referencia del informe",
+  "info": "Identificador oficial completo del informe CIAF, conservando prefijos, número, año y sufijos.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B1 · patrón CIAF / identificador documental"
+ },
+ {
+  "ref": "0.2",
+  "campo": "Código interno del suceso",
+  "info": "Código de expediente o del suceso cuando figure, diferenciado del número del informe.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Sí",
+  "base": "Convención CIAF / sistema origen; formato controlado"
+ },
+ {
+  "ref": "0.5",
+  "campo": "Fecha del informe",
+  "info": "Fecha de emisión, aprobación o publicación del informe, diferenciada de la fecha del suceso.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "ISO 8601; convención documental CIAF"
+ },
+ {
+  "ref": "0.6",
+  "campo": "Versión / revisión del informe",
+  "info": "Número, código o denominación de la versión/revisión y, cuando exista, su estado.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Sí",
+  "base": "Convención documental CIAF; formato de versión"
+ },
+ {
+  "ref": "1. RESUMEN",
+  "campo": "",
+  "info": "",
+  "cumplimentar": "",
+  "normalizar": "",
+  "base": ""
+ },
+ {
+  "ref": "1.1",
+  "campo": "Descripción breve del suceso",
+  "info": "Síntesis de qué ocurrió, tren/elemento implicado, localización y resultado principal.",
+  "cumplimentar": "Sí",
+  "normalizar": "Parcial",
+  "base": "B1 + B12 · etiquetas temáticas conservando texto literal"
+ },
+ {
+  "ref": "1.2",
+  "campo": "Fecha, hora y lugar del suceso",
+  "info": "Fecha, hora y localización resumida; debe ser coherente con 2.1.3.A/B/C.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "ISO 8601 + B5"
+ },
+ {
+  "ref": "1.3",
+  "campo": "Consecuencias principales",
+  "info": "Víctimas, daños, afección a la circulación, medio ambiente y otras consecuencias relevantes.",
+  "cumplimentar": "Sí",
+  "normalizar": "Parcial",
+  "base": "B3 · categorías CSI / severidad"
+ },
+ {
+  "ref": "1.4",
+  "campo": "Causas directas",
+  "info": "Causas identificadas como directas o inmediatas en las conclusiones del informe.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B1 + B2 · factor causal + clasificación RD 929/2020"
+ },
+ {
+  "ref": "1.5",
+  "campo": "Factores coadyuvantes",
+  "info": "Factores que contribuyeron al suceso o a su gravedad sin constituir por sí solos la causa directa.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Sí",
+  "base": "B1 + B9 · factores coadyuvantes / HOF"
+ },
+ {
+  "ref": "1.6",
+  "campo": "Causas subyacentes",
+  "info": "Factores sistémicos, organizativos, reglamentarios, de competencias, procedimientos o mantenimiento.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Sí",
+  "base": "B1 + B9 · factores sistémicos / SGS"
+ },
+ {
+  "ref": "1.7",
+  "campo": "Recomendaciones principales",
+  "info": "Identificador, texto o síntesis de las recomendaciones y riesgo o materia a la que responden.",
+  "cumplimentar": "Sí",
+  "normalizar": "Parcial",
+  "base": "B1 + B4 · materia/subsistema; conservar texto"
+ },
+ {
+  "ref": "1.8",
+  "campo": "Destinatarios de las recomendaciones",
+  "info": "Organizaciones o tipos de organización a los que se dirige cada recomendación.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B7 · ERA Organisation Code / ERADIS"
+ },
+ {
+  "ref": "2.1 SUCESO",
+  "campo": "",
+  "info": "",
+  "cumplimentar": "",
+  "normalizar": "",
+  "base": ""
+ },
+ {
+  "ref": "2.1.1",
+  "campo": "Tipo de suceso",
+  "info": "Categoría y subcategoría del suceso, manteniendo la denominación original y la clasificación normalizada.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B2 (principal) + B3 · RD 929/2020 Anexo III / CSI"
+ },
+ {
+  "ref": "2.1.2",
+  "campo": "Administrador de infraestructura y empresas ferroviarias implicadas",
+  "info": "Administrador, empresas ferroviarias y otras entidades ferroviarias directamente implicadas, con su función.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B7 · ERA Organisation Code / ERADIS"
+ },
+ {
+  "ref": "2.1.3.A",
+  "campo": "Fecha",
+  "info": "Fecha exacta del suceso.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "ISO 8601 (AAAA-MM-DD)"
+ },
+ {
+  "ref": "2.1.3.B",
+  "campo": "Hora",
+  "info": "Hora exacta o aproximada del suceso, conservando el grado de precisión.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "ISO 8601 / hora local y zona si consta"
+ },
+ {
+  "ref": "2.1.3.C",
+  "campo": "Localización exacta del suceso",
+  "info": "Estación/tramo, vía, punto kilométrico, línea, municipio y coordenadas cuando estén disponibles.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B5 · RINF/CIRTRA; WGS84/EPSG:4326"
+ },
+ {
+  "ref": "2.1.4",
+  "campo": "Identificación y características de la infraestructura ferroviaria",
+  "info": "Características relevantes de vía, aparatos, señalización, electrificación, geometría, velocidad y entorno.",
+  "cumplimentar": "Sí",
+  "normalizar": "Parcial",
+  "base": "B5 + B8 · RINF/CIRTRA + ETI INF/CCS + RCF"
+ },
+ {
+  "ref": "2.1.5",
+  "campo": "Identificación y características de los vehículos ferroviarios",
+  "info": "Tren, serie/tipo, EVN o matrícula, composición, operador y características técnicas relevantes.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B6 · EVR / ERATV"
+ },
+ {
+  "ref": "2.1.6",
+  "campo": "Descripción de los hechos",
+  "info": "Narración cronológica de la situación previa, secuencia del suceso y hechos inmediatamente posteriores.",
+  "cumplimentar": "Sí",
+  "normalizar": "Parcial",
+  "base": "B1 · estructura temporal de acontecimientos; conservar texto"
+ },
+ {
+  "ref": "2.1.7",
+  "campo": "Descripción del lugar del accidente/incidente",
+  "info": "Descripción física y funcional del emplazamiento e instalaciones relevantes.",
+  "cumplimentar": "Sí",
+  "normalizar": "Parcial",
+  "base": "B5 · RINF/CIRTRA; tipología de emplazamiento"
+ },
+ {
+  "ref": "2.1.9",
+  "campo": "Causas presuntas inicialmente identificadas",
+  "info": "Hipótesis o causas manejadas en fases iniciales, claramente separadas de la conclusión final.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Parcial",
+  "base": "B1 + B2 · estado=preliminar; conservar literal"
+ },
+ {
+  "ref": "2.1.10",
+  "campo": "Consecuencias inicialmente identificadas",
+  "info": "Primer balance conocido de víctimas, daños, interrupciones y otras afecciones.",
+  "cumplimentar": "Sí",
+  "normalizar": "Parcial",
+  "base": "B3 · categorías CSI; estado=provisional"
+ },
+ {
+  "ref": "2.1.11",
+  "campo": "Medidas inmediatas adoptadas por la entidad",
+  "info": "Acciones operativas, de seguridad, reparación o contención tomadas inmediatamente tras el suceso.",
+  "cumplimentar": "Sí",
+  "normalizar": "Parcial",
+  "base": "B1 + B9 · tipo de medida, actor, fecha y riesgo"
+ },
+ {
+  "ref": "2.2 CIRCUNSTANCIAS DEL SUCESO",
+  "campo": "",
+  "info": "",
+  "cumplimentar": "",
+  "normalizar": "",
+  "base": ""
+ },
+ {
+  "ref": "2.2.1.A",
+  "campo": "Personal ferroviario implicado",
+  "info": "Función/categoría profesional, organización, habilitación o competencia relevante y papel en el suceso.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B8 + B9 · funciones ferroviarias / competencias"
+ },
+ {
+  "ref": "2.2.1.B",
+  "campo": "Terceros implicados",
+  "info": "Categoría del tercero y forma en que intervino o resultó afectado.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B3 · categorías CSI de personas"
+ },
+ {
+  "ref": "2.2.2",
+  "campo": "Trenes implicados y composición",
+  "info": "Identificador del tren, operador, tipo de servicio, material, número/tipo de vehículos y composición relevante.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B6 + B8 · EVR/ERATV + categorías OPE"
+ },
+ {
+  "ref": "2.2.3",
+  "campo": "Matrícula del material rodante implicado",
+  "info": "EVN o matrícula de los vehículos directamente implicados; serie/tipo si la matrícula no consta.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Sí",
+  "base": "B6 · EVR / reglas EVN"
+ },
+ {
+  "ref": "2.2.4",
+  "campo": "Subsistema afectado",
+  "info": "Subsistema ferroviario principal y, cuando proceda, subsistemas secundarios afectados.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Sí",
+  "base": "B4 · Directiva (UE) 2016/797, Anexo II"
+ },
+ {
+  "ref": "2.2.5",
+  "campo": "Descripción de la infraestructura: vía, agujas y otros elementos relevantes",
+  "info": "Línea/PK/vía, geometría, aparatos, túneles, viaductos, PN, tipo de red, tráfico, velocidades, obras, LTV y elementos relevantes.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B5 + B8 · CIRTRA/RINF + ETI INF/CCS + RCF"
+ },
+ {
+  "ref": "2.2.6",
+  "campo": "Sistema de señalización, enclavamiento, señales y protección del tren",
+  "info": "Bloqueo/enclavamiento, señalización, sistema de protección (ASFA, ERTMS, LZB u otro), modo y estado de explotación.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B5 + B8 · RINF + ETI CCS/OPE + RCF"
+ },
+ {
+  "ref": "2.2.7",
+  "campo": "Sistemas de comunicación",
+  "info": "Sistema utilizado, disponibilidad, comunicaciones relevantes y anomalías detectadas.",
+  "cumplimentar": "Sí",
+  "normalizar": "Parcial",
+  "base": "B8 · ETI OPE/CCS; vocabulario de comunicaciones"
+ },
+ {
+  "ref": "2.2.9",
+  "campo": "Obras en el lugar o en sus cercanías",
+  "info": "Existencia, tipo y ubicación de obras, responsable, restricciones/protecciones y posible relación con el suceso.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Parcial",
+  "base": "B5 + B8 · RINF/CIRTRA + RCF; tipo de obra/LTV"
+ },
+ {
+  "ref": "2.3 VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+  "campo": "",
+  "info": "",
+  "cumplimentar": "",
+  "normalizar": "",
+  "base": ""
+ },
+ {
+  "ref": "2.3.1.A",
+  "campo": "Viajeros",
+  "info": "Número de fallecidos, heridos graves y otras lesiones reportadas entre los viajeros.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B3 · definiciones y categorías CSI"
+ },
+ {
+  "ref": "2.3.1.B",
+  "campo": "Personal ferroviario",
+  "info": "Número de fallecidos, heridos graves y otras lesiones; función cuando sea relevante.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B3 · definiciones y categorías CSI"
+ },
+ {
+  "ref": "2.3.1.C",
+  "campo": "Terceras personas",
+  "info": "Número por severidad y categoría: usuario de PN, intruso, persona en andén u otra persona.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B3 · categorías CSI"
+ },
+ {
+  "ref": "2.3.2",
+  "campo": "Carga",
+  "info": "Tipo de carga, daños/pérdidas y, si procede, mercancías peligrosas, clase/UN y existencia de escape.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Parcial",
+  "base": "B3 + B11 · CSI + RID"
+ },
+ {
+  "ref": "2.3.3",
+  "campo": "Material rodante",
+  "info": "Vehículo afectado, naturaleza y extensión del daño y coste estimado cuando exista.",
+  "cumplimentar": "Sí",
+  "normalizar": "Parcial",
+  "base": "B6 + B3 · vehículo + severidad/daño"
+ },
+ {
+  "ref": "2.3.4",
+  "campo": "Infraestructura",
+  "info": "Elemento dañado, magnitud, restricción o indisponibilidad generada y coste si se cuantifica.",
+  "cumplimentar": "Sí",
+  "normalizar": "Parcial",
+  "base": "B5 + B3 · objeto RINF/CIRTRA + daño"
+ },
+ {
+  "ref": "2.3.5",
+  "campo": "Medio ambiente",
+  "info": "Tipo de impacto ambiental, sustancia/fenómeno, extensión, zona afectada y medidas de restauración.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Parcial",
+  "base": "B3 + B11 · CSI/RID; categorías ambientales"
+ },
+ {
+  "ref": "2.3.6",
+  "campo": "Impacto económico",
+  "info": "Importe, moneda, concepto y naturaleza del valor: estimado, calculado o comunicado.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Sí",
+  "base": "B3 + ISO 4217 · categorías de coste y moneda"
+ },
+ {
+  "ref": "2.4 CIRCUNSTANCIAS EXTERNAS",
+  "campo": "",
+  "info": "",
+  "cumplimentar": "",
+  "normalizar": "",
+  "base": ""
+ },
+ {
+  "ref": "2.4.1",
+  "campo": "Condiciones meteorológicas",
+  "info": "Temperatura, precipitación, viento, hielo, inundación u otros fenómenos; valores y umbrales si constan.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B10 · AEMET/WMO; variables y unidades"
+ },
+ {
+  "ref": "2.4.2",
+  "campo": "Referencias geográficas",
+  "info": "Coordenadas, línea, PK, estación/punto operacional, municipio y referencias de red disponibles.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B5 · RINF/CIRTRA + WGS84/EPSG:4326"
+ },
+ {
+  "ref": "2.4.3",
+  "campo": "Condiciones de visibilidad, iluminación u otras condiciones externas relevantes",
+  "info": "Día/noche, luz natural/artificial, visibilidad y otras condiciones externas con posible influencia.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Parcial",
+  "base": "B10 + B1 · categorías meteorológicas/ambientales"
+ },
+ {
+  "ref": "3.4 FUNCIONAMIENTO DEL MATERIAL RODANTE Y DE LAS INSTALACIONES TÉCNICAS",
+  "campo": "",
+  "info": "",
+  "cumplimentar": "",
+  "normalizar": "",
+  "base": ""
+ },
+ {
+  "ref": "3.4.1",
+  "campo": "Sistema de control de mando y señalización",
+  "info": "Sistema instalado, funcionamiento esperado y real, estado, alarmas, fallos, registros y comprobaciones.",
+  "cumplimentar": "Sí",
+  "normalizar": "Parcial",
+  "base": "B8 · ETI CCS/OPE + RINF; componentes y estados"
+ },
+ {
+  "ref": "3.4.3",
+  "campo": "Infraestructura",
+  "info": "Inspecciones, mediciones, defectos, tolerancias, conservación/mantenimiento y relación con el suceso.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B5 + B8 · objetos/parámetros de infraestructura + defectos"
+ },
+ {
+  "ref": "3.4.4",
+  "campo": "Equipo de comunicaciones",
+  "info": "Registros, disponibilidad, calidad, secuencia temporal y anomalías de las comunicaciones.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Parcial",
+  "base": "B8 · ETI OPE/CCS; categorías de fallo"
+ },
+ {
+  "ref": "3.4.5",
+  "campo": "Material rodante",
+  "info": "Resultados de inspecciones/pruebas, sistemas afectados, defectos, mantenimiento y comportamiento técnico.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B6 · EVR/ERATV + categorías de subsistemas/equipos"
+ },
+ {
+  "ref": "3.5 DOCUMENTACIÓN DEL SISTEMA DE GESTIÓN DE LA CIRCULACIÓN",
+  "campo": "",
+  "info": "",
+  "cumplimentar": "",
+  "normalizar": "",
+  "base": ""
+ },
+ {
+  "ref": "3.5.1",
+  "campo": "Medidas tomadas por el personal de circulación",
+  "info": "Órdenes, autorizaciones, itinerarios, procedimientos aplicados y posibles desviaciones.",
+  "cumplimentar": "Sí",
+  "normalizar": "Parcial",
+  "base": "B8 · RCF + ETI OPE; tipos de acción/procedimiento"
+ },
+ {
+  "ref": "3.6 INTERFAZ HOMBRE-MÁQUINA-ORGANIZACIÓN",
+  "campo": "",
+  "info": "",
+  "cumplimentar": "",
+  "normalizar": "",
+  "base": ""
+ },
+ {
+  "ref": "3.6.1",
+  "campo": "Accidente con precursor o causa Factor Humano",
+  "info": "Sí/No/Indeterminado y, si procede, organización relacionada y evidencia que sostiene la clasificación.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Sí",
+  "base": "B1 + B9 · HOF/SGS; clasificación derivada con evidencia"
+ },
+ {
+  "ref": "3.6.2",
+  "campo": "Tiempo de trabajo del personal implicado",
+  "info": "Inicio del turno, tiempo trabajado, descansos, turnos previos y datos relevantes para la fatiga.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Parcial",
+  "base": "B1 + B9 · categorías HOF / fatiga / tiempo de trabajo"
+ },
+ {
+  "ref": "3.6.3",
+  "campo": "Circunstancias médicas y personales con posible influencia en el suceso",
+  "info": "Solo circunstancias expresamente consideradas relevantes para el análisis causal o coadyuvante.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Parcial",
+  "base": "B1 + B9 · presencia/relevancia; evitar taxonomía clínica detallada"
+ },
+ {
+  "ref": "3.6.4",
+  "campo": "Existencia de tensión física o psicológica",
+  "info": "Existencia, tipo y evidencia de estrés, carga física o presión psicológica relevante.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Parcial",
+  "base": "B1 + B9 · factores HOF"
+ },
+ {
+  "ref": "3.6.5",
+  "campo": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+  "info": "Equipo/interfaz afectada, problema de diseño/usabilidad y efecto sobre la actuación.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Parcial",
+  "base": "B1 + B9 · HMI/HOF"
+ },
+ {
+  "ref": "3.6.6",
+  "campo": "Factores humanos y organizativos relevantes",
+  "info": "Factores individuales, de tarea, comunicación, supervisión, organización, cultura, procedimientos y entorno.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Sí",
+  "base": "B1 + B9 · taxonomía HOF del Reg. 2020/572 / ERA"
+ },
+ {
+  "ref": "3.7 ANTECEDENTES",
+  "campo": "",
+  "info": "",
+  "cumplimentar": "",
+  "normalizar": "",
+  "base": ""
+ },
+ {
+  "ref": "3.7.1",
+  "campo": "Otros sucesos anteriores de carácter similar",
+  "info": "Referencia, fecha, tipo, lugar y elemento común que justifica la similitud con el suceso investigado.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Parcial",
+  "base": "B2 + B12 · tipo de suceso + términos ferroviarios"
+ },
+ {
+  "ref": "3.7.3",
+  "campo": "Información sobre riesgos, defectos o disconformidades comunicadas previamente",
+  "info": "Riesgo/defecto, fecha, entidad comunicante, documento/registro, medidas adoptadas y estado.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Parcial",
+  "base": "B9 + B12 · categorías de riesgo/defecto; trazabilidad documental"
+ },
+ {
+  "ref": "4. ANÁLISIS Y CONCLUSIONES",
+  "campo": "",
+  "info": "",
+  "cumplimentar": "",
+  "normalizar": "",
+  "base": ""
+ },
+ {
+  "ref": "4.1",
+  "campo": "Descripción definitiva de la cadena de acontecimientos",
+  "info": "Secuencia final ordenada de eventos, con momento, actor/sistema, acción/estado y consecuencia.",
+  "cumplimentar": "Sí",
+  "normalizar": "Parcial",
+  "base": "B1 · modelo estructurado de acontecimientos; conservar narrativa"
+ },
+ {
+  "ref": "4.2",
+  "campo": "Análisis de los hechos y eficacia de los servicios de salvamento",
+  "info": "Razonamiento sobre hechos y evidencias, y valoración de la actuación/eficacia de la respuesta de emergencia.",
+  "cumplimentar": "Sí",
+  "normalizar": "No",
+  "base": "B1 · texto analítico; únicamente etiquetas auxiliares"
+ },
+ {
+  "ref": "4.3 CONCLUSIONES",
+  "campo": "",
+  "info": "",
+  "cumplimentar": "",
+  "normalizar": "",
+  "base": ""
+ },
+ {
+  "ref": "4.3.1",
+  "campo": "Causas directas e inmediatas del suceso",
+  "info": "Factores finales identificados como causales y clasificación de la causa directa cuando sea posible.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B1 + B2 · factor causal + RD 929/2020 Anexo III"
+ },
+ {
+  "ref": "4.3.2",
+  "campo": "Factores coadyuvantes",
+  "info": "Factores finales que contribuyeron al suceso sin producirlo por sí solos.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B1 + B9 · factor coadyuvante / HOF"
+ },
+ {
+  "ref": "4.3.3",
+  "campo": "Causas subyacentes relacionadas con cualificaciones del personal y mantenimiento",
+  "info": "Factores sistémicos ligados a competencias, mantenimiento, procedimientos, supervisión u organización.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Sí",
+  "base": "B1 + B9 · factores sistémicos / SGS"
+ },
+ {
+  "ref": "4.3.4",
+  "campo": "Causas relacionadas con el marco normativo",
+  "info": "Norma/requisito afectado y naturaleza del problema: incumplimiento, ausencia, insuficiencia o ambigüedad.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Parcial",
+  "base": "B1 + EUR-Lex/BOE + B12 · tipo de norma/problema"
+ },
+ {
+  "ref": "4.4 OBSERVACIONES ADICIONALES",
+  "campo": "",
+  "info": "",
+  "cumplimentar": "",
+  "normalizar": "",
+  "base": ""
+ },
+ {
+  "ref": "4.4",
+  "campo": "Observaciones adicionales",
+  "info": "Problemas o hallazgos de seguridad relevantes que no forman parte de la explicación causal principal.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Parcial",
+  "base": "B1 + B12 · materia/subsistema; conservar texto"
+ },
+ {
+  "ref": "4.5 MEDIDAS ADOPTADAS",
+  "campo": "",
+  "info": "",
+  "cumplimentar": "",
+  "normalizar": "",
+  "base": ""
+ },
+ {
+  "ref": "4.5.1",
+  "campo": "Medidas adoptadas inmediatamente",
+  "info": "Medida, responsable, fecha, elemento/riesgo afectado y estado de aplicación.",
+  "cumplimentar": "Sí",
+  "normalizar": "Parcial",
+  "base": "B1 + B9 · tipo de medida/actor/estado"
+ },
+ {
+  "ref": "4.5.2",
+  "campo": "Medidas adoptadas después del análisis",
+  "info": "Medidas correctoras posteriores al análisis, responsable, fecha, alcance y estado.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Parcial",
+  "base": "B1 + B9 · tipo de medida/actor/estado"
+ },
+ {
+  "ref": "4.5.3",
+  "campo": "Medidas preventivas para evitar la repetición del suceso",
+  "info": "Medidas preventivas y causa/riesgo que pretenden controlar, con responsable y estado si constan.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Parcial",
+  "base": "B1 + B9 · relación medida-riesgo/causa"
+ },
+ {
+  "ref": "4.6 RECOMENDACIONES",
+  "campo": "",
+  "info": "",
+  "cumplimentar": "",
+  "normalizar": "",
+  "base": ""
+ },
+ {
+  "ref": "4.6.1",
+  "campo": "Recomendaciones de seguridad",
+  "info": "Identificador, texto literal, riesgo/causa abordado, materia o subsistema y destinatario.",
+  "cumplimentar": "Sí",
+  "normalizar": "Parcial",
+  "base": "B1 + B4 + B7 · subsistema/destinatario; conservar literal"
+ },
+ {
+  "ref": "4.6.2.A",
+  "campo": "Destinatarios de las recomendaciones",
+  "info": "Tipo de entidad y organización concreta destinataria de cada recomendación.",
+  "cumplimentar": "Sí",
+  "normalizar": "Sí",
+  "base": "B7 · ERA Organisation Code / ERADIS"
+ },
+ {
+  "ref": "4.6.3",
+  "campo": "Implementadores previstos",
+  "info": "Organización o actor que previsiblemente ejecutará la recomendación o medida asociada.",
+  "cumplimentar": "Parcial",
+  "normalizar": "Sí",
+  "base": "B7 · ERA Organisation Code / ERADIS"
+ }
+]

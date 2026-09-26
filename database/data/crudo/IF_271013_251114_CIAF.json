@@ -1,0 +1,945 @@
+{
+ "id": "IF_271013_251114_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/A46FEE81-A168-4B2D-863B-4B34CD88CC77/128254/IF271013251114CIAF1.pdf",
+ "pdf": "pdfs/ES/IF_271013_251114_CIAF.pdf",
+ "md5_pdf": "5ddb77ac820eff4656e833c3c0bee9db",
+ "paginas_md": 19,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 18,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0068/2013",
+   "pagina": 1,
+   "cita": "nº 0068/2013 ocurrido el 27.10.2013",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 27 de octubre de 2013 a las 08:31, el tren de cercanías 08904 (Bilbao-La Calzada) rebasó indebidamente la señal S2/2 en indicación de parada en la estación de Zalla (Vizcaya), PK 2+057, de la línea 790 RAM. Se produjo un conato de colisión con el tren turístico 73101 (Transcantábrico Gran Lujo), detenido ante la señal E1, quedando ambos trenes a 191 metros de distancia. No hubo víctimas ni daños materiales. La causa fue un fallo humano del maquinista del 08904 por falta de atención en la conducción. No se establecieron recomendaciones al considerarse adecuadas las medidas adoptadas por Renfe Operadora.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2013-10-27",
+    "hora": "08:31",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Zalla",
+     "pk": "2+057",
+     "linea": "790 RAM La Asunción Universidad – Aranguren",
+     "provincia": "Vizcaya",
+     "descripcion_lugar": "Estación de Zalla, vía 2 (vía de apartado), señal de salida S2/2 en PK 2+185, tramo en curva a la izquierda de radio 1000 m, nivelación longitudinal horizontal, vía única con bloqueo automático y CTC en Bilbao"
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 27 de octubre de 2013 a las 08:31 horas en la estación de Zalla (Vizcaya) situada en el PK 2+057",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura",
+    "afectacion_servicio": "No se produce interceptación de la vía. Retraso de 4 minutos en el tren 08904 y de 3 minutos en el tren 73101. Maquinista relevado en Balmaseda."
+   },
+   "pagina": 11,
+   "cita": "No se produce interceptación de la vía.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del maquinista del tren 08904 por falta de atención en la conducción, al no cumplimentar la orden de parada de la señal S2/2 e incumplir el artículo 2/04/00 del Reglamento de Señales de Feve",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Despiste del maquinista tras la parada comercial: no comprobó la indicación de la señal de salida antes de reanudar la marcha",
+    "Tiempo de reacción insuficiente: solo 3 segundos entre la aplicación de la seta de urgencia y el paso por la baliza ASFA",
+    "Velocidad de 29 km/h al aplicar el freno de urgencia, insuficiente para detenerse antes de la baliza"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 5,
+   "cita": "Recomendación Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones. 2. HECHOS INMEDIATOS DEL SUCESO 2.1. SUCESO 2.1.1. Datos Día / Hora: 27.10.2013 / 08:31 Lugar: Estación d",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 5,
+   "cita": "Recomendación Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones. 2. HECHOS INMEDIATOS DEL SUCESO 2.1. SUCESO 2.1.1. Datos Día / Hora: 27.10.2013 / 08:31 Lugar: Estación d",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente",
+   "pagina": 1,
+   "cita": "Investigación del incidente",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 6,
+   "cita": "El tren de viajeros de cercanías 08904, de la empresa ferroviaria Renfe Operadora, con origen Bilbao y",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2013-10-27",
+   "pagina": 5,
+   "cita": "El día 27 de octubre de 2013 a las 08:31 horas en la estación de Zalla (Vizcaya) situada en el PK 2+057",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "08:31",
+   "pagina": 5,
+   "cita": "El día 27 de octubre de 2013 a las 08:31 horas en la estación de Zalla (Vizcaya) situada en el PK 2+057",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Zalla",
+    "pk": "2+057",
+    "linea": "790 RAM La Asunción Universidad – Aranguren",
+    "provincia": "Vizcaya",
+    "descripcion_lugar": "Estación de Zalla, vía 2 (vía de apartado), señal de salida S2/2 en PK 2+185, tramo en curva a la izquierda de radio 1000 m, nivelación longitudinal horizontal, vía única con bloqueo automático y CTC en Bilbao"
+   },
+   "pagina": 6,
+   "cita": "señal E2 en indicación de aviso de parada, y se estaciona en la vía 2 (vía de apartado) de la estación",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "790 RAM La Asunción Universidad – Aranguren",
+   "pagina": 6,
+   "cita": "línea 790 RAM La Asunción Universidad – Aranguren, en la provincia de Vizcaya.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tren 08904: UT 3601-3602, 2 vehículos, 8 ejes, 71 m, 56 t, tipo 80 (Vmax 80 km/h). Tren 73101: locomotora 1971 + rama El Transcantábrico Gran Lujo, tipo 70 (Vmax 70 km/h)",
+    "averia": "Ninguna; el material rodante funcionó correctamente",
+    "mantenimiento": "No se menciona problema de mantenimiento; registrador de seguridad del automotor 3601 y de la locomotora (1971/1917) confirmaron velocidades y tiempos correctos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros de cercanías 08904 de Renfe Operadora, con origen Bilbao y destino La Calzada, circulaba por vía única y tras pasar la señal E2 en aviso de parada se estacionó en la vía 2 de la estación de Zalla para realizar una parada comercial de un minuto. En sentido contrario, el tren turístico 73101 (El Transcantábrico Gran Lujo), procedente de Mercadillo-Villasana con destino Bilbao, se detuvo ante la señal de entrada E1. Ambos trenes debían cruzarse en dicha estación. Una vez terminada la parada comercial, el maquinista del 08904 reanudó la marcha sin percatarse de que la señal de salida S2/2 estaba en indicación de parada. Cuando se dio cuenta, aplicó el freno de urgencia (seta) a 29 km/h tras unos 50 metros de recorrido, pero tres segundos después el sistema ASFA activó el freno de emergencia al pasar por la baliza de pie de la señal a 25 km/h. El tren quedó detenido en vía 2, rebasando la señal S2/2 en 12 metros, sin llegar a la aguja A1, a unos 191 metros del tren 73101. Se produjo un conato de colisión. El maquinista informó al puesto de mando de Bilbao, que autorizó por telefonema el retroceso del tren hasta su punto de estacionamiento. Ambos trenes continuaron después hacia sus destinos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Zalla",
+    "pk": "2+057",
+    "linea": "790 RAM La Asunción Universidad – Aranguren",
+    "provincia": "Vizcaya",
+    "descripcion_lugar": "Estación de Zalla, vía 2 (vía de apartado), señal de salida S2/2 en PK 2+185, tramo en curva a la izquierda de radio 1000 m, nivelación longitudinal horizontal, vía única con bloqueo automático y CTC en Bilbao"
+   },
+   "pagina": 6,
+   "cita": "señal E2 en indicación de aviso de parada, y se estaciona en la vía 2 (vía de apartado) de la estación",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura",
+    "afectacion_servicio": "No se produce interceptación de la vía. Retraso de 4 minutos en el tren 08904 y de 3 minutos en el tren 73101. Maquinista relevado en Balmaseda."
+   },
+   "pagina": 11,
+   "cita": "No se produce interceptación de la vía.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 08904 (matrícula 6912216)",
+     "implicacion": "Fallo humano por falta de atención en la conducción: no percibió que la señal S2/2 estaba en indicación de parada y reanudó la marcha tras la parada comercial, provocando el rebase indebido. Aplicó seta de urgencia solo 3 segundos antes de alcanzar la baliza. Declaró que 'se despistó'. Incumplió el artículo 2/04/00 del Reglamento de Señales de Feve. Se le aplicó la Circular Operativa nº 1 de Presidencia (gestión del fallo humano): control de alcoholemia, retirada del servicio, reconocimiento psicofísico, programa individualizado de reciclaje con simulador y acompañamiento en cabina por tutor."
+    },
+    {
+     "rol": "Jefe de circulación del CTC de Bilbao",
+     "implicacion": "Realizó correctamente los itinerarios de cruce. Al detectar la ocupación anómala del CVA1 por el rebase, cambió la señal E1 a parada. Autorizó por telefonema el retroceso del tren 08904. Verificó que el enclavamiento no había sufrido daños."
+    }
+   ],
+   "pagina": 12,
+   "cita": "De la toma de declaración realizada al jefe de circulación del CTC de Bilbao, el día 27 de octubre de",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "08904",
+     "tipo": "cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños"
+    },
+    {
+     "numero": "73101",
+     "tipo": "turístico discrecional (El Transcantábrico Gran Lujo)",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños"
+    }
+   ],
+   "pagina": 5,
+   "cita": "tren de viajeros de cercanías 08904, con origen Bilbao y destino La Calzada (Vizcaya), rebasa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tren 08904: UT 3601-3602, 2 vehículos, 8 ejes, 71 m, 56 t, tipo 80 (Vmax 80 km/h). Tren 73101: locomotora 1971 + rama El Transcantábrico Gran Lujo, tipo 70 (Vmax 70 km/h)",
+    "averia": "Ninguna; el material rodante funcionó correctamente",
+    "mantenimiento": "No se menciona problema de mantenimiento; registrador de seguridad del automotor 3601 y de la locomotora (1971/1917) confirmaron velocidades y tiempos correctos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal S2/2 baja de 4 focos (PK 2+185) en indicación de parada, con buena visibilidad; señal E1 (PK 2+395); señal E2 (PK 1+601) en aviso de parada; baliza ASFA de pie de señal S2/2; señal avanzada E'2",
+    "tipo_via": "Vía única con una vía de apartado (vía 2) en estación; enclavamiento electrónico",
+    "velocidad_maxima": "80 km/h (trayecto Balmaseda – Aranguren, Consigna Serie C nº 4/2011 DGI); velocidad máxima de paso por estación según cuadros de marcha: 70 km/h",
+    "ancho": "Métrico (RAM, antigua Feve)",
+    "electrificacion": null,
+    "estado_via": "Correcto; curva a la izquierda de radio 1000 m, nivelación longitudinal horizontal",
+    "otro": "Bloqueo automático con control de tráfico centralizado (CTC) en Bilbao; en mando central en el momento del incidente; radiotelefonía modalidad C; media semanal de 361 circulaciones por la estación"
+   },
+   "pagina": 5,
+   "cita": "de la línea 790 de la Red de Ancho Métrico (RAM, antigua Feve) La Asunción Universidad – Aranguren, el",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal S2/2 baja de 4 focos (PK 2+185) en indicación de parada, con buena visibilidad; señal E1 (PK 2+395); señal E2 (PK 1+601) en aviso de parada; baliza ASFA de pie de señal S2/2; señal avanzada E'2",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad C.",
+   "pagina": 11,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura",
+    "afectacion_servicio": "No se produce interceptación de la vía. Retraso de 4 minutos en el tren 08904 y de 3 minutos en el tren 73101. Maquinista relevado en Balmaseda."
+   },
+   "pagina": 11,
+   "cita": "No se produce interceptación de la vía.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura",
+    "afectacion_servicio": "No se produce interceptación de la vía. Retraso de 4 minutos en el tren 08904 y de 3 minutos en el tren 73101. Maquinista relevado en Balmaseda."
+   },
+   "pagina": 11,
+   "cita": "No se produce interceptación de la vía.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura",
+    "afectacion_servicio": "No se produce interceptación de la vía. Retraso de 4 minutos en el tren 08904 y de 3 minutos en el tren 73101. Maquinista relevado en Balmaseda."
+   },
+   "pagina": 11,
+   "cita": "No se produce interceptación de la vía.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 08904: UT 3601-3602, 2 vehículos, 8 ejes, 71 m, 56 t, tipo 80 (Vmax 80 km/h). Tren 73101: locomotora 1971 + rama El Transcantábrico Gran Lujo, tipo 70 (Vmax 70 km/h)",
+    "averia": "Ninguna; el material rodante funcionó correctamente",
+    "mantenimiento": "No se menciona problema de mantenimiento; registrador de seguridad del automotor 3601 y de la locomotora (1971/1917) confirmaron velocidades y tiempos correctos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal S2/2 baja de 4 focos (PK 2+185) en indicación de parada, con buena visibilidad; señal E1 (PK 2+395); señal E2 (PK 1+601) en aviso de parada; baliza ASFA de pie de señal S2/2; señal avanzada E'2",
+    "tipo_via": "Vía única con una vía de apartado (vía 2) en estación; enclavamiento electrónico",
+    "velocidad_maxima": "80 km/h (trayecto Balmaseda – Aranguren, Consigna Serie C nº 4/2011 DGI); velocidad máxima de paso por estación según cuadros de marcha: 70 km/h",
+    "ancho": "Métrico (RAM, antigua Feve)",
+    "electrificacion": null,
+    "estado_via": "Correcto; curva a la izquierda de radio 1000 m, nivelación longitudinal horizontal",
+    "otro": "Bloqueo automático con control de tráfico centralizado (CTC) en Bilbao; en mando central en el momento del incidente; radiotelefonía modalidad C; media semanal de 361 circulaciones por la estación"
+   },
+   "pagina": 5,
+   "cita": "de la línea 790 de la Red de Ancho Métrico (RAM, antigua Feve) La Asunción Universidad – Aranguren, el",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "No existían condiciones meteorológicas adversas",
+   "pagina": 11,
+   "cita": "En el momento del suceso no existían condiciones meteorológicas adversas.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Vizcaya",
+    "municipio": null,
+    "estacion": "Zalla"
+   },
+   "pagina": 5,
+   "cita": "El día 27 de octubre de 2013 a las 08:31 horas en la estación de Zalla (Vizcaya) situada en el PK 2+057",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "No existían condiciones meteorológicas adversas",
+   "pagina": 11,
+   "cita": "En el momento del suceso no existían condiciones meteorológicas adversas.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal S2/2 baja de 4 focos (PK 2+185) en indicación de parada, con buena visibilidad; señal E1 (PK 2+395); señal E2 (PK 1+601) en aviso de parada; baliza ASFA de pie de señal S2/2; señal avanzada E'2",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal S2/2 baja de 4 focos (PK 2+185) en indicación de parada, con buena visibilidad; señal E1 (PK 2+395); señal E2 (PK 1+601) en aviso de parada; baliza ASFA de pie de señal S2/2; señal avanzada E'2",
+    "tipo_via": "Vía única con una vía de apartado (vía 2) en estación; enclavamiento electrónico",
+    "velocidad_maxima": "80 km/h (trayecto Balmaseda – Aranguren, Consigna Serie C nº 4/2011 DGI); velocidad máxima de paso por estación según cuadros de marcha: 70 km/h",
+    "ancho": "Métrico (RAM, antigua Feve)",
+    "electrificacion": null,
+    "estado_via": "Correcto; curva a la izquierda de radio 1000 m, nivelación longitudinal horizontal",
+    "otro": "Bloqueo automático con control de tráfico centralizado (CTC) en Bilbao; en mando central en el momento del incidente; radiotelefonía modalidad C; media semanal de 361 circulaciones por la estación"
+   },
+   "pagina": 5,
+   "cita": "de la línea 790 de la Red de Ancho Métrico (RAM, antigua Feve) La Asunción Universidad – Aranguren, el",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad C.",
+   "pagina": 11,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 08904: UT 3601-3602, 2 vehículos, 8 ejes, 71 m, 56 t, tipo 80 (Vmax 80 km/h). Tren 73101: locomotora 1971 + rama El Transcantábrico Gran Lujo, tipo 70 (Vmax 70 km/h)",
+    "averia": "Ninguna; el material rodante funcionó correctamente",
+    "mantenimiento": "No se menciona problema de mantenimiento; registrador de seguridad del automotor 3601 y de la locomotora (1971/1917) confirmaron velocidades y tiempos correctos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Despiste del maquinista tras la parada comercial: no comprobó la indicación de la señal de salida antes de reanudar la marcha",
+    "Tiempo de reacción insuficiente: solo 3 segundos entre la aplicación de la seta de urgencia y el paso por la baliza ASFA",
+    "Velocidad de 29 km/h al aplicar el freno de urgencia, insuficiente para detenerse antes de la baliza"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 08904 se encuentra habilitado para la conducción de vehículos ferroviarios en \nvirtud de la capacitación adquirida de conformidad con el estatuto propio y la normativa legal \naplicable a Feve. \nTiene una antigüedad en el cargo de fecha 19/03/2001. \n\n## Página 13\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0068/2013 ocurrido el 27.10.2013 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-271013-251114-CIAF \n \n \nPág. 13 de 19 \nRealizó su último reciclaje formativo el 05/02/2013 y su último reconocimiento médico y psicotécnico el \n19/09/2012, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 12,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros de cercanías 08904 de Renfe Operadora, con origen Bilbao y destino La Calzada, circulaba por vía única y tras pasar la señal E2 en aviso de parada se estacionó en la vía 2 de la estación de Zalla para realizar una parada comercial de un minuto. En sentido contrario, el tren turístico 73101 (El Transcantábrico Gran Lujo), procedente de Mercadillo-Villasana con destino Bilbao, se detuvo ante la señal de entrada E1. Ambos trenes debían cruzarse en dicha estación. Una vez terminada la parada comercial, el maquinista del 08904 reanudó la marcha sin percatarse de que la señal de salida S2/2 estaba en indicación de parada. Cuando se dio cuenta, aplicó el freno de urgencia (seta) a 29 km/h tras unos 50 metros de recorrido, pero tres segundos después el sistema ASFA activó el freno de emergencia al pasar por la baliza de pie de la señal a 25 km/h. El tren quedó detenido en vía 2, rebasando la señal S2/2 en 12 metros, sin llegar a la aguja A1, a unos 191 metros del tren 73101. Se produjo un conato de colisión. El maquinista informó al puesto de mando de Bilbao, que autorizó por telefonema el retroceso del tren hasta su punto de estacionamiento. Ambos trenes continuaron después hacia sus destinos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del maquinista del tren 08904 por falta de atención en la conducción, al no cumplimentar la orden de parada de la señal S2/2 e incumplir el artículo 2/04/00 del Reglamento de Señales de Feve",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Despiste del maquinista tras la parada comercial: no comprobó la indicación de la señal de salida antes de reanudar la marcha",
+    "Tiempo de reacción insuficiente: solo 3 segundos entre la aplicación de la seta de urgencia y el paso por la baliza ASFA",
+    "Velocidad de 29 km/h al aplicar el freno de urgencia, insuficiente para detenerse antes de la baliza"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 5,
+   "cita": "Recomendación Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones. 2. HECHOS INMEDIATOS DEL SUCESO 2.1. SUCESO 2.1.1. Datos Día / Hora: 27.10.2013 / 08:31 Lugar: Estación d",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "08:29:10",
+     "evento": "Tren 08904 en circuito de aguja A2 con señal S2/2 en parada; tren 73101 se aproxima a señal E1"
+    },
+    {
+     "hora": "08:29:21",
+     "evento": "Tren 08904 en circuito de estacionamiento de vía 2; señal S2/2 sigue en parada"
+    },
+    {
+     "hora": "08:29:42",
+     "evento": "Tren 08904 se detiene en vía 2 para parada comercial (permanece 24 segundos)"
+    },
+    {
+     "hora": "08:30:06",
+     "evento": "Tren 08904 reanuda la marcha"
+    },
+    {
+     "hora": "08:30:17",
+     "evento": "Tren 73101 se detiene ante señal E1 (PK 2+395); puesto de mando realiza itinerario de paso por vía 1 para 73101"
+    },
+    {
+     "hora": "08:30:19",
+     "evento": "Maquinista del 08904 aplica freno de urgencia (seta) a 29 km/h, tras ~50 m y 13 s desde arranque"
+    },
+    {
+     "hora": "08:30:21",
+     "evento": "Tren 08904 rebasa señal S2/2 y ocupa CVA1; señal E1 pasa a indicación de parada"
+    },
+    {
+     "hora": "08:30:22",
+     "evento": "ASFA aplica freno de emergencia al paso por baliza de señal S2/2 a 25 km/h"
+    },
+    {
+     "hora": "08:30:27",
+     "evento": "Tren 08904 queda detenido, rebasando señal S2/2 en 12 m, sin llegar a aguja A1 (PK 2+239)"
+    },
+    {
+     "hora": "08:31",
+     "evento": "Hora oficial del incidente; conato de colisión, distancia entre trenes 191 m"
+    },
+    {
+     "hora": "08:32:05",
+     "evento": "Tren 08904 inicia movimiento de retroceso a zona de estacionamiento de vía 2"
+    },
+    {
+     "hora": "08:32:25",
+     "evento": "Tren 73101 reinicia la marcha con itinerario de paso por vía 1"
+    },
+    {
+     "hora": "08:33:09",
+     "evento": "Tren 08904 queda nuevamente detenido en punto de estacionamiento"
+    },
+    {
+     "hora": "09:08",
+     "evento": "Jefe de investigación de Adif comunica el suceso a la CIAF por telefonía móvil"
+    },
+    {
+     "hora": "09:55",
+     "evento": "Prueba de alcoholemia al maquinista del 08904 en Balmaseda: resultado negativo (0,00 mg/1000 ml)"
+    },
+    {
+     "hora": null,
+     "evento": "2013-10-29: El Pleno de la CIAF acuerda abrir la investigación"
+    },
+    {
+     "hora": null,
+     "evento": "2014-01-20: Renfe Operadora entrega su informe particular"
+    },
+    {
+     "hora": null,
+     "evento": "2014-03-05: Adif entrega su informe particular"
+    },
+    {
+     "hora": null,
+     "evento": "2014-11-25: Firma del informe final"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0068/2013",
+ "expediente": "0068/13",
+ "anio": 2013,
+ "titulo": "Incidente en estación de Zalla (Vizcaya): rebase indebido de señal y conato de colisión entre trenes de Renfe Operadora",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_271013_251114_CIAF.md"
+}

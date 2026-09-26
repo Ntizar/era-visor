@@ -1,0 +1,853 @@
+{
+ "id": "IF-141008-210409-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/DB83E9AC-8DCA-4875-A236-EC32495C605C/47000/IF141008210409CIAF.pdf",
+ "pdf": "pdfs/ES/IF-141008-210409-CIAF.pdf",
+ "md5_pdf": "640a9a6a2a7ff4e3c5a6a9e1c1f08aa7",
+ "paginas_md": 13,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 8,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0070/2008",
+   "pagina": 1,
+   "cita": "nº 0070/2008 ocurrido el 14.10.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 14 de octubre de 2008, el tren de cercanías 27398 arrolló a una persona no autorizada que se encontraba entre las agujas 2 y 4 de la entrada a la estación de Leganés. La víctima, un varón de 45 años vecino de la zona, falleció en el lugar. El informe concluye que el accidente se debió al tránsito ilegal de la víctima por la vía, sin responsabilidad del personal ferroviario ni fallos técnicos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-10-14",
+    "hora": "14:46",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Leganés",
+     "pk": "13,171",
+     "linea": "500 Madrid Puerta de Atocha - Valencia de Alcántara",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Entrada de la estación, entre las agujas 2 y 4, lado Villaverde Alto. Tramo recto con buena visibilidad y totalmente vallado."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 14 de octubre de 2008, a las 14:46 horas, el tren de cercanías 27398, de la empresa",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno en material rodante, infraestructura o medio ambiente",
+    "afectacion_servicio": "Retraso total de 36 minutos en varios trenes de cercanías"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nDadas las características del suceso, no se establecen \nrecomendaciones. \n \n \n \n \n \n \n \nMadrid, 21 de abril de 2009. \n \n \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0070/2008 ocurrido el 14.10.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-141008-210409-CIAF \n \n \nPág. 12 de 13\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA INVESTIGACIÓN  \nDEL ACCIDENTE FERROVIARIO Nº 0070/2008 \nOCURRIDO EL DÍA 14.10.2008 \nEN LA ESTACIÓN DE LEGANÉS \n\n## Página 13\n\n \n \n \nInvestigación del accidente \nnº 0070/2008 ocurrido el 14.10.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-141008-210409-CIAF \n \n \nPág. 13 de 13\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 21 de abril \nde 2009, analizado el expediente nº 0070/2008 del accidente acaecido el 14.10.2008 en la estación de \nLeganés, de la línea 500 Madrid Puerta de Atocha - Valencia de Alcántara, se aprueba como definitivo \nel informe particular presentado por el técnico investigador con la siguiente recomendación: \n \nDestinatario \nNúmero \nRecomendación \n \n \nDadas las características del suceso, no se establecen \nrecomendaciones. \n \n \n \nMadrid, 21 de abril de 2009",
+   "pagina": 11,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación Dadas las características del suceso, no se establecen recomendaciones. Madrid, 21 de abril de 2009. ## Página 12 Investigación",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "ferroviaria Renfe Operadora, arrolla a una persona que se encontraba en las inmediaciones de las",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-10-14",
+   "pagina": 3,
+   "cita": "El día 14 de octubre de 2008, a las 14:46 horas, el tren de cercanías 27398, de la empresa",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "14:46",
+   "pagina": 3,
+   "cita": "El día 14 de octubre de 2008, a las 14:46 horas, el tren de cercanías 27398, de la empresa",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Leganés",
+    "pk": "13,171",
+    "linea": "500 Madrid Puerta de Atocha - Valencia de Alcántara",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Entrada de la estación, entre las agujas 2 y 4, lado Villaverde Alto. Tramo recto con buena visibilidad y totalmente vallado."
+   },
+   "pagina": 3,
+   "cita": "agujas 2 y 4, a la entrada de la estación de Leganés, procedente de Madrid.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 500 Madrid Puerta de Atocha - Valencia de Alcántara, tramo Villaverde Alto - Leganés",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Automotor serie 446 (motores 446139/123)",
+    "averia": "Ninguna",
+    "mantenimiento": "Equipos de seguridad funcionaron correctamente según registrador"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "A las 14:46 horas, el tren de cercanías 27398 de Renfe Operadora, procedente de Madrid, entraba en la estación de Leganés. A la altura de las agujas 2 y 4, el maquinista percibió un golpe seco en el lateral derecho del tren. Tras verificar los espejos retrovisores sin observar anomalías visibles, comunicó el suceso al puesto de mando de Madrid-Atocha y realizó una parada normal en la estación. Poco después, el tren 19413, que circulaba por el mismo tramo, informó al puesto de mando de la presencia de un hombre tirado junto a un poste de electrificación. La Policía Nacional confirmó posteriormente la defunción de la víctima.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Leganés",
+    "pk": "13,171",
+    "linea": "500 Madrid Puerta de Atocha - Valencia de Alcántara",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Entrada de la estación, entre las agujas 2 y 4, lado Villaverde Alto. Tramo recto con buena visibilidad y totalmente vallado."
+   },
+   "pagina": 3,
+   "cita": "agujas 2 y 4, a la entrada de la estación de Leganés, procedente de Madrid.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno en material rodante, infraestructura o medio ambiente",
+    "afectacion_servicio": "Retraso total de 36 minutos en varios trenes de cercanías"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal",
+     "implicacion": "Condujo el tren 27398. Percibió el impacto, verificó visualmente sin detectar anomalía inmediata y notificó correctamente al puesto de mando. Su actuación fue considerada correcta."
+    }
+   ],
+   "pagina": 5,
+   "cita": " El Maquinista principal del tren de viajeros 27398.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "27398",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Ninguno"
+    },
+    {
+     "numero": "19413",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Ninguno"
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 14 de octubre de 2008, a las 14:46 horas, el tren de cercanías 27398, de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Automotor serie 446 (motores 446139/123)",
+    "averia": "Ninguna",
+    "mantenimiento": "Equipos de seguridad funcionaron correctamente según registrador"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": null,
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "Si",
+    "estado_via": "Buena visibilidad, tramo recto, totalmente vallado perimetralmente",
+    "otro": "Bloqueo de control automático (BCA). Radiotelefonía modalidad A."
+   },
+   "pagina": 5,
+   "cita": "Trayecto de vía doble electrificada con bloqueo de control automático (BCA).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno en material rodante, infraestructura o medio ambiente",
+    "afectacion_servicio": "Retraso total de 36 minutos en varios trenes de cercanías"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno en material rodante, infraestructura o medio ambiente",
+    "afectacion_servicio": "Retraso total de 36 minutos en varios trenes de cercanías"
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno en material rodante, infraestructura o medio ambiente",
+    "afectacion_servicio": "Retraso total de 36 minutos en varios trenes de cercanías"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor serie 446 (motores 446139/123)",
+    "averia": "Ninguna",
+    "mantenimiento": "Equipos de seguridad funcionaron correctamente según registrador"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": null,
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "Si",
+    "estado_via": "Buena visibilidad, tramo recto, totalmente vallado perimetralmente",
+    "otro": "Bloqueo de control automático (BCA). Radiotelefonía modalidad A."
+   },
+   "pagina": 5,
+   "cita": "Trayecto de vía doble electrificada con bloqueo de control automático (BCA).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": "Leganés"
+   },
+   "pagina": 3,
+   "cita": "agujas 2 y 4, a la entrada de la estación de Leganés, procedente de Madrid.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": null,
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "Si",
+    "estado_via": "Buena visibilidad, tramo recto, totalmente vallado perimetralmente",
+    "otro": "Bloqueo de control automático (BCA). Radiotelefonía modalidad A."
+   },
+   "pagina": 5,
+   "cita": "Trayecto de vía doble electrificada con bloqueo de control automático (BCA).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor serie 446 (motores 446139/123)",
+    "averia": "Ninguna",
+    "mantenimiento": "Equipos de seguridad funcionaron correctamente según registrador"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Víctima transitó sin autorización",
+    "Caminó por vías tras andenes"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "A las 14:46 horas, el tren de cercanías 27398 de Renfe Operadora, procedente de Madrid, entraba en la estación de Leganés. A la altura de las agujas 2 y 4, el maquinista percibió un golpe seco en el lateral derecho del tren. Tras verificar los espejos retrovisores sin observar anomalías visibles, comunicó el suceso al puesto de mando de Madrid-Atocha y realizó una parada normal en la estación. Poco después, el tren 19413, que circulaba por el mismo tramo, informó al puesto de mando de la presencia de un hombre tirado junto a un poste de electrificación. La Policía Nacional confirmó posteriormente la defunción de la víctima.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar entre las agujas 2 y 4 de la entrada a la estación de Leganés. Se desconoce \nel punto kilométrico concreto puesto que el maquinista del tren 27398, que es el primero que avisa al \npuesto de mando, no es consciente de la presencia de la víctima. Circulan otros dos trenes (19574 y \n19413) hasta que el maquinista del último de ellos avisa de la presencia del cuerpo de la víctima. \nDel análisis del registrador de seguridad del automotor se desprende que el tren circulaba a una \nvelocidad inferior a su máxima permitida en el tramo. \nSegún lo declarado por el maquinista, al oír un golpe seco en la parte derecha del tren, mira por el \nespejo retrovisor sin ver nada anómalo y comunica el suceso al puesto de mando, por lo que la \nactuación del maquinista fue correcta. \nLas jornadas de trabajo del maquinista cumplen lo establecido en la Disposición adicional \nduodécima del Reglamento del Sector Ferroviario (RD 2387/2004, de 30 de diciembre): Tiempos \nmáximos de conducción en el transporte ferroviario.  \nLos equipos de seguridad del tren funcionaban correctamente en el momento del accidente y de \nacuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nLa zona donde suceden los hechos es de muy difícil acceso, dado que hay un vallado perimetral \nque impide el acceso a las vías desde la ciudad. La única forma de llegar al lugar del accidente es, \ndesde la estación, continuar caminando por las vías una vez que se han acabado los andenes.  \nDado que el hombre vivía en las inmediaciones, es de suponer que conocía la zona perfectamente. \n \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0070/2008 ocurrido el 14.10.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-141008-210409-CIAF \n \n \nPág. 11 de 13\n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como el informe particular Renfe Operadora, el técnico responsable de la investigación concluye \nque: \nEl accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba el tren, sin \nestar autorizado para ello.",
+   "pagina": 10,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Víctima transitó sin autorización",
+    "Caminó por vías tras andenes"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nDadas las características del suceso, no se establecen \nrecomendaciones. \n \n \n \n \n \n \n \nMadrid, 21 de abril de 2009. \n \n \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0070/2008 ocurrido el 14.10.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-141008-210409-CIAF \n \n \nPág. 12 de 13\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA INVESTIGACIÓN  \nDEL ACCIDENTE FERROVIARIO Nº 0070/2008 \nOCURRIDO EL DÍA 14.10.2008 \nEN LA ESTACIÓN DE LEGANÉS \n\n## Página 13\n\n \n \n \nInvestigación del accidente \nnº 0070/2008 ocurrido el 14.10.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-141008-210409-CIAF \n \n \nPág. 13 de 13\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 21 de abril \nde 2009, analizado el expediente nº 0070/2008 del accidente acaecido el 14.10.2008 en la estación de \nLeganés, de la línea 500 Madrid Puerta de Atocha - Valencia de Alcántara, se aprueba como definitivo \nel informe particular presentado por el técnico investigador con la siguiente recomendación: \n \nDestinatario \nNúmero \nRecomendación \n \n \nDadas las características del suceso, no se establecen \nrecomendaciones. \n \n \n \nMadrid, 21 de abril de 2009",
+   "pagina": 11,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación Dadas las características del suceso, no se establecen recomendaciones. Madrid, 21 de abril de 2009. ## Página 12 Investigación",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "14:46",
+     "evento": "Arrollamiento de la persona por el tren 27398"
+    },
+    {
+     "hora": null,
+     "evento": "Comunicación del golpe seco por parte del maquinista del tren 27398 al puesto de mando"
+    },
+    {
+     "hora": null,
+     "evento": "El tren 19413 informa de la presencia del cuerpo de la víctima"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0070/2008",
+ "expediente": "0070/08",
+ "anio": 2008,
+ "titulo": "Informe Final sobre la investigación del accidente ferroviario nº 0070/2008 ocurrido el día 14.10.2008 en la estación de Leganés",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-141008-210409-CIAF.md"
+}

@@ -1,0 +1,897 @@
+{
+ "id": "ID-081006-020307",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-081006-020307.pdf",
+ "pdf": "pdfs/ES/ID-081006-020307.pdf",
+ "md5_pdf": "2d84526d49e8488e71892b754ee1c018",
+ "paginas_md": 6,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 12,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0036/2006",
+   "pagina": 1,
+   "cita": "Nº 0036/2006 OCURRIDO EL DÍA 08.10.2006 ID-081006-020307 Pág. 1 de 6 ## Página 2 Investigación del accidente nº 36/2006 ocurrido el 08.10.2006 SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 8 de octubre de 2006, a las 11:40, una persona de 55 años que intentaba cruzar las vías por un lugar no autorizado resultó arrollada por el tren de Larga Distancia nº 1111 de Renfe en el pk 625,120 de la Línea Madrid-Barcelona, entre Cunit y Sant Vicent de Calders (Barcelona). La víctima resbaló y cayó sobre la vía I al intentar cruzar desde el lado mar al lado montaña. Fue evacuada al Hospital Juan XXIII donde falleció. No se produjeron daños materiales. La investigación concluyó que el accidente se originó por el tránsito indebido de la víctima por un paso irregular existente en la zona, y recomendó eliminar dicho paso con un vallado completo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2006-10-08",
+    "hora": "11:40",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Cunit – Sant Vicent de Calders",
+     "pk": "625,120",
+     "linea": "Madrid-Barcelona",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Plena vía en el casco urbano de Segur de Calafell, a unos 50 metros del apeadero de Segur de Calafell, entre las estaciones de Cunit y Sant Vicent de Calders. Tramo de doble vía con traza recta. Existe un paso inferior a unos 100 metros del lugar del arrollamiento. Lado mar sin cerramiento con alta vegetación; lado montaña con muro de fábrica de 0,50 m y vallado metálico con una apertura considerable que denota tránsito vicioso (paso irregular)."
+    }
+   },
+   "pagina": 3,
+   "cita": "Alicante por vía I, el día 8 de octubre de 2006 a las 11 horas y 40 minutos en el punto",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Vía I interceptada de 11:40 a 12:40 (60 min). Retrasos acumulados: 70 min en 3 trenes de largo recorrido; 21 min en 4 trenes de cercanías (1 suprimido); 65 min en 3 trenes regionales."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Tránsito indebido de la víctima que cruzó las vías por un lugar no autorizado (paso irregular) y no tuvo en cuenta las indicaciones acústicas del tren (silbato).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Paso irregular existente en la zona por apertura del vallado metálico en el lado montaña, que denota tránsito vicioso.",
+    "Ausencia de cerramiento/vallado en el lado mar con alta vegetación.",
+    "Proximidad del apeadero de Segur de Calafell (50 m) que puede favorecer el cruce irregular de personas."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Falta de un vallado completo que impida el acceso indebido a la infraestructura ferroviaria en el entorno urbano de Segur de Calafell."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Eliminar el paso irregular existente en la zona donde se produjo el arrollamiento mediante un completo vallado por el administrador de la infraestructura (Adif).",
+     "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Eliminar el paso irregular existente en la zona donde se produjo el arrollamiento mediante un completo vallado por el administrador de la infraestructura (Adif).",
+     "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de una persona",
+   "pagina": 2,
+   "cita": "(Adif), comunicó por correo electrónico que se había producido el arrollamiento de una",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó por correo electrónico que se había producido el arrollamiento de una",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2006-10-08",
+   "pagina": 3,
+   "cita": "Alicante por vía I, el día 8 de octubre de 2006 a las 11 horas y 40 minutos en el punto",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "11:40",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:hora"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Cunit – Sant Vicent de Calders",
+    "pk": "625,120",
+    "linea": "Madrid-Barcelona",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Plena vía en el casco urbano de Segur de Calafell, a unos 50 metros del apeadero de Segur de Calafell, entre las estaciones de Cunit y Sant Vicent de Calders. Tramo de doble vía con traza recta. Existe un paso inferior a unos 100 metros del lugar del arrollamiento. Lado mar sin cerramiento con alta vegetación; lado montaña con muro de fábrica de 0,50 m y vallado metálico con una apertura considerable que denota tránsito vicioso (paso irregular)."
+   },
+   "pagina": 2,
+   "cita": "Trayecto: Cunit – Sant Vicent de Calders.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Madrid-Barcelona",
+   "pagina": 2,
+   "cita": "y Sant Vicent de Calders en el punto kilométrico 625,120 de la Línea Madrid-Barcelona, en la",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Composición 101104-8",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "por la composición 101104-8, que efectuaba el itinerario Barcelona San Andrés Condal-",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "Una persona que intentaba cruzar las vías por lugar no autorizado resultó arrollada por el tren de Larga Distancia nº 1111 de Renfe, compuesto por la composición 101104-8, que efectuaba el itinerario Barcelona San Andrés Condal-Alicante por vía I, el día 8 de octubre de 2006 a las 11:40 en el punto kilométrico 625,120 de la línea Madrid-Barcelona, en el casco urbano de Segur de Calafell, a unos 50 metros del apeadero. La víctima se dispuso a cruzar las vías desde el lado mar al lado montaña, resbalando al llegar a vía I y cayendo sobre ésta. El maquinista hizo uso del silbato al observar a la persona cruzando, pero la víctima continuó su recorrido metiéndose en la vía del tren y cayó sobre el carril derecho en el sentido de la marcha, produciéndose el arrollamiento. En primera instancia la víctima resultó herida grave siendo evacuada al Hospital Juan XXIII donde falleció. Era un varón de 55 años de edad. No se produjeron daños materiales. La vía I quedó interceptada desde las 11:40 hasta las 12:40.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Cunit – Sant Vicent de Calders",
+    "pk": "625,120",
+    "linea": "Madrid-Barcelona",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Plena vía en el casco urbano de Segur de Calafell, a unos 50 metros del apeadero de Segur de Calafell, entre las estaciones de Cunit y Sant Vicent de Calders. Tramo de doble vía con traza recta. Existe un paso inferior a unos 100 metros del lugar del arrollamiento. Lado mar sin cerramiento con alta vegetación; lado montaña con muro de fábrica de 0,50 m y vallado metálico con una apertura considerable que denota tránsito vicioso (paso irregular)."
+   },
+   "pagina": 2,
+   "cita": "Trayecto: Cunit – Sant Vicent de Calders.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Vía I interceptada de 11:40 a 12:40 (60 min). Retrasos acumulados: 70 min en 3 trenes de largo recorrido; 21 min en 4 trenes de cercanías (1 suprimido); 65 min en 3 trenes regionales."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "El maquinista informó del suceso al Puesto de Mando que cursó aviso a Seguridad \nCorporativa de ADIF y RENFE, Operadores afectados, Logística, Jefatura Técnica de \nOperaciones de Barcelona, Gerencia de Seguridad en la Circulación de ADIF y RENFE \nrespectivamente y Gire. \n \nAgentes de Adif se personaron en el lugar del accidente procediendo a la toma de datos del \naccidente y realización de la prueba de control de alcoholemia al maquinista. \nSe realizó la prueba de control de alcoholemia al maquinista con resultado negativo \n(0,00mg/1000ml.). \nLa vía I quedó interceptada desde las 11 horas y 40 minutos quedando reanudada en \ncondiciones normales a las 12 horas y 40 minutos. \n \n \n \n \n \n \nID-081006-020307 \n \n \nPág. 3 de 6\n\n## Página 4\n\n \nInvestigación del accidente \nnº 36/2006 ocurrido el 08.10.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 1111",
+     "implicacion": "Circulaba a 130 km/h (máximo permitido 160 km/h). Observó a la persona cruzando, hizo uso del silbato, efectuó parada de emergencia y comunicó al PM. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada del día: inicio 10:40, fin 14:14. Jornada anterior: inicio 17:38, fin 21:13. Jornada 48 h antes: inicio 12:40, fin 18:30."
+    },
+    {
+     "rol": "Víctima (persona arrollada)",
+     "implicacion": "Varón de 55 años. Intentó cruzar las vías por lugar no autorizado desde el lado mar al lado montaña, resbaló y cayó sobre la vía I. Herido grave, falleció en el Hospital Juan XXIII."
+    }
+   ],
+   "pagina": 3,
+   "cita": "-  El maquinista del tren 1111.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "1111",
+     "tipo": "Larga Distancia",
+     "operador": "Renfe",
+     "danos": "No se produjeron daños materiales."
+    }
+   ],
+   "pagina": 3,
+   "cita": "arrollada por el tren de Larga Distancia nº 1111 de la empresa ferroviaria Renfe, compuesto",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Composición 101104-8",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "por la composición 101104-8, que efectuaba el itinerario Barcelona San Andrés Condal-",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado con CTC. Tramo de doble vía con traza recta.",
+    "tipo_via": "Doble vía, traza recta",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Lado mar: sin cerramiento/vallado, alta vegetación. Lado montaña: muro de fábrica de 0,50 m y vallado metálico con apertura considerable (paso irregular/tránsito vicioso). Paso inferior a unos 100 m del lugar del arrollamiento. Apeadero de Segur de Calafell a unos 50 m."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: bloqueo automático banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático banalizado con CTC. Tramo de doble vía con traza recta.",
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: bloqueo automático banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Vía I interceptada de 11:40 a 12:40 (60 min). Retrasos acumulados: 70 min en 3 trenes de largo recorrido; 21 min en 4 trenes de cercanías (1 suprimido); 65 min en 3 trenes regionales."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Vía I interceptada de 11:40 a 12:40 (60 min). Retrasos acumulados: 70 min en 3 trenes de largo recorrido; 21 min en 4 trenes de cercanías (1 suprimido); 65 min en 3 trenes regionales."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Vía I interceptada de 11:40 a 12:40 (60 min). Retrasos acumulados: 70 min en 3 trenes de largo recorrido; 21 min en 4 trenes de cercanías (1 suprimido); 65 min en 3 trenes regionales."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Composición 101104-8",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "por la composición 101104-8, que efectuaba el itinerario Barcelona San Andrés Condal-",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado con CTC. Tramo de doble vía con traza recta.",
+    "tipo_via": "Doble vía, traza recta",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Lado mar: sin cerramiento/vallado, alta vegetación. Lado montaña: muro de fábrica de 0,50 m y vallado metálico con apertura considerable (paso irregular/tránsito vicioso). Paso inferior a unos 100 m del lugar del arrollamiento. Apeadero de Segur de Calafell a unos 50 m."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: bloqueo automático banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Segur de Calafell"
+   },
+   "pagina": 2,
+   "cita": "y Sant Vicent de Calders en el punto kilométrico 625,120 de la Línea Madrid-Barcelona, en la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático banalizado con CTC. Tramo de doble vía con traza recta.",
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: bloqueo automático banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado con CTC. Tramo de doble vía con traza recta.",
+    "tipo_via": "Doble vía, traza recta",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Lado mar: sin cerramiento/vallado, alta vegetación. Lado montaña: muro de fábrica de 0,50 m y vallado metálico con apertura considerable (paso irregular/tránsito vicioso). Paso inferior a unos 100 m del lugar del arrollamiento. Apeadero de Segur de Calafell a unos 50 m."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: bloqueo automático banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Composición 101104-8",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "por la composición 101104-8, que efectuaba el itinerario Barcelona San Andrés Condal-",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Cruce de vías por lugar no autorizado",
+    "Resbalamiento y caída sobre la vía",
+    "Vallado metálico abierto en zona"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "Una persona que intentaba cruzar las vías por lugar no autorizado resultó arrollada por el tren de Larga Distancia nº 1111 de Renfe, compuesto por la composición 101104-8, que efectuaba el itinerario Barcelona San Andrés Condal-Alicante por vía I, el día 8 de octubre de 2006 a las 11:40 en el punto kilométrico 625,120 de la línea Madrid-Barcelona, en el casco urbano de Segur de Calafell, a unos 50 metros del apeadero. La víctima se dispuso a cruzar las vías desde el lado mar al lado montaña, resbalando al llegar a vía I y cayendo sobre ésta. El maquinista hizo uso del silbato al observar a la persona cruzando, pero la víctima continuó su recorrido metiéndose en la vía del tren y cayó sobre el carril derecho en el sentido de la marcha, produciéndose el arrollamiento. En primera instancia la víctima resultó herida grave siendo evacuada al Hospital Juan XXIII donde falleció. Era un varón de 55 años de edad. No se produjeron daños materiales. La vía I quedó interceptada desde las 11:40 hasta las 12:40.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "PARTICULARES DEL ADMINISTRADOR DE LA INFRAESTRUCTURA Y DE LA \nEMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nAdif : “El accidente se p oduce por realizar un t ánsito indebido, y no tener en cuenta \nlas indicaciones acústicas del tren. Resultando gravemente herido y posterior \nfallecimiento.”. \nr\nr\n \nr\nRenfe: “El arrollamiento se produce por un tránsito indebido de la persona que cruzaba\npor un punto inadecuado de la misma, existiendo un paso inferior a unos 100 metros \ndel punto en el que se produce el ar ollamiento”. \nPor tanto ambas conclusiones son coincidentes entre sí en cuanto a la causa del accidente.",
+   "pagina": 5,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES INCLUIDAS EN LOS INFORMES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Tránsito indebido de la víctima que cruzó las vías por un lugar no autorizado (paso irregular) y no tuvo en cuenta las indicaciones acústicas del tren (silbato).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Paso irregular existente en la zona por apertura del vallado metálico en el lado montaña, que denota tránsito vicioso.",
+    "Ausencia de cerramiento/vallado en el lado mar con alta vegetación.",
+    "Proximidad del apeadero de Segur de Calafell (50 m) que puede favorecer el cruce irregular de personas."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "A la vista de los datos aportados, se estima que el accidente tuvo su origen en el tránsito \nindebido de la víctima que resultó arrollada por el tren nº 1111 cuando se disponía a cruzar \npor lugar indebido y no autorizado, siendo éste un tramo de doble vía férrea.",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES A la vista de los datos aportados, se estima que el accidente tuvo su origen en el tránsito indebido de la víctima que resultó arrollada por el tren nº 1111 cuando se disponía a cruzar por lugar indeb",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "A la vista de los datos aportados, se estima que el accidente tuvo su origen en el tránsito \nindebido de la víctima que resultó arrollada por el tren nº 1111 cuando se disponía a cruzar \npor lugar indebido y no autorizado, siendo éste un tramo de doble vía férrea.",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES A la vista de los datos aportados, se estima que el accidente tuvo su origen en el tránsito indebido de la víctima que resultó arrollada por el tren nº 1111 cuando se disponía a cruzar por lugar indeb",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "El maquinista informó del suceso al Puesto de Mando que cursó aviso a Seguridad \nCorporativa de ADIF y RENFE, Operadores afectados, Logística, Jefatura Técnica de \nOperaciones de Barcelona, Gerencia de Seguridad en la Circulación de ADIF y RENFE \nrespectivamente y Gire. \n \nAgentes de Adif se personaron en el lugar del accidente procediendo a la toma de datos del \naccidente y realización de la prueba de control de alcoholemia al maquinista. \nSe realizó la prueba de control de alcoholemia al maquinista con resultado negativo \n(0,00mg/1000ml.). \nLa vía I quedó interceptada desde las 11 horas y 40 minutos quedando reanudada en \ncondiciones normales a las 12 horas y 40 minutos. \n \n \n \n \n \n \nID-081006-020307 \n \n \nPág. 3 de 6\n\n## Página 4\n\n \nInvestigación del accidente \nnº 36/2006 ocurrido el 08.10.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "El maquinista informó del suceso al Puesto de Mando que cursó aviso a Seguridad \nCorporativa de ADIF y RENFE, Operadores afectados, Logística, Jefatura Técnica de \nOperaciones de Barcelona, Gerencia de Seguridad en la Circulación de ADIF y RENFE \nrespectivamente y Gire. \n \nAgentes de Adif se personaron en el lugar del accidente procediendo a la toma de datos del \naccidente y realización de la prueba de control de alcoholemia al maquinista. \nSe realizó la prueba de control de alcoholemia al maquinista con resultado negativo \n(0,00mg/1000ml.). \nLa vía I quedó interceptada desde las 11 horas y 40 minutos quedando reanudada en \ncondiciones normales a las 12 horas y 40 minutos. \n \n \n \n \n \n \nID-081006-020307 \n \n \nPág. 3 de 6\n\n## Página 4\n\n \nInvestigación del accidente \nnº 36/2006 ocurrido el 08.10.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "El maquinista informó del suceso al Puesto de Mando que cursó aviso a Seguridad \nCorporativa de ADIF y RENFE, Operadores afectados, Logística, Jefatura Técnica de \nOperaciones de Barcelona, Gerencia de Seguridad en la Circulación de ADIF y RENFE \nrespectivamente y Gire. \n \nAgentes de Adif se personaron en el lugar del accidente procediendo a la toma de datos del \naccidente y realización de la prueba de control de alcoholemia al maquinista. \nSe realizó la prueba de control de alcoholemia al maquinista con resultado negativo \n(0,00mg/1000ml.). \nLa vía I quedó interceptada desde las 11 horas y 40 minutos quedando reanudada en \ncondiciones normales a las 12 horas y 40 minutos. \n \n \n \n \n \n \nID-081006-020307 \n \n \nPág. 3 de 6\n\n## Página 4\n\n \nInvestigación del accidente \nnº 36/2006 ocurrido el 08.10.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Eliminar el paso irregular existente en la zona donde se produjo el arrollamiento mediante un completo vallado por el administrador de la infraestructura (Adif).",
+     "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "11:40",
+     "evento": "Arrollamiento de la persona por el tren 1111 en el pk 625,120. La vía I queda interceptada."
+    },
+    {
+     "hora": "11:40",
+     "evento": "El maquinista efectúa parada de emergencia y comunica al Puesto de Mando la incidencia."
+    },
+    {
+     "hora": "12:40",
+     "evento": "La vía I queda reanudada en condiciones normales."
+    },
+    {
+     "hora": null,
+     "evento": "La víctima es evacuada al Hospital Juan XXIII donde fallece."
+    },
+    {
+     "hora": "2006-10-11",
+     "evento": "Elaboración del parte de accidente del maquinista."
+    },
+    {
+     "hora": "2007-03-02",
+     "evento": "Firma del informe definitivo por la Dirección General de Ferrocarriles."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0036/2006",
+ "expediente": "0036/2006",
+ "anio": 2006,
+ "titulo": "Arrollamiento de una persona por tren en la línea Madrid-Barcelona, entre Cunit y Sant Vicent de Calders (Barcelona)",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-081006-020307.md"
+}

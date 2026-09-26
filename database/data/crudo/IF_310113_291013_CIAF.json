@@ -1,0 +1,996 @@
+{
+ "id": "IF_310113_291013_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/5FF88FD9-BC8F-4113-8BF7-FC2A5DC58813/121905/IF310113291013CIAF.pdf",
+ "pdf": "pdfs/ES/IF_310113_291013_CIAF.pdf",
+ "md5_pdf": "5cec453f847a0fc9e559c26cba3cb69b",
+ "paginas_md": 19,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 18,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "12/13-1",
+     "Recomendación": "Se reitera la recomendación nº 1 realizada en el expediente 28/2012: Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción."
+    },
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "12/13-2",
+     "Recomendación": "Se reitera la recomendación nº 2 emitida en el expediente 74/2012: realizar auditoría sobre el cumplimiento de los ciclos de mantenimiento del material móvil adscrito a la Red de Ancho Métrico."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 19,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "12/13-1",
+     "Recomendación": "Se reitera la recomendación nº 1 realizada en el expediente 28/2012: Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción."
+    },
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "12/13-2",
+     "Recomendación": "Se reitera la recomendación nº 2 emitida en el expediente 74/2012: realizar auditoría sobre el cumplimiento de los ciclos de mantenimiento del material móvil adscrito a la Red de Ancho Métrico."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0012/2013",
+   "pagina": 1,
+   "cita": "nº 0012/2013 ocurrido el 31.01.2013",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 31 de enero de 2013, a las 15:36, el tren de mercancías 9565 de Renfe Operadora descarriló entre las estaciones de Unquera y Pesués, en la línea 770 de ancho métrico. Circulaba con exceso de velocidad por una curva de radio reducido con limitación permanente de 40 km/h, descarrilando los once primeros vagones de la composición. No hubo víctimas, pero se produjeron daños en material rodante, carga, infraestructura y carretera. La investigación concluyó un fallo humano del maquinista y reiteró recomendaciones sobre seguimiento de velocidades y mantenimiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2013-01-31",
+    "hora": "15:36",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Entre Unquera y Pesués",
+     "pk": "PK 457+381",
+     "linea": "770 Valdecilla - La Marga a Oviedo",
+     "provincia": "Cantabria",
+     "descripcion_lugar": "Municipio de Val de San Vicente. Curva a izquierdas de radio aproximado 110 metros, cercana al paso inferior de la carretera CA-181, tras un tramo metálico sobre un río y un túnel."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 31 de enero de 2013, a las 15:36 horas, en la red de ancho métrico (antes Feve) se produce el",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante y carga: 432.228 euros. Infraestructura: 168.705 euros. Carretera CA-181 y otros daños: 29.831 euros.",
+    "afectacion_servicio": "Circulación interrumpida entre Unquera y Cabezón de la Sal desde el 31 de enero de 2013 a las 15:36 hasta el 2 de febrero de 2013 a las 06:25. Se suprimieron 3 trenes de media distancia y 5 de mercancías, incluido el descarrilado. Se estableció PAT por carretera entre Cabezón de la Sal y Llanes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del maquinista por circular con exceso de velocidad, a 61 km/h, cuando la velocidad máxima permitida era de 40 km/h.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Exceso de velocidad sostenido superior a 50 km/h antes del punto de descarrilamiento.",
+    "Curva a izquierdas de radio aproximado 110 metros con limitación permanente de velocidad a 40 km/h.",
+    "Tracción permanente y circulación en pendiente en el sentido de la marcha.",
+    "Declaración del maquinista sobre pérdida de consciencia en el túnel, no confirmada como causa por el informe."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Falta de un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de velocidades máximas por el personal de conducción.",
+    "Incumplimiento del ciclo de mantenimiento R1 en la plataforma Sgh 9062 dentro del plazo de 1,5 años.",
+    "Reiteración de recomendaciones previas sobre control de velocidad y auditoría de mantenimiento en la red de ancho métrico."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Se reitera la recomendación nº 1 realizada en el expediente 28/2012: Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción.",
+    "Se reitera la recomendación nº 2 emitida en el expediente 74/2012: realizar auditoría sobre el cumplimiento de los ciclos de mantenimiento del material móvil adscrito a la Red de Ancho Métrico.",
+    "Se reitera la recomendación nº 1 realizada en el expediente 28/2012: Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción.",
+    "Se reitera la recomendación nº 2 emitida en el expediente 74/2012: realizar auditoría sobre el cumplimiento de los ciclos de mantenimiento del material móvil adscrito a la Red de Ancho Métrico."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Renfe Operadora",
+    "Renfe Operadora",
+    "Renfe Operadora"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Descarrilamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "descarrilamiento del tren de mercancías 9565 de la empresa ferroviaria Renfe Operadora, entre las",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2013-01-31",
+   "pagina": 3,
+   "cita": "El día 31 de enero de 2013, a las 15:36 horas, en la red de ancho métrico (antes Feve) se produce el",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "15:36",
+   "pagina": 3,
+   "cita": "El día 31 de enero de 2013, a las 15:36 horas, en la red de ancho métrico (antes Feve) se produce el",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Entre Unquera y Pesués",
+    "pk": "PK 457+381",
+    "linea": "770 Valdecilla - La Marga a Oviedo",
+    "provincia": "Cantabria",
+    "descripcion_lugar": "Municipio de Val de San Vicente. Curva a izquierdas de radio aproximado 110 metros, cercana al paso inferior de la carretera CA-181, tras un tramo metálico sobre un río y un túnel."
+   },
+   "pagina": 3,
+   "cita": "Plena vía (PK 457+381) entre las estaciones de Unquera y Pesués",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "770 Valdecilla - La Marga a Oviedo",
+   "pagina": 3,
+   "cita": "estaciones de Unquera y Pesués (Cantabria), en la línea 770 Valdecilla - La Marga a Oviedo. Circulando",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotoras 1614/1610; 14 vagones plataforma: 13 plataformas Sgh y una 2Ssg.",
+    "averia": "No se detectó avería en los sistemas de frenado; las pruebas verificaron su correcto funcionamiento. En la plataforma Sgh 9062 no se había realizado la primera revisión R1 dentro del plazo de 1,5 años.",
+    "mantenimiento": "Tren tipo 50, velocidad máxima 50 km/h, 56 ejes, 753 toneladas y 238 metros. Sgh 9062: autorización para circular y acta de reconocimiento de 5 de julio de 2010; torneado de ruedas el 1 de diciembre de 2011; parámetros de rodadura tras el accidente dentro de tolerancias."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "Los hechos ocurrieron el 31 de enero de 2013, a las 15:36 horas, en la red de ancho métrico, entre las estaciones de Unquera y Pesués, en la línea 770 Valdecilla - La Marga a Oviedo. El tren de mercancías 9565 de Renfe Operadora, con origen en El Berrón y destino Aritz, estaba formado por dos locomotoras y 14 vagones, y circulaba con exceso de velocidad superior a 50 km/h.\n\nEn el PK 457+381, próximo al paso inferior de la carretera CA-181, el tren abordó una curva a izquierdas de radio aproximado 110 metros, con una limitación permanente de velocidad de 40 km/h. En ese punto se produjo el descarrilamiento de los vagones 1º al 11º, quedando encarriladas las dos locomotoras de cabeza y los tres vagones de cola. Según la declaración del maquinista, sufrió una pérdida de consciencia en el túnel de Pesués y, al recobrarla, percibió que llevaba aproximadamente 50 km/h ante la limitación de 40 km/h, aplicando freno antes del descarrilamiento.\n\nNo se produjeron víctimas mortales ni heridos. Se registraron daños en los 11 vagones descarrilados, en la carga, en la infraestructura y en la carretera CA-181, sobre la que cayeron dos bobinas de acero. La circulación quedó interrumpida entre Unquera y Cabezón de la Sal hasta el restablecimiento con limitación temporal de velocidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Entre Unquera y Pesués",
+    "pk": "PK 457+381",
+    "linea": "770 Valdecilla - La Marga a Oviedo",
+    "provincia": "Cantabria",
+    "descripcion_lugar": "Municipio de Val de San Vicente. Curva a izquierdas de radio aproximado 110 metros, cercana al paso inferior de la carretera CA-181, tras un tramo metálico sobre un río y un túnel."
+   },
+   "pagina": 3,
+   "cita": "Plena vía (PK 457+381) entre las estaciones de Unquera y Pesués",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante y carga: 432.228 euros. Infraestructura: 168.705 euros. Carretera CA-181 y otros daños: 29.831 euros.",
+    "afectacion_servicio": "Circulación interrumpida entre Unquera y Cabezón de la Sal desde el 31 de enero de 2013 a las 15:36 hasta el 2 de febrero de 2013 a las 06:25. Se suprimieron 3 trenes de media distancia y 5 de mercancías, incluido el descarrilado. Se estableció PAT por carretera entre Cabezón de la Sal y Llanes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 9565, matrícula 6674",
+     "implicacion": "Conducía el tren. La investigación concluye que el descarrilamiento se produjo por fallo humano al circular con exceso de velocidad. Declaró una pérdida de consciencia en el túnel y prueba de alcoholemia negativa."
+    },
+    {
+     "rol": "Agente comercial del tren 9565, matrícula 8531",
+     "implicacion": "Acompañaba al tren. Declaró no haber observado anomalías en el maquinista. Realizó actuaciones de protección tras el accidente y prueba de alcoholemia negativa."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "9565",
+     "tipo": "Tren de mercancías",
+     "operador": "Renfe Operadora",
+     "danos": "Daños en los 11 vagones descarrilados y en la carga, valorados en 432.228 euros; las dos locomotoras de cabeza y los tres vagones de cola quedaron encarrilados."
+    }
+   ],
+   "pagina": 3,
+   "cita": "descarrilamiento del tren de mercancías 9565 de la empresa ferroviaria Renfe Operadora, entre las",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotoras 1614/1610; 14 vagones plataforma: 13 plataformas Sgh y una 2Ssg.",
+    "averia": "No se detectó avería en los sistemas de frenado; las pruebas verificaron su correcto funcionamiento. En la plataforma Sgh 9062 no se había realizado la primera revisión R1 dentro del plazo de 1,5 años.",
+    "mantenimiento": "Tren tipo 50, velocidad máxima 50 km/h, 56 ejes, 753 toneladas y 238 metros. Sgh 9062: autorización para circular y acta de reconocimiento de 5 de julio de 2010; torneado de ruedas el 1 de diciembre de 2011; parámetros de rodadura tras el accidente dentro de tolerancias."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Limitación permanente de velocidad a 40 km/h entre los PK 457+260 y 457+550, según consigna Serie C nº 3/2012 DGI.",
+    "tipo_via": "Vía única sin electrificar, con bloqueo telefónico.",
+    "velocidad_maxima": "80 km/h en el trayecto; limitación permanente de 40 km/h en la curva.",
+    "ancho": "Ancho métrico.",
+    "electrificacion": "No electrificada.",
+    "estado_via": "Los parámetros de ancho, peralte y flecha estaban dentro de tolerancias. La curva se encontraba sobreperaltada con 74 mm, frente a 57 mm para 40 km/h y radio 110 m.",
+    "otro": "Curva a izquierdas de radio aproximado 110 m y pendiente de 8 ‰; tramo anterior en recta de 387 m con pendiente de 16,94 ‰; dos pasos inferiores en terraplén, uno peatonal y otro para la carretera CA-181."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Limitación permanente de velocidad a 40 km/h entre los PK 457+260 y 457+550, según consigna Serie C nº 3/2012 DGI.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad C.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante y carga: 432.228 euros. Infraestructura: 168.705 euros. Carretera CA-181 y otros daños: 29.831 euros.",
+    "afectacion_servicio": "Circulación interrumpida entre Unquera y Cabezón de la Sal desde el 31 de enero de 2013 a las 15:36 hasta el 2 de febrero de 2013 a las 06:25. Se suprimieron 3 trenes de media distancia y 5 de mercancías, incluido el descarrilado. Se estableció PAT por carretera entre Cabezón de la Sal y Llanes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante y carga: 432.228 euros. Infraestructura: 168.705 euros. Carretera CA-181 y otros daños: 29.831 euros.",
+    "afectacion_servicio": "Circulación interrumpida entre Unquera y Cabezón de la Sal desde el 31 de enero de 2013 a las 15:36 hasta el 2 de febrero de 2013 a las 06:25. Se suprimieron 3 trenes de media distancia y 5 de mercancías, incluido el descarrilado. Se estableció PAT por carretera entre Cabezón de la Sal y Llanes."
+   },
+   "pagina": 17,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante y carga: 432.228 euros. Infraestructura: 168.705 euros. Carretera CA-181 y otros daños: 29.831 euros.",
+    "afectacion_servicio": "Circulación interrumpida entre Unquera y Cabezón de la Sal desde el 31 de enero de 2013 a las 15:36 hasta el 2 de febrero de 2013 a las 06:25. Se suprimieron 3 trenes de media distancia y 5 de mercancías, incluido el descarrilado. Se estableció PAT por carretera entre Cabezón de la Sal y Llanes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras 1614/1610; 14 vagones plataforma: 13 plataformas Sgh y una 2Ssg.",
+    "averia": "No se detectó avería en los sistemas de frenado; las pruebas verificaron su correcto funcionamiento. En la plataforma Sgh 9062 no se había realizado la primera revisión R1 dentro del plazo de 1,5 años.",
+    "mantenimiento": "Tren tipo 50, velocidad máxima 50 km/h, 56 ejes, 753 toneladas y 238 metros. Sgh 9062: autorización para circular y acta de reconocimiento de 5 de julio de 2010; torneado de ruedas el 1 de diciembre de 2011; parámetros de rodadura tras el accidente dentro de tolerancias."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Limitación permanente de velocidad a 40 km/h entre los PK 457+260 y 457+550, según consigna Serie C nº 3/2012 DGI.",
+    "tipo_via": "Vía única sin electrificar, con bloqueo telefónico.",
+    "velocidad_maxima": "80 km/h en el trayecto; limitación permanente de 40 km/h en la curva.",
+    "ancho": "Ancho métrico.",
+    "electrificacion": "No electrificada.",
+    "estado_via": "Los parámetros de ancho, peralte y flecha estaban dentro de tolerancias. La curva se encontraba sobreperaltada con 74 mm, frente a 57 mm para 40 km/h y radio 110 m.",
+    "otro": "Curva a izquierdas de radio aproximado 110 m y pendiente de 8 ‰; tramo anterior en recta de 387 m con pendiente de 16,94 ‰; dos pasos inferiores en terraplén, uno peatonal y otro para la carretera CA-181."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Nublado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Cantabria",
+    "municipio": null,
+    "estacion": "Unquera - Pesués"
+   },
+   "pagina": 3,
+   "cita": "estaciones de Unquera y Pesués (Cantabria), en la línea 770 Valdecilla - La Marga a Oviedo. Circulando",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Nublado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Limitación permanente de velocidad a 40 km/h entre los PK 457+260 y 457+550, según consigna Serie C nº 3/2012 DGI.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Limitación permanente de velocidad a 40 km/h entre los PK 457+260 y 457+550, según consigna Serie C nº 3/2012 DGI.",
+    "tipo_via": "Vía única sin electrificar, con bloqueo telefónico.",
+    "velocidad_maxima": "80 km/h en el trayecto; limitación permanente de 40 km/h en la curva.",
+    "ancho": "Ancho métrico.",
+    "electrificacion": "No electrificada.",
+    "estado_via": "Los parámetros de ancho, peralte y flecha estaban dentro de tolerancias. La curva se encontraba sobreperaltada con 74 mm, frente a 57 mm para 40 km/h y radio 110 m.",
+    "otro": "Curva a izquierdas de radio aproximado 110 m y pendiente de 8 ‰; tramo anterior en recta de 387 m con pendiente de 16,94 ‰; dos pasos inferiores en terraplén, uno peatonal y otro para la carretera CA-181."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad C.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras 1614/1610; 14 vagones plataforma: 13 plataformas Sgh y una 2Ssg.",
+    "averia": "No se detectó avería en los sistemas de frenado; las pruebas verificaron su correcto funcionamiento. En la plataforma Sgh 9062 no se había realizado la primera revisión R1 dentro del plazo de 1,5 años.",
+    "mantenimiento": "Tren tipo 50, velocidad máxima 50 km/h, 56 ejes, 753 toneladas y 238 metros. Sgh 9062: autorización para circular y acta de reconocimiento de 5 de julio de 2010; torneado de ruedas el 1 de diciembre de 2011; parámetros de rodadura tras el accidente dentro de tolerancias."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Exceso de velocidad sostenido superior a 50 km/h antes del punto de descarrilamiento.",
+    "Curva a izquierdas de radio aproximado 110 metros con limitación permanente de velocidad a 40 km/h.",
+    "Tracción permanente y circulación en pendiente en el sentido de la marcha.",
+    "Declaración del maquinista sobre pérdida de consciencia en el túnel, no confirmada como causa por el informe."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 9565 se encuentra habilitado para la conducción de vehículos ferroviarios en \nvirtud de la capacitación adquirida de conformidad con el estatuto propio y la normativa legal aplicable \na Feve. \nÉste tiene una antigüedad en el cargo de fecha 20/07/1981. \nRealizó su último reciclaje formativo el 20/02/2008 y su último reconocimiento médico y psicotécnico el \n01/12/2011, conforme a la normativa vigente. \nEl agente comercial del tren se encuentra habilitado en virtud de la capacitación adquirida de \nconformidad con el estatuto propio y la normativa legal aplicable a Feve. \nÉste tiene una antigüedad en el cargo de fecha 10/09/1979. \n\n## Página 15\n\n \n \n \nA\nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0012/2013 ocurrido el 31.01.2013 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-310113-291013-CIAF \n \n \nPág. 15 de 19\n3.3. \nNORMATIVA",
+   "pagina": 14,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "Los hechos ocurrieron el 31 de enero de 2013, a las 15:36 horas, en la red de ancho métrico, entre las estaciones de Unquera y Pesués, en la línea 770 Valdecilla - La Marga a Oviedo. El tren de mercancías 9565 de Renfe Operadora, con origen en El Berrón y destino Aritz, estaba formado por dos locomotoras y 14 vagones, y circulaba con exceso de velocidad superior a 50 km/h.\n\nEn el PK 457+381, próximo al paso inferior de la carretera CA-181, el tren abordó una curva a izquierdas de radio aproximado 110 metros, con una limitación permanente de velocidad de 40 km/h. En ese punto se produjo el descarrilamiento de los vagones 1º al 11º, quedando encarriladas las dos locomotoras de cabeza y los tres vagones de cola. Según la declaración del maquinista, sufrió una pérdida de consciencia en el túnel de Pesués y, al recobrarla, percibió que llevaba aproximadamente 50 km/h ante la limitación de 40 km/h, aplicando freno antes del descarrilamiento.\n\nNo se produjeron víctimas mortales ni heridos. Se registraron daños en los 11 vagones descarrilados, en la carga, en la infraestructura y en la carretera CA-181, sobre la que cayeron dos bobinas de acero. La circulación quedó interrumpida entre Unquera y Cabezón de la Sal hasta el restablecimiento con limitación temporal de velocidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del maquinista por circular con exceso de velocidad, a 61 km/h, cuando la velocidad máxima permitida era de 40 km/h.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Exceso de velocidad sostenido superior a 50 km/h antes del punto de descarrilamiento.",
+    "Curva a izquierdas de radio aproximado 110 metros con limitación permanente de velocidad a 40 km/h.",
+    "Tracción permanente y circulación en pendiente en el sentido de la marcha.",
+    "Declaración del maquinista sobre pérdida de consciencia en el túnel, no confirmada como causa por el informe."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Se reitera la recomendación nº 1 realizada en el expediente 28/2012: Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción.",
+    "Se reitera la recomendación nº 2 emitida en el expediente 74/2012: realizar auditoría sobre el cumplimiento de los ciclos de mantenimiento del material móvil adscrito a la Red de Ancho Métrico.",
+    "Se reitera la recomendación nº 1 realizada en el expediente 28/2012: Analizar la viabilidad de establecer un procedimiento sistemático para el seguimiento y evaluación del cumplimiento de las velocidades máximas por parte del personal de conducción.",
+    "Se reitera la recomendación nº 2 emitida en el expediente 74/2012: realizar auditoría sobre el cumplimiento de los ciclos de mantenimiento del material móvil adscrito a la Red de Ancho Métrico."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Renfe Operadora",
+    "Renfe Operadora",
+    "Renfe Operadora"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "15:31",
+     "evento": "Se observa exceso de velocidad superior a 50 km/h a unos 4.000 m del punto de descarrilamiento, durante aproximadamente un minuto."
+    },
+    {
+     "hora": "15:33",
+     "evento": "Desde las 15:33:15 horas se aplica tracción de forma permanente hasta las 15:36:16 horas."
+    },
+    {
+     "hora": "15:35",
+     "evento": "A las 15:35:57 horas, a unos 370 m del punto de descarrilamiento, se inicia otro exceso de velocidad que alcanza 60,8 km/h."
+    },
+    {
+     "hora": "15:36",
+     "evento": "A las 15:36:16 horas el maquinista aplica el freno de servicio en el PK 457+297."
+    },
+    {
+     "hora": "15:36",
+     "evento": "A las 15:36:21 horas, en el PK 457+381 y circulando a 60,8 km/h, se produce el descarrilamiento de los vagones 1º al 11º."
+    },
+    {
+     "hora": "15:36",
+     "evento": "A las 15:36:34 horas las locomotoras quedan detenidas en el PK 457+510."
+    },
+    {
+     "hora": "15:50",
+     "evento": "Se presenta en el lugar del suceso la Guardia Civil."
+    },
+    {
+     "hora": "15:55",
+     "evento": "Llegan al lugar del suceso la policía local y los bomberos."
+    },
+    {
+     "hora": "17:42",
+     "evento": "Se realiza prueba de alcoholemia al maquinista en Pesués, con resultado negativo."
+    },
+    {
+     "hora": "17:55",
+     "evento": "Se realiza prueba de alcoholemia al agente comercial en Pesués, con resultado negativo."
+    },
+    {
+     "hora": null,
+     "evento": "El 1 de febrero de 2013 se apartan vagones descarrilados en San Vicente de la Barquera, Unquera y Llanes."
+    },
+    {
+     "hora": "06:25",
+     "evento": "El 2 de febrero de 2013 se restablece la circulación entre Unquera y Cabezón de la Sal con limitación temporal de velocidad a 10 km/h entre los PK 457+250 y 457+550."
+    },
+    {
+     "hora": null,
+     "evento": "Durante el sábado 2 y domingo 3 de febrero de 2013 se realiza la recuperación del resto de material rodante y carga fuera de la vía."
+    },
+    {
+     "hora": null,
+     "evento": "El 26 de febrero de 2013 el Pleno de la CIAF acuerda abrir la investigación."
+    },
+    {
+     "hora": null,
+     "evento": "El 19 de septiembre de 2013 se realizan comprobaciones de parámetros de rodadura de tres ejes del vagón Sgh 9062."
+    },
+    {
+     "hora": null,
+     "evento": "El 29 de octubre de 2013 se fecha el informe final."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0012/2013",
+ "expediente": "0012/13",
+ "anio": 2013,
+ "titulo": "Descarrilamiento del tren de mercancías 9565 entre Unquera y Pesués (Cantabria)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_310113_291013_CIAF.md"
+}

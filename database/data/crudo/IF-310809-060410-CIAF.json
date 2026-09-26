@@ -1,0 +1,990 @@
+{
+ "id": "IF-310809-060410-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/5E34D97B-9BB8-45D0-B4B5-53F90E2DFDF8/71654/IF_310809_060410_CIAF.pdf",
+ "pdf": "pdfs/ES/IF-310809-060410-CIAF.pdf",
+ "md5_pdf": "26052330fa8dafaa16cef423961483ab",
+ "paginas_md": 13,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 37,
+ "n_tablas": 3,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Renfe- Operadora",
+     "Número": "47/09-1",
+     "Recomendación": "Insistir en la aplicación de las medidas de gestión de seguridad existentes destacando, en el aspecto formativo, el cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 12,
+   "cabecera": [
+    "HORA",
+    "TREN 20072 (situación)",
+    "TREN 91038 (situación)"
+   ],
+   "filas": [
+    {
+     "HORA": "18:12:54",
+     "TREN 20072 (situación)": "Ante la señal avanzada 86-4, en anuncio de parada en vía G4",
+     "TREN 91038 (situación)": "Entrando de vía G2 a vía 1"
+    },
+    {
+     "HORA": "18:13:33",
+     "TREN 20072 (situación)": "Entre señal avanzada 86-4 y E2 en parada en vía G4",
+     "TREN 91038 (situación)": "Pasando por S. Cristóbal I. de vía G3 a vía 1"
+    },
+    {
+     "HORA": "18:14:01",
+     "TREN 20072 (situación)": "Entre señal avanzada 86-4 y E2 en parada en vía G4",
+     "TREN 91038 (situación)": "Pasando por S. Cristóbal I. por vía 1"
+    },
+    {
+     "HORA": "18:14:10",
+     "TREN 20072 (situación)": "Rebasa indebidamente señal E2 en parada",
+     "TREN 91038 (situación)": "Saliendo de S. Cristóbal I. por vía 1 a Getafe"
+    }
+   ],
+   "cita": "| HORA | TREN 20072 (situación) | TREN 91038 (situación) |"
+  },
+  {
+   "pagina": 13,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Renfe- Operadora",
+     "Número": "47/09-1",
+     "Recomendación": "Insistir en la aplicación de las medidas de gestión de seguridad existentes destacando, en el aspecto formativo, el cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0047/2009",
+   "pagina": 1,
+   "cita": "nº 0047/2009 ocurrido el 31.08.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 31 de agosto de 2009, a las 18:14, el tren de viajeros 20072 rebasó indebidamente la señal de entrada E2 de la estación de San Cristóbal Industrial, que estaba en indicación de parada. El rebase provocó un conato de colisión con el tren de mercancías 91038, ambos de Renfe Operadora. El origen fue el incumplimiento de las órdenes dadas por las señales al personal de conducción. Como causa subyacente se señaló la no activación del ASFA de emergencia (L8) en la baliza previa. No hubo víctimas ni daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-08-31",
+    "hora": "18:14",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "San Cristóbal Industrial",
+     "pk": "10+200",
+     "linea": "300 Madrid Chamartín – Valencia Estación del Nord",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Vía 1 de la estación de San Cristóbal Industrial, tramo Villaverde Bajo – San Cristóbal Industrial, en la señal de entrada E2."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 31 de agosto de 2009, a las 18:14 horas, en la estación de San Cristóbal Industrial (Madrid),",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "El tren 20072 se suprime en Getafe Industrial y sus pasajeros son trasladados al tren 20074; no se activó plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Rebase indebido de la señal de entrada E2 en indicación de parada por el tren 20072, por incumplimiento de las órdenes dadas por las señales al personal de conducción (fallo humano).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No activación por ASFA de emergencia (L8) al paso por la baliza previa de la señal de entrada E2.",
+    "Aumento de velocidad del tren 20072 tras pasar la señal avanzada en anuncio de parada.",
+    "Paso por la baliza previa de E2 a 96 km/h, superior a 60 km/h.",
+    "Aplicación del freno de emergencia por el maquinista dos segundos después del control de velocidad."
+   ],
+   "pagina": 13,
+   "cita": "Como causa subyacente del suceso es necesario señalar la no activación por ASFA de emergencia",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Necesidad de insistir en la aplicación de medidas de gestión de seguridad existentes, especialmente formación, cumplimiento del Reglamento General de Circulación, influencia de los procesos psicológicos en la conducción y verificación de la aptitud del personal de conducción."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Insistir en la aplicación de las medidas de gestión de seguridad existentes destacando, en el aspecto formativo, el cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción.",
+    "Insistir en la aplicación de las medidas de gestión de seguridad existentes destacando, en el aspecto formativo, el cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe- Operadora",
+    "Renfe- Operadora"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente",
+   "pagina": 1,
+   "cita": "Investigación del incidente",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "ADIF"
+   ],
+   "pagina": 3,
+   "cita": "trenes de Renfe Operadora.",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-08-31",
+   "pagina": 3,
+   "cita": "El día 31 de agosto de 2009, a las 18:14 horas, en la estación de San Cristóbal Industrial (Madrid),",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "18:14",
+   "pagina": 3,
+   "cita": "El día 31 de agosto de 2009, a las 18:14 horas, en la estación de San Cristóbal Industrial (Madrid),",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "San Cristóbal Industrial",
+    "pk": "10+200",
+    "linea": "300 Madrid Chamartín – Valencia Estación del Nord",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Vía 1 de la estación de San Cristóbal Industrial, tramo Villaverde Bajo – San Cristóbal Industrial, en la señal de entrada E2."
+   },
+   "pagina": 3,
+   "cita": "El día 31 de agosto de 2009, a las 18:14 horas, en la estación de San Cristóbal Industrial (Madrid),",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 300 Madrid Chamartín – Valencia Estación del Nord",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Serie 465: motores 465036 y 465012; UIC 907174650369 y 907174650123; 2 ramas, 10 coches, 468 toneladas de masa remolcada.",
+    "averia": "El ASFA no activó el frenado de emergencia (L8) al paso por la baliza previa de E2 con velocidad superior a 60 km/h; en pruebas posteriores funcionó correctamente.",
+    "mantenimiento": "Intervención nivel 3 el 08/06/2009 con revisión ASFA satisfactoria; pruebas en taller el 01/09/2009, circulación comercial el 02/09/2009, consigna de pruebas ADIF el 26/11/2009 y prueba del 03/12/2009 con funcionamiento correcto."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de mercancías 91038, de Madrid-Abroñigal a San Roque (Cádiz), circulaba por la vía G2 entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial. El jefe del CTC le estableció itinerario de paso directo hacia Getafe por vía 1, lo que hacía que la señal de entrada E2 luciera rojo (parada).\\n\\nEl tren de viajeros de cercanías 20072, de Madrid Chamartín a Aranjuez, circulaba por la vía G4 del mismo trayecto. Al pasar la señal avanzada 86-4, que anunciaba parada, el tren continuó y aumentó velocidad. En la baliza previa de la señal E2 se registró control de velocidad L7 a 96 km/h, sin activarse el frenado de emergencia L8; el maquinista aplicó el freno de emergencia dos segundos después.\\n\\nEl tren 20072 rebasó la señal E2 en parada y el ASFA activó L8 en la baliza de pie a 32 km/h. Se produjo un conato de colisión con el tren 91038, que tenía establecido correctamente su itinerario; ambos quedaron en vía 1 sin señal interpuesta. El tren 20072 se detuvo en el PK 9+843, tras rebasar E2 43 metros, y la distancia estimada entre las circulaciones en el momento del conato fue de 695 metros.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "San Cristóbal Industrial",
+    "pk": "10+200",
+    "linea": "300 Madrid Chamartín – Valencia Estación del Nord",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Vía 1 de la estación de San Cristóbal Industrial, tramo Villaverde Bajo – San Cristóbal Industrial, en la señal de entrada E2."
+   },
+   "pagina": 3,
+   "cita": "El día 31 de agosto de 2009, a las 18:14 horas, en la estación de San Cristóbal Industrial (Madrid),",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "El tren 20072 se suprime en Getafe Industrial y sus pasajeros son trasladados al tren 20074; no se activó plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Debido al funcionamiento anómalo del sistema ASFA del tren 20072 al no actuar el freno de \nemergencia (L8) ante un exceso de velocidad al paso por la baliza previa de la señal de entrada (E2) \nque indicaba parada, se realizaron pruebas en taller y en vía.  \nEn pruebas realizadas el 01/09/2009 en taller, se pasa la baliza L7 a más de 60 km/h (simulados) a \nla unidad UT 465036, se  comprueba que ASFA funciona correctamente. \nEl 02/09/2009 se realiza circulación comercial, en ningún momento se pasa L7 a más de 60 km/h, \nno obstante, se pudo comprobar que cada vez que se alcanzaban los 60 km/h  tanto la tarjeta como \nel relé se comportaban de forma correcta. \nCon fecha 26 de noviembre 2009, el director de seguridad de ADIF firma la consigna de pruebas \nnº34 (Realización de pruebas para comprobar el comportamiento del vehículo U/T 455036) \nEl 3 de diciembre de 2009 se realiza la prueba del autopropulsado U/T 9619465036-1, propiedad \nde Renfe-Operadora cercanías, comprobándose el correcto funcionamiento del vehículo.",
+   "pagina": 13,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista del tren 20072",
+     "implicacion": "Conducción del tren que rebasa indebidamente la señal E2 en parada; pruebas de alcoholemia y drogas negativas; título de conducción categoría B, habilitado conforme a Orden FOM/2520/2006, reciclaje formativo 20/01/2009 y reconocimiento médico 23/02/2006."
+    }
+   ],
+   "pagina": 8,
+   "cita": "Del parte de accidentes o incidentes realizado por el maquinista del tren 20072 el mismo día del",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "20072",
+     "tipo": "tren de viajeros de cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños en el material rodante; el tren se suprime en Getafe Industrial y sus pasajeros son trasladados al tren 20074."
+    },
+    {
+     "numero": "91038",
+     "tipo": "tren de mercancías",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños en el material rodante."
+    }
+   ],
+   "pagina": 3,
+   "cita": "el tren de viajeros 20072 rebasa indebidamente la señal de entrada (E2) a la estación, que estaba en",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Serie 465: motores 465036 y 465012; UIC 907174650369 y 907174650123; 2 ramas, 10 coches, 468 toneladas de masa remolcada.",
+    "averia": "El ASFA no activó el frenado de emergencia (L8) al paso por la baliza previa de E2 con velocidad superior a 60 km/h; en pruebas posteriores funcionó correctamente.",
+    "mantenimiento": "Intervención nivel 3 el 08/06/2009 con revisión ASFA satisfactoria; pruebas en taller el 01/09/2009, circulación comercial el 02/09/2009, consigna de pruebas ADIF el 26/11/2009 y prueba del 03/12/2009 con funcionamiento correcto."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E2 en mástil elevado con baliza previa y baliza de pie; señal avanzada 86-4; ASFA; la señal E2 estaba en indicación de parada.",
+    "tipo_via": "Vía 1 de estación; bloqueo automático banalizado (BAB) con control de tráfico centralizado (CTC).",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "No se indican defectos en la infraestructura; las instalaciones técnicas funcionaron correctamente.",
+    "otro": "Radiotelefonía A; tráfico medio semanal del tramo Villaverde Bajo – San Cristóbal Industrial: 1.490 circulaciones; no fue necesario activar plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de entrada E2 en mástil elevado con baliza previa y baliza de pie; señal avanzada 86-4; ASFA; la señal E2 estaba en indicación de parada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía A.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "El tren 20072 se suprime en Getafe Industrial y sus pasajeros son trasladados al tren 20074; no se activó plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "El tren 20072 se suprime en Getafe Industrial y sus pasajeros son trasladados al tren 20074; no se activó plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "El tren 20072 se suprime en Getafe Industrial y sus pasajeros son trasladados al tren 20074; no se activó plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 465: motores 465036 y 465012; UIC 907174650369 y 907174650123; 2 ramas, 10 coches, 468 toneladas de masa remolcada.",
+    "averia": "El ASFA no activó el frenado de emergencia (L8) al paso por la baliza previa de E2 con velocidad superior a 60 km/h; en pruebas posteriores funcionó correctamente.",
+    "mantenimiento": "Intervención nivel 3 el 08/06/2009 con revisión ASFA satisfactoria; pruebas en taller el 01/09/2009, circulación comercial el 02/09/2009, consigna de pruebas ADIF el 26/11/2009 y prueba del 03/12/2009 con funcionamiento correcto."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E2 en mástil elevado con baliza previa y baliza de pie; señal avanzada 86-4; ASFA; la señal E2 estaba en indicación de parada.",
+    "tipo_via": "Vía 1 de estación; bloqueo automático banalizado (BAB) con control de tráfico centralizado (CTC).",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "No se indican defectos en la infraestructura; las instalaciones técnicas funcionaron correctamente.",
+    "otro": "Radiotelefonía A; tráfico medio semanal del tramo Villaverde Bajo – San Cristóbal Industrial: 1.490 circulaciones; no fue necesario activar plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "despejado",
+   "pagina": 7,
+   "cita": "En el momento del incidente el tiempo atmosférico era despejado.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": "San Cristóbal Industrial"
+   },
+   "pagina": 3,
+   "cita": "El día 31 de agosto de 2009, a las 18:14 horas, en la estación de San Cristóbal Industrial (Madrid),",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "despejado",
+   "pagina": 7,
+   "cita": "En el momento del incidente el tiempo atmosférico era despejado.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de entrada E2 en mástil elevado con baliza previa y baliza de pie; señal avanzada 86-4; ASFA; la señal E2 estaba en indicación de parada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E2 en mástil elevado con baliza previa y baliza de pie; señal avanzada 86-4; ASFA; la señal E2 estaba en indicación de parada.",
+    "tipo_via": "Vía 1 de estación; bloqueo automático banalizado (BAB) con control de tráfico centralizado (CTC).",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "No se indican defectos en la infraestructura; las instalaciones técnicas funcionaron correctamente.",
+    "otro": "Radiotelefonía A; tráfico medio semanal del tramo Villaverde Bajo – San Cristóbal Industrial: 1.490 circulaciones; no fue necesario activar plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía A.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 465: motores 465036 y 465012; UIC 907174650369 y 907174650123; 2 ramas, 10 coches, 468 toneladas de masa remolcada.",
+    "averia": "El ASFA no activó el frenado de emergencia (L8) al paso por la baliza previa de E2 con velocidad superior a 60 km/h; en pruebas posteriores funcionó correctamente.",
+    "mantenimiento": "Intervención nivel 3 el 08/06/2009 con revisión ASFA satisfactoria; pruebas en taller el 01/09/2009, circulación comercial el 02/09/2009, consigna de pruebas ADIF el 26/11/2009 y prueba del 03/12/2009 con funcionamiento correcto."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "No activación por ASFA de emergencia (L8) al paso por la baliza previa de la señal de entrada E2.",
+    "Aumento de velocidad del tren 20072 tras pasar la señal avanzada en anuncio de parada.",
+    "Paso por la baliza previa de E2 a 96 km/h, superior a 60 km/h.",
+    "Aplicación del freno de emergencia por el maquinista dos segundos después del control de velocidad."
+   ],
+   "pagina": 13,
+   "cita": "Como causa subyacente del suceso es necesario señalar la no activación por ASFA de emergencia",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "3.2.1.1. \nEl maquinista del tren 20072 \nEl maquinista del tren 20072 posee el título de conducción categoría B y está habilitado \nconforme a la Orden FOM/2520/2006, de 27 de julio. \nRealizó su último reciclaje formativo el 20/01/09 y su último reconocimiento médico el \n23/02/06, de acuerdo a la normativa vigente. \n\n## Página 9\n\n \n \n \nInvestigación del incidente \nnº 0047/2009 ocurrido el 31.08.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-310809-060410-CIAF \n \n \nPág. 9 de 13",
+   "pagina": 8,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "3.5.1. Maquinista del tren 20072 \nJornada laboral: \n- \nel día 31: 2 horas y 41 minutos, (conducción efectiva: 1h y 24 minutos) \n- \nel día 30: 4 horas y 44 minutos (conducción efectiva: 3h y 39 minutos)  \n- \nel día 29: 6 horas y 36 minutos (conducción efectiva: 59 minutos) \nAl maquinista, el día del incidente, a las 19:40 horas, se le realiza la prueba de alcoholemia en aire \nespirado y prueba de drogas, ambas con resultado negativo.",
+   "pagina": 10,
+   "cita": "3.5. INTERFAZ HOMBRE-MAQUÍNA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "3.5.1. Maquinista del tren 20072 \nJornada laboral: \n- \nel día 31: 2 horas y 41 minutos, (conducción efectiva: 1h y 24 minutos) \n- \nel día 30: 4 horas y 44 minutos (conducción efectiva: 3h y 39 minutos)  \n- \nel día 29: 6 horas y 36 minutos (conducción efectiva: 59 minutos) \nAl maquinista, el día del incidente, a las 19:40 horas, se le realiza la prueba de alcoholemia en aire \nespirado y prueba de drogas, ambas con resultado negativo.",
+   "pagina": 10,
+   "cita": "3.5. INTERFAZ HOMBRE-MAQUÍNA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "Con fecha 1/03/05 un tren de viajeros también rebasa indebidamente la señal de entrada (E2) de \nla estación de San Cristóbal Industrial, produciéndose conato de colisión con un tren de mercancías. \nCon objeto de mejorar la visibilidad se cambia el emplazamiento de dicha señal (del P.K. 10+300 al \nP.K. 9+800).",
+   "pagina": 10,
+   "cita": "3.6. SUCESOS ANTERIORES DE CARÁCTER SIMILAR",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de mercancías 91038, de Madrid-Abroñigal a San Roque (Cádiz), circulaba por la vía G2 entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial. El jefe del CTC le estableció itinerario de paso directo hacia Getafe por vía 1, lo que hacía que la señal de entrada E2 luciera rojo (parada).\\n\\nEl tren de viajeros de cercanías 20072, de Madrid Chamartín a Aranjuez, circulaba por la vía G4 del mismo trayecto. Al pasar la señal avanzada 86-4, que anunciaba parada, el tren continuó y aumentó velocidad. En la baliza previa de la señal E2 se registró control de velocidad L7 a 96 km/h, sin activarse el frenado de emergencia L8; el maquinista aplicó el freno de emergencia dos segundos después.\\n\\nEl tren 20072 rebasó la señal E2 en parada y el ASFA activó L8 en la baliza de pie a 32 km/h. Se produjo un conato de colisión con el tren 91038, que tenía establecido correctamente su itinerario; ambos quedaron en vía 1 sin señal interpuesta. El tren 20072 se detuvo en el PK 9+843, tras rebasar E2 43 metros, y la distancia estimada entre las circulaciones en el momento del conato fue de 695 metros.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar en la vía 1 a la entrada de la estación de San Cristóbal Industrial el día \n31/08/09 a las 18:14 horas. \nEl tren de mercancías 91038 procedente de Madrid- Abroñigal y destino San Roque (Cádiz), de \nRenfe Operadora, circulaba por la vía G2 del trayecto existente entre el apeadero de San Cristóbal de \nlos Ángeles y la estación de San Cristóbal Industrial. El jefe del CTC establece para este tren itinerario \nde paso directo hacia Getafe por vía 1 de la estación de San Cristóbal Industrial. Este itinerario implica \nque la señal E2 de entrada a la estación luzca rojo (parada). \nEl tren de viajeros de cercanías 20072 (procedente de Chamartín-Madrid y destino Aranjuez), \ncirculaba por vía G4 del mismo trayecto y sentido (San Cristóbal de los Ángeles- San Cristóbal \nIndustrial). Al paso por la señal de avanzada 86-4, situada en la vía G4, ésta se encuentra en anuncio \nde parada. El tren continúa su marcha, aumentando su velocidad, y al llegar a la baliza previa de la \nseñal de entrada E2 (entrada a San Cristóbal Industrial) se produce control de velocidad (L7) y el \n\n## Página 11\n\n \n \n \nInvestigación del incidente \nnº 0047/2009 ocurrido el 31.08.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-310809-060410-CIAF \n \n \nPág. 11 de 13\nregistrador indica una velocidad de 96 km/h., sin producirse el frenado de emergencia (L8) del \nsistema ASFA. \nEl maquinista, dos segundos después accionó el freno de emergencia y tras rebasar la señal de \nentrada E2 en indicación de parada, el sistema ASFA provoca frenado de emergencia (L8). \nSe produce el conato de colisión entre los trenes 20072, que rebasa indebidamente, y 91038, que \ntiene establecido correctamente su itinerario, ambos trenes quedan situados en vía 1, no existiendo \nninguna señal interpuesta entre ellos. \nAsí mismo, se deduce que el tren 20072 detuvo su marcha en el PK 9+843, habiendo rebasado \npreviamente la señal E2 en 43 metros y a 551 metros de la aguja nº 20 (común), coincidiendo el paso \ndel último carruaje del tren 91038 por PK 10+538, por lo que se estima que la distancia entre ambas \ncirculaciones en el momento del conato de colisión era de 695 metros. \nDel registrador de seguridad del tren 20072 se comprueba lo siguiente: \n• \n18:12:12: Al paso por baliza previa de  señal 86-4 avanzada de San Cristóbal Industrial \nse produce L1 (anuncio de parada) a la velocidad de 38 km/h. \n• \n18:12:36: Parada comercial en apd. San Cristóbal de los Ángeles. \n• \n18:13:05: Salida apd. San Cristóbal de los Ángeles. \n• \n18:13:16: Al paso por la baliza pie señal 86-4 avanzada de San Cristóbal Industrial se \nproduce L1 (anuncio de parada) a 35 km/h. \n• \n18:13:54: Al paso por baliza previa de  señal de entrada E2  de San Cristóbal Industrial \nse produce control de velocidad (L7) a 96 km/h. \n• \n18:13:56: Aplicación del freno de emergencia por parte del maquinista a 96 Km/h. \n• \n18:14:09: Al paso por la baliza de pie de señal de entrada (E2), activación del freno de \nurgencia del sistema ASFA (L8) a 32 km/h. \n• \n18:14:16: Parada. \n\n## Página 12\n\n \n \n \nInvestigación del incidente \nnº 0047/2009 ocurrido el 31.08.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-310809-060410-CIAF \n \n \nPág. 12 de 13\nDel registrador de eventos del CTC se comprueba lo siguiente: \nHORA \nTREN 20072 (situación) \nTREN 91038 (situación) \n18:12:54 \nAnte la señal avanzada 86-4, en \nanuncio de parada en vía G4 \nEntrando de vía G2 a vía 1 \n18:13:33 \nEntre señal avanzada 86-4 y E2 en \nparada en vía G4 \nPasando por S. Cristóbal I. de vía G3 \na vía 1 \n18:14:01 \nEntre  señal avanzada 86-4 y E2 en \nparada en vía G4 \nPasando por S. Cristóbal I. por vía 1 \n18:14:10 \nRebasa indebidamente señal E2 en \nparada  \nSaliendo de S. Cristóbal I. por vía 1 a \nGetafe \n \n4.2. DELIBERACIÓN \nEl personal de conducción cumple la normativa vigente en cuanto título, habilitaciones, reciclaje y \nreconocimiento médico y psicotécnico. \nLas instalaciones técnicas funcionaron correctamente en el momento del incidente. \nEl tren aumenta la velocidad tras pasar por la señal de avanzada (86-4) en anuncio de parada a 35 \nkm/h. Se incumple el artículo 213 del RGC al no prepararse para frenar ante la siguiente señal. \nEl paso por la baliza previa de la señal de entrada se realiza a velocidad de 96 km/h, mayor a 60 \nkm/h, se incumple el artículo 221 del RGC. El sistema ASFA realiza un control de velocidad (L7) en \ndicha baliza y no se activa frenado de urgencia (L8). \nEl frenado de emergencia del tren 20072 lo provoca su maquinista  2 segundos después cuando \ncircula a 96 km/h y a pesar de ello, supera la baliza de pie de señal de entrada (E2) a la velocidad de \n32 km/h y se produce rebase. Se incumple el artículo 217 del RGC, por fallo humano. \n4.3. CONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el rebase indebido por el tren 20072 de la señal de entrada (E2), \nque se encontraba ordenando parada, por incumplimiento de las órdenes dadas por las señales al \npersonal de conducción. \n\n### Tablas de la página 12\n\n| HORA | TREN 20072 (situación) | TREN 91038 (situación) |\n|---|---|---|\n| 18:12:54 | Ante la señal avanzada 86-4, en anuncio de parada en vía G4 | Entrando de vía G2 a vía 1 |\n| 18:13:33 | Entre señal avanzada 86-4 y E2 en parada en vía G4 | Pasando por S. Cristóbal I. de vía G3 a vía 1 |\n| 18:14:01 | Entre señal avanzada 86-4 y E2 en parada en vía G4 | Pasando por S. Cristóbal I. por vía 1 |\n| 18:14:10 | Rebasa indebidamente señal E2 en parada | Saliendo de S. Cristóbal I. por vía 1 a Getafe |\n\n## Página 13\n\n \n \n \nInvestigación del incidente \nnº 0047/2009 ocur",
+   "pagina": 10,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Rebase indebido de la señal de entrada E2 en indicación de parada por el tren 20072, por incumplimiento de las órdenes dadas por las señales al personal de conducción (fallo humano).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No activación por ASFA de emergencia (L8) al paso por la baliza previa de la señal de entrada E2.",
+    "Aumento de velocidad del tren 20072 tras pasar la señal avanzada en anuncio de parada.",
+    "Paso por la baliza previa de E2 a 96 km/h, superior a 60 km/h.",
+    "Aplicación del freno de emergencia por el maquinista dos segundos después del control de velocidad."
+   ],
+   "pagina": 13,
+   "cita": "Como causa subyacente del suceso es necesario señalar la no activación por ASFA de emergencia",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el rebase indebido por el tren 20072 de la señal de entrada (E2), \nque se encontraba ordenando parada, por incumplimiento de las órdenes dadas por las señales al \npersonal de conducción. \n\n### Tablas de la página 12\n\n| HORA | TREN 20072 (situación) | TREN 91038 (situación) |\n|---|---|---|\n| 18:12:54 | Ante la señal avanzada 86-4, en anuncio de parada en vía G4 | Entrando de vía G2 a vía 1 |\n| 18:13:33 | Entre señal avanzada 86-4 y E2 en parada en vía G4 | Pasando por S. Cristóbal I. de vía G3 a vía 1 |\n| 18:14:01 | Entre señal avanzada 86-4 y E2 en parada en vía G4 | Pasando por S. Cristóbal I. por vía 1 |\n| 18:14:10 | Rebasa indebidamente señal E2 en parada | Saliendo de S. Cristóbal I. por vía 1 a Getafe |\n\n## Página 13\n\n \n \n \nInvestigación del incidente \nnº 0047/2009 ocurrido el 31.08.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-310809-060410-CIAF \n \n \nPág. 13 de 13\nComo causa subyacente del suceso es necesario señalar la no activación por ASFA de emergencia \n(L8) al paso por la baliza previa de la señal de entrada (E2).",
+   "pagina": 12,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el rebase indebido por el tren 20072 de la señal de entrada (E2), \nque se encontraba ordenando parada, por incumplimiento de las órdenes dadas por las señales al \npersonal de conducción. \n\n### Tablas de la página 12\n\n| HORA | TREN 20072 (situación) | TREN 91038 (situación) |\n|---|---|---|\n| 18:12:54 | Ante la señal avanzada 86-4, en anuncio de parada en vía G4 | Entrando de vía G2 a vía 1 |\n| 18:13:33 | Entre señal avanzada 86-4 y E2 en parada en vía G4 | Pasando por S. Cristóbal I. de vía G3 a vía 1 |\n| 18:14:01 | Entre señal avanzada 86-4 y E2 en parada en vía G4 | Pasando por S. Cristóbal I. por vía 1 |\n| 18:14:10 | Rebasa indebidamente señal E2 en parada | Saliendo de S. Cristóbal I. por vía 1 a Getafe |\n\n## Página 13\n\n \n \n \nInvestigación del incidente \nnº 0047/2009 ocurrido el 31.08.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-310809-060410-CIAF \n \n \nPág. 13 de 13\nComo causa subyacente del suceso es necesario señalar la no activación por ASFA de emergencia \n(L8) al paso por la baliza previa de la señal de entrada (E2).",
+   "pagina": 12,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Debido al funcionamiento anómalo del sistema ASFA del tren 20072 al no actuar el freno de \nemergencia (L8) ante un exceso de velocidad al paso por la baliza previa de la señal de entrada (E2) \nque indicaba parada, se realizaron pruebas en taller y en vía.  \nEn pruebas realizadas el 01/09/2009 en taller, se pasa la baliza L7 a más de 60 km/h (simulados) a \nla unidad UT 465036, se  comprueba que ASFA funciona correctamente. \nEl 02/09/2009 se realiza circulación comercial, en ningún momento se pasa L7 a más de 60 km/h, \nno obstante, se pudo comprobar que cada vez que se alcanzaban los 60 km/h  tanto la tarjeta como \nel relé se comportaban de forma correcta. \nCon fecha 26 de noviembre 2009, el director de seguridad de ADIF firma la consigna de pruebas \nnº34 (Realización de pruebas para comprobar el comportamiento del vehículo U/T 455036) \nEl 3 de diciembre de 2009 se realiza la prueba del autopropulsado U/T 9619465036-1, propiedad \nde Renfe-Operadora cercanías, comprobándose el correcto funcionamiento del vehículo.",
+   "pagina": 13,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Debido al funcionamiento anómalo del sistema ASFA del tren 20072 al no actuar el freno de \nemergencia (L8) ante un exceso de velocidad al paso por la baliza previa de la señal de entrada (E2) \nque indicaba parada, se realizaron pruebas en taller y en vía.  \nEn pruebas realizadas el 01/09/2009 en taller, se pasa la baliza L7 a más de 60 km/h (simulados) a \nla unidad UT 465036, se  comprueba que ASFA funciona correctamente. \nEl 02/09/2009 se realiza circulación comercial, en ningún momento se pasa L7 a más de 60 km/h, \nno obstante, se pudo comprobar que cada vez que se alcanzaban los 60 km/h  tanto la tarjeta como \nel relé se comportaban de forma correcta. \nCon fecha 26 de noviembre 2009, el director de seguridad de ADIF firma la consigna de pruebas \nnº34 (Realización de pruebas para comprobar el comportamiento del vehículo U/T 455036) \nEl 3 de diciembre de 2009 se realiza la prueba del autopropulsado U/T 9619465036-1, propiedad \nde Renfe-Operadora cercanías, comprobándose el correcto funcionamiento del vehículo.",
+   "pagina": 13,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Debido al funcionamiento anómalo del sistema ASFA del tren 20072 al no actuar el freno de \nemergencia (L8) ante un exceso de velocidad al paso por la baliza previa de la señal de entrada (E2) \nque indicaba parada, se realizaron pruebas en taller y en vía.  \nEn pruebas realizadas el 01/09/2009 en taller, se pasa la baliza L7 a más de 60 km/h (simulados) a \nla unidad UT 465036, se  comprueba que ASFA funciona correctamente. \nEl 02/09/2009 se realiza circulación comercial, en ningún momento se pasa L7 a más de 60 km/h, \nno obstante, se pudo comprobar que cada vez que se alcanzaban los 60 km/h  tanto la tarjeta como \nel relé se comportaban de forma correcta. \nCon fecha 26 de noviembre 2009, el director de seguridad de ADIF firma la consigna de pruebas \nnº34 (Realización de pruebas para comprobar el comportamiento del vehículo U/T 455036) \nEl 3 de diciembre de 2009 se realiza la prueba del autopropulsado U/T 9619465036-1, propiedad \nde Renfe-Operadora cercanías, comprobándose el correcto funcionamiento del vehículo.",
+   "pagina": 13,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Insistir en la aplicación de las medidas de gestión de seguridad existentes destacando, en el aspecto formativo, el cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción.",
+    "Insistir en la aplicación de las medidas de gestión de seguridad existentes destacando, en el aspecto formativo, el cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe- Operadora",
+    "Renfe- Operadora"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "18:12",
+     "evento": "El tren 91038 entra de vía G2 a vía 1; el tren 20072 está ante la señal avanzada 86-4 en anuncio de parada en vía G4."
+    },
+    {
+     "hora": "18:12",
+     "evento": "El tren 20072 recibe L1 (anuncio de parada) en la baliza previa de la señal 86-4 a 38 km/h."
+    },
+    {
+     "hora": "18:12",
+     "evento": "El tren 20072 realiza parada comercial en el apeadero de San Cristóbal de los Ángeles."
+    },
+    {
+     "hora": "18:13",
+     "evento": "El tren 20072 sale del apeadero de San Cristóbal de los Ángeles."
+    },
+    {
+     "hora": "18:13",
+     "evento": "El tren 20072 recibe L1 en la baliza de pie de la señal avanzada 86-4 a 35 km/h."
+    },
+    {
+     "hora": "18:13",
+     "evento": "El tren 20072 recibe control de velocidad L7 en la baliza previa de la señal de entrada E2 a 96 km/h; no se activa el frenado de emergencia L8."
+    },
+    {
+     "hora": "18:13",
+     "evento": "El maquinista del tren 20072 aplica el freno de emergencia dos segundos después, a 96 km/h."
+    },
+    {
+     "hora": "18:14",
+     "evento": "El tren 91038 sale de San Cristóbal Industrial por vía 1 hacia Getafe."
+    },
+    {
+     "hora": "18:14",
+     "evento": "El tren 20072 rebasa indebidamente la señal E2 en parada; el ASFA activa L8 en la baliza de pie a 32 km/h."
+    },
+    {
+     "hora": "18:14",
+     "evento": "El tren 20072 se detiene en el PK 9+843 tras rebasar E2 43 metros; se produce el conato de colisión con el tren 91038 a una distancia estimada de 695 metros."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0047/2009",
+ "expediente": "0047/09",
+ "anio": 2009,
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0047/2009 OCURRIDO EL DÍA 31.08.2009 EN LA ESTACIÓN DE SAN CRISTOBAL INDUSTRIAL (MADRID)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-310809-060410-CIAF.md"
+}

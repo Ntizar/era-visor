@@ -1,0 +1,1178 @@
+{
+ "id": "ES 02.09.2015 170530-150902-IF-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/5B8E5252-E4CA-4786-863A-0E3709B11FFD/143897/170530150902IFCIAF.PDF",
+ "pdf": "pdfs/ES/ES 02.09.2015 170530-150902-IF-CIAF.pdf",
+ "md5_pdf": "4d2f598a6d883d8466928dfe50380772",
+ "paginas_md": 29,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 38,
+ "n_tablas": 1,
+ "tablas": [
+  {
+   "pagina": 12,
+   "cabecera": [
+    "Nº orden composición",
+    "Serie",
+    "Nº Vehículo UIC",
+    "Origen - destino",
+    "Mercancía",
+    "Ejes",
+    "Masa remolcada (Tm.)",
+    "",
+    ""
+   ],
+   "filas": [
+    {
+     "Nº orden composición": "",
+     "Serie": "",
+     "Nº Vehículo UIC": "",
+     "Origen - destino": "",
+     "Mercancía": "",
+     "Ejes": "",
+     "Masa remolcada (Tm.)": "Tara"
+    },
+    {
+     "Nº orden composición": "1º",
+     "Serie": "PMA",
+     "Nº Vehículo UIC": "437142700131",
+     "Origen - destino": "GRISEN - LEZO RENTERÍA",
+     "Mercancía": "VEHÍCULOS CARRETERA",
+     "Ejes": "3",
+     "Masa remolcada (Tm.)": "26,5"
+    },
+    {
+     "Nº orden composición": "2º",
+     "Serie": "PMA",
+     "Nº Vehículo UIC": "437142701873",
+     "Origen - destino": "GRISEN - LEZO RENTERÍA",
+     "Mercancía": "VEHÍCULOS CARRETERA",
+     "Ejes": "3",
+     "Masa remolcada (Tm.)": "26,5"
+    },
+    {
+     "Nº orden composición": "3º",
+     "Serie": "PMA",
+     "Nº Vehículo UIC": "437142702160",
+     "Origen - destino": "GRISEN -- LEZO RENTERÍA",
+     "Mercancía": "VEHÍCULOS CARRETERA",
+     "Ejes": "3",
+     "Masa remolcada (Tm.)": "26,5"
+    },
+    {
+     "Nº orden composición": "4º",
+     "Serie": "PMA",
+     "Nº Vehículo UIC": "437142700404",
+     "Origen - destino": "GRISEN - LEZO RENTERÍA",
+     "Mercancía": "VEHÍCULOS CARRETERA",
+     "Ejes": "3",
+     "Masa remolcada (Tm.)": "26,5"
+    },
+    {
+     "Nº orden composición": "5º",
+     "Serie": "PMA",
+     "Nº Vehículo UIC": "437142701436",
+     "Origen - destino": "GRISEN - LEZO RENTERÍA",
+     "Mercancía": "VEHÍCULOS CARRETERA",
+     "Ejes": "3",
+     "Masa remolcada (Tm.)": "26,5"
+    },
+    {
+     "Nº orden composición": "6º",
+     "Serie": "PMA",
+     "Nº Vehículo UIC": "437142701881",
+     "Origen - destino": "GRISEN - LEZO RENTERÍA",
+     "Mercancía": "VEHÍCULOS CARRETERA",
+     "Ejes": "3",
+     "Masa remolcada (Tm.)": "26,5"
+    },
+    {
+     "Nº orden composición": "7º",
+     "Serie": "PMA",
+     "Nº Vehículo UIC": "437142702053",
+     "Origen - destino": "GRISEN - LEZO RENTERÍA",
+     "Mercancía": "VEHÍCULOS CARRETERA",
+     "Ejes": "3",
+     "Masa remolcada (Tm.)": "26,5"
+    },
+    {
+     "Nº orden composición": "8º",
+     "Serie": "PMA",
+     "Nº Vehículo UIC": "437142701824",
+     "Origen - destino": "GRISEN - LEZO RENTERÍA",
+     "Mercancía": "VEHÍCULOS CARRETERA",
+     "Ejes": "3",
+     "Masa remolcada (Tm.)": "26,5"
+    },
+    {
+     "Nº orden composición": "9º",
+     "Serie": "PMA",
+     "Nº Vehículo UIC": "437142701741",
+     "Origen - destino": "GRISEN - LEZO RENTERÍA",
+     "Mercancía": "VEHÍCULOS CARRETERA",
+     "Ejes": "3",
+     "Masa remolcada (Tm.)": "26,5"
+    },
+    {
+     "Nº orden composición": "10º",
+     "Serie": "PMA",
+     "Nº Vehículo UIC": "437142700586",
+     "Origen - destino": "GRISEN - LEZO RENTERÍA",
+     "Mercancía": "VEHÍCULOS CARRETERA",
+     "Ejes": "3",
+     "Masa remolcada (Tm.)": "26,5"
+    },
+    {
+     "Nº orden composición": "11º",
+     "Serie": "PMA",
+     "Nº Vehículo UIC": "437142701717",
+     "Origen - destino": "GRISEN - LEZO RENTERÍA",
+     "Mercancía": "VEHÍCULOS CARRETERA",
+     "Ejes": "3",
+     "Masa remolcada (Tm.)": "26,5"
+    },
+    {
+     "Nº orden composición": "12º",
+     "Serie": "PMA",
+     "Nº Vehículo UIC": "437142701501",
+     "Origen - destino": "GRISEN - LEZO RENTERÍA",
+     "Mercancía": "VEHÍCULOS CARRETERA",
+     "Ejes": "3",
+     "Masa remolcada (Tm.)": "26,5"
+    },
+    {
+     "Nº orden composición": "13º",
+     "Serie": "PMA",
+     "Nº Vehículo UIC": "437142700008",
+     "Origen - destino": "GRISEN - LEZO RENTERÍA",
+     "Mercancía": "VEHÍCULOS CARRETERA",
+     "Ejes": "3",
+     "Masa remolcada (Tm.)": "26,5"
+    },
+    {
+     "Nº orden composición": "14º",
+     "Serie": "PMA",
+     "Nº Vehículo UIC": "437142701402",
+     "Origen - destino": "GRISEN - LEZO RENTERÍA",
+     "Mercancía": "VEHÍCULOS CARRETERA",
+     "Ejes": "3",
+     "Masa remolcada (Tm.)": "26,5"
+    },
+    {
+     "Nº orden composición": "15º",
+     "Serie": "PMA",
+     "Nº Vehículo UIC": "437142700644",
+     "Origen - destino": "GRISEN - LEZO RENTERÍA",
+     "Mercancía": "VEHÍCULOS CARRETERA",
+     "Ejes": "3",
+     "Masa remolcada (Tm.)": "26,5"
+    },
+    {
+     "Nº orden composición": "16º",
+     "Serie": "PMA",
+     "Nº Vehículo UIC": "437142700263",
+     "Origen - destino": "GRISEN - LEZO RENTERÍA",
+     "Mercancía": "VEHÍCULOS CARRETERA",
+     "Ejes": "3",
+     "Masa remolcada (Tm.)": "26,5"
+    },
+    {
+     "Nº orden composición": "17º",
+     "Serie": "PMA",
+     "Nº Vehículo UIC": "437142701857",
+     "Origen - destino": "GRISEN - LEZO RENTERÍA",
+     "Mercancía": "VEHÍCULOS CARRETERA",
+     "Ejes": "3",
+     "Masa remolcada (Tm.)": "26,5"
+    },
+    {
+     "Nº orden composición": "TOTAL",
+     "Serie": "",
+     "Nº Vehículo UIC": "",
+     "Origen - destino": "",
+     "Mercancía": "",
+     "Ejes": "51",
+     "Masa remolcada (Tm.)": "407,9"
+    }
+   ],
+   "cita": "| Nº orden composición | Serie | Nº Vehículo UIC | Origen - destino | Mercancía | Ejes | Masa remolcada (Tm.) |   |   |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0043/2015",
+   "pagina": 1,
+   "cita": "nº 0043/2015 ocurrido el 02.09.2015",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2 de septiembre de 2015, a las 04:48 h, el tren de mercancías 93565 de Renfe Mercancías, con 17 vagones portacoches cargados, arrolló a 90 km/h una barra de carril de 180 m acopiada junto a la vía en el pk 165+409 de la línea 710 (Altsasu–Castejón de Ebro), entre Biurrun-Campanas y Noaín (Navarra). El extremo de cola de la barra, levantado 40 cm sobre las traviesas, invadía el gálibo de la vía. La barra penetró 15 m bajo el primer vagón y fue arrastrada por el tren durante 15 km hasta Pamplona, causando daños materiales en infraestructura, material rodante y carga. No hubo víctimas. La causa probable fue una manipulación indebida o acto malintencionado sobre la barra, cuyos extremos no estaban asegurados conforme a la norma NAV 3-0-1.0.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2015-09-02",
+    "hora": "04:47:32",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Noaín",
+     "pk": "165+409",
+     "linea": "710 (Altsasu a Castejón de Ebro)",
+     "provincia": "Navarra",
+     "descripcion_lugar": "Curva a derechas de radio 494 m, peralte 120 mm, pendiente 7,2 milésimas, entre Biurrun-Campanas y Noaín, ya próximo a Noaín. Vía única electrificada de ancho ibérico."
+    }
+   },
+   "pagina": 5,
+   "cita": "Los hechos tienen lugar el día 2 de septiembre de 2015 a las 04:48 horas, en plena vía, pk 165+409 de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura (ADIF): 101.712,01 € (Instalaciones de Seguridad, Telecomunicaciones y Fibra Óptica: 87.450,66 €; Infraestructura y vía: 13.161,67 €; Electrificación y subestaciones: 1.099,68 €). Daños en locomotora (quitarreses, arenero, cable-captador, bogies), en vagones PMA (rejillas, distribuidor de freno, truck del primer vagón) y en vehículos OPEL transportados. Sin daños al medio ambiente.",
+    "afectacion_servicio": "Duración total: 126 horas (04:48 del 02/09 al 11:00 del 07/09/2015). Retrasos: 680 min a 30 trenes de Larga Distancia, 198 min a 8 trenes de Larga Distancia, 17 min a 1 tren de Corta Distancia, 1.101 min a 15 trenes de Mercancías. Suspensión de circulación entre Pamplona y Biurrun-Campanas. Bloqueo Telefónico Supletorio entre Noaín y Pamplona. No se estableció Plan Alternativo de Transporte. No se realizaron transbordos de viajeros ni supresiones de trenes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Arrollamiento de una barra de carril de 180 m acopiada junto al hilo exterior (hilo alto) de la vía, cuyo extremo de cola (lado Castejón) se desplazó e invadió el gálibo, quedando levantado 40 cm sobre las traviesas. La barra no tenía los extremos asegurados conforme a la norma NAV 3-0-1.0. Se desconoce la causa exacta de la invasión; la más probable es una manipulación indebida o acto malintencionado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Temperaturas anormalmente altas en julio y agosto seguidas de un descenso drástico de temperatura el día anterior al suceso (posible deformación térmica de la barra).",
+    "Posición de la barra junto al hilo alto de la vía en una curva, que pudo favorecer su deslizamiento hacia el carril por acción de las lluvias.",
+    "Vibraciones producidas por el paso de circulaciones ferroviarias.",
+    "No aseguramiento de los extremos de la barra conforme a la norma NAV 3-0-1.0.",
+    "El maquinista no dio importancia al golpe inicial ni a la avería antibloqueo, continuando la marcha durante 15 km sin percatarse del arrastre."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ninguna identificada por la CIAF en el marco normativo ni en la aplicación del sistema de gestión de la seguridad."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Cuando se prevea que una barra de carril acopiada junto a una vía en servicio va a estar en esta situación durante un periodo considerable de tiempo hasta su utilización, se procederá a la fijación de sus extremos de forma conveniente.",
+     "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) / ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)"
+    }
+   ],
+   "pagina": 6,
+   "cita": "43/15 -1 Cuando se prevea que una barra de carril acopiada junto a una vía en servicio va a estar en esta situación durante un periodo considerable de tiempo hasta su utilización, se procederá a la fijación de sus e",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Cuando se prevea que una barra de carril acopiada junto a una vía en servicio va a estar en esta situación durante un periodo considerable de tiempo hasta su utilización, se procederá a la fijación de sus extremos de forma conveniente.",
+     "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) / ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)"
+    }
+   ],
+   "pagina": 6,
+   "cita": "43/15 -1 Cuando se prevea que una barra de carril acopiada junto a una vía en servicio va a estar en esta situación durante un periodo considerable de tiempo hasta su utilización, se procederá a la fijación de sus e",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de una barra de carril",
+   "pagina": 28,
+   "cita": "El suceso se produce por arrollamiento de una barra de carril de 180 m que se encontraba",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif"
+   ],
+   "pagina": 13,
+   "cita": "Adif. Asimismo, en esa misma banda de mantenimiento estaba programado, según acta de trabajos nº 380 entre el 1 y el 5 de septiembre y desde las 02:00 y las 05:00 horas, la realización de una reparación de canalizaci",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2015-09-02",
+   "pagina": 5,
+   "cita": "Los hechos tienen lugar el día 2 de septiembre de 2015 a las 04:48 horas, en plena vía, pk 165+409 de",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "04:47:32",
+   "pagina": 21,
+   "cita": "A las 04:47:32 horas, el tren arrolla la barra en el pk 165+409, a una velocidad de 90 km/hora.",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Noaín",
+    "pk": "165+409",
+    "linea": "710 (Altsasu a Castejón de Ebro)",
+    "provincia": "Navarra",
+    "descripcion_lugar": "Curva a derechas de radio 494 m, peralte 120 mm, pendiente 7,2 milésimas, entre Biurrun-Campanas y Noaín, ya próximo a Noaín. Vía única electrificada de ancho ibérico."
+   },
+   "pagina": 7,
+   "cita": "Lugar: pk 165+409, entre Biurrun-Campanas y Noaín.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "165+409",
+   "pagina": 5,
+   "cita": "Los hechos tienen lugar el día 2 de septiembre de 2015 a las 04:48 horas, en plena vía, pk 165+409 de",
+   "origen": "importado",
+   "regla": "db:pk",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora Tipo 100N (UIC 957102530210, masa 88 Tm, propiedad RENFE OPERADORA); 17 vagones PMA de tres ejes (tara 26.500 kg, carga máx 19,5 Tm, velocidad máx 100 km/h, longitud entre topes 26,500 m). Longitud total del tren: 470 m. Carga: vehículos OPEL.",
+    "averia": "Registrador de seguridad TELOC 2500 en la locomotora. Avería del sistema antibloqueo detectada a las 04:47:38 (6 s tras el impacto). El tren pasó por el pk del arrollamiento a 90 km/h, dentro del límite.",
+    "mantenimiento": "No se menciona deficiencia de mantenimiento en el material rodante. Los equipos de seguridad del tren funcionaron correctamente hasta el arrollamiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El 21 de mayo de 2015 se descargaron y acopiaron tres barras de carril de 180 m al lado del hilo exterior (hilo alto) de la vía en la curva entre los pk 165+251 y 165+810, en previsión de sustituir carriles desgastados a partir del 7 de septiembre. Los extremos de las barras no fueron asegurados convenientemente. Durante los meses de julio y agosto se registraron temperaturas anormalmente altas, y la víspera del suceso hubo vientos, fuertes lluvias y un descenso drástico de temperatura.\n\nEl 2 de septiembre de 2015, el tren 93565 de Renfe Mercancías, con locomotora 100N y 17 vagones PMA cargados con vehículos OPEL, salió de Grisén (Zaragoza) a las 02:25 h con destino Lezo-Rentería (Guipúzcoa). A las 04:47:32 h pasó por el pk 165+409 a 90 km/h y golpeó con el quitarreses el extremo de cola de la barra intermedia, que estaba levantada 40 cm sobre las traviesas e invadiendo el gálibo. El impacto provocó un movimiento de vaivén: la barra volvió a golpear el primer vagón a la altura del nexo entre el eje y el bastidor (truck), penetrando 15 m bajo el vagón. El resto de la barra (164 m) se dobló 180º y fue arrastrada por el tren fuera de la vía durante unos 15 km.\n\nEl maquinista notó un pequeño golpe y, seis segundos después (04:47:38), la locomotora marcó avería antibloqueo, pero no le dio importancia y continuó la marcha. El tren pasó por Noaín y el paso a nivel de Esquiroz sin detenerse. A las 05:09:24 h se detuvo en Pamplona tras ser advertido por el jefe de circulación. El maquinista inspeccionó la locomotora sin detectar la barra. A las 05:14:35 h, a requerimiento del jefe de circulación, se confirmó que llevaba un carril enganchado. El tren quedó suprimido en Pamplona y la barra fue retirada a las 21:25 h.\n\nEl suceso causó daños materiales en infraestructura (101.712,01 € valorados por ADIF), en material rodante y en la carga, pero no se produjeron víctimas mortales ni heridos. La investigación concluyó que la invasión del gálibo se debió probablemente a una manipulación indebida o acto malintencionado, favorecida por las condiciones medioambientales y la no sujeción de los extremos de la barra.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Noaín",
+    "pk": "165+409",
+    "linea": "710 (Altsasu a Castejón de Ebro)",
+    "provincia": "Navarra",
+    "descripcion_lugar": "Curva a derechas de radio 494 m, peralte 120 mm, pendiente 7,2 milésimas, entre Biurrun-Campanas y Noaín, ya próximo a Noaín. Vía única electrificada de ancho ibérico."
+   },
+   "pagina": 7,
+   "cita": "Lugar: pk 165+409, entre Biurrun-Campanas y Noaín.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura (ADIF): 101.712,01 € (Instalaciones de Seguridad, Telecomunicaciones y Fibra Óptica: 87.450,66 €; Infraestructura y vía: 13.161,67 €; Electrificación y subestaciones: 1.099,68 €). Daños en locomotora (quitarreses, arenero, cable-captador, bogies), en vagones PMA (rejillas, distribuidor de freno, truck del primer vagón) y en vehículos OPEL transportados. Sin daños al medio ambiente.",
+    "afectacion_servicio": "Duración total: 126 horas (04:48 del 02/09 al 11:00 del 07/09/2015). Retrasos: 680 min a 30 trenes de Larga Distancia, 198 min a 8 trenes de Larga Distancia, 17 min a 1 tren de Corta Distancia, 1.101 min a 15 trenes de Mercancías. Suspensión de circulación entre Pamplona y Biurrun-Campanas. Bloqueo Telefónico Supletorio entre Noaín y Pamplona. No se estableció Plan Alternativo de Transporte. No se realizaron transbordos de viajeros ni supresiones de trenes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 93565",
+     "implicacion": "Matrícula 8870065, Gerencia de Mercancías Norte de RENFE MERCANCÍAS, residencia en Pamplona. Antigüedad en la empresa desde 11.07.1981, en el cargo desde 02.12.2005. Licencia Tipo B, habilitación línea 710 y vehículo. Al notar el golpe no le dio importancia y continuó la marcha sin percatarse del arrastre. Inspeccionó la locomotora en Pamplona sin detectar la barra. Control de alcoholemia negativo (0,00 mg/100 cc). Jornada dentro de límites legales."
+    }
+   ],
+   "pagina": 10,
+   "cita": "Maquinista del tren 93565: Se identifica como matrícula 8870065, perteneciente a la Gerencia de",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "93565",
+     "tipo": "Mercancías (portacoches)",
+     "operador": "RENFE MERCANCÍAS",
+     "danos": "Locomotora 100N: mordida circular de 20 cm en quitarreses, tubería del arenero delantero izquierdo arrancada, falta de cable-captador de temperatura, bogies girados a la izquierda. Vagones PMA: barra encajada 15 m en truck izquierdo del primer vagón (437142701501), daños en rejillas de protección de plataformas, distribuidor de freno y varios coches OPEL transportados."
+    }
+   ],
+   "pagina": 5,
+   "cita": "El Tren 93565 propiedad de la Empresa RENFE MERCANCÍAS, con origen en Grisen y destino Lezo-",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora Tipo 100N (UIC 957102530210, masa 88 Tm, propiedad RENFE OPERADORA); 17 vagones PMA de tres ejes (tara 26.500 kg, carga máx 19,5 Tm, velocidad máx 100 km/h, longitud entre topes 26,500 m). Longitud total del tren: 470 m. Carga: vehículos OPEL.",
+    "averia": "Registrador de seguridad TELOC 2500 en la locomotora. Avería del sistema antibloqueo detectada a las 04:47:38 (6 s tras el impacto). El tren pasó por el pk del arrollamiento a 90 km/h, dentro del límite.",
+    "mantenimiento": "No se menciona deficiencia de mantenimiento en el material rodante. Los equipos de seguridad del tren funcionaron correctamente hasta el arrollamiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 14,
+   "cita": "A las 05:28 horas, el puesto de mando contacta con personal de Mantenimiento de Infraestructura para",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático en Vía Única (BAU), CTC gestionado desde el puesto de mando de Miranda de Ebro",
+    "tipo_via": "Vía única, ancho ibérico, carriles de 54 kg/m, traviesas de hormigón pretensado tipo monobloque, balasto",
+    "velocidad_maxima": "100 km/h",
+    "ancho": "Ibérico",
+    "electrificacion": "Electrificada",
+    "estado_via": "Carriles desgastados entre pk 165+228 y 165+768 (sustitución programada a partir del 7/09/2015). Curva a derechas de radio 494 m, peralte 120 mm, pendiente 7,2 milésimas. Funcionamiento correcto hasta el arrollamiento; después daños en circuitos de vía, señales y propia vía.",
+    "otro": "Comunicaciones: radiotelefonía Tren-Tierra modalidad A (Tren-puesto de mando) y modalidad C (Tren-jefe de circulación de Pamplona). Paso a nivel de Esquiroz tipo C automático en pk 171+201."
+   },
+   "pagina": 11,
+   "cita": "Velocidad máxima: 100 km/h",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo Automático en Vía Única (BAU), CTC gestionado desde el puesto de mando de Miranda de Ebro",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Las comunicaciones se realizan a través de los sistemas de radiotelefonía instalados en la línea: Tren \nTierra modalidad A entre el Tren y el puesto de mando y radiotelefonía en modalidad C entre el Tren y \nel Jefe de circulación de Pamplona.",
+   "pagina": 13,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": "El acta de trabajos nº 23 del 31 de agosto al 6 de septiembre de 2015 en la banda 6101 preveía entre \nCastejón de Ebro y Altsasua la recogida y descarga de materiales por trayectos, con corte de tensión de \ncatenaria de ser necesario y con un intervalo de corte de las vías de 2:00 a 5:00. Esta actividad \ncorrespondía a las obras de renovación de vía que entre el 5 de enero y el 31 de diciembre debía realizar \nAdif.  \nAsimismo, en esa misma banda de mantenimiento estaba programado, según acta de trabajos nº 380 \nentre el 1 y el 5 de septiembre y desde las 02:00 y las 05:00 horas, la realización de una reparación de \ncanalización en las proximidades de Noain, más concretamente en el paso superior del pk 167+834, por \nlo que esta actividad en principio, no tuvo relación alguna con la incidencia. \nEntre el tren anterior, que pasó por el PK del accidente a las 23:42 pero en sentido contrario, no se \nrealizaron trabajos en el Pk del arrollamiento.  La barra objeto del suceso, junto con otras, fueron \ndescargadas el 21 de mayo de 2015. Estaba programada mediante acta de trabajos la sustitución del \ncarril izquierdo a partir del 7 de septiembre, con el fin de corregir el desgaste de carril existente entre los \npk 165+228 y 165+768, es decir, en la curva en donde se situaba el carril que provocó el siniestro.",
+   "pagina": 13,
+   "cita": "2.2.5. Obras en el lugar o cercanías",
+   "origen": "determinista",
+   "regla": "sec:^obras en el lugar o cercan[íi]as$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura (ADIF): 101.712,01 € (Instalaciones de Seguridad, Telecomunicaciones y Fibra Óptica: 87.450,66 €; Infraestructura y vía: 13.161,67 €; Electrificación y subestaciones: 1.099,68 €). Daños en locomotora (quitarreses, arenero, cable-captador, bogies), en vagones PMA (rejillas, distribuidor de freno, truck del primer vagón) y en vehículos OPEL transportados. Sin daños al medio ambiente.",
+    "afectacion_servicio": "Duración total: 126 horas (04:48 del 02/09 al 11:00 del 07/09/2015). Retrasos: 680 min a 30 trenes de Larga Distancia, 198 min a 8 trenes de Larga Distancia, 17 min a 1 tren de Corta Distancia, 1.101 min a 15 trenes de Mercancías. Suspensión de circulación entre Pamplona y Biurrun-Campanas. Bloqueo Telefónico Supletorio entre Noaín y Pamplona. No se estableció Plan Alternativo de Transporte. No se realizaron transbordos de viajeros ni supresiones de trenes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura (ADIF): 101.712,01 € (Instalaciones de Seguridad, Telecomunicaciones y Fibra Óptica: 87.450,66 €; Infraestructura y vía: 13.161,67 €; Electrificación y subestaciones: 1.099,68 €). Daños en locomotora (quitarreses, arenero, cable-captador, bogies), en vagones PMA (rejillas, distribuidor de freno, truck del primer vagón) y en vehículos OPEL transportados. Sin daños al medio ambiente.",
+    "afectacion_servicio": "Duración total: 126 horas (04:48 del 02/09 al 11:00 del 07/09/2015). Retrasos: 680 min a 30 trenes de Larga Distancia, 198 min a 8 trenes de Larga Distancia, 17 min a 1 tren de Corta Distancia, 1.101 min a 15 trenes de Mercancías. Suspensión de circulación entre Pamplona y Biurrun-Campanas. Bloqueo Telefónico Supletorio entre Noaín y Pamplona. No se estableció Plan Alternativo de Transporte. No se realizaron transbordos de viajeros ni supresiones de trenes."
+   },
+   "pagina": 11,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura (ADIF): 101.712,01 € (Instalaciones de Seguridad, Telecomunicaciones y Fibra Óptica: 87.450,66 €; Infraestructura y vía: 13.161,67 €; Electrificación y subestaciones: 1.099,68 €). Daños en locomotora (quitarreses, arenero, cable-captador, bogies), en vagones PMA (rejillas, distribuidor de freno, truck del primer vagón) y en vehículos OPEL transportados. Sin daños al medio ambiente.",
+    "afectacion_servicio": "Duración total: 126 horas (04:48 del 02/09 al 11:00 del 07/09/2015). Retrasos: 680 min a 30 trenes de Larga Distancia, 198 min a 8 trenes de Larga Distancia, 17 min a 1 tren de Corta Distancia, 1.101 min a 15 trenes de Mercancías. Suspensión de circulación entre Pamplona y Biurrun-Campanas. Bloqueo Telefónico Supletorio entre Noaín y Pamplona. No se estableció Plan Alternativo de Transporte. No se realizaron transbordos de viajeros ni supresiones de trenes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora Tipo 100N (UIC 957102530210, masa 88 Tm, propiedad RENFE OPERADORA); 17 vagones PMA de tres ejes (tara 26.500 kg, carga máx 19,5 Tm, velocidad máx 100 km/h, longitud entre topes 26,500 m). Longitud total del tren: 470 m. Carga: vehículos OPEL.",
+    "averia": "Registrador de seguridad TELOC 2500 en la locomotora. Avería del sistema antibloqueo detectada a las 04:47:38 (6 s tras el impacto). El tren pasó por el pk del arrollamiento a 90 km/h, dentro del límite.",
+    "mantenimiento": "No se menciona deficiencia de mantenimiento en el material rodante. Los equipos de seguridad del tren funcionaron correctamente hasta el arrollamiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático en Vía Única (BAU), CTC gestionado desde el puesto de mando de Miranda de Ebro",
+    "tipo_via": "Vía única, ancho ibérico, carriles de 54 kg/m, traviesas de hormigón pretensado tipo monobloque, balasto",
+    "velocidad_maxima": "100 km/h",
+    "ancho": "Ibérico",
+    "electrificacion": "Electrificada",
+    "estado_via": "Carriles desgastados entre pk 165+228 y 165+768 (sustitución programada a partir del 7/09/2015). Curva a derechas de radio 494 m, peralte 120 mm, pendiente 7,2 milésimas. Funcionamiento correcto hasta el arrollamiento; después daños en circuitos de vía, señales y propia vía.",
+    "otro": "Comunicaciones: radiotelefonía Tren-Tierra modalidad A (Tren-puesto de mando) y modalidad C (Tren-jefe de circulación de Pamplona). Paso a nivel de Esquiroz tipo C automático en pk 171+201."
+   },
+   "pagina": 11,
+   "cita": "Velocidad máxima: 100 km/h",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Horas nocturnas sin condiciones meteorológicas desfavorables el día del suceso. El día anterior (1 de septiembre): vientos, fuertes lluvias y bajada muy drástica de temperaturas tras meses de julio y agosto con temperaturas anormalmente altas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Navarra",
+    "municipio": null,
+    "estacion": "Noaín"
+   },
+   "pagina": 7,
+   "cita": "Provincia: Navarra. Comunidad Autónoma: Navarra. 2.1.2. Descripción del suceso Los hechos tienen lugar el día 2 de septiembre de 2015 a las 04:48 horas, en plena vía, pk 165+409 de la línea 710 de Altsasua a Castejón",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Horas nocturnas sin condiciones meteorológicas desfavorables el día del suceso. El día anterior (1 de septiembre): vientos, fuertes lluvias y bajada muy drástica de temperaturas tras meses de julio y agosto con temperaturas anormalmente altas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo Automático en Vía Única (BAU), CTC gestionado desde el puesto de mando de Miranda de Ebro",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático en Vía Única (BAU), CTC gestionado desde el puesto de mando de Miranda de Ebro",
+    "tipo_via": "Vía única, ancho ibérico, carriles de 54 kg/m, traviesas de hormigón pretensado tipo monobloque, balasto",
+    "velocidad_maxima": "100 km/h",
+    "ancho": "Ibérico",
+    "electrificacion": "Electrificada",
+    "estado_via": "Carriles desgastados entre pk 165+228 y 165+768 (sustitución programada a partir del 7/09/2015). Curva a derechas de radio 494 m, peralte 120 mm, pendiente 7,2 milésimas. Funcionamiento correcto hasta el arrollamiento; después daños en circuitos de vía, señales y propia vía.",
+    "otro": "Comunicaciones: radiotelefonía Tren-Tierra modalidad A (Tren-puesto de mando) y modalidad C (Tren-jefe de circulación de Pamplona). Paso a nivel de Esquiroz tipo C automático en pk 171+201."
+   },
+   "pagina": 11,
+   "cita": "Velocidad máxima: 100 km/h",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Las comunicaciones se realizan a través de los sistemas de radiotelefonía instalados en la línea: Tren \nTierra modalidad A entre el Tren y el puesto de mando y radiotelefonía en modalidad C entre el Tren y \nel Jefe de circulación de Pamplona.",
+   "pagina": 13,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora Tipo 100N (UIC 957102530210, masa 88 Tm, propiedad RENFE OPERADORA); 17 vagones PMA de tres ejes (tara 26.500 kg, carga máx 19,5 Tm, velocidad máx 100 km/h, longitud entre topes 26,500 m). Longitud total del tren: 470 m. Carga: vehículos OPEL.",
+    "averia": "Registrador de seguridad TELOC 2500 en la locomotora. Avería del sistema antibloqueo detectada a las 04:47:38 (6 s tras el impacto). El tren pasó por el pk del arrollamiento a 90 km/h, dentro del límite.",
+    "mantenimiento": "No se menciona deficiencia de mantenimiento en el material rodante. Los equipos de seguridad del tren funcionaron correctamente hasta el arrollamiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": "A las 05:03 horas, el puesto de mando de Miranda de Ebro informa a Logística de la desconexión de la \nestación de Noain, de la ocupación de varios circuitos de vía entre Noain y Pamplona y de la falta de \ninformación de la vía 3 y de las agujas A5 y A8 de Noain.  \nA las 05:28 horas, el puesto de mando de Miranda de Ebro contacta con personal de mantenimiento de \ninfraestructura para confirmar daños en instalaciones y vía.  \n\n## Página 24\n\n \n \n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0043/2015 ocurrido el 02.09.2015 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n170530-150902-IF-CIAF.docx \n \n \nPág. 24 de 29  \nSe dispone la suspensión de la circulación entre Pamplona y Biurrun-Campanas y la salida de la vagoneta \nde electrificación PP 620 de Pamplona hacia Biurrun a las 05:45 horas.  \nDurante el desarrollo de la incidencia, el puesto de mando informa a la Gerencia de Área Norte de \nSeguridad en la Circulación de ADIF, a la Gerencia de Protección y Seguridad Norte de ADIF, a la \nDelegación Territorial de Seguridad Norte de RENFE OPERADORA y a cuantos Servicios se encontraban \nafectados por la incidencia.  \nA las 06:00 horas, el puesto de mando de Miranda de Ebro moviliza agentes de instalaciones de seguridad \nde Pamplona, Castejón de Ebro y Logroño.  \nEl puesto de mando de Miranda de Ebro moviliza al SIC de Pamplona para la apertura de la estación de \nNoain y establecimiento del bloqueo telefónico supletorio entre las estaciones de Noain y Pamplona a las \n08:15 horas.  \nA las 10:00 horas, la estación de Noain queda operativa para realizar cruces.",
+   "pagina": 23,
+   "cita": "3.5.1. Medidas tomadas por el personal de circulación",
+   "origen": "determinista",
+   "regla": "sec:^medidas tomadas por el personal de circulaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Barras acopiadas sin extremos asegurados",
+    "Probable manipulación indebida de barra",
+    "Falta de aseguramiento de extremos",
+    "No se detectó anomalía en inspecciones"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Maquinista del tren 93565: Se identifica como Matrícula: 8870065, perteneciente a la Gerencia de \nMercancías Norte de RENFE MERCANCÍAS, con una Antigüedad en la Empresa desde 11.07.1981 y en el \nCargo desde 02.12.2005.  \nTiene como formación Licencia Conducción Tipo B obtenida con fecha 02.12.2005, conforme Orden FOM \n679/2015, de 9 de abril. Como cursos de reciclaje: Reciclaje Mantenimiento Título B, de fecha 03.02.2014; \nHabilitación línea 710 de fecha 31.12.2004; Habilitación vehículo, de fecha 22.04.2010. \nLa última renovación del Certificado de Aptitud Psicofísica fue de 06.11. 2015.",
+   "pagina": 20,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "Jornada laboral de maquinista del tren 93565 \nEn el momento del arrollamiento: la jornada laboral es de 5 horas y 26 minutos, de las que 3 horas y 30 \nminutos habían sido de conducción efectiva.  \nEn las 24 anteriores: realiza una jornada de 5 horas y 56 minutos con 3 horas y 42 minutos de conducción. \nEn las 48 horas anteriores: descanso. \nEn la fecha del arrollamiento, se practica control de alcoholemia al maquinista del tren 93565 con resultado \nnegativo (0,00 mg de alcohol / 100 cc.)",
+   "pagina": 25,
+   "cita": "3.6.  INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Jornada laboral de maquinista del tren 93565 \nEn el momento del arrollamiento: la jornada laboral es de 5 horas y 26 minutos, de las que 3 horas y 30 \nminutos habían sido de conducción efectiva.  \nEn las 24 anteriores: realiza una jornada de 5 horas y 56 minutos con 3 horas y 42 minutos de conducción. \nEn las 48 horas anteriores: descanso. \nEn la fecha del arrollamiento, se practica control de alcoholemia al maquinista del tren 93565 con resultado \nnegativo (0,00 mg de alcohol / 100 cc.)",
+   "pagina": 25,
+   "cita": "3.6.  INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El 21 de mayo de 2015 se descargaron y acopiaron tres barras de carril de 180 m al lado del hilo exterior (hilo alto) de la vía en la curva entre los pk 165+251 y 165+810, en previsión de sustituir carriles desgastados a partir del 7 de septiembre. Los extremos de las barras no fueron asegurados convenientemente. Durante los meses de julio y agosto se registraron temperaturas anormalmente altas, y la víspera del suceso hubo vientos, fuertes lluvias y un descenso drástico de temperatura.\n\nEl 2 de septiembre de 2015, el tren 93565 de Renfe Mercancías, con locomotora 100N y 17 vagones PMA cargados con vehículos OPEL, salió de Grisén (Zaragoza) a las 02:25 h con destino Lezo-Rentería (Guipúzcoa). A las 04:47:32 h pasó por el pk 165+409 a 90 km/h y golpeó con el quitarreses el extremo de cola de la barra intermedia, que estaba levantada 40 cm sobre las traviesas e invadiendo el gálibo. El impacto provocó un movimiento de vaivén: la barra volvió a golpear el primer vagón a la altura del nexo entre el eje y el bastidor (truck), penetrando 15 m bajo el vagón. El resto de la barra (164 m) se dobló 180º y fue arrastrada por el tren fuera de la vía durante unos 15 km.\n\nEl maquinista notó un pequeño golpe y, seis segundos después (04:47:38), la locomotora marcó avería antibloqueo, pero no le dio importancia y continuó la marcha. El tren pasó por Noaín y el paso a nivel de Esquiroz sin detenerse. A las 05:09:24 h se detuvo en Pamplona tras ser advertido por el jefe de circulación. El maquinista inspeccionó la locomotora sin detectar la barra. A las 05:14:35 h, a requerimiento del jefe de circulación, se confirmó que llevaba un carril enganchado. El tren quedó suprimido en Pamplona y la barra fue retirada a las 21:25 h.\n\nEl suceso causó daños materiales en infraestructura (101.712,01 € valorados por ADIF), en material rodante y en la carga, pero no se produjeron víctimas mortales ni heridos. La investigación concluyó que la invasión del gálibo se debió probablemente a una manipulación indebida o acto malintencionado, favorecida por las condiciones medioambientales y la no sujeción de los extremos de la barra.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1.  DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nLos hechos tienen lugar el día 2 de septiembre de 2015 a las 04:48 horas, en plena vía, pk 165+409 de \nla línea 710 de Altsasua a Castejón de Ebro, entre Biurrún-Campanas y Noaín. \nEl 21 de mayo de 2015 se procede a la descarga y acopio de barras en la zona del suceso, con objeto de \nsustituir más adelante carriles desgastados en el tramo.  Así pues, en la curva existente entre el Pk \n165+251 y el Pk 165+810, de 494 m. de radio, se depositan al lado del hilo exterior (hilo alto) tres barras \nde 180 m cada una sin asegurar los extremos de las mismas, estando prevista su colocación con \nposterioridad. Más concretamente, esta actividad estaba programada mediante acta de trabajos a partir \ndel 7 de septiembre de 2015.   \nDurante los meses de julio y agosto se registraron temperaturas anormalmente altas en la zona y el día \nanterior se dieron condiciones meteorológicas adversas, con vientos y fuertes lluvias y una bajada muy \ndrástica de las temperaturas. \nDebido posiblemente a una manipulación indebida o a un acto mal intencionado, la barra de carril de 180 \nm intermedia se desplaza, quedando el extremo de cola (lado Castejón) levantado 40 cm por encima de \nlas traviesas y ocupando el gálibo de vía.     \nEl tren 93656 de Renfe Mercancías, con origen Grisén (Zaragoza) y destino Lezo Rentería (Guipuzcoa) con \n17 vagones portacoches cargados, sale de Grisén a las 02:25 h del día 2 de septiembre de 2015 y circula \n\n## Página 26\n\n \n \n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0043/2015 ocurrido el 02.09.2015 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n170530-150902-IF-CIAF.docx \n \n \nPág. 26 de 29  \ncon normalidad. A las 4:47:32 h efectúa su paso por el Pk 165+409 a 90 Km/h, golpeando el extremo de \nla barra antes citada con el quitarreses.  \nA resultas del golpe, se produce en la barra un movimiento de vaivén, por lo que vuelve a golpear \nnuevamente pero esta vez contra el primer vagón, a la altura del nexo de unión entre el eje y el bastidor \n(truck), que penetra bajo el vagón hasta una longitud de 15m. El resto de la barra se dobla 180º y es \narrastrada por el tren por fuera de la vía. \nEl maquinista nota el impacto en el quitarreses y 6 segundos más tarde (04:47:38) le marca la locomotora \navería antibloqueo, pero no le da importancia (según su propia declaración), por lo que continúa la marcha \nnormalmente, sin percatarse del arrastre de la barra que, en su movimiento ondulatorio, va produciendo \npor donde pasa numerosos daños en la infraestructura y también en los vagones. \nAsí pues, a las 4:49:03 el tren pasa por la señal de entrada E1 de la estación de Noaín (Pk 167/722) en \nindicación de vía libre manteniendo la velocidad de 90 Km/h. \nSupera dicha estación (Pk 168+347) y seguidamente el paso a nivel (Pk 171+201, protegido tipo C \nautomático) de la carretera de Esquiroz a Pamplona, habiendo reducido la velocidad a los 77 Km/h, que \nmantiene hasta la señal de bloqueo 1725 (Pk 172/426) que indica vía libre.  A partir de aquí reduce la \nvelocidad hasta los 30 Km/h (por limitación de velocidad), que mantiene hasta pasada la señal de bloqueo \n1761 (Pk 176/175) en indicación de vía libre, aumentando la velocidad hasta su paso a las 05:02:27 por \nla señal de entrada E3 (Pk 177+623) de la estación de Pamplona en indicación de anuncio de precaución \na 51 Km/h, y reduciendo seguidamente ésta para pasar a las 05:06:59 por la señal E1 (Pk 180+080) en \nindicación de anuncio de parada a 22 Km/h.  \nSeguidamente el maquinista del tren 93565 es advertido por el jefe de circulación de Pamplona de que \ntiene un problema, y éste le confirma que va a parar para verificarlo, deteniendo el tren a las 5:09:24 en \nel Pk 180+764.  \nEl maquinista informa al jefe de circulación de Pamplona que no ha visto nada en la locomotora, \nreanudando la marcha a las 05:15:09. A continuación, el jefe de circulación de Pamplona le confirma al \nmaquinista que lleva un carril enganchado y éste estaciona el tren (Pk 181+103) a las 05:16:03. \n4.2.  DELIBERACIÓN \nEl maquinista se encuentra en posesión de la habilitación de conducción título B, así como de las \nhabilitaciones correspondientes a la línea y al vehículo motor, todos ellos en vigor. \n\n## Página 27\n\n \n \n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0043/2015 ocurrido el 02.09.2015 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n170530-150902-IF-CIAF.docx \n \n \nPág. 27 de 29  \nTanto en el día del accidente como en las 24 y 48 horas anteriores, las jornadas de conducción realizadas \npor este agente están dentro de las máximas legales permitidas. \nLas instalaciones de la línea funcionaron correctamente hasta el momento del arrollamiento, no teniéndose \nconstancia de que en las visitas a pie o en cabina realizadas se hubiese detectado alguna anomalía en el \nestado del carril acopiado. \nEl análisis del registro jurídico de la locomotora 253021 determina que el tren 93565 arrolla el carril a 90 \nKm/h, velocidad menor que la máxima permitida en el tramo. \nEl maquinista nota el impacto en el quitarreses y 6 segundos más tarde (04:47:38) le marca la locomotora \navería antibloqueo, pero no le da importancia (según su propia declaración), por lo que continúa la marcha \nnormalmente, sin percatarse del arrastre de la barra. Una vez en la estación de Pamplona el maquinista \ndetiene el tren e inspecciona, a instancias de su jefe de circulación, la locomotora, sin percatarse de que \nllevaba alojada en el primer vagón la barra de carril. \nEn la inspección del lugar del suceso se observan acopiadas 2 barras de carril de 180 m de longitud sin \nsus extremos asegurados faltando la barra intermedia, la arrollada. Estas tres barras fueron acopiadas en \nla vía en mayo de 2015, a la espera de su utilización, lo que estaba previsto a partir del 7 de septiembre. \nEl tren anterior que pasó por el PK del suceso fue el 59658",
+   "pagina": 25,
+   "cita": "4.  ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Arrollamiento de una barra de carril de 180 m acopiada junto al hilo exterior (hilo alto) de la vía, cuyo extremo de cola (lado Castejón) se desplazó e invadió el gálibo, quedando levantado 40 cm sobre las traviesas. La barra no tenía los extremos asegurados conforme a la norma NAV 3-0-1.0. Se desconoce la causa exacta de la invasión; la más probable es una manipulación indebida o acto malintencionado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Temperaturas anormalmente altas en julio y agosto seguidas de un descenso drástico de temperatura el día anterior al suceso (posible deformación térmica de la barra).",
+    "Posición de la barra junto al hilo alto de la vía en una curva, que pudo favorecer su deslizamiento hacia el carril por acción de las lluvias.",
+    "Vibraciones producidas por el paso de circulaciones ferroviarias.",
+    "No aseguramiento de los extremos de la barra conforme a la norma NAV 3-0-1.0.",
+    "El maquinista no dio importancia al golpe inicial ni a la avería antibloqueo, continuando la marcha durante 15 km sin percatarse del arrastre."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "De la descripción de los hechos y teniendo en cuenta las consideraciones anteriores puede concluirse que: \n4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl suceso se produce por arrollamiento de una barra de carril de 180 m que se encontraba \nacopiada al lado exterior del hilo alto de la vía, y cuyo extremo de cola (lado Castejón) se \ndesplazó, invadiendo el gálibo de vía, produciéndose su enganche en el primer vagón y su arrastre \npor el tren durante unos 15 km.  \nSe desconoce la causa de dicha invasión, estimándose como probable una manipulación indebida \nde la barra de carril o acto mal intencionado, no encontrándose sus extremos convenientemente \nasegurados, incumpliéndose lo establecido en la Norma NAV 3-0-1.0 (Ver recomendación \n43/15.1). \nComo factores coadyuvantes pueden apuntarse las siguientes: \n-Temperaturas anormalmente altas en la zona en los meses de julio y agosto, seguido de un \ndescenso drástico de la temperatura el día anterior al suceso.  \n-Posición de la propia barra, al ubicarse en el hilo alto, y que debido a las lluvias pudo favorecer \nsu deslizamiento hacia el carril. \n-Vibraciones producidas por el paso de las circulaciones. \n4.3.2. \nCausas subyacentes relacionadas con las cualificaciones del personal ferroviario y \nel mantenimiento del material rodante o de la infraestructura ferroviaria \nNinguna \n4.3.3. \nCausas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna \n \n\n## Página 29\n\n \n \n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0043/2015 ocurrido el 02.09.2015 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n170530-150902-IF-CIAF.docx \n \n \nPág. 29 de 29",
+   "pagina": 28,
+   "cita": "4.3. CONCLUSIONES De la descripción de los hechos y teniendo en cuenta las consideraciones anteriores puede concluirse que: 4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacion",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "De la descripción de los hechos y teniendo en cuenta las consideraciones anteriores puede concluirse que: \n4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl suceso se produce por arrollamiento de una barra de carril de 180 m que se encontraba \nacopiada al lado exterior del hilo alto de la vía, y cuyo extremo de cola (lado Castejón) se \ndesplazó, invadiendo el gálibo de vía, produciéndose su enganche en el primer vagón y su arrastre \npor el tren durante unos 15 km.  \nSe desconoce la causa de dicha invasión, estimándose como probable una manipulación indebida \nde la barra de carril o acto mal intencionado, no encontrándose sus extremos convenientemente \nasegurados, incumpliéndose lo establecido en la Norma NAV 3-0-1.0 (Ver recomendación \n43/15.1). \nComo factores coadyuvantes pueden apuntarse las siguientes: \n-Temperaturas anormalmente altas en la zona en los meses de julio y agosto, seguido de un \ndescenso drástico de la temperatura el día anterior al suceso.  \n-Posición de la propia barra, al ubicarse en el hilo alto, y que debido a las lluvias pudo favorecer \nsu deslizamiento hacia el carril. \n-Vibraciones producidas por el paso de las circulaciones. \n4.3.2. \nCausas subyacentes relacionadas con las cualificaciones del personal ferroviario y \nel mantenimiento del material rodante o de la infraestructura ferroviaria \nNinguna \n4.3.3. \nCausas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna \n \n\n## Página 29\n\n \n \n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0043/2015 ocurrido el 02.09.2015 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n170530-150902-IF-CIAF.docx \n \n \nPág. 29 de 29",
+   "pagina": 28,
+   "cita": "4.3. CONCLUSIONES De la descripción de los hechos y teniendo en cuenta las consideraciones anteriores puede concluirse que: 4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacion",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Cuando se prevea que una barra de carril acopiada junto a una vía en servicio va a estar en esta situación durante un periodo considerable de tiempo hasta su utilización, se procederá a la fijación de sus extremos de forma conveniente.",
+     "destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) / ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)"
+    }
+   ],
+   "pagina": 6,
+   "cita": "43/15 -1 Cuando se prevea que una barra de carril acopiada junto a una vía en servicio va a estar en esta situación durante un periodo considerable de tiempo hasta su utilización, se procederá a la fijación de sus e",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "2015-05-21",
+     "evento": "Descarga y acopio de tres barras de carril de 180 m junto a la vía en el pk 165+251 a 165+810, sin asegurar extremos."
+    },
+    {
+     "hora": "2015-09-01T23:42:00",
+     "evento": "Paso del tren 59658 en sentido contrario por el pk del suceso. Último paso previo al arrollamiento."
+    },
+    {
+     "hora": "2015-09-02T02:25:00",
+     "evento": "Salida del tren 93565 de Grisén (Zaragoza) con destino Lezo-Rentería."
+    },
+    {
+     "hora": "2015-09-02T04:46:29",
+     "evento": "Paso por señal de bloqueo 1639 (pk 163+827) en vía libre a 90 km/h."
+    },
+    {
+     "hora": "2015-09-02T04:47:32",
+     "evento": "Arrollamiento de la barra de carril en pk 165+409 a 90 km/h. Golpe con el quitarreses."
+    },
+    {
+     "hora": "2015-09-02T04:47:38",
+     "evento": "Avería antibloqueo marcada en la locomotora. El maquinista no le da importancia."
+    },
+    {
+     "hora": "2015-09-02T04:47:46",
+     "evento": "Paso por señal 1657 (pk 165+770) en vía libre a 88 km/h."
+    },
+    {
+     "hora": "2015-09-02T04:49:03",
+     "evento": "Paso por señal E1 de Noaín (pk 167+722) en vía libre a 90 km/h."
+    },
+    {
+     "hora": "2015-09-02T04:50:39",
+     "evento": "Paso por señal del paso a nivel de Esquiroz (pk 169+900) a 77 km/h."
+    },
+    {
+     "hora": "2015-09-02T05:02:27",
+     "evento": "Paso por señal E3 de Pamplona (pk 177+623) en anuncio de precaución a 51 km/h."
+    },
+    {
+     "hora": "2015-09-02T05:05:00",
+     "evento": "Jefe de circulación de Pamplona alerta al CTC sobre ocupación de aguja 7."
+    },
+    {
+     "hora": "2015-09-02T05:06:59",
+     "evento": "Paso por señal E1 de Pamplona (pk 180+080) en anuncio de parada a 22 km/h."
+    },
+    {
+     "hora": "2015-09-02T05:09:24",
+     "evento": "Parada del tren en pk 180+764. El maquinista inspecciona la locomotora y no detecta la barra."
+    },
+    {
+     "hora": "2015-09-02T05:10:00",
+     "evento": "Jefe de circulación de Pamplona alerta al maquinista de que tiene un problema."
+    },
+    {
+     "hora": "2015-09-02T05:12:02",
+     "evento": "El tren reanuda la marcha."
+    },
+    {
+     "hora": "2015-09-02T05:14:35",
+     "evento": "Parada en pk 181+009. El jefe de circulación confirma que lleva un carril enganchado."
+    },
+    {
+     "hora": "2015-09-02T05:15:09",
+     "evento": "Reanudación de la marcha hasta estacionamiento."
+    },
+    {
+     "hora": "2015-09-02T05:16:03",
+     "evento": "Estacionamiento definitivo del tren en la estación de Pamplona."
+    },
+    {
+     "hora": "2015-09-02T05:28:00",
+     "evento": "Puesto de mando contacta con Mantenimiento de Infraestructura para confirmar daños."
+    },
+    {
+     "hora": "2015-09-02T05:45:00",
+     "evento": "Salida de la vagoneta de electrificación PP 620 de Pamplona hacia Biurrun."
+    },
+    {
+     "hora": "2015-09-02T06:00:00",
+     "evento": "Movilización de agentes de instalaciones de seguridad de Pamplona, Castejón y Logroño."
+    },
+    {
+     "hora": "2015-09-02T08:15:00",
+     "evento": "Establecimiento de Bloqueo Telefónico Supletorio entre Noaín y Pamplona."
+    },
+    {
+     "hora": "2015-09-02T10:00:00",
+     "evento": "Estación de Noaín operativa para realizar cruces."
+    },
+    {
+     "hora": "2015-09-02T12:36:00",
+     "evento": "Restablecimiento de circulación normal con BAU entre Pamplona y Noaín."
+    },
+    {
+     "hora": "2015-09-02T16:31:00",
+     "evento": "Bloqueo de vía entre Biurrun-Campanas y Noaín para reposición de señales (hasta 19:32)."
+    },
+    {
+     "hora": "2015-09-02T21:25:00",
+     "evento": "Retirada del carril arrollado del primer vagón. Tren suprimido en Pamplona."
+    },
+    {
+     "hora": "2015-09-07T11:00:00",
+     "evento": "Fin de la incidencia (duración total: 126 horas)."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0043/2015",
+ "expediente": "0043/15",
+ "anio": 2015,
+ "titulo": "Arrollamiento de una barra de carril acopiada junto a la vía en Noaín (Navarra), arrastrada por un tren",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 02.09.2015 170530-150902-IF-CIAF.md"
+}

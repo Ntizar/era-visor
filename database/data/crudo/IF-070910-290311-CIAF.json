@@ -1,0 +1,964 @@
+{
+ "id": "IF-070910-290311-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/EB18BA91-3CA8-42E5-88ED-0463B723DE93/102271/IF070910290311CIAF.pdf",
+ "pdf": "pdfs/ES/IF-070910-290311-CIAF.pdf",
+ "md5_pdf": "7f410a3f51aac1e951a8baab22e5330e",
+ "paginas_md": 12,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 16,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Ayuntamiento de Zalla",
+     "Número": "50/10-1",
+     "Recomendación": "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001."
+    },
+    {
+     "Destinatario final": "Feve",
+     "Número": "50/10-2",
+     "Recomendación": "Reforzar la señalización del paso en la zona donde confluye con la salida del andén del apeadero."
+    },
+    {
+     "Destinatario final": "Feve",
+     "Número": "50/10-3",
+     "Recomendación": "Eliminar la semibarrera que es innecesaria, atendiendo al sentido de circulación del vial, y reponer las sonerías que faltan."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 12,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Ayuntamiento de Zalla",
+     "Número": "50/10-1",
+     "Recomendación": "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001."
+    },
+    {
+     "Destinatario final": "Feve",
+     "Número": "50/10-2",
+     "Recomendación": "Reforzar la señalización del paso en la zona donde confluye con la salida del andén del apeadero."
+    },
+    {
+     "Destinatario final": "Feve",
+     "Número": "50/10-3",
+     "Recomendación": "Eliminar la semibarrera que es innecesaria, atendiendo al sentido de circulación del vial, y reponer las sonerías que faltan."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0050/2010",
+   "pagina": 1,
+   "cita": "nº 0050/2010 ocurrido el 07.09.2010",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 7 de septiembre de 2010, a las 17:02 horas, el tren regular de viajeros 8939 de Feve arrolló mortalmente a una mujer de 83 años en el paso a nivel clase C 'La Papelera', en el P.K. 0+388 de la línea 1031 León–Bilbao, entre Aranguren y Zalla (Vizcaya). Los dispositivos de protección del paso estaban en funcionamiento y el tren circulaba por debajo de la velocidad máxima permitida. La causa directa fue la invasión del gálibo de la vía por la víctima al cruzar cuando pasaba el tren. Se formularon recomendaciones al Ayuntamiento de Zalla y a Feve sobre señalización, semibarreras y sonerías.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2010-09-07",
+    "hora": "17:02",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "0+388",
+     "linea": "1031 León – Bilbao",
+     "provincia": "Vizcaya",
+     "descripcion_lugar": "Paso a nivel nº 1, clase C, denominado 'La Papelera', en el P.K. 0+388 de la línea 1031 León–Bilbao, entre las estaciones de Aranguren y Zalla, en el municipio de Zalla; enclavado en la estación de Aranguren; camino urbano dependiente del Ayuntamiento de Zalla."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 7 de septiembre de 2010, a las 17:02 horas, el tren regular de viajeros 8939 de Feve arrolla",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños materiales ni a la infraestructura ni al material rodante.",
+    "afectacion_servicio": "Retraso de 32 minutos en el tren implicado; otros tres trenes de viajeros sufrieron supresiones parciales, siendo los viajeros transportados por carretera."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños materiales ni a la infraestructura ni al material rodante.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión del gálibo de la vía por la víctima al cruzar el paso a nivel cuando pasaba el tren 8939 y los dispositivos de protección se encontraban en funcionamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001.",
+    "Reforzar la señalización del paso en la zona donde confluye con la salida del andén del apeadero.",
+    "Eliminar la semibarrera que es innecesaria, atendiendo al sentido de circulación del vial, y reponer las sonerías que faltan.",
+    "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001.",
+    "Reforzar la señalización del paso en la zona donde confluye con la salida del andén del apeadero.",
+    "Eliminar la semibarrera que es innecesaria, atendiendo al sentido de circulación del vial, y reponer las sonerías que faltan."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Ayuntamiento de Zalla",
+    "Feve",
+    "Feve",
+    "Ayuntamiento de Zalla",
+    "Feve",
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento mortal",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "El día 7 de septiembre de 2010, a las 17:02 horas, el tren regular de viajeros 8939 de Feve arrolla",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2010-09-07",
+   "pagina": 3,
+   "cita": "El día 7 de septiembre de 2010, a las 17:02 horas, el tren regular de viajeros 8939 de Feve arrolla",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "17:02",
+   "pagina": 3,
+   "cita": "El día 7 de septiembre de 2010, a las 17:02 horas, el tren regular de viajeros 8939 de Feve arrolla",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "0+388",
+    "linea": "1031 León – Bilbao",
+    "provincia": "Vizcaya",
+    "descripcion_lugar": "Paso a nivel nº 1, clase C, denominado 'La Papelera', en el P.K. 0+388 de la línea 1031 León–Bilbao, entre las estaciones de Aranguren y Zalla, en el municipio de Zalla; enclavado en la estación de Aranguren; camino urbano dependiente del Ayuntamiento de Zalla."
+   },
+   "pagina": 3,
+   "cita": "1031 León – Bilbao, entre las estaciones de Aranguren y Zalla (Vizcaya), cuando los dispositivos de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "1031 León - Bilbao",
+   "pagina": 5,
+   "cita": "en el P.K. 0+388 de la línea 1031 León - Bilbao. Está enclavado en la estación de Aranguren. La",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UTE M3618-M3617; tren tipo 80",
+    "averia": "No se aprecian averías; los equipos de seguridad del tren funcionaron correctamente; velocidad al aplicar el freno de emergencia 46,4 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 7 de septiembre de 2010, el tren regular de viajeros 8939 de Feve, compuesto por las UTE M3618-M3617, procedente de Balmaseda-La Calzada y con destino Bilbao, circulaba con normalidad entre las estaciones de Zalla y Aranguren. Al aproximarse al paso a nivel clase C 'La Papelera', en el P.K. 0+388, el maquinista observó que una mujer lo cruzaba de derecha a izquierda, en sentido de la marcha del tren, cuando los dispositivos de protección estaban en funcionamiento. El maquinista accionó repetidamente el silbato y, al no observar reacción, aplicó el freno de emergencia y volvió a usar el silbato hasta 15 veces más, pero no pudo evitar el arrollamiento; la víctima quedó bajo la composición. El tren quedó detenido a las 17:02:43 horas y el inspector general de Feve comunicó el suceso a la CIAF a las 19:14 horas.",
+   "pagina": 4,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "0+388",
+    "linea": "1031 León – Bilbao",
+    "provincia": "Vizcaya",
+    "descripcion_lugar": "Paso a nivel nº 1, clase C, denominado 'La Papelera', en el P.K. 0+388 de la línea 1031 León–Bilbao, entre las estaciones de Aranguren y Zalla, en el municipio de Zalla; enclavado en la estación de Aranguren; camino urbano dependiente del Ayuntamiento de Zalla."
+   },
+   "pagina": 3,
+   "cita": "1031 León – Bilbao, entre las estaciones de Aranguren y Zalla (Vizcaya), cuando los dispositivos de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños materiales ni a la infraestructura ni al material rodante.",
+    "afectacion_servicio": "Retraso de 32 minutos en el tren implicado; otros tres trenes de viajeros sufrieron supresiones parciales, siendo los viajeros transportados por carretera."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños materiales ni a la infraestructura ni al material rodante.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 8939",
+     "implicacion": "CF 9233; habilitado; reciclaje formativo el 2010-04-30 y reconocimiento médico y psicotécnico el 2010-03-15; jornada del día 7 de 3 horas y 37 minutos, con conducción efectiva de 1 hora y 52 minutos; pruebas de alcohol y drogas negativas; accionó silbato y freno de emergencia."
+    }
+   ],
+   "pagina": 5,
+   "cita": "El maquinista del tren 8939, con carné ferroviario (CF) número 9233.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "8939",
+     "tipo": "Tren regular de viajeros tipo 80",
+     "operador": "Feve",
+     "danos": "No se producen daños materiales al material rodante."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 7 de septiembre de 2010, a las 17:02 horas, el tren regular de viajeros 8939 de Feve arrolla",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UTE M3618-M3617; tren tipo 80",
+    "averia": "No se aprecian averías; los equipos de seguridad del tren funcionaron correctamente; velocidad al aplicar el freno de emergencia 46,4 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señalización de vía: carteles de silbar a 500 y 212 m lado León, y a 500 y 240 m lado Bilbao. Paso protegido con semáforos de dos luces rojas intermitentes y acústico en los cuatro cuadrantes; señales peatonales de foco en C1 y C2; semibarreras simples en C1, C2 y C3. Señalización del camino: incompleta respecto a la Orden Ministerial de 2 de agosto de 2001; en C2 dispone de P-7, balizas P-9.a/P-9.b y R-305; en C1, C2 y C4 dispone de letras P y N, línea longitudinal continua y línea transversal continua; faltan P-15, P-9/P-10, R-301, visera en el foco derecho de la señal luminosa de C1 y sonerías en los mecanismos de barrera de C2 y C4.",
+    "tipo_via": "Vía única electrificada",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "Bloqueo automático (BAU) y control de tráfico centralizado (CTC); tramo recto con perfil en rampa de 7 milésimas; paso a nivel nº 1, clase C, 'La Papelera', en P.K. 0+388, enclavado en la estación de Aranguren; camino urbano dependiente del Ayuntamiento de Zalla; pavimento bituminoso sin contracarriles; visibilidad C1 20 m, C2 32 m, C3 31 m y C4 38 m; momento de circulación AxT 115.506 (A=1.863 y T=62); tiempo de preaviso 7 s, bajada 9 s en C1 y 10 s en C2; salida del apeadero de Aranguren situada en el medio del paso a nivel (C3); semáforos y balizamiento en C4 sin razón de ser por el sentido de circulación del vial."
+   },
+   "pagina": 5,
+   "cita": "Vía única electrificada, con bloqueo automático (BAU) y control de tráfico centralizado (CTC).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señalización de vía: carteles de silbar a 500 y 212 m lado León, y a 500 y 240 m lado Bilbao. Paso protegido con semáforos de dos luces rojas intermitentes y acústico en los cuatro cuadrantes; señales peatonales de foco en C1 y C2; semibarreras simples en C1, C2 y C3. Señalización del camino: incompleta respecto a la Orden Ministerial de 2 de agosto de 2001; en C2 dispone de P-7, balizas P-9.a/P-9.b y R-305; en C1, C2 y C4 dispone de letras P y N, línea longitudinal continua y línea transversal continua; faltan P-15, P-9/P-10, R-301, visera en el foco derecho de la señal luminosa de C1 y sonerías en los mecanismos de barrera de C2 y C4.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía analógica.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños materiales ni a la infraestructura ni al material rodante.",
+    "afectacion_servicio": "Retraso de 32 minutos en el tren implicado; otros tres trenes de viajeros sufrieron supresiones parciales, siendo los viajeros transportados por carretera."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños materiales ni a la infraestructura ni al material rodante.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños materiales ni a la infraestructura ni al material rodante.",
+    "afectacion_servicio": "Retraso de 32 minutos en el tren implicado; otros tres trenes de viajeros sufrieron supresiones parciales, siendo los viajeros transportados por carretera."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños materiales ni a la infraestructura ni al material rodante.",
+    "afectacion_servicio": "Retraso de 32 minutos en el tren implicado; otros tres trenes de viajeros sufrieron supresiones parciales, siendo los viajeros transportados por carretera."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños materiales ni a la infraestructura ni al material rodante.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTE M3618-M3617; tren tipo 80",
+    "averia": "No se aprecian averías; los equipos de seguridad del tren funcionaron correctamente; velocidad al aplicar el freno de emergencia 46,4 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señalización de vía: carteles de silbar a 500 y 212 m lado León, y a 500 y 240 m lado Bilbao. Paso protegido con semáforos de dos luces rojas intermitentes y acústico en los cuatro cuadrantes; señales peatonales de foco en C1 y C2; semibarreras simples en C1, C2 y C3. Señalización del camino: incompleta respecto a la Orden Ministerial de 2 de agosto de 2001; en C2 dispone de P-7, balizas P-9.a/P-9.b y R-305; en C1, C2 y C4 dispone de letras P y N, línea longitudinal continua y línea transversal continua; faltan P-15, P-9/P-10, R-301, visera en el foco derecho de la señal luminosa de C1 y sonerías en los mecanismos de barrera de C2 y C4.",
+    "tipo_via": "Vía única electrificada",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "Bloqueo automático (BAU) y control de tráfico centralizado (CTC); tramo recto con perfil en rampa de 7 milésimas; paso a nivel nº 1, clase C, 'La Papelera', en P.K. 0+388, enclavado en la estación de Aranguren; camino urbano dependiente del Ayuntamiento de Zalla; pavimento bituminoso sin contracarriles; visibilidad C1 20 m, C2 32 m, C3 31 m y C4 38 m; momento de circulación AxT 115.506 (A=1.863 y T=62); tiempo de preaviso 7 s, bajada 9 s en C1 y 10 s en C2; salida del apeadero de Aranguren situada en el medio del paso a nivel (C3); semáforos y balizamiento en C4 sin razón de ser por el sentido de circulación del vial."
+   },
+   "pagina": 5,
+   "cita": "Vía única electrificada, con bloqueo automático (BAU) y control de tráfico centralizado (CTC).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Vizcaya",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 3,
+   "cita": "1031 León – Bilbao, entre las estaciones de Aranguren y Zalla (Vizcaya), cuando los dispositivos de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señalización de vía: carteles de silbar a 500 y 212 m lado León, y a 500 y 240 m lado Bilbao. Paso protegido con semáforos de dos luces rojas intermitentes y acústico en los cuatro cuadrantes; señales peatonales de foco en C1 y C2; semibarreras simples en C1, C2 y C3. Señalización del camino: incompleta respecto a la Orden Ministerial de 2 de agosto de 2001; en C2 dispone de P-7, balizas P-9.a/P-9.b y R-305; en C1, C2 y C4 dispone de letras P y N, línea longitudinal continua y línea transversal continua; faltan P-15, P-9/P-10, R-301, visera en el foco derecho de la señal luminosa de C1 y sonerías en los mecanismos de barrera de C2 y C4.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señalización de vía: carteles de silbar a 500 y 212 m lado León, y a 500 y 240 m lado Bilbao. Paso protegido con semáforos de dos luces rojas intermitentes y acústico en los cuatro cuadrantes; señales peatonales de foco en C1 y C2; semibarreras simples en C1, C2 y C3. Señalización del camino: incompleta respecto a la Orden Ministerial de 2 de agosto de 2001; en C2 dispone de P-7, balizas P-9.a/P-9.b y R-305; en C1, C2 y C4 dispone de letras P y N, línea longitudinal continua y línea transversal continua; faltan P-15, P-9/P-10, R-301, visera en el foco derecho de la señal luminosa de C1 y sonerías en los mecanismos de barrera de C2 y C4.",
+    "tipo_via": "Vía única electrificada",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "Bloqueo automático (BAU) y control de tráfico centralizado (CTC); tramo recto con perfil en rampa de 7 milésimas; paso a nivel nº 1, clase C, 'La Papelera', en P.K. 0+388, enclavado en la estación de Aranguren; camino urbano dependiente del Ayuntamiento de Zalla; pavimento bituminoso sin contracarriles; visibilidad C1 20 m, C2 32 m, C3 31 m y C4 38 m; momento de circulación AxT 115.506 (A=1.863 y T=62); tiempo de preaviso 7 s, bajada 9 s en C1 y 10 s en C2; salida del apeadero de Aranguren situada en el medio del paso a nivel (C3); semáforos y balizamiento en C4 sin razón de ser por el sentido de circulación del vial."
+   },
+   "pagina": 5,
+   "cita": "Vía única electrificada, con bloqueo automático (BAU) y control de tráfico centralizado (CTC).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía analógica.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTE M3618-M3617; tren tipo 80",
+    "averia": "No se aprecian averías; los equipos de seguridad del tren funcionaron correctamente; velocidad al aplicar el freno de emergencia 46,4 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "invasión del gálibo por víctima",
+    "cruce del paso con protección activa",
+    "señalización del camino incompleta",
+    "faltan sonerías en barreras"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 8939 se encuentra habilitado para la conducción de vehículos ferroviarios en \nvirtud de la capacitación adquirida de conformidad con el estatuto propio y la normativa legal aplicable \na Feve \nRealizó su último reciclaje formativo el 30/04/10 y su último reconocimiento médico y psicotécnico el \n15/03/10, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 8,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 7 de septiembre de 2010, el tren regular de viajeros 8939 de Feve, compuesto por las UTE M3618-M3617, procedente de Balmaseda-La Calzada y con destino Bilbao, circulaba con normalidad entre las estaciones de Zalla y Aranguren. Al aproximarse al paso a nivel clase C 'La Papelera', en el P.K. 0+388, el maquinista observó que una mujer lo cruzaba de derecha a izquierda, en sentido de la marcha del tren, cuando los dispositivos de protección estaban en funcionamiento. El maquinista accionó repetidamente el silbato y, al no observar reacción, aplicó el freno de emergencia y volvió a usar el silbato hasta 15 veces más, pero no pudo evitar el arrollamiento; la víctima quedó bajo la composición. El tren quedó detenido a las 17:02:43 horas y el inspector general de Feve comunicó el suceso a la CIAF a las 19:14 horas.",
+   "pagina": 4,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión del gálibo de la vía por la víctima al cruzar el paso a nivel cuando pasaba el tren 8939 y los dispositivos de protección se encontraban en funcionamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "invasión del gálibo por víctima",
+    "cruce del paso con protección activa",
+    "señalización del camino incompleta",
+    "faltan sonerías en barreras"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001.",
+    "Reforzar la señalización del paso en la zona donde confluye con la salida del andén del apeadero.",
+    "Eliminar la semibarrera que es innecesaria, atendiendo al sentido de circulación del vial, y reponer las sonerías que faltan.",
+    "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001.",
+    "Reforzar la señalización del paso en la zona donde confluye con la salida del andén del apeadero.",
+    "Eliminar la semibarrera que es innecesaria, atendiendo al sentido de circulación del vial, y reponer las sonerías que faltan."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Ayuntamiento de Zalla",
+    "Feve",
+    "Feve",
+    "Ayuntamiento de Zalla",
+    "Feve",
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "17:01",
+     "evento": "A las 17:01:17, se comprueba barrera cerrada del paso a nivel; dos segundos más tarde se manda al enclavamiento la indicación de paso protegido para que se abran las señales a la vía."
+    },
+    {
+     "hora": "17:01",
+     "evento": "A las 17:01:53, el tren 8939 pasa por la señal E'3 de la estación de Aranguren en indicación de vía libre a 53,1 km/h."
+    },
+    {
+     "hora": "17:02",
+     "evento": "A las 17:02:04, a 452 metros del paso a nivel, el maquinista acciona el silbato."
+    },
+    {
+     "hora": "17:02",
+     "evento": "A las 17:02:11, el tren pasa por la señal E3 de Aranguren en indicación de vía libre a 53,1 km/h."
+    },
+    {
+     "hora": "17:02",
+     "evento": "A las 17:02:21, durante seis segundos, el maquinista hace uso repetido del silbato a la vez que reduce la velocidad a 46,9 km/h."
+    },
+    {
+     "hora": "17:02",
+     "evento": "A las 17:02:29, a 86 metros del paso, el maquinista actúa sobre el pulsador del freno de emergencia cuando el tren circulaba a 46,4 km/h y mantiene el uso continuado del silbato con 15 activaciones."
+    },
+    {
+     "hora": "17:02",
+     "evento": "Sobre las 17:02:38, el tren arrolla a la víctima, que invadía el paso de derecha a izquierda, según la marcha del tren."
+    },
+    {
+     "hora": "17:02",
+     "evento": "A las 17:02:43, el tren queda detenido."
+    },
+    {
+     "hora": "19:14",
+     "evento": "El inspector general de Feve comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios por mensaje de telefonía móvil."
+    },
+    {
+     "hora": null,
+     "evento": "El 28 de septiembre de 2010, la Comisión de Investigación de Accidentes Ferroviarios resuelve abrir la investigación."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0050/2010",
+ "expediente": "0050/010",
+ "anio": 2010,
+ "titulo": "Arrollamiento mortal de una mujer en paso a nivel entre Aranguren y Zalla (Vizcaya)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-070910-290311-CIAF.md"
+}

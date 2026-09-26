@@ -1,0 +1,905 @@
+{
+ "id": "ID-220906-020207",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-220906-020207.pdf",
+ "pdf": "pdfs/ES/ID-220906-020207.pdf",
+ "md5_pdf": "a6be8ab028103bf5604b766141e30068",
+ "paginas_md": 6,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 13,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0034/2006",
+   "pagina": 1,
+   "cita": "Nº 0034/2006 OCURRIDO EL DÍA 22.09.2006 ID-220906-020207 Pág. 1 de 6 ## Página 2 Investigación del accidente nº 34/2006 ocurrido el 22.09.2006 SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El informe definitivo investiga el accidente ferroviario nº 0034/2006, ocurrido el 22-09-2006 a las 19:55 en la estación de Meirama, pk 430,433 de la Línea 822 Zamora-La Coruña. El tren de Media Distancia nº 2436 de Renfe, con automotor 598.015-6, arrolló a una mujer de 81 años que cruzaba la vía por un paso abusivo no habilitado. La víctima falleció en el acto; no se produjeron daños materiales y hubo retrasos de 27 minutos acumulados en tres trenes de Media Distancia y 5 minutos en un tren de Larga distancia. La causa atribuida fue la imprudencia de la víctima, y se recomendó eliminar el paso vicioso.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2006-09-22",
+    "hora": "19:55",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Meirama",
+     "pk": "430,433",
+     "linea": "Línea 822 Zamora-La Coruña",
+     "provincia": "La Coruña",
+     "descripcion_lugar": "Estación de Meirama, entre los cambios de entrada nº 2 y 4, lado Zamora. La línea discurre en recta y en horizontal, en zona rural y de arbolado, con densa vegetación en ambos márgenes a un metro del carril. Por el lado derecho desde Meirama existe una senda peatonal y un prado que accede a la vía por un paso abusivo de peatones para acceso a fincas situadas en el lado izquierdo. La visibilidad por el lado derecho era de 150 metros."
+    }
+   },
+   "pagina": 4,
+   "cita": "Del parte de accidente del maquinista realizado a 22 de septiembre de 2006 se extracta lo",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños.",
+    "afectacion_servicio": "Retraso de 27 minutos acumulados en tres trenes de Media Distancia y 5 minutos en un tren de Larga distancia; la circulación se reanudó en condiciones normales tras el levantamiento del cadáver a las 22:10."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Imprudencia de la víctima, Dª Josefa Parada Pérez, por invasión intempestiva de la vía al intentar cruzar por un paso abusivo no habilitado para peatones en el momento de llegar el tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Existencia de un paso abusivo/irregular de peatones para acceso a fincas situadas en el lado izquierdo de la vía."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Existencia de un paso vicioso en la zona del arrollamiento, cuya eliminación se recomienda al responsable de la infraestructura."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Se estima conveniente recomendar que se procediera a la eliminación del paso vicioso en la zona del arrollamiento por el responsable de la infraestructura.",
+     "destinatario": "responsable de la infraestructura"
+    }
+   ],
+   "pagina": 6,
+   "cita": "conveniente recomendar que se procediera a la eliminación del mismo por el responsable de",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Se estima conveniente recomendar que se procediera a la eliminación del paso vicioso en la zona del arrollamiento por el responsable de la infraestructura.",
+     "destinatario": "responsable de la infraestructura"
+    }
+   ],
+   "pagina": 6,
+   "cita": "conveniente recomendar que se procediera a la eliminación del mismo por el responsable de",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento",
+   "pagina": 2,
+   "cita": "(Adif), comunicó que se había producido el arrollamiento de una persona resultando fallecida",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó que se había producido el arrollamiento de una persona resultando fallecida",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2006-09-22",
+   "pagina": 4,
+   "cita": "Del parte de accidente del maquinista realizado a 22 de septiembre de 2006 se extracta lo",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "19:55",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:hora"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Meirama",
+    "pk": "430,433",
+    "linea": "Línea 822 Zamora-La Coruña",
+    "provincia": "La Coruña",
+    "descripcion_lugar": "Estación de Meirama, entre los cambios de entrada nº 2 y 4, lado Zamora. La línea discurre en recta y en horizontal, en zona rural y de arbolado, con densa vegetación en ambos márgenes a un metro del carril. Por el lado derecho desde Meirama existe una senda peatonal y un prado que accede a la vía por un paso abusivo de peatones para acceso a fincas situadas en el lado izquierdo. La visibilidad por el lado derecho era de 150 metros."
+   },
+   "pagina": 2,
+   "cita": "la misma, en la estación de Meirama en el punto kilométrico 430,433 de la Línea Zamora-La",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Zamora-La Coruña",
+   "pagina": 2,
+   "cita": "Lugar: estación de Meirama, punto kilométrico 430,433 de la Línea 822 Zamora-La Coruña.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Automotor 598.015-6",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 2,
+   "cita": "Tren de Media Distancia nº 2436, de la empresa ferroviaria Renfe, compuesto por el",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de Media Distancia nº 2436 de Renfe, compuesto por el automotor 598.015-6 y con origen en Vigo y destino La Coruña, circulaba por la Línea 822 Zamora-La Coruña. A las 19:55 del 22 de septiembre de 2006, al aproximarse a los desvíos de entrada 2 y 4 de la estación de Meirama, en el pk 430,433, el maquinista observó a una mujer de edad avanzada cruzando la vía por un paso no habilitado. Activó el silbato y el freno, pero el arrollamiento fue inevitable y el tren quedó detenido; la mujer, de 81 años, falleció en el acto.\n\nTras la parada, el maquinista informó al Jefe de Circulación de Meirama, quien comunicó el suceso al Puesto de Mando de Orense para avisar a los servicios afectados, emergencia y Juzgado de Guardia. Agentes de Adif tomaron datos y realizaron prueba de alcoholemia al maquinista, negativa. El cadáver quedó custodiado hasta la llegada de la Guardia Civil y, tras la autorización judicial, fue levantado a las 22:10, reanudándose la circulación en condiciones normales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Meirama",
+    "pk": "430,433",
+    "linea": "Línea 822 Zamora-La Coruña",
+    "provincia": "La Coruña",
+    "descripcion_lugar": "Estación de Meirama, entre los cambios de entrada nº 2 y 4, lado Zamora. La línea discurre en recta y en horizontal, en zona rural y de arbolado, con densa vegetación en ambos márgenes a un metro del carril. Por el lado derecho desde Meirama existe una senda peatonal y un prado que accede a la vía por un paso abusivo de peatones para acceso a fincas situadas en el lado izquierdo. La visibilidad por el lado derecho era de 150 metros."
+   },
+   "pagina": 2,
+   "cita": "la misma, en la estación de Meirama en el punto kilométrico 430,433 de la Línea Zamora-La",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños.",
+    "afectacion_servicio": "Retraso de 27 minutos acumulados en tres trenes de Media Distancia y 5 minutos en un tren de Larga distancia; la circulación se reanudó en condiciones normales tras el levantamiento del cadáver a las 22:10."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Una vez detenido el tren, el maquinista informó al Jefe de Circulación de la estación de \nMeirama, el cual comunicó el suceso al Puesto de Mando de Orense que cursó aviso al CPS \nde La Coruña, operadores afectados, Jefatura de Operaciones de La Coruña, Gerencia de \nSeguridad de ADIF y RENFE respectivamente, servicios de emergencia y Juzgado de Guardia \nde La Coruña. \n \nAgentes de Adif se personaron en el lugar del accidente procediendo a la toma de datos del \naccidente y realización de la prueba de control de alcoholemia al maquinista.  \nSe realizó la prueba de control de alcoholemia al maquinista a su llegada a La Coruña con \nresultado negativo (0,00mg/1000ml.). \nEl cadáver quedó custodiado por el Jefe de Circulación de Meirama hasta la llegada de la \nGuardia Civil. \nLa  Autoridad Judicial autorizó el levantamiento del cadáver que tuvo lugar a las 22 horas y \n10 minutos, por lo que la circulación se reanudó en condiciones normales. \n \n \n \n \n \nID-220906-020207 \n \n \nPág. 3 de 6\n\n## Página 4\n\n \nInvestigación del accidente \nnº 34/2006 ocurrido el 22.09.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "víctima",
+     "implicacion": "Mujer de 81 años, Dª Josefa Parada Pérez, que cruzó la vía por un paso abusivo no habilitado y falleció en el acto."
+    },
+    {
+     "rol": "maquinista del tren 2436",
+     "implicacion": "Observó a la mujer cruzando la vía, usó silbato y freno; prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada el día: 7 h 37 min, con 5 h 20 min de conducción; 24 h anteriores: 7 h 55 min, con 4 h 47 min; 48 h anteriores: 4 h 13 min, con 2 h 43 min. Reciclaje RGC: 2006-04-04 a 2006-04-06; reconocimiento médico: 2006-05-10."
+    },
+    {
+     "rol": "Jefe de Circulación de la estación de Meirama",
+     "implicacion": "Recibió la comunicación del maquinista, comunicó el suceso y custodió el cadáver hasta la llegada de la Guardia Civil."
+    },
+    {
+     "rol": "Agentes de Adif",
+     "implicacion": "Se personaron en el lugar del accidente para toma de datos y realización de la prueba de alcoholemia al maquinista."
+    },
+    {
+     "rol": "Guardia Civil",
+     "implicacion": "Acudió al lugar; el cadáver quedó custodiado hasta su llegada."
+    },
+    {
+     "rol": "Autoridad Judicial",
+     "implicacion": "Autorizó el levantamiento del cadáver."
+    }
+   ],
+   "pagina": 3,
+   "cita": "-  El maquinista del tren 2436.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "2436",
+     "tipo": "Media Distancia",
+     "operador": "Renfe",
+     "danos": "No se produjeron daños."
+    }
+   ],
+   "pagina": 2,
+   "cita": "Tren de Media Distancia nº 2436, de la empresa ferroviaria Renfe, compuesto por el",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Automotor 598.015-6",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 2,
+   "cita": "Tren de Media Distancia nº 2436, de la empresa ferroviaria Renfe, compuesto por el",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático de Vía Única con C.T.C.",
+    "tipo_via": "Vía única, recta y horizontal",
+    "velocidad_maxima": "115 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Zona rural y de arbolado; densa vegetación en ambos márgenes a un metro del carril; visibilidad por el lado derecho de 150 metros; existencia de paso abusivo/irregular de peatones para acceso a fincas del lado izquierdo.",
+    "otro": "El arrollamiento se produjo entre los cambios de entrada nº 2 y 4, lado Zamora; velocidad del tren en el momento del arrollamiento: 100 km/h."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático de Vía Única con C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo Automático de Vía Única con C.T.C.",
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático de Vía Única con C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños.",
+    "afectacion_servicio": "Retraso de 27 minutos acumulados en tres trenes de Media Distancia y 5 minutos en un tren de Larga distancia; la circulación se reanudó en condiciones normales tras el levantamiento del cadáver a las 22:10."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños.",
+    "afectacion_servicio": "Retraso de 27 minutos acumulados en tres trenes de Media Distancia y 5 minutos en un tren de Larga distancia; la circulación se reanudó en condiciones normales tras el levantamiento del cadáver a las 22:10."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños.",
+    "afectacion_servicio": "Retraso de 27 minutos acumulados en tres trenes de Media Distancia y 5 minutos en un tren de Larga distancia; la circulación se reanudó en condiciones normales tras el levantamiento del cadáver a las 22:10."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 598.015-6",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 2,
+   "cita": "Tren de Media Distancia nº 2436, de la empresa ferroviaria Renfe, compuesto por el",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático de Vía Única con C.T.C.",
+    "tipo_via": "Vía única, recta y horizontal",
+    "velocidad_maxima": "115 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Zona rural y de arbolado; densa vegetación en ambos márgenes a un metro del carril; visibilidad por el lado derecho de 150 metros; existencia de paso abusivo/irregular de peatones para acceso a fincas del lado izquierdo.",
+    "otro": "El arrollamiento se produjo entre los cambios de entrada nº 2 y 4, lado Zamora; velocidad del tren en el momento del arrollamiento: 100 km/h."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático de Vía Única con C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "La Coruña",
+    "municipio": null,
+    "estacion": "Meirama"
+   },
+   "pagina": 2,
+   "cita": "Coruña, en la provincia de La Coruña, perteneciente a la Red Ferroviaria de Interés General",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo Automático de Vía Única con C.T.C.",
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático de Vía Única con C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático de Vía Única con C.T.C.",
+    "tipo_via": "Vía única, recta y horizontal",
+    "velocidad_maxima": "115 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Zona rural y de arbolado; densa vegetación en ambos márgenes a un metro del carril; visibilidad por el lado derecho de 150 metros; existencia de paso abusivo/irregular de peatones para acceso a fincas del lado izquierdo.",
+    "otro": "El arrollamiento se produjo entre los cambios de entrada nº 2 y 4, lado Zamora; velocidad del tren en el momento del arrollamiento: 100 km/h."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático de Vía Única con C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 598.015-6",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 2,
+   "cita": "Tren de Media Distancia nº 2436, de la empresa ferroviaria Renfe, compuesto por el",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Cruce por paso abusivo",
+    "Invasión intempestiva de vía",
+    "Existencia de paso irregular",
+    "No eliminación de paso irregular"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de Media Distancia nº 2436 de Renfe, compuesto por el automotor 598.015-6 y con origen en Vigo y destino La Coruña, circulaba por la Línea 822 Zamora-La Coruña. A las 19:55 del 22 de septiembre de 2006, al aproximarse a los desvíos de entrada 2 y 4 de la estación de Meirama, en el pk 430,433, el maquinista observó a una mujer de edad avanzada cruzando la vía por un paso no habilitado. Activó el silbato y el freno, pero el arrollamiento fue inevitable y el tren quedó detenido; la mujer, de 81 años, falleció en el acto.\n\nTras la parada, el maquinista informó al Jefe de Circulación de Meirama, quien comunicó el suceso al Puesto de Mando de Orense para avisar a los servicios afectados, emergencia y Juzgado de Guardia. Agentes de Adif tomaron datos y realizaron prueba de alcoholemia al maquinista, negativa. El cadáver quedó custodiado hasta la llegada de la Guardia Civil y, tras la autorización judicial, fue levantado a las 22:10, reanudándose la circulación en condiciones normales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Imprudencia de la víctima, Dª Josefa Parada Pérez, por invasión intempestiva de la vía al intentar cruzar por un paso abusivo no habilitado para peatones en el momento de llegar el tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Existencia de un paso abusivo/irregular de peatones para acceso a fincas situadas en el lado izquierdo de la vía."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "A la vista de los datos aportados la causa del accidente fue la impudencia de la víctima que \nfue arrollada por el tren nº2436 cuando transitaba indebidamente por la vía con la intención \nde cruzar la misma. \n \n \n \nID-220906-020207 \n \n \nPág. 5 de 6\n\n## Página 6\n\n \nInvestigación del accidente \nnº 34/2006 ocurrido el 22.09.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES A la vista de los datos aportados la causa del accidente fue la impudencia de la víctima que fue arrollada por el tren nº2436 cuando transitaba indebidamente por la vía con la intención de cruzar la m",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "A la vista de los datos aportados la causa del accidente fue la impudencia de la víctima que \nfue arrollada por el tren nº2436 cuando transitaba indebidamente por la vía con la intención \nde cruzar la misma. \n \n \n \nID-220906-020207 \n \n \nPág. 5 de 6\n\n## Página 6\n\n \nInvestigación del accidente \nnº 34/2006 ocurrido el 22.09.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES A la vista de los datos aportados la causa del accidente fue la impudencia de la víctima que fue arrollada por el tren nº2436 cuando transitaba indebidamente por la vía con la intención de cruzar la m",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Una vez detenido el tren, el maquinista informó al Jefe de Circulación de la estación de \nMeirama, el cual comunicó el suceso al Puesto de Mando de Orense que cursó aviso al CPS \nde La Coruña, operadores afectados, Jefatura de Operaciones de La Coruña, Gerencia de \nSeguridad de ADIF y RENFE respectivamente, servicios de emergencia y Juzgado de Guardia \nde La Coruña. \n \nAgentes de Adif se personaron en el lugar del accidente procediendo a la toma de datos del \naccidente y realización de la prueba de control de alcoholemia al maquinista.  \nSe realizó la prueba de control de alcoholemia al maquinista a su llegada a La Coruña con \nresultado negativo (0,00mg/1000ml.). \nEl cadáver quedó custodiado por el Jefe de Circulación de Meirama hasta la llegada de la \nGuardia Civil. \nLa  Autoridad Judicial autorizó el levantamiento del cadáver que tuvo lugar a las 22 horas y \n10 minutos, por lo que la circulación se reanudó en condiciones normales. \n \n \n \n \n \nID-220906-020207 \n \n \nPág. 3 de 6\n\n## Página 4\n\n \nInvestigación del accidente \nnº 34/2006 ocurrido el 22.09.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Una vez detenido el tren, el maquinista informó al Jefe de Circulación de la estación de \nMeirama, el cual comunicó el suceso al Puesto de Mando de Orense que cursó aviso al CPS \nde La Coruña, operadores afectados, Jefatura de Operaciones de La Coruña, Gerencia de \nSeguridad de ADIF y RENFE respectivamente, servicios de emergencia y Juzgado de Guardia \nde La Coruña. \n \nAgentes de Adif se personaron en el lugar del accidente procediendo a la toma de datos del \naccidente y realización de la prueba de control de alcoholemia al maquinista.  \nSe realizó la prueba de control de alcoholemia al maquinista a su llegada a La Coruña con \nresultado negativo (0,00mg/1000ml.). \nEl cadáver quedó custodiado por el Jefe de Circulación de Meirama hasta la llegada de la \nGuardia Civil. \nLa  Autoridad Judicial autorizó el levantamiento del cadáver que tuvo lugar a las 22 horas y \n10 minutos, por lo que la circulación se reanudó en condiciones normales. \n \n \n \n \n \nID-220906-020207 \n \n \nPág. 3 de 6\n\n## Página 4\n\n \nInvestigación del accidente \nnº 34/2006 ocurrido el 22.09.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Una vez detenido el tren, el maquinista informó al Jefe de Circulación de la estación de \nMeirama, el cual comunicó el suceso al Puesto de Mando de Orense que cursó aviso al CPS \nde La Coruña, operadores afectados, Jefatura de Operaciones de La Coruña, Gerencia de \nSeguridad de ADIF y RENFE respectivamente, servicios de emergencia y Juzgado de Guardia \nde La Coruña. \n \nAgentes de Adif se personaron en el lugar del accidente procediendo a la toma de datos del \naccidente y realización de la prueba de control de alcoholemia al maquinista.  \nSe realizó la prueba de control de alcoholemia al maquinista a su llegada a La Coruña con \nresultado negativo (0,00mg/1000ml.). \nEl cadáver quedó custodiado por el Jefe de Circulación de Meirama hasta la llegada de la \nGuardia Civil. \nLa  Autoridad Judicial autorizó el levantamiento del cadáver que tuvo lugar a las 22 horas y \n10 minutos, por lo que la circulación se reanudó en condiciones normales. \n \n \n \n \n \nID-220906-020207 \n \n \nPág. 3 de 6\n\n## Página 4\n\n \nInvestigación del accidente \nnº 34/2006 ocurrido el 22.09.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Se estima conveniente recomendar que se procediera a la eliminación del paso vicioso en la zona del arrollamiento por el responsable de la infraestructura.",
+     "destinatario": "responsable de la infraestructura"
+    }
+   ],
+   "pagina": 6,
+   "cita": "conveniente recomendar que se procediera a la eliminación del mismo por el responsable de",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": null,
+     "evento": "2006-09-01: La Dirección General de Ferrocarriles designó el equipo de investigación de accidentes ferroviarios."
+    },
+    {
+     "hora": "19:55",
+     "evento": "El tren de Media Distancia nº 2436 detuvo su marcha a la altura de los desvíos de entrada 2 y 4 de la estación de Meirama tras arrollar a una mujer de 81 años que cruzaba la vía."
+    },
+    {
+     "hora": null,
+     "evento": "El maquinista informó al Jefe de Circulación de Meirama, quien comunicó el suceso al Puesto de Mando de Orense, que cursó aviso al CPS de La Coruña, operadores afectados, Jefatura de Operaciones de La Coruña, Gerencia de Seguridad de ADIF y RENFE, servicios de emergencia y Juzgado de Guardia de La Coruña."
+    },
+    {
+     "hora": null,
+     "evento": "Agentes de Adif se personaron en el lugar, procedieron a la toma de datos y realizaron la prueba de alcoholemia al maquinista a su llegada a La Coruña, con resultado negativo (0,00 mg/1000 ml)."
+    },
+    {
+     "hora": null,
+     "evento": "El cadáver quedó custodiado por el Jefe de Circulación de Meirama hasta la llegada de la Guardia Civil."
+    },
+    {
+     "hora": "22:10",
+     "evento": "La Autoridad Judicial autorizó el levantamiento del cadáver y la circulación se reanudó en condiciones normales."
+    },
+    {
+     "hora": null,
+     "evento": "2007-02-02: Se emitió el informe definitivo en Madrid."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0034/2006",
+ "expediente": "0034/2006",
+ "anio": 2006,
+ "titulo": "Arrollamiento mortal de una persona en la estación de Meirama (La Coruña)",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-220906-020207.md"
+}

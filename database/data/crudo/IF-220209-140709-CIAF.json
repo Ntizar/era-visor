@@ -1,0 +1,917 @@
+{
+ "id": "IF-220209-140709-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/17BF26F8-F4F8-4AD4-B37D-39D5C4BC8100/53041/220209140709CIAF.pdf",
+ "pdf": "pdfs/ES/IF-220209-140709-CIAF.pdf",
+ "md5_pdf": "2b6f26e8d94163da660f0014abe75841",
+ "paginas_md": 10,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 4,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Adif",
+     "Número": "0012/09-1",
+     "Recomendación": "Se recomienda estudiar la conveniencia de vallar la zona cercana al accidente."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 10,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Adif",
+     "Número": "0012/09-1",
+     "Recomendación": "Se recomienda estudiar la conveniencia de vallar la zona cercana al accidente."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0012/2009",
+   "pagina": 1,
+   "cita": "nº 0012/2009 ocurrido el 22.02.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 22 de febrero de 2009 a las 17:29, el tren de media distancia 12703 de Renfe Operadora arrolló a una persona que se encontraba invadiendo la caja de la vía en el PK 175,050, entre las estaciones de Chapela y Vigo (línea 810 Vigo-Monforte de Lemos, provincia de Pontevedra). La víctima, un hombre de 47 años, falleció en el acto. El maquinista actuó correctamente al aplicar silbato y freno de emergencia, pero no pudo evitar el impacto a unos 80 km/h. No se produjeron daños materiales en tren ni infraestructura. La vía quedó interceptada desde las 17:29 hasta las 19:17.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-02-22",
+    "hora": "17:29",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Chapela y Vigo",
+     "pk": "175,050",
+     "linea": "810 Vigo – Monforte de Lemos",
+     "provincia": "Pontevedra",
+     "descripcion_lugar": "Tramo Chapela Aguja - Vigo. Zona semiurbana. Por el lado derecho existe un terraplén que dificulta el acceso. Por el lado izquierdo hay un vallado que separa la vía de la autopista del Atlántico. En el PK 175,700 la carretera se encuentra a la misma cota de la vía sin vallado, permitiendo fácil acceso a los lugareños pese a disponer de una pasarela peatonal."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 22 de febrero de 2009, a las 17:29 horas, el tren de media distancia 12703, de la empresa",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Vía interceptada desde las 17:29 hasta las 19:17. Afectados 9 trenes de media distancia con 664 minutos de retraso total y 2 trenes de larga distancia con 72 minutos de retraso total."
+   },
+   "pagina": 6,
+   "cita": "No se producen daños ni en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión de la vía por parte de la víctima cuando pasaba el tren 12703. La persona se encontraba en la caja de la vía tratando de coger un objeto (cartón de vino blanco de mesa).",
+   "pagina": 3,
+   "cita": "Conclusión: el accidente tuvo su origen en la invasión de la vía por parte de la víctima cuando",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Acceso libre a la vía en el PK 175,700 donde la carretera se encuentra a la misma cota sin vallado, permitiendo el paso de lugareños pese a existir una pasarela peatonal.",
+    "Proximidad de la víctima al tren (50 metros) que impidió la parada aun con freno de emergencia.",
+    "Velocidad de 80 km/h en el momento del impacto."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Falta de vallado en la zona cercana al accidente que permite el acceso peatonal a la vía."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Se recomienda estudiar la conveniencia de vallar la zona cercana al accidente.",
+    "Se recomienda estudiar la conveniencia de vallar la zona cercana al accidente."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de una persona",
+   "pagina": 4,
+   "cita": "Investigación de accidentes ferroviarios que se había producido el arrollamiento de una persona que",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "ferroviaria Renfe Operadora, arrolla a una persona que se encontraba en la caja de la vía. El accidente",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-02-22",
+   "pagina": 3,
+   "cita": "El día 22 de febrero de 2009, a las 17:29 horas, el tren de media distancia 12703, de la empresa",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "17:29",
+   "pagina": 3,
+   "cita": "El día 22 de febrero de 2009, a las 17:29 horas, el tren de media distancia 12703, de la empresa",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Chapela y Vigo",
+    "pk": "175,050",
+    "linea": "810 Vigo – Monforte de Lemos",
+    "provincia": "Pontevedra",
+    "descripcion_lugar": "Tramo Chapela Aguja - Vigo. Zona semiurbana. Por el lado derecho existe un terraplén que dificulta el acceso. Por el lado izquierdo hay un vallado que separa la vía de la autopista del Atlántico. En el PK 175,700 la carretera se encuentra a la misma cota de la vía sin vallado, permitiendo fácil acceso a los lugareños pese a disponer de una pasarela peatonal."
+   },
+   "pagina": 3,
+   "cita": "ocurre en plena vía, en el PK 175,050, entre las estaciones de Chapela y Vigo.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "810 Vigo - Monforte de Lemos",
+   "pagina": 3,
+   "cita": "Línea: 810 Vigo – Monforte de Lemos Tramo: Chapela Aguja - Vigo Provincia: Pontevedra El tren de media distancia 12703 de Renfe Operadora, procedente de la estación de Chapela y con destino Vigo, arrolla a una",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "440.181-6 (autopropulsado), Nº UIC 967194401816",
+    "averia": "No se produjeron daños materiales. Equipos de seguridad funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de media distancia 12703 de Renfe Operadora, procedente de la estación de Chapela y con destino Vigo, arrolló a una persona que se encontraba en la caja de la vía en el PK 175,050. Según la declaración del maquinista, la víctima se encontraba en la parte derecha de la vía, sentido de la marcha, con medio cuerpo sobre la caja de la vía y una mano apoyada en el carril derecho tratando de coger algún objeto (un cartón de vino blanco de mesa). El maquinista, al ver a la víctima a unos 50 metros, hizo uso del silbato y del freno de emergencia, pero dada la proximidad, la parte inferior derecha del frontal del vehículo impactó contra el cuerpo del hombre a aproximadamente 80 km/h. El tren se detuvo 200 metros más adelante. El maquinista comunicó la incidencia al puesto de mando y al CGMD, y se dirigió a pie al lugar del impacto, donde observó al hombre a unos 5 metros de la vía con el cuello partido. A las 19:15 se produjo el levantamiento del cadáver.",
+   "pagina": 3,
+   "cita": "Pontevedra El tren de media distancia 12703 de Renfe Operadora, procedente de la estación de Chapela y con destino Vigo, arrolla a una persona que se encontraba en la caja de la vía. Según la declaración del maquinist",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Chapela y Vigo",
+    "pk": "175,050",
+    "linea": "810 Vigo – Monforte de Lemos",
+    "provincia": "Pontevedra",
+    "descripcion_lugar": "Tramo Chapela Aguja - Vigo. Zona semiurbana. Por el lado derecho existe un terraplén que dificulta el acceso. Por el lado izquierdo hay un vallado que separa la vía de la autopista del Atlántico. En el PK 175,700 la carretera se encuentra a la misma cota de la vía sin vallado, permitiendo fácil acceso a los lugareños pese a disponer de una pasarela peatonal."
+   },
+   "pagina": 3,
+   "cita": "ocurre en plena vía, en el PK 175,050, entre las estaciones de Chapela y Vigo.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Vía interceptada desde las 17:29 hasta las 19:17. Afectados 9 trenes de media distancia con 664 minutos de retraso total y 2 trenes de larga distancia con 72 minutos de retraso total."
+   },
+   "pagina": 6,
+   "cita": "No se producen daños ni en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 12703 (matrícula 9646464)",
+     "implicacion": "Actuó correctamente: usó silbato y freno de emergencia al ver a la víctima. No pudo evitar el impacto por proximidad. Tasa de alcoholemia negativa (0,00 mg/1000 ml). Título de conducción vigente. Último reciclaje formativo 18/01/07. Último reconocimiento médico y psicotécnico 12/04/06. Jornada de conducción el día 22: 2h 2min (jornada laboral 3h 2min); día 21: 5h 23min (jornada laboral 7h 38min); día 20: descanso/vacaciones."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "12703",
+     "tipo": "media distancia",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños en el material rodante."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 22 de febrero de 2009, a las 17:29 horas, el tren de media distancia 12703, de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "440.181-6 (autopropulsado), Nº UIC 967194401816",
+    "averia": "No se produjeron daños materiales. Equipos de seguridad funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 4,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (BAU) con control de tráfico centralizado",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "95 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Radiotelefonía modalidad A. Zona semiurbana con terraplén a derecha y vallado a izquierda (autopista del Atlántico). En PK 175,700 la carretera está a la misma cota sin vallado. Media semanal de circulaciones del tramo: 408 (88 larga distancia, 319 media distancia, 1 servicio)."
+   },
+   "pagina": 5,
+   "cita": "Radiotelefonía modalidad A.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático (BAU) con control de tráfico centralizado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Vía interceptada desde las 17:29 hasta las 19:17. Afectados 9 trenes de media distancia con 664 minutos de retraso total y 2 trenes de larga distancia con 72 minutos de retraso total."
+   },
+   "pagina": 6,
+   "cita": "No se producen daños ni en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Vía interceptada desde las 17:29 hasta las 19:17. Afectados 9 trenes de media distancia con 664 minutos de retraso total y 2 trenes de larga distancia con 72 minutos de retraso total."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Vía interceptada desde las 17:29 hasta las 19:17. Afectados 9 trenes de media distancia con 664 minutos de retraso total y 2 trenes de larga distancia con 72 minutos de retraso total."
+   },
+   "pagina": 6,
+   "cita": "No se producen daños ni en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "440.181-6 (autopropulsado), Nº UIC 967194401816",
+    "averia": "No se produjeron daños materiales. Equipos de seguridad funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (BAU) con control de tráfico centralizado",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "95 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Radiotelefonía modalidad A. Zona semiurbana con terraplén a derecha y vallado a izquierda (autopista del Atlántico). En PK 175,700 la carretera está a la misma cota sin vallado. Media semanal de circulaciones del tramo: 408 (88 larga distancia, 319 media distancia, 1 servicio)."
+   },
+   "pagina": 5,
+   "cita": "Radiotelefonía modalidad A.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo despejado en el momento del arrollamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Pontevedra",
+    "municipio": null,
+    "estacion": "Chapela - Vigo"
+   },
+   "pagina": 3,
+   "cita": "Pontevedra El tren de media distancia 12703 de Renfe Operadora, procedente de la estación de Chapela y con destino Vigo, arrolla a una persona que se encontraba en la caja de la vía. Según la declaración del maquinist",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo despejado en el momento del arrollamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático (BAU) con control de tráfico centralizado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (BAU) con control de tráfico centralizado",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "95 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Radiotelefonía modalidad A. Zona semiurbana con terraplén a derecha y vallado a izquierda (autopista del Atlántico). En PK 175,700 la carretera está a la misma cota sin vallado. Media semanal de circulaciones del tramo: 408 (88 larga distancia, 319 media distancia, 1 servicio)."
+   },
+   "pagina": 5,
+   "cita": "Radiotelefonía modalidad A.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "440.181-6 (autopropulsado), Nº UIC 967194401816",
+    "averia": "No se produjeron daños materiales. Equipos de seguridad funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Invasión de vía por persona",
+    "Ausencia de vallado cercano",
+    "Acceso fácil desde carretera",
+    "Intento de coger objeto"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de media distancia 12703 de Renfe Operadora, procedente de la estación de Chapela y con destino Vigo, arrolló a una persona que se encontraba en la caja de la vía en el PK 175,050. Según la declaración del maquinista, la víctima se encontraba en la parte derecha de la vía, sentido de la marcha, con medio cuerpo sobre la caja de la vía y una mano apoyada en el carril derecho tratando de coger algún objeto (un cartón de vino blanco de mesa). El maquinista, al ver a la víctima a unos 50 metros, hizo uso del silbato y del freno de emergencia, pero dada la proximidad, la parte inferior derecha del frontal del vehículo impactó contra el cuerpo del hombre a aproximadamente 80 km/h. El tren se detuvo 200 metros más adelante. El maquinista comunicó la incidencia al puesto de mando y al CGMD, y se dirigió a pie al lugar del impacto, donde observó al hombre a unos 5 metros de la vía con el cuello partido. A las 19:15 se produjo el levantamiento del cadáver.",
+   "pagina": 3,
+   "cita": "Pontevedra El tren de media distancia 12703 de Renfe Operadora, procedente de la estación de Chapela y con destino Vigo, arrolla a una persona que se encontraba en la caja de la vía. Según la declaración del maquinist",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en el P.K. 175,050, entre las estaciones de Chapela y Vigo. \nDel análisis del registrador de seguridad del tren se desprende que el tren circulaba a una \nvelocidad inferior a su máxima permitida en el tramo. \nSegún lo declarado por el maquinista, cuando se percató de la presencia de la víctima, hizo uso del \nsilbato y actuó sobre el freno de emergencia, por lo que la actuación del maquinista fue correcta. \nIF-220209-140709-CIAF \n \n \nPág. 9 de 10\n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0012/2009 ocurrido el 22.02.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-220209-140709-CIAF \n \n \nPág. 10 de 10\nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nLos equipos de seguridad del tren funcionaban correctamente en el momento del accidente y de \nacuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nSegún la declaración del maquinista, la víctima estaba invadiendo la caja de la vía intentando coger \nalgún objeto. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en la invasión de la vía por parte de la víctima cuando pasaba el tren \n12703.",
+   "pagina": 9,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión de la vía por parte de la víctima cuando pasaba el tren 12703. La persona se encontraba en la caja de la vía tratando de coger un objeto (cartón de vino blanco de mesa).",
+   "pagina": 3,
+   "cita": "Conclusión: el accidente tuvo su origen en la invasión de la vía por parte de la víctima cuando",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Acceso libre a la vía en el PK 175,700 donde la carretera se encuentra a la misma cota sin vallado, permitiendo el paso de lugareños pese a existir una pasarela peatonal.",
+    "Proximidad de la víctima al tren (50 metros) que impidió la parada aun con freno de emergencia.",
+    "Velocidad de 80 km/h en el momento del impacto."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Se recomienda estudiar la conveniencia de vallar la zona cercana al accidente.",
+    "Se recomienda estudiar la conveniencia de vallar la zona cercana al accidente."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "17:29",
+     "evento": "Arrollamiento de la persona por el tren 12703. Inicio de la interceptación de la vía."
+    },
+    {
+     "hora": "17:29",
+     "evento": "El tren se detiene 200 metros más adelante. El maquinista comunica la incidencia al puesto de mando y al CGMD."
+    },
+    {
+     "hora": "18:52",
+     "evento": "El puesto de mando de Orense autoriza al tren implicado a reanudar la marcha."
+    },
+    {
+     "hora": "19:15",
+     "evento": "Levantamiento del cadáver."
+    },
+    {
+     "hora": "19:17",
+     "evento": "Se restablece la circulación en condiciones normales."
+    },
+    {
+     "hora": "19:45",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF mediante telefonía móvil."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0012/2009",
+ "expediente": "0012/09",
+ "anio": 2009,
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0012/2009 OCURRIDO EL DÍA 22.02.2009 ENTRE LAS ESTACIONES DE CHAPELA Y VIGO",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-220209-140709-CIAF.md"
+}

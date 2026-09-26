@@ -1,0 +1,966 @@
+{
+ "id": "ID-300606-020307",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-300606-020307.pdf",
+ "pdf": "pdfs/ES/ID-300606-020307.pdf",
+ "md5_pdf": "d66bd582ac801cb5371973c3a684eae2",
+ "paginas_md": 7,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 10,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0028/2006",
+   "pagina": 1,
+   "cita": "Nº 0028/2006 OCURRIDO EL DÍA 30.06.2006 ID-300606-020307 Pág. 1 de 7 ## Página 2 Investigación del accidente nº 28/2006 ocurrido el 30.06.2006 SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y PLANIFICACIÓN",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 30 de junio de 2006, a las 02:43, el tren de Larga Distancia nº 312 de Renfe arrolló a dos personas en la estación de Venta de Baños (PK 285,330, línea Madrid-Hendaya, Palencia). Los fallecidos, viajeros del tren 12204 estacionado en vía 3, cruzaban por el paso entre andenes ignorando los avisos del vigilante de seguridad y sin usar el paso inferior existente. No hubo daños materiales ni en instalaciones ni en material móvil. La incidencia duró 112 minutos y provocó 55 minutos de retraso acumulado en 4 trenes.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2006-06-30",
+    "hora": "02:43",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Venta de Baños",
+     "pk": "285,330",
+     "linea": "Línea 100 Madrid-Hendaya",
+     "provincia": "Palencia",
+     "descripcion_lugar": "Paso entre andenes (paso entarimado) de la estación de Venta de Baños, situado a 45 metros del paso inferior que accede a todos los andenes. El paso a nivel está destinado fundamentalmente al paso de personas con discapacidades y vehículos con ruedas."
+    }
+   },
+   "pagina": 4,
+   "cita": "La incidencia tuvo una duración de 112 minutos, desde las 02:43 horas hasta las 04:35",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil",
+    "afectacion_servicio": "Incidencia de 112 minutos (02:43 a 04:35); 55 minutos de retrasos acumulados en 4 trenes de viajeros"
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Uso indebido del paso entarimado entre andenes por parte de las víctimas, que cruzaron las vías ignorando los avisos del vigilante de seguridad y la existencia del paso inferior",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Las víctimas no hicieron uso del paso inferior existente a 45 metros",
+    "El grupo de personas iba conversando totalmente abstraído y no se percató de la presencia del tren",
+    "El vigilante de seguridad advirtió a viva voz pero no fue escuchado",
+    "Existencia de un paso entre andenes (entarimado) que permite el cruce a nivel de las vías en una estación con elevado tráfico"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Paso entarimado entre andenes que no está suprimido pese a existir paso inferior alternativo",
+    "Falta de señalización específica o barreras vinculadas al enclavamiento para impedir el uso indebido del paso entre andenes"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril.",
+     "destinatario": "Adif / Renfe / organismos públicos"
+    },
+    {
+     "texto": "Iniciar actuaciones destinadas a reducir al máximo el peligro potencial de los pasos entarimados entre andenes, fomentando su supresión mediante pasos inferiores y superiores alternativos.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "En los casos en los que no se realice la supresión de los pasos entre andenes, señalizarlos convenientemente mediante señales fijas (cartelones, pictogramas, etc.) o por señalización ligada al enclavamiento de la estación.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 7,
+   "cita": "seguridad en las estaciones, se considera necesario recomendar:",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril.",
+     "destinatario": "Adif / Renfe / organismos públicos"
+    },
+    {
+     "texto": "Iniciar actuaciones destinadas a reducir al máximo el peligro potencial de los pasos entarimados entre andenes, fomentando su supresión mediante pasos inferiores y superiores alternativos.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "En los casos en los que no se realice la supresión de los pasos entre andenes, señalizarlos convenientemente mediante señales fijas (cartelones, pictogramas, etc.) o por señalización ligada al enclavamiento de la estación.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 7,
+   "cita": "seguridad en las estaciones, se considera necesario recomendar:",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó a través de mensaje de texto de telefonía móvil el pasado 30 de junio, que",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2006-06-30",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "02:43",
+   "pagina": 4,
+   "cita": "La incidencia tuvo una duración de 112 minutos, desde las 02:43 horas hasta las 04:35",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Venta de Baños",
+    "pk": "285,330",
+    "linea": "Línea 100 Madrid-Hendaya",
+    "provincia": "Palencia",
+    "descripcion_lugar": "Paso entre andenes (paso entarimado) de la estación de Venta de Baños, situado a 45 metros del paso inferior que accede a todos los andenes. El paso a nivel está destinado fundamentalmente al paso de personas con discapacidades y vehículos con ruedas."
+   },
+   "pagina": 6,
+   "cita": "siguiente: “un grupo de viajeros se habían apeado del tren 12204 estacionado en vía 3",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Madrid-Hendaya",
+   "pagina": 2,
+   "cita": "Línea: Punto kilométrico 285,330 Madrid-Hendaya.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 333034 (serie 333)",
+    "averia": "Ninguna; locomotora útil para el servicio tras reconocimiento",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de Viajeros Larga Distancia nº 312 (tipo 140) de Renfe, compuesto por la locomotora 333034 y 5 vehículos con masa remolcada de 247 Tm, efectuaba su paso directo (sin parada prescrita) por vía II de la estación de Venta de Baños. A las 02:43 del 30 de junio de 2006, el maquinista observó a un grupo de personas cruzando las vías por el paso entre andenes, por lo que hizo uso continuo del silbato y aplicó el freno de urgencia, deteniéndose en el PK 284,585. El arrollamiento se produjo a 113 km/h en el PK 285,330.\n\nLas dos víctimas, un varón de 29 años y una mujer de 34 años, eran viajeros del tren 12204 (Santander-Madrid) estacionado en vía 3, que habían descendido y cruzaban de izquierda a derecha por el paso entre andenes, ignorando los avisos a viva voz del vigilante de seguridad y la existencia de un paso inferior a 45 metros. Según la testigo presencial, el grupo iba conversando totalmente abstraído.\n\nEl tren 312 circulaba a velocidad inferior a la máxima autorizada (140 km/h). El maquinista dio negativo en alcoholemia. No se produjeron daños materiales. La Policía Judicial y la Guardia Civil procedieron al levantamiento de los cadáveres a las 04:35.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Venta de Baños",
+    "pk": "285,330",
+    "linea": "Línea 100 Madrid-Hendaya",
+    "provincia": "Palencia",
+    "descripcion_lugar": "Paso entre andenes (paso entarimado) de la estación de Venta de Baños, situado a 45 metros del paso inferior que accede a todos los andenes. El paso a nivel está destinado fundamentalmente al paso de personas con discapacidades y vehículos con ruedas."
+   },
+   "pagina": 6,
+   "cita": "siguiente: “un grupo de viajeros se habían apeado del tren 12204 estacionado en vía 3",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil",
+    "afectacion_servicio": "Incidencia de 112 minutos (02:43 a 04:35); 55 minutos de retrasos acumulados en 4 trenes de viajeros"
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 312",
+     "implicacion": "Matrícula 9732157; observó a personas cruzando, usó silbato continuo y aplicó freno de urgencia; alcoholemia negativa (0,00 mg/1000 ml); no se le atribuye responsabilidad"
+    },
+    {
+     "rol": "Vigilante de seguridad",
+     "implicacion": "Testigo de los hechos; advirtió a viva voz a las personas accidentadas de la presencia del tren, pero no se percataron"
+    },
+    {
+     "rol": "Testigo presencial",
+     "implicacion": "Cruzó a la vez que los accidentados; relata que el grupo iba conversando totalmente abstraído"
+    },
+    {
+     "rol": "Jefe de circulación de Venta de Baños",
+     "implicacion": "Recibió aviso del maquinista; puso el tren a disposición de la estación"
+    },
+    {
+     "rol": "Puesto de mando de Miranda de Ebro",
+     "implicacion": "Cursó avisos a Seguridad Corporativa, Protección Civil, Gerencias Territoriales, Operador de Larga Distancia y servicios sanitarios"
+    },
+    {
+     "rol": "Personal de la Gerencia Territorial de Seguridad de Adif",
+     "implicacion": "Acudieron al lugar, inspeccionaron el punto del arrollamiento, tomaron pruebas (alcoholemia, extracción de memoria estática)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "El maquinista del tren 312 con número de matrícula 9732157.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "312",
+     "tipo": "Viajeros Larga Distancia (tipo 140)",
+     "operador": "Renfe",
+     "danos": "Sin daños materiales en el material móvil"
+    },
+    {
+     "numero": "12204",
+     "tipo": "Viajeros (Santander-Madrid)",
+     "operador": "Renfe",
+     "danos": null
+    },
+    {
+     "numero": "205",
+     "tipo": "Viajeros (Madrid-Santander y Gijón)",
+     "operador": "Renfe",
+     "danos": null
+    },
+    {
+     "numero": "10204",
+     "tipo": "Viajeros (Gijón-Madrid)",
+     "operador": "Renfe",
+     "danos": null
+    }
+   ],
+   "pagina": 2,
+   "cita": "concordante con el informe particular de Renfe, los hechos y las circunstancias en que se",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 333034 (serie 333)",
+    "averia": "Ninguna; locomotora útil para el servicio tras reconocimiento",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E2 (PK 286,508) en vía libre; señal de salida S2/2",
+    "tipo_via": "Vía doble, Bloqueo Automático de vía doble",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Adecuado; paso inferior entre andenes en PK 285,285 en adecuado estado para el uso de los viajeros",
+    "otro": "Paso entre andenes (entarimado) en PK 285,330, a 45 m del paso inferior; destinado a personas con discapacidades y vehículos con ruedas"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de entrada E2 (PK 286,508) en vía libre; señal de salida S2/2",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil",
+    "afectacion_servicio": "Incidencia de 112 minutos (02:43 a 04:35); 55 minutos de retrasos acumulados en 4 trenes de viajeros"
+   },
+   "pagina": 2,
+   "cita": "de Viajeros Larga Distancia nº 312 (tipo 140) de la empresa ferroviaria Renfe, compuesto por",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil",
+    "afectacion_servicio": "Incidencia de 112 minutos (02:43 a 04:35); 55 minutos de retrasos acumulados en 4 trenes de viajeros"
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil",
+    "afectacion_servicio": "Incidencia de 112 minutos (02:43 a 04:35); 55 minutos de retrasos acumulados en 4 trenes de viajeros"
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 333034 (serie 333)",
+    "averia": "Ninguna; locomotora útil para el servicio tras reconocimiento",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E2 (PK 286,508) en vía libre; señal de salida S2/2",
+    "tipo_via": "Vía doble, Bloqueo Automático de vía doble",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Adecuado; paso inferior entre andenes en PK 285,285 en adecuado estado para el uso de los viajeros",
+    "otro": "Paso entre andenes (entarimado) en PK 285,330, a 45 m del paso inferior; destinado a personas con discapacidades y vehículos con ruedas"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Palencia",
+    "municipio": null,
+    "estacion": "Venta de Baños"
+   },
+   "pagina": 2,
+   "cita": "Hendaya, en la provincia de Palencia, perteneciente a la Red Ferroviaria de Interés General",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de entrada E2 (PK 286,508) en vía libre; señal de salida S2/2",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E2 (PK 286,508) en vía libre; señal de salida S2/2",
+    "tipo_via": "Vía doble, Bloqueo Automático de vía doble",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Adecuado; paso inferior entre andenes en PK 285,285 en adecuado estado para el uso de los viajeros",
+    "otro": "Paso entre andenes (entarimado) en PK 285,330, a 45 m del paso inferior; destinado a personas con discapacidades y vehículos con ruedas"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 333034 (serie 333)",
+    "averia": "Ninguna; locomotora útil para el servicio tras reconocimiento",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "viajeros cruzan paso entre andenes",
+    "omiten avisos del vigilante",
+    "no usan paso inferior existente",
+    "tren pasa directo sin parada"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(Adif), comunicó a través de mensaje de texto de telefonía móvil el pasado 30 de junio, que \nse había producido el arrollamiento de dos personas resultando ambas fallecidas, en la \nestación de Venta de Baños sita en el punto kilométrico 285,330 de la Línea 100 Madrid-\nHendaya, en la provincia de Palencia, perteneciente a la Red Ferroviaria de Interés General \nadministrada por Adif. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles de acuerdo \ncon el citado artículo.  \nDe conformidad con el artículo 112 del mencionado Reglamento, el 15 de junio de 2006 la \nDirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), comunicó a través de mensaje de texto de telefonía móvil el pasado 30 de junio, que se había produci",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de Viajeros Larga Distancia nº 312 (tipo 140) de Renfe, compuesto por la locomotora 333034 y 5 vehículos con masa remolcada de 247 Tm, efectuaba su paso directo (sin parada prescrita) por vía II de la estación de Venta de Baños. A las 02:43 del 30 de junio de 2006, el maquinista observó a un grupo de personas cruzando las vías por el paso entre andenes, por lo que hizo uso continuo del silbato y aplicó el freno de urgencia, deteniéndose en el PK 284,585. El arrollamiento se produjo a 113 km/h en el PK 285,330.\n\nLas dos víctimas, un varón de 29 años y una mujer de 34 años, eran viajeros del tren 12204 (Santander-Madrid) estacionado en vía 3, que habían descendido y cruzaban de izquierda a derecha por el paso entre andenes, ignorando los avisos a viva voz del vigilante de seguridad y la existencia de un paso inferior a 45 metros. Según la testigo presencial, el grupo iba conversando totalmente abstraído.\n\nEl tren 312 circulaba a velocidad inferior a la máxima autorizada (140 km/h). El maquinista dio negativo en alcoholemia. No se produjeron daños materiales. La Policía Judicial y la Guardia Civil procedieron al levantamiento de los cadáveres a las 04:35.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR EL OPERADOR FERROVIARIO. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por ADIF concluye “De los hechos descritos y posteriores investigaciones, se \ndeduce que el motivo del accidente fue debido a no hacer uso las personas de los pasos \ninferiores del que están dotados los andenes de vías 1/3 y que dan acceso a todos los \nandenes de la es ación de Venta de Baños”.  \nEl elaborado por RENFE establece que “Los viajeros cruzan indebidamente las vías por un \npaso entrevías, sin hacer caso del vigilante de seguridad que les llamó la atención, en una \nestación que dispone de pasos sub erráneos”.  \nPor tanto, ambas conclusiones son coincidentes entre sí en cuanto a la causa del accidente.",
+   "pagina": 6,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Uso indebido del paso entarimado entre andenes por parte de las víctimas, que cruzaron las vías ignorando los avisos del vigilante de seguridad y la existencia del paso inferior",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Las víctimas no hicieron uso del paso inferior existente a 45 metros",
+    "El grupo de personas iba conversando totalmente abstraído y no se percató de la presencia del tren",
+    "El vigilante de seguridad advirtió a viva voz pero no fue escuchado",
+    "Existencia de un paso entre andenes (entarimado) que permite el cruce a nivel de las vías en una estación con elevado tráfico"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "A la vista de los datos recogidos por el Administrador de la Infraestructura y de la \ninvestigación realizada, se estima que el accidente fue causado por el uso indebido por parte \nde las víctimas del paso entarimado, pues cruzaron el mismo omitiendo los avisos del vigilante \nde seguridad e ignorando la posibilidad de atravesar las vías por el paso inferior existente. \n \n \n \n \n \nID-300606-020307 \n \n \nPág. 6 de 7\n\n## Página 7\n\n \nInvestigación del accidente \nnº 28/2006 ocurrido el 30.06.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES A la vista de los datos recogidos por el Administrador de la Infraestructura y de la investigación realizada, se estima que el accidente fue causado por el uso indebido por parte de las víctimas del pa",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "A la vista de los datos recogidos por el Administrador de la Infraestructura y de la \ninvestigación realizada, se estima que el accidente fue causado por el uso indebido por parte \nde las víctimas del paso entarimado, pues cruzaron el mismo omitiendo los avisos del vigilante \nde seguridad e ignorando la posibilidad de atravesar las vías por el paso inferior existente. \n \n \n \n \n \nID-300606-020307 \n \n \nPág. 6 de 7\n\n## Página 7\n\n \nInvestigación del accidente \nnº 28/2006 ocurrido el 30.06.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES A la vista de los datos recogidos por el Administrador de la Infraestructura y de la investigación realizada, se estima que el accidente fue causado por el uso indebido por parte de las víctimas del pa",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril.",
+     "destinatario": "Adif / Renfe / organismos públicos"
+    },
+    {
+     "texto": "Iniciar actuaciones destinadas a reducir al máximo el peligro potencial de los pasos entarimados entre andenes, fomentando su supresión mediante pasos inferiores y superiores alternativos.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "En los casos en los que no se realice la supresión de los pasos entre andenes, señalizarlos convenientemente mediante señales fijas (cartelones, pictogramas, etc.) o por señalización ligada al enclavamiento de la estación.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 7,
+   "cita": "seguridad en las estaciones, se considera necesario recomendar:",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "02:12",
+     "evento": "Entrada del tren de viajeros nº 205 (Madrid-Santander y Gijón) en vía 7"
+    },
+    {
+     "hora": "02:35",
+     "evento": "Entrada del tren de viajeros 10204 (Gijón-Madrid) en vía 1"
+    },
+    {
+     "hora": "02:40",
+     "evento": "Entrada del tren de viajeros 12204 (Santander-Madrid) en vía 3; de él se apean presuntamente las personas accidentadas"
+    },
+    {
+     "hora": "02:43",
+     "evento": "El tren 312 pasa por la estación; el maquinista observa personas cruzando, usa silbato continuo y aplica freno de urgencia; se produce el arrollamiento a 113 km/h en PK 285,330"
+    },
+    {
+     "hora": "02:43",
+     "evento": "El tren queda detenido en PK 284,585; el maquinista informa al jefe de circulación"
+    },
+    {
+     "hora": "03:13",
+     "evento": "Confirmación del fallecimiento de la segunda víctima (30 minutos después de la primera)"
+    },
+    {
+     "hora": "04:35",
+     "evento": "Levantamiento del cadáver por Policía Judicial y Guardia Civil; fin de la incidencia"
+    },
+    {
+     "hora": null,
+     "evento": "Aproximadamente 30 minutos después del arrollamiento, el maquinista reanuda la marcha con el tren previo reconocimiento de la locomotora"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0028/2006",
+ "expediente": "0028/2006",
+ "anio": 2006,
+ "titulo": "Arrollamiento de dos personas por tren de Larga Distancia en la estación de Venta de Baños (Palencia)",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-300606-020307.md"
+}

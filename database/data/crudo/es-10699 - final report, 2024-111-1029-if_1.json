@@ -1,0 +1,1071 @@
+{
+ "id": "es-10699 - final report, 2024-111-1029-if_1",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/260526-241029-if-sf_ciaf.pdf",
+ "pdf": "pdfs/ES/es-10699 - final report, 2024-111-1029-if_1.pdf",
+ "md5_pdf": "667ebe171a97d859dec5fd6dc9799b66",
+ "paginas_md": 37,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 32,
+ "n_tablas": 4,
+ "tablas": [
+  {
+   "pagina": 32,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF y ADIF AV",
+     "Número": "111/2024-1",
+     "Recomendación": "Reelaborar los procedimientos de comunicación de deformaciones de vía por parte del personal de conducción de las empresas ferroviarias al administrador de infraestructuras, definiendo las actuaciones a adoptar e incorporando criterios específicos para situaciones de lluvias intensas, fenómenos meteorológicos extraordinarios u otros, con el fin de minimizar los riesgos al máximo."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF, ADIF AV",
+     "Número": "111/2024-2",
+     "Recomendación": "Revisar y actualizar el catálogo de puntos críticos con riesgo de inundación, incluyendo puntos singulares de alta escorrentía no considerados previamente."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF y ADIF AV",
+     "Número": "111/2024-3",
+     "Recomendación": "Revisar el dimensionamiento y la configuración geométrica del sistema de drenaje de la cuenca en la boca norte del túnel de Álora, verificando su capacidad hidráulica y su comportamiento frente a caudales extraordinarios, especialmente en tramos con cambio de alineación."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF y ADIF AV",
+     "Número": "111/2024-4",
+     "Recomendación": "Garantizar la inspección y limpieza periódica de cunetas y drenajes para mantener su capacidad hidráulica y prevenir acumulación de materiales."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF y ADIF AV",
+     "Número": "111/2024-5",
+     "Recomendación": "Habilitar el acceso del personal de los Centros de Regulación de Circulación (CRC) a los sistemas de circuito cerrado de televisión (CCTV) de protección y seguridad, a fin de disponer de información visual en tiempo real sobre el estado de los elementos de infraestructura en situaciones de riesgo, como complemento de información ante una incidencia."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 33,
+   "cabecera": [
+    "AESF",
+    "ADIF y ADIF AV",
+    "111/2024-6",
+    "",
+    "Estudiar la viabilidad de detectar desprendimientos u otros eventos similares mediante la monitorización de taludes por medios tecnológicos."
+   ],
+   "filas": [
+    {
+     "AESF": "AESF",
+     "ADIF y ADIF AV": "ADIF y ADIF AV",
+     "111/2024-6": "111/2024-7",
+     "Estudiar la viabilidad de detectar desprendimientos u otros eventos similares mediante la monitorización de taludes por medios tecnológicos.": ""
+    },
+    {
+     "AESF": "AESF",
+     "ADIF y ADIF AV": "ADIF y ADIF AV",
+     "111/2024-6": "111/2024-8",
+     "Estudiar la viabilidad de detectar desprendimientos u otros eventos similares mediante la monitorización de taludes por medios tecnológicos.": "Analizar los sistemas de detección de caída de objetos existentes para identificar posibles zonas sin cobertura o puntos ciegos de detección y estudiar la adopción de medidas que permitan corregir dichas limitaciones en función de las características del entorno en el que se encuentran implantados."
+    }
+   ],
+   "cita": "| AESF | ADIF y ADIF AV | 111/2024-6 |   | Estudiar la viabilidad de detectar desprendimientos u otros eventos similares mediante la monitorización de taludes por medios tecnológicos. |"
+  },
+  {
+   "pagina": 36,
+   "cabecera": [
+    "Addressee",
+    "Final Implementer",
+    "Number",
+    "",
+    "Recommendation"
+   ],
+   "filas": [
+    {
+     "Addressee": "AESF (NSA-ES)",
+     "Final Implementer": "ADIF and ADIF AV (IM)",
+     "Number": "111/2024-1",
+     "Recommendation": ""
+    },
+    {
+     "Addressee": "AESF (NSA-ES)",
+     "Final Implementer": "ADIF and ADIF AV (IM)",
+     "Number": "111/2024-2",
+     "Recommendation": "Review and update the catalogue of critical points at risk of flooding, including singular locations with high runoff not previously identified."
+    }
+   ],
+   "cita": "| Addressee | Final Implementer | Number |   | Recommendation |"
+  },
+  {
+   "pagina": 37,
+   "cabecera": [
+    "AESF (NSA-ES)",
+    "ADIF and ADIF AV (IM)",
+    "111/2024-3",
+    "Review the sizing and geometric configuration of the drainage system in the catchment area at the north portal of the Álora tunnel, verifying its hydraulic capacity and performance under extraordinary flow conditions, particularly in sections involving alignment changes."
+   ],
+   "filas": [
+    {
+     "AESF (NSA-ES)": "AESF (NSA-ES)",
+     "ADIF and ADIF AV (IM)": "ADIF and ADIF AV (IM)",
+     "111/2024-3": "111/2024-4",
+     "Review the sizing and geometric configuration of the drainage system in the catchment area at the north portal of the Álora tunnel, verifying its hydraulic capacity and performance under extraordinary flow conditions, particularly in sections involving alignment changes.": "Ensure the periodic inspection and cleaning of ditches and drainage systems in order to maintain their hydraulic capacity and prevent the accumulation of materials."
+    },
+    {
+     "AESF (NSA-ES)": "AESF (NSA-ES)",
+     "ADIF and ADIF AV (IM)": "ADIF and ADIF AV (IM)",
+     "111/2024-3": "111/2024-5",
+     "Review the sizing and geometric configuration of the drainage system in the catchment area at the north portal of the Álora tunnel, verifying its hydraulic capacity and performance under extraordinary flow conditions, particularly in sections involving alignment changes.": "Provide personnel of the Traffic Control Centres with access to protection and security closed-circuit television (CCTV) systems in order to obtain real-time visual information on the condition of infrastructure elements during risk situations, as complementary information in the event of an incident."
+    },
+    {
+     "AESF (NSA-ES)": "AESF (NSA-ES)",
+     "ADIF and ADIF AV (IM)": "ADIF and ADIF AV (IM)",
+     "111/2024-3": "111/2024-6",
+     "Review the sizing and geometric configuration of the drainage system in the catchment area at the north portal of the Álora tunnel, verifying its hydraulic capacity and performance under extraordinary flow conditions, particularly in sections involving alignment changes.": "Study the feasibility of detecting landslides or similar events through technological slope-monitoring systems."
+    },
+    {
+     "AESF (NSA-ES)": "AESF (NSA-ES)",
+     "ADIF and ADIF AV (IM)": "ADIF and ADIF AV (IM)",
+     "111/2024-3": "111/2024-7",
+     "Review the sizing and geometric configuration of the drainage system in the catchment area at the north portal of the Álora tunnel, verifying its hydraulic capacity and performance under extraordinary flow conditions, particularly in sections involving alignment changes.": "Study the feasibility of implementing automatic real- time rainfall measurement systems at strategic points of the railway network, particularly on high-speed lines and in areas previously identified as presenting geological or hydrological risks, in order to facilitate the adoption of operational measures based on real meteorological data during episodes of intense or extraordinary rainfall."
+    },
+    {
+     "AESF (NSA-ES)": "AESF (NSA-ES)",
+     "ADIF and ADIF AV (IM)": "ADIF and ADIF AV (IM)",
+     "111/2024-3": "111/2024-8",
+     "Review the sizing and geometric configuration of the drainage system in the catchment area at the north portal of the Álora tunnel, verifying its hydraulic capacity and performance under extraordinary flow conditions, particularly in sections involving alignment changes.": "Analyse existing object-fall detection systems in order to identify potential uncovered areas or detection blind spots, and study the adoption of measures to address such limitations according to the characteristics of the environment in which such systems are deployed."
+    }
+   ],
+   "cita": "| AESF (NSA-ES) | ADIF and ADIF AV (IM) | 111/2024-3 | Review the sizing and geometric configuration of the drainage system in the catchment area at the north portal of the Álora tunnel, verifying its"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "111/2024",
+   "pagina": 1,
+   "cita": "INFORME FINAL DE LA CIAF (IF) 111/2024",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 29 de octubre de 2024, a las 12:10 horas, el tren de alta velocidad 02123 de Renfe Viajeros, serie 112.014, colisionó a unos 200 km/h con una acumulación de tierra y piedras sobre la vía en el PK 124/573 de la línea 030, a la salida norte del túnel de Álora, produciéndose el descarrilamiento del primer eje del primer bogie de la cabeza tractora. El tren circulaba con una LTV de 200 km/h establecida tras la comunicación de un golpe por el maquinista del tren Iryo 06119, que había pasado por el mismo punto unos 25 minutos antes. La acumulación de materiales fue consecuencia del arrastre provocado por precipitaciones extraordinarias (169 l/m² acumulados ese día). No hubo víctimas, pero se produjeron daños en material rodante e infraestructura, incluida la rotura del carril derecho en el PK 124/532, y la vía I quedó interceptada durante unas 65 horas.",
+   "pagina": 5,
+   "cita": "1. RESUMEN El 29 de octubre de 2024, a las 12:10 horas, el tren de alta velocidad 02123 de Renfe Viajeros, compuesto por la unidad 112.014, que realizaba el servicio entre Málaga - María Zambrano y Madrid - Puerta de",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2024-10-29",
+    "hora": "12:10",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Álora",
+     "pk": "124/573",
+     "linea": "030 Bifurcación Málaga A.V. – Málaga María Zambrano",
+     "provincia": "Málaga",
+     "descripcion_lugar": "Salida norte del túnel de Álora, por la vía I, en tramo de alineación recta, pendiente aproximada de 24 milésimas y explanación en media ladera con laderas erosionables y escasa cobertura vegetal, entre Los Prados y Álora."
+    }
+   },
+   "pagina": 13,
+   "cita": "quedó interceptada desde las 12:15 horas del día 29/10/2024 hasta las 05:30 horas del día",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Rotura del carril derecho en PK 124/532; daños en material rodante valorados en 483.596,61 € y en infraestructura en 382.791,79 €, total estimado 866.388,40 €.",
+    "afectacion_servicio": "Interrupción de la circulación por vía I entre Los Prados y Álora desde 12:15 del 29/10/2024 hasta 05:30 del 01/11/2024 (~65 h 15 min). Restablecimiento con LTV de 30 km/h y luego 80 km/h como CSV preventivo. Impactos: 161 circulaciones AV de Renfe afectadas (2.112 min de retraso acumulado), 66 servicios AVANT (1.268 min) y 51 circulaciones de Iryo (471 min)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Acumulación súbita de tierra y piedras en la caja de la vía a la salida norte del túnel de Álora, arrastrados por escorrentía superficial como consecuencia de precipitaciones de intensidad extraordinaria, con la que colisionó el tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Elevada intensidad de las precipitaciones concentradas en un corto intervalo de tiempo.",
+    "Orografía del tramo que favoreció el arrastre y depósito de materiales sobre la vía.",
+    "Capacidad deficiente del sistema de drenaje en el entorno del túnel ante un episodio meteorológico excepcional.",
+    "Establecimiento de una LTV (200 km/h) inadecuada para evitar el descarrilamiento ante la magnitud del obstáculo.",
+    "Aplicación insuficiente e incorrecta del procedimiento previsto en la Ficha LAV 2 Deformación de vía tras la comunicación del golpe."
+   ],
+   "pagina": 29,
+   "cita": "1. Elevada intensidad de las precipitaciones concentradas en un corto intervalo de tiempo. Ver",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ausencia de criterios específicos en la Ficha LAV 2 Deformación de vía para la gestión y evaluación del riesgo asociado a deformaciones de vía.",
+    "Falta de difusión y coordinación operativa efectiva de la Ficha LAV 2, al no estar integrada en el Plan de Contingencias de ADIF-AV ni en los SGS de las empresas ferroviarias."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Reelaborar los procedimientos de comunicación de deformaciones de vía por parte del personal de conducción de las empresas ferroviarias al administrador de infraestructuras, definiendo las actuaciones a adoptar e incorporando criterios específicos para situaciones de lluvias intensas, fenómenos meteorológicos extraordinarios u otros, con el fin de minimizar los riesgos al máximo.",
+    "Revisar y actualizar el catálogo de puntos críticos con riesgo de inundación, incluyendo puntos singulares de alta escorrentía no considerados previamente.",
+    "Revisar el dimensionamiento y la configuración geométrica del sistema de drenaje de la cuenca en la boca norte del túnel de Álora, verificando su capacidad hidráulica y su comportamiento frente a caudales extraordinarios, especialmente en tramos con cambio de alineación.",
+    "Garantizar la inspección y limpieza periódica de cunetas y drenajes para mantener su capacidad hidráulica y prevenir acumulación de materiales.",
+    "Habilitar el acceso del personal de los Centros de Regulación de Circulación (CRC) a los sistemas de circuito cerrado de televisión (CCTV) de protección y seguridad, a fin de disponer de información visual en tiempo real sobre el estado de los elementos de infraestructura en situaciones de riesgo, como complemento de información ante una incidencia."
+   ],
+   "pagina": 32,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 32,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Colisión de tren con obstáculo y descarrilamiento",
+   "pagina": 1,
+   "cita": "Colisión de tren con obstáculo y descarrilamiento",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Viajeros",
+    "Iryo",
+    "ADIF",
+    "ADIF AV"
+   ],
+   "pagina": 5,
+   "cita": "El 29 de octubre de 2024, a las 12:10 horas, el tren de alta velocidad 02123 de Renfe Viajeros,",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2024-10-29",
+   "pagina": 13,
+   "cita": "quedó interceptada desde las 12:15 horas del día 29/10/2024 hasta las 05:30 horas del día",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "12:10",
+   "pagina": 5,
+   "cita": "El 29 de octubre de 2024, a las 12:10 horas, el tren de alta velocidad 02123 de Renfe Viajeros,",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Álora",
+    "pk": "124/573",
+    "linea": "030 Bifurcación Málaga A.V. – Málaga María Zambrano",
+    "provincia": "Málaga",
+    "descripcion_lugar": "Salida norte del túnel de Álora, por la vía I, en tramo de alineación recta, pendiente aproximada de 24 milésimas y explanación en media ladera con laderas erosionables y escasa cobertura vegetal, entre Los Prados y Álora."
+   },
+   "pagina": 1,
+   "cita": "en Álora (Málaga) el 29 de octubre de 2024",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 030 Málaga Alta Velocidad – Málaga María Zambrano",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Serie 112, automotor 112.014",
+    "averia": "Descarrilamiento del primer eje del primer bogie de la cabeza tractora; sin indicios de fallo previo en sistemas de control, señalización o estructura.",
+    "mantenimiento": "Vehículo autorizado para circulación conforme a su plan de mantenimiento y con revisiones periódicas en vigor."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El 29 de octubre de 2024, el tren de alta velocidad 02123 de Renfe Viajeros, compuesto por la unidad 112.014, realizaba el servicio Málaga María Zambrano–Madrid Puerta de Atocha con 276 viajeros. Circulaba a unos 200 km/h por la vía I de la línea 030, a la salida norte del túnel de Álora, cuando en el PK 124/573 colisionó con un obstáculo formado por tierra y piedras acumulados sobre el carril derecho, arrastrados por escorrentía superficial debido a precipitaciones extraordinarias registradas esa mañana. Como consecuencia, el primer eje del primer bogie de la cabeza tractora descarriló: la rueda derecha cayó hacia el exterior y la izquierda a la caja de la vía, mientras que el resto del tren permaneció encarrilado.\n\nTras la colisión, el sistema de protección del tren activó el frenado de emergencia, pero no pudo evitar el descarrilamiento. La composición recorrió 1.563 metros en movimiento de inercia, desde el PK 124/573 hasta el PK 123/010, manteniéndose en todo momento en posición vertical y sin interceptar la vía contigua, gracias a que el carril derecho quedó alojado entre la rueda descarrilada y el disco de freno, produciendo un efecto de guiado y contención lateral. Durante el proceso se produjo la rotura en V del patín del carril derecho en el PK 124/532.\n\nPreviamente, el tren Iryo 06119 había comunicado al CRC de Antequera AV, sobre las 11:45 horas, la percepción de un golpe o bache fuerte en el eje derecho de la circulación al pasar por el mismo punto. El RC estableció entonces una LTV de 200 km/h para el tren siguiente, notificada al maquinista del 02123 mediante telefonema operativo número 77 a las 11:56 horas. Entre ambos pasos transcurrieron unos 25 minutos, durante los cuales la intensa precipitación favoreció la acumulación progresiva de materiales hasta invadir el gálibo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Álora",
+    "pk": "124/573",
+    "linea": "030 Bifurcación Málaga A.V. – Málaga María Zambrano",
+    "provincia": "Málaga",
+    "descripcion_lugar": "Salida norte del túnel de Álora, por la vía I, en tramo de alineación recta, pendiente aproximada de 24 milésimas y explanación en media ladera con laderas erosionables y escasa cobertura vegetal, entre Los Prados y Álora."
+   },
+   "pagina": 1,
+   "cita": "en Álora (Málaga) el 29 de octubre de 2024",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Rotura del carril derecho en PK 124/532; daños en material rodante valorados en 483.596,61 € y en infraestructura en 382.791,79 €, total estimado 866.388,40 €.",
+    "afectacion_servicio": "Interrupción de la circulación por vía I entre Los Prados y Álora desde 12:15 del 29/10/2024 hasta 05:30 del 01/11/2024 (~65 h 15 min). Restablecimiento con LTV de 30 km/h y luego 80 km/h como CSV preventivo. Impactos: 161 circulaciones AV de Renfe afectadas (2.112 min de retraso acumulado), 66 servicios AVANT (1.268 min) y 51 circulaciones de Iryo (471 min)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Como consecuencia del suceso, ADIF ha intensificado la vigilancia preventiva en situaciones \nmeteorológicas excepcionales, centrando los controles en puntos críticos y elementos de \ninfraestructura sensibles. Asimismo, ha procedido a verificar sistemáticamente el estado de las \ninstalaciones y a establecer restricciones temporales a la circulación en los tramos afectados hasta \ngarantizar la seguridad, conforme a lo previsto en el Manual de Prevención y Gestión de Incidencias \n(MPGI), con el objetivo de mitigar riesgos y reforzar la protección frente a fenómenos extraordinarios. \nAdicionalmente, ADIF-AV ha actualizado la “Ficha específica LAV 2. Deformación de vía”, \nmanteniendo su denominación, pero ampliando su contenido mediante la incorporación de cuatro \nniveles de repercusión, frente a los dos contemplados en la versión anterior. Dichos niveles \ncontemplan: a) repercusión débil, sin reducción específica de velocidad; b) repercusión moderada, \ncon establecimiento de limitaciones de velocidad de 230 km/h, 160 km/h o inferiores en la siguiente \ncirculación, incluyendo la solicitud de información al maquinista sobre el comportamiento del tren al \n\n## Página 31\n\n \nInforme Final de la CIAF 111/2024 \n \n \n \n \n \n \n \n \n \n \n \n \n31 \n \npaso por el punto; c) repercusión fuerte, con limitación de velocidad a 80 km/h o inferior en la \nsiguiente circulación, igualmente con recogida de información del maquinista; y d) repercusión muy \nfuerte, con prescripción de marcha a la vista sin exceder de 40 km/h o inferior, con el mismo \nmecanismo de verificación del comportamiento del tren. \nPor otra parte, tras el suceso se procedió a la actualización del Anexo 2 del Manual de Prevención y \nGestión de Incidencias del Plan de Contingencias de Adif y Adif AV incorporando la boca norte del \ntúnel de Álora como punto singular de riesgo. Esta actualización se enmarca en el proceso periódico \nde revisión del inventario de puntos críticos, realizado conforme al procedimiento ADIF-PE-402-001-\n006-SC-513 “Comunicaciones de puntos de riesgo y/o limitaciones temporales de velocidad del anexo \n2 del Manual de Prevención y Gestión de Incidencias del Plan de Contingencias de Adif y Adif AV”. \n \n \n\n## Página 32\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n32",
+   "pagina": 30,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 06119 de Iryo",
+     "implicacion": "Comunicó al CRC la percepción de un golpe o bache fuerte en la vía a la salida del túnel de Álora, lo que motivó la LTV."
+    },
+    {
+     "rol": "Maquinista del tren 02123 de Renfe Viajeros",
+     "implicacion": "Conductor del tren accidentado; circulaba con LTV de 200 km/h notificada por el RC."
+    },
+    {
+     "rol": "Responsable del CTC del CRC de Antequera AV (ADIF)",
+     "implicacion": "Estableció la LTV de 200 km/h tras recabar información del maquinista precedente; aplicación no estricta de la Ficha LAV 2."
+    }
+   ],
+   "pagina": 5,
+   "cita": "de Regulación de Circulación (CRC) de ADIF-AV, tras comunicar el maquinista del tren 06119 de Iryo,",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "Resultan relevantes para la investigación de este suceso las actuaciones previas del personal \nferroviario siguiente: \n➢ Maquinista del tren 06119, perteneciente a Iryo (ILSA Rail S.A.), que circulaba \ninmediatamente (25 minutos) antes del tren accidentado por la misma vía y comunicó la \nposible percepción de irregularidad en el tramo afectado. \n➢ Maquinista del tren 02123 de Renfe Viajeros, conductor del tren implicado en el suceso. \n➢ Responsable del CTC del CRC de Antequera AV de ADIF. \n \n\n## Página 14\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n14 \n \n \n \n \nLas entidades relacionadas con el suceso son las siguientes: \n➢ Renfe Viajeros: Empresa ferroviaria del tren implicado en el accidente. \n➢ ADIF-AV: Administrador de la infraestructura ferroviaria donde se produjo el suceso. \n➢ Iryo (ILSA Rail S.A.): Empresa ferroviaria que operaba el tren inmediatamente precedente al \naccidentado y cuya comunicación inicial motivó la adopción de la LTV.",
+   "pagina": 13,
+   "cita": "3.1.4. Personal y entidades",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "02123",
+     "tipo": "tren de alta velocidad / servicio comercial Málaga María Zambrano–Madrid Puerta de Atocha",
+     "operador": "Renfe Viajeros",
+     "danos": "Descarrilamiento del primer eje del primer bogie de la cabeza tractora; daños en material rodante valorados en 483.596,61 €."
+    },
+    {
+     "numero": "06119",
+     "tipo": "tren de alta velocidad (precedente)",
+     "operador": "Iryo (ILSA Rail S.A.)",
+     "danos": "Sin daños relevantes; su maquinista percibió y comunicó un golpe o bache fuerte en el eje derecho."
+    }
+   ],
+   "pagina": 5,
+   "cita": "El 29 de octubre de 2024, a las 12:10 horas, el tren de alta velocidad 02123 de Renfe Viajeros,",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Serie 112, automotor 112.014",
+    "averia": "Descarrilamiento del primer eje del primer bogie de la cabeza tractora; sin indicios de fallo previo en sistemas de control, señalización o estructura.",
+    "mantenimiento": "Vehículo autorizado para circulación conforme a su plan de mantenimiento y con revisiones periódicas en vigor."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 4,
+   "cita": "Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "LZB y ERTMS niveles 1 y 2 con señalización lateral luminosa protegida por ASFA de respaldo; control de tráfico basado en BCA.",
+    "tipo_via": "Vía I de línea de alta velocidad en alineación recta, explanación en media ladera, traviesas de hormigón monobloque con sujeción elástica tipo Pandrol y carril de 60 kg/m.",
+    "velocidad_maxima": "300 km/h (tramo, para circulación bajo ERTMS nivel 2); 210 km/h autorizados para el tren Renfe, restringidos a 200 km/h por LTV; velocidad máxima permitida por LZB en el punto: 200 km/h.",
+    "ancho": "1435 mm (ancho estándar)",
+    "electrificacion": "Electrificada",
+    "estado_via": "Ocupada por tierra y piedras arrastrados por escorrentía; rotura del carril derecho en PK 124/532; interceptada desde 12:15 del 29/10/2024 hasta 05:30 del 01/11/2024.",
+    "otro": "Puesta en servicio el 23 de diciembre de 2007; comunicaciones GSM-R; sistemas de detección de obstáculos en embocadura con tramo de transición sin cobertura; drenaje dimensionado para periodo de retorno de 300 años (220 l/m² diarios, intensidad horaria 112 mm/h, caudal de diseño 2,83 m³/s)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "LZB y ERTMS niveles 1 y 2 con señalización lateral luminosa protegida por ASFA de respaldo; control de tráfico basado en BCA.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Rotura del carril derecho en PK 124/532; daños en material rodante valorados en 483.596,61 € y en infraestructura en 382.791,79 €, total estimado 866.388,40 €.",
+    "afectacion_servicio": "Interrupción de la circulación por vía I entre Los Prados y Álora desde 12:15 del 29/10/2024 hasta 05:30 del 01/11/2024 (~65 h 15 min). Restablecimiento con LTV de 30 km/h y luego 80 km/h como CSV preventivo. Impactos: 161 circulaciones AV de Renfe afectadas (2.112 min de retraso acumulado), 66 servicios AVANT (1.268 min) y 51 circulaciones de Iryo (471 min)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Rotura del carril derecho en PK 124/532; daños en material rodante valorados en 483.596,61 € y en infraestructura en 382.791,79 €, total estimado 866.388,40 €.",
+    "afectacion_servicio": "Interrupción de la circulación por vía I entre Los Prados y Álora desde 12:15 del 29/10/2024 hasta 05:30 del 01/11/2024 (~65 h 15 min). Restablecimiento con LTV de 30 km/h y luego 80 km/h como CSV preventivo. Impactos: 161 circulaciones AV de Renfe afectadas (2.112 min de retraso acumulado), 66 servicios AVANT (1.268 min) y 51 circulaciones de Iryo (471 min)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Rotura del carril derecho en PK 124/532; daños en material rodante valorados en 483.596,61 € y en infraestructura en 382.791,79 €, total estimado 866.388,40 €.",
+    "afectacion_servicio": "Interrupción de la circulación por vía I entre Los Prados y Álora desde 12:15 del 29/10/2024 hasta 05:30 del 01/11/2024 (~65 h 15 min). Restablecimiento con LTV de 30 km/h y luego 80 km/h como CSV preventivo. Impactos: 161 circulaciones AV de Renfe afectadas (2.112 min de retraso acumulado), 66 servicios AVANT (1.268 min) y 51 circulaciones de Iryo (471 min)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 112, automotor 112.014",
+    "averia": "Descarrilamiento del primer eje del primer bogie de la cabeza tractora; sin indicios de fallo previo en sistemas de control, señalización o estructura.",
+    "mantenimiento": "Vehículo autorizado para circulación conforme a su plan de mantenimiento y con revisiones periódicas en vigor."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "LZB y ERTMS niveles 1 y 2 con señalización lateral luminosa protegida por ASFA de respaldo; control de tráfico basado en BCA.",
+    "tipo_via": "Vía I de línea de alta velocidad en alineación recta, explanación en media ladera, traviesas de hormigón monobloque con sujeción elástica tipo Pandrol y carril de 60 kg/m.",
+    "velocidad_maxima": "300 km/h (tramo, para circulación bajo ERTMS nivel 2); 210 km/h autorizados para el tren Renfe, restringidos a 200 km/h por LTV; velocidad máxima permitida por LZB en el punto: 200 km/h.",
+    "ancho": "1435 mm (ancho estándar)",
+    "electrificacion": "Electrificada",
+    "estado_via": "Ocupada por tierra y piedras arrastrados por escorrentía; rotura del carril derecho en PK 124/532; interceptada desde 12:15 del 29/10/2024 hasta 05:30 del 01/11/2024.",
+    "otro": "Puesta en servicio el 23 de diciembre de 2007; comunicaciones GSM-R; sistemas de detección de obstáculos en embocadura con tramo de transición sin cobertura; drenaje dimensionado para periodo de retorno de 300 años (220 l/m² diarios, intensidad horaria 112 mm/h, caudal de diseño 2,83 m³/s)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Precipitaciones extraordinarias ese día: 169 l/m² acumulados. Entre 00:00 y 10:30, ~76,5 l/m²; entre 10:30 y 11:45, 68 l/m²; entre 11:45 y 12:10, ~10 l/m². La intensidad entre 07:00 y 13:00 superó los 80 l/m² en seis horas (nivel 3), frente a previsiones de nivel 2 y nivel 1.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Málaga",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 1,
+   "cita": "en Álora (Málaga) el 29 de octubre de 2024",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Precipitaciones extraordinarias ese día: 169 l/m² acumulados. Entre 00:00 y 10:30, ~76,5 l/m²; entre 10:30 y 11:45, 68 l/m²; entre 11:45 y 12:10, ~10 l/m². La intensidad entre 07:00 y 13:00 superó los 80 l/m² en seis horas (nivel 3), frente a previsiones de nivel 2 y nivel 1.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "LZB y ERTMS niveles 1 y 2 con señalización lateral luminosa protegida por ASFA de respaldo; control de tráfico basado en BCA.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "LZB y ERTMS niveles 1 y 2 con señalización lateral luminosa protegida por ASFA de respaldo; control de tráfico basado en BCA.",
+    "tipo_via": "Vía I de línea de alta velocidad en alineación recta, explanación en media ladera, traviesas de hormigón monobloque con sujeción elástica tipo Pandrol y carril de 60 kg/m.",
+    "velocidad_maxima": "300 km/h (tramo, para circulación bajo ERTMS nivel 2); 210 km/h autorizados para el tren Renfe, restringidos a 200 km/h por LTV; velocidad máxima permitida por LZB en el punto: 200 km/h.",
+    "ancho": "1435 mm (ancho estándar)",
+    "electrificacion": "Electrificada",
+    "estado_via": "Ocupada por tierra y piedras arrastrados por escorrentía; rotura del carril derecho en PK 124/532; interceptada desde 12:15 del 29/10/2024 hasta 05:30 del 01/11/2024.",
+    "otro": "Puesta en servicio el 23 de diciembre de 2007; comunicaciones GSM-R; sistemas de detección de obstáculos en embocadura con tramo de transición sin cobertura; drenaje dimensionado para periodo de retorno de 300 años (220 l/m² diarios, intensidad horaria 112 mm/h, caudal de diseño 2,83 m³/s)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "La notificación del presente suceso fue realizada el día 29 de octubre de 2024 mediante mensaje de \ntexto remitido por ADIF al Presidente y Secretario de la CIAF.   \nEn base a esta información, se solicitó información sobre el suceso a ADIF el día 8 de noviembre de \n2024, remitiéndose información básica del mismo el día 13 de noviembre de 2024 vía email.  \nCon posterioridad se produjeron nuevos intercambios de información tanto con ADIF como con \nRENFE-Viajeros vía email y en reuniones presenciales, así como intercambios de información con el \nresto de empresas ferroviarias que prestan servicios de transporte en las líneas de Alta Velocidad \n(Iryo y Ouigo).  \nEl Informe Particular de ADIF se recibió en la CIAF con fecha 12 de septiembre de 2025.",
+   "pagina": 9,
+   "cita": "2.4. CANALES DE COMUNICACIÓN",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 112, automotor 112.014",
+    "averia": "Descarrilamiento del primer eje del primer bogie de la cabeza tractora; sin indicios de fallo previo en sistemas de control, señalización o estructura.",
+    "mantenimiento": "Vehículo autorizado para circulación conforme a su plan de mantenimiento y con revisiones periódicas en vigor."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Precipitaciones extraordinarias en la zona",
+    "Arrastre de tierra y piedras",
+    "Golpe notado por tren anterior",
+    "Imposición de LTV insuficiente"
+   ],
+   "pagina": 5,
+   "cita": "La acumulación de materiales sobre la infraestructura ferroviaria fue consecuencia del arrastre de",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "En el análisis del suceso se identificaron factores humanos y organizativos vinculados a la gestión de \nla seguridad operacional y a la aplicación de los procedimientos internos de ADIF. El procedimiento \npara la comunicación de defectos de vía, regulado en la “Ficha Específica LAV 2 – Deformación de vía” \n\n## Página 24\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n24 \n \n \n \n \ny concebido para garantizar la adecuada valoración del riesgo y la adopción de medidas de mitigación \nfrente a anomalías en la infraestructura, no era plenamente conocido ni por el personal de \nconducción ni por el personal del CRC. En el caso del personal de conducción, al tratarse de un \ndocumento interno de ADIF, este no se traslada a las empresas ferroviarias y, en consecuencia, no \nforma parte de sus respectivos SGS, motivo por el cual su contenido no resulta conocido por los \nmaquinistas. \nEl procedimiento establece dos niveles de repercusión: débil y fuerte. Para las anomalías clasificadas \ncomo débiles, el RC debe contactar con el siguiente maquinista con el fin de verificar la persistencia \nde la irregularidad, mientras que la función del maquinista se limita a comunicar el defecto y circular \nconforme a las indicaciones del RC. En el caso de anomalías clasificadas como fuertes, se prescribe \nuna LTV máxima de 160 km/h, salvo que el maquinista indique una velocidad inferior; asimismo, \nprevé que la recuperación posterior de la velocidad se efectúe de forma progresiva, mediante \nincrementos escalonados de 50 km/h hasta alcanzar nuevamente la velocidad nominal del tramo. \nAsimismo, el RC había recabado previamente información sobre el estado de la vía debido a las \nprecipitaciones registradas en la zona, sin que los trenes anteriores hubieran comunicado la \nexistencia de anormalidades durante su circulación por el tramo afectado. \nLa posibilidad de que el maquinista determine una velocidad inferior carece de una justificación \ntécnica suficiente, dado que éste no dispone de criterios objetivos ni de información completa para \nefectuar una adecuada evaluación de riesgo asociado al estado de la infraestructura. En \nconsecuencia, su apreciación debe considerarse únicamente como un elemento de información \ncomplementaria para la toma de decisiones por parte del RC. La responsabilidad del establecimiento \nde la LTV corresponde exclusivamente al RC, siendo la medida más conservadora y segura, en \nsituaciones de incertidumbre sobre el estado de la vía, la prescripción de marcha a la vista con \nrecuperación progresiva de la velocidad hasta la nominal del tramo. \nEn el caso analizado, la comunicación efectuada por el maquinista del tren precedente describía un \ngolpe que, conforme a los criterios del procedimiento, debía considerarse de repercusión fuerte. No \nobstante, la LTV finalmente establecida fue de 200 km/h, valor superior al previsto en el \nprocedimiento, lo que evidencia una aplicación no estricta y un cumplimiento parcial del protocolo \npor parte del RC. Esta desviación redujo la eficacia de la barrera operacional prevista para mitigar de \ndescarrilamiento asociado a una posible anomalía en la vía. \n\n## Página 25\n\n \nInforme Final de la CIAF 111/2024 \n \n \n \n \n \n \n \n \n \n \n \n \n25",
+   "pagina": 23,
+   "cita": "4.3. FACTORES HUMANOS Y ORGANIZATIVOS RELACIONADOS CON EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El 29 de octubre de 2024, el tren de alta velocidad 02123 de Renfe Viajeros, compuesto por la unidad 112.014, realizaba el servicio Málaga María Zambrano–Madrid Puerta de Atocha con 276 viajeros. Circulaba a unos 200 km/h por la vía I de la línea 030, a la salida norte del túnel de Álora, cuando en el PK 124/573 colisionó con un obstáculo formado por tierra y piedras acumulados sobre el carril derecho, arrastrados por escorrentía superficial debido a precipitaciones extraordinarias registradas esa mañana. Como consecuencia, el primer eje del primer bogie de la cabeza tractora descarriló: la rueda derecha cayó hacia el exterior y la izquierda a la caja de la vía, mientras que el resto del tren permaneció encarrilado.\n\nTras la colisión, el sistema de protección del tren activó el frenado de emergencia, pero no pudo evitar el descarrilamiento. La composición recorrió 1.563 metros en movimiento de inercia, desde el PK 124/573 hasta el PK 123/010, manteniéndose en todo momento en posición vertical y sin interceptar la vía contigua, gracias a que el carril derecho quedó alojado entre la rueda descarrilada y el disco de freno, produciendo un efecto de guiado y contención lateral. Durante el proceso se produjo la rotura en V del patín del carril derecho en el PK 124/532.\n\nPreviamente, el tren Iryo 06119 había comunicado al CRC de Antequera AV, sobre las 11:45 horas, la percepción de un golpe o bache fuerte en el eje derecho de la circulación al pasar por el mismo punto. El RC estableció entonces una LTV de 200 km/h para el tren siguiente, notificada al maquinista del 02123 mediante telefonema operativo número 77 a las 11:56 horas. Entre ambos pasos transcurrieron unos 25 minutos, durante los cuales la intensa precipitación favoreció la acumulación progresiva de materiales hasta invadir el gálibo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "A partir de la descripción de los hechos, se pueden extraer las siguientes constataciones: \n1. La vía I a la salida norte del túnel de Álora fue progresivamente ocupada por tierra y piedras \ncomo consecuencia del arrastre de materiales por escorrentía superficial derivada de \nprecipitaciones de carácter extraordinario registradas en la zona durante la mañana del \nsuceso. \n2. El maquinista del tren 06119 de Iryo comunicó a las 11:45 al RC del CRC de Antequera AV la \npercepción de una posible irregularidad en la vía a la salida del túnel de Álora, describiéndola \ncomo un bache o golpe fuerte, mientras circulaba bajo supervisión ERTMS nivel 2 a una \nvelocidad aproximada de 280 km/h, siendo la velocidad máxima autorizada en ese punto de \n300 km/h. \n3. El RC del CRC de Antequera AV evaluó la información recibida y, tras solicitar al maquinista \ndel tren 06119 una estimación de velocidad de paso adecuada por el punto afectado, \nestableció una LTV de 200 km/h para la circulación del tren 02123 de Renfe Viajeros, \nnotificándose la restricción mediante telefonema operativo número 77 a las 11:56 horas.  \n4. El tren 02123 inició su circulación por el tramo con la LTV incorporada en el sistema de \nprotección LZB, conforme a los procedimientos operativos de explotación de la \ninfraestructura, suponiendo dicha LTV una reducción de 10 km/h respecto de la velocidad \nmáxima permitida para una circulación bajo supervisión LZB en ese punto. \n5. Entre la circulación del tren precedente y el tren accidentado transcurrió un intervalo \ntemporal aproximado de 25 minutos, durante el cual las precipitaciones intensas \nfavorecieron el incremento de arrastre progresivo de materiales desde la ladera y el trasdós \ndel falso túnel hacia el gálibo de la vía. \n6. A las 12:10 horas, el tren 02123, que circulaba a una velocidad aproximada de 200 km/h, \ncolisionó con un obstáculo constituido por tierra y piedras acumulados sobre el carril derecho \nen el PK 124/573, produciéndose el descarrilamiento del primer eje del primer bogie de la \ncabeza tractora en el sentido de la marcha. \n7. Tras el impacto inicial, la composición recorrió aproximadamente 1.563 metros en \nmovimiento de inercia hasta su detención, manteniéndose el tren en posición vertical y sin \nproducirse la interceptación de la vía contigua. \n\n## Página 18\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n18 \n \n \n \n \n8. El sistema de protección del tren actuó automáticamente al detectarse la colisión con el \nobstáculo, activándose el frenado de emergencia, aunque no fue posible evitar el \ndescarrilamiento debido a la presencia del material depositado sobre la vía. \n4.1. COMETIDOS Y DEBERES RELACIONADOS CON EL SUCESO \nEn relación con el estado de la vía, corresponde al personal de conducción la obligación de comunicar \nde forma inmediata cualquier anomalía percibida durante la circulación que pueda afectar a la \nseguridad. Esta obligación no constituye únicamente una buena práctica operativa, sino que tiene \nrespaldo normativo expreso en el Reglamento de Circulación Ferroviaria (RCF). En concreto, el \nartículo 5.2.3.3 establece literalmente que: “Cualquier anormalidad identificada por el Maquinista \nrelacionada con la infraestructura o con los equipos embarcados de los sistemas de protección del \ntren será comunicada al Responsable de Circulación de la Banda de Regulación o del CTC”. En \nconsecuencia, la actuación del maquinista del tren precedente al comunicar la percepción de un golpe \nfuerte a la salida del túnel de Álora se encuadra dentro de los deberes reglamentariamente exigibles \nen materia de seguridad operacional. \nAsimismo, el artículo 3.6.1.3 del RCF establece que, cuando existan indicios de que una vía puede \nencontrarse interceptada, deberá suspenderse la circulación por el tramo afectado y procederse a su \nreconocimiento sin pérdida de tiempo, correspondiendo al administrador de infraestructuras \ndeterminar las actuaciones necesarias para garantizar la seguridad de la circulación. En este contexto, \nla comunicación efectuada por el maquinista del tren 06119 constituía un indicio de posible anomalía \nen la infraestructura que requería una valoración operativa del riesgo asociado. \nAhora bien, el citado precepto del artículo 5.2.3.3 del RCF impone un deber de comunicación, pero \nno atribuye al maquinista la competencia para determinar las medidas operativas a adoptar ni para \nestablecer limitaciones de velocidad. La responsabilidad de evaluar el riesgo asociado a la incidencia \ncomunicada y de implantar las restricciones necesarias corresponde, de acuerdo con el artículo \n3.6.1.3 del RCF, al administrador de infraestructuras, en este caso ADIF AV, quien debe garantizar \nmediante procedimientos eficaces que el riesgo quede adecuadamente mitigado. \nEn el supuesto analizado, el maquinista del tren precedente comunicó la percepción de “un golpe o \nbache fuerte en el eje derecho de la circulación” cuando circulaba aproximadamente a 280 km/h bajo \nsupervisión ERTMS nivel 2, en un tramo cuya velocidad máxima autorizada era de 300 km/h. Para la \ngestión de este tipo de incidencias, ADIF disponía de la “Ficha específica LAV 2. Deformación de vía”, \ndocumento interno que no formaba parte del Plan de Contingencias de ADIF-AV vigente en la fecha \n\n## Página 19\n\n \nInforme Final de la CIAF 111/2024 \n \n \n \n \n \n \n \n \n \n \n \n \n19 \n \ndel suceso y que no había sido trasladado a las empresas ferroviarias ni incorporado a sus respectivos \nSistemas de Gestión de la Seguridad (SGS), por lo que no consta que fuera conocido por el maquinista \ndel tren de Iryo. \nAunque durante la investigación no se constató la existencia de una deformación geométrica de la \nvía, dicha ficha fue tomada como referencia operativa por tratarse del procedimiento interno \ndisponible en ADIF para la gestión de comunicaciones realizadas por maquinistas relativas a golpes, \nbaches o anomalías percibidas durante la circulación susceptibles de afectar a la infraestructura o a \nl",
+   "pagina": 17,
+   "cita": "4. ANÁLISIS DEL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Acumulación súbita de tierra y piedras en la caja de la vía a la salida norte del túnel de Álora, arrastrados por escorrentía superficial como consecuencia de precipitaciones de intensidad extraordinaria, con la que colisionó el tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Elevada intensidad de las precipitaciones concentradas en un corto intervalo de tiempo.",
+    "Orografía del tramo que favoreció el arrastre y depósito de materiales sobre la vía.",
+    "Capacidad deficiente del sistema de drenaje en el entorno del túnel ante un episodio meteorológico excepcional.",
+    "Establecimiento de una LTV (200 km/h) inadecuada para evitar el descarrilamiento ante la magnitud del obstáculo.",
+    "Aplicación insuficiente e incorrecta del procedimiento previsto en la Ficha LAV 2 Deformación de vía tras la comunicación del golpe."
+   ],
+   "pagina": 29,
+   "cita": "1. Elevada intensidad de las precipitaciones concentradas en un corto intervalo de tiempo. Ver",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nUna vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores:  \n \nFigura 10 Árbol causal del suceso \nFactor causal \n1. Ocupación de la caja de la vía por tierra y piedras en la salida norte del túnel de Álora, \narrastrados como consecuencia de precipitaciones de intensidad extraordinaria. Ver \nRecomendación 111/2024-1, Recomendación 111/2024-2, Recomendación 111/2024-4, \nRecomendación 111/2024-6, Recomendación 111/2024-7, Recomendación 111/2024-8 y \nRecomendación 111/2024-9. \nFactores contribuyentes \n1. Elevada intensidad de las precipitaciones concentradas en un corto intervalo de tiempo. Ver \nRecomendación 111/2024-1 y Recomendación 111/2024-8. \n2. Orografía del tramo que favoreció el arrastre y depósito de materiales sobre la vía.  \n\n## Página 30\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n30 \n \n \n \n \n3. Capacidad insuficiente del sistema de drenaje en el entorno del túnel ante un episodio \nmeteorológico excepcional. Ver Recomendación 111/2024-3, Recomendación 111/2024-4, \nRecomendación 111/2024-5, Recomendación 111/2024-7, Recomendación 111/2024-8 y \nRecomendación 111/2024-9. \n4. Establecimiento de una LTV (200 km/h) de forma estimada, que resultó inadecuada para \nevitar el descarrilamiento ante la magnitud del obstáculo existente en vía. Recomendación \n111/2024-1 y Recomendación 111/2024-2. \n5. Aplicación deficiente del procedimiento previsto en la “Ficha LAV 2 Deformación de vía”, tras \nla comunicación de un golpe por el maquinista del tren precedente. Recomendación \n111/2024-1 y Recomendación 111/2024-2. \nFactor sistémico \n1. Ausencia de criterios específicos en la “Ficha LAV 2 Deformación de vía” para la gestión y \nevaluación del riesgo asociado a deformaciones en la vía. Ver Recomendación 111/2024-1 y \nRecomendación 111/2024-2. \n2. Falta de difusión y coordinación operativa efectiva entre los agentes implicados de la “Ficha \nLAV 2 Deformación de vía”, al no encontrarse integrada en el Plan de Contingencias de ADIF \nAV ni en los SGS de las empresas ferroviarias. Ver Recomendación 111/2024-1 y \nRecomendación 111/2024-2. \n5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO \nComo consecuencia del suceso, ADIF ha intensificado la vigilancia preventiva en situaciones \nmeteorológicas excepcionales, centrando los controles en puntos críticos y elementos de \ninfraestructura sensibles. Asimismo, ha procedido a verificar sistemáticamente el estado de las \ninstalaciones y a establecer restricciones temporales a la circulación en los tramos afectados hasta \ngarantizar la seguridad, conforme a lo previsto en el Manual de Prevención y Gestión de Incidencias \n(MPGI), con el objetivo de mitigar riesgos y reforzar la protección frente a fenómenos extraordinarios. \nAdicionalmente, ADIF-AV ha actualizado la “Ficha específica LAV 2. Deformación de vía”, \nmanteniendo su denominación, pero ampliando su contenido mediante la incorporación de cuatro \nniveles de repercusión, frente a los dos contemplados en la versión anterior. Dichos niveles \ncontemplan: a) repercusión débil, sin reducción específica de velocidad; b) repercusión moderada, \ncon establecimiento de limitaciones de velocidad de 230 km/h, 160 km/h o inferiores en la siguiente \ncirculación, incluyendo la solicitud de información al maquinista sobre el comportamiento del tren al \n\n## Página 31\n\n \nInforme Final de la CIAF 111/2024 \n \n \n \n \n \n \n \n \n \n \n \n \n31 \n \npaso por el punto; c) repercusión fuerte, con limitación de velocidad a 80 km/h o inferior en la \nsiguiente circulación, igualmente con recogida de información del maquinista; y d) repercusión muy \nfuerte, con prescripción de marcha a la vista sin exceder de 40 km/h o inferior, con el mismo \nmecanismo de verificación del comportamiento del tren. \nPor otra parte, tras el suceso se procedió a la actualización del Anexo 2 del Manual de Prevención y \nGestión de Incidencias del Plan de Contingencias de Adif y Adif AV incorporando la boca norte del \ntúnel de Álora como punto singular de riesgo. Esta actualización se enmarca en el proceso periódico \nde revisión del inventario de puntos críticos, realizado conforme al procedimiento ADIF-PE-402-001-\n006-SC-513 “Comunicaciones de puntos de riesgo y/o limitaciones temporales de velocidad del anexo \n2 del Manual de Prevención y Gestión de Incidencias del Plan de Contingencias de Adif y Adif AV”. \n \n \n\n## Página 32\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n32",
+   "pagina": 29,
+   "cita": "5. CONCLUSIONES 5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO Una vez analizados los datos disponibles y la documentación proporcionada, se consideran los siguientes factores: Figura 10 Árbol",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nUna vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores:  \n \nFigura 10 Árbol causal del suceso \nFactor causal \n1. Ocupación de la caja de la vía por tierra y piedras en la salida norte del túnel de Álora, \narrastrados como consecuencia de precipitaciones de intensidad extraordinaria. Ver \nRecomendación 111/2024-1, Recomendación 111/2024-2, Recomendación 111/2024-4, \nRecomendación 111/2024-6, Recomendación 111/2024-7, Recomendación 111/2024-8 y \nRecomendación 111/2024-9. \nFactores contribuyentes \n1. Elevada intensidad de las precipitaciones concentradas en un corto intervalo de tiempo. Ver \nRecomendación 111/2024-1 y Recomendación 111/2024-8. \n2. Orografía del tramo que favoreció el arrastre y depósito de materiales sobre la vía.  \n\n## Página 30\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n30 \n \n \n \n \n3. Capacidad insuficiente del sistema de drenaje en el entorno del túnel ante un episodio \nmeteorológico excepcional. Ver Recomendación 111/2024-3, Recomendación 111/2024-4, \nRecomendación 111/2024-5, Recomendación 111/2024-7, Recomendación 111/2024-8 y \nRecomendación 111/2024-9. \n4. Establecimiento de una LTV (200 km/h) de forma estimada, que resultó inadecuada para \nevitar el descarrilamiento ante la magnitud del obstáculo existente en vía. Recomendación \n111/2024-1 y Recomendación 111/2024-2. \n5. Aplicación deficiente del procedimiento previsto en la “Ficha LAV 2 Deformación de vía”, tras \nla comunicación de un golpe por el maquinista del tren precedente. Recomendación \n111/2024-1 y Recomendación 111/2024-2. \nFactor sistémico \n1. Ausencia de criterios específicos en la “Ficha LAV 2 Deformación de vía” para la gestión y \nevaluación del riesgo asociado a deformaciones en la vía. Ver Recomendación 111/2024-1 y \nRecomendación 111/2024-2. \n2. Falta de difusión y coordinación operativa efectiva entre los agentes implicados de la “Ficha \nLAV 2 Deformación de vía”, al no encontrarse integrada en el Plan de Contingencias de ADIF \nAV ni en los SGS de las empresas ferroviarias. Ver Recomendación 111/2024-1 y \nRecomendación 111/2024-2. \n5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO \nComo consecuencia del suceso, ADIF ha intensificado la vigilancia preventiva en situaciones \nmeteorológicas excepcionales, centrando los controles en puntos críticos y elementos de \ninfraestructura sensibles. Asimismo, ha procedido a verificar sistemáticamente el estado de las \ninstalaciones y a establecer restricciones temporales a la circulación en los tramos afectados hasta \ngarantizar la seguridad, conforme a lo previsto en el Manual de Prevención y Gestión de Incidencias \n(MPGI), con el objetivo de mitigar riesgos y reforzar la protección frente a fenómenos extraordinarios. \nAdicionalmente, ADIF-AV ha actualizado la “Ficha específica LAV 2. Deformación de vía”, \nmanteniendo su denominación, pero ampliando su contenido mediante la incorporación de cuatro \nniveles de repercusión, frente a los dos contemplados en la versión anterior. Dichos niveles \ncontemplan: a) repercusión débil, sin reducción específica de velocidad; b) repercusión moderada, \ncon establecimiento de limitaciones de velocidad de 230 km/h, 160 km/h o inferiores en la siguiente \ncirculación, incluyendo la solicitud de información al maquinista sobre el comportamiento del tren al \n\n## Página 31\n\n \nInforme Final de la CIAF 111/2024 \n \n \n \n \n \n \n \n \n \n \n \n \n31 \n \npaso por el punto; c) repercusión fuerte, con limitación de velocidad a 80 km/h o inferior en la \nsiguiente circulación, igualmente con recogida de información del maquinista; y d) repercusión muy \nfuerte, con prescripción de marcha a la vista sin exceder de 40 km/h o inferior, con el mismo \nmecanismo de verificación del comportamiento del tren. \nPor otra parte, tras el suceso se procedió a la actualización del Anexo 2 del Manual de Prevención y \nGestión de Incidencias del Plan de Contingencias de Adif y Adif AV incorporando la boca norte del \ntúnel de Álora como punto singular de riesgo. Esta actualización se enmarca en el proceso periódico \nde revisión del inventario de puntos críticos, realizado conforme al procedimiento ADIF-PE-402-001-\n006-SC-513 “Comunicaciones de puntos de riesgo y/o limitaciones temporales de velocidad del anexo \n2 del Manual de Prevención y Gestión de Incidencias del Plan de Contingencias de Adif y Adif AV”. \n \n \n\n## Página 32\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n32",
+   "pagina": 29,
+   "cita": "5. CONCLUSIONES 5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO Una vez analizados los datos disponibles y la documentación proporcionada, se consideran los siguientes factores: Figura 10 Árbol",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Como consecuencia del suceso, ADIF ha intensificado la vigilancia preventiva en situaciones \nmeteorológicas excepcionales, centrando los controles en puntos críticos y elementos de \ninfraestructura sensibles. Asimismo, ha procedido a verificar sistemáticamente el estado de las \ninstalaciones y a establecer restricciones temporales a la circulación en los tramos afectados hasta \ngarantizar la seguridad, conforme a lo previsto en el Manual de Prevención y Gestión de Incidencias \n(MPGI), con el objetivo de mitigar riesgos y reforzar la protección frente a fenómenos extraordinarios. \nAdicionalmente, ADIF-AV ha actualizado la “Ficha específica LAV 2. Deformación de vía”, \nmanteniendo su denominación, pero ampliando su contenido mediante la incorporación de cuatro \nniveles de repercusión, frente a los dos contemplados en la versión anterior. Dichos niveles \ncontemplan: a) repercusión débil, sin reducción específica de velocidad; b) repercusión moderada, \ncon establecimiento de limitaciones de velocidad de 230 km/h, 160 km/h o inferiores en la siguiente \ncirculación, incluyendo la solicitud de información al maquinista sobre el comportamiento del tren al \n\n## Página 31\n\n \nInforme Final de la CIAF 111/2024 \n \n \n \n \n \n \n \n \n \n \n \n \n31 \n \npaso por el punto; c) repercusión fuerte, con limitación de velocidad a 80 km/h o inferior en la \nsiguiente circulación, igualmente con recogida de información del maquinista; y d) repercusión muy \nfuerte, con prescripción de marcha a la vista sin exceder de 40 km/h o inferior, con el mismo \nmecanismo de verificación del comportamiento del tren. \nPor otra parte, tras el suceso se procedió a la actualización del Anexo 2 del Manual de Prevención y \nGestión de Incidencias del Plan de Contingencias de Adif y Adif AV incorporando la boca norte del \ntúnel de Álora como punto singular de riesgo. Esta actualización se enmarca en el proceso periódico \nde revisión del inventario de puntos críticos, realizado conforme al procedimiento ADIF-PE-402-001-\n006-SC-513 “Comunicaciones de puntos de riesgo y/o limitaciones temporales de velocidad del anexo \n2 del Manual de Prevención y Gestión de Incidencias del Plan de Contingencias de Adif y Adif AV”. \n \n \n\n## Página 32\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n32",
+   "pagina": 30,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Como consecuencia del suceso, ADIF ha intensificado la vigilancia preventiva en situaciones \nmeteorológicas excepcionales, centrando los controles en puntos críticos y elementos de \ninfraestructura sensibles. Asimismo, ha procedido a verificar sistemáticamente el estado de las \ninstalaciones y a establecer restricciones temporales a la circulación en los tramos afectados hasta \ngarantizar la seguridad, conforme a lo previsto en el Manual de Prevención y Gestión de Incidencias \n(MPGI), con el objetivo de mitigar riesgos y reforzar la protección frente a fenómenos extraordinarios. \nAdicionalmente, ADIF-AV ha actualizado la “Ficha específica LAV 2. Deformación de vía”, \nmanteniendo su denominación, pero ampliando su contenido mediante la incorporación de cuatro \nniveles de repercusión, frente a los dos contemplados en la versión anterior. Dichos niveles \ncontemplan: a) repercusión débil, sin reducción específica de velocidad; b) repercusión moderada, \ncon establecimiento de limitaciones de velocidad de 230 km/h, 160 km/h o inferiores en la siguiente \ncirculación, incluyendo la solicitud de información al maquinista sobre el comportamiento del tren al \n\n## Página 31\n\n \nInforme Final de la CIAF 111/2024 \n \n \n \n \n \n \n \n \n \n \n \n \n31 \n \npaso por el punto; c) repercusión fuerte, con limitación de velocidad a 80 km/h o inferior en la \nsiguiente circulación, igualmente con recogida de información del maquinista; y d) repercusión muy \nfuerte, con prescripción de marcha a la vista sin exceder de 40 km/h o inferior, con el mismo \nmecanismo de verificación del comportamiento del tren. \nPor otra parte, tras el suceso se procedió a la actualización del Anexo 2 del Manual de Prevención y \nGestión de Incidencias del Plan de Contingencias de Adif y Adif AV incorporando la boca norte del \ntúnel de Álora como punto singular de riesgo. Esta actualización se enmarca en el proceso periódico \nde revisión del inventario de puntos críticos, realizado conforme al procedimiento ADIF-PE-402-001-\n006-SC-513 “Comunicaciones de puntos de riesgo y/o limitaciones temporales de velocidad del anexo \n2 del Manual de Prevención y Gestión de Incidencias del Plan de Contingencias de Adif y Adif AV”. \n \n \n\n## Página 32\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n32",
+   "pagina": 30,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Reelaborar los procedimientos de comunicación de deformaciones de vía por parte del personal de conducción de las empresas ferroviarias al administrador de infraestructuras, definiendo las actuaciones a adoptar e incorporando criterios específicos para situaciones de lluvias intensas, fenómenos meteorológicos extraordinarios u otros, con el fin de minimizar los riesgos al máximo.",
+    "Revisar y actualizar el catálogo de puntos críticos con riesgo de inundación, incluyendo puntos singulares de alta escorrentía no considerados previamente.",
+    "Revisar el dimensionamiento y la configuración geométrica del sistema de drenaje de la cuenca en la boca norte del túnel de Álora, verificando su capacidad hidráulica y su comportamiento frente a caudales extraordinarios, especialmente en tramos con cambio de alineación.",
+    "Garantizar la inspección y limpieza periódica de cunetas y drenajes para mantener su capacidad hidráulica y prevenir acumulación de materiales.",
+    "Habilitar el acceso del personal de los Centros de Regulación de Circulación (CRC) a los sistemas de circuito cerrado de televisión (CCTV) de protección y seguridad, a fin de disponer de información visual en tiempo real sobre el estado de los elementos de infraestructura en situaciones de riesgo, como complemento de información ante una incidencia."
+   ],
+   "pagina": 32,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 32,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "ADIF y ADIF AV",
+    "ADIF, ADIF AV",
+    "ADIF y ADIF AV",
+    "ADIF y ADIF AV",
+    "ADIF y ADIF AV"
+   ],
+   "pagina": 32,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "11:45",
+     "evento": "El maquinista del tren Iryo 06119 comunica al CRC de Antequera AV la percepción de un golpe o bache fuerte en el eje derecho de la circulación a la salida del túnel de Álora."
+    },
+    {
+     "hora": "11:56",
+     "evento": "El RC del CRC establece una LTV de 200 km/h y la notifica al maquinista del tren 02123 mediante telefonema operativo número 77."
+    },
+    {
+     "hora": "12:10",
+     "evento": "El tren 02123 de Renfe Viajeros, a unos 200 km/h, colisiona con el obstáculo de tierra y piedras en el PK 124/573 y descarrila el primer eje del primer bogie de la cabeza tractora."
+    },
+    {
+     "hora": "12:15",
+     "evento": "Se interrumpe la circulación por la vía I tras la comunicación del descarrilamiento al CRC de Antequera AV."
+    },
+    {
+     "hora": "05:30",
+     "evento": "El 1 de noviembre de 2024 se restablece la circulación por la vía I tras las reparaciones."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0111/2024",
+ "expediente": "111/2024",
+ "anio": 2024,
+ "titulo": "Colisión de tren con obstáculo y descarrilamiento en Álora (Málaga) el 29 de octubre de 2024",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/es-10699 - final report, 2024-111-1029-if_1.md"
+}

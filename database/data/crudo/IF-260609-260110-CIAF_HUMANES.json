@@ -1,0 +1,950 @@
+{
+ "id": "IF-260609-260110-CIAF_HUMANES",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/CE43975E-99E3-45D2-A156-282FBBAD03A1/70235/0032_09_CIAF.pdf",
+ "pdf": "pdfs/ES/IF-260609-260110-CIAF_HUMANES.pdf",
+ "md5_pdf": "a71925217045ce3adf81cee285298c86",
+ "paginas_md": 12,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 34,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Adif",
+     "Número": "32/09-1",
+     "Recomendación": "La formación de los responsables de circulación debe incluir la gestión de la misma en condiciones no habituales, tanto la inicial como los sucesivos reciclajes."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 12,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Adif",
+     "Número": "32/09-1",
+     "Recomendación": "La formación de los responsables de circulación debe incluir la gestión de la misma en condiciones no habituales, tanto la inicial como los sucesivos reciclajes."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0032/2009",
+   "pagina": 1,
+   "cita": "nº 0032/2009 ocurrido el 26.06.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 26 de junio de 2009 a las 10:29 se produjo un conato de colisión entre los trenes de cercanías HU171 y LU110 en la estación de Humanes (Madrid). La jefa de circulación autorizó la salida del tren HU171 sin tener el itinerario correctamente dispuesto y posteriormente estableció un itinerario de entrada incompatible para el tren LU110. El maquinista del HU171 detectó la aguja mal dispuesta y frenó de inmediato, evitando la colisión. No hubo víctimas ni daños materiales. El incidente se originó por un fallo humano de la jefa de circulación, recién destinada en la estación (12 días antes).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-06-26",
+    "hora": "10:29",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Humanes",
+     "pk": "22+800",
+     "linea": "500 Madrid Puerta de Atocha - Valencia de Alcántara",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Vía 1 de la estación de Humanes, tramo Humanes-Fuenlabrada. Señal de salida S1 y señal de entrada E6. Aguja 2 y aguja 4 en la zona de maniobra. Estación final de la línea C-5 de Cercanías de Madrid."
+    }
+   },
+   "pagina": 11,
+   "cita": "En el registrador de eventos de día 26/06/2009 se comprueba lo siguiente:",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Tres trenes de cercanías sufrieron un retraso total de 47 minutos y un tren de larga distancia se retrasó 15 minutos. No fue necesario activar el plan de emergencia."
+   },
+   "pagina": 8,
+   "cita": "2.3.3. Minutos perdidos. Interceptación de la vía",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano por error de la jefa de circulación en el establecimiento del itinerario de salida del tren HU171: orientó la aguja 4 a invertido pero dejó la aguja 2 a normal, y expidió el tren con BAR sin itinerario correcto.",
+   "pagina": 3,
+   "cita": "Conclusión: El incidente tuvo su origen en el fallo humano por error de la jefa de circulación en el",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La jefa de circulación dispuso la entrada del tren LU110 moviendo la aguja 4 a normal, creando un itinerario incompatible con la circulación del HU171 (incumplimiento art. 310 RGC).",
+    "Avería en el contador de ejes del tramo Humanes-Illescas que obligó a establecer bloqueo telefónico supletorio, cambiando las condiciones habituales de operación.",
+    "La jefa de circulación estaba destinada en la estación de Humanes desde solo 12 días antes del incidente (desde el 14/06/09).",
+    "La señal de rebase autorizado E6 era de nueva puesta en funcionamiento.",
+    "Situación de BT (bloqueo telefónico) con Illescas y trenes especiales continuamente con/sin servicio, generando condiciones no habituales."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Insuficiente formación de los responsables de circulación para la gestión en condiciones no habituales.",
+    "Posible vulnerabilidad en el sistema de enclavamiento que permitió expedir un tren con un itinerario no correctamente dispuesto."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "La formación de los responsables de circulación debe incluir la gestión de la misma en condiciones no habituales, tanto la inicial como los sucesivos reciclajes.",
+    "La formación de los responsables de circulación debe incluir la gestión de la misma en condiciones no habituales, tanto la inicial como los sucesivos reciclajes."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente",
+   "pagina": 1,
+   "cita": "Investigación del incidente",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 6,
+   "cita": "-El responsable de seguridad de Renfe Operadora quien; por delegación del director de seguridad",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-06-26",
+   "pagina": 11,
+   "cita": "En el registrador de eventos de día 26/06/2009 se comprueba lo siguiente:",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "10:29",
+   "pagina": 3,
+   "cita": "El día 26 de junio de 2009, a las 10:29 horas, en la estación de Humanes (Madrid), se produce el",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Humanes",
+    "pk": "22+800",
+    "linea": "500 Madrid Puerta de Atocha - Valencia de Alcántara",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Vía 1 de la estación de Humanes, tramo Humanes-Fuenlabrada. Señal de salida S1 y señal de entrada E6. Aguja 2 y aguja 4 en la zona de maniobra. Estación final de la línea C-5 de Cercanías de Madrid."
+   },
+   "pagina": 3,
+   "cita": "estacionado en vía 1) hacia Fuenlabrada por vía 2, no produciéndose la apertura de la señal S1 , por",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 500 Madrid Puerta de Atocha - Valencia de Alcántara; tramo Humanes-Fuenlabrada",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Motrices serie 446 (446155/163 en HU171; 446008/108 en LU110)",
+    "averia": "Ninguna. Equipos de seguridad (freno, ASFA) funcionaron correctamente según registrador de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 26 de junio de 2009, la jefa de circulación de la estación de Humanes intentó establecer el itinerario de salida del tren HU171 (estacionado en vía 1, con destino Móstoles y dirección Fuenlabrada por vía 2). La señal S1 no se abrió, por lo que orientó la aguja 4 a invertido, pero la aguja 2 quedó a normal. Pese a ello, expidió el tren entregando un BAR (boletín de autorización de rebase) para la señal S1 y dando orden de marcha.\n\nSeguidamente, la jefa de circulación procedió a dar entrada al tren LU110 (proveniente de Laguna, con destino Humanes, detenido ante la señal E6 de la vía 1), moviendo la aguja 4 a normal, lo que estableció un itinerario incompatible con la circulación del tren HU171. La señal de entrada E6 no se abrió por estar ocupado el circuito por el HU171.\n\nEl maquinista del tren HU171, al acercarse a la aguja 4, observó que no estaba bien dispuesta y efectuó parada inmediata. Se comunicó con la jefa de circulación, quien le autorizó el retroceso a vía II. El tren retrocedió ante la señal S1 seis minutos después de la parada. No se produjo colisión ni daño alguno.",
+   "pagina": 3,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Humanes",
+    "pk": "22+800",
+    "linea": "500 Madrid Puerta de Atocha - Valencia de Alcántara",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Vía 1 de la estación de Humanes, tramo Humanes-Fuenlabrada. Señal de salida S1 y señal de entrada E6. Aguja 2 y aguja 4 en la zona de maniobra. Estación final de la línea C-5 de Cercanías de Madrid."
+   },
+   "pagina": 3,
+   "cita": "estacionado en vía 1) hacia Fuenlabrada por vía 2, no produciéndose la apertura de la señal S1 , por",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Tres trenes de cercanías sufrieron un retraso total de 47 minutos y un tren de larga distancia se retrasó 15 minutos. No fue necesario activar el plan de emergencia."
+   },
+   "pagina": 8,
+   "cita": "2.3.3. Minutos perdidos. Interceptación de la vía",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Jefa de circulación de la estación de Humanes",
+     "implicacion": "Matrícula 2838803. Habilitada como responsable de circulación desde el 09/03/09. Destinada en Humanes desde el 14/06/09 (12 días antes del incidente). Autorizó la salida del HU171 sin itinerario correcto y estableció un itinerario incompatible para el LU110. Incumplió artículos 278, 310 y 311 del RGC. Pruebas de alcohol y drogas negativas. Jornada ese día: 3h29m."
+    },
+    {
+     "rol": "Maquinista del tren HU171",
+     "implicacion": "Matrícula 9682733. Actuación correcta: observó que la aguja 4 no estaba bien dispuesta, efectuó parada inmediata y se comunicó con la jefa de circulación."
+    }
+   ],
+   "pagina": 8,
+   "cita": "3.1.1. Jefa de circulación de la estación de Humanes",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "HU171",
+     "tipo": "cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Sin daños. 6 coches, motores 446155/163, 486 t de masa remolcada. UIC: 967194461554 y 967194461638."
+    },
+    {
+     "numero": "LU110",
+     "tipo": "cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Sin daños. 6 coches, motores 446008/108, 498 t de masa remolcada. UIC: 967194460085 y 967194461083."
+    }
+   ],
+   "pagina": 3,
+   "cita": "conato de colisión entre los trenes de viajeros de cercanías HU171 y LU110 ambos de Renfe",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Motrices serie 446 (446155/163 en HU171; 446008/108 en LU110)",
+    "averia": "Ninguna. Equipos de seguridad (freno, ASFA) funcionaron correctamente según registrador de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1 (no abrió correctamente). Señal de entrada E6 (nueva puesta en funcionamiento, permaneció en rojo). Autorización de rebase mediante BAR.",
+    "tipo_via": "Vía doble banalizada (BAB) con CTC hasta Humanes. De Humanes a Illescas: vía única con bloqueo por liberación automática de ejes, sin CTC. Por avería en contador de ejes se estableció bloqueo telefónico supletorio.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Operativa. Bloqueo telefónico supletorio activo en tramo Humanes-Illescas por avería en contador de ejes.",
+    "otro": "CTC hasta Humanes. Radiotelefonía modalidad C. Media semanal de 1.090 circulaciones en tramo Humanes-Fuenlabrada (considerada alta): 15 larga distancia, 92 media distancia, 976 cercanías, 5 mercancías, 2 servicio."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de salida S1 (no abrió correctamente). Señal de entrada E6 (nueva puesta en funcionamiento, permaneció en rojo). Autorización de rebase mediante BAR.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad C.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Tres trenes de cercanías sufrieron un retraso total de 47 minutos y un tren de larga distancia se retrasó 15 minutos. No fue necesario activar el plan de emergencia."
+   },
+   "pagina": 8,
+   "cita": "2.3.3. Minutos perdidos. Interceptación de la vía",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Tres trenes de cercanías sufrieron un retraso total de 47 minutos y un tren de larga distancia se retrasó 15 minutos. No fue necesario activar el plan de emergencia."
+   },
+   "pagina": 8,
+   "cita": "2.3.3. Minutos perdidos. Interceptación de la vía",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Tres trenes de cercanías sufrieron un retraso total de 47 minutos y un tren de larga distancia se retrasó 15 minutos. No fue necesario activar el plan de emergencia."
+   },
+   "pagina": 8,
+   "cita": "2.3.3. Minutos perdidos. Interceptación de la vía",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Motrices serie 446 (446155/163 en HU171; 446008/108 en LU110)",
+    "averia": "Ninguna. Equipos de seguridad (freno, ASFA) funcionaron correctamente según registrador de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1 (no abrió correctamente). Señal de entrada E6 (nueva puesta en funcionamiento, permaneció en rojo). Autorización de rebase mediante BAR.",
+    "tipo_via": "Vía doble banalizada (BAB) con CTC hasta Humanes. De Humanes a Illescas: vía única con bloqueo por liberación automática de ejes, sin CTC. Por avería en contador de ejes se estableció bloqueo telefónico supletorio.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Operativa. Bloqueo telefónico supletorio activo en tramo Humanes-Illescas por avería en contador de ejes.",
+    "otro": "CTC hasta Humanes. Radiotelefonía modalidad C. Media semanal de 1.090 circulaciones en tramo Humanes-Fuenlabrada (considerada alta): 15 larga distancia, 92 media distancia, 976 cercanías, 5 mercancías, 2 servicio."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo atmosférico despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": "Humanes"
+   },
+   "pagina": 3,
+   "cita": "El día 26 de junio de 2009, a las 10:29 horas, en la estación de Humanes (Madrid), se produce el",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo atmosférico despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de salida S1 (no abrió correctamente). Señal de entrada E6 (nueva puesta en funcionamiento, permaneció en rojo). Autorización de rebase mediante BAR.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1 (no abrió correctamente). Señal de entrada E6 (nueva puesta en funcionamiento, permaneció en rojo). Autorización de rebase mediante BAR.",
+    "tipo_via": "Vía doble banalizada (BAB) con CTC hasta Humanes. De Humanes a Illescas: vía única con bloqueo por liberación automática de ejes, sin CTC. Por avería en contador de ejes se estableció bloqueo telefónico supletorio.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Operativa. Bloqueo telefónico supletorio activo en tramo Humanes-Illescas por avería en contador de ejes.",
+    "otro": "CTC hasta Humanes. Radiotelefonía modalidad C. Media semanal de 1.090 circulaciones en tramo Humanes-Fuenlabrada (considerada alta): 15 larga distancia, 92 media distancia, 976 cercanías, 5 mercancías, 2 servicio."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad C.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Motrices serie 446 (446155/163 en HU171; 446008/108 en LU110)",
+    "averia": "Ninguna. Equipos de seguridad (freno, ASFA) funcionaron correctamente según registrador de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "La jefa de circulación dispuso la entrada del tren LU110 moviendo la aguja 4 a normal, creando un itinerario incompatible con la circulación del HU171 (incumplimiento art. 310 RGC).",
+    "Avería en el contador de ejes del tramo Humanes-Illescas que obligó a establecer bloqueo telefónico supletorio, cambiando las condiciones habituales de operación.",
+    "La jefa de circulación estaba destinada en la estación de Humanes desde solo 12 días antes del incidente (desde el 14/06/09).",
+    "La señal de rebase autorizado E6 era de nueva puesta en funcionamiento.",
+    "Situación de BT (bloqueo telefónico) con Illescas y trenes especiales continuamente con/sin servicio, generando condiciones no habituales."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "3.2.1.1. \nJefa de circulación de la estación de Humanes \nLa jefa de circulación es factor de circulación, y está habilitada conforme a la Orden \nFOM/2520/2006 de 27 de julio como responsable de circulación. \nLa fecha de habilitación como responsable de circulación es 09/03/09 y está destinada en la \nestación de Humanes desde el 14/06/09 (12 días antes del incidente).",
+   "pagina": 9,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "3.5.1. Jefa de circulación de la estación de Humanes \nJornada laboral de la jefa de circulación de Humanes: \n- \nel día 26: 3 horas y 29 minutos. \n- \nel día 25: 8 horas. \n- \nel día 24: 8 horas. \nA la jefa de circulación, el día del incidente, se le realiza la prueba de alcoholemia en aire espirado \ny prueba de drogas, ambas con resultado negativo. Dicha prueba fue realizada a las 14:00 horas.",
+   "pagina": 10,
+   "cita": "3.5. INTERFAZ HOMBRE-MAQUÍNA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "3.5.1. Jefa de circulación de la estación de Humanes \nJornada laboral de la jefa de circulación de Humanes: \n- \nel día 26: 3 horas y 29 minutos. \n- \nel día 25: 8 horas. \n- \nel día 24: 8 horas. \nA la jefa de circulación, el día del incidente, se le realiza la prueba de alcoholemia en aire espirado \ny prueba de drogas, ambas con resultado negativo. Dicha prueba fue realizada a las 14:00 horas.",
+   "pagina": 10,
+   "cita": "3.5. INTERFAZ HOMBRE-MAQUÍNA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 26 de junio de 2009, la jefa de circulación de la estación de Humanes intentó establecer el itinerario de salida del tren HU171 (estacionado en vía 1, con destino Móstoles y dirección Fuenlabrada por vía 2). La señal S1 no se abrió, por lo que orientó la aguja 4 a invertido, pero la aguja 2 quedó a normal. Pese a ello, expidió el tren entregando un BAR (boletín de autorización de rebase) para la señal S1 y dando orden de marcha.\n\nSeguidamente, la jefa de circulación procedió a dar entrada al tren LU110 (proveniente de Laguna, con destino Humanes, detenido ante la señal E6 de la vía 1), moviendo la aguja 4 a normal, lo que estableció un itinerario incompatible con la circulación del tren HU171. La señal de entrada E6 no se abrió por estar ocupado el circuito por el HU171.\n\nEl maquinista del tren HU171, al acercarse a la aguja 4, observó que no estaba bien dispuesta y efectuó parada inmediata. Se comunicó con la jefa de circulación, quien le autorizó el retroceso a vía II. El tren retrocedió ante la señal S1 seis minutos después de la parada. No se produjo colisión ni daño alguno.",
+   "pagina": 3,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar en la vía 1 de la estación de Humanes (Madrid), el día 26 de junio de \n2009, a las 10:29 horas. \nLa jefa de circulación intenta establecer itinerario de salida al tren HU171 (procedente de \nHumanes, con destino Móstoles y estacionado en vía 1) hacia Fuenlabrada por vía 2, no \nproduciéndose la apertura de la señal S1, por ello procedió a orientar la aguja 4 a invertido, pero \nquedando la aguja 2 a normal y seguidamente expide el tren entregando BAR (boletín de autorización \nde rebase) para señal S1 y dando señal de marche el tren.  \nSeguidamente, la jefa de circulación intenta dar entrada al tren LU110, proveniente de Laguna y \ncon destino Humanes, detenido ante la señal E6 de la misma vía 1 y con esta orden se mueve la \naguja 4 a normal, no abriéndose la señal de entrada E6 por estar ocupado el circuito por el tren \nHU171. \nEl maquinista del tren HU171 al acercarse a la aguja 4 observa que no estaba bien dispuesta, por \nlo que efectúa parada inmediata, poniéndose en comunicación con la jefa de circulación y ésta le \nautoriza el retroceso.  \nEn el registrador de seguridad del vehículo implicado (HU171) se comprueba lo siguiente: \n \nemprende la marcha, actuando en el pulsador de rebase autorizado a la velocidad de 22 \nkm/h; \n \nefectúa parada después de recorridos 220 metros; \n \ntranscurridos 6 minutos retrocede ante la señal S1. \n\n## Página 11\n\n \n \n \nInvestigación del incidente \nnº 0032/2009 ocurrido el 26.06.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-260609-260110-CIAF \n \n \nPág. 11 de 12\nEn el registrador de eventos de día 26/06/2009 se comprueba lo siguiente: \n- A las 10:22:42. Tren HU171 parado delante de la señal S1, aguja 4 a invertido y aguja 2 a \nnormal. Tren LU110 parado delante de la señal E6. \n- A las 10:27:29. Tren HU171 rebasa la señal S1, ocupa el siguiente circuito de vía, la aguja 4 \na invertido y aguja 2 a normal. Tren LU110 parado delante de la señal E6. \n- A las 10:27:39. . Tren HU171 rebasa la señal S1, ocupa el siguiente circuito de vía, la aguja \n4 a normal y aguja 2 a normal. Tren LU110 parado delante de la señal E6. \n- A las 10:27:42. . Tren HU171 parado cerca de aguja 4 a normal y aguja 2 a normal. Tren \nLU110 parado delante de la señal E6 que continúa en rojo. \n4.2. DELIBERACIÓN \nLa jefa de circulación, con la aguja 2 en posición incorrecta y sin saber las condiciones de bloqueo, \nrealiza la expedición del tren HU171, incumpliéndose los artículos 278 y 311 del RGC.  \nLa jefa de circulación dispone la entrada del tren LU110, quedando establecido itinerario \nincompatible con el del tren HU171, incumpliéndose el artículo 310 del RGC. \nLa jefa de circulación de la estación de Humanes posee habilitación desde el 9/03/09 y está \ndestinada en la estación de Humanes desde el 14 de junio (12 días antes del incidente). \nLa actuación del maquinista del tren HU171 fue correcta, deteniendo el tren y poniéndose en \ncomunicación con la jefa de circulación tras comprobar que el cambio estaba mal dispuesto. \nLos equipos de seguridad del tren (freno y ASFA) funcionaban correctamente en el momento del \nincidente.  \nEn el tramo de Humanes a Illescas, por avería en el contador de ejes, se estableció bloqueo \ntelefónico supletorio. \n4.3. CONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el fallo humano por error de la jefa de circulación en el \nestablecimiento del itinerario de salida del tren HU 171. \n\n## Página 12\n\n \n \n \nInvestigación del incidente \nnº 0032/2009 ocurrido el 26.06.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-260609-260110-CIAF \n \n \nPág. 12 de 12",
+   "pagina": 10,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano por error de la jefa de circulación en el establecimiento del itinerario de salida del tren HU171: orientó la aguja 4 a invertido pero dejó la aguja 2 a normal, y expidió el tren con BAR sin itinerario correcto.",
+   "pagina": 3,
+   "cita": "Conclusión: El incidente tuvo su origen en el fallo humano por error de la jefa de circulación en el",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La jefa de circulación dispuso la entrada del tren LU110 moviendo la aguja 4 a normal, creando un itinerario incompatible con la circulación del HU171 (incumplimiento art. 310 RGC).",
+    "Avería en el contador de ejes del tramo Humanes-Illescas que obligó a establecer bloqueo telefónico supletorio, cambiando las condiciones habituales de operación.",
+    "La jefa de circulación estaba destinada en la estación de Humanes desde solo 12 días antes del incidente (desde el 14/06/09).",
+    "La señal de rebase autorizado E6 era de nueva puesta en funcionamiento.",
+    "Situación de BT (bloqueo telefónico) con Illescas y trenes especiales continuamente con/sin servicio, generando condiciones no habituales."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el fallo humano por error de la jefa de circulación en el \nestablecimiento del itinerario de salida del tren HU 171. \n\n## Página 12\n\n \n \n \nInvestigación del incidente \nnº 0032/2009 ocurrido el 26.06.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-260609-260110-CIAF \n \n \nPág. 12 de 12",
+   "pagina": 11,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el fallo humano por error de la jefa de circulación en el \nestablecimiento del itinerario de salida del tren HU 171. \n\n## Página 12\n\n \n \n \nInvestigación del incidente \nnº 0032/2009 ocurrido el 26.06.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-260609-260110-CIAF \n \n \nPág. 12 de 12",
+   "pagina": 11,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "La formación de los responsables de circulación debe incluir la gestión de la misma en condiciones no habituales, tanto la inicial como los sucesivos reciclajes.",
+    "La formación de los responsables de circulación debe incluir la gestión de la misma en condiciones no habituales, tanto la inicial como los sucesivos reciclajes."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "10:22:42",
+     "evento": "Tren HU171 parado ante señal S1 con aguja 4 a invertido y aguja 2 a normal. Tren LU110 parado ante señal E6."
+    },
+    {
+     "hora": "10:27:29",
+     "evento": "Tren HU171 rebasa señal S1, ocupa siguiente circuito de vía. Aguja 4 a invertido, aguja 2 a normal. LU110 sigue parado ante E6."
+    },
+    {
+     "hora": "10:27:39",
+     "evento": "La aguja 4 pasa a normal, estableciéndose itinerario incompatible con la circulación del HU171. LU110 parado ante E6 (roja)."
+    },
+    {
+     "hora": "10:27:42",
+     "evento": "Tren HU171 efectúa parada inmediata cerca de la aguja 4 (ahora a normal) y aguja 2 (a normal)."
+    },
+    {
+     "hora": "10:29",
+     "evento": "Hora oficial del incidente. El maquinista del HU171 se comunica con la jefa de circulación informando del cambio mal dispuesto."
+    },
+    {
+     "hora": null,
+     "evento": "La jefa de circulación autoriza el retroceso del HU171 a vía II."
+    },
+    {
+     "hora": null,
+     "evento": "Seis minutos después de la parada, el HU171 retrocede ante la señal S1."
+    },
+    {
+     "hora": "14:00",
+     "evento": "Se realizan pruebas de alcoholemia y drogas a la jefa de circulación, ambas negativas."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0032/2009",
+ "expediente": "0032/09",
+ "anio": 2009,
+ "titulo": "Conato de colisión entre trenes HU171 y LU110 en la estación de Humanes (Madrid)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-260609-260110-CIAF_HUMANES.md"
+}

@@ -1,0 +1,964 @@
+{
+ "id": "IF-190112-271112-CIAF-El Clot-Aragó",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/9855C7A3-8ED1-409D-B74C-575C6CBEA037/114720/IF190112271112CIAF.pdf",
+ "pdf": "pdfs/ES/IF-190112-271112-CIAF-El Clot-Aragó.pdf",
+ "md5_pdf": "ba7ee3c9f82213441700443e76721626",
+ "paginas_md": 16,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 19,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "07/12-1",
+     "Recomendación": "Analizar la viabilidad de prohibir el establecimiento de la velocidad prefijada cuando se circule con marcha a la vista."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "07/12-2",
+     "Recomendación": "Analizar la viabilidad de que en aquellas señales avanzadas que tengan la condición de permisivas se cambien a absolutas en los casos con circunstancias similares a las de este suceso."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 16,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "07/12-1",
+     "Recomendación": "Analizar la viabilidad de prohibir el establecimiento de la velocidad prefijada cuando se circule con marcha a la vista."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "07/12-2",
+     "Recomendación": "Analizar la viabilidad de que en aquellas señales avanzadas que tengan la condición de permisivas se cambien a absolutas en los casos con circunstancias similares a las de este suceso."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0007/2012",
+   "pagina": 1,
+   "cita": "nº 0007/2012 ocurrido el 19.01.2012",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 19 de enero de 2012, a las 18:30, el tren de cercanías 25652 colisionó por alcance con el tren 37506, material Talgo vacío, detenido ante la señal 1094 en el PK 109+810 de la línea 262, entre El Clot Aragó y Bif. Glorias, Barcelona. El tren 25652 había rebasado una señal permisiva y no cumplió la marcha a la vista tras salir del apeadero. La colisión causó el descarrilamiento del eje 13º del tren 37506 y 27 heridos leves. La investigación atribuyó el accidente a un fallo humano del personal de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2012-01-19",
+    "hora": "18:30",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "109+810",
+     "linea": "262 Barcelona Sagrera a Bifurcación Clot",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Plena vía entre los apeaderos de El Clot Aragó y Bif. Glorias, en Barcelona, a unos 275 metros después del apeadero de El Clot Aragó, en un tramo de túnel con curva cerrada, escasa anchura, iluminación artificial y visibilidad limitada."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 19 de enero de 2012, a las 18:30 horas, en el PK 109+810 de la línea 262 Barcelona Sagrera a",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 27,
+    "danos_materiales": "Infraestructura: daños en sujeciones de traviesas por 2.046,00 €. Material rodante: daños en trenes; importe total estimado de los daños: 175.539 €.",
+    "afectacion_servicio": "Circulación interrumpida por ambas vías entre Barcelona Marina y Bif. Sagrera desde el accidente hasta las 20:00; restablecida por vía I con limitación de 5 km/h hasta rebasar el tren descarrilado; condiciones normales a las 02:05 del día siguiente. Suprimidos 23 trenes de cercanías; retrasos en 3 trenes de larga distancia (192 minutos), 3 de media distancia (79 minutos) y 66 de cercanías (1.595 minutos)."
+   },
+   "pagina": 7,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del personal de conducción: incumplimiento de la marcha a la vista reglamentaria por el maquinista del tren 25652 tras rebasar una señal permisiva, conforme a los artículos 217.2 y 141.1 del Reglamento General de Circulación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Visibilidad limitada en el túnel por escasa anchura, curva cerrada e iluminación artificial.",
+    "El tren 25652 prefijó la velocidad a 33 km/h y alcanzó 39 km/h tras salir del apeadero.",
+    "Según la declaración del maquinista, el Asfa analógico no recuerda la indicación de las señales después de una parada prolongada.",
+    "El cambio de BAD a BAB en junio de 2011 reubicó señales y produjo un recantonamiento más corto, colocando el apeadero entre una señal permisiva y otra absoluta."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Configuración de señalización y bloqueo tras el cambio de BAD a BAB, con apeadero situado entre una señal permisiva y otra absoluta.",
+    "Uso de velocidad prefijada durante la marcha a la vista, objeto de recomendación.",
+    "Limitación del Asfa analógico para mantener indicaciones de señal tras paradas prolongadas, según la declaración del maquinista."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Analizar la viabilidad de prohibir el establecimiento de la velocidad prefijada cuando se circule con marcha a la vista.",
+    "Analizar la viabilidad de que en aquellas señales avanzadas que tengan la condición de permisivas se cambien a absolutas en los casos con circunstancias similares a las de este suceso.",
+    "Analizar la viabilidad de prohibir el establecimiento de la velocidad prefijada cuando se circule con marcha a la vista.",
+    "Analizar la viabilidad de que en aquellas señales avanzadas que tengan la condición de permisivas se cambien a absolutas en los casos con circunstancias similares a las de este suceso."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif",
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Colisión por alcance",
+   "pagina": 3,
+   "cita": "Bifurcación Clot, entre el apeadero de El Clot Aragó y Bif. Glorias en Barcelona, se produce la colisión",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "de viajeros de cercanías 25652. Ambos trenes pertenecen a la empresa ferroviaria Renfe Operadora.",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2012-01-19",
+   "pagina": 3,
+   "cita": "El día 19 de enero de 2012, a las 18:30 horas, en el PK 109+810 de la línea 262 Barcelona Sagrera a",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "18:30",
+   "pagina": 3,
+   "cita": "El día 19 de enero de 2012, a las 18:30 horas, en el PK 109+810 de la línea 262 Barcelona Sagrera a",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "109+810",
+    "linea": "262 Barcelona Sagrera a Bifurcación Clot",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Plena vía entre los apeaderos de El Clot Aragó y Bif. Glorias, en Barcelona, a unos 275 metros después del apeadero de El Clot Aragó, en un tramo de túnel con curva cerrada, escasa anchura, iluminación artificial y visibilidad limitada."
+   },
+   "pagina": 3,
+   "cita": "262 Barcelona Sagrera a Bifurcación Clot",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "262 Barcelona Sagrera a Bifurcación Clot",
+   "pagina": 3,
+   "cita": "262 Barcelona Sagrera a Bifurcación Clot",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tren 25652: UT 464223 en cabeza y UT 464205 en cola, tipo 120 A. Tren 37506: locomotora 252075 con material Talgo vacío, tipo 200 B.",
+    "averia": "No consta avería previa; los equipos de seguridad funcionaron correctamente; las luces de cola rojas del tren 37506 funcionaban correctamente.",
+    "mantenimiento": "El 20 de enero de 2012 se comprobó en el taller de Integria de Montcada Bifurcación la distancia de frenado y el llenado de cilindros de freno de las UT del tren 25652, con funcionamiento correcto. Renfe Operadora instalaba Asfa Digital en el 94% del parque móvil de cercanías de Barcelona, faltando 12 unidades."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren 37506, material Talgo vacío del tren 00273, procedente de Barcelona Sant Andreu Comtal y con destino a Barcelona Estació de França, estaba detenido ante la señal de entrada 1094 a Bif. Glorias, en indicación de parada. En ese momento, el tren de cercanías 25652, procedente de Maçanet-Massanes y con destino a L'Hospitalet de Llobregat, circulaba en el mismo sentido y rebasó en indicación de parada la señal permisiva 1100, anterior a la 1094. El tren 25652 se detuvo en el apeadero de El Clot Aragó, situado entre ambas señales, para realizar parada comercial. Tras finalizar la parada, reanudó la marcha dentro del circuito de vía CV 1100, ocupado también por el tren 37506. En un tramo de túnel con curva cerrada y visibilidad limitada, el tren alcanzó 39 km/h y el maquinista activó el freno de emergencia, pero no pudo evitar colisionar con la cola del tren 37506. La colisión por alcance se produjo en el PK 109+810 y provocó el descarrilamiento de los dos rodales del eje 13º del décimo coche del tren 37506, daños en el coche de cola de este tren y daños en el frontal del tren 25652. Resultaron heridas leves 27 personas: dos empleados de la tripulación del tren 37506 y 25 viajeros del tren 25652.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "109+810",
+    "linea": "262 Barcelona Sagrera a Bifurcación Clot",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Plena vía entre los apeaderos de El Clot Aragó y Bif. Glorias, en Barcelona, a unos 275 metros después del apeadero de El Clot Aragó, en un tramo de túnel con curva cerrada, escasa anchura, iluminación artificial y visibilidad limitada."
+   },
+   "pagina": 3,
+   "cita": "262 Barcelona Sagrera a Bifurcación Clot",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 27,
+    "danos_materiales": "Infraestructura: daños en sujeciones de traviesas por 2.046,00 €. Material rodante: daños en trenes; importe total estimado de los daños: 175.539 €.",
+    "afectacion_servicio": "Circulación interrumpida por ambas vías entre Barcelona Marina y Bif. Sagrera desde el accidente hasta las 20:00; restablecida por vía I con limitación de 5 km/h hasta rebasar el tren descarrilado; condiciones normales a las 02:05 del día siguiente. Suprimidos 23 trenes de cercanías; retrasos en 3 trenes de larga distancia (192 minutos), 3 de media distancia (79 minutos) y 66 de cercanías (1.595 minutos)."
+   },
+   "pagina": 7,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 25652",
+     "implicacion": "Conducía el tren que colisionó; no cumplió la marcha a la vista reglamentaria tras rebasar una señal permisiva; prefijó la velocidad y alcanzó 39 km/h; prueba de alcoholemia negativa."
+    },
+    {
+     "rol": "Maquinista del tren 37506",
+     "implicacion": "Conducía el tren detenido; avisó al puesto de mando tras el golpe; prueba de alcoholemia negativa."
+    },
+    {
+     "rol": "Tripulación del tren 37506",
+     "implicacion": "Dos empleados de la tripulación resultaron heridos leves."
+    }
+   ],
+   "pagina": 5,
+   "cita": "El maquinista del tren 25652 con matrícula 6825939.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "25652",
+     "tipo": "Tren de viajeros de cercanías, doble composición, 8 coches, 160 metros, 276 toneladas, tipo 120 A",
+     "operador": "Renfe Operadora",
+     "danos": "Daños en la UT de cabeza en topera, testeros frontales y sistema de frenado."
+    },
+    {
+     "numero": "37506",
+     "tipo": "Material vacío Talgo del tren 00273, locomotora 252075, 21 vehículos, 271 metros, 314 toneladas, tipo 200 B",
+     "operador": "Renfe Operadora",
+     "danos": "Descarrilamiento de los dos rodales del eje 13º del décimo coche; daños en coche de cola, elementos de tracción, choque, mangas y grifos de freno, señales de cola y chasis con pequeños golpes, abolladuras y rasguños."
+    }
+   ],
+   "pagina": 3,
+   "cita": "de viajeros de cercanías 25652. Ambos trenes pertenecen a la empresa ferroviaria Renfe Operadora.",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tren 25652: UT 464223 en cabeza y UT 464205 en cola, tipo 120 A. Tren 37506: locomotora 252075 con material Talgo vacío, tipo 200 B.",
+    "averia": "No consta avería previa; los equipos de seguridad funcionaron correctamente; las luces de cola rojas del tren 37506 funcionaban correctamente.",
+    "mantenimiento": "El 20 de enero de 2012 se comprobó en el taller de Integria de Montcada Bifurcación la distancia de frenado y el llenado de cilindros de freno de las UT del tren 25652, con funcionamiento correcto. Renfe Operadora instalaba Asfa Digital en el 94% del parque móvil de cercanías de Barcelona, faltando 12 unidades."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal 1100, avanzada de Bif. Glorias, alta, de tres focos, permisiva, con señal luminosa indicadora de dirección y balizas Asfa de pie de señal y previa. Señal 1094, de entrada a Bif. Glorias, alta, de tres focos, absoluta, con señal luminosa indicadora de dirección y balizas Asfa de pie de señal y previa. Tras el cambio de BAD a BAB en junio de 2011, se reubicaron señales y se recantonó el tramo, dejando el apeadero entre una señal permisiva y otra absoluta.",
+    "tipo_via": "Vía doble electrificada de ancho convencional, con bloqueo automático banalizado (BAB) y CTC gestionado desde el puesto de mando de Barcelona Sants; tramo en túnel con curva.",
+    "velocidad_maxima": "85 km/h en sentido par; no existían limitaciones de velocidad permanentes en el punto del accidente.",
+    "ancho": "Convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Funcionamiento correcto de infraestructura e instalaciones técnicas; tras el accidente, daños en las sujeciones de las traviesas.",
+    "otro": "Apeadero de El Clot Aragó en PK 110+068, entre señales 1094 y 1100, distantes 814 metros, con andén de 183 metros. Tráfico medio semanal de 1.436 circulaciones, considerado alto, con 90% de cercanías. Suceso similar el 28/04/2011 en el mismo apeadero, investigado por la CIAF, expediente 18/11, con 18 heridos leves y causa por mala cumplimentación de la marcha a la vista."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal 1100, avanzada de Bif. Glorias, alta, de tres focos, permisiva, con señal luminosa indicadora de dirección y balizas Asfa de pie de señal y previa. Señal 1094, de entrada a Bif. Glorias, alta, de tres focos, absoluta, con señal luminosa indicadora de dirección y balizas Asfa de pie de señal y previa. Tras el cambio de BAD a BAB en junio de 2011, se reubicaron señales y se recantonó el tramo, dejando el apeadero entre una señal permisiva y otra absoluta.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Tren tierra modalidad A.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 27,
+    "danos_materiales": "Infraestructura: daños en sujeciones de traviesas por 2.046,00 €. Material rodante: daños en trenes; importe total estimado de los daños: 175.539 €.",
+    "afectacion_servicio": "Circulación interrumpida por ambas vías entre Barcelona Marina y Bif. Sagrera desde el accidente hasta las 20:00; restablecida por vía I con limitación de 5 km/h hasta rebasar el tren descarrilado; condiciones normales a las 02:05 del día siguiente. Suprimidos 23 trenes de cercanías; retrasos en 3 trenes de larga distancia (192 minutos), 3 de media distancia (79 minutos) y 66 de cercanías (1.595 minutos)."
+   },
+   "pagina": 3,
+   "cita": "de viajeros de cercanías 25652. Ambos trenes pertenecen a la empresa ferroviaria Renfe Operadora.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 27,
+    "danos_materiales": "Infraestructura: daños en sujeciones de traviesas por 2.046,00 €. Material rodante: daños en trenes; importe total estimado de los daños: 175.539 €.",
+    "afectacion_servicio": "Circulación interrumpida por ambas vías entre Barcelona Marina y Bif. Sagrera desde el accidente hasta las 20:00; restablecida por vía I con limitación de 5 km/h hasta rebasar el tren descarrilado; condiciones normales a las 02:05 del día siguiente. Suprimidos 23 trenes de cercanías; retrasos en 3 trenes de larga distancia (192 minutos), 3 de media distancia (79 minutos) y 66 de cercanías (1.595 minutos)."
+   },
+   "pagina": 7,
+   "cita": "2.3.1. Víctimas mortales y heridos",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 27,
+    "danos_materiales": "Infraestructura: daños en sujeciones de traviesas por 2.046,00 €. Material rodante: daños en trenes; importe total estimado de los daños: 175.539 €.",
+    "afectacion_servicio": "Circulación interrumpida por ambas vías entre Barcelona Marina y Bif. Sagrera desde el accidente hasta las 20:00; restablecida por vía I con limitación de 5 km/h hasta rebasar el tren descarrilado; condiciones normales a las 02:05 del día siguiente. Suprimidos 23 trenes de cercanías; retrasos en 3 trenes de larga distancia (192 minutos), 3 de media distancia (79 minutos) y 66 de cercanías (1.595 minutos)."
+   },
+   "pagina": 7,
+   "cita": "2.3.1. Víctimas mortales y heridos",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 25652: UT 464223 en cabeza y UT 464205 en cola, tipo 120 A. Tren 37506: locomotora 252075 con material Talgo vacío, tipo 200 B.",
+    "averia": "No consta avería previa; los equipos de seguridad funcionaron correctamente; las luces de cola rojas del tren 37506 funcionaban correctamente.",
+    "mantenimiento": "El 20 de enero de 2012 se comprobó en el taller de Integria de Montcada Bifurcación la distancia de frenado y el llenado de cilindros de freno de las UT del tren 25652, con funcionamiento correcto. Renfe Operadora instalaba Asfa Digital en el 94% del parque móvil de cercanías de Barcelona, faltando 12 unidades."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal 1100, avanzada de Bif. Glorias, alta, de tres focos, permisiva, con señal luminosa indicadora de dirección y balizas Asfa de pie de señal y previa. Señal 1094, de entrada a Bif. Glorias, alta, de tres focos, absoluta, con señal luminosa indicadora de dirección y balizas Asfa de pie de señal y previa. Tras el cambio de BAD a BAB en junio de 2011, se reubicaron señales y se recantonó el tramo, dejando el apeadero entre una señal permisiva y otra absoluta.",
+    "tipo_via": "Vía doble electrificada de ancho convencional, con bloqueo automático banalizado (BAB) y CTC gestionado desde el puesto de mando de Barcelona Sants; tramo en túnel con curva.",
+    "velocidad_maxima": "85 km/h en sentido par; no existían limitaciones de velocidad permanentes en el punto del accidente.",
+    "ancho": "Convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Funcionamiento correcto de infraestructura e instalaciones técnicas; tras el accidente, daños en las sujeciones de las traviesas.",
+    "otro": "Apeadero de El Clot Aragó en PK 110+068, entre señales 1094 y 1100, distantes 814 metros, con andén de 183 metros. Tráfico medio semanal de 1.436 circulaciones, considerado alto, con 90% de cercanías. Suceso similar el 28/04/2011 en el mismo apeadero, investigado por la CIAF, expediente 18/11, con 18 heridos leves y causa por mala cumplimentación de la marcha a la vista."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 3,
+   "cita": "El día 19 de enero de 2012, a las 18:30 horas, en el PK 109+810 de la línea 262 Barcelona Sagrera a",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal 1100, avanzada de Bif. Glorias, alta, de tres focos, permisiva, con señal luminosa indicadora de dirección y balizas Asfa de pie de señal y previa. Señal 1094, de entrada a Bif. Glorias, alta, de tres focos, absoluta, con señal luminosa indicadora de dirección y balizas Asfa de pie de señal y previa. Tras el cambio de BAD a BAB en junio de 2011, se reubicaron señales y se recantonó el tramo, dejando el apeadero entre una señal permisiva y otra absoluta.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal 1100, avanzada de Bif. Glorias, alta, de tres focos, permisiva, con señal luminosa indicadora de dirección y balizas Asfa de pie de señal y previa. Señal 1094, de entrada a Bif. Glorias, alta, de tres focos, absoluta, con señal luminosa indicadora de dirección y balizas Asfa de pie de señal y previa. Tras el cambio de BAD a BAB en junio de 2011, se reubicaron señales y se recantonó el tramo, dejando el apeadero entre una señal permisiva y otra absoluta.",
+    "tipo_via": "Vía doble electrificada de ancho convencional, con bloqueo automático banalizado (BAB) y CTC gestionado desde el puesto de mando de Barcelona Sants; tramo en túnel con curva.",
+    "velocidad_maxima": "85 km/h en sentido par; no existían limitaciones de velocidad permanentes en el punto del accidente.",
+    "ancho": "Convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Funcionamiento correcto de infraestructura e instalaciones técnicas; tras el accidente, daños en las sujeciones de las traviesas.",
+    "otro": "Apeadero de El Clot Aragó en PK 110+068, entre señales 1094 y 1100, distantes 814 metros, con andén de 183 metros. Tráfico medio semanal de 1.436 circulaciones, considerado alto, con 90% de cercanías. Suceso similar el 28/04/2011 en el mismo apeadero, investigado por la CIAF, expediente 18/11, con 18 heridos leves y causa por mala cumplimentación de la marcha a la vista."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Tren tierra modalidad A.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 25652: UT 464223 en cabeza y UT 464205 en cola, tipo 120 A. Tren 37506: locomotora 252075 con material Talgo vacío, tipo 200 B.",
+    "averia": "No consta avería previa; los equipos de seguridad funcionaron correctamente; las luces de cola rojas del tren 37506 funcionaban correctamente.",
+    "mantenimiento": "El 20 de enero de 2012 se comprobó en el taller de Integria de Montcada Bifurcación la distancia de frenado y el llenado de cilindros de freno de las UT del tren 25652, con funcionamiento correcto. Renfe Operadora instalaba Asfa Digital en el 94% del parque móvil de cercanías de Barcelona, faltando 12 unidades."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Visibilidad limitada en el túnel por escasa anchura, curva cerrada e iluminación artificial.",
+    "El tren 25652 prefijó la velocidad a 33 km/h y alcanzó 39 km/h tras salir del apeadero.",
+    "Según la declaración del maquinista, el Asfa analógico no recuerda la indicación de las señales después de una parada prolongada.",
+    "El cambio de BAD a BAB en junio de 2011 reubicó señales y produjo un recantonamiento más corto, colocando el apeadero entre una señal permisiva y otra absoluta."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Por parte de Renfe Operadora \nEl maquinista del tren 25652 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio (Título V – Personal de conducción – en vigor hasta 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre).  \nÉste tiene antigüedad en el cargo de fecha 09/12/2010, habilitación de la línea de 22/11/2011 y del \nvehículo de 13/09/2011. \nRealizó su último reciclaje formativo el 20/10/2010 y su último reconocimiento médico y psicotécnico el \n12/07/2011 de acuerdo a la normativa vigente. \nEl maquinista del tren 37506 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio (Título V – Personal de conducción – en vigor hasta 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre).  \nÉste tiene antigüedad en el cargo de fecha 02/12/2000, habilitación de la línea de 28/12/2011 y del \nmaterial de 10/03/1997. \nRealizó su último reciclaje formativo el 12/07/2011 y su último reconocimiento médico y psicotécnico el \n10/02/2011 de acuerdo a la normativa vigente. \n\n## Página 11\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0007/2012 ocurrido el 19.01.2012 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n \nIF-190112-271112-CIAF \n \n \nPág. 11 de 16\n3.3. \nNORMATIVA",
+   "pagina": 10,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren 37506, material Talgo vacío del tren 00273, procedente de Barcelona Sant Andreu Comtal y con destino a Barcelona Estació de França, estaba detenido ante la señal de entrada 1094 a Bif. Glorias, en indicación de parada. En ese momento, el tren de cercanías 25652, procedente de Maçanet-Massanes y con destino a L'Hospitalet de Llobregat, circulaba en el mismo sentido y rebasó en indicación de parada la señal permisiva 1100, anterior a la 1094. El tren 25652 se detuvo en el apeadero de El Clot Aragó, situado entre ambas señales, para realizar parada comercial. Tras finalizar la parada, reanudó la marcha dentro del circuito de vía CV 1100, ocupado también por el tren 37506. En un tramo de túnel con curva cerrada y visibilidad limitada, el tren alcanzó 39 km/h y el maquinista activó el freno de emergencia, pero no pudo evitar colisionar con la cola del tren 37506. La colisión por alcance se produjo en el PK 109+810 y provocó el descarrilamiento de los dos rodales del eje 13º del décimo coche del tren 37506, daños en el coche de cola de este tren y daños en el frontal del tren 25652. Resultaron heridas leves 27 personas: dos empleados de la tripulación del tren 37506 y 25 viajeros del tren 25652.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del personal de conducción: incumplimiento de la marcha a la vista reglamentaria por el maquinista del tren 25652 tras rebasar una señal permisiva, conforme a los artículos 217.2 y 141.1 del Reglamento General de Circulación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Visibilidad limitada en el túnel por escasa anchura, curva cerrada e iluminación artificial.",
+    "El tren 25652 prefijó la velocidad a 33 km/h y alcanzó 39 km/h tras salir del apeadero.",
+    "Según la declaración del maquinista, el Asfa analógico no recuerda la indicación de las señales después de una parada prolongada.",
+    "El cambio de BAD a BAB en junio de 2011 reubicó señales y produjo un recantonamiento más corto, colocando el apeadero entre una señal permisiva y otra absoluta."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Analizar la viabilidad de prohibir el establecimiento de la velocidad prefijada cuando se circule con marcha a la vista.",
+    "Analizar la viabilidad de que en aquellas señales avanzadas que tengan la condición de permisivas se cambien a absolutas en los casos con circunstancias similares a las de este suceso.",
+    "Analizar la viabilidad de prohibir el establecimiento de la velocidad prefijada cuando se circule con marcha a la vista.",
+    "Analizar la viabilidad de que en aquellas señales avanzadas que tengan la condición de permisivas se cambien a absolutas en los casos con circunstancias similares a las de este suceso."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif",
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "18:25",
+     "evento": "El tren 37506 está detenido ante la señal de entrada 1094 a Bif. Glorias, en indicación de parada."
+    },
+    {
+     "hora": "18:26",
+     "evento": "El tren 25652 se detiene ante la señal permisiva 1100, en indicación de parada."
+    },
+    {
+     "hora": "18:30",
+     "evento": "Tras la parada comercial en El Clot Aragó, el tren 25652 reanuda la marcha y colisiona por alcance con la cola del tren 37506 en el PK 109+810."
+    },
+    {
+     "hora": "19:05",
+     "evento": "El jefe de gabinete de investigación de accidentes e inspección de Adif comunica el suceso a la CIAF."
+    },
+    {
+     "hora": "20:00",
+     "evento": "Se restablece la circulación por vía I con limitación de velocidad de 5 km/h hasta rebasar el tren descarrilado."
+    },
+    {
+     "hora": "20:30",
+     "evento": "Se realiza prueba de alcoholemia al maquinista del tren 25652, con resultado negativo."
+    },
+    {
+     "hora": "22:00",
+     "evento": "Se realiza prueba de alcoholemia al maquinista del tren 37506, con resultado negativo."
+    },
+    {
+     "hora": "02:05",
+     "evento": "Al día siguiente, el tren descarrilado queda apartado en la base Talgo de Sant Andreu Comtal y se restablece la circulación en condiciones normales."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0007/2012",
+ "expediente": "07/012",
+ "anio": 2012,
+ "titulo": "Colisión por alcance entre trenes de Renfe en el PK 109+810, entre El Clot Aragó y Bif. Glorias, Barcelona",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-190112-271112-CIAF-El Clot-Aragó.md"
+}

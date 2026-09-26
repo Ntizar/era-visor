@@ -1,0 +1,915 @@
+{
+ "id": "ID_300407_190907_Tocón - Montefrío",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID_300407_190907_Toc%C3%B3n%20-%20Montefr%C3%ADo.pdf",
+ "pdf": "pdfs/ES/ID_300407_190907_Tocón - Montefrío.pdf",
+ "md5_pdf": "41b64e605b0f3a196dcee5345fcd322d",
+ "paginas_md": 7,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 11,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0026/2007",
+   "pagina": 1,
+   "cita": "Nº 0026/2007 OCURRIDO EL DÍA 30.04.2007 ## Página 2 A MINISTERIO DE FOMENTO SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y PLANIFICACIÓN SECRETARÍA GENERAL DE INFRAESTRUCTURAS Investigación del accidente",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 30 de abril de 2007, un ciclista fue arrollado por el tren de Media Distancia 3927 de Renfe al cruzar el paso entarimado entre andenes de la estación de Tocón-Montefrío (Línea 426, PK 88,612). La víctima, que llevaba auriculares, no atendió las advertencias del Jefe de Circulación ni del maquinista. El tren circulaba a 133 km/h en el momento del impacto, por debajo de la velocidad máxima autorizada de 140 km/h. La investigación atribuyó el accidente a la imprudencia de la víctima por usar un paso no autorizado en lugar de los dos pasos superiores existentes. Se recomendó eliminar el paso entarimado o dotarlo de señalización luminosa y acústica.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-04-30",
+    "hora": "14:37",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Tocón - Montefrío",
+     "pk": "88,612",
+     "linea": "426 Granada – Fuente de Piedra",
+     "provincia": "Granada",
+     "descripcion_lugar": "Paso entarimado entre andenes en el extremo de la estación, lado Fuente de Piedra. La estación dispone de dos pasos superiores (uno para vehículos y otro para peatones) a 50 y 100 metros del extremo del andén donde se produjo el accidente. Andenes recrecidos que impiden la accesibilidad a las vías."
+    }
+   },
+   "pagina": 2,
+   "cita": "una persona resultando esta fallecida, en la estación de Tocón - Montefrío situada en el punto",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el lado izquierdo del frontal del material rodante, en la tubería de freno y en la bocina.",
+    "afectacion_servicio": "Tren MD 3927 suprimido, viajeros transbordados al tren GR320. Retraso de 12 minutos al tren 184 de Larga Distancia. Retraso acumulado de 114 minutos a los trenes de Media Distancia 3077, 3062, 33944 y 3923. Vía expedita y circulación restablecida a las 17:00."
+   },
+   "pagina": 4,
+   "cita": "Se produjeron daños en el lado izquierdo del frontal del material rodante, en la tubería de",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Uso indebido del paso entarimado entre andenes para cruzar las vías por parte de la víctima en bicicleta, sin prestar atención al paso del tren, en lugar de utilizar uno de los dos pasos superiores existentes próximos a la estación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima llevaba auriculares, lo que impidió percibir las advertencias acústicas del maquinista (bocina) y del Jefe de Circulación (gritos).",
+    "Existencia del paso entarimado entre andenes como acceso no autorizado a las vías, que facilitó la conducta imprudente.",
+    "La rampa de acceso al paso entarimado desde el final del andén permitía cruzar las vías a nivel."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ausencia de señalización luminosa y acústica en el paso entarimado entre andenes.",
+    "No se había evaluado la eliminación del paso entarimado a pesar de la existencia de dos pasos superiores alternativos a escasa distancia (50 y 100 m)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril.",
+     "destinatario": "Adif / Renfe / Autoridades"
+    },
+    {
+     "texto": "Tener en consideración la posible eliminación del paso entarimado entre andenes existente en la estación de Tocón-Montefrío, manteniéndose solo en el caso de ser estrictamente necesario.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "En caso de no poder eliminarse el paso, estudiar la posibilidad de dotar este tipo de pasos con señalización luminosa y acústica.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 7,
+   "cita": "7. RECOMENDACIONES - Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril. - Tener en consideración la posible elimin",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril.",
+     "destinatario": "Adif / Renfe / Autoridades"
+    },
+    {
+     "texto": "Tener en consideración la posible eliminación del paso entarimado entre andenes existente en la estación de Tocón-Montefrío, manteniéndose solo en el caso de ser estrictamente necesario.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "En caso de no poder eliminarse el paso, estudiar la posibilidad de dotar este tipo de pasos con señalización luminosa y acústica.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 7,
+   "cita": "7. RECOMENDACIONES - Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril. - Tener en consideración la posible elimin",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe Operadora"
+   ],
+   "pagina": 2,
+   "cita": "de Infraestructuras Ferroviarias (Adif), comunicó que se había producido el arrollamiento de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-04-30",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "14:37",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:hora"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Tocón - Montefrío",
+    "pk": "88,612",
+    "linea": "426 Granada – Fuente de Piedra",
+    "provincia": "Granada",
+    "descripcion_lugar": "Paso entarimado entre andenes en el extremo de la estación, lado Fuente de Piedra. La estación dispone de dos pasos superiores (uno para vehículos y otro para peatones) a 50 y 100 metros del extremo del andén donde se produjo el accidente. Andenes recrecidos que impiden la accesibilidad a las vías."
+   },
+   "pagina": 2,
+   "cita": "una persona resultando esta fallecida, en la estación de Tocón - Montefrío situada en el punto",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 426 Granada – Fuente de Piedra",
+   "pagina": 2,
+   "cita": "kilométrico 88,612 en la Línea 426 Granada – Fuente de Piedra, en la provincia de Granada,",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Motor 967195980172 + 3 coches (masa remolcada 160 Tm)",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "Una persona que cruzaba en bicicleta el paso entarimado entre andenes existente en el extremo de la estación de Tocón-Montefrío (lado Fuente de Piedra) fue arrollada por el tren de Viajeros de Media Distancia 3927 de Renfe, que no tenía parada prescrita en dicha estación y efectuaba su entrada por vía I. El tren estaba compuesto por motor 967195980172 y 3 coches, con masa remolcada de 160 Tm. El Jefe de Circulación, que a las 14:34 se disponía a presentar la señal de paso al tren, observó cómo un joven en bicicleta cruzaba el andén hacia el entarimado; al percatarse de que llevaba auriculares, trató de advertirlo a gritos y moviendo los brazos. El maquinista, al detectar al ciclista, accionó repetidamente la bocina y el freno de emergencia, pero no pudo evitar el impacto. La víctima fue lanzada unos 50-60 metros y quedó tendida en la vía paralela, falleciendo en el lugar.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Tocón - Montefrío",
+    "pk": "88,612",
+    "linea": "426 Granada – Fuente de Piedra",
+    "provincia": "Granada",
+    "descripcion_lugar": "Paso entarimado entre andenes en el extremo de la estación, lado Fuente de Piedra. La estación dispone de dos pasos superiores (uno para vehículos y otro para peatones) a 50 y 100 metros del extremo del andén donde se produjo el accidente. Andenes recrecidos que impiden la accesibilidad a las vías."
+   },
+   "pagina": 2,
+   "cita": "una persona resultando esta fallecida, en la estación de Tocón - Montefrío situada en el punto",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el lado izquierdo del frontal del material rodante, en la tubería de freno y en la bocina.",
+    "afectacion_servicio": "Tren MD 3927 suprimido, viajeros transbordados al tren GR320. Retraso de 12 minutos al tren 184 de Larga Distancia. Retraso acumulado de 114 minutos a los trenes de Media Distancia 3077, 3062, 33944 y 3923. Vía expedita y circulación restablecida a las 17:00."
+   },
+   "pagina": 4,
+   "cita": "Se produjeron daños en el lado izquierdo del frontal del material rodante, en la tubería de",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren MD 3927",
+     "implicacion": "Observó al ciclista cruzando el paso entarimado, hizo uso repetido del silbato y accionó el freno de emergencia, sin poder evitar el arrollamiento. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada de 7h51min el día del accidente; 8h53min en las 24h anteriores; descanso en las 48h anteriores."
+    },
+    {
+     "rol": "Jefe de Circulación de la estación Tocón-Montefrío",
+     "implicacion": "Observó al ciclista, trató de advertirlo a gritos y con gestos al ver que llevaba auriculares. Informó del suceso al Puesto de Mando de Sevilla. Declaró ante la Guardia Civil."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El Jefe de Circulación de la estación Tocón – Montefrío.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "3927",
+     "tipo": "Viajeros Media Distancia",
+     "operador": "Renfe",
+     "danos": "Daños en el lado izquierdo del frontal del material rodante, en la tubería de freno y en la bocina."
+    }
+   ],
+   "pagina": 3,
+   "cita": "3927 de la empresa ferroviaria Renfe, sin parada prescrita en dicha estación, que efectuaba su",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Motor 967195980172 + 3 coches (masa remolcada 160 Tm)",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "de Infraestructuras Ferroviarias (Adif), comunicó que se había producido el arrollamiento de",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "No se detalla señalización específica en el paso entarimado. Se recomienda dotar este tipo de pasos con señalización luminosa y acústica.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "140 km/h (según cuadro de velocidades y libro de itinerarios al paso por la estación)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Bloqueo Telefónico. Andenes recrecidos que impiden la accesibilidad a las vías. Paso entarimado entre andenes en el extremo de la estación (lado Fuente de Piedra). Dos pasos superiores existentes: uno para vehículos y otro para peatones, a 50 y 100 m del extremo del andén. Rampa de acceso al paso entarimado."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Telefónico con vía única.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "No se detalla señalización específica en el paso entarimado. Se recomienda dotar este tipo de pasos con señalización luminosa y acústica.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el lado izquierdo del frontal del material rodante, en la tubería de freno y en la bocina.",
+    "afectacion_servicio": "Tren MD 3927 suprimido, viajeros transbordados al tren GR320. Retraso de 12 minutos al tren 184 de Larga Distancia. Retraso acumulado de 114 minutos a los trenes de Media Distancia 3077, 3062, 33944 y 3923. Vía expedita y circulación restablecida a las 17:00."
+   },
+   "pagina": 4,
+   "cita": "Se produjeron daños en el lado izquierdo del frontal del material rodante, en la tubería de",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el lado izquierdo del frontal del material rodante, en la tubería de freno y en la bocina.",
+    "afectacion_servicio": "Tren MD 3927 suprimido, viajeros transbordados al tren GR320. Retraso de 12 minutos al tren 184 de Larga Distancia. Retraso acumulado de 114 minutos a los trenes de Media Distancia 3077, 3062, 33944 y 3923. Vía expedita y circulación restablecida a las 17:00."
+   },
+   "pagina": 4,
+   "cita": "Se produjeron daños en el lado izquierdo del frontal del material rodante, en la tubería de",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el lado izquierdo del frontal del material rodante, en la tubería de freno y en la bocina.",
+    "afectacion_servicio": "Tren MD 3927 suprimido, viajeros transbordados al tren GR320. Retraso de 12 minutos al tren 184 de Larga Distancia. Retraso acumulado de 114 minutos a los trenes de Media Distancia 3077, 3062, 33944 y 3923. Vía expedita y circulación restablecida a las 17:00."
+   },
+   "pagina": 4,
+   "cita": "Se produjeron daños en el lado izquierdo del frontal del material rodante, en la tubería de",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Motor 967195980172 + 3 coches (masa remolcada 160 Tm)",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "No se detalla señalización específica en el paso entarimado. Se recomienda dotar este tipo de pasos con señalización luminosa y acústica.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "140 km/h (según cuadro de velocidades y libro de itinerarios al paso por la estación)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Bloqueo Telefónico. Andenes recrecidos que impiden la accesibilidad a las vías. Paso entarimado entre andenes en el extremo de la estación (lado Fuente de Piedra). Dos pasos superiores existentes: uno para vehículos y otro para peatones, a 50 y 100 m del extremo del andén. Rampa de acceso al paso entarimado."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Telefónico con vía única.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Granada",
+    "municipio": null,
+    "estacion": "Tocón - Montefrío"
+   },
+   "pagina": 2,
+   "cita": "kilométrico 88,612 en la Línea 426 Granada – Fuente de Piedra, en la provincia de Granada,",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "No se detalla señalización específica en el paso entarimado. Se recomienda dotar este tipo de pasos con señalización luminosa y acústica.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "No se detalla señalización específica en el paso entarimado. Se recomienda dotar este tipo de pasos con señalización luminosa y acústica.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "140 km/h (según cuadro de velocidades y libro de itinerarios al paso por la estación)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Bloqueo Telefónico. Andenes recrecidos que impiden la accesibilidad a las vías. Paso entarimado entre andenes en el extremo de la estación (lado Fuente de Piedra). Dos pasos superiores existentes: uno para vehículos y otro para peatones, a 50 y 100 m del extremo del andén. Rampa de acceso al paso entarimado."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Telefónico con vía única.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Motor 967195980172 + 3 coches (masa remolcada 160 Tm)",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Ciclista cruza paso entarimado no autorizado",
+    "Víctima usa auriculares impidiendo oír advertencias",
+    "Tren pasa sin parada a alta velocidad"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "D. Santiago Sabariego Jiménez, Coordinador de accidentes ferroviarios del Administrador \nde Infraestructuras Ferroviarias (Adif), comunicó que se había producido el arrollamiento de \nuna persona resultando esta fallecida, en la estación de Tocón - Montefrío situada en el punto \nkilométrico 88,612 en la Línea 426 Granada – Fuente de Piedra, en la provincia de Granada, \nperteneciente a la Red Ferroviaria de Interés General administrada por Adif. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles de acuerdo \ncon el citado artículo.  \nDe conformidad con el artículo 112 del mencionado Reglamento, el 01 de marzo de 2007 la \nDirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios para el periodo comprendido entre el 01.03.07 al 30.04.07 compuesto por las \nsiguientes personas para este accidente: \n \nTécnico responsable de la investigación del accidente: un funcionario adscrito a la \nDirección General de Ferrocarriles, que suscribe este informe. \n \nResponsable de seguridad de Adif en la zona Sur: que entregó su informe particular del \naccidente el 19.07.07. \n \nResponsable de seguridad de Renfe: que entregó su informe particular del accidente el \n20.06.07 \nLa empresa pública INECO S.A. en el marco del convenio de colaboración suscrito con la \nDirección General de Ferrocarriles el 26.09.06 ha realizado trabajos de apoyo en la \ninvestigación de este accidente al Técnico responsable de la misma.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES D. Santiago Sabariego Jiménez, Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), comunicó que se había producido el arrollamiento de una persona resultan",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "Una persona que cruzaba en bicicleta el paso entarimado entre andenes existente en el extremo de la estación de Tocón-Montefrío (lado Fuente de Piedra) fue arrollada por el tren de Viajeros de Media Distancia 3927 de Renfe, que no tenía parada prescrita en dicha estación y efectuaba su entrada por vía I. El tren estaba compuesto por motor 967195980172 y 3 coches, con masa remolcada de 160 Tm. El Jefe de Circulación, que a las 14:34 se disponía a presentar la señal de paso al tren, observó cómo un joven en bicicleta cruzaba el andén hacia el entarimado; al percatarse de que llevaba auriculares, trató de advertirlo a gritos y moviendo los brazos. El maquinista, al detectar al ciclista, accionó repetidamente la bocina y el freno de emergencia, pero no pudo evitar el impacto. La víctima fue lanzada unos 50-60 metros y quedó tendida en la vía paralela, falleciendo en el lugar.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR EL OPERADOR FERROVIARIO. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por ADIF concluye “como última causa del accidente la imprudencia de la \npersona arrollada que atravesó las vías subido en bicicleta sin prestar atención al paso del tren \npor un lugar no autorizado”.  \nEl elaborado por RENFE establece que “Imprudencia de la víctima al intentar cruzar la vía, \nmontado en bicicleta, al paso del tren 3927, siendo inevitable el arrollamiento a pesar de la \nactuación del maquinista sobre el silbato y el freno automático de emergencia del tren”.  \nPor tanto, ambas conclusiones son coincidentes entre sí en cuanto a la causa del accidente.",
+   "pagina": 6,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Uso indebido del paso entarimado entre andenes para cruzar las vías por parte de la víctima en bicicleta, sin prestar atención al paso del tren, en lugar de utilizar uno de los dos pasos superiores existentes próximos a la estación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima llevaba auriculares, lo que impidió percibir las advertencias acústicas del maquinista (bocina) y del Jefe de Circulación (gritos).",
+    "Existencia del paso entarimado entre andenes como acceso no autorizado a las vías, que facilitó la conducta imprudente.",
+    "La rampa de acceso al paso entarimado desde el final del andén permitía cruzar las vías a nivel."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "A la vista de los datos recogidos por el Administrador de la infraestructura y de la \ninvestigación realizada, se estima que el accidente tuvo su origen en el uso indebido del paso \n\n## Página 7\n\n \n \n \nA \nMINISTERIO DE \nFOMENTO \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nInvestigación del accidente \nnº 26/2007 ocurrido el 30.04.2007 \nInforme  definitivo \n19.09.2007 \nDIRECCION GENERAL DE \nFERROCARRILES \nID-300407-190907 \n \n \nPág. 7 de 7 \nentarimado entre andenes para cruzar las vías, en lugar de utilizar uno de los dos pasos \nexistentes próximos a la estación de Tocón – Montefrío.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES A la vista de los datos recogidos por el Administrador de la infraestructura y de la investigación realizada, se estima que el accidente tuvo su origen en el uso indebido del paso ## Página 7 A",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "A la vista de los datos recogidos por el Administrador de la infraestructura y de la \ninvestigación realizada, se estima que el accidente tuvo su origen en el uso indebido del paso \n\n## Página 7\n\n \n \n \nA \nMINISTERIO DE \nFOMENTO \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nInvestigación del accidente \nnº 26/2007 ocurrido el 30.04.2007 \nInforme  definitivo \n19.09.2007 \nDIRECCION GENERAL DE \nFERROCARRILES \nID-300407-190907 \n \n \nPág. 7 de 7 \nentarimado entre andenes para cruzar las vías, en lugar de utilizar uno de los dos pasos \nexistentes próximos a la estación de Tocón – Montefrío.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES A la vista de los datos recogidos por el Administrador de la infraestructura y de la investigación realizada, se estima que el accidente tuvo su origen en el uso indebido del paso ## Página 7 A",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril.",
+     "destinatario": "Adif / Renfe / Autoridades"
+    },
+    {
+     "texto": "Tener en consideración la posible eliminación del paso entarimado entre andenes existente en la estación de Tocón-Montefrío, manteniéndose solo en el caso de ser estrictamente necesario.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "En caso de no poder eliminarse el paso, estudiar la posibilidad de dotar este tipo de pasos con señalización luminosa y acústica.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 7,
+   "cita": "7. RECOMENDACIONES - Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril. - Tener en consideración la posible elimin",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "14:34",
+     "evento": "El Jefe de Circulación observa al ciclista cruzando el andén hacia el entarimado mientras se dispone a presentar la señal de paso al tren 3927; intenta advertirle a gritos y con gestos."
+    },
+    {
+     "hora": "14:37",
+     "evento": "Hora del accidente según la sección de ubicación del informe."
+    },
+    {
+     "hora": "14:39",
+     "evento": "Hora del arrollamiento según la sección de hechos. El tren circulaba a 138 km/h al actuar el freno de emergencia y a 133 km/h en el momento del impacto."
+    },
+    {
+     "hora": "14:50",
+     "evento": "Se personan la Guardia Civil, la Policía Local y el médico de guardia, certificando el fallecimiento de la víctima."
+    },
+    {
+     "hora": "17:00",
+     "evento": "La Autoridad Judicial ordena el levantamiento del cadáver; la vía queda expedita y se restablece la circulación."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0026/2007",
+ "expediente": "0026/2007",
+ "anio": 2007,
+ "titulo": "Arrollamiento de ciclista en paso entarimado estación Tocón-Montefrío (Granada)",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID_300407_190907_Tocón - Montefrío.md"
+}

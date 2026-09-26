@@ -1,0 +1,907 @@
+{
+ "id": "IF-221108-2-240209-CIAF- Alcalá de Henares",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/B567AB27-04DF-4B24-8693-C14BBFAE3265/46997/IF221108240209CIAF.pdf",
+ "pdf": "pdfs/ES/IF-221108-2-240209-CIAF- Alcalá de Henares.pdf",
+ "md5_pdf": "ea638c2448089560649c2618fec0cb16",
+ "paginas_md": 10,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 7,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0064/2008",
+   "pagina": 1,
+   "cita": "nº 0064/2008 ocurrido el 22.11.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 22 de noviembre de 2008, a las 20:34 horas, el tren de media distancia 17011 de Renfe Operadora arrolló a un joven de 16 años en la vía G1, a la salida de la estación de Alcalá de Henares, en el P.K. 32,800 de la línea 200 Madrid-Barcelona. Como consecuencia del accidente, la víctima falleció. No se produjeron daños materiales en el tren, la infraestructura ni el medio ambiente. La investigación concluye que el origen fue el tránsito de la víctima por el lugar por donde pasaba el tren sin estar autorizado para ello. El informe recomienda a Adif la adopción de medidas para el mantenimiento del vallado ya reparado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-11-22",
+    "hora": "20:34",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Alcalá de Henares",
+     "pk": "P.K. 32,800",
+     "linea": "200 Madrid-Barcelona",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Vía G1, a la salida de la estación de Alcalá de Henares, en el trayecto Bifurcación Base Aérea – Alcalá de Henares, entre los cambios de salida y la señal E8, entre las vías G1 y G2. Acceso por rotura del cerramiento al final de la calle Pedro del Campo, cerca del parque O'Donnell."
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 22 de noviembre de 2008, a las 20:34 horas, el tren de viajeros de media distancia 17011,",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Retrasos en trenes de cercanías de 35 minutos y en trenes de media distancia de 8 minutos. Vías G1 y G2 interceptadas de 20:34 a 22:20; vías G3 y G4 interceptadas de 21:49 a 22:02. Circulación normal restablecida a las 22:20."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello.",
+   "pagina": 2,
+   "cita": "Conclusión: El accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Rotura y forzamiento del cerramiento por donde accedió la víctima.",
+    "Zona habitual de botellón y reuniones de jóvenes.",
+    "Acceso a la vía desde la calle Pedro del Campo mediante salto o subida de un murete de hormigón de 60 cm."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Puesto que la rotura del vallado ha sido reparada, se recomienda a Adif la adopción de las medidas necesarias para su mantenimiento.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: Puesto que la rotura del vallado ha sido reparada, se recomienda a Adif la",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Puesto que la rotura del vallado ha sido reparada, se recomienda a Adif la adopción de las medidas necesarias para su mantenimiento.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: Puesto que la rotura del vallado ha sido reparada, se recomienda a Adif la",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "de la empresa ferroviaria Renfe Operadora, arrolla a una persona en la vía G1, a la salida de la",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-11-22",
+   "pagina": 2,
+   "cita": "El día 22 de noviembre de 2008, a las 20:34 horas, el tren de viajeros de media distancia 17011,",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "20:34",
+   "pagina": 2,
+   "cita": "El día 22 de noviembre de 2008, a las 20:34 horas, el tren de viajeros de media distancia 17011,",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Alcalá de Henares",
+    "pk": "P.K. 32,800",
+    "linea": "200 Madrid-Barcelona",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Vía G1, a la salida de la estación de Alcalá de Henares, en el trayecto Bifurcación Base Aérea – Alcalá de Henares, entre los cambios de salida y la señal E8, entre las vías G1 y G2. Acceso por rotura del cerramiento al final de la calle Pedro del Campo, cerca del parque O'Donnell."
+   },
+   "pagina": 2,
+   "cita": "estación de Alcalá de Henares, en el P.K 32,800 de la línea 200 Madrid- Barcelona. Como",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 200 Madrid-Barcelona",
+   "pagina": 2,
+   "cita": "estación de Alcalá de Henares, en el P.K 32,800 de la línea 200 Madrid- Barcelona. Como",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Automotor 470118, 3 vehículos, masa remolcada 161 Tn, Nº UIC 967194701181.",
+    "averia": "No se aprecia avería; el material rodante funcionó correctamente. Al accionar el freno de emergencia, el tren circulaba a 120 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros de media distancia 17011, de Renfe Operadora, compuesto por el automotor 470118 de tres vehículos y 161 Tn de masa remolcada, circulaba a la salida de la estación de Alcalá de Henares por la vía G1, en el P.K. 32,800 de la línea 200 Madrid-Barcelona, cuando a las 20:34 horas arrolló a un joven de 16 años que transitaba por la caja de la vía. El maquinista notó un impacto fuerte, detuvo el tren, inspeccionó el frontal y observó un impacto de unos 4 o 5 cm debajo del parabrisas, además de trazas de sangre en el lateral izquierdo, aunque no vio a la persona. Comunicó la incidencia al Puesto de Mando de Madrid y, tras indicársele que continuara la marcha, reanudó la circulación.\n\nLa persona inerte fue vista posteriormente por el maquinista del tren 21569, al que se prescribió marcha a la vista, en la entrevía entre los cambios de salida y la señal E8, entre las vías G1 y G2 de la estación. Según el informe de Adif, al lugar del accidente se accedía por una rotura en el cerramiento situada al final de la calle Pedro del Campo, junto a la vía G1, y era necesario saltar o subir un murete de hormigón de 60 cm para llegar a la vía. La zona se describe como lugar habitual de botellón y reuniones de jóvenes. Tras el accidente, los servicios municipales de Alcalá de Henares repararon la rotura del vallado.",
+   "pagina": 2,
+   "cita": "Madrid El tren de viajeros de media distancia 17011 de Renfe Operadora, compuesto por el automotor 470118 (tres vehículo y masa remolcada de 161 Tn), cuando circulaba a la salida de la estación de Alcalá de Henares, a",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Alcalá de Henares",
+    "pk": "P.K. 32,800",
+    "linea": "200 Madrid-Barcelona",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Vía G1, a la salida de la estación de Alcalá de Henares, en el trayecto Bifurcación Base Aérea – Alcalá de Henares, entre los cambios de salida y la señal E8, entre las vías G1 y G2. Acceso por rotura del cerramiento al final de la calle Pedro del Campo, cerca del parque O'Donnell."
+   },
+   "pagina": 2,
+   "cita": "estación de Alcalá de Henares, en el P.K 32,800 de la línea 200 Madrid- Barcelona. Como",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Retrasos en trenes de cercanías de 35 minutos y en trenes de media distancia de 8 minutos. Vías G1 y G2 interceptadas de 20:34 a 22:20; vías G3 y G4 interceptadas de 21:49 a 22:02. Circulación normal restablecida a las 22:20."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Tras el accidente, según información facilitada por Adif, los servicios municipales de Alcalá de \nHenares procedieron a la reparación de la rotura del vallado por donde accedió la víctima. \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0064/2008 ocurrido el 22.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-221108-240209-CIAF \n \n \nPág. 8 de 10",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista principal del tren 17011",
+     "implicacion": "Matrícula 1347566. Notó el impacto, detuvo el tren, inspeccionó, comunicó al Puesto de Mando de Madrid y continuó la marcha por indicación del regulador. Alcoholemia 0,00 mg/1000 ml. Habilitado conforme a la Orden Ministerial 2520/2006; último reciclaje formativo el 2007-05-09 y último reconocimiento médico y psicotécnico el 2006-02-05."
+    },
+    {
+     "rol": "maquinista del tren 21569",
+     "implicacion": "Observó a la persona inerte en la entrevía mientras se le prescribía marcha a la vista."
+    },
+    {
+     "rol": "coordinador de accidentes ferroviarios de Adif",
+     "implicacion": "Comunicó el accidente a la Comisión de Investigación de Accidentes Ferroviarios el 22 de noviembre de 2008 a las 21:14 horas."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El maquinista principal del tren 17011.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "17011",
+     "tipo": "tren de viajeros de media distancia",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños en el material rodante; se observan impacto bajo el parabrisas y trazas de sangre en el lateral izquierdo."
+    },
+    {
+     "numero": "21569",
+     "tipo": null,
+     "operador": null,
+     "danos": null
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 22 de noviembre de 2008, a las 20:34 horas, el tren de viajeros de media distancia 17011,",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Automotor 470118, 3 vehículos, masa remolcada 161 Tn, Nº UIC 967194701181.",
+    "averia": "No se aprecia avería; el material rodante funcionó correctamente. Al accionar el freno de emergencia, el tren circulaba a 120 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Control de tráfico centralizado (C.T.C.), bloqueo automático banalizado (B.A.B.), enclavamiento eléctrico, señal E8 y radiotelefonía modalidad A.",
+    "tipo_via": "Vía cuádruple electrificada; lugar del arrollamiento en la vía G1, con cerramiento/vallado.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "El material rodante y las instalaciones técnicas funcionaron correctamente; el cerramiento presentaba una rotura forzada en el acceso desde la calle Pedro del Campo.",
+    "otro": "Trayecto Bifurcación Base Aérea – Alcalá de Henares; P.K. 32,800; media semanal de circulaciones del tramo: 1.959, desglosadas en 13 de larga distancia, 77 de media distancia, 1.715 de cercanías, 139 de mercancías y 15 de servicio."
+   },
+   "pagina": 4,
+   "cita": "Trayecto de vía cuádruple electrificada con bloqueo automático banalizado (B.A.B.) y control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Control de tráfico centralizado (C.T.C.), bloqueo automático banalizado (B.A.B.), enclavamiento eléctrico, señal E8 y radiotelefonía modalidad A.",
+   "pagina": 4,
+   "cita": "Trayecto de vía cuádruple electrificada con bloqueo automático banalizado (B.A.B.) y control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Retrasos en trenes de cercanías de 35 minutos y en trenes de media distancia de 8 minutos. Vías G1 y G2 interceptadas de 20:34 a 22:20; vías G3 y G4 interceptadas de 21:49 a 22:02. Circulación normal restablecida a las 22:20."
+   },
+   "pagina": 2,
+   "cita": "El día 22 de noviembre de 2008, a las 20:34 horas, el tren de viajeros de media distancia 17011,",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Retrasos en trenes de cercanías de 35 minutos y en trenes de media distancia de 8 minutos. Vías G1 y G2 interceptadas de 20:34 a 22:20; vías G3 y G4 interceptadas de 21:49 a 22:02. Circulación normal restablecida a las 22:20."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-221108-240209-CIAF Pág. 1 de 10 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0064/2008",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Retrasos en trenes de cercanías de 35 minutos y en trenes de media distancia de 8 minutos. Vías G1 y G2 interceptadas de 20:34 a 22:20; vías G3 y G4 interceptadas de 21:49 a 22:02. Circulación normal restablecida a las 22:20."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 470118, 3 vehículos, masa remolcada 161 Tn, Nº UIC 967194701181.",
+    "averia": "No se aprecia avería; el material rodante funcionó correctamente. Al accionar el freno de emergencia, el tren circulaba a 120 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Control de tráfico centralizado (C.T.C.), bloqueo automático banalizado (B.A.B.), enclavamiento eléctrico, señal E8 y radiotelefonía modalidad A.",
+    "tipo_via": "Vía cuádruple electrificada; lugar del arrollamiento en la vía G1, con cerramiento/vallado.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "El material rodante y las instalaciones técnicas funcionaron correctamente; el cerramiento presentaba una rotura forzada en el acceso desde la calle Pedro del Campo.",
+    "otro": "Trayecto Bifurcación Base Aérea – Alcalá de Henares; P.K. 32,800; media semanal de circulaciones del tramo: 1.959, desglosadas en 13 de larga distancia, 77 de media distancia, 1.715 de cercanías, 139 de mercancías y 15 de servicio."
+   },
+   "pagina": 4,
+   "cita": "Trayecto de vía cuádruple electrificada con bloqueo automático banalizado (B.A.B.) y control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche y despejado",
+   "pagina": 4,
+   "cita": "En el momento del arrollamiento el tiempo atmosférico era de noche y despejado.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": "Alcalá de Henares"
+   },
+   "pagina": 2,
+   "cita": "estación de Alcalá de Henares, en el P.K 32,800 de la línea 200 Madrid- Barcelona. Como",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche y despejado",
+   "pagina": 4,
+   "cita": "En el momento del arrollamiento el tiempo atmosférico era de noche y despejado.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Control de tráfico centralizado (C.T.C.), bloqueo automático banalizado (B.A.B.), enclavamiento eléctrico, señal E8 y radiotelefonía modalidad A.",
+   "pagina": 4,
+   "cita": "Trayecto de vía cuádruple electrificada con bloqueo automático banalizado (B.A.B.) y control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Control de tráfico centralizado (C.T.C.), bloqueo automático banalizado (B.A.B.), enclavamiento eléctrico, señal E8 y radiotelefonía modalidad A.",
+    "tipo_via": "Vía cuádruple electrificada; lugar del arrollamiento en la vía G1, con cerramiento/vallado.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "El material rodante y las instalaciones técnicas funcionaron correctamente; el cerramiento presentaba una rotura forzada en el acceso desde la calle Pedro del Campo.",
+    "otro": "Trayecto Bifurcación Base Aérea – Alcalá de Henares; P.K. 32,800; media semanal de circulaciones del tramo: 1.959, desglosadas en 13 de larga distancia, 77 de media distancia, 1.715 de cercanías, 139 de mercancías y 15 de servicio."
+   },
+   "pagina": 4,
+   "cita": "Trayecto de vía cuádruple electrificada con bloqueo automático banalizado (B.A.B.) y control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 470118, 3 vehículos, masa remolcada 161 Tn, Nº UIC 967194701181.",
+    "averia": "No se aprecia avería; el material rodante funcionó correctamente. Al accionar el freno de emergencia, el tren circulaba a 120 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Rotura del cerramiento",
+    "Acceso no autorizado a vía",
+    "Cerramiento forzado por persona",
+    "Zona habitual reuniones jóvenes"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros de media distancia 17011, de Renfe Operadora, compuesto por el automotor 470118 de tres vehículos y 161 Tn de masa remolcada, circulaba a la salida de la estación de Alcalá de Henares por la vía G1, en el P.K. 32,800 de la línea 200 Madrid-Barcelona, cuando a las 20:34 horas arrolló a un joven de 16 años que transitaba por la caja de la vía. El maquinista notó un impacto fuerte, detuvo el tren, inspeccionó el frontal y observó un impacto de unos 4 o 5 cm debajo del parabrisas, además de trazas de sangre en el lateral izquierdo, aunque no vio a la persona. Comunicó la incidencia al Puesto de Mando de Madrid y, tras indicársele que continuara la marcha, reanudó la circulación.\n\nLa persona inerte fue vista posteriormente por el maquinista del tren 21569, al que se prescribió marcha a la vista, en la entrevía entre los cambios de salida y la señal E8, entre las vías G1 y G2 de la estación. Según el informe de Adif, al lugar del accidente se accedía por una rotura en el cerramiento situada al final de la calle Pedro del Campo, junto a la vía G1, y era necesario saltar o subir un murete de hormigón de 60 cm para llegar a la vía. La zona se describe como lugar habitual de botellón y reuniones de jóvenes. Tras el accidente, los servicios municipales de Alcalá de Henares repararon la rotura del vallado.",
+   "pagina": 2,
+   "cita": "Madrid El tren de viajeros de media distancia 17011 de Renfe Operadora, compuesto por el automotor 470118 (tres vehículo y masa remolcada de 161 Tn), cuando circulaba a la salida de la estación de Alcalá de Henares, a",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar a la salida de la estación de Alcalá de Henares, en el P.K. 32,800 de la línea \n200 Madrid - Barcelona. \nSegún el registrador de seguridad del automotor, el tren circulaba a una velocidad inferior a la \nmáxima permitida en el tramo. \nSegún lo declarado por el maquinista, al notar el impacto, detiene el tren, lo inspecciona y \ncomunica el suceso al Puesto de Mando desde donde se le ordena que continúe la marcha; por tanto, \nla actuación del maquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nLa zona es lugar habitual de botellón y reuniones de jóvenes \nEn el lugar del arrollamiento, el cerramiento ha sido forzado. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba el tren, sin \nestar autorizado para ello.",
+   "pagina": 7,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello.",
+   "pagina": 2,
+   "cita": "Conclusión: El accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Rotura y forzamiento del cerramiento por donde accedió la víctima.",
+    "Zona habitual de botellón y reuniones de jóvenes.",
+    "Acceso a la vía desde la calle Pedro del Campo mediante salto o subida de un murete de hormigón de 60 cm."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Tras el accidente, según información facilitada por Adif, los servicios municipales de Alcalá de \nHenares procedieron a la reparación de la rotura del vallado por donde accedió la víctima. \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0064/2008 ocurrido el 22.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-221108-240209-CIAF \n \n \nPág. 8 de 10",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Tras el accidente, según información facilitada por Adif, los servicios municipales de Alcalá de \nHenares procedieron a la reparación de la rotura del vallado por donde accedió la víctima. \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0064/2008 ocurrido el 22.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-221108-240209-CIAF \n \n \nPág. 8 de 10",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Tras el accidente, según información facilitada por Adif, los servicios municipales de Alcalá de \nHenares procedieron a la reparación de la rotura del vallado por donde accedió la víctima. \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0064/2008 ocurrido el 22.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-221108-240209-CIAF \n \n \nPág. 8 de 10",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Puesto que la rotura del vallado ha sido reparada, se recomienda a Adif la adopción de las medidas necesarias para su mantenimiento.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: Puesto que la rotura del vallado ha sido reparada, se recomienda a Adif la",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "20:34",
+     "evento": "El tren de media distancia 17011 arrolla a una persona en la vía G1, a la salida de la estación de Alcalá de Henares."
+    },
+    {
+     "hora": null,
+     "evento": "El maquinista del tren 17011 nota un impacto, detiene el tren, lo inspecciona y comunica la incidencia al Puesto de Mando de Madrid."
+    },
+    {
+     "hora": null,
+     "evento": "El Puesto de Mando de Madrid ordena continuar la marcha tras la comunicación del maquinista."
+    },
+    {
+     "hora": null,
+     "evento": "El maquinista del tren 21569, con marcha a la vista, observa a la persona inerte en la entrevía entre los cambios de salida y la señal E8."
+    },
+    {
+     "hora": "21:14",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif comunica a la CIAF el arrollamiento de un joven por el tren 17011."
+    },
+    {
+     "hora": "21:49",
+     "evento": "Comienza la interceptación de las vías G3 y G4."
+    },
+    {
+     "hora": "22:02",
+     "evento": "Finaliza la interceptación de las vías G3 y G4."
+    },
+    {
+     "hora": "22:20",
+     "evento": "Queda restablecida la circulación normal y finaliza la interceptación de las vías G1 y G2."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0064/2008",
+ "expediente": "0064/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de una persona por tren de media distancia en la estación de Alcalá de Henares",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-221108-2-240209-CIAF- Alcalá de Henares.md"
+}

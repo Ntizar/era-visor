@@ -1,0 +1,901 @@
+{
+ "id": "IF-240508-300908-CIAF_La Encina-Alicante",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/D13BECCF-E8B9-4FBA-8A77-1BA4A6AA36EB/46946/IF240508300908CIAF.pdf",
+ "pdf": "pdfs/ES/IF-240508-300908-CIAF_La Encina-Alicante.pdf",
+ "md5_pdf": "70cbc9bd3b081a3567dc658b248105de",
+ "paginas_md": 9,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 6,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0017/2008",
+   "pagina": 1,
+   "cita": "nº 0017/2008 ocurrido el 24.05.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 24 de mayo de 2008, a las 16:48, el tren de viajeros de larga distancia 1183 de Renfe Operadora arrolló a una mujer de 85 años que caminaba con un perro por la vía en el P.K. 396,675 de la línea 330 La Encina-Alicante, entre la señal avanzada y la de entrada de la estación de Villena. El accidente se produjo en un lugar no autorizado, en un entorno descampado cercano al núcleo urbano de Villena, con un vallado que presentaba una rotura constituyendo un paso vicioso. La víctima falleció y el tráfico ferroviario quedó suspendido durante 33 minutos, generando retrasos en varios trenes. La investigación concluyó que la infraestructura y el material rodante funcionaban correctamente y que la actuación del maquinista fue ajustada a la normativa. Se recomienda reforzar el vallado y promover campañas de educación y concienciación ciudadana.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-05-24",
+    "hora": "16:48",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Villena",
+     "pk": "396,675",
+     "linea": "330 La Encina-Alicante",
+     "provincia": "Alicante",
+     "descripcion_lugar": "Zona descampada cercana al núcleo urbano de Villena, entre la señal avanzada y la de entrada de la estación; por el lado izquierdo, sentido de la línea, existía un vallado con una rotura que constituía un paso vicioso, y el lado derecho no estaba vallado."
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 24 de mayo de 2008, a las 16:48 horas, entre la señal avanzada y de entrada de la estación",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Tráfico suspendido 33 minutos; a las 17:25 se autorizó circulación marcha a la vista; 4 trenes de Larga Distancia acumularon 106 minutos de retraso total, 1 tren de Media Distancia 21 minutos y 1 tren de Cercanías 4 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "El tránsito de la víctima por un lugar no autorizado para ello.",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado para",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Rotura del vallado que constituía un paso vicioso.",
+    "Lado derecho de la vía no vallado."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Reforzar el vallado.",
+     "destinatario": null
+    },
+    {
+     "texto": "Fomentar campañas de educación y concienciación ciudadana sobre la prohibición y los peligros de circular por las instalaciones ferroviarias cuando no está autorizado.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 2,
+   "cita": "1- Reforzar el vallado.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Reforzar el vallado.",
+     "destinatario": null
+    },
+    {
+     "texto": "Fomentar campañas de educación y concienciación ciudadana sobre la prohibición y los peligros de circular por las instalaciones ferroviarias cuando no está autorizado.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 2,
+   "cita": "1- Reforzar el vallado.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de una persona",
+   "pagina": 2,
+   "cita": "Investigación de accidentes ferroviarios que se había producido el arrollamiento de una persona por el",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "empresa ferroviaria Renfe Operadora, arrolla a una persona que caminaba con un perro por las",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-05-24",
+   "pagina": 2,
+   "cita": "El día 24 de mayo de 2008, a las 16:48 horas, entre la señal avanzada y de entrada de la estación",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "16:48",
+   "pagina": 2,
+   "cita": "El día 24 de mayo de 2008, a las 16:48 horas, entre la señal avanzada y de entrada de la estación",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Villena",
+    "pk": "396,675",
+    "linea": "330 La Encina-Alicante",
+    "provincia": "Alicante",
+    "descripcion_lugar": "Zona descampada cercana al núcleo urbano de Villena, entre la señal avanzada y la de entrada de la estación; por el lado izquierdo, sentido de la línea, existía un vallado con una rotura que constituía un paso vicioso, y el lado derecho no estaba vallado."
+   },
+   "pagina": 2,
+   "cita": "de Villena (Alicante), en el P.K. 396,675 de la línea 330 La Encina-Alicante, perteneciente a la Red",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "330 La Encina-Alicante",
+   "pagina": 2,
+   "cita": "de Villena (Alicante), en el P.K. 396,675 de la línea 330 La Encina-Alicante, perteneciente a la Red",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Automotor 101106; matrícula UIC 967191011063; 10 coches; masa remolcada 418 Tm.",
+    "averia": "No se produjeron daños; funcionó correctamente; velocidad al actuar la seta de emergencia: 140 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El 24 de mayo de 2008, a las 16:48 horas, el tren de viajeros de larga distancia 1183 de Renfe Operadora, formado por el automotor 101106 con 10 coches y una masa remolcada de 418 Tm, se aproximaba a la estación de Villena por la línea 330 La Encina-Alicante. En el P.K. 396,675, entre la señal avanzada y la de entrada, arrolló a una mujer de 85 años que caminaba con un perro por la vía, de espaldas al tren, en un lugar no autorizado.\n\nEl maquinista hizo uso del silbato y aplicó el freno de emergencia, pero no pudo evitar el golpe; la mujer salió despedida de la caja de la vía y el tren quedó detenido en el andén. El conductor comunicó el suceso al Puesto de Mando de Valencia, que alertó a los servicios de emergencia y a las entidades implicadas. A las 17:03 horas se autorizó al tren a continuar la marcha al estar el cuerpo fuera de la vía; a las 17:25 horas la Guardia Civil autorizó la circulación marcha a la vista y a las 19:15 horas la autoridad judicial levantó el cadáver.\n\nNo se produjeron daños materiales; el tráfico ferroviario quedó suspendido durante 33 minutos y varios trenes sufrieron retrasos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Villena",
+    "pk": "396,675",
+    "linea": "330 La Encina-Alicante",
+    "provincia": "Alicante",
+    "descripcion_lugar": "Zona descampada cercana al núcleo urbano de Villena, entre la señal avanzada y la de entrada de la estación; por el lado izquierdo, sentido de la línea, existía un vallado con una rotura que constituía un paso vicioso, y el lado derecho no estaba vallado."
+   },
+   "pagina": 2,
+   "cita": "de Villena (Alicante), en el P.K. 396,675 de la línea 330 La Encina-Alicante, perteneciente a la Red",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Tráfico suspendido 33 minutos; a las 17:25 se autorizó circulación marcha a la vista; 4 trenes de Larga Distancia acumularon 106 minutos de retraso total, 1 tren de Media Distancia 21 minutos y 1 tren de Cercanías 4 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 1183",
+     "implicacion": "Matrícula 8658437; habilitado conforme a la OM 2520/2006; último reciclaje formativo 13-06-2007 y último reconocimiento médico y psicotécnico 23-06-2006; alcoholemia negativa 0,00 mg/1000 ml; usó silbato y freno de emergencia; actuación correcta."
+    },
+    {
+     "rol": "Víctima",
+     "implicacion": "Mujer de 85 años que caminaba con un perro por la vía, de espaldas al tren, en un lugar no autorizado; falleció arrollada."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El Maquinista principal del tren 1183",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "1183",
+     "tipo": "Tren de viajeros de larga distancia",
+     "operador": "Renfe Operadora",
+     "danos": "No se produjeron daños en el material rodante."
+    }
+   ],
+   "pagina": 2,
+   "cita": "Ferroviaria de Interés General administrada por Adif, el tren de viajeros de larga distancia 1183, de la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Automotor 101106; matrícula UIC 967191011063; 10 coches; masa remolcada 418 Tm.",
+    "averia": "No se produjeron daños; funcionó correctamente; velocidad al actuar la seta de emergencia: 140 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales avanzada y de entrada de la estación de Villena; no se indica fallo.",
+    "tipo_via": "Vía única electrificada con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C.).",
+    "velocidad_maxima": "150 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "No se mencionan defectos de vía; el entorno presentaba un vallado con rotura que constituía un paso vicioso en el lado izquierdo y el lado derecho sin vallar.",
+    "otro": "Radiotelefonía modalidad A; Puesto de Mando de Valencia; tráfico suspendido 33 minutos; antecedentes de arrollamientos en inmediaciones de Villena en 2006 y 2007."
+   },
+   "pagina": 4,
+   "cita": "Trayecto de vía única electrificada con bloqueo automático (B.A.U.) y control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales avanzada y de entrada de la estación de Villena; no se indica fallo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Tráfico suspendido 33 minutos; a las 17:25 se autorizó circulación marcha a la vista; 4 trenes de Larga Distancia acumularon 106 minutos de retraso total, 1 tren de Media Distancia 21 minutos y 1 tren de Cercanías 4 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Tráfico suspendido 33 minutos; a las 17:25 se autorizó circulación marcha a la vista; 4 trenes de Larga Distancia acumularon 106 minutos de retraso total, 1 tren de Media Distancia 21 minutos y 1 tren de Cercanías 4 minutos."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-240508-300908-CIAF Pág. 1 de 9 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0017/200",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Tráfico suspendido 33 minutos; a las 17:25 se autorizó circulación marcha a la vista; 4 trenes de Larga Distancia acumularon 106 minutos de retraso total, 1 tren de Media Distancia 21 minutos y 1 tren de Cercanías 4 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 101106; matrícula UIC 967191011063; 10 coches; masa remolcada 418 Tm.",
+    "averia": "No se produjeron daños; funcionó correctamente; velocidad al actuar la seta de emergencia: 140 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales avanzada y de entrada de la estación de Villena; no se indica fallo.",
+    "tipo_via": "Vía única electrificada con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C.).",
+    "velocidad_maxima": "150 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "No se mencionan defectos de vía; el entorno presentaba un vallado con rotura que constituía un paso vicioso en el lado izquierdo y el lado derecho sin vallar.",
+    "otro": "Radiotelefonía modalidad A; Puesto de Mando de Valencia; tráfico suspendido 33 minutos; antecedentes de arrollamientos en inmediaciones de Villena en 2006 y 2007."
+   },
+   "pagina": 4,
+   "cita": "Trayecto de vía única electrificada con bloqueo automático (B.A.U.) y control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "De día, con condiciones atmosféricas buenas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Alicante",
+    "municipio": null,
+    "estacion": "Villena"
+   },
+   "pagina": 2,
+   "cita": "de Villena (Alicante), en el P.K. 396,675 de la línea 330 La Encina-Alicante, perteneciente a la Red",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "De día, con condiciones atmosféricas buenas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales avanzada y de entrada de la estación de Villena; no se indica fallo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales avanzada y de entrada de la estación de Villena; no se indica fallo.",
+    "tipo_via": "Vía única electrificada con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C.).",
+    "velocidad_maxima": "150 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "No se mencionan defectos de vía; el entorno presentaba un vallado con rotura que constituía un paso vicioso en el lado izquierdo y el lado derecho sin vallar.",
+    "otro": "Radiotelefonía modalidad A; Puesto de Mando de Valencia; tráfico suspendido 33 minutos; antecedentes de arrollamientos en inmediaciones de Villena en 2006 y 2007."
+   },
+   "pagina": 4,
+   "cita": "Trayecto de vía única electrificada con bloqueo automático (B.A.U.) y control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 101106; matrícula UIC 967191011063; 10 coches; masa remolcada 418 Tm.",
+    "averia": "No se produjeron daños; funcionó correctamente; velocidad al actuar la seta de emergencia: 140 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Tránsito de persona por vía no autorizada",
+    "Vallado con rotura y paso vicioso",
+    "Lado derecho de vía sin vallado",
+    "Persona caminaba de espaldas al tren"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El 24 de mayo de 2008, a las 16:48 horas, el tren de viajeros de larga distancia 1183 de Renfe Operadora, formado por el automotor 101106 con 10 coches y una masa remolcada de 418 Tm, se aproximaba a la estación de Villena por la línea 330 La Encina-Alicante. En el P.K. 396,675, entre la señal avanzada y la de entrada, arrolló a una mujer de 85 años que caminaba con un perro por la vía, de espaldas al tren, en un lugar no autorizado.\n\nEl maquinista hizo uso del silbato y aplicó el freno de emergencia, pero no pudo evitar el golpe; la mujer salió despedida de la caja de la vía y el tren quedó detenido en el andén. El conductor comunicó el suceso al Puesto de Mando de Valencia, que alertó a los servicios de emergencia y a las entidades implicadas. A las 17:03 horas se autorizó al tren a continuar la marcha al estar el cuerpo fuera de la vía; a las 17:25 horas la Guardia Civil autorizó la circulación marcha a la vista y a las 19:15 horas la autoridad judicial levantó el cadáver.\n\nNo se produjeron daños materiales; el tráfico ferroviario quedó suspendido durante 33 minutos y varios trenes sufrieron retrasos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEn las inmediaciones del lugar donde se produjo el arrollamiento existe un vallado que presenta \nuna rotura constituyendo un paso vicioso. \n\n## Página 7\n\n \n \n \nInvestigación del accidente \nnº 0017/2008 ocurrido el 24.05.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final  \n \n \nIF-240508-300908-CIAF \n \n \nPág. 7 de 9\nSegún el registrador de seguridad del automotor, el tren circulaba a una velocidad inferior a la \nmáxima permitida en ese tramo. \nSegún lo declarado por el maquinista, ante la presencia de la víctima sobre la vía, hizo uso del \nsilbato y posteriormente actuó sobre el freno de emergencia, por lo que la actuación del maquinista \nfue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasas de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario. \nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \n Tanto el funcionamiento de la infraestructura como la actuación del maquinista, ajustados a la \nnormativa, no influyeron en el desarrollo de los hechos. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \n- El accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado para ello.",
+   "pagina": 6,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "El tránsito de la víctima por un lugar no autorizado para ello.",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado para",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Rotura del vallado que constituía un paso vicioso.",
+    "Lado derecho de la vía no vallado."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Reforzar el vallado.",
+     "destinatario": null
+    },
+    {
+     "texto": "Fomentar campañas de educación y concienciación ciudadana sobre la prohibición y los peligros de circular por las instalaciones ferroviarias cuando no está autorizado.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 2,
+   "cita": "1- Reforzar el vallado.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "16:48",
+     "evento": "24-05-2008: El tren 1183 arrolla a una mujer que caminaba con un perro por la vía en el P.K. 396,675, entre la señal avanzada y la de entrada de Villena."
+    },
+    {
+     "hora": "17:03",
+     "evento": "Al estar el cuerpo fuera de la vía, se autoriza al tren 1183 a continuar la marcha a destino."
+    },
+    {
+     "hora": "17:25",
+     "evento": "La Guardia Civil autoriza la circulación marcha a la vista por el lugar del suceso."
+    },
+    {
+     "hora": "19:15",
+     "evento": "La autoridad judicial procede al levantamiento del cadáver."
+    },
+    {
+     "hora": "10:19",
+     "evento": "26-05-2008: El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF mediante mensaje de telefonía móvil."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0017/2008",
+ "expediente": "0017/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de una persona por un tren en Villena (Alicante), línea 330 La Encina-Alicante",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-240508-300908-CIAF_La Encina-Alicante.md"
+}

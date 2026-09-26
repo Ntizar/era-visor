@@ -1,0 +1,981 @@
+{
+ "id": "ES 23.01.2014 IF_230114_270115_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/1984B323-6369-4937-9A47-36C5DBBA0A37/129129/IF230114270115CIAF.pdf",
+ "pdf": "pdfs/ES/ES 23.01.2014 IF_230114_270115_CIAF.pdf",
+ "md5_pdf": "a8ac1f3cea1d426efcea7e6b7889459c",
+ "paginas_md": 23,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 21,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 5,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "05/14-1",
+     "Recomendación": "Se reitera la recomendación 43/13-1: “Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).”"
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 23,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "05/14-1",
+     "Recomendación": "Se reitera la recomendación 43/13-1: “Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).”"
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0005/2014",
+   "pagina": 1,
+   "cita": "nº 0005/2014 ocurrido el 23.01.2014",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 23 de enero de 2014 a las 11:43, el tren de viajeros L.D. 282 de Renfe Operadora (Irún-Vigo-Guixar) arrolló una plataforma de trabajos de mantenimiento en el PK 422+950 de la línea 100, entre Calzada de Bureba y Briviesca (Burgos). El accidente se produjo porque el jefe del CTC de Miranda de Ebro bloqueó por error la vía I en lugar de la vía II, que era la concedida por telefonema al encargado de trabajos. No hubo daños personales. Los daños materiales ascendieron a 41.780 € en material rodante y 2.977 € en infraestructura. La vía II quedó interceptada durante 272 minutos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2014-01-23",
+    "hora": "11:43:53",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Calzada de Bureba (PK 428+180) / Briviesca (PK 416+700)",
+     "pk": "422+950",
+     "linea": "100 Hendaya a Madrid-Chamartín",
+     "provincia": "Burgos",
+     "descripcion_lugar": "Plena vía II, tramo Briviesca-Pancorbo, municipio de Fuentebureba. Zona de alineación recta de 1.471 metros, en rampa de 9,40 milésimas con cambio de rasante en PK 423+020."
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 23 de enero de 2014 a las 11:43 horas, en el PK 422+950 de la línea 100 Hendaya a Madrid-",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante (locomotora + 2 coches): 41.780 €. Infraestructura (vía e instalaciones): 2.977 €. Total: 44.757 €.",
+    "afectacion_servicio": "Vía II interceptada de 11:43 a 16:15 (272 minutos). Tren 282: 190 min de retraso. 2 trenes de larga distancia: 36 min total. 9 trenes de mercancías: 486 min total. 4 trenes de media distancia: 59 min total. Circulación por vía I en marcha a la vista entre PK 422+300 y 422+500 durante la anormalidad."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del jefe del CTC de Miranda de Ebro al bloquear por error la vía I entre Calzada de Bureba y Briviesca en lugar de la vía II, que era la realmente concedida por telefonema al encargado de trabajos. La vía II quedó expedita y el tren 282 circuló por ella con señales en vía libre hasta arrollar la plataforma.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Carga de trabajo del jefe del CTC: varios cortes de vía en el turno y seis trenes en la banda, lo que pudo contribuir a la confusión.",
+    "No uso de barra de shuntado (útiles de cortocircuitado): aunque no era obligatorio según la Consigna C Experimental nº 58, su utilización como medida de protección de los trabajos podría haber evitado el suceso.",
+    "La Consigna C Experimental nº 58 no prevé el uso obligatorio de protecciones mediante útiles de cortocircuitado para este tipo de trabajos con interrupción de la circulación sin tren de trabajos."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ausencia de un sistema de protección redundante (shunt) que impidiera la circulación de trenes por una vía con trabajos de mantenimiento activos.",
+    "Posibilidad de error humano en la operación de bloqueo sin verificación cruzada efectiva en el sistema CTC.",
+    "Antecedentes de sucesos similares por fallo humano del CTC al establecer itinerarios (Socuéllamos 2012, exp. 22/2012; Martorell 2013, exp. 43/2013)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Se reitera la recomendación 43/13-1: “Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).”",
+    "Se reitera la recomendación 43/13-1: “Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).”"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "282 de la empresa ferroviaria Renfe Operadora, con origen Irún y destino Vigo-Guixar, circula por la",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2014-01-23",
+   "pagina": 5,
+   "cita": "El día 23 de enero de 2014 a las 11:43 horas, en el PK 422+950 de la línea 100 Hendaya a Madrid-",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "11:43:53",
+   "pagina": 14,
+   "cita": "A las 11:43:53 horas en el PK 422+950, se produce la colisión con la plataforma de",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Calzada de Bureba (PK 428+180) / Briviesca (PK 416+700)",
+    "pk": "422+950",
+    "linea": "100 Hendaya a Madrid-Chamartín",
+    "provincia": "Burgos",
+    "descripcion_lugar": "Plena vía II, tramo Briviesca-Pancorbo, municipio de Fuentebureba. Zona de alineación recta de 1.471 metros, en rampa de 9,40 milésimas con cambio de rasante en PK 423+020."
+   },
+   "pagina": 5,
+   "cita": "100 Hendaya a Madrid-Chamartín.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Tramo entre Calzada de Bureba y Briviesca",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 252-023 (UIC 95710250237) + 5 coches. Longitud 132 m, peso 250 t. Tren tipo 160A.",
+    "averia": "Daños en locomotora y dos primeros coches. Valoración Renfe: 41.780 €.",
+    "mantenimiento": "Equipos de seguridad del tren funcionaron correctamente según el registrador de eventos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 23 de enero de 2014, entre las estaciones de Calzada de Bureba y Briviesca (línea 100 Hendaya-Madrid Chamartín, provincia de Burgos), estaban programados trabajos de mantenimiento en la vía II consistentes en sustitución de cupones de carril con soldadura aluminotérmica. A las 11:37, el encargado de trabajos solicitó al jefe del CTC de Miranda de Ebro el bloqueo de la vía II mediante telefonema nº 95, y a las 11:38 el jefe del CTC lo concedió mediante telefonema nº 110 hasta las 13:15. Sin embargo, al realizar la operación de bloqueo en el sistema, el jefe del CTC bloqueó por error la vía I (CV E1 de Calzada de Bureba y CV E4 de Briviesca) en lugar de la vía II, manteniendo la vía II expedita para circulación.\n\nEl tren de viajeros L.D. 282 de Renfe Operadora, con locomotora 252-023 y 5 coches, circulaba por la vía II con paso directo por Calzada de Bureba y señales en vía libre. Tras salir de la estación, incrementó progresivamente su velocidad hasta alcanzar 147 km/h. El maquinista se percató de la presencia de trabajadores en la vía II, hizo uso del silbato y, al ver que los operarios se retiraban, observó una plataforma portaherramientas sobre la vía. Aplicó el freno de emergencia pero no pudo evitar el arrollamiento a 126 km/h en el PK 422+950. El tren quedó detenido en el PK 422+350.\n\nNo se produjeron daños personales. El encargado de trabajos, al ver aproximarse el tren, ordenó al personal retirarse de la vía e hizo señales de parada al maquinista. A las 11:50, el jefe del CTC llamó al encargado de trabajos admitiendo su error: había concedido la vía II pero se había liado con la vía I y no se había dado cuenta del tren 282.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Calzada de Bureba (PK 428+180) / Briviesca (PK 416+700)",
+    "pk": "422+950",
+    "linea": "100 Hendaya a Madrid-Chamartín",
+    "provincia": "Burgos",
+    "descripcion_lugar": "Plena vía II, tramo Briviesca-Pancorbo, municipio de Fuentebureba. Zona de alineación recta de 1.471 metros, en rampa de 9,40 milésimas con cambio de rasante en PK 423+020."
+   },
+   "pagina": 5,
+   "cita": "100 Hendaya a Madrid-Chamartín.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante (locomotora + 2 coches): 41.780 €. Infraestructura (vía e instalaciones): 2.977 €. Total: 44.757 €.",
+    "afectacion_servicio": "Vía II interceptada de 11:43 a 16:15 (272 minutos). Tren 282: 190 min de retraso. 2 trenes de larga distancia: 36 min total. 9 trenes de mercancías: 486 min total. 4 trenes de media distancia: 59 min total. Circulación por vía I en marcha a la vista entre PK 422+300 y 422+500 durante la anormalidad."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Jefe del CTC de Miranda de Ebro (matrícula 8893638)",
+     "implicacion": "Bloqueó por error la vía I en lugar de la vía II concedida por telefonema. No se percató de que el tren 282 circulaba por la vía II. Reconoció el error en su declaración y en la llamada al encargado de trabajos."
+    },
+    {
+     "rol": "Encargado de trabajos (matrícula 2850261)",
+     "implicacion": "Solicitó correctamente el bloqueo de vía II. Al ver aproximarse el tren, ordenó al personal retirarse e hizo señales de parada al maquinista. Informó al puesto de mando tras el suceso."
+    },
+    {
+     "rol": "Maquinista del tren 282 (matrícula 9712209)",
+     "implicacion": "Se percató de los trabajadores en vía, usó el silbato, vio la plataforma y aplicó freno de emergencia sin poder evitar el arrollamiento. Prueba de alcoholemia negativa."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "282",
+     "tipo": "Larga distancia (L.D.), tipo 160A, velocidad máxima 160 km/h",
+     "operador": "Renfe Operadora",
+     "danos": "Daños en locomotora y dos primeros coches de viajeros. Valoración: 41.780 €. Retraso de 190 minutos."
+    }
+   ],
+   "pagina": 5,
+   "cita": "282 de la empresa ferroviaria Renfe Operadora, con origen Irún y destino Vigo-Guixar, circula por la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 252-023 (UIC 95710250237) + 5 coches. Longitud 132 m, peso 250 t. Tren tipo 160A.",
+    "averia": "Daños en locomotora y dos primeros coches. Valoración Renfe: 41.780 €.",
+    "mantenimiento": "Equipos de seguridad del tren funcionaron correctamente según el registrador de eventos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (BAB) con CTC desde Miranda de Ebro. Señales E2 (entrada) y S2/2 (salida) de Calzada de Bureba en vía libre. Balizas ASFA.",
+    "tipo_via": "Vía doble electrificada de ancho ibérico. Carril de 54 kg/ml sobre traviesa monobloque de hormigón.",
+    "velocidad_maxima": "150 km/h (Cuadro de Velocidades Máximas en el sentido de la marcha)",
+    "ancho": "Ibérico (1.668 mm)",
+    "electrificacion": "Electrificada",
+    "estado_via": "Vía II con trabajos de sustitución de cupones de carril con soldadura aluminotérmica. Vía I bloqueada por error (debía ser la vía II).",
+    "otro": "Paso a nivel en PK 427+946 protegido. Cambio de rasante en PK 423+020. Alineación recta de 1.471 m en zona del suceso. Rampa de 9,40 milésimas (640 m) y pendiente de 3,29 milésimas (70 m)."
+   },
+   "pagina": 9,
+   "cita": "El tramo donde ocurre el suceso es de vía doble electrificada de ancho ibérico, realizándose la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático banalizado (BAB) con CTC desde Miranda de Ebro. Señales E2 (entrada) y S2/2 (salida) de Calzada de Bureba en vía libre. Balizas ASFA.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad A.",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante (locomotora + 2 coches): 41.780 €. Infraestructura (vía e instalaciones): 2.977 €. Total: 44.757 €.",
+    "afectacion_servicio": "Vía II interceptada de 11:43 a 16:15 (272 minutos). Tren 282: 190 min de retraso. 2 trenes de larga distancia: 36 min total. 9 trenes de mercancías: 486 min total. 4 trenes de media distancia: 59 min total. Circulación por vía I en marcha a la vista entre PK 422+300 y 422+500 durante la anormalidad."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante (locomotora + 2 coches): 41.780 €. Infraestructura (vía e instalaciones): 2.977 €. Total: 44.757 €.",
+    "afectacion_servicio": "Vía II interceptada de 11:43 a 16:15 (272 minutos). Tren 282: 190 min de retraso. 2 trenes de larga distancia: 36 min total. 9 trenes de mercancías: 486 min total. 4 trenes de media distancia: 59 min total. Circulación por vía I en marcha a la vista entre PK 422+300 y 422+500 durante la anormalidad."
+   },
+   "pagina": 19,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante (locomotora + 2 coches): 41.780 €. Infraestructura (vía e instalaciones): 2.977 €. Total: 44.757 €.",
+    "afectacion_servicio": "Vía II interceptada de 11:43 a 16:15 (272 minutos). Tren 282: 190 min de retraso. 2 trenes de larga distancia: 36 min total. 9 trenes de mercancías: 486 min total. 4 trenes de media distancia: 59 min total. Circulación por vía I en marcha a la vista entre PK 422+300 y 422+500 durante la anormalidad."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252-023 (UIC 95710250237) + 5 coches. Longitud 132 m, peso 250 t. Tren tipo 160A.",
+    "averia": "Daños en locomotora y dos primeros coches. Valoración Renfe: 41.780 €.",
+    "mantenimiento": "Equipos de seguridad del tren funcionaron correctamente según el registrador de eventos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (BAB) con CTC desde Miranda de Ebro. Señales E2 (entrada) y S2/2 (salida) de Calzada de Bureba en vía libre. Balizas ASFA.",
+    "tipo_via": "Vía doble electrificada de ancho ibérico. Carril de 54 kg/ml sobre traviesa monobloque de hormigón.",
+    "velocidad_maxima": "150 km/h (Cuadro de Velocidades Máximas en el sentido de la marcha)",
+    "ancho": "Ibérico (1.668 mm)",
+    "electrificacion": "Electrificada",
+    "estado_via": "Vía II con trabajos de sustitución de cupones de carril con soldadura aluminotérmica. Vía I bloqueada por error (debía ser la vía II).",
+    "otro": "Paso a nivel en PK 427+946 protegido. Cambio de rasante en PK 423+020. Alineación recta de 1.471 m en zona del suceso. Rampa de 9,40 milésimas (640 m) y pendiente de 3,29 milésimas (70 m)."
+   },
+   "pagina": 9,
+   "cita": "El tramo donde ocurre el suceso es de vía doble electrificada de ancho ibérico, realizándose la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Buenas condiciones atmosféricas: nublado y con buena visibilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Burgos",
+    "municipio": null,
+    "estacion": "Calzada de Bureba"
+   },
+   "pagina": 5,
+   "cita": "Chamartín, entre las estaciones de Calzada de Bureba y Briviesca (Burgos), el tren de viajeros de L.D.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Buenas condiciones atmosféricas: nublado y con buena visibilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático banalizado (BAB) con CTC desde Miranda de Ebro. Señales E2 (entrada) y S2/2 (salida) de Calzada de Bureba en vía libre. Balizas ASFA.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (BAB) con CTC desde Miranda de Ebro. Señales E2 (entrada) y S2/2 (salida) de Calzada de Bureba en vía libre. Balizas ASFA.",
+    "tipo_via": "Vía doble electrificada de ancho ibérico. Carril de 54 kg/ml sobre traviesa monobloque de hormigón.",
+    "velocidad_maxima": "150 km/h (Cuadro de Velocidades Máximas en el sentido de la marcha)",
+    "ancho": "Ibérico (1.668 mm)",
+    "electrificacion": "Electrificada",
+    "estado_via": "Vía II con trabajos de sustitución de cupones de carril con soldadura aluminotérmica. Vía I bloqueada por error (debía ser la vía II).",
+    "otro": "Paso a nivel en PK 427+946 protegido. Cambio de rasante en PK 423+020. Alineación recta de 1.471 m en zona del suceso. Rampa de 9,40 milésimas (640 m) y pendiente de 3,29 milésimas (70 m)."
+   },
+   "pagina": 9,
+   "cita": "El tramo donde ocurre el suceso es de vía doble electrificada de ancho ibérico, realizándose la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad A.",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252-023 (UIC 95710250237) + 5 coches. Longitud 132 m, peso 250 t. Tren tipo 160A.",
+    "averia": "Daños en locomotora y dos primeros coches. Valoración Renfe: 41.780 €.",
+    "mantenimiento": "Equipos de seguridad del tren funcionaron correctamente según el registrador de eventos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Carga de trabajo del jefe del CTC: varios cortes de vía en el turno y seis trenes en la banda, lo que pudo contribuir a la confusión.",
+    "No uso de barra de shuntado (útiles de cortocircuitado): aunque no era obligatorio según la Consigna C Experimental nº 58, su utilización como medida de protección de los trabajos podría haber evitado el suceso.",
+    "La Consigna C Experimental nº 58 no prevé el uso obligatorio de protecciones mediante útiles de cortocircuitado para este tipo de trabajos con interrupción de la circulación sin tren de trabajos."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Por parte de Adif \nEl jefe del CTC (responsable de circulación) y el encargado de trabajos están habilitados conforme a la \nOrden FOM/2872/2010, de 5 de noviembre, por la que se determinan las condiciones para la \nobtención de títulos y habilitaciones que permiten el ejercicio de las funciones del personal ferroviario \nrelacionadas con la seguridad. \nEl jefe del CTC tiene una antigüedad en el cargo desde el 01/07/2001. Realizó su último reciclaje \nformativo el 06/11/2012 y su último reconocimiento médico y psicotécnico el 18/04/2013, conforme a \nla normativa vigente. \nEl encargado de trabajos tiene una antigüedad en el cargo desde el 09/02/2010. Realizó su último \nreciclaje formativo el 06/11/2012 y su último reconocimiento médico y psicotécnico el 15/06/2010, \nconforme a la normativa vigente. \nPor parte de Renfe Operadora \nEl maquinista del tren 282 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene una antigüedad en el cargo desde el 26/09/1991. Realizó su último reciclaje formativo el \n16/10/2012 y su último reconocimiento médico y psicotécnico el 20/11/2013, conforme a la \nnormativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 13,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 23 de enero de 2014, entre las estaciones de Calzada de Bureba y Briviesca (línea 100 Hendaya-Madrid Chamartín, provincia de Burgos), estaban programados trabajos de mantenimiento en la vía II consistentes en sustitución de cupones de carril con soldadura aluminotérmica. A las 11:37, el encargado de trabajos solicitó al jefe del CTC de Miranda de Ebro el bloqueo de la vía II mediante telefonema nº 95, y a las 11:38 el jefe del CTC lo concedió mediante telefonema nº 110 hasta las 13:15. Sin embargo, al realizar la operación de bloqueo en el sistema, el jefe del CTC bloqueó por error la vía I (CV E1 de Calzada de Bureba y CV E4 de Briviesca) en lugar de la vía II, manteniendo la vía II expedita para circulación.\n\nEl tren de viajeros L.D. 282 de Renfe Operadora, con locomotora 252-023 y 5 coches, circulaba por la vía II con paso directo por Calzada de Bureba y señales en vía libre. Tras salir de la estación, incrementó progresivamente su velocidad hasta alcanzar 147 km/h. El maquinista se percató de la presencia de trabajadores en la vía II, hizo uso del silbato y, al ver que los operarios se retiraban, observó una plataforma portaherramientas sobre la vía. Aplicó el freno de emergencia pero no pudo evitar el arrollamiento a 126 km/h en el PK 422+950. El tren quedó detenido en el PK 422+350.\n\nNo se produjeron daños personales. El encargado de trabajos, al ver aproximarse el tren, ordenó al personal retirarse de la vía e hizo señales de parada al maquinista. A las 11:50, el jefe del CTC llamó al encargado de trabajos admitiendo su error: había concedido la vía II pero se había liado con la vía I y no se había dado cuenta del tren 282.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del jefe del CTC de Miranda de Ebro al bloquear por error la vía I entre Calzada de Bureba y Briviesca en lugar de la vía II, que era la realmente concedida por telefonema al encargado de trabajos. La vía II quedó expedita y el tren 282 circuló por ella con señales en vía libre hasta arrollar la plataforma.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Carga de trabajo del jefe del CTC: varios cortes de vía en el turno y seis trenes en la banda, lo que pudo contribuir a la confusión.",
+    "No uso de barra de shuntado (útiles de cortocircuitado): aunque no era obligatorio según la Consigna C Experimental nº 58, su utilización como medida de protección de los trabajos podría haber evitado el suceso.",
+    "La Consigna C Experimental nº 58 no prevé el uso obligatorio de protecciones mediante útiles de cortocircuitado para este tipo de trabajos con interrupción de la circulación sin tren de trabajos."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Se reitera la recomendación 43/13-1: “Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).”",
+    "Se reitera la recomendación 43/13-1: “Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).”"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "11:37:00",
+     "evento": "El encargado de trabajos solicita bloqueo de vía II entre Calzada de Bureba y Briviesca hasta las 13:15 (telefonema nº 95)"
+    },
+    {
+     "hora": "11:38:00",
+     "evento": "El jefe del CTC de Miranda de Ebro concede el bloqueo de vía II (telefonema nº 110). Anotación correcta en libro de bloqueos"
+    },
+    {
+     "hora": "11:38:44",
+     "evento": "Protección del paso a nivel PK 427+946 y establecimiento de itinerario de paso directo por vía II para el tren 282"
+    },
+    {
+     "hora": "11:38:58",
+     "evento": "EL ERROR: el jefe del CTC bloquea el CV E1 de Calzada de Bureba (vía I) en lugar de la vía II"
+    },
+    {
+     "hora": "11:39:07",
+     "evento": "EL ERROR: el jefe del CTC bloquea el CV E4 de Briviesca (vía I) en lugar de la vía II"
+    },
+    {
+     "hora": "11:40:32",
+     "evento": "El tren 282 pasa por la baliza de señal E2 (PK 429+073) en vía libre a 67 km/h"
+    },
+    {
+     "hora": "11:40:38",
+     "evento": "El tren 282 circula por vía II de Calzada de Bureba en paso directo"
+    },
+    {
+     "hora": "11:41:31",
+     "evento": "El tren 282 pasa por señal de salida S2/2 (PK 428+021) en vía libre a 81 km/h"
+    },
+    {
+     "hora": "11:41:49",
+     "evento": "El tren 282 ocupa el circuito de vía BV2 entre Calzada de Bureba y Briviesca"
+    },
+    {
+     "hora": "11:42:20",
+     "evento": "El tren 282 ocupa el circuito de vía BC2 donde se realizan los trabajos"
+    },
+    {
+     "hora": "11:43:43",
+     "evento": "El tren alcanza velocidad máxima de 147 km/h en PK 423+331"
+    },
+    {
+     "hora": "11:43:53",
+     "evento": "COLISIÓN: el tren arrolla la plataforma de trabajos en PK 422+950 a 126 km/h"
+    },
+    {
+     "hora": "11:43:57",
+     "evento": "Aplicación del freno de emergencia"
+    },
+    {
+     "hora": "11:44:27",
+     "evento": "El tren queda detenido en PK 422+350"
+    },
+    {
+     "hora": "11:50:00",
+     "evento": "El jefe del CTC llama al encargado de trabajos y admite su error de bloqueo"
+    },
+    {
+     "hora": "13:16:00",
+     "evento": "Adif comunica el suceso a la CIAF"
+    },
+    {
+     "hora": "16:15:00",
+     "evento": "Se retira la composición del tren 282 y se restablece la circulación por vía II"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0005/2014",
+ "expediente": "0005/14",
+ "anio": 2014,
+ "titulo": "Arrollamiento de plataforma portaherramientas por tren 282 entre Calzada de Bureba y Briviesca (Burgos)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 23.01.2014 IF_230114_270115_CIAF.md"
+}

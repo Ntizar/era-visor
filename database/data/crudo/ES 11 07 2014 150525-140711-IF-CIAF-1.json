@@ -1,0 +1,975 @@
+{
+ "id": "ES 11 07 2014 150525-140711-IF-CIAF-1",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/E6A3EAA8-B3B9-47E6-A86B-7BB42D803FAD/131699/150525140711IFCIAF.pdf",
+ "pdf": "pdfs/ES/ES 11 07 2014 150525-140711-IF-CIAF-1.pdf",
+ "md5_pdf": "1b5e7481f96410bfe70cd4a1e9d3f1df",
+ "paginas_md": 19,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 16,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 5,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+     "Número": "36/14-1",
+     "Recomendación": "Iniciar las gestiones encaminadas a la sustitución del actual paso entre andenes de la estación por un paso a distinto nivel."
+    },
+    {
+     "Destinatario final": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+     "Número": "36/14-2",
+     "Recomendación": "Mientras se mantenga el actual paso entre andenes, gestionar el refuerzo de la señalización del mismo, colocando carteles que recuerden a los peatones la necesidad de mirar y cerciorarse de que no se aproxima ningún tren."
+    },
+    {
+     "Destinatario final": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+     "Número": "36/14-3",
+     "Recomendación": "Impulsar la actividad del grupo de trabajo sobre la accidentabilidad en estaciones de la AESF."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 19,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+     "Número": "36/14-1",
+     "Recomendación": "Iniciar las gestiones encaminadas a la sustitución del actual paso entre andenes de la estación por un paso a distinto nivel."
+    },
+    {
+     "Destinatario final": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+     "Número": "36/14-2",
+     "Recomendación": "Mientras se mantenga el actual paso entre andenes, gestionar el refuerzo de la señalización del mismo, colocando carteles que recuerden a los peatones la necesidad de mirar y cerciorarse de que no se aproxima ningún tren."
+    },
+    {
+     "Destinatario final": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+     "Número": "36/14-3",
+     "Recomendación": "Impulsar la actividad del grupo de trabajo sobre la accidentabilidad en estaciones de la AESF."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0036/2014",
+   "pagina": 1,
+   "cita": "nº 0036/2014 ocurrido el 11.07.2014",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 11 de julio de 2014, a las 20:33 horas, el tren de cercanías 27141 (línea C-8B) de Renfe Operadora, procedente de Madrid Chamartín con destino Cercedilla, arrolló a una niña de 13 años que cruzaba en bicicleta por el paso entre andenes de la estación de Mataespesa de Alpedrete (PK 4+569). La menor falleció como consecuencia del impacto. El accidente se produjo por la invasión del gálibo de la vía por la víctima, al cruzar sin percatarse de la llegada del tren. El paso entre andenes carecía de señalización de advertencia y no existía alternativa de cruce a distinto nivel. Se formularon tres recomendaciones a la AESF.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2014-07-11",
+    "hora": "20:33",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Mataespesa de Alpedrete",
+     "pk": "4+569",
+     "linea": "110 Segovia a Villalba de Guadarrama",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Paso entre andenes tipo Strail situado frente al edificio de viajeros, en el PK 4+569 de la línea 110, tramo Villalba de Guadarrama - Cercedilla, municipio de Alpedrete. La estación cuenta con una vía general (vía 1) y una vía de apartado (vía 2). El paso entre andenes cruza ambas vías. No existe paso a distinto nivel. La alineación es en curva hacia la izquierda (sentido Segovia) con visibilidad reducida (menos de 150 m) por el lado Villalba al discurrir la vía en trinchera."
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 11 de julio de 2014 a las 20:33 horas el tren 27141 de cercanías (línea C-8B) de la empresa",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "Interrupción de la circulación entre Villalba de Guadarrama y Collado Mediano de 20:40 a 23:30 (2 h 50 min). Plan alternativo por carretera (autocar). Trenes de la C-8B rotaban en Villalba y se creó un tren lanzadera entre Cercedilla y Collado Villalba. 12 trenes de cercanías retrasados con un total de 172 minutos de retraso. 4 trenes de cercanías suprimidos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión del gálibo de la vía por la víctima, al cruzar por el paso entre andenes sin percatarse de la llegada del tren.",
+   "pagina": 5,
+   "cita": "Conclusión: El accidente se produjo por la invasión del gálibo de la vía por la víctima, al cruzar por el",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El paso entre andenes no disponía de carteles que recordaran a los peatones la necesidad de mirar a ambos lados antes de cruzar.",
+    "El trazado de la línea divide la población en dos (efecto barrera), siendo el paso entre andenes el único punto de cruce, lo que genera un elevado tránsito de peatones no usuarios del tren.",
+    "No existía alternativa de paso a distinto nivel cercana (solo un paso superior carretero en la M-619 por el lado Cercedilla, no considerado alternativa para la zona de la estación).",
+    "Visibilidad reducida (menos de 150 metros) por el lado Villalba al discurrir la vía en trinchera hasta el comienzo del andén.",
+    "La víctima era una menor de 13 años que accedió a la estación por la cancela de la urbanización Los Berrocales y descendió la rampa del paso entre andenes sin detenerse."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Existencia de un grupo de trabajo sobre accidentabilidad en estaciones de la extinta DGF (iniciado en febrero de 2014) que aún no había producido resultados operativos suficientes.",
+    "Ausencia de un paso a distinto nivel en una estación donde el trazado ferroviario actúa como barrera urbanística."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Iniciar las gestiones encaminadas a la sustitución del actual paso entre andenes de la estación por un paso a distinto nivel.",
+    "Mientras se mantenga el actual paso entre andenes, gestionar el refuerzo de la señalización del mismo, colocando carteles que recuerden a los peatones la necesidad de mirar y cerciorarse de que no se aproxima ningún tren.",
+    "Impulsar la actividad del grupo de trabajo sobre la accidentabilidad en estaciones de la AESF.",
+    "Iniciar las gestiones encaminadas a la sustitución del actual paso entre andenes de la estación por un paso a distinto nivel.",
+    "Mientras se mantenga el actual paso entre andenes, gestionar el refuerzo de la señalización del mismo, colocando carteles que recuerden a los peatones la necesidad de mirar y cerciorarse de que no se aproxima ningún tren.",
+    "Impulsar la actividad del grupo de trabajo sobre la accidentabilidad en estaciones de la AESF."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "ferroviaria Renfe Operadora, procedente de Madrid Chamartín y destino Cercedilla, arrolla en la",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2014-07-11",
+   "pagina": 5,
+   "cita": "El día 11 de julio de 2014 a las 20:33 horas el tren 27141 de cercanías (línea C-8B) de la empresa",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "20:33",
+   "pagina": 5,
+   "cita": "El día 11 de julio de 2014 a las 20:33 horas el tren 27141 de cercanías (línea C-8B) de la empresa",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Mataespesa de Alpedrete",
+    "pk": "4+569",
+    "linea": "110 Segovia a Villalba de Guadarrama",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Paso entre andenes tipo Strail situado frente al edificio de viajeros, en el PK 4+569 de la línea 110, tramo Villalba de Guadarrama - Cercedilla, municipio de Alpedrete. La estación cuenta con una vía general (vía 1) y una vía de apartado (vía 2). El paso entre andenes cruza ambas vías. No existe paso a distinto nivel. La alineación es en curva hacia la izquierda (sentido Segovia) con visibilidad reducida (menos de 150 m) por el lado Villalba al discurrir la vía en trinchera."
+   },
+   "pagina": 5,
+   "cita": "accidentabilidad en estaciones de la AESF.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 110 Segovia a Villalba de Guadarrama",
+   "pagina": 6,
+   "cita": "estación de Mataespesa de Alpedrete (PK 4+569), de la línea 110 Segovia a Villalba de Guadarrama,",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Serie 450 (6 coches M-R-R-R-R-M), tipo 140, Nº UIC 967194500187, longitud 159 m, peso 481 t",
+    "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente. Velocidad inferior a la máxima permitida.",
+    "mantenimiento": "No se mencionan deficiencias de mantenimiento. Registrador de seguridad operativo y analizado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 11 de julio de 2014, a las 20:33 horas (hora del registrador del CTC), el tren 27141 de cercanías (línea C-8B) de Renfe Operadora, compuesto por un automotor eléctrico de la serie 450 de seis coches, entraba por la vía 1 de la estación de Mataespesa de Alpedrete (PK 4+569) de la línea 110 Segovia a Villalba de Guadarrama, con destino Cercedilla y procedente de Madrid Chamartín, para realizar parada comercial. El tren circulaba a una velocidad de unos 85 km/h a la altura de la señal de entrada E1 y reducía progresivamente por aplicación del freno de servicio.\n\nAl entrar en la estación, el maquinista hizo uso del silbato. Seguidamente observó a una niña de 13 años montada en bicicleta que cruzaba las vías desde vía 1 a vía 2 por el paso entre andenes tipo Strail, situado frente al edificio de viajeros. El paso entre andenes era el único medio de cruce entre los dos andenes y, dado que el trazado de la línea dividía la población en dos, era utilizado habitualmente por peatones no usuarios del tren. La niña accedió a la estación por la cancela de la urbanización Los Berrocales, bajó la rampa del paso entre andenes sin detenerse e irrumpió en la caja de la vía 1, quedándose detenida al percatarse de la llegada del tren, que se encontraba a unos 30 metros. Desde que entró por la cancela hasta detenerse en la vía transcurrieron 3 segundos.\n\nEl maquinista hizo uso del silbato por segunda vez a 51 km/h y aplicó el freno de servicio en apriete máximo a 47 km/h, pero no pudo evitar el arrollamiento. La niña intentó girar 180 grados para regresar al andén, logró acceder a él, pero el tren enganchó la rueda trasera de la bicicleta, arrastrando a la niña y a la bicicleta y golpeándolas entre el andén y el tren. La menor falleció como consecuencia del impacto. El tren quedó detenido a las 20:39:47 (hora del registrador) en el PK 4+750. No se produjeron daños materiales en el material rodante ni en la infraestructura.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Mataespesa de Alpedrete",
+    "pk": "4+569",
+    "linea": "110 Segovia a Villalba de Guadarrama",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Paso entre andenes tipo Strail situado frente al edificio de viajeros, en el PK 4+569 de la línea 110, tramo Villalba de Guadarrama - Cercedilla, municipio de Alpedrete. La estación cuenta con una vía general (vía 1) y una vía de apartado (vía 2). El paso entre andenes cruza ambas vías. No existe paso a distinto nivel. La alineación es en curva hacia la izquierda (sentido Segovia) con visibilidad reducida (menos de 150 m) por el lado Villalba al discurrir la vía en trinchera."
+   },
+   "pagina": 5,
+   "cita": "accidentabilidad en estaciones de la AESF.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "Interrupción de la circulación entre Villalba de Guadarrama y Collado Mediano de 20:40 a 23:30 (2 h 50 min). Plan alternativo por carretera (autocar). Trenes de la C-8B rotaban en Villalba y se creó un tren lanzadera entre Cercedilla y Collado Villalba. 12 trenes de cercanías retrasados con un total de 172 minutos de retraso. 4 trenes de cercanías suprimidos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 27141",
+     "implicacion": "Matrícula 1347053. Título B de conducción conforme a Orden FOM/2520/2006. Antigüedad en el cargo desde 11.09.1987. Último reciclaje formativo: 04.04.2014. Último reconocimiento médico y psicotécnico: 01.04.2013. Jornada del día 11: 7 h 35 min (4 h 37 min de conducción efectiva). Días 9 y 10: descanso. Pruebas de alcoholemia y drogas del 12 de julio a las 00:10: resultado negativo. Hizo uso del silbato a la entrada de la estación, vio a la niña, volvió a usar el silbato y aplicó el freno de emergencia sin poder evitar el arrollamiento. Comunicó el hecho al puesto de mando por radiotelefonía."
+    }
+   ],
+   "pagina": 8,
+   "cita": "El maquinista del tren 27141, con matrícula 1347053.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "27141",
+     "tipo": "Cercanías (línea C-8B), automotor eléctrico serie 450, 6 coches M-R-R-R-R-M, 159 m, 481 t, tipo 140 (vmax 140 km/h)",
+     "operador": "Renfe Operadora",
+     "danos": "No se produjeron daños materiales en el material rodante."
+    }
+   ],
+   "pagina": 5,
+   "cita": "El día 11 de julio de 2014 a las 20:33 horas el tren 27141 de cercanías (línea C-8B) de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Serie 450 (6 coches M-R-R-R-R-M), tipo 140, Nº UIC 967194500187, longitud 159 m, peso 481 t",
+    "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente. Velocidad inferior a la máxima permitida.",
+    "mantenimiento": "No se mencionan deficiencias de mantenimiento. Registrador de seguridad operativo y analizado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 7,
+   "cita": "de Infraestructuras Ferroviarias (Adif), a las 21:04 horas del 11 de julio de 2014, a través de mensaje",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático de vía única (BAU) con CTC, dependiente del puesto de mando de Madrid Chamartín. Señales de entrada en indicación de vía libre (L2-L3). Megafonía centralizada en funcionamiento y paneles luminosos informativos en cada vía que anuncian llegada, tiempo restante y destino. Videocámaras de vigilancia. El paso entre andenes NO disponía de carteles de advertencia a peatones.",
+    "tipo_via": "Vía única electrificada, ancho ibérico",
+    "velocidad_maxima": "90 km/h en el trayecto que incluye la estación (según cuadro de velocidades máximas)",
+    "ancho": "Ibérico",
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "No se mencionan defectos en el estado de la vía. La estación tiene vía 1 (general, andén 323 m) y vía 2 (apartado, andén 316 m). Paso entre andenes tipo Strail con pavimento de caucho, rampa delimitada por barandillas. No existe paso a distinto nivel.",
+    "otro": "Radiotelefonía digital tren-tierra modalidad C. La línea divide la población en dos (efecto barrera). El paso entre andenes es el único punto de cruce y es usado por peatones no usuarios del tren. Por el lado Madrid, visibilidad reducida (<150 m) por trinchera. Cerramiento con puerta metálica hacia urbanización Los Berrocales. Desfase horario de +6 minutos entre el registrador del tren y el del puesto de mando."
+   },
+   "pagina": 12,
+   "cita": "Radiotelefonía digital tren-tierra modalidad C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo Automático de vía única (BAU) con CTC, dependiente del puesto de mando de Madrid Chamartín. Señales de entrada en indicación de vía libre (L2-L3). Megafonía centralizada en funcionamiento y paneles luminosos informativos en cada vía que anuncian llegada, tiempo restante y destino. Videocámaras de vigilancia. El paso entre andenes NO disponía de carteles de advertencia a peatones.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía digital tren-tierra modalidad C.",
+   "pagina": 12,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "Interrupción de la circulación entre Villalba de Guadarrama y Collado Mediano de 20:40 a 23:30 (2 h 50 min). Plan alternativo por carretera (autocar). Trenes de la C-8B rotaban en Villalba y se creó un tren lanzadera entre Cercedilla y Collado Villalba. 12 trenes de cercanías retrasados con un total de 172 minutos de retraso. 4 trenes de cercanías suprimidos."
+   },
+   "pagina": 5,
+   "cita": "situado enfrente del edificio de viajeros de dicha estación. El tren hacía su entrada por la vía 1 y se",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "Interrupción de la circulación entre Villalba de Guadarrama y Collado Mediano de 20:40 a 23:30 (2 h 50 min). Plan alternativo por carretera (autocar). Trenes de la C-8B rotaban en Villalba y se creó un tren lanzadera entre Cercedilla y Collado Villalba. 12 trenes de cercanías retrasados con un total de 172 minutos de retraso. 4 trenes de cercanías suprimidos."
+   },
+   "pagina": 1,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "Interrupción de la circulación entre Villalba de Guadarrama y Collado Mediano de 20:40 a 23:30 (2 h 50 min). Plan alternativo por carretera (autocar). Trenes de la C-8B rotaban en Villalba y se creó un tren lanzadera entre Cercedilla y Collado Villalba. 12 trenes de cercanías retrasados con un total de 172 minutos de retraso. 4 trenes de cercanías suprimidos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 450 (6 coches M-R-R-R-R-M), tipo 140, Nº UIC 967194500187, longitud 159 m, peso 481 t",
+    "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente. Velocidad inferior a la máxima permitida.",
+    "mantenimiento": "No se mencionan deficiencias de mantenimiento. Registrador de seguridad operativo y analizado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático de vía única (BAU) con CTC, dependiente del puesto de mando de Madrid Chamartín. Señales de entrada en indicación de vía libre (L2-L3). Megafonía centralizada en funcionamiento y paneles luminosos informativos en cada vía que anuncian llegada, tiempo restante y destino. Videocámaras de vigilancia. El paso entre andenes NO disponía de carteles de advertencia a peatones.",
+    "tipo_via": "Vía única electrificada, ancho ibérico",
+    "velocidad_maxima": "90 km/h en el trayecto que incluye la estación (según cuadro de velocidades máximas)",
+    "ancho": "Ibérico",
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "No se mencionan defectos en el estado de la vía. La estación tiene vía 1 (general, andén 323 m) y vía 2 (apartado, andén 316 m). Paso entre andenes tipo Strail con pavimento de caucho, rampa delimitada por barandillas. No existe paso a distinto nivel.",
+    "otro": "Radiotelefonía digital tren-tierra modalidad C. La línea divide la población en dos (efecto barrera). El paso entre andenes es el único punto de cruce y es usado por peatones no usuarios del tren. Por el lado Madrid, visibilidad reducida (<150 m) por trinchera. Cerramiento con puerta metálica hacia urbanización Los Berrocales. Desfase horario de +6 minutos entre el registrador del tren y el del puesto de mando."
+   },
+   "pagina": 12,
+   "cita": "Radiotelefonía digital tren-tierra modalidad C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "En el momento del suceso no existían condiciones meteorológicas adversas.",
+   "pagina": 13,
+   "cita": "En el momento del suceso no existían condiciones meteorológicas adversas.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": "Mataespesa de Alpedrete"
+   },
+   "pagina": 5,
+   "cita": "ferroviaria Renfe Operadora, procedente de Madrid Chamartín y destino Cercedilla, arrolla en la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "En el momento del suceso no existían condiciones meteorológicas adversas.",
+   "pagina": 13,
+   "cita": "En el momento del suceso no existían condiciones meteorológicas adversas.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo Automático de vía única (BAU) con CTC, dependiente del puesto de mando de Madrid Chamartín. Señales de entrada en indicación de vía libre (L2-L3). Megafonía centralizada en funcionamiento y paneles luminosos informativos en cada vía que anuncian llegada, tiempo restante y destino. Videocámaras de vigilancia. El paso entre andenes NO disponía de carteles de advertencia a peatones.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático de vía única (BAU) con CTC, dependiente del puesto de mando de Madrid Chamartín. Señales de entrada en indicación de vía libre (L2-L3). Megafonía centralizada en funcionamiento y paneles luminosos informativos en cada vía que anuncian llegada, tiempo restante y destino. Videocámaras de vigilancia. El paso entre andenes NO disponía de carteles de advertencia a peatones.",
+    "tipo_via": "Vía única electrificada, ancho ibérico",
+    "velocidad_maxima": "90 km/h en el trayecto que incluye la estación (según cuadro de velocidades máximas)",
+    "ancho": "Ibérico",
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "No se mencionan defectos en el estado de la vía. La estación tiene vía 1 (general, andén 323 m) y vía 2 (apartado, andén 316 m). Paso entre andenes tipo Strail con pavimento de caucho, rampa delimitada por barandillas. No existe paso a distinto nivel.",
+    "otro": "Radiotelefonía digital tren-tierra modalidad C. La línea divide la población en dos (efecto barrera). El paso entre andenes es el único punto de cruce y es usado por peatones no usuarios del tren. Por el lado Madrid, visibilidad reducida (<150 m) por trinchera. Cerramiento con puerta metálica hacia urbanización Los Berrocales. Desfase horario de +6 minutos entre el registrador del tren y el del puesto de mando."
+   },
+   "pagina": 12,
+   "cita": "Radiotelefonía digital tren-tierra modalidad C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía digital tren-tierra modalidad C.",
+   "pagina": 12,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 450 (6 coches M-R-R-R-R-M), tipo 140, Nº UIC 967194500187, longitud 159 m, peso 481 t",
+    "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente. Velocidad inferior a la máxima permitida.",
+    "mantenimiento": "No se mencionan deficiencias de mantenimiento. Registrador de seguridad operativo y analizado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Niña cruza sin percatarse del tren",
+    "Paso entre andenes sin carteles",
+    "Único punto para cruzar vías",
+    "No alternativa de cruce"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 27141 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene una antigüedad en el cargo desde el 11.09.1987. \n\n## Página 14\n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0036/2014 ocurrido el 11.07.2014 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n150525-140711-IF-CIAF.doc \n \n \nPág. 14 de 19\nRealizó su último reciclaje formativo el 04.04.2014 y su último reconocimiento médico y psicotécnico el \n01.04.2013, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 13,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 11 de julio de 2014, a las 20:33 horas (hora del registrador del CTC), el tren 27141 de cercanías (línea C-8B) de Renfe Operadora, compuesto por un automotor eléctrico de la serie 450 de seis coches, entraba por la vía 1 de la estación de Mataespesa de Alpedrete (PK 4+569) de la línea 110 Segovia a Villalba de Guadarrama, con destino Cercedilla y procedente de Madrid Chamartín, para realizar parada comercial. El tren circulaba a una velocidad de unos 85 km/h a la altura de la señal de entrada E1 y reducía progresivamente por aplicación del freno de servicio.\n\nAl entrar en la estación, el maquinista hizo uso del silbato. Seguidamente observó a una niña de 13 años montada en bicicleta que cruzaba las vías desde vía 1 a vía 2 por el paso entre andenes tipo Strail, situado frente al edificio de viajeros. El paso entre andenes era el único medio de cruce entre los dos andenes y, dado que el trazado de la línea dividía la población en dos, era utilizado habitualmente por peatones no usuarios del tren. La niña accedió a la estación por la cancela de la urbanización Los Berrocales, bajó la rampa del paso entre andenes sin detenerse e irrumpió en la caja de la vía 1, quedándose detenida al percatarse de la llegada del tren, que se encontraba a unos 30 metros. Desde que entró por la cancela hasta detenerse en la vía transcurrieron 3 segundos.\n\nEl maquinista hizo uso del silbato por segunda vez a 51 km/h y aplicó el freno de servicio en apriete máximo a 47 km/h, pero no pudo evitar el arrollamiento. La niña intentó girar 180 grados para regresar al andén, logró acceder a él, pero el tren enganchó la rueda trasera de la bicicleta, arrastrando a la niña y a la bicicleta y golpeándolas entre el andén y el tren. La menor falleció como consecuencia del impacto. El tren quedó detenido a las 20:39:47 (hora del registrador) en el PK 4+750. No se produjeron daños materiales en el material rodante ni en la infraestructura.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión del gálibo de la vía por la víctima, al cruzar por el paso entre andenes sin percatarse de la llegada del tren.",
+   "pagina": 5,
+   "cita": "Conclusión: El accidente se produjo por la invasión del gálibo de la vía por la víctima, al cruzar por el",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El paso entre andenes no disponía de carteles que recordaran a los peatones la necesidad de mirar a ambos lados antes de cruzar.",
+    "El trazado de la línea divide la población en dos (efecto barrera), siendo el paso entre andenes el único punto de cruce, lo que genera un elevado tránsito de peatones no usuarios del tren.",
+    "No existía alternativa de paso a distinto nivel cercana (solo un paso superior carretero en la M-619 por el lado Cercedilla, no considerado alternativa para la zona de la estación).",
+    "Visibilidad reducida (menos de 150 metros) por el lado Villalba al discurrir la vía en trinchera hasta el comienzo del andén.",
+    "La víctima era una menor de 13 años que accedió a la estación por la cancela de la urbanización Los Berrocales y descendió la rampa del paso entre andenes sin detenerse."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Iniciar las gestiones encaminadas a la sustitución del actual paso entre andenes de la estación por un paso a distinto nivel.",
+    "Mientras se mantenga el actual paso entre andenes, gestionar el refuerzo de la señalización del mismo, colocando carteles que recuerden a los peatones la necesidad de mirar y cerciorarse de que no se aproxima ningún tren.",
+    "Impulsar la actividad del grupo de trabajo sobre la accidentabilidad en estaciones de la AESF.",
+    "Iniciar las gestiones encaminadas a la sustitución del actual paso entre andenes de la estación por un paso a distinto nivel.",
+    "Mientras se mantenga el actual paso entre andenes, gestionar el refuerzo de la señalización del mismo, colocando carteles que recuerden a los peatones la necesidad de mirar y cerciorarse de que no se aproxima ningún tren.",
+    "Impulsar la actividad del grupo de trabajo sobre la accidentabilidad en estaciones de la AESF."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "20:33",
+     "evento": "Hora del suceso según el registrador del CTC. El tren arrolla a la víctima en el paso entre andenes."
+    },
+    {
+     "hora": "20:38:57",
+     "evento": "Hora del registrador del tren: el tren 27141 pasa por la baliza de pie de la señal de entrada E1 (PK 3+890) en indicación L2-L3 (vía libre) a 85 km/h."
+    },
+    {
+     "hora": "20:39:12",
+     "evento": "Primer uso del silbato por el maquinista al entrar en la estación, circulando a 84 km/h."
+    },
+    {
+     "hora": "20:39:32",
+     "evento": "Segundo uso del silbato, circulando a 51 km/h. Irrupción de la víctima en la vía 1. Se produce el arrollamiento."
+    },
+    {
+     "hora": "20:39:36",
+     "evento": "El maquinista aplica el freno de servicio en apriete máximo a 47 km/h."
+    },
+    {
+     "hora": "20:39:47",
+     "evento": "El tren queda detenido en el PK 4+750 tras el arrollamiento."
+    },
+    {
+     "hora": "20:40",
+     "evento": "Se suspende la circulación entre Villalba de Guadarrama y Collado Mediano. Se establece plan alternativo por carretera."
+    },
+    {
+     "hora": "21:04",
+     "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF por telefonía móvil."
+    },
+    {
+     "hora": "23:30",
+     "evento": "Se restablece la circulación entre Villalba de Guadarrama y Collado Mediano."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0036/2014",
+ "expediente": "0036/14",
+ "anio": 2014,
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0036/2014 OCURRIDO EL DÍA 11.07.2014 EN LA ESTACIÓN DE MATAESPESA DE ALPEDRETE (MADRID)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 11 07 2014 150525-140711-IF-CIAF-1.md"
+}

@@ -1,0 +1,948 @@
+{
+ "id": "IF-121008-240209-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/B09B91BB-263C-4FC6-A998-2DC4735C95E3/46976/IF121008240209CIAF.pdf",
+ "pdf": "pdfs/ES/IF-121008-240209-CIAF.pdf",
+ "md5_pdf": "d9165bd8eec2c4d77e8eb737fb8b5bf6",
+ "paginas_md": 12,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 8,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0048/2008",
+   "pagina": 12,
+   "cita": "febrero de 2009, analizado el expediente nº 0048/2008 del accidente acaecido en la estación de",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 12 de octubre de 2008, a las 13:15 horas, el tren de mercancías LL-902 de Feve arrolló a una persona que caminaba por la vía 3 de la playa de vías de la estación de Pravia (línea 11 Ferrol-Gijón, P.K. 0,287) mientras realizaba maniobras de formación de trenes. La víctima, un hombre de 40 años empleado de limpieza del Ayuntamiento de Pravia, utilizaba un paso vicioso no autorizado para cruzar las vías. El maquinista no percibió la presencia de la persona hasta oír un golpe seco en la locomotora 1915. No se produjeron daños materiales ni al medio ambiente. La CIAF concluyó que el accidente tuvo su origen en el tránsito de la víctima ocupando la vía sin autorización.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-10-12",
+    "hora": "13:15",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Pravia",
+     "pk": "0,287",
+     "linea": "11 Ferrol-Gijón",
+     "provincia": "Asturias",
+     "descripcion_lugar": "Playa de vías de la estación de Pravia, vía 3, tramo de vía recta en horizontal situado entre los desvíos A2 y A8. Trayecto Pravia-Avilés."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 12 de octubre de 2008, a las 13:15 horas, el tren LL-902, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura, ni al medio ambiente.",
+    "afectacion_servicio": "Vía interceptada desde las 13:15 hasta las 14:30 (75 minutos). Dos trenes de viajeros afectados con supresiones parciales: tren 2813 Pravia-Avilés y tren 2814 Avilés-Pravia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Tránsito de la víctima ocupando la vía sin estar autorizado para ello, utilizando un paso vicioso peatonal.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Velocidad del tren de maniobras (17,1 km/h) ligeramente superior a la permitida (10 km/h), aunque según la CIAF no influyó en el desarrollo de los acontecimientos.",
+    "Ausencia de alternativa segura para cruzar las vías: el paso superior cercano no tenía accesos fáciles desde ambas márgenes, obligando a los lugareños a recorrer al menos un kilómetro campo traviesa.",
+    "Existencia de un paso vicioso peatonal consolidado por uso habitual, con sendas peatonales que accedían a la vía 3.",
+    "No se adoptó ninguna medida específica de protección hasta la fecha del informe."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Falta de infraestructura de seguridad perimetral (vallado) en la playa de vías.",
+    "Diseño deficiente del paso superior existente, que no garantiza accesibilidad desde ambas márgenes de la población.",
+    "Ausencia de señalización de advertencia de peligro de cruzar las vías.",
+    "No se practicó prueba de alcoholemia al maquinista al no ser requisito obligatorio en los protocolos de actuación."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Estudiar, por parte de la autoridad competente, la pertinencia de vallar perimetralmente la zona.",
+     "destinatario": "Autoridad competente"
+    },
+    {
+     "texto": "Valorar la idoneidad de colocar carteles de advertencia de peligro de cruzar las vías.",
+     "destinatario": "Autoridad competente"
+    },
+    {
+     "texto": "Estudiar, por parte de la autoridad competente, la pertinencia de construir un paso a distinto nivel para cruzar de un lado a otro de la población.",
+     "destinatario": "Autoridad competente"
+    }
+   ],
+   "pagina": 3,
+   "cita": "Recomendaciones: - Estudiar, por parte de la autoridad competente, la pertinencia de vallar perimetralmente la zona. - Valorar la idoneidad de colocar carteles de advertencia de peligro de cruzar las vías. - Estudi",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Estudiar, por parte de la autoridad competente, la pertinencia de vallar perimetralmente la zona.",
+     "destinatario": "Autoridad competente"
+    },
+    {
+     "texto": "Valorar la idoneidad de colocar carteles de advertencia de peligro de cruzar las vías.",
+     "destinatario": "Autoridad competente"
+    },
+    {
+     "texto": "Estudiar, por parte de la autoridad competente, la pertinencia de construir un paso a distinto nivel para cruzar de un lado a otro de la población.",
+     "destinatario": "Autoridad competente"
+    }
+   ],
+   "pagina": 3,
+   "cita": "Recomendaciones: - Estudiar, por parte de la autoridad competente, la pertinencia de vallar perimetralmente la zona. - Valorar la idoneidad de colocar carteles de advertencia de peligro de cruzar las vías. - Estudi",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "Feve, realizaba maniobras de formación de trenes de mercancías cuando arrolla a una persona",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-10-12",
+   "pagina": 3,
+   "cita": "El día 12 de octubre de 2008, a las 13:15 horas, el tren LL-902, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "13:15",
+   "pagina": 3,
+   "cita": "El día 12 de octubre de 2008, a las 13:15 horas, el tren LL-902, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Pravia",
+    "pk": "0,287",
+    "linea": "11 Ferrol-Gijón",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Playa de vías de la estación de Pravia, vía 3, tramo de vía recta en horizontal situado entre los desvíos A2 y A8. Trayecto Pravia-Avilés."
+   },
+   "pagina": 3,
+   "cita": "que caminaba por la caja de la vía 3 en la playa de vías de la estación de Pravia, en el P.K. 0,287.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 11 Ferrol-Gijón",
+   "pagina": 3,
+   "cita": "El lugar del accidente se sitúa en la línea 11 Ferrol-Gijón, perteneciente a la Red Ferroviaria de",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotoras 1907 y 1915; 8 vagones 2SS (plataformas) con contenedores de aluminio vacíos",
+    "averia": "Ninguna. Funcionamiento correcto según registro de eventos. Velocidad en el momento del accidente: 17,1 km/h (superior a los 10 km/h permitidos para maniobras, aunque dentro del margen de error admitido de 5 km/h).",
+    "mantenimiento": "No se especifica en el informe. Material rodante e instalaciones técnicas funcionaron correctamente de acuerdo a la normativa de seguridad."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 12 de octubre de 2008, a las 13:15 horas, el tren LL-902 de Feve, compuesto por las locomotoras 1907 y 1915 y 8 plataformas cargadas de contenedores de aluminio vacíos, realizaba maniobras de formación de trenes de mercancías en la playa de vías de la estación de Pravia. El tren había salido de la estación de El Berrón a las 11:30 y llegó a Pravia a las 13:10. Una vez cortadas las locomotoras, el maquinista principal (matrícula 6703), conduciendo la locomotora 1907, se dirigió por la vía 3 hacia la señal R4. A unos 50 metros antes de llegar a dicha señal, notó un golpe seco por la parte inferior del bastidor de la locomotora 1907. Al rebasar ese punto, se percató de la existencia de un cuerpo humano cortado a la mitad sobre uno de los carriles de la vía. El maquinista movió las locomotoras unos 15 metros para liberar el circuito de la R4 y comunicó el suceso a la estación de Pravia, desde donde se avisó al Jefe de Circulación y al Puesto de Mando. El Plan de Emergencia exterior se activó por medio del 112. La vía quedó interceptada desde las 13:15 hasta las 14:30, hora en que la autoridad judicial ordenó el levantamiento del cadáver. De la inspección del lugar se observó que en el entorno del punto del arrollamiento existían sendas peatonales de uso habitual (paso vicioso) que accedían a la vía 3, y que no existía alternativa segura para cruzar las vías, pues el paso superior cercano no tenía accesos fáciles desde ambas márgenes.",
+   "pagina": 3,
+   "cita": "RESUMEN El día 12 de octubre de 2008, a las 13:15 horas, el tren LL-902, de la empresa ferroviaria Feve, realizaba maniobras de formación de trenes de mercancías cuando arrolla a una persona que caminaba por la caja d",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Pravia",
+    "pk": "0,287",
+    "linea": "11 Ferrol-Gijón",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Playa de vías de la estación de Pravia, vía 3, tramo de vía recta en horizontal situado entre los desvíos A2 y A8. Trayecto Pravia-Avilés."
+   },
+   "pagina": 3,
+   "cita": "que caminaba por la caja de la vía 3 en la playa de vías de la estación de Pravia, en el P.K. 0,287.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura, ni al medio ambiente.",
+    "afectacion_servicio": "Vía interceptada desde las 13:15 hasta las 14:30 (75 minutos). Dos trenes de viajeros afectados con supresiones parciales: tren 2813 Pravia-Avilés y tren 2814 Avilés-Pravia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista Principal del tren LL-902 (matrícula 6703)",
+     "implicacion": "Conducía la locomotora 1907 durante las maniobras. No se percató de la presencia de la víctima hasta oír un golpe seco en la locomotora 1915. Poseía título de conducción en vigor, último reciclaje formativo el 24/01/2008 y último reconocimiento médico-psicotécnico el 21/01/2008. No se le practicó prueba de alcoholemia al no ser obligatorio según protocolos."
+    },
+    {
+     "rol": "Víctima (hombre, 40 años, empleado de limpieza del Ayuntamiento de Pravia)",
+     "implicacion": "Caminaba por la caja de la vía 3 de la playa de vías sin estar autorizado para ello, utilizando un paso vicioso. Falleció en el arrollamiento."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "LL-902",
+     "tipo": "tren de mercancías (maniobras)",
+     "operador": "Feve",
+     "danos": "Sin daños materiales en el material rodante"
+    },
+    {
+     "numero": "2813",
+     "tipo": "tren de viajeros",
+     "operador": "Feve",
+     "danos": "Supresión parcial (Pravia-Avilés)"
+    },
+    {
+     "numero": "2814",
+     "tipo": "tren de viajeros",
+     "operador": "Feve",
+     "danos": "Supresión parcial (Avilés-Pravia)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 12 de octubre de 2008, a las 13:15 horas, el tren LL-902, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotoras 1907 y 1915; 8 vagones 2SS (plataformas) con contenedores de aluminio vacíos",
+    "averia": "Ninguna. Funcionamiento correcto según registro de eventos. Velocidad en el momento del accidente: 17,1 km/h (superior a los 10 km/h permitidos para maniobras, aunque dentro del margen de error admitido de 5 km/h).",
+    "mantenimiento": "No se especifica en el informe. Material rodante e instalaciones técnicas funcionaron correctamente de acuerdo a la normativa de seguridad."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal R4 (rebase) en la vía 3; desvíos A2 y A8 delimitan el tramo",
+    "tipo_via": "Vía recta, en horizontal, playa de vías de estación",
+    "velocidad_maxima": "10 km/h (maniobras), con error máximo admitido de 5 km/h",
+    "ancho": "null",
+    "electrificacion": "null",
+    "estado_via": "En correcto funcionamiento; material rodante e instalaciones técnicas funcionaron correctamente",
+    "otro": "Bloqueo automático (B.A.U.) con control de tráfico centralizado y mando local (C.T.C. y M.L.). No existía alternativa segura para cruzar las vías: el paso superior cercano carecía de accesos fáciles desde ambas márgenes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal R4 (rebase) en la vía 3; desvíos A2 y A8 delimitan el tramo",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura, ni al medio ambiente.",
+    "afectacion_servicio": "Vía interceptada desde las 13:15 hasta las 14:30 (75 minutos). Dos trenes de viajeros afectados con supresiones parciales: tren 2813 Pravia-Avilés y tren 2814 Avilés-Pravia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura, ni al medio ambiente.",
+    "afectacion_servicio": "Vía interceptada desde las 13:15 hasta las 14:30 (75 minutos). Dos trenes de viajeros afectados con supresiones parciales: tren 2813 Pravia-Avilés y tren 2814 Avilés-Pravia."
+   },
+   "pagina": 7,
+   "cita": "competen a la Comisión de Investigación de accidentes ferroviarios.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura, ni al medio ambiente.",
+    "afectacion_servicio": "Vía interceptada desde las 13:15 hasta las 14:30 (75 minutos). Dos trenes de viajeros afectados con supresiones parciales: tren 2813 Pravia-Avilés y tren 2814 Avilés-Pravia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras 1907 y 1915; 8 vagones 2SS (plataformas) con contenedores de aluminio vacíos",
+    "averia": "Ninguna. Funcionamiento correcto según registro de eventos. Velocidad en el momento del accidente: 17,1 km/h (superior a los 10 km/h permitidos para maniobras, aunque dentro del margen de error admitido de 5 km/h).",
+    "mantenimiento": "No se especifica en el informe. Material rodante e instalaciones técnicas funcionaron correctamente de acuerdo a la normativa de seguridad."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal R4 (rebase) en la vía 3; desvíos A2 y A8 delimitan el tramo",
+    "tipo_via": "Vía recta, en horizontal, playa de vías de estación",
+    "velocidad_maxima": "10 km/h (maniobras), con error máximo admitido de 5 km/h",
+    "ancho": "null",
+    "electrificacion": "null",
+    "estado_via": "En correcto funcionamiento; material rodante e instalaciones técnicas funcionaron correctamente",
+    "otro": "Bloqueo automático (B.A.U.) con control de tráfico centralizado y mando local (C.T.C. y M.L.). No existía alternativa segura para cruzar las vías: el paso superior cercano carecía de accesos fáciles desde ambas márgenes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo atmosférico despejado en el momento del arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Asturias",
+    "municipio": null,
+    "estacion": "Pravia"
+   },
+   "pagina": 3,
+   "cita": "Asturias El tren LL-902, perteneciente a la empresa ferroviaria Feve, compuesto por las locomotoras 1907-1915 y 8 plataformas, realizaba maniobras de formación de trenes de mercancías cuando arrolla a una persona qu",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo atmosférico despejado en el momento del arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal R4 (rebase) en la vía 3; desvíos A2 y A8 delimitan el tramo",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal R4 (rebase) en la vía 3; desvíos A2 y A8 delimitan el tramo",
+    "tipo_via": "Vía recta, en horizontal, playa de vías de estación",
+    "velocidad_maxima": "10 km/h (maniobras), con error máximo admitido de 5 km/h",
+    "ancho": "null",
+    "electrificacion": "null",
+    "estado_via": "En correcto funcionamiento; material rodante e instalaciones técnicas funcionaron correctamente",
+    "otro": "Bloqueo automático (B.A.U.) con control de tráfico centralizado y mando local (C.T.C. y M.L.). No existía alternativa segura para cruzar las vías: el paso superior cercano carecía de accesos fáciles desde ambas márgenes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras 1907 y 1915; 8 vagones 2SS (plataformas) con contenedores de aluminio vacíos",
+    "averia": "Ninguna. Funcionamiento correcto según registro de eventos. Velocidad en el momento del accidente: 17,1 km/h (superior a los 10 km/h permitidos para maniobras, aunque dentro del margen de error admitido de 5 km/h).",
+    "mantenimiento": "No se especifica en el informe. Material rodante e instalaciones técnicas funcionaron correctamente de acuerdo a la normativa de seguridad."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Víctima camina por vía sin autorización",
+    "Paso vicioso habitual hacia vía",
+    "No alternativa segura para cruzar",
+    "Maquinista no percibe persona"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 12 de octubre de 2008, a las 13:15 horas, el tren LL-902 de Feve, compuesto por las locomotoras 1907 y 1915 y 8 plataformas cargadas de contenedores de aluminio vacíos, realizaba maniobras de formación de trenes de mercancías en la playa de vías de la estación de Pravia. El tren había salido de la estación de El Berrón a las 11:30 y llegó a Pravia a las 13:10. Una vez cortadas las locomotoras, el maquinista principal (matrícula 6703), conduciendo la locomotora 1907, se dirigió por la vía 3 hacia la señal R4. A unos 50 metros antes de llegar a dicha señal, notó un golpe seco por la parte inferior del bastidor de la locomotora 1907. Al rebasar ese punto, se percató de la existencia de un cuerpo humano cortado a la mitad sobre uno de los carriles de la vía. El maquinista movió las locomotoras unos 15 metros para liberar el circuito de la R4 y comunicó el suceso a la estación de Pravia, desde donde se avisó al Jefe de Circulación y al Puesto de Mando. El Plan de Emergencia exterior se activó por medio del 112. La vía quedó interceptada desde las 13:15 hasta las 14:30, hora en que la autoridad judicial ordenó el levantamiento del cadáver. De la inspección del lugar se observó que en el entorno del punto del arrollamiento existían sendas peatonales de uso habitual (paso vicioso) que accedían a la vía 3, y que no existía alternativa segura para cruzar las vías, pues el paso superior cercano no tenía accesos fáciles desde ambas márgenes.",
+   "pagina": 3,
+   "cita": "RESUMEN El día 12 de octubre de 2008, a las 13:15 horas, el tren LL-902, de la empresa ferroviaria Feve, realizaba maniobras de formación de trenes de mercancías cuando arrolla a una persona que caminaba por la caja d",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Tránsito de la víctima ocupando la vía sin estar autorizado para ello, utilizando un paso vicioso peatonal.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Velocidad del tren de maniobras (17,1 km/h) ligeramente superior a la permitida (10 km/h), aunque según la CIAF no influyó en el desarrollo de los acontecimientos.",
+    "Ausencia de alternativa segura para cruzar las vías: el paso superior cercano no tenía accesos fáciles desde ambas márgenes, obligando a los lugareños a recorrer al menos un kilómetro campo traviesa.",
+    "Existencia de un paso vicioso peatonal consolidado por uso habitual, con sendas peatonales que accedían a la vía 3.",
+    "No se adoptó ninguna medida específica de protección hasta la fecha del informe."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Estudiar, por parte de la autoridad competente, la pertinencia de vallar perimetralmente la zona.",
+     "destinatario": "Autoridad competente"
+    },
+    {
+     "texto": "Valorar la idoneidad de colocar carteles de advertencia de peligro de cruzar las vías.",
+     "destinatario": "Autoridad competente"
+    },
+    {
+     "texto": "Estudiar, por parte de la autoridad competente, la pertinencia de construir un paso a distinto nivel para cruzar de un lado a otro de la población.",
+     "destinatario": "Autoridad competente"
+    }
+   ],
+   "pagina": 3,
+   "cita": "Recomendaciones: - Estudiar, por parte de la autoridad competente, la pertinencia de vallar perimetralmente la zona. - Valorar la idoneidad de colocar carteles de advertencia de peligro de cruzar las vías. - Estudi",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "11:30",
+     "evento": "Salida del tren LL-902 de la estación de El Berrón"
+    },
+    {
+     "hora": "13:10",
+     "evento": "Llegada del tren LL-902 a la estación de Pravia"
+    },
+    {
+     "hora": "13:15",
+     "evento": "Arrollamiento de la persona por el tren LL-902 durante maniobras en la vía 3"
+    },
+    {
+     "hora": "13:15",
+     "evento": "Inicio de la interceptación de vía"
+    },
+    {
+     "hora": "14:22",
+     "evento": "El Inspector General de Feve comunica el accidente a la CIAF por mensaje telefónico"
+    },
+    {
+     "hora": "14:30",
+     "evento": "Fin de la interceptación de vía; la autoridad judicial ordena el levantamiento del cadáver"
+    },
+    {
+     "hora": "16/10/2008",
+     "evento": "Inspección del lugar del accidente por el agente territorial adscrito a la CIAF"
+    },
+    {
+     "hora": "24/02/2009",
+     "evento": "Aprobación del informe definitivo por el Pleno de la CIAF"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0048/2008",
+ "expediente": "0048/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de persona por tren de mercancías en maniobras en la estación de Pravia (Asturias)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-121008-240209-CIAF.md"
+}

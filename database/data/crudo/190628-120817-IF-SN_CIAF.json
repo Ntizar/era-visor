@@ -1,0 +1,1031 @@
+{
+ "id": "190628-120817-IF-SN_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/190628-170812-if-sn_ciaf.pdf",
+ "pdf": "pdfs/ES/190628-120817-IF-SN_CIAF.pdf",
+ "md5_pdf": "8d137d1cc5f9c2ee843e5529a257b116",
+ "paginas_md": 74,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 59,
+ "n_tablas": 3,
+ "tablas": [
+  {
+   "pagina": 7,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "38/17 - 1",
+     "Recomendación": "Debe asegurarse que las actuaciones que afecten a la seguridad y constituyan una modificación del diseño original de cualquier enclavamiento eléctrico existente, en cualquiera de sus fases: proyecto, contratación y ejecución de las obras correspondientes, se realicen según establece el Procedimiento Específico ADIF- DGSORRHH-DSC-PE-09-ACI y conforme a la Instrucción Técnica ADIF-IT-107-002-002- SC-R1, y se proceda al estudio, evaluación y valoración del riesgo validado por un asesor independiente."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "38/17 - 2",
+     "Recomendación": "Después de cualquier suceso o avería en un enclavamiento que sea debida a un mal comportamiento en contra de la seguridad, se deberán adoptar medidas complementarias provisionales en esta instalación para mitigar el riesgo hasta que tenga lugar la modificación o sustitución del enclavamiento. Estas medidas podrán ser tales como: supresión de indicaciones menos restrictivas en las señales, desconexión eléctrica de aparatos, inmovilización de agujas, bloqueo de movimientos, limitaciones de velocidad etc."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "38/17 - 3",
+     "Recomendación": "En el Procedimiento del SGS relativo al mantenimiento de los enclavamientos eléctricos, desarrollar las reglas de actuación que contemplen que, concluida la reparación o restitución de la instalación, se debe proceder a la verificación de su correcto funcionamiento eléctrico así como comprobar la concordancia entre la posición real de las agujas afectadas en el campo y las comprobaciones en el cuadro de mando local y CTC antes de dar de alta la instalación."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 73,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "38/2017 - 1",
+     "Recomendación": "Debe asegurarse que las actuaciones que afecten a la seguridad y constituyan una modificación del diseño original de cualquier enclavamiento eléctrico existente, en cualquiera de sus fases: proyecto, contratación y ejecución de las obras correspondientes, se realicen según establece el Procedimiento Específico ADIF- DGSORRHH-DSC-PE-09-ACI y conforme a la Instrucción Técnica ADIF-IT-107-002-002-SC- R1, y se proceda al estudio, evaluación y valoración del riesgo validado por un asesor independiente."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "38/2017 - 2",
+     "Recomendación": "Después de cualquier suceso o avería en un enclavamiento que sea debida a un mal comportamiento en contra de la seguridad, se deberán adoptar medidas complementarias provisionales en esta instalación para mitigar el riesgo hasta que tenga lugar la modificación o sustitución del enclavamiento. Estas medidas podrán ser tales como: supresión de indicaciones menos restrictivas en las señales, desconexión eléctrica de aparatos, inmovilización de agujas, bloqueo de movimientos, limitaciones de velocidad etc."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 74,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "38/2017 - 3",
+     "Recomendación": "En el Procedimiento del SGS relativo al mantenimiento de los enclavamientos eléctricos, desarrollar las reglas de actuación que contemplen que, concluida la reparación o restitución de la instalación, se debe proceder a la verificación de su correcto funcionamiento eléctrico así como comprobar la concordancia entre la posición real de las agujas afectadas en el campo y las comprobaciones en el cuadro de mando local y CTC antes de dar de alta la instalación."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0038/2017",
+   "pagina": 1,
+   "cita": "nº 0038/2017 ocurrido el 12.08.2017",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El incidente ocurrió el 12 de agosto de 2017 a las 11:55 horas en la estación de Puebla de Sanabria (Zamora). El tren de viajeros 154, con paso directo previsto por vía 1, entró en vía 5 debido a que el desvío 17 estaba orientado físicamente a vía desviada, aunque el cuadro de mando y el CTC indicaban vía directa. La causa fue un fallo en los diodos de protección del relé de comprobación, provocado por una avería eléctrica previa que obligó al accionamiento manual de las agujas. No hubo víctimas ni daños materiales, pero se evidenciaron deficiencias en el mantenimiento y diseño del enclavamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2017-08-12",
+    "hora": null,
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Puebla de Sanabria",
+     "pk": "106+871",
+     "linea": "822 Zamora - A Coruña",
+     "provincia": "Zamora",
+     "descripcion_lugar": "Estación en mando local, vía única, ancho ibérico, no electrificada."
+    }
+   },
+   "pagina": 5,
+   "cita": "El incidente tiene lugar el día 12 de agosto de 2017 a las 11:55 horas, en la estación de Puebla de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Retraso total de 9 minutos en los trenes 154 y 57. No hubo interceptación de vía."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Mal funcionamiento de las instalaciones de seguridad: fallo de los diodos de protección de la bobina del relé de comprobación de la aguja 17, causando discordancia entre la indicación en cuadro de mando (vía directa) y la posición real (vía desviada).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No verificación de la concordancia entre campo y cuadro de mando por parte de los técnicos de mantenimiento tras la reparación eléctrica.",
+    "Incumplimiento del Manual de Operación por parte del responsable de circulación al no mandar la aguja 17 a ambas posiciones eléctricamente para comprobar su funcionamiento tras el uso de manivela.",
+    "Deficiencias en el diseño de los circuitos de mando y comprobación derivados de la modificación tecnológica de 2008."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Modificación del enclavamiento en 2008 ejecutada sin supervisión adecuada ni colaboración del propietario de la tecnología.",
+    "Ausencia de análisis de modo de fallo en contra de la seguridad en la modificación de 2008.",
+    "Procedimientos de mantenimiento que no contemplaban la revisión específica de los diodos de protección."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Debe asegurarse que las actuaciones que afecten a la seguridad y constituyan una modificación del diseño original de cualquier enclavamiento eléctrico existente, en cualquiera de sus fases: proyecto, contratación y ejecución de las obras correspondientes, se realicen según establece el Procedimiento Específico ADIF- DGSORRHH-DSC-PE-09-ACI y conforme a la Instrucción Técnica ADIF-IT-107-002-002- SC-R1, y se proceda al estudio, evaluación y valoración del riesgo validado por un asesor independiente.",
+    "Después de cualquier suceso o avería en un enclavamiento que sea debida a un mal comportamiento en contra de la seguridad, se deberán adoptar medidas complementarias provisionales en esta instalación para mitigar el riesgo hasta que tenga lugar la modificación o sustitución del enclavamiento. Estas medidas podrán ser tales como: supresión de indicaciones menos restrictivas en las señales, desconexión eléctrica de aparatos, inmovilización de agujas, bloqueo de movimientos, limitaciones de velocidad etc.",
+    "En el Procedimiento del SGS relativo al mantenimiento de los enclavamientos eléctricos, desarrollar las reglas de actuación que contemplen que, concluida la reparación o restitución de la instalación, se debe proceder a la verificación de su correcto funcionamiento eléctrico así como comprobar la concordancia entre la posición real de las agujas afectadas en el campo y las comprobaciones en el cuadro de mando local y CTC antes de dar de alta la instalación.",
+    "Debe asegurarse que las actuaciones que afecten a la seguridad y constituyan una modificación del diseño original de cualquier enclavamiento eléctrico existente, en cualquiera de sus fases: proyecto, contratación y ejecución de las obras correspondientes, se realicen según establece el Procedimiento Específico ADIF- DGSORRHH-DSC-PE-09-ACI y conforme a la Instrucción Técnica ADIF-IT-107-002-002-SC- R1, y se proceda al estudio, evaluación y valoración del riesgo validado por un asesor independiente.",
+    "Después de cualquier suceso o avería en un enclavamiento que sea debida a un mal comportamiento en contra de la seguridad, se deberán adoptar medidas complementarias provisionales en esta instalación para mitigar el riesgo hasta que tenga lugar la modificación o sustitución del enclavamiento. Estas medidas podrán ser tales como: supresión de indicaciones menos restrictivas en las señales, desconexión eléctrica de aparatos, inmovilización de agujas, bloqueo de movimientos, limitaciones de velocidad etc.",
+    "En el Procedimiento del SGS relativo al mantenimiento de los enclavamientos eléctricos, desarrollar las reglas de actuación que contemplen que, concluida la reparación o restitución de la instalación, se debe proceder a la verificación de su correcto funcionamiento eléctrico así como comprobar la concordancia entre la posición real de las agujas afectadas en el campo y las comprobaciones en el cuadro de mando local y CTC antes de dar de alta la instalación."
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)"
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente ferroviario",
+   "pagina": 34,
+   "cita": "de Sanabria (Zamora), como consecuencia de la investigación del incidente ferroviario CIAF 38/2017",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "RENFE VIAJEROS"
+   ],
+   "pagina": 7,
+   "cita": "(ADIF) 38/17 - 1 Debe asegurarse que las actuaciones que afecten a la seguridad y constituyan una modificación del diseño original de cualquier enclavamiento eléctrico existente, en cualquiera de sus fases:",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2017-08-12",
+   "pagina": 5,
+   "cita": "El incidente tiene lugar el día 12 de agosto de 2017 a las 11:55 horas, en la estación de Puebla de",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Puebla de Sanabria",
+    "pk": "106+871",
+    "linea": "822 Zamora - A Coruña",
+    "provincia": "Zamora",
+    "descripcion_lugar": "Estación en mando local, vía única, ancho ibérico, no electrificada."
+   },
+   "pagina": 8,
+   "cita": "prevista a las 07:02 horas con destino Medina del Campo y se encuentra estacionado en vía 5. A este",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "En la zona de incidente, la Línea 822 Zamora a La Coruña es de vía única, ancho ibérico y sin \nelectrificar. \nEl trazado de la vía por la zona del suceso sentido Pedralba A Coruña es de alineación recta, situándose \nla estación en curva a izquierda y horizontal. \n2.2.3.1. Descripción de la estación. \nLa estación de Puebla de Sanabria se encuentra situada en el pk 106+871 de la Línea 822 Zamora a A \nCoruña. Cuenta con 5 vías telemandadas destinadas a la circulación: vía 1 general, y vías 2, 3, 4 y 5, \nque se utilizan habitualmente para el cruce de los trenes. En el momento de producirse el suceso, se \nencontraban de baja las vías 2 y 3, estando los desvíos de acceso a las mismas embridados para \nimposibilitar la entrada intempestiva de cualquier circulación a las mismas. \nLas vías 1 y 2 comparten andén de 248 m. La vía 4 también cuenta con andén de 248 m junto al \nedificio de viajeros  \nLa circulación por la estación de Puebla de Sanabria se realiza por el lado Zamora (Linarejos – Pedroso) \nal amparo de Bloqueo de Liberación Automática con CTC (BLAU con CTC). Por el lado Orense \n(Pedralba) Bloqueo Automático de Vía Única con CTC (BAU con CTC). \nEl enclavamiento de la estación en la fecha del incidente era eléctrico, de relés de cableado libre y \ntecnología ERICSSON, (actual BOMBARDIER). Disponía de mando local y podía ser telemandado desde \nel puesto de mando de León. \n \n \n\n## Página 15\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0038/2017 ocurrido el 12.08.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n190628-170812–IF_CIAF \nPág. 15 de 74 \n \nEsquema elementos estación Puebla de Sanabria que intervienen en el incidente \n \n\n## Página 16\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0038/2017 ocurrido el 12.08.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n190628-170812–IF_CIAF \nPág. 16 de 74 \n \nVista general estación de Puebla de Sanabria desde lado Zamora. (Fuente: Visita investigación) \n \n2.2.3.2. Enclavamiento de la estación. \n2.2.3.2.1. Descripción del enclavamiento en la fecha del suceso \nEl enclavamiento original de la estación (eléctrico de relés de vaso y tecnología de ERICSSON) data de \nlos años 50. Desde entonces, manteniéndose el núcleo del enclavamiento original, se han producido \nvarias modificaciones entre las que cabe destacar las que se relacionan a continuación: \n-  En 1983 se sustituye este enclavamiento e instala un enclavamiento de relés de cableado libre. Esta \nmodificación se lleva a cabo por la empresa propietaria de la tecnología.   \n- En 1991-92 también por la empresa propietaria de la tecnología, de nuevo se sustituye este \nenclavamiento y se modifica la lógica de mando y comprobación de agujas. \n-   En los años 2000 y 2002 se realizan modificaciones sustanciales relacionadas con el bloqueo (año \n2000), e instalando señales de salida independientes (año 2002). En la ejecución de estas \nmodificaciones no se contó con la colaboración de la empresa propietaria de la tecnología. \n-  Por último, al cambiarse los tipos de motor de accionamiento de agujas en la estación e introducirse \nlos de tipo unificado, en el año 2008 tiene lugar la última modificación en el enclavamiento para \nadaptar los circuitos de mando y comprobación de las agujas a los nuevos accionamientos. En la \nejecución de estas modificaciones tampoco se contó con la colaboración de la empresa propietaria \n\n## Página 17\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0038/2017 ocurrido el 12.08.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n190628-170812–IF_CIAF \nPág. 17 de 74 \nde la tecnología. Para el mando y comprobación los accionamientos anteriores a esta reforma, \nrequerían llevar 7 hilos desde cabina hasta el motor del accionamiento de las agujas. Los nuevos \naccionamientos unificados, requieren solamente 4 hilos para este fin. \nCuando la estación se encuentra en mando local, el mando del enclavamiento se realiza desde el \ncuadro de mando local ubicado en el gabinete de circulación, desde donde se emiten órdenes a los \naparatos de vía y a las señales y se reciben las indicaciones de comprobación correspondientes. \nDispone del sistema ASFA. \nEstando la estación en mando central, el mando se realiza desde el CTC situado en León. \nA continuación, se relacionan los elementos de que consta el enclavamiento y que intervienen en el \nincidente que se investiga, reflejados en la Consigna A2299 de 11.01.2013. \n a) Señales \nEn el sentido Zamora – Puebla de Sanabria, circulando por vía general, vía 1 de la estación y hasta su \ndetención en vía 5, el tren 154 se encontró las siguientes señales: \n-  Señal avanzada E’1, de dos focos, situada en el pk 105+274, dotada baliza previa. Según su aspecto, \npuede ordenar: anuncio de parada, anuncio de precaución, o vía libre. \n-  Señal de entrada E1, de tres focos, situada en el pk 106+308 dotada de baliza de pie de señal y \nbaliza previa aproximadamente a 300 m de la misma. Según su aspecto, puede ordenar: parada, \nanuncio de parada o vía libre. \n-   Señal de salida S1/5 de tres focos y foco adicional blanco, dotada de baliza de pie de señal y baliza \nprevia situada a unos 100 m de la señal. Según su aspecto, puede ordenar: parada, rebase \nautorizado o vía libre. \nLas distancias entre señales y agujas en el tramo afectado por el paso del tren 154 son las siguientes: \n-   Entre la señal E’1 y la señal E1 es de 1.034 m \n-   Entre la señal E1 y la aguja 19, de 150 m \n-   Entre la aguja 19 y la aguja 17, de 36 m \n-   Entre la aguja 17 y la aguja 13, de 42 m \nEstas señales se encuentran instaladas fuera de la vía, a la derecha según sentido de la marcha. El día \ndel incidente no se tiene constancia de anomalía alguna en las condiciones de visibilidad, conservación \ny limpieza que exige su función. \n\n## Página 18\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInve",
+   "pagina": 14,
+   "cita": "2.2.3. Descripción de la infraestructura",
+   "origen": "determinista",
+   "regla": "sec:^descripci[óo]n de la infraestructura$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Automotor 730020 (Serie 7300)",
+    "averia": "Ninguna",
+    "mantenimiento": "Correcto"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 12 de agosto de 2017, la estación de Puebla de Sanabria sufrió un corte de suministro eléctrico desde las 04:00 hasta las 06:55 horas. Para expedir el tren 18321, el responsable de circulación accionó manualmente los motores de los desvíos 17 y 19 mediante manivela. Tras restablecerse la energía, los técnicos de mantenimiento repararon la avería y realizaron pruebas básicas, dando de alta la instalación sin verificar la concordancia entre la posición real de las agujas en campo y su representación en el cuadro de mando local o el CTC.\n\nA las 11:45 horas, el responsable de circulación estableció un itinerario de paso directo por vía 1 para el tren 154 (Madrid Chamartín - Ferrol). Las señales mostraban vía libre y el sistema indicaba que las agujas estaban enclavadas en posición normal. Sin embargo, la aguja 17 permanecía físicamente orientada a vía desviada debido al fallo de los diodos de protección de la bobina del relé de comprobación, que habían quedado dañados durante el arranque tras la intervención manual.\n\nAl entrar en la estación a las 11:55 horas, el maquinista del tren 154 detectó visualmente que el desvío 17 estaba orientado incorrectamente hacia vía 5, pese a tener señal de vía libre para vía 1. Aplicó inmediatamente el freno de emergencia y luego la seta de emergencia, deteniendo el tren en vía 5 frente al edificio de viajeros. No se produjeron descarrilamientos, heridos ni daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Puebla de Sanabria",
+    "pk": "106+871",
+    "linea": "822 Zamora - A Coruña",
+    "provincia": "Zamora",
+    "descripcion_lugar": "Estación en mando local, vía única, ancho ibérico, no electrificada."
+   },
+   "pagina": 8,
+   "cita": "prevista a las 07:02 horas con destino Medina del Campo y se encuentra estacionado en vía 5. A este",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Retraso total de 9 minutos en los trenes 154 y 57. No hubo interceptación de vía."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Medidas adoptadas por el administrador de infraestructuras, ADIF. \n-   En fechas siguientes al suceso, se despliegan acciones para la identificación de enclavamientos \neléctricos de tecnología similar al de Puebla de Sanabria. \nSe chequean todas las instalaciones de cableado libre existentes en las redes convencional y de \nancho métrico. Del análisis de esta actuación se deduce que el enclavamiento de Puebla de \nSanabria es diferente al resto de las instalaciones revisadas. \nSegún tecnólogo de estos enclavamientos, sólo puede producirse una situación de riesgo por \ntriple fallo simultáneo, excepto en el enclavamiento de Puebla de Sanabria que se produjo por \nun doble fallo. El nivel de integridad de seguridad exigido a estas instalaciones (EN-50129) es \nSIL-4, y se cumple, por lo que considera que no debe hacerse ninguna actuación adicional.  \n-  Se prevé la verificación del estado de los diodos con sustitución de los que se hayan desoldado, \nfundido o puesto en cortocircuito en las revisiones del enclavamiento de cableado libre de \nPuebla de Sanabria previstas en el Plan de Mantenimiento Anual de la brigada encargada de \nestos trabajos.  \n-  Con fecha posterior al incidente, ADIF publica la Consigna Interna ATOI/CTOI nº 5/17 de 11 de \nseptiembre: “Accionamiento de agujas a manivela en la Estación de Puebla de Sanabria”.  \n- Las obras de la Línea de Alta Velocidad Madrid – Galicia entre Zamora y Orense, incluyen la  \n\n## Página 73\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0038/2017 ocurrido el 12.08.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n190628-170812–IF_CIAF \nPág. 73 de 74 \n  sustitución del enclavamiento de la estación de Puebla de Sanabria. La puesta en servicio de esta \ninstalación tuvo lugar en mayo de 2019.",
+   "pagina": 72,
+   "cita": "5.  MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 154",
+     "implicacion": "Detectó la anomalía visualmente y aplicó frenado de emergencia correctamente."
+    },
+    {
+     "rol": "Responsable de circulación de Puebla de Sanabria",
+     "implicacion": "Acción manual de agujas e incumplimiento del protocolo de verificación post-reparación."
+    },
+    {
+     "rol": "Agentes de Mantenimiento de Infraestructura (ADIF)",
+     "implicacion": "Repararon la avería eléctrica pero no verificaron la concordancia campo-cuadro de mando."
+    }
+   ],
+   "pagina": 13,
+   "cita": "- Maquinista del tren 154.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "154",
+     "tipo": "Larga Distancia",
+     "operador": "RENFE VIAJEROS",
+     "danos": "Ninguno"
+    },
+    {
+     "numero": "18321",
+     "tipo": "Mercancías/Expedición",
+     "operador": null,
+     "danos": "Ninguno"
+    }
+   ],
+   "pagina": 14,
+   "cita": "Tren 154, de Larga Distancia de RENFE VIAJEROS, formado por el automotor 730020, compuesto por",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Automotor 730020 (Serie 7300)",
+    "averia": "Ninguna",
+    "mantenimiento": "Correcto"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 6,
+   "cita": "Mantenimiento de Infraestructura que repararon la avería eléctrica, antes de dar de alta la instalación, y",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales avanzada E'1 y entrada E1 en vía libre (incorrecto respecto a la realidad física).",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "95 km/h",
+    "ancho": "Ibérico",
+    "electrificacion": "No electrificada",
+    "estado_via": "Correcta",
+    "otro": "Enclavamiento eléctrico de relés de cableado libre tecnología Ericsson/Bombardier modificado en 2008."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales avanzada E'1 y entrada E1 en vía libre (incorrecto respecto a la realidad física).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía en modalidad A. El tren 154, no tenía parada comercial el día del incidente, por lo que \nsus comunicaciones se realizaban con el puesto de mando.",
+   "pagina": 30,
+   "cita": "2.2.4. Sistemas de comunicación.",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Retraso total de 9 minutos en los trenes 154 y 57. No hubo interceptación de vía."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Retraso total de 9 minutos en los trenes 154 y 57. No hubo interceptación de vía."
+   },
+   "pagina": 18,
+   "cita": "ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Retraso total de 9 minutos en los trenes 154 y 57. No hubo interceptación de vía."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 730020 (Serie 7300)",
+    "averia": "Ninguna",
+    "mantenimiento": "Correcto"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales avanzada E'1 y entrada E1 en vía libre (incorrecto respecto a la realidad física).",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "95 km/h",
+    "ancho": "Ibérico",
+    "electrificacion": "No electrificada",
+    "estado_via": "Correcta",
+    "otro": "Enclavamiento eléctrico de relés de cableado libre tecnología Ericsson/Bombardier modificado en 2008."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Horas diurnas, sin condiciones meteorológicas adversas",
+   "pagina": 30,
+   "cita": "reparada la avería. El incidente tiene lugar en horas diurnas sin condiciones meteorológicas adversas.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Zamora",
+    "municipio": null,
+    "estacion": "Puebla de Sanabria"
+   },
+   "pagina": 5,
+   "cita": "Sanabria, pk 106+871 de la línea 822 Zamora - A Coruña, cuando encontrándose la estación en",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Horas diurnas, sin condiciones meteorológicas adversas",
+   "pagina": 30,
+   "cita": "reparada la avería. El incidente tiene lugar en horas diurnas sin condiciones meteorológicas adversas.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales avanzada E'1 y entrada E1 en vía libre (incorrecto respecto a la realidad física).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales avanzada E'1 y entrada E1 en vía libre (incorrecto respecto a la realidad física).",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "95 km/h",
+    "ancho": "Ibérico",
+    "electrificacion": "No electrificada",
+    "estado_via": "Correcta",
+    "otro": "Enclavamiento eléctrico de relés de cableado libre tecnología Ericsson/Bombardier modificado en 2008."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía en modalidad A. El tren 154, no tenía parada comercial el día del incidente, por lo que \nsus comunicaciones se realizaban con el puesto de mando.",
+   "pagina": 30,
+   "cita": "2.2.4. Sistemas de comunicación.",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 730020 (Serie 7300)",
+    "averia": "Ninguna",
+    "mantenimiento": "Correcto"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": "3.5.1.1. Notificación \nA las 11:56:15 horas el responsable de circulación de Puebla de Sanabria y a las 11:57:03 horas el \nmaquinista del tren 154, ponen en conocimiento del puesto de mando del CTC de León los hechos \nacaecidos. \nRecibida esta información, el puesto de mando de León pone en marcha el protocolo de Emergencias \nestablecido. \n3.5.1.2. Plan de emergencias interno \n-  El puesto de mando de León activa los protocolos del Plan de Contingencias cursando aviso al \nCuadro Técnico de Logística, Jefatura Técnica de Operaciones de León y Gerencia de Área de \nSeguridad en la Circulación Noroeste de ADIF y, del operador afectado, a la Delegación Territorial \nNoroeste de Seguridad en la Circulación de RENFE VIAJEROS. \n-  El responsable de circulación de Puebla de Sanabria disuelve el itinerario establecido de salida para \nel tren 154 por vía general, sentido Pedralba Zamora y establece nuevo itinerario de salida por vía",
+   "pagina": 61,
+   "cita": "3.5.1. Medidas tomadas por el personal de circulación",
+   "origen": "determinista",
+   "regla": "sec:^medidas tomadas por el personal de circulaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Rearme tras reparación avería suministro",
+    "Modificación enclavamiento no conforme procedimiento",
+    "Deficiencias diseño circuitos mando aguja",
+    "Falta validación riesgo modificación"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Personal perteneciente al Administrador de Infraestructuras Ferroviarias, ADIF. \n-  Responsable de circulación de la estación de Puebla de Sanabria: Dispone de habilitación de \nresponsable de circulación en vigor con validez hasta el 19/01/2019, de conformidad con la Orden \nFOM/2872/2010, de 5 de noviembre. \nObtuvo su aptitud para el desempeño de sus funciones en curso de formación de 20.02.2008.  \nRealizó su último reciclaje formativo con fecha 19/01/2016 y su último reconocimiento psicofísico \ncon fecha 09.08.2016 conforme a normativa vigente. \n-   Agente de instalaciones de seguridad eléctricas: Dispone de la habilitación de encargado de \ntrabajos, con validez hasta el 18/05/2020.  \nRealizó el último reciclaje formativo con fecha 18/05/2017, y su último reconocimiento psicofísico \ncon fecha 31.01.2014 conforme a normativa vigente. \nPersonal perteneciente al operador, RENFE VIAJEROS \n-   Maquinista del tren 154, está en posesión de Licencia para la conducción de vehículos ferroviarios \nclase B conforme a la Orden FOM/2520/2006, de 27 de julio (Título V - Personal de conducción - en \nvigor hasta el 11 de enero de 2019, en virtud de la disposición transitoria octava de la Orden \nFOM/2872/2010, de 5 de noviembre) desde el 30/06/2008. Dispone, asimismo, en base a esta \nnormativa, de las correspondientes Habilitaciones de material e infraestructura en vigor. \nEl último reconocimiento psicofísico es de fecha 27/03/2015 y el último reciclaje formativo fue \nrealizado con fecha 02/02/2016.",
+   "pagina": 43,
+   "cita": "3.2.3. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 12 de agosto de 2017, la estación de Puebla de Sanabria sufrió un corte de suministro eléctrico desde las 04:00 hasta las 06:55 horas. Para expedir el tren 18321, el responsable de circulación accionó manualmente los motores de los desvíos 17 y 19 mediante manivela. Tras restablecerse la energía, los técnicos de mantenimiento repararon la avería y realizaron pruebas básicas, dando de alta la instalación sin verificar la concordancia entre la posición real de las agujas en campo y su representación en el cuadro de mando local o el CTC.\n\nA las 11:45 horas, el responsable de circulación estableció un itinerario de paso directo por vía 1 para el tren 154 (Madrid Chamartín - Ferrol). Las señales mostraban vía libre y el sistema indicaba que las agujas estaban enclavadas en posición normal. Sin embargo, la aguja 17 permanecía físicamente orientada a vía desviada debido al fallo de los diodos de protección de la bobina del relé de comprobación, que habían quedado dañados durante el arranque tras la intervención manual.\n\nAl entrar en la estación a las 11:55 horas, el maquinista del tren 154 detectó visualmente que el desvío 17 estaba orientado incorrectamente hacia vía 5, pese a tener señal de vía libre para vía 1. Aplicó inmediatamente el freno de emergencia y luego la seta de emergencia, deteniendo el tren en vía 5 frente al edificio de viajeros. No se produjeron descarrilamientos, heridos ni daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nEl incidente tiene lugar el día 12 de agosto de 2017 a las 11:55 horas, en la estación de Puebla de \nSanabria, pk 106+871 de la línea 822 Zamora A Coruña, estando en mando local, cuando el tren de \nviajeros 154 de RENFE VIAJEROS, con origen Madrid Chamartín y destino Ferrol, con paso directo y sin \nparada establecida, entra en la estación y tras pasar por las señales avanzada E’1 y de entrada E1, \nambas en indicación de vía libre, se encuentra con el desvío 17 orientado a vía desviada por fallo en \nlas instalaciones de seguridad. El maquinista se da cuenta de esta situación y actúa sobre el sistema \nde frenado de emergencia del tren, deteniendo el mismo en vía 5 a la altura del edificio de viajeros. \nEl fallo en las instalaciones de seguridad, se pone de manifiesto tras su rearme después de la \nreparación de una avería en el suministro de energía eléctrica que deja la estación sin energía desde \nlas 04:00 horas hasta las 06:55 horas. \nCon el enclavamiento sin energía eléctrica, es necesario expedir el tren 18321, que tiene salida \nprevista a las 07:02 horas con destino Medina del Campo y se encuentra estacionado en vía 5. A este \nefecto, el responsable de circulación, previa autorización del CTC, dispone los itinerarios necesarios \npara la maniobra de cambio de este tren de vía 5 (sin andén), a vía 4 (con andén), para lo cual \nacciona mediante manivela los motores de los desvíos 17 y 19. \nUna vez realizada la maniobra y restablecida la energía eléctrica, el responsable de circulación observa \nque los desvíos 17 y 19 no tienen comprobación en el cuadro de mando local y procede a accionar el \nprimero a posición normal y el segundo a invertida, dando ambos comprobación, a fin de expedir el \ntren 18321 desde vía 4. \n\n## Página 65\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0038/2017 ocurrido el 12.08.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n190628-170812–IF_CIAF \nPág. 65 de 74 \nA las 7:08 horas, el Encargado de Trabajos solicita trabajos en Instalaciones de Seguridad, \nconcretamente en “Energía”, siendo concedidos por el responsable de circulación de Puebla de \nSanabria, y se dan por finalizados a las 7:30 horas, una vez que se hacen verificaciones en cabina y en \nel cuadro de mando sobre el funcionamiento de los elementos de mando y comprobación del \nenclavamiento. \nSólo hay un movimiento en la estación (a las 8:18 horas), que no afecta al desvío 17, hasta que el \nresponsable de circulación establece a las 11:45 horas, aproximadamente, itinerario de paso directo \nZamora - A Coruña por vía 1 para el tren 154. Las señales avanzada E’1 y de entrada E1 están en \nindicación de vía libre. Las agujas 17 y 19 enclavadas a posición normal según se muestra en el cuadro \nde mando local y en el videográfico del CTC de León. \nA las 11:56:00 horas, el tren 154 entra en la estación y en vez de continuar por vía 1 según itinerario \nestablecido, entra a vía 5 al encontrarse la aguja 17 orientada a vía desviada.  \nLa cronología del suceso es la que a continuación se relaciona: \n-   A la 01:23:39 horas, el puesto de mando de León detecta un fallo en las líneas de suministro de \nenergía eléctrica en alta tensión de la estación.  \n-  Entre las 01:23:39 horas y las 01:31:58 horas se producen nuevos fallos en el suministro de energía \neléctrica. \n-   A las 01:31:58 horas la estación está operativa. El suministro se realiza por la puesta en servicio del \nsistema de alimentación ininterrumpida (SAI), que proporciona energía procedente de sus baterías. \n-   A las 04:00:24 horas, se agota la energía almacenada en las baterías del SAI. Se pierden mando y \ncomprobación tanto en la estación de Puebla de Sanabria como en el puesto de mando de León. \nEl puesto de mando de León comunica esta circunstancia a Logística, quien avisa al personal de \ninstalaciones de seguridad eléctricas para que se desplace a Puebla de Sanabria \n-   A las 6:30:00 horas, el responsable de circulación de Puebla de Sanabria, al ver que no llega el \npersonal de instalaciones de seguridad, informa al puesto de mando de León que va a establecer \nitinerario vía 5 - vía 4 para el tren 18321, que tiene salida a las 7:02 horas con destino Medina del \nCampo. Sin disponer de mando ni comprobación en el enclavamiento, procede a establecer el \nitinerario ejecutando manualmente los cambios en los desvíos 19 y 17 quedando ambos orientados \na invertida (-). Se realiza la maniobra y el tren 18321 queda estacionado en vía 4. \n-   A las 06:55:32 horas, agentes de mantenimiento reponen el interruptor general de la estación con \n\n## Página 66\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0038/2017 ocurrido el 12.08.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n190628-170812–IF_CIAF \nPág. 66 de 74 \nlo que queda restablecido el suministro de energía eléctrica. Se verifica por parte del responsable \nde circulación de Puebla de Sanabria y por el responsable de circulación del puesto de mando de \nLeón que los desvíos 17 y 19 se encuentran sin comprobación. El monitor del CTC de León muestra \nla ocupación de los circuitos de vía. El Puesto de mando de León concede el mando local al \nresponsable de circulación de la estación de Puebla de Sanabria. \n-  A las 06:56:07 horas, el monitor del CTC de León muestra comprobación del desvío 17 a posición \ndirecta (+). El desvío 19 no muestra comprobación.  \n-  A las 06:56:19 horas, el responsable de circulación, toma el mando local de la estación. El monitor \ndel CTC de León muestra comprobación de aguja 17 a vía directa. El desvío 19 no muestra \ncomprobación. \n-  Sobre las 6:57 horas, el puesto de mando de León transmite por telefonema al responsable de \ncirculación de Puebla de Sanabria la autorización de rebase de la señal de Salida S2/4 para tren \n18321, al no dar comprobación la aguja 19. \n-  A las 07:04:40 horas, el responsable de circ",
+   "pagina": 64,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Mal funcionamiento de las instalaciones de seguridad: fallo de los diodos de protección de la bobina del relé de comprobación de la aguja 17, causando discordancia entre la indicación en cuadro de mando (vía directa) y la posición real (vía desviada).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No verificación de la concordancia entre campo y cuadro de mando por parte de los técnicos de mantenimiento tras la reparación eléctrica.",
+    "Incumplimiento del Manual de Operación por parte del responsable de circulación al no mandar la aguja 17 a ambas posiciones eléctricamente para comprobar su funcionamiento tras el uso de manivela.",
+    "Deficiencias en el diseño de los circuitos de mando y comprobación derivados de la modificación tecnológica de 2008."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nComo causa directa del incidente cabe indicar: \nEl mal funcionamiento de las instalaciones de seguridad de la estación de Puebla de Sanabria, \nque comprueban la aguja 17 en el cuadro de mando local y CTC orientada a vía general, \nestando en el terreno orientada a vía desviada. Más concretamente, esta circunstancia fue \ndebida al fallo de los diodos para la protección de la bobina del relé de comprobación a normal \n(orientada a vía directa), de la aguja 17, producido tras el arranque de la instalación una vez \nreparada una avería en el suministro de energía eléctrica a la estación que obligó al \naccionamiento manual de la aguja. (VER MEDIDAS ADOPTADAS). \nComo factores coadyuvantes, cabe significar: \n- Entre las pruebas que realizaron los técnicos de Mantenimiento de Infraestructura que \nrepararon la avería eléctrica, antes de dar de alta la instalación, y a pesar de ser informados \npor el responsable de circulación que había procedido a accionar manualmente los motores de \nlas agujas 17 y 19, no accionaron desde el cuadro de mando local eléctricamente estas agujas \nvarias veces para comprobar su funcionamiento ni se realizaron pruebas de concordancia \nentre el campo y el cuadro de mando local.  (RECOMENDACIÓN 38/2017 - 3) \n- El responsable de circulación de la estación incumple lo establecido en el apartado 5.1 del \nManual de Operación 2299 – MO, de la Consigna A2299, de 11 de enero de 2013. \nEnclavamiento de Puebla de Sanabria, al no mandar desde el cuadro de mando local la aguja \n17 a las dos posiciones (normal e invertida) varias veces para asegurarse de su buen  \n\n## Página 71\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0038/2017 ocurrido el 12.08.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n190628-170812–IF_CIAF \nPág. 71 de 74 \n  funcionamiento, concluida la reparación de la avería en el suministro de energía eléctrica de \nla estación que originó el accionamiento manual del motor de la misma. (VER MEDIDAS \nADOPTADAS). \n4.3.2. Factores subyacentes relacionados con el personal ferroviario y el mantenimiento \ndel material rodante o de la infraestructura ferroviaria \nComo factores subyacentes, cabe significar: \n-  El Manual de Operación 2299 - MO de la Consigna A2299 de 11.01.2013. Enclavamiento de \nPuebla de Sanabria, no contempla la comprobación de la concordancia entre la orientación \ndel desvío en el campo con la representación videográfica en el CTC y cuadro de mando \nlocal, antes de proceder al establecimiento de itinerarios desde el CTC o cuadro de mando \nlocal, una vez hayan cesado las causas por las que se hizo necesario el accionamiento \nmanual de los motores de las agujas afectadas. (RECOMENDACIÓN 38/2017 – 3)  \n-  En el incidente que se investiga, no se tiene constancia de que se realizase análisis de modo \nde fallo en contra de la seguridad por parte de la empresa que ejecutó los trabajos de \nmodificación del enclavamiento. Estos trabajos no fueron supervisados técnicamente de \nforma adecuada. (RECOMENDACIÓN 38/2017 – 1). \n4.3.3. Causas raíz relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad. \nComo causa raíz, cabe significar: \nDeficiencias en el diseño de los circuitos de mando y comprobación de la aguja 17, \ncorrespondientes a la modificación tecnológica del enclavamiento original que tuvo lugar en el \naño 2008. Los trabajos correspondientes a esta modificación consistentes en la sustitución de \nlos accionamientos de aguja existentes por los de tipo unificado no fueron ejecutados \nconforme a procedimiento.  (RECOMENDACIÓN 38/2017 – 1). \n4.3.4.   Observaciones adicionales. \nEl fallo que se produjo en el enclavamiento de Puebla de Sanabria, y que dio lugar al incidente \nobjeto de esta investigación, fue solventado realizando modificaciones en las Consignas y en \nlas revisiones de mantenimiento pertinentes, como se verá en el apartado siguiente, así como \nlas reparaciones concretas para su puesta en servicio y normal funcionamiento volviendo el \nsistema a su estado original. \n \n\n## Página 72\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0038/2017 ocurrido el 12.08.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n190628-170812–IF_CIAF \nPág. 72 de 74 \nNo obstante, el diseño no adecuado de dicho enclavamiento puede dar lugar a que se repita el \nmismo fallo en contra de la seguridad, si bien no es probable, dadas las medidas adoptadas. \nLo mismo puede ocurrir en cualquier otro enclavamiento en que se produzca un fallo en contra \nde la seguridad y se repare retornando a la situación de partida, pues con ello no se garantiza \nque no pueda volver a ocurrir el mismo fallo u otro en contra de la seguridad. \nPor ello sería conveniente que ante un fallo en contra de la seguridad se adoptaran medidas \ncomplementarias para que, mientras no se profundice en las causas y se subsanen las \ndeficiencias del sistema que lo provocaron, se mantenga un nivel de seguridad adecuado. \n(RECOMENDACIÓN 38/17 – 2)",
+   "pagina": 70,
+   "cita": "4.3. CONCLUSIONES. 4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalaci",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nComo causa directa del incidente cabe indicar: \nEl mal funcionamiento de las instalaciones de seguridad de la estación de Puebla de Sanabria, \nque comprueban la aguja 17 en el cuadro de mando local y CTC orientada a vía general, \nestando en el terreno orientada a vía desviada. Más concretamente, esta circunstancia fue \ndebida al fallo de los diodos para la protección de la bobina del relé de comprobación a normal \n(orientada a vía directa), de la aguja 17, producido tras el arranque de la instalación una vez \nreparada una avería en el suministro de energía eléctrica a la estación que obligó al \naccionamiento manual de la aguja. (VER MEDIDAS ADOPTADAS). \nComo factores coadyuvantes, cabe significar: \n- Entre las pruebas que realizaron los técnicos de Mantenimiento de Infraestructura que \nrepararon la avería eléctrica, antes de dar de alta la instalación, y a pesar de ser informados \npor el responsable de circulación que había procedido a accionar manualmente los motores de \nlas agujas 17 y 19, no accionaron desde el cuadro de mando local eléctricamente estas agujas \nvarias veces para comprobar su funcionamiento ni se realizaron pruebas de concordancia \nentre el campo y el cuadro de mando local.  (RECOMENDACIÓN 38/2017 - 3) \n- El responsable de circulación de la estación incumple lo establecido en el apartado 5.1 del \nManual de Operación 2299 – MO, de la Consigna A2299, de 11 de enero de 2013. \nEnclavamiento de Puebla de Sanabria, al no mandar desde el cuadro de mando local la aguja \n17 a las dos posiciones (normal e invertida) varias veces para asegurarse de su buen  \n\n## Página 71\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0038/2017 ocurrido el 12.08.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n190628-170812–IF_CIAF \nPág. 71 de 74 \n  funcionamiento, concluida la reparación de la avería en el suministro de energía eléctrica de \nla estación que originó el accionamiento manual del motor de la misma. (VER MEDIDAS \nADOPTADAS). \n4.3.2. Factores subyacentes relacionados con el personal ferroviario y el mantenimiento \ndel material rodante o de la infraestructura ferroviaria \nComo factores subyacentes, cabe significar: \n-  El Manual de Operación 2299 - MO de la Consigna A2299 de 11.01.2013. Enclavamiento de \nPuebla de Sanabria, no contempla la comprobación de la concordancia entre la orientación \ndel desvío en el campo con la representación videográfica en el CTC y cuadro de mando \nlocal, antes de proceder al establecimiento de itinerarios desde el CTC o cuadro de mando \nlocal, una vez hayan cesado las causas por las que se hizo necesario el accionamiento \nmanual de los motores de las agujas afectadas. (RECOMENDACIÓN 38/2017 – 3)  \n-  En el incidente que se investiga, no se tiene constancia de que se realizase análisis de modo \nde fallo en contra de la seguridad por parte de la empresa que ejecutó los trabajos de \nmodificación del enclavamiento. Estos trabajos no fueron supervisados técnicamente de \nforma adecuada. (RECOMENDACIÓN 38/2017 – 1). \n4.3.3. Causas raíz relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad. \nComo causa raíz, cabe significar: \nDeficiencias en el diseño de los circuitos de mando y comprobación de la aguja 17, \ncorrespondientes a la modificación tecnológica del enclavamiento original que tuvo lugar en el \naño 2008. Los trabajos correspondientes a esta modificación consistentes en la sustitución de \nlos accionamientos de aguja existentes por los de tipo unificado no fueron ejecutados \nconforme a procedimiento.  (RECOMENDACIÓN 38/2017 – 1). \n4.3.4.   Observaciones adicionales. \nEl fallo que se produjo en el enclavamiento de Puebla de Sanabria, y que dio lugar al incidente \nobjeto de esta investigación, fue solventado realizando modificaciones en las Consignas y en \nlas revisiones de mantenimiento pertinentes, como se verá en el apartado siguiente, así como \nlas reparaciones concretas para su puesta en servicio y normal funcionamiento volviendo el \nsistema a su estado original. \n \n\n## Página 72\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0038/2017 ocurrido el 12.08.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n190628-170812–IF_CIAF \nPág. 72 de 74 \nNo obstante, el diseño no adecuado de dicho enclavamiento puede dar lugar a que se repita el \nmismo fallo en contra de la seguridad, si bien no es probable, dadas las medidas adoptadas. \nLo mismo puede ocurrir en cualquier otro enclavamiento en que se produzca un fallo en contra \nde la seguridad y se repare retornando a la situación de partida, pues con ello no se garantiza \nque no pueda volver a ocurrir el mismo fallo u otro en contra de la seguridad. \nPor ello sería conveniente que ante un fallo en contra de la seguridad se adoptaran medidas \ncomplementarias para que, mientras no se profundice en las causas y se subsanen las \ndeficiencias del sistema que lo provocaron, se mantenga un nivel de seguridad adecuado. \n(RECOMENDACIÓN 38/17 – 2)",
+   "pagina": 70,
+   "cita": "4.3. CONCLUSIONES. 4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalaci",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": "## Página 5\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0038/2017 ocurrido el 12.08.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n190628-170812–IF_CIAF \nPág. 5 de 74",
+   "pagina": 4,
+   "cita": "4.3.4. Observaciones adicionales……………………………………………………….……………….. …..71",
+   "origen": "determinista",
+   "regla": "sec:^observaciones adicionales",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Medidas adoptadas por el administrador de infraestructuras, ADIF. \n-   En fechas siguientes al suceso, se despliegan acciones para la identificación de enclavamientos \neléctricos de tecnología similar al de Puebla de Sanabria. \nSe chequean todas las instalaciones de cableado libre existentes en las redes convencional y de \nancho métrico. Del análisis de esta actuación se deduce que el enclavamiento de Puebla de \nSanabria es diferente al resto de las instalaciones revisadas. \nSegún tecnólogo de estos enclavamientos, sólo puede producirse una situación de riesgo por \ntriple fallo simultáneo, excepto en el enclavamiento de Puebla de Sanabria que se produjo por \nun doble fallo. El nivel de integridad de seguridad exigido a estas instalaciones (EN-50129) es \nSIL-4, y se cumple, por lo que considera que no debe hacerse ninguna actuación adicional.  \n-  Se prevé la verificación del estado de los diodos con sustitución de los que se hayan desoldado, \nfundido o puesto en cortocircuito en las revisiones del enclavamiento de cableado libre de \nPuebla de Sanabria previstas en el Plan de Mantenimiento Anual de la brigada encargada de \nestos trabajos.  \n-  Con fecha posterior al incidente, ADIF publica la Consigna Interna ATOI/CTOI nº 5/17 de 11 de \nseptiembre: “Accionamiento de agujas a manivela en la Estación de Puebla de Sanabria”.  \n- Las obras de la Línea de Alta Velocidad Madrid – Galicia entre Zamora y Orense, incluyen la  \n\n## Página 73\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0038/2017 ocurrido el 12.08.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n190628-170812–IF_CIAF \nPág. 73 de 74 \n  sustitución del enclavamiento de la estación de Puebla de Sanabria. La puesta en servicio de esta \ninstalación tuvo lugar en mayo de 2019.",
+   "pagina": 72,
+   "cita": "5.  MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Medidas adoptadas por el administrador de infraestructuras, ADIF. \n-   En fechas siguientes al suceso, se despliegan acciones para la identificación de enclavamientos \neléctricos de tecnología similar al de Puebla de Sanabria. \nSe chequean todas las instalaciones de cableado libre existentes en las redes convencional y de \nancho métrico. Del análisis de esta actuación se deduce que el enclavamiento de Puebla de \nSanabria es diferente al resto de las instalaciones revisadas. \nSegún tecnólogo de estos enclavamientos, sólo puede producirse una situación de riesgo por \ntriple fallo simultáneo, excepto en el enclavamiento de Puebla de Sanabria que se produjo por \nun doble fallo. El nivel de integridad de seguridad exigido a estas instalaciones (EN-50129) es \nSIL-4, y se cumple, por lo que considera que no debe hacerse ninguna actuación adicional.  \n-  Se prevé la verificación del estado de los diodos con sustitución de los que se hayan desoldado, \nfundido o puesto en cortocircuito en las revisiones del enclavamiento de cableado libre de \nPuebla de Sanabria previstas en el Plan de Mantenimiento Anual de la brigada encargada de \nestos trabajos.  \n-  Con fecha posterior al incidente, ADIF publica la Consigna Interna ATOI/CTOI nº 5/17 de 11 de \nseptiembre: “Accionamiento de agujas a manivela en la Estación de Puebla de Sanabria”.  \n- Las obras de la Línea de Alta Velocidad Madrid – Galicia entre Zamora y Orense, incluyen la  \n\n## Página 73\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0038/2017 ocurrido el 12.08.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n190628-170812–IF_CIAF \nPág. 73 de 74 \n  sustitución del enclavamiento de la estación de Puebla de Sanabria. La puesta en servicio de esta \ninstalación tuvo lugar en mayo de 2019.",
+   "pagina": 72,
+   "cita": "5.  MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Medidas adoptadas por el administrador de infraestructuras, ADIF. \n-   En fechas siguientes al suceso, se despliegan acciones para la identificación de enclavamientos \neléctricos de tecnología similar al de Puebla de Sanabria. \nSe chequean todas las instalaciones de cableado libre existentes en las redes convencional y de \nancho métrico. Del análisis de esta actuación se deduce que el enclavamiento de Puebla de \nSanabria es diferente al resto de las instalaciones revisadas. \nSegún tecnólogo de estos enclavamientos, sólo puede producirse una situación de riesgo por \ntriple fallo simultáneo, excepto en el enclavamiento de Puebla de Sanabria que se produjo por \nun doble fallo. El nivel de integridad de seguridad exigido a estas instalaciones (EN-50129) es \nSIL-4, y se cumple, por lo que considera que no debe hacerse ninguna actuación adicional.  \n-  Se prevé la verificación del estado de los diodos con sustitución de los que se hayan desoldado, \nfundido o puesto en cortocircuito en las revisiones del enclavamiento de cableado libre de \nPuebla de Sanabria previstas en el Plan de Mantenimiento Anual de la brigada encargada de \nestos trabajos.  \n-  Con fecha posterior al incidente, ADIF publica la Consigna Interna ATOI/CTOI nº 5/17 de 11 de \nseptiembre: “Accionamiento de agujas a manivela en la Estación de Puebla de Sanabria”.  \n- Las obras de la Línea de Alta Velocidad Madrid – Galicia entre Zamora y Orense, incluyen la  \n\n## Página 73\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0038/2017 ocurrido el 12.08.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n190628-170812–IF_CIAF \nPág. 73 de 74 \n  sustitución del enclavamiento de la estación de Puebla de Sanabria. La puesta en servicio de esta \ninstalación tuvo lugar en mayo de 2019.",
+   "pagina": 72,
+   "cita": "5.  MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Debe asegurarse que las actuaciones que afecten a la seguridad y constituyan una modificación del diseño original de cualquier enclavamiento eléctrico existente, en cualquiera de sus fases: proyecto, contratación y ejecución de las obras correspondientes, se realicen según establece el Procedimiento Específico ADIF- DGSORRHH-DSC-PE-09-ACI y conforme a la Instrucción Técnica ADIF-IT-107-002-002- SC-R1, y se proceda al estudio, evaluación y valoración del riesgo validado por un asesor independiente.",
+    "Después de cualquier suceso o avería en un enclavamiento que sea debida a un mal comportamiento en contra de la seguridad, se deberán adoptar medidas complementarias provisionales en esta instalación para mitigar el riesgo hasta que tenga lugar la modificación o sustitución del enclavamiento. Estas medidas podrán ser tales como: supresión de indicaciones menos restrictivas en las señales, desconexión eléctrica de aparatos, inmovilización de agujas, bloqueo de movimientos, limitaciones de velocidad etc.",
+    "En el Procedimiento del SGS relativo al mantenimiento de los enclavamientos eléctricos, desarrollar las reglas de actuación que contemplen que, concluida la reparación o restitución de la instalación, se debe proceder a la verificación de su correcto funcionamiento eléctrico así como comprobar la concordancia entre la posición real de las agujas afectadas en el campo y las comprobaciones en el cuadro de mando local y CTC antes de dar de alta la instalación.",
+    "Debe asegurarse que las actuaciones que afecten a la seguridad y constituyan una modificación del diseño original de cualquier enclavamiento eléctrico existente, en cualquiera de sus fases: proyecto, contratación y ejecución de las obras correspondientes, se realicen según establece el Procedimiento Específico ADIF- DGSORRHH-DSC-PE-09-ACI y conforme a la Instrucción Técnica ADIF-IT-107-002-002-SC- R1, y se proceda al estudio, evaluación y valoración del riesgo validado por un asesor independiente.",
+    "Después de cualquier suceso o avería en un enclavamiento que sea debida a un mal comportamiento en contra de la seguridad, se deberán adoptar medidas complementarias provisionales en esta instalación para mitigar el riesgo hasta que tenga lugar la modificación o sustitución del enclavamiento. Estas medidas podrán ser tales como: supresión de indicaciones menos restrictivas en las señales, desconexión eléctrica de aparatos, inmovilización de agujas, bloqueo de movimientos, limitaciones de velocidad etc.",
+    "En el Procedimiento del SGS relativo al mantenimiento de los enclavamientos eléctricos, desarrollar las reglas de actuación que contemplen que, concluida la reparación o restitución de la instalación, se debe proceder a la verificación de su correcto funcionamiento eléctrico así como comprobar la concordancia entre la posición real de las agujas afectadas en el campo y las comprobaciones en el cuadro de mando local y CTC antes de dar de alta la instalación."
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)"
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)"
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "2017-08-12T01:23:39",
+     "evento": "Fallo inicial en líneas de suministro de alta tensión."
+    },
+    {
+     "hora": "2017-08-12T04:00:24",
+     "evento": "Agotamiento de baterías del SAI; pérdida total de mando y comprobación."
+    },
+    {
+     "hora": "2017-08-12T06:30:00",
+     "evento": "Responsable de circulación informa al CTC que maniobrará manualmente los desvíos 17 y 19 para mover el tren 18321."
+    },
+    {
+     "hora": "2017-08-12T06:55:32",
+     "evento": "Restablecimiento del suministro eléctrico por agentes de mantenimiento."
+    },
+    {
+     "hora": "2017-08-12T07:30:00",
+     "evento": "Fin de los trabajos de reparación de energía; verificaciones insuficientes en el enclavamiento."
+    },
+    {
+     "hora": "2017-08-12T11:45:00",
+     "evento": "Establecimiento de itinerario de paso directo por vía 1 para el tren 154."
+    },
+    {
+     "hora": "2017-08-12T11:55:31",
+     "evento": "El tren pasa la baliza de entrada E1; el maquinista observa el desvío 17 mal orientado."
+    },
+    {
+     "hora": "2017-08-12T11:55:36",
+     "evento": "Aplicación del freno de servicio en urgencia."
+    },
+    {
+     "hora": "2017-08-12T11:55:47",
+     "evento": "Aplicación de la seta de emergencia."
+    },
+    {
+     "hora": "2017-08-12T11:56:01",
+     "evento": "Detención del tren 154 en vía 5."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0038/2017",
+ "expediente": "0038/17",
+ "anio": 2017,
+ "titulo": "INFORME FINAL DE LA CIAF SOBRE EL INCIDENTE FERROVIARIO Nº 0038/2017 OCURRIDO EL DÍA 12.08.2017 EN LA ESTACIÓN DE PUEBLA DE SANABRIA (ZAMORA)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/190628-120817-IF-SN_CIAF.md"
+}

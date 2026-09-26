@@ -1,0 +1,912 @@
+{
+ "id": "IF-021008-281108-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/EE847FC5-5BC7-4E90-B87E-0197F63F4BA0/46975/IF021008281108CIAF.pdf",
+ "pdf": "pdfs/ES/IF-021008-281108-CIAF.pdf",
+ "md5_pdf": "b45ce6f4d6cb0d3e086ba9fe4e3362b9",
+ "paginas_md": 9,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 8,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0046/2008",
+   "pagina": 1,
+   "cita": "nº 0046/2008 ocurrido el 02.10.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2 de octubre de 2008, a las 18:12, el tren de cercanías 7606 de FEVE arrolló a una mujer en el viaducto del río Esla, PK 53,725 de la línea 31 León-Bilbao, entre Cistierna y León. La víctima falleció en el acto y no se produjeron daños materiales ni al medio ambiente. La investigación concluye que el accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado. Se recomienda reforzar la señalización de prohibición y estudiar una pasarela peatonal.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-10-02",
+    "hora": "18:12",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Cistierna",
+     "pk": "53,725",
+     "linea": "31 León-Bilbao (tramo Matallana-Balmaseda)",
+     "provincia": "León",
+     "descripcion_lugar": "Viaducto sobre el río Esla, en las afueras de la estación de Cistierna, en el trayecto Cistierna-Apeadero de Yugueros, entre Cistierna y León."
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 2 de octubre de 2008, a las 18:12 horas, el tren de Viajeros de cercanías 7606, de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Interceptación de la vía durante 8 minutos para el tren implicado, desde las 18:12 hasta las 18:20 horas; otros tres trenes afectados con un retraso total de 24 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Tránsito de la víctima por un lugar no autorizado para ello.",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Uso habitual del viaducto por parte de propietarios de fincas que acceden a pie para cruzar de una margen a otra del río, por ser el camino más corto entre estas y la población de Cistierna."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Zona de tránsito habitual por personas ajenas a la actividad ferroviaria."
+   ],
+   "pagina": 2,
+   "cita": "Como medida definitiva se recomienda, al tratarse de una zona de tránsito habitual por",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Medida provisional: repintado del cartel existente de prohibido el paso y colocación de otros tres carteles más, uno en cada margen de la vía y en los puntos de acceso al viaducto.",
+     "destinatario": null
+    },
+    {
+     "texto": "Medida definitiva: estudio, por parte de la administración competente, de la posibilidad de construcción de una pasarela peatonal que una ambas márgenes del río, para evitar el uso del puente ferroviario por personas ajenas al ferrocarril.",
+     "destinatario": "administración competente"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Medida provisional: repintado del cartel existente de prohibido el paso y colocación de otros tres carteles más, uno en cada margen de la vía y en los puntos de acceso al viaducto.",
+     "destinatario": null
+    },
+    {
+     "texto": "Medida definitiva: estudio, por parte de la administración competente, de la posibilidad de construcción de una pasarela peatonal que una ambas márgenes del río, para evitar el uso del puente ferroviario por personas ajenas al ferrocarril.",
+     "destinatario": "administración competente"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "FEVE"
+   ],
+   "pagina": 2,
+   "cita": "empresa ferroviaria FEVE, arrolla a una persona en el P.K. 53,725 de la línea 31 León - Bilbao.",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-10-02",
+   "pagina": 2,
+   "cita": "El día 2 de octubre de 2008, a las 18:12 horas, el tren de Viajeros de cercanías 7606, de la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "18:12",
+   "pagina": 2,
+   "cita": "El día 2 de octubre de 2008, a las 18:12 horas, el tren de Viajeros de cercanías 7606, de la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Cistierna",
+    "pk": "53,725",
+    "linea": "31 León-Bilbao (tramo Matallana-Balmaseda)",
+    "provincia": "León",
+    "descripcion_lugar": "Viaducto sobre el río Esla, en las afueras de la estación de Cistierna, en el trayecto Cistierna-Apeadero de Yugueros, entre Cistierna y León."
+   },
+   "pagina": 2,
+   "cita": "sobre el río Esla  entre Cistierna y León.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "31 León-Bilbao",
+   "pagina": 2,
+   "cita": "31 León-Bilbao (tramo Matallana-Balmaseda)",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UTDE 2456 y 2406",
+    "averia": "No se produjeron daños; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 2 de octubre de 2008, el tren de viajeros de cercanías 7606 de FEVE, formado por las UTDE 2456 y 2406, salió de la estación de Cistierna con destino León. Tras salir de la curva que precede al puente sobre el río Esla, el maquinista observó a una mujer que caminaba por la caja de la vía en sentido de la marcha y de espalda al tren.\n\nEl maquinista hizo uso del silbato en repetidas ocasiones y aplicó el freno neumático, pero no pudo evitar el arrollamiento. La víctima, una mujer de 80 años, falleció en el acto. El suceso se produjo en el PK 53,725 de la línea 31 León-Bilbao, sobre un viaducto de sillería de 8 metros de altura.\n\nTras el impacto, el maquinista comunicó el suceso a la estación de Cistierna, al Jefe de circulación y al puesto de mando de Bilbao, y se activó el Plan de Emergencia exterior mediante el 112. El tren permaneció detenido desde las 18:12 hasta las 18:20 horas y luego continuó la marcha.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Cistierna",
+    "pk": "53,725",
+    "linea": "31 León-Bilbao (tramo Matallana-Balmaseda)",
+    "provincia": "León",
+    "descripcion_lugar": "Viaducto sobre el río Esla, en las afueras de la estación de Cistierna, en el trayecto Cistierna-Apeadero de Yugueros, entre Cistierna y León."
+   },
+   "pagina": 2,
+   "cita": "sobre el río Esla  entre Cistierna y León.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Interceptación de la vía durante 8 minutos para el tren implicado, desde las 18:12 hasta las 18:20 horas; otros tres trenes afectados con un retraso total de 24 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Hasta la fecha de realización de este informe, no se ha adoptado ninguna medida específica de \nprotección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 7606",
+     "implicacion": "Matrícula 9230; posee título de conducción y habilitación; realizó silbato repetidas veces y freno neumático; prueba de alcoholemia negativa; último reciclaje formativo 2008-05-28 y último reconocimiento médico y psicotécnico 2008-07-11."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "7606",
+     "tipo": "Viajeros de cercanías",
+     "operador": "FEVE",
+     "danos": "No se produjeron daños en el material rodante."
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 2 de octubre de 2008, a las 18:12 horas, el tren de Viajeros de cercanías 7606, de la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UTDE 2456 y 2406",
+    "averia": "No se produjeron daños; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo telefónico (BT); cartel de prohibido el paso existente",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "50 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Viaducto de sillería de 8 m de altura sobre el río Esla; trazado recto y horizontal con entrada y salida en curva a la izquierda en sentido de la marcha; velocidad al activar el freno de emergencia 50,9 km/h."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo telefónico (BT); cartel de prohibido el paso existente",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Interceptación de la vía durante 8 minutos para el tren implicado, desde las 18:12 hasta las 18:20 horas; otros tres trenes afectados con un retraso total de 24 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Interceptación de la vía durante 8 minutos para el tren implicado, desde las 18:12 hasta las 18:20 horas; otros tres trenes afectados con un retraso total de 24 minutos."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-021008-281108-CIAF Pág. 1 de 9 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0046/2008",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Interceptación de la vía durante 8 minutos para el tren implicado, desde las 18:12 hasta las 18:20 horas; otros tres trenes afectados con un retraso total de 24 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTDE 2456 y 2406",
+    "averia": "No se produjeron daños; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo telefónico (BT); cartel de prohibido el paso existente",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "50 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Viaducto de sillería de 8 m de altura sobre el río Esla; trazado recto y horizontal con entrada y salida en curva a la izquierda en sentido de la marcha; velocidad al activar el freno de emergencia 50,9 km/h."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "León",
+    "municipio": null,
+    "estacion": "Cistierna"
+   },
+   "pagina": 2,
+   "cita": "empresa ferroviaria FEVE, arrolla a una persona en el P.K. 53,725 de la línea 31 León - Bilbao.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo telefónico (BT); cartel de prohibido el paso existente",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo telefónico (BT); cartel de prohibido el paso existente",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "50 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Viaducto de sillería de 8 m de altura sobre el río Esla; trazado recto y horizontal con entrada y salida en curva a la izquierda en sentido de la marcha; velocidad al activar el freno de emergencia 50,9 km/h."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTDE 2456 y 2406",
+    "averia": "No se produjeron daños; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "tránsito peatón vía no autorizada",
+    "uso habitual viaducto por vecinos"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 2 de octubre de 2008, el tren de viajeros de cercanías 7606 de FEVE, formado por las UTDE 2456 y 2406, salió de la estación de Cistierna con destino León. Tras salir de la curva que precede al puente sobre el río Esla, el maquinista observó a una mujer que caminaba por la caja de la vía en sentido de la marcha y de espalda al tren.\n\nEl maquinista hizo uso del silbato en repetidas ocasiones y aplicó el freno neumático, pero no pudo evitar el arrollamiento. La víctima, una mujer de 80 años, falleció en el acto. El suceso se produjo en el PK 53,725 de la línea 31 León-Bilbao, sobre un viaducto de sillería de 8 metros de altura.\n\nTras el impacto, el maquinista comunicó el suceso a la estación de Cistierna, al Jefe de circulación y al puesto de mando de Bilbao, y se activó el Plan de Emergencia exterior mediante el 112. El tren permaneció detenido desde las 18:12 hasta las 18:20 horas y luego continuó la marcha.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en las afueras de la estación de Cistierna, en el P.K. 53,725 de la línea",
+   "pagina": 6,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Tránsito de la víctima por un lugar no autorizado para ello.",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Uso habitual del viaducto por parte de propietarios de fincas que acceden a pie para cruzar de una margen a otra del río, por ser el camino más corto entre estas y la población de Cistierna."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Hasta la fecha de realización de este informe, no se ha adoptado ninguna medida específica de \nprotección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Hasta la fecha de realización de este informe, no se ha adoptado ninguna medida específica de \nprotección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Hasta la fecha de realización de este informe, no se ha adoptado ninguna medida específica de \nprotección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Medida provisional: repintado del cartel existente de prohibido el paso y colocación de otros tres carteles más, uno en cada margen de la vía y en los puntos de acceso al viaducto.",
+     "destinatario": null
+    },
+    {
+     "texto": "Medida definitiva: estudio, por parte de la administración competente, de la posibilidad de construcción de una pasarela peatonal que una ambas márgenes del río, para evitar el uso del puente ferroviario por personas ajenas al ferrocarril.",
+     "destinatario": "administración competente"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "18:10",
+     "evento": "2008-10-02: el tren 7606 sale de la estación de Cistierna con destino León."
+    },
+    {
+     "hora": "18:12",
+     "evento": "2008-10-02: el tren arrolla a una mujer en el viaducto del río Esla, PK 53,725; la víctima fallece en el acto."
+    },
+    {
+     "hora": null,
+     "evento": "2008-10-02: tras el impacto, el maquinista comunica el suceso a la estación de Cistierna, al Jefe de circulación y al puesto de mando de Bilbao; el Plan de Emergencia exterior se activa por medio del 112."
+    },
+    {
+     "hora": "18:20",
+     "evento": "2008-10-02: tras consultar con el Puesto de Mando de Bilbao y personarse el equipo del 112, el tren continúa la marcha."
+    },
+    {
+     "hora": "19:30",
+     "evento": "2008-10-02: el Inspector General de FEVE comunica el accidente a la Comisión de Investigación de Accidentes Ferroviarios."
+    },
+    {
+     "hora": null,
+     "evento": "2008-10-20: el Inspector General de FEVE entrega su informe particular del accidente."
+    },
+    {
+     "hora": null,
+     "evento": "2008-11-28: el Pleno de la CIAF aprueba como definitivo el informe particular con las recomendaciones."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0046/2008",
+ "expediente": "0046/08",
+ "anio": 2008,
+ "titulo": "Informe final sobre la investigación del accidente ferroviario nº 0046/2008 ocurrido el día 02.10.2008",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-021008-281108-CIAF.md"
+}

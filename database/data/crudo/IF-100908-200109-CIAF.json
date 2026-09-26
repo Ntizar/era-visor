@@ -1,0 +1,901 @@
+{
+ "id": "IF-100908-200109-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/F158801E-27E4-47B5-ACFD-549D1DFAC5F0/46971/IF100908200109CIAF.pdf",
+ "pdf": "pdfs/ES/IF-100908-200109-CIAF.pdf",
+ "md5_pdf": "030d7df892f9ee597d38c50ff4e116b0",
+ "paginas_md": 10,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 6,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0041/2008",
+   "pagina": 1,
+   "cita": "nº 0041/2008 ocurrido el 10.09.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 10 de septiembre de 2008, a las 15:14, el tren de mercancías 87456 de Comsa Rail Transport arrolló a una mujer de 55 años en el P.K. 62,095 de la estación de Villarreal, línea 600 Valencia-San Vicente de Calders. La víctima cruzó las vías por un lugar no autorizado, en el final del cerramiento y paso vicioso de personas. El maquinista aplicó señales acústicas y freno de emergencia, pero no pudo evitar el atropello. La investigación concluyó que el origen fue el cruce indebido de las vías por parte de la víctima, quien presuntamente usaba auriculares. Se recomendó estudiar el vallado del ámbito de la estación y otras medidas de permeabilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-09-10",
+    "hora": "15:14",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Villarreal",
+     "pk": "62,095",
+     "linea": "600 Valencia-San Vicente de Calders",
+     "provincia": "Castellón",
+     "descripcion_lugar": "Estación en núcleo urbano; P.K. 62,095 junto al desvío nº 6, al comienzo del andén y en el final del cerramiento que separa la estación de una calle colindante; paso vicioso de personas con señal de peligro."
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 10 de septiembre de 2008, a las 15:14 horas, el tren de mercancías 87456, de la empresa",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Rotura de un grifo del circuito de freno de la locomotora, reparado provisionalmente.",
+    "afectacion_servicio": "Cinco trenes de cercanías sumaron 34 minutos de retraso; cuatro trenes de larga distancia sumaron 31 minutos. El tren de mercancías implicado sufrió 116 minutos de retraso. Circulación en marcha a la vista por vías 1 y 4 hasta restablecerse la normalidad a las 16:58."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Cruce de las vías por parte de la víctima por un lugar no autorizado.",
+   "pagina": 2,
+   "cita": "Conclusión: El accidente tuvo su origen en el cruce de las vías por parte de la víctima por un",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima usaba auriculares y un aparato de radio, por lo que pudo no oír las señales acústicas del tren.",
+    "Existencia de un paso vicioso de personas en el final del cerramiento de la estación.",
+    "Ubicación de la estación en el núcleo urbano, con tránsito de personas cerca de las vías."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Falta de medidas específicas de protección para impedir o controlar el cruce indebido de vías.",
+    "Necesidad de estudiar el vallado del ámbito de la estación y otras soluciones de permeabilidad.",
+    "Antecedentes de sucesos similares por cruce indebido de vías en la estación de Villarreal."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Estudiar, por la autoridad competente, la conveniencia de vallar el ámbito de la estación y de adoptar otras medidas que permitan la permeabilidad.",
+     "destinatario": "Autoridad competente"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: Estudiar, por la autoridad competente, la conveniencia de vallar el ámbito de",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Estudiar, por la autoridad competente, la conveniencia de vallar el ámbito de la estación y de adoptar otras medidas que permitan la permeabilidad.",
+     "destinatario": "Autoridad competente"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: Estudiar, por la autoridad competente, la conveniencia de vallar el ámbito de",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Comsa Rail Transport",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "ferroviaria Comsa Rail Transport, arrolla a una persona en el P.K. 62,095, en la estación de Villarreal,",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-09-10",
+   "pagina": 2,
+   "cita": "El día 10 de septiembre de 2008, a las 15:14 horas, el tren de mercancías 87456, de la empresa",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "15:14",
+   "pagina": 2,
+   "cita": "El día 10 de septiembre de 2008, a las 15:14 horas, el tren de mercancías 87456, de la empresa",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Villarreal",
+    "pk": "62,095",
+    "linea": "600 Valencia-San Vicente de Calders",
+    "provincia": "Castellón",
+    "descripcion_lugar": "Estación en núcleo urbano; P.K. 62,095 junto al desvío nº 6, al comienzo del andén y en el final del cerramiento que separa la estación de una calle colindante; paso vicioso de personas con señal de peligro."
+   },
+   "pagina": 2,
+   "cita": "ferroviaria Comsa Rail Transport, arrolla a una persona en el P.K. 62,095, en la estación de Villarreal,",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "600 Valencia-San Vicente de Calders",
+   "pagina": 2,
+   "cita": "de la línea 600 Valencia-San Vicente de Calders. Como consecuencia del impacto la víctima fallece.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 312302, matrícula UIC 937113123023.",
+    "averia": "Rotura de un grifo del circuito de freno de la locomotora.",
+    "mantenimiento": null
+   },
+   "pagina": 4,
+   "cita": "Rotura de un grifo del circuito de freno de la locomotora que es reparado, provisionalmente, por el",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de mercancías 87456 de Comsa Rail Transport, compuesto por locomotora 312302, 10 vehículos y 770 toneladas de masa remolcada, procedía de Silla Terminal de Contenedores con destino a Castellbisbal. A su paso por la estación de Villarreal, en el P.K. 62,095 y junto al desvío nº 6, arrolló a una mujer que intentaba cruzar las vías de derecha a izquierda según el sentido de la marcha del tren. El maquinista advirtió la intención de la víctima, usó señales acústicas y accionó el freno de emergencia, pero el tren, que circulaba a 86 km/h, la alcanzó por su parte lateral derecha. El cadáver quedó entre las vías 2 y 4, al comienzo del andén.\n\nSegún la declaración del maquinista, la víctima no reaccionó a los avisos; la policía le confirmó después que la mujer escuchaba un aparato de radio con auriculares. El lugar del accidente coincidía con el final del cerramiento de la estación y era un paso vicioso de personas, aunque existía una señal que advertía del peligro de cruzar por las vías. La estación se encontraba en el núcleo urbano de Villarreal.\n\nTras el suceso, el tren quedó apartado en la vía 2 y la circulación se realizó en marcha a la vista por las vías 1 y 4. La Policía Local custodió el cadáver desde las 15:20, el juez se personó a las 16:40 y el levantamiento del cadáver se produjo a las 16:53. La circulación normal se restableció a las 16:58 y el tren 87456 reanudó la marcha a las 17:10.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Villarreal",
+    "pk": "62,095",
+    "linea": "600 Valencia-San Vicente de Calders",
+    "provincia": "Castellón",
+    "descripcion_lugar": "Estación en núcleo urbano; P.K. 62,095 junto al desvío nº 6, al comienzo del andén y en el final del cerramiento que separa la estación de una calle colindante; paso vicioso de personas con señal de peligro."
+   },
+   "pagina": 2,
+   "cita": "ferroviaria Comsa Rail Transport, arrolla a una persona en el P.K. 62,095, en la estación de Villarreal,",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Rotura de un grifo del circuito de freno de la locomotora, reparado provisionalmente.",
+    "afectacion_servicio": "Cinco trenes de cercanías sumaron 34 minutos de retraso; cuatro trenes de larga distancia sumaron 31 minutos. El tren de mercancías implicado sufrió 116 minutos de retraso. Circulación en marcha a la vista por vías 1 y 4 hasta restablecerse la normalidad a las 16:58."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "A fecha de redacción de este informe no se han adoptado medidas específicas de protección.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 87456",
+     "implicacion": "Detectó a la víctima, usó señales acústicas y aplicó el freno de emergencia; su actuación fue correcta. Pruebas de alcoholemia negativas."
+    },
+    {
+     "rol": "Ayudante de maquinista del tren 87456",
+     "implicacion": "Acompañaba al tren; jornada y descansos conformes."
+    },
+    {
+     "rol": "Factor de Circulación de la estación",
+     "implicacion": "Personal de Adif implicado en la estación."
+    }
+   ],
+   "pagina": 5,
+   "cita": "El ayudante de maquinista del tren 87456 posee habilitación de conducción por vehículo;",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "87456",
+     "tipo": "tren de mercancías",
+     "operador": "Comsa Rail Transport",
+     "danos": "Rotura de un grifo del circuito de freno de la locomotora, reparado provisionalmente por el maquinista."
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 10 de septiembre de 2008, a las 15:14 horas, el tren de mercancías 87456, de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 312302, matrícula UIC 937113123023.",
+    "averia": "Rotura de un grifo del circuito de freno de la locomotora.",
+    "mantenimiento": null
+   },
+   "pagina": 4,
+   "cita": "Rotura de un grifo del circuito de freno de la locomotora que es reparado, provisionalmente, por el",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (B.A.D.) y control de tráfico centralizado (C.T.C.).",
+    "tipo_via": "Vía doble electrificada.",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Trazado en alineación recta con buena visibilidad; no se indican defectos.",
+    "otro": "Radiotelefonía modalidad A, canal 65; paso vicioso en el final del cerramiento; señal que advierte del peligro de cruzar por las vías."
+   },
+   "pagina": 4,
+   "cita": "Vía doble electrificada con bloqueo automático (B.A.D.) y control de tráfico centralizado (C.T.C.)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático (B.A.D.) y control de tráfico centralizado (C.T.C.).",
+   "pagina": 4,
+   "cita": "Vía doble electrificada con bloqueo automático (B.A.D.) y control de tráfico centralizado (C.T.C.)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Rotura de un grifo del circuito de freno de la locomotora, reparado provisionalmente.",
+    "afectacion_servicio": "Cinco trenes de cercanías sumaron 34 minutos de retraso; cuatro trenes de larga distancia sumaron 31 minutos. El tren de mercancías implicado sufrió 116 minutos de retraso. Circulación en marcha a la vista por vías 1 y 4 hasta restablecerse la normalidad a las 16:58."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Rotura de un grifo del circuito de freno de la locomotora, reparado provisionalmente.",
+    "afectacion_servicio": "Cinco trenes de cercanías sumaron 34 minutos de retraso; cuatro trenes de larga distancia sumaron 31 minutos. El tren de mercancías implicado sufrió 116 minutos de retraso. Circulación en marcha a la vista por vías 1 y 4 hasta restablecerse la normalidad a las 16:58."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-100908-200109-CIAF Pág. 1 de 10 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0041/2008",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Rotura de un grifo del circuito de freno de la locomotora, reparado provisionalmente.",
+    "afectacion_servicio": "Cinco trenes de cercanías sumaron 34 minutos de retraso; cuatro trenes de larga distancia sumaron 31 minutos. El tren de mercancías implicado sufrió 116 minutos de retraso. Circulación en marcha a la vista por vías 1 y 4 hasta restablecerse la normalidad a las 16:58."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 312302, matrícula UIC 937113123023.",
+    "averia": "Rotura de un grifo del circuito de freno de la locomotora.",
+    "mantenimiento": null
+   },
+   "pagina": 4,
+   "cita": "Rotura de un grifo del circuito de freno de la locomotora que es reparado, provisionalmente, por el",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (B.A.D.) y control de tráfico centralizado (C.T.C.).",
+    "tipo_via": "Vía doble electrificada.",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Trazado en alineación recta con buena visibilidad; no se indican defectos.",
+    "otro": "Radiotelefonía modalidad A, canal 65; paso vicioso en el final del cerramiento; señal que advierte del peligro de cruzar por las vías."
+   },
+   "pagina": 4,
+   "cita": "Vía doble electrificada con bloqueo automático (B.A.D.) y control de tráfico centralizado (C.T.C.)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Despejado y soleado.",
+   "pagina": 5,
+   "cita": "En el momento del arrollamiento el tiempo atmosférico era despejado y soleado.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Castellón",
+    "municipio": null,
+    "estacion": "Villarreal"
+   },
+   "pagina": 2,
+   "cita": "Castellón El tren de mercancías 87456 de Comsa Rail Transport; compuesto de locomotora, 10 vehículos y masa remolcada de 770 Tm; procedente de Silla Terminal de Contenedores con destino a Castellbisbal, a su paso por",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Despejado y soleado.",
+   "pagina": 5,
+   "cita": "En el momento del arrollamiento el tiempo atmosférico era despejado y soleado.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático (B.A.D.) y control de tráfico centralizado (C.T.C.).",
+   "pagina": 4,
+   "cita": "Vía doble electrificada con bloqueo automático (B.A.D.) y control de tráfico centralizado (C.T.C.)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (B.A.D.) y control de tráfico centralizado (C.T.C.).",
+    "tipo_via": "Vía doble electrificada.",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Trazado en alineación recta con buena visibilidad; no se indican defectos.",
+    "otro": "Radiotelefonía modalidad A, canal 65; paso vicioso en el final del cerramiento; señal que advierte del peligro de cruzar por las vías."
+   },
+   "pagina": 4,
+   "cita": "Vía doble electrificada con bloqueo automático (B.A.D.) y control de tráfico centralizado (C.T.C.)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 312302, matrícula UIC 937113123023.",
+    "averia": "Rotura de un grifo del circuito de freno de la locomotora.",
+    "mantenimiento": null
+   },
+   "pagina": 4,
+   "cita": "Rotura de un grifo del circuito de freno de la locomotora que es reparado, provisionalmente, por el",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "cruce indebido por lugar no autorizado",
+    "falta de cerramiento en estación",
+    "víctima usaba auriculares",
+    "señal de peligro ignorada"
+   ],
+   "pagina": 8,
+   "cita": "Según consta en el informe redactado por el maquinista, la policía le informó de que la víctima",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de mercancías 87456 de Comsa Rail Transport, compuesto por locomotora 312302, 10 vehículos y 770 toneladas de masa remolcada, procedía de Silla Terminal de Contenedores con destino a Castellbisbal. A su paso por la estación de Villarreal, en el P.K. 62,095 y junto al desvío nº 6, arrolló a una mujer que intentaba cruzar las vías de derecha a izquierda según el sentido de la marcha del tren. El maquinista advirtió la intención de la víctima, usó señales acústicas y accionó el freno de emergencia, pero el tren, que circulaba a 86 km/h, la alcanzó por su parte lateral derecha. El cadáver quedó entre las vías 2 y 4, al comienzo del andén.\n\nSegún la declaración del maquinista, la víctima no reaccionó a los avisos; la policía le confirmó después que la mujer escuchaba un aparato de radio con auriculares. El lugar del accidente coincidía con el final del cerramiento de la estación y era un paso vicioso de personas, aunque existía una señal que advertía del peligro de cruzar por las vías. La estación se encontraba en el núcleo urbano de Villarreal.\n\nTras el suceso, el tren quedó apartado en la vía 2 y la circulación se realizó en marcha a la vista por las vías 1 y 4. La Policía Local custodió el cadáver desde las 15:20, el juez se personó a las 16:40 y el levantamiento del cadáver se produjo a las 16:53. La circulación normal se restableció a las 16:58 y el tren 87456 reanudó la marcha a las 17:10.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en el P.K. 62,095, en la estación de Villarreal, de la línea 600 Valencia-San \nVicente de Calders. \nSegún lo declarado por el maquinista, momentos antes del arrollamiento, hizo uso del silbato y del \nfreno de emergencia, por lo que su actuación fue correcta.  \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nSegún consta en el informe redactado por el maquinista, la policía le informó de que la víctima \nusaba auriculares por lo que se deduce que la mujer arrollada pudo no oir las señales acústicas \naccionadas por el maquinista. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Comsa Rail Transport, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en el cruce de las vías por parte de la víctima por un lugar no \nautorizado para ello.",
+   "pagina": 8,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Cruce de las vías por parte de la víctima por un lugar no autorizado.",
+   "pagina": 2,
+   "cita": "Conclusión: El accidente tuvo su origen en el cruce de las vías por parte de la víctima por un",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima usaba auriculares y un aparato de radio, por lo que pudo no oír las señales acústicas del tren.",
+    "Existencia de un paso vicioso de personas en el final del cerramiento de la estación.",
+    "Ubicación de la estación en el núcleo urbano, con tránsito de personas cerca de las vías."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "A fecha de redacción de este informe no se han adoptado medidas específicas de protección.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "A fecha de redacción de este informe no se han adoptado medidas específicas de protección.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "A fecha de redacción de este informe no se han adoptado medidas específicas de protección.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Estudiar, por la autoridad competente, la conveniencia de vallar el ámbito de la estación y de adoptar otras medidas que permitan la permeabilidad.",
+     "destinatario": "Autoridad competente"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: Estudiar, por la autoridad competente, la conveniencia de vallar el ámbito de",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "15:14",
+     "evento": "El tren de mercancías 87456 arrolla a una mujer en el P.K. 62,095 de la estación de Villarreal."
+    },
+    {
+     "hora": "15:20",
+     "evento": "La Policía Local queda custodiando el cadáver."
+    },
+    {
+     "hora": "16:40",
+     "evento": "Se persona el juez."
+    },
+    {
+     "hora": "16:53",
+     "evento": "Se procede al levantamiento del cadáver."
+    },
+    {
+     "hora": "16:58",
+     "evento": "Queda restablecida la circulación normal."
+    },
+    {
+     "hora": "17:10",
+     "evento": "El tren de mercancías 87456 reanuda la marcha."
+    },
+    {
+     "hora": "12:02",
+     "evento": "El 11 de septiembre, el coordinador de accidentes de Adif comunica el suceso a la CIAF."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0041/2008",
+ "expediente": "0041/08",
+ "anio": 2008,
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0041/2008 OCURRIDO EL DÍA 10.09.2008",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-100908-200109-CIAF.md"
+}

@@ -1,0 +1,984 @@
+{
+ "id": "IF-250908-190509-CIAF_Balmaseda Mercancías",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/EAA273DA-EE1E-4AEF-96F4-29250629E96A/47276/4408IF250908190509CIAF.pdf",
+ "pdf": "pdfs/ES/IF-250908-190509-CIAF_Balmaseda Mercancías.pdf",
+ "md5_pdf": "bbc4db9ec758fdbae935d3759fcaff86",
+ "paginas_md": 14,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 7,
+ "n_tablas": 3,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Feve",
+     "Número": "44/08-1",
+     "Recomendación": "Que se garantice que el material histórico que circule por su red cumpla las normas relativas al mantenimiento y a la autorización para circular que se recogen en su Norma Básica de Seguridad del Material."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 12,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Feve",
+     "Número": "44/08-1",
+     "Recomendación": "Que se garantice que el material histórico que circule por su red cumpla las normas relativas al mantenimiento y a la autorización para circular que se recogen en su Norma Básica de Seguridad del Material."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 14,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Feve",
+     "Número": "44/08-1",
+     "Recomendación": "Que se garantice que el material histórico que circule por su red cumpla las normas relativas al mantenimiento y a la autorización para circular que se recogen en su Norma Básica de Seguridad del Material."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0044/2008",
+   "pagina": 1,
+   "cita": "nº 0044/2008 ocurrido el 25.09.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 25 de septiembre de 2008, el automotor BILLARD FA-0029, vehículo histórico de la Asociación de Amigos del Ferrocarril de Bilbao, sufrió una avería del motor diesel en plena vía. Durante las maniobras para reanudar la marcha, el sistema neumático de frenos se vació por completo, provocando la deriva del vehículo en dirección contraria. El Jefe de Circulación de Balmaseda dirigió el tren sin frenos hacia la vía 29M, donde impactó contra la topera a unos 65 km/h. Dos personas resultaron heridas leves. La investigación concluyó que el origen fue la pérdida de los sistemas de frenado y formuló una recomendación a Feve sobre el cumplimiento de normas de mantenimiento y autorización para material histórico.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-09-25",
+    "hora": "16:40",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Balmaseda Mercancías",
+     "pk": "284,050",
+     "linea": "31 León-Bilbao",
+     "provincia": "Vizcaya",
+     "descripcion_lugar": "Topera de hormigón armado al final de la vía 29M (vía mango), trazado horizontal, no electrificada, por el lado Bilbao. El tramo de deriva es vía única no electrificada con bloqueo telefónico."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 25 de septiembre de 2008, a las 16:40 horas, el automotor de la serie BILLARD marca",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 2,
+    "danos_materiales": "Automotor: parte frontal del bogíe portador incrustada en chasis, tuberías neumáticas reventadas, pupitre destrozado, asientos arrancados. Infraestructura: topera de hormigón de la vía 29M arrancada de su emplazamiento.",
+    "afectacion_servicio": "No se produjo ninguna alteración del tráfico ferroviario"
+   },
+   "pagina": 7,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Pérdida de los sistemas de frenado del automotor (vaciado del circuito neumático por fallo en alimentación de gasoil y freno de mano inoperativo por timonerías desconectadas), provocando la deriva del vehículo hasta impactar contra la topera.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Avería del motor diesel por barro en el circuito de gasoil",
+    "Manipulación del vehículo por personal ajeno a Feve tras la autorización, con posible desconexión de timonerías del freno de mano",
+    "Ausencia de emisora de radio en el vehículo (dependencia de teléfono móvil del maquinista)",
+    "Incumplimiento del Bloqueo por Ocupación exigido (se usó Bloqueo Telefónico)",
+    "Solicitud de circulación formulada oralmente en lugar de por escrito",
+    "No se publicó la preceptiva Orden del Día",
+    "No se señaló a la vía el automotor pese a estar prevista la salida a distancia del tren 8700",
+    "No se entregó BOI al maquinista con información de que el tren no estaba señalado a la vía"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Deficiencias en el convenio de colaboración Feve-AAFB para circulación de material histórico",
+    "Falta de control sobre el mantenimiento y estado real del vehículo histórico tras la autorización inicial",
+    "Acceso libre al taller donde se custodia el vehículo"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Que se garantice que el material histórico que circule por su red cumpla las normas relativas al mantenimiento y a la autorización para circular que se recogen en su Norma Básica de Seguridad del Material.",
+    "Que se garantice que el material histórico que circule por su red cumpla las normas relativas al mantenimiento y a la autorización para circular que se recogen en su Norma Básica de Seguridad del Material.",
+    "Que se garantice que el material histórico que circule por su red cumpla las normas relativas al mantenimiento y a la autorización para circular que se recogen en su Norma Básica de Seguridad del Material."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Feve",
+    "Feve",
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "accidente ferroviario",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "FEVE"
+   ],
+   "pagina": 6,
+   "cita": "El Inspector General de FEVE, en uso de las funciones que expresamente tiene",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-09-25",
+   "pagina": 3,
+   "cita": "El día 25 de septiembre de 2008, a las 16:40 horas, el automotor de la serie BILLARD marca",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "16:40",
+   "pagina": 3,
+   "cita": "El día 25 de septiembre de 2008, a las 16:40 horas, el automotor de la serie BILLARD marca",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Balmaseda Mercancías",
+    "pk": "284,050",
+    "linea": "31 León-Bilbao",
+    "provincia": "Vizcaya",
+    "descripcion_lugar": "Topera de hormigón armado al final de la vía 29M (vía mango), trazado horizontal, no electrificada, por el lado Bilbao. El tramo de deriva es vía única no electrificada con bloqueo telefónico."
+   },
+   "pagina": 3,
+   "cita": "la vía número 29M de la estación de Balmaseda Mercancías, tras haberse quedado sin frenos y",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 31 León-Bilbao",
+   "pagina": 10,
+   "cita": "la línea 31 León Bilbao.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "BILLARD (Pegaso), construido en 1966, matrícula FA-0029, vehículo histórico",
+    "averia": "Fallo en circuito de gasoil (barro) que detuvo el motor diesel; pérdida total del aire del depósito principal y cilindros de freno; freno de mano inoperativo (timonerías no conectadas a los tirantes); fallos consecutivos en alimentación del motor, engranajes de tracción, freno de servicio y freno de emergencia",
+    "mantenimiento": "Acta de autorización para circular de 10 de noviembre de 2005. Taller de Balmaseda de fácil acceso; el vehículo fue manipulado por personal ajeno a Feve con posterioridad a la autorización. Se les había exigido plan de mantenimiento conforme a nuevos requisitos. Circulaba contadas veces al año previa inspección técnica."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren BM402, constituido por el automotor BILLARD matrícula FA-0029 (vehículo histórico de 1966, propiedad de la Asociación de Amigos del Ferrocarril de Bilbao), salió a las 16:10 de la vía 9M de Balmaseda Mercancías en dirección León para verificar el estado del vehículo de cara a futuros viajes lúdicos. Tras recorrer 6.400 metros, el motor diesel se detuvo por avería en el P.K. 276,900, entre los apeaderos de Arla-Berrón y Ungo-Nava. Se decidió reparar in situ. Mientras se intentaba arrancar el motor, el circuito de gasoil con barro provocó el agotamiento del aire del depósito principal y de los cilindros de freno. El freno de mano (tipo husillo) no retuvo el vehículo, que inició la deriva en sentido contrario, hacia Balmaseda. Dos mecánicos y tres personas de la Asociación se arrojaron del automotor en marcha. El maquinista llamó al Jefe de Circulación avisando de que iban sin frenos. Este encaminó el tren hacia la vía 29M, la más larga y segura. El automotor impactó contra la topera de hormigón armado a una velocidad estimada de 65 km/h.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Balmaseda Mercancías",
+    "pk": "284,050",
+    "linea": "31 León-Bilbao",
+    "provincia": "Vizcaya",
+    "descripcion_lugar": "Topera de hormigón armado al final de la vía 29M (vía mango), trazado horizontal, no electrificada, por el lado Bilbao. El tramo de deriva es vía única no electrificada con bloqueo telefónico."
+   },
+   "pagina": 3,
+   "cita": "la vía número 29M de la estación de Balmaseda Mercancías, tras haberse quedado sin frenos y",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 2,
+    "danos_materiales": "Automotor: parte frontal del bogíe portador incrustada en chasis, tuberías neumáticas reventadas, pupitre destrozado, asientos arrancados. Infraestructura: topera de hormigón de la vía 29M arrancada de su emplazamiento.",
+    "afectacion_servicio": "No se produjo ninguna alteración del tráfico ferroviario"
+   },
+   "pagina": 7,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Como medida cautelar, FEVE ha suspendido la aplicación del convenio de colaboración con la \nAsociación de Amigos del Ferrocarril, para la circulación de material histórico por la red de FEVE. \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0044/2008 ocurrido el 25.09.2008 \nSECRETARIA DE ESTADO \nDE  PLANIFICACIÓN E \nINFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-250908-190509-CIAF \n \n \nPág. 12 de 14",
+   "pagina": 11,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista (Jefe de Maquinistas de Bilbao, matrícula 7062)",
+     "implicacion": "Conducía el automotor; intentó accionar frenos de mano en ambas cabinas; contactó al Jefe de Circulación; herido leve (dos costillas fisuradas, heridas en pierna)"
+    },
+    {
+     "rol": "Jefe de Circulación de Balmaseda",
+     "implicacion": "Recibió aviso de deriva; decidió encaminar el tren a la vía 29M"
+    },
+    {
+     "rol": "2 mecánicos (personal de la Asociación)",
+     "implicacion": "Se arrojaron del vehículo en marcha en el P.K. 276,900"
+    },
+    {
+     "rol": "3 personas de la Asociación de Amigos del Ferrocarril de Bilbao",
+     "implicacion": "Iban en el automotor durante la deriva; una resultó herida leve; dos se tiraron en marcha"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "BM402",
+     "tipo": "Automotor histórico BILLARD (Pegaso, 1966)",
+     "operador": "Asociación de Amigos del Ferrocarril de Bilbao (circula en red Feve)",
+     "danos": "Parte frontal del bogíe portador incrustada en chasis; tuberías neumáticas reventadas; pupitre de conducción destrozado; varios asientos arrancados"
+    }
+   ],
+   "pagina": 3,
+   "cita": "El tren nº BM402, constituido en exclusiva por el coche automotor BILLARD, matrícula FA-",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "BILLARD (Pegaso), construido en 1966, matrícula FA-0029, vehículo histórico",
+    "averia": "Fallo en circuito de gasoil (barro) que detuvo el motor diesel; pérdida total del aire del depósito principal y cilindros de freno; freno de mano inoperativo (timonerías no conectadas a los tirantes); fallos consecutivos en alimentación del motor, engranajes de tracción, freno de servicio y freno de emergencia",
+    "mantenimiento": "Acta de autorización para circular de 10 de noviembre de 2005. Taller de Balmaseda de fácil acceso; el vehículo fue manipulado por personal ajeno a Feve con posterioridad a la autorización. Se les había exigido plan de mantenimiento conforme a nuevos requisitos. Circulaba contadas veces al año previa inspección técnica."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": null,
+    "tipo_via": "Vía única, no electrificada, bloqueo telefónico (tramo); vía 29M de estación, trazado horizontal, termina en topera",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "No electrificada",
+    "estado_via": "Funcionamiento correcto de infraestructura e instalaciones técnicas",
+    "otro": "Topera de hormigón armado arrancada de su emplazamiento. Tramo entre apeaderos Arla-Berrón y Ungo-Nava. Trayecto Guardo-Balmaseda. Bloqueo por Ocupación exigido por la autorización pero se usó Bloqueo Telefónico."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 2,
+    "danos_materiales": "Automotor: parte frontal del bogíe portador incrustada en chasis, tuberías neumáticas reventadas, pupitre destrozado, asientos arrancados. Infraestructura: topera de hormigón de la vía 29M arrancada de su emplazamiento.",
+    "afectacion_servicio": "No se produjo ninguna alteración del tráfico ferroviario"
+   },
+   "pagina": 7,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 2,
+    "danos_materiales": "Automotor: parte frontal del bogíe portador incrustada en chasis, tuberías neumáticas reventadas, pupitre destrozado, asientos arrancados. Infraestructura: topera de hormigón de la vía 29M arrancada de su emplazamiento.",
+    "afectacion_servicio": "No se produjo ninguna alteración del tráfico ferroviario"
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 2,
+    "danos_materiales": "Automotor: parte frontal del bogíe portador incrustada en chasis, tuberías neumáticas reventadas, pupitre destrozado, asientos arrancados. Infraestructura: topera de hormigón de la vía 29M arrancada de su emplazamiento.",
+    "afectacion_servicio": "No se produjo ninguna alteración del tráfico ferroviario"
+   },
+   "pagina": 7,
+   "cita": "Heridos 2 heridos leves. El maquinista y un hombre perteneciente a la Asociación de Amigos del Ferrocarril de Bilbao. Daños materiales Automotor “BILLARD”: • Parte frontal del extremo del bogíe portador, incrustado",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "BILLARD (Pegaso), construido en 1966, matrícula FA-0029, vehículo histórico",
+    "averia": "Fallo en circuito de gasoil (barro) que detuvo el motor diesel; pérdida total del aire del depósito principal y cilindros de freno; freno de mano inoperativo (timonerías no conectadas a los tirantes); fallos consecutivos en alimentación del motor, engranajes de tracción, freno de servicio y freno de emergencia",
+    "mantenimiento": "Acta de autorización para circular de 10 de noviembre de 2005. Taller de Balmaseda de fácil acceso; el vehículo fue manipulado por personal ajeno a Feve con posterioridad a la autorización. Se les había exigido plan de mantenimiento conforme a nuevos requisitos. Circulaba contadas veces al año previa inspección técnica."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": null,
+    "tipo_via": "Vía única, no electrificada, bloqueo telefónico (tramo); vía 29M de estación, trazado horizontal, termina en topera",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "No electrificada",
+    "estado_via": "Funcionamiento correcto de infraestructura e instalaciones técnicas",
+    "otro": "Topera de hormigón armado arrancada de su emplazamiento. Tramo entre apeaderos Arla-Berrón y Ungo-Nava. Trayecto Guardo-Balmaseda. Bloqueo por Ocupación exigido por la autorización pero se usó Bloqueo Telefónico."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo atmosférico despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Vizcaya",
+    "municipio": null,
+    "estacion": "Balmaseda Mercancías"
+   },
+   "pagina": 3,
+   "cita": "Vizcaya El tren nº BM402, constituido en exclusiva por el coche automotor BILLARD, matrícula FA- 0029, catalogado como vehículo histórico y propiedad de la Asociación de Amigos del Ferrocarril de Bilbao, efectúa su sal",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo atmosférico despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": null,
+    "tipo_via": "Vía única, no electrificada, bloqueo telefónico (tramo); vía 29M de estación, trazado horizontal, termina en topera",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "No electrificada",
+    "estado_via": "Funcionamiento correcto de infraestructura e instalaciones técnicas",
+    "otro": "Topera de hormigón armado arrancada de su emplazamiento. Tramo entre apeaderos Arla-Berrón y Ungo-Nava. Trayecto Guardo-Balmaseda. Bloqueo por Ocupación exigido por la autorización pero se usó Bloqueo Telefónico."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "BILLARD (Pegaso), construido en 1966, matrícula FA-0029, vehículo histórico",
+    "averia": "Fallo en circuito de gasoil (barro) que detuvo el motor diesel; pérdida total del aire del depósito principal y cilindros de freno; freno de mano inoperativo (timonerías no conectadas a los tirantes); fallos consecutivos en alimentación del motor, engranajes de tracción, freno de servicio y freno de emergencia",
+    "mantenimiento": "Acta de autorización para circular de 10 de noviembre de 2005. Taller de Balmaseda de fácil acceso; el vehículo fue manipulado por personal ajeno a Feve con posterioridad a la autorización. Se les había exigido plan de mantenimiento conforme a nuevos requisitos. Circulaba contadas veces al año previa inspección técnica."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "avería del motor diesel",
+    "vacío sistema neumático de frenos",
+    "freno de mano desconectado",
+    "circulación en Bloqueo Telefónico"
+   ],
+   "pagina": 3,
+   "cita": "Una vez recorridos 6.400 metros el tren detiene su marcha por una avería del motor diesel en",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren BM402, constituido por el automotor BILLARD matrícula FA-0029 (vehículo histórico de 1966, propiedad de la Asociación de Amigos del Ferrocarril de Bilbao), salió a las 16:10 de la vía 9M de Balmaseda Mercancías en dirección León para verificar el estado del vehículo de cara a futuros viajes lúdicos. Tras recorrer 6.400 metros, el motor diesel se detuvo por avería en el P.K. 276,900, entre los apeaderos de Arla-Berrón y Ungo-Nava. Se decidió reparar in situ. Mientras se intentaba arrancar el motor, el circuito de gasoil con barro provocó el agotamiento del aire del depósito principal y de los cilindros de freno. El freno de mano (tipo husillo) no retuvo el vehículo, que inició la deriva en sentido contrario, hacia Balmaseda. Dos mecánicos y tres personas de la Asociación se arrojaron del automotor en marcha. El maquinista llamó al Jefe de Circulación avisando de que iban sin frenos. Este encaminó el tren hacia la vía 29M, la más larga y segura. El automotor impactó contra la topera de hormigón armado a una velocidad estimada de 65 km/h.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en la topera de la vía 29M de Balmaseda ubicada en el P.K. 284,050 de \nla línea 31 León Bilbao. \nEl vehículo se queda detenido en la vía por avería producida en el motor, debido a una mala \nalimentación de combustible. Tras accionar el freno, todo el sistema neumático se vació de aire en \npoco tiempo (el tiempo en que se intentó subsanar la avería), por lo que quedó sin retención, \niniciando su movimiento en deriva.  \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0044/2008 ocurrido el 25.09.2008 \nSECRETARIA DE ESTADO \nDE  PLANIFICACIÓN E \nINFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-250908-190509-CIAF \n \n \nPág. 11 de 14\nLa actuación sobre el freno de mano fue inútil ya que no estaban conectadas las timonerías \ncon los tirantes. Al haberse iniciado el movimiento, fue imposible poner calce alguno en las \nruedas. \nTras estas circunstancias, la decisión de estrellar el vehículo con la topera fue la más correcta. \nSi bien se considera que no influyen en la causa del accidente, se producen incumplimientos de \nvarias normas de FEVE que a continuación se relacionan: \nNo se ha observado con rigor el procedimiento FEVE – AAFB, acordado para la circulación de \neste vehículo, dando por válida la solicitud formulada oralmente cuando debe ser por escrito. \nSe incumple el condicionado para la circulación de este vehículo, emitido por la Inspección \nGeneral en la Autorización para Circular – Acta de Reconocimiento de Vehículos Particulares, que \nestablece que el régimen de circulación se efectuará al amparo del Bloqueo por Ocupación. La \ncirculación del tren BM402 se ha realizado en Bloqueo Telefónico. \nNo se ha publicado la preceptiva Orden del Día, disponiendo de tiempo para ello. \nNo se ha señalado a la vía, a pesar de estar prevista la salida a la distancia del tren nº 8700. \nTampoco se ha entregado al maquinista BOI (Boletín de Ordenes e Informaciones), con la \npreceptiva información de que el tren no esta señalado a la vía. Según el Jefe de Circulación, se \nha inscrito esta información en la Hoja de Marcha, documento que no ha podido ser localizado en \nel escenario del suceso. \nEl vehículo FA0029, carece de emisora de radio, confiándose las comunicaciones al uso de \ntelefonía móvil del Jefe de Maquinistas, que en un primer intento no pudo comunicar con la \nestación. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones \nanteriores, así como el informe particular de FEVE, el técnico responsable de la investigación \nconcluye que: \n- \nEl accidente tuvo su origen en la pérdida de los sistemas de frenado del automotor, \nproduciéndose la deriva del mismo.",
+   "pagina": 10,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Pérdida de los sistemas de frenado del automotor (vaciado del circuito neumático por fallo en alimentación de gasoil y freno de mano inoperativo por timonerías desconectadas), provocando la deriva del vehículo hasta impactar contra la topera.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Avería del motor diesel por barro en el circuito de gasoil",
+    "Manipulación del vehículo por personal ajeno a Feve tras la autorización, con posible desconexión de timonerías del freno de mano",
+    "Ausencia de emisora de radio en el vehículo (dependencia de teléfono móvil del maquinista)",
+    "Incumplimiento del Bloqueo por Ocupación exigido (se usó Bloqueo Telefónico)",
+    "Solicitud de circulación formulada oralmente en lugar de por escrito",
+    "No se publicó la preceptiva Orden del Día",
+    "No se señaló a la vía el automotor pese a estar prevista la salida a distancia del tren 8700",
+    "No se entregó BOI al maquinista con información de que el tren no estaba señalado a la vía"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Como medida cautelar, FEVE ha suspendido la aplicación del convenio de colaboración con la \nAsociación de Amigos del Ferrocarril, para la circulación de material histórico por la red de FEVE. \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0044/2008 ocurrido el 25.09.2008 \nSECRETARIA DE ESTADO \nDE  PLANIFICACIÓN E \nINFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-250908-190509-CIAF \n \n \nPág. 12 de 14",
+   "pagina": 11,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Como medida cautelar, FEVE ha suspendido la aplicación del convenio de colaboración con la \nAsociación de Amigos del Ferrocarril, para la circulación de material histórico por la red de FEVE. \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0044/2008 ocurrido el 25.09.2008 \nSECRETARIA DE ESTADO \nDE  PLANIFICACIÓN E \nINFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-250908-190509-CIAF \n \n \nPág. 12 de 14",
+   "pagina": 11,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Como medida cautelar, FEVE ha suspendido la aplicación del convenio de colaboración con la \nAsociación de Amigos del Ferrocarril, para la circulación de material histórico por la red de FEVE. \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0044/2008 ocurrido el 25.09.2008 \nSECRETARIA DE ESTADO \nDE  PLANIFICACIÓN E \nINFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-250908-190509-CIAF \n \n \nPág. 12 de 14",
+   "pagina": 11,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Que se garantice que el material histórico que circule por su red cumpla las normas relativas al mantenimiento y a la autorización para circular que se recogen en su Norma Básica de Seguridad del Material.",
+    "Que se garantice que el material histórico que circule por su red cumpla las normas relativas al mantenimiento y a la autorización para circular que se recogen en su Norma Básica de Seguridad del Material.",
+    "Que se garantice que el material histórico que circule por su red cumpla las normas relativas al mantenimiento y a la autorización para circular que se recogen en su Norma Básica de Seguridad del Material."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Feve",
+    "Feve",
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "15:00",
+     "evento": "El maquinista se presenta por medios propios en Balmaseda"
+    },
+    {
+     "hora": "15:15",
+     "evento": "Inicio de la puesta en marcha del automotor (problemas en circuito de gasoil); localización de personal, calce supletorio y salida de nave de talleres"
+    },
+    {
+     "hora": "16:10",
+     "evento": "Salida del tren BM402 de la vía 9M de Balmaseda Mercancías en dirección León"
+    },
+    {
+     "hora": "16:20",
+     "evento": "Inicio de la marcha según declaración del maquinista (discrepancia con las 16:10 del informe)"
+    },
+    {
+     "hora": null,
+     "evento": "Recorridos 6.400 m, parada del motor diesel por avería en el P.K. 276,900 (entre Arla-Berrón y Ungo-Nava). Se aprieta el freno de mano de la cabina lado León."
+    },
+    {
+     "hora": null,
+     "evento": "Prolongación de la parada por barro en circuito de gasoil; pérdida total del aire de frenos; inicio de la deriva hacia Balmaseda. Dos mecánicos y tres personas de la Asociación se tiran del vehículo."
+    },
+    {
+     "hora": null,
+     "evento": "El maquinista contacta por teléfono móvil al Jefe de Circulación de Balmaseda avisando de que van sin frenos"
+    },
+    {
+     "hora": null,
+     "evento": "El Jefe de Circulación encamina el tren a la vía 29M"
+    },
+    {
+     "hora": "16:40",
+     "evento": "Impacto del automotor contra la topera de la vía 29M a velocidad estimada de 65 km/h"
+    },
+    {
+     "hora": "21:01",
+     "evento": "El Inspector General de Feve comunica el accidente a la CIAF por mensaje telefónico"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0044/2008",
+ "expediente": "0044/08",
+ "anio": 2008,
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0044/2008 OCURRIDO EL DÍA 25.09.2008 EN LA ESTACIÓN DE BALMASEDA MERCANCÍAS",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-250908-190509-CIAF_Balmaseda Mercancías.md"
+}

@@ -1,0 +1,995 @@
+{
+ "id": "ES 16.03.2016 170720-160316-IF-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/170720160316ifciafsn.pdf",
+ "pdf": "pdfs/ES/ES 16.03.2016 170720-160316-IF-CIAF.pdf",
+ "md5_pdf": "eefb89ea073a518261784f9ab08cc087",
+ "paginas_md": 37,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 25,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 5,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+     "Implementador final": "Acciona Rail Services",
+     "Número": "14/2016-1",
+     "Recomendación": "Que se incluya en el SGS, mediante el procedimiento PROC 02-03 o uno nuevo, unos criterios generales para la recuperación de los títulos habilitantes suspendidos o revocados tras un fallo humano y en función de la gravedad de éste, teniéndose para ello en cuenta lo establecido en la “Recomendación Técnica 4/2016 de la AESF sobre las actuaciones en relación con los títulos habilitantes del personal ferroviario tras sucesos con fallo humano”."
+    },
+    {
+     "Destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+     "Implementador final": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+     "Número": "14/2016-2",
+     "Recomendación": "Que se realice una evaluación a la empresa ARS en lo referente al tratamiento que viene realizando a su personal de conducción tras sucesos que inciden en la seguridad de la circulación ferroviaria."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 36,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+     "Implementador final": "Acciona Rail Services",
+     "Número": "14/2016-1",
+     "Recomendación": "Que se incluya en el SGS, mediante el procedimiento PROC 02-03 o uno nuevo, unos criterios generales para la recuperación de los títulos habilitantes suspendidos o revocados tras un fallo humano y en función de la gravedad de éste, teniéndose para ello en cuenta lo establecido en la “Recomendación Técnica 4/2016 de la AESF sobre las actuaciones en relación con los títulos habilitantes del personal ferroviario tras sucesos con fallo humano”."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0014/2016",
+   "pagina": 1,
+   "cita": "nº 0014/2016 ocurrido el 16.03.2016",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 16 de marzo de 2016 a las 08:37 horas, en la estación de Torrejón de Ardoz (Madrid), el tren de mercancías CGX89 de Acciona Rail Services rebasó indebidamente la señal de salida S1/3 que se encontraba en indicación de parada, provocando un conato de colisión con el tren CGX44 de Continental Rail que circulaba en sentido opuesto por la misma vía. El incidente se produjo por fallo humano del personal de conducción (falta de atención). No hubo víctimas ni daños materiales. La circulación de la vía 3 resultó afectada durante unos 175 minutos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2016-03-16",
+    "hora": "08:37",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Torrejón de Ardoz",
+     "pk": "22+554",
+     "linea": "200 Madrid Chamartín a Barcelona Estación de Francia",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Señal de salida S1/3 (PK 22+554) en la estación de Torrejón de Ardoz, tramo Alcalá de Henares-Torrejón de Ardoz. Vía 3 de la estación (correspondiente a vía general G2). Estación en mando central desde el Puesto de Mando de Chamartín."
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 16 de marzo de 2016, a las 08:37 horas en la estación de Torrejón de Ardoz (Madrid) de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno (ni material rodante ni infraestructura).",
+    "afectacion_servicio": "Circulación de la vía 3 de la estación afectada unos 175 minutos (08:37 a 11:32). Retrasos: 23 minutos el tren CGX44 y 175 minutos el tren CGX89."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del personal de conducción del tren CGX89 (falta de atención), dando lugar al rebase indebido de la señal de salida S1/3 en indicación de parada y al incumplimiento del artículo 217.1 del Reglamento General de Circulación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Limitada experiencia del maquinista titular en el lugar del suceso (7 pasos por la estación, 6 en sentido contrario; habilitación de línea desde 18.12.2015).",
+    "Posible fatiga por jornada laboral de 11 horas y 37 minutos en el momento del rebase (tiempos de conducción reglamentarios: 4h26min).",
+    "Retraso acumulado del tren CGX89 (3 horas y 3 minutos sobre horario teórico), lo que pudo generar presión.",
+    "El maquinista titular estaba explicando situaciones al práctico en formación en el momento de aproximación a la señal.",
+    "Posible deslumbramiento por reflejo del sol en la señal (aunque se verificó visibilidad buena; pudo estar motivado por cansancio)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "El SGS de Acciona Rail Services (PROC 02_03) no especifica las acciones concretas para la recuperación de títulos habilitantes tras un fallo humano, ni criterios graduados por gravedad.",
+    "No se constató procedimiento en el SGS de ARS para verificar cumplimiento de jornadas de trabajo en función de servicios grafiados y reajustar tiempos en situación degradada.",
+    "No se aplicó al maquinista titular el reconocimiento psicofísico adicional establecido en el apartado 4.10 del PROC 02_03, ni se le suspendió el certificado de conducción tras el suceso."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Que se incluya en el SGS, mediante el procedimiento PROC 02-03 o uno nuevo, unos criterios generales para la recuperación de los títulos habilitantes suspendidos o revocados tras un fallo humano y en función de la gravedad de éste, teniéndose para ello en cuenta lo establecido en la “Recomendación Técnica 4/2016 de la AESF sobre las actuaciones en relación con los títulos habilitantes del personal ferroviario tras sucesos con fallo humano”.",
+    "Que se realice una evaluación a la empresa ARS en lo referente al tratamiento que viene realizando a su personal de conducción tras sucesos que inciden en la seguridad de la circulación ferroviaria.",
+    "Que se incluya en el SGS, mediante el procedimiento PROC 02-03 o uno nuevo, unos criterios generales para la recuperación de los títulos habilitantes suspendidos o revocados tras un fallo humano y en función de la gravedad de éste, teniéndose para ello en cuenta lo establecido en la “Recomendación Técnica 4/2016 de la AESF sobre las actuaciones en relación con los títulos habilitantes del personal ferroviario tras sucesos con fallo humano”."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Incidente",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Continental Rail",
+    "Acciona Rail Services"
+   ],
+   "pagina": 5,
+   "cita": "entre el tren CGX44, de la empresa ferroviaria Continental Rail, y el tren de mercancías CGX89, de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2016-03-16",
+   "pagina": 5,
+   "cita": "El día 16 de marzo de 2016, a las 08:37 horas en la estación de Torrejón de Ardoz (Madrid) de la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "08:37",
+   "pagina": 5,
+   "cita": "El día 16 de marzo de 2016, a las 08:37 horas en la estación de Torrejón de Ardoz (Madrid) de la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Torrejón de Ardoz",
+    "pk": "22+554",
+    "linea": "200 Madrid Chamartín a Barcelona Estación de Francia",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Señal de salida S1/3 (PK 22+554) en la estación de Torrejón de Ardoz, tramo Alcalá de Henares-Torrejón de Ardoz. Vía 3 de la estación (correspondiente a vía general G2). Estación en mando central desde el Puesto de Mando de Chamartín."
+   },
+   "pagina": 11,
+   "cita": "modalidad C para establecer la comunicación entre las circulaciones y las estaciones con personal y",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 200 Madrid Chamartín a Barcelona Estación de Francia",
+   "pagina": 5,
+   "cita": "El día 16 de marzo de 2016, a las 08:37 horas en la estación de Torrejón de Ardoz (Madrid) de la",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora UIC 957103333218 (serie 333) del CGX89; locomotora UIC 9571033350238 (serie 333) del CGX44",
+    "averia": "Ninguna. ASFA conectado y funcionando con normalidad en ambos trenes. Sin anomalías en equipos ni dispositivos de seguridad.",
+    "mantenimiento": "No se especifica en el informe."
+   },
+   "pagina": 35,
+   "cita": "Ninguna. 4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad Ninguna. 4.3.4. Observaciones adicionales Si bien se ha podido constatar la existen",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de mercancías CGX89 de Acciona Rail Services, procedente de Bilbao Mercancías con destino Vicálvaro Clasificación, y el tren CGX44 de Continental Rail, procedente de Bilbao Mercancías con destino Azuqueca de Henares, circulaban en sentidos opuestos hacia la estación de Torrejón de Ardoz. A las 08:32:57 el CGX89 tenía itinerario establecido de entrada a la vía 3 con señales en anuncio de parada y salida S1/3 en parada. El maquinista titular reconocía las indicaciones ASFA del anuncio de parada en la señal E1. A las 08:35:56 el tren ocupaba el circuito de vía anterior a la señal S1/3, que seguía en indicación de parada, mientras el CGX44 se aproximaba en sentido contrario por la misma vía (vía G2/vía 3). A las 08:37:05 se activó el freno de emergencia del ASFA al rebasar la señal S1/3 en parada a 37 km/h, produciéndose el conato de colisión. El CGX89 se detuvo 46 metros tras el rebase y el CGX44 ante la señal E6, quedando las cabezas enfrentadas a 412 metros.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Torrejón de Ardoz",
+    "pk": "22+554",
+    "linea": "200 Madrid Chamartín a Barcelona Estación de Francia",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Señal de salida S1/3 (PK 22+554) en la estación de Torrejón de Ardoz, tramo Alcalá de Henares-Torrejón de Ardoz. Vía 3 de la estación (correspondiente a vía general G2). Estación en mando central desde el Puesto de Mando de Chamartín."
+   },
+   "pagina": 11,
+   "cita": "modalidad C para establecer la comunicación entre las circulaciones y las estaciones con personal y",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno (ni material rodante ni infraestructura).",
+    "afectacion_servicio": "Circulación de la vía 3 de la estación afectada unos 175 minutos (08:37 a 11:32). Retrasos: 23 minutos el tren CGX44 y 175 minutos el tren CGX89."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista titular del tren CGX89",
+     "implicacion": "Responsable de la conducción; falta de atención que provocó el rebase indebido de la señal S1/3 en indicación de parada. Explicaba situaciones al práctico en formación. Posible fatiga por jornada de 11h37min."
+    },
+    {
+     "rol": "Segundo maquinista (práctico) del tren CGX89",
+     "implicacion": "Conducía en el momento del incidente; en proceso de formación práctica para obtención de habilitación de infraestructura de línea 200. No había circulado nunca por el lugar del suceso."
+    },
+    {
+     "rol": "Jefe del CTC Operador Banda 1108 (Madrid Atocha Cercanías/Alcalá de Henares)",
+     "implicacion": "Se percibió del rebase, contactó por radio con el maquinista, ordenó retroceso y estacionamiento del tren CGX89."
+    },
+    {
+     "rol": "Responsable de circulación Adif (matrícula 2837854)",
+     "implicacion": "Personal de Adif implicado en la operación."
+    }
+   ],
+   "pagina": 22,
+   "cita": "El maquinista titular del tren CGX89 posee el título B de conducción de vehículos ferroviarios y está",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "No se producen víctimas. \n\n## Página 12\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0014/2016 ocurrido el 16.03.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n170720-160316-IF-CIAF.doc \n \n \nPág. 12 de 37",
+   "pagina": 11,
+   "cita": "2.3.1. Viajeros, personal y terceros",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "CGX89",
+     "tipo": "mercancías",
+     "operador": "Acciona Rail Services",
+     "danos": "ninguno"
+    },
+    {
+     "numero": "CGX44",
+     "tipo": "mercancías",
+     "operador": "Continental Rail",
+     "danos": "ninguno"
+    }
+   ],
+   "pagina": 5,
+   "cita": "entre el tren CGX44, de la empresa ferroviaria Continental Rail, y el tren de mercancías CGX89, de",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora UIC 957103333218 (serie 333) del CGX89; locomotora UIC 9571033350238 (serie 333) del CGX44",
+    "averia": "Ninguna. ASFA conectado y funcionando con normalidad en ambos trenes. Sin anomalías en equipos ni dispositivos de seguridad.",
+    "mantenimiento": "No se especifica en el informe."
+   },
+   "pagina": 35,
+   "cita": "Ninguna. 4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad Ninguna. 4.3.4. Observaciones adicionales Si bien se ha podido constatar la existen",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales luminosas con balizas ASFA. Señal de salida S1/3 (PK 22+554) de tres focos sobre pescante con baliza de pie de señal, visibilidad buena. Señal de entrada E6 (PK 22+118) alta con baliza previa y pie de señal, visibilidad buena. Señal E1 (PK 24+025) y R1 (PK 23+771) con indicación de anuncio de parada.",
+    "tipo_via": "Vía cuádruple (G1, G2, G3, G4). Estación con cuatro vías generales (2, 1, 3 y 5). Bloqueo automático de vía cuádruple banalizada (BAB). Mando central desde PM Chamartín.",
+    "velocidad_maxima": "140 km/h para trenes tipo N al paso por la estación. Trenes CGX89 y CGX44 tipo 100 (100 km/h). Desvío 1/5 a 50 km/h. Sin limitaciones temporales.",
+    "ancho": "Ancho ibérico",
+    "electrificacion": "Electrificada (todas las vías G1, G2, G3, G4)",
+    "estado_via": "Recta y horizontal. Sin obras en el lugar ni proximidades.",
+    "otro": "Perfil en recta y horizontal. No existían obras. Radiotelefonía tren-tierra A canal 99 con PM Madrid Chamartín y modalidad C."
+   },
+   "pagina": 10,
+   "cita": "a Barcelona Estación de Francia. Su perfil es en recta y horizontal.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales luminosas con balizas ASFA. Señal de salida S1/3 (PK 22+554) de tres focos sobre pescante con baliza de pie de señal, visibilidad buena. Señal de entrada E6 (PK 22+118) alta con baliza previa y pie de señal, visibilidad buena. Señal E1 (PK 24+025) y R1 (PK 23+771) con indicación de anuncio de parada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía tren-tierra en modalidad A canal 99 con el Puesto de Mando de Madrid Chamartín, \nmodalidad C para establecer la comunicación entre las circulaciones y las estaciones con personal y \ntelefonía móvil corporativa.",
+   "pagina": 11,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": "No existían obras de ningún tipo en el lugar del suceso ni en sus proximidades.",
+   "pagina": 11,
+   "cita": "2.2.5. Obras en el lugar o cercanías",
+   "origen": "determinista",
+   "regla": "sec:^obras en el lugar o cercan[íi]as$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno (ni material rodante ni infraestructura).",
+    "afectacion_servicio": "Circulación de la vía 3 de la estación afectada unos 175 minutos (08:37 a 11:32). Retrasos: 23 minutos el tren CGX44 y 175 minutos el tren CGX89."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno (ni material rodante ni infraestructura).",
+    "afectacion_servicio": "Circulación de la vía 3 de la estación afectada unos 175 minutos (08:37 a 11:32). Retrasos: 23 minutos el tren CGX44 y 175 minutos el tren CGX89."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno (ni material rodante ni infraestructura).",
+    "afectacion_servicio": "Circulación de la vía 3 de la estación afectada unos 175 minutos (08:37 a 11:32). Retrasos: 23 minutos el tren CGX44 y 175 minutos el tren CGX89."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora UIC 957103333218 (serie 333) del CGX89; locomotora UIC 9571033350238 (serie 333) del CGX44",
+    "averia": "Ninguna. ASFA conectado y funcionando con normalidad en ambos trenes. Sin anomalías en equipos ni dispositivos de seguridad.",
+    "mantenimiento": "No se especifica en el informe."
+   },
+   "pagina": 35,
+   "cita": "Ninguna. 4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad Ninguna. 4.3.4. Observaciones adicionales Si bien se ha podido constatar la existen",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales luminosas con balizas ASFA. Señal de salida S1/3 (PK 22+554) de tres focos sobre pescante con baliza de pie de señal, visibilidad buena. Señal de entrada E6 (PK 22+118) alta con baliza previa y pie de señal, visibilidad buena. Señal E1 (PK 24+025) y R1 (PK 23+771) con indicación de anuncio de parada.",
+    "tipo_via": "Vía cuádruple (G1, G2, G3, G4). Estación con cuatro vías generales (2, 1, 3 y 5). Bloqueo automático de vía cuádruple banalizada (BAB). Mando central desde PM Chamartín.",
+    "velocidad_maxima": "140 km/h para trenes tipo N al paso por la estación. Trenes CGX89 y CGX44 tipo 100 (100 km/h). Desvío 1/5 a 50 km/h. Sin limitaciones temporales.",
+    "ancho": "Ancho ibérico",
+    "electrificacion": "Electrificada (todas las vías G1, G2, G3, G4)",
+    "estado_via": "Recta y horizontal. Sin obras en el lugar ni proximidades.",
+    "otro": "Perfil en recta y horizontal. No existían obras. Radiotelefonía tren-tierra A canal 99 con PM Madrid Chamartín y modalidad C."
+   },
+   "pagina": 10,
+   "cita": "a Barcelona Estación de Francia. Su perfil es en recta y horizontal.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Condiciones meteorológicas normales. Día soleado. El sol incidía lateralmente sobre la señal S1/3, pero se verificó que a 150 metros se distinguía bien el color rojo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": "Torrejón de Ardoz"
+   },
+   "pagina": 2,
+   "cita": "Madrid 28071 España NIPO: 161-17-146-0 ## Página 3 A MINISTERIO DE FOMENTO SUBSECRETARÍA Investigación del incidente nº 0014/2016 ocurrido el 16.03.2016 Informe final de la CIAF COMISIÓN DE INVEST",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Condiciones meteorológicas normales. Día soleado. El sol incidía lateralmente sobre la señal S1/3, pero se verificó que a 150 metros se distinguía bien el color rojo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales luminosas con balizas ASFA. Señal de salida S1/3 (PK 22+554) de tres focos sobre pescante con baliza de pie de señal, visibilidad buena. Señal de entrada E6 (PK 22+118) alta con baliza previa y pie de señal, visibilidad buena. Señal E1 (PK 24+025) y R1 (PK 23+771) con indicación de anuncio de parada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales luminosas con balizas ASFA. Señal de salida S1/3 (PK 22+554) de tres focos sobre pescante con baliza de pie de señal, visibilidad buena. Señal de entrada E6 (PK 22+118) alta con baliza previa y pie de señal, visibilidad buena. Señal E1 (PK 24+025) y R1 (PK 23+771) con indicación de anuncio de parada.",
+    "tipo_via": "Vía cuádruple (G1, G2, G3, G4). Estación con cuatro vías generales (2, 1, 3 y 5). Bloqueo automático de vía cuádruple banalizada (BAB). Mando central desde PM Chamartín.",
+    "velocidad_maxima": "140 km/h para trenes tipo N al paso por la estación. Trenes CGX89 y CGX44 tipo 100 (100 km/h). Desvío 1/5 a 50 km/h. Sin limitaciones temporales.",
+    "ancho": "Ancho ibérico",
+    "electrificacion": "Electrificada (todas las vías G1, G2, G3, G4)",
+    "estado_via": "Recta y horizontal. Sin obras en el lugar ni proximidades.",
+    "otro": "Perfil en recta y horizontal. No existían obras. Radiotelefonía tren-tierra A canal 99 con PM Madrid Chamartín y modalidad C."
+   },
+   "pagina": 10,
+   "cita": "a Barcelona Estación de Francia. Su perfil es en recta y horizontal.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía tren-tierra en modalidad A canal 99 con el Puesto de Mando de Madrid Chamartín, \nmodalidad C para establecer la comunicación entre las circulaciones y las estaciones con personal y \ntelefonía móvil corporativa.",
+   "pagina": 11,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora UIC 957103333218 (serie 333) del CGX89; locomotora UIC 9571033350238 (serie 333) del CGX44",
+    "averia": "Ninguna. ASFA conectado y funcionando con normalidad en ambos trenes. Sin anomalías en equipos ni dispositivos de seguridad.",
+    "mantenimiento": "No se especifica en el informe."
+   },
+   "pagina": 35,
+   "cita": "Ninguna. 4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del sistema de gestión de la seguridad Ninguna. 4.3.4. Observaciones adicionales Si bien se ha podido constatar la existen",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": "El Jefe del CTC se percata del rebase indebido de la señal S1/3 y mediante radiotelefonía contacta con \nel maquinista del tren CGX89. Éste le confirma el rebase de la señal y la detención del tren. \nSeguidamente, el Jefe del CTC  ordena el retroceso del tren CGX89 hasta situarse ante señal S1/3 y su \nestacionamiento en la vía 3 de Torrejón de Ardoz. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nTREN CGX89 ESTACIONADO EN LA \nVÍA 3 DE LA ESTACIÓN \nSEÑAL S1/3 REBASADA \nPREVIAMENTE \nLOCOMOTORA  \nDEL TREN CGX89 \n\n## Página 30\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0014/2016 ocurrido el 16.03.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n170720-160316-IF-CIAF.doc \n \n \nPág. 30 de 37",
+   "pagina": 29,
+   "cita": "3.5.1. Medidas tomadas por el personal de circulación",
+   "origen": "determinista",
+   "regla": "sec:^medidas tomadas por el personal de circulaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Limitada experiencia del maquinista titular en el lugar del suceso (7 pasos por la estación, 6 en sentido contrario; habilitación de línea desde 18.12.2015).",
+    "Posible fatiga por jornada laboral de 11 horas y 37 minutos en el momento del rebase (tiempos de conducción reglamentarios: 4h26min).",
+    "Retraso acumulado del tren CGX89 (3 horas y 3 minutos sobre horario teórico), lo que pudo generar presión.",
+    "El maquinista titular estaba explicando situaciones al práctico en formación en el momento de aproximación a la señal.",
+    "Posible deslumbramiento por reflejo del sol en la señal (aunque se verificó visibilidad buena; pudo estar motivado por cansancio)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de mercancías CGX89 de Acciona Rail Services, procedente de Bilbao Mercancías con destino Vicálvaro Clasificación, y el tren CGX44 de Continental Rail, procedente de Bilbao Mercancías con destino Azuqueca de Henares, circulaban en sentidos opuestos hacia la estación de Torrejón de Ardoz. A las 08:32:57 el CGX89 tenía itinerario establecido de entrada a la vía 3 con señales en anuncio de parada y salida S1/3 en parada. El maquinista titular reconocía las indicaciones ASFA del anuncio de parada en la señal E1. A las 08:35:56 el tren ocupaba el circuito de vía anterior a la señal S1/3, que seguía en indicación de parada, mientras el CGX44 se aproximaba en sentido contrario por la misma vía (vía G2/vía 3). A las 08:37:05 se activó el freno de emergencia del ASFA al rebasar la señal S1/3 en parada a 37 km/h, produciéndose el conato de colisión. El CGX89 se detuvo 46 metros tras el rebase y el CGX44 ante la señal E6, quedando las cabezas enfrentadas a 412 metros.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del personal de conducción del tren CGX89 (falta de atención), dando lugar al rebase indebido de la señal de salida S1/3 en indicación de parada y al incumplimiento del artículo 217.1 del Reglamento General de Circulación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Limitada experiencia del maquinista titular en el lugar del suceso (7 pasos por la estación, 6 en sentido contrario; habilitación de línea desde 18.12.2015).",
+    "Posible fatiga por jornada laboral de 11 horas y 37 minutos en el momento del rebase (tiempos de conducción reglamentarios: 4h26min).",
+    "Retraso acumulado del tren CGX89 (3 horas y 3 minutos sobre horario teórico), lo que pudo generar presión.",
+    "El maquinista titular estaba explicando situaciones al práctico en formación en el momento de aproximación a la señal.",
+    "Posible deslumbramiento por reflejo del sol en la señal (aunque se verificó visibilidad buena; pudo estar motivado por cansancio)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "La Directiva 2004/49/CE establece en su artículo 4 que los administradores de la infraestructura \nferroviaria y las empresas ferroviarias están obligados a aplicar las medidas de control de riesgos, a \naplicar las reglas y normas nacionales de seguridad y a establecer un sistema de gestión de la \nseguridad. \n\n## Página 13\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0014/2016 ocurrido el 16.03.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n170720-160316-IF-CIAF.doc \n \n \nPág. 13 de 37 \nLa vigente ley 38/2015 del Sector Ferroviario en su artículo 66 (Certificación de seguridad) del capítulo \nII (Certificación y autorización de seguridad) indica: \n1. Antes de prestar servicios de transporte sobre una determinada línea o tramo de la Red Ferroviaria \nde Interés General, las empresas ferroviarias deberán obtener el certificado de seguridad. \n2. El certificado de seguridad acredita que la empresa ferroviaria ha establecido un sistema propio de \ngestión de la seguridad y está en condiciones de cumplir los requisitos sobre sistemas de control, \ncirculación y seguridad ferroviaria, sobre conocimientos y requisitos de su personal relacionado con la \nseguridad de la circulación ferroviaria y sobre características técnicas del material rodante que utilizará \ny de las condiciones de su mantenimiento, con objeto de controlar los riesgos y operar en la red de \nmanera segura. \nEl Real Decreto 810/2007 sobre seguridad en la circulación de la Red Ferroviaria de \nInterés General estable: \n Artículo 15. Toda empresa ferroviaria establecerá su correspondiente sistema de gestión de la \nseguridad que garantice que la prestación de los servicios de transporte ferroviario que realiza \ncumple, al menos, con los objetivos de seguridad (OS) fijados, es conforme con las normas \nnacionales de seguridad y se ajusta a los requisitos de seguridad fijados en las especificaciones \ntécnicas de interoperabilidad (ETI) y las especificaciones técnicas de homologación (ETH), así \ncomo que aplica los elementos pertinentes de los métodos de seguridad (MS). Asimismo, \ngarantizará el control de todos los riesgos creados por su actividad y, en la medida de lo posible, \ntendrá en cuenta los riesgos derivados de actividades realizadas por otras partes que puedan \nincidir en la circulación ferroviaria. \n Artículo 16. Toda empresa ferroviaria que desee prestar un servicio de transporte ferroviario, de \nviajeros o de mercancías, sobre la Red Ferroviaria de Interés General, deberá obtener un \ncertificado de seguridad, en el que se establecen las condiciones que la misma debe cumplir en \nmateria de sistemas de control, circulación y seguridad ferroviaria, de conocimientos y requisitos \nde su personal relacionado con la seguridad de la circulación ferroviaria y de características \ntécnicas del material rodante ferroviario que utiliza y de las condiciones de su mantenimiento, así \ncomo cualesquiera otras que puedan derivarse de lo previsto en este reglamento y en sus normas \nde desarrollo. \n3.2.2. \nSistema de Gestión de Seguridad en la Circulación de Acciona Rail Services. \nLa empresa ferroviaria Acciona Rail Services dispone, desde el 16 de marzo de 2006, de licencia válida \npara la prestación de servicios de transporte ferroviario de mercancías, otorgado por la Dirección \nGeneral de Ferrocarriles del Ministerio de Fomento. \nLa empresa Acciona Rail Services, con fecha 26 de diciembre de 2006, dispuso de su primer Certificado \nde Seguridad. Con fecha 18 de noviembre de 2011 la Dirección General de Ferrocarriles otorgó una \nprórroga de seis meses al Certificado de Seguridad de Acciona Rail Services, con el objetivo de que \nesta empresa finalizara una nueva versión de su Sistema de Gestión de la Seguridad. \nCon fecha 7 de mayo de 2012, la citada empresa solicitó la renovación y ampliación del Certificado de \nSeguridad vigente. \n\n## Página 14\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0014/2016 ocurrido el 16.03.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n170720-160316-IF-CIAF.doc \n \n \nPág. 14 de 37 \nLa  Dirección General de Ferrocarriles, con fecha 21 de junio de 2012, resuelve otorgar la renovación  \ny ampliación del Certificado de Seguridad a la empresa Acciona Rail Services, facultando a ésta para la \nprestación de servicios de transporte de mercancías, incluidos servicios de mercancías peligrosas, en la \nRed Ferroviaria de Interés General administrada por ADIF, así como el acceso a estaciones y \nterminales. \nEl certificado de seguridad acredita que la empresa ferroviaria dispone de un sistema de gestión de  \nseguridad ferroviaria (SGSF). \n3.2.3. \nManual del SGSF de Acciona Rail Services. \nEl Sistema de Gestión de Seguridad Ferroviaria de Acciona Rail Services (ARS) lo integran la \norganización y el conjunto de medidas establecidas por la empresa para garantizar la gestión segura \nde sus operaciones. En el mismo se determinan la estructura orgánica, las responsabilidades, los \nprocedimientos, los procesos y las disposiciones que en materia de seguridad ferroviaria aplica la \nempresa y que permiten realizar las actividades de transporte ferroviario incluido el de mercancías \npeligrosas. \nLa Dirección General de ARS es responsable de impulsar la implantación de la política, el cumplimiento \nde los compromisos y el logro de los objetivos de la Seguridad en la Circulación Ferroviaria. \nEl Director de Seguridad es el representante de la Dirección para asegurar el establecimiento, \nimplementación y mantenimiento de los procesos que componen el SGSF e informar a la Dirección \nsobre el desempeño y necesidades de mejora del mismo, asegurando el cumplimiento general de los \nrequisitos y asumiendo, entre otras, la responsabilidad de cuantas materias tengan relación con la \nsalvaguarda de la seguridad en la circulación. \nEl SGSF está formado por una suma de procesos que contribuyen a la planifica",
+   "pagina": 12,
+   "cita": "3.2.1. Normativa. La Directiva 2004/49/CE establece en su artículo 4 que los administradores de la infraestructura ferroviaria y las empresas ferroviarias están obligados a aplicar las medidas de control de riesgos, a",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": "Si bien se ha podido constatar la existencia dentro del SGS de Acciona Rail Services de un \nprocedimiento relativo a la gestión y control de los títulos habilitantes del personal ferroviario \n(PROC02_03), en éste no se recoge unos criterios generales que establezcan las diferentes acciones a \naplicar para la recuperación de las habilitaciones tras su suspensión por un fallo humano y en función \nde la gravedad de éste. El objeto es conseguir un tratamiento uniforme en el proceso de reciclaje para \nla reincorporación, en su caso, del trabajador a su puesto de trabajo. (Ver recomendación 14/2016-1). \nAsimismo, y tras una recomendación emitida por la CIAF en el informe final del suceso 28/2015, la \nAESF elaboró y publicó en noviembre de 2016 (con posterioridad a este suceso) la Recomendación \nTécnica 4/2016 sobre las actuaciones en relación con los títulos habilitantes del personal ferroviario \ntras sucesos por fallo humano.  \nEn dicha recomendación se establecen, entre otros aspectos,  los criterios para la suspensión de los \ntítulos habilitantes del personal ferroviario, que ya incluye el haber estado involucrado en un accidente \no incidente con indicios de infracción reglamentaria. También recoge los procedimientos  para la \nrecuperación de dichos títulos, en función de programas de recuperación individualizados que \ncontemplan diferentes acciones según el caso. Esta recomendación es una directriz para que las \nempresas dispongan dentro de sus SGS de los procedimientos pertinentes.      \n \n \n\n## Página 36\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0014/2016 ocurrido el 16.03.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n170720-160316-IF-CIAF.doc \n \n \nPág. 36 de 37 \n5. \nMEDIDAS ADOPTADAS \nPor parte de Acciona Rail Services \nLa empresa acuerda el día siguiente al suceso que a los maquinistas de la plantilla repasaran \nexhaustivamente la normativa reglamentaria sobre señales y rebases de las mismas. \nEl maquinista titular del tren \nSegún información facilitada por la empresa, en diciembre de 2016 realiza cursos de formación del SGS \ny del nuevo RCF. Causó baja en la empresa el día 21 de enero de 2017. Ambas medidas no tienen \nrelación con el suceso \nEl maquinista en prácticas  \nTras el presente suceso, con fechas 21 y 22 de marzo de 2016 realiza un programa de formación con \nuna carga lectiva de 4 horas diarias (8 horas total) y con el siguiente contenido: RGC, conocimientos \nbásicos de circulación y señales, instalaciones de seguridad, condiciones de marchas especiales, trenes, \ndetención de trenes, orden de marcha, velocidades y circulación  de trenes. Causó baja en la empresa \nel día 2 de julio de 2017. \nAsí pues, no parece que al maquinista titular del tren y responsable por tanto de la incidencia, se le  \nrealizara el reconocimiento psicofísico, tal y como se establece  en el apartado 4.10 del procedimiento \nya comentado 02_03.- “Gestión y control de los títulos habilitantes del personal ferroviario” de abril de \n2012;  ni tampoco que se le suspendiera de su certificado de conducción ni se le aplicara ninguna \nmedida tras el suceso. Por el contrario, es al maquinista en prácticas a quien se le aplican \ndeterminadas acciones formativas. (Ver Recomendación 14/2016-2). \n6. \nRECOMENDACIONES \nDestinatario  \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal  \nde Seguridad \nFerroviaria \n(AESF) \nAcciona Rail \nServices \n14/2016-1 \nQue se incluya en el SGS, mediante el \nprocedimiento PROC 02-03 o uno nuevo,  unos \ncriterios generales para la recuperación de los \ntítulos habilitantes suspendidos o revocados tras \nun fallo humano y en función de la gravedad de \néste, \nteniéndose \npara \nello \nen \ncuenta \nlo \nestablecido en la “Recomendación Técnica 4/2016 \nde la AESF sobre las actuaciones en relación con \nlos títulos habilitantes del personal ferroviario tras \nsucesos con fallo humano”.    \n\n### Tablas de la página 36\n\n| Destinatario | Implementador final | Número | Recomendación |\n|---|---|---|---|\n| Agencia Estatal de Seguridad Ferroviaria (AESF) | Acciona Rail Services | 14/2016-1 | Que se incluya en el SGS, mediante el procedimiento PROC 02-03 o uno nuevo, unos criterios generales para la recuperación de los títulos habilitantes suspendidos o revocados tras un fallo humano y en función de la gravedad de éste, teniéndose para ello en cuenta lo establecido en la “Recomendación Técnica 4/2016 de la AESF sobre las actuaciones en relación con los títulos habilitantes del personal ferroviario tras sucesos con fallo humano”. |\n\n## Página 37\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0014/2016 ocurrido el 16.03.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n170720-160316-IF-CIAF.doc \n \n \nPág. 37 de 37 \nAgencia Estatal  \nde Seguridad \nFerroviaria \n(AESF) \nAgencia Estatal  \nde Seguridad \nFerroviaria \n(AESF) \n14/2016-2 \nQue se realice una evaluación a  la empresa ARS \nen lo referente al tratamiento que viene \nrealizando a su personal de conducción tras \nsucesos que inciden en la seguridad de la \ncirculación ferroviaria.   \n \nMadrid, 20 de julio de 2017",
+   "pagina": 35,
+   "cita": "4.3.4. Observaciones adicionales",
+   "origen": "determinista",
+   "regla": "sec:^observaciones adicionales",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Que se incluya en el SGS, mediante el procedimiento PROC 02-03 o uno nuevo, unos criterios generales para la recuperación de los títulos habilitantes suspendidos o revocados tras un fallo humano y en función de la gravedad de éste, teniéndose para ello en cuenta lo establecido en la “Recomendación Técnica 4/2016 de la AESF sobre las actuaciones en relación con los títulos habilitantes del personal ferroviario tras sucesos con fallo humano”.",
+    "Que se realice una evaluación a la empresa ARS en lo referente al tratamiento que viene realizando a su personal de conducción tras sucesos que inciden en la seguridad de la circulación ferroviaria.",
+    "Que se incluya en el SGS, mediante el procedimiento PROC 02-03 o uno nuevo, unos criterios generales para la recuperación de los títulos habilitantes suspendidos o revocados tras un fallo humano y en función de la gravedad de éste, teniéndose para ello en cuenta lo establecido en la “Recomendación Técnica 4/2016 de la AESF sobre las actuaciones en relación con los títulos habilitantes del personal ferroviario tras sucesos con fallo humano”."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "Acciona Rail Services",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Acciona Rail Services"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "08:31:00",
+     "evento": "El tren CGX44 efectúa el paso por San Fernando de Henares"
+    },
+    {
+     "hora": "08:32:57",
+     "evento": "El tren CGX89 tiene itinerario establecido de entrada a vía 3; señales E1 y R1 en anuncio de parada, S1/3 en parada"
+    },
+    {
+     "hora": "08:34:34",
+     "evento": "El CGX89 reconoce en ASFA la indicación de anuncio de parada en baliza previa de señal E1 a 37 km/h"
+    },
+    {
+     "hora": "08:35:03",
+     "evento": "El CGX89 reconoce en ASFA la indicación de anuncio de parada en pie de señal E1 a 39 km/h"
+    },
+    {
+     "hora": "08:35:56",
+     "evento": "El CGX89 ocupa el circuito de vía CV3 anterior a la señal S1/3 (en parada); el CGX44 se aproxima a la señal avanzada E'6"
+    },
+    {
+     "hora": "08:37:05",
+     "evento": "Rebase indebido de la señal S1/3 por el CGX89; activación del freno de emergencia ASFA; conato de colisión con el CGX44"
+    },
+    {
+     "hora": "08:37:13",
+     "evento": "El tren CGX89 se detiene en PK 22+508, tras recorrer 46 metros desde el rebase"
+    },
+    {
+     "hora": "08:37",
+     "evento": "El Jefe del CTC se percata del rebase y contacta por radio con el maquinista del CGX89"
+    },
+    {
+     "hora": "08:41:39",
+     "evento": "El tren CGX44 se detiene ante la señal E6 (en indicación de parada)"
+    },
+    {
+     "hora": "08:52:02",
+     "evento": "El tren CGX44 inicia nuevamente la marcha tras apertura de señal E6"
+    },
+    {
+     "hora": "09:44",
+     "evento": "Adif comunica el suceso a la CIAF"
+    },
+    {
+     "hora": "11:32",
+     "evento": "El tren CGX89 se expide desde vía 3 a su destino (Vicálvaro Clasificación) tras relevo del maquinista"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0014/2016",
+ "expediente": "0014/16",
+ "anio": 2016,
+ "titulo": "Conato de colisión entre trenes de mercancías en la estación de Torrejón de Ardoz (Madrid)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 16.03.2016 170720-160316-IF-CIAF.md"
+}

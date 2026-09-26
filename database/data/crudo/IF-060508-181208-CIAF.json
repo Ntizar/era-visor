@@ -1,0 +1,902 @@
+{
+ "id": "IF-060508-181208-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/91D8A7D2-B1C9-4188-A83A-308BAE8F121B/46938/IF060508181208CIAF.pdf",
+ "pdf": "pdfs/ES/IF-060508-181208-CIAF.pdf",
+ "md5_pdf": "25e64d8555d30dc689dc3b61438f919a",
+ "paginas_md": 11,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 6,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0012/2008",
+   "pagina": 1,
+   "cita": "nº 0012/2008 ocurrido el 06.05.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 6 de mayo de 2008, a las 19:20, un varón de 79 años cayó a la vía al intentar apearse del tren de Media Distancia 15015 de Renfe Operadora en la estación de Fabara (Zaragoza). El maquinista observó la caída por el espejo retrovisor y detuvo el tren antes de arrollar a la víctima, que quedó entre el primer y el segundo coche. El hombre fue trasladado al Hospital de Alcañiz y falleció horas más tarde. La investigación atribuye el origen a la bajada en marcha por la segunda puerta del primer coche, con mal funcionamiento del dispositivo de plataforma. Se recomienda comprobar desgastes y holguras en los mecanismos de actuación de las puertas en el plan de mantenimiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-05-06",
+    "hora": "19:20",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Fabara",
+     "pk": "470+754",
+     "linea": "210 de Miraflores a Tarragona",
+     "provincia": "Zaragoza",
+     "descripcion_lugar": "Estación de Fabara, vía 2 del andén principal, PK 470+754 de la línea 210 de Miraflores a Tarragona."
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 6 de mayo de 2008, a las 19:20 horas, una persona que viajaba en el tren de Viajeros de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "El único tren afectado fue el del accidente, que perdió 60 minutos."
+   },
+   "pagina": 5,
+   "cita": "Minutos perdidos. Interceptación de vía",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "La víctima cayó a la vía al apearse del tren por la segunda puerta del primer coche cuando la composición había iniciado la marcha.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Funcionamiento anómalo de la puerta implicada: el dispositivo de desplazamiento de la plataforma estaba averiado, dejando ocultos los peldaños y una altura de unos 58 cm respecto al andén.",
+    "La puerta era de apertura manual con plataforma desplazable; al fallar el mecanismo de actuación, la escalerilla de bajada no resultaba accesible.",
+    "El tren se estacionó al final del andén y, al reanudar la marcha, quedó detenido con la cabeza ligeramente fuera de andén; la caída se produjo entre el primer y segundo coche."
+   ],
+   "pagina": 8,
+   "cita": "El accidente se produce en el andén principal de la estación de Fabara. El tren se estacionó al final",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "El plan de mantenimiento de la serie 444 no contemplaba la comprobación de desgastes y holguras en los mecanismos de actuación de las puertas, como bielas y ejes de actuación.",
+    "Existían antecedentes de averías de puertas en la serie 444, aunque no se conocían incidencias anteriores de carácter similar."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Se recomienda que Renfe Operadora - previo el estudio correspondiente, en las revisiones de tipo medio que determine - introduzca en el plan de mantenimiento existente para este tipo de material (que ya contempla la comprobación del correcto funcionamiento de las puertas, bisagras y escalones) la comprobación de desgastes y holguras en los mecanismos de actuación (bielas, ejes de actuación, etc.), reemplazándolos en caso necesario.",
+     "destinatario": "Renfe Operadora"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: Se recomienda que Renfe Operadora - previo el estudio correspondiente, en",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Se recomienda que Renfe Operadora - previo el estudio correspondiente, en las revisiones de tipo medio que determine - introduzca en el plan de mantenimiento existente para este tipo de material (que ya contempla la comprobación del correcto funcionamiento de las puertas, bisagras y escalones) la comprobación de desgastes y holguras en los mecanismos de actuación (bielas, ejes de actuación, etc.), reemplazándolos en caso necesario.",
+     "destinatario": "Renfe Operadora"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: Se recomienda que Renfe Operadora - previo el estudio correspondiente, en",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Accidente ferroviario",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "Media Distancia 15015, de la empresa ferroviaria Renfe Operadora, procedente de Barcelona San",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-05-06",
+   "pagina": 2,
+   "cita": "El día 6 de mayo de 2008, a las 19:20 horas, una persona que viajaba en el tren de Viajeros de",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "19:20",
+   "pagina": 2,
+   "cita": "El día 6 de mayo de 2008, a las 19:20 horas, una persona que viajaba en el tren de Viajeros de",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Fabara",
+    "pk": "470+754",
+    "linea": "210 de Miraflores a Tarragona",
+    "provincia": "Zaragoza",
+    "descripcion_lugar": "Estación de Fabara, vía 2 del andén principal, PK 470+754 de la línea 210 de Miraflores a Tarragona."
+   },
+   "pagina": 5,
+   "cita": "“El tren se estaciona en la vía 2ª andén principal a las 19:23’ con 18 minutos de retraso. Yo me",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 210 Miraflores-Tarragona",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Serie 444; automotor/UT 444002, 3 vehículos, 204 Tm.",
+    "averia": "Segunda puerta del primer coche con el dispositivo de desplazamiento de la plataforma averiado; peldaños ocultos y no accesibles; altura del piso respecto al andén de Fabara aproximadamente 58 cm; eje de la bisagra seccionado a la altura de la biela de accionamiento.",
+    "mantenimiento": "Revisión IC 2008-04-23 (472971 km), IF 2008-04-02 (462842 km), IM 2007-11-28 (434063 km); en el accidente 478227 km; ciclos de periodicidad cumplidos; el plan contempla comprobación de puertas, bisagras y escalones. Últimas averías de puertas de la serie 444: rotura de manilla interior, cerradura atascada, puertas que viajeros no podían abrir, peldaño atascado y falta de movilidad/cierre de estribo."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 6 de mayo de 2008, a las 19:20 horas, el tren de Viajeros de Media Distancia 15015 de Renfe Operadora, compuesto por el automotor 444002 de la serie 444, procedente de Barcelona San Andrés con destino Zaragoza Delicias, reanudó la marcha tras efectuar su parada comercial en la vía 2 del andén principal de la estación de Fabara (Zaragoza). En ese momento, una persona cayó a la vía desde el tren en movimiento; el maquinista lo observó por el espejo retrovisor y detuvo la composición antes de arrollarla, quedando la víctima entre el primer y el segundo coche, sobre el carril izquierdo en sentido de la marcha. El maquinista, el agente de acompañamiento y el factor de circulación auxiliaron a la persona, que fue trasladada en ambulancia al Hospital de Alcañiz, donde falleció horas más tarde.\n\nLa investigación señala que la víctima bajó presumiblemente por la segunda puerta del primer coche cuando el tren ya había iniciado la marcha. Las puertas de la serie 444 son de apertura manual hacia el interior y disponen de un dispositivo que desplaza el piso del pasillo para dejar accesibles los peldaños; en la puerta implicada ese dispositivo estaba averiado, por lo que los peldaños quedaron ocultos y la altura del piso del coche respecto al andén era de unos 58 centímetros. Tras la parada en Zaragoza-Delicias se inspeccionó la composición y, al día siguiente, en Barcelona San Andrés Condal, se constató que el eje de la bisagra de la puerta estaba seccionado a la altura de la biela de accionamiento. El registrador TELOC no permitía determinar con precisión la velocidad y distancia, pero las estimaciones apuntan a un desplazamiento muy corto, de unos 5 metros, a velocidad inferior a 5 km/h.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Fabara",
+    "pk": "470+754",
+    "linea": "210 de Miraflores a Tarragona",
+    "provincia": "Zaragoza",
+    "descripcion_lugar": "Estación de Fabara, vía 2 del andén principal, PK 470+754 de la línea 210 de Miraflores a Tarragona."
+   },
+   "pagina": 5,
+   "cita": "“El tren se estaciona en la vía 2ª andén principal a las 19:23’ con 18 minutos de retraso. Yo me",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "El único tren afectado fue el del accidente, que perdió 60 minutos."
+   },
+   "pagina": 5,
+   "cita": "Minutos perdidos. Interceptación de vía",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Por parte de Renfe Operadora se ha procedido a la reparación de la puerta averiada.",
+   "pagina": 9,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 15015",
+     "implicacion": "Observó la caída por el espejo retrovisor, accionó el freno de emergencia, auxilió a la víctima y dio negativo en la prueba de alcoholemia."
+    },
+    {
+     "rol": "Agente de Acompañamiento (Interventor en ruta)",
+     "implicacion": "Auxilió a la víctima, comprobó las puertas al apearse y declaró que estaban cerradas salvo la puerta por la que bajó y la primera del tercer coche."
+    },
+    {
+     "rol": "Jefe de Circulación/Factor de Circulación de la estación de Fabara",
+     "implicacion": "Dio la orden de marche, observó la puerta primera del tercer coche abierta, auxilió a la víctima y dio negativo en la prueba de alcoholemia."
+    }
+   ],
+   "pagina": 4,
+   "cita": "El Agente de Acompañamiento (Interventor en ruta). Matrícula 9729054",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "15015",
+     "tipo": "Tren de Viajeros de Media Distancia",
+     "operador": "Renfe Operadora",
+     "danos": "No se produjeron daños en el material rodante"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Media Distancia 15015, de la empresa ferroviaria Renfe Operadora, procedente de Barcelona San",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Serie 444; automotor/UT 444002, 3 vehículos, 204 Tm.",
+    "averia": "Segunda puerta del primer coche con el dispositivo de desplazamiento de la plataforma averiado; peldaños ocultos y no accesibles; altura del piso respecto al andén de Fabara aproximadamente 58 cm; eje de la bisagra seccionado a la altura de la biela de accionamiento.",
+    "mantenimiento": "Revisión IC 2008-04-23 (472971 km), IF 2008-04-02 (462842 km), IM 2007-11-28 (434063 km); en el accidente 478227 km; ciclos de periodicidad cumplidos; el plan contempla comprobación de puertas, bisagras y escalones. Últimas averías de puertas de la serie 444: rotura de manilla interior, cerradura atascada, puertas que viajeros no podían abrir, peldaño atascado y falta de movilidad/cierre de estribo."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Enclavamiento electrónico; Bloqueo Telefónico Normal, con transición a Bloqueo Automático con CTC en Vía Única; según el Jefe de Circulación, la señal del itinerario estaba en verde.",
+    "tipo_via": "Vía 2 de la estación de Fabara, andén principal; línea 210 de Miraflores a Tarragona.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "No se produjeron daños en la infraestructura; no existían condiciones especiales de circulación en el lugar y momento del accidente.",
+    "otro": "Radiotelefonía modalidad A; el tren quedó detenido con la cabeza ligeramente fuera de andén tras la parada."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Enclavamiento electrónico; Bloqueo Telefónico Normal, con transición a Bloqueo Automático con CTC en Vía Única; según el Jefe de Circulación, la señal del itinerario estaba en verde.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "El único tren afectado fue el del accidente, que perdió 60 minutos."
+   },
+   "pagina": 8,
+   "cita": "06/11/2007, Hay puertas que los viajeros no pueden abrir, sobre todo en el remolque cabina (CR).",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "El único tren afectado fue el del accidente, que perdió 60 minutos."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-060508-181208-CIAF Pág. 1 de 11 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0012/2008 OCURR",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "El único tren afectado fue el del accidente, que perdió 60 minutos."
+   },
+   "pagina": 5,
+   "cita": "Minutos perdidos. Interceptación de vía",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 444; automotor/UT 444002, 3 vehículos, 204 Tm.",
+    "averia": "Segunda puerta del primer coche con el dispositivo de desplazamiento de la plataforma averiado; peldaños ocultos y no accesibles; altura del piso respecto al andén de Fabara aproximadamente 58 cm; eje de la bisagra seccionado a la altura de la biela de accionamiento.",
+    "mantenimiento": "Revisión IC 2008-04-23 (472971 km), IF 2008-04-02 (462842 km), IM 2007-11-28 (434063 km); en el accidente 478227 km; ciclos de periodicidad cumplidos; el plan contempla comprobación de puertas, bisagras y escalones. Últimas averías de puertas de la serie 444: rotura de manilla interior, cerradura atascada, puertas que viajeros no podían abrir, peldaño atascado y falta de movilidad/cierre de estribo."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Enclavamiento electrónico; Bloqueo Telefónico Normal, con transición a Bloqueo Automático con CTC en Vía Única; según el Jefe de Circulación, la señal del itinerario estaba en verde.",
+    "tipo_via": "Vía 2 de la estación de Fabara, andén principal; línea 210 de Miraflores a Tarragona.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "No se produjeron daños en la infraestructura; no existían condiciones especiales de circulación en el lugar y momento del accidente.",
+    "otro": "Radiotelefonía modalidad A; el tren quedó detenido con la cabeza ligeramente fuera de andén tras la parada."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Zaragoza",
+    "municipio": null,
+    "estacion": "Fabara"
+   },
+   "pagina": 2,
+   "cita": "Andrés con destino Zaragoza Delicias, cae a la vía en el momento en que la composición efectuaba su",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Enclavamiento electrónico; Bloqueo Telefónico Normal, con transición a Bloqueo Automático con CTC en Vía Única; según el Jefe de Circulación, la señal del itinerario estaba en verde.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Enclavamiento electrónico; Bloqueo Telefónico Normal, con transición a Bloqueo Automático con CTC en Vía Única; según el Jefe de Circulación, la señal del itinerario estaba en verde.",
+    "tipo_via": "Vía 2 de la estación de Fabara, andén principal; línea 210 de Miraflores a Tarragona.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "No se produjeron daños en la infraestructura; no existían condiciones especiales de circulación en el lugar y momento del accidente.",
+    "otro": "Radiotelefonía modalidad A; el tren quedó detenido con la cabeza ligeramente fuera de andén tras la parada."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 444; automotor/UT 444002, 3 vehículos, 204 Tm.",
+    "averia": "Segunda puerta del primer coche con el dispositivo de desplazamiento de la plataforma averiado; peldaños ocultos y no accesibles; altura del piso respecto al andén de Fabara aproximadamente 58 cm; eje de la bisagra seccionado a la altura de la biela de accionamiento.",
+    "mantenimiento": "Revisión IC 2008-04-23 (472971 km), IF 2008-04-02 (462842 km), IM 2007-11-28 (434063 km); en el accidente 478227 km; ciclos de periodicidad cumplidos; el plan contempla comprobación de puertas, bisagras y escalones. Últimas averías de puertas de la serie 444: rotura de manilla interior, cerradura atascada, puertas que viajeros no podían abrir, peldaño atascado y falta de movilidad/cierre de estribo."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Apeo tras iniciar la marcha",
+    "Iniciar marcha del tren",
+    "No comprobación de holguras",
+    "Puerta con dispositivo averiado"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 6 de mayo de 2008, a las 19:20 horas, el tren de Viajeros de Media Distancia 15015 de Renfe Operadora, compuesto por el automotor 444002 de la serie 444, procedente de Barcelona San Andrés con destino Zaragoza Delicias, reanudó la marcha tras efectuar su parada comercial en la vía 2 del andén principal de la estación de Fabara (Zaragoza). En ese momento, una persona cayó a la vía desde el tren en movimiento; el maquinista lo observó por el espejo retrovisor y detuvo la composición antes de arrollarla, quedando la víctima entre el primer y el segundo coche, sobre el carril izquierdo en sentido de la marcha. El maquinista, el agente de acompañamiento y el factor de circulación auxiliaron a la persona, que fue trasladada en ambulancia al Hospital de Alcañiz, donde falleció horas más tarde.\n\nLa investigación señala que la víctima bajó presumiblemente por la segunda puerta del primer coche cuando el tren ya había iniciado la marcha. Las puertas de la serie 444 son de apertura manual hacia el interior y disponen de un dispositivo que desplaza el piso del pasillo para dejar accesibles los peldaños; en la puerta implicada ese dispositivo estaba averiado, por lo que los peldaños quedaron ocultos y la altura del piso del coche respecto al andén era de unos 58 centímetros. Tras la parada en Zaragoza-Delicias se inspeccionó la composición y, al día siguiente, en Barcelona San Andrés Condal, se constató que el eje de la bisagra de la puerta estaba seccionado a la altura de la biela de accionamiento. El registrador TELOC no permitía determinar con precisión la velocidad y distancia, pero las estimaciones apuntan a un desplazamiento muy corto, de unos 5 metros, a velocidad inferior a 5 km/h.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente se produce en el andén principal de la estación de Fabara. El tren se estacionó al final \ndel andén y al reanudar la marcha quedó detenido con la cabeza ligeramente fuera de andén. \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0012/2008 ocurrido el 06.05.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-060508-181208-CIAF \n \nPág. 9 de 11\nEl Factor de Circulación y el Agente de Acompañamiento del tren coinciden al señalar que la única \npuerta que se encontraba abierta era la primera puerta del tercer coche, por la que se habían subido y \nbajado viajeros. De acuerdo a su declaración, el Factor de Circulación dio la orden de marche el tren \ndesde aproximadamente la mitad de la composición. \nPara caer a la vía en el punto indicado anteriormente, la víctima debió de bajar por la puerta \ntrasera del 1er coche y caer por la zona de separación entre ambos al avanzar el tren. \nLas puertas de los coches de este tipo de tren, son de apertura manual, hacia el interior del tren, \nestando dotadas de un dispositivo que permite el desplazamiento de una plataforma cuando la puerta \nse abre, dejando al descubierto el primer peldaño de la escalerilla del vehículo. La puerta por la que \nse presume que cayó la víctima, tenía averiado dicho dispositivo, por lo que los peldaños de la \nescalerilla de bajada quedaron ocultos y no eran accesibles, con lo que la altura del piso, del coche, \ncon respecto del andén de la estación era de 58 centímetros. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nTanto la posición de la víctima tras la caída, como el análisis de los datos del registrador jurídico \nparecen confirmar la declaración del maquinista, en el sentido de que la víctima se apeó del tren, una \nvez iniciada la marcha. \nComo causa subyacente, cabe destacar el funcionamiento anómalo de la puerta por la que se \npresupone que cayó la víctima. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \n- \nEl accidente tuvo su origen en la bajada de la víctima del tren, por la segunda puerta del \nprimer coche, cuando éste había iniciado la marcha. Como causa subyacente, se resalta el mal \nfuncionamiento de la puerta por la que, presumiblemente, cayó la víctima.",
+   "pagina": 8,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "La víctima cayó a la vía al apearse del tren por la segunda puerta del primer coche cuando la composición había iniciado la marcha.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Funcionamiento anómalo de la puerta implicada: el dispositivo de desplazamiento de la plataforma estaba averiado, dejando ocultos los peldaños y una altura de unos 58 cm respecto al andén.",
+    "La puerta era de apertura manual con plataforma desplazable; al fallar el mecanismo de actuación, la escalerilla de bajada no resultaba accesible.",
+    "El tren se estacionó al final del andén y, al reanudar la marcha, quedó detenido con la cabeza ligeramente fuera de andén; la caída se produjo entre el primer y segundo coche."
+   ],
+   "pagina": 8,
+   "cita": "El accidente se produce en el andén principal de la estación de Fabara. El tren se estacionó al final",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Por parte de Renfe Operadora se ha procedido a la reparación de la puerta averiada.",
+   "pagina": 9,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Por parte de Renfe Operadora se ha procedido a la reparación de la puerta averiada.",
+   "pagina": 9,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Por parte de Renfe Operadora se ha procedido a la reparación de la puerta averiada.",
+   "pagina": 9,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Se recomienda que Renfe Operadora - previo el estudio correspondiente, en las revisiones de tipo medio que determine - introduzca en el plan de mantenimiento existente para este tipo de material (que ya contempla la comprobación del correcto funcionamiento de las puertas, bisagras y escalones) la comprobación de desgastes y holguras en los mecanismos de actuación (bielas, ejes de actuación, etc.), reemplazándolos en caso necesario.",
+     "destinatario": "Renfe Operadora"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: Se recomienda que Renfe Operadora - previo el estudio correspondiente, en",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "19:20",
+     "evento": "2008-05-06: el tren 15015 reanuda la marcha tras la parada comercial en Fabara; una persona cae a la vía y el maquinista detiene el tren."
+    },
+    {
+     "hora": "19:23",
+     "evento": "2008-05-06: según el Jefe de Circulación, el tren se había estacionado en la vía 2 del andén principal con 18 minutos de retraso antes de recibir la orden de marche."
+    },
+    {
+     "hora": "17:37",
+     "evento": "2008-05-07: el Coordinador de accidentes ferroviarios de Adif comunica a la CIAF el fallecimiento de la persona caída desde el tren 15015."
+    },
+    {
+     "hora": null,
+     "evento": "2008-05-08: la UT 444002 viaja a Barcelona San Andrés Condal para reparación; se constata el eje de la bisagra seccionado."
+    },
+    {
+     "hora": null,
+     "evento": "2008-12-18: la CIAF aprueba el informe final y la recomendación."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0012/2008",
+ "expediente": "0012/08",
+ "anio": 2008,
+ "titulo": "Caída de persona a la vía al apearse en marcha del tren 15015 en estación de Fabara (Zaragoza)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-060508-181208-CIAF.md"
+}

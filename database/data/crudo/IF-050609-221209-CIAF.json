@@ -1,0 +1,884 @@
+{
+ "id": "IF-050609-221209-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/EF0545AC-A58B-4C42-916B-33F314B663D2/68855/IF050609221209CIAF.pdf",
+ "pdf": "pdfs/ES/IF-050609-221209-CIAF.pdf",
+ "md5_pdf": "c895b037cfdd5c88d4efd36ea7bca192",
+ "paginas_md": 12,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 17,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0025/2009",
+   "pagina": 1,
+   "cita": "nº 0025/2009 ocurrido el 05.06.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 5 de junio de 2009 a las 22:42, el tren de mercancías 93559 de Renfe Operadora arrolló a un automóvil Citroën AX que cruzó el paso a nivel clase C (PK 176+126) de la estación de Maçanet-Massanes (Gerona) con las barreras bajadas. El conductor y único ocupante del vehículo, un hombre de 33 años, falleció. El maquinista aplicó el freno de emergencia y el silbato sin poder evitar el impacto. El accidente se originó por el cruce indebido del vehículo sorteando las barreras. No se establecieron recomendaciones.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-06-05",
+    "hora": "22:42",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Maçanet-Massanes",
+     "pk": "176+126",
+     "linea": "270 Barcelona San Andrés Condal a Cerbere",
+     "provincia": "Gerona",
+     "descripcion_lugar": "Paso a nivel clase C en zona rústica dentro de la playa de vías de la estación, al oeste de la población de Maçanet, limitado entre el casco urbano Maçanet Residencial Park y la Riera de Santa Coloma. Protege la intersección de vías 1, 2, 3, 4 y 6 con un camino rural de Can Ramilans. Tramo Maçanet-Massanes - Fornells. Municipio: Maçanet de la Selva."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 5 de junio de 2009, a las 22:42 horas, el tren de mercancías 93559, de la empresa",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Locomotora: daños de escasa consideración en topes y gancho de tracción. Vehículo: destruido (quedó atrapado debajo de la locomotora).",
+    "afectacion_servicio": "Vías generales 1 y 2 interceptadas desde las 22:42 del día 5 hasta las 02:15 del día 6. Afectados 8 trenes de mercancías con retraso acumulado de 959 minutos."
+   },
+   "pagina": 8,
+   "cita": "2.3 VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "El vehículo cruza indebidamente por el paso a nivel, sorteando las barreras que estaban bajadas, en el momento en que el tren 93559 circulaba por él.",
+   "pagina": 3,
+   "cita": "Conclusión: el accidente tuvo su origen cuando el vehículo cruza indebidamente por el paso a",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Un tren regional había pasado por el paso a nivel minutos antes sin que entre ambos trenes se abrieran las barreras o dejaran de lucir los focos en rojo, lo que pudo confundir a la víctima.",
+    "La visión del paso a nivel estaba dificultada por una unidad estacionada en vía 4 (según declaración del maquinista)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones. \n \n \n \n \n \nMadrid, 22 de diciembre de 2009",
+   "pagina": 12,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones. Madrid, 22 de diciembre de 2009",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "ferroviaria Renfe Operadora, arrolla a un automóvil que cruzaba por un paso a nivel tipo C (estación",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-06-05",
+   "pagina": 3,
+   "cita": "El día 5 de junio de 2009, a las 22:42 horas, el tren de mercancías 93559, de la empresa",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "22:42",
+   "pagina": 3,
+   "cita": "El día 5 de junio de 2009, a las 22:42 horas, el tren de mercancías 93559, de la empresa",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Maçanet-Massanes",
+    "pk": "176+126",
+    "linea": "270 Barcelona San Andrés Condal a Cerbere",
+    "provincia": "Gerona",
+    "descripcion_lugar": "Paso a nivel clase C en zona rústica dentro de la playa de vías de la estación, al oeste de la población de Maçanet, limitado entre el casco urbano Maçanet Residencial Park y la Riera de Santa Coloma. Protege la intersección de vías 1, 2, 3, 4 y 6 con un camino rural de Can Ramilans. Tramo Maçanet-Massanes - Fornells. Municipio: Maçanet de la Selva."
+   },
+   "pagina": 8,
+   "cita": "por una unidad estacionada en vía 4, se ha precipitado un vehículo por el lado derecho, en sentido de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "270 Barcelona San Andrés Condal a Cerbere",
+   "pagina": 3,
+   "cita": "270 Barcelona San Andrés Condal a Cerbere.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 269224, Tipo 100, Nº UIC: 957102692242. 15 vagones, 641 Tn de masa remolcada. Vehículo de carretera: Citroën AX.",
+    "averia": "Equipos de seguridad del tren funcionaron correctamente. Instalaciones del paso a nivel funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de mercancías 93559 de Renfe Operadora, procedente de Martorell SEAT con destino Cerbere, circulaba por la estación de Maçanet-Massanes cuando un vehículo de carretera (Citroën AX) invadió la vía por el lado derecho en el sentido de marcha del tren, haciendo caso omiso de las señales acústicas y luminosas y sorteando las barreras del paso a nivel que estaban bajadas indicando la llegada del tren. El maquinista, al ver el vehículo, hizo uso del silbato y del freno de emergencia sin poder evitar el arrollamiento por la escasa distancia existente, arrastrando el coche hasta detenerse. Como consecuencia del impacto falleció el conductor y único ocupante del vehículo. La locomotora sufrió daños de escasa consideración en topes y gancho de tracción que no le impidieron continuar la marcha. Un tren regional había pasado por el paso a nivel minutos antes sin que entre ambos trenes se abrieran las barreras o dejaran de lucir los focos en rojo, lo que pudo confundir a la víctima.",
+   "pagina": 3,
+   "cita": "Gerona El tren de mercancías 93559 de Renfe Operadora, procedente de Martorell SEAT con destino Cerbere detiene su marcha tras haber arrollado a un vehículo de carretera en el paso a nivel clase C del PK 176+ 126 situ",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Maçanet-Massanes",
+    "pk": "176+126",
+    "linea": "270 Barcelona San Andrés Condal a Cerbere",
+    "provincia": "Gerona",
+    "descripcion_lugar": "Paso a nivel clase C en zona rústica dentro de la playa de vías de la estación, al oeste de la población de Maçanet, limitado entre el casco urbano Maçanet Residencial Park y la Riera de Santa Coloma. Protege la intersección de vías 1, 2, 3, 4 y 6 con un camino rural de Can Ramilans. Tramo Maçanet-Massanes - Fornells. Municipio: Maçanet de la Selva."
+   },
+   "pagina": 8,
+   "cita": "por una unidad estacionada en vía 4, se ha precipitado un vehículo por el lado derecho, en sentido de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Locomotora: daños de escasa consideración en topes y gancho de tracción. Vehículo: destruido (quedó atrapado debajo de la locomotora).",
+    "afectacion_servicio": "Vías generales 1 y 2 interceptadas desde las 22:42 del día 5 hasta las 02:15 del día 6. Afectados 8 trenes de mercancías con retraso acumulado de 959 minutos."
+   },
+   "pagina": 8,
+   "cita": "2.3 VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 93559",
+     "implicacion": "Matrícula 7800592. Aplicó silbato y freno de emergencia correctamente. Tasa de alcoholemia negativa (0,00 mg/1000 ml). Jornada del día 5: 5h40min; día 4: descanso; día 3: 6h08min. Último reciclaje formativo 18/01/2008; último reconocimiento médico y psicotécnico 15/11/2004. Habilitado conforme a Orden FOM/2520/2006."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "93559",
+     "tipo": "tren de mercancías",
+     "operador": "Renfe Operadora",
+     "danos": "Daños de escasa consideración en topes y gancho de tracción de la locomotora; no impidieron continuar la marcha."
+    },
+    {
+     "numero": null,
+     "tipo": "tren regional",
+     "operador": null,
+     "danos": "Sin daños; pasó por el paso a nivel minutos antes del accidente sin que se abrieran las barreras entre ambos trenes."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 5 de junio de 2009, a las 22:42 horas, el tren de mercancías 93559, de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 269224, Tipo 100, Nº UIC: 957102692242. 15 vagones, 641 Tn de masa remolcada. Vehículo de carretera: Citroën AX.",
+    "averia": "Equipos de seguridad del tren funcionaron correctamente. Instalaciones del paso a nivel funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 5,
+   "cita": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase C con semibarreras enclavadas y señalización acústica y luminosa a ambos lados. Barreras bajadas ininterrumpidamente durante 5 minutos antes del accidente. Bloqueo automático de vía doble sin CTC por lado Cerbere (Portbou); Bloqueo automático Banalizado con CTC por lado Barcelona, gestionado por Puesto de Mando Barcelona estación de Francia. Radiotelefonía modalidad A.",
+    "tipo_via": "Vía doble electrificada de ancho convencional. Estación con 10 vías, 3 andenes, 3 pasos entablonados y paso inferior para viajeros. Trazado en recta con buena visibilidad.",
+    "velocidad_maxima": "90 km/h (velocidad máxima permitida al paso por el PN según libro horario). Limitación temporal de velocidad a 70 km/h entre PK 176+600 y 188+900 en ambos sentidos (consigna B nº6 DCNE). Tren circulaba a 59 km/h al aplicar freno de emergencia.",
+    "ancho": "Convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Correcta. El paso a nivel será suprimido mediante construcción de paso superior en PK 176+274.",
+    "otro": "Momento de circulación AxT: 1.995,337. Media semanal de circulaciones del tramo Maçanet-Fornells: 505 (61 larga distancia, 293 media distancia, 2 cercanías, 144 mercancías, 4 servicio). Obra en curso: supresión del paso a nivel mediante paso superior en PK 176+274, términos municipales de Maçanet de la Selva y Massanes."
+   },
+   "pagina": 6,
+   "cita": "accidente es de vía doble electrificada de ancho convencional, la circulación se realiza al amparo de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso a nivel clase C con semibarreras enclavadas y señalización acústica y luminosa a ambos lados. Barreras bajadas ininterrumpidamente durante 5 minutos antes del accidente. Bloqueo automático de vía doble sin CTC por lado Cerbere (Portbou); Bloqueo automático Banalizado con CTC por lado Barcelona, gestionado por Puesto de Mando Barcelona estación de Francia. Radiotelefonía modalidad A.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Locomotora: daños de escasa consideración en topes y gancho de tracción. Vehículo: destruido (quedó atrapado debajo de la locomotora).",
+    "afectacion_servicio": "Vías generales 1 y 2 interceptadas desde las 22:42 del día 5 hasta las 02:15 del día 6. Afectados 8 trenes de mercancías con retraso acumulado de 959 minutos."
+   },
+   "pagina": 8,
+   "cita": "2.3 VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Locomotora: daños de escasa consideración en topes y gancho de tracción. Vehículo: destruido (quedó atrapado debajo de la locomotora).",
+    "afectacion_servicio": "Vías generales 1 y 2 interceptadas desde las 22:42 del día 5 hasta las 02:15 del día 6. Afectados 8 trenes de mercancías con retraso acumulado de 959 minutos."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe final IF-050609-221209-CIAF Pág. 1 de 12 INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0025/2009 OCURRIDO EL DÍA 05.06.2009 EN EL",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Locomotora: daños de escasa consideración en topes y gancho de tracción. Vehículo: destruido (quedó atrapado debajo de la locomotora).",
+    "afectacion_servicio": "Vías generales 1 y 2 interceptadas desde las 22:42 del día 5 hasta las 02:15 del día 6. Afectados 8 trenes de mercancías con retraso acumulado de 959 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 269224, Tipo 100, Nº UIC: 957102692242. 15 vagones, 641 Tn de masa remolcada. Vehículo de carretera: Citroën AX.",
+    "averia": "Equipos de seguridad del tren funcionaron correctamente. Instalaciones del paso a nivel funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase C con semibarreras enclavadas y señalización acústica y luminosa a ambos lados. Barreras bajadas ininterrumpidamente durante 5 minutos antes del accidente. Bloqueo automático de vía doble sin CTC por lado Cerbere (Portbou); Bloqueo automático Banalizado con CTC por lado Barcelona, gestionado por Puesto de Mando Barcelona estación de Francia. Radiotelefonía modalidad A.",
+    "tipo_via": "Vía doble electrificada de ancho convencional. Estación con 10 vías, 3 andenes, 3 pasos entablonados y paso inferior para viajeros. Trazado en recta con buena visibilidad.",
+    "velocidad_maxima": "90 km/h (velocidad máxima permitida al paso por el PN según libro horario). Limitación temporal de velocidad a 70 km/h entre PK 176+600 y 188+900 en ambos sentidos (consigna B nº6 DCNE). Tren circulaba a 59 km/h al aplicar freno de emergencia.",
+    "ancho": "Convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Correcta. El paso a nivel será suprimido mediante construcción de paso superior en PK 176+274.",
+    "otro": "Momento de circulación AxT: 1.995,337. Media semanal de circulaciones del tramo Maçanet-Fornells: 505 (61 larga distancia, 293 media distancia, 2 cercanías, 144 mercancías, 4 servicio). Obra en curso: supresión del paso a nivel mediante paso superior en PK 176+274, términos municipales de Maçanet de la Selva y Massanes."
+   },
+   "pagina": 6,
+   "cita": "accidente es de vía doble electrificada de ancho convencional, la circulación se realiza al amparo de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche, tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Gerona",
+    "municipio": null,
+    "estacion": "Maçanet-Massanes"
+   },
+   "pagina": 3,
+   "cita": "Gerona El tren de mercancías 93559 de Renfe Operadora, procedente de Martorell SEAT con destino Cerbere detiene su marcha tras haber arrollado a un vehículo de carretera en el paso a nivel clase C del PK 176+ 126 situ",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche, tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso a nivel clase C con semibarreras enclavadas y señalización acústica y luminosa a ambos lados. Barreras bajadas ininterrumpidamente durante 5 minutos antes del accidente. Bloqueo automático de vía doble sin CTC por lado Cerbere (Portbou); Bloqueo automático Banalizado con CTC por lado Barcelona, gestionado por Puesto de Mando Barcelona estación de Francia. Radiotelefonía modalidad A.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase C con semibarreras enclavadas y señalización acústica y luminosa a ambos lados. Barreras bajadas ininterrumpidamente durante 5 minutos antes del accidente. Bloqueo automático de vía doble sin CTC por lado Cerbere (Portbou); Bloqueo automático Banalizado con CTC por lado Barcelona, gestionado por Puesto de Mando Barcelona estación de Francia. Radiotelefonía modalidad A.",
+    "tipo_via": "Vía doble electrificada de ancho convencional. Estación con 10 vías, 3 andenes, 3 pasos entablonados y paso inferior para viajeros. Trazado en recta con buena visibilidad.",
+    "velocidad_maxima": "90 km/h (velocidad máxima permitida al paso por el PN según libro horario). Limitación temporal de velocidad a 70 km/h entre PK 176+600 y 188+900 en ambos sentidos (consigna B nº6 DCNE). Tren circulaba a 59 km/h al aplicar freno de emergencia.",
+    "ancho": "Convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Correcta. El paso a nivel será suprimido mediante construcción de paso superior en PK 176+274.",
+    "otro": "Momento de circulación AxT: 1.995,337. Media semanal de circulaciones del tramo Maçanet-Fornells: 505 (61 larga distancia, 293 media distancia, 2 cercanías, 144 mercancías, 4 servicio). Obra en curso: supresión del paso a nivel mediante paso superior en PK 176+274, términos municipales de Maçanet de la Selva y Massanes."
+   },
+   "pagina": 6,
+   "cita": "accidente es de vía doble electrificada de ancho convencional, la circulación se realiza al amparo de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 269224, Tipo 100, Nº UIC: 957102692242. 15 vagones, 641 Tn de masa remolcada. Vehículo de carretera: Citroën AX.",
+    "averia": "Equipos de seguridad del tren funcionaron correctamente. Instalaciones del paso a nivel funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Paso previo del tren regional",
+    "Barreras no abren entre trenes",
+    "Cruce indebido con barreras bajadas",
+    "Ignorar señales acústicas y luminosas"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "Jornada laboral del maquinista del tren 93559: \n- el día 5: 5 horas y 40 minutos \n- el día 4: descanso. \n- el día 3: 6 horas y 8 minutos. \nAl maquinista, el día del accidente, se le realiza la prueba de alcoholemia en aire espirado dando \nresultado negativo (0,00 mg/1000 ml).",
+   "pagina": 10,
+   "cita": "3.5 INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Jornada laboral del maquinista del tren 93559: \n- el día 5: 5 horas y 40 minutos \n- el día 4: descanso. \n- el día 3: 6 horas y 8 minutos. \nAl maquinista, el día del accidente, se le realiza la prueba de alcoholemia en aire espirado dando \nresultado negativo (0,00 mg/1000 ml).",
+   "pagina": 10,
+   "cita": "3.5 INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de mercancías 93559 de Renfe Operadora, procedente de Martorell SEAT con destino Cerbere, circulaba por la estación de Maçanet-Massanes cuando un vehículo de carretera (Citroën AX) invadió la vía por el lado derecho en el sentido de marcha del tren, haciendo caso omiso de las señales acústicas y luminosas y sorteando las barreras del paso a nivel que estaban bajadas indicando la llegada del tren. El maquinista, al ver el vehículo, hizo uso del silbato y del freno de emergencia sin poder evitar el arrollamiento por la escasa distancia existente, arrastrando el coche hasta detenerse. Como consecuencia del impacto falleció el conductor y único ocupante del vehículo. La locomotora sufrió daños de escasa consideración en topes y gancho de tracción que no le impidieron continuar la marcha. Un tren regional había pasado por el paso a nivel minutos antes sin que entre ambos trenes se abrieran las barreras o dejaran de lucir los focos en rojo, lo que pudo confundir a la víctima.",
+   "pagina": 3,
+   "cita": "Gerona El tren de mercancías 93559 de Renfe Operadora, procedente de Martorell SEAT con destino Cerbere detiene su marcha tras haber arrollado a un vehículo de carretera en el paso a nivel clase C del PK 176+ 126 situ",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 DELIBERACIÓN \nEl accidente tuvo lugar en el paso a nivel tipo C del P.K. 176+126 situado en la estación de \nMaçanet-Massanes. \nDel análisis del registrador de seguridad del vehículo motor se desprende que el tren circulaba a \nuna velocidad inferior a su máxima permitida en el tramo. \nSegún lo declarado por el maquinista, al percatarse de cómo el automóvil invadía \nintempestivamente la vía hizo uso del silbato y del freno de emergencia, por lo que la actuación del \nmaquinista fue correcta. \nTanto la tasa de alcoholemia como la jornada de trabajo del maquinista cumplen lo establecido en \nlas Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nLos equipos de seguridad del tren y las instalaciones del paso a nivel funcionaban correctamente \nen el momento del accidente y de acuerdo a la normativa de seguridad.  \nLas barreras del paso a nivel estuvieron bajadas ininterrumpidamente durante 5 minutos antes de \nproducirse el accidente. \nEl paso va a ser suprimido ya que se está construyendo un paso superior en el P. K. 176+274. \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0025/2009 ocurrido el 05.06.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-050609-221209-CIAF \n \n \nPág. 12 de 12\nA efectos de la causalidad del accidente se ha podido comprobar que: \nSegún informaciones recogidas en el informe de Adif, minutos antes de que hiciera su paso el tren \nde mercancías había pasado un tren regional por el paso a nivel sin que entre ambos trenes se \nabrieran las barreras o dejaran de lucir los focos en rojo, lo que pudo confundir a la víctima. \n \n4.2 CONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen cuando el vehículo cruza indebidamente por el paso a nivel, sorteando \nlas barreras que estaban bajadas, en el momento en que el tren 93559 circulaba por él.",
+   "pagina": 11,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "El vehículo cruza indebidamente por el paso a nivel, sorteando las barreras que estaban bajadas, en el momento en que el tren 93559 circulaba por él.",
+   "pagina": 3,
+   "cita": "Conclusión: el accidente tuvo su origen cuando el vehículo cruza indebidamente por el paso a",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Un tren regional había pasado por el paso a nivel minutos antes sin que entre ambos trenes se abrieran las barreras o dejaran de lucir los focos en rojo, lo que pudo confundir a la víctima.",
+    "La visión del paso a nivel estaba dificultada por una unidad estacionada en vía 4 (según declaración del maquinista)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen cuando el vehículo cruza indebidamente por el paso a nivel, sorteando \nlas barreras que estaban bajadas, en el momento en que el tren 93559 circulaba por él.",
+   "pagina": 12,
+   "cita": "4.2 CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigac",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen cuando el vehículo cruza indebidamente por el paso a nivel, sorteando \nlas barreras que estaban bajadas, en el momento en que el tren 93559 circulaba por él.",
+   "pagina": 12,
+   "cita": "4.2 CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigac",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones. \n \n \n \n \n \nMadrid, 22 de diciembre de 2009",
+   "pagina": 12,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones. Madrid, 22 de diciembre de 2009",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "22:42",
+     "evento": "Arrollamiento del vehículo por el tren 93559 en el paso a nivel PK 176+126. Vías 1 y 2 interceptadas."
+    },
+    {
+     "hora": "23:25",
+     "evento": "Los bomberos solicitan corte de corriente eléctrica de la estación para retirar el vehículo atrapado bajo la locomotora."
+    },
+    {
+     "hora": "23:35",
+     "evento": "Los bomberos extraen el cadáver de la víctima del vehículo."
+    },
+    {
+     "hora": "23:40",
+     "evento": "El coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF vía telefonía móvil."
+    },
+    {
+     "hora": "01:45",
+     "evento": "Se retira el coche de la vía."
+    },
+    {
+     "hora": "01:58",
+     "evento": "Se restablece la corriente eléctrica."
+    },
+    {
+     "hora": "02:05",
+     "evento": "Se levanta el cadáver."
+    },
+    {
+     "hora": "02:15",
+     "evento": "Se reabren las vías generales 1 y 2."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0025/2009",
+ "expediente": "0025/09",
+ "anio": 2009,
+ "titulo": "Arrollamiento de vehículo en paso a nivel con barreras bajadas en estación de Maçanet-Massanes (Gerona)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-050609-221209-CIAF.md"
+}

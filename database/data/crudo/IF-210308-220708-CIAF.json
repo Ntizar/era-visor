@@ -1,0 +1,966 @@
+{
+ "id": "IF-210308-220708-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/3CC6BD61-68E8-436B-A66A-42CE06A9470D/46931/IF210308220708CIAF.pdf",
+ "pdf": "pdfs/ES/IF-210308-220708-CIAF.pdf",
+ "md5_pdf": "9bb19fb3e6954ac5301416cfaa9ba982",
+ "paginas_md": 10,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 6,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0006/2008",
+   "pagina": 1,
+   "cita": "nº 0006/2008 ocurrido el 21.03.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 21 de marzo de 2008 a las 14:53, el tren de viajeros de cercanías 28833 de Renfe Operadora arrolló a una persona que circulaba indebidamente por el puente ferroviario sobre el río Besós, en el P.K. 3,286 de la línea 276 Barcelona-Massanes. La víctima, un varón de 38 años, falleció en el lugar. El accidente tuvo su origen en el tránsito por un paso vicioso habilitado por el vallado roto a ambos lados del puente. Se recomienda la supresión de dicho paso no autorizado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-03-21",
+    "hora": "14:53",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "apeadero de Sant Adriá del Besós (justo antes de su entrada)",
+     "pk": "3,286",
+     "linea": "276 Barcelona-Massanes",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Puente ferroviario metálico sobre el río Besós, en vía doble, con vallado roto a ambos lados que constituía un paso vicioso de personas no autorizadas"
+    }
+   },
+   "pagina": 10,
+   "cita": "Massanes, el 21/03/2008, se aprueba como definitivo el informe particular presentado por el",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Interrupción de circulación por ambas vías de 15:20 a 15:35; marcha a la vista hasta 16:43; 14 trenes de cercanías con retrasos totales de 148 minutos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Tránsito de la víctima por la vía por un lugar no autorizado para ello (paso vicioso sobre el puente)",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en el tránsito de la víctima por la vía por un lugar no",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Vallado roto a ambos lados del puente que permitía el acceso no autorizado a la vía",
+    "Existencia de un paso vicioso habitual por donde accedió la víctima"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Supresión del paso vicioso por donde accedió la víctima",
+     "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": 8,
+   "cita": "- Supresión del paso vicioso por donde accedió la víctima.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Supresión del paso vicioso por donde accedió la víctima",
+     "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": 8,
+   "cita": "- Supresión del paso vicioso por donde accedió la víctima.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de una persona",
+   "pagina": 2,
+   "cita": "Masnou, inspeccione la máquina ya que se ha confirmado el arrollamiento de una persona en el",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "empresa ferroviaria Renfe Operadora, a su paso por el puente ferroviario sobre el río Besós",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-03-21",
+   "pagina": 10,
+   "cita": "Massanes, el 21/03/2008, se aprueba como definitivo el informe particular presentado por el",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "14:53",
+   "pagina": 2,
+   "cita": "El día 21 de marzo de 2008, a las 14:53 horas, el tren de viajeros de cercanías 28833, de la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "apeadero de Sant Adriá del Besós (justo antes de su entrada)",
+    "pk": "3,286",
+    "linea": "276 Barcelona-Massanes",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Puente ferroviario metálico sobre el río Besós, en vía doble, con vallado roto a ambos lados que constituía un paso vicioso de personas no autorizadas"
+   },
+   "pagina": 2,
+   "cita": "(Barcelona), situado en el P.K. 3,286, de la línea 276 Barcelona-Massanes perteneciente a la Red",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "276 Barcelona-Massanes",
+   "pagina": 2,
+   "cita": "(Barcelona), situado en el P.K. 3,286, de la línea 276 Barcelona-Massanes perteneciente a la Red",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Automotor 465009 (matrícula 94650099); tren 25978 con unidades de tracción 464211 (cabeza) y 463202 (cola)",
+    "averia": "Ninguna; material rodante funcionó correctamente",
+    "mantenimiento": "Último reciclaje formativo del maquinista: 01/08/2006; último reconocimiento psicofísico: 16/03/2004"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El maquinista del tren de viajeros de cercanías 28833, formado por el automotor 465009 (cinco coches, 158 Tm), notó un golpe en el frontal lateral izquierdo al cruzar el puente metálico sobre el río Besós (P.K. 3,286), justo antes del apeadero de Sant Adriá del Besós. Comunicó el hecho al Puesto de Mando de Barcelona, aconsejando marcha a la vista para los trenes que pasaran por ese punto. Al llegar a Badalona inspeccionó el frontal sin observar anomalía y continuó su itinerario. Posteriormente, el Puesto de Mando le ordenó inspeccionar la máquina en Masnou al confirmarse el arrollamiento de una persona. Simultáneamente, el Centro de Protección y Seguridad de Barcelona fue alertado por el vigilante de seguridad del tren 25683 de que viajeros habían presenciado el suceso. Dos vigilantes subieron al tren 28833 en Badalona, hablaron con testigos que describieron a un ciclista, cambiaron de tren en Montgat y se dirigieron al apeadero de Sant Adriá. Al llegar al puente, el maquinista del tren 28838 (parado tras circular con marcha a la vista) les indicó la presencia de un cadáver en la plataforma que separa ambas vías. Los trenes 25978 y 28842 fueron inspeccionados sin hallar restos. La Policía Judicial llegó a las 16:06 y el forense a las 16:23; el cadáver se levantó a las 16:40 y la circulación se restableció a las 16:43.",
+   "pagina": 2,
+   "cita": "Barcelona El maquinista del tren de viajeros de cercanías 28833 formado por el automotor 465009 (cinco coches y masa remolcada de 158 Tm), según su declaración, nota un golpe en el frontal lateral izquierdo al tiempo",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "apeadero de Sant Adriá del Besós (justo antes de su entrada)",
+    "pk": "3,286",
+    "linea": "276 Barcelona-Massanes",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Puente ferroviario metálico sobre el río Besós, en vía doble, con vallado roto a ambos lados que constituía un paso vicioso de personas no autorizadas"
+   },
+   "pagina": 2,
+   "cita": "(Barcelona), situado en el P.K. 3,286, de la línea 276 Barcelona-Massanes perteneciente a la Red",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Interrupción de circulación por ambas vías de 15:20 a 15:35; marcha a la vista hasta 16:43; 14 trenes de cercanías con retrasos totales de 148 minutos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 28833",
+     "implicacion": "Notó el golpe, comunicó al Puesto de Mando, inspeccionó el tren sin observar anomalía; habilitado conforme a OM 2520/2006; alcoholemia negativa (0,00 mg/1000 ml); jornada de conducción 4h18min el día del accidente"
+    },
+    {
+     "rol": "Vigilantes de seguridad (dos)",
+     "implicacion": "Subieron al tren 28833 en Badalona, hablaron con testigos, inspeccionaron el lugar del suceso y localizaron el cadáver"
+    },
+    {
+     "rol": "Vigilante de seguridad a bordo del tren 25683",
+     "implicacion": "Alertó al Centro de Protección y Seguridad de Barcelona sobre el arrollamiento presenciado por viajeros"
+    },
+    {
+     "rol": "Maquinista del tren 28838",
+     "implicacion": "Informó a los vigilantes de la presencia del cadáver en la plataforma entre vías"
+    }
+   ],
+   "pagina": 4,
+   "cita": "EL Maquinista principal del tren 28833",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "28833",
+     "tipo": "viajeros de Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "sin daños en material rodante"
+    },
+    {
+     "numero": "25978",
+     "tipo": "viajeros de Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "sin restos imputables al suceso; circuló por el lugar en el momento del arrollamiento"
+    },
+    {
+     "numero": "25683",
+     "tipo": "viajeros de Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "viajeros presencian el arrollamiento"
+    },
+    {
+     "numero": "25685",
+     "tipo": "viajeros de Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "circuló con marcha a la vista"
+    },
+    {
+     "numero": "28838",
+     "tipo": "viajeros de Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "circuló con marcha a la vista; parado en el lugar del suceso"
+    },
+    {
+     "numero": "28842",
+     "tipo": "viajeros de Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "rotación del tren 28833; sin restos imputables al suceso"
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 21 de marzo de 2008, a las 14:53 horas, el tren de viajeros de cercanías 28833, de la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Automotor 465009 (matrícula 94650099); tren 25978 con unidades de tracción 464211 (cabeza) y 463202 (cola)",
+    "averia": "Ninguna; material rodante funcionó correctamente",
+    "mantenimiento": "Último reciclaje formativo del maquinista: 01/08/2006; último reconocimiento psicofísico: 16/03/2004"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 3,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.)",
+    "tipo_via": "vía doble",
+    "velocidad_maxima": "120 km/h (según libro de horarios en el P.K. 3,286)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Vallado roto a ambos lados del puente, constituyendo un paso vicioso de personas no autorizadas",
+    "otro": "Puente metálico sobre el río Besós; Red Ferroviaria de Interés General administrada por Adif"
+   },
+   "pagina": 4,
+   "cita": "Trayecto con bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C), en",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.)",
+   "pagina": 4,
+   "cita": "Trayecto con bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C), en",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Interrupción de circulación por ambas vías de 15:20 a 15:35; marcha a la vista hasta 16:43; 14 trenes de cercanías con retrasos totales de 148 minutos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Interrupción de circulación por ambas vías de 15:20 a 15:35; marcha a la vista hasta 16:43; 14 trenes de cercanías con retrasos totales de 148 minutos"
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-210308-220708-CIAF Pág. 1 de 10 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0006/200",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Interrupción de circulación por ambas vías de 15:20 a 15:35; marcha a la vista hasta 16:43; 14 trenes de cercanías con retrasos totales de 148 minutos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 465009 (matrícula 94650099); tren 25978 con unidades de tracción 464211 (cabeza) y 463202 (cola)",
+    "averia": "Ninguna; material rodante funcionó correctamente",
+    "mantenimiento": "Último reciclaje formativo del maquinista: 01/08/2006; último reconocimiento psicofísico: 16/03/2004"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.)",
+    "tipo_via": "vía doble",
+    "velocidad_maxima": "120 km/h (según libro de horarios en el P.K. 3,286)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Vallado roto a ambos lados del puente, constituyendo un paso vicioso de personas no autorizadas",
+    "otro": "Puente metálico sobre el río Besós; Red Ferroviaria de Interés General administrada por Adif"
+   },
+   "pagina": 4,
+   "cita": "Trayecto con bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C), en",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Condiciones atmosféricas buenas",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Sant Adriá del Besós"
+   },
+   "pagina": 2,
+   "cita": "(Barcelona), situado en el P.K. 3,286, de la línea 276 Barcelona-Massanes perteneciente a la Red",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Condiciones atmosféricas buenas",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.)",
+   "pagina": 4,
+   "cita": "Trayecto con bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C), en",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.)",
+    "tipo_via": "vía doble",
+    "velocidad_maxima": "120 km/h (según libro de horarios en el P.K. 3,286)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Vallado roto a ambos lados del puente, constituyendo un paso vicioso de personas no autorizadas",
+    "otro": "Puente metálico sobre el río Besós; Red Ferroviaria de Interés General administrada por Adif"
+   },
+   "pagina": 4,
+   "cita": "Trayecto con bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C), en",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 465009 (matrícula 94650099); tren 25978 con unidades de tracción 464211 (cabeza) y 463202 (cola)",
+    "averia": "Ninguna; material rodante funcionó correctamente",
+    "mantenimiento": "Último reciclaje formativo del maquinista: 01/08/2006; último reconocimiento psicofísico: 16/03/2004"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "acceso indebido por paso vicioso",
+    "persona circulaba indebidamente por vía",
+    "paso vicioso no suprimido"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El maquinista del tren de viajeros de cercanías 28833, formado por el automotor 465009 (cinco coches, 158 Tm), notó un golpe en el frontal lateral izquierdo al cruzar el puente metálico sobre el río Besós (P.K. 3,286), justo antes del apeadero de Sant Adriá del Besós. Comunicó el hecho al Puesto de Mando de Barcelona, aconsejando marcha a la vista para los trenes que pasaran por ese punto. Al llegar a Badalona inspeccionó el frontal sin observar anomalía y continuó su itinerario. Posteriormente, el Puesto de Mando le ordenó inspeccionar la máquina en Masnou al confirmarse el arrollamiento de una persona. Simultáneamente, el Centro de Protección y Seguridad de Barcelona fue alertado por el vigilante de seguridad del tren 25683 de que viajeros habían presenciado el suceso. Dos vigilantes subieron al tren 28833 en Badalona, hablaron con testigos que describieron a un ciclista, cambiaron de tren en Montgat y se dirigieron al apeadero de Sant Adriá. Al llegar al puente, el maquinista del tren 28838 (parado tras circular con marcha a la vista) les indicó la presencia de un cadáver en la plataforma que separa ambas vías. Los trenes 25978 y 28842 fueron inspeccionados sin hallar restos. La Policía Judicial llegó a las 16:06 y el forense a las 16:23; el cadáver se levantó a las 16:40 y la circulación se restableció a las 16:43.",
+   "pagina": 2,
+   "cita": "Barcelona El maquinista del tren de viajeros de cercanías 28833 formado por el automotor 465009 (cinco coches y masa remolcada de 158 Tm), según su declaración, nota un golpe en el frontal lateral izquierdo al tiempo",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl lugar donde se produjo el arrollamiento se sitúa en plena vía, en el puente ferroviario que cruza \nel río Besós (P.K 3,286), justo antes de la entrada al apeadero de Sant Adriá del Besós. \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0006/2008 ocurrido el 21.03.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-210308-220708-CIAF \n \n \nPág. 8 de 10\nSegún la inspección ocular del lugar, a ambos lados del puente, el vallado que impide el acceso a \nlas vías se encuentra roto, constituyendo un paso vicioso de personas no autorizadas. \nSegún el registrador de seguridad del automotor, el tren circulaba a una velocidad adecuada a las \ncaracterísticas del trayecto, inferior a la máxima permitida. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario: Tasas \nde alcoholemia de aplicación en el transporte ferroviario y Tiempos máximos de conducción en el \ntransporte ferroviario. \nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \n Tanto el funcionamiento de la infraestructura como la actuación del maquinista, ajustados a la \nnormativa, no influyeron en el desarrollo de los hechos. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \n- El accidente tuvo su origen en el tránsito de la víctima por la vía por un lugar no autorizado para \nello.",
+   "pagina": 7,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Tránsito de la víctima por la vía por un lugar no autorizado para ello (paso vicioso sobre el puente)",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en el tránsito de la víctima por la vía por un lugar no",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Vallado roto a ambos lados del puente que permitía el acceso no autorizado a la vía",
+    "Existencia de un paso vicioso habitual por donde accedió la víctima"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Supresión del paso vicioso por donde accedió la víctima",
+     "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": 8,
+   "cita": "- Supresión del paso vicioso por donde accedió la víctima.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "14:53",
+     "evento": "Arrollamiento de una persona por el tren 28833 al cruzar el puente sobre el río Besós"
+    },
+    {
+     "hora": "14:53",
+     "evento": "El maquinista comunica el golpe al Puesto de Mando de Barcelona y aconseja marcha a la vista"
+    },
+    {
+     "hora": null,
+     "evento": "El maquinista inspecciona el frontal en Badalona sin observar anomalía"
+    },
+    {
+     "hora": null,
+     "evento": "El Puesto de Mando ordena al maquinista inspeccionar la máquina en Masnou al confirmarse el arrollamiento"
+    },
+    {
+     "hora": null,
+     "evento": "El CPS de Barcelona es alertado por el vigilante del tren 25683; dos vigilantes suben al tren 28833 en Badalona"
+    },
+    {
+     "hora": null,
+     "evento": "Los vigilantes cambian de tren en Montgat y se dirigen al apeadero de Sant Adriá; encuentran un cadáver en la plataforma entre vías"
+    },
+    {
+     "hora": "15:20",
+     "evento": "A petición de los Mossos d'Esquadra, se interrumpe la circulación por ambas vías entre Badalona y Barcelona Sagrera"
+    },
+    {
+     "hora": "15:35",
+     "evento": "Se reanuda la circulación por ambas vías con prescripción de marcha a la vista en el lugar del arrollamiento"
+    },
+    {
+     "hora": "16:06",
+     "evento": "Llega la Policía Judicial"
+    },
+    {
+     "hora": "16:23",
+     "evento": "Se persona el forense"
+    },
+    {
+     "hora": "16:40",
+     "evento": "Se levanta el cadáver"
+    },
+    {
+     "hora": "16:43",
+     "evento": "Se restablece la circulación normal por ambas vías"
+    },
+    {
+     "hora": "2008-03-27 08:53",
+     "evento": "El Coordinador de accidentes de Adif comunica el suceso a la CIAF"
+    },
+    {
+     "hora": "2008-06-10",
+     "evento": "El Gerente Territorial de Seguridad en la Circulación Noreste de Adif entrega su informe particular"
+    },
+    {
+     "hora": "2008-06-12",
+     "evento": "El Responsable de Seguridad de Renfe Operadora entrega su informe particular"
+    },
+    {
+     "hora": "2008-07-22",
+     "evento": "El Pleno de la CIAF aprueba el informe definitivo"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0006/2008",
+ "expediente": "0006/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de una persona por tren de cercanías en puente sobre el río Besós (Barcelona)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-210308-220708-CIAF.md"
+}

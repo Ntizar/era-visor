@@ -1,0 +1,892 @@
+{
+ "id": "ES 17.02.2015 151222-150217-IF-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/47870F4D-5BF7-4DC1-ABE4-45B27B8810E1/135547/151222150217IFCIAF.pdf",
+ "pdf": "pdfs/ES/ES 17.02.2015 151222-150217-IF-CIAF.pdf",
+ "md5_pdf": "c9092082f67bac7418aea4a0a3adfe05",
+ "paginas_md": 23,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 18,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0011/2015",
+   "pagina": 1,
+   "cita": "nº 0011/2015 ocurrido el 17.02.2015",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 17 de febrero de 2015, a las 15:30 horas, se produjo un conato de colisión en la estación de Madrid Chamartín entre la maniobra para tren 21428, formada por material vacío de cercanías, y la maniobra de la rama AVE 130003, ambas de Renfe Viajeros. La maniobra del tren 21428 rebasó indebidamente la señal EB5, que indicaba parada, porque el maquinista percibió erróneamente que autorizaba el rebase. Las dos maniobras ocuparon circuitos de vía contiguos, pero no se produjeron víctimas ni daños materiales. La CIAF atribuyó el incidente a un fallo humano del personal de conducción y consideró adecuadas las medidas adoptadas por Adif y Renfe Viajeros, sin establecer nuevas recomendaciones.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2015-02-17",
+    "hora": null,
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Madrid Chamartín",
+     "pk": "1+026",
+     "linea": "102 Bifurcación Aranda – Madrid Chamartín",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Señal de entrada EB5, en la estación de Madrid Chamartín, tramo Madrid Chamartín – Bifurcación Fuencarral, junto a la travesía T38 y el circuito de vía 4B."
+    }
+   },
+   "pagina": 14,
+   "cita": "17/02/2015 17/02/2015 MANIOBRA RAMA 130003 ## Página 15 MINISTERIO DE FOMENTO SUBSECRETARÍA Investigación del incidente nº 0011/2015 ocurrido el 17.02.2015 Informe final de la CIAF COMISIÓN DE INVESTIGAC",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "No se produjo intercepción parcial ni total de la vía; el tren de cercanías 21428 sufrió un retraso de 6 minutos y posteriormente se autorizó su movimiento como tren 21430 hasta Alcalá de Henares."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del personal de conducción de la maniobra para tren 21428: error en la percepción de la indicación de la señal EB5, que en todo momento indicó parada, actuando el maquinista como si autorizara el rebase y rebasándola indebidamente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Con el vehículo detenido delante de la señal EB5, en momentos puntuales la luz incidía sobre el frontal del vehículo y podía reflejar su color blanco sobre la óptica del foco blanco de la señal, induciendo a error de percepción del rebase autorizado.",
+    "El maquinista superó la velocidad máxima permitida en marcha de maniobras durante la aproximación a las señales EB1 y EB5, circulando a 54 km/h y 34 km/h respectivamente, frente al límite de 30 km/h."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Incidente",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe Viajeros"
+   ],
+   "pagina": 5,
+   "cita": "Por Adif: • Retirar el foco blanco de la señal EB5. Por Renfe Viajeros • Aplicación al maquinista de la Carta Circular Operativa nº1 de Presidencia. No se establecen recomendaciones. ### Tablas de la página 5 |",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2015-02-17",
+   "pagina": 14,
+   "cita": "17/02/2015 17/02/2015 MANIOBRA RAMA 130003 ## Página 15 MINISTERIO DE FOMENTO SUBSECRETARÍA Investigación del incidente nº 0011/2015 ocurrido el 17.02.2015 Informe final de la CIAF COMISIÓN DE INVESTIGAC",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Madrid Chamartín",
+    "pk": "1+026",
+    "linea": "102 Bifurcación Aranda – Madrid Chamartín",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Señal de entrada EB5, en la estación de Madrid Chamartín, tramo Madrid Chamartín – Bifurcación Fuencarral, junto a la travesía T38 y el circuito de vía 4B."
+   },
+   "pagina": 5,
+   "cita": "El día 17 de febrero de 2015 a las 15:30 horas en la estación de Madrid Chamartín de la línea 102",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "En la estación de Madrid Chamartín  \nconfluyen las siguientes líneas de ancho \nibérico: 100 Hendaya a Madrid, 102 \nBifurcación Aranda a Madrid Chamartín, \n172 Madrid Chamartín a Cambiador,  \n200 Madrid Chamartín a Barcelona \nEstació \nde \nFrança, \n300 \nMadrid \nChamartín a Valencia Estació del Nord, \n900 Madrid Chamartín a Madrid Atocha \ncercanías, 906 Fuencarral Complejo a \nMadrid Chamartín. \nTambién confluye la línea de ancho \nestándar (alta velocidad) 080 Madrid \nChamartín a Valladolid y dispone la \nestación de un cambiador de ancho, que \npermite a las circulaciones de la línea \nllegar a la estación de Madrid Atocha. \nLa circulación en la línea 102 Bifurcación Aranda a Madrid Chamartín, entre Fuencarral y Madrid \nChamartín, se realiza al amparo de bloqueo automático de vía doble banalizada (BAB) con control de \ntráfico centralizado (CTC), estando el puesto de mando en la propia estación de Chamartín. En el \nmomento del incidente la estación se encontraba en mando centralizado.  \n \n \n \n \n \n \n \n \n \n \nEsquema de las vías \nde ancho ibérico de la \nEstación Madrid Chamartín \nT38\nEB5 \nS1/1\nMADRID ATOCHA\n\n## Página 10\n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0011/2015 ocurrido el 17.02.2015 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n151222-150217-IF-CIAF.doc \n \n \nPág. 10 de 23\nLa estación dispone actualmente de 21 vías (16 a 21 son de ancho estándar) numeradas de oeste a este. \nLa señal EB5 está situada en el lado izquierdo del PK 1+026 de la línea 102. Es alta de tres focos, \nsiendo operativos los de parada y anuncio de parada y está dotada de baliza previa y de pie de señal. \nDispone además de foco blanco de rebase autorizado. La alineación es en recta y el perfil horizontal, \nsu visibilidad es buena. Está precedida de la señal EB1 situada en el PK 1+607.  \nSegún el libro horario del tren y el cuadro de velocidades, la velocidad máxima permitida al paso por \nel lugar del suceso para los trenes tipo N es de 110 km/h. Existe una limitación permanente de \nvelocidad entre Fuencarral y Madrid Chamartín de 60 km/h para los trenes tipo N. Según Consigna B \nnº 2 de la Subdirección de Operaciones Centro no existe en la zona del suceso ninguna limitación \ntemporal de velocidad. \nSegún el artículo 141 (condiciones de marcha especiales) punto 2 del RGC, el maquinista tiene la \nobligación de avanzar con prudencia sin exceder de 30 km/h si va tirando o de 20 si va empujando \ncuando vaya con marcha de maniobras. En el caso que nos ocupa la velocidad máxima sería de 30 km/h.",
+   "pagina": 9,
+   "cita": "2.2.3. Descripción de la infraestructura",
+   "origen": "determinista",
+   "regla": "sec:^descripci[óo]n de la infraestructura$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UTs 907174461505 y 907174461596 (números UIC 967194461505 y 967194461596); rama AVE 130003 (número UIC 967191300037).",
+    "averia": "No se produjeron daños materiales; el registrador de seguridad de la UT 446150 funcionó correctamente, con un desfase horario de 1 minuto y 58 segundos respecto al registrador de eventos del puesto de mando.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "Los hechos ocurrieron el 17 de febrero de 2015 a las 15:30 horas en la estación de Madrid Chamartín, línea 102 Bifurcación Aranda – Madrid Chamartín. La maniobra de la rama AVE 130003 se encontraba en la vía 14 con itinerario autorizado desde la señal S1/14, en indicación de rebase autorizado, hacia la vía VJ1 de Fuencarral-Complejo. La maniobra para tren 21428, compuesta por material vacío de cercanías UTs 907174461505 y 907174461596, procedía de Fuencarral y circulaba hacia la estación con la señal EB1 en anuncio de parada y la siguiente señal EB5 en parada.\n\nA las 15:28:42 horas, la maniobra para tren 21428 rebasó la señal EB1 y la maniobra de la rama AVE 130003 rebasó la señal S1/14, permaneciendo la señal EB5 en indicación de parada. A las 15:29:57 horas, el maquinista de la maniobra para tren 21428 actuó sobre el dispositivo de rebase autorizado al acercarse a la señal EB5, circulando a 11 km/h, y un segundo después pasó por la baliza de pie de dicha señal, produciéndose el rebase indebido. A las 15:30:13 horas, la maniobra ocupó el circuito de vía contiguo al ocupado por la maniobra de la rama AVE 130003, que circulaba en sentido contrario.\n\nAl acercarse a la travesía T38, el maquinista de la maniobra para tren 21428 se percató de que el itinerario estaba mal dispuesto e inició la detención, que se produjo a las 15:30:22 horas tras recorrer 100 metros desde el rebase de la señal EB5. Se produjo un conato de colisión entre ambas maniobras, aunque la rama AVE 130003 continuó su marcha hasta la vía VJ1. No se produjeron víctimas ni daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Madrid Chamartín",
+    "pk": "1+026",
+    "linea": "102 Bifurcación Aranda – Madrid Chamartín",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Señal de entrada EB5, en la estación de Madrid Chamartín, tramo Madrid Chamartín – Bifurcación Fuencarral, junto a la travesía T38 y el circuito de vía 4B."
+   },
+   "pagina": 5,
+   "cita": "El día 17 de febrero de 2015 a las 15:30 horas en la estación de Madrid Chamartín de la línea 102",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "No se produjo intercepción parcial ni total de la vía; el tren de cercanías 21428 sufrió un retraso de 6 minutos y posteriormente se autorizó su movimiento como tren 21430 hasta Alcalá de Henares."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista de la maniobra para tren 21428",
+     "implicacion": "Fallo humano y error de percepción de la señal EB5, que indicaba parada pero que el maquinista percibió como rebase autorizado; matrícula 6813877; título B de conducción; habilitado conforme a la Orden FOM/2520/2006; antigüedad desde el 08/06/2007; último reciclaje formativo el 04/10/2013; último reconocimiento médico y psicotécnico el 16/04/2013; prueba de alcoholemia y drogas negativa."
+    },
+    {
+     "rol": "Jefe de CTC de Madrid Chamartín",
+     "implicacion": "Intentó comunicar con el maquinista de la maniobra 21428, le ordenó no moverse tras el aviso de rebase y coordinó la comprobación de las agujas."
+    },
+    {
+     "rol": "Agentes de instalaciones",
+     "implicacion": "Comprobaron in situ la situación de las agujas 38a/38b y que el cambio no estaba talonado."
+    }
+   ],
+   "pagina": 6,
+   "cita": "A las 15:29:57 horas, en la vía 4B, el maquinista de la maniobra para tren 21428 actúa sobre el",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "No se producen víctimas.",
+   "pagina": 11,
+   "cita": "2.3.1. Viajeros, personal y terceros",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "21428",
+     "tipo": "Maniobra de material vacío de cercanías (UTs 907174461505 y 907174461596), 6 vehículos, 440 toneladas y 152 metros",
+     "operador": "Renfe Viajeros",
+     "danos": "No se producen daños"
+    },
+    {
+     "numero": "130003",
+     "tipo": "Maniobra de rama AVE 130003 (13 vehículos, M+11R+M), 298 toneladas y 181 metros",
+     "operador": "Renfe Viajeros",
+     "danos": "No se producen daños"
+    }
+   ],
+   "pagina": 5,
+   "cita": "21428 (material vacío de cercanías UTs 907174461505 y 907174461596) y la maniobra de la rama",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UTs 907174461505 y 907174461596 (números UIC 967194461505 y 967194461596); rama AVE 130003 (número UIC 967191300037).",
+    "averia": "No se produjeron daños materiales; el registrador de seguridad de la UT 446150 funcionó correctamente, con un desfase horario de 1 minuto y 58 segundos respecto al registrador de eventos del puesto de mando.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal EB5 alta de tres focos, baliza previa y de pie, dotada de foco blanco de rebase autorizado; funcionó correctamente e indicó parada en todo momento; visibilidad buena, pero en momentos puntuales la luz incidía sobre el frontal del vehículo detenido y podía reflejar su color blanco sobre la óptica del foco blanco, induciendo a error.",
+    "tipo_via": "Línea 102 de ancho ibérico con bloqueo automático de vía doble banalizada (BAB) y control de tráfico centralizado (CTC); mando centralizado; enclavamiento electrónico desde 2007.",
+    "velocidad_maxima": "110 km/h para trenes tipo N al paso por el lugar; limitación permanente de 60 km/h entre Fuencarral y Madrid Chamartín para trenes tipo N; velocidad máxima en marcha de maniobras según RGC: 30 km/h si va tirando.",
+    "ancho": "Ancho ibérico en la zona del suceso; la estación dispone de vías 16 a 21 de ancho estándar.",
+    "electrificacion": null,
+    "estado_via": "La señal EB5 está en alineación recta y perfil horizontal; la travesía T38 tenía la aguja 38a a posición invertida por el itinerario de la rama AVE 130003; el cambio no estaba talonado.",
+    "otro": "Radiotelefonía en modalidad C y teléfono móvil corporativo; no existían obras en el lugar ni en proximidades; media semanal de circulaciones en el tramo Madrid Chamartín – Bifurcación Fuencarral: 1.775, de las cuales 1.769 de cercanías y 6 de servicio."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal EB5 alta de tres focos, baliza previa y de pie, dotada de foco blanco de rebase autorizado; funcionó correctamente e indicó parada en todo momento; visibilidad buena, pero en momentos puntuales la luz incidía sobre el frontal del vehículo detenido y podía reflejar su color blanco sobre la óptica del foco blanco, induciendo a error.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía en modalidad C y teléfono móvil corporativo.",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": "No existían obras de ningún tipo en el lugar del suceso ni en sus proximidades. \nVista de la señal de entrada EB5. (Fuente: Renfe Viajeros) \n\n## Página 11\n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0011/2015 ocurrido el 17.02.2015 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n151222-150217-IF-CIAF.doc \n \n \nPág. 11 de 23",
+   "pagina": 10,
+   "cita": "2.2.5. Obras en el lugar o cercanías",
+   "origen": "determinista",
+   "regla": "sec:^obras en el lugar o cercan[íi]as$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "No se produjo intercepción parcial ni total de la vía; el tren de cercanías 21428 sufrió un retraso de 6 minutos y posteriormente se autorizó su movimiento como tren 21430 hasta Alcalá de Henares."
+   },
+   "pagina": 18,
+   "cita": "907174461596) también de Renfe Viajeros, procedente de Fuencarral, circula hacia la estación de",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "No se produjo intercepción parcial ni total de la vía; el tren de cercanías 21428 sufrió un retraso de 6 minutos y posteriormente se autorizó su movimiento como tren 21430 hasta Alcalá de Henares."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "No se produjo intercepción parcial ni total de la vía; el tren de cercanías 21428 sufrió un retraso de 6 minutos y posteriormente se autorizó su movimiento como tren 21430 hasta Alcalá de Henares."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTs 907174461505 y 907174461596 (números UIC 967194461505 y 967194461596); rama AVE 130003 (número UIC 967191300037).",
+    "averia": "No se produjeron daños materiales; el registrador de seguridad de la UT 446150 funcionó correctamente, con un desfase horario de 1 minuto y 58 segundos respecto al registrador de eventos del puesto de mando.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal EB5 alta de tres focos, baliza previa y de pie, dotada de foco blanco de rebase autorizado; funcionó correctamente e indicó parada en todo momento; visibilidad buena, pero en momentos puntuales la luz incidía sobre el frontal del vehículo detenido y podía reflejar su color blanco sobre la óptica del foco blanco, induciendo a error.",
+    "tipo_via": "Línea 102 de ancho ibérico con bloqueo automático de vía doble banalizada (BAB) y control de tráfico centralizado (CTC); mando centralizado; enclavamiento electrónico desde 2007.",
+    "velocidad_maxima": "110 km/h para trenes tipo N al paso por el lugar; limitación permanente de 60 km/h entre Fuencarral y Madrid Chamartín para trenes tipo N; velocidad máxima en marcha de maniobras según RGC: 30 km/h si va tirando.",
+    "ancho": "Ancho ibérico en la zona del suceso; la estación dispone de vías 16 a 21 de ancho estándar.",
+    "electrificacion": null,
+    "estado_via": "La señal EB5 está en alineación recta y perfil horizontal; la travesía T38 tenía la aguja 38a a posición invertida por el itinerario de la rama AVE 130003; el cambio no estaba talonado.",
+    "otro": "Radiotelefonía en modalidad C y teléfono móvil corporativo; no existían obras en el lugar ni en proximidades; media semanal de circulaciones en el tramo Madrid Chamartín – Bifurcación Fuencarral: 1.775, de las cuales 1.769 de cercanías y 6 de servicio."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Día, tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": "Madrid Chamartín"
+   },
+   "pagina": 2,
+   "cita": "Madrid 28071 España NIPO: 161-15-063-0 ## Página 3 MINISTERIO DE FOMENTO SUBSECRETARÍA Investigación del incidente nº 0011/2015 ocurrido el 17.02.2015 Informe final de la CIAF COMISIÓN DE INVES",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Día, tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal EB5 alta de tres focos, baliza previa y de pie, dotada de foco blanco de rebase autorizado; funcionó correctamente e indicó parada en todo momento; visibilidad buena, pero en momentos puntuales la luz incidía sobre el frontal del vehículo detenido y podía reflejar su color blanco sobre la óptica del foco blanco, induciendo a error.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal EB5 alta de tres focos, baliza previa y de pie, dotada de foco blanco de rebase autorizado; funcionó correctamente e indicó parada en todo momento; visibilidad buena, pero en momentos puntuales la luz incidía sobre el frontal del vehículo detenido y podía reflejar su color blanco sobre la óptica del foco blanco, induciendo a error.",
+    "tipo_via": "Línea 102 de ancho ibérico con bloqueo automático de vía doble banalizada (BAB) y control de tráfico centralizado (CTC); mando centralizado; enclavamiento electrónico desde 2007.",
+    "velocidad_maxima": "110 km/h para trenes tipo N al paso por el lugar; limitación permanente de 60 km/h entre Fuencarral y Madrid Chamartín para trenes tipo N; velocidad máxima en marcha de maniobras según RGC: 30 km/h si va tirando.",
+    "ancho": "Ancho ibérico en la zona del suceso; la estación dispone de vías 16 a 21 de ancho estándar.",
+    "electrificacion": null,
+    "estado_via": "La señal EB5 está en alineación recta y perfil horizontal; la travesía T38 tenía la aguja 38a a posición invertida por el itinerario de la rama AVE 130003; el cambio no estaba talonado.",
+    "otro": "Radiotelefonía en modalidad C y teléfono móvil corporativo; no existían obras en el lugar ni en proximidades; media semanal de circulaciones en el tramo Madrid Chamartín – Bifurcación Fuencarral: 1.775, de las cuales 1.769 de cercanías y 6 de servicio."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía en modalidad C y teléfono móvil corporativo.",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTs 907174461505 y 907174461596 (números UIC 967194461505 y 967194461596); rama AVE 130003 (número UIC 967191300037).",
+    "averia": "No se produjeron daños materiales; el registrador de seguridad de la UT 446150 funcionó correctamente, con un desfase horario de 1 minuto y 58 segundos respecto al registrador de eventos del puesto de mando.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": "Desde el puesto de mando se ordena el desplazamiento de agentes de instalaciones a las agujas \n38a/38b de la estación de Madrid Chamartín para comprobar in situ la situación real de la maniobra \npara tren 21428 respecto a las agujas.  \nTras comprobar los agentes de instalaciones que el cambio no está talonado, y una vez dispuesto el \nitinerario sobre vía 8 de la estación, se autoriza el movimiento a las 15:52 horas.",
+   "pagina": 17,
+   "cita": "3.5.1. Medidas tomadas por el personal de circulación",
+   "origen": "determinista",
+   "regla": "sec:^medidas tomadas por el personal de circulaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Con el vehículo detenido delante de la señal EB5, en momentos puntuales la luz incidía sobre el frontal del vehículo y podía reflejar su color blanco sobre la óptica del foco blanco de la señal, induciendo a error de percepción del rebase autorizado.",
+    "El maquinista superó la velocidad máxima permitida en marcha de maniobras durante la aproximación a las señales EB1 y EB5, circulando a 54 km/h y 34 km/h respectivamente, frente al límite de 30 km/h."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista de la maniobra para tren 21428 (material vacío UTs 907174461505 y 907174461596) \nposee el título B de conducción y está habilitado conforme a la Orden FOM/2520/2006, de 27 de julio \n(Título V – Personal de conducción - en vigor hasta el 11 de enero de 2019, en virtud de la disposición \ntransitoria octava de la Orden FOM/2872/2010, de 5 de noviembre).  \nTiene una antigüedad en el cargo desde el 08.06.2007. \nRealizó su último reciclaje formativo el 04.10.2013 y su último reconocimiento médico y psicotécnico el \n16.04.2013, conforme a la normativa vigente. \n\n## Página 13\n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0011/2015 ocurrido el 17.02.2015 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n151222-150217-IF-CIAF.doc \n \n \nPág. 13 de 23\n3.3. \nNORMATIVA",
+   "pagina": 12,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "Los hechos ocurrieron el 17 de febrero de 2015 a las 15:30 horas en la estación de Madrid Chamartín, línea 102 Bifurcación Aranda – Madrid Chamartín. La maniobra de la rama AVE 130003 se encontraba en la vía 14 con itinerario autorizado desde la señal S1/14, en indicación de rebase autorizado, hacia la vía VJ1 de Fuencarral-Complejo. La maniobra para tren 21428, compuesta por material vacío de cercanías UTs 907174461505 y 907174461596, procedía de Fuencarral y circulaba hacia la estación con la señal EB1 en anuncio de parada y la siguiente señal EB5 en parada.\n\nA las 15:28:42 horas, la maniobra para tren 21428 rebasó la señal EB1 y la maniobra de la rama AVE 130003 rebasó la señal S1/14, permaneciendo la señal EB5 en indicación de parada. A las 15:29:57 horas, el maquinista de la maniobra para tren 21428 actuó sobre el dispositivo de rebase autorizado al acercarse a la señal EB5, circulando a 11 km/h, y un segundo después pasó por la baliza de pie de dicha señal, produciéndose el rebase indebido. A las 15:30:13 horas, la maniobra ocupó el circuito de vía contiguo al ocupado por la maniobra de la rama AVE 130003, que circulaba en sentido contrario.\n\nAl acercarse a la travesía T38, el maquinista de la maniobra para tren 21428 se percató de que el itinerario estaba mal dispuesto e inició la detención, que se produjo a las 15:30:22 horas tras recorrer 100 metros desde el rebase de la señal EB5. Se produjo un conato de colisión entre ambas maniobras, aunque la rama AVE 130003 continuó su marcha hasta la vía VJ1. No se produjeron víctimas ni daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del personal de conducción de la maniobra para tren 21428: error en la percepción de la indicación de la señal EB5, que en todo momento indicó parada, actuando el maquinista como si autorizara el rebase y rebasándola indebidamente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Con el vehículo detenido delante de la señal EB5, en momentos puntuales la luz incidía sobre el frontal del vehículo y podía reflejar su color blanco sobre la óptica del foco blanco de la señal, induciendo a error de percepción del rebase autorizado.",
+    "El maquinista superó la velocidad máxima permitida en marcha de maniobras durante la aproximación a las señales EB1 y EB5, circulando a 54 km/h y 34 km/h respectivamente, frente al límite de 30 km/h."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "15:27",
+     "evento": "La maniobra de la rama AVE 130003 está en vía 14 con itinerario autorizado desde S1/14 en rebase autorizado a vía VJ1; la maniobra para tren 21428 circula hacia EB1 en anuncio de parada con EB5 en parada."
+    },
+    {
+     "hora": "15:28",
+     "evento": "La maniobra para tren 21428 rebasa la señal EB1 y la maniobra de la rama AVE 130003 rebasa la señal S1/14; la señal EB5 permanece en indicación de parada."
+    },
+    {
+     "hora": "15:29",
+     "evento": "La maniobra para tren 21428 pasa por la baliza previa de EB5, se detiene ante la señal EB5 y reinicia la marcha."
+    },
+    {
+     "hora": "15:29",
+     "evento": "El maquinista de la maniobra para tren 21428 actúa sobre el dispositivo de rebase autorizado a 11 km/h y pasa por la baliza de pie de EB5, produciéndose el rebase indebido."
+    },
+    {
+     "hora": "15:30",
+     "evento": "La maniobra para tren 21428 ocupa circuitos de vía contiguos a la maniobra de la rama AVE 130003; al observar la travesía T38 mal dispuesta, inicia la detención y se detiene tras 100 metros desde el rebase."
+    },
+    {
+     "hora": "15:52",
+     "evento": "Tras comprobar los agentes de instalaciones que el cambio no está talonado y disponer el itinerario sobre vía 8, se autoriza el movimiento de la maniobra para realizar servicio comercial como tren 21430 hasta Alcalá de Henares."
+    },
+    {
+     "hora": "20:20",
+     "evento": "El jefe de investigación de accidentes de Adif comunica a la CIAF la producción del suceso."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0011/2015",
+ "expediente": "0011/15",
+ "anio": 2015,
+ "titulo": "Conato de colisión por rebase indebido de señal en la estación de Madrid Chamartín",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 17.02.2015 151222-150217-IF-CIAF.md"
+}

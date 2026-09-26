@@ -1,0 +1,968 @@
+{
+ "id": "IF_260712__300713_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/8E6128A2-819E-4E10-B3D0-4BE2D5E04DD7/119632/IF260712300713CIAF.pdf",
+ "pdf": "pdfs/ES/IF_260712__300713_CIAF.pdf",
+ "md5_pdf": "adf69139fe82a6716a87fdc00551c064",
+ "paginas_md": 16,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 20,
+ "n_tablas": 1,
+ "tablas": [
+  {
+   "pagina": 4,
+   "cabecera": [
+    "Itinerario prescrito en",
+    "BAR a tren 4141"
+   ],
+   "filas": [
+    {
+     "Itinerario prescrito en": "Itinerario recorrido por",
+     "BAR a tren 4141": "tren 4141"
+    },
+    {
+     "Itinerario prescrito en": "Itinerario recorrido po CV A6",
+     "BAR a tren 4141": "r tren 21232"
+    }
+   ],
+   "cita": "| Itinerario prescrito en | BAR a tren 4141 |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0053/2012",
+   "pagina": 1,
+   "cita": "nº 0053/2012 ocurrido el 26.07.2012",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 26 de julio de 2012 a las 14:15 h, en la estación de Atocha-Cercanías (Madrid), el tren de larga distancia 4141 recibió indebidamente un boletín de autorización de rebase (BAR) de la señal de salida S1/4C sin que el itinerario estuviera correctamente establecido y sin autorización del jefe de circulación. Al rebasar la señal y talonar la travesía T10b, el tren se encaminó por vía II donde se encontraba detenido el tren de cercanías 21232, produciéndose un conato de colisión con ambos trenes enfrentados a unos 50 metros. No hubo víctimas ni daños al material rodante, aunque se produjeron daños en la travesía y una afectación significativa del servicio. La CIAF concluyó que el origen fue un fallo humano de la agente de circulación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2012-07-26",
+    "hora": "14:15",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Atocha-Cercanías",
+     "pk": "0+448",
+     "linea": "900 Madrid Chamartín a Madrid Atocha-Cercanías",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Estación de Atocha-Cercanías, mayormente cubierta, 10 vías, en mando local con enclavamiento eléctrico. Tramo en túnel hacia Recoletos. Señal S1/4C en PK 0+033 (vía 4C), travesía T10 (T10a/T10b), señal avanzada E'2-2 en PK 1+089 y señal de entrada E2-2 en PK 0+461 (vía II)."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 26 de julio de 2012, a las 14:15 horas, en la estación de Atocha-Cercanías (Madrid) de la línea",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en instalaciones de seguridad eléctricas y mecánicas de la travesía T10b: 2.209,43 €. Sin daños en material rodante.",
+    "afectacion_servicio": "110 trenes de cercanías afectados con 2.579 min de retraso total; 2 trenes de larga distancia con 39 min; 6 trenes de media distancia con 61 min. Desvío selectivo de Corredor del Henares por O'Donnell y túnel de Sol; desvío de Pasillo Verde por túnel de Sol; salidas desde Atocha solo por vías 1C y 2C. Tren 21232 retrocedió a Recoletos y transbordó viajeros al tren 21644."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano de la agente de circulación: entrega indebida del boletín de autorización de rebase (BAR) de la señal S1/4C al tren 4141, sin itinerario correctamente establecido y sin autorización del jefe de circulación (incumplimiento del art. 278 del Reglamento General de Circulación)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Avería en junta aislante del circuito de vía A6 que provocó ocupación artificial y obligó a expedir trenes con autorización de rebase",
+    "Deficiencias en las comunicaciones por radioteléfonos portátiles entre agente y jefe de circulación (interferencias, solapamiento de conversaciones, problema recurrente en Atocha)",
+    "Instrucciones confusas y cambiantes del jefe de circulación a la agente (orden de ir a vía 4C, luego volver a vía 1-2, luego nuevamente a vía 4C)",
+    "Falta de confirmación por parte de la agente de circulación de las instrucciones recibidas antes de expedir el tren",
+    "BAR indicaba itinerario por vía I pero el tren se encaminó por vía II hacia Recoletos"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Repetidas averías en el circuito de vía A6 (6 en 2012, media de 1 cada 2 meses) que generan dependencia continua de autorizaciones de rebase manuales",
+    "Problemas crónicos de radioteléfono en la estación de Atocha que no se comprueban antes del servicio",
+    "Dependencia excesiva de múltiples personas para la expedición de trenes, aumentando la posibilidad de error humano"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente",
+   "pagina": 1,
+   "cita": "Investigación del incidente",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe Operadora"
+   ],
+   "pagina": 4,
+   "cita": "(Adif), a las 15:31 horas del 26 de junio de 2012, a través de mensaje de telefonía móvil, comunicó a",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2012-07-26",
+   "pagina": 3,
+   "cita": "El día 26 de julio de 2012, a las 14:15 horas, en la estación de Atocha-Cercanías (Madrid) de la línea",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "14:15",
+   "pagina": 3,
+   "cita": "El día 26 de julio de 2012, a las 14:15 horas, en la estación de Atocha-Cercanías (Madrid) de la línea",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Atocha-Cercanías",
+    "pk": "0+448",
+    "linea": "900 Madrid Chamartín a Madrid Atocha-Cercanías",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Estación de Atocha-Cercanías, mayormente cubierta, 10 vías, en mando local con enclavamiento eléctrico. Tramo en túnel hacia Recoletos. Señal S1/4C en PK 0+033 (vía 4C), travesía T10 (T10a/T10b), señal avanzada E'2-2 en PK 1+089 y señal de entrada E2-2 en PK 0+461 (vía II)."
+   },
+   "pagina": 4,
+   "cita": "y queda estacionado en vía 4C con la señal de salida S1/4C, en indicación de parada. Tras entregar el",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "900 Madrid – Chamartín / Madrid – Atocha Cercanías",
+   "pagina": 3,
+   "cita": "900 Madrid – Chamartín / Madrid – Atocha Cercanías, el tren de larga distancia 4141 es autorizado",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tren 4141: motor 130006, 13 vehículos, 343 t, tipo 200B, UIC 907171300060. Tren 21232: UT 907174461620/907174460036, 6 vehículos, 440 t, tipo 100A.",
+    "averia": "No se producen daños en material rodante; ambos trenes funcionaron correctamente",
+    "mantenimiento": "No se menciona información específica sobre mantenimiento del material rodante"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "Los hechos ocurrieron el 26 de julio de 2012 a las 14:15 h en la estación de Madrid Atocha-Cercanías, línea 900. El circuito de vía A6 se encontraba ocupado por una avería en la junta aislante, lo que impedía la apertura de las señales de salida hacia el lado Recoletos; los trenes se expedían con autorización de rebase. El tren de larga distancia 4141 (origen Alicante, destino Gijón) quedó estacionado en vía 4C ante la señal S1/4C en indicación de parada. La agente de circulación, siguiendo instrucciones del jefe de circulación, entregó al maquinista un BAR con itinerario por vía I y el tren inició la marcha. Al rebasar la señal S1/4C a 9 km/h, el tren talonó la travesía T10b y se encaminó por vía II, donde el tren de cercanías 21232 (origen Hortaleza, destino Villalba de Guadarrama) estaba detenido ante la señal de entrada E2-2 en indicación de parada. Se produjo un conato de colisión con ambos trenes enfrentados a unos 50 metros. El tren 4141 se detuvo tras recorrer unos 400 m desde la señal rebasada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Atocha-Cercanías",
+    "pk": "0+448",
+    "linea": "900 Madrid Chamartín a Madrid Atocha-Cercanías",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Estación de Atocha-Cercanías, mayormente cubierta, 10 vías, en mando local con enclavamiento eléctrico. Tramo en túnel hacia Recoletos. Señal S1/4C en PK 0+033 (vía 4C), travesía T10 (T10a/T10b), señal avanzada E'2-2 en PK 1+089 y señal de entrada E2-2 en PK 0+461 (vía II)."
+   },
+   "pagina": 4,
+   "cita": "y queda estacionado en vía 4C con la señal de salida S1/4C, en indicación de parada. Tras entregar el",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en instalaciones de seguridad eléctricas y mecánicas de la travesía T10b: 2.209,43 €. Sin daños en material rodante.",
+    "afectacion_servicio": "110 trenes de cercanías afectados con 2.579 min de retraso total; 2 trenes de larga distancia con 39 min; 6 trenes de media distancia con 61 min. Desvío selectivo de Corredor del Henares por O'Donnell y túnel de Sol; desvío de Pasillo Verde por túnel de Sol; salidas desde Atocha solo por vías 1C y 2C. Tren 21232 retrocedió a Recoletos y transbordó viajeros al tren 21644."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista tren 4141 (matrícula 8926875)",
+     "implicacion": "Recibió el BAR de la agente de circulación con itinerario por vía I; inició la marcha, talonó la travesía T10b y frenó al observar los cambios orientados a vía II"
+    },
+    {
+     "rol": "Maquinista tren 21232 (matrícula 8865818)",
+     "implicacion": "Detenido ante señal E2-2; vio aparecer el tren 4141 en sentido contrario, hizo señales con el foco y realizó parada a ~50 m"
+    },
+    {
+     "rol": "Jefe de circulación Atocha-Cercanías (matrícula 8668287, Adif)",
+     "implicacion": "Organizó la expedición de trenes con rebases; dio instrucciones confusas a la agente; no autorizó la entrega del BAR al tren 4141"
+    },
+    {
+     "rol": "Agente de circulación Atocha-Cercanías (matrícula 2839108, Adif)",
+     "implicacion": "Entregó indebidamente el BAR al tren 4141 sin itinerario correctamente establecido y sin autorización del jefe de circulación; incumplió el artículo 278 del RGC"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "4141",
+     "tipo": "larga distancia (200B, Vmax 200 km/h)",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños al material rodante"
+    },
+    {
+     "numero": "21232",
+     "tipo": "cercanías (100A, Vmax 100 km/h)",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños al material rodante"
+    },
+    {
+     "numero": "607101",
+     "tipo": "material vacío (antiguo tren 21232 tras retroceso)",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños"
+    }
+   ],
+   "pagina": 3,
+   "cita": "900 Madrid – Chamartín / Madrid – Atocha Cercanías, el tren de larga distancia 4141 es autorizado",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tren 4141: motor 130006, 13 vehículos, 343 t, tipo 200B, UIC 907171300060. Tren 21232: UT 907174461620/907174460036, 6 vehículos, 440 t, tipo 100A.",
+    "averia": "No se producen daños en material rodante; ambos trenes funcionaron correctamente",
+    "mantenimiento": "No se menciona información específica sobre mantenimiento del material rodante"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Luminosa con ASFA; balizas de pie y previa en señales S1/4C, E'2-2 y E2-2; señales altas de tres focos",
+    "tipo_via": "Vía doble electrificada; estación con 10 vías, mayormente cubierta; tramo en túnel hacia Recoletos",
+    "velocidad_maxima": "70 km/h (tramo Atocha-Recoletos)",
+    "ancho": "No especificado (cambiador de ancho en Atocha para tren 4141)",
+    "electrificacion": "Electrificada (catenaria); se cortó tensión en túnel de Recoletos como medida de emergencia, restablecida a las 14:27",
+    "estado_via": "Circuito de vía A6 ocupado por avería en junta aislante (ocupación artificial), impidiendo apertura de señales de salida hacia Recoletos; enclavamiento eléctrico en mando local",
+    "otro": "Bloqueo automático banalizado (BAB) con CTC; travesía T10 (T10a y T10b) para paso de vías 3C/4C a vías I y II de Recoletos; 6 averías de ocupación artificial del circuito A6 en 2012 (media 1 cada 2 meses); mantenimiento de elementos de campo por personal propio de Adif; tráfico muy alto: 3.070 circulaciones/semana en el tramo"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Luminosa con ASFA; balizas de pie y previa en señales S1/4C, E'2-2 y E2-2; señales altas de tres focos",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad A.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en instalaciones de seguridad eléctricas y mecánicas de la travesía T10b: 2.209,43 €. Sin daños en material rodante.",
+    "afectacion_servicio": "110 trenes de cercanías afectados con 2.579 min de retraso total; 2 trenes de larga distancia con 39 min; 6 trenes de media distancia con 61 min. Desvío selectivo de Corredor del Henares por O'Donnell y túnel de Sol; desvío de Pasillo Verde por túnel de Sol; salidas desde Atocha solo por vías 1C y 2C. Tren 21232 retrocedió a Recoletos y transbordó viajeros al tren 21644."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en instalaciones de seguridad eléctricas y mecánicas de la travesía T10b: 2.209,43 €. Sin daños en material rodante.",
+    "afectacion_servicio": "110 trenes de cercanías afectados con 2.579 min de retraso total; 2 trenes de larga distancia con 39 min; 6 trenes de media distancia con 61 min. Desvío selectivo de Corredor del Henares por O'Donnell y túnel de Sol; desvío de Pasillo Verde por túnel de Sol; salidas desde Atocha solo por vías 1C y 2C. Tren 21232 retrocedió a Recoletos y transbordó viajeros al tren 21644."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en instalaciones de seguridad eléctricas y mecánicas de la travesía T10b: 2.209,43 €. Sin daños en material rodante.",
+    "afectacion_servicio": "110 trenes de cercanías afectados con 2.579 min de retraso total; 2 trenes de larga distancia con 39 min; 6 trenes de media distancia con 61 min. Desvío selectivo de Corredor del Henares por O'Donnell y túnel de Sol; desvío de Pasillo Verde por túnel de Sol; salidas desde Atocha solo por vías 1C y 2C. Tren 21232 retrocedió a Recoletos y transbordó viajeros al tren 21644."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 4141: motor 130006, 13 vehículos, 343 t, tipo 200B, UIC 907171300060. Tren 21232: UT 907174461620/907174460036, 6 vehículos, 440 t, tipo 100A.",
+    "averia": "No se producen daños en material rodante; ambos trenes funcionaron correctamente",
+    "mantenimiento": "No se menciona información específica sobre mantenimiento del material rodante"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Luminosa con ASFA; balizas de pie y previa en señales S1/4C, E'2-2 y E2-2; señales altas de tres focos",
+    "tipo_via": "Vía doble electrificada; estación con 10 vías, mayormente cubierta; tramo en túnel hacia Recoletos",
+    "velocidad_maxima": "70 km/h (tramo Atocha-Recoletos)",
+    "ancho": "No especificado (cambiador de ancho en Atocha para tren 4141)",
+    "electrificacion": "Electrificada (catenaria); se cortó tensión en túnel de Recoletos como medida de emergencia, restablecida a las 14:27",
+    "estado_via": "Circuito de vía A6 ocupado por avería en junta aislante (ocupación artificial), impidiendo apertura de señales de salida hacia Recoletos; enclavamiento eléctrico en mando local",
+    "otro": "Bloqueo automático banalizado (BAB) con CTC; travesía T10 (T10a y T10b) para paso de vías 3C/4C a vías I y II de Recoletos; 6 averías de ocupación artificial del circuito A6 en 2012 (media 1 cada 2 meses); mantenimiento de elementos de campo por personal propio de Adif; tráfico muy alto: 3.070 circulaciones/semana en el tramo"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Los hechos ocurren en un tramo en túnel. \n\n## Página 8\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0053/2012 ocurrido el 26.07.2012 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n \nIF-260712- 300713-CIAF \n \n \nPág. 8 de 16\n3. \nRELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES \n3.1. \nRESUMEN DE LAS DECLARACIONES \nDe la ficha de toma de declaración realizada por el jefe de circulación de Madrid Atocha Cercanías, el",
+   "pagina": 7,
+   "cita": "2.4. CIRCUNSTANCIAS EXTERNAS",
+   "origen": "determinista",
+   "regla": "sec:^condiciones meteorol[óo]gicas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": "Atocha-Cercanías"
+   },
+   "pagina": 3,
+   "cita": "El día 26 de julio de 2012, a las 14:15 horas, en la estación de Atocha-Cercanías (Madrid) de la línea",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Luminosa con ASFA; balizas de pie y previa en señales S1/4C, E'2-2 y E2-2; señales altas de tres focos",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Luminosa con ASFA; balizas de pie y previa en señales S1/4C, E'2-2 y E2-2; señales altas de tres focos",
+    "tipo_via": "Vía doble electrificada; estación con 10 vías, mayormente cubierta; tramo en túnel hacia Recoletos",
+    "velocidad_maxima": "70 km/h (tramo Atocha-Recoletos)",
+    "ancho": "No especificado (cambiador de ancho en Atocha para tren 4141)",
+    "electrificacion": "Electrificada (catenaria); se cortó tensión en túnel de Recoletos como medida de emergencia, restablecida a las 14:27",
+    "estado_via": "Circuito de vía A6 ocupado por avería en junta aislante (ocupación artificial), impidiendo apertura de señales de salida hacia Recoletos; enclavamiento eléctrico en mando local",
+    "otro": "Bloqueo automático banalizado (BAB) con CTC; travesía T10 (T10a y T10b) para paso de vías 3C/4C a vías I y II de Recoletos; 6 averías de ocupación artificial del circuito A6 en 2012 (media 1 cada 2 meses); mantenimiento de elementos de campo por personal propio de Adif; tráfico muy alto: 3.070 circulaciones/semana en el tramo"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad A.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 4141: motor 130006, 13 vehículos, 343 t, tipo 200B, UIC 907171300060. Tren 21232: UT 907174461620/907174460036, 6 vehículos, 440 t, tipo 100A.",
+    "averia": "No se producen daños en material rodante; ambos trenes funcionaron correctamente",
+    "mantenimiento": "No se menciona información específica sobre mantenimiento del material rodante"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Avería en junta aislante del circuito de vía A6 que provocó ocupación artificial y obligó a expedir trenes con autorización de rebase",
+    "Deficiencias en las comunicaciones por radioteléfonos portátiles entre agente y jefe de circulación (interferencias, solapamiento de conversaciones, problema recurrente en Atocha)",
+    "Instrucciones confusas y cambiantes del jefe de circulación a la agente (orden de ir a vía 4C, luego volver a vía 1-2, luego nuevamente a vía 4C)",
+    "Falta de confirmación por parte de la agente de circulación de las instrucciones recibidas antes de expedir el tren",
+    "BAR indicaba itinerario por vía I pero el tren se encaminó por vía II hacia Recoletos"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El jefe de circulación de Madrid Atocha Cercanías y la agente de circulación están habilitados conforme \na la Orden FOM/2872/2010 de 5 de noviembre, por la que se determinan las condiciones para la \nobtención de títulos y habilitaciones que permiten el ejercicio de las funciones del personal ferroviario \nrelacionadas con la seguridad: \nEl jefe de circulación de Madrid Atocha Cercanías realizó su último reciclaje formativo el 07/06/2012 y \nsu último reconocimiento médico y psicotécnico el 23/11/2009, conforme a la normativa vigente. \nLa agente de circulación realizó su último reciclaje formativo el 15/02/2012 y su último reconocimiento \nmédico y psicotécnico el 24/09/2008, conforme a la normativa vigente. \nEl maquinista del tren 4141 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio (Título V – Personal de conducción – en vigor hasta 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre).  \nÉste tiene una antigüedad en el cargo desde el 2 de diciembre de 2000. \nRealizó su último curso formativo el 03/09/2010 y su último reconocimiento médico y psicotécnico el \n22/11/2011, conforme a la normativa vigente. \nEl maquinista del tren 21232 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio (Título V – Personal de conducción – en vigor hasta 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre).  \nÉste tiene una antigüedad en el cargo desde el 2 de enero de 2007. \nRealizó su último curso formativo el 04/02/2010 y su último reconocimiento médico y psicotécnico el \n19/10/2009, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 11,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "Los hechos ocurrieron el 26 de julio de 2012 a las 14:15 h en la estación de Madrid Atocha-Cercanías, línea 900. El circuito de vía A6 se encontraba ocupado por una avería en la junta aislante, lo que impedía la apertura de las señales de salida hacia el lado Recoletos; los trenes se expedían con autorización de rebase. El tren de larga distancia 4141 (origen Alicante, destino Gijón) quedó estacionado en vía 4C ante la señal S1/4C en indicación de parada. La agente de circulación, siguiendo instrucciones del jefe de circulación, entregó al maquinista un BAR con itinerario por vía I y el tren inició la marcha. Al rebasar la señal S1/4C a 9 km/h, el tren talonó la travesía T10b y se encaminó por vía II, donde el tren de cercanías 21232 (origen Hortaleza, destino Villalba de Guadarrama) estaba detenido ante la señal de entrada E2-2 en indicación de parada. Se produjo un conato de colisión con ambos trenes enfrentados a unos 50 metros. El tren 4141 se detuvo tras recorrer unos 400 m desde la señal rebasada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano de la agente de circulación: entrega indebida del boletín de autorización de rebase (BAR) de la señal S1/4C al tren 4141, sin itinerario correctamente establecido y sin autorización del jefe de circulación (incumplimiento del art. 278 del Reglamento General de Circulación)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Avería en junta aislante del circuito de vía A6 que provocó ocupación artificial y obligó a expedir trenes con autorización de rebase",
+    "Deficiencias en las comunicaciones por radioteléfonos portátiles entre agente y jefe de circulación (interferencias, solapamiento de conversaciones, problema recurrente en Atocha)",
+    "Instrucciones confusas y cambiantes del jefe de circulación a la agente (orden de ir a vía 4C, luego volver a vía 1-2, luego nuevamente a vía 4C)",
+    "Falta de confirmación por parte de la agente de circulación de las instrucciones recibidas antes de expedir el tren",
+    "BAR indicaba itinerario por vía I pero el tren se encaminó por vía II hacia Recoletos"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "14:12:02",
+     "evento": "El tren 4141 realiza parada ante la señal S1/4C (registrador de eventos)"
+    },
+    {
+     "hora": "14:14:33",
+     "evento": "Tren 4141 estacionado en vía 4C con señal S1/4C en indicación de parada"
+    },
+    {
+     "hora": "14:14:58",
+     "evento": "Tren 21232 ocupa circuito de vía A2 anterior a la señal avanzada E'2-2 (moviola CTC)"
+    },
+    {
+     "hora": "14:15:02",
+     "evento": "Tren 4141 en circuito de travesía T10 tras rebasar S1/4C a 9 km/h; tren 21232 ante señal E2-2 en parada, ocupando circuito AE2-2"
+    },
+    {
+     "hora": "14:15:12",
+     "evento": "Tren 4141 inicia movimiento (registrador)"
+    },
+    {
+     "hora": "14:15:32",
+     "evento": "Tren 4141 pasa baliza de rebase de señal de salida S1/4C"
+    },
+    {
+     "hora": "14:16:02",
+     "evento": "Tren 21232 pasa baliza de pie de señal avanzada E'2-2"
+    },
+    {
+     "hora": "14:16:24",
+     "evento": "Tren 4141 ocupa circuito E2-2 (vía II); tren 21232 en circuito AE2-2 contiguo. Conato de colisión, enfrentados a ~50 m"
+    },
+    {
+     "hora": "14:16:25",
+     "evento": "Tren 21232 pasa baliza previa de señal de entrada E2-2"
+    },
+    {
+     "hora": "14:17:22",
+     "evento": "Tren 4141 efectúa parada en PK 0+448, tras ~400 m desde señal rebasada"
+    },
+    {
+     "hora": "14:17:24",
+     "evento": "Tren 21232 se detiene antes de la señal E2-2"
+    },
+    {
+     "hora": "14:27",
+     "evento": "Se restablece la tensión en la catenaria del túnel de Recoletos"
+    },
+    {
+     "hora": "15:15",
+     "evento": "Pruebas de alcoholemia y drogas al jefe de circulación: negativas"
+    },
+    {
+     "hora": "15:30",
+     "evento": "Pruebas de alcoholemia y drogas a la agente de circulación: negativas"
+    },
+    {
+     "hora": "15:31",
+     "evento": "Jefe de investigación de Adif comunica el suceso a la CIAF (por teléfono móvil)"
+    },
+    {
+     "hora": "16:15",
+     "evento": "Pruebas de alcoholemia y drogas al maquinista del tren 4141: negativas"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0053/2012",
+ "expediente": "53/012",
+ "anio": 2012,
+ "titulo": "Conato de colisión entre trenes por autorización indebida de rebase en Atocha-Cercanías (Madrid)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_260712__300713_CIAF.md"
+}

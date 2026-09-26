@@ -1,0 +1,713 @@
+{
+ "id": "IF_230114_270115_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/1984B323-6369-4937-9A47-36C5DBBA0A37/129129/IF230114270115CIAF.pdf",
+ "pdf": "pdfs/ES/IF_230114_270115_CIAF.pdf",
+ "md5_pdf": "dc2d41d86aa1a04316a2b9df588eb73e",
+ "paginas_md": 23,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 21,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 5,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "05/14-1",
+     "Recomendación": "Se reitera la recomendación 43/13-1: “Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).”"
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 23,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "05/14-1",
+     "Recomendación": "Se reitera la recomendación 43/13-1: “Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).”"
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0005/2014",
+   "pagina": 1,
+   "cita": "nº 0005/2014 ocurrido el 23.01.2014",
+   "origen": "determinista",
+   "regla": "portada",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": "Material rodante: resultan con daños la locomotora y los dos primeros coches de viajeros. La \nvaloración de los daños realizada por Renfe Operadora asciende a 41.780€. \nInfraestructura: se producen daños en vía e instalaciones. La valoración de los daños realizada por \nAdif asciende a 2.977 €. \n \n \n \n \n \n \n \n \n \nDaños en la locomotora del tren 282",
+   "pagina": 11,
+   "cita": "2.3.2. Daños materiales",
+   "origen": "determinista",
+   "regla": "sec:^da[ñn]os materiales$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Se reitera la recomendación 43/13-1: “Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).”",
+    "Se reitera la recomendación 43/13-1: “Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).”"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Día / Hora:   \n23.01.2014 / 11:43.  \nLugar:  \n \nPK 422+950 (entre las estaciones de Calzada de Bureba y Briviesca). \nLínea: \n100 Hendaya a Madrid-Chamartín.  \nTramo: \n \nBriviesca - Pancorbo \nMunicipio: \n \nFuentebureba \nProvincia:  \n \nBurgos  \n \n\n### Tablas de la página 5\n\n| Destinatario final | Número | Recomendación |\n|---|---|---|\n| Adif | 05/14-1 | Se reitera la recomendación 43/13-1: “Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).” |\n\n## Página 6\n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0005/2014 ocurrido el 23.01.2014 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-230114-270115-CIAF \n \n \nPág. 6 de 23",
+   "pagina": 5,
+   "cita": "2.1.1. Datos Día / Hora: 23.01.2014 / 11:43. Lugar: PK 422+950 (entre las estaciones de Calzada de Bureba y Briviesca). Línea: 100 Hendaya a Madrid-Chamartín. Tramo: Briviesca - Pancorbo Municipio: F",
+   "origen": "determinista",
+   "regla": "sec:^datos$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "El tramo donde ocurre el suceso es de vía doble electrificada de ancho ibérico, realizándose la \ncirculación al amparo de bloqueo automático banalizado (BAB) con control de tráfico centralizado \n(CTC) desde el puesto de mando de Miranda de Ebro. \nEl punto de la colisión corresponde al PK 422+950 (carril de 54 kg/ml, montado sobre traviesa \nmonobloque de hormigón) de la vía II de la línea 100 Hendaya –Madrid Chamartín. Según el sentido \nde la marcha, el mencionado PK se encuentra en una zona de alineación recta de 1.471 metros. El tren \nantes del arrollamiento circula en rampa de 9,40 milésimas (640 metros), pasa por un cambio de \nrasante (PK 423+020) y en pendiente de 3,29 milésimas (70 metros). \nSegún el Cuadro de Velocidades Máximas, en el sentido de la marcha, la velocidad máxima permitida \nal paso por el lugar del suceso es de 150 km/h. \n \n \n \n \n \n \n \n \n \nVista de la vía desde la parte posterior del tren 282  \nTREN 282 \nCALZADA DE BUREBA \nBRIVIESCA\nTREN 282 \n\n## Página 10\n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0005/2014 ocurrido el 23.01.2014 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-230114-270115-CIAF \n \n \nPág. 10 de 23",
+   "pagina": 9,
+   "cita": "2.2.3. Descripción de la infraestructura",
+   "origen": "determinista",
+   "regla": "sec:^descripci[óo]n de la infraestructura$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "Los hechos tuvieron lugar el día 23 de enero de 2014 a las 11:43 horas, en el PK 422+950 de la línea \n100 Hendaya a Madrid-Chamartín, entre las estaciones de Calzada de Bureba y Briviesca, en la \nprovincia de Burgos. \nEntre las mencionadas estaciones estaban programados trabajos de mantenimiento en la vía II \n(sustitución de cupones de carril con soldadura aluminotérmica), al amparo de la correspondiente acta \nsemanal de trabajos. \nEl encargado de trabajos realiza la petición de la interrupción de la circulación por vía II al jefe del  \nCTC de Miranda de Ebro y éste se la concede mediante el preceptivo telefonema, que queda anotado \nen el libro de bloqueo. Los operarios inician su actividad en la vía II utilizando para los trabajos una \nplataforma portaherramientas situada sobre la vía. \nPor su parte, el tren de viajeros 282 de la empresa ferroviaria Renfe Operadora, con origen Irún y \ndestino Vigo Guixar, venía circulando por vía II con normalidad. Tenía dispuesto paso directo por la \nestación de Calzada de Bureba (PK 428+280), por lo que alcanza la señal de entrada E2 (429+073) en \nindicación de vía libre a 67 km/h, y la señal de salida S2/2 (PK 428+021) también en verde a 81km/h.  \nTras salir de la estación de Calzada de Bureba aumenta progresivamente la velocidad durante unos 4,7 \nkilómetros hasta alcanzar la velocidad de 147 km/h (en el PK 423+331). \nEl maquinista reduce la velocidad al percatarse de la presencia en la vía 2 de los trabajadores y hace \nuso del silbato (según su propia declaración). Éstos salen de la vía, y el maquinista ve sobre la misma \nuna plataforma de trabajos, arrollándola en el PK 422+950 a la velocidad de 126 km/h, haciendo uso \ndel freno de emergencia y quedando detenido el tren en el PK 422+350. \nA su vez, el encargado de trabajos declara que al ver que un tren se aproximaba rápidamente por \nvía 2, donde estaban trabajando, mandó retirarse al personal y realizó señales de parada al \nmaquinista del tren. \nComo consecuencia del accidente no se ocasionan daños personales. \n \n \n \n \n \n \nBRIVIESCA \nBURGOS \nVIGO \nPANCORBO \nIRÚN \nCALZADA DE BUREBA \nPK  428+180\nTREN 282\n\n## Página 7\n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0005/2014 ocurrido el 23.01.2014 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-230114-270115-CIAF \n \n \nPág. 7 de 23\nCroquis (fuente: Adif) \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nVIGO \nBURGOS \nPANCORBO \nIRÚN \nCALZADA DE \nBUREBA\n BRIVIESCA \nPK  416+7xx \nVÍA I BLOQUEADA \nVÍA II CONCEDIDO BLOQUEO \nY SIN REALIZARSE \nTREN CIRCULANDO POR VIA 2 (11:40:38 HORAS) \nPASO DIRECTO POR VÍA 2 Y SEÑAL \nDE SALIDA S2/2 EN VÍA LIBRE \nTREN 282\nE2 \nPK 422+950 \nARROLLAMIENTO \nVIGO \nBURGOS \nBRIVIESCA \nPANCORBO \nIRÚN \nS2/2 \nTREN 282 \nCALZADA DE BUREBA \nPK  428+180 \n\n## Página 8\n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0005/2014 ocurrido el 23.01.2014 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-230114-270115-CIAF \n \n \nPág. 8 de 23",
+   "pagina": 6,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "determinista",
+   "regla": "sec:^descripci[óo]n del suceso$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": "Material rodante: resultan con daños la locomotora y los dos primeros coches de viajeros. La \nvaloración de los daños realizada por Renfe Operadora asciende a 41.780€. \nInfraestructura: se producen daños en vía e instalaciones. La valoración de los daños realizada por \nAdif asciende a 2.977 €. \n \n \n \n \n \n \n \n \n \nDaños en la locomotora del tren 282",
+   "pagina": 11,
+   "cita": "2.3.2. Daños materiales",
+   "origen": "determinista",
+   "regla": "sec:^consecuencias$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": "Por parte de Adif \nEl jefe del CTC, con matrícula 8893638 y el encargado de trabajos, con matrícula 2850261. \nPor parte de Renfe Operadora \nEl maquinista del tren de viajeros LD 28744, con matrícula 9712209. \n\n## Página 9\n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0005/2014 ocurrido el 23.01.2014 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-230114-270115-CIAF \n \n \nPág. 9 de 23",
+   "pagina": 8,
+   "cita": "2.2.1. Personal ferroviario implicado",
+   "origen": "determinista",
+   "regla": "sec:^personal ferroviario implicado$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": "Tren de viajeros de larga distancia, formado por la locomotora 252023 y 5 coches, con una longitud de \n132 metros y 250 toneladas. \nNº UIC locomotora: 95710250237. \nTren tipo 160A (velocidad máxima 160 km/h). \nSegún Libro Horario del tren 282, la velocidad máxima a la que puede circular entre Calzada de Bureba \ny Briviesca, tramo donde ocurre el suceso, es de 150 km/h, teniendo su paso (sin parada comercial) \nprevisto hacia las 11:40 h.",
+   "pagina": 9,
+   "cita": "2.2.2. Material rodante",
+   "origen": "determinista",
+   "regla": "sec:^trenes y composici[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": "El tramo donde ocurre el suceso es de vía doble electrificada de ancho ibérico, realizándose la \ncirculación al amparo de bloqueo automático banalizado (BAB) con control de tráfico centralizado \n(CTC) desde el puesto de mando de Miranda de Ebro. \nEl punto de la colisión corresponde al PK 422+950 (carril de 54 kg/ml, montado sobre traviesa \nmonobloque de hormigón) de la vía II de la línea 100 Hendaya –Madrid Chamartín. Según el sentido \nde la marcha, el mencionado PK se encuentra en una zona de alineación recta de 1.471 metros. El tren \nantes del arrollamiento circula en rampa de 9,40 milésimas (640 metros), pasa por un cambio de \nrasante (PK 423+020) y en pendiente de 3,29 milésimas (70 metros). \nSegún el Cuadro de Velocidades Máximas, en el sentido de la marcha, la velocidad máxima permitida \nal paso por el lugar del suceso es de 150 km/h. \n \n \n \n \n \n \n \n \n \nVista de la vía desde la parte posterior del tren 282  \nTREN 282 \nCALZADA DE BUREBA \nBRIVIESCA\nTREN 282 \n\n## Página 10\n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0005/2014 ocurrido el 23.01.2014 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-230114-270115-CIAF \n \n \nPág. 10 de 23",
+   "pagina": 9,
+   "cita": "2.2.3. Descripción de la infraestructura",
+   "origen": "determinista",
+   "regla": "sec:^descripci[óo]n de la infraestructura$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad A.",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": "Material rodante: resultan con daños la locomotora y los dos primeros coches de viajeros. La \nvaloración de los daños realizada por Renfe Operadora asciende a 41.780€. \nInfraestructura: se producen daños en vía e instalaciones. La valoración de los daños realizada por \nAdif asciende a 2.977 €. \n \n \n \n \n \n \n \n \n \nDaños en la locomotora del tren 282",
+   "pagina": 11,
+   "cita": "2.3.2. Daños materiales",
+   "origen": "determinista",
+   "regla": "sec:^da[ñn]os materiales$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": "Material rodante: resultan con daños la locomotora y los dos primeros coches de viajeros. La \nvaloración de los daños realizada por Renfe Operadora asciende a 41.780€. \nInfraestructura: se producen daños en vía e instalaciones. La valoración de los daños realizada por \nAdif asciende a 2.977 €. \n \n \n \n \n \n \n \n \n \nDaños en la locomotora del tren 282",
+   "pagina": 11,
+   "cita": "2.3.2. Daños materiales",
+   "origen": "determinista",
+   "regla": "sec:^da[ñn]os materiales$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad A.",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Por parte de Adif \nEl jefe del CTC (responsable de circulación) y el encargado de trabajos están habilitados conforme a la \nOrden FOM/2872/2010, de 5 de noviembre, por la que se determinan las condiciones para la \nobtención de títulos y habilitaciones que permiten el ejercicio de las funciones del personal ferroviario \nrelacionadas con la seguridad. \nEl jefe del CTC tiene una antigüedad en el cargo desde el 01/07/2001. Realizó su último reciclaje \nformativo el 06/11/2012 y su último reconocimiento médico y psicotécnico el 18/04/2013, conforme a \nla normativa vigente. \nEl encargado de trabajos tiene una antigüedad en el cargo desde el 09/02/2010. Realizó su último \nreciclaje formativo el 06/11/2012 y su último reconocimiento médico y psicotécnico el 15/06/2010, \nconforme a la normativa vigente. \nPor parte de Renfe Operadora \nEl maquinista del tren 282 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene una antigüedad en el cargo desde el 26/09/1991. Realizó su último reciclaje formativo el \n16/10/2012 y su último reconocimiento médico y psicotécnico el 20/11/2013, conforme a la \nnormativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 13,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Se reitera la recomendación 43/13-1: “Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).”",
+    "Se reitera la recomendación 43/13-1: “Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).”"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  }
+ },
+ "clave": "0005/2014",
+ "expediente": "0005/14",
+ "anio": 2014,
+ "titulo": "Arrollamiento de plataforma portaherramientas por tren 282 entre Calzada de Bureba y Briviesca (Burgos)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_230114_270115_CIAF.md"
+}

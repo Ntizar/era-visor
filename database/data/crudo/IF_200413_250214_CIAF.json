@@ -1,0 +1,962 @@
+{
+ "id": "IF_200413_250214_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/657F8C4A-0E47-4982-B24C-FA3CD6039512/124189/IF200413250214CIAF.pdf",
+ "pdf": "pdfs/ES/IF_200413_250214_CIAF.pdf",
+ "md5_pdf": "501042bee678a41f40f5210a8652b200",
+ "paginas_md": 15,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 18,
+ "n_tablas": 1,
+ "tablas": [
+  {
+   "pagina": 13,
+   "cabecera": [
+    "Responsable CIC:",
+    "Oye, me dice una señora en Anoeta que ha pasado un tren que ha pillado, que ha habido un arrollamiento a otra señora."
+   ],
+   "filas": [
+    {
+     "Responsable CIC:": "Jefe CTC:",
+     "Oye, me dice una señora en Anoeta que ha pasado un tren que ha pillado, que ha habido un arrollamiento a otra señora.": "¿En dónde?"
+    },
+    {
+     "Responsable CIC:": "Responsable CIC:",
+     "Oye, me dice una señora en Anoeta que ha pasado un tren que ha pillado, que ha habido un arrollamiento a otra señora.": "En Anoeta… la tenemos a la señora por la máquina [haciendo alusión al interfono que existe en los apeaderos] nos está llamando toda nerviosa, llorando."
+    },
+    {
+     "Responsable CIC:": "Jefe CTC:",
+     "Oye, me dice una señora en Anoeta que ha pasado un tren que ha pillado, que ha habido un arrollamiento a otra señora.": "¿Y qué, ha sido ahora mismo? Voy a mirar… Anoeta acaba de pasar ahora el 535, pero no me ha dicho nada el maquinista, voy a hablar con él, a ver ¿eh?"
+    }
+   ],
+   "cita": "| Responsable CIC: | Oye, me dice una señora en Anoeta que ha pasado un tren que ha pillado, que ha habido un arrollamiento a otra señora. |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0033/2013",
+   "pagina": 1,
+   "cita": "nº 0033/2013 ocurrido el 20.04.2013",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 20 de abril de 2013, a las 12:39, un tren de larga distancia 535 de Renfe Operadora arrolló a una persona en el paso entre andenes del apeadero de Anoeta (Guipúzcoa), en el PK 600+148 de la línea 100 Hendaya–Madrid-Chamartín. La víctima, viajera del tren de cercanías 26888, cruzó después de que la cola del cercanías rebasara el paso, sin percatarse de la llegada del tren 535. La persona falleció y no se produjeron daños materiales en material rodante ni infraestructura. La investigación concluye que el origen fue la invasión del gálibo de la vía por la víctima.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2013-04-20",
+    "hora": "12:39",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Anoeta",
+     "pk": "600+148 (paso entre andenes; apeadero PK 600+200)",
+     "linea": "100 Hendaya – Madrid-Chamartín",
+     "provincia": "Guipúzcoa",
+     "descripcion_lugar": "Paso entre andenes situado dentro del apeadero de Anoeta, en el tramo Tolosa - San Sebastián, municipio de Anoeta, provincia de Guipúzcoa."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 20 de abril de 2013, a las 12:39 horas, en el apeadero de Anoeta (PK 600+200) de la línea",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura.",
+    "afectacion_servicio": "Circulación por vía 2 interceptada entre Tolosa y Billabona desde las 12:39 hasta las 13:57; circulaciones por vía 1 con marcha a la vista; retrasos: tren del suceso 5 minutos, 1 tren de larga distancia 4 minutos, 1 tren de media distancia 12 minutos, 4 trenes de cercanías total 28 minutos y 1 tren de mercancías 20 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión del gálibo de la vía por parte de la víctima al cruzar por el paso entre andenes sin percatarse de la llegada del tren.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión del gálibo de la vía por parte de la víctima, al",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La cola del tren 26888 impedía la visibilidad de la llegada del tren 535 por la otra vía en el paso entre andenes.",
+    "El paso entre andenes era la única alternativa para cruzar las vías.",
+    "La víctima no debió haber invadido el gálibo de la vía hasta asegurarse de que no venía ningún tren por la vía 1."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Falta de una normativa general que establezca los dispositivos de seguridad pertinentes en estaciones y apeaderos.",
+    "Necesidad de un inventario y análisis de riesgos de estaciones y apeaderos de la RFIG para elaborar un plan de medidas jerarquizado según nivel de riesgo."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "33/13-1: Se reitera la recomendación realizada en el expediente número 0045/2009: «Insistir en la implementación de la recomendación general emitida en el documento: CIAF, Estudio sobre el arrollamiento de personas en plena vía, estación o apeadero y paso a nivel. Años 2005-2008, noviembre 2009; contemplando la situación de las personas de movilidad reducida. Esta recomendación dice así: «A la vista de la siniestralidad existente en estaciones y apeaderos y de la falta de una normativa general que establezca los dispositivos de seguridad pertinentes en las estaciones, y dada la distinta tipología que éstas presentan, sería conveniente que por la autoridad de seguridad ferroviaria se estudiara la posibilidad de realizar un inventario de las estaciones y apeaderos existentes en la RFIG, en el que se incluyan diferentes parámetros con el fin de realizar un análisis de riesgos que dé idea de la peligrosidad de las mismas. En base a los resultados se elaboraría un plan de medidas a adoptar, que jerarquizase las estaciones y apeaderos donde se debe actuar y la diferente actuación a llevar a cabo en función de su nivel de riesgo.»»",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "Recomendación Dirección General de Ferrocarriles (DGF) 33/13-1 Se reitera la recomendación realizada en el expediente número 0045/2009: “Insistir en la implementación de la recomendación general emitida en el docu",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "33/13-1: Se reitera la recomendación realizada en el expediente número 0045/2009: «Insistir en la implementación de la recomendación general emitida en el documento: CIAF, Estudio sobre el arrollamiento de personas en plena vía, estación o apeadero y paso a nivel. Años 2005-2008, noviembre 2009; contemplando la situación de las personas de movilidad reducida. Esta recomendación dice así: «A la vista de la siniestralidad existente en estaciones y apeaderos y de la falta de una normativa general que establezca los dispositivos de seguridad pertinentes en las estaciones, y dada la distinta tipología que éstas presentan, sería conveniente que por la autoridad de seguridad ferroviaria se estudiara la posibilidad de realizar un inventario de las estaciones y apeaderos existentes en la RFIG, en el que se incluyan diferentes parámetros con el fin de realizar un análisis de riesgos que dé idea de la peligrosidad de las mismas. En base a los resultados se elaboraría un plan de medidas a adoptar, que jerarquizase las estaciones y apeaderos donde se debe actuar y la diferente actuación a llevar a cabo en función de su nivel de riesgo.»»",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "Recomendación Dirección General de Ferrocarriles (DGF) 33/13-1 Se reitera la recomendación realizada en el expediente número 0045/2009: “Insistir en la implementación de la recomendación general emitida en el docu",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "ferroviaria Renfe Operadora, con origen Barcelona y destino Irún, sin parada prescrita en el",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2013-04-20",
+   "pagina": 3,
+   "cita": "El día 20 de abril de 2013, a las 12:39 horas, en el apeadero de Anoeta (PK 600+200) de la línea",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "12:39",
+   "pagina": 3,
+   "cita": "El día 20 de abril de 2013, a las 12:39 horas, en el apeadero de Anoeta (PK 600+200) de la línea",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Anoeta",
+    "pk": "600+148 (paso entre andenes; apeadero PK 600+200)",
+    "linea": "100 Hendaya – Madrid-Chamartín",
+    "provincia": "Guipúzcoa",
+    "descripcion_lugar": "Paso entre andenes situado dentro del apeadero de Anoeta, en el tramo Tolosa - San Sebastián, municipio de Anoeta, provincia de Guipúzcoa."
+   },
+   "pagina": 3,
+   "cita": "vista de la siniestralidad existente en estaciones y",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 100 Hendaya – Madrid-Chamartín",
+   "pagina": 3,
+   "cita": "El día 20 de abril de 2013, a las 12:39 horas, en el apeadero de Anoeta (PK 600+200) de la línea",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tren 535: Alvia tipo 120A, unidades 120008 en cabeza y 120002 en cola, 8 vehículos, 32 ejes, 214 metros de longitud, 532 toneladas, Nº UIC 967191200088 y 967191200021; tren 26888: tren de cercanías, serie no especificada.",
+    "averia": "No se especifican averías; el funcionamiento del tren fue correcto.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 20 de abril de 2013, a las 12:39 horas, el tren de viajeros de larga distancia 535 de Renfe Operadora, con origen Barcelona y destino Irún, circulaba por vía 1 del apeadero de Anoeta (PK 600+200), en la línea 100 Hendaya–Madrid-Chamartín, sin parada prescrita. En sentido contrario, el tren de viajeros de cercanías 26888, con origen Irún y destino Brinkola, realizaba parada comercial en el andén de la vía 2.\n\nTras completar la subida y bajada de viajeros, el tren 26888 reanudó la marcha. Cuando la cola del tren había rebasado el paso entre andenes (PK 600+148), una persona cruzó por dicho paso de derecha a izquierda en el sentido de la marcha del tren 535 y fue golpeada por el lado derecho del frontal del tren.\n\nComo consecuencia del arrollamiento, la persona resultó fallecida. El registrador de seguridad del tren 535 muestra que circulaba a 103 km/h en el momento del paso por la baliza de la señal PN 6001, y que las señales previas estaban en indicación de vía libre.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Anoeta",
+    "pk": "600+148 (paso entre andenes; apeadero PK 600+200)",
+    "linea": "100 Hendaya – Madrid-Chamartín",
+    "provincia": "Guipúzcoa",
+    "descripcion_lugar": "Paso entre andenes situado dentro del apeadero de Anoeta, en el tramo Tolosa - San Sebastián, municipio de Anoeta, provincia de Guipúzcoa."
+   },
+   "pagina": 3,
+   "cita": "vista de la siniestralidad existente en estaciones y",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura.",
+    "afectacion_servicio": "Circulación por vía 2 interceptada entre Tolosa y Billabona desde las 12:39 hasta las 13:57; circulaciones por vía 1 con marcha a la vista; retrasos: tren del suceso 5 minutos, 1 tren de larga distancia 4 minutos, 1 tren de media distancia 12 minutos, 4 trenes de cercanías total 28 minutos y 1 tren de mercancías 20 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista del tren 535",
+     "implicacion": "Conducía el tren que golpeó a la víctima; declaró velocidad de unos 90-95 km/h, señales en vía libre, no observó anomalía ni impacto; prueba de alcoholemia negativa a las 14:15 en Irún."
+    },
+    {
+     "rol": "maquinista del tren 26888",
+     "implicacion": "Declaró que tras emprender la marcha quedaron 4 o 5 personas para cruzar el paso entre andenes y que observó el Alvia con foco de gran intensidad encendido."
+    },
+    {
+     "rol": "vigilantes de seguridad del tren 26888",
+     "implicacion": "Declararon que vieron a la persona dirigirse al paso entre andenes y que era una viajera habitual que subía y bajaba en la estación de Rentería."
+    },
+    {
+     "rol": "mecánico del tren 535",
+     "implicacion": "Recibió orden de efectuar reconocimiento del tren junto con el maquinista en la estación de San Sebastián."
+    },
+    {
+     "rol": "responsable del servicio de seguridad 24 h de Renfe Operadora",
+     "implicacion": "Recibió el aviso de una señora por el interfono del apeadero y llamó al jefe del CTC de Miranda de Ebro."
+    },
+    {
+     "rol": "jefe del CTC de Miranda de Ebro",
+     "implicacion": "Recibió la llamada, contactó con el maquinista del tren 535 y gestionó la información del suceso."
+    },
+    {
+     "rol": "responsable de Seguridad y Protección Civil de Adif",
+     "implicacion": "Llamó al Puesto Mando de Miranda tras ser informado por el S.O.S. de Guipúzcoa y la Ertzaintza."
+    },
+    {
+     "rol": "jefe de investigación de accidentes ferroviarios de Adif",
+     "implicacion": "Comunicó a la CIAF la producción del suceso."
+    },
+    {
+     "rol": "persona arrollada",
+     "implicacion": "Mujer de 28 años, viajera del tren 26888, fallecida como consecuencia del arrollamiento."
+    }
+   ],
+   "pagina": 7,
+   "cita": "llama al maquinista del tren 535.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "535",
+     "tipo": "tren de viajeros de larga distancia",
+     "operador": "Renfe Operadora",
+     "danos": "no se producen daños"
+    },
+    {
+     "numero": "26888",
+     "tipo": "tren de viajeros de cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "no se especifican daños"
+    }
+   ],
+   "pagina": 3,
+   "cita": "100 Hendaya – Madrid-Chamartín, el tren de viajeros de larga distancia 535 de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tren 535: Alvia tipo 120A, unidades 120008 en cabeza y 120002 en cola, 8 vehículos, 32 ejes, 214 metros de longitud, 532 toneladas, Nº UIC 967191200088 y 967191200021; tren 26888: tren de cercanías, serie no especificada.",
+    "averia": "No se especifican averías; el funcionamiento del tren fue correcto.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 5,
+   "cita": "El jefe de investigación de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático con control de tráfico centralizado en Miranda de Ebro (BAB con CTC); señales en vía libre y protegido; carteles en el paso entre andenes con la indicación: 'Cuidado al cruzar. Trenes circulando en ambos sentidos'.",
+    "tipo_via": "vía doble electrificada",
+    "velocidad_maxima": "115 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "Tramo de trazado recto de 206 metros, con pendiente de 4,46 milésimas en sentido Irún; dos vías generales con andenes laterales; paso entre andenes con buena visibilidad y pavimento antideslizante de caucho tipo strail; infraestructura e instalaciones técnicas funcionaron correctamente.",
+    "otro": "Apeadero de Anoeta PK 600+200; paso entre andenes PK 600+148; accesos: dos por el andén de la vía 1 y uno por el andén de la vía 2; radiotelefonía modalidad A; tráfico medio semanal del tramo Tolosa–San Sebastián: 722 circulaciones (102 larga distancia, 43 media distancia, 483 cercanías, 87 mercancías y 7 de servicio)."
+   },
+   "pagina": 6,
+   "cita": "El tramo donde ocurre el suceso es de vía doble electrificada y con bloqueo automático con control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático con control de tráfico centralizado en Miranda de Ebro (BAB con CTC); señales en vía libre y protegido; carteles en el paso entre andenes con la indicación: 'Cuidado al cruzar. Trenes circulando en ambos sentidos'.",
+   "pagina": 6,
+   "cita": "El tramo donde ocurre el suceso es de vía doble electrificada y con bloqueo automático con control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad A.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura.",
+    "afectacion_servicio": "Circulación por vía 2 interceptada entre Tolosa y Billabona desde las 12:39 hasta las 13:57; circulaciones por vía 1 con marcha a la vista; retrasos: tren del suceso 5 minutos, 1 tren de larga distancia 4 minutos, 1 tren de media distancia 12 minutos, 4 trenes de cercanías total 28 minutos y 1 tren de mercancías 20 minutos."
+   },
+   "pagina": 3,
+   "cita": "100 Hendaya – Madrid-Chamartín, el tren de viajeros de larga distancia 535 de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura.",
+    "afectacion_servicio": "Circulación por vía 2 interceptada entre Tolosa y Billabona desde las 12:39 hasta las 13:57; circulaciones por vía 1 con marcha a la vista; retrasos: tren del suceso 5 minutos, 1 tren de larga distancia 4 minutos, 1 tren de media distancia 12 minutos, 4 trenes de cercanías total 28 minutos y 1 tren de mercancías 20 minutos."
+   },
+   "pagina": 1,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura.",
+    "afectacion_servicio": "Circulación por vía 2 interceptada entre Tolosa y Billabona desde las 12:39 hasta las 13:57; circulaciones por vía 1 con marcha a la vista; retrasos: tren del suceso 5 minutos, 1 tren de larga distancia 4 minutos, 1 tren de media distancia 12 minutos, 4 trenes de cercanías total 28 minutos y 1 tren de mercancías 20 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 535: Alvia tipo 120A, unidades 120008 en cabeza y 120002 en cola, 8 vehículos, 32 ejes, 214 metros de longitud, 532 toneladas, Nº UIC 967191200088 y 967191200021; tren 26888: tren de cercanías, serie no especificada.",
+    "averia": "No se especifican averías; el funcionamiento del tren fue correcto.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático con control de tráfico centralizado en Miranda de Ebro (BAB con CTC); señales en vía libre y protegido; carteles en el paso entre andenes con la indicación: 'Cuidado al cruzar. Trenes circulando en ambos sentidos'.",
+    "tipo_via": "vía doble electrificada",
+    "velocidad_maxima": "115 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "Tramo de trazado recto de 206 metros, con pendiente de 4,46 milésimas en sentido Irún; dos vías generales con andenes laterales; paso entre andenes con buena visibilidad y pavimento antideslizante de caucho tipo strail; infraestructura e instalaciones técnicas funcionaron correctamente.",
+    "otro": "Apeadero de Anoeta PK 600+200; paso entre andenes PK 600+148; accesos: dos por el andén de la vía 1 y uno por el andén de la vía 2; radiotelefonía modalidad A; tráfico medio semanal del tramo Tolosa–San Sebastián: 722 circulaciones (102 larga distancia, 43 media distancia, 483 cercanías, 87 mercancías y 7 de servicio)."
+   },
+   "pagina": 6,
+   "cita": "El tramo donde ocurre el suceso es de vía doble electrificada y con bloqueo automático con control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "despejado",
+   "pagina": 8,
+   "cita": "En el momento del incidente el tiempo atmosférico era despejado.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Guipúzcoa",
+    "municipio": null,
+    "estacion": "Apeadero de Anoeta"
+   },
+   "pagina": 4,
+   "cita": "Guipúzcoa 2.1.2. Descripción del suceso Los hechos tuvieron lugar el día 20 de abril de 2013 a las 12:39 horas, en el apeadero de Anoeta (PK 600+200) de la línea 100 Hendaya – Madrid-Chamartín, en la provincia de Guip",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "despejado",
+   "pagina": 8,
+   "cita": "En el momento del incidente el tiempo atmosférico era despejado.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático con control de tráfico centralizado en Miranda de Ebro (BAB con CTC); señales en vía libre y protegido; carteles en el paso entre andenes con la indicación: 'Cuidado al cruzar. Trenes circulando en ambos sentidos'.",
+   "pagina": 6,
+   "cita": "El tramo donde ocurre el suceso es de vía doble electrificada y con bloqueo automático con control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático con control de tráfico centralizado en Miranda de Ebro (BAB con CTC); señales en vía libre y protegido; carteles en el paso entre andenes con la indicación: 'Cuidado al cruzar. Trenes circulando en ambos sentidos'.",
+    "tipo_via": "vía doble electrificada",
+    "velocidad_maxima": "115 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "Tramo de trazado recto de 206 metros, con pendiente de 4,46 milésimas en sentido Irún; dos vías generales con andenes laterales; paso entre andenes con buena visibilidad y pavimento antideslizante de caucho tipo strail; infraestructura e instalaciones técnicas funcionaron correctamente.",
+    "otro": "Apeadero de Anoeta PK 600+200; paso entre andenes PK 600+148; accesos: dos por el andén de la vía 1 y uno por el andén de la vía 2; radiotelefonía modalidad A; tráfico medio semanal del tramo Tolosa–San Sebastián: 722 circulaciones (102 larga distancia, 43 media distancia, 483 cercanías, 87 mercancías y 7 de servicio)."
+   },
+   "pagina": 6,
+   "cita": "El tramo donde ocurre el suceso es de vía doble electrificada y con bloqueo automático con control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad A.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 535: Alvia tipo 120A, unidades 120008 en cabeza y 120002 en cola, 8 vehículos, 32 ejes, 214 metros de longitud, 532 toneladas, Nº UIC 967191200088 y 967191200021; tren 26888: tren de cercanías, serie no especificada.",
+    "averia": "No se especifican averías; el funcionamiento del tren fue correcto.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Personas se dirigen a paso",
+    "Víctima cruza sin percatarse",
+    "Invasión del gálibo",
+    "Cola del tren rebasa paso"
+   ],
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión del gálibo de la vía por parte de la víctima, al",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 535 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nRealizó su último reciclaje formativo el 05/02/2013 y su último reconocimiento médico y psicotécnico el \n11/01/2011, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 9,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 20 de abril de 2013, a las 12:39 horas, el tren de viajeros de larga distancia 535 de Renfe Operadora, con origen Barcelona y destino Irún, circulaba por vía 1 del apeadero de Anoeta (PK 600+200), en la línea 100 Hendaya–Madrid-Chamartín, sin parada prescrita. En sentido contrario, el tren de viajeros de cercanías 26888, con origen Irún y destino Brinkola, realizaba parada comercial en el andén de la vía 2.\n\nTras completar la subida y bajada de viajeros, el tren 26888 reanudó la marcha. Cuando la cola del tren había rebasado el paso entre andenes (PK 600+148), una persona cruzó por dicho paso de derecha a izquierda en el sentido de la marcha del tren 535 y fue golpeada por el lado derecho del frontal del tren.\n\nComo consecuencia del arrollamiento, la persona resultó fallecida. El registrador de seguridad del tren 535 muestra que circulaba a 103 km/h en el momento del paso por la baliza de la señal PN 6001, y que las señales previas estaban en indicación de vía libre.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión del gálibo de la vía por parte de la víctima al cruzar por el paso entre andenes sin percatarse de la llegada del tren.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión del gálibo de la vía por parte de la víctima, al",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La cola del tren 26888 impedía la visibilidad de la llegada del tren 535 por la otra vía en el paso entre andenes.",
+    "El paso entre andenes era la única alternativa para cruzar las vías.",
+    "La víctima no debió haber invadido el gálibo de la vía hasta asegurarse de que no venía ningún tren por la vía 1."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "33/13-1: Se reitera la recomendación realizada en el expediente número 0045/2009: «Insistir en la implementación de la recomendación general emitida en el documento: CIAF, Estudio sobre el arrollamiento de personas en plena vía, estación o apeadero y paso a nivel. Años 2005-2008, noviembre 2009; contemplando la situación de las personas de movilidad reducida. Esta recomendación dice así: «A la vista de la siniestralidad existente en estaciones y apeaderos y de la falta de una normativa general que establezca los dispositivos de seguridad pertinentes en las estaciones, y dada la distinta tipología que éstas presentan, sería conveniente que por la autoridad de seguridad ferroviaria se estudiara la posibilidad de realizar un inventario de las estaciones y apeaderos existentes en la RFIG, en el que se incluyan diferentes parámetros con el fin de realizar un análisis de riesgos que dé idea de la peligrosidad de las mismas. En base a los resultados se elaboraría un plan de medidas a adoptar, que jerarquizase las estaciones y apeaderos donde se debe actuar y la diferente actuación a llevar a cabo en función de su nivel de riesgo.»»",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "Recomendación Dirección General de Ferrocarriles (DGF) 33/13-1 Se reitera la recomendación realizada en el expediente número 0045/2009: “Insistir en la implementación de la recomendación general emitida en el docu",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "12:37",
+     "evento": "Según el registrador de seguridad, el tren 535 pasa por la baliza de la señal de salida de Tolosa (PK 597+071) a las 12:37:57, a 104 km/h, en indicación de vía libre."
+    },
+    {
+     "hora": "12:39",
+     "evento": "El tren de cercanías 26888 estaciona en el andén de la vía 2 del apeadero de Anoeta."
+    },
+    {
+     "hora": "12:39",
+     "evento": "El tren 535 pasa por la baliza de la señal 5991 (PK 599+171) a las 12:39:16, a 104 km/h, en indicación de vía libre."
+    },
+    {
+     "hora": "12:39",
+     "evento": "El tren 535 pasa por la baliza de la señal PN 6001 (PK 600+056) a las 12:39:45, a 103 km/h, en indicación de protegido, y se produce el arrollamiento en el PK 600+148."
+    },
+    {
+     "hora": "12:45",
+     "evento": "El responsable del servicio de seguridad 24 h de Renfe Operadora llama al jefe del CTC de Miranda de Ebro para comunicar que una señora, por el interfono del apeadero, informó de un arrollamiento."
+    },
+    {
+     "hora": "12:46",
+     "evento": "El responsable de Seguridad y Protección Civil de Adif llama al Puesto Mando de Miranda tras ser informado por el S.O.S. de Guipúzcoa y la Ertzaintza."
+    },
+    {
+     "hora": "13:57",
+     "evento": "Se restablece la circulación sin limitaciones por ambas vías."
+    },
+    {
+     "hora": "14:35",
+     "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica a la CIAF, por mensajería de telefonía móvil, que se había producido el suceso."
+    },
+    {
+     "hora": null,
+     "evento": "El Pleno de la CIAF acuerda abrir la investigación el 29 de abril de 2013."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0033/2013",
+ "expediente": "0033/13",
+ "anio": 2013,
+ "titulo": "Arrollamiento de una persona en el apeadero de Anoeta (Guipúzcoa) por tren de larga distancia",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_200413_250214_CIAF.md"
+}

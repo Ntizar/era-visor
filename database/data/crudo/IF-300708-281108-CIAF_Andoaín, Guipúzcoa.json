@@ -1,0 +1,905 @@
+{
+ "id": "IF-300708-281108-CIAF_Andoaín, Guipúzcoa",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/0DBAB5B4-9975-45FA-91D5-81E1B458F55B/46965/IF300708281108CIAF.pdf",
+ "pdf": "pdfs/ES/IF-300708-281108-CIAF_Andoaín, Guipúzcoa.pdf",
+ "md5_pdf": "8d7b89fbbbaa8cbb1164226ff38bb772",
+ "paginas_md": 10,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 6,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0031/2008",
+   "pagina": 1,
+   "cita": "nº 0031/2008 ocurrido el 30.07.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 30 de julio de 2008 a las 07:15, el tren de mercancías 91608 arrolló a un varón de 40 años en el paso enmaderado entre andenes del apeadero de Andoaín Centro (PK 608+155, línea 100 Madrid-Hendaya, Guipúzcoa). La víctima, usuaria habitual del apeadero con discapacidad mental, cruzaba del andén de vía II al de vía I con auriculares puestos mientras el tren pasaba. El arrollamiento causó su fallecimiento. No se produjeron daños materiales. La CIAF no estableció recomendaciones al estar previstas actuaciones correctoras (paso inferior y cerramiento urbano).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-07-30",
+    "hora": "07:15",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Apeadero de Andoaín Centro",
+     "pk": "608+155",
+     "linea": "100 Madrid-Hendaya",
+     "provincia": "Guipúzcoa",
+     "descripcion_lugar": "Paso enmaderado entre andenes del apeadero, a la salida de un túnel, en transición de curva a izquierda (sentido de marcha del tren), con rampa del 0,75 ‰. Trayecto Villabona-Andoaín."
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 30 de julio de 2008, a las 07:15 horas, el tren de mercancías 91608 (locomotora 289105 y",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Retrasos de 24 minutos en trenes de viajeros y 536 minutos en trenes de mercancías; supresión de 6 trenes de viajeros."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Cruce de la víctima por el paso enmaderado entre andenes en el momento en que el tren efectuaba su paso por el mismo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima caminaba con auriculares puestos, lo que debió influir en que no percibiese la llegada del tren.",
+    "La víctima tenía una discapacidad mental.",
+    "Limitación de visibilidad en el apeadero por la curva y por trenes parados en el lado Madrid.",
+    "Posibilidad de circulación de trenes por vía contraria a su sentido natural al tratarse de bloqueo B.A.B.",
+    "Necesidad de cruzar el paso dos veces para comprar billetes (taquilla en vía I, viajeros de vía II)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ausencia de un paso inferior o superior entre andenes en el apeadero.",
+    "Falta de cerramiento urbano del entorno del apeadero."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "A la vista de las actuaciones previstas, no se establecen recomendaciones. \n \n \n \nMadrid, 28 de noviembre de 2008. \n \n \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0031/2008 ocurrido el 30.07.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-300708-281108-CIAF \n \n \nPág. 9 de 10\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0031/2008 \nOCURRIDO EL DÍA 30.07.2008 \n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0031/2008 ocurrido el 30.07.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-300708-281108-CIAF \n \n \nPág. 10 de 10\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día \n28 de noviembre de 2008, analizado el expediente nº 0031/2008; del accidente acaecido en el \napeadero de Andoaín Centro, situado en el P.K. 608,155 de la línea 100 Madrid-Hendaya, el \n30.07.2008; se aprueba como definitivo el informe particular presentado por el técnico \ninvestigador con la siguiente recomendación: \n- A la vista de las actuaciones previstas, no se establecen recomendaciones. \n \n \nMadrid, 28 de noviembre de 2008",
+   "pagina": 8,
+   "cita": "6. RECOMENDACIONES A la vista de las actuaciones previstas, no se establecen recomendaciones. Madrid, 28 de noviembre de 2008. ## Página 9 Investigación del accidente nº 0031/2008 ocurrido el 30.07.",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe Operadora"
+   ],
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-07-30",
+   "pagina": 2,
+   "cita": "El día 30 de julio de 2008, a las 07:15 horas, el tren de mercancías 91608 (locomotora 289105 y",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "07:15",
+   "pagina": 2,
+   "cita": "El día 30 de julio de 2008, a las 07:15 horas, el tren de mercancías 91608 (locomotora 289105 y",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Apeadero de Andoaín Centro",
+    "pk": "608+155",
+    "linea": "100 Madrid-Hendaya",
+    "provincia": "Guipúzcoa",
+    "descripcion_lugar": "Paso enmaderado entre andenes del apeadero, a la salida de un túnel, en transición de curva a izquierda (sentido de marcha del tren), con rampa del 0,75 ‰. Trayecto Villabona-Andoaín."
+   },
+   "pagina": 2,
+   "cita": "Apeadero de Andoaín Centro.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "línea 100 Madrid-Hendaya",
+   "pagina": 2,
+   "cita": "situado en el p.k. 608+155 de la línea 100 Madrid-Hendaya, cuando cruzaba desde el andén de vía II",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 289105",
+    "averia": null,
+    "mantenimiento": "Funcionamiento correcto. Memoria estática registra tres usos de la bocina. Velocidad en el momento del arrollamiento: 93 km/h."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 30 de julio de 2008, a las 07:15 horas, el tren de mercancías 91608, compuesto por la locomotora 289105 y 20 vehículos con 996 Tm remolcadas, arrolló a una persona en el paso enmaderado entre andenes del apeadero de Andoaín Centro, situado en el p.k. 608+155 de la línea 100 Madrid-Hendaya. La víctima, un varón de 40 años, cruzaba desde el andén de vía II hacia el andén de vía I (de izquierda a derecha en el sentido de avance del tren) para dirigirse a la taquilla, situada en el andén opuesto. Caminaba con auriculares puestos y, según la declaración del factor de taquilla, tenía una discapacidad mental y era usuaria habitual del apeadero.\n\nEl maquinista, al salir del túnel, vio a la persona andando por el andén, le pitó en tres ocasiones y, al no recibir respuesta, cruzó sin mirar. El maquinista activó el freno de urgencia y comunicó al Puesto de Mando de Miranda de Ebro. La velocidad en el momento del arrollamiento era de 93 km/h, inferior a la máxima permitida de 95 km/h. Como consecuencia del arrollamiento, la persona resultó cadáver.\n\nNo se produjeron daños en material rodante, infraestructura ni medio ambiente. Se registraron retrasos de 24 minutos en trenes de viajeros y 536 minutos en trenes de mercancías, así como la supresión de 6 trenes de viajeros. El 30 de abril de 2007 se había producido un arrollamiento similar en el mismo punto, resultando una joven herida grave.",
+   "pagina": 2,
+   "cita": "1. RESUMEN El día 30 de julio de 2008, a las 07:15 horas, el tren de mercancías 91608 (locomotora 289105 y 20 vehículos con 996 Tm remolcadas) arrolla a una persona en el apeadero de Andoaín Centro, situado en el p.k.",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Apeadero de Andoaín Centro",
+    "pk": "608+155",
+    "linea": "100 Madrid-Hendaya",
+    "provincia": "Guipúzcoa",
+    "descripcion_lugar": "Paso enmaderado entre andenes del apeadero, a la salida de un túnel, en transición de curva a izquierda (sentido de marcha del tren), con rampa del 0,75 ‰. Trayecto Villabona-Andoaín."
+   },
+   "pagina": 2,
+   "cita": "Apeadero de Andoaín Centro.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Retrasos de 24 minutos en trenes de viajeros y 536 minutos en trenes de mercancías; supresión de 6 trenes de viajeros."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Si bien no se trata de medidas adoptadas como consecuencia de la investigación del accidente, es \nimportante resaltar los siguientes aspectos: \n- \nPor acuerdo entre el Ministerio de Fomento y el Ayuntamiento de Andoaín y en convenio \nfirmado entre el Presidente de Adif y el Alcalde de Andoaín, está previsto realizar un \npaso inferior en dicho apeadero con ascensores y escaleras que conecte las dos partes \nde la población y a su vez dé acceso a los andenes para ser un paso inferior entre \nambos. El proyecto está siendo redactado por la empresa INECO-TIFSA. \n- \nPor otra parte, se encuentra redactado por Adif el proyecto de cerramiento urbano en la \ntotalidad del entorno de dicho apeadero.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 91608 (matrícula 9704537)",
+     "implicacion": "Vio a la persona al salir del túnel, pitó en tres ocasiones, activó el freno de urgencia y comunicó al Puesto de Mando. Su comportamiento fue correcto. Alcohol 0,00 mg/1000 ml. Jornada de conducción ese día: 2 h 15 min; 24 h anteriores: 3 h; 48 h anteriores: 5 h."
+    },
+    {
+     "rol": "Factor de taquilla (empleado de UNI2)",
+     "implicacion": "Testigo del suceso. Declaró conocer a la víctima como viajero habitual con deficiencia mental y siempre con cascos de música. Vio llegar al mercancías pitando insistentemente y oyó un golpe fuerte."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "91608",
+     "tipo": "mercancías",
+     "operador": "Renfe Operadora (Operador de Mercancías)",
+     "danos": "No se produjeron daños en el material rodante."
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 30 de julio de 2008, a las 07:15 horas, el tren de mercancías 91608 (locomotora 289105 y",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 289105",
+    "averia": null,
+    "mantenimiento": "Funcionamiento correcto. Memoria estática registra tres usos de la bocina. Velocidad en el momento del arrollamiento: 93 km/h."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Buena y en buen estado. En los andenes, texto en euskera y castellano: 'CUIDADO AL CRUZAR. TRENES CIRCULANDO EN AMBOS SENTIDOS'. Visibilidad limitada por curva y trenes parados, especialmente desde el lado Madrid.",
+    "tipo_via": "Paso enmaderado entre andenes, firme en buen estado, situado aproximadamente a mitad de andén.",
+    "velocidad_maxima": "95 km/h (cuadro de velocidades máximas para ese tipo de tren en el trayecto)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado (B.A.B. con C.T.C). Tramo a la salida de un túnel, en transición de curva a izquierda, rampa 0,75 ‰. Radiotelefonía modalidad A. Tráfico catalogado como ALTO: 842 circulaciones/semana (LD 124, MD 42, Cercanías 492, Mercancías 178, Servicio 6). Al ser B.A.B., trenes sin paradas comerciales pueden circular por vía contraria a su sentido natural."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Buena y en buen estado. En los andenes, texto en euskera y castellano: 'CUIDADO AL CRUZAR. TRENES CIRCULANDO EN AMBOS SENTIDOS'. Visibilidad limitada por curva y trenes parados, especialmente desde el lado Madrid.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Retrasos de 24 minutos en trenes de viajeros y 536 minutos en trenes de mercancías; supresión de 6 trenes de viajeros."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Retrasos de 24 minutos en trenes de viajeros y 536 minutos en trenes de mercancías; supresión de 6 trenes de viajeros."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe final IF-300708-281108-CIAF Pág. 1 de 10 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0031/2008 OCURRIDO EL D",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Retrasos de 24 minutos en trenes de viajeros y 536 minutos en trenes de mercancías; supresión de 6 trenes de viajeros."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 289105",
+    "averia": null,
+    "mantenimiento": "Funcionamiento correcto. Memoria estática registra tres usos de la bocina. Velocidad en el momento del arrollamiento: 93 km/h."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Buena y en buen estado. En los andenes, texto en euskera y castellano: 'CUIDADO AL CRUZAR. TRENES CIRCULANDO EN AMBOS SENTIDOS'. Visibilidad limitada por curva y trenes parados, especialmente desde el lado Madrid.",
+    "tipo_via": "Paso enmaderado entre andenes, firme en buen estado, situado aproximadamente a mitad de andén.",
+    "velocidad_maxima": "95 km/h (cuadro de velocidades máximas para ese tipo de tren en el trayecto)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado (B.A.B. con C.T.C). Tramo a la salida de un túnel, en transición de curva a izquierda, rampa 0,75 ‰. Radiotelefonía modalidad A. Tráfico catalogado como ALTO: 842 circulaciones/semana (LD 124, MD 42, Cercanías 492, Mercancías 178, Servicio 6). Al ser B.A.B., trenes sin paradas comerciales pueden circular por vía contraria a su sentido natural."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo atmosférico despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Guipúzcoa",
+    "municipio": null,
+    "estacion": "Apeadero de Andoaín Centro"
+   },
+   "pagina": 2,
+   "cita": "Guipúzcoa El tren de mercancías 91608 (locomotora 289105 y 20 vehículos con 996 Tm remolcadas), el día 30 de julio de 2008, arrolla a una persona en el apeadero de Andoaín Centro, situado en el p.k. 608+155 de la líne",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo atmosférico despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Buena y en buen estado. En los andenes, texto en euskera y castellano: 'CUIDADO AL CRUZAR. TRENES CIRCULANDO EN AMBOS SENTIDOS'. Visibilidad limitada por curva y trenes parados, especialmente desde el lado Madrid.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Buena y en buen estado. En los andenes, texto en euskera y castellano: 'CUIDADO AL CRUZAR. TRENES CIRCULANDO EN AMBOS SENTIDOS'. Visibilidad limitada por curva y trenes parados, especialmente desde el lado Madrid.",
+    "tipo_via": "Paso enmaderado entre andenes, firme en buen estado, situado aproximadamente a mitad de andén.",
+    "velocidad_maxima": "95 km/h (cuadro de velocidades máximas para ese tipo de tren en el trayecto)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado (B.A.B. con C.T.C). Tramo a la salida de un túnel, en transición de curva a izquierda, rampa 0,75 ‰. Radiotelefonía modalidad A. Tráfico catalogado como ALTO: 842 circulaciones/semana (LD 124, MD 42, Cercanías 492, Mercancías 178, Servicio 6). Al ser B.A.B., trenes sin paradas comerciales pueden circular por vía contraria a su sentido natural."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 289105",
+    "averia": null,
+    "mantenimiento": "Funcionamiento correcto. Memoria estática registra tres usos de la bocina. Velocidad en el momento del arrollamiento: 93 km/h."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "cruce por paso enmaderado",
+    "auriculares puestos impedían percepción",
+    "discapacidad mental de la víctima",
+    "visibilidad limitada tras túnel"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 30 de julio de 2008, a las 07:15 horas, el tren de mercancías 91608, compuesto por la locomotora 289105 y 20 vehículos con 996 Tm remolcadas, arrolló a una persona en el paso enmaderado entre andenes del apeadero de Andoaín Centro, situado en el p.k. 608+155 de la línea 100 Madrid-Hendaya. La víctima, un varón de 40 años, cruzaba desde el andén de vía II hacia el andén de vía I (de izquierda a derecha en el sentido de avance del tren) para dirigirse a la taquilla, situada en el andén opuesto. Caminaba con auriculares puestos y, según la declaración del factor de taquilla, tenía una discapacidad mental y era usuaria habitual del apeadero.\n\nEl maquinista, al salir del túnel, vio a la persona andando por el andén, le pitó en tres ocasiones y, al no recibir respuesta, cruzó sin mirar. El maquinista activó el freno de urgencia y comunicó al Puesto de Mando de Miranda de Ebro. La velocidad en el momento del arrollamiento era de 93 km/h, inferior a la máxima permitida de 95 km/h. Como consecuencia del arrollamiento, la persona resultó cadáver.\n\nNo se produjeron daños en material rodante, infraestructura ni medio ambiente. Se registraron retrasos de 24 minutos en trenes de viajeros y 536 minutos en trenes de mercancías, así como la supresión de 6 trenes de viajeros. El 30 de abril de 2007 se había producido un arrollamiento similar en el mismo punto, resultando una joven herida grave.",
+   "pagina": 2,
+   "cita": "1. RESUMEN El día 30 de julio de 2008, a las 07:15 horas, el tren de mercancías 91608 (locomotora 289105 y 20 vehículos con 996 Tm remolcadas) arrolla a una persona en el apeadero de Andoaín Centro, situado en el p.k.",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nDe los hechos descritos en apartados anteriores se deduce que: \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasas de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nEl comportamiento del maquinista, haciendo uso del silbato de la locomotora en reiteradas \nocasiones, fue correcto. \nEl tren circulaba a velocidad inferior a la máxima permitida. \nLa persona arrollada era viajera habitual que se desplazaba desde el andén de la vía II al andén de \nla vía I para adquirir su billete. \n La señalización del apeadero se encuentra en buen estado. \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0031/2008 ocurrido el 30.07.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-300708-281108-CIAF \n \n \nPág. 8 de 10\nA efectos de la causalidad del accidente se ha podido comprobar que: \nLa persona arrollada caminaba con unos auriculares puestos, hecho que debió influir en que no \npercibiese la llegada del tren. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en el cruce de la víctima por el paso enmaderado, en el momento en \nque el tren efectuaba su paso por el mismo.  \nSe da la circunstancia de que la víctima, según la declaración del factor de taquilla, tenía una \ndiscapacidad mental, era usuaria habitual del apeadero y siempre llevaba puestos auriculares.",
+   "pagina": 7,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Cruce de la víctima por el paso enmaderado entre andenes en el momento en que el tren efectuaba su paso por el mismo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima caminaba con auriculares puestos, lo que debió influir en que no percibiese la llegada del tren.",
+    "La víctima tenía una discapacidad mental.",
+    "Limitación de visibilidad en el apeadero por la curva y por trenes parados en el lado Madrid.",
+    "Posibilidad de circulación de trenes por vía contraria a su sentido natural al tratarse de bloqueo B.A.B.",
+    "Necesidad de cruzar el paso dos veces para comprar billetes (taquilla en vía I, viajeros de vía II)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Si bien no se trata de medidas adoptadas como consecuencia de la investigación del accidente, es \nimportante resaltar los siguientes aspectos: \n- \nPor acuerdo entre el Ministerio de Fomento y el Ayuntamiento de Andoaín y en convenio \nfirmado entre el Presidente de Adif y el Alcalde de Andoaín, está previsto realizar un \npaso inferior en dicho apeadero con ascensores y escaleras que conecte las dos partes \nde la población y a su vez dé acceso a los andenes para ser un paso inferior entre \nambos. El proyecto está siendo redactado por la empresa INECO-TIFSA. \n- \nPor otra parte, se encuentra redactado por Adif el proyecto de cerramiento urbano en la \ntotalidad del entorno de dicho apeadero.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Si bien no se trata de medidas adoptadas como consecuencia de la investigación del accidente, es \nimportante resaltar los siguientes aspectos: \n- \nPor acuerdo entre el Ministerio de Fomento y el Ayuntamiento de Andoaín y en convenio \nfirmado entre el Presidente de Adif y el Alcalde de Andoaín, está previsto realizar un \npaso inferior en dicho apeadero con ascensores y escaleras que conecte las dos partes \nde la población y a su vez dé acceso a los andenes para ser un paso inferior entre \nambos. El proyecto está siendo redactado por la empresa INECO-TIFSA. \n- \nPor otra parte, se encuentra redactado por Adif el proyecto de cerramiento urbano en la \ntotalidad del entorno de dicho apeadero.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Si bien no se trata de medidas adoptadas como consecuencia de la investigación del accidente, es \nimportante resaltar los siguientes aspectos: \n- \nPor acuerdo entre el Ministerio de Fomento y el Ayuntamiento de Andoaín y en convenio \nfirmado entre el Presidente de Adif y el Alcalde de Andoaín, está previsto realizar un \npaso inferior en dicho apeadero con ascensores y escaleras que conecte las dos partes \nde la población y a su vez dé acceso a los andenes para ser un paso inferior entre \nambos. El proyecto está siendo redactado por la empresa INECO-TIFSA. \n- \nPor otra parte, se encuentra redactado por Adif el proyecto de cerramiento urbano en la \ntotalidad del entorno de dicho apeadero.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "A la vista de las actuaciones previstas, no se establecen recomendaciones. \n \n \n \nMadrid, 28 de noviembre de 2008. \n \n \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0031/2008 ocurrido el 30.07.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-300708-281108-CIAF \n \n \nPág. 9 de 10\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0031/2008 \nOCURRIDO EL DÍA 30.07.2008 \n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0031/2008 ocurrido el 30.07.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-300708-281108-CIAF \n \n \nPág. 10 de 10\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día \n28 de noviembre de 2008, analizado el expediente nº 0031/2008; del accidente acaecido en el \napeadero de Andoaín Centro, situado en el P.K. 608,155 de la línea 100 Madrid-Hendaya, el \n30.07.2008; se aprueba como definitivo el informe particular presentado por el técnico \ninvestigador con la siguiente recomendación: \n- A la vista de las actuaciones previstas, no se establecen recomendaciones. \n \n \nMadrid, 28 de noviembre de 2008",
+   "pagina": 8,
+   "cita": "6. RECOMENDACIONES A la vista de las actuaciones previstas, no se establecen recomendaciones. Madrid, 28 de noviembre de 2008. ## Página 9 Investigación del accidente nº 0031/2008 ocurrido el 30.07.",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "07:15",
+     "evento": "Arrollamiento de la persona por el tren de mercancías 91608 en el paso enmaderado del apeadero de Andoaín Centro."
+    },
+    {
+     "hora": "07:15",
+     "evento": "El maquinista activa el freno de urgencia y comunica al Puesto de Mando de Miranda de Ebro."
+    },
+    {
+     "hora": null,
+     "evento": "El Puesto de Mando cursa aviso a Seguridad Corporativa y Protección Civil de Adif, Gerencias Territoriales de Seguridad en la Circulación Norte de Adif y Renfe Operadora, Operador de Mercancías, Jefatura Técnica de Operaciones de Irún y medios sanitarios."
+    },
+    {
+     "hora": null,
+     "evento": "Llegada de la Ertzaintza y Policía Municipal al lugar."
+    },
+    {
+     "hora": "11:15",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el fallecimiento a la CIAF mediante mensaje de telefonía móvil."
+    },
+    {
+     "hora": "2008-08-29",
+     "evento": "Entrega del informe particular del Responsable de Seguridad de Renfe Operadora."
+    },
+    {
+     "hora": "2008-10-08",
+     "evento": "Entrega del informe particular del Gerente Territorial de Seguridad en la Circulación zona Norte de Adif."
+    },
+    {
+     "hora": "2008-10-23",
+     "evento": "Visita de inspección al apeadero del accidente."
+    },
+    {
+     "hora": "2008-11-28",
+     "evento": "Pleno de la CIAF aprueba el informe final como definitivo."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0031/2008",
+ "expediente": "0031/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de una persona por un tren de mercancías en el apeadero de Andoaín Centro, Guipúzcoa",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-300708-281108-CIAF_Andoaín, Guipúzcoa.md"
+}

@@ -1,0 +1,957 @@
+{
+ "id": "ID_090807_260208",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID_090807_260208.pdf",
+ "pdf": "pdfs/ES/ID_090807_260208.pdf",
+ "md5_pdf": "e89121ea6ac13fda4de15c9f3e685a3e",
+ "paginas_md": 8,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 11,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0042/2007",
+   "pagina": 1,
+   "cita": "Nº 0042/2007 OCURRIDO EL DÍA 09.08.2007 ## Página 2 A MINISTERIO DE FOMENTO SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y PLANIFICACIÓN SECRETARÍA GENERAL DE INFRAESTRUCTURAS Investigación del accidente",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 9 de agosto de 2007, el tren de Cercanías 22236, formado por el autopropulsado 440241, arrolló a una persona en el paso a nivel clase C del pk 19/338, junto al Apeadero de Ciaño, en Langreo (Asturias). La víctima cruzó por el paso peatonal con las semibarreras bajadas y las señales acústicas y luminosas funcionando. El maquinista usó el silbato y el freno de urgencia, pero el arrollamiento fue inevitable y la persona falleció. No hubo daños materiales, aunque se produjeron retrasos en varios trenes y la supresión de uno.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-08-09",
+    "hora": "20:28",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Apeadero de Ciaño",
+     "pk": "19/338",
+     "linea": "Soto de Rey a El Entrego",
+     "provincia": "Asturias",
+     "descripcion_lugar": "Paso a nivel clase C situado al final del Apeadero de Ciaño, lado El Entrego, entre las estaciones de Sama y El Entrego, en el municipio de Langreo. El camino que cruza la vía es la calle Camino de la Iglesia de San Esteban de Ciaño, en zona urbana, en una recta de 635 metros y en rampa de 7,50‰."
+    }
+   },
+   "pagina": 5,
+   "cita": "Del parte de Incidencias de 9 de agosto de 2007, se extracta la siguiente declaración del",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el tren, en la vía ni en las instalaciones.",
+    "afectacion_servicio": "Retrasos en trenes de Cercanías: 22236, 21 minutos; 22046, 6 minutos; 22051, 6 minutos; 22227, 30 minutos; 22229, 3 minutos; 22230, 15 minutos; 22359, 6 minutos. El tren 22228 fue suprimido. La circulación se restableció en condiciones normales a las 22:05."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión del gálibo de la vía por parte de la víctima, que hizo caso omiso de la señalización del paso a nivel.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El paso a nivel carecía de varias señales de carretera que prescribe la O.M. 2/08/01."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "El paso a nivel urbano estaba incluido en un estudio de supresión de pasos a nivel de muy difícil eliminación, dentro del estudio de viabilidad de la integración ferroviaria de RENFE y FEVE en la comarca del Nalón."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Acelerar los trámites para hacer efectiva cuanto antes la eliminación del paso a nivel, dado que se encuentra en marcha el estudio de supresión de este paso a nivel dentro del estudio especial para la supresión de pasos a nivel de muy difícil eliminación y difícil supresión en zona urbana.",
+     "destinatario": null
+    },
+    {
+     "texto": "Comunicar al Ayuntamiento de Langreo la obligatoriedad de señalizar el paso a nivel de acuerdo a la O.M. 2/08/01.",
+     "destinatario": "Ayuntamiento de Langreo"
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril y en el correcto uso de las zonas de paso.",
+     "destinatario": "Ciudadanía"
+    }
+   ],
+   "pagina": 7,
+   "cita": "dicho paso. - Comunicar al Ayuntamiento de Langreo la obligatoriedad de señalizar el paso a nivel de acuerdo a la O.M. 2/08/01. - Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía pa",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Acelerar los trámites para hacer efectiva cuanto antes la eliminación del paso a nivel, dado que se encuentra en marcha el estudio de supresión de este paso a nivel dentro del estudio especial para la supresión de pasos a nivel de muy difícil eliminación y difícil supresión en zona urbana.",
+     "destinatario": null
+    },
+    {
+     "texto": "Comunicar al Ayuntamiento de Langreo la obligatoriedad de señalizar el paso a nivel de acuerdo a la O.M. 2/08/01.",
+     "destinatario": "Ayuntamiento de Langreo"
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril y en el correcto uso de las zonas de paso.",
+     "destinatario": "Ciudadanía"
+    }
+   ],
+   "pagina": 7,
+   "cita": "dicho paso. - Comunicar al Ayuntamiento de Langreo la obligatoriedad de señalizar el paso a nivel de acuerdo a la O.M. 2/08/01. - Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía pa",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de persona",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe Operadora"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó por mensaje de correo electrónico que se había producido el arrollamiento de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-08-09",
+   "pagina": 5,
+   "cita": "Del parte de Incidencias de 9 de agosto de 2007, se extracta la siguiente declaración del",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "20:28",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:hora"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Apeadero de Ciaño",
+    "pk": "19/338",
+    "linea": "Soto de Rey a El Entrego",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Paso a nivel clase C situado al final del Apeadero de Ciaño, lado El Entrego, entre las estaciones de Sama y El Entrego, en el municipio de Langreo. El camino que cruza la vía es la calle Camino de la Iglesia de San Esteban de Ciaño, en zona urbana, en una recta de 635 metros y en rampa de 7,50‰."
+   },
+   "pagina": 2,
+   "cita": "Lugar: Paso a nivel clase C del Apeadero de Ciaño entre las Estaciones de Sama y El",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Soto de Rey a El Entrego",
+   "pagina": 2,
+   "cita": "en la línea 140- Bif. Tudela - Veguín a El Entrego (Soto de Rey a El Entrego) perteneciente a",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Autopropulsado 440241",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de Cercanías 22236, formado por el autopropulsado 440241 y con recorrido Oviedo–El Entrego, circulaba por la línea Soto de Rey a El Entrego. A las 20:28 detuvo su marcha en el km 19/440 tras haber arrollado a una persona en el paso a nivel clase C del km 19/338, situado al final del Apeadero de Ciaño, en el trayecto entre Sama y El Entrego.\n\nLa persona circulaba por el paso peatonal del paso a nivel de izquierda a derecha, en el sentido de la línea y de la marcha del tren, con las semibarreras bajadas y las señales acústicas y luminosas para carretera y peatones funcionando correctamente. El maquinista observó a una persona que intentaba cruzar, hizo uso insistente del silbato y aplicó el freno de urgencia, sin poder evitar el arrollamiento. El tren quedó detenido unos 50 metros más adelante del paso a nivel.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Apeadero de Ciaño",
+    "pk": "19/338",
+    "linea": "Soto de Rey a El Entrego",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Paso a nivel clase C situado al final del Apeadero de Ciaño, lado El Entrego, entre las estaciones de Sama y El Entrego, en el municipio de Langreo. El camino que cruza la vía es la calle Camino de la Iglesia de San Esteban de Ciaño, en zona urbana, en una recta de 635 metros y en rampa de 7,50‰."
+   },
+   "pagina": 2,
+   "cita": "Lugar: Paso a nivel clase C del Apeadero de Ciaño entre las Estaciones de Sama y El",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el tren, en la vía ni en las instalaciones.",
+    "afectacion_servicio": "Retrasos en trenes de Cercanías: 22236, 21 minutos; 22046, 6 minutos; 22051, 6 minutos; 22227, 30 minutos; 22229, 3 minutos; 22230, 15 minutos; 22359, 6 minutos. El tren 22228 fue suprimido. La circulación se restableció en condiciones normales a las 22:05."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal de Cercanías – Renfe Operadora",
+     "implicacion": "Conducía el tren 22236. Matrícula 8.907.263. Jornada efectiva el día del accidente: 3 horas; jornada 24 horas anteriores: 6 horas; jornada 48 horas anteriores: descanso. Usó el silbato y aplicó el freno de urgencia. Prueba de alcohol en aire espirado negativa: 0,00 mg/1000 ml."
+    },
+    {
+     "rol": "Vigilante de Seguridad, Securitas – Delegación de Asturias",
+     "implicacion": "Testigo de los hechos. Observó la actuación del maquinista y quedó custodiando el cuerpo hasta la llegada de la Policía Nacional."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El Maquinista principal de Cercanías – Renfe Operadora.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "22236",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Sin daños en el tren; retraso de 21 minutos."
+    },
+    {
+     "numero": "22046",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Retraso de 6 minutos."
+    },
+    {
+     "numero": "22051",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Retraso de 6 minutos."
+    },
+    {
+     "numero": "22227",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Retraso de 30 minutos."
+    },
+    {
+     "numero": "22228",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Tren suprimido."
+    },
+    {
+     "numero": "22229",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Retraso de 3 minutos."
+    },
+    {
+     "numero": "22230",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Retraso de 15 minutos."
+    },
+    {
+     "numero": "22359",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Retraso de 6 minutos."
+    }
+   ],
+   "pagina": 2,
+   "cita": "de Ciaño, entre las estaciones de Sama y El Entrego , por tren de viajeros de Cercanías 22236",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Autopropulsado 440241",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel protegido por semibarreras automáticas y señalización acústica y luminosa a la carretera y a los peatones. Dispone de dos pasos peatonales con señales luminosas peatonales que lucen en rojo al detectarse la aproximación de los trenes. Tiene señales reglamentarias de “Silbar” en la vía a 250 y 500 metros por ambos lados, pero carece de varias de las otras señales de carretera prescritas por la O.M. 2/08/01.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "75 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Recta de 635 metros, rampa de 7,50‰, zona urbana. No se produjeron daños en la vía ni en las instalaciones.",
+    "otro": "Bloqueo Automático de Vía Única con control de tráfico centralizado. Visibilidad por el lado izquierdo de la vía, dirección Soto de Rey, de 500 metros, medida a 2 metros del carril más próximo desde el paso peatonal situado al principio del paso a nivel."
+   },
+   "pagina": 5,
+   "cita": "Se trata de un Paso a Nivel protegido por semibarreras automáticas y señalización acústica",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso a nivel protegido por semibarreras automáticas y señalización acústica y luminosa a la carretera y a los peatones. Dispone de dos pasos peatonales con señales luminosas peatonales que lucen en rojo al detectarse la aproximación de los trenes. Tiene señales reglamentarias de “Silbar” en la vía a 250 y 500 metros por ambos lados, pero carece de varias de las otras señales de carretera prescritas por la O.M. 2/08/01.",
+   "pagina": 5,
+   "cita": "Se trata de un Paso a Nivel protegido por semibarreras automáticas y señalización acústica",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el tren, en la vía ni en las instalaciones.",
+    "afectacion_servicio": "Retrasos en trenes de Cercanías: 22236, 21 minutos; 22046, 6 minutos; 22051, 6 minutos; 22227, 30 minutos; 22229, 3 minutos; 22230, 15 minutos; 22359, 6 minutos. El tren 22228 fue suprimido. La circulación se restableció en condiciones normales a las 22:05."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el tren, en la vía ni en las instalaciones.",
+    "afectacion_servicio": "Retrasos en trenes de Cercanías: 22236, 21 minutos; 22046, 6 minutos; 22051, 6 minutos; 22227, 30 minutos; 22229, 3 minutos; 22230, 15 minutos; 22359, 6 minutos. El tren 22228 fue suprimido. La circulación se restableció en condiciones normales a las 22:05."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el tren, en la vía ni en las instalaciones.",
+    "afectacion_servicio": "Retrasos en trenes de Cercanías: 22236, 21 minutos; 22046, 6 minutos; 22051, 6 minutos; 22227, 30 minutos; 22229, 3 minutos; 22230, 15 minutos; 22359, 6 minutos. El tren 22228 fue suprimido. La circulación se restableció en condiciones normales a las 22:05."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Autopropulsado 440241",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel protegido por semibarreras automáticas y señalización acústica y luminosa a la carretera y a los peatones. Dispone de dos pasos peatonales con señales luminosas peatonales que lucen en rojo al detectarse la aproximación de los trenes. Tiene señales reglamentarias de “Silbar” en la vía a 250 y 500 metros por ambos lados, pero carece de varias de las otras señales de carretera prescritas por la O.M. 2/08/01.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "75 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Recta de 635 metros, rampa de 7,50‰, zona urbana. No se produjeron daños en la vía ni en las instalaciones.",
+    "otro": "Bloqueo Automático de Vía Única con control de tráfico centralizado. Visibilidad por el lado izquierdo de la vía, dirección Soto de Rey, de 500 metros, medida a 2 metros del carril más próximo desde el paso peatonal situado al principio del paso a nivel."
+   },
+   "pagina": 5,
+   "cita": "Se trata de un Paso a Nivel protegido por semibarreras automáticas y señalización acústica",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo despejado y visibilidad atmosférica buena.",
+   "pagina": 6,
+   "cita": "En el momento del accidente era de día tiempo despejado y visibilidad atmosférica",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Asturias",
+    "municipio": null,
+    "estacion": "Apeadero de Ciaño"
+   },
+   "pagina": 2,
+   "cita": "la  provincia de Asturias dentro de la Red Ferroviaria de Interés General administrada por Adif.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo despejado y visibilidad atmosférica buena.",
+   "pagina": 6,
+   "cita": "En el momento del accidente era de día tiempo despejado y visibilidad atmosférica",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso a nivel protegido por semibarreras automáticas y señalización acústica y luminosa a la carretera y a los peatones. Dispone de dos pasos peatonales con señales luminosas peatonales que lucen en rojo al detectarse la aproximación de los trenes. Tiene señales reglamentarias de “Silbar” en la vía a 250 y 500 metros por ambos lados, pero carece de varias de las otras señales de carretera prescritas por la O.M. 2/08/01.",
+   "pagina": 5,
+   "cita": "Se trata de un Paso a Nivel protegido por semibarreras automáticas y señalización acústica",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel protegido por semibarreras automáticas y señalización acústica y luminosa a la carretera y a los peatones. Dispone de dos pasos peatonales con señales luminosas peatonales que lucen en rojo al detectarse la aproximación de los trenes. Tiene señales reglamentarias de “Silbar” en la vía a 250 y 500 metros por ambos lados, pero carece de varias de las otras señales de carretera prescritas por la O.M. 2/08/01.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "75 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Recta de 635 metros, rampa de 7,50‰, zona urbana. No se produjeron daños en la vía ni en las instalaciones.",
+    "otro": "Bloqueo Automático de Vía Única con control de tráfico centralizado. Visibilidad por el lado izquierdo de la vía, dirección Soto de Rey, de 500 metros, medida a 2 metros del carril más próximo desde el paso peatonal situado al principio del paso a nivel."
+   },
+   "pagina": 5,
+   "cita": "Se trata de un Paso a Nivel protegido por semibarreras automáticas y señalización acústica",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Autopropulsado 440241",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "peatón cruzó con semibarreras bajadas",
+    "hizo caso omiso de señales",
+    "invadió gálibo de vía",
+    "no respetó señales acústicas"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(Adif), comunicó por mensaje de correo electrónico que se había producido el arrollamiento de \nuna persona resultando esta fallecida, en el Paso a Nivel Clase C del P.K. 19/338 del Apeadero \nde Ciaño, entre las estaciones de Sama y El Entrego , por tren de viajeros de Cercanías 22236 \nen la línea 140- Bif. Tudela - Veguín a El Entrego (Soto de Rey a El Entrego) perteneciente a \nla  provincia de Asturias dentro de la Red Ferroviaria de Interés General administrada por Adif. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles de acuerdo \ncon el citado artículo. Investigación que tiene como finalidad determinar sus causas y formular \nrecomendaciones para reducir los riesgos en el transporte ferroviario, de acuerdo con el \narticulo 112 del Reglamento: transposición parcial de la Directiva 2004/49/CE del Parlamento \nEuropeo que en su Articulo 19 circunscribe la investigación a la mejora de la seguridad y en \nningún caso a la determinación de culpas o responsabilidades. \nDe conformidad con el artículo 112 del mencionado Reglamento, el 1 de julio de 2007 la \nDirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios para el periodo comprendido entre el 01.07.07 al 30.08.07 compuesto por las \nsiguientes personas para este accidente: \n \nTécnico responsable de la investigación del accidente: un funcionario adscrito a la \nDirección General de Ferrocarriles, que suscribe este informe. \n \nResponsable de seguridad de Adif en la zona de Oviedo: entregó su informe particular del \naccidente el 19.10.07. \n \nResponsable de seguridad de Renfe: entregó su informe particular del accidente el \n14.09.07. \nLa empresa pública INECO S.A. en el marco del convenio de colaboración suscrito con la \nDirección General de Ferrocarriles el 26.09.06 ha realizado trabajos de apoyo en la \ninvestigación de este accidente al Técnico responsable de la misma.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), comunicó por mensaje de correo electrónico que se había producido el arrollamiento de una persona re",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de Cercanías 22236, formado por el autopropulsado 440241 y con recorrido Oviedo–El Entrego, circulaba por la línea Soto de Rey a El Entrego. A las 20:28 detuvo su marcha en el km 19/440 tras haber arrollado a una persona en el paso a nivel clase C del km 19/338, situado al final del Apeadero de Ciaño, en el trayecto entre Sama y El Entrego.\n\nLa persona circulaba por el paso peatonal del paso a nivel de izquierda a derecha, en el sentido de la línea y de la marcha del tren, con las semibarreras bajadas y las señales acústicas y luminosas para carretera y peatones funcionando correctamente. El maquinista observó a una persona que intentaba cruzar, hizo uso insistente del silbato y aplicó el freno de urgencia, sin poder evitar el arrollamiento. El tren quedó detenido unos 50 metros más adelante del paso a nivel.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR EL OPERADOR FERROVIARIO. \n\n## Página 7\n\n \n \n \nA \nMINISTERIO DE \nFOMENTO \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nInvestigación del accidente \nnº 42/2007 ocurrido el 09.08.2007 \nInforme  definitivo \n \nDIRECCION GENERAL DE \nFERROCARRILES \nID-090807-260208 \n \n \nPág. 7 de 8 \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por ADIF concluye “Se estima imprudencia de la peatón al hacer caso omiso \nde las señales acústicas que realizaba el Maquinista del tren, de los sistemas de cierre y aviso \ndel Paso a Nivel, irrumpiendo en la vía en el momento de llegar Tren 22236, lo que produjo su \narrollamiento”.  \nEl elaborado por RENFE establece que “El accidente debe atribuirse a la imprudencia de la \nvíctima por invadir el gálibo de la vía en el momento de la llegada del tren de viajeros de \nCercanías 22236, haciendo caso omiso de las señales del Paso a Nivel, siendo inevitable el \narrollamiento a pesar de la actuación del Maquinista consistente en el reiterado aviso acústico \nmediante el silbato del automotor y la aplicación urgente del freno de emergencia…”.  \nPor tanto, ambas conclusiones son coincidentes entre sí en cuanto a la causa del accidente.",
+   "pagina": 6,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión del gálibo de la vía por parte de la víctima, que hizo caso omiso de la señalización del paso a nivel.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El paso a nivel carecía de varias señales de carretera que prescribe la O.M. 2/08/01."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "A la vista de la investigación realizada, se estima que el accidente tuvo su origen en la \ninvasión del galibo de la vía por parte de la víctima, que hizo caso omiso de la señalización del \npaso a nivel.",
+   "pagina": 7,
+   "cita": "6. CONCLUSIONES A la vista de la investigación realizada, se estima que el accidente tuvo su origen en la invasión del galibo de la vía por parte de la víctima, que hizo caso omiso de la señalización del paso a nivel.",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "A la vista de la investigación realizada, se estima que el accidente tuvo su origen en la \ninvasión del galibo de la vía por parte de la víctima, que hizo caso omiso de la señalización del \npaso a nivel.",
+   "pagina": 7,
+   "cita": "6. CONCLUSIONES A la vista de la investigación realizada, se estima que el accidente tuvo su origen en la invasión del galibo de la vía por parte de la víctima, que hizo caso omiso de la señalización del paso a nivel.",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Acelerar los trámites para hacer efectiva cuanto antes la eliminación del paso a nivel, dado que se encuentra en marcha el estudio de supresión de este paso a nivel dentro del estudio especial para la supresión de pasos a nivel de muy difícil eliminación y difícil supresión en zona urbana.",
+     "destinatario": null
+    },
+    {
+     "texto": "Comunicar al Ayuntamiento de Langreo la obligatoriedad de señalizar el paso a nivel de acuerdo a la O.M. 2/08/01.",
+     "destinatario": "Ayuntamiento de Langreo"
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril y en el correcto uso de las zonas de paso.",
+     "destinatario": "Ciudadanía"
+    }
+   ],
+   "pagina": 7,
+   "cita": "dicho paso. - Comunicar al Ayuntamiento de Langreo la obligatoriedad de señalizar el paso a nivel de acuerdo a la O.M. 2/08/01. - Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía pa",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "20:27",
+     "evento": "El vigilante de seguridad observa, desde el interior del tren, que el maquinista avisa mediante señales acústicas más de lo normal y acciona el freno de emergencia antes de la estación de Ciaño."
+    },
+    {
+     "hora": "20:28",
+     "evento": "El tren de Cercanías 22236 detiene su marcha en el km 19/440 tras arrollar a una persona en el paso a nivel del km 19/338."
+    },
+    {
+     "hora": "20:37",
+     "evento": "Efectivos del SAMUR certifican el fallecimiento de la persona arrollada."
+    },
+    {
+     "hora": "20:49",
+     "evento": "Agentes de la Policía Nacional permiten reanudar la marcha del tren y el Puesto de Mando de Oviedo autoriza reanudar la marcha del tren 22236."
+    },
+    {
+     "hora": "22:05",
+     "evento": "Se procede al levantamiento del cadáver y se restablece la circulación en condiciones normales."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0042/2007",
+ "expediente": "0042/2007",
+ "anio": 2007,
+ "titulo": "Arrollamiento de peatón en paso a nivel de Ciaño, Langreo (Asturias)",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID_090807_260208.md"
+}

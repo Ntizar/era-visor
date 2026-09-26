@@ -1,0 +1,1133 @@
+{
+ "id": "ES 04.11.2016 180718-161104-IF-SN_CIAF_HOSPITALET DE LLOBREGAT ",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/comodin/recursos/180718-161104-if-sn_ciaf.pdf",
+ "pdf": "pdfs/ES/ES 04.11.2016 180718-161104-IF-SN_CIAF_HOSPITALET DE LLOBREGAT .pdf",
+ "md5_pdf": "c98a5f358ec391775c1ab226ae0cc8d2",
+ "paginas_md": 66,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 119,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 7,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "51/2016 - 1",
+     "Recomendación": "Actualizar y unificar las Normas de Explotación y Seguridad de los Enclavamientos y Bloqueos eléctricos y electrónicos, teniendo en cuenta las nuevas funcionalidades de explotación y las incidencias detectadas en los sistemas actuales"
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "51/2016 - 2",
+     "Recomendación": "Revisar la funcionalidad de los enclavamientos electrónicos instalados de tecnología similar al de L’ Hospitalet de Llobregat, en particular la Disolución Artificial de Itinerarios (DAI)."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "51/2016 - 3",
+     "Recomendación": "En la formación impartida a los responsables de circulación, incidir en la importancia de efectuar adecuadamente (según reglamentación) las acciones relacionadas con el establecimiento y disolución de los itinerarios."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "RENFE OPERADORA",
+     "Número": "51/2016 - 4",
+     "Recomendación": "En la formación impartida al personal de conducción, debe insistirse en la vital importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, resaltando que las señales de retroceso pueden ordenar parada. Asimismo deben recalcarse los riesgos derivados del uso inadecuado de la velocidad prefijada y de la incorrecta sintonía con la banda del sistema de radiotelefonía Tren – Tierra."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 66,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "51/2016 - 1",
+     "Recomendación": "Actualizar y unificar las Normas de Explotación y Seguridad de los Enclavamientos y Bloqueos eléctricos y electrónicos, teniendo en cuenta las nuevas funcionalidades de explotación y las incidencias detectadas en los sistemas actuales"
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "51/2016 - 2",
+     "Recomendación": "Revisar la funcionalidad de los enclavamientos electrónicos instalados, de tecnología similar al de L’ Hospitalet de Llobregat, en particular la Disolución Artificial de Itinerarios (DAI)."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "51/2016 - 3",
+     "Recomendación": "En la formación impartida a los responsables de circulación, incidir en la importancia de efectuar adecuadamente (según reglamentación) las acciones relacionadas con el establecimiento y disolución de los itinerarios."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "RENFE OPERADORA",
+     "Número": "51/2016 - 4",
+     "Recomendación": "En la formación impartida al personal de conducción, debe insistirse en la vital importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, resaltando que las señales de retroceso pueden ordenar parada. Asimismo deben recalcarse los riesgos derivados del uso inadecuado de la velocidad prefijada y de la incorrecta sintonía con la banda del sistema de radiotelefonía Tren – Tierra."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0051/2016",
+   "pagina": 1,
+   "cita": "nº 0051/2016 ocurrido el 04.11.2016",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 4 de noviembre de 2016 a las 21:36 horas, el tren de cercanías 25752 rebasó indebidamente la señal de entrada E1 en indicación de parada en la estación de L'Hospitalet de Llobregat (Barcelona), tras percibir un único destello blanco de duración inferior a un segundo provocado por un comportamiento incorrecto del enclavamiento electrónico Ebilock 950. El tren entró en la estación sin itinerario establecido, rebasó la señal de retroceso R1 y colisionó lateralmente contra el tercer coche del tren 25779, que había salido de vía 3 con itinerario establecido por orden del jefe del CTC. No se produjeron víctimas mortales ni heridos, aunque ambos trenes sufrieron descarrilamientos parciales y daños materiales por 47.654,70 €. La interrupción del servicio afectó a las líneas R1, R3 y R4 de Cercanías durante 5 horas y 51 minutos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2016-11-04",
+    "hora": null,
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "L'Hospitalet de Llobregat",
+     "pk": "95+106",
+     "linea": "220 Lleida Pirineus – L'Hospitalet de Llobregat",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Estación telemandada desde el CTC de Barcelona, en tramo de vía doble electrificada con Bloqueo Automático Banalizado con CTC (BAB con CTC). La colisión se produjo en la travesía T47 (pk 96+633). Señal E1 de entrada en pk 096+295, señal R1 de retroceso en pk 096+031, señal S2/3 de salida en pk 095+522. Perfil longitudinal horizontal desde pk 095+150 a pk 096+800. Dos vías generales (I y II) y diez vías secundarias (2, 3, 11, 12, 13, 14, 15, 16, 17, 18)."
+    }
+   },
+   "pagina": 5,
+   "cita": "El accidente tiene lugar el día 4 de noviembre de 2016 a las 21:36 horas, en la estación de L’ Hospitalet",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Descarrilamiento del primer bogie del primer coche del tren 25752 y del bogie entre 2º y 3er coche del tren 25779. Daños en material motor (40.099,07 €: 15.054,39 € UT 465242 + 25.004,39 € UT 464211) e infraestructura (7.555,63 €). Total: 47.654,70 €.",
+    "afectacion_servicio": "Suspensión de la circulación entre Barcelona Sants y L'Hospitalet por ambas vías durante 5 h 51 min (21:39 a 03:30). Afectación a líneas R1, R3 y R4 de Cercanías. Retraso acumulado de 3.116 minutos y supresión de 8 trenes. 17 viajeros evacuados a andenes. Prealerta PROCICAT activada a las 22:14."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Aspecto indebido de la señal de entrada E1 (único destello blanco de duración inferior a un segundo) causado por un funcionamiento incorrecto de la lógica del software del enclavamiento electrónico Ebilock 950, que indujo a error al maquinista del tren 25752 en la percepción de la señal. Fallo humano del maquinista al no mantener la debida atención y no volver a fijarse en el aspecto de la señal.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Actuación precipitada del jefe del CTC: ordenó un itinerario y procedió inmediatamente a su anulación con DAI (5 veces) sin comunicación previa con el maquinista, contraviniendo el Art. 268.3 del RGC",
+    "El jefe del CTC estableció el itinerario de salida S2/3 para el tren 25779 sin observar que el 25752 había rebasado E1 y R1 en parada",
+    "El enclavamiento no reconoció la apertura momentánea de E1, no aplicó diferímetro y permitió la disolución del itinerario con tren ocupando el circuito anterior",
+    "El maquinista del 25752 cambió la radiotelefonía a modalidad C sin autorización del Puesto de Mando (Art. 320.7 RGC), impidiendo la comunicación con el CTC para ordenar parada",
+    "El maquinista del 25752 circuló en velocidad prefijada desde E1, dificultando la observancia de la marcha de maniobras (Art. 141.2 y 218 RGC) e incumpliendo el Aviso SC nº 37",
+    "La aguja A37 permaneció en posición invertida sin realizar protección de flanco a la salida del tren 25779"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Insuficiente verificación y pruebas del diseño del enclavamiento electrónico de L'Hospitalet, basado en el programa de explotación, que no detectó el riesgo potencial existente",
+    "Las especificaciones de diseño y prueba de los enclavamientos convencionales no electrónicos no contemplaban el comportamiento del tiempo entre órdenes sucesivas",
+    "Las deficiencias detectadas no eran objeto de control y/o inspección en las verificaciones periódicas de ADIF (29.01.2016 y 10.05.2016) ni en las visitas del instalador (28.04.2016 y 02.05.2016)",
+    "Posible existencia de otros enclavamientos de tecnología similar con la misma problemática",
+    "ADIF no adoptó medidas preventivas sobre la actuación del jefe del CTC según PGSC-PG-11; RENFE VIAJEROS no adoptó medidas sobre el maquinista según RV-SGS-PE-SPC-16 y COP nº 1"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Actualizar y unificar las Normas de Explotación y Seguridad de los Enclavamientos y Bloqueos eléctricos y electrónicos, teniendo en cuenta las nuevas funcionalidades de explotación y las incidencias detectadas en los sistemas actuales",
+    "Revisar la funcionalidad de los enclavamientos electrónicos instalados de tecnología similar al de L’ Hospitalet de Llobregat, en particular la Disolución Artificial de Itinerarios (DAI).",
+    "En la formación impartida a los responsables de circulación, incidir en la importancia de efectuar adecuadamente (según reglamentación) las acciones relacionadas con el establecimiento y disolución de los itinerarios.",
+    "En la formación impartida al personal de conducción, debe insistirse en la vital importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, resaltando que las señales de retroceso pueden ordenar parada. Asimismo deben recalcarse los riesgos derivados del uso inadecuado de la velocidad prefijada y de la incorrecta sintonía con la banda del sistema de radiotelefonía Tren – Tierra.",
+    "Actualizar y unificar las Normas de Explotación y Seguridad de los Enclavamientos y Bloqueos eléctricos y electrónicos, teniendo en cuenta las nuevas funcionalidades de explotación y las incidencias detectadas en los sistemas actuales",
+    "Revisar la funcionalidad de los enclavamientos electrónicos instalados, de tecnología similar al de L’ Hospitalet de Llobregat, en particular la Disolución Artificial de Itinerarios (DAI).",
+    "En la formación impartida a los responsables de circulación, incidir en la importancia de efectuar adecuadamente (según reglamentación) las acciones relacionadas con el establecimiento y disolución de los itinerarios.",
+    "En la formación impartida al personal de conducción, debe insistirse en la vital importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, resaltando que las señales de retroceso pueden ordenar parada. Asimismo deben recalcarse los riesgos derivados del uso inadecuado de la velocidad prefijada y de la incorrecta sintonía con la banda del sistema de radiotelefonía Tren – Tierra."
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)"
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Accidente ferroviario",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "RENFE VIAJEROS"
+   ],
+   "pagina": 7,
+   "cita": "FERROVIARIAS (ADIF) 51/2016 - 1 Actualizar y unificar las Normas de Explotación y Seguridad de los Enclavamientos y Bloqueos eléctricos y electrónicos, teniendo en cuenta las nuevas funcionalidades de explotación y",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2016-11-04",
+   "pagina": 5,
+   "cita": "El accidente tiene lugar el día 4 de noviembre de 2016 a las 21:36 horas, en la estación de L’ Hospitalet",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "L'Hospitalet de Llobregat",
+    "pk": "95+106",
+    "linea": "220 Lleida Pirineus – L'Hospitalet de Llobregat",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Estación telemandada desde el CTC de Barcelona, en tramo de vía doble electrificada con Bloqueo Automático Banalizado con CTC (BAB con CTC). La colisión se produjo en la travesía T47 (pk 96+633). Señal E1 de entrada en pk 096+295, señal R1 de retroceso en pk 096+031, señal S2/3 de salida en pk 095+522. Perfil longitudinal horizontal desde pk 095+150 a pk 096+800. Dos vías generales (I y II) y diez vías secundarias (2, 3, 11, 12, 13, 14, 15, 16, 17, 18)."
+   },
+   "pagina": 9,
+   "cita": "El tren 25779 está estacionado en vía 3 de la estación.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "La estación de L’ Hospitalet de Llobregat, se encuentra situada en el pk 095+106 de la línea 220 de Lleida \nPirineus – L’ Hospitalet de Llobregat. \nEl lugar donde se produce el accidente, está situado en un tramo de vía doble electrificada en la que la \ncirculación se realiza al amparo de Bloqueo Automático Banalizado con CTC (BAB con CTC) regulado desde \nel Puesto de Mando de Barcelona. El día del accidente, la estación se encontraba en mando central desde \nel CTC instalado en dicho Puesto de Mando \nEl control de señales y aparatos de vía se realiza mediante un enclavamiento electrónico tipo «Ebilock \n950», de tecnología «Bombardier Transportation». \nEn el sentido par, Barcelona Sants a L´ Hospitalet de Llobregat, la circulación por vía general, vía II, se \nencuentra protegida por las siguientes señales: \nSeñal E’1 avanzada instalada en el pk 096+900, dotada de baliza de pie de señal y baliza previa a 300 m \naproximadamente de la señal.  \nSeñal E1 entrada instalada en el pk 096+295, dotada de baliza de pie de señal y baliza previa a unos 300 \nm de la señal. Es alta de tres focos más foco blanco. \nSeñal R1 de retroceso instalada en el pk 096+031. Es de cuatro focos y de mono bajo.- \nTodas estas señales, están situadas al lado derecho exterior de la vía y con buena visibilidad. \nLa circulación por el itinerario vía 3 – Barcelona Sants, de salida de la estación por vía general, vía I, está \nprotegida por la señal S2/3 instalada en el pk 095+522 dotada de baliza de pie de señal y baliza previa a \n101 m antes de la señal.   \n\n## Página 16\n\n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0051/2016 ocurrido el 04.11.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS",
+   "pagina": 15,
+   "cita": "2.2.3. Descripción de la infraestructura",
+   "origen": "determinista",
+   "regla": "sec:^descripci[óo]n de la infraestructura$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UT 465242 (tren 25752, tipo 120A); UT 464211 y 464210 (tren 25779, tipo 120A). Registradores de seguridad tipo CESIS 3 con ASFA Digital.",
+    "averia": "No se detectó ninguna anomalía en equipos y dispositivos de seguridad de ambos trenes. Funcionaban correctamente y estaban precintados.",
+    "mantenimiento": "Material en servicio según Libro Horario 204 de 17 de octubre de 2016. No se mencionan deficiencias de mantenimiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El accidente se produjo a las 21:36 horas del 4 de noviembre de 2016 en la estación de L'Hospitalet de Llobregat (pk 95+106, línea 220 Lleida Pirineus – L'Hospitalet de Llobregat, Barcelona), en horario nocturno y sin condiciones meteorológicas adversas. El tren de cercanías 25752, procedente de Barcelona Sants/Calella y circulando por vía II, se encontraba detenido 18 metros antes de la señal de entrada E1 que ordenaba parada. El jefe del CTC de Barcelona ordenó el establecimiento de un itinerario de rebase autorizado de E1 a vía 17, pero inmediatamente —antes de que se completara el enclavamiento— procedió a su anulación mediante el comando DAI (disolución artificial de itinerario) hasta cinco veces consecutivas, al considerar prioritaria la salida del tren 25779 desde vía 3.\n\nDurante el intervalo de 0,950 segundos entre el enclavamiento del itinerario y su disolución, el enclavamiento electrónico Ebilock 950 (Bombardier) generó un comportamiento incorrecto: la señal E1 emitió un único destello blanco (aspecto rojo-blanco) y la señal R1 mostró momentáneamente blanco-blanco, sin que el sistema reconociera la apertura ni aplicara el diferímetro. El maquinista del tren 25752 percibió ese destello, interpretó la indicación como rebase autorizado y activó el ASFA Digital, iniciando la marcha y rebasando E1 en parada. Tras recorrer la estación sin itinerario, rebasó también la señal de retroceso R1 en parada y entró en la aguja A37 orientada hacia vía 2, colisionando lateralmente a 10 km/h contra el tercer coche del tren 25779, detenido en la travesía T47 por orden del jefe del CTC.\n\nComo consecuencia de la colisión se produjo el descarrilamiento del primer bogie del primer coche del tren 25752 y del bogie entre el segundo y tercer coche del tren 25779. No hubo víctimas mortales ni heridos. Los 17 viajeros fueron evacuados a los andenes. La circulación entre Barcelona Sants y L'Hospitalet quedó suspendida por ambas vías, afectando a las líneas R1, R3 y R4 de Cercanías, con una interrupción total de 5 horas 51 minutos, 3.116 minutos de retraso acumulado y la supresión de 8 trenes. La reparación de infraestructura ascendió a 7.555,63 € y la del material móvil a 40.099,07 €, con un total de 47.654,70 €.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "L'Hospitalet de Llobregat",
+    "pk": "95+106",
+    "linea": "220 Lleida Pirineus – L'Hospitalet de Llobregat",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Estación telemandada desde el CTC de Barcelona, en tramo de vía doble electrificada con Bloqueo Automático Banalizado con CTC (BAB con CTC). La colisión se produjo en la travesía T47 (pk 96+633). Señal E1 de entrada en pk 096+295, señal R1 de retroceso en pk 096+031, señal S2/3 de salida en pk 095+522. Perfil longitudinal horizontal desde pk 095+150 a pk 096+800. Dos vías generales (I y II) y diez vías secundarias (2, 3, 11, 12, 13, 14, 15, 16, 17, 18)."
+   },
+   "pagina": 9,
+   "cita": "El tren 25779 está estacionado en vía 3 de la estación.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Descarrilamiento del primer bogie del primer coche del tren 25752 y del bogie entre 2º y 3er coche del tren 25779. Daños en material motor (40.099,07 €: 15.054,39 € UT 465242 + 25.004,39 € UT 464211) e infraestructura (7.555,63 €). Total: 47.654,70 €.",
+    "afectacion_servicio": "Suspensión de la circulación entre Barcelona Sants y L'Hospitalet por ambas vías durante 5 h 51 min (21:39 a 03:30). Afectación a líneas R1, R3 y R4 de Cercanías. Retraso acumulado de 3.116 minutos y supresión de 8 trenes. 17 viajeros evacuados a andenes. Prealerta PROCICAT activada a las 22:14."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Medidas adoptadas por el administrador de infraestructuras, ADIF. \n-   Previo a la solución tecnológica correspondiente, se instó a la gerencia de tráfico a que diera las \ninstrucciones pertinentes a los jefes de CTC de la estación a fin de que tras la ejecución del \ncomando de establecimiento de itinerario para un tren se abstuvieran de proceder a través de los \ncomandos, DAI, DEI o cualquier otro método, ni al establecimiento de nuevos itinerarios \nincompatibles con el mismo, si previamente no existía comunicación con el maquinista del tren \nafectado y recibida confirmación por su parte de su disposición para detenerse ante la señal \ncorrespondiente si fuera necesario.  \n-  Con fecha 03-11-2017 se modifica la lógica del software del enclavamiento de la estación de L´ \nHospitalet de Llobregat, según acta de puesta en servicio de esta fecha, como figura en Consigna \nATOi/CTOi 10/17. \n-   Con fecha 14.11.16, antes de su incorporación al servicio, se somete al jefe de CTC a reconocimiento \npsicofísico adicional, del que resulta apto. Además recibe asesoramiento sobre las medidas \ntransitorias adoptadas en la estación de L’ Hospitalet hasta que tenga lugar la solución tecnológica  \nMedidas adoptadas por el pleno de la CIAF. \n-   Analizado el suceso en el Pleno 105 de la CIAF, celebrado el 28 de marzo de 2017, se acuerda \ntrasladar a la AESF, sin esperar a la conclusión del informe final, una serie de consideraciones y \nsugerencias tendentes a la revisión de las especificaciones funcionales y de diseño del \nenclavamiento implicado, y hacer extensiva esa revisión a otros enclavamientos en los que pudiese \ndarse el mismo problema. \n \n \n \n\n## Página 66\n\n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0051/2016 ocurrido el 04.11.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n18.07.18 - 180718-161104-IF_CIAF.docx \nPág. 66 de 66",
+   "pagina": 65,
+   "cita": "4.5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Jefe del CTC de Barcelona (matrícula 8002321, ADIF)",
+     "implicacion": "Actuación precipitada: ordenó itinerario E1 a vía 17 y lo anuló inmediatamente con DAI sin comunicación previa con el maquinista (Art. 268.3 RGC). Estableció itinerario de salida S2/3 para el 25779 sin observar el rebase de R1 por el 25752. No detectó el destello momentáneo de E1."
+    },
+    {
+     "rol": "Agente/jefe de circulación de L'Hospitalet (matrícula 7786049, ADIF)",
+     "implicacion": "Recibió la llamada del maquinista del 25752 por modalidad C, ordenó detención inmediata y comunicó la situación al CTC. Ordenó al maquinista cambiar a modalidad A."
+    },
+    {
+     "rol": "Maquinista del tren 25752 (matrícula 6837256, RENFE VIAJEROS)",
+     "implicacion": "Percibió un único destello blanco en E1 y lo interpretó como rebase autorizado. Infringió la orden de parada de E1 y R1. Cambió la radiotelefonía a modalidad C sin autorización del Puesto de Mando (Art. 320.7 RGC), impidiendo la comunicación con el CTC. Circuló en velocidad prefijada contraviniendo la marcha de maniobras (Art. 218 RGC) y el Aviso SC nº 37."
+    },
+    {
+     "rol": "Maquinista del tren 25779 (matrícula 9732389, RENFE VIAJEROS)",
+     "implicacion": "Inició la salida de vía 3 con itinerario establecido. Recibió orden de parada inmediata del CTC y activó el freno de emergencia. No tuvo responsabilidad en el accidente."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "25752",
+     "tipo": "Tren de viajeros de cercanías (autopropulsado UT 465242, tipo 120A, 5 vehículos, 12 ejes, 98 m, 237 Tm, vmax 120 km/h)",
+     "operador": "RENFE VIAJEROS",
+     "danos": "Descarrilamiento del primer bogie del primer coche según sentido de la marcha. Reparación material: 15.054,39 €"
+    },
+    {
+     "numero": "25779",
+     "tipo": "Tren de viajeros de cercanías (autopropulsados 464211 y 464210, tipo 120A, 8 vehículos, 20 ejes, 160 m, 352 Tm, vmax 120 km/h)",
+     "operador": "RENFE VIAJEROS",
+     "danos": "Descarrilamiento del bogie entre el segundo y tercer coche. Reparación material: 25.004,39 €"
+    }
+   ],
+   "pagina": 5,
+   "cita": "de Llobregat, pk 95+106 de la línea 220 Lleida Pirineus a L’ Hospitalet de Llobregat, cuando el tren 25752",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UT 465242 (tren 25752, tipo 120A); UT 464211 y 464210 (tren 25779, tipo 120A). Registradores de seguridad tipo CESIS 3 con ASFA Digital.",
+    "averia": "No se detectó ninguna anomalía en equipos y dispositivos de seguridad de ambos trenes. Funcionaban correctamente y estaban precintados.",
+    "mantenimiento": "Material en servicio según Libro Horario 204 de 17 de octubre de 2016. No se mencionan deficiencias de mantenimiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Enclavamiento electrónico tipo Ebilock 950, tecnología Bombardier Transportation. Señal E'1 avanzada (pk 096+900), señal E1 entrada alta de tres focos más foco blanco (pk 096+295), señal R1 retroceso de cuatro focos mono bajo (pk 096+031), señal S2/3 salida (pk 095+522). Todas con balizas ASFA Digital. Bloqueo Automático Banalizado con CTC (BAB con CTC).",
+    "tipo_via": "Vía doble electrificada. Dos vías generales (I y II) y diez vías secundarias (2, 3, 11-18) con andenes superiores a 200 m, acabadas en topera.",
+    "velocidad_maxima": "120 km/h (material tipo 120A). Perfil horizontal entre pk 095+150 y pk 096+800.",
+    "ancho": null,
+    "electrificacion": "Vía electrificada",
+    "estado_via": "Obras en toperas de vías 13-19 del 26.10.2016 al 09.11.2016. Ocupación artificial de circuitos de vías 17, 18 y 19 regulada por Consigna CTO nº 63/2016 (acceso con rebase autorizado de E1 o E3).",
+    "otro": "Desvíos 3, 5, 11, 31 y 37 en el sentido de marcha del 25752. Travesía T47 donde se produjo la colisión. La aguja A37 no intervino en los itinerarios mandados por el CTC y permaneció en posición invertida, no realizando la protección de flanco a la salida del tren 25779."
+   },
+   "pagina": 15,
+   "cita": "El lugar donde se produce el accidente, está situado en un tramo de vía doble electrificada en la que la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Enclavamiento electrónico tipo Ebilock 950, tecnología Bombardier Transportation. Señal E'1 avanzada (pk 096+900), señal E1 entrada alta de tres focos más foco blanco (pk 096+295), señal R1 retroceso de cuatro focos mono bajo (pk 096+031), señal S2/3 salida (pk 095+522). Todas con balizas ASFA Digital. Bloqueo Automático Banalizado con CTC (BAB con CTC).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Sistema de Radiotelefonía Tren – Tierra (modalidad A, canal 61).",
+   "pagina": 18,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": "A consecuencia de los trabajos en las toperas de las vías 13 - 19, desde el 26.10.2016 al 09.11.2016, se \ndispone ocupación artificial de los Circuitos de vías 17, 18 y 19. \nEstos trabajos estuvieron regulados por la Consigna CTO nº 63/2016 según la cual, el acceso de los trenes \na las vías donde se estaban realizando los trabajos, debía hacerse con la indicación de rebase autorizado \nde las señales E1 o E3.",
+   "pagina": 18,
+   "cita": "2.2.5. Obras en el lugar o cercanías",
+   "origen": "determinista",
+   "regla": "sec:^obras en el lugar o cercan[íi]as$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Descarrilamiento del primer bogie del primer coche del tren 25752 y del bogie entre 2º y 3er coche del tren 25779. Daños en material motor (40.099,07 €: 15.054,39 € UT 465242 + 25.004,39 € UT 464211) e infraestructura (7.555,63 €). Total: 47.654,70 €.",
+    "afectacion_servicio": "Suspensión de la circulación entre Barcelona Sants y L'Hospitalet por ambas vías durante 5 h 51 min (21:39 a 03:30). Afectación a líneas R1, R3 y R4 de Cercanías. Retraso acumulado de 3.116 minutos y supresión de 8 trenes. 17 viajeros evacuados a andenes. Prealerta PROCICAT activada a las 22:14."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Descarrilamiento del primer bogie del primer coche del tren 25752 y del bogie entre 2º y 3er coche del tren 25779. Daños en material motor (40.099,07 €: 15.054,39 € UT 465242 + 25.004,39 € UT 464211) e infraestructura (7.555,63 €). Total: 47.654,70 €.",
+    "afectacion_servicio": "Suspensión de la circulación entre Barcelona Sants y L'Hospitalet por ambas vías durante 5 h 51 min (21:39 a 03:30). Afectación a líneas R1, R3 y R4 de Cercanías. Retraso acumulado de 3.116 minutos y supresión de 8 trenes. 17 viajeros evacuados a andenes. Prealerta PROCICAT activada a las 22:14."
+   },
+   "pagina": 60,
+   "cita": "ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Descarrilamiento del primer bogie del primer coche del tren 25752 y del bogie entre 2º y 3er coche del tren 25779. Daños en material motor (40.099,07 €: 15.054,39 € UT 465242 + 25.004,39 € UT 464211) e infraestructura (7.555,63 €). Total: 47.654,70 €.",
+    "afectacion_servicio": "Suspensión de la circulación entre Barcelona Sants y L'Hospitalet por ambas vías durante 5 h 51 min (21:39 a 03:30). Afectación a líneas R1, R3 y R4 de Cercanías. Retraso acumulado de 3.116 minutos y supresión de 8 trenes. 17 viajeros evacuados a andenes. Prealerta PROCICAT activada a las 22:14."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 465242 (tren 25752, tipo 120A); UT 464211 y 464210 (tren 25779, tipo 120A). Registradores de seguridad tipo CESIS 3 con ASFA Digital.",
+    "averia": "No se detectó ninguna anomalía en equipos y dispositivos de seguridad de ambos trenes. Funcionaban correctamente y estaban precintados.",
+    "mantenimiento": "Material en servicio según Libro Horario 204 de 17 de octubre de 2016. No se mencionan deficiencias de mantenimiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Enclavamiento electrónico tipo Ebilock 950, tecnología Bombardier Transportation. Señal E'1 avanzada (pk 096+900), señal E1 entrada alta de tres focos más foco blanco (pk 096+295), señal R1 retroceso de cuatro focos mono bajo (pk 096+031), señal S2/3 salida (pk 095+522). Todas con balizas ASFA Digital. Bloqueo Automático Banalizado con CTC (BAB con CTC).",
+    "tipo_via": "Vía doble electrificada. Dos vías generales (I y II) y diez vías secundarias (2, 3, 11-18) con andenes superiores a 200 m, acabadas en topera.",
+    "velocidad_maxima": "120 km/h (material tipo 120A). Perfil horizontal entre pk 095+150 y pk 096+800.",
+    "ancho": null,
+    "electrificacion": "Vía electrificada",
+    "estado_via": "Obras en toperas de vías 13-19 del 26.10.2016 al 09.11.2016. Ocupación artificial de circuitos de vías 17, 18 y 19 regulada por Consigna CTO nº 63/2016 (acceso con rebase autorizado de E1 o E3).",
+    "otro": "Desvíos 3, 5, 11, 31 y 37 en el sentido de marcha del 25752. Travesía T47 donde se produjo la colisión. La aguja A37 no intervino en los itinerarios mandados por el CTC y permaneció en posición invertida, no realizando la protección de flanco a la salida del tren 25779."
+   },
+   "pagina": 15,
+   "cita": "El lugar donde se produce el accidente, está situado en un tramo de vía doble electrificada en la que la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Horas nocturnas sin condiciones meteorológicas adversas.",
+   "pagina": 22,
+   "cita": "El accidente tiene lugar en horas nocturnas sin condiciones meteorológicas adversas.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "L'Hospitalet de Llobregat"
+   },
+   "pagina": 5,
+   "cita": "telemandada desde el CTC de Barcelona.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Horas nocturnas sin condiciones meteorológicas adversas.",
+   "pagina": 22,
+   "cita": "El accidente tiene lugar en horas nocturnas sin condiciones meteorológicas adversas.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Enclavamiento electrónico tipo Ebilock 950, tecnología Bombardier Transportation. Señal E'1 avanzada (pk 096+900), señal E1 entrada alta de tres focos más foco blanco (pk 096+295), señal R1 retroceso de cuatro focos mono bajo (pk 096+031), señal S2/3 salida (pk 095+522). Todas con balizas ASFA Digital. Bloqueo Automático Banalizado con CTC (BAB con CTC).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Enclavamiento electrónico tipo Ebilock 950, tecnología Bombardier Transportation. Señal E'1 avanzada (pk 096+900), señal E1 entrada alta de tres focos más foco blanco (pk 096+295), señal R1 retroceso de cuatro focos mono bajo (pk 096+031), señal S2/3 salida (pk 095+522). Todas con balizas ASFA Digital. Bloqueo Automático Banalizado con CTC (BAB con CTC).",
+    "tipo_via": "Vía doble electrificada. Dos vías generales (I y II) y diez vías secundarias (2, 3, 11-18) con andenes superiores a 200 m, acabadas en topera.",
+    "velocidad_maxima": "120 km/h (material tipo 120A). Perfil horizontal entre pk 095+150 y pk 096+800.",
+    "ancho": null,
+    "electrificacion": "Vía electrificada",
+    "estado_via": "Obras en toperas de vías 13-19 del 26.10.2016 al 09.11.2016. Ocupación artificial de circuitos de vías 17, 18 y 19 regulada por Consigna CTO nº 63/2016 (acceso con rebase autorizado de E1 o E3).",
+    "otro": "Desvíos 3, 5, 11, 31 y 37 en el sentido de marcha del 25752. Travesía T47 donde se produjo la colisión. La aguja A37 no intervino en los itinerarios mandados por el CTC y permaneció en posición invertida, no realizando la protección de flanco a la salida del tren 25779."
+   },
+   "pagina": 15,
+   "cita": "El lugar donde se produce el accidente, está situado en un tramo de vía doble electrificada en la que la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Sistema de Radiotelefonía Tren – Tierra (modalidad A, canal 61).",
+   "pagina": 18,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 465242 (tren 25752, tipo 120A); UT 464211 y 464210 (tren 25779, tipo 120A). Registradores de seguridad tipo CESIS 3 con ASFA Digital.",
+    "averia": "No se detectó ninguna anomalía en equipos y dispositivos de seguridad de ambos trenes. Funcionaban correctamente y estaban precintados.",
+    "mantenimiento": "Material en servicio según Libro Horario 204 de 17 de octubre de 2016. No se mencionan deficiencias de mantenimiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": "-   A las 21:36 horas, el maquinista de tren 25752 llama al agente de circulación de la estación de L’ \nHospitalet de Llobregat por modalidad C, y le comunica que está entrando a vía 4. El agente de \ncirculación le ordena detenerse inmediatamente y comunica la situación al jefe del CTC de Barcelona.  \n-   A las 21:37 horas, el jefe del CTC se pone en contacto con el agente de circulación y le pregunta si \nestá en comunicación con el maquinista del tren 25752, y ordenarle que pase al canal correspondiente \nde la modalidad A. \n-   A las 21:39 horas, el maquinista del tren 25752 comunica al jefe del CTC que ha colisionado con otro \ntren que salía de vía 3. \nVerificada la colisión se ponen en marcha las medidas siguientes: \n\n## Página 52\n\n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0051/2016 ocurrido el 04.11.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS",
+   "pagina": 51,
+   "cita": "3.5.1. Medidas tomadas por el personal de circulación",
+   "origen": "determinista",
+   "regla": "sec:^medidas tomadas por el personal de circulaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Actuación precipitada del jefe del CTC: ordenó un itinerario y procedió inmediatamente a su anulación con DAI (5 veces) sin comunicación previa con el maquinista, contraviniendo el Art. 268.3 del RGC",
+    "El jefe del CTC estableció el itinerario de salida S2/3 para el tren 25779 sin observar que el 25752 había rebasado E1 y R1 en parada",
+    "El enclavamiento no reconoció la apertura momentánea de E1, no aplicó diferímetro y permitió la disolución del itinerario con tren ocupando el circuito anterior",
+    "El maquinista del 25752 cambió la radiotelefonía a modalidad C sin autorización del Puesto de Mando (Art. 320.7 RGC), impidiendo la comunicación con el CTC para ordenar parada",
+    "El maquinista del 25752 circuló en velocidad prefijada desde E1, dificultando la observancia de la marcha de maniobras (Art. 141.2 y 218 RGC) e incumpliendo el Aviso SC nº 37",
+    "La aguja A37 permaneció en posición invertida sin realizar protección de flanco a la salida del tren 25779"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Personal perteneciente al Administrador de Infraestructuras Ferroviarias, ADIF. \n-  El jefe del CTC del Puesto de Mando de Barcelona, que se identifica como matrícula 8002321. Está en \nposesión de habilitación como responsable de circulación desde el 26.11.2009. Superó curso de \nreciclaje el 17.11.2015. Recibió formación para adaptación al RCF concluida el 17.11.17. \nHa resultado APTO en los reconocimientos de aptitud psicofísica practicados con fecha 24.02.2014, \nen vigor en la fecha del accidente, y adicional con motivo del mismo practicado con fecha 14.11.2016. \nSu próxima revisión psicofísica será con fecha 12.03.2019. \nEn el seguimiento normal su actividad profesional relativo a incidentes, se comprueba que no está \nrelacionado con ningún suceso hasta la fecha del accidente que se investiga. \nEl jefe del CTC del Puesto de Mando de Barcelona cumple los requisitos exigidos en la Orden \nFOM/2520/2006, de 27 de julio así como en la Orden FOM/2872/2010, de 5 de noviembre. \nPersonal perteneciente al Operador, RENFE VIAJEROS \n-   Maquinista de tren 25752, que se identifica como matrícula 6837256. Está en posesión del título B de \nconducción desde el 14.10.2013 fecha de su obtención. Fue contratado por RENFE VIAJEROS con \nfecha 26.01.2016 como maquinista de entrada. Ha superado los cursos de reciclaje impartidos para \nmantenimiento del título con fecha 27.01.2016 y 22.01.2018.  \nCuenta con habilitación para material serie 465 de fecha 14.03.2016 y de línea 220 de fecha \n14.06.2016. \nHa resultado APTO en los reconocimientos de aptitud psicofísica practicados con fecha 25.05.2016, \n(en vigor en la fecha del accidente), con fecha 09.11.2016, (reconocimiento adicional como \nconsecuencia del accidente) y con fecha 16.10.2017, a fin de renovar el anterior.  \n\n## Página 32\n\n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0051/2016 ocurrido el 04.11.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS",
+   "pagina": 31,
+   "cita": "3.2.3. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El accidente se produjo a las 21:36 horas del 4 de noviembre de 2016 en la estación de L'Hospitalet de Llobregat (pk 95+106, línea 220 Lleida Pirineus – L'Hospitalet de Llobregat, Barcelona), en horario nocturno y sin condiciones meteorológicas adversas. El tren de cercanías 25752, procedente de Barcelona Sants/Calella y circulando por vía II, se encontraba detenido 18 metros antes de la señal de entrada E1 que ordenaba parada. El jefe del CTC de Barcelona ordenó el establecimiento de un itinerario de rebase autorizado de E1 a vía 17, pero inmediatamente —antes de que se completara el enclavamiento— procedió a su anulación mediante el comando DAI (disolución artificial de itinerario) hasta cinco veces consecutivas, al considerar prioritaria la salida del tren 25779 desde vía 3.\n\nDurante el intervalo de 0,950 segundos entre el enclavamiento del itinerario y su disolución, el enclavamiento electrónico Ebilock 950 (Bombardier) generó un comportamiento incorrecto: la señal E1 emitió un único destello blanco (aspecto rojo-blanco) y la señal R1 mostró momentáneamente blanco-blanco, sin que el sistema reconociera la apertura ni aplicara el diferímetro. El maquinista del tren 25752 percibió ese destello, interpretó la indicación como rebase autorizado y activó el ASFA Digital, iniciando la marcha y rebasando E1 en parada. Tras recorrer la estación sin itinerario, rebasó también la señal de retroceso R1 en parada y entró en la aguja A37 orientada hacia vía 2, colisionando lateralmente a 10 km/h contra el tercer coche del tren 25779, detenido en la travesía T47 por orden del jefe del CTC.\n\nComo consecuencia de la colisión se produjo el descarrilamiento del primer bogie del primer coche del tren 25752 y del bogie entre el segundo y tercer coche del tren 25779. No hubo víctimas mortales ni heridos. Los 17 viajeros fueron evacuados a los andenes. La circulación entre Barcelona Sants y L'Hospitalet quedó suspendida por ambas vías, afectando a las líneas R1, R3 y R4 de Cercanías, con una interrupción total de 5 horas 51 minutos, 3.116 minutos de retraso acumulado y la supresión de 8 trenes. La reparación de infraestructura ascendió a 7.555,63 € y la del material móvil a 40.099,07 €, con un total de 47.654,70 €.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DESCRIPCIÓN DEFINITIVA DE LOS ACONTECIMIENTOS \nEl accidente tiene lugar el día 4 de noviembre de 2016 a las 21:36 horas, en la estación de L’ Hospitalet \nde Llobregat, pk 95+106 de la línea 220 Lleida Pirineus a L’ Hospitalet de Llobregat, cuando el tren 25752 \nprocedente de Calella que circula por vía II, rebasa la señal de entrada E1 en indicación de parada, \ndespués de estar detenido ante ella, entra en la estación sin itinerario establecido, rebasa la señal de \nretroceso R1 también en indicación de parada y colisiona lateralmente con el tren 25779 que ha salido \nde vía 3 con itinerario establecido y destino Mataró y se encuentra detenido, por orden expresa de jefe \ndel CTC, en la travesía T47. \nEn el transcurso de la secuencia de eventos que dieron lugar al accidente la estación se encontraba \ntelemandada desde el CTC de Barcelona. \nInicialmente el Jefe del CTC había ordenado el establecimiento de un itinerario de rebase autorizado de \nla señal de entrada E1, a la vía 17 para tren 25752 que se encontraba detenido ante dicha señal en \nindicación de parada. \nDebido a que debía efectuar previamente la salida de tren 25779 de vía 3 al ser anterior por horario, el \njefe del CTC manda inmediatamente –antes de que el itinerario se haya establecido - su anulación con el \ncomando DAI (disolución artificial de itinerario) repetidas veces (hasta cinco veces). \nDurante el tiempo que transcurre entre la orden de establecimiento del itinerario y su disolución, se pone \nde manifiesto el comportamiento incorrecto del enclavamiento electrónico que da lugar a que la señal E1 \nde entrada a la estación y la señal de retroceso R1 permanezcan en indicación de parada con un único \ndestello blanco, de duración la del propio destello. Esta circunstancia induce al maquinista del tren 25752 \na error en la percepción de la señal de entrada provocando su rebase indebido y entrada en la estación \nsin itinerario establecido. \nEl enclavamiento no ha llegado a reconocer la apertura momentánea de la señal E1 y disuelve el itinerario, \naún con presencia de tren ocupando el circuito de avanzada, sin actuación de diferímetro y permite al \njefe del CTC, que no ha observado el rebase de E1 y la ocupación de circuitos de vía posteriores por el \ntren 25752, establecer itinerario de salida de vía 3 para tren 25779.  \nCuando el Jefe del CTC observa la ocupación anormal de los circuitos de vía llama por radiotelefonía Tren-\nTierra a los maquinistas de ambos trenes. Consigue hablar con el de tren 25779 y le ordena su detención. \nNo contacta con el de tren 25752, ya que el maquinista ha cambiado el sistema de radiotelefonía a \nModalidad C sin su autorización.  \n\n## Página 55\n\n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0051/2016 ocurrido el 04.11.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n18.07.18 - 180718-161104-IF_CIAF.docx \nPág. 55 de 66 \nEl maquinista del tren 25752 entra en comunicación por radiotelefonía con el agente de circulación de la \nestación y le manifiesta que está entrando en la misma. El agente de circulación le ordena parar \ninmediatamente. El maquinista de tren 25752, viendo además su inminente colisión con el tren que salía, \nefectúa frenado de urgencia sin llegar a evitar la misma.  \nEl agente de circulación le ordena cambiar el sistema de radiotelefonía a modalidad A, con lo que \nfinalmente el jefe del CTC consigue hablar con este maquinista quien le comunica que ha colisionado con \nel tren que salía de vía 3. \n-   En la cronología de los hechos que se expone a continuación, se ha considerado como horario de \nreferencia el correspondiente al CTC de Barcelona. \n-   A las 21:32:27 horas (21:32:14 horas horario reg. seguridad tren 25752), el tren 25752 circula por vía \nII, a una velocidad de 45 km/ hora. Pasa por la baliza previa de la señal E’1 avanzada que ordena \nparada. \n-   A las 21:33:15 horas (21:33:02 horas horario reg. seguridad tren 25752), el tren 25752 pasa por la \nbaliza de la señal E’1 avanzada que ordena anuncio de parada a una velocidad de 24 km/ hora. \n-   A las 21:33:48 horas (21:33:35 horas horario reg. seguridad tren 25752), el tren 25752 pasa por la \nbaliza previa de la señal E1 entrada que ordena parada a una velocidad de 42 km/ hora. \n-    A las 21:34:30 horas, el tren 25752 se encuentra en el circuito anterior a la señal E1 de entrada en \nla estación, que ordena parada. \n-   A las 21:34:42 horas (20:48:31 horas según análisis de las variables internas del enclavamiento de la \nestación), el jefe del CTC establece itinerario E1 a vía 17, para el tren 25752. \nLas señales E1, R1 y S2/3, ordenan parada \n-   A las 21:34:49 horas (21:34:36 horas horario reg. seguridad tren 25752), el tren 25752 se detiene 18 \nm delante de la señal de entrada, E1 que ordena parada. \n-   A las 21:34:51 horas (20:48:40 horas según análisis de las variables internas del enclavamiento de la \nestación), el jefe del CTC de Barcelona comienza a dar órdenes de anulación de itinerario DAI de \nitinerario E1 a vía 17, sobre la señal E1. \nA partir de este momento se inician todos los movimientos de las agujas y el itinerario queda \nenclavado. \n\n## Página 56\n\n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0051/2016 ocurrido el 04.11.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n18.07.18 - 180718-161104-IF_CIAF.docx \nPág. 56 de 66 \n-   A las 21:34:52 horas (20:48:41 horas según análisis de las variables internas del enclavamiento de la \nestación), el sistema del enclavamiento de la estación reconoce que el itinerario E1 a vía 17, está \nenclavado. \n-   A las 21:34:53 horas (20:48:42 horas según análisis de las variables internas del enclavamiento de la \nestación), una vez enclavado el itinerario E1 a vía 17, el sistema da orden de abrir la señal E1 \n(apariencia rojo - blanco destellos. Orden rebase autorizado). La señal R1 (apariencia blanco-blanco. \nVía desviada). En este mismo c",
+   "pagina": 54,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Aspecto indebido de la señal de entrada E1 (único destello blanco de duración inferior a un segundo) causado por un funcionamiento incorrecto de la lógica del software del enclavamiento electrónico Ebilock 950, que indujo a error al maquinista del tren 25752 en la percepción de la señal. Fallo humano del maquinista al no mantener la debida atención y no volver a fijarse en el aspecto de la señal.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Actuación precipitada del jefe del CTC: ordenó un itinerario y procedió inmediatamente a su anulación con DAI (5 veces) sin comunicación previa con el maquinista, contraviniendo el Art. 268.3 del RGC",
+    "El jefe del CTC estableció el itinerario de salida S2/3 para el tren 25779 sin observar que el 25752 había rebasado E1 y R1 en parada",
+    "El enclavamiento no reconoció la apertura momentánea de E1, no aplicó diferímetro y permitió la disolución del itinerario con tren ocupando el circuito anterior",
+    "El maquinista del 25752 cambió la radiotelefonía a modalidad C sin autorización del Puesto de Mando (Art. 320.7 RGC), impidiendo la comunicación con el CTC para ordenar parada",
+    "El maquinista del 25752 circuló en velocidad prefijada desde E1, dificultando la observancia de la marcha de maniobras (Art. 141.2 y 218 RGC) e incumpliendo el Aviso SC nº 37",
+    "La aguja A37 permaneció en posición invertida sin realizar protección de flanco a la salida del tren 25779"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "4.4.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nComo causas directas e inmediatas del accidente cabe indicar: \n- Aspecto indebido de la señal de entrada, a causa de un funcionamiento incorrecto del \nenclavamiento electrónico instalado en la estación de L’ Hospitalet de Llobregat, que induce a \nerror al maquinista en la percepción de la señal de entrada. Este comportamiento incorrecto \nen la lógica del software del enclavamiento se pone de manifiesto cuando el jefe del CTC de \nBarcelona ordena un itinerario y procede inmediatamente a su disolución, no siendo este \nconocedor del aspecto erróneo que indica momentáneamente esta señal. \n-  Fallo humano del maquinista del tren 25752 al no mantener la debida atención al aspecto de \nla señal de entrada (inducido por el funcionamiento incorrecto del enclavamiento), \nincumpliendo la orden de la señal de entrada percibida por el maquinista, por lo que \nposteriormente procede al rebase indebido de la señal de retroceso y a la colisión con el otro \ntren. \n4.4.2. Causas subyacentes relacionadas con el personal ferroviario y el mantenimiento del \nmaterial rodante o de la infraestructura ferroviaria \nComo causas subyacentes pueden apuntarse las siguientes: \n-  La actuación precipitada del jefe del CTC, al ordenar un itinerario para el tren 25752 que \ninmediatamente considera inoportuno y procede a su disolución, para lo que ordena \ninsistentemente su anulación en contra de lo establecido en el Artículo 268.3 del RGC, \nmodificado por la Carta Circular de Reglamentación nº 5 (Ver recomendación 51/2016-3)  \n-  La actuación también precipitada del jefe del CTC al establecer el itinerario de salida para el \ntren 25779 sin observar que el tren 25752 ha rebasado la señal de retroceso R1 en indicación \nde parada y circula por vía 4 sin itinerario establecido. (Ver recomendación 51/2016-3) \n-  El maquinista del tren 25752 cambia la banda del sistema de radiotelefonía Tren – Tierra a \nmodalidad C sin autorización del Puesto de Mando, lo que impidió que el jefe de CTC se \npudiera poner en contacto de inmediato con éste para ordenarle parada, evitando la colisión. \n(Ver Recomendación 51/2016-4). \n \n\n## Página 64\n\n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0051/2016 ocurrido el 04.11.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n18.07.18 - 180718-161104-IF_CIAF.docx \nPág. 64 de 66 \n4.4.3. Causas raíz relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nComo causa raíz puede apuntarse la siguiente: \n-   Insuficiente verificación y pruebas del diseño del enclavamiento electrónico de la estación de \nL´ Hospitalet, basado en el programa de explotación, que no pusieron de manifiesto el riesgo \npotencial existente y que finalmente se manifestó al realizarse la operación de establecimiento \ny anulación del itinerario en la forma descrita anteriormente. (Ver Recomendación 51/2016-\n1). \nCabe la posibilidad de que existan otros enclavamientos de similar tecnología que presenten \nesta misma problemática. (Ver recomendación 51/2016-2) \n4.4.4. Otras Observaciones \n-   El hecho de que la aguja A37, que por diseño del propio enclavamiento no interviene en los \nitinerarios que fueron mandados por el jefe del CTC, ha permanecido en posición invertida y \npor tanto no realiza la protección de flanco a la salida del tren 25779 de vía 3.(Ver \nRecomendación 51/2016-1)  \n-  El maquinista del tren 25752 circuló desde la E1 con velocidad prefijada, incumpliendo lo \nestablecido en el Aviso SC nº 37. (Ver Recomendación 51/2016-4) \n-   El maquinista, aun percibiendo la señal de entrada E1 en indicación de rebase autorizado \n(durante un destello), no debería en ningún caso haber circulado contraviniendo la marcha de \nmaniobras (Artículo 218 del RGC). \n-   El administrador de infraestructuras ferroviarias, ADIF no consideró pertinente adoptar medidas \npreventivas en cuanto a la actuación del jefe del CTC, según se establece en el Procedimiento \nGeneral PGSC – PG – 11: Suspensión, Revocación y Recuperación de Títulos Habilitantes del \nSGS de ADIF, ni su posterior recuperación; posiblemente al considerar como causa del accidente \nel fallo de la lógica del software del enclavamiento y la incorrecta actuación del maquinista.  \n-   El  operador, RENFE VIAJEROS, no consideró pertinente adoptar medidas  preventivas en cuanto \na la actuación del maquinista del tren 25752, según se establece en el Procedimiento Específico \nRV-SGS-PE-SPC-16 y la Circular Operativa COP nº 1 de la DSC, incluidos en su SGS, al \nconsiderar como causa del mismo el fallo de la lógica del software del enclavamiento. \n\n## Página 65\n\n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0051/2016 ocurrido el 04.11.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n18.07.18 - 180718-161104-IF_CIAF.docx \nPág. 65 de 66 \nEsta decisión de no iniciar ninguna acción cautelar puede inducir a los actores implicados a \nconsiderar adecuada su actuación, y repetir las mismas conductas de riesgo",
+   "pagina": 63,
+   "cita": "4.4. CONCLUSIONES 4.4.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalacio",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "4.4.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nComo causas directas e inmediatas del accidente cabe indicar: \n- Aspecto indebido de la señal de entrada, a causa de un funcionamiento incorrecto del \nenclavamiento electrónico instalado en la estación de L’ Hospitalet de Llobregat, que induce a \nerror al maquinista en la percepción de la señal de entrada. Este comportamiento incorrecto \nen la lógica del software del enclavamiento se pone de manifiesto cuando el jefe del CTC de \nBarcelona ordena un itinerario y procede inmediatamente a su disolución, no siendo este \nconocedor del aspecto erróneo que indica momentáneamente esta señal. \n-  Fallo humano del maquinista del tren 25752 al no mantener la debida atención al aspecto de \nla señal de entrada (inducido por el funcionamiento incorrecto del enclavamiento), \nincumpliendo la orden de la señal de entrada percibida por el maquinista, por lo que \nposteriormente procede al rebase indebido de la señal de retroceso y a la colisión con el otro \ntren. \n4.4.2. Causas subyacentes relacionadas con el personal ferroviario y el mantenimiento del \nmaterial rodante o de la infraestructura ferroviaria \nComo causas subyacentes pueden apuntarse las siguientes: \n-  La actuación precipitada del jefe del CTC, al ordenar un itinerario para el tren 25752 que \ninmediatamente considera inoportuno y procede a su disolución, para lo que ordena \ninsistentemente su anulación en contra de lo establecido en el Artículo 268.3 del RGC, \nmodificado por la Carta Circular de Reglamentación nº 5 (Ver recomendación 51/2016-3)  \n-  La actuación también precipitada del jefe del CTC al establecer el itinerario de salida para el \ntren 25779 sin observar que el tren 25752 ha rebasado la señal de retroceso R1 en indicación \nde parada y circula por vía 4 sin itinerario establecido. (Ver recomendación 51/2016-3) \n-  El maquinista del tren 25752 cambia la banda del sistema de radiotelefonía Tren – Tierra a \nmodalidad C sin autorización del Puesto de Mando, lo que impidió que el jefe de CTC se \npudiera poner en contacto de inmediato con éste para ordenarle parada, evitando la colisión. \n(Ver Recomendación 51/2016-4). \n \n\n## Página 64\n\n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0051/2016 ocurrido el 04.11.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n18.07.18 - 180718-161104-IF_CIAF.docx \nPág. 64 de 66 \n4.4.3. Causas raíz relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nComo causa raíz puede apuntarse la siguiente: \n-   Insuficiente verificación y pruebas del diseño del enclavamiento electrónico de la estación de \nL´ Hospitalet, basado en el programa de explotación, que no pusieron de manifiesto el riesgo \npotencial existente y que finalmente se manifestó al realizarse la operación de establecimiento \ny anulación del itinerario en la forma descrita anteriormente. (Ver Recomendación 51/2016-\n1). \nCabe la posibilidad de que existan otros enclavamientos de similar tecnología que presenten \nesta misma problemática. (Ver recomendación 51/2016-2) \n4.4.4. Otras Observaciones \n-   El hecho de que la aguja A37, que por diseño del propio enclavamiento no interviene en los \nitinerarios que fueron mandados por el jefe del CTC, ha permanecido en posición invertida y \npor tanto no realiza la protección de flanco a la salida del tren 25779 de vía 3.(Ver \nRecomendación 51/2016-1)  \n-  El maquinista del tren 25752 circuló desde la E1 con velocidad prefijada, incumpliendo lo \nestablecido en el Aviso SC nº 37. (Ver Recomendación 51/2016-4) \n-   El maquinista, aun percibiendo la señal de entrada E1 en indicación de rebase autorizado \n(durante un destello), no debería en ningún caso haber circulado contraviniendo la marcha de \nmaniobras (Artículo 218 del RGC). \n-   El administrador de infraestructuras ferroviarias, ADIF no consideró pertinente adoptar medidas \npreventivas en cuanto a la actuación del jefe del CTC, según se establece en el Procedimiento \nGeneral PGSC – PG – 11: Suspensión, Revocación y Recuperación de Títulos Habilitantes del \nSGS de ADIF, ni su posterior recuperación; posiblemente al considerar como causa del accidente \nel fallo de la lógica del software del enclavamiento y la incorrecta actuación del maquinista.  \n-   El  operador, RENFE VIAJEROS, no consideró pertinente adoptar medidas  preventivas en cuanto \na la actuación del maquinista del tren 25752, según se establece en el Procedimiento Específico \nRV-SGS-PE-SPC-16 y la Circular Operativa COP nº 1 de la DSC, incluidos en su SGS, al \nconsiderar como causa del mismo el fallo de la lógica del software del enclavamiento. \n\n## Página 65\n\n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0051/2016 ocurrido el 04.11.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n18.07.18 - 180718-161104-IF_CIAF.docx \nPág. 65 de 66 \nEsta decisión de no iniciar ninguna acción cautelar puede inducir a los actores implicados a \nconsiderar adecuada su actuación, y repetir las mismas conductas de riesgo",
+   "pagina": 63,
+   "cita": "4.4. CONCLUSIONES 4.4.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalacio",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Medidas adoptadas por el administrador de infraestructuras, ADIF. \n-   Previo a la solución tecnológica correspondiente, se instó a la gerencia de tráfico a que diera las \ninstrucciones pertinentes a los jefes de CTC de la estación a fin de que tras la ejecución del \ncomando de establecimiento de itinerario para un tren se abstuvieran de proceder a través de los \ncomandos, DAI, DEI o cualquier otro método, ni al establecimiento de nuevos itinerarios \nincompatibles con el mismo, si previamente no existía comunicación con el maquinista del tren \nafectado y recibida confirmación por su parte de su disposición para detenerse ante la señal \ncorrespondiente si fuera necesario.  \n-  Con fecha 03-11-2017 se modifica la lógica del software del enclavamiento de la estación de L´ \nHospitalet de Llobregat, según acta de puesta en servicio de esta fecha, como figura en Consigna \nATOi/CTOi 10/17. \n-   Con fecha 14.11.16, antes de su incorporación al servicio, se somete al jefe de CTC a reconocimiento \npsicofísico adicional, del que resulta apto. Además recibe asesoramiento sobre las medidas \ntransitorias adoptadas en la estación de L’ Hospitalet hasta que tenga lugar la solución tecnológica  \nMedidas adoptadas por el pleno de la CIAF. \n-   Analizado el suceso en el Pleno 105 de la CIAF, celebrado el 28 de marzo de 2017, se acuerda \ntrasladar a la AESF, sin esperar a la conclusión del informe final, una serie de consideraciones y \nsugerencias tendentes a la revisión de las especificaciones funcionales y de diseño del \nenclavamiento implicado, y hacer extensiva esa revisión a otros enclavamientos en los que pudiese \ndarse el mismo problema. \n \n \n \n\n## Página 66\n\n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0051/2016 ocurrido el 04.11.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n18.07.18 - 180718-161104-IF_CIAF.docx \nPág. 66 de 66",
+   "pagina": 65,
+   "cita": "4.5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Medidas adoptadas por el administrador de infraestructuras, ADIF. \n-   Previo a la solución tecnológica correspondiente, se instó a la gerencia de tráfico a que diera las \ninstrucciones pertinentes a los jefes de CTC de la estación a fin de que tras la ejecución del \ncomando de establecimiento de itinerario para un tren se abstuvieran de proceder a través de los \ncomandos, DAI, DEI o cualquier otro método, ni al establecimiento de nuevos itinerarios \nincompatibles con el mismo, si previamente no existía comunicación con el maquinista del tren \nafectado y recibida confirmación por su parte de su disposición para detenerse ante la señal \ncorrespondiente si fuera necesario.  \n-  Con fecha 03-11-2017 se modifica la lógica del software del enclavamiento de la estación de L´ \nHospitalet de Llobregat, según acta de puesta en servicio de esta fecha, como figura en Consigna \nATOi/CTOi 10/17. \n-   Con fecha 14.11.16, antes de su incorporación al servicio, se somete al jefe de CTC a reconocimiento \npsicofísico adicional, del que resulta apto. Además recibe asesoramiento sobre las medidas \ntransitorias adoptadas en la estación de L’ Hospitalet hasta que tenga lugar la solución tecnológica  \nMedidas adoptadas por el pleno de la CIAF. \n-   Analizado el suceso en el Pleno 105 de la CIAF, celebrado el 28 de marzo de 2017, se acuerda \ntrasladar a la AESF, sin esperar a la conclusión del informe final, una serie de consideraciones y \nsugerencias tendentes a la revisión de las especificaciones funcionales y de diseño del \nenclavamiento implicado, y hacer extensiva esa revisión a otros enclavamientos en los que pudiese \ndarse el mismo problema. \n \n \n \n\n## Página 66\n\n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0051/2016 ocurrido el 04.11.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n18.07.18 - 180718-161104-IF_CIAF.docx \nPág. 66 de 66",
+   "pagina": 65,
+   "cita": "4.5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Medidas adoptadas por el administrador de infraestructuras, ADIF. \n-   Previo a la solución tecnológica correspondiente, se instó a la gerencia de tráfico a que diera las \ninstrucciones pertinentes a los jefes de CTC de la estación a fin de que tras la ejecución del \ncomando de establecimiento de itinerario para un tren se abstuvieran de proceder a través de los \ncomandos, DAI, DEI o cualquier otro método, ni al establecimiento de nuevos itinerarios \nincompatibles con el mismo, si previamente no existía comunicación con el maquinista del tren \nafectado y recibida confirmación por su parte de su disposición para detenerse ante la señal \ncorrespondiente si fuera necesario.  \n-  Con fecha 03-11-2017 se modifica la lógica del software del enclavamiento de la estación de L´ \nHospitalet de Llobregat, según acta de puesta en servicio de esta fecha, como figura en Consigna \nATOi/CTOi 10/17. \n-   Con fecha 14.11.16, antes de su incorporación al servicio, se somete al jefe de CTC a reconocimiento \npsicofísico adicional, del que resulta apto. Además recibe asesoramiento sobre las medidas \ntransitorias adoptadas en la estación de L’ Hospitalet hasta que tenga lugar la solución tecnológica  \nMedidas adoptadas por el pleno de la CIAF. \n-   Analizado el suceso en el Pleno 105 de la CIAF, celebrado el 28 de marzo de 2017, se acuerda \ntrasladar a la AESF, sin esperar a la conclusión del informe final, una serie de consideraciones y \nsugerencias tendentes a la revisión de las especificaciones funcionales y de diseño del \nenclavamiento implicado, y hacer extensiva esa revisión a otros enclavamientos en los que pudiese \ndarse el mismo problema. \n \n \n \n\n## Página 66\n\n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0051/2016 ocurrido el 04.11.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n18.07.18 - 180718-161104-IF_CIAF.docx \nPág. 66 de 66",
+   "pagina": 65,
+   "cita": "4.5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Actualizar y unificar las Normas de Explotación y Seguridad de los Enclavamientos y Bloqueos eléctricos y electrónicos, teniendo en cuenta las nuevas funcionalidades de explotación y las incidencias detectadas en los sistemas actuales",
+    "Revisar la funcionalidad de los enclavamientos electrónicos instalados de tecnología similar al de L’ Hospitalet de Llobregat, en particular la Disolución Artificial de Itinerarios (DAI).",
+    "En la formación impartida a los responsables de circulación, incidir en la importancia de efectuar adecuadamente (según reglamentación) las acciones relacionadas con el establecimiento y disolución de los itinerarios.",
+    "En la formación impartida al personal de conducción, debe insistirse en la vital importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, resaltando que las señales de retroceso pueden ordenar parada. Asimismo deben recalcarse los riesgos derivados del uso inadecuado de la velocidad prefijada y de la incorrecta sintonía con la banda del sistema de radiotelefonía Tren – Tierra.",
+    "Actualizar y unificar las Normas de Explotación y Seguridad de los Enclavamientos y Bloqueos eléctricos y electrónicos, teniendo en cuenta las nuevas funcionalidades de explotación y las incidencias detectadas en los sistemas actuales",
+    "Revisar la funcionalidad de los enclavamientos electrónicos instalados, de tecnología similar al de L’ Hospitalet de Llobregat, en particular la Disolución Artificial de Itinerarios (DAI).",
+    "En la formación impartida a los responsables de circulación, incidir en la importancia de efectuar adecuadamente (según reglamentación) las acciones relacionadas con el establecimiento y disolución de los itinerarios.",
+    "En la formación impartida al personal de conducción, debe insistirse en la vital importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, resaltando que las señales de retroceso pueden ordenar parada. Asimismo deben recalcarse los riesgos derivados del uso inadecuado de la velocidad prefijada y de la incorrecta sintonía con la banda del sistema de radiotelefonía Tren – Tierra."
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)"
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "RENFE OPERADORA",
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "RENFE OPERADORA"
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "21:32:14",
+     "evento": "El tren 25752 pasa por la baliza previa de la señal avanzada E'1 (parada) a 45 km/h"
+    },
+    {
+     "hora": "21:33:02",
+     "evento": "El tren 25752 pasa por la baliza de la señal E'1 (anuncio de parada) a 24 km/h"
+    },
+    {
+     "hora": "21:33:35",
+     "evento": "El tren 25752 pasa por la baliza previa de la señal E1 (parada) a 42 km/h"
+    },
+    {
+     "hora": "21:34:30",
+     "evento": "El tren 25752 se detiene 18 m antes de la señal E1 que ordena parada"
+    },
+    {
+     "hora": "21:34:42",
+     "evento": "El jefe del CTC establece itinerario E1 a vía 17 para el tren 25752. Señales E1, R1 y S2/3 en parada"
+    },
+    {
+     "hora": "21:34:51",
+     "evento": "El jefe del CTC comienza a dar órdenes DAI de anulación del itinerario (hasta cinco veces)"
+    },
+    {
+     "hora": "21:34:52",
+     "evento": "El enclavamiento reconoce que el itinerario E1 a vía 17 está enclavado"
+    },
+    {
+     "hora": "21:34:53",
+     "evento": "El sistema da orden de abrir E1 (rojo-blanco destellos) y R1 (blanco-blanco). En el mismo ciclo se disuelve el itinerario"
+    },
+    {
+     "hora": "21:34:54",
+     "evento": "Transcurridos 0,950 s, el sistema lanza orden de cerrar E1 y R1 sin comprobar apertura. Itinerario disuelto. El tren 25752 inicia la marcha tras 18 s detenido"
+    },
+    {
+     "hora": "21:34:57",
+     "evento": "El maquinista del 25752 activa el pulsador de rebase autorizado ASFA a 10 km/h"
+    },
+    {
+     "hora": "21:34:59",
+     "evento": "El tren 25752 pasa por la baliza de E1 (parada) a 18 km/h con rebase autorizado ASFA activado"
+    },
+    {
+     "hora": "21:35:01",
+     "evento": "Se confirma la disolución del itinerario E1 a vía 17"
+    },
+    {
+     "hora": "21:35:16",
+     "evento": "El jefe del CTC manda establecimiento de itinerario de salida S2/3 a Barcelona Sants para el tren 25779"
+    },
+    {
+     "hora": "21:35:20",
+     "evento": "El maquinista del 25752 desactiva rebase autorizado ASFA a 28 km/h"
+    },
+    {
+     "hora": "21:35:39",
+     "evento": "El tren 25779 inicia marcha desde vía 3. El maquinista del 25752 contacta con el agente de circulación de la estación"
+    },
+    {
+     "hora": "21:35:45",
+     "evento": "El tren 25752 rebasa la señal R1 en parada y ocupa el CVA3 sin itinerario establecido"
+    },
+    {
+     "hora": "21:35:54",
+     "evento": "El tren 25779 pasa por la baliza de S2/3 (vía libre) a 20 km/h"
+    },
+    {
+     "hora": "21:36:10",
+     "evento": "El maquinista del 25779 activa freno de emergencia por orden del CTC en pk 95+616 a 23 km/h"
+    },
+    {
+     "hora": "21:36:16",
+     "evento": "El tren 25779 queda detenido en la travesía T47 (pk 96+633)"
+    },
+    {
+     "hora": "21:36:25",
+     "evento": "El tren 25752 entra en aguja A37 (orientada hacia vía 2) a 28 km/h"
+    },
+    {
+     "hora": "21:36:27",
+     "evento": "El maquinista del 25752 acciona el freno de urgencia (2 s tras entrar en aguja, 16 m recorridos)"
+    },
+    {
+     "hora": "21:36:31",
+     "evento": "COLISIÓN: el tren 25752 a 10 km/h impacta contra el 3er coche del tren 25779 detenido en T47"
+    },
+    {
+     "hora": "21:36:34",
+     "evento": "El tren 25752 se detiene tras recorrer 2 m desde la colisión (25 m desde freno de emergencia)"
+    },
+    {
+     "hora": "21:36:36",
+     "evento": "El agente de circulación comunica al CTC la entrada del 25752 y la orden de detención"
+    },
+    {
+     "hora": "21:39:04",
+     "evento": "El maquinista del 25752 comunica telefónicamente la colisión al jefe del CTC tras sintonizar la banda"
+    },
+    {
+     "hora": "22:30",
+     "evento": "Se garantiza paso de trenes por itinerarios alternativos vía 1"
+    },
+    {
+     "hora": "22:32",
+     "evento": "Se reanuda la circulación entre Barcelona Sants y L'Hospitalet por ambas vías con autorización del CTC"
+    },
+    {
+     "hora": "22:40",
+     "evento": "Se informa que los 17 viajeros han sido evacuados a los andenes"
+    },
+    {
+     "hora": "00:30",
+     "evento": "Se autoriza el movimiento de los trenes para su apartado (25779 en vía 3, 25752 en vía 19)"
+    },
+    {
+     "hora": "03:30",
+     "evento": "Se reanuda el tráfico normal de la estación (vías 2, 3 y 4 disponibles)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0051/2016",
+ "expediente": "0051/16",
+ "anio": 2016,
+ "titulo": "INFORME FINAL DE LA CIAF (IFC) SOBRE EL ACCIDENTE FERROVIARIO Nº 0051/2016 OCURRIDO EL DÍA 04.11.2016 EN LA ESTACIÓN DE L’ HOSPITALET DE LLOBREGAT (BARCELONA)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 04.11.2016 180718-161104-IF-SN_CIAF_HOSPITALET DE LLOBREGAT .md"
+}

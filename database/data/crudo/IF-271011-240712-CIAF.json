@@ -1,0 +1,959 @@
+{
+ "id": "IF-271011-240712-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/D95B8CB8-F35D-401E-B268-631E8CB94C7F/113477/IF271011240712CIAF.pdf",
+ "pdf": "pdfs/ES/IF-271011-240712-CIAF.pdf",
+ "md5_pdf": "6b755487560d16c7385e2e79a7c486da",
+ "paginas_md": 14,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 22,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Feve",
+     "Número": "50/11-1",
+     "Recomendación": "En la formación impartida al personal de conducción incidir en las actitudes y comportamientos que son fuente de riesgos para la circulación, insistiendo en el estricto cumplimiento del Reglamento de Circulación de Trenes y de Señales de Feve."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 14,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Feve",
+     "Número": "50/11-1",
+     "Recomendación": "En la formación impartida al personal de conducción incidir en las actitudes y comportamientos que son fuente de riesgos para la circulación, insistiendo en el estricto cumplimiento del Reglamento de Circulación de Trenes y de Señales de Feve."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0050/2011",
+   "pagina": 1,
+   "cita": "nº 0050/2011 ocurrido el 27.10.2011",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2011-10-27, a las 14:25, el tren regional de viajeros 6803 de Feve, con origen Santander y destino Bilbao, rebasó indebidamente la señal de salida S1/1L en indicación de parada en la estación de Astillero (Cantabria). Talonó la aguja A2 y descarriló el segundo eje del primer bogie del vehículo de cabeza. No hubo víctimas mortales ni heridos. El accidente se originó por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2011-10-27",
+    "hora": "14:25",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Astillero",
+     "pk": "540+075",
+     "linea": "24 Santander - Bilbao",
+     "provincia": "Cantabria",
+     "descripcion_lugar": "Estación de Astillero, tramo Santander - Basurto, trayecto Astillero - La Cantábrica (apeadero); accidente junto a la señal S1/1L (PK 540+782) y el escape A2/A4, cerca del falso túnel."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 27 de octubre de 2011, a las 14:25 horas, en la estación de Astillero (Cantabria), perteneciente",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: daños en varios elementos del cambio A2 (bielas, barras de comprobación y torsión del espadín derecho), valorados en 2.336 euros. Material rodante: sin daños de consideración; encarrilamiento valorado en 1.955 euros.",
+    "afectacion_servicio": "Circulación interrumpida durante 146 minutos, de 14:24 a 16:50; vía general interceptada; 6 trenes suprimidos y 16 trenes con un retraso total de 255 minutos; se usaron autobuses para viajeros de los trenes 6803 y 8602 y transbordos tren a tren por el apeadero de La Cantábrica; la circulación se restableció a las 18:15 tras reparar el desvío A2."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Rebase indebido de la señal S1/1L, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El retraso del tren 6803 motivó alterar el cruce con el tren 6414 en Astillero, habitualmente establecido en Heras.",
+    "El personal de conducción del tren 6803 no tuvo conocimiento de la alteración del cruce; según su declaración, nadie del CTC se puso en contacto para informarle.",
+    "El maquinista reconoció la indicación de aviso de parada de la señal S1/1, pero incrementó la velocidad hasta 64,8 km/h.",
+    "La distancia de visibilidad de la señal S1/1L era de 210 m y el frenado se inició a una distancia inferior, de 170 m.",
+    "La deceleración del frenado de emergencia fue algo menor que la establecida en la NBSM, posiblemente por el carril húmedo y la lluvia.",
+    "El carril estaba mojado y no había arenado, según la declaración del maquinista."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "En la formación impartida al personal de conducción incidir en las actitudes y comportamientos que son fuente de riesgos para la circulación, insistiendo en el estricto cumplimiento del Reglamento de Circulación de Trenes y de Señales de Feve.",
+    "En la formación impartida al personal de conducción incidir en las actitudes y comportamientos que son fuente de riesgos para la circulación, insistiendo en el estricto cumplimiento del Reglamento de Circulación de Trenes y de Señales de Feve."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Feve",
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "accidente",
+   "pagina": 1,
+   "cita": "Investigación del accidente",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "a la línea 24 Santander - Bilbao, el tren de viajeros 6803 de Feve rebasa indebidamente la señal de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2011-10-27",
+   "pagina": 3,
+   "cita": "El día 27 de octubre de 2011, a las 14:25 horas, en la estación de Astillero (Cantabria), perteneciente",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "14:25",
+   "pagina": 3,
+   "cita": "El día 27 de octubre de 2011, a las 14:25 horas, en la estación de Astillero (Cantabria), perteneciente",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Astillero",
+    "pk": "540+075",
+    "linea": "24 Santander - Bilbao",
+    "provincia": "Cantabria",
+    "descripcion_lugar": "Estación de Astillero, tramo Santander - Basurto, trayecto Astillero - La Cantábrica (apeadero); accidente junto a la señal S1/1L (PK 540+782) y el escape A2/A4, cerca del falso túnel."
+   },
+   "pagina": 4,
+   "cita": "El tren 6803 se estaciona en vía 1 de Astillero, y tras terminar las operaciones comerciales, inicia la",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 24 Santander - Bilbao",
+   "pagina": 3,
+   "cita": "a la línea 24 Santander - Bilbao, el tren de viajeros 6803 de Feve rebasa indebidamente la señal de",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "tipo 2400; unidad diesel-eléctrica (UTDE) de cuatro bogies y ocho ejes, con cabinas Mc 2452 y Mc 2402; dispone de ASFA",
+    "averia": "ninguna; funcionó correctamente",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El 2011-10-27, a las 14:25, el tren regional de viajeros 6803 de Feve, con origen Santander y destino Bilbao, salió con ocho minutos de retraso. Ese día, debido al retraso, el CTC alteró el cruce habitual con el tren 6414 y lo dispuso en la estación de Astillero, en lugar de la estación de Heras; el personal de conducción del 6803 no tuvo conocimiento de ese cambio. El CTC estableció parada ante la señal S1/1L para el 6803 y un itinerario de entrada hacia vía 4L por el escape 2/4 para el 6414, que circulaba en sentido contrario.\n\nEl tren 6803 se estacionó en vía 1 a las 14:22 y reinició la marcha a las 14:23 tras las operaciones comerciales. Pasó la señal S1/1 en aviso de parada a 32 km/h, continuó por un falso túnel y alcanzó 64,8 km/h. Al advertir que la señal S1/1L estaba en indicación de parada, el maquinista aplicó freno de servicio y después la seta de emergencia, pero rebasó la señal a 39 km/h y se activó el ASFA. A continuación talonó la aguja A2 y descarriló el segundo eje del primer bogie del vehículo de cabeza, deteniéndose 44 m después.\n\nNo se produjo conato de colisión porque el tren 6414 estaba protegido por las señales de entrada a Astillero y el 6803 tenía detrás la señal S1. No hubo víctimas. El vehículo fue encarrilado por la brigada de socorro a las 16:50 y la circulación se restableció a las 18:15 tras reparar el desvío A2.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Astillero",
+    "pk": "540+075",
+    "linea": "24 Santander - Bilbao",
+    "provincia": "Cantabria",
+    "descripcion_lugar": "Estación de Astillero, tramo Santander - Basurto, trayecto Astillero - La Cantábrica (apeadero); accidente junto a la señal S1/1L (PK 540+782) y el escape A2/A4, cerca del falso túnel."
+   },
+   "pagina": 4,
+   "cita": "El tren 6803 se estaciona en vía 1 de Astillero, y tras terminar las operaciones comerciales, inicia la",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: daños en varios elementos del cambio A2 (bielas, barras de comprobación y torsión del espadín derecho), valorados en 2.336 euros. Material rodante: sin daños de consideración; encarrilamiento valorado en 1.955 euros.",
+    "afectacion_servicio": "Circulación interrumpida durante 146 minutos, de 14:24 a 16:50; vía general interceptada; 6 trenes suprimidos y 16 trenes con un retraso total de 255 minutos; se usaron autobuses para viajeros de los trenes 6803 y 8602 y transbordos tren a tren por el apeadero de La Cantábrica; la circulación se restableció a las 18:15 tras reparar el desvío A2."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista del tren 6803",
+     "implicacion": "Carné ferroviario 8480; habilitado; 29 años de antigüedad; reciclaje 2010-08-20 y reconocimiento 2011-03-23; pruebas de alcohol y drogas negativas; no fue informado del cambio de cruce; aplicó freno de servicio y emergencia; incumplió las señales S1/1 y S1/1L."
+    }
+   ],
+   "pagina": 5,
+   "cita": "El maquinista del tren 6803, con carné ferroviario 8480.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "6803",
+     "tipo": "tren regional de viajeros",
+     "operador": "Feve",
+     "danos": "Sin daños de consideración; fue necesario el encarrilamiento, valorado en 1.955 euros."
+    },
+    {
+     "numero": "6414",
+     "tipo": "tren",
+     "operador": "Feve",
+     "danos": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "a la línea 24 Santander - Bilbao, el tren de viajeros 6803 de Feve rebasa indebidamente la señal de",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "tipo 2400; unidad diesel-eléctrica (UTDE) de cuatro bogies y ocho ejes, con cabinas Mc 2452 y Mc 2402; dispone de ASFA",
+    "averia": "ninguna; funcionó correctamente",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Enclavamiento electrónico; señal S1/1 en aviso de parada; señal S1/1L alta de tres focos en indicación de parada, con baliza ASFA de pie de señal y no previa; ASFA en el tren.",
+    "tipo_via": "vía única",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "funcionó correctamente",
+    "otro": "Bloqueo automático (BAU) con control de tráfico centralizado (CTC) en Santander; apeadero de La Cantábrica a unos 950 m; falso túnel; visibilidad de la señal S1/1L de unos 210 m; distancia de MT/OT a S1/1L de 661 m."
+   },
+   "pagina": 5,
+   "cita": "única electrificada. El bloqueo es automático (BAU) con control de tráfico centralizado (CTC) en",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Enclavamiento electrónico; señal S1/1 en aviso de parada; señal S1/1L alta de tres focos en indicación de parada, con baliza ASFA de pie de señal y no previa; ASFA en el tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía analógica/digital.",
+   "pagina": 8,
+   "cita": "2.2.5. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: daños en varios elementos del cambio A2 (bielas, barras de comprobación y torsión del espadín derecho), valorados en 2.336 euros. Material rodante: sin daños de consideración; encarrilamiento valorado en 1.955 euros.",
+    "afectacion_servicio": "Circulación interrumpida durante 146 minutos, de 14:24 a 16:50; vía general interceptada; 6 trenes suprimidos y 16 trenes con un retraso total de 255 minutos; se usaron autobuses para viajeros de los trenes 6803 y 8602 y transbordos tren a tren por el apeadero de La Cantábrica; la circulación se restableció a las 18:15 tras reparar el desvío A2."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: daños en varios elementos del cambio A2 (bielas, barras de comprobación y torsión del espadín derecho), valorados en 2.336 euros. Material rodante: sin daños de consideración; encarrilamiento valorado en 1.955 euros.",
+    "afectacion_servicio": "Circulación interrumpida durante 146 minutos, de 14:24 a 16:50; vía general interceptada; 6 trenes suprimidos y 16 trenes con un retraso total de 255 minutos; se usaron autobuses para viajeros de los trenes 6803 y 8602 y transbordos tren a tren por el apeadero de La Cantábrica; la circulación se restableció a las 18:15 tras reparar el desvío A2."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: daños en varios elementos del cambio A2 (bielas, barras de comprobación y torsión del espadín derecho), valorados en 2.336 euros. Material rodante: sin daños de consideración; encarrilamiento valorado en 1.955 euros.",
+    "afectacion_servicio": "Circulación interrumpida durante 146 minutos, de 14:24 a 16:50; vía general interceptada; 6 trenes suprimidos y 16 trenes con un retraso total de 255 minutos; se usaron autobuses para viajeros de los trenes 6803 y 8602 y transbordos tren a tren por el apeadero de La Cantábrica; la circulación se restableció a las 18:15 tras reparar el desvío A2."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "tipo 2400; unidad diesel-eléctrica (UTDE) de cuatro bogies y ocho ejes, con cabinas Mc 2452 y Mc 2402; dispone de ASFA",
+    "averia": "ninguna; funcionó correctamente",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Enclavamiento electrónico; señal S1/1 en aviso de parada; señal S1/1L alta de tres focos en indicación de parada, con baliza ASFA de pie de señal y no previa; ASFA en el tren.",
+    "tipo_via": "vía única",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "funcionó correctamente",
+    "otro": "Bloqueo automático (BAU) con control de tráfico centralizado (CTC) en Santander; apeadero de La Cantábrica a unos 950 m; falso túnel; visibilidad de la señal S1/1L de unos 210 m; distancia de MT/OT a S1/1L de 661 m."
+   },
+   "pagina": 5,
+   "cita": "única electrificada. El bloqueo es automático (BAU) con control de tráfico centralizado (CTC) en",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "lluvioso y nublado; carril mojado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Cantabria",
+    "municipio": null,
+    "estacion": "Astillero"
+   },
+   "pagina": 3,
+   "cita": "El día 27 de octubre de 2011, a las 14:25 horas, en la estación de Astillero (Cantabria), perteneciente",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "lluvioso y nublado; carril mojado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Enclavamiento electrónico; señal S1/1 en aviso de parada; señal S1/1L alta de tres focos en indicación de parada, con baliza ASFA de pie de señal y no previa; ASFA en el tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Enclavamiento electrónico; señal S1/1 en aviso de parada; señal S1/1L alta de tres focos en indicación de parada, con baliza ASFA de pie de señal y no previa; ASFA en el tren.",
+    "tipo_via": "vía única",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "funcionó correctamente",
+    "otro": "Bloqueo automático (BAU) con control de tráfico centralizado (CTC) en Santander; apeadero de La Cantábrica a unos 950 m; falso túnel; visibilidad de la señal S1/1L de unos 210 m; distancia de MT/OT a S1/1L de 661 m."
+   },
+   "pagina": 5,
+   "cita": "única electrificada. El bloqueo es automático (BAU) con control de tráfico centralizado (CTC) en",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía analógica/digital.",
+   "pagina": 8,
+   "cita": "2.2.5. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "tipo 2400; unidad diesel-eléctrica (UTDE) de cuatro bogies y ocho ejes, con cabinas Mc 2452 y Mc 2402; dispone de ASFA",
+    "averia": "ninguna; funcionó correctamente",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "El retraso del tren 6803 motivó alterar el cruce con el tren 6414 en Astillero, habitualmente establecido en Heras.",
+    "El personal de conducción del tren 6803 no tuvo conocimiento de la alteración del cruce; según su declaración, nadie del CTC se puso en contacto para informarle.",
+    "El maquinista reconoció la indicación de aviso de parada de la señal S1/1, pero incrementó la velocidad hasta 64,8 km/h.",
+    "La distancia de visibilidad de la señal S1/1L era de 210 m y el frenado se inició a una distancia inferior, de 170 m.",
+    "La deceleración del frenado de emergencia fue algo menor que la establecida en la NBSM, posiblemente por el carril húmedo y la lluvia.",
+    "El carril estaba mojado y no había arenado, según la declaración del maquinista."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 6803 se encuentra habilitado para la conducción de vehículos ferroviarios en \nvirtud de la capacitación adquirida de conformidad con el estatuto propio y la normativa legal aplicable \na Feve. \nÉste tiene una antigüedad en el cargo de 29 años (24 como maquinista principal y 5 de maquinista). \nRealizó su último reciclaje formativo el 20/08/10 y su último reconocimiento médico y psicotécnico el \n23/03/11, conforme a la normativa vigente establecida por Feve.  \n3.3. \nNORMATIVA",
+   "pagina": 9,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El 2011-10-27, a las 14:25, el tren regional de viajeros 6803 de Feve, con origen Santander y destino Bilbao, salió con ocho minutos de retraso. Ese día, debido al retraso, el CTC alteró el cruce habitual con el tren 6414 y lo dispuso en la estación de Astillero, en lugar de la estación de Heras; el personal de conducción del 6803 no tuvo conocimiento de ese cambio. El CTC estableció parada ante la señal S1/1L para el 6803 y un itinerario de entrada hacia vía 4L por el escape 2/4 para el 6414, que circulaba en sentido contrario.\n\nEl tren 6803 se estacionó en vía 1 a las 14:22 y reinició la marcha a las 14:23 tras las operaciones comerciales. Pasó la señal S1/1 en aviso de parada a 32 km/h, continuó por un falso túnel y alcanzó 64,8 km/h. Al advertir que la señal S1/1L estaba en indicación de parada, el maquinista aplicó freno de servicio y después la seta de emergencia, pero rebasó la señal a 39 km/h y se activó el ASFA. A continuación talonó la aguja A2 y descarriló el segundo eje del primer bogie del vehículo de cabeza, deteniéndose 44 m después.\n\nNo se produjo conato de colisión porque el tren 6414 estaba protegido por las señales de entrada a Astillero y el 6803 tenía detrás la señal S1. No hubo víctimas. El vehículo fue encarrilado por la brigada de socorro a las 16:50 y la circulación se restableció a las 18:15 tras reparar el desvío A2.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Rebase indebido de la señal S1/1L, en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El retraso del tren 6803 motivó alterar el cruce con el tren 6414 en Astillero, habitualmente establecido en Heras.",
+    "El personal de conducción del tren 6803 no tuvo conocimiento de la alteración del cruce; según su declaración, nadie del CTC se puso en contacto para informarle.",
+    "El maquinista reconoció la indicación de aviso de parada de la señal S1/1, pero incrementó la velocidad hasta 64,8 km/h.",
+    "La distancia de visibilidad de la señal S1/1L era de 210 m y el frenado se inició a una distancia inferior, de 170 m.",
+    "La deceleración del frenado de emergencia fue algo menor que la establecida en la NBSM, posiblemente por el carril húmedo y la lluvia.",
+    "El carril estaba mojado y no había arenado, según la declaración del maquinista."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "En la formación impartida al personal de conducción incidir en las actitudes y comportamientos que son fuente de riesgos para la circulación, insistiendo en el estricto cumplimiento del Reglamento de Circulación de Trenes y de Señales de Feve.",
+    "En la formación impartida al personal de conducción incidir en las actitudes y comportamientos que son fuente de riesgos para la circulación, insistiendo en el estricto cumplimiento del Reglamento de Circulación de Trenes y de Señales de Feve."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Feve",
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "14:22",
+     "evento": "El tren 6803 se detiene en la estación de Astillero."
+    },
+    {
+     "hora": "14:23",
+     "evento": "El tren 6803 inicia la marcha tras la parada comercial."
+    },
+    {
+     "hora": "14:24",
+     "evento": "El tren 6803 pasa la señal S1/1 en aviso de parada a 32 km/h."
+    },
+    {
+     "hora": "14:24",
+     "evento": "El tren 6803 supera la señal S1/1 y ocupa el circuito CV1L con la señal S1/1L cerrada."
+    },
+    {
+     "hora": "14:24",
+     "evento": "El tren 6803 inicia el frenado y poco después aplica la seta de emergencia."
+    },
+    {
+     "hora": "14:24",
+     "evento": "El tren 6803 rebasa la señal S1/1L en parada a 39 km/h y se activa el frenado de emergencia por ASFA."
+    },
+    {
+     "hora": "14:25",
+     "evento": "Se produce el talonamiento de la aguja A2 y el descarrilamiento del segundo eje del primer bogie del vehículo de cabeza."
+    },
+    {
+     "hora": "14:25",
+     "evento": "El tren 6803 se detiene 44 m después de la señal rebasada."
+    },
+    {
+     "hora": "14:25",
+     "evento": "El tren 6414 se encuentra en plena vía entre Heras y Astillero, sin haber superado la señal E'2."
+    },
+    {
+     "hora": "14:34",
+     "evento": "El tren 6414 se sitúa antes de la señal de avanzada E'2 de Astillero, encontrándose cerrada."
+    },
+    {
+     "hora": "16:50",
+     "evento": "El vehículo descarrilado se encarrila por la brigada de socorro y se aparta por sus propios medios."
+    },
+    {
+     "hora": "18:15",
+     "evento": "Termina la reparación del desvío A2 y se restablece la circulación en condiciones normales."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0050/2011",
+ "expediente": "0050/011",
+ "anio": 2011,
+ "titulo": "Informe final sobre el accidente ferroviario nº 0050/2011 ocurrido el día 27.10.2011 en la estación de Astillero (Cantabria)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-271011-240712-CIAF.md"
+}

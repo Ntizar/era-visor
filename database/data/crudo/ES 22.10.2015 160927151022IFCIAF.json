@@ -1,0 +1,976 @@
+{
+ "id": "ES 22.10.2015 160927151022IFCIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/160927-151022-if-ciaf.pdf",
+ "pdf": "pdfs/ES/ES 22.10.2015 160927151022IFCIAF.pdf",
+ "md5_pdf": "527813452fd4bc3a76fdd959fea9c5e3",
+ "paginas_md": 38,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 18,
+ "n_tablas": 1,
+ "tablas": [
+  {
+   "pagina": 37,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Agencia Estatal de Seguridad Ferroviaria(AESF)",
+     "Implementador final": "Continental Rail",
+     "Número": "52/2015-1",
+     "Recomendación": "Que se elabore e incluya dentro del SGS de Continental Rail un procedimiento que establezca las medidas necesarias para verificar el cumplimiento de las jornadas de trabajo de los maquinistas en función de los servicios grafiados de trenes y, en caso de situación degradada, para reajustar los tiempos de conducción e impedir su incumplimiento."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0052/2015",
+   "pagina": 1,
+   "cita": "nº 0052/2015 ocurrido el 22.10.2015",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 22 de octubre de 2015 a las 06:34, el tren de mercancías 99563 de Continental Rail rebasó indebidamente la señal de salida S1/3 en parada en la estación-apartadero de Río Huerva (línea 214, Zaragoza), produciéndose un conato de colisión con el tren BAR70 de Transfesa Rail detenido ante la señal E2. El incidente se debió a un fallo humano por falta de atención del maquinista, con causas coadyuvantes de escasa experiencia, desconocimiento de la vía de apartado y posible fatiga por exceso de tiempos de conducción. No hubo víctimas ni daños materiales. La vía 3 estuvo interceptada 148 minutos y la vía 1, 56 minutos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2015-10-22",
+    "hora": null,
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Río Huerva",
+     "pk": "16+973",
+     "linea": "214 La Cartuja a Zaragoza CIM",
+     "provincia": "Zaragoza",
+     "descripcion_lugar": "Estación-apartadero de Río Huerva, variante exterior a Zaragoza, con dos vías y enclavamiento electrónico. Vía única electrificada de ancho ibérico con bloqueo automático (BAU) y CTC gestionado desde Zaragoza. Las vías discurren en paralelo con la plataforma del Bypass de Zaragoza de la LAV 050 Madrid-Barcelona. Tramo Bif. Teruel – Cartuja – Ag. 23+300."
+    }
+   },
+   "pagina": 32,
+   "cita": "FECHA 22/10/2015 SEÑAL S1/3 MADRID BARCELONA FECHA 26/04/2012 ## Página 33 A MINISTERIO DE FOMENTO SUBSECRETARÍA Investigación del incidente nº 0052/2015 ocurrido el 22.10.2015 Informe final",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura.",
+    "afectacion_servicio": "Intercepción de vía 3: 148 minutos (06:34-09:02). Intercepción de vía 1 (general): 56 minutos. Retrasos: 148 min tren 99563, 56 min tren BAR70, 12 min tren CGX18. Tren 99563 sale con 478 minutos de retraso."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del personal de conducción del tren 99563 por falta de atención, dando lugar al rebase indebido de la señal de salida S1/3 en indicación de parada y consecuente incumplimiento reglamentario (art. 213 y 217.1 del RGC).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Escasa experiencia del maquinista (titular desde 08/09/2015, solo 6 pasos por la vía general de Río Huerva).",
+    "No haber circulado con anterioridad por la vía de apartado de Río Huerva (ni durante la formación).",
+    "Posible fatiga: 10 horas 34 minutos de servicio y 8 horas 14 minutos de conducción en el momento del rebase.",
+    "Superación del tiempo máximo de conducción continuada (7h07min hasta Tardienta sin descanso de 45 min; 8h14min acumulados hasta Río Huerva).",
+    "Confusión del maquinista con las señales de la LAV 050 paralela (aunque la CIAF no lo considera probable tras análisis de visibilidad).",
+    "No haber sido informado de que sería apartado en Río Huerva."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ausencia en el SGS de Continental Rail de procedimiento para verificar cumplimiento de jornadas y reajustar tiempos de conducción en situación degradada.",
+    "No inclusión de las Recomendaciones Técnicas 7/2014 de la DGF sobre control de tiempos máximos de conducción en el SGS de Continental Rail.",
+    "Ausencia de procedimiento en el SGS de Continental Rail para suspensión, revocación y recuperación de habilitaciones tras un fallo humano."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Que se elabore e incluya dentro del SGS de Continental Rail un procedimiento que establezca las medidas necesarias para verificar el cumplimiento de las jornadas de trabajo de los maquinistas en función de los servicios grafiados de trenes y, en caso de situación degradada, para reajustar los tiempos de conducción e impedir su incumplimiento."
+   ],
+   "pagina": 37,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Agencia Estatal de Seguridad Ferroviaria(AESF)"
+   ],
+   "pagina": 37,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente",
+   "pagina": 1,
+   "cita": "Investigación del incidente",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Continental Rail"
+   ],
+   "pagina": 5,
+   "cita": "ferroviaria Continental Rail rebasa indebidamente la señal de salida S1/3 que se encontraba en",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2015-10-22",
+   "pagina": 32,
+   "cita": "FECHA 22/10/2015 SEÑAL S1/3 MADRID BARCELONA FECHA 26/04/2012 ## Página 33 A MINISTERIO DE FOMENTO SUBSECRETARÍA Investigación del incidente nº 0052/2015 ocurrido el 22.10.2015 Informe final",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Río Huerva",
+    "pk": "16+973",
+    "linea": "214 La Cartuja a Zaragoza CIM",
+    "provincia": "Zaragoza",
+    "descripcion_lugar": "Estación-apartadero de Río Huerva, variante exterior a Zaragoza, con dos vías y enclavamiento electrónico. Vía única electrificada de ancho ibérico con bloqueo automático (BAU) y CTC gestionado desde Zaragoza. Las vías discurren en paralelo con la plataforma del Bypass de Zaragoza de la LAV 050 Madrid-Barcelona. Tramo Bif. Teruel – Cartuja – Ag. 23+300."
+   },
+   "pagina": 6,
+   "cita": "circuito de agujas y estacionarse en vía 3.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "El tramo de vía donde se ubica la estación de Río Huerva es de vía única electrificada de ancho ibérico. \nEl bloqueo es automático (BAU) con control de tráfico centralizado (CTC), gestionado desde Zaragoza. \nEste tramo ferroviario soporta, básicamente, tráficos de mercancías, pues se trata de una variante \nexterior a Zaragoza, evitando el paso de estos tráficos por la ciudad. La velocidad máxima del tramo es \nde 160 km/h. \nLa estación de Río Huerva es una instalación (apartadero) que permite el estacionamiento y cruce de \nlos trenes que circulan por dicha variante. La estación dispone de dos vías y su enclavamiento es \nelectrónico. A esta altura, las vías discurren en paralelo con la plataforma del Bypass de Zaragoza de la \nlínea de alta velocidad  050 Madrid a Barcelona. \nEl enclavamiento de esta estación puede manejarse a nivel local desde un puesto de operador ubicado \nen el gabinete de circulación, o en modo remoto desde el Puesto de Mando de Zaragoza, siendo en \nesta última situación en la que se encontraba en el momento de producirse el suceso. \nEn el sentido de circulación del tren 99563, el trazado en planta corresponde a una curva a derechas \nde radio amplio (unos 2000 metros). El perfil es en rampa de 16 milésimas, si bien en la zona de la \nestación se reduce.  \n \nLocomotora 335 \n\n## Página 10\n\n \n \n \n \n \n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0052/2015 ocurrido el 22.10.2015 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n160927-151022-IF-CIAF.doc \n \n \nPág. 10 de 38 \nInstalaciones en sentido impar (sentido del tren 99563) \nLa señal avanzada E’1 (PK 19+107) es alta de tres focos que puede presentar las indicaciones de \nparada (señal permisiva dotada de pantalla con la letra “P”), anuncio de parada, anuncio de \nprecaución, preanuncio de parada y vía libre y está dotada de pantallas de proximidad. Se trata de una \nseñal alfanumérica y dispone de baliza Asfa, previa y de pie de señal, distantes unos 300 metros. \nLa señal de entrada E1 (PK 17+591) es alta de tres focos que puede presentar las indicaciones de \nparada, anuncio de parada y vía libre. Ésta dispone de baliza Asfa, previa y de pie de señal, distantes \nunos 300 metros. \nEl desvío que permite el paso de vía 1 (vía general) a la vía 3 de la estación es de tipo B con velocidad \nde paso de 50 km/h y se sitúa en el PK 17+541 (lado Barcelona).  \nLa señal  S1/3 (PK 16+694),  de salida de la estación (lado Madrid), está instalada en  semimástil, es \nde cuatro focos y puede presentar las indicaciones de parada, anuncio de parada y vía libre. Ésta \ndispone de balizas Asfa, previa y de pie de señal, distantes unos 150 metros (Aviso nº 3, vigente \ndesde el 24 de febrero de 2015 en la estación de Río Huerva de la línea 214 C.I.M. de Zaragoza a La \nCartuja). La señal está situada a la derecha, según el sentido de circulación del tren y su visibilidad es \nbuena. \nEl desvío que permite el paso de vía 3 a vía 1 (vía general) es de tipo B con velocidad de paso de 50 \nkm/h y se sitúa en el PK 16+611 (lado Madrid), a una distancia de 83 m de la señal S1/3. \nLa señal S1/1 (PK 17+644), lado Bif. Teruel (lado Madrid), dispone de balizas Asfa, previa y de pie de \nseñal, distantes unos 300 metros (Aviso nº 3, vigente desde el 24 de febrero de 2015 en la estación \nde Río Huerva de la línea 214 C.I.M. de Zaragoza a La Cartuja). \nLas señales se sitúan a la derecha en el sentido de la marcha del tren y tienen buena visibilidad. \nInstalaciones en sentido par \nSeñal avanzada E’2 (PK. 014+690) es alta de tres focos que puede presentar las indicaciones de \nparada (señal permisiva dotada de pantalla con la letra “P”), anuncio de parada,  anuncio de \nprecaución, preanuncio de parada y vía libre, y está dotada de pantallas de proximidad. Se trata de \nuna señal alfanumérica y dispone de baliza Asfa, previa y de pie de señal, distantes unos 300 metros. \nLa señal de entrada E2 (PK. 016+560) es alta de tres focos que puede presentar las indicaciones de \nparada, anuncio de parada y vía libre. Ésta dispone de baliza Asfa, previa y de pie de señal, distantes \nunos 300 metros. Entre la señal E2 y el desvío A2 la distancia es de unos 51 metros. \n \n\n## Página 11\n\n \n \n \n \n \n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0052/2015 ocurrido el 22.10.2015 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n160927-151022-IF-CIAF.doc \n \n \nPág. 11 de 38 \nLa señal S2/3 (PK 17+448), de salida de la estación (lado Barcelona), está instalada en  semimástil, es \nde cuatro focos y puede presentar las indicaciones de parada, anuncio de parada y vía libre (Aviso nº \n3, vigente desde el 24 de febrero de 2015 en la estación de Río Huerva de la línea 214 C.I.M. de \nZaragoza a La Cartuja).  \nLa señal S2/1 (PK 17+448),  lado La Cartuja (lado Barcelona) dispone de balizas Asfa, previa y de pie \nde señal, distantes unos 300 metros (Aviso nº 3, vigente desde el 24 de febrero de 2015 en la \nestación de Río Huerva de la línea 214 C.I.M. de Zaragoza a La Cartuja).  \nSegún consta en el cuadro de velocidades máximas, en el ámbito de la estación de Río Huerva la \nvelocidad máxima permitida es de 160 km/h para el paso del tren por vía general.  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n. \n \n \nMADRID \nBARCELONA\nLÍNEA AVE\nSeñal E1  \n\n## Página 12\n\n \n \n \n \n \n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0052/2015 ocurrido el 22.10.2015 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n160927-151022-IF-CIAF.doc \n \n \nPág. 12 de 38 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nSEÑAL \nS1/1 \nSEÑAL \nS1/3 \nMADRID \nBARCELONA\n\n## Página 13\n\n \n \n \n \n \n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0052/2015 ocurrido el 22.10.2015 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n160927-151022-IF-CIAF.doc \n \n \nPág. 13 de 38",
+   "pagina": 9,
+   "cita": "2.2.3. Descripción de la infraestructura",
+   "origen": "determinista",
+   "regla": "sec:^descripci[óo]n de la infraestructura$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora diésel-eléctrica 335023 (U.I.C. 95.71.0.335.023-8), serie 335",
+    "averia": "Ninguna. El material rodante funcionó de modo correcto. El ASFA activó el frenado de urgencia correctamente.",
+    "mantenimiento": "No se constatan deficiencias de mantenimiento. Composición: locomotora + 17 vagones, 70 ejes, 460 m, 1047 t. Sexto vagón con mercancías peligrosas (nº peligro 80/ONU 1823 y nº peligro 33/ONU 1987)."
+   },
+   "pagina": 8,
+   "cita": "por la locomotora diésel-eléctrica 335023 (U.I.C. 95.71.0.335.023-8), 17 vagones, 70 ejes, 460 metros",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 22 de octubre de 2015 a las 06:34 horas, en la estación-apartadero de Río Huerva (PK 16+973) de la línea 214 La Cartuja a CIM de Zaragoza, el tren de mercancías 99563 de Continental Rail y el tren BAR70 de Transfesa Rail circulaban en sentido contrario por vía única hacia la estación. Para permitir el cruce, el CTC dispuso la detención del BAR70 ante la señal de entrada E2 y estableció itinerario de entrada a vía 3 para el 99563, con la señal de salida S1/3 en indicación de parada. El tren BAR70 pasó la avanzada E'2 en anuncio de parada y se detuvo ante E2. El 99563 encontró la avanzada E'1 en anuncio de precaución y la entrada E1 en anuncio de parada; tras pasar la aguja 1 hacia la vía 3, el maquinista no se percató a tiempo de la señal S1/3 en parada. Al pasar la baliza previa, activó el freno de emergencia, pero rebasó la baliza de pie de señal, activándose la urgencia del ASFA. El tren quedó detenido 47 metros después de la señal, sin talonar la aguja 2, a 97 metros del BAR70 detenido. Se produjo un conato de colisión. El maquinista comunicó al CTC lo sucedido y fue autorizado a retroceder y estacionarse en vía 3.",
+   "pagina": 5,
+   "cita": "RESUMEN El día 22 de octubre de 2015, a las 06:34 horas, en la estación de Río Huerva (Zaragoza), perteneciente a la línea 214 La Cartuja a Zaragoza CIM, el tren de mercancías 99563 de la empresa ferroviaria Continent",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Río Huerva",
+    "pk": "16+973",
+    "linea": "214 La Cartuja a Zaragoza CIM",
+    "provincia": "Zaragoza",
+    "descripcion_lugar": "Estación-apartadero de Río Huerva, variante exterior a Zaragoza, con dos vías y enclavamiento electrónico. Vía única electrificada de ancho ibérico con bloqueo automático (BAU) y CTC gestionado desde Zaragoza. Las vías discurren en paralelo con la plataforma del Bypass de Zaragoza de la LAV 050 Madrid-Barcelona. Tramo Bif. Teruel – Cartuja – Ag. 23+300."
+   },
+   "pagina": 6,
+   "cita": "circuito de agujas y estacionarse en vía 3.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura.",
+    "afectacion_servicio": "Intercepción de vía 3: 148 minutos (06:34-09:02). Intercepción de vía 1 (general): 56 minutos. Retrasos: 148 min tren 99563, 56 min tren BAR70, 12 min tren CGX18. Tren 99563 sale con 478 minutos de retraso."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 99563 (Continental Rail)",
+     "implicacion": "Fallo humano por falta de atención: rebasó la señal S1/3 en parada. No se percató a tiempo de la indicación. Escasa experiencia (titular desde 08/09/2015), primera vez que entraba por la vía desviada de Río Huerva. Posible fatiga (10h34min de servicio, 8h14min de conducción). Confundió la señal con las de la LAV 050. Suspendido de conducción tras el suceso; baja definitiva el 05/11/2015."
+    },
+    {
+     "rol": "Responsable de circulación Adif (turno 6-14h, Puesto de Mando Zaragoza)",
+     "implicacion": "Estableció itinerario de entrada a vía 3 para el 99563 y detención del BAR70 ante E2. Autorizó retroceso y estacionamiento en vía 3. Informó a Logística de Infraestructura y Seguridad en la Circulación."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "No hubo víctimas mortales ni heridos.",
+   "pagina": 14,
+   "cita": "2.3.1. Viajeros, personal y terceros",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "99563",
+     "tipo": "Mercancías (T100, velocidad máxima 100 km/h)",
+     "operador": "Continental Rail",
+     "danos": "No se producen daños"
+    },
+    {
+     "numero": "BAR70",
+     "tipo": "Mercancías",
+     "operador": "Transfesa Rail",
+     "danos": "No se producen daños"
+    },
+    {
+     "numero": "CGX18",
+     "tipo": "Mercancías",
+     "operador": "Transfesa Rail",
+     "danos": "No se producen daños"
+    }
+   ],
+   "pagina": 5,
+   "cita": "perteneciente a la línea 214 La Cartuja a Zaragoza CIM, el tren de mercancías 99563 de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora diésel-eléctrica 335023 (U.I.C. 95.71.0.335.023-8), serie 335",
+    "averia": "Ninguna. El material rodante funcionó de modo correcto. El ASFA activó el frenado de urgencia correctamente.",
+    "mantenimiento": "No se constatan deficiencias de mantenimiento. Composición: locomotora + 17 vagones, 70 ejes, 460 m, 1047 t. Sexto vagón con mercancías peligrosas (nº peligro 80/ONU 1823 y nº peligro 33/ONU 1987)."
+   },
+   "pagina": 8,
+   "cita": "por la locomotora diésel-eléctrica 335023 (U.I.C. 95.71.0.335.023-8), 17 vagones, 70 ejes, 460 metros",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales alfanuméricas con ASFA. S1/3 en semimástil, cuatro focos, con baliza previa y de pie a 150 m (modificación desde Aviso nº3 de 24/02/2015; antes era mono bajo). Visibilidad buena. Señales de la LAV 050 a ~550 m al fondo, más altas y de LED, con menor intensidad lumínica.",
+    "tipo_via": "Vía única electrificada, ancho ibérico. Estación-apartadero con dos vías (vía 1 general y vía 3 de apartado). Desvíos tipo B con velocidad de paso de 50 km/h.",
+    "velocidad_maxima": "160 km/h (tramo y paso por vía general en la estación); 100 km/h (tren 99563, tipo T100); 50 km/h (paso por desvíos)",
+    "ancho": "Ibérico (1668 mm)",
+    "electrificacion": "Electrificada",
+    "estado_via": "Correcto. No existían obras en las inmediaciones. Instalaciones funcionaron correctamente.",
+    "otro": "Bloqueo automático (BAU) con CTC gestionado desde Zaragoza. Enclavamiento electrónico operado en modo remoto desde PM Zaragoza. Radiotelefonía analógica y GSM. Tramo de soporte de mercancías (variante exterior a Zaragoza)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales alfanuméricas con ASFA. S1/3 en semimástil, cuatro focos, con baliza previa y de pie a 150 m (modificación desde Aviso nº3 de 24/02/2015; antes era mono bajo). Visibilidad buena. Señales de la LAV 050 a ~550 m al fondo, más altas y de LED, con menor intensidad lumínica.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía analógica  y telefonía móvil GSM.",
+   "pagina": 13,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura.",
+    "afectacion_servicio": "Intercepción de vía 3: 148 minutos (06:34-09:02). Intercepción de vía 1 (general): 56 minutos. Retrasos: 148 min tren 99563, 56 min tren BAR70, 12 min tren CGX18. Tren 99563 sale con 478 minutos de retraso."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura.",
+    "afectacion_servicio": "Intercepción de vía 3: 148 minutos (06:34-09:02). Intercepción de vía 1 (general): 56 minutos. Retrasos: 148 min tren 99563, 56 min tren BAR70, 12 min tren CGX18. Tren 99563 sale con 478 minutos de retraso."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura.",
+    "afectacion_servicio": "Intercepción de vía 3: 148 minutos (06:34-09:02). Intercepción de vía 1 (general): 56 minutos. Retrasos: 148 min tren 99563, 56 min tren BAR70, 12 min tren CGX18. Tren 99563 sale con 478 minutos de retraso."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora diésel-eléctrica 335023 (U.I.C. 95.71.0.335.023-8), serie 335",
+    "averia": "Ninguna. El material rodante funcionó de modo correcto. El ASFA activó el frenado de urgencia correctamente.",
+    "mantenimiento": "No se constatan deficiencias de mantenimiento. Composición: locomotora + 17 vagones, 70 ejes, 460 m, 1047 t. Sexto vagón con mercancías peligrosas (nº peligro 80/ONU 1823 y nº peligro 33/ONU 1987)."
+   },
+   "pagina": 8,
+   "cita": "por la locomotora diésel-eléctrica 335023 (U.I.C. 95.71.0.335.023-8), 17 vagones, 70 ejes, 460 metros",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales alfanuméricas con ASFA. S1/3 en semimástil, cuatro focos, con baliza previa y de pie a 150 m (modificación desde Aviso nº3 de 24/02/2015; antes era mono bajo). Visibilidad buena. Señales de la LAV 050 a ~550 m al fondo, más altas y de LED, con menor intensidad lumínica.",
+    "tipo_via": "Vía única electrificada, ancho ibérico. Estación-apartadero con dos vías (vía 1 general y vía 3 de apartado). Desvíos tipo B con velocidad de paso de 50 km/h.",
+    "velocidad_maxima": "160 km/h (tramo y paso por vía general en la estación); 100 km/h (tren 99563, tipo T100); 50 km/h (paso por desvíos)",
+    "ancho": "Ibérico (1668 mm)",
+    "electrificacion": "Electrificada",
+    "estado_via": "Correcto. No existían obras en las inmediaciones. Instalaciones funcionaron correctamente.",
+    "otro": "Bloqueo automático (BAU) con CTC gestionado desde Zaragoza. Enclavamiento electrónico operado en modo remoto desde PM Zaragoza. Radiotelefonía analógica y GSM. Tramo de soporte de mercancías (variante exterior a Zaragoza)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche, despejado, sin condiciones meteorológicas adversas",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Zaragoza",
+    "municipio": null,
+    "estacion": "Río Huerva"
+   },
+   "pagina": 5,
+   "cita": "El día 22 de octubre de 2015, a las 06:34 horas, en la estación de Río Huerva (Zaragoza),",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche, despejado, sin condiciones meteorológicas adversas",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales alfanuméricas con ASFA. S1/3 en semimástil, cuatro focos, con baliza previa y de pie a 150 m (modificación desde Aviso nº3 de 24/02/2015; antes era mono bajo). Visibilidad buena. Señales de la LAV 050 a ~550 m al fondo, más altas y de LED, con menor intensidad lumínica.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales alfanuméricas con ASFA. S1/3 en semimástil, cuatro focos, con baliza previa y de pie a 150 m (modificación desde Aviso nº3 de 24/02/2015; antes era mono bajo). Visibilidad buena. Señales de la LAV 050 a ~550 m al fondo, más altas y de LED, con menor intensidad lumínica.",
+    "tipo_via": "Vía única electrificada, ancho ibérico. Estación-apartadero con dos vías (vía 1 general y vía 3 de apartado). Desvíos tipo B con velocidad de paso de 50 km/h.",
+    "velocidad_maxima": "160 km/h (tramo y paso por vía general en la estación); 100 km/h (tren 99563, tipo T100); 50 km/h (paso por desvíos)",
+    "ancho": "Ibérico (1668 mm)",
+    "electrificacion": "Electrificada",
+    "estado_via": "Correcto. No existían obras en las inmediaciones. Instalaciones funcionaron correctamente.",
+    "otro": "Bloqueo automático (BAU) con CTC gestionado desde Zaragoza. Enclavamiento electrónico operado en modo remoto desde PM Zaragoza. Radiotelefonía analógica y GSM. Tramo de soporte de mercancías (variante exterior a Zaragoza)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía analógica  y telefonía móvil GSM.",
+   "pagina": 13,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora diésel-eléctrica 335023 (U.I.C. 95.71.0.335.023-8), serie 335",
+    "averia": "Ninguna. El material rodante funcionó de modo correcto. El ASFA activó el frenado de urgencia correctamente.",
+    "mantenimiento": "No se constatan deficiencias de mantenimiento. Composición: locomotora + 17 vagones, 70 ejes, 460 m, 1047 t. Sexto vagón con mercancías peligrosas (nº peligro 80/ONU 1823 y nº peligro 33/ONU 1987)."
+   },
+   "pagina": 8,
+   "cita": "por la locomotora diésel-eléctrica 335023 (U.I.C. 95.71.0.335.023-8), 17 vagones, 70 ejes, 460 metros",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": "Conocido el incidente por el responsable de circulación y analizada la situación, éste autoriza al \nmaquinista del tren 99563 a retroceder a vía 3. Una vez relevado el maquinista, el tren reanuda la \nmarcha a las 9:02 h. Por su parte, el tren BAR detenido ante la señal E2 es autorizado a proseguir la \nmarcha sobre las 7:30 h.",
+   "pagina": 28,
+   "cita": "3.5.1. Medidas tomadas por el personal de circulación",
+   "origen": "determinista",
+   "regla": "sec:^medidas tomadas por el personal de circulaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Escasa experiencia del maquinista (titular desde 08/09/2015, solo 6 pasos por la vía general de Río Huerva).",
+    "No haber circulado con anterioridad por la vía de apartado de Río Huerva (ni durante la formación).",
+    "Posible fatiga: 10 horas 34 minutos de servicio y 8 horas 14 minutos de conducción en el momento del rebase.",
+    "Superación del tiempo máximo de conducción continuada (7h07min hasta Tardienta sin descanso de 45 min; 8h14min acumulados hasta Río Huerva).",
+    "Confusión del maquinista con las señales de la LAV 050 paralela (aunque la CIAF no lo considera probable tras análisis de visibilidad).",
+    "No haber sido informado de que sería apartado en Río Huerva."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del  tren 99563 posee el título B de conducción de vehículos ferroviarios y está habilitado \nconforme a la Orden FOM/2520/2006, de 27 de julio (Título V – Personal de conducción - en vigor \nhasta el 21 de enero de 2018, en virtud de la disposición transitoria octava de la Orden \nFOM/2872/2010, de 5 de noviembre).  \nTiene una antigüedad en la empresa desde el 29-07-2015, título de conducción de vehículos \nferroviarios categoría B de fecha 21-01-2015, certificado de actitud psicofísica de fecha 17-09-2014,  \nhabilitación de las líneas 200, 210, 214, 216, 218, 284, 286, 288, 220, 230, 234, 238, 240, 600, 622 y \n624 otorgadas el día 07-09-2015 y del material de las series 333.3 y 335  el día 07-09-2015. \nInicia su actividad como maquinista titular en la empresa el 08 de septiembre de 2015 y hasta el día \ndel suceso no tuvo ningún rebase indebido de señal. Por la vía general de la estación de Río Huerva ha \npasado unas 6 veces (2 veces en el sentido del rebase y 4 en el sentido contrario) y el día del suceso \nera la primera vez que realizaba la entrada por la vía desviada. \nCon respecto a la formación recibida para la habilitación por infraestructura, por la línea 214 (donde se \nubica la estación de Río Huerva) pasó 5 veces en sentido impar (el del rebase) y dos en sentido \ncontrario. El tiempo de formación para el trayecto Barcelona-Zaragoza fue de 99 horas, de las que 3,5 \nhoras corresponden a la línea 214. Durante esta formación tampoco circuló por la vía desviada de Río \nHuerva.    \n3.3. \nNORMATIVA",
+   "pagina": 23,
+   "cita": "3.2.6. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 22 de octubre de 2015 a las 06:34 horas, en la estación-apartadero de Río Huerva (PK 16+973) de la línea 214 La Cartuja a CIM de Zaragoza, el tren de mercancías 99563 de Continental Rail y el tren BAR70 de Transfesa Rail circulaban en sentido contrario por vía única hacia la estación. Para permitir el cruce, el CTC dispuso la detención del BAR70 ante la señal de entrada E2 y estableció itinerario de entrada a vía 3 para el 99563, con la señal de salida S1/3 en indicación de parada. El tren BAR70 pasó la avanzada E'2 en anuncio de parada y se detuvo ante E2. El 99563 encontró la avanzada E'1 en anuncio de precaución y la entrada E1 en anuncio de parada; tras pasar la aguja 1 hacia la vía 3, el maquinista no se percató a tiempo de la señal S1/3 en parada. Al pasar la baliza previa, activó el freno de emergencia, pero rebasó la baliza de pie de señal, activándose la urgencia del ASFA. El tren quedó detenido 47 metros después de la señal, sin talonar la aguja 2, a 97 metros del BAR70 detenido. Se produjo un conato de colisión. El maquinista comunicó al CTC lo sucedido y fue autorizado a retroceder y estacionarse en vía 3.",
+   "pagina": 5,
+   "cita": "RESUMEN El día 22 de octubre de 2015, a las 06:34 horas, en la estación de Río Huerva (Zaragoza), perteneciente a la línea 214 La Cartuja a Zaragoza CIM, el tren de mercancías 99563 de la empresa ferroviaria Continent",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del personal de conducción del tren 99563 por falta de atención, dando lugar al rebase indebido de la señal de salida S1/3 en indicación de parada y consecuente incumplimiento reglamentario (art. 213 y 217.1 del RGC).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Escasa experiencia del maquinista (titular desde 08/09/2015, solo 6 pasos por la vía general de Río Huerva).",
+    "No haber circulado con anterioridad por la vía de apartado de Río Huerva (ni durante la formación).",
+    "Posible fatiga: 10 horas 34 minutos de servicio y 8 horas 14 minutos de conducción en el momento del rebase.",
+    "Superación del tiempo máximo de conducción continuada (7h07min hasta Tardienta sin descanso de 45 min; 8h14min acumulados hasta Río Huerva).",
+    "Confusión del maquinista con las señales de la LAV 050 paralela (aunque la CIAF no lo considera probable tras análisis de visibilidad).",
+    "No haber sido informado de que sería apartado en Río Huerva."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": "No se ha podido constatar la existencia dentro del SGS de Continental Rail de un procedimiento que \nestablezca las medidas necesarias para verificar el cumplimiento de las jornadas de trabajo de los \nmaquinistas en función de los servicios grafiados de trenes y, en caso de situación degradada, para \nreajustar los tiempos de conducción e impedir su incumplimiento. (Ver Recomendación 52/2015-1). \nAsimismo, no se ha podido constatar la inclusión en el SGS del contenido de las Recomendaciones \nTécnicas 7/2014 de la Dirección General de Ferrocarriles sobre procedimientos de control de los \ntiempos máximos de conducción. (Ver Recomendación 28/2015-2). \n5. \nMEDIDAS ADOPTADAS \nPor parte de Continental Rail \nDesde fechas anteriores a este suceso la empresa está aplicando las siguientes medidas: \n1.- De índole formativa hacia el personal  de conducción: \n\n## Página 37\n\n \n \n \n \n \n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0052/2015 ocurrido el 22.10.2015 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n160927-151022-IF-CIAF.doc \n \n \nPág. 37 de 38 \n \nEn la formación de inicio relacionada con las habilitaciones de infraestructura de incide en las \ncircunstancias a tener en cuenta cuando se realiza el apartado de un tren en una estación que \ndispone de desvíos con velocidad superior a 30 km/h que, aunque la velocidad de paso por \nlos desvíos sea superior a esta velocidad, se tiene que tener presente que el tren debe \ndetenerse ante la señal de salida correspondiente por lo que, aunque se pueda iniciar la \nentrada en la citada vía a la velocidad permitida, debe de anticiparse el frenado con el fin de \nrealizar la parada en el lugar apropiado. \n \nAsimismo se incide en no tomar nunca como referencia para el estacionamiento en una vía de \napartado la situación de la baliza previa de la señal de salida, pues no todas estas balizas \nestán situadas a la misma distancia, o dicha baliza no se encuentra instalada. \n2.- De índole organizativo: \n \nSe incide y está en fase de implantación el comprobar que en los trenes que circulan con \nhorario alterado el personal  de conducción realiza los descansos antes de agotar las 6 horas \nde conducción continuada, ya que actualmente se realiza un control de estos parámetros pero \nuna vez realizado el tren, hecho este que puede ser correcto cuando el tren circula con \nrespecto al horario previsto, pero no cuando es un tren sin marcha determinada o con el \nhorario alterado por incidencias u otras causas. \nCon respecto al maquinista del tren 99563, tras el suceso se le suspende de la actividad de \nconducción, causando  baja definitiva  en la empresa el 5 de noviembre de 2015. \nNo se ha podido constatar la existencia dentro del SGS de Continental Rail de un procedimiento que \nestablezca unos criterios generales para la suspensión, revocación y recuperación  de las habilitaciones \ntras un fallo humano en función de la gravedad de éste. (Ver Recomendación 28/2015-3). \n6. \nRECOMENDACIONES \n \nDestinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal de \nSeguridad \nFerroviaria(AESF) \nContinental Rail \n52/2015-1 \nQue se elabore e incluya dentro del SGS \nde Continental Rail un procedimiento que \nestablezca las medidas necesarias para \nverificar el cumplimiento de las jornadas \nde trabajo de los maquinistas en función \nde los servicios grafiados de trenes y, en \ncaso \nde \nsituación \ndegradada, \npara \nreajustar los tiempos de conducción e \nimpedir su incumplimiento.    \n\n### Tablas de la página 37\n\n| Destinatario | Implementador final | Número | Recomendación |\n|---|---|---|---|\n| Agencia Estatal de Seguridad Ferroviaria(AESF) | Continental Rail | 52/2015-1 | Que se elabore e incluya dentro del SGS de Continental Rail un procedimiento que establezca las medidas necesarias para verificar el cumplimiento de las jornadas de trabajo de los maquinistas en función de los servicios grafiados de trenes y, en caso de situación degradada, para reajustar los tiempos de conducción e impedir su incumplimiento. |\n\n## Página 38\n\n \n \n \n \n \n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0052/2015 ocurrido el 22.10.2015 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n160927-151022-IF-CIAF.doc \n \n \nPág. 38 de 38 \nAgencia Estatal de \nSeguridad \nFerroviaria(AESF) \nContinental Rail \n52/2015-2 \nIncorporar al SGS de Continental Rail las \nRecomendaciones Técnicas 7/2014 de la \nDirección General de Ferrocarriles sobre \nprocedimientos de control de los tiempos \nmáximos de conducción.   \nAgencia Estatal de \nSeguridad \nFerroviaria(AESF) \nContinental Rail \n52/2015-3 \nSe reitera la recomendación de la CIAF \n28/15-2: Que se elabore e incluya dentro \ndel \nSGS \nde \nContinental \nRail \nun \nprocedimiento \nque \nestablezca \nunos \ncriterios generales para la suspensión, \nrevocación \ny \nrecuperación \n \nde \nlas  \nhabilitaciones tras un fallo humano, en \nfunción de la gravedad de éste. \n \n \n \n \n \n \n \nMadrid, 27 de septiembre de 2016",
+   "pagina": 36,
+   "cita": "4.3.4. Observaciones adicionales",
+   "origen": "determinista",
+   "regla": "sec:^observaciones adicionales",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Que se elabore e incluya dentro del SGS de Continental Rail un procedimiento que establezca las medidas necesarias para verificar el cumplimiento de las jornadas de trabajo de los maquinistas en función de los servicios grafiados de trenes y, en caso de situación degradada, para reajustar los tiempos de conducción e impedir su incumplimiento."
+   ],
+   "pagina": 37,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Agencia Estatal de Seguridad Ferroviaria(AESF)"
+   ],
+   "pagina": 37,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "Continental Rail"
+   ],
+   "pagina": 37,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "06:30:24",
+     "evento": "El tren 99563 pasa la baliza previa de la señal avanzada E'1 a 44 km/h (anuncio de precaución). Itinerario a vía 3 establecido; S1/3 en parada."
+    },
+    {
+     "hora": "06:30:40",
+     "evento": "El tren BAR70 ocupa el circuito de vía anterior a E2 (en parada). El 99563 ocupa circuito previo a E'1."
+    },
+    {
+     "hora": "06:30:50",
+     "evento": "El tren 99563 pasa la baliza de E'1 a 35 km/h."
+    },
+    {
+     "hora": "06:31:22",
+     "evento": "El 99563 ha rebasado E'1 (pasa a parada); ocupa circuito previo a E1 (anuncio de parada)."
+    },
+    {
+     "hora": "06:32:57",
+     "evento": "El tren 99563 pasa la baliza previa de E1 a 41 km/h (anuncio de parada)."
+    },
+    {
+     "hora": "06:33:25",
+     "evento": "El tren 99563 pasa la baliza de E1 a 42 km/h (anuncio de parada). Ocupa circuito de aguja 1 hacia vía 3. S1/3 sigue en parada."
+    },
+    {
+     "hora": "06:34:17",
+     "evento": "El 99563 ha liberado circuito de aguja 1 y ocupa circuito de estacionamiento de vía 3. S1/3 sigue en parada."
+    },
+    {
+     "hora": "06:34:25",
+     "evento": "El tren 99563 pasa la baliza previa de S1/3 a 46 km/h (señal en parada)."
+    },
+    {
+     "hora": "06:34:30",
+     "evento": "El maquinista activa el freno de emergencia a 44 km/h, a unos 78 m de la señal."
+    },
+    {
+     "hora": "06:34:36",
+     "evento": "El tren 99563 pasa la baliza de pie de señal S1/3 a 42 km/h (señal en parada). Se activa la urgencia del ASFA. Conato de colisión con BAR70 detenido ante E2."
+    },
+    {
+     "hora": "06:35:07",
+     "evento": "El maquinista comunica al Puesto de Mando que ha rebasado la señal S1/3 pero no ha talonado la aguja 2."
+    },
+    {
+     "hora": "06:35:19",
+     "evento": "El tren 99563 queda detenido (PK 16+647), 47 m tras la señal, a 36 m de la aguja 2 y 97 m del BAR70."
+    },
+    {
+     "hora": "06:37:26",
+     "evento": "El jefe del CTC confirma la situación y ordena retroceder y estacionar en vía 3 entre S1/3 y S2/3."
+    },
+    {
+     "hora": "07:30",
+     "evento": "El tren BAR70 es autorizado a proseguir la marcha."
+    },
+    {
+     "hora": "08:55",
+     "evento": "Seguridad en la Circulación autoriza al tren 99563 a reanudar la marcha; el maquinista ha sido relevado."
+    },
+    {
+     "hora": "09:02",
+     "evento": "El tren 99563 efectúa su salida de Río Huerva con 478 minutos de retraso."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0052/2015",
+ "expediente": "0052/15",
+ "anio": 2015,
+ "titulo": "Rebase indebido de señal de salida en Río Huerva (Zaragoza) por tren de mercancías 99563",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 22.10.2015 160927151022IFCIAF.md"
+}

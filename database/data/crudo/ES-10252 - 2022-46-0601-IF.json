@@ -1,0 +1,1046 @@
+{
+ "id": "ES-10252 - 2022-46-0601-IF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/46-220601-if-sn_ciafv2.pdf",
+ "pdf": "pdfs/ES/ES-10252 - 2022-46-0601-IF.pdf",
+ "md5_pdf": "2e129fc11ed7bbce28961ca1cebb80bd",
+ "paginas_md": 58,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 29,
+ "n_tablas": 3,
+ "tablas": [
+  {
+   "pagina": 42,
+   "cabecera": [
+    "Destinatario",
+    "Implementa dor final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AESF",
+     "Implementa dor final": "EEFF",
+     "Número": "046/2022-06",
+     "Recomendación": "Garantizar el cumplimiento de la RT 1/2020 de la AESF, así como que personal de conducción dedica tiempo suficiente antes del inicio de los servicios a la comprensión de la información imprescindible para la correcta realización de las labores de conducción encomendadas. Establecer acciones de vigilancia para evaluar que los maquinistas comprenden la documentación e información necesaria para realizar el servicio y, en su caso, prestar el asesoramiento para aclarar las dudas que puedan existir."
+    }
+   ],
+   "cita": "| Destinatario | Implementa dor final | Número | Recomendación |"
+  },
+  {
+   "pagina": 57,
+   "cabecera": [
+    "Addressee",
+    "Final Implementer",
+    "Number",
+    "Recommendation"
+   ],
+   "filas": [
+    {
+     "Addressee": "NSA-ES",
+     "Final Implementer": "Renfe Viajeros",
+     "Number": "046/2022-03",
+     "Recommendation": "Promoting supervision and mentoring of drivers in their day-to-day tasks. Establishing coordination, training, and continuous mentoring procedures to enhance communication and a trust environment. Furthermore, assessing the availability of the appropriate skilled and experienced staff to supervise and mentor novice drivers at their training halls."
+    },
+    {
+     "Addressee": "NSA-ES",
+     "Final Implementer": "Renfe Viajeros & RUs",
+     "Number": "046/2022-04",
+     "Recommendation": "Reinforcing access and refreshers theoretical and practical training to enhance risk appreciation during critical safety operations. Raise awareness within the staff about their reporting obligations regarding their fitness to drive putting safety first, according to the Spanish Regulation “DA5ª Orden FOM/2872/2010”."
+    },
+    {
+     "Addressee": "NSA-ES",
+     "Final Implementer": "RUs & IM",
+     "Number": "046/2022-05",
+     "Recommendation": "Checking “Ready-to-depart” communication procedures when verbal communications are operatively constrained, aiming to avoid non- authorized movements."
+    }
+   ],
+   "cita": "| Addressee | Final Implementer | Number | Recommendation |"
+  },
+  {
+   "pagina": 58,
+   "cabecera": [
+    "Addressee",
+    "Final Implementer",
+    "Number",
+    "Recommendation"
+   ],
+   "filas": [
+    {
+     "Addressee": "NSA-ES",
+     "Final Implementer": "RUs",
+     "Number": "046/2022-06",
+     "Recommendation": "Enforcing the NSA-ES´s Technical Recommendation “RT1/2020” as well as guaranteeing that drivers allow enough time in advance prior to the services to comprehend the essential service information so they can successfully fulfill their driving tasks. Establishing surveillance measures to assess the comprehension of the essential service information and if needed providing support to solve any complications that may arise."
+    }
+   ],
+   "cita": "| Addressee | Final Implementer | Number | Recommendation |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "46/2022",
+   "pagina": 1,
+   "cita": "INFORME FINAL DE LA CIAF (IF) 46/2022",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 1 de junio de 2022 a las 11:09 h, el tren de Rodalies 77721 (serie 447) realizó una rotación no programada y un retroceso no autorizado en la vía I del apeadero de El Papiol (PK 81,998, línea 240), circulando en sentido contrario al bloqueo establecido hasta detenerse ante la señal E4 de entrada a Molins de Rei. El maquinista M-77721 confundió el apeadero con la estación de Castellbisbal, donde tenía prevista la inversión del sentido por las obras del tercer carril en la L240. No se produjeron daños personales ni materiales. El Responsable de Circulación del CTC ordenó la parada del tren siguiente (77523) y, tras no poder contactar con M-77721 por tren-tierra ni teléfono corporativo, el Centro de Gestión logró comunicarse con él. El tren fue suprimido y el maquinista relevado. La CIAF identificó como causas directas la confusión del apeadero con la estación y el incumplimiento de procedimientos, y emitió seis recomendaciones a través de la AESF.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2022-06-01",
+    "hora": null,
+    "lugar": {
+     "tipo": "apartado",
+     "estacion": "Apeadero de El Papiol",
+     "pk": "81,998",
+     "linea": "L240 (Sant Vicenç de Calders – L'Hospitalet de Llobregat)",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Apeadero de El Papiol, PK 81,998, municipio de El Papiol, Cataluña. Estaciones colaterales: Molins de Rei (PK 85,307) y Castellbisbal (PK 76,800). Trazado en curva a la izquierda; vía I a la derecha en sentido del tren. Aproximadamente 3,30 km de Molins de Rei y 5,20 km de Castellbisbal. Túnel de ~450 m a la salida de Molins de Rei."
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 01/06/2022 a las 11:09 h el tren de Rodalies 77721, que cubría el trayecto entre Terrassa y",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Tren 77721 suprimido. Tren 77523 detenido preventivamente en Molins de Rei. Cierto retraso en el resto de circulaciones de la línea. No se interceptó la línea. No se activó plan de emergencias."
+   },
+   "pagina": 11,
+   "cita": "el itinerario desde la señal E4 a la vía III de la estación de Molins de Rei, quedando el tren 77721",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Confusión del apeadero de El Papiol con la estación de Castellbisbal por parte de M-77721, seguida del incumplimiento de los procedimientos que hubieran podido prevenir el inicio de la marcha y el retroceso no autorizado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Desvío del foco atencional durante el cambio de cabina por uso de dispositivo electrónico",
+    "Situación psico-personal transitoria de M-77721",
+    "Largo periodo de inactividad laboral (~8 meses) previo al incidente",
+    "Primera vez que M-77721 realizaba la rotación en Castellbisbal tras la reincorporación",
+    "Posible déficit de formación: no identificación del apeadero tras sobrepasar la señal 'A'; rotación en plena vía",
+    "Confusión de la señal permisiva E'4 con una señal absoluta de salida",
+    "Inicio de la marcha por la vía I (impar) siendo tren con numeración par (77622)",
+    "No notificación al RC de que el tren estaba dispuesto (entrada en banda)",
+    "Falta de chequeos adecuados antes del reinicio de la marcha",
+    "Imposibilidad de comunicación con M-77721 por tren-tierra (numeración cambiada) ni por teléfono corporativo (no lo llevaba)",
+    "Listas de comprobación con opción 'todo leído' que no obligan a verificación elemento por elemento",
+    "No se incluyó disponibilidad del móvil corporativo en las listas de chequeo"
+   ],
+   "pagina": 28,
+   "cita": "personal. En relación con la situación psico-personal transitoria de M-77721, se destaca que se había",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "FCS1: Baja apreciación del riesgo en tareas de conducción (uso de dispositivos electrónicos, conducción en condiciones psico-físicas no adecuadas, inicio de servicios sin conocimiento suficiente)",
+    "FCS2: Carencia de procedimientos que garanticen la aptitud psico-física tras largos periodos de inactividad laboral",
+    "FCS3: Insuficiente comunicación, colaboración y coordinación entre tutores y personal de conducción; falta de cultura de confianza",
+    "FCS4: Carencias en los procedimientos de evaluación y pruebas psico-físicas de los RM de habilitación y renovación (posibilidad de entrenamiento previo)",
+    "FCS5: Ausencia de suficiente personal con experiencia para formación continua y acompañamientos tras largos periodos de inactividad",
+    "FCS6: Necesidad de reforzar mecanismos de transmisión de información al personal de conducción con antelación suficiente",
+    "FCS7: Necesidad de refuerzo de programas de formación práctica y teórica (conocimiento de instalaciones, señalización, protocolos de comunicación)",
+    "FCS8: Canales de notificación informales y carencia de procedimientos reglados para comunicaciones de tren dispuesto en puntos con elevado tráfico"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Garantizar el cumplimiento de la RT 1/2020 de la AESF, así como que personal de conducción dedica tiempo suficiente antes del inicio de los servicios a la comprensión de la información imprescindible para la correcta realización de las labores de conducción encomendadas. Establecer acciones de vigilancia para evaluar que los maquinistas comprenden la documentación e información necesaria para realizar el servicio y, en su caso, prestar el asesoramiento para aclarar las dudas que puedan existir."
+   ],
+   "pagina": 42,
+   "cita": "| Destinatario | Implementa dor final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF"
+   ],
+   "pagina": 42,
+   "cita": "| Destinatario | Implementa dor final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Incidente Operacional",
+   "pagina": 1,
+   "cita": "Incidente Operacional - Retroceso no autorizado ocurrido el día",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Viajeros",
+    "gestor de infraestructura (IM)"
+   ],
+   "pagina": 6,
+   "cita": "Se establecen cinco recomendaciones a través de la AESF dirigidas a ADIF, Renfe Viajeros, Renfe",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2022-06-01",
+   "pagina": 5,
+   "cita": "El día 01/06/2022 a las 11:09 h el tren de Rodalies 77721, que cubría el trayecto entre Terrassa y",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "apartado",
+    "estacion": "Apeadero de El Papiol",
+    "pk": "81,998",
+    "linea": "L240 (Sant Vicenç de Calders – L'Hospitalet de Llobregat)",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Apeadero de El Papiol, PK 81,998, municipio de El Papiol, Cataluña. Estaciones colaterales: Molins de Rei (PK 85,307) y Castellbisbal (PK 76,800). Trazado en curva a la izquierda; vía I a la derecha en sentido del tren. Aproximadamente 3,30 km de Molins de Rei y 5,20 km de Castellbisbal. Túnel de ~450 m a la salida de Molins de Rei."
+   },
+   "pagina": 8,
+   "cita": "recogido en el apartado 5 de este informe. Además, y como complemento al análisis se ha aplicado",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Serie 447 de RENFE (automotores 447117 y 447045), fabricada por CAF y Alstom (mecánica) y Siemens y ABB (eléctrica). Composición M-R-M, 6 vehículos, 24 ejes, 152 m, 432 t, tracción eléctrica, ASFA Digital, vmax 120 km/h.",
+    "averia": "Ninguna. El material rodante y las instalaciones técnicas funcionaron adecuadamente.",
+    "mantenimiento": "No se menciona problema de mantenimiento. No existía equipo de grabación de conversaciones en cabina de este tipo de trenes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 01/06/2022, el tren 77721 de Rodalies, con origen en Terrassa y destino previsto Castellbisbal (donde debía realizar la rotación por las obras del tercer carril en la L240 entre Castellbisbal y Martorell), salió de Terrassa a las 9:53 h con 5 minutos de retraso. En L'Hospitalet de Llobregat (10:52 h) cambió su numeración a 77721. A las 11:05 h salió de Molins de Rei con retraso acumulado. A las 11:09:02 h se detuvo en el apeadero de El Papiol (PK 81,998) para una parada comercial en la vía I. A las 11:10:34 h, M-77721 bajó del tren para cambiar de cabina y realizar la rotación, creyendo erróneamente que había llegado a Castellbisbal. A las 11:12:37 h subió por la cabina opuesta. A las 11:16:07 h informó por megafonía manual a los viajeros de la inversión del sentido y trasbordo por carretera. A las 11:17:08 h inició la marcha en retroceso por la vía I en sentido Molins de Rei, franqueando la señal permisiva E'4 (en amarillo) que confundió con una señal absoluta de salida, y cambió la numeración del tren a 77622 sin notificarlo al RC.\n\nEl RC del CTC, al detectar la ocupación excesiva del CVE'1, intentó contactar con M-77721 por tren-tierra y teléfono corporativo sin éxito. Ordenó al tren 77523 detenerse en Molins de Rei. A las 11:19:50 h la cabeza del 77721 ocupó el CVAE4 y se detuvo ante la señal E4 (en rojo). El inspector del PM contactó con el Operador de Rodalies del CG, quien logró hablar con M-77721 a través de su móvil personal. M-77721 declaró haber realizado la rotación en El Papiol por confusión con Castellbisbal. El RC dispuso itinerario a la vía III de Molins de Rei, se suprimió el tren y se relevó al maquinista.\n\nLa línea no fue interceptada, aunque se produjeron retrasos en las circulaciones. No se activó ningún plan de emergencias. Renfe Viajeros y ADIF remitieron sus informes definitivos el 16/09/2022 y 22/03/2023 respectivamente. La CIAF fue notificada el 01/06/2022 a las 13:56 h por SMS de ADIF.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "apartado",
+    "estacion": "Apeadero de El Papiol",
+    "pk": "81,998",
+    "linea": "L240 (Sant Vicenç de Calders – L'Hospitalet de Llobregat)",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Apeadero de El Papiol, PK 81,998, municipio de El Papiol, Cataluña. Estaciones colaterales: Molins de Rei (PK 85,307) y Castellbisbal (PK 76,800). Trazado en curva a la izquierda; vía I a la derecha en sentido del tren. Aproximadamente 3,30 km de Molins de Rei y 5,20 km de Castellbisbal. Túnel de ~450 m a la salida de Molins de Rei."
+   },
+   "pagina": 8,
+   "cita": "recogido en el apartado 5 de este informe. Además, y como complemento al análisis se ha aplicado",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Tren 77721 suprimido. Tren 77523 detenido preventivamente en Molins de Rei. Cierto retraso en el resto de circulaciones de la línea. No se interceptó la línea. No se activó plan de emergencias."
+   },
+   "pagina": 11,
+   "cita": "el itinerario desde la señal E4 a la vía III de la estación de Molins de Rei, quedando el tren 77721",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "El informe definitivo elaborado por Renfe fue remitido a la CIAF por el Área de Análisis e Investigación \nde Renfe Operadora con fecha 16/09/2022. En su apartado 6 de Recomendaciones, se incluyó la \nrecomendación 202201495/RV01/RC/H, que establece lo siguiente: \n“En los procesos de incapacidad laboral se procederá a entrevistar al personal relacionado con la \nseguridad operacional a fin de detectar que necesidades tienen de refuerzos de conocimiento en \nrelación con el servicio y habilidades profesionales”. \nAdemás, actualmente y tras el incidente de El Papiol el área de Investigación y Normativa \nReglamentaria de Renfe Viajeros S.A. está elaborando un procedimiento para la Prevención y Gestión \nde sucesos por Factor Humano, que prevé la realización de informes de evaluación y aplicación de \nprogramas de intervención y valoración del personal en distintas situaciones, en las que el resultado \nde los reconocimientos médicos haya sido de apto o apto con limitaciones. Las distintas situaciones \n\n## Página 38\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n38 \n \n \n \n \n \nque se contemplan incluirán: reincorporaciones tras un largo periodo de inactividad laboral por IL > \n30 días, sanción administrativa, no aptitud temporal, sucesos repetitivos, etc.",
+   "pagina": 37,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista (M-77721)",
+     "implicacion": "Realizó la rotación y retroceso no autorizado por confundir el apeadero de El Papiol con la estación de Castellbisbal. Usó un dispositivo electrónico durante el cambio de cabina. Llevaba ~8 meses de baja laboral previa; reincorporación efectiva el 06/05/2022 sin acompañamiento en cabina. Primera vez que realizaba la rotación en Castellbisbal tras la reincorporación. No notificó al RC el tren dispuesto ni el cambio de numeración. RM de renovación (16/02/2022): Apto. RM adicional post-incidente (03/06/2022): resultado distinto. Relevado tras el incidente; reubicado como auxiliar de circulación en PML de L'Hospitalet de Llobregat."
+    },
+    {
+     "rol": "Responsable de Circulación (RC) del CTC",
+     "implicacion": "Detectó la ocupación excesiva del CVE'1, intentó comunicación sin éxito, ordenó la parada del tren 77523, dispuso itinerario de seguridad. Actuación valorada como excelente por la CIAF."
+    },
+    {
+     "rol": "Operador de Rodalies del Centro de Gestión (CG)",
+     "implicacion": "Logró contactar con M-77721 a través de su móvil personal cuando el RC no pudo establecer comunicación."
+    },
+    {
+     "rol": "Maquinista del tren 77523 (M-77523)",
+     "implicacion": "Recibió orden de detenerse en Molins de Rei y posteriormente de avanzar por vía II a la altura del tren 77721 para recabar información."
+    }
+   ],
+   "pagina": 5,
+   "cita": "77721, el Control de Tráfico Centralizado (CTC) contactó con un Operador de Rodalies del Centro de",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "Las entidades que, de un modo u otro, están relacionadas con el suceso, y han colaborado aportando \ninformación mediante documentación y/o a través de entrevistas o reuniones con su personal, son: \n• Renfe Viajeros (Sociedad Mercantil Estatal, SME, S.A.), como EF propietaria del tren que realizó el \nretroceso no autorizado y responsable del personal de conducción (M-77721) implicado en el \nsuceso y de la Delegación de Seguridad en la Circulación, así como del personal del Centro de \nGestión (CG). \n• Renfe Operadora (Empresa Pública Empresarial, EPE), como gestora de los Centros Médicos \nHomologados (CMH) y encargada del análisis e investigación de incidentes y accidentes de las \nSMEs de la EPE.  \n• ADIF, como Administrador de Infraestructuras (AI), encargado de la explotación y gestión de la \nlínea 240 en servicio y afectada por el incidente. \n• AESF, como responsable de las auditorías a los CMH y como Autoridad responsable de la seguridad \nferroviaria.",
+   "pagina": 11,
+   "cita": "3.1.4. Personal y entidades",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "77721 (inicialmente 77720, modificado manualmente a 77622 durante la rotación)",
+     "tipo": "Rodalies (serie 447, composición M-R-M, 6 vehículos, 24 ejes, 152 m, 432 t)",
+     "operador": "Renfe Viajeros",
+     "danos": "Sin daños materiales ni personales"
+    },
+    {
+     "numero": "77523",
+     "tipo": "Rodalies",
+     "operador": "Renfe Viajeros",
+     "danos": "Sin daños; detenido preventivamente en Molins de Rei por orden del RC"
+    }
+   ],
+   "pagina": 6,
+   "cita": "Se establecen cinco recomendaciones a través de la AESF dirigidas a ADIF, Renfe Viajeros, Renfe",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Serie 447 de RENFE (automotores 447117 y 447045), fabricada por CAF y Alstom (mecánica) y Siemens y ABB (eléctrica). Composición M-R-M, 6 vehículos, 24 ejes, 152 m, 432 t, tracción eléctrica, ASFA Digital, vmax 120 km/h.",
+    "averia": "Ninguna. El material rodante y las instalaciones técnicas funcionaron adecuadamente.",
+    "mantenimiento": "No se menciona problema de mantenimiento. No existía equipo de grabación de conversaciones en cabina de este tipo de trenes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal E'4 (avanzada, permisiva, en amarillo - anuncio de parada) franqueada indebidamente; señal E4 (entrada Molins de Rei, en rojo - parada) ante la que se detuvo el tren; señal 'A' de aproximación al apeadero no interpretada; señal de salida S1/1 de Molins de Rei se cerró. Bloqueo automático banalizado con CTC (BAB con CTC).",
+    "tipo_via": "Vía doble, ancho ibérico",
+    "velocidad_maxima": "120 km/h",
+    "ancho": "Ibérico (1668 mm)",
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "Vía I banalizada; obras de implantación del tercer carril entre Castellbisbal y Martorell (desde 23/04/2022, previstas hasta mayo 2023) que limitaban el tráfico ordinario y obligaban a rotaciones en Castellbisbal",
+    "otro": "Sistema ASFA Digital. Consigna ATO 14/22 de ADIF y consigna PBA 54/22 del PAT de Renfe. Radiotelefonía tren-tierra modalidad A. Banda SITRA 5107 (L'Hospitalet-Sant Feliu) y 5104 (Sant Feliu-Sant Vicenç). CVE'1 en el apeadero; CVAE4 y CVE'4 en el cantón de Molins de Rei."
+   },
+   "pagina": 11,
+   "cita": "del tren ASFA Digital. La composición es de tipo M-R-M y su velocidad máxima es 120 km/h en red",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal E'4 (avanzada, permisiva, en amarillo - anuncio de parada) franqueada indebidamente; señal E4 (entrada Molins de Rei, en rojo - parada) ante la que se detuvo el tren; señal 'A' de aproximación al apeadero no interpretada; señal de salida S1/1 de Molins de Rei se cerró. Bloqueo automático banalizado con CTC (BAB con CTC).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Tren 77721 suprimido. Tren 77523 detenido preventivamente en Molins de Rei. Cierto retraso en el resto de circulaciones de la línea. No se interceptó la línea. No se activó plan de emergencias."
+   },
+   "pagina": 11,
+   "cita": "el itinerario desde la señal E4 a la vía III de la estación de Molins de Rei, quedando el tren 77721",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Tren 77721 suprimido. Tren 77523 detenido preventivamente en Molins de Rei. Cierto retraso en el resto de circulaciones de la línea. No se interceptó la línea. No se activó plan de emergencias."
+   },
+   "pagina": 11,
+   "cita": "el itinerario desde la señal E4 a la vía III de la estación de Molins de Rei, quedando el tren 77721",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Tren 77721 suprimido. Tren 77523 detenido preventivamente en Molins de Rei. Cierto retraso en el resto de circulaciones de la línea. No se interceptó la línea. No se activó plan de emergencias."
+   },
+   "pagina": 11,
+   "cita": "el itinerario desde la señal E4 a la vía III de la estación de Molins de Rei, quedando el tren 77721",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 447 de RENFE (automotores 447117 y 447045), fabricada por CAF y Alstom (mecánica) y Siemens y ABB (eléctrica). Composición M-R-M, 6 vehículos, 24 ejes, 152 m, 432 t, tracción eléctrica, ASFA Digital, vmax 120 km/h.",
+    "averia": "Ninguna. El material rodante y las instalaciones técnicas funcionaron adecuadamente.",
+    "mantenimiento": "No se menciona problema de mantenimiento. No existía equipo de grabación de conversaciones en cabina de este tipo de trenes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal E'4 (avanzada, permisiva, en amarillo - anuncio de parada) franqueada indebidamente; señal E4 (entrada Molins de Rei, en rojo - parada) ante la que se detuvo el tren; señal 'A' de aproximación al apeadero no interpretada; señal de salida S1/1 de Molins de Rei se cerró. Bloqueo automático banalizado con CTC (BAB con CTC).",
+    "tipo_via": "Vía doble, ancho ibérico",
+    "velocidad_maxima": "120 km/h",
+    "ancho": "Ibérico (1668 mm)",
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "Vía I banalizada; obras de implantación del tercer carril entre Castellbisbal y Martorell (desde 23/04/2022, previstas hasta mayo 2023) que limitaban el tráfico ordinario y obligaban a rotaciones en Castellbisbal",
+    "otro": "Sistema ASFA Digital. Consigna ATO 14/22 de ADIF y consigna PBA 54/22 del PAT de Renfe. Radiotelefonía tren-tierra modalidad A. Banda SITRA 5107 (L'Hospitalet-Sant Feliu) y 5104 (Sant Feliu-Sant Vicenç). CVE'1 en el apeadero; CVAE4 y CVE'4 en el cantón de Molins de Rei."
+   },
+   "pagina": 11,
+   "cita": "del tren ASFA Digital. La composición es de tipo M-R-M y su velocidad máxima es 120 km/h en red",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "De día, sin condiciones meteorológicas adversas",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Apeadero de El Papiol"
+   },
+   "pagina": 1,
+   "cita": "1 de junio de 2022 en el apeadero de El Papiol, Barcelona",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "De día, sin condiciones meteorológicas adversas",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal E'4 (avanzada, permisiva, en amarillo - anuncio de parada) franqueada indebidamente; señal E4 (entrada Molins de Rei, en rojo - parada) ante la que se detuvo el tren; señal 'A' de aproximación al apeadero no interpretada; señal de salida S1/1 de Molins de Rei se cerró. Bloqueo automático banalizado con CTC (BAB con CTC).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal E'4 (avanzada, permisiva, en amarillo - anuncio de parada) franqueada indebidamente; señal E4 (entrada Molins de Rei, en rojo - parada) ante la que se detuvo el tren; señal 'A' de aproximación al apeadero no interpretada; señal de salida S1/1 de Molins de Rei se cerró. Bloqueo automático banalizado con CTC (BAB con CTC).",
+    "tipo_via": "Vía doble, ancho ibérico",
+    "velocidad_maxima": "120 km/h",
+    "ancho": "Ibérico (1668 mm)",
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "Vía I banalizada; obras de implantación del tercer carril entre Castellbisbal y Martorell (desde 23/04/2022, previstas hasta mayo 2023) que limitaban el tráfico ordinario y obligaban a rotaciones en Castellbisbal",
+    "otro": "Sistema ASFA Digital. Consigna ATO 14/22 de ADIF y consigna PBA 54/22 del PAT de Renfe. Radiotelefonía tren-tierra modalidad A. Banda SITRA 5107 (L'Hospitalet-Sant Feliu) y 5104 (Sant Feliu-Sant Vicenç). CVE'1 en el apeadero; CVAE4 y CVE'4 en el cantón de Molins de Rei."
+   },
+   "pagina": 11,
+   "cita": "del tren ASFA Digital. La composición es de tipo M-R-M y su velocidad máxima es 120 km/h en red",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "La CIAF fue notificada del suceso el 01/06/2022 a las 13:56 mediante SMS enviado por ADIF, en el \nque se informaba del retroceso no autorizado del tren 77721 por la vía I, desde el apeadero de El \nPapiol en dirección Molins de Rei.  \nCon fecha 23 de junio de 2022, la CIAF recibió escrito de la Agencia Estatal de Seguridad Ferroviaria \n(AESF) en el que se solicitaba la investigación de dicho suceso. \n\n## Página 8\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n8 \n \n \n \n \n \nCon objeto de analizar el suceso por el Pleno de la CIAF, fue recabada información preliminar \nproporcionada tanto por el administrador de infraestructuras, ADIF, como por la EF Renfe Viajeros. \nPosteriormente, y una vez adoptada la decisión de realizar una investigación formal, se cursaron \nrequerimientos de información adicional tanto al ADIF como a Renfe Viajeros.  \nEl informe definitivo de Renfe Viajeros con su análisis del suceso fue remitido con fecha 16/09/2022 \ny el informe definitivo de ADIF con su análisis del suceso fue remitido con fecha 22/03/2023.",
+   "pagina": 7,
+   "cita": "2.4. CANALES DE COMUNICACIÓN",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 447 de RENFE (automotores 447117 y 447045), fabricada por CAF y Alstom (mecánica) y Siemens y ABB (eléctrica). Composición M-R-M, 6 vehículos, 24 ejes, 152 m, 432 t, tracción eléctrica, ASFA Digital, vmax 120 km/h.",
+    "averia": "Ninguna. El material rodante y las instalaciones técnicas funcionaron adecuadamente.",
+    "mantenimiento": "No se menciona problema de mantenimiento. No existía equipo de grabación de conversaciones en cabina de este tipo de trenes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Desvío del foco atencional durante el cambio de cabina por uso de dispositivo electrónico",
+    "Situación psico-personal transitoria de M-77721",
+    "Largo periodo de inactividad laboral (~8 meses) previo al incidente",
+    "Primera vez que M-77721 realizaba la rotación en Castellbisbal tras la reincorporación",
+    "Posible déficit de formación: no identificación del apeadero tras sobrepasar la señal 'A'; rotación en plena vía",
+    "Confusión de la señal permisiva E'4 con una señal absoluta de salida",
+    "Inicio de la marcha por la vía I (impar) siendo tren con numeración par (77622)",
+    "No notificación al RC de que el tren estaba dispuesto (entrada en banda)",
+    "Falta de chequeos adecuados antes del reinicio de la marcha",
+    "Imposibilidad de comunicación con M-77721 por tren-tierra (numeración cambiada) ni por teléfono corporativo (no lo llevaba)",
+    "Listas de comprobación con opción 'todo leído' que no obligan a verificación elemento por elemento",
+    "No se incluyó disponibilidad del móvil corporativo en las listas de chequeo"
+   ],
+   "pagina": 28,
+   "cita": "personal. En relación con la situación psico-personal transitoria de M-77721, se destaca que se había",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "4.3.1. Análisis de la situación formativa y de aptitud de M-77721  \nSegún los datos facilitados por Renfe Viajeros, M-77721 tenía los títulos habilitantes, reciclajes de \nformación y Reconocimientos Médicos (RM) en vigor y actualizados con anterioridad al incidente. \nAdemás, los días 22/05/2022 y 25/05/2022 Renfe llevó a cabo un análisis de los registros del tren de \nservicios realizados por M-77721, que no detectaron nada fuera de lo normal. \n\n## Página 27\n\n \nInforme Técnico Provisional 46/2022 \n \n \n \n \n \n \n \n \n \n \n \n \n27 \n \n \nSegún el programa de trabajo anual de M-77721 referente a los años 2021 y 2022, estuvo de baja \nlaboral durante aproximadamente 8 meses, tras el cual se sometió con fecha 16/02/2022 a un RM de \nrenovación cuyo resultado fue “Apto”.  \nDe acuerdo con el programa de trabajos de M-77721 la reincorporación efectiva a las labores de \nconducción de forma continuada se produjo el 06/05/2022. En este tiempo no se realizaron \nacompañamientos en cabina con M-77721 y tampoco se realizaron servicios previos que consistieran \nen la rotación en la estación de Castellbisbal. La fecha del último acompañamiento en cabina fue el \n05/07/2021, pocos días antes del inicio de la baja prolongada de casi 8 meses. \nCon fecha 03/06/2022, tras el incidente, se realizó un RM adicional a M-77721 cuyo resultado fue \ndistinto al obtenido en el RM de renovación de febrero de 2022. \nA partir de esa fecha, M-77721 ha estado trabajando como auxiliar de circulación en el Puesto de \nMando Local (PML) de L´Hospitalet de Llobregat. \n4.3.2. Desvío del foco atencional \nUno de los factores directamente relacionado con el suceso fue el desvío del foco atencional que se \nprodujo durante el servicio, que dio lugar a la confusión del apeadero de El Papiol con la estación de \nCastellbisbal.  \nLos factores contribuyentes al desvío del foco atencional que dieron lugar a la confusión del apeadero \nde El Papiol con la estación de Castellbisbal son, por un lado, que M-77721 tenía su atención puesta \nen un dispositivo electrónico durante el cambio de cabina en las instalaciones del apeadero y, por \notro lado, la situación psico-personal transitoria del personal de conducción, según su propia \ndeclaración el día del incidente.  \nDe acuerdo con la normativa interna de Renfe, en concreto el procedimiento 5 “Uso adecuado de \ndispositivos de comunicación y dispositivos electrónicos durante la conducción de trenes y \nmaniobras” incluido en el Anexo 1 del Libro de Normas del Maquinista (LNM) y las recomendaciones \ntécnicas de la AESF, en concreto la RT 5/2014 de la Dirección General de Ferrocarriles sobre el uso \nadecuado de dispositivos de comunicación y dispositivos electrónicos durante la conducción de \ntrenes y maniobras, el personal de conducción no tiene permitido el uso del teléfono personal \ndurante las tareas relacionadas con la conducción y es obligatorio llevar el teléfono corporativo para \npoder establecer contacto con el CG, y con el CTC como complemento y en caso de imposibilidad de \ncomunicación por radiotelefonía. Parece ser que M-77721 podría estar utilizando un dispositivo móvil \nen el momento en el que bajó de la cabina, realizó el trayecto a pie a lo largo del apeadero y \n\n## Página 28\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n28 \n \n \n \n \n \nfinalmente subió por la otra cabina. El CG estableció contacto con M-77721 a través de su móvil \npersonal. En relación con la situación psico-personal transitoria de M-77721, se destaca que se había \nencontrado meses anteriores en un largo periodo de baja laboral. Antes de su reincorporación al \nservicio activo pasó un RM de renovación (Orden FOM), con resultado de “Apto” en el que no se \ndetectaron indicios de una situación psico-física anómala. Sin embargo, tras el incidente, con fecha \n03/06/2022, se realizó un RM adicional con un resultado distinto al obtenido en el RM de renovación.  \nAdemás, instantes previos al inicio de la marcha persistió el desvío del foco atencional, dando lugar a \nla rotación en plena vía en el apeadero de El Papiol, así como a la confusión de la señal permisiva E´4 \ncon una señal absoluta de salida que M-77721 se habría encontrado al reiniciar la marcha en la \nestación de Castellbisbal. Por último, el inicio de la marcha se realizó por vía la vía I (impar) aunque \nse tratase de un tren con numeración par 77622 (una vez efectuado el cambio de numeración del \ntren por M-77721).  \nEn este sentido se hace referencia, además, a las pruebas psicológicas que se emplearon por Renfe \ncon anterioridad al incidente; por la naturaleza de las mismas (especialmente en los RM de \nhabilitación o de renovación, en los que no se realizan entrevistas personales caso por caso) y debido \na la posibilidad de que las pruebas puedan ser entrenadas y aprendidas antes de los RM, no permiten \nla detección precoz de situaciones psicológicas anómalas que pueden afectar al adecuado \ndesempeño de las funciones del personal.",
+   "pagina": 26,
+   "cita": "4.3. FACTORES HUMANOS RELACIONADOS CON EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 01/06/2022, el tren 77721 de Rodalies, con origen en Terrassa y destino previsto Castellbisbal (donde debía realizar la rotación por las obras del tercer carril en la L240 entre Castellbisbal y Martorell), salió de Terrassa a las 9:53 h con 5 minutos de retraso. En L'Hospitalet de Llobregat (10:52 h) cambió su numeración a 77721. A las 11:05 h salió de Molins de Rei con retraso acumulado. A las 11:09:02 h se detuvo en el apeadero de El Papiol (PK 81,998) para una parada comercial en la vía I. A las 11:10:34 h, M-77721 bajó del tren para cambiar de cabina y realizar la rotación, creyendo erróneamente que había llegado a Castellbisbal. A las 11:12:37 h subió por la cabina opuesta. A las 11:16:07 h informó por megafonía manual a los viajeros de la inversión del sentido y trasbordo por carretera. A las 11:17:08 h inició la marcha en retroceso por la vía I en sentido Molins de Rei, franqueando la señal permisiva E'4 (en amarillo) que confundió con una señal absoluta de salida, y cambió la numeración del tren a 77622 sin notificarlo al RC.\n\nEl RC del CTC, al detectar la ocupación excesiva del CVE'1, intentó contactar con M-77721 por tren-tierra y teléfono corporativo sin éxito. Ordenó al tren 77523 detenerse en Molins de Rei. A las 11:19:50 h la cabeza del 77721 ocupó el CVAE4 y se detuvo ante la señal E4 (en rojo). El inspector del PM contactó con el Operador de Rodalies del CG, quien logró hablar con M-77721 a través de su móvil personal. M-77721 declaró haber realizado la rotación en El Papiol por confusión con Castellbisbal. El RC dispuso itinerario a la vía III de Molins de Rei, se suprimió el tren y se relevó al maquinista.\n\nLa línea no fue interceptada, aunque se produjeron retrasos en las circulaciones. No se activó ningún plan de emergencias. Renfe Viajeros y ADIF remitieron sus informes definitivos el 16/09/2022 y 22/03/2023 respectivamente. La CIAF fue notificada el 01/06/2022 a las 13:56 h por SMS de ADIF.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "Según los datos facilitados por Renfe Viajeros, M-77721 tenía los títulos habilitantes, reciclajes de \nformación y Reconocimientos Médicos (RM) en vigor y actualizados con anterioridad al incidente. \nAdemás, los días 22/05/2022 y 25/05/2022 Renfe llevó a cabo un análisis de los registros del tren de \nservicios realizados por M-77721, que no detectaron nada fuera de lo normal. \n\n## Página 27\n\n \nInforme Técnico Provisional 46/2022 \n \n \n \n \n \n \n \n \n \n \n \n \n27 \n \n \nSegún el programa de trabajo anual de M-77721 referente a los años 2021 y 2022, estuvo de baja \nlaboral durante aproximadamente 8 meses, tras el cual se sometió con fecha 16/02/2022 a un RM de \nrenovación cuyo resultado fue “Apto”.  \nDe acuerdo con el programa de trabajos de M-77721 la reincorporación efectiva a las labores de \nconducción de forma continuada se produjo el 06/05/2022. En este tiempo no se realizaron \nacompañamientos en cabina con M-77721 y tampoco se realizaron servicios previos que consistieran \nen la rotación en la estación de Castellbisbal. La fecha del último acompañamiento en cabina fue el \n05/07/2021, pocos días antes del inicio de la baja prolongada de casi 8 meses. \nCon fecha 03/06/2022, tras el incidente, se realizó un RM adicional a M-77721 cuyo resultado fue \ndistinto al obtenido en el RM de renovación de febrero de 2022. \nA partir de esa fecha, M-77721 ha estado trabajando como auxiliar de circulación en el Puesto de \nMando Local (PML) de L´Hospitalet de Llobregat.",
+   "pagina": 26,
+   "cita": "4.3.1. Análisis de la situación formativa y de aptitud de M-77721",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Confusión del apeadero de El Papiol con la estación de Castellbisbal por parte de M-77721, seguida del incumplimiento de los procedimientos que hubieran podido prevenir el inicio de la marcha y el retroceso no autorizado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Desvío del foco atencional durante el cambio de cabina por uso de dispositivo electrónico",
+    "Situación psico-personal transitoria de M-77721",
+    "Largo periodo de inactividad laboral (~8 meses) previo al incidente",
+    "Primera vez que M-77721 realizaba la rotación en Castellbisbal tras la reincorporación",
+    "Posible déficit de formación: no identificación del apeadero tras sobrepasar la señal 'A'; rotación en plena vía",
+    "Confusión de la señal permisiva E'4 con una señal absoluta de salida",
+    "Inicio de la marcha por la vía I (impar) siendo tren con numeración par (77622)",
+    "No notificación al RC de que el tren estaba dispuesto (entrada en banda)",
+    "Falta de chequeos adecuados antes del reinicio de la marcha",
+    "Imposibilidad de comunicación con M-77721 por tren-tierra (numeración cambiada) ni por teléfono corporativo (no lo llevaba)",
+    "Listas de comprobación con opción 'todo leído' que no obligan a verificación elemento por elemento",
+    "No se incluyó disponibilidad del móvil corporativo en las listas de chequeo"
+   ],
+   "pagina": 28,
+   "cita": "personal. En relación con la situación psico-personal transitoria de M-77721, se destaca que se había",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": "5.3.1. Reconocimientos psico-físicos  \nDe acuerdo con la Disposición Adicional decimoquinta de la orden FOM, que se incluyó por la Orden \nFOM 679/2015 de modificación de la Orden FOM, se estableció que la autoridad responsable de la \nseguridad ferroviaria desarrollaría herramientas para las pruebas de evaluación psicológica de los \nreconocimientos psico-físicos del personal de conducción. \nEn este sentido la AESF está trabajando en creación de una nueva herramienta, que actualmente se \nencuentra en fase de elaboración. Esta herramienta incluirá baremos y límites que se centrarán en la \nevaluación de las áreas psicofísicas que se definen en el Anexo IV de la Orden FOM. El objetivo \nfundamental de la herramienta es homogenizar las pruebas psicofísicas que son realizadas por los \ndistintos Centros Médicos Homologados (CMH) y evitar el aprendizaje y entrenamiento de éstas \nantes de la realización de los RM.  \nCon fecha 17/03/2023, la AESF publicó la Ficha F-MPF-01/2023 sobre los “Criterios de Interpretación \nde Requisitos Psicofísicos del Personal Ferroviario”, en la que se recomienda que los criterios incluidos \nen el Anexo IV de la Orden FOM se hagan extensivos a todo el personal ferroviario y no solo al \npersonal de conducción. El objetivo de la ficha es también armonizar los criterios de evaluación \npsicofísica en los Centros Médicos Homologados (CMH), especialmente para la detección de \ndeterminados trastornos mentales prevalentes.  \n \n5.3.2. Centros Médicos Homologados (CMH) \nEn julio de 2021 y siguiendo el mandato de la Resolución 14/2020 de la AESF se creó el Comité de \nMedicina y Psicología Ferroviaria (CMPF), constituido por los CMH que deseen adherirse y cuyo \nobjetivo es funcionar como un foro de armonización de los criterios psicofísicos y de retorno de \nexperiencias entre los profesionales sanitarios del sector ferroviario, que facilitará las decisiones de \nlos especialistas de los centros médicos.  \nRenfe Viajeros cuenta con un CMH de reconocimiento médico de personal ferroviario de Renfe \nOperadora, que a su vez presta servicio a las sociedades del grupo Renfe, entre las que se encuentran \nRenfe Viajeros, S.A. y Renfe Mercancías, S.A. Los SGS de la empresa regulan el Sistema de Gestión de \n\n## Página 39\n\n \nInforme Técnico Provisional 46/2022 \n \n \n \n \n \n \n \n \n \n \n \n \n39 \n \n \ndicho CMH en un documento de desarrollo del éste. Otra normativa interna relevante de los SGS que \nse aplica a la materia son el procedimiento operativo de prevención 09: Vigilancia de la Salud; el \nprocedimiento operativo de prevención 10: psicología laboral y el sistema de gestión de Seguridad \nen la Circulación.  \nEl CMH de Renfe Operadora, cuenta con 14 centros a nivel nacional, destacándose que uno de ellos \nse encuentra en Barcelona.  \nLas pruebas psicofísicas que se realizan varían en función de si se trata de RM de habilitación, de \nrenovación o son RM adicionales. Los distintos tipos de RM se definen en el Título VI “Personal de \nConducción” y el Título X “Centros Homologados de reconocimiento médico de personal ferroviario” \nde la Orden FOM. \nSe destaca que, según el procedimiento de gestión de los CMH de Renfe, los RM de habilitación \ncubren más pruebas que los de renovación, y que en el caso de los RM las pruebas que se realizan \nactualmente son las mismas que las que las de los RM de renovación además de un cuestionario de \nincidencia y entrevista personalizada que se realiza caso por caso. En todos los RM se cubren las áreas \nprescritas en el Anexo IV de la Orden FOM. \n \n \n \n \n \n \n \n \n \n\n## Página 40\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n40 \n \n \n \n \n \n6. \nRECOMENDACIONES \nDestinatario \nImplementa\ndor final \nNúmero \nRecomendación \nAESF \nEEFF \n046/2022-01 \nImplementar procedimientos de reincorporación \nprogresiva y adaptación a los puestos de trabajo para \nel personal de conducción tras periodos largos de \ninactividad laboral.  \nTener en cuenta, para ello, posibles acciones \nformativas adicionales y la revisión de los SGS en \nrelación con los reciclajes sobre la infraestructura tras \nlargos periodos de inactividad laboral. \nAESF \nAESF \ny \nCMH \n046/2022-02 \nProseguir y completar el desarrollo de una nueva \nherramienta de evaluación psicológica, revisando el \ncontenido y los criterios de las pruebas psicológicas y \nprocedimiento de los RM realizados al personal de \nconducción, tanto en la fase de acceso (habilitación) \ncomo de reciclaje (renovación), y en todos aquellos \nreconocimientos adicionales que se realicen tras \nperiodos de baja prolongada, adecuándolos a los \nmotivos de la baja, con el fin de detectar \ncircunstancias o situaciones incompatibles con la \nactividad de conducción. Actualizar sistemáticamente \nel contenido de dichas pruebas, aprovechando el \nretorno de experiencia y garantizándose la aplicación \nrigurosa de la ley de protección de datos y anonimato \nde la información tratada. \n\n## Página 41\n\n \nInforme Técnico Provisional 46/2022 \n \n \n \n \n \n \n \n \n \n \n \n \n41 \n \n \nDestinatario \nImplementa\ndor final \nNúmero \nRecomendación \nAESF \nRenfe \nViajeros  \n046/2022-03 \nPotenciar la supervisión y tutela del personal de \nconducción en sus tareas cotidianas. Estableciendo \nsistemas parala coordinación, formación y tutela \ncontinua que fomenten la comunicación y cultura de \nconfianza. \nAsimismo, llevar a cabo un análisis de la disponibilidad \nde medios adecuados en las residencias del personal \nde conducción para realizar dichas labores de \nsupervisión y tutela, así como de transferencia de \nconocimientos al personal con menos experiencia. \nAESF \nRenfe \nViajeros, y \nEEFF \n046/2022-04 \nReforzar las acciones formativas de acceso y reciclaje \ncon contenidos y formación práctica que permita \nmejorar la apreciación del riesgo en actividades \ncríticas para la seguridad. \nAsí como incidir en la obligación del personal de \nconducción de comunicar a la empresa su estado de \nsalud psicofísica, de acuerdo con la DA5ª de la Orden \nFOM/2872/2010, si considera que podría",
+   "pagina": 38,
+   "cita": "5.3. OBSERVACIONES ADICIONALES",
+   "origen": "determinista",
+   "regla": "sec:^observaciones adicionales",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "El informe definitivo elaborado por Renfe fue remitido a la CIAF por el Área de Análisis e Investigación \nde Renfe Operadora con fecha 16/09/2022. En su apartado 6 de Recomendaciones, se incluyó la \nrecomendación 202201495/RV01/RC/H, que establece lo siguiente: \n“En los procesos de incapacidad laboral se procederá a entrevistar al personal relacionado con la \nseguridad operacional a fin de detectar que necesidades tienen de refuerzos de conocimiento en \nrelación con el servicio y habilidades profesionales”. \nAdemás, actualmente y tras el incidente de El Papiol el área de Investigación y Normativa \nReglamentaria de Renfe Viajeros S.A. está elaborando un procedimiento para la Prevención y Gestión \nde sucesos por Factor Humano, que prevé la realización de informes de evaluación y aplicación de \nprogramas de intervención y valoración del personal en distintas situaciones, en las que el resultado \nde los reconocimientos médicos haya sido de apto o apto con limitaciones. Las distintas situaciones \n\n## Página 38\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n38 \n \n \n \n \n \nque se contemplan incluirán: reincorporaciones tras un largo periodo de inactividad laboral por IL > \n30 días, sanción administrativa, no aptitud temporal, sucesos repetitivos, etc.",
+   "pagina": 37,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "El informe definitivo elaborado por Renfe fue remitido a la CIAF por el Área de Análisis e Investigación \nde Renfe Operadora con fecha 16/09/2022. En su apartado 6 de Recomendaciones, se incluyó la \nrecomendación 202201495/RV01/RC/H, que establece lo siguiente: \n“En los procesos de incapacidad laboral se procederá a entrevistar al personal relacionado con la \nseguridad operacional a fin de detectar que necesidades tienen de refuerzos de conocimiento en \nrelación con el servicio y habilidades profesionales”. \nAdemás, actualmente y tras el incidente de El Papiol el área de Investigación y Normativa \nReglamentaria de Renfe Viajeros S.A. está elaborando un procedimiento para la Prevención y Gestión \nde sucesos por Factor Humano, que prevé la realización de informes de evaluación y aplicación de \nprogramas de intervención y valoración del personal en distintas situaciones, en las que el resultado \nde los reconocimientos médicos haya sido de apto o apto con limitaciones. Las distintas situaciones \n\n## Página 38\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n38 \n \n \n \n \n \nque se contemplan incluirán: reincorporaciones tras un largo periodo de inactividad laboral por IL > \n30 días, sanción administrativa, no aptitud temporal, sucesos repetitivos, etc.",
+   "pagina": 37,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Garantizar el cumplimiento de la RT 1/2020 de la AESF, así como que personal de conducción dedica tiempo suficiente antes del inicio de los servicios a la comprensión de la información imprescindible para la correcta realización de las labores de conducción encomendadas. Establecer acciones de vigilancia para evaluar que los maquinistas comprenden la documentación e información necesaria para realizar el servicio y, en su caso, prestar el asesoramiento para aclarar las dudas que puedan existir."
+   ],
+   "pagina": 42,
+   "cita": "| Destinatario | Implementa dor final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF"
+   ],
+   "pagina": 42,
+   "cita": "| Destinatario | Implementa dor final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "05:26",
+     "evento": "Inicio del servicio de M-77721 el día del incidente"
+    },
+    {
+     "hora": "09:48",
+     "evento": "Horario teórico de salida del tren 77720 de Terrassa"
+    },
+    {
+     "hora": "09:53",
+     "evento": "Salida real del tren 77720 de Terrassa (5 min de retraso)"
+    },
+    {
+     "hora": "10:45",
+     "evento": "Horario teórico de salida de L'Hospitalet de Llobregat"
+    },
+    {
+     "hora": "10:52",
+     "evento": "Salida real de L'Hospitalet de Llobregat; cambio de numeración a 77721"
+    },
+    {
+     "hora": "11:05",
+     "evento": "Salida de Molins de Rei (programada 10:55 h)"
+    },
+    {
+     "hora": "11:09:02",
+     "evento": "El tren 77721 se estaciona por completo en el apeadero de El Papiol (vía I)"
+    },
+    {
+     "hora": "11:10:34",
+     "evento": "M-77721 baja del tren para cambiar de cabina y realizar la rotación"
+    },
+    {
+     "hora": "11:12:37",
+     "evento": "M-77721 sube al tren por la cabina opuesta (cola en sentido Castellbisbal)"
+    },
+    {
+     "hora": "11:16:07",
+     "evento": "M-77721 informa por megafonía manual a los viajeros de la inversión del sentido"
+    },
+    {
+     "hora": "11:17:08",
+     "evento": "El tren 77721 inicia la marcha en retroceso por la vía I en sentido Molins de Rei; franquea señal E'4 (amarillo); cambia numeración a 77622"
+    },
+    {
+     "hora": "11:19:50",
+     "evento": "Cabeza del tren 77721 ocupa CVAE4; se detiene ante señal E4 (rojo); se cierra señal de salida S1/1 de Molins de Rei"
+    },
+    {
+     "hora": "11:09",
+     "evento": "RC del CTC detecta ocupación excesiva del CVE'1; intenta comunicación por tren-tierra y teléfono corporativo sin éxito"
+    },
+    {
+     "hora": null,
+     "evento": "RC ordena al tren 77523 detenerse en Molins de Rei"
+    },
+    {
+     "hora": null,
+     "evento": "CTC contacta con Operador de Rodalies del CG; CG contacta con M-77721 vía móvil personal"
+    },
+    {
+     "hora": null,
+     "evento": "Contacto efectivo CTC-tren; M-77721 informa de la confusión; se autoriza estacionamiento en vía III de Molins de Rei; tren suprimido; M-77721 relevado"
+    },
+    {
+     "hora": "13:56",
+     "evento": "ADIF notifica el suceso a la CIAF por SMS"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0046/2022",
+ "expediente": "046/2022",
+ "anio": 2022,
+ "titulo": "Retroceso no autorizado en el apeadero de El Papiol, Barcelona",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES-10252 - 2022-46-0601-IF.md"
+}

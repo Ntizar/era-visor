@@ -1,0 +1,917 @@
+{
+ "id": "ID-130207-190707-DGF",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-130207-190707-DGF.pdf",
+ "pdf": "pdfs/ES/ID-130207-190707-DGF.pdf",
+ "md5_pdf": "51ddcfb8bfae554b8dbbd5ec017f34f2",
+ "paginas_md": 6,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 11,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0010/2007",
+   "pagina": 1,
+   "cita": "Nº 0010/2007 OCURRIDO EL DÍA 13.02.2007 ID-130207-190707-DGF Pág. 1 de 6 ## Página 2 Investigación del accidente nº 10/2007 ocurrido el 13.02.2007 SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y PLANIFICA",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 13 de febrero de 2007, a las 18:40, el tren de Larga Distancia 1187 Altaria de RENFE arrolló a una persona y a varias cabezas de ganado que cruzaban la vía por un paso vicioso en el pk 394,075 de la línea La Encina-Alicante. La víctima, un varón de 69 años, falleció en el lugar. El tren circulaba a 129 km/h, por debajo de la máxima de 160 km/h del tramo, y el maquinista aplicó el freno de emergencia. No hubo daños materiales, aunque se produjeron importantes perturbaciones en la circulación. La investigación concluyó que la causa fue la invasión indebida de la vía por imprudencia de la víctima y recomendó vallar la zona y realizar campañas de sensibilización.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-02-13",
+    "hora": "18:40",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "394,075",
+     "linea": "La Encina - Alicante",
+     "provincia": "Alicante",
+     "descripcion_lugar": "Paso superior de vehículos que cruza la línea con el vial que une la Autovía de Alicante A-31 con la CV-809, a unos 1 km de la estación de Villena. Tramo llano, recto, sin trincheras, con edificaciones y viviendas en ambos lados y varios pasos viciosos. No existe vallado en todo el tramo hasta el núcleo urbano de Villena. Visibilidad buena, aunque reducida por el atardecer/anochecer."
+    }
+   },
+   "pagina": 3,
+   "cita": "A las 18 horas y 40 minutos del día 13 de febrero de 2007, se produjo el accidente grave",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños materiales",
+    "afectacion_servicio": "6 trenes de Larga Distancia con retraso acumulado de 582 min, 1 tren de Cercanías con 9 min y 1 tren de Media Distancia con 49 min; el tren 1187 fue suprimido en Villena y sus viajeros transbordados al tren 1207"
+   },
+   "pagina": 3,
+   "cita": "No se producen daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión indebida de la vía por imprudencia de la víctima, que cruzó por un punto no autorizado sin percatarse de la proximidad del tren",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Existencia de pasos viciosos e irregulares en la zona",
+    "Inexistencia de vallado en el tramo",
+    "Edificaciones y viviendas cercanas a la vía que favorecen el cruce irregular",
+    "Reducción de la visibilidad por la hora de atardecer/anochecer"
+   ],
+   "pagina": 5,
+   "cita": "Se constata la inexistencia de vallado en el tramo.",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Falta de protección perimetral (vallado) en un tramo con pasos viciosos y entorno urbano"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Dotar de vallado ambos márgenes de la vía en unos 400 m antes y después del paso superior situado sobre el lugar del accidente.",
+     "destinatario": "ADIF (Administrador de Infraestructuras Ferroviarias)"
+    },
+    {
+     "texto": "Realizar campañas de sensibilización que conciencien a la población sobre los peligros de cruzar y transitar por las vías.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Dotar de vallado ambos márgenes de la vía en unos 400 m antes y después del paso superior situado sobre el lugar del accidente.",
+     "destinatario": "ADIF (Administrador de Infraestructuras Ferroviarias)"
+    },
+    {
+     "texto": "Realizar campañas de sensibilización que conciencien a la población sobre los peligros de cruzar y transitar por las vías.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento de una persona",
+   "pagina": 2,
+   "cita": "arrollamiento de una persona resultando fallecida la misma, a la altura del punto kilométrico",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "RENFE"
+   ],
+   "pagina": 2,
+   "cita": "(ADIF), comunicó a través de mensaje de telefonía móvil que se había producido el",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-02-13",
+   "pagina": 3,
+   "cita": "A las 18 horas y 40 minutos del día 13 de febrero de 2007, se produjo el accidente grave",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "18:40",
+   "pagina": 5,
+   "cita": "realizado en Villena a 13 de febrero, se extracta lo siguiente: “Sobre las 18:40",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "394,075",
+    "linea": "La Encina - Alicante",
+    "provincia": "Alicante",
+    "descripcion_lugar": "Paso superior de vehículos que cruza la línea con el vial que une la Autovía de Alicante A-31 con la CV-809, a unos 1 km de la estación de Villena. Tramo llano, recto, sin trincheras, con edificaciones y viviendas en ambos lados y varios pasos viciosos. No existe vallado en todo el tramo hasta el núcleo urbano de Villena. Visibilidad buena, aunque reducida por el atardecer/anochecer."
+   },
+   "pagina": 2,
+   "cita": "Punto kilométrico 394,075 de la línea La Encina - Alicante.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "La Encina-Alicante",
+   "pagina": 2,
+   "cita": "394,075 de la Línea La Encina-Alicante, en la provincia de Alicante, perteneciente a la Red",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 252.038 (serie 252)",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "A las 18:40 del 13 de febrero de 2007 se produjo un accidente grave por arrollamiento de una persona y varias cabezas de ganado que intentaban cruzar las vías en el pk 394,075 de la línea La Encina-Alicante, en plena vía, a unos 1 km de la estación de Villena. El accidente fue causado por el tren de viajeros de Larga Distancia 1187 Altaria de RENFE, con origen en Alicante y destino Madrid. La víctima era un varón de 69 años, D. Bonifacio Moreno Cantos, que falleció en el lugar.\n\nSegún la declaración del maquinista, al pasar por un viaducto a unos 130 km/h observó un rebaño de ovejas y una persona avanzando por el centro de la vía, accionando el freno de emergencia y el silbato, pero no había visto antes a la persona por la escasa luz solar del atardecer. Tras escuchar un golpe seco en la parte delantera de la locomotora, detuvo el tren unos 300 metros más adelante y comprobó que había restos de ovejas y una persona tendida fuera de la vía, sin movimiento ni sonido. El análisis de la memoria estática de la locomotora 252.038 confirmó una velocidad de 129 km/h en el momento de accionar el freno de emergencia, inferior a la máxima permitida de 160 km/h.\n\nEl maquinista comunicó el suceso al Puesto de Mando de Valencia, que cursó aviso a las gerencias de seguridad y a los servicios de emergencia. La autoridad judicial ordenó retroceder el tren hasta Villena, donde quedó apartado a las 20:29 y se reanudó la circulación con marcha vista. A las 20:30 se tomó declaración al maquinista, que dio negativo en alcoholemia (0,00 mg/ml), y a las 20:42 se restableció la velocidad normal y se transbordó a los viajeros al tren 1207. El cadáver fue levantado a las 20:49.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "394,075",
+    "linea": "La Encina - Alicante",
+    "provincia": "Alicante",
+    "descripcion_lugar": "Paso superior de vehículos que cruza la línea con el vial que une la Autovía de Alicante A-31 con la CV-809, a unos 1 km de la estación de Villena. Tramo llano, recto, sin trincheras, con edificaciones y viviendas en ambos lados y varios pasos viciosos. No existe vallado en todo el tramo hasta el núcleo urbano de Villena. Visibilidad buena, aunque reducida por el atardecer/anochecer."
+   },
+   "pagina": 2,
+   "cita": "Punto kilométrico 394,075 de la línea La Encina - Alicante.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños materiales",
+    "afectacion_servicio": "6 trenes de Larga Distancia con retraso acumulado de 582 min, 1 tren de Cercanías con 9 min y 1 tren de Media Distancia con 49 min; el tren 1187 fue suprimido en Villena y sus viajeros transbordados al tren 1207"
+   },
+   "pagina": 3,
+   "cita": "No se producen daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 1187",
+     "implicacion": "Conduce el tren que arrolla a la víctima; acciona freno de emergencia y silbato; jornada previa 35 min, 24 h anteriores 6 h 45 min, 48 h anteriores 4 h 13 min; alcoholemia negativa (0,00 mg/ml)."
+    },
+    {
+     "rol": "Jefe Técnico de Operaciones de Alicante (ADIF)",
+     "implicacion": "Nombrado jefe delegado del accidente."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El maquinista del tren 1187.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "1187",
+     "tipo": "Viajeros Larga Distancia (Altaria)",
+     "operador": "RENFE",
+     "danos": "No se producen daños materiales"
+    }
+   ],
+   "pagina": 3,
+   "cita": "Larga Distancia 1187 Altaria de la empresa ferroviaria RENFE que efectuaba el recorrido con",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 252.038 (serie 252)",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático en vía Única con CTC",
+    "tipo_via": "Vía única electrificada, tramo recto en terreno llano",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": "Sí",
+    "estado_via": "Recta, llana, sin trincheras; sin vallado en el tramo hasta Villena; presencia de pasos viciosos",
+    "otro": "Paso superior de vehículos sobre vial A-31 con CV-809; visibilidad reducida por el atardecer"
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático en vía Única con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo Automático en vía Única con CTC",
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático en vía Única con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños materiales",
+    "afectacion_servicio": "6 trenes de Larga Distancia con retraso acumulado de 582 min, 1 tren de Cercanías con 9 min y 1 tren de Media Distancia con 49 min; el tren 1187 fue suprimido en Villena y sus viajeros transbordados al tren 1207"
+   },
+   "pagina": 4,
+   "cita": "Los viajeros del tren Altaria nº 1187 se transbordan en la estación de Villena, a las 20:42",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños materiales",
+    "afectacion_servicio": "6 trenes de Larga Distancia con retraso acumulado de 582 min, 1 tren de Cercanías con 9 min y 1 tren de Media Distancia con 49 min; el tren 1187 fue suprimido en Villena y sus viajeros transbordados al tren 1207"
+   },
+   "pagina": 3,
+   "cita": "No se producen daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños materiales",
+    "afectacion_servicio": "6 trenes de Larga Distancia con retraso acumulado de 582 min, 1 tren de Cercanías con 9 min y 1 tren de Media Distancia con 49 min; el tren 1187 fue suprimido en Villena y sus viajeros transbordados al tren 1207"
+   },
+   "pagina": 3,
+   "cita": "No se producen daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252.038 (serie 252)",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático en vía Única con CTC",
+    "tipo_via": "Vía única electrificada, tramo recto en terreno llano",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": "Sí",
+    "estado_via": "Recta, llana, sin trincheras; sin vallado en el tramo hasta Villena; presencia de pasos viciosos",
+    "otro": "Paso superior de vehículos sobre vial A-31 con CV-809; visibilidad reducida por el atardecer"
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático en vía Única con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Condiciones meteorológicas buenas, al atardecer; luz solar reducida por el anochecer",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Alicante",
+    "municipio": null,
+    "estacion": "Villena"
+   },
+   "pagina": 2,
+   "cita": "394,075 de la Línea La Encina-Alicante, en la provincia de Alicante, perteneciente a la Red",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Condiciones meteorológicas buenas, al atardecer; luz solar reducida por el anochecer",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo Automático en vía Única con CTC",
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático en vía Única con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático en vía Única con CTC",
+    "tipo_via": "Vía única electrificada, tramo recto en terreno llano",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": "Sí",
+    "estado_via": "Recta, llana, sin trincheras; sin vallado en el tramo hasta Villena; presencia de pasos viciosos",
+    "otro": "Paso superior de vehículos sobre vial A-31 con CV-809; visibilidad reducida por el atardecer"
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático en vía Única con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252.038 (serie 252)",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Persona cruza vía no autorizada",
+    "Ganado intenta cruzar vías",
+    "Falta de vallado en la vía",
+    "Anochecer reduce visibilidad"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(ADIF), comunicó a través de mensaje de telefonía móvil que se había producido el \narrollamiento de una persona resultando fallecida la misma, a la altura del punto kilométrico \n394,075 de la Línea La Encina-Alicante, en la provincia de Alicante, perteneciente a la Red \nFerroviaria de Interés General administrada por ADIF. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles. Investigación \nque tendrá como finalidad determinar sus causas y formular recomendaciones para reducir los \nriesgos en el transporte ferroviario de acuerdo con el artículo 112 del citado Reglamento. \nReglamento que traspone parcialmente la Directiva 2004/49/CE del Parlamento Europeo de 29 \nde abril de 2004 sobre la seguridad de los ferrocarriles comunitarios, que en su  Artículo 19 \ncircunscribe la investigación a la mejora de la seguridad, y en ningún caso a la determinación \nde culpas o responsabilidades. \nDe conformidad también con el artículo 112 del mencionado Reglamento, el 1 de enero de \n2007 la Dirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (ADIF), comunicó a través de mensaje de telefonía móvil que se había producido el arrollamiento de una perso",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "A las 18:40 del 13 de febrero de 2007 se produjo un accidente grave por arrollamiento de una persona y varias cabezas de ganado que intentaban cruzar las vías en el pk 394,075 de la línea La Encina-Alicante, en plena vía, a unos 1 km de la estación de Villena. El accidente fue causado por el tren de viajeros de Larga Distancia 1187 Altaria de RENFE, con origen en Alicante y destino Madrid. La víctima era un varón de 69 años, D. Bonifacio Moreno Cantos, que falleció en el lugar.\n\nSegún la declaración del maquinista, al pasar por un viaducto a unos 130 km/h observó un rebaño de ovejas y una persona avanzando por el centro de la vía, accionando el freno de emergencia y el silbato, pero no había visto antes a la persona por la escasa luz solar del atardecer. Tras escuchar un golpe seco en la parte delantera de la locomotora, detuvo el tren unos 300 metros más adelante y comprobó que había restos de ovejas y una persona tendida fuera de la vía, sin movimiento ni sonido. El análisis de la memoria estática de la locomotora 252.038 confirmó una velocidad de 129 km/h en el momento de accionar el freno de emergencia, inferior a la máxima permitida de 160 km/h.\n\nEl maquinista comunicó el suceso al Puesto de Mando de Valencia, que cursó aviso a las gerencias de seguridad y a los servicios de emergencia. La autoridad judicial ordenó retroceder el tren hasta Villena, donde quedó apartado a las 20:29 y se reanudó la circulación con marcha vista. A las 20:30 se tomó declaración al maquinista, que dio negativo en alcoholemia (0,00 mg/ml), y a las 20:42 se restableció la velocidad normal y se transbordó a los viajeros al tren 1207. El cadáver fue levantado a las 20:49.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR LA EMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por ADIF concluye “Se estima imprudencia de la persona, que cruzó por lugar\nno autorizado, no apercibiéndose de la proximidad del tren”.  \n \n \nEl elaborado por RENFE establece como causa directa del accidente “Imprudencia de la \nvíctima al cruzar la vía por punto no autorizado”.  \nPor tanto, ambas conclusiones son coincidentes entre sí en cuanto a la causa del accidente.",
+   "pagina": 6,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión indebida de la vía por imprudencia de la víctima, que cruzó por un punto no autorizado sin percatarse de la proximidad del tren",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Existencia de pasos viciosos e irregulares en la zona",
+    "Inexistencia de vallado en el tramo",
+    "Edificaciones y viviendas cercanas a la vía que favorecen el cruce irregular",
+    "Reducción de la visibilidad por la hora de atardecer/anochecer"
+   ],
+   "pagina": 5,
+   "cita": "Se constata la inexistencia de vallado en el tramo.",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "A la vista de los datos obtenidos, se estima que el accidente se origino como consecuencia \nde la invasión indebida de la vía en el momento de pasar el tren 1187 que causó el \narrollamiento de D. Bonifacio Moreno Cantos.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES. A la vista de los datos obtenidos, se estima que el accidente se origino como consecuencia de la invasión indebida de la vía en el momento de pasar el tren 1187 que causó el arrollamiento de D. Bonifa",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "A la vista de los datos obtenidos, se estima que el accidente se origino como consecuencia \nde la invasión indebida de la vía en el momento de pasar el tren 1187 que causó el \narrollamiento de D. Bonifacio Moreno Cantos.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES. A la vista de los datos obtenidos, se estima que el accidente se origino como consecuencia de la invasión indebida de la vía en el momento de pasar el tren 1187 que causó el arrollamiento de D. Bonifa",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Dotar de vallado ambos márgenes de la vía en unos 400 m antes y después del paso superior situado sobre el lugar del accidente.",
+     "destinatario": "ADIF (Administrador de Infraestructuras Ferroviarias)"
+    },
+    {
+     "texto": "Realizar campañas de sensibilización que conciencien a la población sobre los peligros de cruzar y transitar por las vías.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "18:40",
+     "evento": "Se produce el arrollamiento de una persona y varias cabezas de ganado por el tren 1187 Altaria en el pk 394,075."
+    },
+    {
+     "hora": null,
+     "evento": "El maquinista frena en emergencia y el tren se detiene unos 300 metros más adelante."
+    },
+    {
+     "hora": null,
+     "evento": "El maquinista comunica el suceso al Puesto de Mando de Valencia, que avisa a ADIF, RENFE, Protección Civil y servicios de emergencia."
+    },
+    {
+     "hora": "20:05",
+     "evento": "La jueza pide que se retroceda el tren 1187 hasta Villena."
+    },
+    {
+     "hora": "20:29",
+     "evento": "El tren queda apartado en Villena y se reanuda la circulación con marcha vista."
+    },
+    {
+     "hora": "20:30",
+     "evento": "En la Comandancia de la Guardia Civil de Villena se toma declaración al maquinista y se le realiza prueba de alcoholemia con resultado negativo."
+    },
+    {
+     "hora": "20:42",
+     "evento": "Se restablece la circulación a velocidad normal y los viajeros del 1187 se transbordan en Villena al tren 1207."
+    },
+    {
+     "hora": "20:49",
+     "evento": "La autoridad judicial levanta el cadáver."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0010/2007",
+ "expediente": "0010/2007",
+ "anio": 2007,
+ "titulo": "Arrollamiento mortal de un peatón por tren Altaria en la línea La Encina-Alicante, pk 394,075 (Villena)",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-130207-190707-DGF.md"
+}

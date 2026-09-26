@@ -1,0 +1,931 @@
+{
+ "id": "IF-130711-250912-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/42EBDEDE-70A3-4B1D-86E5-763A5F60F147/113579/4411.pdf",
+ "pdf": "pdfs/ES/IF-130711-250912-CIAF.pdf",
+ "md5_pdf": "92d96dc512c81892cb9a4062d50d13c6",
+ "paginas_md": 17,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 16,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Ben Trade Cables Ibérica S.A.",
+     "Número": "44/11-1",
+     "Recomendación": "Cumplir estrictamente la “Instrucción Técnica de Carga de Contenedores” elaborada por la propia Ben Trade Cables Ibérica S.A."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 17,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Ben Trade Cables Ibérica S.A.",
+     "Número": "44/11-1",
+     "Recomendación": "Cumplir estrictamente la “Instrucción Técnica de Carga de Contenedores” elaborada por la propia Ben Trade Cables Ibérica S.A."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0044/2011",
+   "pagina": 1,
+   "cita": "nº 0044/2011 ocurrido el 13.07.2011",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 13 de julio de 2011 a las 21:45, el tren de mercancías 97845 de Logitren, compuesto por locomotora 335 y 28 vagones con contenedores, descarriló en plena vía en el PK 137+810 de la línea 610 Sagunto–Bif. Teruel, entre las estaciones de Teruel y Caparrates. El descarrilamiento se inició en la rueda derecha del primer eje del 9º vagón y el tren circuló descarrilado 3,29 km hasta impactar con la aguja A2 de la estación de Caparrates, provocando el vuelco de los vagones 7º, 8º, 9º y 10º. No hubo víctimas personales. La causa fue la confluencia de fuertes alabeos y baches en la vía, una inadecuada estiba de la carga (bobinas de cable sin calces ni distribución uniforme) y un trazado desfavorable (curva de 300 m y rampa de 21,5 milésimas). Se emitió una recomendación a Ben Trade Cables Ibérica S.A. para cumplir estrictamente su Instrucción Técnica de Carga de Contenedores.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2011-07-13",
+    "hora": "21:45",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Caparrates",
+     "pk": "137+810",
+     "linea": "610 Sagunto – Bif. Teruel",
+     "provincia": "Teruel",
+     "descripcion_lugar": "Tramo entre las estaciones de Teruel y Caparrates, en curva a la izquierda de 300 m de radio y rampa de 21,5 milésimas. El tren descarrilado recorrió 3,29 km hasta el cruzamiento de la aguja A2 de la estación de Caparrates."
+    }
+   },
+   "pagina": 9,
+   "cita": "La vía queda interceptada a las 21:45 horas del día 13/07/2011, restableciéndose la circulación a las",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Cuantiosos daños en vagones 7º, 8º, 9º y 10º (ganchos de tracción, tubería de freno, peldaños, vuelco del 9º). Daños en sujeciones y traviesas entre PKs 137+600 y 141+100. Motor del desvío A2 inútil; desvío A1 con daños en timonería. Contadores de ejes CVE1, CVA1, CV1 y CV2 afectados.",
+    "afectacion_servicio": "Vía interceptada desde 21:45 del 13/07/2011 hasta 07:15 del 15/07/2011. 7 trenes de viajeros suprimidos con transporte por carretera. Restablecimiento con limitaciones de velocidad (20 y 30 km/h), desvío A1 embridado y desvío A2 desmontado con comprobación artificial."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Remonte de la rueda derecha del primer eje del 9º vagón por el hilo alto, seguido de descarrilamiento, en curva de 300 m con rampa de 21,5 milésimas",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Estado de la vía con fuertes alabeos y baches (limitación temporal a 30 km/h)",
+    "Inadecuada estiba de la carga: bobinas de cable sin calces para impedir que rueden, incumplimiento del artículo 5.6.1 de la Instrucción General 66",
+    "Mala distribución de la carga: no repartida de manera uniforme, concentrada en el lado izquierdo del contenedor",
+    "Condiciones desfavorables del trazado: radio de 300 metros y rampa de 21,5 milésimas"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Incumplimiento por parte de BTC Ibérica de su propia Instrucción Técnica de Carga de Contenedores",
+    "Falta de elementos de sujeción (calces) en la estiba de las bobinas dentro del contenedor"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Cumplir estrictamente la “Instrucción Técnica de Carga de Contenedores” elaborada por la propia Ben Trade Cables Ibérica S.A.",
+    "Cumplir estrictamente la “Instrucción Técnica de Carga de Contenedores” elaborada por la propia Ben Trade Cables Ibérica S.A."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Ben Trade Cables Ibérica S.A.",
+    "Ben Trade Cables Ibérica S.A."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "descarrilamiento",
+   "pagina": 3,
+   "cita": "Bif. Teruel, entre las estaciones de Teruel y Caparrates, se produce el descarrilamiento del tren de",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Logitren",
+    "Adif",
+    "Ben Trade Cables Ibérica S.A."
+   ],
+   "pagina": 3,
+   "cita": "mercancías 97845 de la empresa ferroviaria Logitren, compuesto por una locomotora 335 y 28",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2011-07-13",
+   "pagina": 9,
+   "cita": "La vía queda interceptada a las 21:45 horas del día 13/07/2011, restableciéndose la circulación a las",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "21:45",
+   "pagina": 3,
+   "cita": "El día 13 de julio de 2011, a las 21:45 horas, en plena vía, en el PK 137+810 de la línea 610 Sagunto –",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Caparrates",
+    "pk": "137+810",
+    "linea": "610 Sagunto – Bif. Teruel",
+    "provincia": "Teruel",
+    "descripcion_lugar": "Tramo entre las estaciones de Teruel y Caparrates, en curva a la izquierda de 300 m de radio y rampa de 21,5 milésimas. El tren descarrilado recorrió 3,29 km hasta el cruzamiento de la aguja A2 de la estación de Caparrates."
+   },
+   "pagina": 3,
+   "cita": "Bif. Teruel, entre las estaciones de Teruel y Caparrates, se produce el descarrilamiento del tren de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "610 Sagunto – Bif. Teruel",
+   "pagina": 3,
+   "cita": "610 Sagunto – Bif. Teruel",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 335 (335027, UIC 957103350279); 28 plataformas (25 MC, 3 MMC), tipo N (vmax 100 km/h); distancia entre ejes plataforma MC: 8 m; peso total 807 t; peso vagón 9º: 22,2 t",
+    "averia": "Rotura de ganchos de tracción, tubería de freno, peldaños de testeros doblados en vagones 7º-10º; vuelco del 9º vagón (girado 180º); contenedor desplazado fuera de la vía",
+    "mantenimiento": "Equipos de seguridad del tren funcionaron correctamente; registrador de seguridad operativo"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "Los hechos tuvieron lugar el día 13 de julio de 2011, a las 21:45 horas, en plena vía, en el PK 137+810 de la línea 610 Sagunto – Bif. Teruel, entre las estaciones de Teruel y Caparrates, provincia de Teruel. El tren de mercancías 97845 de la empresa ferroviaria Logitren, compuesto por una locomotora 335027 y 28 vagones (25 plataformas MC y 3 MMC) cargados con contenedores, procedente de Zaragoza Plaza con destino Clasificación Valencia Fuente de San Luis, circulaba con normalidad. Momentos antes de llegar a la estación de Caparrates, el maquinista observó por el espejo retrovisor una nube de polvo y chispas saliendo de un vagón e inició la maniobra de frenado, descubriendo que había descarrilado. El descarrilamiento se produjo en un tramo de curva a la izquierda con radio de 300 metros y rampa de 21,5 milésimas, con limitación de velocidad a 30 km/h por el mal estado de la vía. El tren circulaba a 21,5 km/h en el momento del descarrilamiento, cumpliendo la limitación. Descarriló la rueda derecha del primer eje del 9º vagón, remontando por el hilo alto y cayendo por el lado exterior de la vía.\n\nEl eje del noveno vagón circuló descarrilado durante 3,29 kilómetros hasta el cruzamiento de la aguja A2 de la estación de Caparrates, donde se produjo la rotura del espadín izquierdo por un fuerte golpe, provocando el descarrilamiento de los vagones 7º, 8º, 9º y 10º. El vagón 7º quedó descarrilado del segundo eje y separado del carril 44 cm con su tope empotrado en el 8º vagón. El vagón 8º quedó cruzado e inclinado a su izquierda, descarrilado de los dos ejes con separación de 140 cm. El noveno vagón quedó volcado y girado 180º sobre su eje longitudinal, con su contenedor desplazado fuera de la vía. El vagón 10º quedó descarrilado de los dos ejes con topes y ruedas delanteras encima del 9º vagón. No se produjeron daños personales.",
+   "pagina": 3,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Caparrates",
+    "pk": "137+810",
+    "linea": "610 Sagunto – Bif. Teruel",
+    "provincia": "Teruel",
+    "descripcion_lugar": "Tramo entre las estaciones de Teruel y Caparrates, en curva a la izquierda de 300 m de radio y rampa de 21,5 milésimas. El tren descarrilado recorrió 3,29 km hasta el cruzamiento de la aguja A2 de la estación de Caparrates."
+   },
+   "pagina": 3,
+   "cita": "Bif. Teruel, entre las estaciones de Teruel y Caparrates, se produce el descarrilamiento del tren de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Cuantiosos daños en vagones 7º, 8º, 9º y 10º (ganchos de tracción, tubería de freno, peldaños, vuelco del 9º). Daños en sujeciones y traviesas entre PKs 137+600 y 141+100. Motor del desvío A2 inútil; desvío A1 con daños en timonería. Contadores de ejes CVE1, CVA1, CV1 y CV2 afectados.",
+    "afectacion_servicio": "Vía interceptada desde 21:45 del 13/07/2011 hasta 07:15 del 15/07/2011. 7 trenes de viajeros suprimidos con transporte por carretera. Restablecimiento con limitaciones de velocidad (20 y 30 km/h), desvío A1 embridado y desvío A2 desmontado con comprobación artificial."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista",
+     "implicacion": "Conductor del tren 97845, matrícula 51450234Q, título B de conducción, habilitado conforme a Orden FOM/2520/2006, antigüedad inferior a 3 años. Detectó el descarrilamiento por el espejo retrovisor (polvareda y chispas), frenó correctamente y comunicó al PM. Prueba de alcoholemia negativa a las 01:45 en Caparrates. Jornada del día 13: 4h10 de conducción efectiva."
+    }
+   ],
+   "pagina": 4,
+   "cita": "llegar a la estación de Caparrates el maquinista mira por el espejo retrovisor viendo una nube de polvo",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "97845",
+     "tipo": "mercancías",
+     "operador": "Logitren",
+     "danos": "Cuantiosos daños en vagones 7º, 8º, 9º y 10º: rotura de ganchos de tracción, rotura de tubería de freno, peldaños de testeros doblados, vuelco del 9º vagón con contenedor desplazado fuera de la vía"
+    }
+   ],
+   "pagina": 3,
+   "cita": "mercancías 97845 de la empresa ferroviaria Logitren, compuesto por una locomotora 335 y 28",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 335 (335027, UIC 957103350279); 28 plataformas (25 MC, 3 MMC), tipo N (vmax 100 km/h); distancia entre ejes plataforma MC: 8 m; peso total 807 t; peso vagón 9º: 22,2 t",
+    "averia": "Rotura de ganchos de tracción, tubería de freno, peldaños de testeros doblados en vagones 7º-10º; vuelco del 9º vagón (girado 180º); contenedor desplazado fuera de la vía",
+    "mantenimiento": "Equipos de seguridad del tren funcionaron correctamente; registrador de seguridad operativo"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 9,
+   "cita": "Infraestructura: daños en las sujeciones y en las traviesas monoblock entre los PKs 137+600 y",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "BLAU (bloqueo de liberación automático en vía única), CTC en Valencia",
+    "tipo_via": "vía única, terraplén, carril 54 kg/ml, traviesas de hormigón monobloc, balasto silíceo",
+    "velocidad_maxima": "75 km/h (trenes tipo N); limitación temporal 30 km/h entre PKs 137+680 y 138+125 por mal estado de vía; otra limitación temporal 30 km/h entre PKs 133+900 y 134+000",
+    "ancho": "convencional",
+    "electrificacion": "sin electrificar",
+    "estado_via": "mal estado: fuertes alabeos y baches; valores elevados de alabeo para base rígida de 8 metros",
+    "otro": "Daños en sujeciones y traviesas monoblock entre PKs 137+600 y 141+100. Motor del desvío A2 de Caparrates inútil; desvío A1 con daños mecánicos en timonería. Afectados contadores de ejes CVE1, CVA1, CV1 y CV2. Curva a la izquierda de 300 m radio, rampa 21,5 milésimas."
+   },
+   "pagina": 7,
+   "cita": "El tramo donde ocurre el accidente es de vía única sin electrificar y ancho convencional, en el que la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "BLAU (bloqueo de liberación automático en vía única), CTC en Valencia",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad A.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Cuantiosos daños en vagones 7º, 8º, 9º y 10º (ganchos de tracción, tubería de freno, peldaños, vuelco del 9º). Daños en sujeciones y traviesas entre PKs 137+600 y 141+100. Motor del desvío A2 inútil; desvío A1 con daños en timonería. Contadores de ejes CVE1, CVA1, CV1 y CV2 afectados.",
+    "afectacion_servicio": "Vía interceptada desde 21:45 del 13/07/2011 hasta 07:15 del 15/07/2011. 7 trenes de viajeros suprimidos con transporte por carretera. Restablecimiento con limitaciones de velocidad (20 y 30 km/h), desvío A1 embridado y desvío A2 desmontado con comprobación artificial."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Cuantiosos daños en vagones 7º, 8º, 9º y 10º (ganchos de tracción, tubería de freno, peldaños, vuelco del 9º). Daños en sujeciones y traviesas entre PKs 137+600 y 141+100. Motor del desvío A2 inútil; desvío A1 con daños en timonería. Contadores de ejes CVE1, CVA1, CV1 y CV2 afectados.",
+    "afectacion_servicio": "Vía interceptada desde 21:45 del 13/07/2011 hasta 07:15 del 15/07/2011. 7 trenes de viajeros suprimidos con transporte por carretera. Restablecimiento con limitaciones de velocidad (20 y 30 km/h), desvío A1 embridado y desvío A2 desmontado con comprobación artificial."
+   },
+   "pagina": 5,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Cuantiosos daños en vagones 7º, 8º, 9º y 10º (ganchos de tracción, tubería de freno, peldaños, vuelco del 9º). Daños en sujeciones y traviesas entre PKs 137+600 y 141+100. Motor del desvío A2 inútil; desvío A1 con daños en timonería. Contadores de ejes CVE1, CVA1, CV1 y CV2 afectados.",
+    "afectacion_servicio": "Vía interceptada desde 21:45 del 13/07/2011 hasta 07:15 del 15/07/2011. 7 trenes de viajeros suprimidos con transporte por carretera. Restablecimiento con limitaciones de velocidad (20 y 30 km/h), desvío A1 embridado y desvío A2 desmontado con comprobación artificial."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 335 (335027, UIC 957103350279); 28 plataformas (25 MC, 3 MMC), tipo N (vmax 100 km/h); distancia entre ejes plataforma MC: 8 m; peso total 807 t; peso vagón 9º: 22,2 t",
+    "averia": "Rotura de ganchos de tracción, tubería de freno, peldaños de testeros doblados en vagones 7º-10º; vuelco del 9º vagón (girado 180º); contenedor desplazado fuera de la vía",
+    "mantenimiento": "Equipos de seguridad del tren funcionaron correctamente; registrador de seguridad operativo"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "BLAU (bloqueo de liberación automático en vía única), CTC en Valencia",
+    "tipo_via": "vía única, terraplén, carril 54 kg/ml, traviesas de hormigón monobloc, balasto silíceo",
+    "velocidad_maxima": "75 km/h (trenes tipo N); limitación temporal 30 km/h entre PKs 137+680 y 138+125 por mal estado de vía; otra limitación temporal 30 km/h entre PKs 133+900 y 134+000",
+    "ancho": "convencional",
+    "electrificacion": "sin electrificar",
+    "estado_via": "mal estado: fuertes alabeos y baches; valores elevados de alabeo para base rígida de 8 metros",
+    "otro": "Daños en sujeciones y traviesas monoblock entre PKs 137+600 y 141+100. Motor del desvío A2 de Caparrates inútil; desvío A1 con daños mecánicos en timonería. Afectados contadores de ejes CVE1, CVA1, CV1 y CV2. Curva a la izquierda de 300 m radio, rampa 21,5 milésimas."
+   },
+   "pagina": 7,
+   "cita": "El tramo donde ocurre el accidente es de vía única sin electrificar y ancho convencional, en el que la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Anochecer, tiempo nublado, fuerte viento presente en el momento del suceso",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Teruel",
+    "municipio": null,
+    "estacion": "Caparrates"
+   },
+   "pagina": 3,
+   "cita": "Bif. Teruel, entre las estaciones de Teruel y Caparrates, se produce el descarrilamiento del tren de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Anochecer, tiempo nublado, fuerte viento presente en el momento del suceso",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "BLAU (bloqueo de liberación automático en vía única), CTC en Valencia",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "BLAU (bloqueo de liberación automático en vía única), CTC en Valencia",
+    "tipo_via": "vía única, terraplén, carril 54 kg/ml, traviesas de hormigón monobloc, balasto silíceo",
+    "velocidad_maxima": "75 km/h (trenes tipo N); limitación temporal 30 km/h entre PKs 137+680 y 138+125 por mal estado de vía; otra limitación temporal 30 km/h entre PKs 133+900 y 134+000",
+    "ancho": "convencional",
+    "electrificacion": "sin electrificar",
+    "estado_via": "mal estado: fuertes alabeos y baches; valores elevados de alabeo para base rígida de 8 metros",
+    "otro": "Daños en sujeciones y traviesas monoblock entre PKs 137+600 y 141+100. Motor del desvío A2 de Caparrates inútil; desvío A1 con daños mecánicos en timonería. Afectados contadores de ejes CVE1, CVA1, CV1 y CV2. Curva a la izquierda de 300 m radio, rampa 21,5 milésimas."
+   },
+   "pagina": 7,
+   "cita": "El tramo donde ocurre el accidente es de vía única sin electrificar y ancho convencional, en el que la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad A.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 335 (335027, UIC 957103350279); 28 plataformas (25 MC, 3 MMC), tipo N (vmax 100 km/h); distancia entre ejes plataforma MC: 8 m; peso total 807 t; peso vagón 9º: 22,2 t",
+    "averia": "Rotura de ganchos de tracción, tubería de freno, peldaños de testeros doblados en vagones 7º-10º; vuelco del 9º vagón (girado 180º); contenedor desplazado fuera de la vía",
+    "mantenimiento": "Equipos de seguridad del tren funcionaron correctamente; registrador de seguridad operativo"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Mal estado de la vía",
+    "Inadecuada estiba de carga",
+    "Curva radio 300 metros",
+    "Rampa pronunciada"
+   ],
+   "pagina": 4,
+   "cita": "30 km/h por el mal estado de la vía. Descarrila la rueda derecha del primer eje de vagón 9º, en el",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 97845 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene una antigüedad en el cargo inferior a 3 años. \n3.3. \nNORMATIVA",
+   "pagina": 11,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "Los hechos tuvieron lugar el día 13 de julio de 2011, a las 21:45 horas, en plena vía, en el PK 137+810 de la línea 610 Sagunto – Bif. Teruel, entre las estaciones de Teruel y Caparrates, provincia de Teruel. El tren de mercancías 97845 de la empresa ferroviaria Logitren, compuesto por una locomotora 335027 y 28 vagones (25 plataformas MC y 3 MMC) cargados con contenedores, procedente de Zaragoza Plaza con destino Clasificación Valencia Fuente de San Luis, circulaba con normalidad. Momentos antes de llegar a la estación de Caparrates, el maquinista observó por el espejo retrovisor una nube de polvo y chispas saliendo de un vagón e inició la maniobra de frenado, descubriendo que había descarrilado. El descarrilamiento se produjo en un tramo de curva a la izquierda con radio de 300 metros y rampa de 21,5 milésimas, con limitación de velocidad a 30 km/h por el mal estado de la vía. El tren circulaba a 21,5 km/h en el momento del descarrilamiento, cumpliendo la limitación. Descarriló la rueda derecha del primer eje del 9º vagón, remontando por el hilo alto y cayendo por el lado exterior de la vía.\n\nEl eje del noveno vagón circuló descarrilado durante 3,29 kilómetros hasta el cruzamiento de la aguja A2 de la estación de Caparrates, donde se produjo la rotura del espadín izquierdo por un fuerte golpe, provocando el descarrilamiento de los vagones 7º, 8º, 9º y 10º. El vagón 7º quedó descarrilado del segundo eje y separado del carril 44 cm con su tope empotrado en el 8º vagón. El vagón 8º quedó cruzado e inclinado a su izquierda, descarrilado de los dos ejes con separación de 140 cm. El noveno vagón quedó volcado y girado 180º sobre su eje longitudinal, con su contenedor desplazado fuera de la vía. El vagón 10º quedó descarrilado de los dos ejes con topes y ruedas delanteras encima del 9º vagón. No se produjeron daños personales.",
+   "pagina": 3,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Remonte de la rueda derecha del primer eje del 9º vagón por el hilo alto, seguido de descarrilamiento, en curva de 300 m con rampa de 21,5 milésimas",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Estado de la vía con fuertes alabeos y baches (limitación temporal a 30 km/h)",
+    "Inadecuada estiba de la carga: bobinas de cable sin calces para impedir que rueden, incumplimiento del artículo 5.6.1 de la Instrucción General 66",
+    "Mala distribución de la carga: no repartida de manera uniforme, concentrada en el lado izquierdo del contenedor",
+    "Condiciones desfavorables del trazado: radio de 300 metros y rampa de 21,5 milésimas"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Cumplir estrictamente la “Instrucción Técnica de Carga de Contenedores” elaborada por la propia Ben Trade Cables Ibérica S.A.",
+    "Cumplir estrictamente la “Instrucción Técnica de Carga de Contenedores” elaborada por la propia Ben Trade Cables Ibérica S.A."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Ben Trade Cables Ibérica S.A.",
+    "Ben Trade Cables Ibérica S.A."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "21:45",
+     "evento": "Descarrilamiento de la rueda derecha del primer eje del 9º vagón en el PK 137+810, circulando a 21,5 km/h"
+    },
+    {
+     "hora": "21:45",
+     "evento": "El maquinista observa polvareda y chispas por el espejo retrovisor e inicia frenado progresivo"
+    },
+    {
+     "hora": "21:45",
+     "evento": "El maquinista acciona el freno de urgencia y comunica emergencia por radiotelefonía al puesto de mando de Valencia"
+    },
+    {
+     "hora": "21:45",
+     "evento": "El tren circula descarrilado 3,29 km hasta impactar con la aguja A2 de Caparrates, provocando rotura del espadín izquierdo y descarrilamiento de vagones 7º, 8º, 9º y 10º"
+    },
+    {
+     "hora": "21:45",
+     "evento": "Interceptación de la vía"
+    },
+    {
+     "hora": null,
+     "evento": "El maquinista baja de la locomotora, constata la gravedad y regresa para comunicar la situación al PM; baja a echar frenos de estacionamiento por la pendiente"
+    },
+    {
+     "hora": "07:15",
+     "evento": "Restablecimiento de la circulación entre Teruel y Caparrates con limitaciones de velocidad (15/07/2011)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0044/2011",
+ "expediente": "0044/011",
+ "anio": 2011,
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0044/2011 OCURRIDO EL DÍA 13.07.2011 ENTRE LAS ESTACIONES DE TERUEL Y CAPARRATES (TERUEL)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-130711-250912-CIAF.md"
+}

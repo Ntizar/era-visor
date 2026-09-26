@@ -1,0 +1,870 @@
+{
+ "id": "IF-201208-210409-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/CA418AF0-1DA4-4592-B64D-77D992C2A702/47004/IF201208210409CIAF.pdf",
+ "pdf": "pdfs/ES/IF-201208-210409-CIAF.pdf",
+ "md5_pdf": "236f47238be2aa477368dd1cf0e2df50",
+ "paginas_md": 14,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 5,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0074/2008",
+   "pagina": 1,
+   "cita": "nº 0074/2008 ocurrido el 20.12.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 20 de diciembre de 2008, el tren de mercancías 80454 de Renfe Operadora arrolló a un hombre que cruzaba un paso a nivel tipo C en la estación de Salou. Las barreras estaban bajadas y las señales acústicas y luminosas activas. El maquinista intentó frenar pero no pudo evitar el impacto. La investigación concluyó que la causa fue la conducta imprudente de la víctima al sortear las barreras.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-12-20",
+    "hora": "05:21",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Salou",
+     "pk": "263,208",
+     "linea": "600 Valencia Nord - Sant Vicent de Calders",
+     "provincia": "Tarragona",
+     "descripcion_lugar": "Paso a Nivel Clase C, tramo Cambrils-Salou, zona urbana, trazado recto y buena visibilidad."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 20 de diciembre de 2008, a las 05:21 horas, el tren de mercancías 80454, de la empresa",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Retraso total de 18 min en 3 trenes media distancia y 25 min en 4 trenes larga distancia. Tren implicado retraso 204 min. Circulación a vista en vías 2 y 4 hasta las 08:40."
+   },
+   "pagina": 7,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "La víctima cruza el paso a nivel sorteando las barreras bajadas cuando el tren pasaba.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Dadas las circunstancias en que se produjo el suceso y que está prevista la supresión de este paso a nivel, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "Recomendación Dadas las circunstancias en que se produjo el suceso y que está prevista la supresión de este paso a nivel, no se establecen recomendaciones 2. HECHOS INMEDIATOS DEL SUCESO 2.1 SUCESO Día / Hora",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Dadas las circunstancias en que se produjo el suceso y que está prevista la supresión de este paso a nivel, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "Recomendación Dadas las circunstancias en que se produjo el suceso y que está prevista la supresión de este paso a nivel, no se establecen recomendaciones 2. HECHOS INMEDIATOS DEL SUCESO 2.1 SUCESO Día / Hora",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "ferroviaria Renfe Operadora, arrolla a una persona que cruzaba por un paso a nivel tipo C (estación de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-12-20",
+   "pagina": 3,
+   "cita": "El día 20 de diciembre de 2008, a las 05:21 horas, el tren de mercancías 80454, de la empresa",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "05:21",
+   "pagina": 3,
+   "cita": "El día 20 de diciembre de 2008, a las 05:21 horas, el tren de mercancías 80454, de la empresa",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Salou",
+    "pk": "263,208",
+    "linea": "600 Valencia Nord - Sant Vicent de Calders",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Paso a Nivel Clase C, tramo Cambrils-Salou, zona urbana, trazado recto y buena visibilidad."
+   },
+   "pagina": 7,
+   "cita": "El tren implicado en el accidente queda estacionado en la vía 1 hasta las 08.45 horas que reanuda",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "600 Valencia Nord - Sant Vicent de Calders",
+   "pagina": 3,
+   "cita": "600 Valencia Nord - Sant Vicent de Calders",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 2692218 (Serie 269)",
+    "averia": "Ninguna",
+    "mantenimiento": "Equipos de seguridad funcionaron correctamente según registrador."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "A las 05:21 horas del 20 de diciembre de 2008, el tren de mercancías 80454, operado por Renfe Operadora y circulando en sentido norte, se aproximaba al paso a nivel clase C situado en el P.K. 263,208 de la estación de Salou. Según la declaración del maquinista, poco antes de llegar hizo uso del silbato al observar a dos personas cruzando corriendo las vías desde la playa hacia la calle Guillerm de Claramunt, con intención de pasar antes de la llegada del tren. Aunque uno logró cruzar, el segundo (la víctima) no lo consiguió. El maquinista aplicó el freno de emergencia, pero el tren, que circulaba a 77 km/h, arrolló a la persona por el lado izquierdo. El accidente ocurrió mientras las semibarreras estaban bajadas durante más de cuatro minutos y las señales funcionaban correctamente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Salou",
+    "pk": "263,208",
+    "linea": "600 Valencia Nord - Sant Vicent de Calders",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Paso a Nivel Clase C, tramo Cambrils-Salou, zona urbana, trazado recto y buena visibilidad."
+   },
+   "pagina": 7,
+   "cita": "El tren implicado en el accidente queda estacionado en la vía 1 hasta las 08.45 horas que reanuda",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Retraso total de 18 min en 3 trenes media distancia y 25 min en 4 trenes larga distancia. Tren implicado retraso 204 min. Circulación a vista en vías 2 y 4 hasta las 08:40."
+   },
+   "pagina": 7,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal",
+     "implicacion": "Actuación correcta: usó silbato y freno de emergencia. Alcoholemia negativa. Habilitación vigente."
+    }
+   ],
+   "pagina": 5,
+   "cita": " El Maquinista principal del tren de mercancías 80454.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "80454",
+     "tipo": "Mercancías",
+     "operador": "Renfe Operadora",
+     "danos": "Ninguno"
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 20 de diciembre de 2008, a las 05:21 horas, el tren de mercancías 80454, de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 2692218 (Serie 269)",
+    "averia": "Ninguna",
+    "mantenimiento": "Equipos de seguridad funcionaron correctamente según registrador."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 4,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Semibarreras enclavadas, señales acústicas y luminosas en funcionamiento.",
+    "tipo_via": "Vía única electrificada (en el paso a nivel hay 4 vías)",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "Sí",
+    "estado_via": "Correcto",
+    "otro": "Bloqueo automático con control de tráfico centralizado. Pavimento tipo strail. Semibarreras solo en lado derecho (sentido ascendente)."
+   },
+   "pagina": 9,
+   "cita": "estación de Salou, es de 100 km/hora, por lo que el tren circulaba por debajo de su velocidad máxima",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Semibarreras enclavadas, señales acústicas y luminosas en funcionamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Retraso total de 18 min en 3 trenes media distancia y 25 min en 4 trenes larga distancia. Tren implicado retraso 204 min. Circulación a vista en vías 2 y 4 hasta las 08:40."
+   },
+   "pagina": 7,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Retraso total de 18 min en 3 trenes media distancia y 25 min en 4 trenes larga distancia. Tren implicado retraso 204 min. Circulación a vista en vías 2 y 4 hasta las 08:40."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Retraso total de 18 min en 3 trenes media distancia y 25 min en 4 trenes larga distancia. Tren implicado retraso 204 min. Circulación a vista en vías 2 y 4 hasta las 08:40."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 2692218 (Serie 269)",
+    "averia": "Ninguna",
+    "mantenimiento": "Equipos de seguridad funcionaron correctamente según registrador."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Semibarreras enclavadas, señales acústicas y luminosas en funcionamiento.",
+    "tipo_via": "Vía única electrificada (en el paso a nivel hay 4 vías)",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "Sí",
+    "estado_via": "Correcto",
+    "otro": "Bloqueo automático con control de tráfico centralizado. Pavimento tipo strail. Semibarreras solo en lado derecho (sentido ascendente)."
+   },
+   "pagina": 9,
+   "cita": "estación de Salou, es de 100 km/hora, por lo que el tren circulaba por debajo de su velocidad máxima",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche, tiempo bueno",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Tarragona",
+    "municipio": null,
+    "estacion": "Salou (Salou-Port Aventura)"
+   },
+   "pagina": 3,
+   "cita": "Tarragona El tren de mercancías 80454 de Renfe Operadora, circulando en sentido norte, arrolla a un hombre que cruza el paso a nivel, situado en el P.K. 263,208 de la estación de Salou, cuando las barreras estaban baj",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche, tiempo bueno",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Semibarreras enclavadas, señales acústicas y luminosas en funcionamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Semibarreras enclavadas, señales acústicas y luminosas en funcionamiento.",
+    "tipo_via": "Vía única electrificada (en el paso a nivel hay 4 vías)",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "Sí",
+    "estado_via": "Correcto",
+    "otro": "Bloqueo automático con control de tráfico centralizado. Pavimento tipo strail. Semibarreras solo en lado derecho (sentido ascendente)."
+   },
+   "pagina": 9,
+   "cita": "estación de Salou, es de 100 km/hora, por lo que el tren circulaba por debajo de su velocidad máxima",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 2692218 (Serie 269)",
+    "averia": "Ninguna",
+    "mantenimiento": "Equipos de seguridad funcionaron correctamente según registrador."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "víctima cruza barreras bajadas",
+    "intento de cruzar antes del tren"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "A las 05:21 horas del 20 de diciembre de 2008, el tren de mercancías 80454, operado por Renfe Operadora y circulando en sentido norte, se aproximaba al paso a nivel clase C situado en el P.K. 263,208 de la estación de Salou. Según la declaración del maquinista, poco antes de llegar hizo uso del silbato al observar a dos personas cruzando corriendo las vías desde la playa hacia la calle Guillerm de Claramunt, con intención de pasar antes de la llegada del tren. Aunque uno logró cruzar, el segundo (la víctima) no lo consiguió. El maquinista aplicó el freno de emergencia, pero el tren, que circulaba a 77 km/h, arrolló a la persona por el lado izquierdo. El accidente ocurrió mientras las semibarreras estaban bajadas durante más de cuatro minutos y las señales funcionaban correctamente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en el paso a nivel tipo C del P.K. 263,208 situado en la estación de Salou. \nDel análisis del registrador de seguridad del vehículo motor se desprende que el tren circulaba a \nuna velocidad inferior a su máxima permitida en el tramo. \nSegún lo declarado por el maquinista, antes de llegar al paso a nivel hizo uso del silbato y \nposteriormente, cuando se percató de la presencia de los dos hombres, hizo uso de nuevo del silbato \ny actuó sobre el freno de emergencia, por lo que la actuación del maquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nLos equipos de seguridad del tren y las instalaciones del paso a nivel funcionaban correctamente \nen el momento del accidente y de acuerdo a la normativa de seguridad. \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0074/2008 ocurrido el 20.12.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-201208-210409-CIAF \n \n \nPág. 12 de 14\nA efectos de la causalidad del accidente se ha podido comprobar que: \nLa víctima, en compañía de otra persona, cruzó el paso a nivel cuando este se encontraba con sus \nsistemas de protección activados. \nSegún la declaración del maquinista, la víctima intentó cruzar antes de que el tren 80454 \nsobrepasara el paso a nivel. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen cuando la víctima cruza el paso a nivel, sorteando las barreras bajadas, \nen el momento en que el tren 80454 circulaba por él.",
+   "pagina": 11,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "La víctima cruza el paso a nivel sorteando las barreras bajadas cuando el tren pasaba.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "víctima cruza barreras bajadas",
+    "intento de cruzar antes del tren"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Dadas las circunstancias en que se produjo el suceso y que está prevista la supresión de este paso a nivel, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "Recomendación Dadas las circunstancias en que se produjo el suceso y que está prevista la supresión de este paso a nivel, no se establecen recomendaciones 2. HECHOS INMEDIATOS DEL SUCESO 2.1 SUCESO Día / Hora",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "05:21",
+     "evento": "Ocurre el arrollamiento de la persona por el tren 80454."
+    },
+    {
+     "hora": "05:30",
+     "evento": "Acuden al lugar la Policía local y los Mossos d'Esquadra."
+    },
+    {
+     "hora": "08:40",
+     "evento": "Se produce el levantamiento del cadáver y reanudación de la circulación normal."
+    },
+    {
+     "hora": "08:45",
+     "evento": "El tren implicado reanuda su marcha tras estar estacionado en vía 1."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0074/2008",
+ "expediente": "0074/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de persona en paso a nivel con barreras bajadas en la estación de Salou",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-201208-210409-CIAF.md"
+}

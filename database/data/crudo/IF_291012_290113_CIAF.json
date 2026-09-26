@@ -1,0 +1,899 @@
+{
+ "id": "IF_291012_290113_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/20A00E4E-55E8-45D5-96E4-9B3695F0DFCD/116388/IF291012290113CIAF.pdf",
+ "pdf": "pdfs/ES/IF_291012_290113_CIAF.pdf",
+ "md5_pdf": "534b919459fa7188a0409b427486ed11",
+ "paginas_md": 14,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 17,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0071/2012",
+   "pagina": 1,
+   "cita": "nº 0071/2012 ocurrido el 29.10.2012",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 29 de octubre de 2012, a las 09:52, el tren de media distancia 18081 de Renfe Operadora arrolló a un vehículo de carretera en el paso a nivel clase A del PK 257+758 de la línea 522, entre Miguelturra y Pozuelo de Calatrava (Ciudad Real). El conductor del vehículo resultó herido leve y el tren sufrió daños valorados en 15.698,61 €. La vía permaneció interceptada hasta las 11:35 y el tren acumuló 85 minutos de retraso. La investigación concluye que el origen fue la invasión del gálibo por el vehículo, y recomienda actualizar la IMD y adecuar el paso a nivel.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2012-10-29",
+    "hora": "09:52",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Entre Miguelturra y Pozuelo de Calatrava",
+     "pk": "257+758",
+     "linea": "522 Manzanares - Ciudad Real",
+     "provincia": "Ciudad Real",
+     "descripcion_lugar": "Paso a nivel clase A del Camino de Carrión, en el PK 257+758 de la línea 522, entre las estaciones de Miguelturra y Pozuelo de Calatrava, término municipal de Miguelturra, Ciudad Real."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 29 de octubre de 2012, a las 09:52 horas, el tren de viajeros de media distancia 18081 de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": null,
+    "heridos_leves": 1,
+    "danos_materiales": "Material rodante: daños valorados en 15.698,61 €. Infraestructura: leves daños en las traviesas del paso a nivel.",
+    "afectacion_servicio": "Vía interceptada de 09:52 a 11:35; el tren 18081 sufrió un retraso de 85 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión del gálibo de la vía por parte del vehículo de carretera, que cruza el paso a nivel cuando pasaba el tren 18081.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El vehículo irrumpe en el paso a nivel sin cerciorarse de la posible circulación de trenes.",
+    "En 2012 entró en servicio una actuación viaria que aumentó sustancialmente el tráfico del Camino de Carrión.",
+    "La IMD actual es superior a la considerada para el cálculo del momento de circulación (A=15,73)."
+   ],
+   "pagina": 13,
+   "cita": "El vehículo irrumpe en el paso a nivel sin cerciorarse de la posible circulación de trenes.",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "El valor de IMD considerado para el cálculo del momento de circulación era inferior al tráfico actual."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "A la mayor brevedad posible, solicitar al titular del camino (Ayuntamiento de Miguelturra), el valor actual de la intensidad media diaria (IMD) de vehículos.",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    },
+    {
+     "texto": "Conocido el valor actual de la IMD, proceder a adecuar por quien corresponda las características del paso a lo establecido en la OM de 2 de agosto de 2001 sobre supresión y protección de pasos a nivel.",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "71/12-1 A la mayor brevedad posible, solicitar al titular del camino (Ayuntamiento de Miguelturra), el valor actual de la intensidad media diaria (IMD) de vehículos. Dirección General de Ferrocarriles (DGF) 71/12-2",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "A la mayor brevedad posible, solicitar al titular del camino (Ayuntamiento de Miguelturra), el valor actual de la intensidad media diaria (IMD) de vehículos.",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    },
+    {
+     "texto": "Conocido el valor actual de la IMD, proceder a adecuar por quien corresponda las características del paso a lo establecido en la OM de 2 de agosto de 2001 sobre supresión y protección de pasos a nivel.",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "71/12-1 A la mayor brevedad posible, solicitar al titular del camino (Ayuntamiento de Miguelturra), el valor actual de la intensidad media diaria (IMD) de vehículos. Dirección General de Ferrocarriles (DGF) 71/12-2",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de vehículo",
+   "pagina": 14,
+   "cita": "En su momento, la CIAF tuvo conocimiento de otro arrollamiento de vehículo (minicar) en este paso a",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "empresa ferroviaria Renfe Operadora, en el paso a nivel clase A del PK 257+758 de la línea 522",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2012-10-29",
+   "pagina": 3,
+   "cita": "El día 29 de octubre de 2012, a las 09:52 horas, el tren de viajeros de media distancia 18081 de la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "09:52",
+   "pagina": 3,
+   "cita": "El día 29 de octubre de 2012, a las 09:52 horas, el tren de viajeros de media distancia 18081 de la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Entre Miguelturra y Pozuelo de Calatrava",
+    "pk": "257+758",
+    "linea": "522 Manzanares - Ciudad Real",
+    "provincia": "Ciudad Real",
+    "descripcion_lugar": "Paso a nivel clase A del Camino de Carrión, en el PK 257+758 de la línea 522, entre las estaciones de Miguelturra y Pozuelo de Calatrava, término municipal de Miguelturra, Ciudad Real."
+   },
+   "pagina": 3,
+   "cita": "522 Manzanares - Ciudad Real",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "522 Manzanares - Ciudad Real",
+   "pagina": 3,
+   "cita": "522 Manzanares - Ciudad Real",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Composición 967194490033, tipo 160A, 5 vehículos, 185 toneladas, velocidad máxima 160 km/h.",
+    "averia": "Equipos de seguridad del tren funcionaron correctamente; daños en Schafemberg (acople), carenado, amortiguador, tubería y tornillería.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 29 de octubre de 2012, a las 09:52 horas, el tren de viajeros de media distancia 18081 de Renfe Operadora, con origen Ciudad Real y destino Alicante, circulaba con normalidad entre Miguelturra y Pozuelo de Calatrava, en la línea 522 Manzanares - Ciudad Real. Al aproximarse al paso a nivel clase A del PK 257+758, el maquinista observó un vehículo de carretera que se acercaba al cruce. El maquinista hizo uso prolongado del silbato y accionó el freno de emergencia a una velocidad de 47 km/h, según el registro de seguridad, aunque no pudo evitar el arrollamiento. El tren impactó en el lateral izquierdo del vehículo y quedó detenido tras recorrer 81 metros desde el punto de frenado. Como consecuencia, el conductor del vehículo resultó herido leve. La vía quedó interceptada desde las 09:52 hasta las 11:35 horas, momento en que se retiró el vehículo, y el tren implicado sufrió un retraso de 85 minutos.",
+   "pagina": 3,
+   "cita": "RESUMEN El día 29 de octubre de 2012, a las 09:52 horas, el tren de viajeros de media distancia 18081 de la empresa ferroviaria Renfe Operadora, en el paso a nivel clase A del PK 257+758 de la línea 522 Manzanares - C",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Entre Miguelturra y Pozuelo de Calatrava",
+    "pk": "257+758",
+    "linea": "522 Manzanares - Ciudad Real",
+    "provincia": "Ciudad Real",
+    "descripcion_lugar": "Paso a nivel clase A del Camino de Carrión, en el PK 257+758 de la línea 522, entre las estaciones de Miguelturra y Pozuelo de Calatrava, término municipal de Miguelturra, Ciudad Real."
+   },
+   "pagina": 3,
+   "cita": "522 Manzanares - Ciudad Real",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": null,
+    "heridos_leves": 1,
+    "danos_materiales": "Material rodante: daños valorados en 15.698,61 €. Infraestructura: leves daños en las traviesas del paso a nivel.",
+    "afectacion_servicio": "Vía interceptada de 09:52 a 11:35; el tren 18081 sufrió un retraso de 85 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 18081",
+     "implicacion": "Matrícula 9646340; título B de conducción; accionó el silbato y el freno de emergencia; pruebas de alcoholemia y drogas negativas; jornada laboral del día 29 de 3 horas y 40 minutos."
+    },
+    {
+     "rol": "Conductor del vehículo de carretera",
+     "implicacion": "Resultó herido leve."
+    }
+   ],
+   "pagina": 6,
+   "cita": "El maquinista del tren 18081 con matrícula 9646340.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "18081",
+     "tipo": "Tren de viajeros de media distancia",
+     "operador": "Renfe Operadora",
+     "danos": "Daños en Schafemberg (acople), carenado, amortiguador, tubería y tornillería; valoración económica 15.698,61 €."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 29 de octubre de 2012, a las 09:52 horas, el tren de viajeros de media distancia 18081 de la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Composición 967194490033, tipo 160A, 5 vehículos, 185 toneladas, velocidad máxima 160 km/h.",
+    "averia": "Equipos de seguridad del tren funcionaron correctamente; daños en Schafemberg (acople), carenado, amortiguador, tubería y tornillería.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 10,
+   "cita": "Infraestructura: leves daños en las traviesas del paso a nivel.",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel protegido con señales fijas; carteles de silbar en la vía; señalización vertical de caminos y vía conforme a la Orden de 2 de agosto de 2001.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "140 km/h para el trayecto; limitación temporal de 60 km/h en el paso a nivel, reducida a 40 km/h tras el suceso.",
+    "ancho": "Ancho convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Sin restricciones ni condiciones especiales de circulación; traviesas del paso a nivel con estado aceptable y leves daños tras el accidente.",
+    "otro": "BAU y CTC; radiotefonía en modalidad A; paso a nivel clase A de titularidad municipal del camino, anchura aproximada de 5 m; visibilidad buena; momento de circulación AxT=236 (A=15,73 y T=15); acceso al Camino de Carrión, CM-45 y A-43 mediante rotonda puesta en servicio en 2012."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso a nivel protegido con señales fijas; carteles de silbar en la vía; señalización vertical de caminos y vía conforme a la Orden de 2 de agosto de 2001.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotefonía en modalidad A",
+   "pagina": 9,
+   "cita": "2.2.5. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": null,
+    "heridos_leves": 1,
+    "danos_materiales": "Material rodante: daños valorados en 15.698,61 €. Infraestructura: leves daños en las traviesas del paso a nivel.",
+    "afectacion_servicio": "Vía interceptada de 09:52 a 11:35; el tren 18081 sufrió un retraso de 85 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": null,
+    "heridos_leves": 1,
+    "danos_materiales": "Material rodante: daños valorados en 15.698,61 €. Infraestructura: leves daños en las traviesas del paso a nivel.",
+    "afectacion_servicio": "Vía interceptada de 09:52 a 11:35; el tren 18081 sufrió un retraso de 85 minutos."
+   },
+   "pagina": 9,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": null,
+    "heridos_leves": 1,
+    "danos_materiales": "Material rodante: daños valorados en 15.698,61 €. Infraestructura: leves daños en las traviesas del paso a nivel.",
+    "afectacion_servicio": "Vía interceptada de 09:52 a 11:35; el tren 18081 sufrió un retraso de 85 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Composición 967194490033, tipo 160A, 5 vehículos, 185 toneladas, velocidad máxima 160 km/h.",
+    "averia": "Equipos de seguridad del tren funcionaron correctamente; daños en Schafemberg (acople), carenado, amortiguador, tubería y tornillería.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel protegido con señales fijas; carteles de silbar en la vía; señalización vertical de caminos y vía conforme a la Orden de 2 de agosto de 2001.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "140 km/h para el trayecto; limitación temporal de 60 km/h en el paso a nivel, reducida a 40 km/h tras el suceso.",
+    "ancho": "Ancho convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Sin restricciones ni condiciones especiales de circulación; traviesas del paso a nivel con estado aceptable y leves daños tras el accidente.",
+    "otro": "BAU y CTC; radiotefonía en modalidad A; paso a nivel clase A de titularidad municipal del camino, anchura aproximada de 5 m; visibilidad buena; momento de circulación AxT=236 (A=15,73 y T=15); acceso al Camino de Carrión, CM-45 y A-43 mediante rotonda puesta en servicio en 2012."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Ciudad Real",
+    "municipio": null,
+    "estacion": "Miguelturra - Pozuelo de Calatrava"
+   },
+   "pagina": 3,
+   "cita": "Manzanares - Ciudad Real, entre las estaciones de Miguelturra y Pozuelo de Calatrava (Ciudad Real),",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso a nivel protegido con señales fijas; carteles de silbar en la vía; señalización vertical de caminos y vía conforme a la Orden de 2 de agosto de 2001.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel protegido con señales fijas; carteles de silbar en la vía; señalización vertical de caminos y vía conforme a la Orden de 2 de agosto de 2001.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "140 km/h para el trayecto; limitación temporal de 60 km/h en el paso a nivel, reducida a 40 km/h tras el suceso.",
+    "ancho": "Ancho convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Sin restricciones ni condiciones especiales de circulación; traviesas del paso a nivel con estado aceptable y leves daños tras el accidente.",
+    "otro": "BAU y CTC; radiotefonía en modalidad A; paso a nivel clase A de titularidad municipal del camino, anchura aproximada de 5 m; visibilidad buena; momento de circulación AxT=236 (A=15,73 y T=15); acceso al Camino de Carrión, CM-45 y A-43 mediante rotonda puesta en servicio en 2012."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotefonía en modalidad A",
+   "pagina": 9,
+   "cita": "2.2.5. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Composición 967194490033, tipo 160A, 5 vehículos, 185 toneladas, velocidad máxima 160 km/h.",
+    "averia": "Equipos de seguridad del tren funcionaron correctamente; daños en Schafemberg (acople), carenado, amortiguador, tubería y tornillería.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "vehículo invade gálibo vía",
+    "aumento tráfico por nueva rotonda",
+    "conductor no comprueba paso nivel"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 18081 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre): \n\n## Página 11\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0071/2012 ocurrido el 29.10.2012 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-291012-290113-CIAF  \n \n \nPág. 11 de 14\nEl maquinista del tren 18081 tiene antigüedad en el cargo desde el 01/08/1981, realizó su último \nreciclaje formativo el 01/06/2012 y su último reconocimiento médico y psicotécnico el 18/09/2012, \nconforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 10,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 29 de octubre de 2012, a las 09:52 horas, el tren de viajeros de media distancia 18081 de Renfe Operadora, con origen Ciudad Real y destino Alicante, circulaba con normalidad entre Miguelturra y Pozuelo de Calatrava, en la línea 522 Manzanares - Ciudad Real. Al aproximarse al paso a nivel clase A del PK 257+758, el maquinista observó un vehículo de carretera que se acercaba al cruce. El maquinista hizo uso prolongado del silbato y accionó el freno de emergencia a una velocidad de 47 km/h, según el registro de seguridad, aunque no pudo evitar el arrollamiento. El tren impactó en el lateral izquierdo del vehículo y quedó detenido tras recorrer 81 metros desde el punto de frenado. Como consecuencia, el conductor del vehículo resultó herido leve. La vía quedó interceptada desde las 09:52 hasta las 11:35 horas, momento en que se retiró el vehículo, y el tren implicado sufrió un retraso de 85 minutos.",
+   "pagina": 3,
+   "cita": "RESUMEN El día 29 de octubre de 2012, a las 09:52 horas, el tren de viajeros de media distancia 18081 de la empresa ferroviaria Renfe Operadora, en el paso a nivel clase A del PK 257+758 de la línea 522 Manzanares - C",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión del gálibo de la vía por parte del vehículo de carretera, que cruza el paso a nivel cuando pasaba el tren 18081.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El vehículo irrumpe en el paso a nivel sin cerciorarse de la posible circulación de trenes.",
+    "En 2012 entró en servicio una actuación viaria que aumentó sustancialmente el tráfico del Camino de Carrión.",
+    "La IMD actual es superior a la considerada para el cálculo del momento de circulación (A=15,73)."
+   ],
+   "pagina": 13,
+   "cita": "El vehículo irrumpe en el paso a nivel sin cerciorarse de la posible circulación de trenes.",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "A la mayor brevedad posible, solicitar al titular del camino (Ayuntamiento de Miguelturra), el valor actual de la intensidad media diaria (IMD) de vehículos.",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    },
+    {
+     "texto": "Conocido el valor actual de la IMD, proceder a adecuar por quien corresponda las características del paso a lo establecido en la OM de 2 de agosto de 2001 sobre supresión y protección de pasos a nivel.",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "71/12-1 A la mayor brevedad posible, solicitar al titular del camino (Ayuntamiento de Miguelturra), el valor actual de la intensidad media diaria (IMD) de vehículos. Dirección General de Ferrocarriles (DGF) 71/12-2",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "09:52",
+     "evento": "El tren 18081 arrolla al vehículo de carretera en el paso a nivel clase A del PK 257+758."
+    },
+    {
+     "hora": "09:52",
+     "evento": "El maquinista acciona el freno de emergencia y el silbato cuando el tren circulaba a 47 km/h."
+    },
+    {
+     "hora": "11:35",
+     "evento": "Se retira el vehículo y finaliza la interceptación de la vía."
+    },
+    {
+     "hora": "13:00",
+     "evento": "Al maquinista se le realizan pruebas de alcoholemia y drogas en Alcázar de San Juan, con resultado negativo."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0071/2012",
+ "expediente": "71/012",
+ "anio": 2012,
+ "titulo": "Arrollamiento de vehículo en paso a nivel entre Miguelturra y Pozuelo de Calatrava, Ciudad Real",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_291012_290113_CIAF.md"
+}

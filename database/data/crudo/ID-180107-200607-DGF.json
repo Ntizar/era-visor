@@ -1,0 +1,900 @@
+{
+ "id": "ID-180107-200607-DGF",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-180107-200607-DGF.pdf",
+ "pdf": "pdfs/ES/ID-180107-200607-DGF.pdf",
+ "md5_pdf": "d8a9850fdc7e99b9aef7797afe60ed23",
+ "paginas_md": 6,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 12,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0003/2007",
+   "pagina": 1,
+   "cita": "Nº 0003/2007 OCURRIDO EL DÍA 18.01.2007 ID-180107-200607-DGF Pág. 1 de 6 ## Página 2 Investigación del accidente nº 03/2007 ocurrido el 18.01.2007 SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y PLANIFICA",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2007-01-18, a las 00:50, un peatón varón falleció al ser arrollado por el tren de Cercanías RENFE nº 39212 en el paso a nivel de clase C del PK 88,906 de la línea 240 Tarragona-Barcelona-Francia, en Sant Feliu de Llobregat (Barcelona). La víctima cruzó indebidamente las vías pese a las señales luminosas peatonales y a las barreras abatidas, y no utilizó el paso superior existente. No se produjeron daños materiales ni lesiones en el personal ferroviario; el tren acumuló 145 minutos de retraso y se cortó la tensión en catenaria para la limpieza del lugar. El informe recomienda campañas de concienciación y recoge que la supresión del paso a nivel por soterramiento estaba en fase de proyecto.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-01-18",
+    "hora": "00:50",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Sant Feliu de Llobregat",
+     "pk": "88,906",
+     "linea": "240 Tarragona-Barcelona-Francia",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Paso a nivel de clase C en la intersección con el Paseo de Vilardaba, actuaba como paso peatonal, protegido con semibarreras automáticas, señalización acústica y luminosa para tráfico vial, semáforo peatonal y paso elevado a 10 metros; trazado en vía doble electrificada."
+    }
+   },
+   "pagina": 3,
+   "cita": "Martorell y con destino L’Hospitalet de Llobregat, el día 18 de enero de 2007 a las 0 horas y",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños.",
+    "afectacion_servicio": "Retraso de 145 minutos en el tren 39212; corte de tensión en catenaria en vía I de 03:37 a 03:55 para limpieza del punto de arrollamiento."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Cruce indebido de la víctima por el paso a nivel, haciendo caso omiso a las señales luminosas peatonales que indicaban prohibición de pasar y estando las barreras abatidas por el paso del tren 39212.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Irrupción súbita de una persona en la caja de vía, según el parte del maquinista.",
+    "No uso del paso superior existente a 10 metros del paso a nivel.",
+    "El paso a nivel de clase C actuaba como paso peatonal."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Precedentes de accidentes graves 0023/06 y 0037/06 en el mismo paso a nivel y con las mismas características.",
+    "Necesidad de campañas de concienciación ciudadana sobre el uso de las correctas zonas de paso.",
+    "Supresión del paso a nivel por soterramiento de la línea en fase de proyecto."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Impulsar campañas de concienciación destinadas a la ciudadanía sobre el peligro que supone no hacer uso de las correctas zonas de paso.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Impulsar campañas de concienciación destinadas a la ciudadanía sobre el peligro que supone no hacer uso de las correctas zonas de paso.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe Operadora"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó a través de mensaje de telefonía móvil el pasado 18 de enero que se había",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-01-18",
+   "pagina": 3,
+   "cita": "Martorell y con destino L’Hospitalet de Llobregat, el día 18 de enero de 2007 a las 0 horas y",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "00:50",
+   "pagina": 3,
+   "cita": "Jornada día del incidente: inicio a las 00:00 horas. Finalización 00:50 horas.",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Sant Feliu de Llobregat",
+    "pk": "88,906",
+    "linea": "240 Tarragona-Barcelona-Francia",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Paso a nivel de clase C en la intersección con el Paseo de Vilardaba, actuaba como paso peatonal, protegido con semibarreras automáticas, señalización acústica y luminosa para tráfico vial, semáforo peatonal y paso elevado a 10 metros; trazado en vía doble electrificada."
+   },
+   "pagina": 2,
+   "cita": "Municipio: Sant Feliu de Llobregat,",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 240 Tarragona-Barcelona-Francia",
+   "pagina": 2,
+   "cita": "Línea 240 Tarragona-Barcelona-Francia, perteneciente a la Red Ferroviaria de Interés General",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Unidades de tracción 447051 y 447108",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "ferroviaria RENFE compuesto por las unidades de tracción 447051 y 447108, que procedía de",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 18 de enero de 2007, a las 00:50, una persona que se disponía a cruzar las vías de izquierda a derecha en el sentido de la marcha del tren fue arrollada por el tren de Cercanías nº 39212 de RENFE, compuesto por las unidades de tracción 447051 y 447108, que procedía de Martorell y tenía como destino L’Hospitalet de Llobregat. El arrollamiento se produjo en el paso a nivel de clase C del PK 88,906 de la línea 240 Tarragona-Barcelona-Francia, en el municipio de Sant Feliu de Llobregat, provincia de Barcelona. La víctima era un varón y falleció como consecuencia del atropello.\n\nEl tren circulaba por vía I porque se estaban realizando trabajos programados de nivelación de desvíos en la estación de Cornellá. Según el parte del maquinista, al aproximarse al paso a nivel observó la irrupción súbita de una persona en la caja de vía, hizo uso del silbato y aplicó el freno de emergencia, pero no pudo evitar el arrollamiento. El paso a nivel funcionaba correctamente y disponía de semáforo peatonal y de un paso elevado a 10 metros.\n\nTras el suceso, el maquinista informó al Puesto de Mando, que cursó aviso a Seguridad Corporativa, Seguridad en la Circulación de Adif y Renfe Operadora, Jefatura Territorial de operaciones de Barcelona, servicios de emergencia, Logística y operadores afectados. Se practicó prueba de alcoholemia al maquinista a las 04:15, con resultado negativo. El tren reanudó la marcha a las 03:25 con 145 minutos de retraso, y se realizó un corte de tensión en catenaria en vía I entre las 03:37 y las 03:55 para limpiar el punto del arrollamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Sant Feliu de Llobregat",
+    "pk": "88,906",
+    "linea": "240 Tarragona-Barcelona-Francia",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Paso a nivel de clase C en la intersección con el Paseo de Vilardaba, actuaba como paso peatonal, protegido con semibarreras automáticas, señalización acústica y luminosa para tráfico vial, semáforo peatonal y paso elevado a 10 metros; trazado en vía doble electrificada."
+   },
+   "pagina": 2,
+   "cita": "Municipio: Sant Feliu de Llobregat,",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños.",
+    "afectacion_servicio": "Retraso de 145 minutos en el tren 39212; corte de tensión en catenaria en vía I de 03:37 a 03:55 para limpieza del punto de arrollamiento."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 39212",
+     "implicacion": "Informó del suceso al Puesto de Mando; jornada del incidente de 00:00 a 00:50, jornada anterior de 19:00 a 24:00 y descanso 48 horas antes; alcoholemia negativa; se constató que estaba en condiciones aptas y que su jornada cumplía la reglamentación; hizo uso del silbato y del freno de emergencia."
+    },
+    {
+     "rol": "Víctima / peatón",
+     "implicacion": "Varón fallecido; cruzó las vías de izquierda a derecha en el sentido de la marcha del tren, no respetó las señales luminosas peatonales ni las barreras abatidas y no utilizó el paso superior existente a 10 metros del paso a nivel."
+    },
+    {
+     "rol": "Agentes de la Gerencia Territorial de Seguridad en la Circulación Noreste de Adif",
+     "implicacion": "Realizaron toma de datos, prueba de alcoholemia al maquinista y toma de declaración."
+    },
+    {
+     "rol": "Agentes de la Gerencia Territorial de Seguridad en la Circulación Noreste de Renfe Operadora",
+     "implicacion": "Se personaron de forma inmediata tras el accidente."
+    }
+   ],
+   "pagina": 3,
+   "cita": "-  El maquinista del tren 39212.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "39212",
+     "tipo": "Cercanías",
+     "operador": "RENFE",
+     "danos": "No se produjeron daños."
+    }
+   ],
+   "pagina": 3,
+   "cita": "como consecuencia de su arrollamiento por el tren de Cercanías nº 39212 de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Unidades de tracción 447051 y 447108",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "ferroviaria RENFE compuesto por las unidades de tracción 447051 y 447108, que procedía de",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel de clase C con semibarreras automáticas, señalización acústica y luminosa para tráfico vial, señalización luminosa para peatones/semáforo peatonal, paso elevado a 10 metros y buena visibilidad; señales de tren en vía libre.",
+    "tipo_via": "Vía doble electrificada; el tren circulaba por vía I.",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada; corte de tensión en catenaria en vía I desde las 03:37 hasta las 03:55.",
+    "estado_via": "El paso a nivel funcionaba correctamente; el tren circulaba por vía I debido a trabajos programados de nivelación de desvíos en la estación de Cornellá.",
+    "otro": "Bloqueo Automático Banalizado con CTC. Momento de circulación (144,5 x 1.760) = 254.318. El informe registra en comprobaciones que el tren nº18316 circulaba a 116 km/h, con velocidad máxima permitida de 120 km/h; el tren del arrollamiento se identifica como nº39212. Antecedentes de accidentes graves 0023/06 y 0037/06 en el mismo paso a nivel y con las mismas características. Supresión del paso a nivel por soterramiento de la línea en fase de proyecto."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso a nivel de clase C con semibarreras automáticas, señalización acústica y luminosa para tráfico vial, señalización luminosa para peatones/semáforo peatonal, paso elevado a 10 metros y buena visibilidad; señales de tren en vía libre.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños.",
+    "afectacion_servicio": "Retraso de 145 minutos en el tren 39212; corte de tensión en catenaria en vía I de 03:37 a 03:55 para limpieza del punto de arrollamiento."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños.",
+    "afectacion_servicio": "Retraso de 145 minutos en el tren 39212; corte de tensión en catenaria en vía I de 03:37 a 03:55 para limpieza del punto de arrollamiento."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños.",
+    "afectacion_servicio": "Retraso de 145 minutos en el tren 39212; corte de tensión en catenaria en vía I de 03:37 a 03:55 para limpieza del punto de arrollamiento."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Unidades de tracción 447051 y 447108",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "ferroviaria RENFE compuesto por las unidades de tracción 447051 y 447108, que procedía de",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel de clase C con semibarreras automáticas, señalización acústica y luminosa para tráfico vial, señalización luminosa para peatones/semáforo peatonal, paso elevado a 10 metros y buena visibilidad; señales de tren en vía libre.",
+    "tipo_via": "Vía doble electrificada; el tren circulaba por vía I.",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada; corte de tensión en catenaria en vía I desde las 03:37 hasta las 03:55.",
+    "estado_via": "El paso a nivel funcionaba correctamente; el tren circulaba por vía I debido a trabajos programados de nivelación de desvíos en la estación de Cornellá.",
+    "otro": "Bloqueo Automático Banalizado con CTC. Momento de circulación (144,5 x 1.760) = 254.318. El informe registra en comprobaciones que el tren nº18316 circulaba a 116 km/h, con velocidad máxima permitida de 120 km/h; el tren del arrollamiento se identifica como nº39212. Antecedentes de accidentes graves 0023/06 y 0037/06 en el mismo paso a nivel y con las mismas características. Supresión del paso a nivel por soterramiento de la línea en fase de proyecto."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Sant Feliu de Llobregat"
+   },
+   "pagina": 2,
+   "cita": "situado en San Feliu de Llobregat provincia de Barcelona, en el punto kilométrico 88,906 de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso a nivel de clase C con semibarreras automáticas, señalización acústica y luminosa para tráfico vial, señalización luminosa para peatones/semáforo peatonal, paso elevado a 10 metros y buena visibilidad; señales de tren en vía libre.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel de clase C con semibarreras automáticas, señalización acústica y luminosa para tráfico vial, señalización luminosa para peatones/semáforo peatonal, paso elevado a 10 metros y buena visibilidad; señales de tren en vía libre.",
+    "tipo_via": "Vía doble electrificada; el tren circulaba por vía I.",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada; corte de tensión en catenaria en vía I desde las 03:37 hasta las 03:55.",
+    "estado_via": "El paso a nivel funcionaba correctamente; el tren circulaba por vía I debido a trabajos programados de nivelación de desvíos en la estación de Cornellá.",
+    "otro": "Bloqueo Automático Banalizado con CTC. Momento de circulación (144,5 x 1.760) = 254.318. El informe registra en comprobaciones que el tren nº18316 circulaba a 116 km/h, con velocidad máxima permitida de 120 km/h; el tren del arrollamiento se identifica como nº39212. Antecedentes de accidentes graves 0023/06 y 0037/06 en el mismo paso a nivel y con las mismas características. Supresión del paso a nivel por soterramiento de la línea en fase de proyecto."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Unidades de tracción 447051 y 447108",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "ferroviaria RENFE compuesto por las unidades de tracción 447051 y 447108, que procedía de",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "cruce indebido de la víctima",
+    "no respetar señales luminosas peatonales",
+    "barreras abatidas por paso tren"
+   ],
+   "pagina": 6,
+   "cita": "Se estima que el accidente tuvo su origen en el cruce indebido de la víctima que se dispuso",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(Adif), comunicó a través de mensaje de telefonía móvil el pasado 18 de enero que se había \nproducido el arrollamiento de una persona resultando fallecida la misma, en el paso a nivel \nsituado en San Feliu de Llobregat provincia de Barcelona, en el punto kilométrico 88,906 de la \nLínea 240 Tarragona-Barcelona-Francia, perteneciente a la Red Ferroviaria de Interés General \nadministrada por Adif. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles. Investigación \nque tendrá como finalidad determinar sus causas y formular recomendaciones para reducir los \nriesgos en el transporte ferroviario de acuerdo con el artículo 112 del citado Reglamento. \nReglamento que traspone parcialmente la Directiva 2004/49/CE del Parlamento Europeo de 29 \nde abril de 2004 sobre la seguridad de los ferrocarriles comunitarios, que en su  Artículo 19 \ncircunscribe la investigación a la mejora de la seguridad, y en ningún caso a la determinación \nde culpas o responsabilidades. \nDe conformidad también con el artículo 112 del mencionado Reglamento, el 1 de enero de \n2007 la Dirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), comunicó a través de mensaje de telefonía móvil el pasado 18 de enero que se había producido el arro",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 18 de enero de 2007, a las 00:50, una persona que se disponía a cruzar las vías de izquierda a derecha en el sentido de la marcha del tren fue arrollada por el tren de Cercanías nº 39212 de RENFE, compuesto por las unidades de tracción 447051 y 447108, que procedía de Martorell y tenía como destino L’Hospitalet de Llobregat. El arrollamiento se produjo en el paso a nivel de clase C del PK 88,906 de la línea 240 Tarragona-Barcelona-Francia, en el municipio de Sant Feliu de Llobregat, provincia de Barcelona. La víctima era un varón y falleció como consecuencia del atropello.\n\nEl tren circulaba por vía I porque se estaban realizando trabajos programados de nivelación de desvíos en la estación de Cornellá. Según el parte del maquinista, al aproximarse al paso a nivel observó la irrupción súbita de una persona en la caja de vía, hizo uso del silbato y aplicó el freno de emergencia, pero no pudo evitar el arrollamiento. El paso a nivel funcionaba correctamente y disponía de semáforo peatonal y de un paso elevado a 10 metros.\n\nTras el suceso, el maquinista informó al Puesto de Mando, que cursó aviso a Seguridad Corporativa, Seguridad en la Circulación de Adif y Renfe Operadora, Jefatura Territorial de operaciones de Barcelona, servicios de emergencia, Logística y operadores afectados. Se practicó prueba de alcoholemia al maquinista a las 04:15, con resultado negativo. El tren reanudó la marcha a las 03:25 con 145 minutos de retraso, y se realizó un corte de tensión en catenaria en vía I entre las 03:37 y las 03:55 para limpiar el punto del arrollamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR EL OPERADOR FERROVIARIO. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nAdif concluye “El arrollamiento se p oduce como consecuencia de cruzar indebidamente las \nvías la persona accidentada, no percatándose de la llegada del tren 39212”. \nr\nRenfe Operadora, “El arrollamiento se produce al no respetar la víctima la prohibición de pasar \nestando las barreras bajadas, y no haber utilizado el paso superior existente a 10 metros del \nPN”.  \nPor tanto, ambas conclusiones son coincidentes en cuanto a la causa del accidente. \n \n \n \nID-180107-200607-DGF \n \n \nPág. 5 de 6\n\n## Página 6\n\n \nInvestigación del accidente \nnº 03/2007 ocurrido el 18.01.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 5,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Cruce indebido de la víctima por el paso a nivel, haciendo caso omiso a las señales luminosas peatonales que indicaban prohibición de pasar y estando las barreras abatidas por el paso del tren 39212.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Irrupción súbita de una persona en la caja de vía, según el parte del maquinista.",
+    "No uso del paso superior existente a 10 metros del paso a nivel.",
+    "El paso a nivel de clase C actuaba como paso peatonal."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Se estima que el accidente tuvo su origen en el cruce indebido de la víctima que se dispuso \na cruzar las vías del paso a nivel, haciendo caso omiso a la indicación de las señales luminosas \npeatonales que indicaban la prohibición de pasar y estando las barreras abatidas por el paso \ndel tren nº39212.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES Se estima que el accidente tuvo su origen en el cruce indebido de la víctima que se dispuso a cruzar las vías del paso a nivel, haciendo caso omiso a la indicación de las señales luminosas peatonales q",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Se estima que el accidente tuvo su origen en el cruce indebido de la víctima que se dispuso \na cruzar las vías del paso a nivel, haciendo caso omiso a la indicación de las señales luminosas \npeatonales que indicaban la prohibición de pasar y estando las barreras abatidas por el paso \ndel tren nº39212.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES Se estima que el accidente tuvo su origen en el cruce indebido de la víctima que se dispuso a cruzar las vías del paso a nivel, haciendo caso omiso a la indicación de las señales luminosas peatonales q",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Impulsar campañas de concienciación destinadas a la ciudadanía sobre el peligro que supone no hacer uso de las correctas zonas de paso.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "00:00",
+     "evento": "Inicio de la jornada del maquinista del tren 39212."
+    },
+    {
+     "hora": "00:50",
+     "evento": "2007-01-18: Arrollamiento mortal de un peatón varón en el paso a nivel de clase C del PK 88,906 por el tren de Cercanías RENFE nº 39212."
+    },
+    {
+     "hora": "03:25",
+     "evento": "El tren reanuda la marcha desde Sant Feliu con 145 minutos de retraso; tras el levantamiento del cadáver se solicita corte de tensión en catenaria en vía I."
+    },
+    {
+     "hora": "03:37",
+     "evento": "Comienza el corte de tensión en catenaria en vía I para proceder a la limpieza del punto de arrollamiento."
+    },
+    {
+     "hora": "03:55",
+     "evento": "Finaliza el corte de tensión en catenaria."
+    },
+    {
+     "hora": "04:15",
+     "evento": "Prueba de alcoholemia al maquinista con resultado negativo (0,00 mg/1000 ml)."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0003/2007",
+ "expediente": "0003/2007",
+ "anio": 2007,
+ "titulo": "Arrollamiento mortal de un peatón en paso a nivel de Sant Feliu de Llobregat (Barcelona)",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-180107-200607-DGF.md"
+}

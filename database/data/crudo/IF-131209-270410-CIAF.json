@@ -1,0 +1,946 @@
+{
+ "id": "IF-131209-270410-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/47B4829F-877A-4313-A1BB-4771727FC7E4/74823/IF_N_62_CIAF.pdf",
+ "pdf": "pdfs/ES/IF-131209-270410-CIAF.pdf",
+ "md5_pdf": "ad9fab01563382055bf8f439e7e03a1c",
+ "paginas_md": 11,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 34,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Ayuntamiento de Orbita",
+     "Número": "62/09-1",
+     "Recomendación": "Adecuar la señalización de carretera conforme a lo establecido en la Orden de 2 agosto de 2001 por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 11,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Ayuntamiento de Orbita",
+     "Número": "62/09-1",
+     "Recomendación": "Adecuar la señalización de carretera conforme a lo establecido en la Orden de 2 agosto de 2001 por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0062/2009",
+   "pagina": 1,
+   "cita": "nº 0062/2009 ocurrido el 13.12.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 13 de diciembre de 2009 a las 18:27 horas, el tren de viajeros 17212 de Renfe Operadora arrolló a un vehículo Renault 11 en el paso a nivel tipo A del P.K. 164+429 de la línea 100 Madrid-Hendaya, en las inmediaciones del apeadero de Orbita-Espinosa (Ávila). El único ocupante del vehículo, un varón de 68 años, falleció como consecuencia del impacto y posterior arrastre de 319 metros. La investigación concluye que el accidente tuvo su origen al cruzar el vehículo el paso a nivel cuando circulaba el tren. La señalización de carretera del paso a nivel era incompleta y no cumplía la Orden Ministerial de 2 de agosto de 2001.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-12-13",
+    "hora": "18:27",
+    "lugar": {
+     "tipo": "apartado",
+     "estacion": "Apeadero de Orbita-Espinosa",
+     "pk": "164+429",
+     "linea": "100 Madrid-Hendaya",
+     "provincia": "Ávila",
+     "descripcion_lugar": "Paso a nivel tipo A, clase A, denominado Cordel de Toledo, situado al final del andén (lado Hendaya) del apeadero de Orbita-Espinosa, en el tramo Ávila-Arévalo, sobre un trayecto de alineación recta de 8 kilómetros. Camino de tierra compactada de 6 metros de anchura con pavimento de traviesas de madera y 4 metros de balasto a cada lado."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 13 de diciembre de 2009, a las 18:27 horas, el tren de viajeros de media distancia 17212, de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños en el material rodante bajo el bastidor y en el frontal del coche motor (UT 447241). Destrucción del vehículo Renault 11.",
+    "afectacion_servicio": "Vía par interceptada 4 horas y 56 minutos (18:27 a 23:23). Vía impar interceptada hasta las 20:30, luego circulación en marcha a la vista. Retrasos: 9 trenes de media distancia (525 min), 1 tren de larga distancia (21 min), 4 trenes de mercancías (84 min). Total: 630 minutos de retraso acumulado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "El vehículo de carretera cruzó el paso a nivel tipo A en el momento en que el tren 17212 alcanzaba dicho paso, invadiendo el gálibo del convoy.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Señalización de carretera del paso a nivel incompleta: solo contaba con señal R-2 en el lado derecho, careciendo del resto de señales en ambos lados, no cumpliendo la Orden Ministerial de 2 de agosto de 2001 sobre supresión y protección de pasos a nivel.",
+    "Protección del paso a nivel exclusivamente con señales fijas verticales (clase A), sin barreras ni semibarreras.",
+    "Existencia de un segundo vehículo que también avanzaba hacia el paso a nivel, lo que pudo dificultar la percepción del peligro por parte del conductor de la víctima.",
+    "Paso a nivel en proceso de supresión por Adif pero aún operativo en el momento del accidente."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Deficiencia en la adecuación de la señalización de carretera de los pasos a nivel a la normativa vigente (Orden de 2 de agosto de 2001).",
+    "Mantenimiento en servicio de un paso a nivel tipo A con protección deficiente mientras se tramitaba su supresión."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Adecuar la señalización de carretera conforme a lo establecido en la Orden de 2 agosto de 2001 por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel.",
+    "Adecuar la señalización de carretera conforme a lo establecido en la Orden de 2 agosto de 2001 por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Ayuntamiento de Orbita",
+    "Ayuntamiento de Orbita"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "la empresa ferroviaria Renfe Operadora, arrolla a un vehículo en el paso a nivel tipo A, situado en el",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-12-13",
+   "pagina": 3,
+   "cita": "El día 13 de diciembre de 2009, a las 18:27 horas, el tren de viajeros de media distancia 17212, de",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "18:27",
+   "pagina": 3,
+   "cita": "El día 13 de diciembre de 2009, a las 18:27 horas, el tren de viajeros de media distancia 17212, de",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "apartado",
+    "estacion": "Apeadero de Orbita-Espinosa",
+    "pk": "164+429",
+    "linea": "100 Madrid-Hendaya",
+    "provincia": "Ávila",
+    "descripcion_lugar": "Paso a nivel tipo A, clase A, denominado Cordel de Toledo, situado al final del andén (lado Hendaya) del apeadero de Orbita-Espinosa, en el tramo Ávila-Arévalo, sobre un trayecto de alineación recta de 8 kilómetros. Camino de tierra compactada de 6 metros de anchura con pavimento de traviesas de madera y 4 metros de balasto a cada lado."
+   },
+   "pagina": 1,
+   "cita": "EN LAS INMEDIACIONES DEL APEADERO DE ORBITA-ESPINOSA (ÁVILA)",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "100 Madrid-Hendaya",
+   "pagina": 10,
+   "cita": "Espinosa (Ávila), de la línea 100 Madrid-Hendaya.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tipo 120 A, UT 447241, Nº UIC 967194472411, 3 vehículos, 216 Tn",
+    "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros de media distancia 17212 de Renfe Operadora, procedente de Valladolid Campo Grande y con destino Madrid Atocha Cercanías, circulaba por la línea 100 Madrid-Hendaya. Al aproximarse al paso a nivel tipo A situado en el P.K. 164+429, en las inmediaciones del apeadero de Orbita-Espinosa (Ávila), el maquinista observó por un camino lateral a su derecha, perpendicular a la vía, dos vehículos de carretera que avanzaban hacia el paso a nivel, situado unos trescientos metros por delante. El maquinista hizo uso del silbato y del foco de gran intensidad para advertir de la presencia del tren. En el momento de alcanzar el paso a nivel, el vehículo de la víctima interceptó el gálibo, por lo que el maquinista provocó la frenada de urgencia sin poder evitar el arrollamiento. El vehículo, que cruzaba de derecha a izquierda en sentido de la marcha del tren, quedó enganchado al convoy tras el impacto y fue arrastrado 319 metros antes de que el tren quedara totalmente parado. El único ocupante del vehículo, un varón de 68 años, falleció como consecuencia del impacto y posterior arrollamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "apartado",
+    "estacion": "Apeadero de Orbita-Espinosa",
+    "pk": "164+429",
+    "linea": "100 Madrid-Hendaya",
+    "provincia": "Ávila",
+    "descripcion_lugar": "Paso a nivel tipo A, clase A, denominado Cordel de Toledo, situado al final del andén (lado Hendaya) del apeadero de Orbita-Espinosa, en el tramo Ávila-Arévalo, sobre un trayecto de alineación recta de 8 kilómetros. Camino de tierra compactada de 6 metros de anchura con pavimento de traviesas de madera y 4 metros de balasto a cada lado."
+   },
+   "pagina": 1,
+   "cita": "EN LAS INMEDIACIONES DEL APEADERO DE ORBITA-ESPINOSA (ÁVILA)",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños en el material rodante bajo el bastidor y en el frontal del coche motor (UT 447241). Destrucción del vehículo Renault 11.",
+    "afectacion_servicio": "Vía par interceptada 4 horas y 56 minutos (18:27 a 23:23). Vía impar interceptada hasta las 20:30, luego circulación en marcha a la vista. Retrasos: 9 trenes de media distancia (525 min), 1 tren de larga distancia (21 min), 4 trenes de mercancías (84 min). Total: 630 minutos de retraso acumulado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 17212 (matrícula 1348168)",
+     "implicacion": "Titular del título B de conducción, habilitado conforme a la Orden FOM/2520/2006. Último reciclaje formativo el 30/06/07, último reconocimiento médico y psicotécnico el 22/02/06. Prueba de alcoholemia negativa. Actuación correcta: usó silbato, foco de gran intensidad y freno de urgencia. Velocidad del tren (105 km/h) inferior a la máxima permitida (120 km/h). Jornada del día 13: 8 horas (2h55min de conducción)."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "17212",
+     "tipo": "Viajeros de media distancia, tipo 120 A, 3 vehículos, 216 Tn de masa remolcada",
+     "operador": "Renfe Operadora",
+     "danos": "Daños en el material rodante, en particular bajo el bastidor y en el frontal del coche motor (UT 447241). Nº UIC: 967194472411."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 13 de diciembre de 2009, a las 18:27 horas, el tren de viajeros de media distancia 17212, de",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tipo 120 A, UT 447241, Nº UIC 967194472411, 3 vehículos, 216 Tn",
+    "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 4,
+   "cita": "El jefe de investigación de accidentes ferroviarios del Administrador de Infraestructuras",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel tipo A protegido exclusivamente con señales fijas verticales. Señalización ferroviaria: sendos cartelones de silbar en ambas bandas. Señalización de carretera incompleta: solo señal R-2 (Detención obligatoria) en el lado derecho sentido de la línea, careciendo del resto de señales en ambos lados. No cumple la Orden Ministerial de 2 de agosto de 2001.",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "155 km/h para trenes tipo A; 120 km/h para el tren 17212. Sin limitación temporal de velocidad en el momento del accidente.",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "Bloqueo automático (B.A.D.), sin control de tráfico centralizado (C.T.C.), señalización luminosa y ASFA. Radiotelefonía A. Visibilidad a ambos lados del paso: 1.500 metros. Alineación recta de 8 km. Tráfico medio semanal del tramo Ávila-Arévalo: 415 circulaciones (62 larga distancia, 156 media distancia, 2 cercanías, 188 mercancías, 7 servicio). Momento de circulación AxT: 640 (A=10, T=64). Adif tenía en proceso la redacción del proyecto constructivo para la supresión del paso a nivel."
+   },
+   "pagina": 5,
+   "cita": "Tramo de vía doble electrificada, con bloqueo automático (B.A.D.) y sin control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso a nivel tipo A protegido exclusivamente con señales fijas verticales. Señalización ferroviaria: sendos cartelones de silbar en ambas bandas. Señalización de carretera incompleta: solo señal R-2 (Detención obligatoria) en el lado derecho sentido de la línea, careciendo del resto de señales en ambos lados. No cumple la Orden Ministerial de 2 de agosto de 2001.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía A.",
+   "pagina": 7,
+   "cita": "2.2.5. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños en el material rodante bajo el bastidor y en el frontal del coche motor (UT 447241). Destrucción del vehículo Renault 11.",
+    "afectacion_servicio": "Vía par interceptada 4 horas y 56 minutos (18:27 a 23:23). Vía impar interceptada hasta las 20:30, luego circulación en marcha a la vista. Retrasos: 9 trenes de media distancia (525 min), 1 tren de larga distancia (21 min), 4 trenes de mercancías (84 min). Total: 630 minutos de retraso acumulado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños en el material rodante bajo el bastidor y en el frontal del coche motor (UT 447241). Destrucción del vehículo Renault 11.",
+    "afectacion_servicio": "Vía par interceptada 4 horas y 56 minutos (18:27 a 23:23). Vía impar interceptada hasta las 20:30, luego circulación en marcha a la vista. Retrasos: 9 trenes de media distancia (525 min), 1 tren de larga distancia (21 min), 4 trenes de mercancías (84 min). Total: 630 minutos de retraso acumulado."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños en el material rodante bajo el bastidor y en el frontal del coche motor (UT 447241). Destrucción del vehículo Renault 11.",
+    "afectacion_servicio": "Vía par interceptada 4 horas y 56 minutos (18:27 a 23:23). Vía impar interceptada hasta las 20:30, luego circulación en marcha a la vista. Retrasos: 9 trenes de media distancia (525 min), 1 tren de larga distancia (21 min), 4 trenes de mercancías (84 min). Total: 630 minutos de retraso acumulado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tipo 120 A, UT 447241, Nº UIC 967194472411, 3 vehículos, 216 Tn",
+    "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel tipo A protegido exclusivamente con señales fijas verticales. Señalización ferroviaria: sendos cartelones de silbar en ambas bandas. Señalización de carretera incompleta: solo señal R-2 (Detención obligatoria) en el lado derecho sentido de la línea, careciendo del resto de señales en ambos lados. No cumple la Orden Ministerial de 2 de agosto de 2001.",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "155 km/h para trenes tipo A; 120 km/h para el tren 17212. Sin limitación temporal de velocidad en el momento del accidente.",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "Bloqueo automático (B.A.D.), sin control de tráfico centralizado (C.T.C.), señalización luminosa y ASFA. Radiotelefonía A. Visibilidad a ambos lados del paso: 1.500 metros. Alineación recta de 8 km. Tráfico medio semanal del tramo Ávila-Arévalo: 415 circulaciones (62 larga distancia, 156 media distancia, 2 cercanías, 188 mercancías, 7 servicio). Momento de circulación AxT: 640 (A=10, T=64). Adif tenía en proceso la redacción del proyecto constructivo para la supresión del paso a nivel."
+   },
+   "pagina": 5,
+   "cita": "Tramo de vía doble electrificada, con bloqueo automático (B.A.D.) y sin control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "En el momento del arrollamiento era de noche.",
+   "pagina": 8,
+   "cita": "En el momento del arrollamiento era de noche.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Ávila",
+    "municipio": null,
+    "estacion": "Apeadero de Orbita-Espinosa"
+   },
+   "pagina": 3,
+   "cita": "P.K. 164+429, al final del andén - lado Hendaya - del apeadero de Orbita – Espinosa (Ávila), de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "En el momento del arrollamiento era de noche.",
+   "pagina": 8,
+   "cita": "En el momento del arrollamiento era de noche.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso a nivel tipo A protegido exclusivamente con señales fijas verticales. Señalización ferroviaria: sendos cartelones de silbar en ambas bandas. Señalización de carretera incompleta: solo señal R-2 (Detención obligatoria) en el lado derecho sentido de la línea, careciendo del resto de señales en ambos lados. No cumple la Orden Ministerial de 2 de agosto de 2001.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel tipo A protegido exclusivamente con señales fijas verticales. Señalización ferroviaria: sendos cartelones de silbar en ambas bandas. Señalización de carretera incompleta: solo señal R-2 (Detención obligatoria) en el lado derecho sentido de la línea, careciendo del resto de señales en ambos lados. No cumple la Orden Ministerial de 2 de agosto de 2001.",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "155 km/h para trenes tipo A; 120 km/h para el tren 17212. Sin limitación temporal de velocidad en el momento del accidente.",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "Bloqueo automático (B.A.D.), sin control de tráfico centralizado (C.T.C.), señalización luminosa y ASFA. Radiotelefonía A. Visibilidad a ambos lados del paso: 1.500 metros. Alineación recta de 8 km. Tráfico medio semanal del tramo Ávila-Arévalo: 415 circulaciones (62 larga distancia, 156 media distancia, 2 cercanías, 188 mercancías, 7 servicio). Momento de circulación AxT: 640 (A=10, T=64). Adif tenía en proceso la redacción del proyecto constructivo para la supresión del paso a nivel."
+   },
+   "pagina": 5,
+   "cita": "Tramo de vía doble electrificada, con bloqueo automático (B.A.D.) y sin control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía A.",
+   "pagina": 7,
+   "cita": "2.2.5. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tipo 120 A, UT 447241, Nº UIC 967194472411, 3 vehículos, 216 Tn",
+    "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Señalización carretera no normativa",
+    "Vehículo cruza paso a nivel",
+    "Maquinista observa dos vehículos",
+    "Vehículo invade gálibo ferroviario"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. \nRealizó su último reciclaje formativo el 30/06/07 y su último reconocimiento médico y \npsicotécnico el 22/02/06, conforme a la normativa vigente. \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0062/2009 ocurrido el 13.12.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-131209-270410-CIAF \n \n \nPág. 9 de 11",
+   "pagina": 8,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "Jornadas laboral y de conducción del maquinista del tren 17212: \n- el día 13: 8 horas (2 horas y 55 minutos de conducción). \n- el día 12: 8 horas (5 horas de conducción). \n- el día 11: descanso. \nLa Guardia Civil, el día del accidente, realiza la prueba de alcoholemia al maquinista, dando \nresultado negativo.",
+   "pagina": 10,
+   "cita": "3.5. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Jornadas laboral y de conducción del maquinista del tren 17212: \n- el día 13: 8 horas (2 horas y 55 minutos de conducción). \n- el día 12: 8 horas (5 horas de conducción). \n- el día 11: descanso. \nLa Guardia Civil, el día del accidente, realiza la prueba de alcoholemia al maquinista, dando \nresultado negativo.",
+   "pagina": 10,
+   "cita": "3.5. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros de media distancia 17212 de Renfe Operadora, procedente de Valladolid Campo Grande y con destino Madrid Atocha Cercanías, circulaba por la línea 100 Madrid-Hendaya. Al aproximarse al paso a nivel tipo A situado en el P.K. 164+429, en las inmediaciones del apeadero de Orbita-Espinosa (Ávila), el maquinista observó por un camino lateral a su derecha, perpendicular a la vía, dos vehículos de carretera que avanzaban hacia el paso a nivel, situado unos trescientos metros por delante. El maquinista hizo uso del silbato y del foco de gran intensidad para advertir de la presencia del tren. En el momento de alcanzar el paso a nivel, el vehículo de la víctima interceptó el gálibo, por lo que el maquinista provocó la frenada de urgencia sin poder evitar el arrollamiento. El vehículo, que cruzaba de derecha a izquierda en sentido de la marcha del tren, quedó enganchado al convoy tras el impacto y fue arrastrado 319 metros antes de que el tren quedara totalmente parado. El único ocupante del vehículo, un varón de 68 años, falleció como consecuencia del impacto y posterior arrollamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar el día 13 de diciembre de 2009, a las 18:27 horas; en el paso a \nnivel, clase A, del P.K. 164+429, situado al final del andén - lado Hendaya - del apeadero Orbita – \nEspinosa (Ávila), de la línea 100 Madrid-Hendaya. \nEl tren de viajeros de larga distancia 17212, que realizaba el recorrido entre Valladolid Campo \nGrande y Madrid Atocha Cercanías, se aproxima al paso a nivel (a una velocidad de 105 km/h) y el \nmaquinista observa que, por un camino lateral a su derecha y perpendicular a la vía, circulan dos \nvehículos automóviles por el camino de tierra adyacente a la vía. \nEl maquinista hace uso del silbato y del foco de gran intensidad para advertir de su presencia a los \nconductores que circulan por el camino y al llegar al paso, al ver que el vehículo de la víctima invade \nel gálibo, hace uso del freno de emergencia, no pudiendo evitar su arrollamiento. \nTras el impacto, el tren arrastra al vehículo 319 metros antes de quedar totalmente parado. \n4.2. DELIBERACIÓN \nEl personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje \ny reconocimiento médico y psicotécnico. \nSegún el registrador de seguridad del tren, el maquinista hizo uso del freno de urgencia del tren, \npor lo que la actuación del maquinista fue correcta. \nSegún el registrador de seguridad del tren, la velocidad del tren era inferior a la máxima permitida. \nLos equipos de seguridad del tren funcionaban correctamente en el momento del accidente y de \nacuerdo a la normativa vigente. \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0062/2009 ocurrido el 13.12.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-131209-270410-CIAF \n \n \nPág. 11 de 11\nEl vehículo de carretera irrumpe en el paso a nivel en el momento en el que el tren alcanza dicho \npaso, a pesar de que el maquinista había hecho uso del silbato y del foco de gran intensidad alertando \nde la inminente llegada del tren. \nLa señalización de carretera no cumple lo establecido en la Orden Ministerial de 2 agosto de 2001 \npor la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes \nTerrestres, en materia de supresión y protección de  pasos a nivel. \n4.3. CONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen al cruzar el vehículo, ocupado por la víctima, por el paso a nivel cuando \ncirculaba el tren 17212.",
+   "pagina": 10,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "El vehículo de carretera cruzó el paso a nivel tipo A en el momento en que el tren 17212 alcanzaba dicho paso, invadiendo el gálibo del convoy.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Señalización de carretera del paso a nivel incompleta: solo contaba con señal R-2 en el lado derecho, careciendo del resto de señales en ambos lados, no cumpliendo la Orden Ministerial de 2 de agosto de 2001 sobre supresión y protección de pasos a nivel.",
+    "Protección del paso a nivel exclusivamente con señales fijas verticales (clase A), sin barreras ni semibarreras.",
+    "Existencia de un segundo vehículo que también avanzaba hacia el paso a nivel, lo que pudo dificultar la percepción del peligro por parte del conductor de la víctima.",
+    "Paso a nivel en proceso de supresión por Adif pero aún operativo en el momento del accidente."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen al cruzar el vehículo, ocupado por la víctima, por el paso a nivel cuando \ncirculaba el tren 17212.",
+   "pagina": 11,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investiga",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen al cruzar el vehículo, ocupado por la víctima, por el paso a nivel cuando \ncirculaba el tren 17212.",
+   "pagina": 11,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investiga",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Adecuar la señalización de carretera conforme a lo establecido en la Orden de 2 agosto de 2001 por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel.",
+    "Adecuar la señalización de carretera conforme a lo establecido en la Orden de 2 agosto de 2001 por la que se desarrolla el artículo 235 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de supresión y protección de pasos a nivel."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Ayuntamiento de Orbita",
+    "Ayuntamiento de Orbita"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "18:27",
+     "evento": "El tren 17212 arrolla al vehículo Renault 11 en el paso a nivel tipo A del P.K. 164+429. El vehículo es arrastrado 319 metros hasta que el convoy queda totalmente parado."
+    },
+    {
+     "hora": "19:45",
+     "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica el suceso a la CIAF mediante mensaje de telefonía móvil."
+    },
+    {
+     "hora": "20:30",
+     "evento": "Se reabre la vía impar con circulación en marcha a la vista."
+    },
+    {
+     "hora": "23:23",
+     "evento": "Se reabre la vía par, finalizando la interceptación (4 horas y 56 minutos de afectación)."
+    },
+    {
+     "hora": null,
+     "evento": "22 de diciembre de 2009: la CIAF resuelve en pleno abrir la investigación del accidente."
+    },
+    {
+     "hora": null,
+     "evento": "17 de diciembre de 2009: toma de declaración al maquinista."
+    },
+    {
+     "hora": null,
+     "evento": "1 de marzo de 2010: entrega del informe particular del gerente de seguridad en la circulación centro de Adif."
+    },
+    {
+     "hora": null,
+     "evento": "10 de marzo de 2010: entrega del informe particular del jefe de gabinete de investigación técnica de accidentes de Renfe Operadora."
+    },
+    {
+     "hora": null,
+     "evento": "27 de abril de 2010: fecha del informe final (Madrid)."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0062/2009",
+ "expediente": "0062/09",
+ "anio": 2009,
+ "titulo": "Arrollamiento de un vehículo por un tren en el paso a nivel de Orbita-Espinosa (Ávila)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-131209-270410-CIAF.md"
+}

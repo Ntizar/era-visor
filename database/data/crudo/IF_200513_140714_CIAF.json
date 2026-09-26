@@ -1,0 +1,950 @@
+{
+ "id": "IF_200513_140714_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/C2614E51-9039-4141-B113-B58570937B4E/126271/IF200513140714CIAF.pdf",
+ "pdf": "pdfs/ES/IF_200513_140714_CIAF.pdf",
+ "md5_pdf": "107ac4b020c3b65e806d69e9f003a175",
+ "paginas_md": 16,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 16,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 5,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "48/13-1",
+     "Recomendación": "Establecer procedimientos que aseguren la adopción de medidas de corrección de los defectos del estado de la vía detectados y catalogados como de tratamiento urgente. Hasta tanto, adoptar las medidas necesarias para evitar riesgos en las circulaciones."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 16,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "48/13-1",
+     "Recomendación": "Establecer procedimientos que aseguren la adopción de medidas de corrección de los defectos del estado de la vía detectados y catalogados como de tratamiento urgente. Hasta tanto, adoptar las medidas necesarias para evitar riesgos en las circulaciones."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0048/2013",
+   "pagina": 1,
+   "cita": "nº 0048/2013 ocurrido el 20.05.2013",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 20 de mayo de 2013 a las 11:47, el tren de mercancías 83036 de Renfe Operadora descarriló las cuatro ruedas del bogie delantero del vagón cisterna Transfesa en tercera posición, en el PK 25+564 de la línea 516 Mérida-Los Rosales (Badajoz). El tren recorrió 585 metros con el vagón descarrilado antes de detenerse. No hubo víctimas. La hipótesis más probable es la existencia de defectos de nivelación, peralte y alabeo a 15-20 m del punto de descarrilamiento, detectados por auscultación en febrero de 2013 pero no reparados.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2013-05-20",
+    "hora": "11:47",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "25+564",
+     "linea": "516 Mérida - Los Rosales",
+     "provincia": "Badajoz",
+     "descripcion_lugar": "Entre Torremejía (PK 17+500) y Almendralejo (PK 29+600), tramo Mérida-Zafra, entre señal avanzada y señal de entrada de Almendralejo, alineación recta, rampa de 9,82 milésimas, próximo a paso a nivel PK 25+661 (real 25+615) y paso superior en construcción PK 25+676"
+    }
+   },
+   "pagina": 10,
+   "cita": "Se reanuda la circulación a las 22:17 horas del día 20/05/2013, con limitación de velocidad a 30 km/h,",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: ejes del vagón descarrilado. Infraestructura: deformaciones en carriles, sistema de sujeción y traviesas valoradas por Adif en 32.532,51 €. Instalaciones del paso a nivel dañadas.",
+    "afectacion_servicio": "Circulación interrumpida entre Mérida y Zafra de 12:04 a 22:17 (10h13min). Afectados 7 trenes: 1 mercancías suprimido, 4 media distancia suprimidos y transbordados por carretera, 2 media distancia con retraso. Reanudación con limitación 30 km/h (PK 25+470-26+200), luego 60 km/h hasta 31/05, y velocidad de trayecto tras tratamiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Defectos de nivelación, peralte y alabeo en las proximidades (15-20 m) del punto de descarrilamiento, detectados por auscultación el 20/02/2013 con prioridad ZUT y no reparados",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No constancia de reparación de los defectos detectados por el tren auscultador en febrero 2013",
+    "Inspecciones en cabina (9 mayo) y a pie (16 mayo) no observaron defectos que afectasen al tránsito"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ausencia de procedimientos que aseguren la adopción de medidas correctivas de defectos de vía catalogados como de tratamiento urgente (ZUT)",
+    "Falta de medidas preventivas de limitación de velocidad hasta la corrección de los defectos"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Establecer procedimientos que aseguren la adopción de medidas de corrección de los defectos del estado de la vía detectados y catalogados como de tratamiento urgente. Hasta tanto, adoptar las medidas necesarias para evitar riesgos en las circulaciones.",
+    "Establecer procedimientos que aseguren la adopción de medidas de corrección de los defectos del estado de la vía detectados y catalogados como de tratamiento urgente. Hasta tanto, adoptar las medidas necesarias para evitar riesgos en las circulaciones."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "descarrilamiento",
+   "pagina": 5,
+   "cita": "entre Torremejía y Almendralejo (Badajoz), se produce el descarrilamiento de las cuatro ruedas del",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Transfesa",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "tracción de la empresa Renfe Operadora y vagones propiedad de Transfesa.",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2013-05-20",
+   "pagina": 10,
+   "cita": "Se reanuda la circulación a las 22:17 horas del día 20/05/2013, con limitación de velocidad a 30 km/h,",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "11:47",
+   "pagina": 5,
+   "cita": "El día 20 de mayo de 2013, a la 11:47 horas, en el PK 25+564 de la línea 516 Mérida - Los Rosales,",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "25+564",
+    "linea": "516 Mérida - Los Rosales",
+    "provincia": "Badajoz",
+    "descripcion_lugar": "Entre Torremejía (PK 17+500) y Almendralejo (PK 29+600), tramo Mérida-Zafra, entre señal avanzada y señal de entrada de Almendralejo, alineación recta, rampa de 9,82 milésimas, próximo a paso a nivel PK 25+661 (real 25+615) y paso superior en construcción PK 25+676"
+   },
+   "pagina": 5,
+   "cita": "El día 20 de mayo de 2013, a la 11:47 horas, en el PK 25+564 de la línea 516 Mérida - Los Rosales,",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "516 Mérida - Los Rosales",
+   "pagina": 5,
+   "cita": "El día 20 de mayo de 2013, a la 11:47 horas, en el PK 25+564 de la línea 516 Mérida - Los Rosales,",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotoras 333.305 y 333.362; 12 vagones cisterna PRR; vagón descarrilado UIC 837179120055",
+    "averia": "Descarrilamiento de 4 ruedas del bogie delantero del vagón cisterna 3º; bogie girado a la derecha con ejes cruzados respecto a la caja de vía",
+    "mantenimiento": "Archivo Patrón Adif: vagón autorizado para circular, revisiones y reparaciones del plan de mantenimiento en tiempo y forma. Mediciones de rodadura tras suceso dentro de tolerancias (espesor 29-30 mm, altura pestaña 28,4-30 mm, Qr 8-10,9 mm). Altura topes, diferencia entre topes y palancas de cambio correctas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de mercancías 83036, compuesto por dos locomotoras Renfe (333.305 y 333.362) y 12 vagones cisterna PRR propiedad de Transfesa, procedente de Badajoz con destino Huelva-Cargas, pasó por la señal de salida de Calamonte a 84 km/h en vía libre. A las 11:47:33, en el PK 25+564 de la línea 516 entre Torremejía y Almendralejo, se produjo el descarrilamiento de las cuatro ruedas del bogie delantero del vagón cisterna en tercera posición (UIC 837179120055), que circulaba vacío y sin limpiar de amoniaco anhidro (ONU 268/1005). El tren recorrió 585 metros con el vagón descarrilado hasta que el maquinista lo detuvo al observarlo por el espejo retrovisor. El bogie quedó girado hacia el lado derecho de la vía, con el primer eje con rueda derecha fuera y izquierda dentro, y el segundo eje a la inversa.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "25+564",
+    "linea": "516 Mérida - Los Rosales",
+    "provincia": "Badajoz",
+    "descripcion_lugar": "Entre Torremejía (PK 17+500) y Almendralejo (PK 29+600), tramo Mérida-Zafra, entre señal avanzada y señal de entrada de Almendralejo, alineación recta, rampa de 9,82 milésimas, próximo a paso a nivel PK 25+661 (real 25+615) y paso superior en construcción PK 25+676"
+   },
+   "pagina": 5,
+   "cita": "El día 20 de mayo de 2013, a la 11:47 horas, en el PK 25+564 de la línea 516 Mérida - Los Rosales,",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: ejes del vagón descarrilado. Infraestructura: deformaciones en carriles, sistema de sujeción y traviesas valoradas por Adif en 32.532,51 €. Instalaciones del paso a nivel dañadas.",
+    "afectacion_servicio": "Circulación interrumpida entre Mérida y Zafra de 12:04 a 22:17 (10h13min). Afectados 7 trenes: 1 mercancías suprimido, 4 media distancia suprimidos y transbordados por carretera, 2 media distancia con retraso. Reanudación con limitación 30 km/h (PK 25+470-26+200), luego 60 km/h hasta 31/05, y velocidad de trayecto tras tratamiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista",
+     "implicacion": "Condujo el tren, observó el descarrilamiento por espejo retrovisor y frenó. Matrícula 9733031, título B, habilitado. Prueba alcoholemia negativa. Jornada 6h42min (4h17min conducción)."
+    }
+   ],
+   "pagina": 6,
+   "cita": "El tren recorre 585 metros con el vagón descarrilado hasta que se detiene por la acción del maquinista",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "83036",
+     "tipo": "mercancías (N100)",
+     "operador": "Renfe Operadora (tracción) / Transfesa (vagones)",
+     "danos": "Ejes del vagón cisterna descarrilado"
+    }
+   ],
+   "pagina": 5,
+   "cita": "bogie delantero del vagón cisterna que ocupaba la tercera posición del tren de mercancías 83036, con",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotoras 333.305 y 333.362; 12 vagones cisterna PRR; vagón descarrilado UIC 837179120055",
+    "averia": "Descarrilamiento de 4 ruedas del bogie delantero del vagón cisterna 3º; bogie girado a la derecha con ejes cruzados respecto a la caja de vía",
+    "mantenimiento": "Archivo Patrón Adif: vagón autorizado para circular, revisiones y reparaciones del plan de mantenimiento en tiempo y forma. Mediciones de rodadura tras suceso dentro de tolerancias (espesor 29-30 mm, altura pestaña 28,4-30 mm, Qr 8-10,9 mm). Altura topes, diferencia entre topes y palancas de cambio correctas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 8,
+   "cita": "- El gerente de seguridad en la circulación del Administrador de Infraestructuras Ferroviarias (Adif)",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S2/1 de Calamonte en vía libre; señal avanzada y señal de entrada Almendralejo; bloqueo BLAU; CTC en Puesto de Mando de Sevilla",
+    "tipo_via": "vía única, alineación recta, rampa 9,82 milésimas",
+    "velocidad_maxima": "140 km/h para trenes tipo N en el punto del accidente; 100 km/h velocidad máxima del tren (N100)",
+    "ancho": "ibérico",
+    "electrificacion": "sin electrificar",
+    "estado_via": "Defectos de nivelación, peralte y alabeo detectados por auscultación el 20/02/2013 con prioridad ZUT en peralte y alabeo a 15-20 m del punto de descarrilamiento, sin constancia de reparación. Zona renovada en 2007. Tras el accidente, mediciones dentro de tolerancias. Carril 54 kg/ml en barra larga soldada, traviesas hormigón PR-01, sujeción Vossloh.",
+    "otro": "Paso a nivel clase A PK 25+661 (real 25+615) 'Camino de Mérida a Almendralejo' dañado. Paso superior en construcción PK 25+676 que eliminará el paso a nivel. Media semanal tramo Mérida-Zafra: 52 circulaciones. Radiotelefonía analógica modalidad C."
+   },
+   "pagina": 9,
+   "cita": "El tramo donde ocurre el accidente es de vía única sin electrificar de ancho ibérico, realizándose la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de salida S2/1 de Calamonte en vía libre; señal avanzada y señal de entrada Almendralejo; bloqueo BLAU; CTC en Puesto de Mando de Sevilla",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía analógica modalidad C.",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: ejes del vagón descarrilado. Infraestructura: deformaciones en carriles, sistema de sujeción y traviesas valoradas por Adif en 32.532,51 €. Instalaciones del paso a nivel dañadas.",
+    "afectacion_servicio": "Circulación interrumpida entre Mérida y Zafra de 12:04 a 22:17 (10h13min). Afectados 7 trenes: 1 mercancías suprimido, 4 media distancia suprimidos y transbordados por carretera, 2 media distancia con retraso. Reanudación con limitación 30 km/h (PK 25+470-26+200), luego 60 km/h hasta 31/05, y velocidad de trayecto tras tratamiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: ejes del vagón descarrilado. Infraestructura: deformaciones en carriles, sistema de sujeción y traviesas valoradas por Adif en 32.532,51 €. Instalaciones del paso a nivel dañadas.",
+    "afectacion_servicio": "Circulación interrumpida entre Mérida y Zafra de 12:04 a 22:17 (10h13min). Afectados 7 trenes: 1 mercancías suprimido, 4 media distancia suprimidos y transbordados por carretera, 2 media distancia con retraso. Reanudación con limitación 30 km/h (PK 25+470-26+200), luego 60 km/h hasta 31/05, y velocidad de trayecto tras tratamiento."
+   },
+   "pagina": 14,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: ejes del vagón descarrilado. Infraestructura: deformaciones en carriles, sistema de sujeción y traviesas valoradas por Adif en 32.532,51 €. Instalaciones del paso a nivel dañadas.",
+    "afectacion_servicio": "Circulación interrumpida entre Mérida y Zafra de 12:04 a 22:17 (10h13min). Afectados 7 trenes: 1 mercancías suprimido, 4 media distancia suprimidos y transbordados por carretera, 2 media distancia con retraso. Reanudación con limitación 30 km/h (PK 25+470-26+200), luego 60 km/h hasta 31/05, y velocidad de trayecto tras tratamiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras 333.305 y 333.362; 12 vagones cisterna PRR; vagón descarrilado UIC 837179120055",
+    "averia": "Descarrilamiento de 4 ruedas del bogie delantero del vagón cisterna 3º; bogie girado a la derecha con ejes cruzados respecto a la caja de vía",
+    "mantenimiento": "Archivo Patrón Adif: vagón autorizado para circular, revisiones y reparaciones del plan de mantenimiento en tiempo y forma. Mediciones de rodadura tras suceso dentro de tolerancias (espesor 29-30 mm, altura pestaña 28,4-30 mm, Qr 8-10,9 mm). Altura topes, diferencia entre topes y palancas de cambio correctas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S2/1 de Calamonte en vía libre; señal avanzada y señal de entrada Almendralejo; bloqueo BLAU; CTC en Puesto de Mando de Sevilla",
+    "tipo_via": "vía única, alineación recta, rampa 9,82 milésimas",
+    "velocidad_maxima": "140 km/h para trenes tipo N en el punto del accidente; 100 km/h velocidad máxima del tren (N100)",
+    "ancho": "ibérico",
+    "electrificacion": "sin electrificar",
+    "estado_via": "Defectos de nivelación, peralte y alabeo detectados por auscultación el 20/02/2013 con prioridad ZUT en peralte y alabeo a 15-20 m del punto de descarrilamiento, sin constancia de reparación. Zona renovada en 2007. Tras el accidente, mediciones dentro de tolerancias. Carril 54 kg/ml en barra larga soldada, traviesas hormigón PR-01, sujeción Vossloh.",
+    "otro": "Paso a nivel clase A PK 25+661 (real 25+615) 'Camino de Mérida a Almendralejo' dañado. Paso superior en construcción PK 25+676 que eliminará el paso a nivel. Media semanal tramo Mérida-Zafra: 52 circulaciones. Radiotelefonía analógica modalidad C."
+   },
+   "pagina": 9,
+   "cita": "El tramo donde ocurre el accidente es de vía única sin electrificar de ancho ibérico, realizándose la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "De día, sin condiciones meteorológicas adversas",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Badajoz",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 5,
+   "cita": "entre Torremejía y Almendralejo (Badajoz), se produce el descarrilamiento de las cuatro ruedas del",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "De día, sin condiciones meteorológicas adversas",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de salida S2/1 de Calamonte en vía libre; señal avanzada y señal de entrada Almendralejo; bloqueo BLAU; CTC en Puesto de Mando de Sevilla",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S2/1 de Calamonte en vía libre; señal avanzada y señal de entrada Almendralejo; bloqueo BLAU; CTC en Puesto de Mando de Sevilla",
+    "tipo_via": "vía única, alineación recta, rampa 9,82 milésimas",
+    "velocidad_maxima": "140 km/h para trenes tipo N en el punto del accidente; 100 km/h velocidad máxima del tren (N100)",
+    "ancho": "ibérico",
+    "electrificacion": "sin electrificar",
+    "estado_via": "Defectos de nivelación, peralte y alabeo detectados por auscultación el 20/02/2013 con prioridad ZUT en peralte y alabeo a 15-20 m del punto de descarrilamiento, sin constancia de reparación. Zona renovada en 2007. Tras el accidente, mediciones dentro de tolerancias. Carril 54 kg/ml en barra larga soldada, traviesas hormigón PR-01, sujeción Vossloh.",
+    "otro": "Paso a nivel clase A PK 25+661 (real 25+615) 'Camino de Mérida a Almendralejo' dañado. Paso superior en construcción PK 25+676 que eliminará el paso a nivel. Media semanal tramo Mérida-Zafra: 52 circulaciones. Radiotelefonía analógica modalidad C."
+   },
+   "pagina": 9,
+   "cita": "El tramo donde ocurre el accidente es de vía única sin electrificar de ancho ibérico, realizándose la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía analógica modalidad C.",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras 333.305 y 333.362; 12 vagones cisterna PRR; vagón descarrilado UIC 837179120055",
+    "averia": "Descarrilamiento de 4 ruedas del bogie delantero del vagón cisterna 3º; bogie girado a la derecha con ejes cruzados respecto a la caja de vía",
+    "mantenimiento": "Archivo Patrón Adif: vagón autorizado para circular, revisiones y reparaciones del plan de mantenimiento en tiempo y forma. Mediciones de rodadura tras suceso dentro de tolerancias (espesor 29-30 mm, altura pestaña 28,4-30 mm, Qr 8-10,9 mm). Altura topes, diferencia entre topes y palancas de cambio correctas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Defectos de vía detectados",
+    "No se reparan deficiencias",
+    "Inspecciones previas sin defectos",
+    "Última auscultación realizada febrero"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 83036 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene una antigüedad en el cargo de fecha 05/12/2005 y posee habilitaciones para el vehículo de \nfecha 31/12/2004 y para la línea desde el 31/12/2004. \nRealizó su último reciclaje formativo el 14/12/2011 y su último reconocimiento médico y psicotécnico el \n15/06/2011, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 11,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de mercancías 83036, compuesto por dos locomotoras Renfe (333.305 y 333.362) y 12 vagones cisterna PRR propiedad de Transfesa, procedente de Badajoz con destino Huelva-Cargas, pasó por la señal de salida de Calamonte a 84 km/h en vía libre. A las 11:47:33, en el PK 25+564 de la línea 516 entre Torremejía y Almendralejo, se produjo el descarrilamiento de las cuatro ruedas del bogie delantero del vagón cisterna en tercera posición (UIC 837179120055), que circulaba vacío y sin limpiar de amoniaco anhidro (ONU 268/1005). El tren recorrió 585 metros con el vagón descarrilado hasta que el maquinista lo detuvo al observarlo por el espejo retrovisor. El bogie quedó girado hacia el lado derecho de la vía, con el primer eje con rueda derecha fuera y izquierda dentro, y el segundo eje a la inversa.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Defectos de nivelación, peralte y alabeo en las proximidades (15-20 m) del punto de descarrilamiento, detectados por auscultación el 20/02/2013 con prioridad ZUT y no reparados",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No constancia de reparación de los defectos detectados por el tren auscultador en febrero 2013",
+    "Inspecciones en cabina (9 mayo) y a pie (16 mayo) no observaron defectos que afectasen al tránsito"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Establecer procedimientos que aseguren la adopción de medidas de corrección de los defectos del estado de la vía detectados y catalogados como de tratamiento urgente. Hasta tanto, adoptar las medidas necesarias para evitar riesgos en las circulaciones.",
+    "Establecer procedimientos que aseguren la adopción de medidas de corrección de los defectos del estado de la vía detectados y catalogados como de tratamiento urgente. Hasta tanto, adoptar las medidas necesarias para evitar riesgos en las circulaciones."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "11:27:22",
+     "evento": "Salida del tren 83036 de la estación de Mérida"
+    },
+    {
+     "hora": "11:35:37",
+     "evento": "Paso por señal de salida S2/1 de Calamonte (PK 6+500) a 84 km/h, vía libre"
+    },
+    {
+     "hora": "11:47:33",
+     "evento": "Descarrilamiento del bogie delantero del vagón cisterna 3º en PK 25+564 a 96 km/h"
+    },
+    {
+     "hora": "11:58:07",
+     "evento": "Detención del tren en PK 26+200 (recorridos 585 m descarrilado)"
+    },
+    {
+     "hora": "12:04",
+     "evento": "Interrupción de la circulación entre Mérida y Zafra"
+    },
+    {
+     "hora": "13:48",
+     "evento": "Sale de Mérida máquina de socorro"
+    },
+    {
+     "hora": "14:38",
+     "evento": "Sale tren de trabajos"
+    },
+    {
+     "hora": "15:00",
+     "evento": "Máquina de socorro sale del lugar remolcando 9 últimos vagones"
+    },
+    {
+     "hora": "15:40",
+     "evento": "9 vagones quedan apartados en Calamonte"
+    },
+    {
+     "hora": "16:55",
+     "evento": "Salen 2 locomotoras con 2 primeros vagones hacia Almendralejo"
+    },
+    {
+     "hora": "18:50",
+     "evento": "Cisterna descarrilada encarrilada y remolcada a Almendralejo por tren taller"
+    },
+    {
+     "hora": "22:17",
+     "evento": "Reanudación de la circulación con limitación a 30 km/h (PK 25+470-26+200)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0048/2013",
+ "expediente": "0048/13",
+ "anio": 2013,
+ "titulo": "Descarrilamiento de un vagón cisterna en la línea 516 entre Torremejía y Almendralejo (Badajoz)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_200513_140714_CIAF.md"
+}

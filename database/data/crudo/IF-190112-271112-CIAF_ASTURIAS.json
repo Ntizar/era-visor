@@ -1,0 +1,1057 @@
+{
+ "id": "IF-190112-271112-CIAF_ASTURIAS",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/0D488A72-103D-491A-9773-4E3F1414CC91/114719/IF190112271112CIAF.pdf",
+ "pdf": "pdfs/ES/IF-190112-271112-CIAF_ASTURIAS.pdf",
+ "md5_pdf": "b9bded5ea978e1e1eb22ed87e5fe7376",
+ "paginas_md": 16,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 40,
+ "n_tablas": 1,
+ "tablas": [
+  {
+   "pagina": 7,
+   "cabecera": [
+    "Lugar en la composición",
+    "SERIE",
+    "Nº",
+    "CARGA",
+    "PESO"
+   ],
+   "filas": [
+    {
+     "Lugar en la composición": "1º",
+     "SERIE": "Sgh",
+     "Nº": "9044",
+     "CARGA": "Bobinas",
+     "PESO": "43 t"
+    },
+    {
+     "Lugar en la composición": "2º",
+     "SERIE": "Sgh",
+     "Nº": "9084",
+     "CARGA": "Bobinas",
+     "PESO": "43 t"
+    },
+    {
+     "Lugar en la composición": "3º",
+     "SERIE": "Sgh",
+     "Nº": "9064",
+     "CARGA": "Bobinas",
+     "PESO": "62 t"
+    },
+    {
+     "Lugar en la composición": "4º",
+     "SERIE": "Sgh",
+     "Nº": "9059",
+     "CARGA": "Bobinas",
+     "PESO": "60 t"
+    },
+    {
+     "Lugar en la composición": "5º",
+     "SERIE": "2SSag",
+     "Nº": "406",
+     "CARGA": "Bobinas",
+     "PESO": "62"
+    },
+    {
+     "Lugar en la composición": "6º",
+     "SERIE": "Sgh",
+     "Nº": "6036",
+     "CARGA": "Bobinas",
+     "PESO": "61 t"
+    },
+    {
+     "Lugar en la composición": "7º",
+     "SERIE": "Sgh",
+     "Nº": "9046",
+     "CARGA": "Bobinas",
+     "PESO": "54 t"
+    },
+    {
+     "Lugar en la composición": "8º",
+     "SERIE": "Sgh",
+     "Nº": "9087",
+     "CARGA": "Bobinas",
+     "PESO": "62 t"
+    },
+    {
+     "Lugar en la composición": "9º",
+     "SERIE": "Sgh",
+     "Nº": "9039",
+     "CARGA": "Bobinas",
+     "PESO": "57 t"
+    },
+    {
+     "Lugar en la composición": "10º",
+     "SERIE": "Sgh",
+     "Nº": "9052",
+     "CARGA": "Bobinas",
+     "PESO": "52 t"
+    },
+    {
+     "Lugar en la composición": "11º",
+     "SERIE": "Sgh",
+     "Nº": "9035",
+     "CARGA": "Bobinas",
+     "PESO": "56 t"
+    },
+    {
+     "Lugar en la composición": "12º",
+     "SERIE": "Sgh",
+     "Nº": "9080",
+     "CARGA": "Bobinas",
+     "PESO": "58 t"
+    },
+    {
+     "Lugar en la composición": "13º",
+     "SERIE": "2SSag",
+     "Nº": "263",
+     "CARGA": "Bobinas",
+     "PESO": "53 t"
+    },
+    {
+     "Lugar en la composición": "14º",
+     "SERIE": "Sgh",
+     "Nº": "9095",
+     "CARGA": "Bobinas",
+     "PESO": "60 t"
+    },
+    {
+     "Lugar en la composición": "15º",
+     "SERIE": "2SSag",
+     "Nº": "521",
+     "CARGA": "Contenedor vacío",
+     "PESO": "20 t"
+    },
+    {
+     "Lugar en la composición": "16º",
+     "SERIE": "2SSag",
+     "Nº": "151",
+     "CARGA": "Contenedor vacío",
+     "PESO": "20 t"
+    },
+    {
+     "Lugar en la composición": "17º",
+     "SERIE": "2SSag",
+     "Nº": "170",
+     "CARGA": "Contenedor vacío",
+     "PESO": "20 t"
+    },
+    {
+     "Lugar en la composición": "18º",
+     "SERIE": "2SSag",
+     "Nº": "154",
+     "CARGA": "Contenedor vacío",
+     "PESO": "20 t"
+    },
+    {
+     "Lugar en la composición": "19º",
+     "SERIE": "2SSag",
+     "Nº": "173",
+     "CARGA": "Contenedor vacío",
+     "PESO": "20 t"
+    },
+    {
+     "Lugar en la composición": "20º",
+     "SERIE": "2SSag",
+     "Nº": "473",
+     "CARGA": "Contenedor vacío",
+     "PESO": "20 t"
+    }
+   ],
+   "cita": "| Lugar en la composición | SERIE | Nº | CARGA | PESO |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0006/2012",
+   "pagina": 1,
+   "cita": "nº 0006/2012 ocurrido el 19.01.2012",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 19 de enero de 2012 a las 07:03 horas, el tren de mercancías 9561 de Feve descarriló en el PK 378+049 de la línea 21 Oviedo-Santander, entre las estaciones de Soto de Dueñas y Arriondas (Parres, Asturias). Siete de los veinte vagones plataforma de la composición descarrilaron y el convoy se fraccionó en tres partes. No se produjeron daños personales. La causa fue el exceso de velocidad (70 km/h) al pasar por una curva con limitación permanente de velocidad de 40 km/h, incumpliendo las señales. Se detectó además una prueba de alcoholemia positiva al maquinista.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2012-01-19",
+    "hora": "07:03",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "378+049",
+     "linea": "21 Oviedo – Santander",
+     "provincia": "Asturias",
+     "descripcion_lugar": "Entre las estaciones de Soto de Dueñas y Arriondas, municipio de Parres. Vía única electrificada con bloqueo telefónico, traviesas de hormigón, carril de 54 kg/m. Curva a la derecha en rampa de 5 milésimas, radio 120 m, peralte 57 mm, longitud 300 m. La vía discurre paralela y confinada entre la carretera N-634 y el río Piloña."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 19 de enero de 2012, a las 07:03 horas, entre las estaciones de Soto de Dueñas y Arriondas",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: daños en catenaria, carriles, traviesas y sujeciones a lo largo de 230 m (123.649,08 €). Material rodante: daños en 7 vagones (estructura, bastidor, bogies) por 170.000 €. Otros: daños en bionda de la carretera N-634 en unos 100 m.",
+    "afectacion_servicio": "Interrupción de la circulación del 19/01/2012 a las 07:03 al 20/01/2012 a las 12:15. Circulación con limitación a 10 km/h y solo tracción diésel hasta el 01/02/2012 a las 11:30. Nueve trenes suprimidos con traslado por carretera. Dos trenes con retraso acumulado de 11 minutos."
+   },
+   "pagina": 11,
+   "cita": "2.3.2. Daños materiales",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Exceso de velocidad del tren (70 km/h) al circular por una curva con limitación permanente de velocidad a 40 km/h, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Prueba de alcoholemia positiva al maquinista",
+    "Distribución de vagones en la composición no conforme a la NBSM (vagones ligeros en cabeza en lugar de cola de los cargados)",
+    "Declividad del trazado que favoreció el incremento de velocidad sin aplicar tracción",
+    "No se aplicó freno hasta 100 m después de la señal de LPV, ya en la curva"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "Recomendación Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones. 2. HECHOS INMEDIATOS DEL SUCESO 2.1. SUCESO 2.1.1. Datos Día / Hora: 19.01.2012/ 07:03 Lugar: PK 378+049,",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "Recomendación Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones. 2. HECHOS INMEDIATOS DEL SUCESO 2.1. SUCESO 2.1.1. Datos Día / Hora: 19.01.2012/ 07:03 Lugar: PK 378+049,",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "descarrilamiento",
+   "pagina": 3,
+   "cita": "(Asturias), en el PK 378+049 de la línea 21 Oviedo – Santander se produce el descarrilamiento del tren",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "de mercancías 9561, perteneciente a Feve. Descarrilan siete de los veinte vagones de la composición,",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2012-01-19",
+   "pagina": 3,
+   "cita": "El día 19 de enero de 2012, a las 07:03 horas, entre las estaciones de Soto de Dueñas y Arriondas",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "07:03",
+   "pagina": 3,
+   "cita": "El día 19 de enero de 2012, a las 07:03 horas, entre las estaciones de Soto de Dueñas y Arriondas",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "378+049",
+    "linea": "21 Oviedo – Santander",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Entre las estaciones de Soto de Dueñas y Arriondas, municipio de Parres. Vía única electrificada con bloqueo telefónico, traviesas de hormigón, carril de 54 kg/m. Curva a la derecha en rampa de 5 milésimas, radio 120 m, peralte 57 mm, longitud 300 m. La vía discurre paralela y confinada entre la carretera N-634 y el río Piloña."
+   },
+   "pagina": 3,
+   "cita": "(Asturias), en el PK 378+049 de la línea 21 Oviedo – Santander se produce el descarrilamiento del tren",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 21 Oviedo – Santander",
+   "pagina": 3,
+   "cita": "(Asturias), en el PK 378+049 de la línea 21 Oviedo – Santander se produce el descarrilamiento del tren",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotoras 1911 y 1905. Vagones plataforma: 12 Sgh, 2 2SSag (bobinas), 6 2SSag (contenedores vacíos). Tren tipo T50.",
+    "averia": "Ninguna. Equipos de seguridad del tren funcionaron correctamente. Ruedas de 5 vagones descarrilados (posiciones 4ª a 8ª): espesor de pestaña, altura de pestaña, Qr y diámetro dentro de tolerancia. Registrador de seguridad de la locomotora 1911 confirmó velocidad de 70 km/h.",
+    "mantenimiento": "Distribución de vagones no cumple la NBSM 'Prescripciones de cargamento': los vagones 1º y 2º (43 t) van cargados pero con peso sustancialmente inferior al resto; deberían ir en cola de los cargados (posiciones 13ª y 14ª) delante del material vacío."
+   },
+   "pagina": 6,
+   "cita": "Tren de mercancías 9561, compuesto por las locomotoras 1911 y 1905 y 20 vagones plataforma. De",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de mercancías 9561 (tipo T50) de Feve, procedente de El Berrón (Asturias) con destino Santander, compuesto por dos locomotoras (1911 y 1905) y 20 vagones plataforma (14 cargados con bobinas de acero y 6 con contenedores vacíos), pasó por la estación de Soto de Dueñas a 54 km/h e incrementó progresivamente la velocidad hasta 70 km/h en unos 2.300 metros. Sin aplicar tracción y debido a la declividad del trazado, el tren pasó por la señal de aviso de LPV y por la señal de limitación permanente de velocidad a 40 km/h (PK 377+950) manteniendo los 70 km/h. Unos 100 metros después de la señal de LPV, ya en la curva (radio 120 m, peralte 57 mm), el maquinista aplicó freno eléctrico y se produjo el descarrilamiento en el PK 378+049. El tren quedó detenido a las 07:02:26 horas en el PK 378+352, tras recorrer 303 metros desde el inicio del descarrilamiento. Se fraccionó el tren en tres partes: por delante, las dos locomotoras y los tres primeros vagones encarrilados con el cuarto descarrilado; a 140 metros, tres vagones atravesados sobre la vía y tres más paralelos a la misma en margen derecha; y por detrás, los 10 vagones restantes encarrilados y sin daños. No hubo víctimas personales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "378+049",
+    "linea": "21 Oviedo – Santander",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Entre las estaciones de Soto de Dueñas y Arriondas, municipio de Parres. Vía única electrificada con bloqueo telefónico, traviesas de hormigón, carril de 54 kg/m. Curva a la derecha en rampa de 5 milésimas, radio 120 m, peralte 57 mm, longitud 300 m. La vía discurre paralela y confinada entre la carretera N-634 y el río Piloña."
+   },
+   "pagina": 3,
+   "cita": "(Asturias), en el PK 378+049 de la línea 21 Oviedo – Santander se produce el descarrilamiento del tren",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: daños en catenaria, carriles, traviesas y sujeciones a lo largo de 230 m (123.649,08 €). Material rodante: daños en 7 vagones (estructura, bastidor, bogies) por 170.000 €. Otros: daños en bionda de la carretera N-634 en unos 100 m.",
+    "afectacion_servicio": "Interrupción de la circulación del 19/01/2012 a las 07:03 al 20/01/2012 a las 12:15. Circulación con limitación a 10 km/h y solo tracción diésel hasta el 01/02/2012 a las 11:30. Nueve trenes suprimidos con traslado por carretera. Dos trenes con retraso acumulado de 11 minutos."
+   },
+   "pagina": 11,
+   "cita": "2.3.2. Daños materiales",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 9561 (CF 5606)",
+     "implicacion": "Conducía el tren a 70 km/h por una curva con LPV de 40 km/h, incumpliendo las señales. Prueba de alcoholemia positiva. 24 años de antigüedad en el cargo. No le acompañaba ninguna persona. Sancionado con 45 días de suspensión de empleo y sueldo, apercibimiento e inhabilitación definitiva para servicios de circulación en línea."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "9561",
+     "tipo": "Mercancías, tipo T50 (velocidad máxima 50 km/h)",
+     "operador": "Feve",
+     "danos": "Descarrilamiento de 7 de 20 vagones; fraccionamiento del convoy en tres partes. Daños en estructura, bastidor y bogies de 7 vagones (valoración 170.000 €)."
+    }
+   ],
+   "pagina": 3,
+   "cita": "de mercancías 9561, perteneciente a Feve. Descarrilan siete de los veinte vagones de la composición,",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotoras 1911 y 1905. Vagones plataforma: 12 Sgh, 2 2SSag (bobinas), 6 2SSag (contenedores vacíos). Tren tipo T50.",
+    "averia": "Ninguna. Equipos de seguridad del tren funcionaron correctamente. Ruedas de 5 vagones descarrilados (posiciones 4ª a 8ª): espesor de pestaña, altura de pestaña, Qr y diámetro dentro de tolerancia. Registrador de seguridad de la locomotora 1911 confirmó velocidad de 70 km/h.",
+    "mantenimiento": "Distribución de vagones no cumple la NBSM 'Prescripciones de cargamento': los vagones 1º y 2º (43 t) van cargados pero con peso sustancialmente inferior al resto; deberían ir en cola de los cargados (posiciones 13ª y 14ª) delante del material vacío."
+   },
+   "pagina": 6,
+   "cita": "Tren de mercancías 9561, compuesto por las locomotoras 1911 y 1905 y 20 vagones plataforma. De",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales de aviso de LPV y de limitación permanente de velocidad a 40 km/h (señales fijas). Bloqueo telefónico.",
+    "tipo_via": "Vía única electrificada, traviesas de hormigón, carril de 54 kg/m",
+    "velocidad_maxima": "60 km/h (trayecto); 40 km/h (LPV en curva del accidente)",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Parámetros de vía (ancho, peralte, variación del peralte) dentro de tolerancia. No existen sobreanchos. LPV de 40 km/h correctamente dispuesta (velocidad máxima admisible teórica para la curva: 42,5 km/h).",
+    "otro": "Curva radio 120 m, peralte 57 mm, rampa 5 milésimas, longitud 300 m. Peralte máximo Feve: 110 mm. Con peralte máximo la velocidad sería 51 km/h. Para 70 km/h se precisarían 273 mm de peralte. Tramo confinado entre N-634 y río Piloña. 16 circulaciones/día laborable, 12 en festivos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales de aviso de LPV y de limitación permanente de velocidad a 40 km/h (señales fijas). Bloqueo telefónico.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía analógica y telefonía móvil GSM.",
+   "pagina": 9,
+   "cita": "2.2.5. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: daños en catenaria, carriles, traviesas y sujeciones a lo largo de 230 m (123.649,08 €). Material rodante: daños en 7 vagones (estructura, bastidor, bogies) por 170.000 €. Otros: daños en bionda de la carretera N-634 en unos 100 m.",
+    "afectacion_servicio": "Interrupción de la circulación del 19/01/2012 a las 07:03 al 20/01/2012 a las 12:15. Circulación con limitación a 10 km/h y solo tracción diésel hasta el 01/02/2012 a las 11:30. Nueve trenes suprimidos con traslado por carretera. Dos trenes con retraso acumulado de 11 minutos."
+   },
+   "pagina": 11,
+   "cita": "2.3.2. Daños materiales",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: daños en catenaria, carriles, traviesas y sujeciones a lo largo de 230 m (123.649,08 €). Material rodante: daños en 7 vagones (estructura, bastidor, bogies) por 170.000 €. Otros: daños en bionda de la carretera N-634 en unos 100 m.",
+    "afectacion_servicio": "Interrupción de la circulación del 19/01/2012 a las 07:03 al 20/01/2012 a las 12:15. Circulación con limitación a 10 km/h y solo tracción diésel hasta el 01/02/2012 a las 11:30. Nueve trenes suprimidos con traslado por carretera. Dos trenes con retraso acumulado de 11 minutos."
+   },
+   "pagina": 11,
+   "cita": "2.3.2. Daños materiales",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: daños en catenaria, carriles, traviesas y sujeciones a lo largo de 230 m (123.649,08 €). Material rodante: daños en 7 vagones (estructura, bastidor, bogies) por 170.000 €. Otros: daños en bionda de la carretera N-634 en unos 100 m.",
+    "afectacion_servicio": "Interrupción de la circulación del 19/01/2012 a las 07:03 al 20/01/2012 a las 12:15. Circulación con limitación a 10 km/h y solo tracción diésel hasta el 01/02/2012 a las 11:30. Nueve trenes suprimidos con traslado por carretera. Dos trenes con retraso acumulado de 11 minutos."
+   },
+   "pagina": 11,
+   "cita": "2.3.2. Daños materiales",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras 1911 y 1905. Vagones plataforma: 12 Sgh, 2 2SSag (bobinas), 6 2SSag (contenedores vacíos). Tren tipo T50.",
+    "averia": "Ninguna. Equipos de seguridad del tren funcionaron correctamente. Ruedas de 5 vagones descarrilados (posiciones 4ª a 8ª): espesor de pestaña, altura de pestaña, Qr y diámetro dentro de tolerancia. Registrador de seguridad de la locomotora 1911 confirmó velocidad de 70 km/h.",
+    "mantenimiento": "Distribución de vagones no cumple la NBSM 'Prescripciones de cargamento': los vagones 1º y 2º (43 t) van cargados pero con peso sustancialmente inferior al resto; deberían ir en cola de los cargados (posiciones 13ª y 14ª) delante del material vacío."
+   },
+   "pagina": 6,
+   "cita": "Tren de mercancías 9561, compuesto por las locomotoras 1911 y 1905 y 20 vagones plataforma. De",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de aviso de LPV y de limitación permanente de velocidad a 40 km/h (señales fijas). Bloqueo telefónico.",
+    "tipo_via": "Vía única electrificada, traviesas de hormigón, carril de 54 kg/m",
+    "velocidad_maxima": "60 km/h (trayecto); 40 km/h (LPV en curva del accidente)",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Parámetros de vía (ancho, peralte, variación del peralte) dentro de tolerancia. No existen sobreanchos. LPV de 40 km/h correctamente dispuesta (velocidad máxima admisible teórica para la curva: 42,5 km/h).",
+    "otro": "Curva radio 120 m, peralte 57 mm, rampa 5 milésimas, longitud 300 m. Peralte máximo Feve: 110 mm. Con peralte máximo la velocidad sería 51 km/h. Para 70 km/h se precisarían 273 mm de peralte. Tramo confinado entre N-634 y río Piloña. 16 circulaciones/día laborable, 12 en festivos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche, con niebla",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Asturias",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 3,
+   "cita": "(Asturias), en el PK 378+049 de la línea 21 Oviedo – Santander se produce el descarrilamiento del tren",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche, con niebla",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales de aviso de LPV y de limitación permanente de velocidad a 40 km/h (señales fijas). Bloqueo telefónico.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de aviso de LPV y de limitación permanente de velocidad a 40 km/h (señales fijas). Bloqueo telefónico.",
+    "tipo_via": "Vía única electrificada, traviesas de hormigón, carril de 54 kg/m",
+    "velocidad_maxima": "60 km/h (trayecto); 40 km/h (LPV en curva del accidente)",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Parámetros de vía (ancho, peralte, variación del peralte) dentro de tolerancia. No existen sobreanchos. LPV de 40 km/h correctamente dispuesta (velocidad máxima admisible teórica para la curva: 42,5 km/h).",
+    "otro": "Curva radio 120 m, peralte 57 mm, rampa 5 milésimas, longitud 300 m. Peralte máximo Feve: 110 mm. Con peralte máximo la velocidad sería 51 km/h. Para 70 km/h se precisarían 273 mm de peralte. Tramo confinado entre N-634 y río Piloña. 16 circulaciones/día laborable, 12 en festivos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía analógica y telefonía móvil GSM.",
+   "pagina": 9,
+   "cita": "2.2.5. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras 1911 y 1905. Vagones plataforma: 12 Sgh, 2 2SSag (bobinas), 6 2SSag (contenedores vacíos). Tren tipo T50.",
+    "averia": "Ninguna. Equipos de seguridad del tren funcionaron correctamente. Ruedas de 5 vagones descarrilados (posiciones 4ª a 8ª): espesor de pestaña, altura de pestaña, Qr y diámetro dentro de tolerancia. Registrador de seguridad de la locomotora 1911 confirmó velocidad de 70 km/h.",
+    "mantenimiento": "Distribución de vagones no cumple la NBSM 'Prescripciones de cargamento': los vagones 1º y 2º (43 t) van cargados pero con peso sustancialmente inferior al resto; deberían ir en cola de los cargados (posiciones 13ª y 14ª) delante del material vacío."
+   },
+   "pagina": 6,
+   "cita": "Tren de mercancías 9561, compuesto por las locomotoras 1911 y 1905 y 20 vagones plataforma. De",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Prueba de alcoholemia positiva al maquinista",
+    "Distribución de vagones en la composición no conforme a la NBSM (vagones ligeros en cabeza en lugar de cola de los cargados)",
+    "Declividad del trazado que favoreció el incremento de velocidad sin aplicar tracción",
+    "No se aplicó freno hasta 100 m después de la señal de LPV, ya en la curva"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 9651 se encuentra habilitado para la conducción de vehículos ferroviarios en \nvirtud de la capacitación adquirida de conformidad con el estatuto propio y la normativa legal aplicable \na Feve. \nÉste tiene una antigüedad en el cargo de 24 años. \nRealizó su último curso formativo el 04/02/2011 y su último reconocimiento médico y psicotécnico el \n03/12/2010, conforme a la normativa vigente establecida por Feve.  \n3.3. \nNORMATIVA",
+   "pagina": 12,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de mercancías 9561 (tipo T50) de Feve, procedente de El Berrón (Asturias) con destino Santander, compuesto por dos locomotoras (1911 y 1905) y 20 vagones plataforma (14 cargados con bobinas de acero y 6 con contenedores vacíos), pasó por la estación de Soto de Dueñas a 54 km/h e incrementó progresivamente la velocidad hasta 70 km/h en unos 2.300 metros. Sin aplicar tracción y debido a la declividad del trazado, el tren pasó por la señal de aviso de LPV y por la señal de limitación permanente de velocidad a 40 km/h (PK 377+950) manteniendo los 70 km/h. Unos 100 metros después de la señal de LPV, ya en la curva (radio 120 m, peralte 57 mm), el maquinista aplicó freno eléctrico y se produjo el descarrilamiento en el PK 378+049. El tren quedó detenido a las 07:02:26 horas en el PK 378+352, tras recorrer 303 metros desde el inicio del descarrilamiento. Se fraccionó el tren en tres partes: por delante, las dos locomotoras y los tres primeros vagones encarrilados con el cuarto descarrilado; a 140 metros, tres vagones atravesados sobre la vía y tres más paralelos a la misma en margen derecha; y por detrás, los 10 vagones restantes encarrilados y sin daños. No hubo víctimas personales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Exceso de velocidad del tren (70 km/h) al circular por una curva con limitación permanente de velocidad a 40 km/h, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Prueba de alcoholemia positiva al maquinista",
+    "Distribución de vagones en la composición no conforme a la NBSM (vagones ligeros en cabeza en lugar de cola de los cargados)",
+    "Declividad del trazado que favoreció el incremento de velocidad sin aplicar tracción",
+    "No se aplicó freno hasta 100 m después de la señal de LPV, ya en la curva"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "Recomendación Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones. 2. HECHOS INMEDIATOS DEL SUCESO 2.1. SUCESO 2.1.1. Datos Día / Hora: 19.01.2012/ 07:03 Lugar: PK 378+049,",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "06:59:33",
+     "evento": "El tren pasa por la estación de Soto de Dueñas (señal de entrada E1, PK 375+524) a 54 km/h"
+    },
+    {
+     "hora": "07:01:55",
+     "evento": "El tren pasa por la señal de LPV a 40 km/h (PK 377+950) circulando a 70 km/h"
+    },
+    {
+     "hora": "07:02:01",
+     "evento": "A unos 100 m de la señal de LPV, en la curva, el maquinista aplica freno eléctrico y se produce el descarrilamiento en PK 378+049"
+    },
+    {
+     "hora": "07:02:26",
+     "evento": "El tren queda detenido en el PK 378+352, tras recorrer 303 m desde el inicio del descarrilamiento"
+    },
+    {
+     "hora": "07:03",
+     "evento": "Hora oficial del accidente según el informe"
+    },
+    {
+     "hora": "08:03",
+     "evento": "El director gerente de Feve comunica el suceso a la CIAF por telefonía móvil"
+    },
+    {
+     "hora": null,
+     "evento": "19/01/2012: Se activa el protocolo de emergencias y se interrumpe la circulación"
+    },
+    {
+     "hora": "12:15",
+     "evento": "20/01/2012: Se restablece la circulación con limitación temporal de velocidad a 10 km/h y solo tracción diésel"
+    },
+    {
+     "hora": "00:00",
+     "evento": "27/01/2012: Se anula la limitación temporal de 10 km/h, se circula solo con tracción diésel"
+    },
+    {
+     "hora": "11:30",
+     "evento": "01/02/2012: Se restablece la circulación en condiciones normales"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0006/2012",
+ "expediente": "06/012",
+ "anio": 2012,
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 06/2012 OCURRIDO EL DÍA 19.01.2012 EN PARRES (ASTURIAS)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-190112-271112-CIAF_ASTURIAS.md"
+}

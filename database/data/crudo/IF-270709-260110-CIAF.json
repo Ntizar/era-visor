@@ -1,0 +1,926 @@
+{
+ "id": "IF-270709-260110-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/ED473A90-A1F3-4A18-A3BE-1314D0A6D90B/70238/0038_09_CIAF.pdf",
+ "pdf": "pdfs/ES/IF-270709-260110-CIAF.pdf",
+ "md5_pdf": "183d6497a05961153b2ee105ea31b6de",
+ "paginas_md": 10,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 30,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Renfe- Operadora",
+     "Número": "38/09-1",
+     "Recomendación": "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 10,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Renfe - Operadora",
+     "Número": "38/09-1",
+     "Recomendación": "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0038/2009",
+   "pagina": 1,
+   "cita": "nº 0038/2009 ocurrido el 27.07.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 27 de julio de 2009, a las 20:16, el tren de media distancia 15052 de Renfe Operadora rebasó indebidamente la señal de entrada E2 de Bifurcación Clot, en Barcelona, que se encontraba en parada. El incidente provocó un conato de colisión con el tren 25552 que circulaba delante. No hubo víctimas ni daños materiales. La investigación atribuye el suceso al incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-07-27",
+    "hora": "20:16",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Bif. Clot",
+     "pk": "102+700",
+     "linea": "262 Barcelona Sagrera - Bif. Clot",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Bifurcación Clot, P.K. 102+700, PB Barcelona Marina, tramo Barna-Clot-Aragó Barna-Sagrera, vía doble en curva cerrada dentro de un túnel, con control de tráfico centralizado (BAD con CTC)."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 27 de julio de 2009, a las 20:16 el tren 15052 de media distancia de la empresa Renfe",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "no hay",
+    "afectacion_servicio": "Retraso total de 22 minutos en dos trenes de media distancia."
+   },
+   "pagina": 6,
+   "cita": "Se produce un retraso total de 22 minutos en dos trenes de media distancia.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Rebase indebido por el tren 15052 de la señal de entrada E2, que se encontraba ordenando parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción e incumplimiento del artículo 217 del Reglamento General de Circulación.",
+   "pagina": 3,
+   "cita": "Conclusión: El incidente tuvo su origen en el rebase indebido por el tren 15052 de la señal de",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Existencia de curva cerrada que impedía divisar el tren precedente.",
+    "Situación dentro de un túnel.",
+    "La señal E2 disponía de baliza previa desde la cual no era visible la señal.",
+    "El puesto de mando estableció itinerario al tren 25552, provocando que el tren 15052 recibiera vía libre en la baliza previa de E2.",
+    "El maquinista aumentó la velocidad al no divisar el tren precedente.",
+    "El freno de emergencia se actuó demasiado tarde y el tren recorrió 24 metros hasta detenerse tras la señal."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción.",
+    "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe- Operadora",
+    "Renfe - Operadora"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente",
+   "pagina": 1,
+   "cita": "Investigación del incidente",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "- El jefe de investigación técnica de accidentes de Renfe Operadora, quien; por delegación del",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-07-27",
+   "pagina": 3,
+   "cita": "El día 27 de julio de 2009, a las 20:16 el tren 15052 de media distancia de la empresa Renfe",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "20:16",
+   "pagina": 3,
+   "cita": "El día 27 de julio de 2009, a las 20:16 el tren 15052 de media distancia de la empresa Renfe",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Bif. Clot",
+    "pk": "102+700",
+    "linea": "262 Barcelona Sagrera - Bif. Clot",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Bifurcación Clot, P.K. 102+700, PB Barcelona Marina, tramo Barna-Clot-Aragó Barna-Sagrera, vía doble en curva cerrada dentro de un túnel, con control de tráfico centralizado (BAD con CTC)."
+   },
+   "pagina": 3,
+   "cita": "Operadora, rebasa indebidamente la señal de entrada E2 de Bif. Clot provocando un conato de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "262 Barcelona Sagrera - Bif. Clot",
+   "pagina": 3,
+   "cita": "262 Barcelona Sagrera - Bif. Clot",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tren tipo 120 A; motor 470114; 3 coches; 205 toneladas de masa remolcada; Nº UIC 967194701140.",
+    "averia": "Los equipos de seguridad del tren 15052, freno y ASFA, funcionaron correctamente según el registrador de seguridad del tren.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros de media distancia 15052, procedente de Bifurcación Aragó y con destino Estación de França, llegó a la señal de avanzada 6820, permisiva, que se encontraba en parada. El tren realizó parada ante dicha señal, activó el rebase autorizado y reanudó la marcha hacia la señal de entrada E2 de Bifurcación Clot.\n\nAl pisar la baliza previa de la señal de entrada E2, el tren recibió indicación de vía libre porque el puesto de mando estaba estableciendo itinerario al tren 25552, que esperaba delante de la señal E2. Por la existencia de curva, el maquinista no divisó el tren que precedía y aumentó la velocidad. Al llegar a la señal E2 la encontró en parada, actuó el freno de emergencia, pero no logró detenerse a tiempo y rebasó indebidamente la señal, generando riesgo de colisión con el tren 25552.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Bif. Clot",
+    "pk": "102+700",
+    "linea": "262 Barcelona Sagrera - Bif. Clot",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Bifurcación Clot, P.K. 102+700, PB Barcelona Marina, tramo Barna-Clot-Aragó Barna-Sagrera, vía doble en curva cerrada dentro de un túnel, con control de tráfico centralizado (BAD con CTC)."
+   },
+   "pagina": 3,
+   "cita": "Operadora, rebasa indebidamente la señal de entrada E2 de Bif. Clot provocando un conato de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "no hay",
+    "afectacion_servicio": "Retraso total de 22 minutos en dos trenes de media distancia."
+   },
+   "pagina": 6,
+   "cita": "Se produce un retraso total de 22 minutos en dos trenes de media distancia.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista del tren 15052",
+     "implicacion": "Matrícula 8925737. Posee título de conducción categoría B y está habilitado conforme a la Orden FOM/2520/2006. Realizó último reciclaje formativo el 25/02/09 y último reconocimiento médico y psicotécnico el 23/02/05. Prueba de alcoholemia negativa, aunque la ficha no indica día ni hora. El incidente se atribuye a incumplimiento de las órdenes dadas por las señales al personal de conducción."
+    }
+   ],
+   "pagina": 4,
+   "cita": "El maquinista del tren 15052, por existir curva, no divisa el tren que le precede y aumenta la",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "15052",
+     "tipo": "tren de viajeros de media distancia",
+     "operador": "Renfe Operadora",
+     "danos": "no hay"
+    },
+    {
+     "numero": "25552",
+     "tipo": null,
+     "operador": null,
+     "danos": "no hay"
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 27 de julio de 2009, a las 20:16 el tren 15052 de media distancia de la empresa Renfe",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tren tipo 120 A; motor 470114; 3 coches; 205 toneladas de masa remolcada; Nº UIC 967194701140.",
+    "averia": "Los equipos de seguridad del tren 15052, freno y ASFA, funcionaron correctamente según el registrador de seguridad del tren.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de avanzada 6820, permisiva y alta; señal de entrada E2, alta, que protege la entrada de Bifurcación Clot; baliza previa de E2 desde la cual no es visible la señal; balizas ASFA registradas como L7 en previa de avanzada en parada, L2/L3 vía libre en previa de E2 y L8 al paso por E2.",
+    "tipo_via": "vía doble con control de tráfico centralizado (BAD con CTC)",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "La alineación es en curva cerrada y dentro de un túnel. Media semanal de circulaciones del tramo: 1.478, considerada alta; 79 larga distancia, 53 media distancia, 1.345 cercanías y 2 de servicio. Radiotelefonía modalidad C."
+   },
+   "pagina": 5,
+   "cita": "2.2.3. Descripción de la infraestructura",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de avanzada 6820, permisiva y alta; señal de entrada E2, alta, que protege la entrada de Bifurcación Clot; baliza previa de E2 desde la cual no es visible la señal; balizas ASFA registradas como L7 en previa de avanzada en parada, L2/L3 vía libre en previa de E2 y L8 al paso por E2.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad C.",
+   "pagina": 6,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "no hay",
+    "afectacion_servicio": "Retraso total de 22 minutos en dos trenes de media distancia."
+   },
+   "pagina": 6,
+   "cita": "Se produce un retraso total de 22 minutos en dos trenes de media distancia.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "no hay",
+    "afectacion_servicio": "Retraso total de 22 minutos en dos trenes de media distancia."
+   },
+   "pagina": 6,
+   "cita": "Se produce un retraso total de 22 minutos en dos trenes de media distancia.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "no hay",
+    "afectacion_servicio": "Retraso total de 22 minutos en dos trenes de media distancia."
+   },
+   "pagina": 6,
+   "cita": "Se produce un retraso total de 22 minutos en dos trenes de media distancia.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren tipo 120 A; motor 470114; 3 coches; 205 toneladas de masa remolcada; Nº UIC 967194701140.",
+    "averia": "Los equipos de seguridad del tren 15052, freno y ASFA, funcionaron correctamente según el registrador de seguridad del tren.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de avanzada 6820, permisiva y alta; señal de entrada E2, alta, que protege la entrada de Bifurcación Clot; baliza previa de E2 desde la cual no es visible la señal; balizas ASFA registradas como L7 en previa de avanzada en parada, L2/L3 vía libre en previa de E2 y L8 al paso por E2.",
+    "tipo_via": "vía doble con control de tráfico centralizado (BAD con CTC)",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "La alineación es en curva cerrada y dentro de un túnel. Media semanal de circulaciones del tramo: 1.478, considerada alta; 79 larga distancia, 53 media distancia, 1.345 cercanías y 2 de servicio. Radiotelefonía modalidad C."
+   },
+   "pagina": 5,
+   "cita": "2.2.3. Descripción de la infraestructura",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Bifurcación Clot"
+   },
+   "pagina": 3,
+   "cita": "P.K. 102+700- PB Barcelona Marina (Bif. Clot)",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de avanzada 6820, permisiva y alta; señal de entrada E2, alta, que protege la entrada de Bifurcación Clot; baliza previa de E2 desde la cual no es visible la señal; balizas ASFA registradas como L7 en previa de avanzada en parada, L2/L3 vía libre en previa de E2 y L8 al paso por E2.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de avanzada 6820, permisiva y alta; señal de entrada E2, alta, que protege la entrada de Bifurcación Clot; baliza previa de E2 desde la cual no es visible la señal; balizas ASFA registradas como L7 en previa de avanzada en parada, L2/L3 vía libre en previa de E2 y L8 al paso por E2.",
+    "tipo_via": "vía doble con control de tráfico centralizado (BAD con CTC)",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "La alineación es en curva cerrada y dentro de un túnel. Media semanal de circulaciones del tramo: 1.478, considerada alta; 79 larga distancia, 53 media distancia, 1.345 cercanías y 2 de servicio. Radiotelefonía modalidad C."
+   },
+   "pagina": 5,
+   "cita": "2.2.3. Descripción de la infraestructura",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad C.",
+   "pagina": 6,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren tipo 120 A; motor 470114; 3 coches; 205 toneladas de masa remolcada; Nº UIC 967194701140.",
+    "averia": "Los equipos de seguridad del tren 15052, freno y ASFA, funcionaron correctamente según el registrador de seguridad del tren.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Existencia de curva cerrada que impedía divisar el tren precedente.",
+    "Situación dentro de un túnel.",
+    "La señal E2 disponía de baliza previa desde la cual no era visible la señal.",
+    "El puesto de mando estableció itinerario al tren 25552, provocando que el tren 15052 recibiera vía libre en la baliza previa de E2.",
+    "El maquinista aumentó la velocidad al no divisar el tren precedente.",
+    "El freno de emergencia se actuó demasiado tarde y el tren recorrió 24 metros hasta detenerse tras la señal."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 15052 posee el título de conducción categoría B y está habilitado conforme \na la Orden FOM/2520/2006, de 27 de julio. \nRealizó su último reciclaje formativo el 25/02/09 y su último reconocimiento médico y \npsicotécnico el 23/02/05 de acuerdo a la normativa vigente.",
+   "pagina": 7,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "Jornada laboral del maquinista del tren 15052: \n- \nel día 27: 2 horas y 30 minutos. \n- \nel día 26: descanso/vacaciones. \n- \nel día 25: 3 horas y 22 minutos \nAl maquinista de tren 15052 se le realiza la prueba de alcoholemia dando resultado negativo. En la \n“ficha de control de alcoholemia” no se indica ni el día y ni la hora.",
+   "pagina": 8,
+   "cita": "3.5. INTERFAZ HOMBRE-MAQUÍNA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Jornada laboral del maquinista del tren 15052: \n- \nel día 27: 2 horas y 30 minutos. \n- \nel día 26: descanso/vacaciones. \n- \nel día 25: 3 horas y 22 minutos \nAl maquinista de tren 15052 se le realiza la prueba de alcoholemia dando resultado negativo. En la \n“ficha de control de alcoholemia” no se indica ni el día y ni la hora.",
+   "pagina": 8,
+   "cita": "3.5. INTERFAZ HOMBRE-MAQUÍNA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros de media distancia 15052, procedente de Bifurcación Aragó y con destino Estación de França, llegó a la señal de avanzada 6820, permisiva, que se encontraba en parada. El tren realizó parada ante dicha señal, activó el rebase autorizado y reanudó la marcha hacia la señal de entrada E2 de Bifurcación Clot.\n\nAl pisar la baliza previa de la señal de entrada E2, el tren recibió indicación de vía libre porque el puesto de mando estaba estableciendo itinerario al tren 25552, que esperaba delante de la señal E2. Por la existencia de curva, el maquinista no divisó el tren que precedía y aumentó la velocidad. Al llegar a la señal E2 la encontró en parada, actuó el freno de emergencia, pero no logró detenerse a tiempo y rebasó indebidamente la señal, generando riesgo de colisión con el tren 25552.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar en Bifurcación Clot, en Barcelona (P.K. 102+700). \nEl tren 15052, al llegar a la señal de avanzada (6820) –permisiva-, realiza parada ante ella, activa \nel rebase autorizado (por ser dicha señal permisiva) y reanuda su marcha hacia la señal de entrada \nE2. \nEl tren 15052 pisa la baliza previa de la señal de entrada E2, en indicación de vía libre, al proceder \nel puesto de mando a establecer itinerario al tren 25552 que estaba esperando delante de la señal de \nentrada E2. \n\n## Página 9\n\n \n \n \nInvestigación del incidente \nnº 0038/2009 ocurrido el 27.07.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-270709-260110-CIAF \n \n \nPág. 9 de 10\nEl maquinista del tren 15052, por existir curva, no divisa el tren que le precede y aumenta la \nvelocidad. Al llegar a la señal de entrada E2 la encuentra en parada, actuando sobre el freno de \nemergencia, sin lograr detenerse ante dicha señal y rebasándola indebidamente. \nDel registro de seguridad del tren 15052 se comprueba lo siguiente: \n- Al paso por la baliza previa de la señal de avanzada (6820) de la E2 marca L7 (previa de \nseñal en parada) \n- El tren se detiene ante la señal avanzada (6820) de la señal de entrada E2, se acciona el \nmando de rebase autorizado en el equipo ASFA y continúa la marcha, circulando a una velocidad \nde hasta 33 km/h. \n- Al paso por la baliza previa de la señal de entrada E2 circulaba a 17 km/h, registrándose \nL2/L3 (vía libre). \n- A continuación circulaba a una velocidad de hasta 50 km/h, registrándose L8 al paso por la \nbaliza de señal de entrada E2 a la velocidad de 33 km/h., actuando el freno de emergencia y \nrecorriendo 24 metros hasta su detención. \n4.2. DELIBERACIÓN \nEl personal de conducción cumple los requisitos normativos establecidos referentes a título, \nhabilitaciones, reciclaje y reconocimiento médico y psicotécnico. \nLos equipos de seguridad del tren 15052 -freno y ASFA- y las instalaciones técnicas funcionaban \ncorrectamente en el momento del incidente. \nEl tren rebasa indebidamente la señal de entrada E2 que se encontraba ordenando parada; por \nincumplirse el artículo 217 del RGC (que establece “……marcha a la vista hasta la señal siguiente, sea \ncual fuera la indicación que ésta presente…..”). \nExistió riesgo de colisión entre el tren 15052 y el tren 25552 que le precedía. \n4.3. CONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el rebase indebido por el tren 15052 de la señal de entrada E2 que \nse encontraba ordenando parada, por incumplimiento de las órdenes dadas por las señales al personal \nde conducción. \n \n\n## Página 10\n\n \n \n \nInvestigación del incidente \nnº 0038/2009 ocurrido el 27.07.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-270709-260110-CIAF \n \n \nPág. 10 de 10",
+   "pagina": 8,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Rebase indebido por el tren 15052 de la señal de entrada E2, que se encontraba ordenando parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción e incumplimiento del artículo 217 del Reglamento General de Circulación.",
+   "pagina": 3,
+   "cita": "Conclusión: El incidente tuvo su origen en el rebase indebido por el tren 15052 de la señal de",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Existencia de curva cerrada que impedía divisar el tren precedente.",
+    "Situación dentro de un túnel.",
+    "La señal E2 disponía de baliza previa desde la cual no era visible la señal.",
+    "El puesto de mando estableció itinerario al tren 25552, provocando que el tren 15052 recibiera vía libre en la baliza previa de E2.",
+    "El maquinista aumentó la velocidad al no divisar el tren precedente.",
+    "El freno de emergencia se actuó demasiado tarde y el tren recorrió 24 metros hasta detenerse tras la señal."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el rebase indebido por el tren 15052 de la señal de entrada E2 que \nse encontraba ordenando parada, por incumplimiento de las órdenes dadas por las señales al personal \nde conducción. \n \n\n## Página 10\n\n \n \n \nInvestigación del incidente \nnº 0038/2009 ocurrido el 27.07.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-270709-260110-CIAF \n \n \nPág. 10 de 10",
+   "pagina": 9,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl incidente tuvo su origen en el rebase indebido por el tren 15052 de la señal de entrada E2 que \nse encontraba ordenando parada, por incumplimiento de las órdenes dadas por las señales al personal \nde conducción. \n \n\n## Página 10\n\n \n \n \nInvestigación del incidente \nnº 0038/2009 ocurrido el 27.07.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-270709-260110-CIAF \n \n \nPág. 10 de 10",
+   "pagina": 9,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción.",
+    "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe- Operadora",
+    "Renfe - Operadora"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "20:16",
+     "evento": "El tren 15052 rebasa indebidamente la señal de entrada E2 de Bif. Clot y se produce un conato de colisión con el tren 25552."
+    },
+    {
+     "hora": null,
+     "evento": "El tren 15052 realiza parada ante la señal de avanzada 6820, permisiva y en parada, activa el rebase autorizado y reanuda la marcha hacia la señal E2."
+    },
+    {
+     "hora": null,
+     "evento": "El tren 15052 pasa por la baliza previa de la señal E2 con indicación de vía libre, al establecer el puesto de mando itinerario al tren 25552 que esperaba delante de E2."
+    },
+    {
+     "hora": null,
+     "evento": "El maquinista del tren 15052 no divisa el tren precedente por existir curva y aumenta la velocidad."
+    },
+    {
+     "hora": null,
+     "evento": "Al llegar a la señal E2, el tren la encuentra en parada; el maquinista actúa el freno de emergencia, pero recorre 24 metros y rebasa la señal."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0038/2009",
+ "expediente": "0038/09",
+ "anio": 2009,
+ "titulo": "Rebase indebido de señal en Bif. Clot (Barcelona) con riesgo de colisión entre trenes 15052 y 25552",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-270709-260110-CIAF.md"
+}

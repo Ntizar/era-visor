@@ -1,0 +1,995 @@
+{
+ "id": "ID-281106-020307",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-281106-020307.pdf",
+ "pdf": "pdfs/ES/ID-281106-020307.pdf",
+ "md5_pdf": "0a1d63a4a411bd937b638cd4f81ffefe",
+ "paginas_md": 7,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 11,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0052/2006",
+   "pagina": 1,
+   "cita": "nº 0052/2006 ocurrido el 28.11.2006",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 28 de noviembre de 2006, el tren de Cercanías nº 20017 de Renfe arrolló a una persona en plena vía, entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial, en el pk 9,800 de la Línea 300 Madrid Atocha-Valencia Nord. La víctima, sin documentación identificativa, falleció en el acto. El accidente se originó por imprudencia de la persona al cruzar las vías por un lugar no autorizado y prohibido. No se produjeron daños materiales. Se generaron perturbaciones en el tráfico de Cercanías, Larga y Media Distancia durante varias horas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2006-11-28",
+    "hora": "08:00",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "San Cristóbal Industrial",
+     "pk": "9,800",
+     "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Plena vía, entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial, a la salida de una curva. Tramo de cuádruple vía (G1, G2, G3, G4) formado por las dobles vías de las líneas 300 Madrid-Valencia Nord y 500 Madrid-Valencia de Alcántara. Cerramiento roto en ambos márgenes por obras, protegido por vallas portátiles. Existe una pasarela metálica peatonal próxima. Zona de tránsito no permitido de personas hacia un poblado chabolista en el margen izquierdo."
+    }
+   },
+   "pagina": 3,
+   "cita": "las 08:32 horas entre San Cristóbal Industrial y Villaverde Bajo, momento en el que se",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "Suspensión total de 4 vías entre 08:25 y 08:32; corte de vía G4 de 10:00 a 12:21. Retrasos acumulados: 118 minutos en 14 trenes de Cercanías, 65 minutos en 6 trenes de Larga Distancia y 14 minutos en 2 trenes de Media Distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Imprudencia de la víctima que transitaba por las vías intentando cruzar por lugar no autorizado y prohibido para personas y carruajes",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Cerramiento de la vía roto en ambos márgenes por ejecución de obras, protegido solo por vallas portátiles",
+    "Existencia de una ruta de acceso irregular entre el apeadero de San Cristóbal de los Ángeles y el poblado chabolista",
+    "Apeadero de San Cristóbal de los Ángeles sin vigilancia de seguridad, utilizado como punto de acceso al poblado",
+    "No utilización de la pasarela metálica peatonal existente próxima al lugar del accidente",
+    "Tránsito repetido y no permitido de personas hacia el poblado chabolista en el margen izquierdo"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Reiteración de accidentes graves por arrollamiento en el mismo tramo durante 2006 (cuatro accidentes: 18.04.06, 09.06.06, 27.11.06 y 28.11.06)",
+    "Ausencia de alternativas de transporte o acceso adecuado para los habitantes del poblado chabolista",
+    "Insuficiencia de medidas de protección perimetral ante la presión del entorno social"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Intervención permanente de reparación del cerramiento e incremento de medidas barrera como la reposición de cerramiento forzado. En reposición, ya aprobada, se utilizará otro tipo de cerramiento de mayor consistencia.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Reforzar la acción de vigilancia actuando sobre las dos estaciones de acceso: San Cristóbal Industrial (efectiva con anterioridad) y San Cristóbal de los Ángeles (no efectiva y utilizada en la actualidad).",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Ejecución de un paso inferior como alternativa para facilitar el tránsito de las personas del poblado chabolista.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Creación de un servicio lanzadera de transporte público y gratuito como alternativa al cruce de vías.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Seguimiento exhaustivo del estado de la valla con el fin de reparar los trozos deteriorados en el plazo más breve posible, dada la reiteración de accidentes.",
+     "destinatario": "Renfe"
+    },
+    {
+     "texto": "Intensificar la vigilancia en el apeadero de San Cristóbal de los Ángeles.",
+     "destinatario": "Adif/Renfe"
+    },
+    {
+     "texto": "Reparar el cerramiento actual y realizar una campaña de exhaustivo seguimiento del estado de conservación de dicho vallado.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Intentar coordinar junto con el Ayuntamiento de Madrid algún tipo de transporte o actuación para estas personas que impida que deambulen por las vías.",
+     "destinatario": "Dirección General de Ferrocarriles / Ayuntamiento de Madrid"
+    }
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó a través de mensaje de texto de telefonía móvil el pasado 28 de noviembre,",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Intervención permanente de reparación del cerramiento e incremento de medidas barrera como la reposición de cerramiento forzado. En reposición, ya aprobada, se utilizará otro tipo de cerramiento de mayor consistencia.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Reforzar la acción de vigilancia actuando sobre las dos estaciones de acceso: San Cristóbal Industrial (efectiva con anterioridad) y San Cristóbal de los Ángeles (no efectiva y utilizada en la actualidad).",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Ejecución de un paso inferior como alternativa para facilitar el tránsito de las personas del poblado chabolista.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Creación de un servicio lanzadera de transporte público y gratuito como alternativa al cruce de vías.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Seguimiento exhaustivo del estado de la valla con el fin de reparar los trozos deteriorados en el plazo más breve posible, dada la reiteración de accidentes.",
+     "destinatario": "Renfe"
+    },
+    {
+     "texto": "Intensificar la vigilancia en el apeadero de San Cristóbal de los Ángeles.",
+     "destinatario": "Adif/Renfe"
+    },
+    {
+     "texto": "Reparar el cerramiento actual y realizar una campaña de exhaustivo seguimiento del estado de conservación de dicho vallado.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Intentar coordinar junto con el Ayuntamiento de Madrid algún tipo de transporte o actuación para estas personas que impida que deambulen por las vías.",
+     "destinatario": "Dirección General de Ferrocarriles / Ayuntamiento de Madrid"
+    }
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó a través de mensaje de texto de telefonía móvil el pasado 28 de noviembre,",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó a través de mensaje de texto de telefonía móvil el pasado 28 de noviembre,",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2006-11-28",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "08:00",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:hora"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "San Cristóbal Industrial",
+    "pk": "9,800",
+    "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Plena vía, entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial, a la salida de una curva. Tramo de cuádruple vía (G1, G2, G3, G4) formado por las dobles vías de las líneas 300 Madrid-Valencia Nord y 500 Madrid-Valencia de Alcántara. Cerramiento roto en ambos márgenes por obras, protegido por vallas portátiles. Existe una pasarela metálica peatonal próxima. Zona de tránsito no permitido de personas hacia un poblado chabolista en el margen izquierdo."
+   },
+   "pagina": 3,
+   "cita": "las 08:32 horas entre San Cristóbal Industrial y Villaverde Bajo, momento en el que se",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 300 Madrid Atocha-Valencia Nord",
+   "pagina": 2,
+   "cita": "Cristóbal Industrial, de la Línea 300 Madrid Atocha-Valencia Nord, en la provincia de Madrid,",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Motores 449-248 y 440-198, composición de 6 coches",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de Cercanías nº 20017 de Renfe, compuesto por 6 coches con motores 449-248 y 440-198, procedente de Aranjuez con destino Madrid-Atocha, salió de la estación de San Cristóbal Industrial tras realizar su parada prescrita. A la salida de una curva, en plena vía, en el pk 9,800 de la Línea 300 Madrid-Valencia Nord, el maquinista observó a dos personas que se aproximaban a la vía con claras intenciones de cruzar. Aplicó inmediatamente el freno de urgencia y accionó el silbato, pero no pudo evitar el arrollamiento de una de ellas, cuyo cadáver quedó interceptando la vía G3. La víctima carecía de documentación.\n\nLa zona es de tránsito frecuente de personas no autorizadas que se dirigen a un poblado chabolista asentado en el margen izquierdo de las vías, utilizando un camino de servicio paralelo. Aunque existe una pasarela metálica peatonal próxima, estas personas no la utilizan. El cerramiento de la vía se encontraba roto en ambos márgenes para la ejecución de obras, protegido por vallas portátiles. Desde que se estableció vigilancia en San Cristóbal Industrial, las personas utilizan el apeadero sin vigilancia de San Cristóbal de los Ángeles para apearse y acceder al poblado.\n\nEl tren circulaba a 74 km/h (velocidad máxima permitida 110 km/h limitada por curva) y recorrió 270 metros desde la aplicación del freno de emergencia hasta la detención. La alcoholemia del maquinista fue negativa (0,00 mg/1000 ml). No se produjeron daños materiales. Se suspendió la circulación por las cuatro vías entre 08:25 y 08:32, y la vía G4 permaneció cortada de 10:00 a 12:21 para el levantamiento del cadáver.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "San Cristóbal Industrial",
+    "pk": "9,800",
+    "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Plena vía, entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial, a la salida de una curva. Tramo de cuádruple vía (G1, G2, G3, G4) formado por las dobles vías de las líneas 300 Madrid-Valencia Nord y 500 Madrid-Valencia de Alcántara. Cerramiento roto en ambos márgenes por obras, protegido por vallas portátiles. Existe una pasarela metálica peatonal próxima. Zona de tránsito no permitido de personas hacia un poblado chabolista en el margen izquierdo."
+   },
+   "pagina": 3,
+   "cita": "las 08:32 horas entre San Cristóbal Industrial y Villaverde Bajo, momento en el que se",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "Suspensión total de 4 vías entre 08:25 y 08:32; corte de vía G4 de 10:00 a 12:21. Retrasos acumulados: 118 minutos en 14 trenes de Cercanías, 65 minutos en 6 trenes de Larga Distancia y 14 minutos en 2 trenes de Media Distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 20017",
+     "implicacion": "Aplicó freno de emergencia y silbato al observar a dos personas cruzando; alcoholemia negativa (0,00 mg/1000 ml); no pudo evitar el arrollamiento"
+    },
+    {
+     "rol": "Jefe delegado del accidente",
+     "implicacion": "Participó en la gestión del suceso"
+    },
+    {
+     "rol": "Portavoz de información",
+     "implicacion": "Gestión de la comunicación del accidente"
+    }
+   ],
+   "pagina": 3,
+   "cita": "El maquinista del tren 20017.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "20017",
+     "tipo": "Cercanías",
+     "operador": "Renfe",
+     "danos": "No se produjeron daños materiales"
+    }
+   ],
+   "pagina": 2,
+   "cita": "El tren de Cercanías nº 20017 de la empresa ferroviaria Renfe, compuesto por 6 coches,",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Motores 449-248 y 440-198, composición de 6 coches",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático Banalizado con CTC",
+    "tipo_via": "Cuádruple vía (G1, G2, G3, G4): dobles vías de las líneas 300 Madrid-Valencia Nord y 500 Madrid-Valencia de Alcántara",
+    "velocidad_maxima": "110 km/h (limitada por curva)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Cerramiento roto en ambos márgenes para ejecución de obras, protegido por vallas portátiles. Ruta de acceso irregular creada entre el cerramiento y las vías. Paso elevado peatonal existente próximo pero no utilizado.",
+    "otro": "Apeadero de San Cristóbal de los Ángeles sin vigilancia; estación de San Cristóbal Industrial con vigilancia de seguridad; estación de San Cristóbal vallada en su totalidad incluyendo perímetro del andén principal."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo Automático Banalizado con CTC",
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "Suspensión total de 4 vías entre 08:25 y 08:32; corte de vía G4 de 10:00 a 12:21. Retrasos acumulados: 118 minutos en 14 trenes de Cercanías, 65 minutos en 6 trenes de Larga Distancia y 14 minutos en 2 trenes de Media Distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "Suspensión total de 4 vías entre 08:25 y 08:32; corte de vía G4 de 10:00 a 12:21. Retrasos acumulados: 118 minutos en 14 trenes de Cercanías, 65 minutos en 6 trenes de Larga Distancia y 14 minutos en 2 trenes de Media Distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "Suspensión total de 4 vías entre 08:25 y 08:32; corte de vía G4 de 10:00 a 12:21. Retrasos acumulados: 118 minutos en 14 trenes de Cercanías, 65 minutos en 6 trenes de Larga Distancia y 14 minutos en 2 trenes de Media Distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Motores 449-248 y 440-198, composición de 6 coches",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático Banalizado con CTC",
+    "tipo_via": "Cuádruple vía (G1, G2, G3, G4): dobles vías de las líneas 300 Madrid-Valencia Nord y 500 Madrid-Valencia de Alcántara",
+    "velocidad_maxima": "110 km/h (limitada por curva)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Cerramiento roto en ambos márgenes para ejecución de obras, protegido por vallas portátiles. Ruta de acceso irregular creada entre el cerramiento y las vías. Paso elevado peatonal existente próximo pero no utilizado.",
+    "otro": "Apeadero de San Cristóbal de los Ángeles sin vigilancia; estación de San Cristóbal Industrial con vigilancia de seguridad; estación de San Cristóbal vallada en su totalidad incluyendo perímetro del andén principal."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": "San Cristóbal Industrial"
+   },
+   "pagina": 2,
+   "cita": "Cristóbal Industrial, de la Línea 300 Madrid Atocha-Valencia Nord, en la provincia de Madrid,",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo Automático Banalizado con CTC",
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático Banalizado con CTC",
+    "tipo_via": "Cuádruple vía (G1, G2, G3, G4): dobles vías de las líneas 300 Madrid-Valencia Nord y 500 Madrid-Valencia de Alcántara",
+    "velocidad_maxima": "110 km/h (limitada por curva)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Cerramiento roto en ambos márgenes para ejecución de obras, protegido por vallas portátiles. Ruta de acceso irregular creada entre el cerramiento y las vías. Paso elevado peatonal existente próximo pero no utilizado.",
+    "otro": "Apeadero de San Cristóbal de los Ángeles sin vigilancia; estación de San Cristóbal Industrial con vigilancia de seguridad; estación de San Cristóbal vallada en su totalidad incluyendo perímetro del andén principal."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Motores 449-248 y 440-198, composición de 6 coches",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Roturas en cerramiento de vía",
+    "Tránsito irregular de personas",
+    "Ausencia de vigilancia en apeadero"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(Adif), comunicó a través de mensaje de texto de telefonía móvil el pasado 28 de noviembre, \nque se había producido el arrollamiento de una persona resultando fallecida la misma, en el \npunto kilométrico 9,850 situado entre el apeadero de San Cristóbal de Los Angeles y San \nCristóbal Industrial, de la Línea 300 Madrid Atocha-Valencia Nord, en la provincia de Madrid, \nperteneciente a la Red Ferroviaria de Interés General administrada por Adif. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles de acuerdo \ncon el citado artículo.  \nDe conformidad con el artículo 112 del mencionado Reglamento, el 1 de noviembre de \n2006 la Dirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), comunicó a través de mensaje de texto de telefonía móvil el pasado 28 de noviembre, que se había pro",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de Cercanías nº 20017 de Renfe, compuesto por 6 coches con motores 449-248 y 440-198, procedente de Aranjuez con destino Madrid-Atocha, salió de la estación de San Cristóbal Industrial tras realizar su parada prescrita. A la salida de una curva, en plena vía, en el pk 9,800 de la Línea 300 Madrid-Valencia Nord, el maquinista observó a dos personas que se aproximaban a la vía con claras intenciones de cruzar. Aplicó inmediatamente el freno de urgencia y accionó el silbato, pero no pudo evitar el arrollamiento de una de ellas, cuyo cadáver quedó interceptando la vía G3. La víctima carecía de documentación.\n\nLa zona es de tránsito frecuente de personas no autorizadas que se dirigen a un poblado chabolista asentado en el margen izquierdo de las vías, utilizando un camino de servicio paralelo. Aunque existe una pasarela metálica peatonal próxima, estas personas no la utilizan. El cerramiento de la vía se encontraba roto en ambos márgenes para la ejecución de obras, protegido por vallas portátiles. Desde que se estableció vigilancia en San Cristóbal Industrial, las personas utilizan el apeadero sin vigilancia de San Cristóbal de los Ángeles para apearse y acceder al poblado.\n\nEl tren circulaba a 74 km/h (velocidad máxima permitida 110 km/h limitada por curva) y recorrió 270 metros desde la aplicación del freno de emergencia hasta la detención. La alcoholemia del maquinista fue negativa (0,00 mg/1000 ml). No se produjeron daños materiales. Se suspendió la circulación por las cuatro vías entre 08:25 y 08:32, y la vía G4 permaneció cortada de 10:00 a 12:21 para el levantamiento del cadáver.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR LA EMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por Adif concluye “El accidente se origina por imprudencia de las víctimas. En \nel lugar donde se produce el accidente (plena vía), está p ohibido el paso para personas y \ncarruajes. (Art. 295-2C de ka LOTT, BOI 8/10/1190)”. \nr\n \nEl elaborado por RENFE concluye “El accidente se produjo por imprudencia de la víctima al \ncruzar las vías por una zona no autorizada para ello”.  \nPor tanto, ambas conclusiones son coincidentes en cuanto a la causa del accidente. \n \n \n \nID-281106-020307 \n \n \nPág. 5 de 7\n\n## Página 6\n\n \nInvestigación del accidente \nnº 0052/2006 ocurrido el 28.11.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 5,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Imprudencia de la víctima que transitaba por las vías intentando cruzar por lugar no autorizado y prohibido para personas y carruajes",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Cerramiento de la vía roto en ambos márgenes por ejecución de obras, protegido solo por vallas portátiles",
+    "Existencia de una ruta de acceso irregular entre el apeadero de San Cristóbal de los Ángeles y el poblado chabolista",
+    "Apeadero de San Cristóbal de los Ángeles sin vigilancia de seguridad, utilizado como punto de acceso al poblado",
+    "No utilización de la pasarela metálica peatonal existente próxima al lugar del accidente",
+    "Tránsito repetido y no permitido de personas hacia el poblado chabolista en el margen izquierdo"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "El accidente tuvo su origen en la imprudencia de la víctima que transitaba por las vías, \nintentando cruzar las mismas por lugar no autorizado y prohibido para personas y carruajes.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES El accidente tuvo su origen en la imprudencia de la víctima que transitaba por las vías, intentando cruzar las mismas por lugar no autorizado y prohibido para personas y carruajes. 7. RECOMENDACIONES",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "El accidente tuvo su origen en la imprudencia de la víctima que transitaba por las vías, \nintentando cruzar las mismas por lugar no autorizado y prohibido para personas y carruajes.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES El accidente tuvo su origen en la imprudencia de la víctima que transitaba por las vías, intentando cruzar las mismas por lugar no autorizado y prohibido para personas y carruajes. 7. RECOMENDACIONES",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Intervención permanente de reparación del cerramiento e incremento de medidas barrera como la reposición de cerramiento forzado. En reposición, ya aprobada, se utilizará otro tipo de cerramiento de mayor consistencia.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Reforzar la acción de vigilancia actuando sobre las dos estaciones de acceso: San Cristóbal Industrial (efectiva con anterioridad) y San Cristóbal de los Ángeles (no efectiva y utilizada en la actualidad).",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Ejecución de un paso inferior como alternativa para facilitar el tránsito de las personas del poblado chabolista.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Creación de un servicio lanzadera de transporte público y gratuito como alternativa al cruce de vías.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Seguimiento exhaustivo del estado de la valla con el fin de reparar los trozos deteriorados en el plazo más breve posible, dada la reiteración de accidentes.",
+     "destinatario": "Renfe"
+    },
+    {
+     "texto": "Intensificar la vigilancia en el apeadero de San Cristóbal de los Ángeles.",
+     "destinatario": "Adif/Renfe"
+    },
+    {
+     "texto": "Reparar el cerramiento actual y realizar una campaña de exhaustivo seguimiento del estado de conservación de dicho vallado.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Intentar coordinar junto con el Ayuntamiento de Madrid algún tipo de transporte o actuación para estas personas que impida que deambulen por las vías.",
+     "destinatario": "Dirección General de Ferrocarriles / Ayuntamiento de Madrid"
+    }
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó a través de mensaje de texto de telefonía móvil el pasado 28 de noviembre,",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "08:00",
+     "evento": "Salida del tren 20017 de Aranjuez. Arrollamiento de una persona tras la salida de San Cristóbal Industrial en pk 9,800. Detención del tren."
+    },
+    {
+     "hora": "08:20",
+     "evento": "El cadáver queda custodiado por los agentes de Seguridad. El tren 20017 permanece detenido en el lugar."
+    },
+    {
+     "hora": "08:25",
+     "evento": "A petición del SAMUR se suspende la circulación por las cuatro vías entre San Cristóbal Industrial y Villaverde Bajo."
+    },
+    {
+     "hora": "08:32",
+     "evento": "Se reanuda la circulación por vías G1, G2 y G4. Se corta la vía G4."
+    },
+    {
+     "hora": "10:00",
+     "evento": "La Autoridad Judicial autoriza el levantamiento del cadáver. Vía G4 permanece cortada."
+    },
+    {
+     "hora": "12:12",
+     "evento": "Retirada del cadáver."
+    },
+    {
+     "hora": "12:21",
+     "evento": "Se reanuda la circulación en condiciones normales en todas las vías."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0052/2006",
+ "expediente": "0052/2006",
+ "anio": 2006,
+ "titulo": "Arrollamiento mortal de una persona por tren de Cercanías entre San Cristóbal de los Ángeles y San Cristóbal Industrial",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-281106-020307.md"
+}

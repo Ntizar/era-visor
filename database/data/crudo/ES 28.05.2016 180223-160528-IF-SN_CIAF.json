@@ -1,0 +1,968 @@
+{
+ "id": "ES 28.05.2016 180223-160528-IF-SN_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/comodin/recursos/180223160528ifsnciaf.pdf",
+ "pdf": "pdfs/ES/ES 28.05.2016 180223-160528-IF-SN_CIAF.pdf",
+ "md5_pdf": "d373e9d7ec090446a868c3741b0a944c",
+ "paginas_md": 43,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 46,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 6,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "RENFE VIAJEROS",
+     "Número": "27/2016 - 1",
+     "Recomendación": "En los cursos de formación o reciclaje impartidos al personal de conducción, especialmente en los relativos al conocimiento de la infraestructura, debe incidirse en la importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, en especial las señales en indicación de anuncio de parada que ordenan al maquinista ponerse en condiciones de parar ante la señal siguiente."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 43,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "RENFE VIAJEROS",
+     "Número": "27/2016 - 1",
+     "Recomendación": "En los cursos de formación o reciclaje impartidos al personal de conducción, especialmente en los relativos al conocimiento de la infraestructura, debe incidirse en la importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, en especial las señales en indicación de anuncio de parada que ordenan al maquinista ponerse en condiciones de parar ante la señal siguiente."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0027/2016",
+   "pagina": 1,
+   "cita": "nº 0027/2016 ocurrido el 28.05.2016",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El incidente 0027/2016 ocurrió el 2016-05-28 en la estación de Vilanova i la Geltrú cuando el tren regional exprés 17501 rebasó la señal de salida S1/2 en indicación de parada. La señal estaba en rojo porque el tren de cercanías 25513 ocupaba el cantón protegido por ella. El sistema ASFA frenó al tren tras recorrer unos 160 m; no hubo víctimas ni daños materiales. La causa fue un fallo humano del maquinista, probablemente por falta de atención o exceso de confianza, agravado por el retraso y por ser su primer servicio. La CIAF recomienda reforzar la formación en atención a señales de anuncio de parada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2016-05-28",
+    "hora": "09:50:39",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Vilanova i la Geltrú",
+     "pk": "635+888",
+     "linea": "200 Madrid Chamartín a Barcelona Estación de Francia",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Estación de Vilanova i la Geltrú, señal de salida S1/2 en pk 635+888, vía 2 (continuación de vía general I), sentido impar hacia Cunit/Madrid; tramo Cunit-Vilanova i la Geltrú-Sitges."
+    }
+   },
+   "pagina": 5,
+   "cita": "El suceso tiene lugar el día 28 de mayo de 2016 a las 09:50:39 horas, en la estación de Vilanova i la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en infraestructura, instalaciones ni material rodante.",
+    "afectacion_servicio": "Conato de colisión por alcance sin talonamiento de agujas; retrasos acumulados de 53 minutos en 6 trenes, de los que 38 minutos son imputables al tren 17501 por el relevo del maquinista; el tren fue apartado en Cunit y reanudó la marcha a las 10:33 horas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del personal de conducción del tren 17501: no se puso en disposición de parar tras la señal E1 en anuncio de parada y rebasó la señal S1/2 en indicación de parada, incumpliendo los artículos 213 y 217 del Reglamento General de Circulación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Circular con 14 minutos de retraso sobre el horario previsto.",
+    "Ser el primer servicio del maquinista con la habilitación correspondiente.",
+    "No tener parada comercial prescrita en la estación de Vilanova i la Geltrú.",
+    "Aumentar la tracción tras la señal E1 en anuncio de parada en lugar de disponerse a parar ante la siguiente señal."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "En los cursos de formación o reciclaje impartidos al personal de conducción, especialmente en los relativos al conocimiento de la infraestructura, debe incidirse en la importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, en especial las señales en indicación de anuncio de parada que ordenan al maquinista ponerse en condiciones de parar ante la señal siguiente.",
+    "En los cursos de formación o reciclaje impartidos al personal de conducción, especialmente en los relativos al conocimiento de la infraestructura, debe incidirse en la importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, en especial las señales en indicación de anuncio de parada que ordenan al maquinista ponerse en condiciones de parar ante la señal siguiente."
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente",
+   "pagina": 1,
+   "cita": "Investigación del incidente",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "RENFE VIAJEROS"
+   ],
+   "pagina": 3,
+   "cita": "3.2.1. Sistema de Gestión de la Seguridad del Administrador de Infraestructuras Ferroviarias, ADIF",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2016-05-28",
+   "pagina": 5,
+   "cita": "El suceso tiene lugar el día 28 de mayo de 2016 a las 09:50:39 horas, en la estación de Vilanova i la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "09:50:39",
+   "pagina": 5,
+   "cita": "El suceso tiene lugar el día 28 de mayo de 2016 a las 09:50:39 horas, en la estación de Vilanova i la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Vilanova i la Geltrú",
+    "pk": "635+888",
+    "linea": "200 Madrid Chamartín a Barcelona Estación de Francia",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Estación de Vilanova i la Geltrú, señal de salida S1/2 en pk 635+888, vía 2 (continuación de vía general I), sentido impar hacia Cunit/Madrid; tramo Cunit-Vilanova i la Geltrú-Sitges."
+   },
+   "pagina": 12,
+   "cita": "con andén y vía 3, de 474 m de longitud también con andén. Vías de estacionamiento: vía 1 de 522",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "La estación de Vilanova i la Geltrú se encuentra situada en el Pk 636+000 de la Línea 200, de Madrid, \nChamartín a Barcelona, Estación de Francia. \n-   La estación cuenta con enclavamiento electrónico (Consigna serie A nº 1971 y anejo 1). Se encuentra \nen un tramo de vía doble electrificada en la que la circulación se realiza al amparo de Bloqueo \nAutomático Banalizado (BAB) con Control de Tráfico Centralizado (CTC) que se gestiona desde el \nPuesto de Mando de Barcelona (Consigna serie A nº 2952). \nLa circulación por vía principal (vía I), sentido impar Sitges (Barcelona) – Cunit (Madrid), está protegida \npor los siguientes elementos: Señal de avanzada 6389.1 con baliza de señal, pk 638+890 y baliza previa \na 300 m de la misma. Señal de entrada E1, pk 637+141, con baliza de señal y baliza previa a 300 m. de \ndistancia de misma. Señal de retroceso R1, pk 636+754. Señal de salida S1/2, pk 635+888, con baliza \nde señal. \nLa señal rebasada S1/2 está definida en el Reglamento General de Circulación (RGC) como señal fija \nfundamental luminosa, de salida de una estación. Es alta y tiene tres focos (aspectos rojo, amarillo, verde) \ny foco de aspecto blanco. Está situada en el lado exterior de la vía con buena visibilidad. \n \n\n## Página 12\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0027/2016 ocurrido el 28.05.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n180223-160528-IF-SN_CIAF.DOCX \nPág. 12 de 43 \nEl día del suceso estaba en condiciones normales de conservación y limpieza sin que se tenga constancia \nde anomalía que pudiera alterar su funcionamiento.  \n-   El trazado en sentido par, (Madrid - Barcelona), está compuesto por los siguientes elementos: \nAlineación recta en 229 m, entre el pk 635+448 y el pk 635+677. Alineación curva a izda. de radio \nR=1.960 m y desarrollo 78 m, entre el pk 635+677 y pk 635+755. Alineación recta en 91 m, entre el \npk 635+755 y el pk 635+846. Alineación curva a izda. de radio R=800 m. y desarrollo 606 m, entre \nel pk 635+846 y el pk 636+452. Alineación recta en 100 m, entre el pk 636+452 y el pk 636+708. \nPor último, alineación curva a dcha. de radio R=1044 m y desarrollo 672 m, entre el pk 636+708 y el \npk 637+380. \n-  También en sentido par, (Madrid - Barcelona), la estación de Vilanova i la Geltrú, presenta el perfil \nlongitudinal siguiente: Horizontal, entre el pk 633+540 y el pk 636+550. Rampa de 2,94 0/00, entre el \npk 636+550 y el pk 638+210. Horizontal, entre el pk 638+210 y el pk 638+710. Por último rampa de \n3,50 0/00, entre el pk 638+710 y el pk 640+150. \n-  Cuenta con un total de ocho vías, que se distribuyen en vías generales: vía 2, de 464 m de longitud, \ncon andén y vía 3, de 474 m de longitud también con andén. Vías de estacionamiento: vía 1 de 522 \nm de longitud con andén, acabada en topera y vía 4, de 452 m de longitud, con andén. Vías para \notros usos: vías 10 y 11 de 224 m de longitud y vías 12 y 13 de 254 m de longitud. Vías de acceso a \nzonas de servicios y particulares: Túnel de lavado de trenes, subestación eléctrica, talleres INTEGRIA \ny Museo del Ferrocarril. \nSegún consta en el cuadro de velocidades máximas, la velocidad máxima permitida en el tramo era de \n140 km/hora. No existía limitación temporal de velocidad en el lugar y fecha del suceso. \n\n## Página 13\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0027/2016 ocurrido el 28.05.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n180223-160528-IF-SN_CIAF.DOCX \nPág. 13 de 43 \n \n\n## Página 14\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0027/2016 ocurrido el 28.05.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n180223-160528-IF-SN_CIAF.DOCX \nPág. 14 de 43",
+   "pagina": 11,
+   "cita": "2.2.3. Descripción de la infraestructura",
+   "origen": "determinista",
+   "regla": "sec:^descripci[óo]n de la infraestructura$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tren 17501: autopropulsado 470122, UIC 967194701223, tipo 140, 3 vehículos, 12 ejes, 79 m y 159 t. Tren 25513: UU/TT 927164652574 y 927164652178, 10 vehículos, 24 ejes, 197 m y 405 t.",
+    "averia": "El tren 17501 sufrió una avería en Barcelona Estación de Francia que provocó 17 minutos de retraso en su salida, 19 minutos en Barcelona Sants y 14 minutos en Vilanova i la Geltrú; no se constataron anomalías en equipos o dispositivos de seguridad.",
+    "mantenimiento": "El registrador de seguridad NEMOTEL AS V 1.31 instalado en la unidad motriz 470122 presentaba un desfase de 57 segundos respecto al horario del CTC de Barcelona; no se constatan anomalías de mantenimiento en el material."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El 2016-05-28, el tren regional exprés 17501 de RENFE VIAJEROS, procedente de Barcelona Estación de Francia con destino Madrid-Chamartín, entró en la estación de Vilanova i la Geltrú con 14 minutos de retraso y sin parada comercial. Precedía el tren de cercanías 25513, que había realizado parada comercial en vía 1 y ocupaba el cantón protegido por la señal de salida S1/2, por lo que dicha señal permanecía en indicación de parada desde las 09:46:38 horas.\nEl tren 17501 pasó la señal de entrada E1 en anuncio de parada y, según el registrador, aceleró hasta alcanzar 72 km/h al llegar a S1/2. A las 09:50:39 horas rebasó la señal S1/2 en aspecto rojo; el sistema ASFA provocó el frenado de emergencia y el tren se detuvo a unos 160 m, en el pk 635+719. El maquinista comunicó al jefe del CTC que la señal le había cambiado intempestivamente, aunque el registro confirma que S1/2 no varió.\nEl incidente supuso un conato de colisión por alcance sin talonamiento de agujas. No hubo víctimas ni daños materiales. Tras comprobar la ocupación del cantón, el tren fue apartado en Cunit, se relevó al maquinista y reanudó la marcha a las 10:33 horas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Vilanova i la Geltrú",
+    "pk": "635+888",
+    "linea": "200 Madrid Chamartín a Barcelona Estación de Francia",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Estación de Vilanova i la Geltrú, señal de salida S1/2 en pk 635+888, vía 2 (continuación de vía general I), sentido impar hacia Cunit/Madrid; tramo Cunit-Vilanova i la Geltrú-Sitges."
+   },
+   "pagina": 12,
+   "cita": "con andén y vía 3, de 474 m de longitud también con andén. Vías de estacionamiento: vía 1 de 522",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en infraestructura, instalaciones ni material rodante.",
+    "afectacion_servicio": "Conato de colisión por alcance sin talonamiento de agujas; retrasos acumulados de 53 minutos en 6 trenes, de los que 38 minutos son imputables al tren 17501 por el relevo del maquinista; el tren fue apartado en Cunit y reanudó la marcha a las 10:33 horas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Conforme a lo dispuesto en la Circular Operativa COP nº 1 de la DSC, sobre actuación de RENFE VIAJEROS \nen la investigación de accidentes e incidentes y en el Procedimiento Específico RV - SGS - PE - SPC - 16: \nProcedimiento para regular la suspensión y, en su caso, la revocación de una habilitación y/o certificado, \nexpuestos en este informe, se acuerdan las siguientes actuaciones relativas al maquinista del tren 17501: \n-  Se procede a su relevo. \n-  Se le practica reconocimiento psicofísico adicional en el que obtiene la calificación de APTO. \n-  Se constituye el equipo de apoyo, que con la información disponible eleva informe a la Gerencia \nTerritorial Noroeste de Seguridad en la Circulación de Renfe Viajeros, que califica el suceso como \n\n## Página 42\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0027/2016 ocurrido el 28.05.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n180223-160528-IF-SN_CIAF.DOCX \nPág. 42 de 43 \ninfracción reglamentaria grave y procede a la suspensión de certificados y habilitaciones de conducción \nde dicho maquinista. \n-  El Equipo de Apoyo, según establece la Circular Operativa nº 1, acuerda las siguientes actividades de \nreciclaje:  \n-  Formación: \n-  Acción formativa sobre el factor humano Taller de Seguridad de 8 horas de duración. \n-  Acción formativa de refuerzo de normativa de 8 horas de duración. \n-  Seguimiento: \n-  Una tutela de seguimiento de la actividad laboral durante el desarrollo de la jornada laboral \ncorrespondiente al primer día de trabajo. \n-   Tres tutelas de seguimiento de la actividad laboral durante el desarrollo de la jornada laboral en \nlos 23 días siguientes a la incorporación al trabajo \n-   Un análisis de registro de tren en los 7 días siguientes al de incorporación al trabajo. \n-   Dos análisis de registro de tren en los 23 días siguientes al de incorporación al trabajo. \n \n \n \n \n \n \n \n \n \n\n## Página 43\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0027/2016 ocurrido el 28.05.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n180223-160528-IF-SN_CIAF.DOCX \nPág. 43 de 43",
+   "pagina": 41,
+   "cita": "4.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 17501 (matrícula 6835144)",
+     "implicacion": "Conducía el tren que rebasó la señal S1/2 en parada; era su primer servicio con la habilitación correspondiente; fue relevado, suspendido de certificados y habilitaciones tras calificarse la infracción como grave."
+    },
+    {
+     "rol": "Jefe del CTC de Barcelona (matrícula 974911)",
+     "implicacion": "Recibió la comunicación del maquinista, comprobó que el cierre de S1/2 no fue ordenado por él, autorizó continuar hasta Cunit para comprobaciones y puso el suceso en conocimiento de RENFE VIAJEROS."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "17501",
+     "tipo": "regional exprés",
+     "operador": "RENFE VIAJEROS",
+     "danos": "Sin daños materiales"
+    },
+    {
+     "numero": "25513",
+     "tipo": "cercanías",
+     "operador": "RENFE VIAJEROS",
+     "danos": "Sin daños materiales"
+    }
+   ],
+   "pagina": 5,
+   "cita": "regional exprés 17501, propiedad de la empresa RENFE VIAJEROS, procedente de Barcelona con destino",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tren 17501: autopropulsado 470122, UIC 967194701223, tipo 140, 3 vehículos, 12 ejes, 79 m y 159 t. Tren 25513: UU/TT 927164652574 y 927164652178, 10 vehículos, 24 ejes, 197 m y 405 t.",
+    "averia": "El tren 17501 sufrió una avería en Barcelona Estación de Francia que provocó 17 minutos de retraso en su salida, 19 minutos en Barcelona Sants y 14 minutos en Vilanova i la Geltrú; no se constataron anomalías en equipos o dispositivos de seguridad.",
+    "mantenimiento": "El registrador de seguridad NEMOTEL AS V 1.31 instalado en la unidad motriz 470122 presentaba un desfase de 57 segundos respecto al horario del CTC de Barcelona; no se constatan anomalías de mantenimiento en el material."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1/2, luminosa fija fundamental, alta, con focos rojo, amarillo, verde y blanco; situada en el lado exterior de la vía con buena visibilidad; permaneció en indicación de parada desde las 09:46:38 horas. La estación disponía de señal de avanzada 6389-1, señal de entrada E1, señal de retroceso R1 y balizas ASFA.",
+    "tipo_via": "Vía doble electrificada, con circulación al amparo de Bloqueo Automático Banalizado (BAB) y Control de Tráfico Centralizado (CTC); en la estación, vía general I y vía 2.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Sin obras en el lugar ni en sus inmediaciones; condiciones normales de conservación y limpieza; sin limitación temporal de velocidad.",
+    "otro": "Enclavamiento electrónico; Puesto de Mando de Barcelona; radiotelefonía tren-tierra canal 64; estación con ocho vías; tráfico medio semanal estimado de 1.621 circulaciones en el tramo Vilanova i la Geltrú-Sitges."
+   },
+   "pagina": 12,
+   "cita": "140 km/hora. No existía limitación temporal de velocidad en el lugar y fecha del suceso.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de salida S1/2, luminosa fija fundamental, alta, con focos rojo, amarillo, verde y blanco; situada en el lado exterior de la vía con buena visibilidad; permaneció en indicación de parada desde las 09:46:38 horas. La estación disponía de señal de avanzada 6389-1, señal de entrada E1, señal de retroceso R1 y balizas ASFA.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Sistema de Radiotelefonía modalidad A (tren tierra canal 64).",
+   "pagina": 14,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": "No existían en ejecución obras en el lugar del accidente ni en sus inmediaciones",
+   "pagina": 14,
+   "cita": "2.2.5. Obras en el lugar o cercanías",
+   "origen": "determinista",
+   "regla": "sec:^obras en el lugar o cercan[íi]as$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en infraestructura, instalaciones ni material rodante.",
+    "afectacion_servicio": "Conato de colisión por alcance sin talonamiento de agujas; retrasos acumulados de 53 minutos en 6 trenes, de los que 38 minutos son imputables al tren 17501 por el relevo del maquinista; el tren fue apartado en Cunit y reanudó la marcha a las 10:33 horas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en infraestructura, instalaciones ni material rodante.",
+    "afectacion_servicio": "Conato de colisión por alcance sin talonamiento de agujas; retrasos acumulados de 53 minutos en 6 trenes, de los que 38 minutos son imputables al tren 17501 por el relevo del maquinista; el tren fue apartado en Cunit y reanudó la marcha a las 10:33 horas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en infraestructura, instalaciones ni material rodante.",
+    "afectacion_servicio": "Conato de colisión por alcance sin talonamiento de agujas; retrasos acumulados de 53 minutos en 6 trenes, de los que 38 minutos son imputables al tren 17501 por el relevo del maquinista; el tren fue apartado en Cunit y reanudó la marcha a las 10:33 horas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 17501: autopropulsado 470122, UIC 967194701223, tipo 140, 3 vehículos, 12 ejes, 79 m y 159 t. Tren 25513: UU/TT 927164652574 y 927164652178, 10 vehículos, 24 ejes, 197 m y 405 t.",
+    "averia": "El tren 17501 sufrió una avería en Barcelona Estación de Francia que provocó 17 minutos de retraso en su salida, 19 minutos en Barcelona Sants y 14 minutos en Vilanova i la Geltrú; no se constataron anomalías en equipos o dispositivos de seguridad.",
+    "mantenimiento": "El registrador de seguridad NEMOTEL AS V 1.31 instalado en la unidad motriz 470122 presentaba un desfase de 57 segundos respecto al horario del CTC de Barcelona; no se constatan anomalías de mantenimiento en el material."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1/2, luminosa fija fundamental, alta, con focos rojo, amarillo, verde y blanco; situada en el lado exterior de la vía con buena visibilidad; permaneció en indicación de parada desde las 09:46:38 horas. La estación disponía de señal de avanzada 6389-1, señal de entrada E1, señal de retroceso R1 y balizas ASFA.",
+    "tipo_via": "Vía doble electrificada, con circulación al amparo de Bloqueo Automático Banalizado (BAB) y Control de Tráfico Centralizado (CTC); en la estación, vía general I y vía 2.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Sin obras en el lugar ni en sus inmediaciones; condiciones normales de conservación y limpieza; sin limitación temporal de velocidad.",
+    "otro": "Enclavamiento electrónico; Puesto de Mando de Barcelona; radiotelefonía tren-tierra canal 64; estación con ocho vías; tráfico medio semanal estimado de 1.621 circulaciones en el tramo Vilanova i la Geltrú-Sitges."
+   },
+   "pagina": 12,
+   "cita": "140 km/hora. No existía limitación temporal de velocidad en el lugar y fecha del suceso.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Horas diurnas, algo nublado, sin condiciones meteorológicas adversas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Vilanova i la Geltrú"
+   },
+   "pagina": 5,
+   "cita": "Geltrú, pk 635+888 de la línea 200 de Madrid Chamartín a Barcelona Estación de Francia, cuando el tren",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Horas diurnas, algo nublado, sin condiciones meteorológicas adversas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de salida S1/2, luminosa fija fundamental, alta, con focos rojo, amarillo, verde y blanco; situada en el lado exterior de la vía con buena visibilidad; permaneció en indicación de parada desde las 09:46:38 horas. La estación disponía de señal de avanzada 6389-1, señal de entrada E1, señal de retroceso R1 y balizas ASFA.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1/2, luminosa fija fundamental, alta, con focos rojo, amarillo, verde y blanco; situada en el lado exterior de la vía con buena visibilidad; permaneció en indicación de parada desde las 09:46:38 horas. La estación disponía de señal de avanzada 6389-1, señal de entrada E1, señal de retroceso R1 y balizas ASFA.",
+    "tipo_via": "Vía doble electrificada, con circulación al amparo de Bloqueo Automático Banalizado (BAB) y Control de Tráfico Centralizado (CTC); en la estación, vía general I y vía 2.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Sin obras en el lugar ni en sus inmediaciones; condiciones normales de conservación y limpieza; sin limitación temporal de velocidad.",
+    "otro": "Enclavamiento electrónico; Puesto de Mando de Barcelona; radiotelefonía tren-tierra canal 64; estación con ocho vías; tráfico medio semanal estimado de 1.621 circulaciones en el tramo Vilanova i la Geltrú-Sitges."
+   },
+   "pagina": 12,
+   "cita": "140 km/hora. No existía limitación temporal de velocidad en el lugar y fecha del suceso.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Sistema de Radiotelefonía modalidad A (tren tierra canal 64).",
+   "pagina": 14,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 17501: autopropulsado 470122, UIC 967194701223, tipo 140, 3 vehículos, 12 ejes, 79 m y 159 t. Tren 25513: UU/TT 927164652574 y 927164652178, 10 vehículos, 24 ejes, 197 m y 405 t.",
+    "averia": "El tren 17501 sufrió una avería en Barcelona Estación de Francia que provocó 17 minutos de retraso en su salida, 19 minutos en Barcelona Sants y 14 minutos en Vilanova i la Geltrú; no se constataron anomalías en equipos o dispositivos de seguridad.",
+    "mantenimiento": "El registrador de seguridad NEMOTEL AS V 1.31 instalado en la unidad motriz 470122 presentaba un desfase de 57 segundos respecto al horario del CTC de Barcelona; no se constatan anomalías de mantenimiento en el material."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": "El jefe del CTC de Barcelona, pone en conocimiento del suceso a Renfe Viajeros, Logística y Seguridad \nen la Circulación. \nA petición de Seguridad en la Circulación el tren es apartado en Cunit para el relevo del maquinista. \nA las 10:33 horas reanuda la marcha el tren 17501, una vez relevado el agente de conducción por \nmaquinista llegado en tren TG500.",
+   "pagina": 35,
+   "cita": "3.5.1. Medidas tomadas por el personal de circulación",
+   "origen": "determinista",
+   "regla": "sec:^medidas tomadas por el personal de circulaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Circular con 14 minutos de retraso sobre el horario previsto.",
+    "Ser el primer servicio del maquinista con la habilitación correspondiente.",
+    "No tener parada comercial prescrita en la estación de Vilanova i la Geltrú.",
+    "Aumentar la tracción tras la señal E1 en anuncio de parada en lugar de disponerse a parar ante la siguiente señal."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Personal perteneciente al Administrador de Infraestructuras Ferroviarias, ADIF. \n-  Jefe del CTC de Barcelona: Se identifica como matrícula 9749110. Cuenta con habilitación para el cargo \nconforme a lo establecido en la Orden FOM 2872/2010 de 5 de noviembre. \nPersonal perteneciente al Operador, RENFE VIAJEROS \n-  Maquinista del tren 17501: Se identifica como matrícula 6835144. Su área de actividad en la empresa \nes la Dirección General de Viajeros, donde presta servicios con la categoría de maquinista de entrada \ndesde el 10.12.2015. Está en posesión de Licencia de Conducción tipo B que obtuvo con fecha \n26.12.2012, conforme a la Orden FOM 2520/2006, de 27 de julio. Ha superado el curso de Reciclaje \nMantenimiento Título B, de fecha 14.12.2015. \nObtuvo su aptitud para la conducción del material de la serie 440/470 en curso de habilitación \nimpartido con fecha 02.03.2016. Fue habilitado con fecha 27.05.2016. \nAsí mismo, fue apto para las habilitaciones de conducción por las infraestructuras o tramos de las \nmismas entre las que se encuentra la línea 200, competencia de la Base de Tarragona Media Distancia \ndonde está adscrito el maquinista, en cursos de formación impartidos desde el 24.03.2016 al \n29.04.2016 dotados de una carga lectiva total de 192 horas de las que 184 horas fueron prácticas. La \nhabilitación correspondiente es de fecha 27.05.2016. \nLa última renovación del Certificado de Aptitud Psicofísica es de fecha 17.11. 2015.",
+   "pagina": 24,
+   "cita": "3.2.3. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El 2016-05-28, el tren regional exprés 17501 de RENFE VIAJEROS, procedente de Barcelona Estación de Francia con destino Madrid-Chamartín, entró en la estación de Vilanova i la Geltrú con 14 minutos de retraso y sin parada comercial. Precedía el tren de cercanías 25513, que había realizado parada comercial en vía 1 y ocupaba el cantón protegido por la señal de salida S1/2, por lo que dicha señal permanecía en indicación de parada desde las 09:46:38 horas.\nEl tren 17501 pasó la señal de entrada E1 en anuncio de parada y, según el registrador, aceleró hasta alcanzar 72 km/h al llegar a S1/2. A las 09:50:39 horas rebasó la señal S1/2 en aspecto rojo; el sistema ASFA provocó el frenado de emergencia y el tren se detuvo a unos 160 m, en el pk 635+719. El maquinista comunicó al jefe del CTC que la señal le había cambiado intempestivamente, aunque el registro confirma que S1/2 no varió.\nEl incidente supuso un conato de colisión por alcance sin talonamiento de agujas. No hubo víctimas ni daños materiales. Tras comprobar la ocupación del cantón, el tren fue apartado en Cunit, se relevó al maquinista y reanudó la marcha a las 10:33 horas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nEl suceso tiene lugar el día 28 de mayo de 2016 a las 09:50:39 horas, en la estación de Vilanova i la \nGeltrú, pk 635+888 de la línea 200 de Madrid, Chamartín a Barcelona, Estación de Francia, cuando el \ntren regional exprés 17501, propiedad de la empresa RENFE VIAJEROS, procedente de Barcelona con \ndestino Madrid, circula por vía general (vía I), sentido impar, entra en la estación por vía 2 con 14 minutos \nde retraso sobre su horario prescrito y sin parada comercial, rebasa la señal de salida S1/2 en indicación \nde parada a una velocidad de 72 km/hora y se detiene después de recorrer una distancia de  160 m por \nacción del sistema ASFA que provoca el frenado de urgencia. \nEste tren 17501, sufre una avería en la estación de origen (Barcelona estación de Francia), que le provoca \nun retraso en su horario de salida de 17 minutos siendo de 14 minutos a su llegada a Vilanova i la Geltrú. \nLa señal de salida de la estación S1/2 que rebasó el tren 17501, estaba en indicación de parada debido \na que el tren de cercanías  25513 que le precedía ocupaba el cantón protegido por esta señal. \n-  A las 09:44 horas queda establecido itinerario E1 (vía 2) – S1/1 (vía 1) de la estación para el tren de \ncercanías 25513 propiedad de RENFE VIAJEROS, procedente de Barcelona con destino Sant Vicenç de \nCalders que debía realizar parada comercial en vía 1 de la estación. La señal de entrada E1 se \nencuentra en indicación de anuncio de parada, la señal de retroceso R1 indicando itinerario establecido \na vía desviada y la señal de salida S1/1 (vía 1 de la estación) en indicación de parada.  \n-  A las 09:45 horas el tren 25513 entra en la estación y realiza su parada comercial ocupando el circuito \nde estacionamiento de vía 1 CV1. La señal de avanzada 6389-1 se encontraba en anuncio de parada, \nla de entrada E1 en indicación de parada, la señal de retroceso R1 en indicación de parada y la señal \nde salida S1/1 (vía 1 de la estación), en indicación de parada. \n-  A las 09:46 horas, se establece itinerario de salida vía 1 a E4 de la estación sentido Cunit para el tren \n25513 y el tren 17501 ocupa el circuito de proximidad anterior a la señal de avanzada 6389-1. El tren \n17501, marcha con 14 minutos de retraso y no tiene prescrita parada comercial en la estación. \nLa señal avanzada 6389-1 se encuentra en anuncio de parada, la de entrada E1 en indicación de \nparada, la señal de retroceso R1 en indicación de parada, la señal de salida S1/1 (vía 1) en indicación \nde vía libre y la señal de salida de la estación S1/2 (vía 2) en indicación de parada. \n \n\n## Página 38\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0027/2016 ocurrido el 28.05.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n180223-160528-IF-SN_CIAF.DOCX \nPág. 38 de 43 \n-  A las 09:47 horas, el tren 17501 pasa por la señal de avanzada 6389-1 a una velocidad de 108 km/hora. \nContinúan la señal de avanzada 6389-1 pasa a dar indicación de parada, la de entrada E1 en indicación \nde parada, la señal de retroceso R1 en indicación de parada, la señal de salida S1/1 (vía 1 de la \nestación), en indicación de vía libre y la señal de salida S1/2 (vía 2 de la estación) en indicación de \nparada. \n-  A las 09:48 horas el tren 25513 concluye su parada comercial y es expedido hacia Cunit. Se incorpora \na vía I ocupando el circuito de aguja CVA8. El tren 17501 se encuentra en el circuito de vía CV 6389-\n1 y pasa por la baliza previa de la señal de entrada E1 a una velocidad de 34 km/hora a las 09:48:38 \nhoras. La señal de avanzada 6389-1 se encuentra en indicación de parada, la de entrada E1 en \nindicación de parada y la señal de retroceso R1 en indicación de parada. La señal de salida S1/1 (vía \n1 de la estación), pasa a indicación de parada y la señal de salida S1/2 (vía 2 de la estación) continúa \nen indicación de parada. \nSe establece el itinerario para circulación del tren 17501 por vía 2 sentido Cunit, desde la señal de \nentrada E1 hasta el circuito de estacionamiento de vía 2 CV2.  \nEl tren 17501 continúa en el circuito de vía CV 6389-1 hasta que pasa por la señal de entrada E1 en \nindicación de anuncio de parada a una velocidad de 30 km/hora a las 09:49:23 horas. La señal de \nentrada E1 se encuentra en anuncio de parada, la señal de retroceso R1 indicando vía directa, la señal \nde salida S1/1 (vía 1 de la estación), en indicación de parada y la señal de salida S1/2 (vía 2 de la \nestación), en indicación de parada hasta que el tren 25513 libere el cantón protegido por esta señal. \n-  A las 09:50 horas el tren 25513 se encuentra ocupando el circuito de vía CV 6332-1, sin liberar el \ncantón protegido por la señal de salida de la estación S1/2. \nEl tren 17501 continúa su marcha desde la señal de entrada E1 hasta su detención. La secuencia de \neste movimiento es la siguiente: \n-  Ocupa circuito de vía CV2 (de estacionamiento de vía 2) a las 09:50:15 horas. \n-  Rebasa la señal de salida S1/2 en indicación de parada a una velocidad de 72 km/ hora a las \n09:50:39 horas y ocupa el circuito de vía CVA8. \n-  Se detiene por acción del sistema ASFA que provoca el frenado de urgencia, después de haber \nrecorrido una distancia de 160 m 16 segundos más tarde (a las 09:50:55 horas). \n\n## Página 39\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0027/2016 ocurrido el 28.05.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n180223-160528-IF-SN_CIAF.DOCX \nPág. 39 de 43 \n-  A las 09:51 horas el maquinista de tren 17501 comunica al jefe del CTC de Barcelona que la señal S1/2 \nle había cambiado de aspecto intempestivamente. \nEl jefe del CTC, al observar que el tren 25513 ya había liberado en cantón, le contesta que él no había \nordenado el cierre de la señal. Comprueba que se ha producido el rebase de la señal y autoriza al tren \n17501 a reanudar su marcha hasta Cunit, donde es apartado.  \nUna vez verificada la sit",
+   "pagina": 37,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del personal de conducción del tren 17501: no se puso en disposición de parar tras la señal E1 en anuncio de parada y rebasó la señal S1/2 en indicación de parada, incumpliendo los artículos 213 y 217 del Reglamento General de Circulación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Circular con 14 minutos de retraso sobre el horario previsto.",
+    "Ser el primer servicio del maquinista con la habilitación correspondiente.",
+    "No tener parada comercial prescrita en la estación de Vilanova i la Geltrú.",
+    "Aumentar la tracción tras la señal E1 en anuncio de parada en lugar de disponerse a parar ante la siguiente señal."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl incidente se produjo por fallo humano del personal de conducción del tren regional exprés \n17501, probablemente por una mala percepción del riesgo (falta de atención o exceso de \nconfianza) tras pasar por la señal de entrada E1 de la estación de Vilanova y Geltrú en indicación \nde anuncio de parada (amarillo) y no ponerse en disposición de parar y seguidamente rebasar la \nseñal S1/2 de salida de dicha estación en indicación de parada (rojo), incumpliendo lo establecido \nen el artículo 213 y en el 217 del Reglamento General de Circulación (RGC) respectivamente.    \n4.3.2. Causas subyacentes relacionadas con el personal ferroviario y el mantenimiento del \nmaterial rodante o de la infraestructura ferroviaria \nEl hecho de que el maquinista circulara con el tren regional exprés 17501 con un retraso de 14 \nminutos sobre el horario previsto, siendo su primer servicio de esa habilitación, debe considerarse \ncomo factor subyacente que influyó, al no tener parada prescrita en esta estación, a que el \nmaquinista asumiera un riesgo que contribuyó a rebasar la señal de salida de la estación en \nindicación de parada.    \n4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna",
+   "pagina": 41,
+   "cita": "4.3. CONCLUSIONES 4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalacio",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del \nmaterial rodante o de las instalaciones técnicas \nEl incidente se produjo por fallo humano del personal de conducción del tren regional exprés \n17501, probablemente por una mala percepción del riesgo (falta de atención o exceso de \nconfianza) tras pasar por la señal de entrada E1 de la estación de Vilanova y Geltrú en indicación \nde anuncio de parada (amarillo) y no ponerse en disposición de parar y seguidamente rebasar la \nseñal S1/2 de salida de dicha estación en indicación de parada (rojo), incumpliendo lo establecido \nen el artículo 213 y en el 217 del Reglamento General de Circulación (RGC) respectivamente.    \n4.3.2. Causas subyacentes relacionadas con el personal ferroviario y el mantenimiento del \nmaterial rodante o de la infraestructura ferroviaria \nEl hecho de que el maquinista circulara con el tren regional exprés 17501 con un retraso de 14 \nminutos sobre el horario previsto, siendo su primer servicio de esa habilitación, debe considerarse \ncomo factor subyacente que influyó, al no tener parada prescrita en esta estación, a que el \nmaquinista asumiera un riesgo que contribuyó a rebasar la señal de salida de la estación en \nindicación de parada.    \n4.3.3. Causas relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \nNinguna",
+   "pagina": 41,
+   "cita": "4.3. CONCLUSIONES 4.3.1. Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalacio",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Conforme a lo dispuesto en la Circular Operativa COP nº 1 de la DSC, sobre actuación de RENFE VIAJEROS \nen la investigación de accidentes e incidentes y en el Procedimiento Específico RV - SGS - PE - SPC - 16: \nProcedimiento para regular la suspensión y, en su caso, la revocación de una habilitación y/o certificado, \nexpuestos en este informe, se acuerdan las siguientes actuaciones relativas al maquinista del tren 17501: \n-  Se procede a su relevo. \n-  Se le practica reconocimiento psicofísico adicional en el que obtiene la calificación de APTO. \n-  Se constituye el equipo de apoyo, que con la información disponible eleva informe a la Gerencia \nTerritorial Noroeste de Seguridad en la Circulación de Renfe Viajeros, que califica el suceso como \n\n## Página 42\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0027/2016 ocurrido el 28.05.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n180223-160528-IF-SN_CIAF.DOCX \nPág. 42 de 43 \ninfracción reglamentaria grave y procede a la suspensión de certificados y habilitaciones de conducción \nde dicho maquinista. \n-  El Equipo de Apoyo, según establece la Circular Operativa nº 1, acuerda las siguientes actividades de \nreciclaje:  \n-  Formación: \n-  Acción formativa sobre el factor humano Taller de Seguridad de 8 horas de duración. \n-  Acción formativa de refuerzo de normativa de 8 horas de duración. \n-  Seguimiento: \n-  Una tutela de seguimiento de la actividad laboral durante el desarrollo de la jornada laboral \ncorrespondiente al primer día de trabajo. \n-   Tres tutelas de seguimiento de la actividad laboral durante el desarrollo de la jornada laboral en \nlos 23 días siguientes a la incorporación al trabajo \n-   Un análisis de registro de tren en los 7 días siguientes al de incorporación al trabajo. \n-   Dos análisis de registro de tren en los 23 días siguientes al de incorporación al trabajo. \n \n \n \n \n \n \n \n \n \n\n## Página 43\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0027/2016 ocurrido el 28.05.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n180223-160528-IF-SN_CIAF.DOCX \nPág. 43 de 43",
+   "pagina": 41,
+   "cita": "4.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Conforme a lo dispuesto en la Circular Operativa COP nº 1 de la DSC, sobre actuación de RENFE VIAJEROS \nen la investigación de accidentes e incidentes y en el Procedimiento Específico RV - SGS - PE - SPC - 16: \nProcedimiento para regular la suspensión y, en su caso, la revocación de una habilitación y/o certificado, \nexpuestos en este informe, se acuerdan las siguientes actuaciones relativas al maquinista del tren 17501: \n-  Se procede a su relevo. \n-  Se le practica reconocimiento psicofísico adicional en el que obtiene la calificación de APTO. \n-  Se constituye el equipo de apoyo, que con la información disponible eleva informe a la Gerencia \nTerritorial Noroeste de Seguridad en la Circulación de Renfe Viajeros, que califica el suceso como \n\n## Página 42\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0027/2016 ocurrido el 28.05.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n180223-160528-IF-SN_CIAF.DOCX \nPág. 42 de 43 \ninfracción reglamentaria grave y procede a la suspensión de certificados y habilitaciones de conducción \nde dicho maquinista. \n-  El Equipo de Apoyo, según establece la Circular Operativa nº 1, acuerda las siguientes actividades de \nreciclaje:  \n-  Formación: \n-  Acción formativa sobre el factor humano Taller de Seguridad de 8 horas de duración. \n-  Acción formativa de refuerzo de normativa de 8 horas de duración. \n-  Seguimiento: \n-  Una tutela de seguimiento de la actividad laboral durante el desarrollo de la jornada laboral \ncorrespondiente al primer día de trabajo. \n-   Tres tutelas de seguimiento de la actividad laboral durante el desarrollo de la jornada laboral en \nlos 23 días siguientes a la incorporación al trabajo \n-   Un análisis de registro de tren en los 7 días siguientes al de incorporación al trabajo. \n-   Dos análisis de registro de tren en los 23 días siguientes al de incorporación al trabajo. \n \n \n \n \n \n \n \n \n \n\n## Página 43\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0027/2016 ocurrido el 28.05.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n180223-160528-IF-SN_CIAF.DOCX \nPág. 43 de 43",
+   "pagina": 41,
+   "cita": "4.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Conforme a lo dispuesto en la Circular Operativa COP nº 1 de la DSC, sobre actuación de RENFE VIAJEROS \nen la investigación de accidentes e incidentes y en el Procedimiento Específico RV - SGS - PE - SPC - 16: \nProcedimiento para regular la suspensión y, en su caso, la revocación de una habilitación y/o certificado, \nexpuestos en este informe, se acuerdan las siguientes actuaciones relativas al maquinista del tren 17501: \n-  Se procede a su relevo. \n-  Se le practica reconocimiento psicofísico adicional en el que obtiene la calificación de APTO. \n-  Se constituye el equipo de apoyo, que con la información disponible eleva informe a la Gerencia \nTerritorial Noroeste de Seguridad en la Circulación de Renfe Viajeros, que califica el suceso como \n\n## Página 42\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0027/2016 ocurrido el 28.05.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n180223-160528-IF-SN_CIAF.DOCX \nPág. 42 de 43 \ninfracción reglamentaria grave y procede a la suspensión de certificados y habilitaciones de conducción \nde dicho maquinista. \n-  El Equipo de Apoyo, según establece la Circular Operativa nº 1, acuerda las siguientes actividades de \nreciclaje:  \n-  Formación: \n-  Acción formativa sobre el factor humano Taller de Seguridad de 8 horas de duración. \n-  Acción formativa de refuerzo de normativa de 8 horas de duración. \n-  Seguimiento: \n-  Una tutela de seguimiento de la actividad laboral durante el desarrollo de la jornada laboral \ncorrespondiente al primer día de trabajo. \n-   Tres tutelas de seguimiento de la actividad laboral durante el desarrollo de la jornada laboral en \nlos 23 días siguientes a la incorporación al trabajo \n-   Un análisis de registro de tren en los 7 días siguientes al de incorporación al trabajo. \n-   Dos análisis de registro de tren en los 23 días siguientes al de incorporación al trabajo. \n \n \n \n \n \n \n \n \n \n\n## Página 43\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0027/2016 ocurrido el 28.05.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n180223-160528-IF-SN_CIAF.DOCX \nPág. 43 de 43",
+   "pagina": 41,
+   "cita": "4.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "En los cursos de formación o reciclaje impartidos al personal de conducción, especialmente en los relativos al conocimiento de la infraestructura, debe incidirse en la importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, en especial las señales en indicación de anuncio de parada que ordenan al maquinista ponerse en condiciones de parar ante la señal siguiente.",
+    "En los cursos de formación o reciclaje impartidos al personal de conducción, especialmente en los relativos al conocimiento de la infraestructura, debe incidirse en la importancia de adecuar su marcha a lo que reglamentariamente se prescribe y mantener constantemente la atención a las órdenes e indicaciones de la señalización en vía, en especial las señales en indicación de anuncio de parada que ordenan al maquinista ponerse en condiciones de parar ante la señal siguiente."
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "RENFE VIAJEROS",
+    "RENFE VIAJEROS"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "09:44",
+     "evento": "Se establece el itinerario E1 (vía 2) - S1/1 (vía 1) para el tren de cercanías 25513; la señal de entrada E1 está en anuncio de parada."
+    },
+    {
+     "hora": "09:45",
+     "evento": "El tren 25513 entra en la estación y realiza parada comercial en vía 1."
+    },
+    {
+     "hora": "09:46",
+     "evento": "Se establece itinerario de salida vía 1 a E4 para el tren 25513; el tren 17501 ocupa el circuito anterior a la señal de avanzada; la señal S1/2 permanece en parada desde las 09:46:38 horas."
+    },
+    {
+     "hora": "09:47",
+     "evento": "El tren 17501 pasa la señal de avanzada 6389-1 a 108 km/h."
+    },
+    {
+     "hora": "09:48",
+     "evento": "El tren 25513 concluye su parada y es expedido hacia Cunit; el tren 17501 pasa la baliza previa de la señal de entrada E1 a 34 km/h."
+    },
+    {
+     "hora": "09:49",
+     "evento": "El tren 17501 pasa la señal de entrada E1 en anuncio de parada a 30 km/h."
+    },
+    {
+     "hora": "09:50",
+     "evento": "El tren 17501 ocupa el circuito CV2 de vía 2 y rebasa la señal S1/2 en indicación de parada a 72 km/h (09:50:39 horas); el ASFA activa el frenado de emergencia."
+    },
+    {
+     "hora": "09:51",
+     "evento": "El tren queda detenido en pk 635+719 tras recorrer unos 160 m (09:50:55 horas) y el maquinista comunica al jefe del CTC un cambio intempestivo de la señal."
+    },
+    {
+     "hora": "10:33",
+     "evento": "Reanuda la marcha el tren 17501 tras el relevo del maquinista en Cunit."
+    },
+    {
+     "hora": "12:22",
+     "evento": "ADIF comunica a la CIAF, por SMS, el conato de colisión por rebase de señal en situación de peligro."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0027/2016",
+ "expediente": "0027/16",
+ "anio": 2016,
+ "titulo": "Rebasamiento de señal de parada en la estación de Vilanova i la Geltrú (Barcelona)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 28.05.2016 180223-160528-IF-SN_CIAF.md"
+}

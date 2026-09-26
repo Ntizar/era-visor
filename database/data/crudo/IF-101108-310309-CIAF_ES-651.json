@@ -1,0 +1,892 @@
+{
+ "id": "IF-101108-310309-CIAF_ES-651",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/E3652885-C70E-4E21-8A26-FA8CA435D756/46995/IF101108310309CIAF.pdf",
+ "pdf": "pdfs/ES/IF-101108-310309-CIAF_ES-651.pdf",
+ "md5_pdf": "f875949429b8d4a278cb6910097f4191",
+ "paginas_md": 12,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 6,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0062/2008",
+   "pagina": 1,
+   "cita": "nº 0062/2008 ocurrido el 10.11.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 10 de noviembre de 2008 a las 15:05, el tren de cercanías 4918 de Feve rebasó la señal de salida S1/1 en rojo en la estación de El Entrego (línea 61 Gijón-Laviana, Asturias), provocando un conato de colisión con el tren 5493 que esperaba cruce regular. El maquinista reinició la marcha tras la parada sin atender a la indicación de parada. El incidente no llegó a producir riesgo grave gracias al correcto funcionamiento de las instalaciones de seguridad. Se averió la aguja nº 6 y se acumularon 119 minutos de retraso en 9 trenes. No se establecieron recomendaciones al no considerarse necesarias dadas las características del suceso.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-11-10",
+    "hora": "15:05",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "El Entrego",
+     "pk": "40,996 (estación) / 41,094 (punto del incidente)",
+     "linea": "61 Gijón-Laviana",
+     "provincia": "Asturias",
+     "descripcion_lugar": "Estación de El Entrego, trayecto Sama-Laviana, con cruce regular entre los trenes 4918 y 5493. Señal de salida S1/1 en vía 1; señal de entrada E2 para el tren 5493."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 10 de noviembre de 2008, a las 15:05 horas, el tren de viajeros de cercanías 4918, de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Aguja nº 6 averiada (espadín parcialmente roto).",
+    "afectacion_servicio": "Retrasos en 9 trenes de viajeros, acumulando un total de 119 minutos. No se activó ningún plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "El maquinista del tren 4918 reinició la marcha tras la parada en estación sin atender a la indicación de parada (rojo) de la señal de salida S1/1, incumpliendo el Reglamento de Circulación de Trenes y Reglamento de Señales de Feve (artículos 2/04/00, 2/09/00, 2/10/00 y 2/14/00).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El maquinista declaró que inició la marcha 'incomprensiblemente' tras cerrar puertas, sin explicación clara del despiste.",
+    "La operación de subida/bajada de viajeros y recogida del ACT pudo contribuir a una pérdida de atención momentánea."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nDadas \nlas \ncaracterísticas \ndel \nsuceso, \nno \nse \nestablecen \nrecomendaciones \n \n \n \n \n \n \nMadrid, 31 marzo de 2009 \n \n \n\n## Página 11\n\n \n \n \nInvestigación del incidente \nnº 0062/2008 ocurrido el 10.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-101108-310309-CIAF \n \n \nPág. 11 de 12\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA INVESTIGACIÓN  \nDEL INCIDENTE FERROVIARIO Nº 0062/2008 \nOCURRIDO EL DÍA 10.11.2008 \nEN LA ESTACIÓN DE EL ENTREGO \n\n## Página 12\n\n \n \n \nInvestigación del incidente \nnº 0062/2008 ocurrido el 10.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-101108-310309-CIAF \n \n \nPág. 12 de 12\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 31 de \nmarzo de 2009, analizado el expediente nº 0062/2008 del incidente acaecido el 10.11.2008 en la \nestación de El Entrego, de la línea 61 Gijón-Laviana, se aprueba como definitivo el informe \nparticular presentado por el técnico investigador con la siguiente recomendación: \n \nDestinatario \nNúmero \nRecomendación \n \n \nDadas \nlas \ncaracterísticas \ndel \nsuceso, \nno \nse \nestablecen \nrecomendaciones \n \n \n \nMadrid, 31 de marzo de 2009",
+   "pagina": 10,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación Dadas las características del suceso, no se establecen recomendaciones Madrid, 31 marzo de 2009 ## Página 11 Investigación",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente",
+   "pagina": 1,
+   "cita": "Investigación del incidente",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "empresa ferroviaria Feve, rebasa la señal de parada en la estación de El Entrego, provocando una",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-11-10",
+   "pagina": 3,
+   "cita": "El día 10 de noviembre de 2008, a las 15:05 horas, el tren de viajeros de cercanías 4918, de la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "15:05",
+   "pagina": 3,
+   "cita": "El día 10 de noviembre de 2008, a las 15:05 horas, el tren de viajeros de cercanías 4918, de la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "El Entrego",
+    "pk": "40,996 (estación) / 41,094 (punto del incidente)",
+    "linea": "61 Gijón-Laviana",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Estación de El Entrego, trayecto Sama-Laviana, con cruce regular entre los trenes 4918 y 5493. Señal de salida S1/1 en vía 1; señal de entrada E2 para el tren 5493."
+   },
+   "pagina": 3,
+   "cita": "6530 de Feve circula diariamente entre las estaciones de Laviana y Gijón. Este tren tiene, en la",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "61 Gijón-Laviana",
+   "pagina": 3,
+   "cita": "61 Gijón-Laviana Trayecto: Sama - Laviana Provincia: Asturias El tren de viajeros de cercanías 4918, compuesto por las unidades de tren eléctricas UTE 3530- 6530 de Feve circula diariamente entre las estaciones",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UTE serie 3500: tren 4918 (coche motor 3530 + remolque con cabina 6530); tren 5493 (coche motor 3531 + remolque con cabina 6524)",
+    "averia": "Ninguna en material rodante. ASFA operativo y correcto en ambos trenes según registradores de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros de cercanías 4918, compuesto por las unidades de tren eléctricas UTE 3530-6530 de Feve, circula diariamente entre Laviana y Gijón. En la estación de El Entrego tiene un cruce regular con el tren 5493, también de cercanías, que circula entre Oviedo y Laviana. El 10 de noviembre de 2008, tras realizar la parada prevista en El Entrego, el maquinista del 4918 reinició la marcha sin atender a la señal S1/1 que indicaba parada (rojo), ya que debía efectuar el cruce con el 5493. A escasos metros de la señal, el maquinista se percató del error e intentó frenar, pero rebasó la baliza ASFA, se disparó la emergencia y el tren quedó detenido encima de la aguja nº 6, talonándola. El tren 5493 se detuvo correctamente ante la señal de entrada E2 en rojo. El factor de circulación del CTC comunicó la ocupación anómala y dio orden de no rebasar. No hubo riesgo grave de colisión gracias al funcionamiento correcto de las instalaciones de seguridad. El tren 4918 fue retirado al espacio entre agujas 6 y 2, retrocediendo a vía 2, y el 5493 entró por vía 3.",
+   "pagina": 3,
+   "cita": "Asturias El tren de viajeros de cercanías 4918, compuesto por las unidades de tren eléctricas UTE 3530- 6530 de Feve circula diariamente entre las estaciones de Laviana y Gijón. Este tren tiene, en la estación de El En",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "El Entrego",
+    "pk": "40,996 (estación) / 41,094 (punto del incidente)",
+    "linea": "61 Gijón-Laviana",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Estación de El Entrego, trayecto Sama-Laviana, con cruce regular entre los trenes 4918 y 5493. Señal de salida S1/1 en vía 1; señal de entrada E2 para el tren 5493."
+   },
+   "pagina": 3,
+   "cita": "6530 de Feve circula diariamente entre las estaciones de Laviana y Gijón. Este tren tiene, en la",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Aguja nº 6 averiada (espadín parcialmente roto).",
+    "afectacion_servicio": "Retrasos en 9 trenes de viajeros, acumulando un total de 119 minutos. No se activó ningún plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 4918 (matrícula 7884)",
+     "implicacion": "Rebasó la señal S1/1 en rojo tras la parada en estación, incumpliendo el Reglamento de Circulación de Trenes y Reglamento de Señales de Feve. Alcohol test negativo (0,00 mg/1000 ml). Jornada del día: 34 min (1 tren). Último reciclaje: 11/03/2008. Último reconocimiento médico/psicotécnico: 03/04/2008."
+    },
+    {
+     "rol": "Maquinista principal del tren 5493 (matrícula 5493)",
+     "implicacion": "Actuación correcta: se detuvo ante la señal E2 en rojo y esperó órdenes del CTC. Jornada del día: 3 horas (2 trenes). Último reciclaje: 08/02/2008. Último reconocimiento médico/psicotécnico: 29/01/2008."
+    },
+    {
+     "rol": "Factor de circulación de servicio en el CTC (Nº CF: 9928)",
+     "implicacion": "Actuación correcta: detectó la ocupación anómala, comunicó al 5493, anuló el rebase y coordinó la resolución. Jornada del día: 3 h 35 min."
+    },
+    {
+     "rol": "ACT (Auxiliar de Control de Trenes) del tren 4918",
+     "implicacion": "Protegió el tren por el lado de Gijón con celeridad tras el rebase."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "4918",
+     "tipo": "viajeros de cercanías",
+     "operador": "Feve",
+     "danos": "Ninguno en material rodante; detención de emergencia tras rebasar señal y talonar aguja nº 6."
+    },
+    {
+     "numero": "5493",
+     "tipo": "viajeros de cercanías",
+     "operador": "Feve",
+     "danos": "Ninguno. Detenido correctamente ante señal E2 en rojo; retraso de ~25 minutos."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 10 de noviembre de 2008, a las 15:05 horas, el tren de viajeros de cercanías 4918, de la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UTE serie 3500: tren 4918 (coche motor 3530 + remolque con cabina 6530); tren 5493 (coche motor 3531 + remolque con cabina 6524)",
+    "averia": "Ninguna en material rodante. ASFA operativo y correcto en ambos trenes según registradores de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1/1 en rojo (parada); señal de entrada E2; disco de entrada. Señales en verde-amarillo, amarillo y amarillo a la entrada del 4918.",
+    "tipo_via": "Bloqueo Automático de vía Única (BAU) con Control de Tráfico Centralizado (CTC)",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Operativa; enclavamientos y bloqueo automático sin anomalías previas. Aguja nº 6 averiada tras el incidente (espadín parcialmente roto).",
+    "otro": "Sistema ASFA operativo y funcionando correctamente. Registrador de seguridad de UTE 3530 confirma funcionamiento. Estación con vía 1, vía 2 y vía 3. Cruce regular entre trenes 4918 y 5493."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de salida S1/1 en rojo (parada); señal de entrada E2; disco de entrada. Señales en verde-amarillo, amarillo y amarillo a la entrada del 4918.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Aguja nº 6 averiada (espadín parcialmente roto).",
+    "afectacion_servicio": "Retrasos en 9 trenes de viajeros, acumulando un total de 119 minutos. No se activó ningún plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Aguja nº 6 averiada (espadín parcialmente roto).",
+    "afectacion_servicio": "Retrasos en 9 trenes de viajeros, acumulando un total de 119 minutos. No se activó ningún plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Aguja nº 6 averiada (espadín parcialmente roto).",
+    "afectacion_servicio": "Retrasos en 9 trenes de viajeros, acumulando un total de 119 minutos. No se activó ningún plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTE serie 3500: tren 4918 (coche motor 3530 + remolque con cabina 6530); tren 5493 (coche motor 3531 + remolque con cabina 6524)",
+    "averia": "Ninguna en material rodante. ASFA operativo y correcto en ambos trenes según registradores de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1/1 en rojo (parada); señal de entrada E2; disco de entrada. Señales en verde-amarillo, amarillo y amarillo a la entrada del 4918.",
+    "tipo_via": "Bloqueo Automático de vía Única (BAU) con Control de Tráfico Centralizado (CTC)",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Operativa; enclavamientos y bloqueo automático sin anomalías previas. Aguja nº 6 averiada tras el incidente (espadín parcialmente roto).",
+    "otro": "Sistema ASFA operativo y funcionando correctamente. Registrador de seguridad de UTE 3530 confirma funcionamiento. Estación con vía 1, vía 2 y vía 3. Cruce regular entre trenes 4918 y 5493."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Asturias",
+    "municipio": null,
+    "estacion": "El Entrego"
+   },
+   "pagina": 3,
+   "cita": "Asturias El tren de viajeros de cercanías 4918, compuesto por las unidades de tren eléctricas UTE 3530- 6530 de Feve circula diariamente entre las estaciones de Laviana y Gijón. Este tren tiene, en la estación de El En",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de salida S1/1 en rojo (parada); señal de entrada E2; disco de entrada. Señales en verde-amarillo, amarillo y amarillo a la entrada del 4918.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1/1 en rojo (parada); señal de entrada E2; disco de entrada. Señales en verde-amarillo, amarillo y amarillo a la entrada del 4918.",
+    "tipo_via": "Bloqueo Automático de vía Única (BAU) con Control de Tráfico Centralizado (CTC)",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Operativa; enclavamientos y bloqueo automático sin anomalías previas. Aguja nº 6 averiada tras el incidente (espadín parcialmente roto).",
+    "otro": "Sistema ASFA operativo y funcionando correctamente. Registrador de seguridad de UTE 3530 confirma funcionamiento. Estación con vía 1, vía 2 y vía 3. Cruce regular entre trenes 4918 y 5493."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTE serie 3500: tren 4918 (coche motor 3530 + remolque con cabina 6530); tren 5493 (coche motor 3531 + remolque con cabina 6524)",
+    "averia": "Ninguna en material rodante. ASFA operativo y correcto en ambos trenes según registradores de seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "El maquinista declaró que inició la marcha 'incomprensiblemente' tras cerrar puertas, sin explicación clara del despiste.",
+    "La operación de subida/bajada de viajeros y recogida del ACT pudo contribuir a una pérdida de atención momentánea."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros de cercanías 4918, compuesto por las unidades de tren eléctricas UTE 3530-6530 de Feve, circula diariamente entre Laviana y Gijón. En la estación de El Entrego tiene un cruce regular con el tren 5493, también de cercanías, que circula entre Oviedo y Laviana. El 10 de noviembre de 2008, tras realizar la parada prevista en El Entrego, el maquinista del 4918 reinició la marcha sin atender a la señal S1/1 que indicaba parada (rojo), ya que debía efectuar el cruce con el 5493. A escasos metros de la señal, el maquinista se percató del error e intentó frenar, pero rebasó la baliza ASFA, se disparó la emergencia y el tren quedó detenido encima de la aguja nº 6, talonándola. El tren 5493 se detuvo correctamente ante la señal de entrada E2 en rojo. El factor de circulación del CTC comunicó la ocupación anómala y dio orden de no rebasar. No hubo riesgo grave de colisión gracias al funcionamiento correcto de las instalaciones de seguridad. El tren 4918 fue retirado al espacio entre agujas 6 y 2, retrocediendo a vía 2, y el 5493 entró por vía 3.",
+   "pagina": 3,
+   "cita": "Asturias El tren de viajeros de cercanías 4918, compuesto por las unidades de tren eléctricas UTE 3530- 6530 de Feve circula diariamente entre las estaciones de Laviana y Gijón. Este tren tiene, en la estación de El En",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl incidente tuvo lugar en la estación de El Entrego, en el P.K. 41,094 de la línea 61 Gijón-\nLaviana, trayecto Sama -Laviana. \nSegún el registrador de seguridad y lo declarado por el maquinista del tren 4918, tras realizar \nla parada prevista en la estación de El Entrego, reinicia la marcha sin atender a la indicación de la \nseñal S1/1, que indicaba parada, por lo que la actuación del maquinista no se ajustó a lo \nestablecido en el Reglamento de Circulación de Trenes y Reglamento de Señales de Feve \n(artículos 2/04/00 Parada; 2/09/00 Autorización para entrar o salir de las estaciones; 2/10/00 \nMedidas a tomar en relación con el itinerario a recorrer en la estación y 2/14/00 Salida de trenes). \nSegún el registrador de seguridad y lo declarado por el maquinista del tren 5493, ante la señal \nde entrada E2, que indicaba parada, el tren queda estacionado hasta que desde el CTC se le da la \norden de rebasar la señal, una vez que ésta presenta la indicación reglamentaria, por lo que la \nactuación del maquinista fue correcta, ajustándose a la normativa. \nSegún el registro del CTC y la declaración del factor de circulación su actuación fue correcta, \najustándose a la normativa.  \nTanto la tasa de alcoholemia como la jornada de trabajo de los maquinistas cumplen lo \nestablecido en las Disposiciones adicionales undécima y duodécima del Reglamento del Sector \nFerroviario (RD 2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el \ntransporte ferroviario y Tiempos máximos de conducción en el transporte ferroviario.  \nDel análisis de los registradores de seguridad de las UTEs y del CTC, se desprende que tanto el \nmaterial rodante como los sistemas de control de la infraestructura funcionaron correctamente en \nel momento del incidente y de acuerdo a la normativa de seguridad. \n\n## Página 10\n\n \n \n \nInvestigación del incidente \nnº 0062/2008 ocurrido el 10.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-101108-310309-CIAF \n \n \nPág. 10 de 12\n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones \nanteriores, así como el informe particular de Feve, el técnico responsable de la investigación \nconcluye que: \nEl incidente tuvo su origen cuando el maquinista del tren 4918 rebasa la señal de salida de la \nestación, que presentaba la indicación de parada (rojo), incumpliendo lo estipulado en el \nReglamento de Circulación de Trenes y Reglamento de Señales de Feve.",
+   "pagina": 9,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "El maquinista del tren 4918 reinició la marcha tras la parada en estación sin atender a la indicación de parada (rojo) de la señal de salida S1/1, incumpliendo el Reglamento de Circulación de Trenes y Reglamento de Señales de Feve (artículos 2/04/00, 2/09/00, 2/10/00 y 2/14/00).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El maquinista declaró que inició la marcha 'incomprensiblemente' tras cerrar puertas, sin explicación clara del despiste.",
+    "La operación de subida/bajada de viajeros y recogida del ACT pudo contribuir a una pérdida de atención momentánea."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nDadas \nlas \ncaracterísticas \ndel \nsuceso, \nno \nse \nestablecen \nrecomendaciones \n \n \n \n \n \n \nMadrid, 31 marzo de 2009 \n \n \n\n## Página 11\n\n \n \n \nInvestigación del incidente \nnº 0062/2008 ocurrido el 10.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-101108-310309-CIAF \n \n \nPág. 11 de 12\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA INVESTIGACIÓN  \nDEL INCIDENTE FERROVIARIO Nº 0062/2008 \nOCURRIDO EL DÍA 10.11.2008 \nEN LA ESTACIÓN DE EL ENTREGO \n\n## Página 12\n\n \n \n \nInvestigación del incidente \nnº 0062/2008 ocurrido el 10.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-101108-310309-CIAF \n \n \nPág. 12 de 12\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 31 de \nmarzo de 2009, analizado el expediente nº 0062/2008 del incidente acaecido el 10.11.2008 en la \nestación de El Entrego, de la línea 61 Gijón-Laviana, se aprueba como definitivo el informe \nparticular presentado por el técnico investigador con la siguiente recomendación: \n \nDestinatario \nNúmero \nRecomendación \n \n \nDadas \nlas \ncaracterísticas \ndel \nsuceso, \nno \nse \nestablecen \nrecomendaciones \n \n \n \nMadrid, 31 de marzo de 2009",
+   "pagina": 10,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación Dadas las características del suceso, no se establecen recomendaciones Madrid, 31 marzo de 2009 ## Página 11 Investigación",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "15:05",
+     "evento": "El tren 4918, tras parada en vía 1, reinicia la marcha rebasando la señal S1/1 en rojo. El CTC efectúa itinerario de entrada del 5493 desde E2 a vía 2 con agujas enclavadas."
+    },
+    {
+     "hora": "15:05",
+     "evento": "El tren 4918 rebasa la baliza ASFA, se dispara la emergencia y queda detenido sobre la aguja nº 6, talonándola. Un vagón queda en vía 1 y otro en vía 2."
+    },
+    {
+     "hora": "15:06",
+     "evento": "El tren 5493 llega al disco de entrada E2 y observa la señal en rojo. Llama por emisora al CTC."
+    },
+    {
+     "hora": "15:06",
+     "evento": "El maquinista del 4918 comunica por emisora al 5493 que no puede entrar porque ocupa el piquete. El CTC informa al 5493 de ocupación en circuito de agujas y anula el rebase."
+    },
+    {
+     "hora": "15:06",
+     "evento": "El maquinista del 4918 llama por teléfono al CTC informando del rebase de la señal S1/1 y talonamiento de aguja. Requiere al ACT para protección del tren."
+    },
+    {
+     "hora": "~15:30",
+     "evento": "El 4918 se retira al espacio entre aguja 6 y aguja 2, retrocede y estaciona en vía 2. El 5493 recibe rebase de E2 y R2 con precaución."
+    },
+    {
+     "hora": "15:38",
+     "evento": "El tren 5493 entra en El Entrego por vía 3 y continúa trayecto hacia Laviana."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0062/2008",
+ "expediente": "0062/08",
+ "anio": 2008,
+ "titulo": "Rebase de señal de parada en la estación de El Entrego, Asturias, conato de colisión",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-101108-310309-CIAF_ES-651.md"
+}

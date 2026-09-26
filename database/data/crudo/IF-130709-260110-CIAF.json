@@ -1,0 +1,906 @@
+{
+ "id": "IF-130709-260110-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/A89B8107-7589-430F-B445-A1FFBB9C5114/70237/0036_09_CIAF.pdf",
+ "pdf": "pdfs/ES/IF-130709-260110-CIAF.pdf",
+ "md5_pdf": "fcfd84d6783d49669c2ab6fda4555511",
+ "paginas_md": 12,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 34,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0036/2009",
+   "pagina": 1,
+   "cita": "nº 0036/2009 ocurrido el 13.07.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 13 de julio de 2009, a las 18:44, el tren de media distancia 15653 de Renfe Operadora arrolló a un camión articulado con remolque en el paso a nivel particular del P.K. 99+367, entre Jaca y Sabiñánigo (Huesca). El vehículo de carretera invadió el paso a nivel desde un camino de tierra mientras pasaba el tren, lo que provocó la colisión, el vuelco del camión y la separación del remolque. Resultaron heridos leves el conductor del camión y una viajera del tren, y se produjeron daños materiales en el tren, el paso a nivel y el vehículo. La circulación estuvo suspendida desde las 18:44 hasta las 00:50 del día siguiente, con evacuación de los viajeros y supresión de dos trenes. La causa fue la ocupación indebida del gálibo de la vía por el vehículo de carretera; el informe no establece recomendaciones.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-07-13",
+    "hora": "18:44",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "99+367",
+     "linea": "204 Bifurcación Huesca Cambiador - Canfranc",
+     "provincia": "Huesca",
+     "descripcion_lugar": "Paso a nivel particular en el P.K. 99+367, en el trayecto Jaca - Sabiñánigo, dentro del tramo Jaca - Ayerbe, municipio de Jaca. El camino cruza la línea férrea desde un camino de tierra con firme de tablones de madera."
+    }
+   },
+   "pagina": 11,
+   "cita": "El día 13/7/2009 el tren 15653 circulaba con normalidad. Al aproximarse al paso a nivel particular,",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 2,
+    "danos_materiales": "Material rodante: graves daños en el frontal, cabina de conducción destrozada, rotura de varios cristales y paneles de la sala de viajeros. Infraestructura: rotura de los candelabros derecho e izquierdo del paso a nivel por el lado Huesca. Vehículo: daños en cabina y chasis del camión; el remolque perdió la lanza de arrastre.",
+    "afectacion_servicio": "Circulación suspendida desde las 18:44 hasta las 00:50 del día siguiente. El tren implicado quedó detenido en el lugar y sus 7 viajeros fueron evacuados en un vehículo todo terreno de bomberos a Martillué y luego en autobús a Sabiñánigo para continuar viaje. Se suprimieron dos trenes de media distancia."
+   },
+   "pagina": 11,
+   "cita": "Como resultado del arrollamiento resultan heridos leves, el conductor del camión y un viajero del",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Ocupación indebida del gálibo de la vía por el vehículo de carretera, que irrumpe en el paso a nivel en el momento en que pasaba el tren 15653.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El camión invadió el paso a nivel incumpliendo la señalización del camino (stop).",
+    "El paso a nivel particular no disponía de ninguna instalación de seguridad, ni señales luminosas o dispositivos acústicos que avisaran de la proximidad del tren.",
+    "La vía estaba flanqueada por arbustos que, si bien no impedían la visibilidad, podían dificultarla en algún momento."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones. \n \n \nMadrid, 26 de enero de 2010 \n \n \n\n### Tablas de la página 12\n\n| Destinatario | Número | Recomendación No se establecen recomendaciones. |\n|---|---|---|",
+   "pagina": 12,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones. Madrid, 26 de enero de 2010 ### Tablas de la página 12 | Destinatario | Número | Recomendación No se establecen",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "Por parte de Renfe Operadora",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-07-13",
+   "pagina": 11,
+   "cita": "El día 13/7/2009 el tren 15653 circulaba con normalidad. Al aproximarse al paso a nivel particular,",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "18:44",
+   "pagina": 3,
+   "cita": "El día 13 de julio de 2009, a las 18:44, el tren 15653 de media distancia de la empresa Renfe",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "99+367",
+    "linea": "204 Bifurcación Huesca Cambiador - Canfranc",
+    "provincia": "Huesca",
+    "descripcion_lugar": "Paso a nivel particular en el P.K. 99+367, en el trayecto Jaca - Sabiñánigo, dentro del tramo Jaca - Ayerbe, municipio de Jaca. El camino cruza la línea férrea desde un camino de tierra con firme de tablones de madera."
+   },
+   "pagina": 3,
+   "cita": "Línea: 204 Bifurcación Huesca Cambiador - Canfranc Tramo: Jaca - Ayerbe Municipio: Jaca Provincia: Huesca 2.1.2. Descripción del suceso El día 13 de julio de 2009 el tren de viajeros de media distancia 15653",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "204 Bifurcación Huesca Cambiador - Canfranc",
+   "pagina": 3,
+   "cita": "Línea: 204 Bifurcación Huesca Cambiador - Canfranc Tramo: Jaca - Ayerbe Municipio: Jaca Provincia: Huesca 2.1.2. Descripción del suceso El día 13 de julio de 2009 el tren de viajeros de media distancia 15653",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Automotor 596007; tren tipo 120 A; Nº UIC 967195960075; 1 coche; 51 toneladas de masa remolcada.",
+    "averia": "No se constata avería; el equipo de freno funcionó correctamente. No se puede constatar el uso del silbato por el modelo de registrador de seguridad MEMOTEL con ASFA básico.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros de media distancia 15653, procedente de Canfranc y con destino Zaragoza Delicias, circulaba entre Jaca y Sabiñánigo por el paso a nivel particular situado en el P.K. 99+367. Según la declaración del maquinista, al aproximarse al paso a nivel hizo uso del silbato y, a unos 200 metros, observó un camión cargado de alpacas que se aproximaba desde un camino de tierra para cruzar la vía. El tren impactó contra el camión articulado con remolque cuando este invadía el paso a nivel por el lado derecho del sentido de marcha del tren.\n\nLa secuencia detallada indica que el freno se aplicó a las 18:43:08 a 72 km/h, el arrollamiento se produjo a las 18:43:12 a 67 km/h tras recorrer 77 metros, y el tren quedó detenido a las 18:43:14 después de recorrer 40 metros más. Tras la colisión, el camión quedó volcado en el lado izquierdo del paso en relación al tren, mientras que el remolque perdió la lanza de arrastre y permaneció en el lado derecho sin llegar a cruzar la vía.\n\nComo consecuencia del accidente resultaron heridos leves el conductor del camión y una viajera del tren. El maquinista y el interventor comprobaron el estado de los viajeros y del conductor, avisaron al puesto de mando y se activaron los servicios de emergencia. Los siete viajeros del tren fueron evacuados en un vehículo todo terreno de bomberos hasta Martillué, desde donde se trasladaron en autobús a Sabiñánigo para continuar viaje. La circulación quedó suspendida desde las 18:44 hasta las 00:50 del día siguiente y dos trenes de media distancia fueron suprimidos.",
+   "pagina": 3,
+   "cita": "El día 13 de julio de 2009 el tren de viajeros de media distancia 15653, procedente de Canfranc y",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "99+367",
+    "linea": "204 Bifurcación Huesca Cambiador - Canfranc",
+    "provincia": "Huesca",
+    "descripcion_lugar": "Paso a nivel particular en el P.K. 99+367, en el trayecto Jaca - Sabiñánigo, dentro del tramo Jaca - Ayerbe, municipio de Jaca. El camino cruza la línea férrea desde un camino de tierra con firme de tablones de madera."
+   },
+   "pagina": 3,
+   "cita": "Línea: 204 Bifurcación Huesca Cambiador - Canfranc Tramo: Jaca - Ayerbe Municipio: Jaca Provincia: Huesca 2.1.2. Descripción del suceso El día 13 de julio de 2009 el tren de viajeros de media distancia 15653",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 2,
+    "danos_materiales": "Material rodante: graves daños en el frontal, cabina de conducción destrozada, rotura de varios cristales y paneles de la sala de viajeros. Infraestructura: rotura de los candelabros derecho e izquierdo del paso a nivel por el lado Huesca. Vehículo: daños en cabina y chasis del camión; el remolque perdió la lanza de arrastre.",
+    "afectacion_servicio": "Circulación suspendida desde las 18:44 hasta las 00:50 del día siguiente. El tren implicado quedó detenido en el lugar y sus 7 viajeros fueron evacuados en un vehículo todo terreno de bomberos a Martillué y luego en autobús a Sabiñánigo para continuar viaje. Se suprimieron dos trenes de media distancia."
+   },
+   "pagina": 11,
+   "cita": "Como resultado del arrollamiento resultan heridos leves, el conductor del camión y un viajero del",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista del tren 15653",
+     "implicacion": "Matrícula 8659302. Título de conducción categoría B, habilitado conforme a Orden FOM/2520/2006; reciclaje formativo 15/01/08; reconocimiento médico y psicotécnico 12/01/06; jornada laboral el día del accidente: 48 minutos; prueba de alcoholemia negativa. Hizo uso del silbato, aplicó el freno y avisó a los viajeros."
+    },
+    {
+     "rol": "agente de acompañamiento / interventor",
+     "implicacion": "Matrícula 9745449. Comprobó el estado de los viajeros y del conductor del camión y participó en la comunicación con el puesto de mando para coordinar los servicios de emergencia."
+    },
+    {
+     "rol": "conductor del camión",
+     "implicacion": "Herido leve. Invadió el paso a nivel con un camión articulado con remolque incumpliendo la señalización de stop del camino."
+    },
+    {
+     "rol": "viajera del tren",
+     "implicacion": "Herida leve."
+    }
+   ],
+   "pagina": 8,
+   "cita": "De la ficha de toma de declaración del maquinista del tren 15653, realizada el día siguiente al",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "15653",
+     "tipo": "tren de viajeros de media distancia",
+     "operador": "Renfe Operadora",
+     "danos": "Graves daños en el frontal de la composición, cabina de conducción destrozada, rotura de varios cristales y paneles de la sala de viajeros."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 13 de julio de 2009, a las 18:44, el tren 15653 de media distancia de la empresa Renfe",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Automotor 596007; tren tipo 120 A; Nº UIC 967195960075; 1 coche; 51 toneladas de masa remolcada.",
+    "averia": "No se constata avería; el equipo de freno funcionó correctamente. No se puede constatar el uso del silbato por el modelo de registrador de seguridad MEMOTEL con ASFA básico.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 4,
+   "cita": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales R2 (STOP) y P-11 (paso a nivel) a ambos lados del camino; dispositivo de cierre con cadenas. Paso a nivel particular sin señales luminosas ni dispositivos acústicos.",
+    "tipo_via": "vía única",
+    "velocidad_maxima": "70 km/h",
+    "ancho": null,
+    "electrificacion": "sin electrificar",
+    "estado_via": null,
+    "otro": "Circulación al amparo de bloqueo telefónico gestionado por los jefes de circulación de Sabiñánigo y Jaca. No existe radiotelefonía entre maquinistas y jefes de circulación; hay conectores de intemperie para teléfonos portátiles. Media semanal de circulaciones del tramo Jaca - Ayerbe: 51, considerada muy baja (42 de media distancia y 9 de mercancías). Paso a nivel particular autorizado para explotación agropecuaria, comprendiendo paso de personas relacionadas con la explotación, animales y maquinaria agrícola; autorización renovada por la Dirección General de Ferrocarriles el 12/09/2005. Camino de tierra y cruce con tablones de madera. AxT: 7,84 (A=1 y T=7,12). Visibilidad buena, aunque la vía está flanqueada por arbustos que podían dificultarla en algún momento. Las instalaciones del paso cumplían las condiciones de la autorización."
+   },
+   "pagina": 6,
+   "cita": "El paso a nivel está situado en un trayecto de vía única sin electrificar en el que la circulación se",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales R2 (STOP) y P-11 (paso a nivel) a ambos lados del camino; dispositivo de cierre con cadenas. Paso a nivel particular sin señales luminosas ni dispositivos acústicos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "No existe sistema de radiotelefonía entre los maquinistas y los jefes de circulación. Para \ngarantizar las comunicaciones a lo largo de la línea hay instalados conectores de intemperie para la \nconexión de teléfonos portátiles.",
+   "pagina": 7,
+   "cita": "2.2.5. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 2,
+    "danos_materiales": "Material rodante: graves daños en el frontal, cabina de conducción destrozada, rotura de varios cristales y paneles de la sala de viajeros. Infraestructura: rotura de los candelabros derecho e izquierdo del paso a nivel por el lado Huesca. Vehículo: daños en cabina y chasis del camión; el remolque perdió la lanza de arrastre.",
+    "afectacion_servicio": "Circulación suspendida desde las 18:44 hasta las 00:50 del día siguiente. El tren implicado quedó detenido en el lugar y sus 7 viajeros fueron evacuados en un vehículo todo terreno de bomberos a Martillué y luego en autobús a Sabiñánigo para continuar viaje. Se suprimieron dos trenes de media distancia."
+   },
+   "pagina": 11,
+   "cita": "Como resultado del arrollamiento resultan heridos leves, el conductor del camión y un viajero del",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 2,
+    "danos_materiales": "Material rodante: graves daños en el frontal, cabina de conducción destrozada, rotura de varios cristales y paneles de la sala de viajeros. Infraestructura: rotura de los candelabros derecho e izquierdo del paso a nivel por el lado Huesca. Vehículo: daños en cabina y chasis del camión; el remolque perdió la lanza de arrastre.",
+    "afectacion_servicio": "Circulación suspendida desde las 18:44 hasta las 00:50 del día siguiente. El tren implicado quedó detenido en el lugar y sus 7 viajeros fueron evacuados en un vehículo todo terreno de bomberos a Martillué y luego en autobús a Sabiñánigo para continuar viaje. Se suprimieron dos trenes de media distancia."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 2,
+    "danos_materiales": "Material rodante: graves daños en el frontal, cabina de conducción destrozada, rotura de varios cristales y paneles de la sala de viajeros. Infraestructura: rotura de los candelabros derecho e izquierdo del paso a nivel por el lado Huesca. Vehículo: daños en cabina y chasis del camión; el remolque perdió la lanza de arrastre.",
+    "afectacion_servicio": "Circulación suspendida desde las 18:44 hasta las 00:50 del día siguiente. El tren implicado quedó detenido en el lugar y sus 7 viajeros fueron evacuados en un vehículo todo terreno de bomberos a Martillué y luego en autobús a Sabiñánigo para continuar viaje. Se suprimieron dos trenes de media distancia."
+   },
+   "pagina": 11,
+   "cita": "Como resultado del arrollamiento resultan heridos leves, el conductor del camión y un viajero del",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 596007; tren tipo 120 A; Nº UIC 967195960075; 1 coche; 51 toneladas de masa remolcada.",
+    "averia": "No se constata avería; el equipo de freno funcionó correctamente. No se puede constatar el uso del silbato por el modelo de registrador de seguridad MEMOTEL con ASFA básico.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales R2 (STOP) y P-11 (paso a nivel) a ambos lados del camino; dispositivo de cierre con cadenas. Paso a nivel particular sin señales luminosas ni dispositivos acústicos.",
+    "tipo_via": "vía única",
+    "velocidad_maxima": "70 km/h",
+    "ancho": null,
+    "electrificacion": "sin electrificar",
+    "estado_via": null,
+    "otro": "Circulación al amparo de bloqueo telefónico gestionado por los jefes de circulación de Sabiñánigo y Jaca. No existe radiotelefonía entre maquinistas y jefes de circulación; hay conectores de intemperie para teléfonos portátiles. Media semanal de circulaciones del tramo Jaca - Ayerbe: 51, considerada muy baja (42 de media distancia y 9 de mercancías). Paso a nivel particular autorizado para explotación agropecuaria, comprendiendo paso de personas relacionadas con la explotación, animales y maquinaria agrícola; autorización renovada por la Dirección General de Ferrocarriles el 12/09/2005. Camino de tierra y cruce con tablones de madera. AxT: 7,84 (A=1 y T=7,12). Visibilidad buena, aunque la vía está flanqueada por arbustos que podían dificultarla en algún momento. Las instalaciones del paso cumplían las condiciones de la autorización."
+   },
+   "pagina": 6,
+   "cita": "El paso a nivel está situado en un trayecto de vía única sin electrificar en el que la circulación se",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Día despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Huesca",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 3,
+   "cita": "204 Bifurcación Huesca Cambiador -  Canfranc",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Día despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales R2 (STOP) y P-11 (paso a nivel) a ambos lados del camino; dispositivo de cierre con cadenas. Paso a nivel particular sin señales luminosas ni dispositivos acústicos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales R2 (STOP) y P-11 (paso a nivel) a ambos lados del camino; dispositivo de cierre con cadenas. Paso a nivel particular sin señales luminosas ni dispositivos acústicos.",
+    "tipo_via": "vía única",
+    "velocidad_maxima": "70 km/h",
+    "ancho": null,
+    "electrificacion": "sin electrificar",
+    "estado_via": null,
+    "otro": "Circulación al amparo de bloqueo telefónico gestionado por los jefes de circulación de Sabiñánigo y Jaca. No existe radiotelefonía entre maquinistas y jefes de circulación; hay conectores de intemperie para teléfonos portátiles. Media semanal de circulaciones del tramo Jaca - Ayerbe: 51, considerada muy baja (42 de media distancia y 9 de mercancías). Paso a nivel particular autorizado para explotación agropecuaria, comprendiendo paso de personas relacionadas con la explotación, animales y maquinaria agrícola; autorización renovada por la Dirección General de Ferrocarriles el 12/09/2005. Camino de tierra y cruce con tablones de madera. AxT: 7,84 (A=1 y T=7,12). Visibilidad buena, aunque la vía está flanqueada por arbustos que podían dificultarla en algún momento. Las instalaciones del paso cumplían las condiciones de la autorización."
+   },
+   "pagina": 6,
+   "cita": "El paso a nivel está situado en un trayecto de vía única sin electrificar en el que la circulación se",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "No existe sistema de radiotelefonía entre los maquinistas y los jefes de circulación. Para \ngarantizar las comunicaciones a lo largo de la línea hay instalados conectores de intemperie para la \nconexión de teléfonos portátiles.",
+   "pagina": 7,
+   "cita": "2.2.5. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 596007; tren tipo 120 A; Nº UIC 967195960075; 1 coche; 51 toneladas de masa remolcada.",
+    "averia": "No se constata avería; el equipo de freno funcionó correctamente. No se puede constatar el uso del silbato por el modelo de registrador de seguridad MEMOTEL con ASFA básico.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Camión invade paso a nivel",
+    "Vehículo incumple señal de stop",
+    "Ocupación indebida del gálibo",
+    "Acceso desde camino de tierra"
+   ],
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tiene su origen en la ocupación indebida del gálibo de la vía por parte",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 15653 posee el título de conducción categoría B y está habilitado conforme \na la Orden FOM/2520/2006, de 27 de julio. \nRealizó su último reciclaje formativo el 15/01/08 y su último reconocimiento médico y \npsicotécnico el 12/01/06, conforme a la normativa vigente.",
+   "pagina": 9,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "Jornada laboral del  maquinista del tren 15653: \n- el día 13: 48 minutos. \n- el día 12: descanso/vacaciones. \n- el día 11: descanso/vacaciones. \nAl maquinista del tren 15653, el día del accidente se le realiza la prueba de alcoholemia dando \nresultado negativo.",
+   "pagina": 11,
+   "cita": "3.5. INTERFAZ HOMBRE-MAQUÍNA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Jornada laboral del  maquinista del tren 15653: \n- el día 13: 48 minutos. \n- el día 12: descanso/vacaciones. \n- el día 11: descanso/vacaciones. \nAl maquinista del tren 15653, el día del accidente se le realiza la prueba de alcoholemia dando \nresultado negativo.",
+   "pagina": 11,
+   "cita": "3.5. INTERFAZ HOMBRE-MAQUÍNA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros de media distancia 15653, procedente de Canfranc y con destino Zaragoza Delicias, circulaba entre Jaca y Sabiñánigo por el paso a nivel particular situado en el P.K. 99+367. Según la declaración del maquinista, al aproximarse al paso a nivel hizo uso del silbato y, a unos 200 metros, observó un camión cargado de alpacas que se aproximaba desde un camino de tierra para cruzar la vía. El tren impactó contra el camión articulado con remolque cuando este invadía el paso a nivel por el lado derecho del sentido de marcha del tren.\n\nLa secuencia detallada indica que el freno se aplicó a las 18:43:08 a 72 km/h, el arrollamiento se produjo a las 18:43:12 a 67 km/h tras recorrer 77 metros, y el tren quedó detenido a las 18:43:14 después de recorrer 40 metros más. Tras la colisión, el camión quedó volcado en el lado izquierdo del paso en relación al tren, mientras que el remolque perdió la lanza de arrastre y permaneció en el lado derecho sin llegar a cruzar la vía.\n\nComo consecuencia del accidente resultaron heridos leves el conductor del camión y una viajera del tren. El maquinista y el interventor comprobaron el estado de los viajeros y del conductor, avisaron al puesto de mando y se activaron los servicios de emergencia. Los siete viajeros del tren fueron evacuados en un vehículo todo terreno de bomberos hasta Martillué, desde donde se trasladaron en autobús a Sabiñánigo para continuar viaje. La circulación quedó suspendida desde las 18:44 hasta las 00:50 del día siguiente y dos trenes de media distancia fueron suprimidos.",
+   "pagina": 3,
+   "cita": "El día 13 de julio de 2009 el tren de viajeros de media distancia 15653, procedente de Canfranc y",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar en el paso a nivel particular del P.K. 99+367, entre las estaciones de \nJaca y Sabiñánigo. \nEl día 13/7/2009 el tren 15653 circulaba con normalidad. Al aproximarse al paso a nivel particular, \nhace uso del silbato para advertir de su presencia (a unos 200 metros, según declaración del \nmaquinista). El maquinista observa un camión cargado de alpacas que se aproxima al paso a nivel \ndesde un camino que cruza con la vía y da servicio a unas fincas. \nEl maquinista vuelve a hacer uso del silbato y actúa a las 18:43:08 horas sobre el freno a 72 km/h; \ny sin poder evitar el arrollamiento que se produce a las 18:43:12 horas a 67 km/h y recorridos 77 \nmetros desde la aplicación de aquel. \nTras el impacto recorre 40 metros hasta detenerse a las 18:43.14 horas. \nPor su parte, el camión invade el paso a nivel por el lado derecho, en el sentido de la marcha del \ntren. El tren impacta con el camión en la zona de su remolque, haciéndolo girar sobre sus ruedas \ndelanteras y separándolo del otro remolque que arrastraba. Tras la colisión el camión quedó en el lado \nizquierdo del paso (en relación al tren), volcado en sentido contrario al de su desplazamiento y fuera \nde la vía, y el remolque perdió la lanza de arrastre, que permaneció unida al camión quedando en el \nlado derecho del paso sin llegar a cruzarlo.  \nComo resultado del arrollamiento resultan heridos leves, el conductor del camión y un viajero del \ntren. \n4.2. DELIBERACIÓN \nEl personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje \ny reconocimiento médico y psicotécnico. \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0036/2009 ocurrido el 13.07.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-130709-260110-CIAF \n \n \nPág. 12 de 12\nLa velocidad del tren era de 2 Km/h superior a la permitida, que se puede considerar dentro de las \ntolerancias admitidas. \nEl maquinista, según su declaración, hizo uso del silbato y del freno; por lo que la actuación del \nmaquinista fue correcta. \nEl equipo de freno del tren 15653 funcionaba correctamente en el momento del accidente. \nEl paso a nivel tiene buena visibilidad. \nEl camión invade el paso a nivel incumpliendo la señalización del camino (stop).  \nLas instalaciones del paso a nivel cumplían las condiciones  establecidas en la autorización \nexpedida por la DGF con fecha 12/09/05. \n4.3. CONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y RENFE Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tiene su origen en la ocupación indebida del gálibo de la vía por parte del vehículo de \ncarretera, que irrumpe en el paso a nivel en el momento en que pasaba el tren 15653.",
+   "pagina": 11,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Ocupación indebida del gálibo de la vía por el vehículo de carretera, que irrumpe en el paso a nivel en el momento en que pasaba el tren 15653.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El camión invadió el paso a nivel incumpliendo la señalización del camino (stop).",
+    "El paso a nivel particular no disponía de ninguna instalación de seguridad, ni señales luminosas o dispositivos acústicos que avisaran de la proximidad del tren.",
+    "La vía estaba flanqueada por arbustos que, si bien no impedían la visibilidad, podían dificultarla en algún momento."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y RENFE Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tiene su origen en la ocupación indebida del gálibo de la vía por parte del vehículo de \ncarretera, que irrumpe en el paso a nivel en el momento en que pasaba el tren 15653.",
+   "pagina": 12,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y RENFE Operadora, el",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y RENFE Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tiene su origen en la ocupación indebida del gálibo de la vía por parte del vehículo de \ncarretera, que irrumpe en el paso a nivel en el momento en que pasaba el tren 15653.",
+   "pagina": 12,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y RENFE Operadora, el",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones. \n \n \nMadrid, 26 de enero de 2010 \n \n \n\n### Tablas de la página 12\n\n| Destinatario | Número | Recomendación No se establecen recomendaciones. |\n|---|---|---|",
+   "pagina": 12,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones. Madrid, 26 de enero de 2010 ### Tablas de la página 12 | Destinatario | Número | Recomendación No se establecen",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "18:43",
+     "evento": "El maquinista aplica el freno a 72 km/h tras observar el camión aproximándose al paso a nivel; la secuencia detallada lo sitúa a las 18:43:08."
+    },
+    {
+     "hora": "18:43",
+     "evento": "Se produce el arrollamiento del camión articulado con remolque a 67 km/h; la secuencia detallada lo sitúa a las 18:43:12, tras 77 metros desde la aplicación del freno."
+    },
+    {
+     "hora": "18:43",
+     "evento": "El tren se detiene tras recorrer 40 metros desde el impacto; la secuencia detallada lo sitúa a las 18:43:14."
+    },
+    {
+     "hora": "18:44",
+     "evento": "Hora registrada como momento del suceso en el resumen; desde este momento queda suspendida la circulación."
+    },
+    {
+     "hora": "19:56",
+     "evento": "El coordinador de accidentes ferroviarios de Adif comunica a la CIAF el arrollamiento de un camión en el paso a nivel particular del P.K. 99+367 de la línea 204."
+    },
+    {
+     "hora": null,
+     "evento": "El maquinista informa al puesto de mando de Zaragoza, que comunica a seguridad en la circulación de Adif, Renfe Operadora, jefatura de operaciones de Aragón, seguridad corporativa, operadores y servicios afectados."
+    },
+    {
+     "hora": null,
+     "evento": "El puesto de mando avisa al CPS de Zaragoza, que contacta con el 112 y envía los medios de socorro pertinentes al lugar del accidente."
+    },
+    {
+     "hora": "23:18",
+     "evento": "Los viajeros evacuados prosiguen viaje y llegan a Zaragoza sin más novedad, según el parte del interventor."
+    },
+    {
+     "hora": null,
+     "evento": "El 14 de julio de 2009, el presidente de la CIAF resuelve abrir la investigación del accidente."
+    },
+    {
+     "hora": "00:50",
+     "evento": "Se restablece la circulación, tras la suspensión iniciada a las 18:44 del día anterior."
+    },
+    {
+     "hora": null,
+     "evento": "El 26 de enero de 2010 se firma el informe final en Madrid."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0036/2009",
+ "expediente": "0036/09",
+ "anio": 2009,
+ "titulo": "Arrollamiento de un camión por el tren 15653 en paso a nivel particular en Jaca (Huesca)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-130709-260110-CIAF.md"
+}

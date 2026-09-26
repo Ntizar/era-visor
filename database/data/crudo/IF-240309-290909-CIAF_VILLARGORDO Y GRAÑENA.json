@@ -1,0 +1,944 @@
+{
+ "id": "IF-240309-290909-CIAF_VILLARGORDO Y GRAÑENA",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/A5F0A1D0-8B3F-4B4D-BE0A-FBFE05371D88/53846/INF001809CIAF.pdf",
+ "pdf": "pdfs/ES/IF-240309-290909-CIAF_VILLARGORDO Y GRAÑENA.pdf",
+ "md5_pdf": "5ec9721e9544e005718911828d4b1949",
+ "paginas_md": 10,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 18,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Organismo titular del camino. (Ayuntamiento de Jaén)",
+     "Número": "18/09-1",
+     "Recomendación": "Se recomienda que se mejore el acceso al paso a nivel y se instale la señalización prevista en el apartado 2.1.2. del artículo 9 de la Orden de 2 agosto de 2001 en materia de supresión y protección de pasos a nivel."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 10,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Organismo titular del camino. (Ayuntamiento de Jaén)",
+     "Número": "18/09-1",
+     "Recomendación": "Se recomienda que se mejore el acceso al paso a nivel y se instale la señalización prevista en el apartado 2.1.2. del artículo 9 de la Orden de 2 agosto de 2001 en materia de supresión y protección de pasos a nivel."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0018/2009",
+   "pagina": 1,
+   "cita": "nº 0018/2009 ocurrido el 24.03.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 24 de marzo de 2009 a las 22:25, el tren de viajeros 18032 de Renfe Operadora arrolló a una furgoneta que invadió el paso a nivel tipo A situado en el P.K. 137,803, entre los apeaderos de Villargordo y Grañena (Jaén). El conductor de la furgoneta, único ocupante, falleció en el acto. El maquinista actuó correctamente haciendo uso del silbato y del freno de emergencia, pero no pudo evitar el impacto. El accidente se originó por la invasión del paso a nivel por parte del vehículo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-03-24",
+    "hora": "22:25",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "137,803",
+     "linea": "402 Espeluy Aguja Km. 340.1 - Jaén",
+     "provincia": "Jaén",
+     "descripcion_lugar": "Paso a nivel Clase A entre los apeaderos de Villargordo y Grañena, a 1.400 metros del apeadero de Villargordo. Tramo de trazado recto y buena visibilidad. El paso a nivel habilita el cruce con el Camino del Cortijo de Manzano, que accede desde la carretera N-323-A de Bailén a Motril, paralela y próxima a la vía."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 24 de marzo de 2009, a las 22:25 horas, el tren de viajeros 18032, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños en el frontal de la composición (UT 470163).",
+    "afectacion_servicio": "Retraso de 181 minutos para el tren 18032; trasbordo de pasajeros a un tren de socorro. Supresión de 2 trenes de mercancías y 1 tren de media distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "El vehículo (furgoneta Ford Tourneo) invade el paso a nivel en el momento en que el tren 18032 circulaba por él.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Acceso al paso a nivel por un corto camino de tierra compactada desde la carretera N-323-A, con longitud insuficiente para instalar la señalización vertical completa prevista en el Reglamento General de Circulación.",
+    "Ausencia de señales P-8 y P-11 en el camino de acceso, y falta de placa complementaria de distancia.",
+    "Protección del paso a nivel exclusivamente con señales fijas (clase A), sin barreras."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Supresión prevista del paso a nivel por la DG de Infraestructuras Ferroviarias sin plazo definido, manteniéndose en servicio un paso a nivel con deficiencias de señalización."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Se recomienda que se mejore el acceso al paso a nivel y se instale la señalización prevista en el apartado 2.1.2. del artículo 9 de la Orden de 2 agosto de 2001 en materia de supresión y protección de pasos a nivel.",
+    "Se recomienda que se mejore el acceso al paso a nivel y se instale la señalización prevista en el apartado 2.1.2. del artículo 9 de la Orden de 2 agosto de 2001 en materia de supresión y protección de pasos a nivel."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Organismo titular del camino. (Ayuntamiento de Jaén)",
+    "Organismo titular del camino. (Ayuntamiento de Jaén)"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Paso a Nivel Clase A",
+   "pagina": 3,
+   "cita": "Paso a Nivel Clase A, P.K. 137,803; entre los apeaderos de Villargordo y",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "Renfe Operadora, arrolla a un vehículo que cruzaba por un paso a nivel tipo A, situado en el P.K.",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-03-24",
+   "pagina": 3,
+   "cita": "El día 24 de marzo de 2009, a las 22:25 horas, el tren de viajeros 18032, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "22:25",
+   "pagina": 3,
+   "cita": "El día 24 de marzo de 2009, a las 22:25 horas, el tren de viajeros 18032, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "137,803",
+    "linea": "402 Espeluy Aguja Km. 340.1 - Jaén",
+    "provincia": "Jaén",
+    "descripcion_lugar": "Paso a nivel Clase A entre los apeaderos de Villargordo y Grañena, a 1.400 metros del apeadero de Villargordo. Tramo de trazado recto y buena visibilidad. El paso a nivel habilita el cruce con el Camino del Cortijo de Manzano, que accede desde la carretera N-323-A de Bailén a Motril, paralela y próxima a la vía."
+   },
+   "pagina": 3,
+   "cita": "402 Espeluy Aguja Km. 340.1 - Jaén",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "402 Espeluy Aguja Km. 340.1 - Jaén",
+   "pagina": 3,
+   "cita": "402 Espeluy Aguja Km. 340.1 - Jaén",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UT 470163 (vehículo motor 470163, 3 coches, 205 Tn de masa remolcada)",
+    "averia": "Grandes desperfectos en el frontal C/RC tras el arrollamiento. Equipos de seguridad del tren funcionaron correctamente. En el momento de aplicar el freno, el tren circulaba a 77 km/h (por debajo de la velocidad máxima autorizada de 80 km/h).",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de media distancia 18032 de Renfe Operadora, con la unidad de tracción 470163 (vehículo motor, 3 coches, 205 Tn de masa remolcada), circulaba en sentido Jaén por la línea 402 Espeluy Aguja Km. 340.1 - Jaén, tramo Mengíbar-Artichuela - Jaén. A las 22:25 horas, al paso por el P.K. 137,803, una furgoneta Ford Tourneo (matrícula 4316 FSL) que accedía al paso a nivel desde la carretera N-323-A de Bailén a Motril por el lado izquierdo, en sentido de la marcha del tren, invadió el gálibo del paso a nivel. El paso a nivel, de clase A (protegido únicamente con señales fijas), habilita el cruce de la vía con el Camino del Cortijo de Manzano, de titularidad pública y administrado por el Ayuntamiento de Jaén. Pese a que el maquinista hizo uso del silbato y del freno de emergencia, no pudo evitar el arrollamiento. El vehículo fue desplazado fuera del paso a nivel y el tren detuvo su marcha a las 22:32 en el k. 137+500. Como consecuencia del impacto, resultó cadáver el conductor de la furgoneta, un hombre de 27 años.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "137,803",
+    "linea": "402 Espeluy Aguja Km. 340.1 - Jaén",
+    "provincia": "Jaén",
+    "descripcion_lugar": "Paso a nivel Clase A entre los apeaderos de Villargordo y Grañena, a 1.400 metros del apeadero de Villargordo. Tramo de trazado recto y buena visibilidad. El paso a nivel habilita el cruce con el Camino del Cortijo de Manzano, que accede desde la carretera N-323-A de Bailén a Motril, paralela y próxima a la vía."
+   },
+   "pagina": 3,
+   "cita": "402 Espeluy Aguja Km. 340.1 - Jaén",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños en el frontal de la composición (UT 470163).",
+    "afectacion_servicio": "Retraso de 181 minutos para el tren 18032; trasbordo de pasajeros a un tren de socorro. Supresión de 2 trenes de mercancías y 1 tren de media distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 18032 (matrícula 9646340)",
+     "implicacion": "Hizo uso del silbato y del freno de emergencia al percatarse de la invasión del paso a nivel; no pudo evitar el arrollamiento. Actuación correcta. Tasa de alcoholemia negativa (0,00 mg/1000 ml). Jornada de conducción de 2h32min el día del accidente. Título de conducción vigente y habilitado conforme a la OM 2520/2006. Último reciclaje formativo 01/08/06; último reconocimiento médico y psicotécnico 23/10/08."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "18032",
+     "tipo": "Media distancia (tren de viajeros)",
+     "operador": "Renfe Operadora",
+     "danos": "Grandes desperfectos en el frontal de la composición (C/RC)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 24 de marzo de 2009, a las 22:25 horas, el tren de viajeros 18032, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UT 470163 (vehículo motor 470163, 3 coches, 205 Tn de masa remolcada)",
+    "averia": "Grandes desperfectos en el frontal C/RC tras el arrollamiento. Equipos de seguridad del tren funcionaron correctamente. En el momento de aplicar el freno, el tren circulaba a 77 km/h (por debajo de la velocidad máxima autorizada de 80 km/h).",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 4,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase A (protección con señales fijas). En el camino, por el lado izquierdo, existe señal de stop (R-2). Faltan la señal P-8 (paso a nivel sin barreras) y la P-11 (situación de paso a nivel sin barreras). Carece de placa complementaria de distancia sobre el poste de la P-8 debido a la corta longitud del camino de acceso. Está prevista la supresión del paso a nivel por la DG de Infraestructuras Ferroviarias, sin plazo definido.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Tramo de trazado recto y buena visibilidad. Visibilidad real 500 m; visibilidad técnica 184 m.",
+    "otro": "CTC (control de tráfico centralizado); bloqueo BLAU (liberación automática); radiotelefonía modalidad A. Titularidad del camino: pública, administrado por el Ayuntamiento de Jaén. Media semanal de circulaciones del tramo: 105 (considerada baja), todas de media distancia."
+   },
+   "pagina": 9,
+   "cita": "El paso a nivel se encuentra en plena vía, en un tramo de trazado recto y buena visibilidad.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso a nivel clase A (protección con señales fijas). En el camino, por el lado izquierdo, existe señal de stop (R-2). Faltan la señal P-8 (paso a nivel sin barreras) y la P-11 (situación de paso a nivel sin barreras). Carece de placa complementaria de distancia sobre el poste de la P-8 debido a la corta longitud del camino de acceso. Está prevista la supresión del paso a nivel por la DG de Infraestructuras Ferroviarias, sin plazo definido.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños en el frontal de la composición (UT 470163).",
+    "afectacion_servicio": "Retraso de 181 minutos para el tren 18032; trasbordo de pasajeros a un tren de socorro. Supresión de 2 trenes de mercancías y 1 tren de media distancia."
+   },
+   "pagina": 7,
+   "cita": "a las 23´05 llegando a las 23´52 transbordando los viajeros. Una vez reparada la UT 470163 sale del",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños en el frontal de la composición (UT 470163).",
+    "afectacion_servicio": "Retraso de 181 minutos para el tren 18032; trasbordo de pasajeros a un tren de socorro. Supresión de 2 trenes de mercancías y 1 tren de media distancia."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños en el frontal de la composición (UT 470163).",
+    "afectacion_servicio": "Retraso de 181 minutos para el tren 18032; trasbordo de pasajeros a un tren de socorro. Supresión de 2 trenes de mercancías y 1 tren de media distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 470163 (vehículo motor 470163, 3 coches, 205 Tn de masa remolcada)",
+    "averia": "Grandes desperfectos en el frontal C/RC tras el arrollamiento. Equipos de seguridad del tren funcionaron correctamente. En el momento de aplicar el freno, el tren circulaba a 77 km/h (por debajo de la velocidad máxima autorizada de 80 km/h).",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase A (protección con señales fijas). En el camino, por el lado izquierdo, existe señal de stop (R-2). Faltan la señal P-8 (paso a nivel sin barreras) y la P-11 (situación de paso a nivel sin barreras). Carece de placa complementaria de distancia sobre el poste de la P-8 debido a la corta longitud del camino de acceso. Está prevista la supresión del paso a nivel por la DG de Infraestructuras Ferroviarias, sin plazo definido.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Tramo de trazado recto y buena visibilidad. Visibilidad real 500 m; visibilidad técnica 184 m.",
+    "otro": "CTC (control de tráfico centralizado); bloqueo BLAU (liberación automática); radiotelefonía modalidad A. Titularidad del camino: pública, administrado por el Ayuntamiento de Jaén. Media semanal de circulaciones del tramo: 105 (considerada baja), todas de media distancia."
+   },
+   "pagina": 9,
+   "cita": "El paso a nivel se encuentra en plena vía, en un tramo de trazado recto y buena visibilidad.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche, despejado, con buenas condiciones de visibilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Jaén",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 3,
+   "cita": "de Jaén) 18/09-1 Se recomienda que se mejore el acceso al paso a nivel y se instale la señalización prevista en el apartado 2.1.2. del artículo 9 de la Orden de 2 agosto de 2001 en materia de supresión y protección d",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche, despejado, con buenas condiciones de visibilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso a nivel clase A (protección con señales fijas). En el camino, por el lado izquierdo, existe señal de stop (R-2). Faltan la señal P-8 (paso a nivel sin barreras) y la P-11 (situación de paso a nivel sin barreras). Carece de placa complementaria de distancia sobre el poste de la P-8 debido a la corta longitud del camino de acceso. Está prevista la supresión del paso a nivel por la DG de Infraestructuras Ferroviarias, sin plazo definido.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase A (protección con señales fijas). En el camino, por el lado izquierdo, existe señal de stop (R-2). Faltan la señal P-8 (paso a nivel sin barreras) y la P-11 (situación de paso a nivel sin barreras). Carece de placa complementaria de distancia sobre el poste de la P-8 debido a la corta longitud del camino de acceso. Está prevista la supresión del paso a nivel por la DG de Infraestructuras Ferroviarias, sin plazo definido.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Tramo de trazado recto y buena visibilidad. Visibilidad real 500 m; visibilidad técnica 184 m.",
+    "otro": "CTC (control de tráfico centralizado); bloqueo BLAU (liberación automática); radiotelefonía modalidad A. Titularidad del camino: pública, administrado por el Ayuntamiento de Jaén. Media semanal de circulaciones del tramo: 105 (considerada baja), todas de media distancia."
+   },
+   "pagina": 9,
+   "cita": "El paso a nivel se encuentra en plena vía, en un tramo de trazado recto y buena visibilidad.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 470163 (vehículo motor 470163, 3 coches, 205 Tn de masa remolcada)",
+    "averia": "Grandes desperfectos en el frontal C/RC tras el arrollamiento. Equipos de seguridad del tren funcionaron correctamente. En el momento de aplicar el freno, el tren circulaba a 77 km/h (por debajo de la velocidad máxima autorizada de 80 km/h).",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Vehículo invade paso a nivel",
+    "Acceso sin señalización vertical completa",
+    "Camino corto impide señalización completa",
+    "Furgoneta intenta cruzar paso a nivel"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "Jornada efectiva de conducción del maquinista: \n-el día 24: 2 horas y 32 minutos (jornada laboral: 4 horas y 32 minutos). \n- el día 23: 2 horas y 32 minutos (jornada laboral: 4 horas y 32 minutos). \n- el día 22: 2 horas y 32 minutos (jornada laboral: 4 horas y 32 minutos). \nAl maquinista, el día del accidente, se le realiza la prueba de alcoholemia en aire espirado dando \nresultado negativo (0,00 mg/1000 ml).",
+   "pagina": 9,
+   "cita": "3.5. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Jornada efectiva de conducción del maquinista: \n-el día 24: 2 horas y 32 minutos (jornada laboral: 4 horas y 32 minutos). \n- el día 23: 2 horas y 32 minutos (jornada laboral: 4 horas y 32 minutos). \n- el día 22: 2 horas y 32 minutos (jornada laboral: 4 horas y 32 minutos). \nAl maquinista, el día del accidente, se le realiza la prueba de alcoholemia en aire espirado dando \nresultado negativo (0,00 mg/1000 ml).",
+   "pagina": 9,
+   "cita": "3.5. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de media distancia 18032 de Renfe Operadora, con la unidad de tracción 470163 (vehículo motor, 3 coches, 205 Tn de masa remolcada), circulaba en sentido Jaén por la línea 402 Espeluy Aguja Km. 340.1 - Jaén, tramo Mengíbar-Artichuela - Jaén. A las 22:25 horas, al paso por el P.K. 137,803, una furgoneta Ford Tourneo (matrícula 4316 FSL) que accedía al paso a nivel desde la carretera N-323-A de Bailén a Motril por el lado izquierdo, en sentido de la marcha del tren, invadió el gálibo del paso a nivel. El paso a nivel, de clase A (protegido únicamente con señales fijas), habilita el cruce de la vía con el Camino del Cortijo de Manzano, de titularidad pública y administrado por el Ayuntamiento de Jaén. Pese a que el maquinista hizo uso del silbato y del freno de emergencia, no pudo evitar el arrollamiento. El vehículo fue desplazado fuera del paso a nivel y el tren detuvo su marcha a las 22:32 en el k. 137+500. Como consecuencia del impacto, resultó cadáver el conductor de la furgoneta, un hombre de 27 años.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DELIBERACIÓN \nEl accidente tuvo lugar en el paso a nivel tipo A, situado en plena vía, en el P.K. 137,803 de la \nlínea 402 Espeluy Aguja Km. 340.1 - Jaén, entre los apeaderos de Grañena y Villargordo. \n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0018/2009 ocurrido el 24.03.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-240309-290909-CIAF \n \n \nPág. 10 de 10\nDel análisis del registrador de seguridad del tren se desprende que circulaba a una velocidad \ninferior a su máxima permitida en el tramo. \nSegún lo declarado por el maquinista, cuando se percató de la presencia del vehículo dentro del \npaso a nivel hizo uso del silbato y actuó sobre el freno de emergencia, por lo que la actuación del \nmaquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nLos equipos de seguridad del tren funcionaban correctamente en el momento del accidente y de \nacuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nEl vehículo invade el paso a nivel al paso del tren 18032. \n4.2. CONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen cuando el vehículo invade el paso a nivel en el momento en que el tren \n18032 circulaba por él.",
+   "pagina": 9,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "El vehículo (furgoneta Ford Tourneo) invade el paso a nivel en el momento en que el tren 18032 circulaba por él.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Acceso al paso a nivel por un corto camino de tierra compactada desde la carretera N-323-A, con longitud insuficiente para instalar la señalización vertical completa prevista en el Reglamento General de Circulación.",
+    "Ausencia de señales P-8 y P-11 en el camino de acceso, y falta de placa complementaria de distancia.",
+    "Protección del paso a nivel exclusivamente con señales fijas (clase A), sin barreras."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen cuando el vehículo invade el paso a nivel en el momento en que el tren \n18032 circulaba por él.",
+   "pagina": 10,
+   "cita": "4.2. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investiga",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen cuando el vehículo invade el paso a nivel en el momento en que el tren \n18032 circulaba por él.",
+   "pagina": 10,
+   "cita": "4.2. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investiga",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Se recomienda que se mejore el acceso al paso a nivel y se instale la señalización prevista en el apartado 2.1.2. del artículo 9 de la Orden de 2 agosto de 2001 en materia de supresión y protección de pasos a nivel.",
+    "Se recomienda que se mejore el acceso al paso a nivel y se instale la señalización prevista en el apartado 2.1.2. del artículo 9 de la Orden de 2 agosto de 2001 en materia de supresión y protección de pasos a nivel."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Organismo titular del camino. (Ayuntamiento de Jaén)",
+    "Organismo titular del camino. (Ayuntamiento de Jaén)"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "22:25",
+     "evento": "Arrollamiento del vehículo por el tren 18032 en el paso a nivel P.K. 137,803"
+    },
+    {
+     "hora": "22:32",
+     "evento": "El tren detiene su marcha en el k. 137+500; el maquinista comunica al Puesto de Mando de Córdoba"
+    },
+    {
+     "hora": "22:40",
+     "evento": "Se presentan en el lugar miembros de la Guardia Civil"
+    },
+    {
+     "hora": "22:50",
+     "evento": "Llegan servicios de emergencias sanitarias y bomberos de Jaén; recuperan el cuerpo de la víctima del interior del vehículo"
+    },
+    {
+     "hora": "23:05",
+     "evento": "El maquinista solicita unidad de tren de socorro"
+    },
+    {
+     "hora": "23:52",
+     "evento": "Llega la UT de socorro y se transbordó a los viajeros"
+    },
+    {
+     "hora": "00:20",
+     "evento": "Se produce el levantamiento del cadáver"
+    },
+    {
+     "hora": "01:20",
+     "evento": "La UT 470163, reparada, sale del k. 137+500"
+    },
+    {
+     "hora": "01:42",
+     "evento": "La UT 470163 llega a Jaén"
+    },
+    {
+     "hora": "00:02",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el accidente a la CIAF (25 de marzo)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0018/2009",
+ "expediente": "0018/09",
+ "anio": 2009,
+ "titulo": "Arrollamiento de vehículo en paso a nivel entre Villargordo y Grañena (Jaén)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-240309-290909-CIAF_VILLARGORDO Y GRAÑENA.md"
+}

@@ -1,0 +1,927 @@
+{
+ "id": "ID-071006-130407",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-071006-130407.pdf",
+ "pdf": "pdfs/ES/ID-071006-130407.pdf",
+ "md5_pdf": "cbfacd3325a5efbfa325a7e03f72d3ae",
+ "paginas_md": 6,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 9,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0048/2006",
+   "pagina": 1,
+   "cita": "nº 0048/2006 ocurrido el 07.10.2006",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 7 de octubre de 2006 a las 06:33, un varón de 80 años que cruzaba las vías a pie en el antiguo apeadero de Sant Ildefons de Cornellá (sin servicio comercial) fue arrollado por el tren de Cercanías nº 18304 de Renfe. La víctima resultó herida grave y falleció días después en el hospital de Bellvitge. El tren circulaba a 69 km/h, por debajo de la máxima permitida de 100 km/h. El accidente fue calificado como grave y fue investigado por la Dirección General de Ferrocarriles. No se produjeron daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2006-10-07",
+    "hora": "06:33",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Apeadero de Sant Ildefons de Cornellá",
+     "pk": "93,900",
+     "linea": "240 Sant Vicenç de Calders-L'Hospitalet de Llobregat",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Antiguo apeadero sin servicio comercial, con dos andenes y un paso entarimado entre andenes que se suprimió. Tramo en recta a la salida del túnel de Cornellá, fuera de núcleo urbano, con vallado parcial pero no perimetral continuo."
+    }
+   },
+   "pagina": 5,
+   "cita": "(06:33 horas) con lo que la visibilidad no era buena. El maquinista al darse cuenta del transito",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "12 trenes de Cercanías afectados; circulación reanudada en condiciones normales a las 08:05"
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Tránsito indebido de una persona sobre las vías generales del apeadero de Sant Ildefons sin servicio comercial; la víctima no tuvo tiempo suficiente para librar el gálibo del tren al subirse al andén",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Visibilidad deficiente por ser de noche (06:33 horas)",
+    "La víctima se movía con dificultad (80 años)",
+    "Ausencia de vallado perimetral continuo en el tramo",
+    "Existencia de un rebaje de andén que facilitaba el acceso indebido a las vías tras la supresión del paso entarimado"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Mantenimiento de un rebaje de andén que permitía el acceso a las vías una vez suprimido el paso entarimado",
+    "Falta de vallado perimetral continuo que disuada del cruce indebido",
+    "Ausencia de campañas de sensibilización suficientes a la ciudadanía sobre la prohibición de cruzar las vías"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Inhabilitar el rebaje de andén que daba acceso al paso entarimado suprimido",
+     "destinatario": "ADIF"
+    },
+    {
+     "texto": "Ejecución del vallado perimetral en el entorno del apeadero que disuada de su uso como alternativa al paso superior existente en la zona",
+     "destinatario": "ADIF"
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización a la ciudadanía en los medios de comunicación, enfatizando la prohibición del tránsito y cruce indebido por las líneas de ferrocarril",
+     "destinatario": "Administraciones competentes / Operadores ferroviarios"
+    }
+   ],
+   "pagina": 5,
+   "cita": "Se recomienda el inhabilitar el rebaje de andén que daba acceso al paso entarimado",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Inhabilitar el rebaje de andén que daba acceso al paso entarimado suprimido",
+     "destinatario": "ADIF"
+    },
+    {
+     "texto": "Ejecución del vallado perimetral en el entorno del apeadero que disuada de su uso como alternativa al paso superior existente en la zona",
+     "destinatario": "ADIF"
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización a la ciudadanía en los medios de comunicación, enfatizando la prohibición del tránsito y cruce indebido por las líneas de ferrocarril",
+     "destinatario": "Administraciones competentes / Operadores ferroviarios"
+    }
+   ],
+   "pagina": 5,
+   "cita": "Se recomienda el inhabilitar el rebaje de andén que daba acceso al paso entarimado",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "grave",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "Renfe"
+   ],
+   "pagina": 2,
+   "cita": "(ADIF), comunicó por mensaje de telefonía móvil que se había producido el arrollamiento de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2006-10-07",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "06:33",
+   "pagina": 5,
+   "cita": "(06:33 horas) con lo que la visibilidad no era buena. El maquinista al darse cuenta del transito",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Apeadero de Sant Ildefons de Cornellá",
+    "pk": "93,900",
+    "linea": "240 Sant Vicenç de Calders-L'Hospitalet de Llobregat",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Antiguo apeadero sin servicio comercial, con dos andenes y un paso entarimado entre andenes que se suprimió. Tramo en recta a la salida del túnel de Cornellá, fuera de núcleo urbano, con vallado parcial pero no perimetral continuo."
+   },
+   "pagina": 5,
+   "cita": "las manifestaciones del maquinista del tren a ectado. A dicha hora todavía era de noche",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 240 Sant Vicenç de Calders-L'Hospitalet de Llobregat",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "U.T. 447103II",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "por la U.T. 447103II efectuando el trayecto de Martorell a Tarrasa, el día 7 de octubre de",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "Una persona de 80 años cruzaba las vías a la altura del antiguo apeadero de Sant Ildefons de Cornellá, actualmente sin servicio comercial, cuando fue golpeada por el tren de Cercanías nº 18304 de Renfe, compuesto por la U.T. 447103II, que efectuaba el trayecto Martorell-Tarrasa. Según la declaración del maquinista, al salir del túnel de Cornellá divisó a la persona cruzando del lado montaña al lado mar por el centro del apeadero, aplicó el freno de urgencia y usó repetidamente el silbato, pero la víctima subió al andén del lado del mar sin librar el gálibo y fue golpeada, cayendo en el propio andén. La víctima resultó herida grave y falleció días más tarde en el hospital de Bellvitge. El maquinista informó al Puesto de Mando, solicitó ayuda por megafonía y un ATS presente en el tren se quedó con el herido hasta la llegada de la ambulancia.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Apeadero de Sant Ildefons de Cornellá",
+    "pk": "93,900",
+    "linea": "240 Sant Vicenç de Calders-L'Hospitalet de Llobregat",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Antiguo apeadero sin servicio comercial, con dos andenes y un paso entarimado entre andenes que se suprimió. Tramo en recta a la salida del túnel de Cornellá, fuera de núcleo urbano, con vallado parcial pero no perimetral continuo."
+   },
+   "pagina": 5,
+   "cita": "las manifestaciones del maquinista del tren a ectado. A dicha hora todavía era de noche",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "12 trenes de Cercanías afectados; circulación reanudada en condiciones normales a las 08:05"
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 18304",
+     "implicacion": "Aplicó freno de urgencia y silbato al divisar a la persona; informó al Puesto de Mando; solicitó ayuda por megafonía; prueba de alcoholemia negativa (0,00 mg/1000ml); jornada de 05:34 a 07:08"
+    },
+    {
+     "rol": "ATS (Agente de Tren)",
+     "implicacion": "Se presentó al requerimiento del maquinista y permaneció con el herido hasta la llegada de la ambulancia"
+    },
+    {
+     "rol": "Coordinador de accidentes ferroviarios de ADIF",
+     "implicacion": "Comunicó el accidente por mensaje de telefonía móvil"
+    }
+   ],
+   "pagina": 3,
+   "cita": "El maquinista del tren 18304.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "18304",
+     "tipo": "Cercanías",
+     "operador": "Renfe",
+     "danos": "No se produjeron daños materiales"
+    }
+   ],
+   "pagina": 3,
+   "cita": "arrollamiento por el tren de Cercanías nº 18304 de la empresa ferroviaria Renfe, compuesto",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "U.T. 447103II",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "por la U.T. 447103II efectuando el trayecto de Martorell a Tarrasa, el día 7 de octubre de",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado con CTC (Control de Tráfico Centralizado)",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "Recta a la salida del túnel de Cornellá; fuera de núcleo urbano; sin vallado perimetral continuo, solo vallado parcial en el entorno del antiguo apeadero",
+    "otro": "Antiguo apeadero con dos andenes y paso entarimado suprimido; rebaje de andén que daba acceso al paso entarimado aún existente"
+   },
+   "pagina": 4,
+   "cita": "que discurre en vía doble electrificada y con bloqueo automático banalizado con control",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático banalizado con CTC (Control de Tráfico Centralizado)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "12 trenes de Cercanías afectados; circulación reanudada en condiciones normales a las 08:05"
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "12 trenes de Cercanías afectados; circulación reanudada en condiciones normales a las 08:05"
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "12 trenes de Cercanías afectados; circulación reanudada en condiciones normales a las 08:05"
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "U.T. 447103II",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "por la U.T. 447103II efectuando el trayecto de Martorell a Tarrasa, el día 7 de octubre de",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado con CTC (Control de Tráfico Centralizado)",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "Recta a la salida del túnel de Cornellá; fuera de núcleo urbano; sin vallado perimetral continuo, solo vallado parcial en el entorno del antiguo apeadero",
+    "otro": "Antiguo apeadero con dos andenes y paso entarimado suprimido; rebaje de andén que daba acceso al paso entarimado aún existente"
+   },
+   "pagina": 4,
+   "cita": "que discurre en vía doble electrificada y con bloqueo automático banalizado con control",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "De noche a las 06:33, visibilidad no buena",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Apeadero de Sant Ildefons de Cornellá"
+   },
+   "pagina": 2,
+   "cita": "provincia de Barcelona, perteneciente a la Red Ferroviaria de Interés General administrada por",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "De noche a las 06:33, visibilidad no buena",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático banalizado con CTC (Control de Tráfico Centralizado)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado con CTC (Control de Tráfico Centralizado)",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "Recta a la salida del túnel de Cornellá; fuera de núcleo urbano; sin vallado perimetral continuo, solo vallado parcial en el entorno del antiguo apeadero",
+    "otro": "Antiguo apeadero con dos andenes y paso entarimado suprimido; rebaje de andén que daba acceso al paso entarimado aún existente"
+   },
+   "pagina": 4,
+   "cita": "que discurre en vía doble electrificada y con bloqueo automático banalizado con control",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "U.T. 447103II",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "por la U.T. 447103II efectuando el trayecto de Martorell a Tarrasa, el día 7 de octubre de",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Cruce indebido de vías por persona",
+    "Falta de vallado perimetral continuo",
+    "Rebaje de andén habilitaba acceso",
+    "Paso entarimado suprimido sin cierre"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(ADIF), comunicó por mensaje de telefonía móvil que se había producido el arrollamiento de \nuna persona resultando herida grave en primera instancia y falleciendo posteriormente la \nmisma. El accidente se produjo en el apeadero de Sant Ildefons de Cornellá, en el punto \nkilométrico 93,900 de la Línea 240 Sant Vicenç de Calders-L´Hospitalet de Llobregat, en la \nprovincia de Barcelona, perteneciente a la Red Ferroviaria de Interés General administrada por \nADIF. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles. Investigación \nque tendrá como finalidad determinar sus causas y formular recomendaciones para reducir los \nriesgos en el transporte ferroviario de acuerdo con el artículo 112 del citado Reglamento. \nReglamento que traspone parcialmente la Directiva 2004/49/CE del Parlamento Europeo de 29 \nde abril de 2004 sobre la seguridad de los ferrocarriles comunitarios, que en su  Artículo 19 \ncircunscribe la investigación a la mejora de la seguridad, y en ningún caso a la determinación \nde culpas o responsabilidades. \nDe conformidad también con el artículo 112 del mencionado Reglamento, el 1 de \nseptiembre de 2006 la Dirección General de Ferrocarriles designó el equipo de investigación \nde accidentes ferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (ADIF), comunicó por mensaje de telefonía móvil que se había producido el arrollamiento de una persona resul",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "Una persona de 80 años cruzaba las vías a la altura del antiguo apeadero de Sant Ildefons de Cornellá, actualmente sin servicio comercial, cuando fue golpeada por el tren de Cercanías nº 18304 de Renfe, compuesto por la U.T. 447103II, que efectuaba el trayecto Martorell-Tarrasa. Según la declaración del maquinista, al salir del túnel de Cornellá divisó a la persona cruzando del lado montaña al lado mar por el centro del apeadero, aplicó el freno de urgencia y usó repetidamente el silbato, pero la víctima subió al andén del lado del mar sin librar el gálibo y fue golpeada, cayendo en el propio andén. La víctima resultó herida grave y falleció días más tarde en el hospital de Bellvitge. El maquinista informó al Puesto de Mando, solicitó ayuda por megafonía y un ATS presente en el tren se quedó con el herido hasta la llegada de la ambulancia.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR LA EMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl ADIF concluye “El accidente se produce por realizar un tránsito indebido, no pudiendo evitar\nel maquinista el golpear a la persona.”. \n \nf\n \nt\nI\nPor su parte la empresa Renfe concluye, “La persona arrollada de 80 años de edad cruzaba las \nvías generales por el apeadero sin servicio de Sant Ildefons y se movía con dificultad según \nlas manifestaciones del maquinista del tren a ectado. A dicha hora todavía era de noche \n(06:33 horas) con lo que la visibilidad no era buena. El maquinista al darse cuenta del transito\nde la persona cruzando las vías realiza la aplicación del freno del tren, no pudiendo evi ar \ngolpear a la persona afectada cuando esta ya se encontraba subiendo al andén de la vía I ”.  \nPor tanto, ambas conclusiones son coincidentes en cuanto a la causa del accidente.",
+   "pagina": 5,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Tránsito indebido de una persona sobre las vías generales del apeadero de Sant Ildefons sin servicio comercial; la víctima no tuvo tiempo suficiente para librar el gálibo del tren al subirse al andén",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Visibilidad deficiente por ser de noche (06:33 horas)",
+    "La víctima se movía con dificultad (80 años)",
+    "Ausencia de vallado perimetral continuo en el tramo",
+    "Existencia de un rebaje de andén que facilitaba el acceso indebido a las vías tras la supresión del paso entarimado"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Se estima que el accidente tuvo su origen en el tránsito indebido sobre las vías generales \ndel apeadero de Sant Ildefons (sin servicio comercial), ya que la víctima trataba de cruzar las \nvías no teniendo suficiente tiempo para librar el gálibo del tren al subirse al andén, resultando \ngolpeado.",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES Se estima que el accidente tuvo su origen en el tránsito indebido sobre las vías generales del apeadero de Sant Ildefons (sin servicio comercial), ya que la víctima trataba de cruzar las vías no tenien",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Se estima que el accidente tuvo su origen en el tránsito indebido sobre las vías generales \ndel apeadero de Sant Ildefons (sin servicio comercial), ya que la víctima trataba de cruzar las \nvías no teniendo suficiente tiempo para librar el gálibo del tren al subirse al andén, resultando \ngolpeado.",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES Se estima que el accidente tuvo su origen en el tránsito indebido sobre las vías generales del apeadero de Sant Ildefons (sin servicio comercial), ya que la víctima trataba de cruzar las vías no tenien",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Inhabilitar el rebaje de andén que daba acceso al paso entarimado suprimido",
+     "destinatario": "ADIF"
+    },
+    {
+     "texto": "Ejecución del vallado perimetral en el entorno del apeadero que disuada de su uso como alternativa al paso superior existente en la zona",
+     "destinatario": "ADIF"
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización a la ciudadanía en los medios de comunicación, enfatizando la prohibición del tránsito y cruce indebido por las líneas de ferrocarril",
+     "destinatario": "Administraciones competentes / Operadores ferroviarios"
+    }
+   ],
+   "pagina": 5,
+   "cita": "Se recomienda el inhabilitar el rebaje de andén que daba acceso al paso entarimado",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "05:34",
+     "evento": "Inicio de jornada del maquinista del tren 18304"
+    },
+    {
+     "hora": "06:33",
+     "evento": "Arrollamiento de la persona en el PK 93,900 del apeadero de Sant Ildefons"
+    },
+    {
+     "hora": "06:33",
+     "evento": "El maquinista aplica freno de urgencia y usa silbato; informa al Puesto de Mando"
+    },
+    {
+     "hora": "07:08",
+     "evento": "Fin de jornada del maquinista; la policía autoriza al tren a reanudar marcha"
+    },
+    {
+     "hora": "07:30",
+     "evento": "El herido es evacuado al hospital de Bellvitge"
+    },
+    {
+     "hora": "08:05",
+     "evento": "La circulación se reanuda en condiciones normales"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0048/2006",
+ "expediente": "0048/2006",
+ "anio": 2006,
+ "titulo": "Arrollamiento de una persona en el apeadero de Sant Ildefons de Cornellá (Barcelona), línea 240",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-071006-130407.md"
+}

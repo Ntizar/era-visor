@@ -1,0 +1,1179 @@
+{
+ "id": "IF-260310-281210-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/95CF9A6B-F932-4E31-90E6-E4A6DE50772C/100149/IF260310_281210CIAF.pdf",
+ "pdf": "pdfs/ES/IF-260310-281210-CIAF.pdf",
+ "md5_pdf": "cad5ac6a4a3ddab635ec0497941993de",
+ "paginas_md": 39,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 17,
+ "n_tablas": 4,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "18/10-1",
+     "Recomendación": "En la realización de trabajos en enclavamientos o sistemas de bloqueo, se establecerá un sistema de análisis y evaluación de las actuaciones de seguridad de la empresa instaladora, de acuerdo con la norma UNE-EN 50126 y el plan de seguridad del proyecto y de sus protocolos adicionales. (Caso de seguridad – safety case - de la instalación)."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 22,
+   "cabecera": [
+    "",
+    "",
+    "Distancia m (registrador)",
+    "Hora registrador",
+    "Km/h",
+    "Frecuencia",
+    "Hora corregida"
+   ],
+   "filas": [
+    {
+     "Distancia m (registrador)": "1544841",
+     "Hora registrador": "00:24:49",
+     "Km/h": "26",
+     "Frecuencia": "L7 (rojo - control de velocidad)",
+     "Hora corregida": "00:18:48"
+    },
+    {
+     "Distancia m (registrador)": "1545127",
+     "Hora registrador": "00:25:47",
+     "Km/h": "0",
+     "Frecuencia": "",
+     "Hora corregida": "00:19:46"
+    },
+    {
+     "Distancia m (registrador)": "1545127",
+     "Hora registrador": "00:26:03",
+     "Km/h": "1",
+     "Frecuencia": "",
+     "Hora corregida": "00:20:02"
+    },
+    {
+     "Distancia m (registrador)": "1545183",
+     "Hora registrador": "00:26:31",
+     "Km/h": "14",
+     "Frecuencia": "L7+REBASE (control de velocidad - rebase)",
+     "Hora corregida": "00:20:30"
+    },
+    {
+     "Distancia m (registrador)": "1547139",
+     "Hora registrador": "00:31:02",
+     "Km/h": "14",
+     "Frecuencia": "L7 (rojo - control de velocidad)",
+     "Hora corregida": "00:25:01"
+    },
+    {
+     "Distancia m (registrador)": "1547415",
+     "Hora registrador": "00:32:15",
+     "Km/h": "0",
+     "Frecuencia": "",
+     "Hora corregida": "00:26:14"
+    },
+    {
+     "Distancia m (registrador)": "1547415",
+     "Hora registrador": "00:32:36",
+     "Km/h": "1",
+     "Frecuencia": "",
+     "Hora corregida": "00:26:35"
+    },
+    {
+     "Distancia m (registrador)": "1547451",
+     "Hora registrador": "00:33:05",
+     "Km/h": "8",
+     "Frecuencia": "L7+REBASE (control de velocidad - rebase)",
+     "Hora corregida": "00:27:04"
+    },
+    {
+     "Distancia m (registrador)": "1548619",
+     "Hora registrador": "00:36:16",
+     "Km/h": "23",
+     "Frecuencia": "L7 (rojo - control de velocidad)",
+     "Hora corregida": "00:30:15"
+    },
+    {
+     "Distancia m (registrador)": "1548909",
+     "Hora registrador": "00:37:23",
+     "Km/h": "0",
+     "Frecuencia": "",
+     "Hora corregida": "00:31:22"
+    },
+    {
+     "Distancia m (registrador)": "1548909",
+     "Hora registrador": "00:39:46",
+     "Km/h": "1",
+     "Frecuencia": "",
+     "Hora corregida": "00:33:45"
+    },
+    {
+     "Distancia m (registrador)": "",
+     "Hora registrador": "00:39:49",
+     "Km/h": "18",
+     "Frecuencia": "",
+     "Hora corregida": "00:33:48"
+    },
+    {
+     "Distancia m (registrador)": "1548925",
+     "Hora registrador": "00:39:53",
+     "Km/h": "0",
+     "Frecuencia": "",
+     "Hora corregida": "00:33:52"
+    }
+   ],
+   "cita": "|   |   | Distancia m (registrador) | Hora registrador | Km/h | Frecuencia | Hora corregida |"
+  },
+  {
+   "pagina": 24,
+   "cabecera": [
+    "SITUACIÓN INICIAL",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "filas": [
+    {
+     "SITUACIÓN INICIAL": "HORA"
+    },
+    {
+     "SITUACIÓN INICIAL": ""
+    },
+    {
+     "SITUACIÓN INICIAL": "11:00"
+    },
+    {
+     "SITUACIÓN INICIAL": "1 1:13"
+    },
+    {
+     "SITUACIÓN INICIAL": "1 1:19"
+    },
+    {
+     "SITUACIÓN INICIAL": "11:21"
+    },
+    {
+     "SITUACIÓN INICIAL": "11:22"
+    }
+   ],
+   "cita": "| SITUACIÓN INICIAL |   |   |   |   |   |   |"
+  },
+  {
+   "pagina": 37,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "18/10-1",
+     "Recomendación": "En la realización de trabajos en enclavamientos o sistemas de bloqueo, se establecerá un sistema de análisis y evaluación de las actuaciones de seguridad de la empresa instaladora, de acuerdo con la norma UNE-EN 50126 y el plan de seguridad del proyecto y de sus protocolos adicionales. (Caso de seguridad – safety case - de la instalación)."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0018/2010",
+   "pagina": 1,
+   "cita": "nº 0018/2010 ocurrido el 26.03.2010",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 26 de marzo de 2010 a las 00:33 h se produjo una colisión por alcance entre los trenes de mercancías 58242 y 58244 de Renfe Operadora en el P.K. 172+050 de la línea 100 Madrid Chamartín–Hendaya, cerca de la estación de Arévalo (Ávila). El tren 58242 estaba detenido ante la señal de entrada E2 en parada, mientras que el tren 58244 encontró la señal avanzada 1734 en vía libre pese a estar el circuito posterior ocupado. El origen fue un fallo técnico en la señalización fija provocado por los cambios en el enclavamiento (nuevas tarjetas y software) para pruebas de futuro B.A.B. El accidente se catalogó como grave según R.D. 810/2007. El maquinista del tren 58244 falleció.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2010-03-26",
+    "hora": "00:33",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Arévalo",
+     "pk": "172+050",
+     "linea": "100 Madrid Chamartín – Hendaya",
+     "provincia": "Ávila (estación) / Segovia (P.K. 172+050, municipio de Martín Muñoz de la Dehesa)",
+     "descripcion_lugar": "Entre la señal avanzada 1734 y la señal de entrada E2 de la estación de Arévalo, vía 2, tramo Arévalo–Palacios de Goda, trayecto Arévalo–Ataquines. Alineación recta en rampa de 5,1‰."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 26 de marzo de 2010, a las 00:33 horas, en el P.K. 172+050, de la vía 2, en las proximidades",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura (vía y catenaria): 78.959,50 €. Material rodante: 67.250 €. Carga (bobinas de acero): 42.042 €. Total estimado: 188.251,50 €. Locomotora 251009 con grandes daños, elevada sobre vagones. 4 vagones descarrilados y dañados.",
+    "afectacion_servicio": "Ambas vías interceptadas desde el accidente hasta las 21:39 del 27/03. Vía única a 30 km/h desde las 21:39 del 27/03. Ambas vías restablecidas a 30 km/h desde las 14:47 del 28/03. Suprimidos: 2 trenes larga distancia, 4 media distancia, todos los de mercancías hasta el 28/03. Afectados: 5 larga distancia, 7 media distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo técnico en la señalización fija: la señal avanzada 1734 presentó indicación de vía libre estando el circuito posterior ocupado por el tren 58242 y la señal de entrada E2 en parada, debido a los cambios en el enclavamiento (nuevas tarjetas y software para pruebas de B.A.B.).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No interrupción completa de las circulaciones durante los trabajos en el enclavamiento",
+    "No establecimiento de bloqueo alternativo ni medidas que garantizaran la seguridad (ej.: eliminación de lámparas permisivas)",
+    "No verificación en campo de la concordancia del estado de las señales con respecto a lo establecido en la consigna que regula los trabajos",
+    "Incorrecta evaluación del riesgo que comportaba la realización de los trabajos con tráfico en la zona",
+    "No constancia de verificación y validación de los datos y prestaciones del enclavamiento en su situación provisional"
+   ],
+   "pagina": 3,
+   "cita": "La no verificación en campo de la concordancia del estado de las señales con respecto a lo",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ausencia de un sistema de análisis y evaluación de las actuaciones de seguridad de la empresa instaladora conforme a UNE-EN 50126",
+    "Falta de clarificación de funciones y responsabilidades del jefe de puesta en servicio de la empresa instaladora",
+    "Ausencia de constancia documental (safety case) antes de autorizar la puesta en servicio de modificaciones",
+    "La consigna ATO nº 18 – CTO nº 25 no establecía condiciones de explotación específicas para garantizar la seguridad durante los trabajos"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "En la realización de trabajos en enclavamientos o sistemas de bloqueo, se establecerá un sistema de análisis y evaluación de las actuaciones de seguridad de la empresa instaladora, de acuerdo con la norma UNE-EN 50126 y el plan de seguridad del proyecto y de sus protocolos adicionales. (Caso de seguridad – safety case - de la instalación).",
+    "En la realización de trabajos en enclavamientos o sistemas de bloqueo, se establecerá un sistema de análisis y evaluación de las actuaciones de seguridad de la empresa instaladora, de acuerdo con la norma UNE-EN 50126 y el plan de seguridad del proyecto y de sus protocolos adicionales. (Caso de seguridad – safety case - de la instalación)."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Colisión por alcance",
+   "pagina": 3,
+   "cita": "de la estación de Arévalo (Ávila), de la línea 100 Madrid Chamartín – Hendaya, se produce una",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "Renfe Operadora, cuando el primero está parado ante la señal de entrada E2, en indicación de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2010-03-26",
+   "pagina": 3,
+   "cita": "El día 26 de marzo de 2010, a las 00:33 horas, en el P.K. 172+050, de la vía 2, en las proximidades",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "00:33",
+   "pagina": 3,
+   "cita": "El día 26 de marzo de 2010, a las 00:33 horas, en el P.K. 172+050, de la vía 2, en las proximidades",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Arévalo",
+    "pk": "172+050",
+    "linea": "100 Madrid Chamartín – Hendaya",
+    "provincia": "Ávila (estación) / Segovia (P.K. 172+050, municipio de Martín Muñoz de la Dehesa)",
+    "descripcion_lugar": "Entre la señal avanzada 1734 y la señal de entrada E2 de la estación de Arévalo, vía 2, tramo Arévalo–Palacios de Goda, trayecto Arévalo–Ataquines. Alineación recta en rampa de 5,1‰."
+   },
+   "pagina": 3,
+   "cita": "de la estación de Arévalo (Ávila), de la línea 100 Madrid Chamartín – Hendaya, se produce una",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 100 Madrid Chamartín - Hendaya",
+   "pagina": 3,
+   "cita": "de la estación de Arévalo (Ávila), de la línea 100 Madrid Chamartín – Hendaya, se produce una",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 251017 (tren 58242, UIC 957102510170); Locomotora 251009 (tren 58244, UIC 957102510097). Serie 251.",
+    "averia": "Funcionamiento correcto de ambos trenes. Frecuencia captada coherente con la emitida por balizas. Desfase horario entre registradores de 4 min 44 s.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 26 de marzo de 2010, el tren de mercancías 58242, compuesto por 13 vagones con bobinas de acero procedentes de Trasona (Asturias) con destino Sagunto (Valencia), circulaba por la vía 2 de la línea 100 al amparo de la Consigna ATO nº 18 – CTO nº 25. Se detuvo ante la señal de entrada E2 de la estación de Arévalo, que presentaba indicación de parada. Tras recibir autorización del jefe de circulación para rebasar la señal, y antes de reiniciar la marcha, fue alcanzado por el tren gemelo 58244 (misma composición, carga y trayecto) que circulaba detrás. Este segundo tren encontró la señal avanzada 1734 en indicación de vía libre, aunque el circuito posterior estaba ocupado por el 58242 y la señal E2 en parada. Como consecuencia, la locomotora del 58244 quedó elevada sobre los dos últimos vagones del 58242, que resultaron descarrilados y dañados, al igual que los dos primeros vagones de cabeza del tren siniestrado. El maquinista del tren 58244 falleció en la cabina. Los trabajos en el enclavamiento (cambio de tarjetas y software para futura instalación de B.A.B. con C.T.C. del trayecto Ávila-Arévalo) se estaban realizando al amparo de la Consigna ATO nº 18 – CTO nº 25, iniciándose a las 23:47 h del día 25 tras el paso del tren 91602. Durante unos diez minutos se cortó el fluido eléctrico, y al restablecerse sobre las 23:57 h, la señal 1734 pasó a indicar vía libre de forma errónea.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Arévalo",
+    "pk": "172+050",
+    "linea": "100 Madrid Chamartín – Hendaya",
+    "provincia": "Ávila (estación) / Segovia (P.K. 172+050, municipio de Martín Muñoz de la Dehesa)",
+    "descripcion_lugar": "Entre la señal avanzada 1734 y la señal de entrada E2 de la estación de Arévalo, vía 2, tramo Arévalo–Palacios de Goda, trayecto Arévalo–Ataquines. Alineación recta en rampa de 5,1‰."
+   },
+   "pagina": 3,
+   "cita": "de la estación de Arévalo (Ávila), de la línea 100 Madrid Chamartín – Hendaya, se produce una",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura (vía y catenaria): 78.959,50 €. Material rodante: 67.250 €. Carga (bobinas de acero): 42.042 €. Total estimado: 188.251,50 €. Locomotora 251009 con grandes daños, elevada sobre vagones. 4 vagones descarrilados y dañados.",
+    "afectacion_servicio": "Ambas vías interceptadas desde el accidente hasta las 21:39 del 27/03. Vía única a 30 km/h desde las 21:39 del 27/03. Ambas vías restablecidas a 30 km/h desde las 14:47 del 28/03. Suprimidos: 2 trenes larga distancia, 4 media distancia, todos los de mercancías hasta el 28/03. Afectados: 5 larga distancia, 7 media distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Jefe de circulación de Arévalo (Adif, matrícula 9749748)",
+     "implicacion": "Autorizó el rebase de la señal E2 al tren 58242. No estableció comunicación con el maquinista del 58244. Preparó telefonema para el 58244 pero no llegó a transmitirlo. No verificó en campo el estado de las señales tras el restablecimiento del enclavamiento."
+    },
+    {
+     "rol": "Encargado de trabajos (Adif, matrícula 9740440)",
+     "implicacion": "Interlocutor entre jefe de circulación y empresa Thales. No solicitó ni realizó comprobación del aspecto de las señales en campo. No supervisa la concordancia con la consigna."
+    },
+    {
+     "rol": "Maquinista del tren 58242 (Renfe Operadora, matrícula 9735218)",
+     "implicacion": "Se detuvo correctamente ante señal E2 en parada. Recibió autorización de rebase. Sentó el impacto por cola. Actuación correcta."
+    },
+    {
+     "rol": "Maquinista del tren 58244 (Renfe Operadora, matrícula 8669038)",
+     "implicacion": "FALLECIÓ en la cabina. Circulaba con señal avanzada 1734 en vía libre (indicación errónea). Actuó correctamente conforme a las indicaciones recibidas."
+    },
+    {
+     "rol": "Ingeniero de la prueba (UTE Dimetronic-Thales)",
+     "implicacion": "Realizó el cambio de tarjetas y software del enclavamiento. No realizó prueba ni comprobación de la repercusión en las señales. No tenía constancia de circulaciones en la zona durante los trabajos."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "58242",
+     "tipo": "Mercancías (bobinas de acero, 13 vagones, 52 ejes, 156 m, 955 T remolcadas)",
+     "operador": "Renfe Operadora",
+     "danos": "Descarrilados y dañados los dos últimos vagones; desperfectos en bastidor, topes, triángulo de freno, tuberías de frenos y brazo retenedor. Locomotora 251017 (UIC 957102510170). Trayecto Trasona (Asturias) – Sagunto (Valencia)."
+    },
+    {
+     "numero": "58244",
+     "tipo": "Mercancías (bobinas de acero, 13 vagones, 52 ejes, 156 m, 955 T remolcadas)",
+     "operador": "Renfe Operadora",
+     "danos": "Grandes daños en locomotora 251009 (UIC 957102510097), que quedó elevada y apoyada sobre los dos últimos vagones del 58242. Dos primeros vagones de cabeza dañados. Trayecto Trasona (Asturias) – Sagunto (Valencia)."
+    }
+   ],
+   "pagina": 3,
+   "cita": "colisión por alcance entre los trenes de mercancías 58242 y 58244, ambos de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 251017 (tren 58242, UIC 957102510170); Locomotora 251009 (tren 58244, UIC 957102510097). Serie 251.",
+    "averia": "Funcionamiento correcto de ambos trenes. Frecuencia captada coherente con la emitida por balizas. Desfase horario entre registradores de 4 min 44 s.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales altas luminosas de entrada (E2) y avanzada (1734) con baliza ASFA previa y de pie de señal. Señal intermedia 1756. Enclavamiento electrónico INTERSIG (Alcatel España/Thales).",
+    "tipo_via": "Vía doble, bloqueo automático de vía doble (B.A.D.). Vía 2 (sentido Hendaya).",
+    "velocidad_maxima": "140 km/h (tramo); 100 km/h (velocidad máxima del trayecto para trenes de mercancías según libro horario)",
+    "ancho": null,
+    "electrificacion": "Cateneria (dañada en el accidente)",
+    "estado_via": "Alineación recta, rampa de 5,1‰. Sin elementos que dificulten visibilidad. Sin limitaciones de velocidad en Consigna serie B nº 3.",
+    "otro": "Tráfico regulado por jefes de circulación de estaciones colaterales bajo supervisión del Puesto de Mando de Madrid Chamartín. Media semanal de 329 circulaciones en el tramo. Radiotelefonía modalidad A y C."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales altas luminosas de entrada (E2) y avanzada (1734) con baliza ASFA previa y de pie de señal. Señal intermedia 1756. Enclavamiento electrónico INTERSIG (Alcatel España/Thales).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura (vía y catenaria): 78.959,50 €. Material rodante: 67.250 €. Carga (bobinas de acero): 42.042 €. Total estimado: 188.251,50 €. Locomotora 251009 con grandes daños, elevada sobre vagones. 4 vagones descarrilados y dañados.",
+    "afectacion_servicio": "Ambas vías interceptadas desde el accidente hasta las 21:39 del 27/03. Vía única a 30 km/h desde las 21:39 del 27/03. Ambas vías restablecidas a 30 km/h desde las 14:47 del 28/03. Suprimidos: 2 trenes larga distancia, 4 media distancia, todos los de mercancías hasta el 28/03. Afectados: 5 larga distancia, 7 media distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura (vía y catenaria): 78.959,50 €. Material rodante: 67.250 €. Carga (bobinas de acero): 42.042 €. Total estimado: 188.251,50 €. Locomotora 251009 con grandes daños, elevada sobre vagones. 4 vagones descarrilados y dañados.",
+    "afectacion_servicio": "Ambas vías interceptadas desde el accidente hasta las 21:39 del 27/03. Vía única a 30 km/h desde las 21:39 del 27/03. Ambas vías restablecidas a 30 km/h desde las 14:47 del 28/03. Suprimidos: 2 trenes larga distancia, 4 media distancia, todos los de mercancías hasta el 28/03. Afectados: 5 larga distancia, 7 media distancia."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura (vía y catenaria): 78.959,50 €. Material rodante: 67.250 €. Carga (bobinas de acero): 42.042 €. Total estimado: 188.251,50 €. Locomotora 251009 con grandes daños, elevada sobre vagones. 4 vagones descarrilados y dañados.",
+    "afectacion_servicio": "Ambas vías interceptadas desde el accidente hasta las 21:39 del 27/03. Vía única a 30 km/h desde las 21:39 del 27/03. Ambas vías restablecidas a 30 km/h desde las 14:47 del 28/03. Suprimidos: 2 trenes larga distancia, 4 media distancia, todos los de mercancías hasta el 28/03. Afectados: 5 larga distancia, 7 media distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 251017 (tren 58242, UIC 957102510170); Locomotora 251009 (tren 58244, UIC 957102510097). Serie 251.",
+    "averia": "Funcionamiento correcto de ambos trenes. Frecuencia captada coherente con la emitida por balizas. Desfase horario entre registradores de 4 min 44 s.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales altas luminosas de entrada (E2) y avanzada (1734) con baliza ASFA previa y de pie de señal. Señal intermedia 1756. Enclavamiento electrónico INTERSIG (Alcatel España/Thales).",
+    "tipo_via": "Vía doble, bloqueo automático de vía doble (B.A.D.). Vía 2 (sentido Hendaya).",
+    "velocidad_maxima": "140 km/h (tramo); 100 km/h (velocidad máxima del trayecto para trenes de mercancías según libro horario)",
+    "ancho": null,
+    "electrificacion": "Cateneria (dañada en el accidente)",
+    "estado_via": "Alineación recta, rampa de 5,1‰. Sin elementos que dificulten visibilidad. Sin limitaciones de velocidad en Consigna serie B nº 3.",
+    "otro": "Tráfico regulado por jefes de circulación de estaciones colaterales bajo supervisión del Puesto de Mando de Madrid Chamartín. Media semanal de 329 circulaciones en el tramo. Radiotelefonía modalidad A y C."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche, tiempo despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Ávila",
+    "municipio": null,
+    "estacion": "Arévalo"
+   },
+   "pagina": 3,
+   "cita": "de la estación de Arévalo (Ávila), de la línea 100 Madrid Chamartín – Hendaya, se produce una",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche, tiempo despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales altas luminosas de entrada (E2) y avanzada (1734) con baliza ASFA previa y de pie de señal. Señal intermedia 1756. Enclavamiento electrónico INTERSIG (Alcatel España/Thales).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales altas luminosas de entrada (E2) y avanzada (1734) con baliza ASFA previa y de pie de señal. Señal intermedia 1756. Enclavamiento electrónico INTERSIG (Alcatel España/Thales).",
+    "tipo_via": "Vía doble, bloqueo automático de vía doble (B.A.D.). Vía 2 (sentido Hendaya).",
+    "velocidad_maxima": "140 km/h (tramo); 100 km/h (velocidad máxima del trayecto para trenes de mercancías según libro horario)",
+    "ancho": null,
+    "electrificacion": "Cateneria (dañada en el accidente)",
+    "estado_via": "Alineación recta, rampa de 5,1‰. Sin elementos que dificulten visibilidad. Sin limitaciones de velocidad en Consigna serie B nº 3.",
+    "otro": "Tráfico regulado por jefes de circulación de estaciones colaterales bajo supervisión del Puesto de Mando de Madrid Chamartín. Media semanal de 329 circulaciones en el tramo. Radiotelefonía modalidad A y C."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 251017 (tren 58242, UIC 957102510170); Locomotora 251009 (tren 58244, UIC 957102510097). Serie 251.",
+    "averia": "Funcionamiento correcto de ambos trenes. Frecuencia captada coherente con la emitida por balizas. Desfase horario entre registradores de 4 min 44 s.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "No interrupción completa de las circulaciones durante los trabajos en el enclavamiento",
+    "No establecimiento de bloqueo alternativo ni medidas que garantizaran la seguridad (ej.: eliminación de lámparas permisivas)",
+    "No verificación en campo de la concordancia del estado de las señales con respecto a lo establecido en la consigna que regula los trabajos",
+    "Incorrecta evaluación del riesgo que comportaba la realización de los trabajos con tráfico en la zona",
+    "No constancia de verificación y validación de los datos y prestaciones del enclavamiento en su situación provisional"
+   ],
+   "pagina": 3,
+   "cita": "La no verificación en campo de la concordancia del estado de las señales con respecto a lo",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "Por parte de Adif \n \nJornada laboral del jefe de circulación: \n- \nel día 26: 2 horas y 35 minutos. \n- \nel día 25: 8 horas. \n\n## Página 31\n\n \n \n \nInvestigación del accidente \nnº 0018/2010 ocurrido el 26.03.2010 \nSECRETARÍA DE ESTADO \nDE TRANSPORTES \n \nSECRETARÍA GENERAL DE \nTRANSPORTES \nA\nMINISTERIO \nDE FOMENTO \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nInforme final \n \nIF-260310-281210-CIAF \n \n \nPág. 31 de 39\n- \nel día 24: descanso. \nSe le realizó la prueba de alcoholemia en aire espirado, siendo el resultado negativo (0,00mg/1.000 ml). \n \nJornada laboral del encargado de trabajos: \n- \nel día 26: 2 horas y 35 minutos. \n- \nel día 25: 8 horas. \n- \nel día 24: 8 horas. \nPor parte de Renfe Operadora \n \nJornada laboral del maquinista del tren 58242: \n- \nel día 26: 7 horas y 27 minutos (efectiva de conducción: 4 horas y 16 minutos). \n- \nel día 25: 5 horas y 7 minutos (efectiva de conducción: 1 hora y 38 minutos). \n- \nel día 24: 8 horas (efectiva de conducción: ninguna). \nSe le realizó la prueba de alcoholemia en aire espirado, siendo el resultado negativo (0,00mg/1.000 ml). \n \nJornada laboral del maquinista del tren 58244: \n- \nel día 26: 6 horas y 7 minutos (efectiva de conducción: 3 horas y 58 minutos). \n- \nel día 25: 7 horas y 6 minutos (efectiva de conducción: 5 horas y 21 minutos). \n- \nel día 24: 6 horas y 48 minutos (efectiva de conducción: 5 horas y 37 minutos).",
+   "pagina": 30,
+   "cita": "3.6. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Por parte de Adif \n \nJornada laboral del jefe de circulación: \n- \nel día 26: 2 horas y 35 minutos. \n- \nel día 25: 8 horas. \n\n## Página 31\n\n \n \n \nInvestigación del accidente \nnº 0018/2010 ocurrido el 26.03.2010 \nSECRETARÍA DE ESTADO \nDE TRANSPORTES \n \nSECRETARÍA GENERAL DE \nTRANSPORTES \nA\nMINISTERIO \nDE FOMENTO \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nInforme final \n \nIF-260310-281210-CIAF \n \n \nPág. 31 de 39\n- \nel día 24: descanso. \nSe le realizó la prueba de alcoholemia en aire espirado, siendo el resultado negativo (0,00mg/1.000 ml). \n \nJornada laboral del encargado de trabajos: \n- \nel día 26: 2 horas y 35 minutos. \n- \nel día 25: 8 horas. \n- \nel día 24: 8 horas. \nPor parte de Renfe Operadora \n \nJornada laboral del maquinista del tren 58242: \n- \nel día 26: 7 horas y 27 minutos (efectiva de conducción: 4 horas y 16 minutos). \n- \nel día 25: 5 horas y 7 minutos (efectiva de conducción: 1 hora y 38 minutos). \n- \nel día 24: 8 horas (efectiva de conducción: ninguna). \nSe le realizó la prueba de alcoholemia en aire espirado, siendo el resultado negativo (0,00mg/1.000 ml). \n \nJornada laboral del maquinista del tren 58244: \n- \nel día 26: 6 horas y 7 minutos (efectiva de conducción: 3 horas y 58 minutos). \n- \nel día 25: 7 horas y 6 minutos (efectiva de conducción: 5 horas y 21 minutos). \n- \nel día 24: 6 horas y 48 minutos (efectiva de conducción: 5 horas y 37 minutos).",
+   "pagina": 30,
+   "cita": "3.6. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 26 de marzo de 2010, el tren de mercancías 58242, compuesto por 13 vagones con bobinas de acero procedentes de Trasona (Asturias) con destino Sagunto (Valencia), circulaba por la vía 2 de la línea 100 al amparo de la Consigna ATO nº 18 – CTO nº 25. Se detuvo ante la señal de entrada E2 de la estación de Arévalo, que presentaba indicación de parada. Tras recibir autorización del jefe de circulación para rebasar la señal, y antes de reiniciar la marcha, fue alcanzado por el tren gemelo 58244 (misma composición, carga y trayecto) que circulaba detrás. Este segundo tren encontró la señal avanzada 1734 en indicación de vía libre, aunque el circuito posterior estaba ocupado por el 58242 y la señal E2 en parada. Como consecuencia, la locomotora del 58244 quedó elevada sobre los dos últimos vagones del 58242, que resultaron descarrilados y dañados, al igual que los dos primeros vagones de cabeza del tren siniestrado. El maquinista del tren 58244 falleció en la cabina. Los trabajos en el enclavamiento (cambio de tarjetas y software para futura instalación de B.A.B. con C.T.C. del trayecto Ávila-Arévalo) se estaban realizando al amparo de la Consigna ATO nº 18 – CTO nº 25, iniciándose a las 23:47 h del día 25 tras el paso del tren 91602. Durante unos diez minutos se cortó el fluido eléctrico, y al restablecerse sobre las 23:57 h, la señal 1734 pasó a indicar vía libre de forma errónea.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo técnico en la señalización fija: la señal avanzada 1734 presentó indicación de vía libre estando el circuito posterior ocupado por el tren 58242 y la señal de entrada E2 en parada, debido a los cambios en el enclavamiento (nuevas tarjetas y software para pruebas de B.A.B.).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No interrupción completa de las circulaciones durante los trabajos en el enclavamiento",
+    "No establecimiento de bloqueo alternativo ni medidas que garantizaran la seguridad (ej.: eliminación de lámparas permisivas)",
+    "No verificación en campo de la concordancia del estado de las señales con respecto a lo establecido en la consigna que regula los trabajos",
+    "Incorrecta evaluación del riesgo que comportaba la realización de los trabajos con tráfico en la zona",
+    "No constancia de verificación y validación de los datos y prestaciones del enclavamiento en su situación provisional"
+   ],
+   "pagina": 3,
+   "cita": "La no verificación en campo de la concordancia del estado de las señales con respecto a lo",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así \ncomo los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigación \nconcluye que: \nEl accidente tuvo su origen en un fallo técnico en las instalaciones de seguridad, en concreto, en la \nseñalización fija, producido por los cambios en el enclavamiento de la estación de Arévalo para la \nrealización de pruebas. Estos cambios consistían en la instalación de nuevas tarjetas y software, para \nla futura puesta en servicio de bloqueo automático banalizado (B.A.B.) en el trayecto. La colisión por \nalcance se produce al presentar indicación de vía libre la señal de avanzada 1734, encontrándose el \ncircuito posterior ocupado y la señal de entrada E2 en indicación de parada. \n\n## Página 37\n\n \n \n \nInvestigación del accidente \nnº 0018/2010 ocurrido el 26.03.2010 \nSECRETARÍA DE ESTADO \nDE TRANSPORTES \n \nSECRETARÍA GENERAL DE \nTRANSPORTES \nA\nMINISTERIO \nDE FOMENTO \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nInforme final \n \nIF-260310-281210-CIAF \n \n \nPág. 37 de 39\nCausas coadyuvantes \nExiste un conjunto de circunstancias que han colaborado a que se produzca este accidente: \n• \nLa no interrupción completa de las circulaciones durante los trabajos o, en su defecto, el \nestablecimiento de medidas que hubieran garantizado la seguridad de las mismas, como \npueden ser: \n \nEstablecer bloqueo alternativo. \n \nActuación sobre las señales afectadas, de forma que se impida la presentación de las \nindicaciones que autorizan movimientos (verde y amarillo). \n• \nLa no verificación en campo de la concordancia del estado de las señales con respecto a lo \nestablecido en la consigna que regula los trabajos. \n• \nLa incorrecta evaluación del riesgo que comportaba la realización de esos trabajos. \n5. \nRECOMENDACIONES  \n \nDestinatario final \nNúmero \nRecomendación \nAdif \n18/10-1 \nEn la realización de trabajos en enclavamientos o \nsistemas de bloqueo, se establecerá un sistema de \nanálisis y evaluación de las actuaciones de \nseguridad de la empresa instaladora, de acuerdo \ncon la norma UNE-EN 50126 y el plan de seguridad \ndel proyecto y de sus protocolos adicionales. (Caso \nde seguridad – safety case - de la instalación). \n\n### Tablas de la página 37\n\n| Destinatario final | Número | Recomendación |\n|---|---|---|\n| Adif | 18/10-1 | En la realización de trabajos en enclavamientos o sistemas de bloqueo, se establecerá un sistema de análisis y evaluación de las actuaciones de seguridad de la empresa instaladora, de acuerdo con la norma UNE-EN 50126 y el plan de seguridad del proyecto y de sus protocolos adicionales. (Caso de seguridad – safety case - de la instalación). |\n\n## Página 38\n\n \n \n \nInvestigación del accidente \nnº 0018/2010 ocurrido el 26.03.2010 \nSECRETARÍA DE ESTADO \nDE TRANSPORTES \n \nSECRETARÍA GENERAL DE \nTRANSPORTES \nA\nMINISTERIO \nDE FOMENTO \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nInforme final \n \nIF-260310-281210-CIAF \n \n \nPág. 38 de 39\nAdif \n18/10-2 \nCuando la realización de estos trabajos pueda \nafectar al funcionamiento de las instalaciones de \nseguridad que regulan (señales, balizas, aparatos de \nvía, etc.), se deberán tomar las siguientes medidas: \n¾ \nInterrupción de las circulaciones o, en su \ndefecto, el establecimiento de un sistema de \nbloqueo alternativo que garantice la seguridad de \nlas mismas. \n¾ \nFinalizados los trabajos, y antes de permitir \nla normal circulación, se comprobará en campo \nque \ntodas \nlas \ninstalaciones \nde \nseguridad \n(señales, balizas, aparatos de vía, etc.) son \nacordes con lo previsto. \n¾ \nEstos términos se deberán recoger en la \nconsigna correspondiente, especificando: \n Las actividades a realizar, los responsables \nde las mismas y las condiciones de \nseguridad necesarias. \n Los periodos de corte de circulación durante \nla realización de las pruebas. \n Las \ncomprobaciones \n(concordancia) \na \nrealizar en las situaciones provisionales a \nque de lugar el periodo de baja del \nenclavamiento, para hacerlas compatibles \ncon el tráfico. \nTodo lo anterior vendrá como resultado de un \nanálisis \nde \nriesgos \ndocumentado \na \nrealizar \nconjuntamente con la empresa instaladora. \n\n## Página 39\n\n \n \n \nInvestigación del accidente \nnº 0018/2010 ocurrido el 26.03.2010 \nSECRETARÍA DE ESTADO \nDE TRANSPORTES \n \nSECRETARÍA GENERAL DE \nTRANSPORTES \nA\nMINISTERIO \nDE FOMENTO \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nInforme final \n \nIF-260310-281210-CIAF \n \n \nPág. 39 de 39\nUTE Dimetronic-Thales \n18/10-3 \nSe deberán revisar los procesos del sistema de \nGestión de Seguridad/Calidad de la empresa, \nrelativos a instalaciones de seguridad, tanto nuevas \ncomo modificación de las existentes, y en los casos \nde mantenimiento del tráfico ferroviario, con el fin \nde evitar situaciones similares a las del suceso. Se \ndeberá clarificar en estos casos las funciones y \nresponsabilidades del jefe de puesta en servicio de \nla empresa, como conocedor de los riesgos técnicos \nderivados de estas situaciones. \nLos equipos de seguridad de la empresa deberán \ncontrolar que se realicen de forma efectiva las \nactividades para la verificación/validación de los \nsistemas o subsistemas a instalar, o la modificación \nde los existentes. Además, este equipo de seguridad \ndeberá dar conformidad a las actividades de campo \nprevias a la puesta en servicio. \nSe deberá tener constancia documental de todo lo \nanterior (caso de seguridad) antes de proceder a la \nautorización de la puesta en servicio de la \ninstalación, bien sea nueva o modificación de una \nexistente. Todo ello particularizado para el proyecto \nconcreto de que se trate. \n \n \n \n \n \n \nMadrid, 28 de diciembre de 2010",
+   "pagina": 36,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigac",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así \ncomo los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigación \nconcluye que: \nEl accidente tuvo su origen en un fallo técnico en las instalaciones de seguridad, en concreto, en la \nseñalización fija, producido por los cambios en el enclavamiento de la estación de Arévalo para la \nrealización de pruebas. Estos cambios consistían en la instalación de nuevas tarjetas y software, para \nla futura puesta en servicio de bloqueo automático banalizado (B.A.B.) en el trayecto. La colisión por \nalcance se produce al presentar indicación de vía libre la señal de avanzada 1734, encontrándose el \ncircuito posterior ocupado y la señal de entrada E2 en indicación de parada. \n\n## Página 37\n\n \n \n \nInvestigación del accidente \nnº 0018/2010 ocurrido el 26.03.2010 \nSECRETARÍA DE ESTADO \nDE TRANSPORTES \n \nSECRETARÍA GENERAL DE \nTRANSPORTES \nA\nMINISTERIO \nDE FOMENTO \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nInforme final \n \nIF-260310-281210-CIAF \n \n \nPág. 37 de 39\nCausas coadyuvantes \nExiste un conjunto de circunstancias que han colaborado a que se produzca este accidente: \n• \nLa no interrupción completa de las circulaciones durante los trabajos o, en su defecto, el \nestablecimiento de medidas que hubieran garantizado la seguridad de las mismas, como \npueden ser: \n \nEstablecer bloqueo alternativo. \n \nActuación sobre las señales afectadas, de forma que se impida la presentación de las \nindicaciones que autorizan movimientos (verde y amarillo). \n• \nLa no verificación en campo de la concordancia del estado de las señales con respecto a lo \nestablecido en la consigna que regula los trabajos. \n• \nLa incorrecta evaluación del riesgo que comportaba la realización de esos trabajos. \n5. \nRECOMENDACIONES  \n \nDestinatario final \nNúmero \nRecomendación \nAdif \n18/10-1 \nEn la realización de trabajos en enclavamientos o \nsistemas de bloqueo, se establecerá un sistema de \nanálisis y evaluación de las actuaciones de \nseguridad de la empresa instaladora, de acuerdo \ncon la norma UNE-EN 50126 y el plan de seguridad \ndel proyecto y de sus protocolos adicionales. (Caso \nde seguridad – safety case - de la instalación). \n\n### Tablas de la página 37\n\n| Destinatario final | Número | Recomendación |\n|---|---|---|\n| Adif | 18/10-1 | En la realización de trabajos en enclavamientos o sistemas de bloqueo, se establecerá un sistema de análisis y evaluación de las actuaciones de seguridad de la empresa instaladora, de acuerdo con la norma UNE-EN 50126 y el plan de seguridad del proyecto y de sus protocolos adicionales. (Caso de seguridad – safety case - de la instalación). |\n\n## Página 38\n\n \n \n \nInvestigación del accidente \nnº 0018/2010 ocurrido el 26.03.2010 \nSECRETARÍA DE ESTADO \nDE TRANSPORTES \n \nSECRETARÍA GENERAL DE \nTRANSPORTES \nA\nMINISTERIO \nDE FOMENTO \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nInforme final \n \nIF-260310-281210-CIAF \n \n \nPág. 38 de 39\nAdif \n18/10-2 \nCuando la realización de estos trabajos pueda \nafectar al funcionamiento de las instalaciones de \nseguridad que regulan (señales, balizas, aparatos de \nvía, etc.), se deberán tomar las siguientes medidas: \n¾ \nInterrupción de las circulaciones o, en su \ndefecto, el establecimiento de un sistema de \nbloqueo alternativo que garantice la seguridad de \nlas mismas. \n¾ \nFinalizados los trabajos, y antes de permitir \nla normal circulación, se comprobará en campo \nque \ntodas \nlas \ninstalaciones \nde \nseguridad \n(señales, balizas, aparatos de vía, etc.) son \nacordes con lo previsto. \n¾ \nEstos términos se deberán recoger en la \nconsigna correspondiente, especificando: \n Las actividades a realizar, los responsables \nde las mismas y las condiciones de \nseguridad necesarias. \n Los periodos de corte de circulación durante \nla realización de las pruebas. \n Las \ncomprobaciones \n(concordancia) \na \nrealizar en las situaciones provisionales a \nque de lugar el periodo de baja del \nenclavamiento, para hacerlas compatibles \ncon el tráfico. \nTodo lo anterior vendrá como resultado de un \nanálisis \nde \nriesgos \ndocumentado \na \nrealizar \nconjuntamente con la empresa instaladora. \n\n## Página 39\n\n \n \n \nInvestigación del accidente \nnº 0018/2010 ocurrido el 26.03.2010 \nSECRETARÍA DE ESTADO \nDE TRANSPORTES \n \nSECRETARÍA GENERAL DE \nTRANSPORTES \nA\nMINISTERIO \nDE FOMENTO \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nInforme final \n \nIF-260310-281210-CIAF \n \n \nPág. 39 de 39\nUTE Dimetronic-Thales \n18/10-3 \nSe deberán revisar los procesos del sistema de \nGestión de Seguridad/Calidad de la empresa, \nrelativos a instalaciones de seguridad, tanto nuevas \ncomo modificación de las existentes, y en los casos \nde mantenimiento del tráfico ferroviario, con el fin \nde evitar situaciones similares a las del suceso. Se \ndeberá clarificar en estos casos las funciones y \nresponsabilidades del jefe de puesta en servicio de \nla empresa, como conocedor de los riesgos técnicos \nderivados de estas situaciones. \nLos equipos de seguridad de la empresa deberán \ncontrolar que se realicen de forma efectiva las \nactividades para la verificación/validación de los \nsistemas o subsistemas a instalar, o la modificación \nde los existentes. Además, este equipo de seguridad \ndeberá dar conformidad a las actividades de campo \nprevias a la puesta en servicio. \nSe deberá tener constancia documental de todo lo \nanterior (caso de seguridad) antes de proceder a la \nautorización de la puesta en servicio de la \ninstalación, bien sea nueva o modificación de una \nexistente. Todo ello particularizado para el proyecto \nconcreto de que se trate. \n \n \n \n \n \n \nMadrid, 28 de diciembre de 2010",
+   "pagina": 36,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investigac",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "En la realización de trabajos en enclavamientos o sistemas de bloqueo, se establecerá un sistema de análisis y evaluación de las actuaciones de seguridad de la empresa instaladora, de acuerdo con la norma UNE-EN 50126 y el plan de seguridad del proyecto y de sus protocolos adicionales. (Caso de seguridad – safety case - de la instalación).",
+    "En la realización de trabajos en enclavamientos o sistemas de bloqueo, se establecerá un sistema de análisis y evaluación de las actuaciones de seguridad de la empresa instaladora, de acuerdo con la norma UNE-EN 50126 y el plan de seguridad del proyecto y de sus protocolos adicionales. (Caso de seguridad – safety case - de la instalación)."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "23:30",
+     "evento": "Solicitud de inicio de trabajos por el encargado de trabajos al jefe de circulación (día 25)"
+    },
+    {
+     "hora": "23:36:12",
+     "evento": "Comunicación Arévalo–Puesto de Mando: solicitud de trabajos del punto de acta 193, corte de señales"
+    },
+    {
+     "hora": "23:40",
+     "evento": "El jefe de circulación concede autorización al encargado de trabajos para iniciar los trabajos tras paso del tren 91602"
+    },
+    {
+     "hora": "23:45",
+     "evento": "Inicio del cambio de software del enclavamiento por personal de Thales"
+    },
+    {
+     "hora": "23:47",
+     "evento": "Desconexión del enclavamiento (corte de tensión)"
+    },
+    {
+     "hora": "23:57",
+     "evento": "Restablecimiento del fluido eléctrico al enclavamiento y cambio de tarjetas y software"
+    },
+    {
+     "hora": "00:08:50",
+     "evento": "Ataquines anuncia paso del tren 58242 al Puesto de Mando"
+    },
+    {
+     "hora": "00:14:26",
+     "evento": "Ataquines anuncia paso del tren 58244 al Puesto de Mando"
+    },
+    {
+     "hora": "00:25:01",
+     "evento": "Tren 58242 pasa por baliza previa de señal 1734 (hora corregida), velocidad 14 km/h"
+    },
+    {
+     "hora": "00:26:14",
+     "evento": "Tren 58242 realiza parada tras baliza previa de señal 1734"
+    },
+    {
+     "hora": "00:27:04",
+     "evento": "Tren 58242 pasa baliza de pie de señal 1734 a 8 km/h (rebase autorizado)"
+    },
+    {
+     "hora": "00:30:12",
+     "evento": "Maquinista 58242 comunica al Puesto de Mando que está parado ante señal de entrada de Arévalo"
+    },
+    {
+     "hora": "00:30:15",
+     "evento": "Tren 58242 pasa baliza previa de señal E2 a 23 km/h"
+    },
+    {
+     "hora": "00:31:22",
+     "evento": "Tren 58242 se detiene ante señal E2"
+    },
+    {
+     "hora": "00:31:56",
+     "evento": "Tren 58244 pasa baliza previa de señal 1734 a 34 km/h, indicación vía libre"
+    },
+    {
+     "hora": "00:32:25",
+     "evento": "Tren 58244 pasa baliza de pie de señal 1734 a 42 km/h, vía libre"
+    },
+    {
+     "hora": "00:33",
+     "evento": "Hora oficial del accidente según el informe"
+    },
+    {
+     "hora": "00:33:39",
+     "evento": "Tren 58244 pasa baliza previa de señal E2 a 69 km/h; se activa freno de emergencia"
+    },
+    {
+     "hora": "00:33:45",
+     "evento": "COLISIÓN: el tren 58244 alcanza al 58242. Registrador 58242 refleja movimiento: 16 m desplazados, velocidad 18 km/h"
+    },
+    {
+     "hora": "00:35:25",
+     "evento": "Arévalo comunica al Puesto de Mando que el 58244 ha golpeado por cola al 58242"
+    },
+    {
+     "hora": "00:49:44",
+     "evento": "Arévalo informa que la locomotora del 44 está casi por encima de la catenaria"
+    },
+    {
+     "hora": "00:59:25",
+     "evento": "Maquinista 58242 confirma que no encuentra a su compañero (58244) y que ambas vías están interceptadas"
+    },
+    {
+     "hora": "01:08:02",
+     "evento": "Agentes de señales confirman que ven al maquinista del 44 dentro de la cabina con sangre en el cristal; creen que está muerto"
+    },
+    {
+     "hora": "02:05",
+     "evento": "Jefe de investigación de Adif comunica el accidente a la CIAF"
+    },
+    {
+     "hora": "21:39",
+     "evento": "Fin del día 27: se establece vía única con limitación a 30 km/h"
+    },
+    {
+     "hora": "14:47",
+     "evento": "Día 28: se restablece tráfico por ambas vías con limitación a 30 km/h"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0018/2010",
+ "expediente": "0018/010",
+ "anio": 2010,
+ "titulo": "Colisión por alcance entre trenes de mercancías 58242 y 58244 cerca de Arévalo (Ávila)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-260310-281210-CIAF.md"
+}

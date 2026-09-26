@@ -1,0 +1,899 @@
+{
+ "id": "IF_211212_250613_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/36B527F3-925E-40E0-9BD9-B34850EEAAB6/119637/IF211212250613CIAF.pdf",
+ "pdf": "pdfs/ES/IF_211212_250613_CIAF.pdf",
+ "md5_pdf": "c5a06934c876975a79006669ac852d1b",
+ "paginas_md": 14,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 16,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0076/2012",
+   "pagina": 1,
+   "cita": "nº 0076/2012 ocurrido el 21.12.2012",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 21 de diciembre de 2012 a las 11:15 horas, el tren de viajeros 1112 de Renfe Operadora rebasó indebidamente la señal E2B en indicación de parada a la entrada de la estación de Valencia-Font de Sant Lluis. Se produjo un conato de colisión con el tren 10596 que ocupaba el mismo cantón de bloqueo. El incidente se originó por incumplimiento del personal de conducción de la orden dada por la señal. No hubo víctimas ni daños materiales. El tren 1112 perdió 63 minutos y la vía permaneció interceptada 57 minutos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2012-12-21",
+    "hora": "11:15",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Valencia-Font de Sant Lluis",
+     "pk": "2+000",
+     "linea": "600 Valencia – Estació del Nord a Sant Vicenç de Calders",
+     "provincia": "Valencia",
+     "descripcion_lugar": "Entrada a la estación de Valencia-Font de Sant Lluis, tramo Valencia AG A.V. – Valencia-Font de Sant Lluis, vía doble electrificada de ancho convencional, mando local gestionado por la estación. Señal E2B en pórtico, alineación recta, luminosa de tres focos con baliza previa y de pie, con flecha indicadora por estar ligeramente a la izquierda de la vía."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 21 de diciembre de 2012, a las 11:15 horas, en la línea 600 Valencia – Estació del Nord a Sant",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material rodante ni en infraestructura",
+    "afectacion_servicio": "El tren 1112 perdió 63 minutos; 2 trenes de cercanías perdieron un total de 27 minutos. La vía permaneció interceptada durante 57 minutos. El tren fue apartado en la estación de Valencia-Font de Sant Lluis para relevar al maquinista."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Rebase indebido de la señal E2B en indicación de parada por incumplimiento de la orden dada por la señal al personal de conducción",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Desviación de la atención del maquinista por la avería mostrada en la pantalla IDU de la cabina",
+    "El tren no dispone de ASFA digital, por lo que no se reforzó la indicación del estado de la señal",
+    "El maquinista no percibió la información de la baliza previa como parada y no se puso en condiciones de parar",
+    "El maquinista no asimiló que la frenada de emergencia era motivada por el rebase de la señal",
+    "Rearme del ASFA y reanudación de la marcha sin autorización tras el rebase",
+    "No se puso en comunicación con el CTC hasta detenerse ante la señal siguiente E2"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente",
+   "pagina": 1,
+   "cita": "Investigación del incidente",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "El tren de viajeros 1112 de la empresa Renfe Operadora, con origen Valencia-Joaquín Sorolla y destino",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2012-12-21",
+   "pagina": 3,
+   "cita": "El día 21 de diciembre de 2012, a las 11:15 horas, en la línea 600 Valencia – Estació del Nord a Sant",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "11:15",
+   "pagina": 3,
+   "cita": "El día 21 de diciembre de 2012, a las 11:15 horas, en la línea 600 Valencia – Estació del Nord a Sant",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Valencia-Font de Sant Lluis",
+    "pk": "2+000",
+    "linea": "600 Valencia – Estació del Nord a Sant Vicenç de Calders",
+    "provincia": "Valencia",
+    "descripcion_lugar": "Entrada a la estación de Valencia-Font de Sant Lluis, tramo Valencia AG A.V. – Valencia-Font de Sant Lluis, vía doble electrificada de ancho convencional, mando local gestionado por la estación. Señal E2B en pórtico, alineación recta, luminosa de tres focos con baliza previa y de pie, con flecha indicadora por estar ligeramente a la izquierda de la vía."
+   },
+   "pagina": 4,
+   "cita": "señal E2B. Por su parte el tren 10596 se estaciona en la mencionada vía 6.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 600 Valencia – Estació del Nord a Sant Vicenç de Calders",
+   "pagina": 3,
+   "cita": "El día 21 de diciembre de 2012, a las 11:15 horas, en la línea 600 Valencia – Estació del Nord a Sant",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tipo 200B, ramas 130036/130035, 26 vehículos, 40 ejes, 624 toneladas, 368 metros de longitud",
+    "averia": "Aparición de avería en la pantalla de diagnóstico (IDU) de la cabina durante el paso por los cambios de salida; el tren no dispone de ASFA digital",
+    "mantenimiento": "Equipos de seguridad del tren funcionaron correctamente según el registrador de seguridad"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros 1112 de Renfe Operadora, con origen Valencia-Joaquín Sorolla y destino Barcelona-Sants, inicia la marcha desde la vía 9 con la señal de salida S1/9PA en indicación de anuncio de parada, reconocida por el maquinista en el pulsador del ASFA. Tras pasar por los cambios 110, 108, T106 y T104 hasta situarse en la vía II, aparece en la pantalla de diagnóstico (IDU) de la cabina una avería, y el maquinista trata de reconocerla. A continuación pasa por la baliza previa de la señal E2B (frecuencia L7-control de velocidad) sin modificar la velocidad y rebasa la baliza de la señal, en indicación de parada, a 24 km/h. Se activa el frenado de emergencia por el ASFA y el tren invade el cantón siguiente, ocupado por el tren 10596, produciéndose un conato de colisión.\n\nEl maquinista no asimila el rebase ni que la frenada fue motivada por el ASFA, rearma el sistema y continúa la marcha hasta la señal E2, que indica parada. Detenido ante esta señal, el CTC le informa de que ha rebasado la E2B. El tren 10596 se estaciona en vía 6. El tren 1112 recorre unos 1157 metros desde el rebase hasta su detención ante la señal E2.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Valencia-Font de Sant Lluis",
+    "pk": "2+000",
+    "linea": "600 Valencia – Estació del Nord a Sant Vicenç de Calders",
+    "provincia": "Valencia",
+    "descripcion_lugar": "Entrada a la estación de Valencia-Font de Sant Lluis, tramo Valencia AG A.V. – Valencia-Font de Sant Lluis, vía doble electrificada de ancho convencional, mando local gestionado por la estación. Señal E2B en pórtico, alineación recta, luminosa de tres focos con baliza previa y de pie, con flecha indicadora por estar ligeramente a la izquierda de la vía."
+   },
+   "pagina": 4,
+   "cita": "señal E2B. Por su parte el tren 10596 se estaciona en la mencionada vía 6.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material rodante ni en infraestructura",
+    "afectacion_servicio": "El tren 1112 perdió 63 minutos; 2 trenes de cercanías perdieron un total de 27 minutos. La vía permaneció interceptada durante 57 minutos. El tren fue apartado en la estación de Valencia-Font de Sant Lluis para relevar al maquinista."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista del tren 1112",
+     "implicacion": "Rebasó indebidamente la señal E2B en indicación de parada por no percibirla como tal, distraído por la avería del IDU. No asimiló el rebase, rearmó el ASFA y reanudó la marcha sin autorización. Incumplió los artículos 213, 217, 262.4, 279 y 320 del RGC. Título B de conducción, habilitado, antigüedad desde 09/04/2004, habilitación de línea desde 11/10/2012, del vehículo desde 21/09/2012. Último reciclaje formativo 14/01/2011, último reconocimiento médico-psicotécnico 19/10/2010. Prueba de alcoholemia negativa."
+    }
+   ],
+   "pagina": 4,
+   "cita": "El maquinista del tren 1112, según su propia declaración, no asimila el rebase y que la frenada fue",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "1112",
+     "tipo": "viajeros larga distancia",
+     "operador": "Renfe Operadora",
+     "danos": "no se producen daños"
+    },
+    {
+     "numero": "10596",
+     "tipo": "viajeros",
+     "operador": "Renfe Operadora",
+     "danos": "no se producen daños"
+    }
+   ],
+   "pagina": 3,
+   "cita": "Vicenç de Calders, a la entrada de la estación Valencia-Font de Sant Lluis el tren de viajeros 1112",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tipo 200B, ramas 130036/130035, 26 vehículos, 40 ejes, 624 toneladas, 368 metros de longitud",
+    "averia": "Aparición de avería en la pantalla de diagnóstico (IDU) de la cabina durante el paso por los cambios de salida; el tren no dispone de ASFA digital",
+    "mantenimiento": "Equipos de seguridad del tren funcionaron correctamente según el registrador de seguridad"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal E2B (PK 2+000) en indicación de parada, luminosa de tres focos con baliza previa y de pie, en pórtico, con flecha indicadora. Señal de salida S1/9PA en anuncio de parada. Señal E2 (PK 3+152) en indicación de parada. Buena visibilidad de la señal rebasada.",
+    "tipo_via": "Vía doble electrificada de ancho convencional, bloqueo automático banalizado (BAB) con CTC, mando local gestionado por la estación Valencia-Font de Sant Lluis",
+    "velocidad_maxima": "120 km/h (limitación temporal a 50 km/h por curva entre PK 1+687 y 3+013)",
+    "ancho": "convencional",
+    "electrificacion": "electrificada",
+    "estado_via": "funcionó correctamente",
+    "otro": "Radiotelefonía modalidad A. Tramo con media semanal de 956 circulaciones (alta): 317 larga distancia, 129 media distancia, 507 cercanías, 3 servicio. Por el lado derecho discurre la línea 300 Madrid-Valencia (por La Encina), también de doble vía."
+   },
+   "pagina": 6,
+   "cita": "convencional, en el que la circulación se realiza al amparo de bloqueo automático banalizado (BAB)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal E2B (PK 2+000) en indicación de parada, luminosa de tres focos con baliza previa y de pie, en pórtico, con flecha indicadora. Señal de salida S1/9PA en anuncio de parada. Señal E2 (PK 3+152) en indicación de parada. Buena visibilidad de la señal rebasada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad A.",
+   "pagina": 8,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material rodante ni en infraestructura",
+    "afectacion_servicio": "El tren 1112 perdió 63 minutos; 2 trenes de cercanías perdieron un total de 27 minutos. La vía permaneció interceptada durante 57 minutos. El tren fue apartado en la estación de Valencia-Font de Sant Lluis para relevar al maquinista."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material rodante ni en infraestructura",
+    "afectacion_servicio": "El tren 1112 perdió 63 minutos; 2 trenes de cercanías perdieron un total de 27 minutos. La vía permaneció interceptada durante 57 minutos. El tren fue apartado en la estación de Valencia-Font de Sant Lluis para relevar al maquinista."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material rodante ni en infraestructura",
+    "afectacion_servicio": "El tren 1112 perdió 63 minutos; 2 trenes de cercanías perdieron un total de 27 minutos. La vía permaneció interceptada durante 57 minutos. El tren fue apartado en la estación de Valencia-Font de Sant Lluis para relevar al maquinista."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tipo 200B, ramas 130036/130035, 26 vehículos, 40 ejes, 624 toneladas, 368 metros de longitud",
+    "averia": "Aparición de avería en la pantalla de diagnóstico (IDU) de la cabina durante el paso por los cambios de salida; el tren no dispone de ASFA digital",
+    "mantenimiento": "Equipos de seguridad del tren funcionaron correctamente según el registrador de seguridad"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal E2B (PK 2+000) en indicación de parada, luminosa de tres focos con baliza previa y de pie, en pórtico, con flecha indicadora. Señal de salida S1/9PA en anuncio de parada. Señal E2 (PK 3+152) en indicación de parada. Buena visibilidad de la señal rebasada.",
+    "tipo_via": "Vía doble electrificada de ancho convencional, bloqueo automático banalizado (BAB) con CTC, mando local gestionado por la estación Valencia-Font de Sant Lluis",
+    "velocidad_maxima": "120 km/h (limitación temporal a 50 km/h por curva entre PK 1+687 y 3+013)",
+    "ancho": "convencional",
+    "electrificacion": "electrificada",
+    "estado_via": "funcionó correctamente",
+    "otro": "Radiotelefonía modalidad A. Tramo con media semanal de 956 circulaciones (alta): 317 larga distancia, 129 media distancia, 507 cercanías, 3 servicio. Por el lado derecho discurre la línea 300 Madrid-Valencia (por La Encina), también de doble vía."
+   },
+   "pagina": 6,
+   "cita": "convencional, en el que la circulación se realiza al amparo de bloqueo automático banalizado (BAB)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Valencia",
+    "municipio": null,
+    "estacion": "Valencia-Font de Sant Lluis"
+   },
+   "pagina": 3,
+   "cita": "El día 21 de diciembre de 2012, a las 11:15 horas, en la línea 600 Valencia – Estació del Nord a Sant",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal E2B (PK 2+000) en indicación de parada, luminosa de tres focos con baliza previa y de pie, en pórtico, con flecha indicadora. Señal de salida S1/9PA en anuncio de parada. Señal E2 (PK 3+152) en indicación de parada. Buena visibilidad de la señal rebasada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal E2B (PK 2+000) en indicación de parada, luminosa de tres focos con baliza previa y de pie, en pórtico, con flecha indicadora. Señal de salida S1/9PA en anuncio de parada. Señal E2 (PK 3+152) en indicación de parada. Buena visibilidad de la señal rebasada.",
+    "tipo_via": "Vía doble electrificada de ancho convencional, bloqueo automático banalizado (BAB) con CTC, mando local gestionado por la estación Valencia-Font de Sant Lluis",
+    "velocidad_maxima": "120 km/h (limitación temporal a 50 km/h por curva entre PK 1+687 y 3+013)",
+    "ancho": "convencional",
+    "electrificacion": "electrificada",
+    "estado_via": "funcionó correctamente",
+    "otro": "Radiotelefonía modalidad A. Tramo con media semanal de 956 circulaciones (alta): 317 larga distancia, 129 media distancia, 507 cercanías, 3 servicio. Por el lado derecho discurre la línea 300 Madrid-Valencia (por La Encina), también de doble vía."
+   },
+   "pagina": 6,
+   "cita": "convencional, en el que la circulación se realiza al amparo de bloqueo automático banalizado (BAB)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad A.",
+   "pagina": 8,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tipo 200B, ramas 130036/130035, 26 vehículos, 40 ejes, 624 toneladas, 368 metros de longitud",
+    "averia": "Aparición de avería en la pantalla de diagnóstico (IDU) de la cabina durante el paso por los cambios de salida; el tren no dispone de ASFA digital",
+    "mantenimiento": "Equipos de seguridad del tren funcionaron correctamente según el registrador de seguridad"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Desviación de la atención del maquinista por la avería mostrada en la pantalla IDU de la cabina",
+    "El tren no dispone de ASFA digital, por lo que no se reforzó la indicación del estado de la señal",
+    "El maquinista no percibió la información de la baliza previa como parada y no se puso en condiciones de parar",
+    "El maquinista no asimiló que la frenada de emergencia era motivada por el rebase de la señal",
+    "Rearme del ASFA y reanudación de la marcha sin autorización tras el rebase",
+    "No se puso en comunicación con el CTC hasta detenerse ante la señal siguiente E2"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 1112 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene antigüedad en el cargo desde el 09/04/2004, habilitación de la línea desde el 11/10/2012 y \ndel vehículo desde el 21/09/2012. \nRealizó su último reciclaje formativo el 14/01/2011 y su último reconocimiento médico y psicotécnico el \n19/10/2010, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 10,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros 1112 de Renfe Operadora, con origen Valencia-Joaquín Sorolla y destino Barcelona-Sants, inicia la marcha desde la vía 9 con la señal de salida S1/9PA en indicación de anuncio de parada, reconocida por el maquinista en el pulsador del ASFA. Tras pasar por los cambios 110, 108, T106 y T104 hasta situarse en la vía II, aparece en la pantalla de diagnóstico (IDU) de la cabina una avería, y el maquinista trata de reconocerla. A continuación pasa por la baliza previa de la señal E2B (frecuencia L7-control de velocidad) sin modificar la velocidad y rebasa la baliza de la señal, en indicación de parada, a 24 km/h. Se activa el frenado de emergencia por el ASFA y el tren invade el cantón siguiente, ocupado por el tren 10596, produciéndose un conato de colisión.\n\nEl maquinista no asimila el rebase ni que la frenada fue motivada por el ASFA, rearma el sistema y continúa la marcha hasta la señal E2, que indica parada. Detenido ante esta señal, el CTC le informa de que ha rebasado la E2B. El tren 10596 se estaciona en vía 6. El tren 1112 recorre unos 1157 metros desde el rebase hasta su detención ante la señal E2.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Rebase indebido de la señal E2B en indicación de parada por incumplimiento de la orden dada por la señal al personal de conducción",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Desviación de la atención del maquinista por la avería mostrada en la pantalla IDU de la cabina",
+    "El tren no dispone de ASFA digital, por lo que no se reforzó la indicación del estado de la señal",
+    "El maquinista no percibió la información de la baliza previa como parada y no se puso en condiciones de parar",
+    "El maquinista no asimiló que la frenada de emergencia era motivada por el rebase de la señal",
+    "Rearme del ASFA y reanudación de la marcha sin autorización tras el rebase",
+    "No se puso en comunicación con el CTC hasta detenerse ante la señal siguiente E2"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "11:14",
+     "evento": "El tren 1112 pasa por la baliza previa de la señal E2B (frecuencia L7-control de velocidad) a unos 27 km/h"
+    },
+    {
+     "hora": "11:14:42",
+     "evento": "Actuación del freno de emergencia por ASFA al pasar por la baliza de pie de la señal E2B a 24 km/h"
+    },
+    {
+     "hora": "11:14:50",
+     "evento": "Detención del tren 1112 a 46 m de la señal E2B tras el rebase; el tren ocupa el cantón siguiente ocupado por el tren 10596"
+    },
+    {
+     "hora": "11:14:59",
+     "evento": "El tren 1112 queda detenido a unos 46 m de la señal E2B"
+    },
+    {
+     "hora": "11:16:07",
+     "evento": "El tren 1112, tras rearmar el ASFA, avanza hacia la señal E2; el tren 10596 se aparta a vía 6"
+    },
+    {
+     "hora": "11:16:39",
+     "evento": "El tren 1112 se detiene ante la señal E2 (PK 3+152) en indicación de parada, tras recorrer unos 1157 m desde el rebase"
+    },
+    {
+     "hora": "11:15",
+     "evento": "Hora oficial del incidente según el informe"
+    },
+    {
+     "hora": "11:55",
+     "evento": "Prueba de alcoholemia al maquinista en Valencia-Font de Sant Lluis, resultado negativo"
+    },
+    {
+     "hora": "12:46",
+     "evento": "El jefe de investigación de incidentes de Adif comunica el suceso a la CIAF"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0076/2012",
+ "expediente": "76/012",
+ "anio": 2012,
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0076/2012 OCURRIDO EL DÍA 21.12.2012 EN LA ESTACIÓN DE VALENCIA-FONT DE SANT LLUIS",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_211212_250613_CIAF.md"
+}

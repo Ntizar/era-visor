@@ -1,0 +1,959 @@
+{
+ "id": "IF-270811-240712-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/8129865E-114D-45F7-B7BE-D14095588C2B/113476/IF270811240712CIAF.pdf",
+ "pdf": "pdfs/ES/IF-270811-240712-CIAF.pdf",
+ "md5_pdf": "6a71e0a11a850fe718b11968a59d6ca0",
+ "paginas_md": 15,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 17,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "40/11-1",
+     "Recomendación": "Analizar la viabilidad de incluir en el enclavamiento de la estación de Granollers – Centre la vía 7 y los itinerarios desde ésta y hacia ella con el tratamiento de vía de circulación."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 15,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "40/11-1",
+     "Recomendación": "Analizar la viabilidad de incluir en el enclavamiento de la estación de Granollers – Centre la vía 7 y los itinerarios desde ésta y hacia ella con el tratamiento de vía de circulación."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0040/2011",
+   "pagina": 1,
+   "cita": "nº 0040/2011 ocurrido el 27.08.2011",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El accidente ferroviario nº 0040/2011 ocurrió el 27 de agosto de 2011 a las 21:27 horas en la estación de Granollers-Centre, Barcelona. El tren de cercanías 28480 de Renfe Operadora, estacionado en vía 7, rebasó indebidamente la señal de salida S2/7-9 en indicación de parada. El maquinista confundió la orden de vía libre de la señal S2/5, establecida para vía 5 por el CTC. El tren arrolló el calce descarrilador C-23 y descarrilaron los dos bogies del primer coche. No hubo fallecidos ni heridos, pero se produjeron daños materiales e interrupción del servicio.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2011-08-27",
+    "hora": "21:27",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Granollers - Centre",
+     "pk": "134+932",
+     "linea": "270 Bifurcación Sagrera - Cerbere",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Estación de Granollers-Centre, situada en el PK 135+306, en el tramo Montornès Butano - Granollers Centre, municipio de Granollers. El suceso se produjo en la señal de salida S2/7-9 de la vía 7 y en el calce de protección C-23, situado en el PK 134+931."
+    }
+   },
+   "pagina": 8,
+   "cita": "Interceptaciones de vía: las vías 7 y 9 quedan interceptadas desde las 21:27 horas del día 27/08/2011,",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el calce C-23 y en la infraestructura en una longitud de 30 metros; daños en los elementos de rodadura y en el captador del ASFA de la UT 463214.",
+    "afectacion_servicio": "Las vías 7 y 9 quedaron interceptadas desde las 21:27 horas del 27/08/2011 hasta las 08:22 horas del 28/08/2011. Sufrieron retraso 25 trenes de Renfe Operadora, con un total de 450 minutos de retraso."
+   },
+   "pagina": 8,
+   "cita": "Infraestructura: Daños en el calce C-23 y en la infraestructura en una longitud de 30 metros.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Rebase indebido de la señal de salida S2/7-9, que ordenaba parada, por incumplimiento de las órdenes dadas por la señal al personal de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Confusión del maquinista entre la orden de vía libre de la señal S2/5 y la señal de parada S2/7-9.",
+    "Información errónea del auxiliar de circulación al jefe del CTC sobre la vía donde estaba estacionado el tren 28480.",
+    "Establecimiento del itinerario de salida desde vía 5 cuando el tren se encontraba realmente en vía 7.",
+    "Imposibilidad del jefe del CTC de verificar la ocupación de vía 7 en el videográfico por carecer dicha vía de circuito de vía.",
+    "Tratamiento de la vía 7 como vía de servicio aunque se utilizaba como vía de rotación de trenes de cercanías.",
+    "Ausencia de baliza previa y de señal indicadora de salida en vía 7, junto con un punto de estacionamiento alejado de la señal.",
+    "Cercanía y disposición de las señales S2/5 y S2/7-9, ambas de mono bajo, que pudo facilitar la confusión."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Deficiencia en el intercambio de información entre el auxiliar de circulación y el jefe del CTC.",
+    "Necesidad de analizar el tratamiento de la vía 7 como vía de circulación en el enclavamiento.",
+    "Gestión del riesgo por fallo humano en la conducción."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Analizar la viabilidad de incluir en el enclavamiento de la estación de Granollers – Centre la vía 7 y los itinerarios desde ésta y hacia ella con el tratamiento de vía de circulación.",
+    "Analizar la viabilidad de incluir en el enclavamiento de la estación de Granollers – Centre la vía 7 y los itinerarios desde ésta y hacia ella con el tratamiento de vía de circulación."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Descarrilamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "viajeros de cercanías 28480 de la empresa ferroviaria Renfe Operadora rebasa indebidamente la señal",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2011-08-27",
+   "pagina": 8,
+   "cita": "Interceptaciones de vía: las vías 7 y 9 quedan interceptadas desde las 21:27 horas del día 27/08/2011,",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "21:27",
+   "pagina": 3,
+   "cita": "El día 28 de agosto de 2011, a las 21:27 horas, en la estación de Granollers - Centre, el tren de",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Granollers - Centre",
+    "pk": "134+932",
+    "linea": "270 Bifurcación Sagrera - Cerbere",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Estación de Granollers-Centre, situada en el PK 135+306, en el tramo Montornès Butano - Granollers Centre, municipio de Granollers. El suceso se produjo en la señal de salida S2/7-9 de la vía 7 y en el calce de protección C-23, situado en el PK 134+931."
+   },
+   "pagina": 3,
+   "cita": "se encuentra estacionada en vía 7 de la estación de Granollers - Centre con la señal de salida S2/7-9",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "270 Bifurcación Sagrera - Cerbere",
+   "pagina": 3,
+   "cita": "de salida S2/7-9, situada en el PK 134+932 de la línea 270 Bifurcación Sagrera - Cerbere, arrollando",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UT 463214 en cabeza y UT 465253 en cola; composición de 8 vehículos; tipo 120 A; referencia a coches Civia.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 27 de agosto de 2011, a las 21:27 horas, el tren de viajeros de cercanías 28480 de Renfe Operadora se encontraba estacionado en la vía 7 de la estación de Granollers-Centre, con la señal de salida S2/7-9, situada en el PK 134+932, en indicación de parada. El jefe del CTC de Montcada-Maçanet, informado previamente por el auxiliar de circulación de que el tren estaba en vía 5, estableció el itinerario de salida desde vía 5 y abrió la señal S2/5 en vía libre. El maquinista, estando la señal de salida de su vía en parada, inició la marcha confundiendo la orden de la señal S2/5 con la de la señal S2/7-9.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Granollers - Centre",
+    "pk": "134+932",
+    "linea": "270 Bifurcación Sagrera - Cerbere",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Estación de Granollers-Centre, situada en el PK 135+306, en el tramo Montornès Butano - Granollers Centre, municipio de Granollers. El suceso se produjo en la señal de salida S2/7-9 de la vía 7 y en el calce de protección C-23, situado en el PK 134+931."
+   },
+   "pagina": 3,
+   "cita": "se encuentra estacionada en vía 7 de la estación de Granollers - Centre con la señal de salida S2/7-9",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el calce C-23 y en la infraestructura en una longitud de 30 metros; daños en los elementos de rodadura y en el captador del ASFA de la UT 463214.",
+    "afectacion_servicio": "Las vías 7 y 9 quedaron interceptadas desde las 21:27 horas del 27/08/2011 hasta las 08:22 horas del 28/08/2011. Sufrieron retraso 25 trenes de Renfe Operadora, con un total de 450 minutos de retraso."
+   },
+   "pagina": 8,
+   "cita": "Infraestructura: Daños en el calce C-23 y en la infraestructura en una longitud de 30 metros.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista del tren 28480",
+     "implicacion": "Inicia la marcha desde vía 7 con la señal de salida S2/7-9 en parada, confundiendo la orden de vía libre de la señal S2/5; declara que era la primera vez que salía de la vía 7."
+    },
+    {
+     "rol": "jefe del CTC de Montcada - Maçanet",
+     "implicacion": "Establece el itinerario de salida del tren 28480 desde vía 5 y abre la señal S2/5 basándose en la información del auxiliar de circulación; no puede verificar en el videográfico la ocupación de vía 7."
+    },
+    {
+     "rol": "auxiliar de circulación de Granollers - Centre",
+     "implicacion": "Comunica al maquinista que el tren está en vía 7, pero informa erróneamente al jefe del CTC de que el tren 28480 se encontraba en vía 5."
+    }
+   ],
+   "pagina": 4,
+   "cita": "El maquinista del tren 28480, estando la señal de salida S2/7-9 en indicación de parada, inicia la",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "28480",
+     "tipo": "tren de viajeros de cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Daños en los elementos de rodadura y en el captador del ASFA de la UT 463214; descarrilamiento de los dos bogies del primer coche."
+    }
+   ],
+   "pagina": 3,
+   "cita": "viajeros de cercanías 28480 de la empresa ferroviaria Renfe Operadora rebasa indebidamente la señal",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UT 463214 en cabeza y UT 465253 en cola; composición de 8 vehículos; tipo 120 A; referencia a coches Civia.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales de salida de mono bajo; S2/7-9 en indicación de parada; S2/5 abierta en vía libre para el itinerario desde vía 5; balizas ASFA de pie de señal en ambas; baliza previa en vía 5 y ausencia de baliza previa en vía 7; calce de protección descarrilador C-23 en vía 7.",
+    "tipo_via": "Vías 5 y 7 paralelas de salida hacia Barcelona; vía 5 con circuito de vía; vía 7 sin circuito de vía de estacionamiento y sin señal indicadora de salida.",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Las instalaciones técnicas y la infraestructura funcionaron correctamente.",
+    "otro": "Enclavamiento electrónico y bloqueo BAB; distancia entre señales S2/5 y S2/7-9 de 105 metros; visibilidad correcta respecto a señales y geometría de vía; vía 7 utilizada como vía de rotación de trenes de cercanías."
+   },
+   "pagina": 5,
+   "cita": "120 A (velocidad máxima 120 km/h).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales de salida de mono bajo; S2/7-9 en indicación de parada; S2/5 abierta en vía libre para el itinerario desde vía 5; balizas ASFA de pie de señal en ambas; baliza previa en vía 5 y ausencia de baliza previa en vía 7; calce de protección descarrilador C-23 en vía 7.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad C (tren tierra).",
+   "pagina": 8,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el calce C-23 y en la infraestructura en una longitud de 30 metros; daños en los elementos de rodadura y en el captador del ASFA de la UT 463214.",
+    "afectacion_servicio": "Las vías 7 y 9 quedaron interceptadas desde las 21:27 horas del 27/08/2011 hasta las 08:22 horas del 28/08/2011. Sufrieron retraso 25 trenes de Renfe Operadora, con un total de 450 minutos de retraso."
+   },
+   "pagina": 8,
+   "cita": "Infraestructura: Daños en el calce C-23 y en la infraestructura en una longitud de 30 metros.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el calce C-23 y en la infraestructura en una longitud de 30 metros; daños en los elementos de rodadura y en el captador del ASFA de la UT 463214.",
+    "afectacion_servicio": "Las vías 7 y 9 quedaron interceptadas desde las 21:27 horas del 27/08/2011 hasta las 08:22 horas del 28/08/2011. Sufrieron retraso 25 trenes de Renfe Operadora, con un total de 450 minutos de retraso."
+   },
+   "pagina": 8,
+   "cita": "Infraestructura: Daños en el calce C-23 y en la infraestructura en una longitud de 30 metros.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el calce C-23 y en la infraestructura en una longitud de 30 metros; daños en los elementos de rodadura y en el captador del ASFA de la UT 463214.",
+    "afectacion_servicio": "Las vías 7 y 9 quedaron interceptadas desde las 21:27 horas del 27/08/2011 hasta las 08:22 horas del 28/08/2011. Sufrieron retraso 25 trenes de Renfe Operadora, con un total de 450 minutos de retraso."
+   },
+   "pagina": 8,
+   "cita": "Infraestructura: Daños en el calce C-23 y en la infraestructura en una longitud de 30 metros.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 463214 en cabeza y UT 465253 en cola; composición de 8 vehículos; tipo 120 A; referencia a coches Civia.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de salida de mono bajo; S2/7-9 en indicación de parada; S2/5 abierta en vía libre para el itinerario desde vía 5; balizas ASFA de pie de señal en ambas; baliza previa en vía 5 y ausencia de baliza previa en vía 7; calce de protección descarrilador C-23 en vía 7.",
+    "tipo_via": "Vías 5 y 7 paralelas de salida hacia Barcelona; vía 5 con circuito de vía; vía 7 sin circuito de vía de estacionamiento y sin señal indicadora de salida.",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Las instalaciones técnicas y la infraestructura funcionaron correctamente.",
+    "otro": "Enclavamiento electrónico y bloqueo BAB; distancia entre señales S2/5 y S2/7-9 de 105 metros; visibilidad correcta respecto a señales y geometría de vía; vía 7 utilizada como vía de rotación de trenes de cercanías."
+   },
+   "pagina": 5,
+   "cita": "120 A (velocidad máxima 120 km/h).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche con tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Granollers - Centre"
+   },
+   "pagina": 3,
+   "cita": "Barcelona 2.1.2. Descripción del suceso Los hechos tuvieron lugar el día 27 de agosto de 2011, a las 21:27 horas, en la estación de Granollers - Centre, situada en el PK135+306, de la línea 270 Bifurcación Sagrera – C",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche con tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales de salida de mono bajo; S2/7-9 en indicación de parada; S2/5 abierta en vía libre para el itinerario desde vía 5; balizas ASFA de pie de señal en ambas; baliza previa en vía 5 y ausencia de baliza previa en vía 7; calce de protección descarrilador C-23 en vía 7.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de salida de mono bajo; S2/7-9 en indicación de parada; S2/5 abierta en vía libre para el itinerario desde vía 5; balizas ASFA de pie de señal en ambas; baliza previa en vía 5 y ausencia de baliza previa en vía 7; calce de protección descarrilador C-23 en vía 7.",
+    "tipo_via": "Vías 5 y 7 paralelas de salida hacia Barcelona; vía 5 con circuito de vía; vía 7 sin circuito de vía de estacionamiento y sin señal indicadora de salida.",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Las instalaciones técnicas y la infraestructura funcionaron correctamente.",
+    "otro": "Enclavamiento electrónico y bloqueo BAB; distancia entre señales S2/5 y S2/7-9 de 105 metros; visibilidad correcta respecto a señales y geometría de vía; vía 7 utilizada como vía de rotación de trenes de cercanías."
+   },
+   "pagina": 5,
+   "cita": "120 A (velocidad máxima 120 km/h).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad C (tren tierra).",
+   "pagina": 8,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 463214 en cabeza y UT 465253 en cola; composición de 8 vehículos; tipo 120 A; referencia a coches Civia.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Confusión del maquinista entre la orden de vía libre de la señal S2/5 y la señal de parada S2/7-9.",
+    "Información errónea del auxiliar de circulación al jefe del CTC sobre la vía donde estaba estacionado el tren 28480.",
+    "Establecimiento del itinerario de salida desde vía 5 cuando el tren se encontraba realmente en vía 7.",
+    "Imposibilidad del jefe del CTC de verificar la ocupación de vía 7 en el videográfico por carecer dicha vía de circuito de vía.",
+    "Tratamiento de la vía 7 como vía de servicio aunque se utilizaba como vía de rotación de trenes de cercanías.",
+    "Ausencia de baliza previa y de señal indicadora de salida en vía 7, junto con un punto de estacionamiento alejado de la señal.",
+    "Cercanía y disposición de las señales S2/5 y S2/7-9, ambas de mono bajo, que pudo facilitar la confusión."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Por parte de Renfe Operadora \nEl maquinista del tren 28480 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio (Título V – Personal de conducción – en vigor hasta 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre).  \nÉste tiene antigüedad en el cargo de fecha 10/02/2010, habilitación de la línea de 18/06/2010 y del \nvehículo de 24/05/2010. \nRealizó su último reciclaje formativo el 23/02/2010 y su último reconocimiento médico y psicotécnico el \n23/02/2009 de acuerdo a la normativa vigente. \nPor parte de Adif \nEl jefe del CTC, dispone de habilitación de responsable de circulación conforme a la Orden \nFOM/2872/2010, de 5 de noviembre (Título II – Personal de circulación). \nRealizó su último reciclaje formativo el 14/04/2010 y su último reconocimiento médico y psicotécnico el \n26/02/2009, conforme a la normativa vigente.  \nEl auxiliar de circulación de Granollers - Centre, dispone de habilitación de responsable de circulación \nconforme a la Orden FOM/2872/2010, de 5 de noviembre (Título II – Personal de circulación). \nRealizó su último reciclaje formativo el 23/09/2009 y su último reconocimiento médico y psicotécnico el \n29/02/2012, conforme a la normativa vigente. \n\n## Página 11\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0040/2011 ocurrido el 27.08.2011 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n \nIF-270811-240712-CIAF \n \n \nPág. 11 de 15\n3.3. \nNORMATIVA",
+   "pagina": 10,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 27 de agosto de 2011, a las 21:27 horas, el tren de viajeros de cercanías 28480 de Renfe Operadora se encontraba estacionado en la vía 7 de la estación de Granollers-Centre, con la señal de salida S2/7-9, situada en el PK 134+932, en indicación de parada. El jefe del CTC de Montcada-Maçanet, informado previamente por el auxiliar de circulación de que el tren estaba en vía 5, estableció el itinerario de salida desde vía 5 y abrió la señal S2/5 en vía libre. El maquinista, estando la señal de salida de su vía en parada, inició la marcha confundiendo la orden de la señal S2/5 con la de la señal S2/7-9.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Rebase indebido de la señal de salida S2/7-9, que ordenaba parada, por incumplimiento de las órdenes dadas por la señal al personal de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Confusión del maquinista entre la orden de vía libre de la señal S2/5 y la señal de parada S2/7-9.",
+    "Información errónea del auxiliar de circulación al jefe del CTC sobre la vía donde estaba estacionado el tren 28480.",
+    "Establecimiento del itinerario de salida desde vía 5 cuando el tren se encontraba realmente en vía 7.",
+    "Imposibilidad del jefe del CTC de verificar la ocupación de vía 7 en el videográfico por carecer dicha vía de circuito de vía.",
+    "Tratamiento de la vía 7 como vía de servicio aunque se utilizaba como vía de rotación de trenes de cercanías.",
+    "Ausencia de baliza previa y de señal indicadora de salida en vía 7, junto con un punto de estacionamiento alejado de la señal.",
+    "Cercanía y disposición de las señales S2/5 y S2/7-9, ambas de mono bajo, que pudo facilitar la confusión."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Analizar la viabilidad de incluir en el enclavamiento de la estación de Granollers – Centre la vía 7 y los itinerarios desde ésta y hacia ella con el tratamiento de vía de circulación.",
+    "Analizar la viabilidad de incluir en el enclavamiento de la estación de Granollers – Centre la vía 7 y los itinerarios desde ésta y hacia ella con el tratamiento de vía de circulación."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "20:41:44",
+     "evento": "El jefe del CTC llama al auxiliar de circulación de Granollers-Centre, quien confirma que el tren 28480 está situado en vía 5."
+    },
+    {
+     "hora": "21:21:30",
+     "evento": "El jefe del CTC establece itinerario de salida para el tren 28480 desde vía 5 a vía 1 general, abriendo la señal S2/5 en verde."
+    },
+    {
+     "hora": "21:25:01",
+     "evento": "El jefe del CTC llama al auxiliar de circulación para informarle de que ha perdido la comprobación de un cambio y de que el tren 28480 está numerado en vía 5."
+    },
+    {
+     "hora": "21:26:44",
+     "evento": "El maquinista del tren 28480 llama al auxiliar de circulación para comunicarle que se ha equivocado de señal y ha descarrilado."
+    },
+    {
+     "hora": "21:27:00",
+     "evento": "El tren 28480, realmente estacionado en vía 7, inicia la marcha, rebasa la señal S2/7-9 en parada, pasa por la baliza ASFA de pie de señal, arrolla el calce C-23 y descarrilan los dos bogies del primer coche."
+    },
+    {
+     "hora": "21:30:11",
+     "evento": "El jefe del CTC llama al maquinista del tren 28480, quien manifiesta que ha cometido un error, que nunca había salido de vía 7 y que debe haber confundido la señal."
+    },
+    {
+     "hora": "23:03:00",
+     "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios."
+    },
+    {
+     "hora": "23:50:00",
+     "evento": "Se realizan pruebas de alcoholemia y drogas al maquinista del tren 28480, con resultado negativo."
+    },
+    {
+     "hora": "03:38:00",
+     "evento": "El 28 de agosto de 2011, la unidad tren queda encarrilada tras activarse el camión-taller."
+    },
+    {
+     "hora": "08:22:00",
+     "evento": "El 28 de agosto de 2011, la instalación queda en servicio tras los trabajos de reparación de la vía."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0040/2011",
+ "expediente": "0040/011",
+ "anio": 2011,
+ "titulo": "Descarrilamiento del tren 28480 en la estación de Granollers-Centre por rebase de señal",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-270811-240712-CIAF.md"
+}

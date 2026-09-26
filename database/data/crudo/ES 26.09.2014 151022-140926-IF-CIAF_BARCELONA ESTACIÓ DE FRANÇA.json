@@ -1,0 +1,992 @@
+{
+ "id": "ES 26.09.2014 151022-140926-IF-CIAF_BARCELONA ESTACIÓ DE FRANÇA",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/D978B8BC-291B-47B2-AF3B-2CE1EFB0A696/134310/151022140926IFCIAF.pdf",
+ "pdf": "pdfs/ES/ES 26.09.2014 151022-140926-IF-CIAF_BARCELONA ESTACIÓ DE FRANÇA.pdf",
+ "md5_pdf": "70b7b593f1eca732d60d645c57334539",
+ "paginas_md": 25,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 18,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 5,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "AESF",
+     "Número": "53/14-1",
+     "Recomendación": "Considerando adecuadas las medidas adoptadas en este suceso se recomienda: Que se analice conjuntamente por el Adif y las empresas ferroviarias la existencia en otros puntos de la red de señales que presenten una situación similar a la del presente suceso (dificultad de percepción de su indicación por deslumbramiento) adoptando las medidas necesarias."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 25,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "AESF",
+     "Número": "53/14-1",
+     "Recomendación": "Considerando adecuadas las medidas adoptadas en este suceso se recomienda: Que se analice conjuntamente por el Adif y las empresas ferroviarias la existencia en otros puntos de la red de señales que presenten una situación similar a la del presente suceso (dificultad de percepción de su indicación por deslumbramiento) adoptando las medidas necesarias."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0053/2014",
+   "pagina": 1,
+   "cita": "nº 0053/2014 ocurrido el 26.09.2014",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 26 de septiembre de 2014 a las 16:46 horas, en Barcelona Estació de França (línea 200), se produjo un conato de colisión entre el material vacío (maniobra UT470120) y el tren de viajeros 25538, ambos de Renfe Operadora (Rodalies). El material vacío rebasó indebidamente la señal de salida S1/14 en indicación de parada, al percibir erróneamente su indicación como 'rebase autorizado' debido al deslumbramiento solar sobre los focos de la señal. No hubo heridos ni daños en material rodante, aunque el talonamiento del cambio T52b causó daños por 5.554 euros y afectó la circulación durante 5 horas y 34 minutos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2014-09-26",
+    "hora": "16:46:28",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Barcelona Estació de França",
+     "pk": "685+128",
+     "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Señal de salida S1/14 (PK 685+128), vía 14, tramo Bif. Clot – Barcelona Estació de França. Estación terminal de trenes de viajeros, final de la línea 200, con 3 vías de acceso, bloqueo automático de vía doble banalizada (BAB) y control de tráfico centralizado (CTC)."
+    }
+   },
+   "pagina": 24,
+   "cita": "26/09/2014: • Acción formativa de 8 horas de Seguridad en la Circulación enfocadas especialmente a lo dispuesto en el Titulo VI del RGC (maniobras) y del manual de circulación nº 15 (radiotelefonía). • Acción formativ",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: sin daños. Infraestructura: talonamiento del cambio T52b con daños en vía y en instalaciones de seguridad mecánicas; importe total 5.554 euros (según Adif).",
+    "afectacion_servicio": "Circulación afectada durante 5 horas y 34 minutos (16:46 a 23:20). Capacidad de la estación reducida a vías 3, 4, 5, 6, 15 y 16. Afectados: 6 trenes de alta velocidad (retraso total 115 min, 1 suprimido), 1 tren de mercancías (20 min), 12 trenes de media distancia (265 min), 17 trenes de cercanías (122 min), tren 25538 (27 min)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del personal de conducción del material vacío (maniobra UT470120): error en la percepción de la indicación de la señal S1/14 (que en todo momento indicó parada, pero el maquinista manifiesta verla en 'rebase autorizado'), dando lugar al rebase de la misma y al consecuente incumplimiento reglamentario (arts. 217.1 y 218.1 RGC).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Falta de claridad y mal entendimiento entre el responsable de circulación y el maquinista del material vacío en la comunicación previa (radiotelefonía).",
+    "Deslumbramiento solar sobre los focos de la señal S1/14 (en particular el blanco), que hacía parecer que estaban encendidos, dificultando la correcta percepción de su indicación.",
+    "Actuación incorrecta posterior al rebase: el responsable de circulación ordenó retroceso sin comprobar el estado de los cambios y el maquinista accedió (incumplimiento art. 475 RGC)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Considerando adecuadas las medidas adoptadas en este suceso se recomienda: Que se analice conjuntamente por el Adif y las empresas ferroviarias la existencia en otros puntos de la red de señales que presenten una situación similar a la del presente suceso (dificultad de percepción de su indicación por deslumbramiento) adoptando las medidas necesarias.",
+    "Considerando adecuadas las medidas adoptadas en este suceso se recomienda: Que se analice conjuntamente por el Adif y las empresas ferroviarias la existencia en otros puntos de la red de señales que presenten una situación similar a la del presente suceso (dificultad de percepción de su indicación por deslumbramiento) adoptando las medidas necesarias."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente ferroviario",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "Renfe Operadora (Rodalies), cuando el primero rebasa indebidamente la señal de salida S1/14 que se",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2014-09-26",
+   "pagina": 24,
+   "cita": "26/09/2014: • Acción formativa de 8 horas de Seguridad en la Circulación enfocadas especialmente a lo dispuesto en el Titulo VI del RGC (maniobras) y del manual de circulación nº 15 (radiotelefonía). • Acción formativ",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "16:46:28",
+   "pagina": 6,
+   "cita": "señal a las 16:46:28 horas. A esa hora el tren 25538 ha superado la señal R4, los desvíos 2 y 12 y",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Barcelona Estació de França",
+    "pk": "685+128",
+    "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Señal de salida S1/14 (PK 685+128), vía 14, tramo Bif. Clot – Barcelona Estació de França. Estación terminal de trenes de viajeros, final de la línea 200, con 3 vías de acceso, bloqueo automático de vía doble banalizada (BAB) y control de tráfico centralizado (CTC)."
+   },
+   "pagina": 6,
+   "cita": "Operadora se encuentra estacionado en la vía 14, con la señal de salida S1/14 en indicación de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Barcelona Estació de França (PK 685+375) es una estación terminal de trenes de viajeros y final de la \nlínea 200 Madrid Chamartín – Barcelona Estació de França. \nDispone de 3 vías de acceso, realizándose la circulación al amparo de bloqueo automático de vía doble \nbanalizada (BAB) con control de tráfico centralizado (CTC). Existen en la estación dos grupos de vías, \nuno de ellos formado por las vías finalizadas en topera, numeradas de la 3 a la 19 - disponiendo de \nandén de la 3 a la 15 y sin andén de la 16 a la 19 que se utilizan para el apartado de material. Existe un \nsegundo grupo de 5 vías, denominadas “C”, y enfrentadas a las anteriores, usándose la C1 para realizar \nprácticamente todos los movimientos de maniobras; la C2, C3 y C4 pertenecen al lavado y se encuentran \nactualmente de baja por el mal estado de las mismas y la C5 se utiliza para el apartado del material. \nLa señal rebasada S1/14 (PK 685+128) es una señal baja con cuatro focos. Dispone de baliza de señal \npero no de previa y está situada a 247 metros de la topera de la vía 14. \nSegún el Cuadro de Velocidades Máximas, en el sentido de la marcha, la velocidad máxima permitida \nal paso por el lugar del suceso es de 50 km/h. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n(Fuente: Renfe Operadora)",
+   "pagina": 9,
+   "cita": "2.2.3. Descripción de la infraestructura",
+   "origen": "determinista",
+   "regla": "sec:^descripci[óo]n de la infraestructura$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Material vacío UT470120: 3 vehículos, 156 t, 80 m. Tren 25538: automotores eléctricos 451011 y 451006, doble composición, tipo 140 (vmax 140 km/h), 6 vehículos, 482 t, 161 m.",
+    "averia": "No se detectaron anomalías en frenos, radiotelefonía ni dispositivos de seguridad de ninguno de los trenes. El registrador de seguridad del material vacío funcionó correctamente. Se detectó un desfase horario de unos 47 segundos de adelanto del registrador respecto a la moviola del puesto de mando.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de cercanías 25538 de Renfe Operadora (Rodalies), procedente de Sant Vicenç de Calders, entraba a vía 8 de Barcelona Estació de França a las 16:45:33 horas con itinerario establecido desde la señal de entrada E4 (vía G2) a vía G3. Simultáneamente, el material vacío (maniobra UT470120) estaba estacionado en vía 14 con la señal de salida S1/14 en indicación de parada, esperando maniobrar a vía C1 y posteriormente a vía 17.\n\nA las 16:46:12 horas, el material vacío inició un nuevo movimiento. Su maquinista, al percibir erróneamente que la señal S1/14 presentaba indicación de 'rebase autorizado' (cuando en realidad indicaba parada), actuó sobre el botón de rebase autorizado y pasó la señal. La cola del material vacío rebasó la señal a las 16:46:28 horas, momento en que el tren 25538 ya había superado la señal R4 y los desvíos 2 y 12, circulando por vía G3 hacia la que también se encaminaba el material vacío.\n\nEl maquinista del tren 25538 observó un vehículo que podía interferir el gálibo de su itinerario y efectuó frenado de urgencia. El material vacío, tras talonar el cambio T-52b con el primer bogie, se detuvo a las 16:46:52 horas ante la señal S1/14A en indicación de parada. Se produjo conato de colisión quedando los trenes a unos 80 metros de distancia. No hubo heridos ni daños materiales en el material rodante.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Barcelona Estació de França",
+    "pk": "685+128",
+    "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Señal de salida S1/14 (PK 685+128), vía 14, tramo Bif. Clot – Barcelona Estació de França. Estación terminal de trenes de viajeros, final de la línea 200, con 3 vías de acceso, bloqueo automático de vía doble banalizada (BAB) y control de tráfico centralizado (CTC)."
+   },
+   "pagina": 6,
+   "cita": "Operadora se encuentra estacionado en la vía 14, con la señal de salida S1/14 en indicación de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: sin daños. Infraestructura: talonamiento del cambio T52b con daños en vía y en instalaciones de seguridad mecánicas; importe total 5.554 euros (según Adif).",
+    "afectacion_servicio": "Circulación afectada durante 5 horas y 34 minutos (16:46 a 23:20). Capacidad de la estación reducida a vías 3, 4, 5, 6, 15 y 16. Afectados: 6 trenes de alta velocidad (retraso total 115 min, 1 suprimido), 1 tren de mercancías (20 min), 12 trenes de media distancia (265 min), 17 trenes de cercanías (122 min), tren 25538 (27 min)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Responsable de circulación (jefe de circulación), matrícula 2837854, Adif",
+     "implicacion": "No dio orden explícita de rebase; comunicación previa con falta de claridad; ordenó retroceso sin comprobar estado de cambios (incumplimiento art. 475 RGC)"
+    },
+    {
+     "rol": "Maquinista del material vacío (maniobra UT470120), matrícula 8875494, Renfe Operadora",
+     "implicacion": "Fallo humano: percibió erróneamente la señal S1/14 en 'rebase autorizado' cuando indicaba parada; actuó sobre rebase autorizado y rebasó la señal; incumplió arts. 217.1 y 218.1 RGC; aceptó retroceso sin comprobación (art. 475 RGC)"
+    },
+    {
+     "rol": "Maquinista del tren 25538, matrícula 9690405, Renfe Operadora",
+     "implicacion": "Efectuó frenado de urgencia al observar vehículo que interfería gálibo; detuvo el tren a unos 80 metros del material vacío; no tuvo responsabilidad en el incidente"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "No se producen víctimas.",
+   "pagina": 11,
+   "cita": "2.3.1. Viajeros, personal y terceros",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "UT470120",
+     "tipo": "material vacío / maniobra",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños en material rodante"
+    },
+    {
+     "numero": "25538",
+     "tipo": "tren de cercanías (Rodalies), doble composición, automotores eléctricos 451011 y 451006, tipo 140, 6 vehículos, 482 t, 161 m",
+     "operador": "Renfe Operadora (Rodalies)",
+     "danos": "No se producen daños"
+    }
+   ],
+   "pagina": 5,
+   "cita": "material vacío (maniobra UT470120) y el tren de viajeros 25538, ambos de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Material vacío UT470120: 3 vehículos, 156 t, 80 m. Tren 25538: automotores eléctricos 451011 y 451006, doble composición, tipo 140 (vmax 140 km/h), 6 vehículos, 482 t, 161 m.",
+    "averia": "No se detectaron anomalías en frenos, radiotelefonía ni dispositivos de seguridad de ninguno de los trenes. El registrador de seguridad del material vacío funcionó correctamente. Se detectó un desfase horario de unos 47 segundos de adelanto del registrador respecto a la moviola del puesto de mando.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1/14 (PK 685+128): señal baja con cuatro focos, con baliza de señal pero sin previa, situada a 247 m de la topera de vía 14. Cuando incide la radiación solar sobre sus focos (en particular el blanco) parece que están encendidos. Señal S1/14A (PK 685+002). Señal de entrada E4 (PK 684+319). Señal R4 (PK 684+707).",
+    "tipo_via": "Vía doble banalizada con bloqueo automático (BAB) y control de tráfico centralizado (CTC). Estación terminal con vías finalizadas en topera (3 a 19) y vías 'C' (C1 a C5).",
+    "velocidad_maxima": "50 km/h en el sentido de la marcha al paso por el lugar del suceso (Cuadro de Velocidades Máximas)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Las instalaciones técnicas funcionaron correctamente. El itinerario a recorrer por el tren 25538 estaba correctamente establecido. La señal S1/14 presentó en todo momento la indicación de parada.",
+    "otro": "Desvíos implicados: T-52a (PK 685+024) y T-52b (PK 685+000), enclavados a posición normal. Cambio 34 (PK 684+893). Cambio 58 (PK 685+037). Cambio 66 (PK 685+096). Cambios 2 y 12 enclavados a posición invertida para itinerario del tren 25538. Radiotelefonía en modalidad C. No existían obras en el lugar ni en proximidades."
+   },
+   "pagina": 14,
+   "cita": "Las instalaciones técnicas funcionaron correctamente. Según se desprende del visionado de la moviola",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de salida S1/14 (PK 685+128): señal baja con cuatro focos, con baliza de señal pero sin previa, situada a 247 m de la topera de vía 14. Cuando incide la radiación solar sobre sus focos (en particular el blanco) parece que están encendidos. Señal S1/14A (PK 685+002). Señal de entrada E4 (PK 684+319). Señal R4 (PK 684+707).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía en modalidad C.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": "No existían obras de ningún tipo en el lugar del suceso ni en sus proximidades. \nS1/14 \nPK 685+128\n\n## Página 10\n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0053/2014 ocurrido el 26.09.2014 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n151022-140926-IF-CIAF \n \n \nPág. 10 de 25",
+   "pagina": 9,
+   "cita": "2.2.5. Obras en el lugar o cercanías",
+   "origen": "determinista",
+   "regla": "sec:^obras en el lugar o cercan[íi]as$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: sin daños. Infraestructura: talonamiento del cambio T52b con daños en vía y en instalaciones de seguridad mecánicas; importe total 5.554 euros (según Adif).",
+    "afectacion_servicio": "Circulación afectada durante 5 horas y 34 minutos (16:46 a 23:20). Capacidad de la estación reducida a vías 3, 4, 5, 6, 15 y 16. Afectados: 6 trenes de alta velocidad (retraso total 115 min, 1 suprimido), 1 tren de mercancías (20 min), 12 trenes de media distancia (265 min), 17 trenes de cercanías (122 min), tren 25538 (27 min)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: sin daños. Infraestructura: talonamiento del cambio T52b con daños en vía y en instalaciones de seguridad mecánicas; importe total 5.554 euros (según Adif).",
+    "afectacion_servicio": "Circulación afectada durante 5 horas y 34 minutos (16:46 a 23:20). Capacidad de la estación reducida a vías 3, 4, 5, 6, 15 y 16. Afectados: 6 trenes de alta velocidad (retraso total 115 min, 1 suprimido), 1 tren de mercancías (20 min), 12 trenes de media distancia (265 min), 17 trenes de cercanías (122 min), tren 25538 (27 min)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: sin daños. Infraestructura: talonamiento del cambio T52b con daños en vía y en instalaciones de seguridad mecánicas; importe total 5.554 euros (según Adif).",
+    "afectacion_servicio": "Circulación afectada durante 5 horas y 34 minutos (16:46 a 23:20). Capacidad de la estación reducida a vías 3, 4, 5, 6, 15 y 16. Afectados: 6 trenes de alta velocidad (retraso total 115 min, 1 suprimido), 1 tren de mercancías (20 min), 12 trenes de media distancia (265 min), 17 trenes de cercanías (122 min), tren 25538 (27 min)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Material vacío UT470120: 3 vehículos, 156 t, 80 m. Tren 25538: automotores eléctricos 451011 y 451006, doble composición, tipo 140 (vmax 140 km/h), 6 vehículos, 482 t, 161 m.",
+    "averia": "No se detectaron anomalías en frenos, radiotelefonía ni dispositivos de seguridad de ninguno de los trenes. El registrador de seguridad del material vacío funcionó correctamente. Se detectó un desfase horario de unos 47 segundos de adelanto del registrador respecto a la moviola del puesto de mando.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1/14 (PK 685+128): señal baja con cuatro focos, con baliza de señal pero sin previa, situada a 247 m de la topera de vía 14. Cuando incide la radiación solar sobre sus focos (en particular el blanco) parece que están encendidos. Señal S1/14A (PK 685+002). Señal de entrada E4 (PK 684+319). Señal R4 (PK 684+707).",
+    "tipo_via": "Vía doble banalizada con bloqueo automático (BAB) y control de tráfico centralizado (CTC). Estación terminal con vías finalizadas en topera (3 a 19) y vías 'C' (C1 a C5).",
+    "velocidad_maxima": "50 km/h en el sentido de la marcha al paso por el lugar del suceso (Cuadro de Velocidades Máximas)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Las instalaciones técnicas funcionaron correctamente. El itinerario a recorrer por el tren 25538 estaba correctamente establecido. La señal S1/14 presentó en todo momento la indicación de parada.",
+    "otro": "Desvíos implicados: T-52a (PK 685+024) y T-52b (PK 685+000), enclavados a posición normal. Cambio 34 (PK 684+893). Cambio 58 (PK 685+037). Cambio 66 (PK 685+096). Cambios 2 y 12 enclavados a posición invertida para itinerario del tren 25538. Radiotelefonía en modalidad C. No existían obras en el lugar ni en proximidades."
+   },
+   "pagina": 14,
+   "cita": "Las instalaciones técnicas funcionaron correctamente. Según se desprende del visionado de la moviola",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Día soleado. En el momento del suceso era de día y las condiciones meteorológicas eran de tiempo soleado. La radiación solar incidiendo sobre los focos de la señal S1/14 (en particular el blanco) hacía parecer que estaban encendidos, lo que pudo contribuir a la percepción errónea de 'rebase autorizado'.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Barcelona Estació de França"
+   },
+   "pagina": 5,
+   "cita": "El día 26 de septiembre de 2014 a las 16:46 horas en Barcelona Estació de França de la línea 200",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Día soleado. En el momento del suceso era de día y las condiciones meteorológicas eran de tiempo soleado. La radiación solar incidiendo sobre los focos de la señal S1/14 (en particular el blanco) hacía parecer que estaban encendidos, lo que pudo contribuir a la percepción errónea de 'rebase autorizado'.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de salida S1/14 (PK 685+128): señal baja con cuatro focos, con baliza de señal pero sin previa, situada a 247 m de la topera de vía 14. Cuando incide la radiación solar sobre sus focos (en particular el blanco) parece que están encendidos. Señal S1/14A (PK 685+002). Señal de entrada E4 (PK 684+319). Señal R4 (PK 684+707).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1/14 (PK 685+128): señal baja con cuatro focos, con baliza de señal pero sin previa, situada a 247 m de la topera de vía 14. Cuando incide la radiación solar sobre sus focos (en particular el blanco) parece que están encendidos. Señal S1/14A (PK 685+002). Señal de entrada E4 (PK 684+319). Señal R4 (PK 684+707).",
+    "tipo_via": "Vía doble banalizada con bloqueo automático (BAB) y control de tráfico centralizado (CTC). Estación terminal con vías finalizadas en topera (3 a 19) y vías 'C' (C1 a C5).",
+    "velocidad_maxima": "50 km/h en el sentido de la marcha al paso por el lugar del suceso (Cuadro de Velocidades Máximas)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Las instalaciones técnicas funcionaron correctamente. El itinerario a recorrer por el tren 25538 estaba correctamente establecido. La señal S1/14 presentó en todo momento la indicación de parada.",
+    "otro": "Desvíos implicados: T-52a (PK 685+024) y T-52b (PK 685+000), enclavados a posición normal. Cambio 34 (PK 684+893). Cambio 58 (PK 685+037). Cambio 66 (PK 685+096). Cambios 2 y 12 enclavados a posición invertida para itinerario del tren 25538. Radiotelefonía en modalidad C. No existían obras en el lugar ni en proximidades."
+   },
+   "pagina": 14,
+   "cita": "Las instalaciones técnicas funcionaron correctamente. Según se desprende del visionado de la moviola",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía en modalidad C.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Material vacío UT470120: 3 vehículos, 156 t, 80 m. Tren 25538: automotores eléctricos 451011 y 451006, doble composición, tipo 140 (vmax 140 km/h), 6 vehículos, 482 t, 161 m.",
+    "averia": "No se detectaron anomalías en frenos, radiotelefonía ni dispositivos de seguridad de ninguno de los trenes. El registrador de seguridad del material vacío funcionó correctamente. Se detectó un desfase horario de unos 47 segundos de adelanto del registrador respecto a la moviola del puesto de mando.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Falta de claridad y mal entendimiento entre el responsable de circulación y el maquinista del material vacío en la comunicación previa (radiotelefonía).",
+    "Deslumbramiento solar sobre los focos de la señal S1/14 (en particular el blanco), que hacía parecer que estaban encendidos, dificultando la correcta percepción de su indicación.",
+    "Actuación incorrecta posterior al rebase: el responsable de circulación ordenó retroceso sin comprobar el estado de los cambios y el maquinista accedió (incumplimiento art. 475 RGC)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El responsable de circulación está habilitado conforme a la Orden FOM/2872/2010, de 5 de noviembre, \npor la que se determinan las condiciones para la obtención de títulos y habilitaciones que permiten el \nejercicio de las funciones del personal ferroviario relacionadas con la seguridad.  \nRealizó su último reciclaje formativo el 24.04.2014 y su último reconocimiento médico y psicotécnico el \n19.06.2013, conforme a la normativa vigente. \nEl maquinista del material vacío (maniobra UT470120) posee el título B de conducción y está habilitado \nconforme a la Orden FOM/2520/2006, de 27 de julio (Título V – Personal de conducción - en vigor \nhasta el 11 de enero de 2019, en virtud de la disposición transitoria octava de la Orden \nFOM/2872/2010, de 5 de noviembre).  \nTiene una antigüedad en el cargo desde el 09.04.2009, habilitación de la línea desde el 14.11.2013 y \ndel vehículo desde el 27.01.2006. \nRealizó su último reciclaje formativo el 22.11.2013 y su último reconocimiento médico y psicotécnico el \n29.10.2013, conforme a la normativa vigente. \nEl maquinista del tren 25538 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre).  \nTiene una antigüedad en el cargo desde el 30.06.1995. \nRealizó su último reciclaje formativo el 16.04.2013 y su último reconocimiento médico y psicotécnico el \n21.01.2014, conforme a la normativa vigente. \n\n## Página 14\n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0053/2014 ocurrido el 26.09.2014 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n151022-140926-IF-CIAF \n \n \nPág. 14 de 25\n3.3. \nNORMATIVA",
+   "pagina": 13,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de cercanías 25538 de Renfe Operadora (Rodalies), procedente de Sant Vicenç de Calders, entraba a vía 8 de Barcelona Estació de França a las 16:45:33 horas con itinerario establecido desde la señal de entrada E4 (vía G2) a vía G3. Simultáneamente, el material vacío (maniobra UT470120) estaba estacionado en vía 14 con la señal de salida S1/14 en indicación de parada, esperando maniobrar a vía C1 y posteriormente a vía 17.\n\nA las 16:46:12 horas, el material vacío inició un nuevo movimiento. Su maquinista, al percibir erróneamente que la señal S1/14 presentaba indicación de 'rebase autorizado' (cuando en realidad indicaba parada), actuó sobre el botón de rebase autorizado y pasó la señal. La cola del material vacío rebasó la señal a las 16:46:28 horas, momento en que el tren 25538 ya había superado la señal R4 y los desvíos 2 y 12, circulando por vía G3 hacia la que también se encaminaba el material vacío.\n\nEl maquinista del tren 25538 observó un vehículo que podía interferir el gálibo de su itinerario y efectuó frenado de urgencia. El material vacío, tras talonar el cambio T-52b con el primer bogie, se detuvo a las 16:46:52 horas ante la señal S1/14A en indicación de parada. Se produjo conato de colisión quedando los trenes a unos 80 metros de distancia. No hubo heridos ni daños materiales en el material rodante.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del personal de conducción del material vacío (maniobra UT470120): error en la percepción de la indicación de la señal S1/14 (que en todo momento indicó parada, pero el maquinista manifiesta verla en 'rebase autorizado'), dando lugar al rebase de la misma y al consecuente incumplimiento reglamentario (arts. 217.1 y 218.1 RGC).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Falta de claridad y mal entendimiento entre el responsable de circulación y el maquinista del material vacío en la comunicación previa (radiotelefonía).",
+    "Deslumbramiento solar sobre los focos de la señal S1/14 (en particular el blanco), que hacía parecer que estaban encendidos, dificultando la correcta percepción de su indicación.",
+    "Actuación incorrecta posterior al rebase: el responsable de circulación ordenó retroceso sin comprobar el estado de los cambios y el maquinista accedió (incumplimiento art. 475 RGC)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": "El responsable de circulación y el maquinista del material vacío (maniobra UT470120) actuaron \nincorrectamente en los momentos posteriores al rebase: el primero al ordenar el retroceso sin  \nhaberse comprobado el estado de los cambios y el segundo por acceder a ello. \n5. \nMEDIDAS ADOPTADAS \nPor parte de Adif \nPara impedir que la radiación solar incida directamente sobre los focos de la señal S1/14,  han sido \ndotados de nuevas viseras de mayor dimensión, mejorando así su visibilidad. \nEl responsable de circulación realizó una acción formativa referente a las normas de comunicación \nmediante radiotelefonía y asesoramiento sobre su actuación tras el suceso, mediante una jornada \nmonográfica (27/09/14) consistente en un intercambio de impresiones, análisis de los hechos y \ncorrección de errores detectados tanto a nivel de aplicación de la normativa  reglamentaria como de la \nimportancia del factor humano. \nEl responsable de circulación pasó a realizar funciones de agente de circulación hasta que se completó \nla formación reglada establecida y solicitada al departamento de formación de Adif tras la jornada \nmonográfica. \n\n## Página 24\n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0053/2014 ocurrido el 26.09.2014 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n151022-140926-IF-CIAF \n \n \nPág. 24 de 25\nPor parte de Renfe Operadora \nAl tratarse de un fallo humano en la conducción, Renfe Operadora aplicó al maquinista del material \nvacío (maniobra UT470120) la Circular Operativa nº 1 de Presidencia (gestión del fallo humano), en la \nque se contemplan una serie de medidas para paliar éste como son: control de alcoholemia, retirada \ndel servicio, reconocimiento psicofísico, programa individualizado de reciclaje (que incluye paso por \nsimulador, reciclaje formativo y acompañamiento en cabina por tutor) y posterior reincorporación al \nservicio una vez superadas las pruebas y previo informe favorable del tutor. \nMás concretamente con respecto al maquinista de este suceso el equipo de apoyo acordó el \n26/09/2014: \n• Acción formativa de 8 horas de Seguridad en la Circulación enfocadas especialmente a lo \ndispuesto en el Titulo VI del RGC (maniobras) y del manual de circulación nº 15 (radiotelefonía). \n• Acción formativa de 8 horas sobre el Factor Humano, enfocadas especialmente a lo dispuesto en \nlas fichas de Buenas Prácticas nº 1 (el control de las expectativas), nº 3 (las comunicaciones \nprofesionales seguras) y nº 4 (la realización de maniobras). \n• Acción formativa de 8 horas de conducción con simulador. \n• Cinco tutorías de la actividad laboral mediante acompañamiento en cabina por parte de mando \nintermedio de conducción. \n• Una tutela de la actividad laboral mediante acompañamiento en cabina por parte de mando \nintermedio de conducción a modo de cierre de la supervisión prevista. \n• Tres análisis de registros de seguridad. \n\n## Página 25\n\n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0053/2014 ocurrido el 26.09.2014 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n151022-140926-IF-CIAF \n \n \nPág. 25 de 25\n6. \nRECOMENDACIONES \nDestinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAESF \nAESF \n53/14-1 \nConsiderando adecuadas las medidas \nadoptadas en este suceso se recomienda: \nQue se analice conjuntamente por el Adif \ny las empresas ferroviarias la existencia \nen otros puntos de la red de señales que \npresenten una situación similar a la del \npresente suceso (dificultad de percepción \nde su indicación por deslumbramiento) \nadoptando las medidas necesarias. \n \n \nMadrid, 22 de octubre de 2015 \n \n \n\n### Tablas de la página 25\n\n| Destinatario | Implementador final | Número | Recomendación |\n|---|---|---|---|\n| AESF | AESF | 53/14-1 | Considerando adecuadas las medidas adoptadas en este suceso se recomienda: Que se analice conjuntamente por el Adif y las empresas ferroviarias la existencia en otros puntos de la red de señales que presenten una situación similar a la del presente suceso (dificultad de percepción de su indicación por deslumbramiento) adoptando las medidas necesarias. |",
+   "pagina": 23,
+   "cita": "4.3.4. Observaciones adicionales",
+   "origen": "determinista",
+   "regla": "sec:^observaciones adicionales",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Considerando adecuadas las medidas adoptadas en este suceso se recomienda: Que se analice conjuntamente por el Adif y las empresas ferroviarias la existencia en otros puntos de la red de señales que presenten una situación similar a la del presente suceso (dificultad de percepción de su indicación por deslumbramiento) adoptando las medidas necesarias.",
+    "Considerando adecuadas las medidas adoptadas en este suceso se recomienda: Que se analice conjuntamente por el Adif y las empresas ferroviarias la existencia en otros puntos de la red de señales que presenten una situación similar a la del presente suceso (dificultad de percepción de su indicación por deslumbramiento) adoptando las medidas necesarias."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "16:43:05",
+     "evento": "Conversación entre maquinista de maniobras y jefe de circulación: 'Saliendo maniobra de vía 14' / 'Muy bien'"
+    },
+    {
+     "hora": "16:44:27",
+     "evento": "Jefe de circulación comunica al tren 25538 una ocupación de circuito; el material vacío está ante señal S1/14A cerrada; se le ordena retroceder a topera"
+    },
+    {
+     "hora": "16:45:33",
+     "evento": "Tren 25538 establece itinerario a vía 8; señal E4 en anuncio de parada, R4 en movimiento autorizado; material vacío en vía 14 ocupando CV14, señal S1/14 en parada"
+    },
+    {
+     "hora": "16:45:43",
+     "evento": "Tren 25538 rebasa señal E4 y se aproxima a R4; material vacío sigue ocupando CV14 con S1/14 en parada"
+    },
+    {
+     "hora": "16:45:48",
+     "evento": "Conversación: maquinista del 25538 advierte al de maniobras 'No tires para atrás que vas al suelo'; jefe de circulación pregunta si ha rebasado S1/14; maquinista responde 'No'"
+    },
+    {
+     "hora": "16:46:04",
+     "evento": "Material vacío se detiene ante señal S1/14 que ordena parada"
+    },
+    {
+     "hora": "16:46:12",
+     "evento": "Material vacío inicia nuevo movimiento; maquinista actúa sobre rebase autorizado percibiendo erróneamente la señal"
+    },
+    {
+     "hora": "16:46:28",
+     "evento": "Cola del material vacío pasa por señal S1/14; libera CV14; ocupa circuitos de cambios T-52a/b, 58 y 66; tren 25538 supera R4, desvíos 2 y 12, circula por vía G3"
+    },
+    {
+     "hora": "16:46:52",
+     "evento": "Material vacío se detiene ante señal S1/14A en parada, tras talonar el cambio T52b con primer bogie; conato de colisión a unos 80 metros"
+    },
+    {
+     "hora": "16:47",
+     "evento": "Maquinista del tren 25538 comunica lo sucedido al jefe de circulación"
+    },
+    {
+     "hora": "16:47:31",
+     "evento": "Jefe de circulación informa al jefe del CTC; se ordena no mover ningún tren"
+    },
+    {
+     "hora": "16:48:22",
+     "evento": "Material vacío inicia movimiento de retroceso a vía 14"
+    },
+    {
+     "hora": "17:39",
+     "evento": "Jefe de investigación de Adif comunica el suceso a la CIAF"
+    },
+    {
+     "hora": "19:02",
+     "evento": "Finaliza maniobra de apartamiento del tren 25538 a vía 16"
+    },
+    {
+     "hora": "19:05",
+     "evento": "Vía 7 queda operativa"
+    },
+    {
+     "hora": "20:30",
+     "evento": "Cambio T52b queda embridado a posición normal; acceso a vías 8, 9 y 10 restablecido"
+    },
+    {
+     "hora": "23:20",
+     "evento": "Finalizan trabajos de reparación del cambio T52b; se restablece la normalidad en la estación"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0053/2014",
+ "expediente": "0053/14",
+ "anio": 2014,
+ "titulo": "INFORME FINAL DE LA CIAF (IF) SOBRE EL INCIDENTE FERROVIARIO Nº 0053/2014 OCURRIDO EL DÍA 26.09.2014 EN BARCELONA ESTACIÓ DE FRANÇA (BARCELONA)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 26.09.2014 151022-140926-IF-CIAF_BARCELONA ESTACIÓ DE FRANÇA.md"
+}

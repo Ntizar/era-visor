@@ -1,0 +1,900 @@
+{
+ "id": "IF-021108-240209-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/85BACDC6-F025-4EFE-A853-A909CE590433/46986/IF021108240209CIAF.pdf",
+ "pdf": "pdfs/ES/IF-021108-240209-CIAF.pdf",
+ "md5_pdf": "aaf9953e4791470c8a6dc3b703a9eb1e",
+ "paginas_md": 10,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 6,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0056/2008",
+   "pagina": 1,
+   "cita": "nº 0056/2008 ocurrido el 02.11.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2 de noviembre de 2008, a las 22:10 horas, el tren 475 de Renfe Operadora arrolló mortalmente a una mujer de 19 años en el paso enmaderado del apeadero de Hostalric. La víctima cruzaba las vías sin percatarse de la proximidad del tren, mientras otras personas lograron apartarse. La actuación de la maquinista fue correcta, ya que usó el silbato y frenó en emergencia; el tren circulaba a 128 km/h, por debajo del límite de 140 km/h. El accidente no causó daños materiales, pero interrumpió la vía 1 durante varias horas y generó retrasos. Se recomienda señalizar el paso y evaluar señales de silbar hasta la ejecución de pasos inferiores adjudicados.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-11-02",
+    "hora": "22:10",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Hostalric",
+     "pk": "170,925",
+     "linea": "270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal",
+     "provincia": "Gerona",
+     "descripcion_lugar": "Paso enmaderado del apeadero de Hostalric, en el trayecto Riells y Viabrea - Maçanet-Massanes, a la salida de una curva por el lado de Barcelona."
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 2 de noviembre de 2008, a las 22:10 horas, el tren de viajeros de larga distancia 475, de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Marcha a la vista sin exceder 5 km/h al paso por el apeadero por ambas vías; vía 1 interrumpida desde las 22:10 horas del 2 de noviembre hasta las 3:17 horas del día siguiente; 3 trenes de larga distancia con 397 minutos de retraso total, 4 trenes de media distancia con 300 minutos y 1 tren de cercanías con 41 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Cruce de la víctima por el paso enmaderado sin percatarse de la proximidad del tren 475.",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en el cruce de la víctima por el paso enmaderado sin",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Oscuridad nocturna que pudo afectar a la visibilidad de la víctima.",
+    "Corta distancia aproximada de 150 metros entre el final de la curva y el paso enmaderado.",
+    "Escasa visibilidad y tiempo de reacción muy corto para maquinistas y usuarios.",
+    "Reducción del tiempo de reacción cuando el tren no tiene parada en el apeadero.",
+    "Ausencia de alternativa segura para cruzar las vías, como un paso a distinto nivel."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Paso enmaderado sin señalizar y con situación de riesgo detectada.",
+    "Obras de pasos inferiores adjudicadas pero no ejecutadas en el momento del accidente.",
+    "Antecedente de arrollamiento mortal similar en el mismo apeadero el 31 de diciembre de 2006."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Se recomienda que el paso enmaderado se señalice y se evalúe la conveniencia de colocar señales de silbar, en el caso de que no existan, mientras no se lleven a cabo las obras ya adjudicadas del proyecto Línea Tarragona-Barcelona-Francia. Tramo: Granollers – Maçanet. Pasos inferiores entre andenes en los apeaderos de Santa María de Palautordera y Hostalric (BOE nº 181, de 28 de julio de 2008).",
+     "destinatario": null
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: Se recomienda que el paso enmaderado se señalice y se evalúe la",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Se recomienda que el paso enmaderado se señalice y se evalúe la conveniencia de colocar señales de silbar, en el caso de que no existan, mientras no se lleven a cabo las obras ya adjudicadas del proyecto Línea Tarragona-Barcelona-Francia. Tramo: Granollers – Maçanet. Pasos inferiores entre andenes en los apeaderos de Santa María de Palautordera y Hostalric (BOE nº 181, de 28 de julio de 2008).",
+     "destinatario": null
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: Se recomienda que el paso enmaderado se señalice y se evalúe la",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de una persona",
+   "pagina": 2,
+   "cita": "de Investigación de accidentes ferroviarios que se había producido el arrollamiento de una persona",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "empresa ferroviaria Renfe Operadora, arrolla a una persona que atravesaba las vías por el paso",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-11-02",
+   "pagina": 2,
+   "cita": "El día 2 de noviembre de 2008, a las 22:10 horas, el tren de viajeros de larga distancia 475, de la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "22:10",
+   "pagina": 2,
+   "cita": "El día 2 de noviembre de 2008, a las 22:10 horas, el tren de viajeros de larga distancia 475, de la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Hostalric",
+    "pk": "170,925",
+    "linea": "270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal",
+    "provincia": "Gerona",
+    "descripcion_lugar": "Paso enmaderado del apeadero de Hostalric, en el trayecto Riells y Viabrea - Maçanet-Massanes, a la salida de una curva por el lado de Barcelona."
+   },
+   "pagina": 5,
+   "cita": "de Hostalric, observo una circulación estacionada en la vía 2 del apeadero y un grupo de personas",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal",
+   "pagina": 2,
+   "cita": "270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "locomotora 252068; 17 coches; masa remolcada 277 Tn; número UIC 9571025220682",
+    "averia": "No se detectan averías; funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 2 de noviembre de 2008, a las 22:10 horas, el tren de larga distancia 475 de Renfe Operadora, formado por la locomotora 252068, 17 coches y 277 Tn de masa remolcada, circulaba por el apeadero de Hostalric, en el P.K. 170,925 de la línea 270. Una joven de 19 años cruzaba las vías por el paso enmaderado junto a otras personas y fue arrollada por el tren, falleciendo en el acto.\n\nLa maquinista principal observó un grupo de personas cruzando por el paso entablonado al salir de una curva, hizo uso del silbato de forma insistente, redujo la velocidad y, al comprobar que la víctima no podía apartarse, accionó el freno de emergencia. Según el registrador de seguridad, el tren circulaba a 128 km/h en el momento de accionar el freno, por debajo de la velocidad máxima permitida de 140 km/h.\n\nEl suceso provocó la retirada del cadáver a las 2:00 horas y la interrupción de la circulación por la vía 1 hasta las 3:17 horas del día siguiente. No se produjeron daños materiales en el tren, la infraestructura ni el medio ambiente.",
+   "pagina": 2,
+   "cita": "1. RESUMEN El día 2 de noviembre de 2008, a las 22:10 horas, el tren de viajeros de larga distancia 475, de la empresa ferroviaria Renfe Operadora, arrolla a una persona que atravesaba las vías por el paso enmaderado",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Hostalric",
+    "pk": "170,925",
+    "linea": "270 Portbou-Cerbere-Barcelona-Sant Andreu Comtal",
+    "provincia": "Gerona",
+    "descripcion_lugar": "Paso enmaderado del apeadero de Hostalric, en el trayecto Riells y Viabrea - Maçanet-Massanes, a la salida de una curva por el lado de Barcelona."
+   },
+   "pagina": 5,
+   "cita": "de Hostalric, observo una circulación estacionada en la vía 2 del apeadero y un grupo de personas",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Marcha a la vista sin exceder 5 km/h al paso por el apeadero por ambas vías; vía 1 interrumpida desde las 22:10 horas del 2 de noviembre hasta las 3:17 horas del día siguiente; 3 trenes de larga distancia con 397 minutos de retraso total, 4 trenes de media distancia con 300 minutos y 1 tren de cercanías con 41 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista principal del tren 475",
+     "implicacion": "Hizo uso del silbato y accionó el freno de emergencia; su actuación fue correcta. Prueba de alcoholemia negativa."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "475",
+     "tipo": "tren de viajeros de larga distancia",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños en el material rodante."
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 2 de noviembre de 2008, a las 22:10 horas, el tren de viajeros de larga distancia 475, de la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "locomotora 252068; 17 coches; masa remolcada 277 Tn; número UIC 9571025220682",
+    "averia": "No se detectan averías; funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "No consta señalización del paso enmaderado; se recomienda señalizarlo y evaluar señales de silbar si no existen.",
+    "tipo_via": "vía doble electrificada con bloqueo automático banalizado con C.T.C.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "No se observan daños en la infraestructura; instalaciones técnicas funcionaron correctamente.",
+    "otro": "Apeadero con dos pasos entarimados, uno a cada extremo, sin paso a distinto nivel; distancia aproximada de 150 metros entre el final de la curva y el paso enmaderado; radiotelefonía modalidad A."
+   },
+   "pagina": 4,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático banalizado con C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "No consta señalización del paso enmaderado; se recomienda señalizarlo y evaluar señales de silbar si no existen.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Marcha a la vista sin exceder 5 km/h al paso por el apeadero por ambas vías; vía 1 interrumpida desde las 22:10 horas del 2 de noviembre hasta las 3:17 horas del día siguiente; 3 trenes de larga distancia con 397 minutos de retraso total, 4 trenes de media distancia con 300 minutos y 1 tren de cercanías con 41 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Marcha a la vista sin exceder 5 km/h al paso por el apeadero por ambas vías; vía 1 interrumpida desde las 22:10 horas del 2 de noviembre hasta las 3:17 horas del día siguiente; 3 trenes de larga distancia con 397 minutos de retraso total, 4 trenes de media distancia con 300 minutos y 1 tren de cercanías con 41 minutos."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-021108-240209-CIAF Pág. 1 de 10 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0056/2008 O",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Marcha a la vista sin exceder 5 km/h al paso por el apeadero por ambas vías; vía 1 interrumpida desde las 22:10 horas del 2 de noviembre hasta las 3:17 horas del día siguiente; 3 trenes de larga distancia con 397 minutos de retraso total, 4 trenes de media distancia con 300 minutos y 1 tren de cercanías con 41 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "locomotora 252068; 17 coches; masa remolcada 277 Tn; número UIC 9571025220682",
+    "averia": "No se detectan averías; funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "No consta señalización del paso enmaderado; se recomienda señalizarlo y evaluar señales de silbar si no existen.",
+    "tipo_via": "vía doble electrificada con bloqueo automático banalizado con C.T.C.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "No se observan daños en la infraestructura; instalaciones técnicas funcionaron correctamente.",
+    "otro": "Apeadero con dos pasos entarimados, uno a cada extremo, sin paso a distinto nivel; distancia aproximada de 150 metros entre el final de la curva y el paso enmaderado; radiotelefonía modalidad A."
+   },
+   "pagina": 4,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático banalizado con C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "De noche y tiempo atmosférico despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Gerona",
+    "municipio": null,
+    "estacion": "Hostalric"
+   },
+   "pagina": 2,
+   "cita": "Gerona El tren de larga distancia 475 de Renfe Operadora, compuesto por la locomotora 252068, 17 coches y masa remolcada de 277 Tn, circulando por el apeadero de Hostalric, arrolla a una joven que cruzaba la vía 1, ju",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "De noche y tiempo atmosférico despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "No consta señalización del paso enmaderado; se recomienda señalizarlo y evaluar señales de silbar si no existen.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "No consta señalización del paso enmaderado; se recomienda señalizarlo y evaluar señales de silbar si no existen.",
+    "tipo_via": "vía doble electrificada con bloqueo automático banalizado con C.T.C.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "No se observan daños en la infraestructura; instalaciones técnicas funcionaron correctamente.",
+    "otro": "Apeadero con dos pasos entarimados, uno a cada extremo, sin paso a distinto nivel; distancia aproximada de 150 metros entre el final de la curva y el paso enmaderado; radiotelefonía modalidad A."
+   },
+   "pagina": 4,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático banalizado con C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "locomotora 252068; 17 coches; masa remolcada 277 Tn; número UIC 9571025220682",
+    "averia": "No se detectan averías; funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "cruce por paso enmaderado",
+    "víctima no percibe tren",
+    "paso sin alternativa segura",
+    "curva reduce visibilidad"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 2 de noviembre de 2008, a las 22:10 horas, el tren de larga distancia 475 de Renfe Operadora, formado por la locomotora 252068, 17 coches y 277 Tn de masa remolcada, circulaba por el apeadero de Hostalric, en el P.K. 170,925 de la línea 270. Una joven de 19 años cruzaba las vías por el paso enmaderado junto a otras personas y fue arrollada por el tren, falleciendo en el acto.\n\nLa maquinista principal observó un grupo de personas cruzando por el paso entablonado al salir de una curva, hizo uso del silbato de forma insistente, redujo la velocidad y, al comprobar que la víctima no podía apartarse, accionó el freno de emergencia. Según el registrador de seguridad, el tren circulaba a 128 km/h en el momento de accionar el freno, por debajo de la velocidad máxima permitida de 140 km/h.\n\nEl suceso provocó la retirada del cadáver a las 2:00 horas y la interrupción de la circulación por la vía 1 hasta las 3:17 horas del día siguiente. No se produjeron daños materiales en el tren, la infraestructura ni el medio ambiente.",
+   "pagina": 2,
+   "cita": "1. RESUMEN El día 2 de noviembre de 2008, a las 22:10 horas, el tren de viajeros de larga distancia 475, de la empresa ferroviaria Renfe Operadora, arrolla a una persona que atravesaba las vías por el paso enmaderado",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en el apeadero de Hostalric, en el P.K. 170, 925 de la línea 270 Portbou-\nCerbere-Barcelona-Sant Andreu Comtal. \nSegún el registrador de seguridad de la locomotora 252068, el tren circulaba a una velocidad \ninferior a la máxima permitida en el tramo. \nSegún lo declarado por la maquinista, al percatarse de la presencia de varias personas cruzando \npor el paso entablonado, hizo uso del silbato repetidas veces y actuó sobre el freno de emergencia, \npor lo que la actuación de la maquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo de la maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que:  \nCabe resaltar que, en el momento en que se produce el accidente, era de noche, circunstancia que \npudo afectar a la visibilidad de la víctima, que cruzó el paso entablonado sin percatarse de la llegada \ndel tren 475. \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0056/2008 ocurrido el 02.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-021108-240209-CIAF \n \n \nPág. 8 de 10\n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en el cruce de la víctima por el paso enmaderado sin percatarse de la \nproximidad del tren 475.",
+   "pagina": 7,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Cruce de la víctima por el paso enmaderado sin percatarse de la proximidad del tren 475.",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en el cruce de la víctima por el paso enmaderado sin",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Oscuridad nocturna que pudo afectar a la visibilidad de la víctima.",
+    "Corta distancia aproximada de 150 metros entre el final de la curva y el paso enmaderado.",
+    "Escasa visibilidad y tiempo de reacción muy corto para maquinistas y usuarios.",
+    "Reducción del tiempo de reacción cuando el tren no tiene parada en el apeadero.",
+    "Ausencia de alternativa segura para cruzar las vías, como un paso a distinto nivel."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Se recomienda que el paso enmaderado se señalice y se evalúe la conveniencia de colocar señales de silbar, en el caso de que no existan, mientras no se lleven a cabo las obras ya adjudicadas del proyecto Línea Tarragona-Barcelona-Francia. Tramo: Granollers – Maçanet. Pasos inferiores entre andenes en los apeaderos de Santa María de Palautordera y Hostalric (BOE nº 181, de 28 de julio de 2008).",
+     "destinatario": null
+    }
+   ],
+   "pagina": 2,
+   "cita": "Recomendaciones: Se recomienda que el paso enmaderado se señalice y se evalúe la",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "22:10",
+     "evento": "El tren 475 arrolla a una persona que cruzaba por el paso enmaderado del apeadero de Hostalric."
+    },
+    {
+     "hora": "23:14",
+     "evento": "La policía autoriza a la maquinista del tren 475 a reanudar la marcha hasta la estación de Maçanet-Massanes."
+    },
+    {
+     "hora": "23:33",
+     "evento": "El coordinador de accidentes ferroviarios de Adif comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios."
+    },
+    {
+     "hora": "01:10",
+     "evento": "El tren 475 efectúa su salida de la estación de Maçanet-Massanes."
+    },
+    {
+     "hora": "02:00",
+     "evento": "Es retirado el cadáver de la víctima."
+    },
+    {
+     "hora": "03:17",
+     "evento": "Finaliza la interrupción de la circulación por la vía 1."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0056/2008",
+ "expediente": "0056/08",
+ "anio": 2008,
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0056/2008 OCURRIDO EL DÍA 02.11.2008",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-021108-240209-CIAF.md"
+}

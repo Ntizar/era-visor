@@ -1,0 +1,991 @@
+{
+ "id": "2023-114-231126-if_ciaf",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/260128-231126-if_ciafv2.pdf",
+ "pdf": "pdfs/ES/2023-114-231126-if_ciaf.pdf",
+ "md5_pdf": "cd91fb7649fd34d40678f41b873dfc38",
+ "paginas_md": 31,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 34,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 27,
+   "cabecera": [
+    "Receiver",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Receiver": "AESF",
+     "Implementador final": "ADIF",
+     "Número": "114/2023-1",
+     "Recomendación": "Identificar los puntos críticos en la red ferroviaria que presenten características similares a las del lugar del suceso en cuanto a intensidad de tráfico, diseño e impacto sobre el servicio ferroviario, adoptando las medidas de mejora que se consideren necesarias en cuanto a ciclo de vida, mantenimiento, prestaciones del material y resiliencia frente a averías."
+    },
+    {
+     "Receiver": "AESF",
+     "Implementador final": "ADIF",
+     "Número": "114/2023-2",
+     "Recomendación": "Revisar y optimizar los procedimientos de control y mantenimiento preventivo aplicados a los aparatos de vía situados en puntos críticos, adaptándolos a las particularidades funcionales y estructurales de estos elementos."
+    },
+    {
+     "Receiver": "AESF",
+     "Implementador final": "ADIF",
+     "Número": "114/2023-3",
+     "Recomendación": "Establecer la periodicidad de las auscultaciones, así como sus posibles modificaciones, en base a estudios de riesgo y no en base a la disponibilidad de los medios materiales disponibles."
+    }
+   ],
+   "cita": "| Receiver | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 31,
+   "cabecera": [
+    "Addressee",
+    "Final Implementer",
+    "Number",
+    "Recommendation"
+   ],
+   "filas": [
+    {
+     "Addressee": "AESF (NSA-ES)",
+     "Final Implementer": "ADIF",
+     "Number": "114/2023-1",
+     "Recommendation": "Identify critical points in the railway network that have similar characteristics to the site of the accident in terms of traffic intensity, design and impact on the railway service, adopting improvement measures as necessary regarding lifecycle, maintenance, material performance and resilience to failures."
+    },
+    {
+     "Addressee": "AESF (NSA-ES)",
+     "Final Implementer": "ADIF",
+     "Number": "114/2023-2",
+     "Recommendation": "Review and optimize the control and preventive maintenance procedures applied to track components located at critical points, adapting them to the functional and structural characteristics of these elements."
+    },
+    {
+     "Addressee": "AESF (NSA-ES)",
+     "Final Implementer": "ADIF",
+     "Number": "114/2023-3",
+     "Recommendation": "Establish the frequency of auscultations, and any necessary adjustments, based on risk studies rather than the availability resources."
+    }
+   ],
+   "cita": "| Addressee | Final Implementer | Number | Recommendation |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "114/2023",
+   "pagina": 1,
+   "cita": "INFORME FINAL DE LA CIAF (IF) 114/2023",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 26 de noviembre de 2023, el tren 00271 de Renfe Viajeros descarriló parcialmente al salir de la vía 4 de la estación de Atocha-Cercanías, en la travesía T10, con dirección a la vía I del túnel de Recoletos. La hipótesis adoptada es que se fracturó el espadín interior derecho T10A tras el paso del tercer rodal de los coches remolcados, generando un perfil no uniforme que provocó el descarrilamiento de los rodales entre la cuarta y octava posición y el encarrilamiento erróneo de los dos últimos rodales hacia la vía II. Como consecuencia hubo 14 heridos leves y daños materiales estimados en 936.536 euros. La investigación apunta a la rotura del espadín como factor causal, con contribuyentes como la alta intensidad de tráfico y el diseño de la travesía, y un factor sistémico relacionado con la gestión del ciclo de vida de elementos en puntos singulares.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2023-11-26",
+    "hora": "23:59",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Atocha-Cercanías",
+     "pk": "0,150",
+     "linea": "900 Madrid Chamartín - Madrid Atocha Cercanías",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Travesía T10, a la salida de la vía 4 de la estación de Atocha-Cercanías, en dirección a la vía I del túnel de Recoletos."
+    }
+   },
+   "pagina": 1,
+   "cita": "el 26 de noviembre de 2023",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 14,
+    "danos_materiales": "Daños materiales totales estimados en 936.536 euros: 810.707 euros en material rodante, con 5 coches afectados, y 125.829 euros en infraestructura e instalaciones.",
+    "afectacion_servicio": "Quedaron interceptadas las vías I y II del túnel de Recoletos entre Atocha-Cercanías y Recoletos; la vía II se restableció el 28 de noviembre de 2023 a las 02:35 y la vía I el 29 de noviembre de 2023 a las 02:02."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Rotura del espadín interior derecho T10A de la travesía T10, como consecuencia de tensiones ejercidas por el tirante, que generó una configuración anómala del aparato de vía.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La intensidad de tráfico que soporta la travesía T10, con una media de 2.641 circulaciones semanales en el tramo Atocha-Cercanías - Chamartín por el túnel de Recoletos.",
+    "Las características del diseño de la travesía T10 por la dificultad de dar continuidad a la vía entre la estación y el túnel.",
+    "La mayor rigidez estructural derivada de la sustitución de vía en balasto por vía en placa, que pudo incrementar tensiones locales en componentes sensibles como los espadines.",
+    "Posible fractura por fatiga del espadín, aunque no se pudo determinar de forma concluyente el origen concreto de la rotura."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "La gestión del ciclo de vida de elementos en puntos singulares, por tráfico, diseño o condiciones del entorno.",
+    "Deficiencias en procedimientos de control y mantenimiento preventivo de aparatos de vía en puntos críticos.",
+    "Planificación de auscultaciones basada en disponibilidad de medios materiales en lugar de estudios de riesgo.",
+    "Debilidades en vigilancia interna del administrador de infraestructuras y en supervisión y auditoría de la AESF."
+   ],
+   "pagina": 6,
+   "cita": "1. La gestión del ciclo de vida de elementos en puntos singulares, por tráfico, diseño o",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Identificar los puntos críticos en la red ferroviaria que presenten características similares a las del lugar del suceso en cuanto a intensidad de tráfico, diseño e impacto sobre el servicio ferroviario, adoptando las medidas de mejora que se consideren necesarias en cuanto a ciclo de vida, mantenimiento, prestaciones del material y resiliencia frente a averías.",
+    "Revisar y optimizar los procedimientos de control y mantenimiento preventivo aplicados a los aparatos de vía situados en puntos críticos, adaptándolos a las particularidades funcionales y estructurales de estos elementos.",
+    "Establecer la periodicidad de las auscultaciones, así como sus posibles modificaciones, en base a estudios de riesgo y no en base a la disponibilidad de los medios materiales disponibles."
+   ],
+   "pagina": 27,
+   "cita": "| Receiver | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Identificar los puntos críticos en la red ferroviaria que presenten características similares a las del lugar del suceso, en cuanto a intensidad de tráfico, diseño e impacto sobre el servicio ferroviario, adoptando las medidas de mejora que se consideren necesarias en cuanto a ciclo de vida, mantenimiento, prestaciones del material y resiliencia frente a averías.",
+     "destinatario": "AESF, para implementación por ADIF"
+    },
+    {
+     "texto": "Revisar y optimizar los procedimientos de control y mantenimiento preventivo aplicados a los aparatos de vía situados en puntos críticos, adaptándolos a las particularidades funcionales y estructurales de estos elementos.",
+     "destinatario": "AESF, para implementación por ADIF"
+    },
+    {
+     "texto": "Establecer la periodicidad de las auscultaciones, así como sus posibles modificaciones, en base a estudios de riesgo y no en base a la disponibilidad de los medios materiales.",
+     "destinatario": "AESF, para implementación por ADIF"
+    }
+   ],
+   "pagina": 6,
+   "cita": "• Identificar los puntos críticos en la red ferroviaria que presenten características similares a las del lugar del suceso, en cuanto a intensidad de tráfico, diseño e impacto sobre el servicio ferroviario, adoptando",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "descarrilamiento",
+   "pagina": 5,
+   "cita": "El día 26 de noviembre de 2023, a las 14:24 horas, se produjo el descarrilamiento parcial del tren",
+   "origen": "importado",
+   "regla": "db:tipo",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Viajeros",
+    "ADIF"
+   ],
+   "pagina": 5,
+   "cita": "00271, operado por la empresa ferroviaria Renfe Viajeros. El tren realizaba el trayecto entre Almería",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2023-11-26",
+   "pagina": 1,
+   "cita": "el 26 de noviembre de 2023",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "23:59",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:hora"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Atocha-Cercanías",
+    "pk": "0,150",
+    "linea": "900 Madrid Chamartín - Madrid Atocha Cercanías",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Travesía T10, a la salida de la vía 4 de la estación de Atocha-Cercanías, en dirección a la vía I del túnel de Recoletos."
+   },
+   "pagina": 6,
+   "cita": "de vida, mantenimiento, prestaciones del material y resiliencia frente a averías.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotoras serie 334, números 010 y 006; coches Talgo Serie 6, rama 6B10",
+    "averia": "No se identificó ninguna anomalía técnica ni influencia de los parámetros de rodadura del material móvil; resultaron afectados 5 coches.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 26 de noviembre de 2023, a las 14:24 horas, el tren 00271 de Renfe Viajeros, con trayecto Almería - Madrid-Chamartín Clara Campoamor, salió de la vía 4 de la estación de Atocha-Cercanías hacia la vía I del túnel de Recoletos. La composición estaba formada por dos locomotoras de la serie 334, números 010 y 006, y nueve coches Talgo de la Serie 6, rama 6B10, con 159 metros de longitud y 317 toneladas de peso. El Responsable de Circulación estableció correctamente el itinerario de salida y la verificación no detectó anomalías en los aparatos de vía implicados.\n\nLas dos locomotoras y los tres primeros rodales de los coches remolcados circularon correctamente por la vía I. Sin embargo, tras el paso del tercer rodal, se produjo la rotura del espadín interior derecho T10A de la travesía T10. La punta del espadín, unida al tirante, quedó separada de la contraaguja, mientras que el resto retornó a su posición de reposo sobre la contraaguja. Esta configuración anómala generó un perfil no uniforme.\n\nComo resultado, los rodales comprendidos entre la cuarta y la octava posición descarrilaron, y los dos últimos rodales, noveno y décimo, fueron encarrilados erróneamente hacia la vía II del túnel de Recoletos. El suceso se produjo en un entorno de tramo en túnel, con condiciones habituales de visibilidad y ambientales para esa infraestructura. Tras el accidente, quedaron interceptadas las vías I y II del túnel entre Atocha-Cercanías y Recoletos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Atocha-Cercanías",
+    "pk": "0,150",
+    "linea": "900 Madrid Chamartín - Madrid Atocha Cercanías",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Travesía T10, a la salida de la vía 4 de la estación de Atocha-Cercanías, en dirección a la vía I del túnel de Recoletos."
+   },
+   "pagina": 6,
+   "cita": "de vida, mantenimiento, prestaciones del material y resiliencia frente a averías.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 14,
+    "danos_materiales": "Daños materiales totales estimados en 936.536 euros: 810.707 euros en material rodante, con 5 coches afectados, y 125.829 euros en infraestructura e instalaciones.",
+    "afectacion_servicio": "Quedaron interceptadas las vías I y II del túnel de Recoletos entre Atocha-Cercanías y Recoletos; la vía II se restableció el 28 de noviembre de 2023 a las 02:35 y la vía I el 29 de noviembre de 2023 a las 02:02."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Tras el suceso, se llevó a cabo una reparación temporal del espadín fracturado mediante la soldadura \nde dos placas metálicas sobre el alma y el patín y el embridado del mismo, lo que permitió la \ncirculación provisional de los trenes. Posteriormente, se procedió a su sustitución completa por uno \nnuevo. Además, se inspeccionó la travesía T10, detectándose una fisura en el espadín T10B, lo que \nmotivó su sustitución total. No obstante, se desconocen los detalles de esta intervención. \n \nFigura 11 Vista del espadín fracturado tras la reparación temporal mediante la soldadura en el alma y el patín de dos placas \nmetálicas (Fuente CTV - ADIF)",
+   "pagina": 25,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 00271",
+     "implicacion": "Comunicó el accidente al Responsable de Circulación tras el descarrilamiento."
+    },
+    {
+     "rol": "Responsable de Circulación de Atocha-Cercanías",
+     "implicacion": "Estableció el itinerario de salida desde la vía 4 hacia la vía I del túnel de Recoletos; la verificación no detectó anomalías."
+    },
+    {
+     "rol": "Personal de ADIF",
+     "implicacion": "Movilización de recursos, inspección, protocolos de seguridad, reparación temporal y sustitución de espadines."
+    },
+    {
+     "rol": "Personal de Renfe Viajeros y Talgo",
+     "implicacion": "Acudió para valorar el material accidentado."
+    },
+    {
+     "rol": "Servicios públicos de emergencia",
+     "implicacion": "Bomberos, SAMUR-Protección Civil, Policía Municipal y Policía Nacional fueron movilizados por el plan de emergencias."
+    }
+   ],
+   "pagina": 16,
+   "cita": "A las 14:28 horas, tras producirse el descarrilamiento, el maquinista del tren 00271 comunicó el",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "Las entidades relacionadas con el accidente son las siguientes:  \n➢ ADIF: Administrador de Infraestructuras Ferroviarias. \n➢ Renfe Viajeros: Empresa Ferroviaria del tren implicado en el suceso.",
+   "pagina": 13,
+   "cita": "3.1.4. Personal y entidades",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "00271",
+     "tipo": "Tren de viajeros Almería - Madrid-Chamartín Clara Campoamor, compuesto por dos locomotoras y nueve coches Talgo",
+     "operador": "Renfe Viajeros",
+     "danos": "5 coches afectados; costes totales de reparación del material rodante estimados en 810.707 euros."
+    }
+   ],
+   "pagina": 5,
+   "cita": "00271, operado por la empresa ferroviaria Renfe Viajeros. El tren realizaba el trayecto entre Almería",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotoras serie 334, números 010 y 006; coches Talgo Serie 6, rama 6B10",
+    "averia": "No se identificó ninguna anomalía técnica ni influencia de los parámetros de rodadura del material móvil; resultaron afectados 5 coches.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 4,
+   "cita": "Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "BAB con CTC y sistema ASFA",
+    "tipo_via": "Vía en placa en la travesía T10; el aparato anterior estaba sobre vía en balasto",
+    "velocidad_maxima": null,
+    "ancho": "Ancho ibérico 1668 mm; coches Talgo remolcados con sistema de ancho variable 1668/1435",
+    "electrificacion": "3 kV",
+    "estado_via": "Travesía T10 de unión doble con rotura del espadín interior derecho T10A; se detectó una fisura en el espadín T10B y se sustituyó.",
+    "otro": "PK 0,150 de la Línea 900; salida de vía 4 de Atocha-Cercanías hacia vía I del túnel de Recoletos; entorno de tramo en túnel."
+   },
+   "pagina": 14,
+   "cita": "con BAB con CTC y sistema ASFA.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "BAB con CTC y sistema ASFA",
+   "pagina": 14,
+   "cita": "con BAB con CTC y sistema ASFA.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 14,
+    "danos_materiales": "Daños materiales totales estimados en 936.536 euros: 810.707 euros en material rodante, con 5 coches afectados, y 125.829 euros en infraestructura e instalaciones.",
+    "afectacion_servicio": "Quedaron interceptadas las vías I y II del túnel de Recoletos entre Atocha-Cercanías y Recoletos; la vía II se restableció el 28 de noviembre de 2023 a las 02:35 y la vía I el 29 de noviembre de 2023 a las 02:02."
+   },
+   "pagina": 13,
+   "cita": "➢ Renfe Viajeros: Empresa Ferroviaria del tren implicado en el suceso.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 14,
+    "danos_materiales": "Daños materiales totales estimados en 936.536 euros: 810.707 euros en material rodante, con 5 coches afectados, y 125.829 euros en infraestructura e instalaciones.",
+    "afectacion_servicio": "Quedaron interceptadas las vías I y II del túnel de Recoletos entre Atocha-Cercanías y Recoletos; la vía II se restableció el 28 de noviembre de 2023 a las 02:35 y la vía I el 29 de noviembre de 2023 a las 02:02."
+   },
+   "pagina": 4,
+   "cita": "Comisión de Investigación de Accidentes Ferroviarios",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 14,
+    "danos_materiales": "Daños materiales totales estimados en 936.536 euros: 810.707 euros en material rodante, con 5 coches afectados, y 125.829 euros en infraestructura e instalaciones.",
+    "afectacion_servicio": "Quedaron interceptadas las vías I y II del túnel de Recoletos entre Atocha-Cercanías y Recoletos; la vía II se restableció el 28 de noviembre de 2023 a las 02:35 y la vía I el 29 de noviembre de 2023 a las 02:02."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras serie 334, números 010 y 006; coches Talgo Serie 6, rama 6B10",
+    "averia": "No se identificó ninguna anomalía técnica ni influencia de los parámetros de rodadura del material móvil; resultaron afectados 5 coches.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "BAB con CTC y sistema ASFA",
+    "tipo_via": "Vía en placa en la travesía T10; el aparato anterior estaba sobre vía en balasto",
+    "velocidad_maxima": null,
+    "ancho": "Ancho ibérico 1668 mm; coches Talgo remolcados con sistema de ancho variable 1668/1435",
+    "electrificacion": "3 kV",
+    "estado_via": "Travesía T10 de unión doble con rotura del espadín interior derecho T10A; se detectó una fisura en el espadín T10B y se sustituyó.",
+    "otro": "PK 0,150 de la Línea 900; salida de vía 4 de Atocha-Cercanías hacia vía I del túnel de Recoletos; entorno de tramo en túnel."
+   },
+   "pagina": 14,
+   "cita": "con BAB con CTC y sistema ASFA.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": "Atocha-Cercanías"
+   },
+   "pagina": 1,
+   "cita": "en la estación de Atocha-Cercanías (Madrid)",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "BAB con CTC y sistema ASFA",
+   "pagina": 14,
+   "cita": "con BAB con CTC y sistema ASFA.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "BAB con CTC y sistema ASFA",
+    "tipo_via": "Vía en placa en la travesía T10; el aparato anterior estaba sobre vía en balasto",
+    "velocidad_maxima": null,
+    "ancho": "Ancho ibérico 1668 mm; coches Talgo remolcados con sistema de ancho variable 1668/1435",
+    "electrificacion": "3 kV",
+    "estado_via": "Travesía T10 de unión doble con rotura del espadín interior derecho T10A; se detectó una fisura en el espadín T10B y se sustituyó.",
+    "otro": "PK 0,150 de la Línea 900; salida de vía 4 de Atocha-Cercanías hacia vía I del túnel de Recoletos; entorno de tramo en túnel."
+   },
+   "pagina": 14,
+   "cita": "con BAB con CTC y sistema ASFA.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "La notificación del accidente fue recibida el 26 de noviembre de 2023 a las 15:20 horas, mediante un \nmensaje SMS remitido por el área de investigación de ADIF al Secretario de la CIAF. \nUn equipo de tres técnicos de la CIAF se desplazó al lugar del accidente, ubicado en la estación de \nAtocha, a las 22:00 horas, con el propósito de recopilar preliminarmente la información necesaria \npara el análisis, estudio y posterior elaboración del presente informe. \nPosteriormente, se establecieron además los pertinentes intercambios de información que se \nprecisaron, tanto con ADIF como con RENFE Viajeros, para el desarrollo de la investigación. \nEl Informe Particular de Renfe Viajeros se recibió en la CIAF con fecha 25 de noviembre de 2025.  \nEl Informe Particular de ADIF se recibió en la CIAF con fecha 4 de marzo de 2025.",
+   "pagina": 8,
+   "cita": "2.4. CANALES DE COMUNICACIÓN",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras serie 334, números 010 y 006; coches Talgo Serie 6, rama 6B10",
+    "averia": "No se identificó ninguna anomalía técnica ni influencia de los parámetros de rodadura del material móvil; resultaron afectados 5 coches.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Alta intensidad de tráfico",
+    "Diseño de continuidad difícil",
+    "Gestión del ciclo de vida",
+    "Mantenimiento preventivo no adaptado"
+   ],
+   "pagina": 21,
+   "cita": "Todo indica que factores como la alta intensidad de tráfico y el diseño complejo del tramo, (como se",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "El descarrilamiento ocurrido el 26 de noviembre de 2023 en la travesía T10 fue provocado por la \nrotura del espadín derecho T10A de la travesía T10, como consecuencia de un estado tensional \ninterno no identificado. Estas tensiones habrían superado la capacidad mecánica del acero, lo que \ncondujo a su fractura. Sin embargo, no ha sido posible determinar con exactitud la causa de dicho \nestado tensional. \nTodo indica que factores como la alta intensidad de tráfico y el diseño complejo del tramo, (como se \nha comentado en el punto 4.2) pudieron influir en la aparición del fallo. Por ello, es importante prestar \nespecial atención a aquellos puntos singulares de la red ferroviaria que, por su intensidad de uso, \nconfiguración estructural o relevancia para el servicio ferroviario, requieran medidas de mejora \nespecíficas. Estas pueden incluir la revisión del ciclo de vida útil de los componentes, la optimización \nde las estrategias de mantenimiento y la evaluación de las prestaciones del material instalado. \nDada la complejidad del entorno, se considera imprescindible adoptar un enfoque basado en el ciclo \nde vida de los elementos críticos, que permita anticipar y prevenir posibles fallos a lo largo del tiempo.",
+   "pagina": 21,
+   "cita": "4.3. FACTORES HUMANOS Y ORGANIZATIVOS RELACIONADOS CON EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "La CIAF ha investigado un suceso de características similares al analizado, ocurrido el 12 de mayo de \n2017 en el Puesto de Bloqueo y Adelantamiento de Brazatortas (Ciudad Real), en la línea de alta \nvelocidad 010 Madrid-Sevilla. En este accidente, el tren AVE 0043, que circulaba de Sevilla Santa Justa \na Barcelona Sants, descarriló debido a la rotura del corazón de punta móvil del cruzamiento 514 al \npaso por dicho desvío. La CIAF determinó que la rotura fue causada por microfisuras en la cara inferior \ndel patín, que progresaron mediante mecanismos de fatiga debido a puntos de acumulación de \ntensiones, reduciendo la sección útil del espadín hasta su fractura. Estas fisuras no fueron detectadas \ndurante las inspecciones visuales ni en las campañas de auscultación por ultrasonidos realizadas en \nlas labores de mantenimiento. \nComo resultado de esta investigación, la CIAF emitió la recomendación 24/17-2, que insta a estudiar \ndesde un punto de vista técnico-científico la conveniencia de definir un ciclo de vida útil para los \ndistintos componentes que conforman los aparatos de vía, considerando la experiencia internacional. \n\n## Página 23\n\n \nInforme Final 114/2023 \n \n \n \n \n \n \n \n \n \n \n \n \n23 \n \nEn cumplimiento de esta recomendación, ADIF llevó a cabo el proyecto “Asistencia Técnica para el \ndesarrollo de modelos de degradación de desvíos ferroviarios, análisis del ciclo de vida y propuesta \npara su integración en la Plataforma de gestión de activos de ADIF”. Este proyecto dio lugar a una \nherramienta de cálculo basada en un modelo simplificado que, a partir de datos de carga, \ncaracterísticas del vehículo y del desvío, estima las fuerzas rueda-carril responsables del deterioro \nprogresivo de los corazones de los desvíos. De este modo, se puede calcular el tiempo restante hasta \nla próxima actuación o reparación necesaria, mejorando la gestión preventiva y el mantenimiento de \nestos elementos críticos. Este procedimiento se podría hacer extensivo a los aparatos de vías situados \nen puntos críticos en la red convencional en cuanto a intensidad de tráfico, diseño e impacto sobre \nel servicio ferroviario. \n \n \n\n## Página 24\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n24",
+   "pagina": 22,
+   "cita": "4.5. SUCESOS ANTERIORES DE CARÁCTER SIMILAR",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 26 de noviembre de 2023, a las 14:24 horas, el tren 00271 de Renfe Viajeros, con trayecto Almería - Madrid-Chamartín Clara Campoamor, salió de la vía 4 de la estación de Atocha-Cercanías hacia la vía I del túnel de Recoletos. La composición estaba formada por dos locomotoras de la serie 334, números 010 y 006, y nueve coches Talgo de la Serie 6, rama 6B10, con 159 metros de longitud y 317 toneladas de peso. El Responsable de Circulación estableció correctamente el itinerario de salida y la verificación no detectó anomalías en los aparatos de vía implicados.\n\nLas dos locomotoras y los tres primeros rodales de los coches remolcados circularon correctamente por la vía I. Sin embargo, tras el paso del tercer rodal, se produjo la rotura del espadín interior derecho T10A de la travesía T10. La punta del espadín, unida al tirante, quedó separada de la contraaguja, mientras que el resto retornó a su posición de reposo sobre la contraaguja. Esta configuración anómala generó un perfil no uniforme.\n\nComo resultado, los rodales comprendidos entre la cuarta y la octava posición descarrilaron, y los dos últimos rodales, noveno y décimo, fueron encarrilados erróneamente hacia la vía II del túnel de Recoletos. El suceso se produjo en un entorno de tramo en túnel, con condiciones habituales de visibilidad y ambientales para esa infraestructura. Tras el accidente, quedaron interceptadas las vías I y II del túnel entre Atocha-Cercanías y Recoletos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "De acuerdo con la descripción de los hechos, se pueden constatar los siguientes puntos:  \n1. El tren 00271 involucrado en el suceso realizó el trayecto entre Almería y Atocha-Cercanías con \nnormalidad acumulando un retraso de 38 minutos debido a operaciones comerciales. \n2. Dicho tren 00271 estaba compuesto por dos locomotoras de la Serie 334 (números 010 y 006) \nque remolcaban una rama de 9 coches de Talgo de la Serie 6 (rama 6B10). \n3. A las 14:24 horas, se estableció el itinerario de salida del tren 00271 con destino Chamartín-Clara \nCampoamor desde la vía 4 de la estación Atocha-Cercanías hacia la vía I del túnel de Recoletos.  \n4. Los espadines de la travesía T10 estaban correctamente dispuestos para realizar el itinerario \nestablecido, con el espadín izquierdo acoplado y el espadín derecho desacoplado para permitir \nel paso hacia la vía I. \n5. A las 14:28, el tren 00271 efectuó su paso por la travesía T10 a una velocidad de 32 km/h.  \n6. Los bogies de las locomotoras y los tres primeros ejes de los coches recorrieron la travesía T10 \nsin incidencias, encaminándose hacia la vía prevista en el itinerario. \n7. El espadín derecho T10A de la travesía T10 se fracturó tras el paso del tercer rodal de los coches \nremolcados, quedando la punta del espadín unida al tirante y por tanto separada de la \ncontraaguja, mientras que el resto del espadín se desplazó hacia su posición de reposo acoplado \ncon la contraaguja. \n8. La configuración anómala con el espadín derecho T10A fracturado permitió el descarrilamiento \nde los rodales situados entre la cuarta y la octava posición, así como el encarrilamiento erróneo \nde los dos últimos rodales de los coches remolcados (noveno y décimo) hacia la vía II del túnel \nde Recoletos, en vez de seguir por la vía I. \n4.1. COMETIDOS Y DEBERES RELACIONADOS CON EL SUCESO \nEl mantenimiento de la infraestructura ferroviaria y las tareas de inspección y mantenimiento de \naparatos de vía, como la travesía T10, deben realizarse con una planificación adecuada, siguiendo los \nciclos de vida establecidos, empleando medios homologados y registrando la información técnica \nconforme a los formatos vigentes. \nEn el análisis del suceso, se identificaron ciertos aspectos susceptibles de mejora en los \nprocedimientos de control y mantenimiento preventivo. Por ejemplo, en octubre de 2023 se utilizó \nuna hoja de control antigua cuya versión había sido actualizada en 2020, lo que sugiere la necesidad \nde una revisión más ágil y completa de la documentación aplicada. Asimismo, se detectaron algunas \n\n## Página 19\n\n \nInforme Final 114/2023 \n \n \n \n \n \n \n \n \n \n \n \n \n19 \n \ninconsistencias en la trazabilidad de los datos recogidos, tales como la identificación del tipo de carril, \nla información sobre el sistema de deslizamiento de la aguja, las tolerancias de encerrojamiento y la \nreferencia al instrumental empleado. Estas circunstancias pueden limitar la precisión y eficacia de las \ninspecciones y dificultar una óptima planificación del mantenimiento preventivo. \nTambién se observó un desfase en la periodicidad prevista para la auscultación mediante \nultrasonidos, que tuvo lugar en 2023 en lugar de 2022. Aunque esta desviación fue atribuida a \ncircunstancias excepcionales, como limitaciones operativas derivadas de la pandemia de COVID-19, \ncabe señalar que la planificación de estas campañas no debe depender de la disponibilidad de medios \nmateriales, sino basarse en análisis de riesgo. En este sentido, es importante destacar que la campaña \nde auscultación realizada sólo se centró en los carriles principales, pero no contempló de forma \nespecífica los elementos del aparato de vía, que, por su complejidad y función crítica, requieren \nnecesariamente un tratamiento diferenciado como puntos singulares de la red. \n4.2. MATERIAL RODANTE E INSTALACIONES TÉCNICAS \nUna vez analizadas las características de los elementos participantes en el suceso, se concluye que el \nmaterial rodante no ha tenido influencia en el descarrilamiento en cuanto a los valores de los \nparámetros de rodadura. No se ha identificado ningún dato representativo ni anomalía técnica en la \ncomposición del tren que pudiera haber contribuido a la causa del descarrilamiento. \nEn cuanto a las instalaciones técnicas, se han analizado distintos factores que podrían haber influido \nen la fractura del espadín de la travesía T10, entre ellos: el tipo de acero utilizado, la posible existencia \nde defectos de fabricación, la exposición a agentes externos como la presencia de agua, el desgaste \nderivado del elevado volumen de tráfico, así como las condiciones particulares asociadas a la vía en \nplaca.  \nCon el objetivo de determinar el origen de la rotura, ADIF a través del laboratorio del CTV de \nValladolid elaboró un informe técnico y, por su parte, la CIAF contrató los servicios del Laboratorio \nde Siderurgia de la Escuela Técnica Superior de Ingenieros Industriales de la Universidad Politécnica \nde Madrid para la realización de un informe independiente.  \nEl informe del CTV de Valladolid incluyó la inspección visual del espadín fracturado, ensayos de \ndureza, análisis químico, así como pruebas de macrografía, micrografía y verificación geométrica. Los \nresultados no permiten establecer de forma concluyente el origen de la rotura, ya que no se \ndetectaron pérdidas de sección, marcas de fatiga, fisuras u otros defectos relevantes. También se \n\n## Página 20\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n20 \n \n \n \n \ndescartó la influencia de la corrosión observada en la pieza. En resumen, el informe no llega a un \nresultado concluyente sobre la causa técnica específica de la rotura. \nPor su parte, el informe elaborado por el Laboratorio de Siderurgia de la ETSII-UPM abordó el análisis \nfractográfico de la sección de rotura, ensayos de dureza y estudios de microestructura del acero. Se \nobservó una rotura perpendicular al eje del carril, sin plastificación, y con presencia de macrosurcos \ncompatibles con un ",
+   "pagina": 18,
+   "cita": "4. ANÁLISIS DEL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Rotura del espadín interior derecho T10A de la travesía T10, como consecuencia de tensiones ejercidas por el tirante, que generó una configuración anómala del aparato de vía.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La intensidad de tráfico que soporta la travesía T10, con una media de 2.641 circulaciones semanales en el tramo Atocha-Cercanías - Chamartín por el túnel de Recoletos.",
+    "Las características del diseño de la travesía T10 por la dificultad de dar continuidad a la vía entre la estación y el túnel.",
+    "La mayor rigidez estructural derivada de la sustitución de vía en balasto por vía en placa, que pudo incrementar tensiones locales en componentes sensibles como los espadines.",
+    "Posible fractura por fatiga del espadín, aunque no se pudo determinar de forma concluyente el origen concreto de la rotura."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nUna vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores:  \n  \nFigura 10 Árbol causal del suceso \nFactor causal \n1. La rotura del espadín derecho T10A de la travesía T10 de la estación de Atocha Cercanías. Ver \nRecomendación 114/2023-1, 114/2023-2 \nFactores contribuyentes \n1. La intensidad de tráfico que soporta la travesía T10 de la estación de Atocha Cercanías. Ver \nRecomendación 114/2023-1 y 114/2023-2, 114/2023-3 \n2. Las características del diseño de la travesía debido a la dificultad de dar continuidad a la vía entre \nla estación y el túnel. Ver Recomendación 114/2023-1 y 114/2023-2 \nFactor sistémico \n1. La gestión del ciclo de vida de elementos en puntos singulares, por tráfico, diseño o condiciones \ndel entorno. Ver Recomendación 114/2023-1, 114/2023-2, 114/2023-3 \n \n\n## Página 25\n\n \nInforme Final 114/2023 \n \n \n \n \n \n \n \n \n \n \n \n \n25 \n \n5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO \nTras el suceso, se llevó a cabo una reparación temporal del espadín fracturado mediante la soldadura \nde dos placas metálicas sobre el alma y el patín y el embridado del mismo, lo que permitió la \ncirculación provisional de los trenes. Posteriormente, se procedió a su sustitución completa por uno \nnuevo. Además, se inspeccionó la travesía T10, detectándose una fisura en el espadín T10B, lo que \nmotivó su sustitución total. No obstante, se desconocen los detalles de esta intervención. \n \nFigura 11 Vista del espadín fracturado tras la reparación temporal mediante la soldadura en el alma y el patín de dos placas \nmetálicas (Fuente CTV - ADIF) \n5.3. OBSERVACIONES ADICIONALES \nComo consecuencia de la rotura del espadín de la travesía T10, se reorganizaron los itinerarios de \nforma que material de Cercanías de la serie 450 tuvo que pasar por los desvíos 24-26 de la estación \nde Atocha-Cercanías, aparatos de vía por los que habitualmente no transitaba este tipo de material. \nEsta circunstancia derivó en la ocurrencia de dos descarrilamientos los días 5 y 8 de diciembre de \n2023 a su paso por dichos desvíos. \nAnte estos hechos, la AESF, en el ámbito de su competencia, promovió la creación de un Grupo de \nTrabajo Interfaz Rueda-Carril, conformado por personal técnico de Renfe y ADIF, y coordinado por la \nAESF. Este grupo tiene como objetivo analizar desde una perspectiva técnico-científica la interacción \nentre rueda y carril en el tramo afectado, estudiando todos los parámetros relativos al material móvil \n\n## Página 26\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n26 \n \n \n \n \ne infraestructura, con la intención de extender los resultados a otros aparatos de vía de la red y así \nobtener conclusiones con carácter normativo.  \n \n \n \n\n## Página 27\n\n \nInforme Final 114/2023 \n \n \n \n \n \n \n \n \n \n \n \n \n27",
+   "pagina": 24,
+   "cita": "5. CONCLUSIONES 5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO Una vez analizados los datos disponibles y la documentación proporcionada, se consideran los siguientes factores: Figura 10 Árbo",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nUna vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores:  \n  \nFigura 10 Árbol causal del suceso \nFactor causal \n1. La rotura del espadín derecho T10A de la travesía T10 de la estación de Atocha Cercanías. Ver \nRecomendación 114/2023-1, 114/2023-2 \nFactores contribuyentes \n1. La intensidad de tráfico que soporta la travesía T10 de la estación de Atocha Cercanías. Ver \nRecomendación 114/2023-1 y 114/2023-2, 114/2023-3 \n2. Las características del diseño de la travesía debido a la dificultad de dar continuidad a la vía entre \nla estación y el túnel. Ver Recomendación 114/2023-1 y 114/2023-2 \nFactor sistémico \n1. La gestión del ciclo de vida de elementos en puntos singulares, por tráfico, diseño o condiciones \ndel entorno. Ver Recomendación 114/2023-1, 114/2023-2, 114/2023-3 \n \n\n## Página 25\n\n \nInforme Final 114/2023 \n \n \n \n \n \n \n \n \n \n \n \n \n25 \n \n5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO \nTras el suceso, se llevó a cabo una reparación temporal del espadín fracturado mediante la soldadura \nde dos placas metálicas sobre el alma y el patín y el embridado del mismo, lo que permitió la \ncirculación provisional de los trenes. Posteriormente, se procedió a su sustitución completa por uno \nnuevo. Además, se inspeccionó la travesía T10, detectándose una fisura en el espadín T10B, lo que \nmotivó su sustitución total. No obstante, se desconocen los detalles de esta intervención. \n \nFigura 11 Vista del espadín fracturado tras la reparación temporal mediante la soldadura en el alma y el patín de dos placas \nmetálicas (Fuente CTV - ADIF) \n5.3. OBSERVACIONES ADICIONALES \nComo consecuencia de la rotura del espadín de la travesía T10, se reorganizaron los itinerarios de \nforma que material de Cercanías de la serie 450 tuvo que pasar por los desvíos 24-26 de la estación \nde Atocha-Cercanías, aparatos de vía por los que habitualmente no transitaba este tipo de material. \nEsta circunstancia derivó en la ocurrencia de dos descarrilamientos los días 5 y 8 de diciembre de \n2023 a su paso por dichos desvíos. \nAnte estos hechos, la AESF, en el ámbito de su competencia, promovió la creación de un Grupo de \nTrabajo Interfaz Rueda-Carril, conformado por personal técnico de Renfe y ADIF, y coordinado por la \nAESF. Este grupo tiene como objetivo analizar desde una perspectiva técnico-científica la interacción \nentre rueda y carril en el tramo afectado, estudiando todos los parámetros relativos al material móvil \n\n## Página 26\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n26 \n \n \n \n \ne infraestructura, con la intención de extender los resultados a otros aparatos de vía de la red y así \nobtener conclusiones con carácter normativo.  \n \n \n \n\n## Página 27\n\n \nInforme Final 114/2023 \n \n \n \n \n \n \n \n \n \n \n \n \n27",
+   "pagina": 24,
+   "cita": "5. CONCLUSIONES 5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO Una vez analizados los datos disponibles y la documentación proporcionada, se consideran los siguientes factores: Figura 10 Árbo",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": "Como consecuencia de la rotura del espadín de la travesía T10, se reorganizaron los itinerarios de \nforma que material de Cercanías de la serie 450 tuvo que pasar por los desvíos 24-26 de la estación \nde Atocha-Cercanías, aparatos de vía por los que habitualmente no transitaba este tipo de material. \nEsta circunstancia derivó en la ocurrencia de dos descarrilamientos los días 5 y 8 de diciembre de \n2023 a su paso por dichos desvíos. \nAnte estos hechos, la AESF, en el ámbito de su competencia, promovió la creación de un Grupo de \nTrabajo Interfaz Rueda-Carril, conformado por personal técnico de Renfe y ADIF, y coordinado por la \nAESF. Este grupo tiene como objetivo analizar desde una perspectiva técnico-científica la interacción \nentre rueda y carril en el tramo afectado, estudiando todos los parámetros relativos al material móvil \n\n## Página 26\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n26 \n \n \n \n \ne infraestructura, con la intención de extender los resultados a otros aparatos de vía de la red y así \nobtener conclusiones con carácter normativo.  \n \n \n \n\n## Página 27\n\n \nInforme Final 114/2023 \n \n \n \n \n \n \n \n \n \n \n \n \n27",
+   "pagina": 25,
+   "cita": "5.3. OBSERVACIONES ADICIONALES",
+   "origen": "determinista",
+   "regla": "sec:^observaciones adicionales",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Tras el suceso, se llevó a cabo una reparación temporal del espadín fracturado mediante la soldadura \nde dos placas metálicas sobre el alma y el patín y el embridado del mismo, lo que permitió la \ncirculación provisional de los trenes. Posteriormente, se procedió a su sustitución completa por uno \nnuevo. Además, se inspeccionó la travesía T10, detectándose una fisura en el espadín T10B, lo que \nmotivó su sustitución total. No obstante, se desconocen los detalles de esta intervención. \n \nFigura 11 Vista del espadín fracturado tras la reparación temporal mediante la soldadura en el alma y el patín de dos placas \nmetálicas (Fuente CTV - ADIF)",
+   "pagina": 25,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Tras el suceso, se llevó a cabo una reparación temporal del espadín fracturado mediante la soldadura \nde dos placas metálicas sobre el alma y el patín y el embridado del mismo, lo que permitió la \ncirculación provisional de los trenes. Posteriormente, se procedió a su sustitución completa por uno \nnuevo. Además, se inspeccionó la travesía T10, detectándose una fisura en el espadín T10B, lo que \nmotivó su sustitución total. No obstante, se desconocen los detalles de esta intervención. \n \nFigura 11 Vista del espadín fracturado tras la reparación temporal mediante la soldadura en el alma y el patín de dos placas \nmetálicas (Fuente CTV - ADIF)",
+   "pagina": 25,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Identificar los puntos críticos en la red ferroviaria que presenten características similares a las del lugar del suceso en cuanto a intensidad de tráfico, diseño e impacto sobre el servicio ferroviario, adoptando las medidas de mejora que se consideren necesarias en cuanto a ciclo de vida, mantenimiento, prestaciones del material y resiliencia frente a averías.",
+    "Revisar y optimizar los procedimientos de control y mantenimiento preventivo aplicados a los aparatos de vía situados en puntos críticos, adaptándolos a las particularidades funcionales y estructurales de estos elementos.",
+    "Establecer la periodicidad de las auscultaciones, así como sus posibles modificaciones, en base a estudios de riesgo y no en base a la disponibilidad de los medios materiales disponibles."
+   ],
+   "pagina": 27,
+   "cita": "| Receiver | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "ADIF",
+    "ADIF",
+    "ADIF"
+   ],
+   "pagina": 27,
+   "cita": "| Receiver | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "14:21",
+     "evento": "El tren 00271 realizó una parada comercial en la vía 4 de la estación de Atocha-Cercanías, con 38 minutos de retraso respecto al horario previsto."
+    },
+    {
+     "hora": "14:24",
+     "evento": "El tren salió de la vía 4 hacia la vía I del túnel de Recoletos con señal de salida en vía libre; se produjo el descarrilamiento parcial al pasar por la travesía T10."
+    },
+    {
+     "hora": "14:28",
+     "evento": "El maquinista comunicó el accidente al Responsable de Circulación de Atocha; el análisis del suceso registra el paso por la travesía T10 a 32 km/h."
+    },
+    {
+     "hora": "15:20",
+     "evento": "La CIAF recibió la notificación del accidente mediante SMS remitido por el área de investigación de ADIF."
+    },
+    {
+     "hora": "22:00",
+     "evento": "Un equipo de tres técnicos de la CIAF se desplazó al lugar del accidente en la estación de Atocha."
+    },
+    {
+     "hora": "02:35",
+     "evento": "El 28 de noviembre de 2023 quedó restablecido el tráfico por la vía II del túnel de Recoletos."
+    },
+    {
+     "hora": "02:02",
+     "evento": "El 29 de noviembre de 2023 quedó restablecido el tráfico por la vía I del túnel de Recoletos."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0114/2023",
+ "expediente": "114/2023",
+ "anio": 2023,
+ "titulo": "Descarrilamiento de tren en la estación de Atocha-Cercanías (Madrid) el 26 de noviembre de 2023",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/2023-114-231126-if_ciaf.md"
+}

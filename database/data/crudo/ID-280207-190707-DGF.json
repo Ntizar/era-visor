@@ -1,0 +1,898 @@
+{
+ "id": "ID-280207-190707-DGF",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-280207-190707-DGF.pdf",
+ "pdf": "pdfs/ES/ID-280207-190707-DGF.pdf",
+ "md5_pdf": "231eb7877dd710b3e40c447efea723ce",
+ "paginas_md": 6,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 12,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0020/2007",
+   "pagina": 1,
+   "cita": "Nº 0020/2007 OCURRIDO EL DÍA 28.02.2007 ID-280207-190707-DGF Pág. 1 de 6 ## Página 2 Investigación del accidente nº 20/2007 ocurrido el 28.02.2007 SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y PLANIFICACI",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El informe definitivo investiga el arrollamiento de una persona el 28 de febrero de 2007 a las 05:12 horas en la estación de Torredembarra, punto kilométrico 13,550 de la Línea 600 Valencia Norte – San Vicente de Calders. La víctima fue arrollada por el tren de Mercancías 42551 de Renfe, formado por la locomotora 250021, 21 vagones y 1.176 Tm, que circulaba por vía I. El varón resultó herido grave y falleció dos días después en el Hospital Juan XXIII de Tarragona. La causa fue la invasión indebida de la vía; no hubo daños materiales y se produjeron retrasos en mercancías, larga y media distancia.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-02-28",
+    "hora": "05:12",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Torredembarra",
+     "pk": "13,550",
+     "linea": "Línea 600 Valencia Norte – San Vicente de Calders",
+     "provincia": "Tarragona",
+     "descripcion_lugar": "Estación de Torredembarra, en el punto kilométrico 13,550 de la Línea 600 Valencia Norte – San Vicente de Calders; arrollamiento al paso del tren por vía I, junto a andén con paso inferior, cerramiento y señalización de peligro."
+    }
+   },
+   "pagina": 3,
+   "cita": "Una persona resultó arrollada a las 05:12 horas del 28.02.07 en la estación de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+    "afectacion_servicio": "El tren 42551 reanudó su marcha a las 06:27 horas con 81 minutos de retraso; retraso acumulado de 152 minutos en trenes de Mercancías, 2 minutos en un tren de Larga Distancia y 1 minuto en un tren de Media Distancia; circulación entre Torredembarra y Tarragona por vía II hasta las 06:27 horas."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión indebida del gálibo de la vía por la persona arrollada durante el paso del tren de Mercancías 42551.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Imprudencia de la víctima, que saltó a la vía sin apercibirse de la proximidad del tren."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Intensificar la vigilancia en determinados puntos de las estaciones.",
+     "destinatario": null
+    },
+    {
+     "texto": "Mejorar la señalización en las estaciones que advierte de los peligros de cruzar por las vías o deambular en sus proximidades.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 6,
+   "cita": "Intensificar la vigilancia en determinados puntos de las estaciones.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Intensificar la vigilancia en determinados puntos de las estaciones.",
+     "destinatario": null
+    },
+    {
+     "texto": "Mejorar la señalización en las estaciones que advierte de los peligros de cruzar por las vías o deambular en sus proximidades.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 6,
+   "cita": "Intensificar la vigilancia en determinados puntos de las estaciones.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento de una persona",
+   "pagina": 2,
+   "cita": "arrollamiento de una persona resultando esta herida grave y fallecida posteriormente, en la",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó mediante mensaje de correo electrónico, que se había producido el",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-02-28",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "05:12",
+   "pagina": 3,
+   "cita": "Una persona resultó arrollada a las 05:12 horas del 28.02.07 en la estación de",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Torredembarra",
+    "pk": "13,550",
+    "linea": "Línea 600 Valencia Norte – San Vicente de Calders",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Estación de Torredembarra, en el punto kilométrico 13,550 de la Línea 600 Valencia Norte – San Vicente de Calders; arrollamiento al paso del tren por vía I, junto a andén con paso inferior, cerramiento y señalización de peligro."
+   },
+   "pagina": 6,
+   "cita": "Intensificar la vigilancia en determinados puntos de las estaciones.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 600 Valencia Norte - San Vicente de Calders",
+   "pagina": 2,
+   "cita": "estación de Torredembarra situada en el punto kilométrico 13,550 en la Línea 600 Valencia",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 250021; 21 vagones; 1.176 Tm de masa remolcada.",
+    "averia": "No se produjeron daños materiales en el material móvil; se accionó el freno de emergencia.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El 28 de febrero de 2007, a las 05:12 horas, una persona resultó arrollada en la estación de Torredembarra al paso del tren de Mercancías 42551 de Renfe, formado por la locomotora 250021, 21 vagones y 1.176 Tm de masa remolcada, que circulaba por vía I. La víctima, un varón, sufrió heridas graves y falleció dos días después en el Hospital Juan XXIII de Tarragona.\n\nSegún el parte del maquinista, la persona saltó a la vía y corrió paralela al carril derecho junto a la valla que protege la vía; el maquinista hizo uso del freno de emergencia y del silbato, pero no pudo evitar el arrollamiento. Del análisis de la memoria estática del tren se desprende que la velocidad en el momento de accionar el freno de emergencia era de 98 km/h, inferior a la máxima autorizada de 100 km/h a su paso por la estación.\n\nEl maquinista informó del suceso al Puesto de Mando de Barcelona, que cursó los avisos correspondientes. Los medios sanitarios trasladaron a la víctima al hospital a las 06:25 horas, y a las 06:27 horas se autorizó la marcha del tren, que reanudó su recorrido con 81 minutos de retraso. No se produjeron daños materiales en las instalaciones ni en el material móvil.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Torredembarra",
+    "pk": "13,550",
+    "linea": "Línea 600 Valencia Norte – San Vicente de Calders",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Estación de Torredembarra, en el punto kilométrico 13,550 de la Línea 600 Valencia Norte – San Vicente de Calders; arrollamiento al paso del tren por vía I, junto a andén con paso inferior, cerramiento y señalización de peligro."
+   },
+   "pagina": 6,
+   "cita": "Intensificar la vigilancia en determinados puntos de las estaciones.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+    "afectacion_servicio": "El tren 42551 reanudó su marcha a las 06:27 horas con 81 minutos de retraso; retraso acumulado de 152 minutos en trenes de Mercancías, 2 minutos en un tren de Larga Distancia y 1 minuto en un tren de Media Distancia; circulación entre Torredembarra y Tarragona por vía II hasta las 06:27 horas."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 42551",
+     "implicacion": "Informó del suceso al Puesto de Mando de Barcelona; se le practicó prueba de alcoholemia negativa; declaró que la víctima saltó a la vía y no pudo evitar el arrollamiento."
+    },
+    {
+     "rol": "Víctima (varón)",
+     "implicacion": "Saltó a la vía y corrió paralela al carril derecho junto a la valla; resultó arrollada, herida grave y falleció dos días después."
+    },
+    {
+     "rol": "Agentes de la Gerencia Territorial de Seguridad en la Circulación Noreste de Adif",
+     "implicacion": "Procedieron a la toma de datos, a la prueba de alcoholemia al maquinista y a la toma de declaración."
+    }
+   ],
+   "pagina": 3,
+   "cita": "Agentes de la Gerencia Territorial de Seguridad en la Circulación Noreste de Adif",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "42551",
+     "tipo": "tren de Mercancías",
+     "operador": "Renfe",
+     "danos": "No se produjeron daños materiales en el material móvil."
+    }
+   ],
+   "pagina": 3,
+   "cita": "Torredembarra al paso del tren de Mercancías 42551 de la empresa ferroviaria Renfe, con",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 250021; 21 vagones; 1.176 Tm de masa remolcada.",
+    "averia": "No se produjeron daños materiales en el material móvil; se accionó el freno de emergencia.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático Banalizado con CTC; señales claras y visibles que avisan del peligro de aproximarse al andén; cartel informativo del paso de trenes sin parada por vía I, con distancia mínima respecto al borde de andén; buena señalización del paso inferior.",
+    "tipo_via": "Vía I; estación con 2 andenes y 3 vías; andenes recrecidos; cerramiento para evitar la entrada a las vías; zonas de entrada y salida valladas.",
+    "velocidad_maxima": "100 km/h a paso por la estación; 160 km/h máxima permitida en el punto kilométrico.",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Paso inferior para acceder a los andenes, constatado en adecuado estado de conservación."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo Automático Banalizado con CTC; señales claras y visibles que avisan del peligro de aproximarse al andén; cartel informativo del paso de trenes sin parada por vía I, con distancia mínima respecto al borde de andén; buena señalización del paso inferior.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+    "afectacion_servicio": "El tren 42551 reanudó su marcha a las 06:27 horas con 81 minutos de retraso; retraso acumulado de 152 minutos en trenes de Mercancías, 2 minutos en un tren de Larga Distancia y 1 minuto en un tren de Media Distancia; circulación entre Torredembarra y Tarragona por vía II hasta las 06:27 horas."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+    "afectacion_servicio": "El tren 42551 reanudó su marcha a las 06:27 horas con 81 minutos de retraso; retraso acumulado de 152 minutos en trenes de Mercancías, 2 minutos en un tren de Larga Distancia y 1 minuto en un tren de Media Distancia; circulación entre Torredembarra y Tarragona por vía II hasta las 06:27 horas."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+    "afectacion_servicio": "El tren 42551 reanudó su marcha a las 06:27 horas con 81 minutos de retraso; retraso acumulado de 152 minutos en trenes de Mercancías, 2 minutos en un tren de Larga Distancia y 1 minuto en un tren de Media Distancia; circulación entre Torredembarra y Tarragona por vía II hasta las 06:27 horas."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 250021; 21 vagones; 1.176 Tm de masa remolcada.",
+    "averia": "No se produjeron daños materiales en el material móvil; se accionó el freno de emergencia.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático Banalizado con CTC; señales claras y visibles que avisan del peligro de aproximarse al andén; cartel informativo del paso de trenes sin parada por vía I, con distancia mínima respecto al borde de andén; buena señalización del paso inferior.",
+    "tipo_via": "Vía I; estación con 2 andenes y 3 vías; andenes recrecidos; cerramiento para evitar la entrada a las vías; zonas de entrada y salida valladas.",
+    "velocidad_maxima": "100 km/h a paso por la estación; 160 km/h máxima permitida en el punto kilométrico.",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Paso inferior para acceder a los andenes, constatado en adecuado estado de conservación."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Tarragona",
+    "municipio": null,
+    "estacion": "Torredembarra"
+   },
+   "pagina": 2,
+   "cita": "Norte – San Vicente de Calders, en la provincia de Tarragona, perteneciente a la Red",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo Automático Banalizado con CTC; señales claras y visibles que avisan del peligro de aproximarse al andén; cartel informativo del paso de trenes sin parada por vía I, con distancia mínima respecto al borde de andén; buena señalización del paso inferior.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático Banalizado con CTC; señales claras y visibles que avisan del peligro de aproximarse al andén; cartel informativo del paso de trenes sin parada por vía I, con distancia mínima respecto al borde de andén; buena señalización del paso inferior.",
+    "tipo_via": "Vía I; estación con 2 andenes y 3 vías; andenes recrecidos; cerramiento para evitar la entrada a las vías; zonas de entrada y salida valladas.",
+    "velocidad_maxima": "100 km/h a paso por la estación; 160 km/h máxima permitida en el punto kilométrico.",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Paso inferior para acceder a los andenes, constatado en adecuado estado de conservación."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 250021; 21 vagones; 1.176 Tm de masa remolcada.",
+    "averia": "No se produjeron daños materiales en el material móvil; se accionó el freno de emergencia.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "invasión indebida de la vía",
+    "salto a la vía",
+    "no percibir proximidad del tren"
+   ],
+   "pagina": 6,
+   "cita": "investigación realizada, se estima que el accidente tuvo su origen en la invasión indebida de la",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(Adif), comunicó mediante mensaje de correo electrónico, que se había producido el \narrollamiento de una persona resultando esta herida grave y fallecida posteriormente, en la \nestación de Torredembarra situada en el punto kilométrico 13,550 en la Línea 600 Valencia \nNorte – San Vicente de Calders, en la provincia de Tarragona, perteneciente a la Red \nFerroviaria de Interés General administrada por Adif. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles de acuerdo \ncon el citado artículo.  \nDe conformidad con el artículo 112 del mencionado Reglamento, el 01 de enero de 2007 la \nDirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), comunicó mediante mensaje de correo electrónico, que se había producido el arrollamiento de una pers",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El 28 de febrero de 2007, a las 05:12 horas, una persona resultó arrollada en la estación de Torredembarra al paso del tren de Mercancías 42551 de Renfe, formado por la locomotora 250021, 21 vagones y 1.176 Tm de masa remolcada, que circulaba por vía I. La víctima, un varón, sufrió heridas graves y falleció dos días después en el Hospital Juan XXIII de Tarragona.\n\nSegún el parte del maquinista, la persona saltó a la vía y corrió paralela al carril derecho junto a la valla que protege la vía; el maquinista hizo uso del freno de emergencia y del silbato, pero no pudo evitar el arrollamiento. Del análisis de la memoria estática del tren se desprende que la velocidad en el momento de accionar el freno de emergencia era de 98 km/h, inferior a la máxima autorizada de 100 km/h a su paso por la estación.\n\nEl maquinista informó del suceso al Puesto de Mando de Barcelona, que cursó los avisos correspondientes. Los medios sanitarios trasladaron a la víctima al hospital a las 06:25 horas, y a las 06:27 horas se autorizó la marcha del tren, que reanudó su recorrido con 81 minutos de retraso. No se produjeron daños materiales en las instalaciones ni en el material móvil.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR EL OPERADOR FERROVIARIO. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por ADIF concluye “el acciden e se produce por la invasión del gálibo de la \npersona que es arrollada cuando circulaba tren de mercancías nº 42551 por esa vía”.  \nt\n \nEl elaborado por RENFE establece que “imprudencia de la víctima que saltó a la vía sin \napercibirse de la proximidad del tren”.  \nPor tanto, ambas conclusiones son coincidentes entre sí en cuanto a la causa del accidente. \n \n \nID-280207-190707-DGF \n \n \nPág. 5 de 6\n\n## Página 6\n\n \nInvestigación del accidente \nnº 20/2007 ocurrido el 28.02.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme  definitivo \n19.07.2007",
+   "pagina": 5,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión indebida del gálibo de la vía por la persona arrollada durante el paso del tren de Mercancías 42551.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Imprudencia de la víctima, que saltó a la vía sin apercibirse de la proximidad del tren."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "A la vista de los datos recogidos por el Administrador de la infraestructura y de la \ninvestigación realizada, se estima que el accidente tuvo su origen en la invasión indebida de la \nvía en el momento de pasar el tren de Mercancías 42551.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES A la vista de los datos recogidos por el Administrador de la infraestructura y de la investigación realizada, se estima que el accidente tuvo su origen en la invasión indebida de la vía en el momento d",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "A la vista de los datos recogidos por el Administrador de la infraestructura y de la \ninvestigación realizada, se estima que el accidente tuvo su origen en la invasión indebida de la \nvía en el momento de pasar el tren de Mercancías 42551.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES A la vista de los datos recogidos por el Administrador de la infraestructura y de la investigación realizada, se estima que el accidente tuvo su origen en la invasión indebida de la vía en el momento d",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Intensificar la vigilancia en determinados puntos de las estaciones.",
+     "destinatario": null
+    },
+    {
+     "texto": "Mejorar la señalización en las estaciones que advierte de los peligros de cruzar por las vías o deambular en sus proximidades.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 6,
+   "cita": "Intensificar la vigilancia en determinados puntos de las estaciones.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "05:12",
+     "evento": "Arrollamiento de una persona en la estación de Torredembarra al paso del tren de Mercancías 42551 por vía I."
+    },
+    {
+     "hora": "06:25",
+     "evento": "La víctima, herida grave, es trasladada al Hospital Juan XXIII de Tarragona."
+    },
+    {
+     "hora": "06:27",
+     "evento": "Se autoriza la marcha del tren 42551; hasta ese momento la circulación entre Torredembarra y Tarragona se realiza por la vía II."
+    },
+    {
+     "hora": "06:45",
+     "evento": "Se realiza la prueba de alcoholemia al maquinista en Tarragona, con resultado negativo (0,00 mg/1000 ml)."
+    },
+    {
+     "hora": null,
+     "evento": "Dos días después del accidente, la víctima fallece en el hospital."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0020/2007",
+ "expediente": "0020/2007",
+ "anio": 2007,
+ "titulo": "Arrollamiento de una persona por un tren de mercancías en la estación de Torredembarra, Tarragona",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-280207-190707-DGF.md"
+}

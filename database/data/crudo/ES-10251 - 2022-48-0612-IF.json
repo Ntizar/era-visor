@@ -1,0 +1,1056 @@
+{
+ "id": "ES-10251 - 2022-48-0612-IF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/2022-48-0612-if.pdf",
+ "pdf": "pdfs/ES/ES-10251 - 2022-48-0612-IF.pdf",
+ "md5_pdf": "bc2ab266f37ae3a4ce284f9957e8dee5",
+ "paginas_md": 38,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 36,
+ "n_tablas": 1,
+ "tablas": [
+  {
+   "pagina": 38,
+   "cabecera": [
+    "Addressee",
+    "Final Implementer",
+    "Number",
+    "Recommendation"
+   ],
+   "filas": [
+    {
+     "Addressee": "AESF (NSA-ES)",
+     "Final Implementer": "AESF (NSA-ES)",
+     "Number": "48/2022-1",
+     "Recommendation": "Promoting the inclusion of peculiarities of brake tests on single locomotives and short trains within the RU´s SMS."
+    },
+    {
+     "Addressee": "AESF (NSA-ES)",
+     "Final Implementer": "AESF (NSA-ES)",
+     "Number": "48/2022-2",
+     "Recommendation": "Promoting entities in charge of maintenance (ECMs) and entities certified for the execution of rolling stock maintenance to include in their management systems the adjustment and checking of the braking system after wheel reprofiling, especially those where the brake pads act on the tread and in those with manual adjustment available."
+    }
+   ],
+   "cita": "| Addressee | Final Implementer | Number | Recommendation |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "48/2022",
+   "pagina": 1,
+   "cita": "INFORME FINAL (IF) 48/2022",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 12 de junio de 2022, el tren 95172, formado por dos locomotoras serie 310, salió de los talleres de GMF tras un reperfilado extraordinario de ruedas no contemplado en el plan de mantenimiento. A la salida de Reus mostró insuficiencia de frenado, rebasó la señal E2V en indicación de parada y talonó la aguja 11 de Bifurcación Vila-seca. El tren 18087, detenido ante la señal E1V por protección de flanco, fue colisionado frontalmente a las 21:46:57. Hubo 6 heridos graves, 16 heridos leves y 7 contusionados, además de daños materiales en material rodante e infraestructura. La causa fue la insuficiencia de freno por falta de ajuste de las timonerías tras el reperfilado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2022-06-12",
+    "hora": "21:46:57",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Bifurcación Vila-seca",
+     "pk": "94+015",
+     "linea": "210 Miraflores – Sant Vicenç de Calders",
+     "provincia": "Tarragona",
+     "descripcion_lugar": "Plena vía, delante de la señal de entrada E1V de Bifurcación Vila-seca, a la salida del apeadero de Vila-seca; término municipal de Vila-seca según la descripción del suceso, con referencia al municipio de Reus en el resumen; coordenadas 41° 6' 53.99 N, 1° 8' 52.41 E."
+    }
+   },
+   "pagina": 1,
+   "cita": "Colisión frontal de trenes ocurrida el día 12 de junio de 2022",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": 6,
+    "heridos_leves": 16,
+    "danos_materiales": "Daños en el tren 95172 (elementos de unión y tracción, motor y elementos estructurales) y en el tren 18087 (elementos de unión y tracción, estructura, cabina, equipos de seguridad y comunicación, elementos interiores). Daños en la infraestructura, en el desvío nº 11 por talonamiento. Sin daños al medio ambiente.",
+    "afectacion_servicio": "Vía II cortada del 12/06/2022 21:46 al 13/06/2022 06:02 (8 h 16 min). Vía I cortada del 12/06/2022 21:46 al 14/06/2022 01:45 (27 h 59 min). 72 trenes sufrieron retrasos: 3 larga distancia 37 min, 55 media distancia 1993 min, 14 mercancías 1399 min. Se suprimieron 14 trenes: 1 larga distancia, 8 media distancia y 5 mercancías. Se efectuó un transbordo en el tren 15030 del 13/06/2022. Se habilitaron autobuses en Vila-seca, Cambrils y Tarragona."
+   },
+   "pagina": 6,
+   "cita": "Al tratarse de una colisión entre trenes con el resultado de más de 5 heridos graves (6 heridos",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Insuficiencia de frenado del tren 95172 provocada por falta de ajuste de las timonerías de freno tras una operación extraordinaria de reperfilado de ruedas, de modo que 7 de las 16 zapatas no entraban en contacto con la banda de rodadura.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Prueba de freno incapaz de detectar la insuficiencia de freno en las locomotoras 310.",
+    "Ausencia de un AOT u otro agente que comprobase el apriete y afloje de zapatas en la circulación de locomotoras aisladas.",
+    "Comprobación dinámica de freno realizada a una velocidad que pudo dificultar al maquinista ponderar la deceleración."
+   ],
+   "pagina": 31,
+   "cita": "1. Prueba de freno incapaz de detectar la insuficiencia de freno en las locomotoras 310.",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ausencia de procedimiento en el Sistema de Gestión del Mantenimiento de GMF que especificara las acciones posteriores al reperfilado de ruedas y el ajuste de timonerías.",
+    "Falta de definición de procedimientos de pruebas de freno en el SGS de Captrain y en el Manual de conducción para locomotoras 310 aisladas.",
+    "Falta de concreción en los procedimientos para establecer pruebas de freno que detecten problemas de frenado relacionados con elementos mecánicos en máquinas aisladas y trenes cortos."
+   ],
+   "pagina": 31,
+   "cita": "3. Falta de concreción en los procedimientos para establecer pruebas de freno que detecten",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Promover que los procedimientos incluidos en los SGS de las empresas ferroviarias tengan en cuenta las peculiaridades de las pruebas de freno en locomotoras aisladas y trenes cortos.",
+     "destinatario": "AESF"
+    },
+    {
+     "texto": "Promover que las entidades encargadas de mantenimiento y las entidades certificadas para la ejecución del mantenimiento del material rodante incluyan en sus sistemas de gestión el ajuste y comprobación del sistema de frenos tras el reperfilado de ruedas, especialmente sobre el material en el que las zapatas actúan sobre la banda de rodadura y que dispongan de ajuste manual.",
+     "destinatario": "AESF"
+    }
+   ],
+   "pagina": 33,
+   "cita": "48/2022-1 Promover que los procedimientos incluidos en los SGS de las empresas ferroviarias tengan en cuenta las peculiaridades de las pruebas de freno en locomotoras aisladas y trenes cortos. AESF AESF 48/2022-2",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Promover que los procedimientos incluidos en los SGS de las empresas ferroviarias tengan en cuenta las peculiaridades de las pruebas de freno en locomotoras aisladas y trenes cortos.",
+     "destinatario": "AESF"
+    },
+    {
+     "texto": "Promover que las entidades encargadas de mantenimiento y las entidades certificadas para la ejecución del mantenimiento del material rodante incluyan en sus sistemas de gestión el ajuste y comprobación del sistema de frenos tras el reperfilado de ruedas, especialmente sobre el material en el que las zapatas actúan sobre la banda de rodadura y que dispongan de ajuste manual.",
+     "destinatario": "AESF"
+    }
+   ],
+   "pagina": 33,
+   "cita": "48/2022-1 Promover que los procedimientos incluidos en los SGS de las empresas ferroviarias tengan en cuenta las peculiaridades de las pruebas de freno en locomotoras aisladas y trenes cortos. AESF AESF 48/2022-2",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Colisión frontal de trenes",
+   "pagina": 1,
+   "cita": "Colisión frontal de trenes ocurrida el día 12 de junio de 2022",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "FGC",
+    "ADIF"
+   ],
+   "pagina": 4,
+   "cita": "ADIF Administrador de Infraestructuras Ferroviarias AESF Agencia Estatal de Seguridad Ferroviaria AOT Auxiliar de Operaciones del Tren ASFA Anuncio de Señales y Frenado Automático CECAT Centre de Coordinació Ope",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2022-06-12",
+   "pagina": 1,
+   "cita": "Colisión frontal de trenes ocurrida el día 12 de junio de 2022",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "21:46:57",
+   "pagina": 5,
+   "cita": "la que se encontraba detenido el tren 18087 y a las 21:46:57 se produjo la colisión frontal de los dos",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Bifurcación Vila-seca",
+    "pk": "94+015",
+    "linea": "210 Miraflores – Sant Vicenç de Calders",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Plena vía, delante de la señal de entrada E1V de Bifurcación Vila-seca, a la salida del apeadero de Vila-seca; término municipal de Vila-seca según la descripción del suceso, con referencia al municipio de Reus en el resumen; coordenadas 41° 6' 53.99 N, 1° 8' 52.41 E."
+   },
+   "pagina": 1,
+   "cita": "en Bifurcación Vila-seca (Tarragona)",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 210 Miraflores - Sant Vicenç de Calders",
+   "pagina": 5,
+   "cita": "Bifurcación Vila-Seca pertenece a línea 210 – Miraflores – Sant Vicenç de Calders de la Red",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotoras 310.101 y 310.102 (serie 310, diésel-eléctricas, propiedad de FGC, EEM GMF, explotadas por Captrain en mando múltiple, ASFA Digital); automotores 448.010 y 448.007 (serie 448, eléctricos autopropulsados, Renfe).",
+    "averia": "Insuficiencia de frenado en el tren 95172 por zapatas sin contacto con la banda de rodadura tras el reperfilado; problemas con ASFA en Reus sin relación con el suceso; daños por colisión en ambos trenes.",
+    "mantenimiento": "Reperfilado extraordinario de ruedas el 12/06/2022 tras desgaste acelerado; no se ajustaron las timonerías de freno; prueba de freno no detectó el defecto; GMF desarrolló tras el suceso la instrucción INGMF 0192 y el procedimiento PSGMF 0193."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El 12 de junio de 2022, tras una intervención extraordinaria de reperfilado de ruedas en los talleres de GMF, el tren 95172 salió de Constantí con las locomotoras 310.101 y 310.102 en mando múltiple, con destino Can Tunis. En Reus invirtió la marcha y, tras 75 minutos detenido por problemas ASFA sin relación con el suceso, reanudó a las 21:35:05 en un tramo en pendiente.\n\nDurante el descenso, el tren mostró insuficiencia de frenado: el maquinista frenó al ver la señal E'2V en anuncio de parada, aplicó freno máximo, emergencia y llegó a desconectar ASFA, pero no pudo detenerse. A las 21:44:00 comunicó al RC del CTC la insuficiencia de freno y el inminente rebase de la señal E2V, que protegía el itinerario del tren 18087. A las 21:45:08 rebasó E2V y se cerró E1V por protección de flanco; a las 21:45:40 talonó la aguja 11 y quedó encaminado por vía I.\n\nEl tren 18087, de Renfe Viajeros, había parado comercialmente en el apeadero de Vila-seca a las 21:42:25 y reanudó la marcha a las 21:45:50. Al encontrar E1V cerrada, se detuvo a 123 metros de la señal a las 21:46:42. El maquinista advirtió la llegada del tren 95172, alertó a los pasajeros y, a las 21:46:57, se produjo la colisión frontal. Como consecuencia hubo 6 heridos graves, 16 leves y 7 contusionados entre los 75 viajeros del tren 18087, además de daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Bifurcación Vila-seca",
+    "pk": "94+015",
+    "linea": "210 Miraflores – Sant Vicenç de Calders",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Plena vía, delante de la señal de entrada E1V de Bifurcación Vila-seca, a la salida del apeadero de Vila-seca; término municipal de Vila-seca según la descripción del suceso, con referencia al municipio de Reus en el resumen; coordenadas 41° 6' 53.99 N, 1° 8' 52.41 E."
+   },
+   "pagina": 1,
+   "cita": "en Bifurcación Vila-seca (Tarragona)",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": 6,
+    "heridos_leves": 16,
+    "danos_materiales": "Daños en el tren 95172 (elementos de unión y tracción, motor y elementos estructurales) y en el tren 18087 (elementos de unión y tracción, estructura, cabina, equipos de seguridad y comunicación, elementos interiores). Daños en la infraestructura, en el desvío nº 11 por talonamiento. Sin daños al medio ambiente.",
+    "afectacion_servicio": "Vía II cortada del 12/06/2022 21:46 al 13/06/2022 06:02 (8 h 16 min). Vía I cortada del 12/06/2022 21:46 al 14/06/2022 01:45 (27 h 59 min). 72 trenes sufrieron retrasos: 3 larga distancia 37 min, 55 media distancia 1993 min, 14 mercancías 1399 min. Se suprimieron 14 trenes: 1 larga distancia, 8 media distancia y 5 mercancías. Se efectuó un transbordo en el tren 15030 del 13/06/2022. Se habilitaron autobuses en Vila-seca, Cambrils y Tarragona."
+   },
+   "pagina": 6,
+   "cita": "Al tratarse de una colisión entre trenes con el resultado de más de 5 heridos graves (6 heridos",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "GMF, EEM de las locomotoras 310 involucradas en el suceso, tras el accidente ha desarrollado los \nprocedimientos: \n• \nInstrucción INGMF 0192 Realización de operaciones post-torneo en torno de foso \n(17/06/2022). Tiene como objeto regular las pautas a seguir para efectuar los ajustes en los \nvehículos al finalizar el torneado de los ejes en los tornos de foso. \n• \nProcedimiento de soporte PSGMF 0193 Salida de material rodante tras intervención de \nmantenimiento (22/06/2022). Describe la metodología a seguir después de una \nintervención de mantenimiento tanto correctivo, como preventivo.",
+   "pagina": 32,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 95172",
+     "implicacion": "Personal de Captrain; detectó insuficiencia de frenado, aplicó freno y emergencia, desconectó ASFA, comunicó al RC del CTC y el tren rebasó la señal E2V."
+    },
+    {
+     "rol": "Maquinista del tren 18087",
+     "implicacion": "Personal de Renfe Viajeros; se detuvo ante E1V, advirtió la llegada del tren 95172, usó luces y silbato y alertó a los pasajeros del primer coche."
+    },
+    {
+     "rol": "Responsable de Circulación del CTC",
+     "implicacion": "Personal de ADIF; recibió aviso del maquinista del 95172, intentó contactar sin éxito con el tren 18087 y no pudo evitar la colisión; test de alcohol positivo tras el suceso."
+    },
+    {
+     "rol": "Reguladores del CTC",
+     "implicacion": "Personal de ADIF mencionado como relevante para la investigación."
+    },
+    {
+     "rol": "Técnico de mantenimiento",
+     "implicacion": "Personal de GMF relacionado con el mantenimiento; tras el reperfilado extraordinario no se ajustaron las timonerías de freno."
+    },
+    {
+     "rol": "Mecánico de GMF",
+     "implicacion": "Acudió a Reus por problemas con el sistema ASFA, sin relación con el suceso."
+    }
+   ],
+   "pagina": 16,
+   "cita": "en horizontal, por lo que el maquinista del tren 95172 no tuvo que aplicar freno en este primer",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "Resultan relevantes para la investigación de este suceso las actuaciones previas del personal \nferroviario siguiente: \n➢ Responsable de Circulación del CTC (RC del CTC). Personal de ADIF.  \n➢ Reguladores del CTC (Reg. del CTC). Personal de ADIF.  \n➢ Maquinista de tren 18087. Personal de Renfe Viajeros. \n➢ Maquinista de tren 95172. Personal de Captrain. \n➢ Técnico de mantenimiento. Personal de GMF. \nLas entidades relacionadas con el accidente son las siguientes:  \n➢ Cargometro Rail Transport S.A: empresa comercializadora de los servicios de transporte \nferroviario, participada por FGC y CAPTRAIN. Se dedica al transporte de componentes de \nautomoción entre la Zona Franca y SEAT Martorell. \n➢ FGC: Ferrocarriles de la Generalitat de Catalunya, propietaria del material rodante \nconformado por las locomotoras 310 implicadas en el accidente.  \n➢ CAPTRAIN España S.A.U: Empresa Ferroviaria del tren 95172.  \n➢ GMF: Gestión y Mantenimiento Ferroviario, EEM de las 310 desde 2019 por encargo de \nFGC.  \n➢ Renfe Viajeros: Empresa Ferroviaria del tren 18087.  \n➢ ADIF: Administrador de Infraestructuras Ferroviarias.",
+   "pagina": 12,
+   "cita": "3.1.4. Personal y entidades",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "95172",
+     "tipo": "Tren de locomotoras diésel-eléctricas serie 310 en mando múltiple; servicio de material vacío Constantí - Can Tunis; comercializado por Cargometro Rail Transport; 8 ejes, 25,1 m, 156 t, ASFA Digital",
+     "operador": "CAPTRAIN España S.A.U",
+     "danos": "Desperfectos en elementos de unión y tracción, motor y elementos estructurales"
+    },
+    {
+     "numero": "18087",
+     "tipo": "Tren Media Distancia / regional con automotores eléctricos serie 448; servicio Barcelona Estación de Francia - Tortosa; 6 vehículos, 158 m, 179 t",
+     "operador": "Renfe Viajeros",
+     "danos": "Daños en elementos de unión y tracción, estructura, cabina de conducción, equipos de seguridad y comunicación y elementos interiores"
+    }
+   ],
+   "pagina": 5,
+   "cita": "El día 12 de junio de 2022 el tren 95172, formado por dos locomotoras de la serie 310, salió de los",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotoras 310.101 y 310.102 (serie 310, diésel-eléctricas, propiedad de FGC, EEM GMF, explotadas por Captrain en mando múltiple, ASFA Digital); automotores 448.010 y 448.007 (serie 448, eléctricos autopropulsados, Renfe).",
+    "averia": "Insuficiencia de frenado en el tren 95172 por zapatas sin contacto con la banda de rodadura tras el reperfilado; problemas con ASFA en Reus sin relación con el suceso; daños por colisión en ambos trenes.",
+    "mantenimiento": "Reperfilado extraordinario de ruedas el 12/06/2022 tras desgaste acelerado; no se ajustaron las timonerías de freno; prueba de freno no detectó el defecto; GMF desarrolló tras el suceso la instrucción INGMF 0192 y el procedimiento PSGMF 0193."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E2V por lado Reus en p.k. 90+006 y señal de entrada E1V por lado Tarragona en p.k. 93+902; baliza previa de E1V; E2V en indicación de parada y E1V cerrada por protección de flanco; ASFA Digital en el tren 95172.",
+    "tipo_via": "Vía doble electrificada con BAB y CTC entre Reus y Bifurcación Vila-seca; colisión en vía I; trayecto Constantí-Reus vía única electrificada con BAU.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "Vía electrificada; catenaria cortada por orden de bomberos y restablecida a las 03:12 del 13/06/2022.",
+    "estado_via": "Infraestructura e instalaciones funcionaron correctamente antes del suceso; la aguja nº 11 resultó dañada por talonamiento.",
+    "otro": "Radiotelefonía tren-tierra modo A, canal 62; enclavamiento con diferímetro de seguridad de 3 minutos; aguja nº 11 da acceso a la línea 600 Valencia Nord – Sant Vicenç de Calders; escape 7-5 del p.k. 93+372 al 93+472; pendiente entre 12 y 15,8 milésimas desde Reus hasta el apeadero de Vila-seca."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de entrada E2V por lado Reus en p.k. 90+006 y señal de entrada E1V por lado Tarragona en p.k. 93+902; baliza previa de E1V; E2V en indicación de parada y E1V cerrada por protección de flanco; ASFA Digital en el tren 95172.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": 6,
+    "heridos_leves": 16,
+    "danos_materiales": "Daños en el tren 95172 (elementos de unión y tracción, motor y elementos estructurales) y en el tren 18087 (elementos de unión y tracción, estructura, cabina, equipos de seguridad y comunicación, elementos interiores). Daños en la infraestructura, en el desvío nº 11 por talonamiento. Sin daños al medio ambiente.",
+    "afectacion_servicio": "Vía II cortada del 12/06/2022 21:46 al 13/06/2022 06:02 (8 h 16 min). Vía I cortada del 12/06/2022 21:46 al 14/06/2022 01:45 (27 h 59 min). 72 trenes sufrieron retrasos: 3 larga distancia 37 min, 55 media distancia 1993 min, 14 mercancías 1399 min. Se suprimieron 14 trenes: 1 larga distancia, 8 media distancia y 5 mercancías. Se efectuó un transbordo en el tren 15030 del 13/06/2022. Se habilitaron autobuses en Vila-seca, Cambrils y Tarragona."
+   },
+   "pagina": 6,
+   "cita": "Al tratarse de una colisión entre trenes con el resultado de más de 5 heridos graves (6 heridos",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": 6,
+    "heridos_leves": 16,
+    "danos_materiales": "Daños en el tren 95172 (elementos de unión y tracción, motor y elementos estructurales) y en el tren 18087 (elementos de unión y tracción, estructura, cabina, equipos de seguridad y comunicación, elementos interiores). Daños en la infraestructura, en el desvío nº 11 por talonamiento. Sin daños al medio ambiente.",
+    "afectacion_servicio": "Vía II cortada del 12/06/2022 21:46 al 13/06/2022 06:02 (8 h 16 min). Vía I cortada del 12/06/2022 21:46 al 14/06/2022 01:45 (27 h 59 min). 72 trenes sufrieron retrasos: 3 larga distancia 37 min, 55 media distancia 1993 min, 14 mercancías 1399 min. Se suprimieron 14 trenes: 1 larga distancia, 8 media distancia y 5 mercancías. Se efectuó un transbordo en el tren 15030 del 13/06/2022. Se habilitaron autobuses en Vila-seca, Cambrils y Tarragona."
+   },
+   "pagina": 6,
+   "cita": "Comisión de Investigación de Accidentes Ferroviarios",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": 6,
+    "heridos_leves": 16,
+    "danos_materiales": "Daños en el tren 95172 (elementos de unión y tracción, motor y elementos estructurales) y en el tren 18087 (elementos de unión y tracción, estructura, cabina, equipos de seguridad y comunicación, elementos interiores). Daños en la infraestructura, en el desvío nº 11 por talonamiento. Sin daños al medio ambiente.",
+    "afectacion_servicio": "Vía II cortada del 12/06/2022 21:46 al 13/06/2022 06:02 (8 h 16 min). Vía I cortada del 12/06/2022 21:46 al 14/06/2022 01:45 (27 h 59 min). 72 trenes sufrieron retrasos: 3 larga distancia 37 min, 55 media distancia 1993 min, 14 mercancías 1399 min. Se suprimieron 14 trenes: 1 larga distancia, 8 media distancia y 5 mercancías. Se efectuó un transbordo en el tren 15030 del 13/06/2022. Se habilitaron autobuses en Vila-seca, Cambrils y Tarragona."
+   },
+   "pagina": 6,
+   "cita": "Al tratarse de una colisión entre trenes con el resultado de más de 5 heridos graves (6 heridos",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras 310.101 y 310.102 (serie 310, diésel-eléctricas, propiedad de FGC, EEM GMF, explotadas por Captrain en mando múltiple, ASFA Digital); automotores 448.010 y 448.007 (serie 448, eléctricos autopropulsados, Renfe).",
+    "averia": "Insuficiencia de frenado en el tren 95172 por zapatas sin contacto con la banda de rodadura tras el reperfilado; problemas con ASFA en Reus sin relación con el suceso; daños por colisión en ambos trenes.",
+    "mantenimiento": "Reperfilado extraordinario de ruedas el 12/06/2022 tras desgaste acelerado; no se ajustaron las timonerías de freno; prueba de freno no detectó el defecto; GMF desarrolló tras el suceso la instrucción INGMF 0192 y el procedimiento PSGMF 0193."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E2V por lado Reus en p.k. 90+006 y señal de entrada E1V por lado Tarragona en p.k. 93+902; baliza previa de E1V; E2V en indicación de parada y E1V cerrada por protección de flanco; ASFA Digital en el tren 95172.",
+    "tipo_via": "Vía doble electrificada con BAB y CTC entre Reus y Bifurcación Vila-seca; colisión en vía I; trayecto Constantí-Reus vía única electrificada con BAU.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "Vía electrificada; catenaria cortada por orden de bomberos y restablecida a las 03:12 del 13/06/2022.",
+    "estado_via": "Infraestructura e instalaciones funcionaron correctamente antes del suceso; la aguja nº 11 resultó dañada por talonamiento.",
+    "otro": "Radiotelefonía tren-tierra modo A, canal 62; enclavamiento con diferímetro de seguridad de 3 minutos; aguja nº 11 da acceso a la línea 600 Valencia Nord – Sant Vicenç de Calders; escape 7-5 del p.k. 93+372 al 93+472; pendiente entre 12 y 15,8 milésimas desde Reus hasta el apeadero de Vila-seca."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Condiciones meteorológicas no adversas; la colisión se produjo 15 minutos después de la puesta del sol, con cierta luminosidad solar.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Tarragona",
+    "municipio": null,
+    "estacion": "Bifurcación Vila-seca"
+   },
+   "pagina": 1,
+   "cita": "en Bifurcación Vila-seca (Tarragona)",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Condiciones meteorológicas no adversas; la colisión se produjo 15 minutos después de la puesta del sol, con cierta luminosidad solar.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de entrada E2V por lado Reus en p.k. 90+006 y señal de entrada E1V por lado Tarragona en p.k. 93+902; baliza previa de E1V; E2V en indicación de parada y E1V cerrada por protección de flanco; ASFA Digital en el tren 95172.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E2V por lado Reus en p.k. 90+006 y señal de entrada E1V por lado Tarragona en p.k. 93+902; baliza previa de E1V; E2V en indicación de parada y E1V cerrada por protección de flanco; ASFA Digital en el tren 95172.",
+    "tipo_via": "Vía doble electrificada con BAB y CTC entre Reus y Bifurcación Vila-seca; colisión en vía I; trayecto Constantí-Reus vía única electrificada con BAU.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "Vía electrificada; catenaria cortada por orden de bomberos y restablecida a las 03:12 del 13/06/2022.",
+    "estado_via": "Infraestructura e instalaciones funcionaron correctamente antes del suceso; la aguja nº 11 resultó dañada por talonamiento.",
+    "otro": "Radiotelefonía tren-tierra modo A, canal 62; enclavamiento con diferímetro de seguridad de 3 minutos; aguja nº 11 da acceso a la línea 600 Valencia Nord – Sant Vicenç de Calders; escape 7-5 del p.k. 93+372 al 93+472; pendiente entre 12 y 15,8 milésimas desde Reus hasta el apeadero de Vila-seca."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "El jefe de área de investigación de accidentes de la Dirección Corporativa de Seguridad en la \nCirculación del Administrador de Infraestructuras Ferroviarias (ADIF), mediante mensajería móvil \n(SMS) a las 22:34 horas del día 12 de junio de 2022, comunicó a la Comisión de Investigación de \nAccidentes Ferroviarios que se había producido el suceso objeto de esta investigación. \nADIF presentó información preliminar necesaria para la investigación del accidente: primeras \ndeclaraciones del personal involucrado, datos de los registradores de seguridad y de los \nvideográficos, pruebas de alcohol y drogas y transcripción de conversaciones grabadas. \nAnalizada la información remitida, la CIAF consideró necesario solicitar nueva información a ADIF, \nGMF y Captrain. ADIF entregó información sobre el videográfico del CTC, las grabaciones de voz de \nlas conversaciones, el registrador de seguridad, el audio de la cabina del tren 95172, el registro de \nórdenes del CTC, la entrevista con el RC del CTC, documentación gráfica del accidente, la alarma de \nocupación intempestiva en el CTC, el acta de revisión tras el accidente y también sobre problemas \nen la comunicación. A su vez, GMF entregó el Plan de mantenimiento de sus locomotoras 310, el \nhistórico del mantenimiento de éstas, las actas de mantenimiento programado, las actas de \nintervenciones especiales, los datos de las ruedas y de las zapatas, el acta de inspección tras el \naccidente, el procedimiento de torneado en taller, datos del torno de foso, datos del aparato de vía \nrelacionado con los desgastes en las ruedas, medidas implantadas tras el suceso, documentos de su \nSistema de Gestión del Mantenimiento y el procedimiento de salida de material rodante tras la \nintervención de mantenimiento. Por su parte, Captrain hizo entrega del Libro de normas del \nmaquinista y el Procedimiento de freno de su SGS y el Manual de conducción de las locomotoras \n310. \nLa documentación solicitada ha sido entregada a la CIAF por parte de ADIF en un plazo de tiempo de \nmás de dos meses y por parte de GMF y Captrain en menos de una semana.  \nEn el curso de la investigación se llevaron a cabo entrevistas telemáticas con personal de ADIF, \nGMF, Renfe Viajeros y Captrain, así como preguntas adicionales a las planteadas en las entrevistas a \ntravés de correo electrónico. La disponibilidad del personal para la realización de las entrevistas y \nreuniones ha sido adecuada. \nTanto el administrador de la infraestructura como las empresas ferroviarias han realizado sus \npropias investigaciones sobre el suceso, trasladándoselas a la CIAF. El informe particular de la \nempresa ferroviaria Renfe Viajeros fue recibido el 16 de septiembre de 2022 y el de la empresa \n\n## Página 8\n\nBORRADOR \n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n8 \n \n \n \n \nferroviaria Captrain fue recibido el 13 de septiembre de 2022. El informe del administrador de la \ninfraestructura (ADIF) se recibió el 31 de marzo de 2023.  \nEn cumplimiento del artículo 15.2 del Real Decreto 623/2014, de 18 de julio, por el que se regula la \ninvestigación de los accidentes e incidentes ferroviarios y la Comisión de Investigación de \nAccidentes Ferroviarios, se remitió el informe provisional a las siguientes entidades con el propósito \nde que facilitaran información técnica pertinente para mejorar la calidad del informe de \ninvestigación: ADIF, Renfe Viajeros, Captrain, GMF, FGC, SEMAF y AESF, valorándose sus \naportaciones.",
+   "pagina": 7,
+   "cita": "2.4. CANALES DE COMUNICACIÓN",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras 310.101 y 310.102 (serie 310, diésel-eléctricas, propiedad de FGC, EEM GMF, explotadas por Captrain en mando múltiple, ASFA Digital); automotores 448.010 y 448.007 (serie 448, eléctricos autopropulsados, Renfe).",
+    "averia": "Insuficiencia de frenado en el tren 95172 por zapatas sin contacto con la banda de rodadura tras el reperfilado; problemas con ASFA en Reus sin relación con el suceso; daños por colisión en ambos trenes.",
+    "mantenimiento": "Reperfilado extraordinario de ruedas el 12/06/2022 tras desgaste acelerado; no se ajustaron las timonerías de freno; prueba de freno no detectó el defecto; GMF desarrolló tras el suceso la instrucción INGMF 0192 y el procedimiento PSGMF 0193."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Reperfilado de ruedas no programado",
+    "Freno sin ajustar al nuevo diámetro",
+    "Prueba de freno insuficiente detectada"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "4.3.1. Actuación del personal de conducción del tren 95172 \nLa comprobación del funcionamiento de la parte neumática del freno se realizó por el maquinista y \nsu resultado fue positivo ya que no hubo ningún problema en este sentido. \nLa comprobación del apriete y afloje de las zapatas en la prueba de freno corresponde al AOT en el \nsupuesto de que la composición TMD sea completa. Dado que no había un AOT para realizar tal \ncomprobación, la prueba de freno realizada por el maquinista no resultó efectiva para detectar la \ndeficiencia de freno. Esta comprobación en el caso de locomotoras aisladas no está contemplada en \nningún procedimiento de Captrain.  \n\n## Página 27\n\nBORRADOR \n \nInforme Final 48/2022 \n \n \n \n \n \n \n \n \n \n \n \n \n27 \n \nSi el AOT hubiera hecho comprobaciones de apriete y afloje de las zapatas como se hace en el \nsupuesto de la composición TMD completa, en este caso, se habría comprobado que algunas de las \nzapatas no tocaban la banda de rodadura y se habría detectado el defecto (ver figura 16). No \nobstante, estas pruebas pueden no ser efectivas para todos aquellos supuestos en los que el \nesfuerzo de las zapatas sobre la banda de rodadura sea inferior al nominal, es decir, que la zapata \nentre en contacto con la banda de rodadura no implica que el esfuerzo de frenado que esté \nhaciendo sea el requerido. \nPor otro lado, la reducción de velocidad en el tren 95172 observada a la salida de la estación de \nReus (ver punto 3.2.1.) se puede atribuir a la realización de una \"comprobación dinámica de freno\" \npor parte del personal de conducción. No obstante, dada la velocidad a la que se hizo dicha \ncomprobación pudo resultar difícil de ponderar por parte del maquinista si la deceleración se \ncorrespondía a la de una frenada óptima. \nDe forma general, en los trenes de composición variable es necesario comprobar la respuesta de los \ndistribuidores mediante el apriete y afloje de sus elementos de frenado (zapatas o guarniciones) y la \nexistencia de continuidad en toda la tubería (TFA) o las tuberías de freno (TFA+TDP). Sin embargo, \nen el apriete no es posible comprobar si el esfuerzo es el nominal, por ello, una buena práctica es, \nuna vez alcanzada una velocidad no muy elevada respecto a la máxima del tren, efectuar un \nfrenado y que el personal de conducción aprecie si la respuesta es la adecuada o no. Por ello, se \npodrían definir comprobaciones dinámicas de freno para que éstas detectasen problemas de \nfrenado en trenes cortos o locomotoras aisladas. \nSe podría plantear una consideración adicional en trenes con pocos vehículos donde una posible \ncarencia, no detectable en las pruebas de freno, tiene una repercusión apreciable en la distancia \nreal de frenado de dicho tren. Esta consideración debería ser necesaria y suficiente para mitigar \ndicho riesgo al mismo nivel que el de un tren largo. \n4.3.2. Actuación del personal de circulación en el Puesto de mando de Barcelona Estación de \nFrancia \nEn el momento del suceso, el tren 95172 tenía que detenerse ante la señal E2V debido a que estaba \nen indicación de parada. El rebase de esa señal implicaba que su trayectoria invadiría el itinerario \nestablecido para el tren 18087. \n\n## Página 28\n\nBORRADOR \n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n28 \n \n \n \n \n \nFigura 17 Situación del enclavamiento momentos antes de la colisión \nA las 21:44:00, el maquinista del tren 95172 estableció contacto con el RC del CTC a través del canal \nde emergencia del tren-tierra para comunicar el problema de frenado y el inminente rebase de la \nseñal E2V. Durante la llamada, el RC del CTC pidió al maquinista en varias ocasiones que repitiese la \ninformación que le estaba tratando de transmitir. La llamada duró 65 segundos, finalizando a las \n21:45:05. Alrededor de 3 segundos después del final de la llamada, el tren 95172 rebasó la señal \nE2V y provocó el cierre inmediato de la señal E1V por protección de flanco.  \nA continuación, el RC del CTC intentó contactar con el maquinista del tren 18087 para avisarle de la \nsituación con el tren 95172, no obstante, no pudo establecer la comunicación con dicho tren ya que \nno aparecía en banda. Según la información analizada, es muy frecuente que existan problemas de \ncomunicación a través del tren-tierra (trenes que no aparecen en banda o comunicación \nininteligible), por lo que en ocasiones tienen que recurrir a establecer la comunicación con los \nmaquinistas mediante telefonía móvil.  \nUnos 35 segundos después de haber finalizado la comunicación entre el RC del CTC y el maquinista \ndel tren 95172 se encaminó por vía I sobre el itinerario dispuesto para el tren 18087. En este punto \ncabe mencionar que el enclavamiento está dotado de un diferímetro de seguridad de 3 minutos, \npor lo que era imposible la disolución del itinerario en la situación dada.  \n\n## Página 29\n\nBORRADOR \n \nInforme Final 48/2022 \n \n \n \n \n \n \n \n \n \n \n \n \n29 \n \nEn este punto del desarrollo de los hechos, con el tren 95172 encaminado hacia vía 1, la señal E1V \ncerrada y sin poder contactar con el tren 18087, el RC del CTC no podía realizar ninguna actuación \npara evitar la colisión. La colisión se produjo 1 minuto y 52 segundos después de finalizar la \ncomunicación entre el RC y el maquinista del tren 95172.",
+   "pagina": 26,
+   "cita": "4.3. FACTORES HUMANOS RELACIONADOS CON EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "No se conocen sucesos de características similares, ni sucesos con factores sistémicos u \norganizacionales similares a los encontrados en el presente informe. \n \n \n\n## Página 31\n\nBORRADOR \n \nInforme Final 48/2022 \n \n \n \n \n \n \n \n \n \n \n \n \n31",
+   "pagina": 30,
+   "cita": "4.5. SUCESOS ANTERIORES DE CARÁCTER SIMILAR",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El 12 de junio de 2022, tras una intervención extraordinaria de reperfilado de ruedas en los talleres de GMF, el tren 95172 salió de Constantí con las locomotoras 310.101 y 310.102 en mando múltiple, con destino Can Tunis. En Reus invirtió la marcha y, tras 75 minutos detenido por problemas ASFA sin relación con el suceso, reanudó a las 21:35:05 en un tramo en pendiente.\n\nDurante el descenso, el tren mostró insuficiencia de frenado: el maquinista frenó al ver la señal E'2V en anuncio de parada, aplicó freno máximo, emergencia y llegó a desconectar ASFA, pero no pudo detenerse. A las 21:44:00 comunicó al RC del CTC la insuficiencia de freno y el inminente rebase de la señal E2V, que protegía el itinerario del tren 18087. A las 21:45:08 rebasó E2V y se cerró E1V por protección de flanco; a las 21:45:40 talonó la aguja 11 y quedó encaminado por vía I.\n\nEl tren 18087, de Renfe Viajeros, había parado comercialmente en el apeadero de Vila-seca a las 21:42:25 y reanudó la marcha a las 21:45:50. Al encontrar E1V cerrada, se detuvo a 123 metros de la señal a las 21:46:42. El maquinista advirtió la llegada del tren 95172, alertó a los pasajeros y, a las 21:46:57, se produjo la colisión frontal. Como consecuencia hubo 6 heridos graves, 16 leves y 7 contusionados entre los 75 viajeros del tren 18087, además de daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "Del análisis de la información recibida se constata que la infraestructura y las instalaciones \nfuncionaron correctamente. De la descripción de los hechos se pueden extraer las siguientes \nconstataciones: \n1. Hubo una insuficiencia de freno en el tren 95172 que provocó una falta de control sobre su \nvelocidad por parte del maquinista, impidiendo su detención ante la señal E2V y dando \nlugar a la colisión con el tren 18087. \n2. Esta insuficiencia de freno tiene su origen en la actuación previa del reperfilado de las \nruedas de las locomotoras en los talleres de GMF en Constantí. \n3. El rebase de la señal E2V por el tren 95172 provocó el cierre de la señal E1V alertando al \nmaquinista de tren 18087 e impidiendo que continuara su marcha. El RC del CTC fue \nconocedor del rebase de la señal E2V y trató de ponerse en contacto infructuosamente con \nel maquinista del tren 18087. \nEn los subapartados siguientes se analizan los factores causales y contribuyentes relativos a las \nmencionadas constataciones. \n4.1. COMETIDOS Y DEBERES RELACIONADOS CON EL SUCESO \n4.1.1. Realización de la prueba de freno del tren 95172 \nAl circular las locomotoras en mando múltiple en el momento del suceso, y dado que \nhabitualmente forman parte de un conjunto que se asimila a un autopropulsado, la prueba de freno \nha de realizarse según el artículo 1.5.1.21, apartado 6 del RCF. Este apartado determina, en el caso \nde automotores, que las pruebas de freno han de realizarse siguiendo el manual de conducción \npropio de cada automotor. Podría también considerarse que la composición funcionaba como una \nlocomotora aislada, pero en este sentido, no se recoge en el RCF ningún supuesto específico sobre \npruebas de freno en locomotoras aisladas. El RCF expresa en su artículo 1.1.1.1 que los SGS de los AI \ny las EF deben asegurar el cumplimiento de lo dispuesto en la ETI OPE. Adicionalmente traslada \nestas actuaciones concretas de pruebas de freno a las empresas ferroviarias mediante el criterio \nSGS 1.11.  \nExiste una referencia a las pruebas de freno en el SGS de Captrain, en concreto en su procedimiento \ngeneral PG0126 “Ejecución del servicio de transporte” que indica que las pruebas de freno deben \nde realizarse según su procedimiento específico PE0106 “Prueba de freno”. En este procedimiento \nespecífico se reproduce en el apartado 7.3.6 lo recogido en el apartado 6 del artículo 1.5.1.21 del \n\n## Página 23\n\nBORRADOR \n \nInforme Final 48/2022 \n \n \n \n \n \n \n \n \n \n \n \n \n23 \n \nRCF sobre pruebas de freno en automotores, remitiendo de nuevo al manual de conducción de \ncada automotor.  \nEl procedimiento de prueba completa de frenado reflejado en el manual de conducción se recoge \nen el punto 5.10, y detalla cómo ha de llevarse a cabo dicha prueba para la composición \ndenominada Tren TECO de Media Distancia (TMD), consistente en una rama indeformable formada \npor dos vehículos motores (locomotoras 310) y 8 plataformas intermedias. En estas condiciones, es \nnecesaria la intervención tanto del maquinista como de un auxiliar denominado agente de cola. \nÉste tiene asignada la comprobación del apriete y aflojado de todas las zapatas de todos los ejes de \nla composición. No existe en el manual de conducción ningún supuesto específico sobre pruebas de \nfreno para la circulación de vehículos motores aislados sin plataformas intermedias.  \nAdemás, en el ya mencionado procedimiento PE0106 incluido en el SGS de Captrain, se indica en el \npunto 7.4 “Desarrollo de las pruebas de freno” que “Cuando el Personal de Conducción sea el \nresponsable de la realización de las distintas pruebas de frenado, ha de contar con la colaboración \nde un AOT para la realización de éstas”, por lo que no se contempla ningún supuesto en el que el \npersonal de conducción deba realizar las pruebas de freno sin un AOT.  \nEl día del suceso, durante la toma de la locomotora, el personal de conducción no contaba con un \nAOT ni con ningún otro agente que colaborase en las labores de pruebas de frenado. Según la \ninformación analizada, es frecuente que en caso de que circulen las locomotoras aisladas se \nprescinda del AOT para realizar las pruebas de freno y estas recaigan sobre el maquinista.  \nLa realización de pruebas de frenado podría haber sido una barrera efectiva de un incorrecto \nfuncionamiento de los frenos. Sin embargo, por una parte, no existe en el manual de conducción, ni \nexpresamente en el RCF, ni en el SGS de Captrain un supuesto específico de cómo deben realizarse \nlas pruebas de freno cuando las locomotoras circulan aisladas, sino que solo se definen las pruebas \nde freno para la composición TMD completa; y, por otro lado, no se contempla en ningún \nprocedimiento que las pruebas de freno deban de realizarse únicamente por el personal de \nconducción sin la presencia de un AOT. \n4.2. MATERIAL RODANTE E INSTALACIONES TÉCNICAS \n4.2.1. Operaciones de reperfilado no programadas en las locomotoras 310 de FGC en los talleres \nde GMF \nLa serie 310 de Renfe está compuesta por 60 locomotoras diésel-eléctricas. Las locomotoras \n310.101 y 310.102, y las 310.103 y 310.104 se modificaron para conformar respectivamente dos \n\n## Página 24\n\nBORRADOR \n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n24 \n \n \n \n \ntrenes indeformables de mercancías llamados TMD (Teco de Media Distancia) añadiendo entre las \ndos locomotoras, una en cabeza y otra en cola, 8 plataformas portacontenedores intermedias. Se \nintrodujeron también modificaciones en las propias locomotoras para que se pudieran acoplar en \nmando múltiple mediante fibra óptica. Estos trenes TMD están dedicados al transporte de \ncontenedores entre la Zona Franca y SEAT Martorell, generalmente para el transporte de \ncomponentes de automoción. \nEn 2013 Renfe vendió los TMD a FGC. Antes de que GMF se convirtiera en la EEM, dichas unidades \nse mantenían en las instalaciones de Integria (Can Tunis). Cuando GMF se encargó del \nmantenimiento de las máquinas asumió el plan de mantenimiento de Renfe.  \n \nFigur",
+   "pagina": 22,
+   "cita": "4. ANÁLISIS DEL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Insuficiencia de frenado del tren 95172 provocada por falta de ajuste de las timonerías de freno tras una operación extraordinaria de reperfilado de ruedas, de modo que 7 de las 16 zapatas no entraban en contacto con la banda de rodadura.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Prueba de freno incapaz de detectar la insuficiencia de freno en las locomotoras 310.",
+    "Ausencia de un AOT u otro agente que comprobase el apriete y afloje de zapatas en la circulación de locomotoras aisladas.",
+    "Comprobación dinámica de freno realizada a una velocidad que pudo dificultar al maquinista ponderar la deceleración."
+   ],
+   "pagina": 31,
+   "cita": "1. Prueba de freno incapaz de detectar la insuficiencia de freno en las locomotoras 310.",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nAnalizada toda la documentación y todos los datos se consideran los siguientes factores: \n \nFigura 18 Árbol causal del suceso. \nFactores causales",
+   "pagina": 31,
+   "cita": "5. CONCLUSIONES 5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO Analizada toda la documentación y todos los datos se consideran los siguientes factores: Figura 18 Árbol causal del suceso. Factor",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nAnalizada toda la documentación y todos los datos se consideran los siguientes factores: \n \nFigura 18 Árbol causal del suceso. \nFactores causales",
+   "pagina": 31,
+   "cita": "5. CONCLUSIONES 5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO Analizada toda la documentación y todos los datos se consideran los siguientes factores: Figura 18 Árbol causal del suceso. Factor",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": "Tras el suceso, se realizaron pruebas de control de consumo de alcohol y drogas de abuso y otras \nsustancias psicoactivas por parte de ADIF, resultando positivo en el test de detección de alcohol el \nRC del CTC.  \nSe recuerda, a tenor de la Recomendación Técnica de la AESF 4/2023 sobre la gestión del riesgo de \noperación con nuevos vehículos, que las EEFF deben realizar un proceso de gestión de riesgos para \nanalizar la incorporación a sus servicios de vehículos (tanto si son de nueva fabricación o no), \ndifundir nuevos manuales de conducción y analizar nuevos requerimientos del plan de \nmantenimiento. \n \n \n \n\n## Página 33\n\nBORRADOR \n \nInforme Final 48/2022 \n \n \n \n \n \n \n \n \n \n \n \n \n33",
+   "pagina": 32,
+   "cita": "5.3. OBSERVACIONES ADICIONALES",
+   "origen": "determinista",
+   "regla": "sec:^observaciones adicionales",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "GMF, EEM de las locomotoras 310 involucradas en el suceso, tras el accidente ha desarrollado los \nprocedimientos: \n• \nInstrucción INGMF 0192 Realización de operaciones post-torneo en torno de foso \n(17/06/2022). Tiene como objeto regular las pautas a seguir para efectuar los ajustes en los \nvehículos al finalizar el torneado de los ejes en los tornos de foso. \n• \nProcedimiento de soporte PSGMF 0193 Salida de material rodante tras intervención de \nmantenimiento (22/06/2022). Describe la metodología a seguir después de una \nintervención de mantenimiento tanto correctivo, como preventivo.",
+   "pagina": 32,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "GMF, EEM de las locomotoras 310 involucradas en el suceso, tras el accidente ha desarrollado los \nprocedimientos: \n• \nInstrucción INGMF 0192 Realización de operaciones post-torneo en torno de foso \n(17/06/2022). Tiene como objeto regular las pautas a seguir para efectuar los ajustes en los \nvehículos al finalizar el torneado de los ejes en los tornos de foso. \n• \nProcedimiento de soporte PSGMF 0193 Salida de material rodante tras intervención de \nmantenimiento (22/06/2022). Describe la metodología a seguir después de una \nintervención de mantenimiento tanto correctivo, como preventivo.",
+   "pagina": 32,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Promover que los procedimientos incluidos en los SGS de las empresas ferroviarias tengan en cuenta las peculiaridades de las pruebas de freno en locomotoras aisladas y trenes cortos.",
+     "destinatario": "AESF"
+    },
+    {
+     "texto": "Promover que las entidades encargadas de mantenimiento y las entidades certificadas para la ejecución del mantenimiento del material rodante incluyan en sus sistemas de gestión el ajuste y comprobación del sistema de frenos tras el reperfilado de ruedas, especialmente sobre el material en el que las zapatas actúan sobre la banda de rodadura y que dispongan de ajuste manual.",
+     "destinatario": "AESF"
+    }
+   ],
+   "pagina": 33,
+   "cita": "48/2022-1 Promover que los procedimientos incluidos en los SGS de las empresas ferroviarias tengan en cuenta las peculiaridades de las pruebas de freno en locomotoras aisladas y trenes cortos. AESF AESF 48/2022-2",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": null,
+     "evento": "2022-05-17: en mantenimiento preventivo se detectaron valores de pestaña próximos al límite en las locomotoras 310.101 y 310.102."
+    },
+    {
+     "hora": null,
+     "evento": "2022-06-04: se reperfiló las locomotoras 310.103 y 310.104 sin ajuste de timonerías; no se detectó deficiencia de freno."
+    },
+    {
+     "hora": null,
+     "evento": "2022-06-11: las locomotoras 310.101 y 310.102 fueron trasladadas a talleres GMF para reperfilado extraordinario."
+    },
+    {
+     "hora": "19:59",
+     "evento": "12/06/2022 19:59:40: el tren 95172 sale de los talleres de GMF con 310.101 en cabeza y 310.102 en cola, en mando múltiple, dirección Can Tunis."
+    },
+    {
+     "hora": "20:19",
+     "evento": "12/06/2022 20:19:40: llega a Reus; se invierte la marcha y la 310.102 pasa a cabeza. El maquinista detecta problemas con ASFA y acude un mecánico de GMF."
+    },
+    {
+     "hora": "21:35",
+     "evento": "12/06/2022 21:35:05: el tren 95172 reanuda la marcha en Reus dirección Can Tunis, en tramo en pendiente."
+    },
+    {
+     "hora": "21:38",
+     "evento": "12/06/2022 21:38:04: el tren 95172 pasa por la señal 866 a unos 35 km/h."
+    },
+    {
+     "hora": "21:41",
+     "evento": "12/06/2022 21:41:53: el tren 95172 inicia frenada a unos 82 km/h al observar la señal E'2V en anuncio de parada."
+    },
+    {
+     "hora": "21:42",
+     "evento": "12/06/2022 21:42:25: el tren 18087 realiza parada comercial en el apeadero de Vila-seca."
+    },
+    {
+     "hora": "21:42",
+     "evento": "12/06/2022 21:42:51: el tren 95172 pasa por la señal E'2V a 75 km/h; el maquinista aplica freno máximo y emergencia."
+    },
+    {
+     "hora": "21:43",
+     "evento": "12/06/2022 21:43:16: el maquinista del tren 95172 desconecta ASFA para intentar provocar una frenada de emergencia."
+    },
+    {
+     "hora": "21:44",
+     "evento": "12/06/2022 21:44:00: el maquinista del tren 95172 comunica al RC del CTC la insuficiencia de freno y el inminente rebase de la señal E2V."
+    },
+    {
+     "hora": "21:45",
+     "evento": "12/06/2022 21:45:05: finaliza la comunicación entre el RC del CTC y el maquinista del tren 95172."
+    },
+    {
+     "hora": "21:45",
+     "evento": "12/06/2022 21:45:08: el tren 95172 rebasa la señal E2V en indicación de parada y provoca el cierre de la señal E1V por protección de flanco."
+    },
+    {
+     "hora": "21:45",
+     "evento": "12/06/2022 21:45:40: el tren 95172 talona la aguja 11 y queda encaminado por la vía donde estaba el itinerario del tren 18087."
+    },
+    {
+     "hora": "21:45",
+     "evento": "12/06/2022 21:45:50: el tren 18087 reanuda la marcha tras la parada comercial."
+    },
+    {
+     "hora": "21:46",
+     "evento": "12/06/2022 21:46:15: el tren 18087 pasa por la baliza previa de la señal E1V en indicación de parada."
+    },
+    {
+     "hora": "21:46",
+     "evento": "12/06/2022 21:46:42: el tren 18087 se detiene a 123 metros de la señal E1V."
+    },
+    {
+     "hora": "21:46",
+     "evento": "12/06/2022 21:46:57: se produce la colisión frontal entre el tren 95172 y el tren 18087."
+    },
+    {
+     "hora": "21:56",
+     "evento": "12/06/2022 21:56:16: el PM de Barcelona Estación de Francia solicita aviso a bomberos por riesgo de incendio en las zapatas."
+    },
+    {
+     "hora": "22:11",
+     "evento": "12/06/2022 22:11: por orden de bomberos se corta la tensión en catenaria por ambas vías entre Reus y Tarragona."
+    },
+    {
+     "hora": "22:34",
+     "evento": "12/06/2022 22:34: ADIF comunica a la CIAF, mediante SMS, la producción del suceso."
+    },
+    {
+     "hora": "02:25",
+     "evento": "13/06/2022 02:25: comienzan los trabajos de reparación de la aguja nº 11."
+    },
+    {
+     "hora": "03:12",
+     "evento": "13/06/2022 03:12: se devuelve la tensión en catenaria por ambas vías."
+    },
+    {
+     "hora": "06:02",
+     "evento": "13/06/2022 06:02: se restablece parcialmente la circulación; vía I banalizada entre Reus y Bif. Vila-seca y vía II entre apeadero de Vila-seca y Tarragona; interrumpidas circulaciones hacia Tortosa."
+    },
+    {
+     "hora": "06:54",
+     "evento": "13/06/2022 06:54: se devuelve la vía a circulación tras los trabajos en la aguja nº 11; se restablecen circulaciones a Tortosa y por las dos vías entre Reus y Bifurcación Vila-seca."
+    },
+    {
+     "hora": "10:05",
+     "evento": "13/06/2022 10:05: se inicia la retirada del tren 18087."
+    },
+    {
+     "hora": "13:38",
+     "evento": "13/06/2022 13:38: se inicia la retirada del tren 95172 para su apartado."
+    },
+    {
+     "hora": "01:45",
+     "evento": "14/06/2022 01:45: queda restablecida la circulación en las dos vías con total normalidad."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0048/2022",
+ "expediente": "048/2022",
+ "anio": 2022,
+ "titulo": "Colisión frontal de trenes ocurrida el día 12 de junio de 2022 en Bifurcación Vila-seca (Tarragona)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES-10251 - 2022-48-0612-IF.md"
+}

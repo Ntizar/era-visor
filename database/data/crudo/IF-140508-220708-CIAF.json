@@ -1,0 +1,926 @@
+{
+ "id": "IF-140508-220708-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/873036CA-3236-41F5-BBBB-78B8FF73BB78/46945/IF140508220708CIAF.pdf",
+ "pdf": "pdfs/ES/IF-140508-220708-CIAF.pdf",
+ "md5_pdf": "8593a705bd2655f8e7e0285b0f839871",
+ "paginas_md": 10,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 7,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0016/2008",
+   "pagina": 9,
+   "cita": "Nº 0016/2008 OCURRIDO EL DÍA 14.05.2008 ## Página 10 Investigación del accidente nº 016/2008 ocurrido el 14.05.2008 SECRETARIA DE ESTADO DE INFRAESTRUCTURAS SECRETARÍA GENERAL DE INFRAESTRUCTURAS A MIN",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 14 de mayo de 2008 a las 10:44, la máquina de vía TD200 (bateadora-niveladora-alineadora de Iberovías) arrolló a una mujer de 41 años en el paso a nivel clase F del pk 263,566 de la línea 800 La Coruña-León, junto al apeadero de Villadepalos (León). La víctima, que cruzaba la vía con dos perros sueltos, regresó a la vía para retirar uno de ellos e hizo caso omiso de las señales acústicas del tren. El conductor aplicó los frenos de emergencia pero no pudo evitar el arrollamiento. No se produjeron daños materiales. No se emitieron recomendaciones específicas al estar el paso a nivel en proceso de supresión.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-05-14",
+    "hora": "10:44",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Villadepalos",
+     "pk": "263,566",
+     "linea": "800 La Coruña-León",
+     "provincia": "León",
+     "descripcion_lugar": "Paso a nivel clase F para uso exclusivo de peatones, situado junto al apeadero de Villadepalos, entre las estaciones de Dehesas y Toral de los Vados. El paso se encuentra en una recta de 879 m y pendiente de 5,05 milésimas. El camino es acceso al apeadero desde la carretera comarcal de Ponferrada a Toral de los Vados. Cruza la vía oblicuamente y el acceso desde el lado de la víctima discurre en fuerte rampa."
+    }
+   },
+   "pagina": 10,
+   "cita": "de Villadepalos, el 14/05/2008, se aprueba como definitivo el informe particular presentado por",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Ninguno (ni material rodante, ni infraestructura, ni medio ambiente)",
+    "afectacion_servicio": "Interceptación de vía hasta las 12:38. Retrasos: tren LD 620: 3 min; tren MD 12604: 3 min; 3 trenes de mercancías: 30 min en total"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Ocupación de la vía por la persona arrollada, al intentar sacar de la misma a uno de los dos perros que la acompañaban, en el momento en que circulaba la máquina de vía TD200, haciendo caso omiso de las señales acústicas",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en la ocupación de la vía por la persona arrollada, al",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Perros sueltos que se negaban a cruzar la vía, obligando a la mujer a regresar a la vía para retirarlos",
+    "Acceso al paso a nivel en fuerte rampa y cruce oblicuo de la vía",
+    "Ausencia de señalización reglamentaria en el camino del paso a nivel (solo señal antigua no reglamentaria)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Paso a nivel clase F en proceso de supresión pero aún operativo al momento del accidente"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "No se establecen recomendaciones específicas para este accidente, dado que el proceso de supresión del paso a nivel (paso inferior en ejecución, previsto en servicio para septiembre de 2008) estaba a punto de finalizar.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "No se establecen recomendaciones específicas para este accidente, dado que el proceso de supresión del paso a nivel (paso inferior en ejecución, previsto en servicio para septiembre de 2008) estaba a punto de finalizar.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Iberovías"
+   ],
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-05-14",
+   "pagina": 10,
+   "cita": "de Villadepalos, el 14/05/2008, se aprueba como definitivo el informe particular presentado por",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "10:44",
+   "pagina": 2,
+   "cita": "El día 14 de mayo de 2008, a las 10:44 horas, la máquina de vía “Bateadora-Niveladora-",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Villadepalos",
+    "pk": "263,566",
+    "linea": "800 La Coruña-León",
+    "provincia": "León",
+    "descripcion_lugar": "Paso a nivel clase F para uso exclusivo de peatones, situado junto al apeadero de Villadepalos, entre las estaciones de Dehesas y Toral de los Vados. El paso se encuentra en una recta de 879 m y pendiente de 5,05 milésimas. El camino es acceso al apeadero desde la carretera comarcal de Ponferrada a Toral de los Vados. Cruza la vía oblicuamente y el acceso desde el lado de la víctima discurre en fuerte rampa."
+   },
+   "pagina": 2,
+   "cita": "clase F, situado en el Km 263,566, junto al apeadero de Villadepalos (León).",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "800 La Coruña-León",
+   "pagina": 2,
+   "cita": "el p.k. 263,500 de la línea 800 La Coruña-León, tras haber arrollado a una persona en el paso a nivel",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Bateadora Plasser-Theurer 08-4754S, matrícula P-401-IBV; tren TD200 matrícula 30274019 (99.71.30.27.401-9)",
+    "averia": null,
+    "mantenimiento": "Material rodante autorizado para circular y cumpliendo las normas establecidas"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren TD200, máquina de vía Bateadora-Niveladora-Alineadora de la empresa Iberovías, realizaba el recorrido Toral de los Vados-Ponferrada por la línea 800 La Coruña-León, entre las estaciones de Dehesas y Toral de los Vados. Circulaba a una velocidad aproximada de 55 km/h. Una mujer de 41 años accedió a la vía por el paso a nivel clase F situado al final del andén del apeadero de Villadepalos, acompañada de dos perros sueltos, cruzando de izquierda a derecha en sentido de la línea. Uno de los perros se detuvo en la vía y la mujer regresó para retirarlo. El personal ferroviario hizo uso reiterado de las señales acústicas de la máquina antes incluso de rebasar la señal de silbar, y el obrero 1º de vías y obras ordenó al maquinista aplicar los frenos de emergencia, que se ejecutó al instante. La máquina frenó durante unos 50 metros, pero no fue suficiente para evitar el arrollamiento. El oficial de telecomunicaciones de Adif, que trabajaba en el mismo punto, intentó avisar a la mujer de viva voz, y varios viandantes también gritaron para que abandonara la vía. La víctima falleció en el lugar. La circulación fue restablecida a las 12:38 tras el levantamiento del cadáver.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Villadepalos",
+    "pk": "263,566",
+    "linea": "800 La Coruña-León",
+    "provincia": "León",
+    "descripcion_lugar": "Paso a nivel clase F para uso exclusivo de peatones, situado junto al apeadero de Villadepalos, entre las estaciones de Dehesas y Toral de los Vados. El paso se encuentra en una recta de 879 m y pendiente de 5,05 milésimas. El camino es acceso al apeadero desde la carretera comarcal de Ponferrada a Toral de los Vados. Cruza la vía oblicuamente y el acceso desde el lado de la víctima discurre en fuerte rampa."
+   },
+   "pagina": 2,
+   "cita": "clase F, situado en el Km 263,566, junto al apeadero de Villadepalos (León).",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Ninguno (ni material rodante, ni infraestructura, ni medio ambiente)",
+    "afectacion_servicio": "Interceptación de vía hasta las 12:38. Retrasos: tren LD 620: 3 min; tren MD 12604: 3 min; 3 trenes de mercancías: 30 min en total"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Se ha consultado a la Dirección General de Ferrocarriles respecto a las características del Paso a \nNivel, así como de las actuaciones realizadas encaminadas a su supresión, obteniéndose la siguiente \ninformación: \nEl Paso a Nivel se encuentra en fase de supresión (se está ejecutando en la actualidad un paso \ninferior) y su puesta en servicio se estima para septiembre de 2008.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Obrero 1º de vías y obras de Adif (conductor de maquinaria de vía, categoría A)",
+     "implicacion": "Viajaba en la bateadora, observó a la mujer con los perros, ordenó al maquinista aplicar frenos de emergencia e informó al Puesto de Mando de León"
+    },
+    {
+     "rol": "Oficial de telecomunicaciones de Adif",
+     "implicacion": "Trabajaba en el mismo punto, intentó avisar a la víctima de viva voz del peligro"
+    },
+    {
+     "rol": "Operador de maquinaria de infraestructura de Iberovías (conductor del tren TD200)",
+     "implicacion": "Conducía la máquina a ~55 km/h, aplicó los frenos de emergencia por orden del obrero 1º de vías y obras"
+    },
+    {
+     "rol": "Víctima (mujer, 41 años)",
+     "implicacion": "Arrollada al intentar retirar un perro de la vía; falleció en el lugar"
+    }
+   ],
+   "pagina": 3,
+   "cita": "-El oficial de telecomunicaciones de Adif",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "TD200",
+     "tipo": "Máquina de vía Bateadora-Niveladora-Alineadora",
+     "operador": "Iberovías",
+     "danos": "ninguno"
+    },
+    {
+     "numero": "620",
+     "tipo": "Larga Distancia",
+     "operador": null,
+     "danos": "ninguno"
+    },
+    {
+     "numero": "12604",
+     "tipo": "Media Distancia",
+     "operador": null,
+     "danos": "ninguno"
+    }
+   ],
+   "pagina": 2,
+   "cita": "Alineadora”, tren TD200, que hacía el recorrido Toral de los Vados-Ponferrada, detuvo su marcha en",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Bateadora Plasser-Theurer 08-4754S, matrícula P-401-IBV; tren TD200 matrícula 30274019 (99.71.30.27.401-9)",
+    "averia": null,
+    "mantenimiento": "Material rodante autorizado para circular y cumpliendo las normas establecidas"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase F sin barreras. Señalización de vía (cartelones de silbar) en buen estado. El camino dispone de una señal antigua y no reglamentaria como aviso; carece de todas las señales que prescribe la O.M. 2/08/01 (Peligro Paso a Nivel sin barrera, Aspa, Circulación prohibida, Atención al Tren paso de Peatones).",
+    "tipo_via": "Vía única electrificada, BAU con CTC",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Bueno",
+    "otro": "Recta de 879 m, pendiente 5,05 milésimas. Visibilidad desde el acceso de la víctima: 240 m. Pavimento del paso entablonado en la vía con balasto en el firme del camino. Camino propiedad del Ayuntamiento de Carracedelo."
+   },
+   "pagina": 4,
+   "cita": "Vía única electrificada, BAU con CTC, Paso a Nivel Clase F, para uso exclusivo de peatones.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso a nivel clase F sin barreras. Señalización de vía (cartelones de silbar) en buen estado. El camino dispone de una señal antigua y no reglamentaria como aviso; carece de todas las señales que prescribe la O.M. 2/08/01 (Peligro Paso a Nivel sin barrera, Aspa, Circulación prohibida, Atención al Tren paso de Peatones).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Ninguno (ni material rodante, ni infraestructura, ni medio ambiente)",
+    "afectacion_servicio": "Interceptación de vía hasta las 12:38. Retrasos: tren LD 620: 3 min; tren MD 12604: 3 min; 3 trenes de mercancías: 30 min en total"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Ninguno (ni material rodante, ni infraestructura, ni medio ambiente)",
+    "afectacion_servicio": "Interceptación de vía hasta las 12:38. Retrasos: tren LD 620: 3 min; tren MD 12604: 3 min; 3 trenes de mercancías: 30 min en total"
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-140508-220708-CIAF Pág. 1 de 10 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 016/2008 OCURRIDO EL DÍA 14.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Ninguno (ni material rodante, ni infraestructura, ni medio ambiente)",
+    "afectacion_servicio": "Interceptación de vía hasta las 12:38. Retrasos: tren LD 620: 3 min; tren MD 12604: 3 min; 3 trenes de mercancías: 30 min en total"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Bateadora Plasser-Theurer 08-4754S, matrícula P-401-IBV; tren TD200 matrícula 30274019 (99.71.30.27.401-9)",
+    "averia": null,
+    "mantenimiento": "Material rodante autorizado para circular y cumpliendo las normas establecidas"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase F sin barreras. Señalización de vía (cartelones de silbar) en buen estado. El camino dispone de una señal antigua y no reglamentaria como aviso; carece de todas las señales que prescribe la O.M. 2/08/01 (Peligro Paso a Nivel sin barrera, Aspa, Circulación prohibida, Atención al Tren paso de Peatones).",
+    "tipo_via": "Vía única electrificada, BAU con CTC",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Bueno",
+    "otro": "Recta de 879 m, pendiente 5,05 milésimas. Visibilidad desde el acceso de la víctima: 240 m. Pavimento del paso entablonado en la vía con balasto en el firme del camino. Camino propiedad del Ayuntamiento de Carracedelo."
+   },
+   "pagina": 4,
+   "cita": "Vía única electrificada, BAU con CTC, Paso a Nivel Clase F, para uso exclusivo de peatones.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo despejado, visibilidad buena",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "León",
+    "municipio": null,
+    "estacion": "apeadero de Villadepalos"
+   },
+   "pagina": 2,
+   "cita": "el p.k. 263,500 de la línea 800 La Coruña-León, tras haber arrollado a una persona en el paso a nivel",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo despejado, visibilidad buena",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso a nivel clase F sin barreras. Señalización de vía (cartelones de silbar) en buen estado. El camino dispone de una señal antigua y no reglamentaria como aviso; carece de todas las señales que prescribe la O.M. 2/08/01 (Peligro Paso a Nivel sin barrera, Aspa, Circulación prohibida, Atención al Tren paso de Peatones).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase F sin barreras. Señalización de vía (cartelones de silbar) en buen estado. El camino dispone de una señal antigua y no reglamentaria como aviso; carece de todas las señales que prescribe la O.M. 2/08/01 (Peligro Paso a Nivel sin barrera, Aspa, Circulación prohibida, Atención al Tren paso de Peatones).",
+    "tipo_via": "Vía única electrificada, BAU con CTC",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Bueno",
+    "otro": "Recta de 879 m, pendiente 5,05 milésimas. Visibilidad desde el acceso de la víctima: 240 m. Pavimento del paso entablonado en la vía con balasto en el firme del camino. Camino propiedad del Ayuntamiento de Carracedelo."
+   },
+   "pagina": 4,
+   "cita": "Vía única electrificada, BAU con CTC, Paso a Nivel Clase F, para uso exclusivo de peatones.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Bateadora Plasser-Theurer 08-4754S, matrícula P-401-IBV; tren TD200 matrícula 30274019 (99.71.30.27.401-9)",
+    "averia": null,
+    "mantenimiento": "Material rodante autorizado para circular y cumpliendo las normas establecidas"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Persona accede a vía con perros sueltos",
+    "Perro se detiene sobre la vía",
+    "Víctima ignora señales acústicas del tren"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren TD200, máquina de vía Bateadora-Niveladora-Alineadora de la empresa Iberovías, realizaba el recorrido Toral de los Vados-Ponferrada por la línea 800 La Coruña-León, entre las estaciones de Dehesas y Toral de los Vados. Circulaba a una velocidad aproximada de 55 km/h. Una mujer de 41 años accedió a la vía por el paso a nivel clase F situado al final del andén del apeadero de Villadepalos, acompañada de dos perros sueltos, cruzando de izquierda a derecha en sentido de la línea. Uno de los perros se detuvo en la vía y la mujer regresó para retirarlo. El personal ferroviario hizo uso reiterado de las señales acústicas de la máquina antes incluso de rebasar la señal de silbar, y el obrero 1º de vías y obras ordenó al maquinista aplicar los frenos de emergencia, que se ejecutó al instante. La máquina frenó durante unos 50 metros, pero no fue suficiente para evitar el arrollamiento. El oficial de telecomunicaciones de Adif, que trabajaba en el mismo punto, intentó avisar a la mujer de viva voz, y varios viandantes también gritaron para que abandonara la vía. La víctima falleció en el lugar. La circulación fue restablecida a las 12:38 tras el levantamiento del cadáver.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nLa infraestructura ferroviaria cumplía la normativa de seguridad. \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 016/2008 ocurrido el 14.05.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS  \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\n Informe Final \n \n \nIF-140508-220708-CIAF \n \n \nPág. 8 de 10\nEl conductor del tren TD200 se encontraba en perfecto estado para la realización de sus funciones \ny, según la declaración del agente de Adif, actuó correctamente. \nEn el momento del arrollamiento el tiempo era despejado y la visibilidad buena. \nLa visibilidad desde el lugar por donde accedió la víctima es de 240m. \nA efectos de la causalidad del accidente se ha podido comprobar que: \n Tanto el funcionamiento de la infraestructura como la actuación del maquinista, ajustados a la \nnormativa, no influyeron en el desarrollo de los hechos. \n4.2 \nCONCLUSIONES \nA tenor de lo expuesto anteriormente, el técnico responsable de la investigación concluye que el \naccidente tuvo su origen en la ocupación de la vía por la persona arrollada, al intentar sacar de la \nmisma a uno de los dos perros que la acompañaban, en el momento en que circulaba la máquina de \nvía, tren TD 200.",
+   "pagina": 7,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Ocupación de la vía por la persona arrollada, al intentar sacar de la misma a uno de los dos perros que la acompañaban, en el momento en que circulaba la máquina de vía TD200, haciendo caso omiso de las señales acústicas",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en la ocupación de la vía por la persona arrollada, al",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Perros sueltos que se negaban a cruzar la vía, obligando a la mujer a regresar a la vía para retirarlos",
+    "Acceso al paso a nivel en fuerte rampa y cruce oblicuo de la vía",
+    "Ausencia de señalización reglamentaria en el camino del paso a nivel (solo señal antigua no reglamentaria)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Se ha consultado a la Dirección General de Ferrocarriles respecto a las características del Paso a \nNivel, así como de las actuaciones realizadas encaminadas a su supresión, obteniéndose la siguiente \ninformación: \nEl Paso a Nivel se encuentra en fase de supresión (se está ejecutando en la actualidad un paso \ninferior) y su puesta en servicio se estima para septiembre de 2008.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Se ha consultado a la Dirección General de Ferrocarriles respecto a las características del Paso a \nNivel, así como de las actuaciones realizadas encaminadas a su supresión, obteniéndose la siguiente \ninformación: \nEl Paso a Nivel se encuentra en fase de supresión (se está ejecutando en la actualidad un paso \ninferior) y su puesta en servicio se estima para septiembre de 2008.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Se ha consultado a la Dirección General de Ferrocarriles respecto a las características del Paso a \nNivel, así como de las actuaciones realizadas encaminadas a su supresión, obteniéndose la siguiente \ninformación: \nEl Paso a Nivel se encuentra en fase de supresión (se está ejecutando en la actualidad un paso \ninferior) y su puesta en servicio se estima para septiembre de 2008.",
+   "pagina": 8,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "No se establecen recomendaciones específicas para este accidente, dado que el proceso de supresión del paso a nivel (paso inferior en ejecución, previsto en servicio para septiembre de 2008) estaba a punto de finalizar.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "10:44",
+     "evento": "Arrollamiento de la persona por el tren TD200 en el paso a nivel del pk 263,566"
+    },
+    {
+     "hora": "10:50",
+     "evento": "El obrero 1º de vías y obras informa al Puesto de Mando de León"
+    },
+    {
+     "hora": "11:15",
+     "evento": "El tren TD200 llega a su destino, Ponferrada"
+    },
+    {
+     "hora": "11:30",
+     "evento": "Se persona en el lugar la policía judicial"
+    },
+    {
+     "hora": "12:20",
+     "evento": "Llega el servicio funerario"
+    },
+    {
+     "hora": "12:38",
+     "evento": "Levantamiento del cadáver y restablecimiento de la circulación"
+    },
+    {
+     "hora": "14:58",
+     "evento": "El coordinador de accidentes de Adif comunica el accidente a la CIAF mediante mensaje de telefonía móvil"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0016/2008",
+ "expediente": "0016/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de una persona por la máquina de vía TD200 en el paso a nivel de Villadepalos, León",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-140508-220708-CIAF.md"
+}

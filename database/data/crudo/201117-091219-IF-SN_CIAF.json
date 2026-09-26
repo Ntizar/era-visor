@@ -1,0 +1,1080 @@
+{
+ "id": "201117-091219-IF-SN_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/201117-191209-if-sn_ciaf.pdf",
+ "pdf": "pdfs/ES/201117-091219-IF-SN_CIAF.pdf",
+ "md5_pdf": "86cae48e40396772b78666414c7163c2",
+ "paginas_md": 32,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 27,
+ "n_tablas": 3,
+ "tablas": [
+  {
+   "pagina": 6,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "RENFE Viajeros",
+     "Número": "63/2019 - 1",
+     "Recomendación": "Incidir, entre el personal de conducción, en la importancia que tiene para la seguridad actuar reglamentariamente cuando la percepción de las señales pueda interpretarse como informaciones discordantes con el sistema ASFA, así como el correcto modo de proceder con posterioridad a la activación del frenado de emergencia del ASFA tras pasar por una señal que indique o pueda indicar parada."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "RENFE Viajeros",
+     "Número": "63/2019 - 2",
+     "Recomendación": "En los cursos de formación o reciclaje impartidos al personal de conducción, debe insistirse en la importancia que tiene para la seguridad adecuar la marcha a la vista hasta la señal siguiente, independientemente de la indicación recibida por su baliza previa. Considerar la posibilidad de incluir en dichos cursos prácticas en simuladores o programar situaciones reales simuladas, seguidas de pruebas prácticas de evaluación en distintos escenarios y condiciones."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Número": "63/2019 - 3",
+     "Recomendación": "Estudiar la posibilidad de revisar el procedimiento de actuación frente a las señales FF7B (permisivas) cuando ordenan parada."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 11,
+   "cabecera": [
+    "SEÑAL",
+    "",
+    "PK",
+    "ORDEN"
+   ],
+   "filas": [
+    {
+     "SEÑAL": "Lado Sant Feliu de Llobregat",
+     "PK": "",
+     "ORDEN": ""
+    },
+    {
+     "SEÑAL": "E'1",
+     "PK": "93+711",
+     "ORDEN": "Parada Anuncio de Parada Anuncio de Precaución Preanuncio de Parada Vía Libre"
+    },
+    {
+     "SEÑAL": "E1",
+     "PK": "92+898",
+     "ORDEN": "Parada Rebase Autorizado Anuncio de Parada Anuncio de Precaución Preanuncio de Parada Vía Libre"
+    },
+    {
+     "SEÑAL": "S1/2",
+     "PK": "92+391",
+     "ORDEN": "Parada Rebase Autorizado Anuncio de Parada Anuncio de Precaución Vía Libre"
+    },
+    {
+     "SEÑAL": "S1/4",
+     "PK": "92+071",
+     "ORDEN": "Parada Rebase Autorizado Anuncio de Parada Anuncio de Precaución"
+    }
+   ],
+   "cita": "| SEÑAL |   | PK | ORDEN |"
+  },
+  {
+   "pagina": 32,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "RENFE Viajeros",
+     "Número": "63/2019 - 1",
+     "Recomendación": "Incidir, entre el personal de conducción, en la importancia que tiene para la seguridad actuar reglamentariamente cuando la percepción de las señales pueda interpretarse como informaciones discordantes con el sistema ASFA, así como el correcto modo de proceder con posterioridad a la activación del frenado de emergencia del ASFA tras pasar por una señal que indique o pueda indicar parada."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "RENFE Viajeros",
+     "Número": "63/2019 - 2",
+     "Recomendación": "En los cursos de formación o reciclaje impartidos al personal de conducción, debe insistirse en la importancia que tiene para la seguridad adecuar la marcha a la vista hasta la señal siguiente, independientemente de la indicación recibida por su baliza previa. Considerar la posibilidad de incluir en dichos cursos prácticas en simuladores o programar situaciones reales simuladas, seguidas de pruebas prácticas de evaluación en distintos escenarios y condiciones."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Número": "63/2019 - 3",
+     "Recomendación": "Estudiar la posibilidad de revisar el procedimiento de actuación frente a las señales FF7B (permisivas) cuando ordenan parada."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0063/2019",
+   "pagina": 1,
+   "cita": "nº 0063/2019 ocurrido el 09.12.2019",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 9 de diciembre de 2019 a las 16:35 horas, el tren 25045 de Cercanías de RENFE Viajeros rebasó indebidamente la señal de entrada E1 en indicación de parada en la estación de Cornellá (Barcelona), PK 92+898 de la Línea 240. El maquinista confundió la información recibida del ASFA en la baliza previa de la señal E1 —que correspondía al tren precedente 95951— con una autorización propia, y no mantuvo la marcha a la vista tras el rebase autorizado de la señal permisiva E'1. No se produjeron víctimas ni daños materiales, pero hubo riesgo de colisión por alcance con el tren 95951. La CIAF atribuyó la causa directa a un error del maquinista en la aplicación de las órdenes de las señales, con factores contribuyentes relacionados con la información ASFA y la visibilidad en el túnel.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2019-12-09",
+    "hora": null,
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Cornellá",
+     "pk": "92+898",
+     "linea": "240 Sant Vicenç de Calders a L'Hospitalet de Llobregat",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Estación de Cornellá del Llobregat, dentro del tramo Molins de Rei-L'Hospitalet de Llobregat. Vía doble electrificada con BAB y CTC. Trazado con curva a derechas y talud en margen derecho. A 190 m de la señal E1, lado L'Hospitalet, se ubica un túnel de ~300 m bajo el Carrer Arquitecte Calzada y la Av. del Parc de Can Mercader. Anexa a la estación se encuentra la base de mantenimiento NERTUS. 6 vías de ancho ibérico (1.668 mm)."
+    }
+   },
+   "pagina": 21,
+   "cita": "09/12/2019   16:34:39",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material móvil, instalaciones ni infraestructura.",
+    "afectacion_servicio": "Interceptación parcial de la vía 2 durante 18 minutos. Afectación a la normalidad de la circulación durante 25 minutos (16:35-17:00). Tren 25045 suprimido. Viajeros transbordados a trenes de paso por vía 1. Retrasos en varios trenes de Cercanías: 114 minutos totales perdidos (1 h 54 min)."
+   },
+   "pagina": 13,
+   "cita": "No se producen daños materiales en material móvil, instalaciones ni infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Error del maquinista del tren 25045 en la correcta aplicación de las órdenes de las señales, dando lugar al rebase indebido de la señal de entrada E1 en indicación de parada.",
+   "pagina": 5,
+   "cita": "(cd1) Error del maquinista del tren 25045 en la correcta aplicación de las órdenes de las señales, dando",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No mantener la marcha a la vista durante todo el recorrido hasta la señal siguiente E1, actuando como si la indicación del ASFA de la baliza previa fuese equivalente a la indicación de la propia señal E1.",
+    "No atenerse a las prescripciones de marcha a la vista impuestas por la señal avanzada E'1 permisiva, superando la velocidad máxima de 40 km/h permitida.",
+    "Al paso por la baliza previa de la señal E1, la información recibida en cabina correspondía a la orden de la señal para el tren 95951 precedente (detenido en el mismo cantón), lo que confundió al maquinista del 25045.",
+    "Tras la activación del primer frenado de emergencia por exceso de velocidad, el maquinista centró su atención en rearmar el equipo y recuperar tracción, perdiendo la concentración y la percepción del entorno.",
+    "Dificultad de visibilidad por curva a derechas, talud en margen derecho y túnel de ~300 m con cambio brusco de intensidad lumínica que puede producir deslumbramientos. La baliza previa de E1 (PK 93+231) se encuentra en el interior del túnel."
+   ],
+   "pagina": 5,
+   "cita": "(fc1) No mantener la marcha a la vista, durante todo el recorrido, hasta la señal siguiente E1, actuando",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Segundo suceso de características similares en los dos últimos años en la estación de Cornellá (incidente de marzo 2018, expediente 13/2018).",
+    "Procedimiento de actuación frente a señales FF7B (permisivas) que ordenan parada puede generar confusión en la interpretación de la información ASFA cuando dos trenes comparten cantón."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Incidir, entre el personal de conducción, en la importancia que tiene para la seguridad actuar reglamentariamente cuando la percepción de las señales pueda interpretarse como informaciones discordantes con el sistema ASFA, así como el correcto modo de proceder con posterioridad a la activación del frenado de emergencia del ASFA tras pasar por una señal que indique o pueda indicar parada.",
+    "En los cursos de formación o reciclaje impartidos al personal de conducción, debe insistirse en la importancia que tiene para la seguridad adecuar la marcha a la vista hasta la señal siguiente, independientemente de la indicación recibida por su baliza previa. Considerar la posibilidad de incluir en dichos cursos prácticas en simuladores o programar situaciones reales simuladas, seguidas de pruebas prácticas de evaluación en distintos escenarios y condiciones.",
+    "Estudiar la posibilidad de revisar el procedimiento de actuación frente a las señales FF7B (permisivas) cuando ordenan parada.",
+    "Incidir, entre el personal de conducción, en la importancia que tiene para la seguridad actuar reglamentariamente cuando la percepción de las señales pueda interpretarse como informaciones discordantes con el sistema ASFA, así como el correcto modo de proceder con posterioridad a la activación del frenado de emergencia del ASFA tras pasar por una señal que indique o pueda indicar parada.",
+    "En los cursos de formación o reciclaje impartidos al personal de conducción, debe insistirse en la importancia que tiene para la seguridad adecuar la marcha a la vista hasta la señal siguiente, independientemente de la indicación recibida por su baliza previa. Considerar la posibilidad de incluir en dichos cursos prácticas en simuladores o programar situaciones reales simuladas, seguidas de pruebas prácticas de evaluación en distintos escenarios y condiciones.",
+    "Estudiar la posibilidad de revisar el procedimiento de actuación frente a las señales FF7B (permisivas) cuando ordenan parada."
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente",
+   "pagina": 1,
+   "cita": "Investigación del incidente",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "RENFE Viajeros"
+   ],
+   "pagina": 10,
+   "cita": "Por parte del administrador de infraestructuras, ADIF:",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2019-12-09",
+   "pagina": 21,
+   "cita": "09/12/2019   16:34:39",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Cornellá",
+    "pk": "92+898",
+    "linea": "240 Sant Vicenç de Calders a L'Hospitalet de Llobregat",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Estación de Cornellá del Llobregat, dentro del tramo Molins de Rei-L'Hospitalet de Llobregat. Vía doble electrificada con BAB y CTC. Trazado con curva a derechas y talud en margen derecho. A 190 m de la señal E1, lado L'Hospitalet, se ubica un túnel de ~300 m bajo el Carrer Arquitecte Calzada y la Av. del Parc de Can Mercader. Anexa a la estación se encuentra la base de mantenimiento NERTUS. 6 vías de ancho ibérico (1.668 mm)."
+   },
+   "pagina": 5,
+   "cita": "hasta quedar estacionado en la vía 2 de la estación.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Descripción de la estación \nLa estación de Cornellá se emplaza en el p.k. 92+497 de la línea 240 Sant Vicenç de Calders a L’Hospitalet \nde Llobregat, dentro del tramo Molins de Rei-L’Hospitalet de Llobregat. Anexa a la estación se encuentra \nla base de mantenimiento ferroviario (taller NERTUS). \nDicho tramo es de vía doble electrificada con catenaria compensada, y Bloqueo Automático de vía \nBanalizada (BAB) con CTC.  \nDe planta curva y pendiente ascendente del 3,75‰, la estación y sus instalaciones anexas cuentan con \n6 vías de ancho ibérico o convencional (1.668 mm), de las cuales 2 están provistas de andén, 3 sirven \nde conexión entre la RFIG y la base de mantenimiento y 1 se encuentra actualmente en desuso. \nEl trazado de la línea en el tramo del suceso presenta una curva a derechas y talud en el margen derecho, \nsentido habitual de la marcha por vía 1 hacia Sant Feliu de Llobregat. A 190 metros de la señal de entrada \nE1, lado L’Hospitalet de Llobregat, se ubica un túnel de aproximadamente 300 m de longitud, bajo el \nCarrer Arquitecte Calzada y la Av. del Parc de Can Mercader. \nEnclavamiento \nEl enclavamiento de la estación de Cornellá es electrónico de tecnología Bombardier. Normalmente se \ngobierna en Mando Central desde el CTC de Barcelona. \nA continuación, se relacionan los elementos de que consta el enclavamiento que interviene en el incidente \nque se investiga, y que aparecen reflejados en la Consiga serie A 2234 de fecha 22.10.2013 y en el Aviso \nNº 107 “Instalaciones que conforman el enclavamiento” de fecha 20.07.2012. \n \n\n## Página 11\n\n \n \n \nMINISTERIO DE \nTRANSPORTES, \nMOVILIDAD Y \nAGENDA URBANA \nSUBSECRETARÍA \nInvestigación del incidente  \nnº 0063/2019 ocurrido el 09.12.2019 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n201117-191209-IF-SN_CIAF \nPág. 11 de 32 \n Vías \nEl enclavamiento dispone de 3 vías de ancho ibérico o convencional (1668 mm): \no \nVías generales sectorizadas 1, 1A, 2 y 2A, estando provistas de andén en curva las vías 1 y 2, con \nuna longitud de andén de 290 m y 205 m respectivamente. \no \nVía de circulación sectorizada 4 y 4A, que da acceso a la base de mantenimiento. \n Señales \nLas señales que intervienen en el suceso asociadas al enclavamiento de la estación, y sus \ncorrespondientes órdenes, son las siguientes: \nSEÑAL \nPK \nORDEN \nLado Sant \nFeliu de \nLlobregat \nLado \nL'Hospitalet \nde Llobregat \n \nE'1 \n93+711 \nParada \nAnuncio de Parada \nAnuncio de Precaución \nPreanuncio de Parada \nVía Libre \n \nE1 \n92+898 \nParada \nRebase Autorizado \nAnuncio de Parada \nAnuncio de Precaución \nPreanuncio de Parada \nVía Libre \nS1/2 \n \n92+391 \nParada \nRebase Autorizado \nAnuncio de Parada \nAnuncio de Precaución \nVía Libre \nS1/4 \n \n92+071 \nParada \nRebase Autorizado \nAnuncio de Parada \nAnuncio de Precaución \n \nLa señal de entrada E1 está dotada de teléfono para que los maquinistas puedan establecer \ncomunicación con el Jefe de Circulación en caso necesario. \nLa señal avanzada E’1 está dotada a la distancia reglamentaria de las correspondientes pantallas de \nproximidad. Además, esta señal avanzada es del tipo FF7B (permisiva), contando con cartelón con la \nletra “P”. \nPara poder presentar la indicación de Preanuncio de Parada, las señales E1 y E’1 están dotadas de \npantalla alfanumérica con pictograma de 60. \n\n### Tablas de la página 11\n\n| SEÑAL |   | PK | ORDEN |\n|---|---|---|---|\n| Lado Sant Feliu de Llobregat | Lado L'Hospitalet de Llobregat |   |   |\n| E'1 |   | 93+711 | Parada Anuncio de Parada Anuncio de Precaución Preanuncio de Parada Vía Libre |\n| E1 |   | 92+898 | Parada Rebase Autorizado Anuncio de Parada Anuncio de Precaución Preanuncio de Parada Vía Libre |\n| S1/2 |   | 92+391 | Parada Rebase Autorizado Anuncio de Parada Anuncio de Precaución Vía Libre |\n| S1/4 |   | 92+071 | Parada Rebase Autorizado Anuncio de Parada Anuncio de Precaución |\n\n## Página 12\n\n \n \n \nMINISTERIO DE \nTRANSPORTES, \nMOVILIDAD Y \nAGENDA URBANA \nSUBSECRETARÍA \nInvestigación del incidente  \nnº 0063/2019 ocurrido el 09.12.2019 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n201117-191209-IF-SN_CIAF \nPág. 12 de 32 \nLa señal rebasada en este incidente es la señal E1 de entrada a la estación por vía 1, ubicada en el \nPK 92+898. Se trata de una señal fija fundamental luminosa de 4 focos, colocada en pescante, con \npantalla alfanumérica en la parte superior.  \n \n \n \n Aparatos de vía \nPara el cambio y comunicación entre las vías generales 1 y 2, existen 3 escapes que incluyen las \nparejas de agujas 1-3, 2-4 y 5-7. \nLa vía general 4 cuenta con los escapes de agujas 6-8 y 24-26 para comunicar el acceso a la base de \nmantenimiento con la vía 2, y con los desvíos 10 y 12 que conectan con las vías de mango 6 y 8.  \nTodos los aparatos de vía están incluidos en el enclavamiento de la estación, a excepción del cambio \n12, el cual es accionado a marmita. \nDe los citados aparatos de vía, los que intervienen directamente en el incidente que de investiga son \nlas agujas nº 5 (PK 92+777) y nº 7 (PK 92+704) para paso de vía 1 a vía 2, y nº 26 (PK 92+326) y \nnº 24 (PK 92+256) para acceso a la vía 4 desde vía 2. \n Sistema ASFA \nTodas las señales están dotadas de sus correspondientes balizas de sistema ASFA. \n\n## Página 13\n\n \n \n \nMINISTERIO DE \nTRANSPORTES, \nMOVILIDAD Y \nAGENDA URBANA \nSUBSECRETARÍA \nInvestigación del incidente  \nnº 0063/2019 ocurrido el 09.12.2019 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n201117-191209-IF-SN_CIAF \nPág. 13 de 32 \nSe incluye a continuación plano esquemático con la disposición de los elementos de seguridad descritos \nanteriormente. \nUbicación de los elementos del enclavamiento que intervienen en el incidente.",
+   "pagina": 10,
+   "cita": "2.2.3 Descripción de la infraestructura",
+   "origen": "determinista",
+   "regla": "sec:^descripci[óo]n de la infraestructura$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "U/T 465.244 (tipo 120A, 5 vehículos) y U/T 447.079 (3 vehículos)",
+    "averia": "Ninguna. Los equipos y dispositivos de seguridad del tren funcionaron correctamente. Registrador jurídico CESIS 3 (tren 25045) y CESIS 1 (tren 95951). ASFA Digital en ambos.",
+    "mantenimiento": "Sin anomalías detectadas en el funcionamiento de los equipos."
+   },
+   "pagina": 10,
+   "cita": "Tren de Cercanías 25045 de la empresa ferroviaria RENFE Viajeros, formado por la U/T 465.244 (UIC",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El Responsable de Circulación del CTC de Barcelona estableció itinerario a vía 4 para el tren 95951 (material vacío de Rodalies de Catalunya procedente de L'Hospitalet de Llobregat), que se encontraba detenido ante la señal de entrada E1 en indicación de parada. Dicha señal cambió su indicación a anuncio de parada. Con el tren 95951 aún detenido, el tren 25045 pasó por la baliza previa de la señal E1, recibiendo en el equipo embarcado la indicación de anuncio de parada, que en realidad correspondía a la orden destinada al tren precedente. El tren 95951 inició la marcha y, tras su paso por la señal E1, esta volvió a indicación de parada. Segundos después, el tren 25045 rebasó indebidamente la señal E1 en indicación de parada y se detuvo por activación del frenado de emergencia ASFA, ocupando intempestivamente el circuito de vía CVA3.\n\nPreviamente, el tren 25045 había pasado por la baliza previa de la señal avanzada E'1 (permisiva) en indicación de parada, se detuvo ante ella, reanudó la marcha con rebase autorizado a 16:34:11 y pasó por la baliza de pie de señal E'1 a 16:34:15. El maquinista aumentó la velocidad hasta 43 km/h, superando el límite de 40 km/h de marcha a la vista, lo que activó un primer frenado de emergencia ASFA a las 16:35:20. Tras rearmar el equipo y recuperar la tracción, el maquinista, convencido de que la señal E1 le permitía el paso, perdió la concentración, no percibió la indicación de parada de E1 y la rebasó a las 16:36:03, activándose un segundo frenado de emergencia. El tren se detuvo a las 16:36:12 y reanudó la marcha a las 16:36:51 sin comunicar el rebase al Responsable de Circulación, quedando estacionado en vía 2 a las 16:38:00.\n\nEl Responsable de Circulación tuvo conocimiento del rebase y a las 16:39:48 llamó al maquinista ordenándole no efectuar ningún movimiento. Se procedió al transbordo de viajeros del tren 25045 a los siguientes trenes de paso por vía 1, y el material fue apartado a vía 4 a las 17:00 horas, quedando finalmente suprimido. La normalidad de la circulación se restableció a las 17:14:34.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Cornellá",
+    "pk": "92+898",
+    "linea": "240 Sant Vicenç de Calders a L'Hospitalet de Llobregat",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Estación de Cornellá del Llobregat, dentro del tramo Molins de Rei-L'Hospitalet de Llobregat. Vía doble electrificada con BAB y CTC. Trazado con curva a derechas y talud en margen derecho. A 190 m de la señal E1, lado L'Hospitalet, se ubica un túnel de ~300 m bajo el Carrer Arquitecte Calzada y la Av. del Parc de Can Mercader. Anexa a la estación se encuentra la base de mantenimiento NERTUS. 6 vías de ancho ibérico (1.668 mm)."
+   },
+   "pagina": 5,
+   "cita": "hasta quedar estacionado en la vía 2 de la estación.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material móvil, instalaciones ni infraestructura.",
+    "afectacion_servicio": "Interceptación parcial de la vía 2 durante 18 minutos. Afectación a la normalidad de la circulación durante 25 minutos (16:35-17:00). Tren 25045 suprimido. Viajeros transbordados a trenes de paso por vía 1. Retrasos en varios trenes de Cercanías: 114 minutos totales perdidos (1 h 54 min)."
+   },
+   "pagina": 13,
+   "cita": "No se producen daños materiales en material móvil, instalaciones ni infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 25045",
+     "implicacion": "Causante directo del incidente. No mantuvo la marcha a la vista, superó los 40 km/h, confundió la información ASFA del tren precedente con la propia y rebasó indebidamente la señal E1 en parada. No comunicó el rebase al Responsable de Circulación ni solicitó autorización para reanudar la marcha. Licencia de Conducción B válida hasta 23.05.2020. Prestaba servicio desde 02.02.2018. Control de alcoholemia y drogas negativo. Sin incidencias anteriores."
+    },
+    {
+     "rol": "Responsable de Circulación del CTC de Barcelona (banda de L'Hospitalet de Llobregat)",
+     "implicacion": "Actuó correctamente. Estableció el itinerario a vía 4 para el tren 95951. Tuvo conocimiento del rebase y actuó conforme a procedimiento: llamó al maquinista, ordenó inmovilización, entregó mando local a L'Hospitalet y coordinó el transbordo de viajeros. Habilitación vigente hasta 18.08.2020. Jornadas dentro de máximos permitidos."
+    }
+   ],
+   "pagina": 14,
+   "cita": "3.1.1 Maquinista del tren 25045",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "25045",
+     "tipo": "Cercanías (Rodalies de Catalunya)",
+     "operador": "RENFE Viajeros",
+     "danos": "Ninguno. U/T 465.244 (UIC 92716465244-2), tipo 120A, 5 vehículos, 12 ejes, 98 m, 203 t. Tren suprimido tras el incidente."
+    },
+    {
+     "numero": "95951",
+     "tipo": "Material vacío (Rodalies de Catalunya)",
+     "operador": "RENFE Viajeros",
+     "danos": "Ninguno. U/T 447.079, 3 vehículos, 12 ejes, 76 m, 163 t. Procedente de L'Hospitalet de Llobregat con destino Cornellá (base de mantenimiento)."
+    }
+   ],
+   "pagina": 5,
+   "cita": "indebidamente el tren 25045 la señal de entrada E1 en indicación de parada, con riesgo de colisión por",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "U/T 465.244 (tipo 120A, 5 vehículos) y U/T 447.079 (3 vehículos)",
+    "averia": "Ninguna. Los equipos y dispositivos de seguridad del tren funcionaron correctamente. Registrador jurídico CESIS 3 (tren 25045) y CESIS 1 (tren 95951). ASFA Digital en ambos.",
+    "mantenimiento": "Sin anomalías detectadas en el funcionamiento de los equipos."
+   },
+   "pagina": 10,
+   "cita": "Tren de Cercanías 25045 de la empresa ferroviaria RENFE Viajeros, formado por la U/T 465.244 (UIC",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales fijas luminosas. E'1 (avanzada, permisiva FF7B, PK 93+711), E1 (entrada, PK 92+898, 4 focos en pescante con pantalla alfanumérica), S1/2 (salida, PK 92+391), S1/4 (PK 92+071). Todas dotadas de balizas ASFA. E'1 con cartelón 'P' y pantallas de proximidad. E1 y E'1 con pantalla alfanumérica pictograma 60 para Preanuncio de Parada.",
+    "tipo_via": "Vía doble electrificada con catenaria compensada",
+    "velocidad_maxima": "40 km/h en marcha a la vista bajo señal permisiva FF7B en parada",
+    "ancho": "1.668 mm (ancho ibérico/convencional)",
+    "electrificacion": "Sí, catenaria compensada",
+    "estado_via": "Correcto. Bloqueo Automático de vía Banalizada (BAB) con CTC. Enclavamiento electrónico Bombardier. Pendiente ascendente del 3,75‰. Trazado en curva a derechas. Túnel de ~300 m a 190 m de la señal E1.",
+    "otro": "6 vías de ancho ibérico: 2 con andén (290 m y 205 m), 3 de conexión a base de mantenimiento NERTUS, 1 en desuso. Aparatos de vía: agujas 1-3, 2-4, 5-7 (paso vía 1 a 2), 6-8, 24-26 (acceso vía 4), 10 y 12 (cambio 12 a marmita). Radiotelefonía tren-tierra modalidad A, canal 61."
+   },
+   "pagina": 10,
+   "cita": "Dicho tramo es de vía doble electrificada con catenaria compensada, y Bloqueo Automático de vía",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales fijas luminosas. E'1 (avanzada, permisiva FF7B, PK 93+711), E1 (entrada, PK 92+898, 4 focos en pescante con pantalla alfanumérica), S1/2 (salida, PK 92+391), S1/4 (PK 92+071). Todas dotadas de balizas ASFA. E'1 con cartelón 'P' y pantallas de proximidad. E1 y E'1 con pantalla alfanumérica pictograma 60 para Preanuncio de Parada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "A lo largo del tramo existe cobertura de radiotelefonía tren-tierra en modalidad A, canal 61. \n2.3 \nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.",
+   "pagina": 13,
+   "cita": "2.2.4 Sistemas de comunicación.",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material móvil, instalaciones ni infraestructura.",
+    "afectacion_servicio": "Interceptación parcial de la vía 2 durante 18 minutos. Afectación a la normalidad de la circulación durante 25 minutos (16:35-17:00). Tren 25045 suprimido. Viajeros transbordados a trenes de paso por vía 1. Retrasos en varios trenes de Cercanías: 114 minutos totales perdidos (1 h 54 min)."
+   },
+   "pagina": 13,
+   "cita": "No se producen daños materiales en material móvil, instalaciones ni infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material móvil, instalaciones ni infraestructura.",
+    "afectacion_servicio": "Interceptación parcial de la vía 2 durante 18 minutos. Afectación a la normalidad de la circulación durante 25 minutos (16:35-17:00). Tren 25045 suprimido. Viajeros transbordados a trenes de paso por vía 1. Retrasos en varios trenes de Cercanías: 114 minutos totales perdidos (1 h 54 min)."
+   },
+   "pagina": 13,
+   "cita": "No se producen daños materiales en material móvil, instalaciones ni infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material móvil, instalaciones ni infraestructura.",
+    "afectacion_servicio": "Interceptación parcial de la vía 2 durante 18 minutos. Afectación a la normalidad de la circulación durante 25 minutos (16:35-17:00). Tren 25045 suprimido. Viajeros transbordados a trenes de paso por vía 1. Retrasos en varios trenes de Cercanías: 114 minutos totales perdidos (1 h 54 min)."
+   },
+   "pagina": 13,
+   "cita": "No se producen daños materiales en material móvil, instalaciones ni infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "U/T 465.244 (tipo 120A, 5 vehículos) y U/T 447.079 (3 vehículos)",
+    "averia": "Ninguna. Los equipos y dispositivos de seguridad del tren funcionaron correctamente. Registrador jurídico CESIS 3 (tren 25045) y CESIS 1 (tren 95951). ASFA Digital en ambos.",
+    "mantenimiento": "Sin anomalías detectadas en el funcionamiento de los equipos."
+   },
+   "pagina": 10,
+   "cita": "Tren de Cercanías 25045 de la empresa ferroviaria RENFE Viajeros, formado por la U/T 465.244 (UIC",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales fijas luminosas. E'1 (avanzada, permisiva FF7B, PK 93+711), E1 (entrada, PK 92+898, 4 focos en pescante con pantalla alfanumérica), S1/2 (salida, PK 92+391), S1/4 (PK 92+071). Todas dotadas de balizas ASFA. E'1 con cartelón 'P' y pantallas de proximidad. E1 y E'1 con pantalla alfanumérica pictograma 60 para Preanuncio de Parada.",
+    "tipo_via": "Vía doble electrificada con catenaria compensada",
+    "velocidad_maxima": "40 km/h en marcha a la vista bajo señal permisiva FF7B en parada",
+    "ancho": "1.668 mm (ancho ibérico/convencional)",
+    "electrificacion": "Sí, catenaria compensada",
+    "estado_via": "Correcto. Bloqueo Automático de vía Banalizada (BAB) con CTC. Enclavamiento electrónico Bombardier. Pendiente ascendente del 3,75‰. Trazado en curva a derechas. Túnel de ~300 m a 190 m de la señal E1.",
+    "otro": "6 vías de ancho ibérico: 2 con andén (290 m y 205 m), 3 de conexión a base de mantenimiento NERTUS, 1 en desuso. Aparatos de vía: agujas 1-3, 2-4, 5-7 (paso vía 1 a 2), 6-8, 24-26 (acceso vía 4), 10 y 12 (cambio 12 a marmita). Radiotelefonía tren-tierra modalidad A, canal 61."
+   },
+   "pagina": 10,
+   "cita": "Dicho tramo es de vía doble electrificada con catenaria compensada, y Bloqueo Automático de vía",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Condiciones meteorológicas favorables. Día soleado y despejado. Horas diurnas.",
+   "pagina": 13,
+   "cita": "El incidente tiene lugar en horas diurnas con condiciones meteorológicas favorables.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Cornellá"
+   },
+   "pagina": 5,
+   "cita": "El Responsable de Circulación del CTC de Barcelona establece itinerario a vía 4 para el tren 95951",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Condiciones meteorológicas favorables. Día soleado y despejado. Horas diurnas.",
+   "pagina": 13,
+   "cita": "El incidente tiene lugar en horas diurnas con condiciones meteorológicas favorables.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales fijas luminosas. E'1 (avanzada, permisiva FF7B, PK 93+711), E1 (entrada, PK 92+898, 4 focos en pescante con pantalla alfanumérica), S1/2 (salida, PK 92+391), S1/4 (PK 92+071). Todas dotadas de balizas ASFA. E'1 con cartelón 'P' y pantallas de proximidad. E1 y E'1 con pantalla alfanumérica pictograma 60 para Preanuncio de Parada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales fijas luminosas. E'1 (avanzada, permisiva FF7B, PK 93+711), E1 (entrada, PK 92+898, 4 focos en pescante con pantalla alfanumérica), S1/2 (salida, PK 92+391), S1/4 (PK 92+071). Todas dotadas de balizas ASFA. E'1 con cartelón 'P' y pantallas de proximidad. E1 y E'1 con pantalla alfanumérica pictograma 60 para Preanuncio de Parada.",
+    "tipo_via": "Vía doble electrificada con catenaria compensada",
+    "velocidad_maxima": "40 km/h en marcha a la vista bajo señal permisiva FF7B en parada",
+    "ancho": "1.668 mm (ancho ibérico/convencional)",
+    "electrificacion": "Sí, catenaria compensada",
+    "estado_via": "Correcto. Bloqueo Automático de vía Banalizada (BAB) con CTC. Enclavamiento electrónico Bombardier. Pendiente ascendente del 3,75‰. Trazado en curva a derechas. Túnel de ~300 m a 190 m de la señal E1.",
+    "otro": "6 vías de ancho ibérico: 2 con andén (290 m y 205 m), 3 de conexión a base de mantenimiento NERTUS, 1 en desuso. Aparatos de vía: agujas 1-3, 2-4, 5-7 (paso vía 1 a 2), 6-8, 24-26 (acceso vía 4), 10 y 12 (cambio 12 a marmita). Radiotelefonía tren-tierra modalidad A, canal 61."
+   },
+   "pagina": 10,
+   "cita": "Dicho tramo es de vía doble electrificada con catenaria compensada, y Bloqueo Automático de vía",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "A lo largo del tramo existe cobertura de radiotelefonía tren-tierra en modalidad A, canal 61. \n2.3 \nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES.",
+   "pagina": 13,
+   "cita": "2.2.4 Sistemas de comunicación.",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "U/T 465.244 (tipo 120A, 5 vehículos) y U/T 447.079 (3 vehículos)",
+    "averia": "Ninguna. Los equipos y dispositivos de seguridad del tren funcionaron correctamente. Registrador jurídico CESIS 3 (tren 25045) y CESIS 1 (tren 95951). ASFA Digital en ambos.",
+    "mantenimiento": "Sin anomalías detectadas en el funcionamiento de los equipos."
+   },
+   "pagina": 10,
+   "cita": "Tren de Cercanías 25045 de la empresa ferroviaria RENFE Viajeros, formado por la U/T 465.244 (UIC",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": "Notificación \nTras percatarse del que el tren 25045 ha rebasado la señal de entrada E1 en indicación de parada, el \nResponsable de Circulación del CTC de Barcelona efectúa llamada a su maquinista a las 16:39:48 horas, \nal que ordena la detención del mismo hasta nueva orden. Pone la situación en conocimiento del \nsupervisor de servicio en el Puesto de Mando de Barcelona. \nPlan de emergencias interno \nEl Puesto de Mando de Barcelona cursa aviso a la empresa ferroviaria afectada, RENFE Viajeros, y a \nSeguridad en la Circulación y H24 de ADIF. \nA las 16:39:48 horas, enterado del rebase de la señal E1 por tren 25045, el Responsable de Circulación \ndel CTC de Barcelona se pone en comunicación por radiotelefonía con su maquinista. Le pregunta la \nindicación que muestra la señal rebasada y ante su repuesta, le ordena no efectuar ningún movimiento \nhasta nueva orden.  \nA las 16:42:11 horas, el Responsable de Circulación del CTC de Barcelona entrega al Responsable de \nCirculación de L’Hospitalet el mando local de ésta, informándole de la sucesión de trenes y retirando la \nautorización para expedir trenes hacia Cornellá.  \nA las 16:44:06 horas, con la estación en Mando Local, el Responsable de Circulación ordena al maquinista \nde tren 25045 que encamine a los viajeros de su tren a la vía 1 para continuar viaje, ya que va a quedar \ninmovilizado.  \nA las 16:44:56 horas, el Responsable de Circulación del CTC de Barcelona entra en comunicación por \nradiotelefonía con el maquinista de tren 28841, detenido ante la señal E1 de Cornellá, para informarle \nque le va a abrir la señal y ordenarle que reconozca el estado de los cambios de entrada.  \nA las 16:47:00 horas, el maquinista de tren 28841 informa que, a simple vista, los cambios de entrada \nestán bien.  \nA las 16:47:46 horas, el Responsable de Circulación del CTC de Barcelona autoriza al Responsable de \nCirculación de L’Hospitalet a expedir trenes hacia Cornellá.  \nA las 17:00 horas, se procede al apartado del material de tren 25045 a vía 4 de Cornellá  \nA las 17:04:17 horas, a requerimiento del Responsable de Circulación del CTC de Barcelona, el maquinista \nde tren 28898 informa que al paso por la aguja nº 7 lo observa todo correcto.  \nA las 17:14:34 horas, el Responsable de Circulación del CTC de Barcelona retira el Mando Local a la \nestación de L’Hospitalet. \nPlan de Emergencias externo \nNo fue necesaria su activación. \n\n## Página 25\n\n \n \n \nMINISTERIO DE \nTRANSPORTES, \nMOVILIDAD Y \nAGENDA URBANA \nSUBSECRETARÍA \nInvestigación del incidente  \nnº 0063/2019 ocurrido el 09.12.2019 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n201117-191209-IF-SN_CIAF \nPág. 25 de 32",
+   "pagina": 24,
+   "cita": "3.5.1 Medidas tomadas por el personal de circulación",
+   "origen": "determinista",
+   "regla": "sec:^medidas tomadas por el personal de circulaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "No mantener la marcha a la vista durante todo el recorrido hasta la señal siguiente E1, actuando como si la indicación del ASFA de la baliza previa fuese equivalente a la indicación de la propia señal E1.",
+    "No atenerse a las prescripciones de marcha a la vista impuestas por la señal avanzada E'1 permisiva, superando la velocidad máxima de 40 km/h permitida.",
+    "Al paso por la baliza previa de la señal E1, la información recibida en cabina correspondía a la orden de la señal para el tren 95951 precedente (detenido en el mismo cantón), lo que confundió al maquinista del 25045.",
+    "Tras la activación del primer frenado de emergencia por exceso de velocidad, el maquinista centró su atención en rearmar el equipo y recuperar tracción, perdiendo la concentración y la percepción del entorno.",
+    "Dificultad de visibilidad por curva a derechas, talud en margen derecho y túnel de ~300 m con cambio brusco de intensidad lumínica que puede producir deslumbramientos. La baliza previa de E1 (PK 93+231) se encuentra en el interior del túnel."
+   ],
+   "pagina": 5,
+   "cita": "(fc1) No mantener la marcha a la vista, durante todo el recorrido, hasta la señal siguiente E1, actuando",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Responsable de Circulación \nSe encuentra en posesión de la Habilitación de Responsable de Circulación expedida conforme a la \nnormativa legal vigente y en vigor hasta el 18.08.2020.  \nSe encuentra al día de reciclajes formativos y de reconocimientos médicos y psicofísicos. \nTanto el día del incidente como en las 24 y 48 horas anteriores, sus jornadas de trabajo se encuentran \ndentro de las máximas permitidas. \nMaquinista del tren 25045 \nSe encuentra en posesión de la Licencia de Conducción de Categoría B válida hasta el 23.05.2020. \nPresta servicio en el cargo desde el 02.02.2018. \nSe encuentra al día de reciclajes formativos, habilitaciones y de reconocimientos médicos y psicofísicos. \nTanto el día del incidente como en las 24 y 48 horas anteriores, sus jornadas de conducción se \nencuentran dentro de las máximas permitidas. \n3.3 \nNORMATIVA",
+   "pagina": 17,
+   "cita": "3.2.3 Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El Responsable de Circulación del CTC de Barcelona estableció itinerario a vía 4 para el tren 95951 (material vacío de Rodalies de Catalunya procedente de L'Hospitalet de Llobregat), que se encontraba detenido ante la señal de entrada E1 en indicación de parada. Dicha señal cambió su indicación a anuncio de parada. Con el tren 95951 aún detenido, el tren 25045 pasó por la baliza previa de la señal E1, recibiendo en el equipo embarcado la indicación de anuncio de parada, que en realidad correspondía a la orden destinada al tren precedente. El tren 95951 inició la marcha y, tras su paso por la señal E1, esta volvió a indicación de parada. Segundos después, el tren 25045 rebasó indebidamente la señal E1 en indicación de parada y se detuvo por activación del frenado de emergencia ASFA, ocupando intempestivamente el circuito de vía CVA3.\n\nPreviamente, el tren 25045 había pasado por la baliza previa de la señal avanzada E'1 (permisiva) en indicación de parada, se detuvo ante ella, reanudó la marcha con rebase autorizado a 16:34:11 y pasó por la baliza de pie de señal E'1 a 16:34:15. El maquinista aumentó la velocidad hasta 43 km/h, superando el límite de 40 km/h de marcha a la vista, lo que activó un primer frenado de emergencia ASFA a las 16:35:20. Tras rearmar el equipo y recuperar la tracción, el maquinista, convencido de que la señal E1 le permitía el paso, perdió la concentración, no percibió la indicación de parada de E1 y la rebasó a las 16:36:03, activándose un segundo frenado de emergencia. El tren se detuvo a las 16:36:12 y reanudó la marcha a las 16:36:51 sin comunicar el rebase al Responsable de Circulación, quedando estacionado en vía 2 a las 16:38:00.\n\nEl Responsable de Circulación tuvo conocimiento del rebase y a las 16:39:48 llamó al maquinista ordenándole no efectuar ningún movimiento. Se procedió al transbordo de viajeros del tren 25045 a los siguientes trenes de paso por vía 1, y el material fue apartado a vía 4 a las 17:00 horas, quedando finalmente suprimido. La normalidad de la circulación se restableció a las 17:14:34.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "A partir de la información recopilada y una vez establecida la descripción de los acontecimientos, se ha \nelaborado un análisis STEP (Sequential Timed Events Plotting – Trazado de Eventos Secuenciales). \nMediante este método se analiza el proceso previo al accidente, aclarando y estableciendo relaciones \nentre las acciones, actores y elementos implicados. De este modo pueden identificarse los posibles \nproblemas relacionados con la seguridad que hayan podido influir en el suceso. \n \n \n\n## Página 30\n\n \n \n \nMINISTERIO DE \nTRANSPORTES, \nMOVILIDAD Y \nAGENDA URBANA \nSUBSECRETARÍA \nInvestigación del incidente  \nnº 0063/2019 ocurrido el 09.12.2019 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n201117-191209-IF-SN_CIAF \nPág. 30 de 32 \n4.3 \nCAUSAS Y FACTORES CONTRIBUYENTES \nCausas directas e inmediatas del suceso: \n(cd1) Error del maquinista del tren 25045 en la correcta aplicación de las órdenes de las señales, dando \nlugar al rebase indebido de la señal de entrada E1 en indicación de parada. [VER RECOMENDACIÓN Nº \n1] \nFactores contribuyentes: \n- \nEn relación con la actuación de las personas:  \nMaquinista tren 25045: \n(fc1) No mantener la marcha a la vista, durante todo el recorrido, hasta la señal siguiente E1, actuando \ncomo si la indicación del ASFA de la baliza previa de la señal E1 fuese equivalente a la indicación de \nla propia señal E1, lo que propicia su rebase indebido. [VER RECOMENDACIÓN Nº 2] \n(fc2) No atenerse a las prescripciones de marcha a la vista impuestas por la señal avanzada E’1, \nsuperando la velocidad máxima de 40 km/h permitida bajo estas condiciones. [VER RECOMENDACIÓN \nNº 2] \n- \nEn relación con el material rodante, instalaciones técnicas e infraestructura:  \n(fc3) Al paso por la baliza previa de la señal E1, la información recibida en cabina por el maquinista \ndel tren 25045 es la información transmitida por dicha baliza de acuerdo con la orden de la señal E1 \npara el tren 95951 precedente, que se encontraba detenido en el mismo cantón al haber rebasado el \nprimero la señal avanzada E’1, lo que confundió al maquinista del 25045, considerándola \nerróneamente como propia. [VER RECOMENDACIONES Nº 1 Y 3] \n4.4 \nOBSERVACIONES ADICIONALES \nDel análisis de las instalaciones de la estación de Cornellá y sus tramos contiguos, llevado a cabo durante \nla investigación, se han identificado algunos aspectos que, en conjunción con determinadas situaciones, \nrequieren una especial atención ya que podrían influir en la seguridad en la circulación. \n \nVisibilidad \nComo se ha indicado anteriormente, el trazado de la línea en el tramo presenta una curva a \nderechas y talud en el margen derecho, sentido habitual de la marcha por vía 1 hacia Sant Feliu \nde Llobregat, que dificulta la visibilidad. \nAdemás, 190 metros de la señal de entrada E1, lado L’Hospitalet de Llobregat, se ubica un túnel \nde aproximadamente 300 m de longitud, bajo el Carrer Arquitecte Calzada y la Av. Del Parc de \nCan Mercader. La embocadura de salida hacia Sant Feliu de Llobregat presenta orientación oeste-\nsudoeste por lo que, en determinadas horas del día, y especialmente en condiciones climáticas \ndespejadas y soleadas, el cambio brusco de intensidad lumínica entre el interior y el exterior del \ntúnel puede producir ciertos deslumbramientos.  \nEn estas condiciones, la percepción y visibilidad del maquinista podría verse penalizada, afectando \na la seguridad de la circulación en situaciones análogas a las analizadas en este suceso, dada la \n\n## Página 31\n\n \n \n \nMINISTERIO DE \nTRANSPORTES, \nMOVILIDAD Y \nAGENDA URBANA \nSUBSECRETARÍA \nInvestigación del incidente  \nnº 0063/2019 ocurrido el 09.12.2019 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n201117-191209-IF-SN_CIAF \nPág. 31 de 32 \nproximidad de la señal E1. No obstante, no se tiene conocimiento de partes de incidencias por \nesta circunstancia. \n \nInterpretación de señales \nLa baliza previa de la señal E1 se encuentra en el PK 93+231, y por tanto en el interior del túnel \nanteriormente mencionado. En caso de recibir a través de la baliza previa una indicación para el \ntren precedente en lugar de la correspondiente al tren que conduce, e interpretarla erróneamente \ncomo propia, las condiciones de baja visibilidad podrían no permitir que el maquinista se percate \nde su error y actúe en consecuencia. [VER RECOMENDACIÓN Nº 3] \n4.5 \nMEDIDAS ADOPTADAS \nMedidas adoptadas por el administrador de infraestructuras ferroviarias, ADIF: \nComo resultado de la investigación realizada por ADIF del incidente de expediente 13/2018, en el que \nconcurrieron circunstancias similares a las de este suceso, con fecha 04.08.2020 se ha procedido a \ntransformar la consideración de las señales avanzadas E’1 y E’3 de la estación de Cornellá, pasando de \naspecto FF7B (permisivas) a aspecto FF7A (absolutas) según el RCF. \nEstas mismas medidas aplican a las estaciones de Riells i Viabrea-Breda y Girona Mercaderies. \nMedidas adoptadas por la empresa ferroviaria, RENFE Viajeros: \nSegún la información recibida por parte de RENFE, tras el incidente se han adoptado las siguientes \nmedidas en relación al maquinista del tren 25045, conforme a la Circular Operativa COP nº 1 “Gestión \ndel riesgo por fallo humano en la conducción”: \n- \nMódulo formativo de 16 horas de duración, dividido en: 8h sobre Factor Humano, centrándolo en \nla percepción del riesgo y buenas prácticas de conducción, y 8h sobre seguridad en la circulación, \nreforzando aquellos aspectos sobre la aplicación de la norma. \n- \nSeguimiento de la actividad laboral mediante 5 acompañamientos en cabina. \n- \nAnálisis de registros de seguridad para valorar la actuación del agente, procurando efectuarlos en \nsemanas no coincidentes con las acciones de acompañamiento. \n \n \n \n \n \n \n \n \n\n## Página 32\n\n \n \n \nMINISTERIO DE \nTRANSPORTES, \nMOVILIDAD Y \nAGENDA URBANA \nSUBSECRETARÍA \nInvestigación del incidente  \nnº 0063/2019 ocurrido el 09.12.2019 \nInforme Final de la CIAF \nCOMISIÓN DE IN",
+   "pagina": 29,
+   "cita": "4.2.1 Análisis STEP de los acontecimientos.",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Error del maquinista del tren 25045 en la correcta aplicación de las órdenes de las señales, dando lugar al rebase indebido de la señal de entrada E1 en indicación de parada.",
+   "pagina": 5,
+   "cita": "(cd1) Error del maquinista del tren 25045 en la correcta aplicación de las órdenes de las señales, dando",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No mantener la marcha a la vista durante todo el recorrido hasta la señal siguiente E1, actuando como si la indicación del ASFA de la baliza previa fuese equivalente a la indicación de la propia señal E1.",
+    "No atenerse a las prescripciones de marcha a la vista impuestas por la señal avanzada E'1 permisiva, superando la velocidad máxima de 40 km/h permitida.",
+    "Al paso por la baliza previa de la señal E1, la información recibida en cabina correspondía a la orden de la señal para el tren 95951 precedente (detenido en el mismo cantón), lo que confundió al maquinista del 25045.",
+    "Tras la activación del primer frenado de emergencia por exceso de velocidad, el maquinista centró su atención en rearmar el equipo y recuperar tracción, perdiendo la concentración y la percepción del entorno.",
+    "Dificultad de visibilidad por curva a derechas, talud en margen derecho y túnel de ~300 m con cambio brusco de intensidad lumínica que puede producir deslumbramientos. La baliza previa de E1 (PK 93+231) se encuentra en el interior del túnel."
+   ],
+   "pagina": 5,
+   "cita": "(fc1) No mantener la marcha a la vista, durante todo el recorrido, hasta la señal siguiente E1, actuando",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Incidir, entre el personal de conducción, en la importancia que tiene para la seguridad actuar reglamentariamente cuando la percepción de las señales pueda interpretarse como informaciones discordantes con el sistema ASFA, así como el correcto modo de proceder con posterioridad a la activación del frenado de emergencia del ASFA tras pasar por una señal que indique o pueda indicar parada.",
+    "En los cursos de formación o reciclaje impartidos al personal de conducción, debe insistirse en la importancia que tiene para la seguridad adecuar la marcha a la vista hasta la señal siguiente, independientemente de la indicación recibida por su baliza previa. Considerar la posibilidad de incluir en dichos cursos prácticas en simuladores o programar situaciones reales simuladas, seguidas de pruebas prácticas de evaluación en distintos escenarios y condiciones.",
+    "Estudiar la posibilidad de revisar el procedimiento de actuación frente a las señales FF7B (permisivas) cuando ordenan parada.",
+    "Incidir, entre el personal de conducción, en la importancia que tiene para la seguridad actuar reglamentariamente cuando la percepción de las señales pueda interpretarse como informaciones discordantes con el sistema ASFA, así como el correcto modo de proceder con posterioridad a la activación del frenado de emergencia del ASFA tras pasar por una señal que indique o pueda indicar parada.",
+    "En los cursos de formación o reciclaje impartidos al personal de conducción, debe insistirse en la importancia que tiene para la seguridad adecuar la marcha a la vista hasta la señal siguiente, independientemente de la indicación recibida por su baliza previa. Considerar la posibilidad de incluir en dichos cursos prácticas en simuladores o programar situaciones reales simuladas, seguidas de pruebas prácticas de evaluación en distintos escenarios y condiciones.",
+    "Estudiar la posibilidad de revisar el procedimiento de actuación frente a las señales FF7B (permisivas) cuando ordenan parada."
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "RENFE Viajeros",
+    "RENFE Viajeros",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "RENFE Viajeros",
+    "RENFE Viajeros",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "16:31",
+     "evento": "El tren 95951 se detiene ante la señal de entrada E1 en indicación de parada, ocupando el circuito de vía CVAE1."
+    },
+    {
+     "hora": "16:32",
+     "evento": "El Responsable de Circulación del CTC establece itinerario de entrada para el tren 95951 de señal E1 a vía 4."
+    },
+    {
+     "hora": "16:33:07",
+     "evento": "El tren 25045 pasa por la baliza previa de la señal avanzada E'1 (permisiva) en indicación de parada a 47 km/h."
+    },
+    {
+     "hora": "16:34:03",
+     "evento": "El tren 25045 se detiene al aproximarse a la señal avanzada E'1 en indicación de parada."
+    },
+    {
+     "hora": "16:34:11",
+     "evento": "El maquinista pulsa el rebase autorizado antes de la señal avanzada E'1."
+    },
+    {
+     "hora": "16:34:15",
+     "evento": "El tren 25045 pasa por la baliza de pie de señal E'1 en indicación de parada con rebase autorizado a 21 km/h. Entra en el circuito de vía CVAE1."
+    },
+    {
+     "hora": "16:34:39",
+     "evento": "Se establece itinerario a vía 4 para el tren 95951 y la señal E1 pasa a indicación de anuncio de parada."
+    },
+    {
+     "hora": "16:35:11",
+     "evento": "El tren 25045 pasa por la baliza previa de la señal E1 recibiendo indicación de anuncio de parada (correspondiente al tren 95951) a 31 km/h."
+    },
+    {
+     "hora": "16:35:20",
+     "evento": "Actúa el frenado de emergencia ASFA al superar la velocidad de control de 40 km/h (marcha a 43 km/h)."
+    },
+    {
+     "hora": "16:35:32",
+     "evento": "El tren 25045 se detiene completamente por acción del ASFA."
+    },
+    {
+     "hora": "16:35:42",
+     "evento": "El tren 25045 reanuda la marcha tras rearme del ASFA."
+    },
+    {
+     "hora": "16:36:03",
+     "evento": "El tren 25045 rebasa indebidamente la señal E1 en indicación de parada a 29 km/h. Se activa el frenado de emergencia ASFA."
+    },
+    {
+     "hora": "16:36:12",
+     "evento": "El tren 25045 se detiene ocupando intempestivamente el circuito de vía CVA3."
+    },
+    {
+     "hora": "16:36:51",
+     "evento": "El tren 25045 reanuda la marcha previo rearme del ASFA sin reconocer el rebase indebido."
+    },
+    {
+     "hora": "16:37:16",
+     "evento": "Se registra el paso del tren 25045 por la baliza previa de la señal S1/2."
+    },
+    {
+     "hora": "16:38:00",
+     "evento": "El tren 25045 queda estacionado en vía 2 ante la señal de salida S1/2."
+    },
+    {
+     "hora": "16:39:48",
+     "evento": "El Responsable de Circulación del CTC llama al maquinista del tren 25045 y le ordena no efectuar ningún movimiento hasta nueva orden."
+    },
+    {
+     "hora": "16:42:11",
+     "evento": "El Responsable de Circulación del CTC entrega el mando local a L'Hospitalet y retira la autorización para expedir trenes hacia Cornellá."
+    },
+    {
+     "hora": "16:44:06",
+     "evento": "Se ordena al maquinista del tren 25045 encaminar a los viajeros a la vía 1 para continuar viaje."
+    },
+    {
+     "hora": "16:47:46",
+     "evento": "Se autoriza al Responsable de Circulación de L'Hospitalet a expedir trenes hacia Cornellá."
+    },
+    {
+     "hora": "17:00",
+     "evento": "Se procede al apartado del material del tren 25045 a vía 4 de Cornellá. Se restablece la normalidad de la circulación."
+    },
+    {
+     "hora": "17:14:34",
+     "evento": "Se retira el Mando Local a la estación de L'Hospitalet y se restablecen las condiciones normales de circulación."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0063/2019",
+ "expediente": "0063/19",
+ "anio": 2019,
+ "titulo": "Informe Final de la CIAF (IF) sobre el incidente ferroviario nº 0063/2019 ocurrido el día 09.12.2019 en la estación de Cornellá (Barcelona)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/201117-091219-IF-SN_CIAF.md"
+}

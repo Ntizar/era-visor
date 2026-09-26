@@ -1,0 +1,1012 @@
+{
+ "id": "IF-231008-140709-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/F012833F-A3D5-47A5-A714-FE0827576F25/53029/231008140709CIAF.pdf",
+ "pdf": "pdfs/ES/IF-231008-140709-CIAF.pdf",
+ "md5_pdf": "961ced9d04343f14c677c1846118b540",
+ "paginas_md": 11,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 6,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "",
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "",
+     "Número": "53/08-1",
+     "Recomendación": "Que se garantice el cumplimiento de que todos los vehículos, que pone en circulación, respeten la programación marcada en el plan de mantenimiento para las distintas intervenciones."
+    },
+    {
+     "Destinatario": "",
+     "Número": "53/08-2",
+     "Recomendación": "Como complemento al control del cumplimiento de los planes de mantenimiento del material rodante ferroviario, establecido en el artículo 16 de la Orden FOM/233/2006, de 31 de enero, para la homologación del material rodante, se recomienda la realización de una campaña específica de inspecciones para analizar el grado de cumplimiento de dichos planes."
+    },
+    {
+     "Destinatario": "Centro de mantenimiento ERION",
+     "Número": "53/08-3",
+     "Recomendación": "Debe de garantizar que en las intervenciones de mantenimiento realizadas en sus talleres se cumplan las consistencias establecidas en los planes de mantenimiento."
+    },
+    {
+     "Destinatario": "",
+     "Número": "53/08-4",
+     "Recomendación": "Se recomienda un refuerzo de las prácticas de conducción en condiciones adversas de frenado y mayor adaptación a las condiciones reales."
+    }
+   ],
+   "cita": "|   | Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 11,
+   "cabecera": [
+    "",
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Comsa Rail Transport",
+     "Número": "53/08-1",
+     "Recomendación": "Que se garantice el cumplimiento de que todos los vehículos, que pone en circulación, respeten la programación marcada en el plan de mantenimiento para las distintas intervenciones."
+    },
+    {
+     "Destinatario": "",
+     "Número": "53/08-2",
+     "Recomendación": "Como complemento al control del cumplimiento de los planes de mantenimiento del material rodante ferroviario, establecido en el artículo 16 de la Orden FOM/233/2006, de 31 de enero, para la homologación del material rodante, se recomienda la realización de una campaña específica de inspecciones para analizar el grado de cumplimiento de dichos planes."
+    },
+    {
+     "Destinatario": "Centro de mantenimiento ERION",
+     "Número": "53/08-3",
+     "Recomendación": "Debe de garantizar que en las intervenciones de mantenimiento realizadas en sus talleres se cumplan las consistencias establecidas en los planes de mantenimiento."
+    },
+    {
+     "Destinatario": "Comsa Rail Transport",
+     "Número": "53/08-4",
+     "Recomendación": "Se recomienda un refuerzo de las prácticas de conducción en condiciones adversas de frenado y mayor adaptación a las condiciones reales."
+    }
+   ],
+   "cita": "|   | Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0053/2008",
+   "pagina": 1,
+   "cita": "nº 0053/2008 ocurrido el 23.10.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El día 23 de octubre de 2008, a las 12:29, el tren 87018, formado por la locomotora aislada 312302 de COMSA Rail Transport, rebasó la señal de entrada E2 de la estación de Villalba de Guadarrama, que estaba en indicación de parada. El incidente se produjo por un frenado insuficiente que no redujo la velocidad de forma adecuada, provocando activación del ASFA y frenado de emergencia sin evitar el rebase. No hubo víctimas, daños materiales, alcance a otro tren ni talonamiento de aguja. La investigación recomendó reforzar el cumplimiento del mantenimiento y las prácticas de conducción en condiciones adversas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-10-23",
+    "hora": "12:29",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Villalba de Guadarrama",
+     "pk": "38,748",
+     "linea": "100 Madrid - Hendaya",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Estación de Villalba de Guadarrama, P.K. 38,748, vía 2; entrada de la estación, vía general par; tramo Villalba de Guadarrama - El Escorial."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 23 de octubre de 2008, a las 12:29 horas, el tren 87018 (locomotora aislada 312302), de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Tren 87018 sufre un retraso de 315 minutos; locomotora queda apartada en Villalba; no se activó plan de emergencia; no hubo alcance ni talonamiento de aguja."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Frenado insuficiente que no reduce la velocidad de forma adecuada, provocando que la locomotora pase por la baliza previa a velocidad excesiva; activación del ASFA y frenado de emergencia que no impide el rebase de la señal.",
+   "pagina": 3,
+   "cita": "Conclusión: El incidente se produce como consecuencia del frenado insuficiente que no reduce la",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Vía en pendiente",
+    "Distancia escasa entre señal avanzada y señal de entrada",
+    "Deficiencias en el estado de las zapatas detectadas tras el incidente",
+    "Intervención IS fuera de programación en plazo y kilómetros",
+    "Prácticas de conducción con menor adaptación a condiciones reales de frenado"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Incumplimiento de la programación marcada en el plan de mantenimiento",
+    "Falta de control del cumplimiento de planes de mantenimiento del material rodante",
+    "Falta de garantía de consistencias en intervenciones del centro de mantenimiento ERION",
+    "Necesidad de reforzar prácticas de conducción en condiciones adversas de frenado"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Que se garantice el cumplimiento de que todos los vehículos, que pone en circulación, respeten la programación marcada en el plan de mantenimiento para las distintas intervenciones.",
+    "Como complemento al control del cumplimiento de los planes de mantenimiento del material rodante ferroviario, establecido en el artículo 16 de la Orden FOM/233/2006, de 31 de enero, para la homologación del material rodante, se recomienda la realización de una campaña específica de inspecciones para analizar el grado de cumplimiento de dichos planes.",
+    "Debe de garantizar que en las intervenciones de mantenimiento realizadas en sus talleres se cumplan las consistencias establecidas en los planes de mantenimiento.",
+    "Se recomienda un refuerzo de las prácticas de conducción en condiciones adversas de frenado y mayor adaptación a las condiciones reales.",
+    "Que se garantice el cumplimiento de que todos los vehículos, que pone en circulación, respeten la programación marcada en el plan de mantenimiento para las distintas intervenciones.",
+    "Como complemento al control del cumplimiento de los planes de mantenimiento del material rodante ferroviario, establecido en el artículo 16 de la Orden FOM/233/2006, de 31 de enero, para la homologación del material rodante, se recomienda la realización de una campaña específica de inspecciones para analizar el grado de cumplimiento de dichos planes.",
+    "Debe de garantizar que en las intervenciones de mantenimiento realizadas en sus talleres se cumplan las consistencias establecidas en los planes de mantenimiento.",
+    "Se recomienda un refuerzo de las prácticas de conducción en condiciones adversas de frenado y mayor adaptación a las condiciones reales."
+   ],
+   "pagina": 3,
+   "cita": "|   | Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Centro de mantenimiento ERION",
+    "Comsa Rail Transport",
+    "Centro de mantenimiento ERION",
+    "Comsa Rail Transport"
+   ],
+   "pagina": 3,
+   "cita": "|   | Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente",
+   "pagina": 1,
+   "cita": "Investigación del incidente",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "COMSA Rail Transport",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "empresa ferroviaria COMSA Rail Transport, dedicado a la formación de conducción para la habilitación",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-10-23",
+   "pagina": 3,
+   "cita": "El día 23 de octubre de 2008, a las 12:29 horas, el tren 87018 (locomotora aislada 312302), de la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "12:29",
+   "pagina": 3,
+   "cita": "El día 23 de octubre de 2008, a las 12:29 horas, el tren 87018 (locomotora aislada 312302), de la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Villalba de Guadarrama",
+    "pk": "38,748",
+    "linea": "100 Madrid - Hendaya",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Estación de Villalba de Guadarrama, P.K. 38,748, vía 2; entrada de la estación, vía general par; tramo Villalba de Guadarrama - El Escorial."
+   },
+   "pagina": 3,
+   "cita": "de maquinistas, rebasa la señal de entrada E2 de la estación de Villalba de Guadarrama que se",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 100 Madrid - Hendaya, tramo Villalba de Guadarrama - El Escorial",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 312302, modelo MZIII de General Motors, Nº UIC 937113123023.",
+    "averia": "No se describe avería del ASFA, que funcionaba correctamente; se detectaron deficiencias en el estado de las zapatas el 20/11/2008; el incidente mostró frenado insuficiente.",
+    "mantenimiento": "IB 19/06/2008 con aproximadamente 40.000 km; IS 06/11/2008 con aproximadamente 60.000 km; IS fuera de programación en plazo y kilómetros, sin CN entre IB e IS; tras inspección se requirió reconocer/sustituir zapatas y comprobar regulador."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 23 de octubre de 2008, a las 12:29, el tren 87018, formado por la locomotora aislada 312302 de COMSA Rail Transport, circulaba en sentido Madrid por la línea 100 Madrid-Hendaya en un servicio de formación de conducción para habilitación de maquinistas.\n\nAl pasar por la señal avanzada con indicación de anuncio de parada, el maquinista en prácticas que conducía accionó el freno directo con aproximadamente 1,5 bar, pero no logró detener el tren ante la señal de entrada E2 de la estación de Villalba de Guadarrama, que estaba en indicación de parada. La locomotora pasó por la baliza previa a velocidad excesiva, se activó el ASFA y se produjo un frenado de emergencia que no impidió el rebase; el tren se detuvo unos 50 metros después de la señal.\n\nEn cabina viajaban el maquinista formador responsable y otro maquinista en prácticas. No hubo alcance a otro tren, talonamiento de agujas, víctimas ni daños materiales; se comunicó el suceso al Puesto de Mando y la locomotora quedó apartada en la estación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Villalba de Guadarrama",
+    "pk": "38,748",
+    "linea": "100 Madrid - Hendaya",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Estación de Villalba de Guadarrama, P.K. 38,748, vía 2; entrada de la estación, vía general par; tramo Villalba de Guadarrama - El Escorial."
+   },
+   "pagina": 3,
+   "cita": "de maquinistas, rebasa la señal de entrada E2 de la estación de Villalba de Guadarrama que se",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Tren 87018 sufre un retraso de 315 minutos; locomotora queda apartada en Villalba; no se activó plan de emergencia; no hubo alcance ni talonamiento de aguja."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "En el momento del rebase la locomotora se dirigía a la Estación de Fuencarral, donde en los \nTalleres existentes se  sometería a revisión.  \nEn dichos talleres se realizó una intervención IS, con aproximadamente 60.000 Km, el 6 de \nnoviembre de 2008. \nCon posterioridad, la empresa encargada por el Grupo Comsa de gestionar la locomotora realiza \nuna inspección, el 20 de noviembre de 2008, y se detectan deficiencias en el estado de las zapatas. \nMediante un escrito de fecha 15 de diciembre de 2008, la empresa encargada de gestionar la \nlocomotora, traslada a la empresa mantenedora que realizó la mencionada IS, la necesidad de \nreconocer el estado de las zapatas, su sustitución en caso necesario, y comprobar el correcto \nfuncionamiento del regulador, en caso de cambiar zapatas. También le indica que después de cada \nintervención de mantenimiento realizada, desea  efectuar una inspección posterior de la misma, con \npersonal  de su propia empresa. \n\n## Página 11\n\n \n \n \nInvestigación del incidente \nnº 0053/2008 ocurrido el 23.10.2008 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-231008-140709-CIAF \n \n \nPág. 11 de 11",
+   "pagina": 10,
+   "cita": "5. MEDIDAS ADOPTADAS TRAS EL INCIDENTE",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista formador responsable de la formación y de la conducción del tren 87018",
+     "implicacion": "Presente en cabina; ordenó frenado con presión máxima tras rebasar la señal avanzada; comunicó el suceso; título de conducción y habilitación conforme a la Orden Ministerial 2520/2006; alcoholemia negativa; jornada del día 23: 2 horas y 50 minutos."
+    },
+    {
+     "rol": "Maquinista en prácticas con título de conducción categoría B, conduciendo el tren",
+     "implicacion": "Condujo el tren; comenzó a frenar entre las balizas previa y de señal de la avanzada con 1,5 bar en mando de freno directo; distribuidor en posición P; título otorgado el 08/07/2008; alcoholemia negativa; jornada del día 23: 2 horas y 50 minutos."
+    },
+    {
+     "rol": "Maquinista en prácticas con título de conducción categoría B, presente en cabina",
+     "implicacion": "Presente en cabina; título otorgado el 08/07/2008; alcoholemia negativa; jornada del día 23: 2 horas y 50 minutos."
+    }
+   ],
+   "pagina": 5,
+   "cita": " El Maquinista formador responsable de la formación y de la conducción del tren 87018",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "87018",
+     "tipo": "Tren de formación de conducción para habilitación de maquinistas",
+     "operador": "COMSA Rail Transport",
+     "danos": "No se producen daños en material rodante."
+    },
+    {
+     "numero": "312302",
+     "tipo": "Locomotora aislada, modelo MZIII de General Motors, Nº UIC 937113123023",
+     "operador": "COMSA Rail Transport",
+     "danos": "No se producen daños en material rodante; deficiencias en zapatas detectadas el 20/11/2008."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 23 de octubre de 2008, a las 12:29 horas, el tren 87018 (locomotora aislada 312302), de la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 312302, modelo MZIII de General Motors, Nº UIC 937113123023.",
+    "averia": "No se describe avería del ASFA, que funcionaba correctamente; se detectaron deficiencias en el estado de las zapatas el 20/11/2008; el incidente mostró frenado insuficiente.",
+    "mantenimiento": "IB 19/06/2008 con aproximadamente 40.000 km; IS 06/11/2008 con aproximadamente 60.000 km; IS fuera de programación en plazo y kilómetros, sin CN entre IB e IS; tras inspección se requirió reconocer/sustituir zapatas y comprobar regulador."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E2 en indicación de parada; señal avanzada con indicación de anuncio de parada; balizas ASFA previa y de señal; ASFA funcionaba correctamente.",
+    "tipo_via": "Vía doble electrificada; vía 2 / vía general par.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "Electrificada.",
+    "estado_via": "Vía en pendiente; distancia escasa entre la señal avanzada y la señal de entrada; no se mencionan defectos de vía.",
+    "otro": "Bloqueo automático banalizado y control de tráfico centralizado; radiotelefonía modalidad A; media semanal del tramo Villalba de Guadarrama - El Escorial: 912 circulaciones, considerada alta; no fue necesario activar plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de entrada E2 en indicación de parada; señal avanzada con indicación de anuncio de parada; balizas ASFA previa y de señal; ASFA funcionaba correctamente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Tren 87018 sufre un retraso de 315 minutos; locomotora queda apartada en Villalba; no se activó plan de emergencia; no hubo alcance ni talonamiento de aguja."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Tren 87018 sufre un retraso de 315 minutos; locomotora queda apartada en Villalba; no se activó plan de emergencia; no hubo alcance ni talonamiento de aguja."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente.",
+    "afectacion_servicio": "Tren 87018 sufre un retraso de 315 minutos; locomotora queda apartada en Villalba; no se activó plan de emergencia; no hubo alcance ni talonamiento de aguja."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 312302, modelo MZIII de General Motors, Nº UIC 937113123023.",
+    "averia": "No se describe avería del ASFA, que funcionaba correctamente; se detectaron deficiencias en el estado de las zapatas el 20/11/2008; el incidente mostró frenado insuficiente.",
+    "mantenimiento": "IB 19/06/2008 con aproximadamente 40.000 km; IS 06/11/2008 con aproximadamente 60.000 km; IS fuera de programación en plazo y kilómetros, sin CN entre IB e IS; tras inspección se requirió reconocer/sustituir zapatas y comprobar regulador."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E2 en indicación de parada; señal avanzada con indicación de anuncio de parada; balizas ASFA previa y de señal; ASFA funcionaba correctamente.",
+    "tipo_via": "Vía doble electrificada; vía 2 / vía general par.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "Electrificada.",
+    "estado_via": "Vía en pendiente; distancia escasa entre la señal avanzada y la señal de entrada; no se mencionan defectos de vía.",
+    "otro": "Bloqueo automático banalizado y control de tráfico centralizado; radiotelefonía modalidad A; media semanal del tramo Villalba de Guadarrama - El Escorial: 912 circulaciones, considerada alta; no fue necesario activar plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Día despejado y buena visibilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": "Villalba de Guadarrama"
+   },
+   "pagina": 3,
+   "cita": "100 Madrid - Hendaya",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Día despejado y buena visibilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de entrada E2 en indicación de parada; señal avanzada con indicación de anuncio de parada; balizas ASFA previa y de señal; ASFA funcionaba correctamente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E2 en indicación de parada; señal avanzada con indicación de anuncio de parada; balizas ASFA previa y de señal; ASFA funcionaba correctamente.",
+    "tipo_via": "Vía doble electrificada; vía 2 / vía general par.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "Electrificada.",
+    "estado_via": "Vía en pendiente; distancia escasa entre la señal avanzada y la señal de entrada; no se mencionan defectos de vía.",
+    "otro": "Bloqueo automático banalizado y control de tráfico centralizado; radiotelefonía modalidad A; media semanal del tramo Villalba de Guadarrama - El Escorial: 912 circulaciones, considerada alta; no fue necesario activar plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 312302, modelo MZIII de General Motors, Nº UIC 937113123023.",
+    "averia": "No se describe avería del ASFA, que funcionaba correctamente; se detectaron deficiencias en el estado de las zapatas el 20/11/2008; el incidente mostró frenado insuficiente.",
+    "mantenimiento": "IB 19/06/2008 con aproximadamente 40.000 km; IS 06/11/2008 con aproximadamente 60.000 km; IS fuera de programación en plazo y kilómetros, sin CN entre IB e IS; tras inspección se requirió reconocer/sustituir zapatas y comprobar regulador."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "frenado insuficiente no reduce velocidad",
+    "pasa baliza previa velocidad excesiva",
+    "intervención IS fuera programación",
+    "no intervención CN entre IB IS"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 23 de octubre de 2008, a las 12:29, el tren 87018, formado por la locomotora aislada 312302 de COMSA Rail Transport, circulaba en sentido Madrid por la línea 100 Madrid-Hendaya en un servicio de formación de conducción para habilitación de maquinistas.\n\nAl pasar por la señal avanzada con indicación de anuncio de parada, el maquinista en prácticas que conducía accionó el freno directo con aproximadamente 1,5 bar, pero no logró detener el tren ante la señal de entrada E2 de la estación de Villalba de Guadarrama, que estaba en indicación de parada. La locomotora pasó por la baliza previa a velocidad excesiva, se activó el ASFA y se produjo un frenado de emergencia que no impidió el rebase; el tren se detuvo unos 50 metros después de la señal.\n\nEn cabina viajaban el maquinista formador responsable y otro maquinista en prácticas. No hubo alcance a otro tren, talonamiento de agujas, víctimas ni daños materiales; se comunicó el suceso al Puesto de Mando y la locomotora quedó apartada en la estación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl incidente tuvo lugar a la entrada de la estación de Villalba de Guadarrama, en el P.K. 38,748, de \nla vía general par. \nTanto la tasa de alcoholemia como las jornadas de trabajo de los maquinistas cumplen lo \nestablecido en las Disposiciones adicionales undécima y duodécima del Reglamento del Sector \nFerroviario (RD 2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte \nferroviario y Tiempos máximos de conducción en el transporte ferroviario.  \n\n## Página 10\n\n \n \n \nInvestigación del incidente \nnº 0053/2008 ocurrido el 23.10.2008 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-231008-140709-CIAF \n \n \nPág. 10 de 11\n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como el informe particular de Comsa Rail Transport y la ficha de recogida de datos de Adif, el \ntécnico responsable de la investigación concluye que: \nEl incidente se produce como consecuencia del frenado insuficiente que no reduce la velocidad de \nforma adecuada, provocando que la locomotora pase por la baliza previa a una velocidad excesiva. \nEsto hace que el ASFA se active y se produzca un frenado de emergencia que, no obstante, no impide \nel rebase de la señal.",
+   "pagina": 9,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Frenado insuficiente que no reduce la velocidad de forma adecuada, provocando que la locomotora pase por la baliza previa a velocidad excesiva; activación del ASFA y frenado de emergencia que no impide el rebase de la señal.",
+   "pagina": 3,
+   "cita": "Conclusión: El incidente se produce como consecuencia del frenado insuficiente que no reduce la",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Vía en pendiente",
+    "Distancia escasa entre señal avanzada y señal de entrada",
+    "Deficiencias en el estado de las zapatas detectadas tras el incidente",
+    "Intervención IS fuera de programación en plazo y kilómetros",
+    "Prácticas de conducción con menor adaptación a condiciones reales de frenado"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "En el momento del rebase la locomotora se dirigía a la Estación de Fuencarral, donde en los \nTalleres existentes se  sometería a revisión.  \nEn dichos talleres se realizó una intervención IS, con aproximadamente 60.000 Km, el 6 de \nnoviembre de 2008. \nCon posterioridad, la empresa encargada por el Grupo Comsa de gestionar la locomotora realiza \nuna inspección, el 20 de noviembre de 2008, y se detectan deficiencias en el estado de las zapatas. \nMediante un escrito de fecha 15 de diciembre de 2008, la empresa encargada de gestionar la \nlocomotora, traslada a la empresa mantenedora que realizó la mencionada IS, la necesidad de \nreconocer el estado de las zapatas, su sustitución en caso necesario, y comprobar el correcto \nfuncionamiento del regulador, en caso de cambiar zapatas. También le indica que después de cada \nintervención de mantenimiento realizada, desea  efectuar una inspección posterior de la misma, con \npersonal  de su propia empresa. \n\n## Página 11\n\n \n \n \nInvestigación del incidente \nnº 0053/2008 ocurrido el 23.10.2008 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-231008-140709-CIAF \n \n \nPág. 11 de 11",
+   "pagina": 10,
+   "cita": "5. MEDIDAS ADOPTADAS TRAS EL INCIDENTE",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "En el momento del rebase la locomotora se dirigía a la Estación de Fuencarral, donde en los \nTalleres existentes se  sometería a revisión.  \nEn dichos talleres se realizó una intervención IS, con aproximadamente 60.000 Km, el 6 de \nnoviembre de 2008. \nCon posterioridad, la empresa encargada por el Grupo Comsa de gestionar la locomotora realiza \nuna inspección, el 20 de noviembre de 2008, y se detectan deficiencias en el estado de las zapatas. \nMediante un escrito de fecha 15 de diciembre de 2008, la empresa encargada de gestionar la \nlocomotora, traslada a la empresa mantenedora que realizó la mencionada IS, la necesidad de \nreconocer el estado de las zapatas, su sustitución en caso necesario, y comprobar el correcto \nfuncionamiento del regulador, en caso de cambiar zapatas. También le indica que después de cada \nintervención de mantenimiento realizada, desea  efectuar una inspección posterior de la misma, con \npersonal  de su propia empresa. \n\n## Página 11\n\n \n \n \nInvestigación del incidente \nnº 0053/2008 ocurrido el 23.10.2008 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-231008-140709-CIAF \n \n \nPág. 11 de 11",
+   "pagina": 10,
+   "cita": "5. MEDIDAS ADOPTADAS TRAS EL INCIDENTE",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Que se garantice el cumplimiento de que todos los vehículos, que pone en circulación, respeten la programación marcada en el plan de mantenimiento para las distintas intervenciones.",
+    "Como complemento al control del cumplimiento de los planes de mantenimiento del material rodante ferroviario, establecido en el artículo 16 de la Orden FOM/233/2006, de 31 de enero, para la homologación del material rodante, se recomienda la realización de una campaña específica de inspecciones para analizar el grado de cumplimiento de dichos planes.",
+    "Debe de garantizar que en las intervenciones de mantenimiento realizadas en sus talleres se cumplan las consistencias establecidas en los planes de mantenimiento.",
+    "Se recomienda un refuerzo de las prácticas de conducción en condiciones adversas de frenado y mayor adaptación a las condiciones reales.",
+    "Que se garantice el cumplimiento de que todos los vehículos, que pone en circulación, respeten la programación marcada en el plan de mantenimiento para las distintas intervenciones.",
+    "Como complemento al control del cumplimiento de los planes de mantenimiento del material rodante ferroviario, establecido en el artículo 16 de la Orden FOM/233/2006, de 31 de enero, para la homologación del material rodante, se recomienda la realización de una campaña específica de inspecciones para analizar el grado de cumplimiento de dichos planes.",
+    "Debe de garantizar que en las intervenciones de mantenimiento realizadas en sus talleres se cumplan las consistencias establecidas en los planes de mantenimiento.",
+    "Se recomienda un refuerzo de las prácticas de conducción en condiciones adversas de frenado y mayor adaptación a las condiciones reales."
+   ],
+   "pagina": 3,
+   "cita": "|   | Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Centro de mantenimiento ERION",
+    "Comsa Rail Transport",
+    "Centro de mantenimiento ERION",
+    "Comsa Rail Transport"
+   ],
+   "pagina": 3,
+   "cita": "|   | Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": null,
+     "evento": "2008-06-19: intervención IB de la locomotora 312302, aproximadamente 40.000 km."
+    },
+    {
+     "hora": "12:29",
+     "evento": "2008-10-23: el tren 87018 rebasa la señal de entrada E2 en la estación de Villalba de Guadarrama."
+    },
+    {
+     "hora": null,
+     "evento": "2008-10-27: el Presidente de la Comisión de Investigación de Accidentes Ferroviarios decide abrir la investigación."
+    },
+    {
+     "hora": null,
+     "evento": "2008-10-31: Adif entrega la ficha de recogida de datos."
+    },
+    {
+     "hora": null,
+     "evento": "2008-11-06: intervención IS en Talleres de Fuencarral, aproximadamente 60.000 km."
+    },
+    {
+     "hora": null,
+     "evento": "2008-11-20: inspección detecta deficiencias en el estado de las zapatas."
+    },
+    {
+     "hora": null,
+     "evento": "2008-12-15: la empresa gestora traslada a la mantenedora la necesidad de reconocer/sustituir zapatas, comprobar el regulador y realizar inspecciones posteriores."
+    },
+    {
+     "hora": null,
+     "evento": "2009-01-12: COMSA Rail Transport entrega su informe particular del incidente."
+    },
+    {
+     "hora": null,
+     "evento": "2009-07-14: fecha del informe final."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0053/2008",
+ "expediente": "0053/08",
+ "anio": 2008,
+ "titulo": "Rebase de señal de entrada en la estación de Villalba de Guadarrama por locomotora en prácticas",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-231008-140709-CIAF.md"
+}

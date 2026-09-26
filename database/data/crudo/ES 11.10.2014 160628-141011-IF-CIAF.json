@@ -1,0 +1,929 @@
+{
+ "id": "ES 11.10.2014 160628-141011-IF-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/5961E501-50E4-47FC-8B65-2A9B200773CC/138963/160628141011IFCIAF.pdf",
+ "pdf": "pdfs/ES/ES 11.10.2014 160628-141011-IF-CIAF.pdf",
+ "md5_pdf": "9521f74e5828f6d62729cd92213538f0",
+ "paginas_md": 31,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 17,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0064/2014",
+   "pagina": 1,
+   "cita": "nº 0064/2014 ocurrido el 11.10.2014",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 11 de octubre de 2014 a las 11:05, el tren de mercancías CGX32 de Tracción Rail, con 18 vagones plataforma PMMC, descarriló el segundo eje del primer bogie del último vagón (vacío) en el PK 9+606 del apartadero de Sestao. El vagón circuló descarrilado 3.006 metros hasta la estación de Zorrotza, perdiendo los dos ejes del segundo bogie y causando daños significativos en balizas, desvíos, cruzamientos y traviesas. No hubo víctimas mortales ni heridos. La CIAF concluyó que la causa más probable fue un efecto sinérgico de múltiples factores (infraestructura, rodadura, suspensión, manipulación de tracción/freno y vagón vacío en cola), sin que ninguno constituyera por sí solo la causa última. No se establecieron recomendaciones.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2014-10-11",
+    "hora": "11:05",
+    "lugar": {
+     "tipo": "apartado",
+     "estacion": "Desertu-Barakaldo (apartadero de Sestao)",
+     "pk": "9+606",
+     "linea": "720 Abando Indalecio Prieto - Santurtzi",
+     "provincia": "Bizkaia",
+     "descripcion_lugar": "Vía 2 del apartadero de Sestao, estación Desertu-Barakaldo, tramo Desertu-Barakaldo - Santurtzi, municipio de Sestao. Final de curva de transición (clotoide) hacia curva a derecha de radio 276 m, en rampa de 7,21 milésimas según sentido de marcha."
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 11 de octubre de 2014 a las 11:05 horas el tren de mercancías CGX32 de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: vagón descarrilado perdió los dos ejes del segundo bogie; daños en tracción, suspensión y freno del vagón; daños en choque y tracción de dos vagones contiguos. Infraestructura: daños en carriles, balizas, desvíos, cruzamientos, contracarriles, balasto, traviesas, juntas encoladas, lazos de circuitos de vía, juntas aislantes, motor y timonerías de agujas",
+    "afectacion_servicio": "Vía 2 interrumpida de 11:05 (11/10) a 06:20 (12/10); ambas vías cortadas de 00:30 a 04:17 (12/10) con transporte por autobús; circulación mantenida por vía 1; supresión de 56 trenes de cercanías; 422 min de retraso en 55 trenes de cercanías; 312 min de retraso en el CGX32; no fue necesario plan alternativo de transporte (PAT) salvo el tramo en autobús"
+   },
+   "pagina": 6,
+   "cita": "Como consecuencia del descarrilamiento no se produjeron víctimas mortales ni heridos, pero sí",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Efecto sinérgico sobre la dinámica del vehículo de la suma de múltiples factores que por sí solos no constituyen causa última: infraestructura, estado de la rodadura, suspensión del vehículo, manipulación de tracción y freno por el maquinista, y el hecho de circular el vagón vacío y en último lugar de la composición",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Vagón descarrilado circulaba vacío y en cola de la composición (474 m, 1.127 t, 90 ejes)",
+    "Variación de peralte en punto 0 ligeramente fuera de tolerancia (11,4 mm vs ±10 mm)",
+    "Aplicación de freno de servicio y posterior reinicio de marcha en curva con rampa",
+    "Aceleración del tren con vagón descarrilado hasta 53 km/h antes de la detención",
+    "Maquinista no observó por espejo retrovisor la composición por longitud y curvas del trayecto"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Descarrilamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Tracción Rail",
+    "ADIF"
+   ],
+   "pagina": 5,
+   "cita": "Tracción Rail, procedente de Bilbao Mercancías y destino Valencia Fuente de San Luis, cuando",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2014-10-11",
+   "pagina": 5,
+   "cita": "El día 11 de octubre de 2014 a las 11:05 horas el tren de mercancías CGX32 de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "11:05",
+   "pagina": 5,
+   "cita": "El día 11 de octubre de 2014 a las 11:05 horas el tren de mercancías CGX32 de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "apartado",
+    "estacion": "Desertu-Barakaldo (apartadero de Sestao)",
+    "pk": "9+606",
+    "linea": "720 Abando Indalecio Prieto - Santurtzi",
+    "provincia": "Bizkaia",
+    "descripcion_lugar": "Vía 2 del apartadero de Sestao, estación Desertu-Barakaldo, tramo Desertu-Barakaldo - Santurtzi, municipio de Sestao. Final de curva de transición (clotoide) hacia curva a derecha de radio 276 m, en rampa de 7,21 milésimas según sentido de marcha."
+   },
+   "pagina": 13,
+   "cita": "corte de ambas vías para proceder al apartado del vagón descarrilado de la vía 2.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "720 Abando Indalecio Prieto a Santurtzi",
+   "pagina": 28,
+   "cita": "(estación Desertu-Barakaldo) en la vía 2 PK 9+606 de la línea 720 Abando Indalecio Prieto a Santurtzi.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora serie 333 (nº UIC 95710333384-6); vagones plataforma PMMC (tipo Sgs), bogies Y21 Lsdm, ejes tipo 76; vagón descarrilado: longitud 20.640 mm, peso 24.000 kg; construido en Eslovaquia; nº UIC 34714590129 (primera matrícula) / 837145420159 (actual)",
+    "averia": "Rueda derecha del segundo eje del primer bogie con rotura radial (llanta a cubo) y decalada; el laboratorio ETSII concluyó que la grieta fue producto del descarrilamiento y no su causa",
+    "mantenimiento": "Plan ER-4542-00 (EEM: ERMEWA; taller: GMF/COMSA SL, Constanti, Tarragona). Intervenciones: VS cada 5.000 km, RSI cada 8.500.000 TKBR, RS cada 6 años, R cada 12 años. Última R: 20/09/2009; última VS: 03/10/2014 (8 días antes). 26 intervenciones VS desde 2009. Vagón autorizado a circular. Plan de mantenimiento adecuado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de mercancías CGX32 de Tracción Rail, compuesto por una locomotora serie 333 y 18 vagones plataforma PMMC (propiedad de ERMEWA), procedente de Bilbao Mercancías con destino Valencia Fuente de San Luis, circulaba con normalidad. A las 11:02:45 el tren frenó entre las balizas previa y de señal E8 de Desertu-Barakaldo (indicación de ambas: anuncio de parada), quedando detenido a las 11:03:19 en el PK 9+596. Reinició la marcha a las 11:03:47. A las 11:05:22, circulando a 33 km/h, descarriló el segundo eje del primer bogie del último vagón (vacío) en el PK 9+606, en el apartadero de Sestao. Unos 6 metros después descarriló el primer eje del mismo bogie y 47 metros más adelante el primer eje del segundo bogie. El tren continuó acelerando hasta 53 km/h al pasar por Desertu-Barakaldo (11:06:25, PK 8+356), donde el jefe de circulación observó el vagón descarrilado y alertó al CTC de Bilbao Abando. El puesto de mando ordenó detención inmediata al maquinista. El tren se detuvo a las 11:09:33 en el PK 6+126 (locomotora), rebasando 24 m la baliza previa de la señal E2 de Zorrotza. El vagón había circulado descarrilado 3.006 metros, perdiendo los dos ejes del segundo bogie (caídos en PK 7+075 y 7+052) y causando daños en balizas, cruzamientos, desvíos y traviesas. No hubo víctimas. La inspección metalográfica de la rueda fisurada (ETSII Madrid) determinó que la rotura fue consecuencia del descarrilamiento, no su causa. Se descartó tanto fallo de infraestructura como defecto de material como causa última.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "apartado",
+    "estacion": "Desertu-Barakaldo (apartadero de Sestao)",
+    "pk": "9+606",
+    "linea": "720 Abando Indalecio Prieto - Santurtzi",
+    "provincia": "Bizkaia",
+    "descripcion_lugar": "Vía 2 del apartadero de Sestao, estación Desertu-Barakaldo, tramo Desertu-Barakaldo - Santurtzi, municipio de Sestao. Final de curva de transición (clotoide) hacia curva a derecha de radio 276 m, en rampa de 7,21 milésimas según sentido de marcha."
+   },
+   "pagina": 13,
+   "cita": "corte de ambas vías para proceder al apartado del vagón descarrilado de la vía 2.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: vagón descarrilado perdió los dos ejes del segundo bogie; daños en tracción, suspensión y freno del vagón; daños en choque y tracción de dos vagones contiguos. Infraestructura: daños en carriles, balizas, desvíos, cruzamientos, contracarriles, balasto, traviesas, juntas encoladas, lazos de circuitos de vía, juntas aislantes, motor y timonerías de agujas",
+    "afectacion_servicio": "Vía 2 interrumpida de 11:05 (11/10) a 06:20 (12/10); ambas vías cortadas de 00:30 a 04:17 (12/10) con transporte por autobús; circulación mantenida por vía 1; supresión de 56 trenes de cercanías; 422 min de retraso en 55 trenes de cercanías; 312 min de retraso en el CGX32; no fue necesario plan alternativo de transporte (PAT) salvo el tramo en autobús"
+   },
+   "pagina": 6,
+   "cita": "Como consecuencia del descarrilamiento no se produjeron víctimas mortales ni heridos, pero sí",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren CGX32 (Tracción Rail)",
+     "implicacion": "Conducía el tren; no observó por espejo retrovisor la composición por longitud y curvas; prueba de alcoholemia negativa a las 12:30; atribuyó el suceso al mal estado de la vía"
+    },
+    {
+     "rol": "Maquinista sin servicio en cabina (Tracción Rail)",
+     "implicacion": "Viajaba en la cabina; no percibió anomalía hasta el aviso del puesto de mando"
+    },
+    {
+     "rol": "Jefe de circulación Desertu-Barakaldo",
+     "implicacion": "Observó el vagón descarrilado al paso del tren; informó al CTC; revisó agujas 8, 5 y cambios 2-4 retirando balasto de resbaladeras"
+    },
+    {
+     "rol": "Jefe del CTC Bilbao Abando",
+     "implicacion": "Recibió la alerta y ordenó detención inmediata al maquinista"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "No se produjeron víctimas mortales ni heridos. \n\n## Página 14\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0064/2014 ocurrido el 11.10.2014 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n160628-141011-IF-CIAF \n \n \nPág. 14 de 31",
+   "pagina": 13,
+   "cita": "2.3.1. Viajeros, personal y terceros",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "CGX32",
+     "tipo": "tren de mercancías (tipo 100, vmax 100 km/h)",
+     "operador": "Tracción Rail",
+     "danos": "Vagón descarrilado (plataforma PMMC): perdió los dos ejes del segundo bogie; daños en subsistema de tracción, suspensión y freno. Dos vagones contiguos: daños en subsistema de choque y tracción."
+    }
+   ],
+   "pagina": 5,
+   "cita": "El día 11 de octubre de 2014 a las 11:05 horas el tren de mercancías CGX32 de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora serie 333 (nº UIC 95710333384-6); vagones plataforma PMMC (tipo Sgs), bogies Y21 Lsdm, ejes tipo 76; vagón descarrilado: longitud 20.640 mm, peso 24.000 kg; construido en Eslovaquia; nº UIC 34714590129 (primera matrícula) / 837145420159 (actual)",
+    "averia": "Rueda derecha del segundo eje del primer bogie con rotura radial (llanta a cubo) y decalada; el laboratorio ETSII concluyó que la grieta fue producto del descarrilamiento y no su causa",
+    "mantenimiento": "Plan ER-4542-00 (EEM: ERMEWA; taller: GMF/COMSA SL, Constanti, Tarragona). Intervenciones: VS cada 5.000 km, RSI cada 8.500.000 TKBR, RS cada 6 años, R cada 12 años. Última R: 20/09/2009; última VS: 03/10/2014 (8 días antes). 26 intervenciones VS desde 2009. Vagón autorizado a circular. Plan de mantenimiento adecuado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (BAB); señales E6, E8 (anuncio de parada), S2/2 (vía libre), E2 Zorrotza; CTC con puesto de mando en Bilbao Abando",
+    "tipo_via": "Vía doble electrificada, carriles 54 kg, traviesas hormigón monoblock",
+    "velocidad_maxima": "70 km/h (CVM); límite por libro horario en el punto: 70 km/h; tren circulaba a 33 km/h en el descarrilamiento",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Sobreancho y alabeo dentro de tolerancia; variación de peralte en punto 0: 11,4 mm (tolerancia ±10 mm, muy cercano al límite); desgastes de carriles en norma; traviesas sin anomalías; balasto con distribución correcta y sin contaminar. Se descarta fallo de infraestructura como causa última",
+    "otro": "Curva a derecha radio 276 m (final de clotoide); rampa 7,21 milésimas; media semanal de circulaciones del tramo: 695 (602 cercanías, 92 mercancías, 1 servicio); última auscultación geométrica: 30/09/2014; última nivelación con maquinaria: 12/11/2013; última vigilancia a pie: 11/08/2014; última vigilancia en cabina: 15/09/2014"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático banalizado (BAB); señales E6, E8 (anuncio de parada), S2/2 (vía libre), E2 Zorrotza; CTC con puesto de mando en Bilbao Abando",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía digital tren-tierra C.",
+   "pagina": 13,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: vagón descarrilado perdió los dos ejes del segundo bogie; daños en tracción, suspensión y freno del vagón; daños en choque y tracción de dos vagones contiguos. Infraestructura: daños en carriles, balizas, desvíos, cruzamientos, contracarriles, balasto, traviesas, juntas encoladas, lazos de circuitos de vía, juntas aislantes, motor y timonerías de agujas",
+    "afectacion_servicio": "Vía 2 interrumpida de 11:05 (11/10) a 06:20 (12/10); ambas vías cortadas de 00:30 a 04:17 (12/10) con transporte por autobús; circulación mantenida por vía 1; supresión de 56 trenes de cercanías; 422 min de retraso en 55 trenes de cercanías; 312 min de retraso en el CGX32; no fue necesario plan alternativo de transporte (PAT) salvo el tramo en autobús"
+   },
+   "pagina": 6,
+   "cita": "Como consecuencia del descarrilamiento no se produjeron víctimas mortales ni heridos, pero sí",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: vagón descarrilado perdió los dos ejes del segundo bogie; daños en tracción, suspensión y freno del vagón; daños en choque y tracción de dos vagones contiguos. Infraestructura: daños en carriles, balizas, desvíos, cruzamientos, contracarriles, balasto, traviesas, juntas encoladas, lazos de circuitos de vía, juntas aislantes, motor y timonerías de agujas",
+    "afectacion_servicio": "Vía 2 interrumpida de 11:05 (11/10) a 06:20 (12/10); ambas vías cortadas de 00:30 a 04:17 (12/10) con transporte por autobús; circulación mantenida por vía 1; supresión de 56 trenes de cercanías; 422 min de retraso en 55 trenes de cercanías; 312 min de retraso en el CGX32; no fue necesario plan alternativo de transporte (PAT) salvo el tramo en autobús"
+   },
+   "pagina": 6,
+   "cita": "Como consecuencia del descarrilamiento no se produjeron víctimas mortales ni heridos, pero sí",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: vagón descarrilado perdió los dos ejes del segundo bogie; daños en tracción, suspensión y freno del vagón; daños en choque y tracción de dos vagones contiguos. Infraestructura: daños en carriles, balizas, desvíos, cruzamientos, contracarriles, balasto, traviesas, juntas encoladas, lazos de circuitos de vía, juntas aislantes, motor y timonerías de agujas",
+    "afectacion_servicio": "Vía 2 interrumpida de 11:05 (11/10) a 06:20 (12/10); ambas vías cortadas de 00:30 a 04:17 (12/10) con transporte por autobús; circulación mantenida por vía 1; supresión de 56 trenes de cercanías; 422 min de retraso en 55 trenes de cercanías; 312 min de retraso en el CGX32; no fue necesario plan alternativo de transporte (PAT) salvo el tramo en autobús"
+   },
+   "pagina": 6,
+   "cita": "Como consecuencia del descarrilamiento no se produjeron víctimas mortales ni heridos, pero sí",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora serie 333 (nº UIC 95710333384-6); vagones plataforma PMMC (tipo Sgs), bogies Y21 Lsdm, ejes tipo 76; vagón descarrilado: longitud 20.640 mm, peso 24.000 kg; construido en Eslovaquia; nº UIC 34714590129 (primera matrícula) / 837145420159 (actual)",
+    "averia": "Rueda derecha del segundo eje del primer bogie con rotura radial (llanta a cubo) y decalada; el laboratorio ETSII concluyó que la grieta fue producto del descarrilamiento y no su causa",
+    "mantenimiento": "Plan ER-4542-00 (EEM: ERMEWA; taller: GMF/COMSA SL, Constanti, Tarragona). Intervenciones: VS cada 5.000 km, RSI cada 8.500.000 TKBR, RS cada 6 años, R cada 12 años. Última R: 20/09/2009; última VS: 03/10/2014 (8 días antes). 26 intervenciones VS desde 2009. Vagón autorizado a circular. Plan de mantenimiento adecuado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (BAB); señales E6, E8 (anuncio de parada), S2/2 (vía libre), E2 Zorrotza; CTC con puesto de mando en Bilbao Abando",
+    "tipo_via": "Vía doble electrificada, carriles 54 kg, traviesas hormigón monoblock",
+    "velocidad_maxima": "70 km/h (CVM); límite por libro horario en el punto: 70 km/h; tren circulaba a 33 km/h en el descarrilamiento",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Sobreancho y alabeo dentro de tolerancia; variación de peralte en punto 0: 11,4 mm (tolerancia ±10 mm, muy cercano al límite); desgastes de carriles en norma; traviesas sin anomalías; balasto con distribución correcta y sin contaminar. Se descarta fallo de infraestructura como causa última",
+    "otro": "Curva a derecha radio 276 m (final de clotoide); rampa 7,21 milésimas; media semanal de circulaciones del tramo: 695 (602 cercanías, 92 mercancías, 1 servicio); última auscultación geométrica: 30/09/2014; última nivelación con maquinaria: 12/11/2013; última vigilancia a pie: 11/08/2014; última vigilancia en cabina: 15/09/2014"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "De día, sin condiciones meteorológicas adversas",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": null,
+    "municipio": null,
+    "estacion": "Desertu-Barakaldo (Apartadero de Sestao)"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → multi"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "De día, sin condiciones meteorológicas adversas",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático banalizado (BAB); señales E6, E8 (anuncio de parada), S2/2 (vía libre), E2 Zorrotza; CTC con puesto de mando en Bilbao Abando",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (BAB); señales E6, E8 (anuncio de parada), S2/2 (vía libre), E2 Zorrotza; CTC con puesto de mando en Bilbao Abando",
+    "tipo_via": "Vía doble electrificada, carriles 54 kg, traviesas hormigón monoblock",
+    "velocidad_maxima": "70 km/h (CVM); límite por libro horario en el punto: 70 km/h; tren circulaba a 33 km/h en el descarrilamiento",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Sobreancho y alabeo dentro de tolerancia; variación de peralte en punto 0: 11,4 mm (tolerancia ±10 mm, muy cercano al límite); desgastes de carriles en norma; traviesas sin anomalías; balasto con distribución correcta y sin contaminar. Se descarta fallo de infraestructura como causa última",
+    "otro": "Curva a derecha radio 276 m (final de clotoide); rampa 7,21 milésimas; media semanal de circulaciones del tramo: 695 (602 cercanías, 92 mercancías, 1 servicio); última auscultación geométrica: 30/09/2014; última nivelación con maquinaria: 12/11/2013; última vigilancia a pie: 11/08/2014; última vigilancia en cabina: 15/09/2014"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía digital tren-tierra C.",
+   "pagina": 13,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora serie 333 (nº UIC 95710333384-6); vagones plataforma PMMC (tipo Sgs), bogies Y21 Lsdm, ejes tipo 76; vagón descarrilado: longitud 20.640 mm, peso 24.000 kg; construido en Eslovaquia; nº UIC 34714590129 (primera matrícula) / 837145420159 (actual)",
+    "averia": "Rueda derecha del segundo eje del primer bogie con rotura radial (llanta a cubo) y decalada; el laboratorio ETSII concluyó que la grieta fue producto del descarrilamiento y no su causa",
+    "mantenimiento": "Plan ER-4542-00 (EEM: ERMEWA; taller: GMF/COMSA SL, Constanti, Tarragona). Intervenciones: VS cada 5.000 km, RSI cada 8.500.000 TKBR, RS cada 6 años, R cada 12 años. Última R: 20/09/2009; última VS: 03/10/2014 (8 días antes). 26 intervenciones VS desde 2009. Vagón autorizado a circular. Plan de mantenimiento adecuado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": "El jefe de circulación de Desertu- Barakaldo al presenciar el paso del tren GSX32 por su estación observó \nque iba descarrilado del último vagón e inmediatamente informó al jefe del CTC de Bilbao Abando para \nque ordenara al maquinista detener el tren. Procedió a revisar las agujas 8 y 5 y los cambios 2 y 4 para \ncomprobar su correcto funcionamiento. Cortó la circulación por la vía 2 y se mantuvo en servicio la vía 1. \nEl jefe del CTC de Bilbao Abando se puso en contacto con el maquinista del tren CGX32 y le ordenó \nparada inmediata y reconocimiento del tren. \n3.6. \nINTERFAZ HOMBRE-MÁQUINA-ORGANIZACIÓN \nJornada laboral del maquinista del tren CGX32: \n- el día 11: 3 horas y 5 minutos (hasta el momento del accidente). \n- el día 10: descanso, \n- el día 9: descanso. \nAl maquinista, el día 11 de octubre a las 12:30 horas, en la estación de Barakaldo, se le realiza prueba \nde alcoholemia con resultado negativo. \n3.7. \nOTROS SUCESOS ANTERIORES DE CARÁCTER SIMILAR \nEsta Comisión no tiene conocimiento de sucesos de carácter similar en el lugar donde ha ocurrido el \naccidente. \n4. \nANÁLISIS Y CONCLUSIONES \n4.1. \nDESCRIPCIÓN DEFINITIVA DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar el día 11 de octubre de 2014 a las 11:05 horas, en el apartadero de Sestao \n(estación Desertu-Barakaldo) en la vía 2 PK 9+606 de la línea 720 Abando Indalecio Prieto a Santurtzi. \n\n## Página 29\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0064/2014 ocurrido el 11.10.2014 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n160628-141011-IF-CIAF \n \n \nPág. 29 de 31 \nEl tren de mercancías CGX32, de la empresa ferroviaria Tracción Rail compuesto por una locomotora \n333 y 18 vagones plataformas PMMC, con una longitud de 474 metros (incluida la locomotora) y 1.127 \ntoneladas de peso, procedía de Bilbao Mercancías, tenía como destino Valencia Fuente de San Luis y \nvenía circulando con normalidad. \nA las 11:05:22 horas el tren circulaba a 33 km/h, encontrándose la locomotora en el PK 9+132 a 12 \nmetros de la baliza de pie de la señal de entrada E6 a la estación de Desertu-Barakaldo, en ese \nmomento se produce el descarrilamiento del segundo eje del primer bogie del vagón que circulaba \nvacío en el último lugar de la composición, en el PK 9+606 (punto “0” del descarrilamiento) y que se \nencontraba a la altura del apartadero de Sestao. Seguidamente, unos 6 metros después descarrila el \nprimer eje del primer bogie, continúa circulando y unos 47 metros después se produce el \ndescarrilamiento del primer eje del segundo bogie perteneciente a este mismo vagón.  \nEl tren continúa la marcha circulando con el último vagón descarrilado y aumentando la velocidad \nhasta los 53 km/h, cuando realiza su paso a las 11:06:25 horas por la estación de Desertu-Barakaldo \n(PK 8+356). El jefe de circulación de esta dependencia, observa que el último vagón del tren circulaba \ndescarrilado e informa al jefe del CTC de Bilbao Abando. \nEl puesto de mando de Bilbao Abando se pone en comunicación con el maquinista del tren CGX32, \nordenándole la detención inmediata. A las 11:09:33 horas el tren se detiene en el PK 6+126 \n(locomotora), rebasando en 24 m la baliza previa de la señal de entrada E2 de la estación de Zorrotza.  \nEl último vagón del tren circuló descarrilado durante 3.006 metros hasta su detención en la entrada de \nla estación de Zorrotza. Durante estos tres kilómetros el vagón ocasionó daños en las balizas, \ncruzamientos, desvíos y traviesas llegando incluso a perder los dos ejes del segundo bogie del último \nvagón, quedando sobre la vía en el PK 7+075 (el primer eje del segundo bogie) y en el PK 7+052 (el \nsegundo eje del segundo bogie). \nComo consecuencia del descarrilamiento no se produjeron víctimas mortales ni heridos, pero sí daños \nmateriales en las instalaciones y en el propio material rodante. \n4.2. \nDELIBERACIÓN \nEl personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y \nreconocimiento médico y psicotécnico. \nLas instalaciones y los sistemas de seguridad del material móvil funcionaron correctamente. \nLa velocidad del tren era inferior a la velocidad máxima admitida. \nSe constata el descarrilamiento del último vagón de la composición que circulaba vacío. \nTras el accidente se realizaron medidas de los parámetros de rodadura del vagón descarrilado, no \nsiendo dichos valores fiables debido al mal estado de las ruedas tras el descarrilamiento. \n\n## Página 30\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0064/2014 ocurrido el 11.10.2014 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n160628-141011-IF-CIAF \n \n \nPág. 30 de 31 \nLa rueda derecha del segundo eje del primer bogie presentaba una rotura radial desde la llanta hasta \nel cubo y se encontraba decalada. De la conclusión del informe del laboratorio que analizó la rueda \nfisurada se desprende que la rotura y posterior decalaje de la misma fueron consecuencia del \ndescarrilamiento y no a la inversa. \nEl plan de mantenimiento del material se había realizado adecuadamente. \nTras el accidente se realizaron mediciones de los valores de los parámetros de vía, se inspeccionó el \nestado de los carriles, del balasto y de las traviesas en la zona del descarrilamiento y a la vista de los \nresultados obtenidos se descarta el fallo de la infraestructura como causa del descarrilamiento. \nLa última intervención de mantenimiento se realizó el 12.11.2013, siendo el último paso del tren \nauscultador el 30.09.2014, 11 días antes del accidente. \nMuy posiblemente la causa última del descarrilamiento es la suma de diferentes factores: \ninfraestructura, estado de la rodadura, suspensión del vehículo, manipulación de la tracción y del freno \npor parte del maquinista y el hecho de circular vacío y en último lugar el vagón descarrilado. Por sí \nsolos cada uno de los factores anteriormente mencionados no se les puede considerar como “c",
+   "pagina": 28,
+   "cita": "3.5.1. Medidas tomadas por el personal de circulación",
+   "origen": "determinista",
+   "regla": "sec:^medidas tomadas por el personal de circulaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Circular vagón vacío último lugar",
+    "Manipulación tracción y freno maquinista",
+    "Estado rodadura del vehículo",
+    "Suspensión del vehículo"
+   ],
+   "pagina": 30,
+   "cita": "infraestructura, estado de la rodadura, suspensión del vehículo, manipulación de la tracción y del freno",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren CGX32 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene una antigüedad en el cargo desde el 25.10.2007. \n\n## Página 17\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0064/2014 ocurrido el 11.10.2014 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n160628-141011-IF-CIAF \n \n \nPág. 17 de 31 \nTiene habilitación de la línea desde el 26.05.2009 y habilitación para el vehículo desde el 30.01.2008. \nRealizó su último reciclaje formativo el 22.01.2014 y su último reconocimiento médico y psicotécnico el \n19.11.2012, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 16,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de mercancías CGX32 de Tracción Rail, compuesto por una locomotora serie 333 y 18 vagones plataforma PMMC (propiedad de ERMEWA), procedente de Bilbao Mercancías con destino Valencia Fuente de San Luis, circulaba con normalidad. A las 11:02:45 el tren frenó entre las balizas previa y de señal E8 de Desertu-Barakaldo (indicación de ambas: anuncio de parada), quedando detenido a las 11:03:19 en el PK 9+596. Reinició la marcha a las 11:03:47. A las 11:05:22, circulando a 33 km/h, descarriló el segundo eje del primer bogie del último vagón (vacío) en el PK 9+606, en el apartadero de Sestao. Unos 6 metros después descarriló el primer eje del mismo bogie y 47 metros más adelante el primer eje del segundo bogie. El tren continuó acelerando hasta 53 km/h al pasar por Desertu-Barakaldo (11:06:25, PK 8+356), donde el jefe de circulación observó el vagón descarrilado y alertó al CTC de Bilbao Abando. El puesto de mando ordenó detención inmediata al maquinista. El tren se detuvo a las 11:09:33 en el PK 6+126 (locomotora), rebasando 24 m la baliza previa de la señal E2 de Zorrotza. El vagón había circulado descarrilado 3.006 metros, perdiendo los dos ejes del segundo bogie (caídos en PK 7+075 y 7+052) y causando daños en balizas, cruzamientos, desvíos y traviesas. No hubo víctimas. La inspección metalográfica de la rueda fisurada (ETSII Madrid) determinó que la rotura fue consecuencia del descarrilamiento, no su causa. Se descartó tanto fallo de infraestructura como defecto de material como causa última.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Efecto sinérgico sobre la dinámica del vehículo de la suma de múltiples factores que por sí solos no constituyen causa última: infraestructura, estado de la rodadura, suspensión del vehículo, manipulación de tracción y freno por el maquinista, y el hecho de circular el vagón vacío y en último lugar de la composición",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Vagón descarrilado circulaba vacío y en cola de la composición (474 m, 1.127 t, 90 ejes)",
+    "Variación de peralte en punto 0 ligeramente fuera de tolerancia (11,4 mm vs ±10 mm)",
+    "Aplicación de freno de servicio y posterior reinicio de marcha en curva con rampa",
+    "Aceleración del tren con vagón descarrilado hasta 53 km/h antes de la detención",
+    "Maquinista no observó por espejo retrovisor la composición por longitud y curvas del trayecto"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "10:50",
+     "evento": "El tren CGX32 sale de Bilbao Mercancías"
+    },
+    {
+     "hora": "11:02:45",
+     "evento": "Tren a 57 km/h entre baliza previa y señal E8 de Desertu-Barakaldo (anuncio de parada); se aplica freno de servicio"
+    },
+    {
+     "hora": "11:03:19",
+     "evento": "Tren detenido en PK 9+596, a 476 m de la baliza de pie de señal E6"
+    },
+    {
+     "hora": "11:03:47",
+     "evento": "El tren reinicia la marcha (28 s después de la parada)"
+    },
+    {
+     "hora": "11:05:22",
+     "evento": "Descarrilamiento del segundo eje del primer bogie del último vagón (vacío) en PK 9+606, a 33 km/h. Locomotora en PK 9+132"
+    },
+    {
+     "hora": "11:05:28 (aprox.)",
+     "evento": "A ~6 m del punto 0, descarrila el primer eje del primer bogie"
+    },
+    {
+     "hora": "11:05:35 (aprox.)",
+     "evento": "A ~47 m del punto 0, descarrila el primer eje del segundo bogie"
+    },
+    {
+     "hora": "11:06:25",
+     "evento": "Tren pasa por Desertu-Barakaldo (PK 8+356) a 53 km/h; jefe de circulación observa vagón descarrilado e informa al CTC"
+    },
+    {
+     "hora": "11:07 (aprox.)",
+     "evento": "CTC Bilbao Abando ordena detención inmediata al maquinista"
+    },
+    {
+     "hora": "11:09:33",
+     "evento": "Tren detenido en PK 6+126 (locomotora), rebasando 24 m la baliza previa de señal E2 de Zorrotza"
+    },
+    {
+     "hora": null,
+     "evento": "Pérdida del primer eje del segundo bogie en PK 7+075 y del segundo eje en PK 7+052 durante el recorrido descarrilado"
+    },
+    {
+     "hora": "11:05",
+     "evento": "Inicio de corte de circulación por vía 2"
+    },
+    {
+     "hora": "00:30 (12/10)",
+     "evento": "Corte de ambas vías para apartado del vagón descarrilado; inicio de transporte por autobús"
+    },
+    {
+     "hora": "04:17 (12/10)",
+     "evento": "Fin del corte de ambas vías; reanudación parcial"
+    },
+    {
+     "hora": "06:20 (12/10)",
+     "evento": "Reanudación de la circulación por vía 2"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0064/2014",
+ "expediente": "0064/14",
+ "anio": 2014,
+ "titulo": "Descarrilamiento de vagón vacío en apartadero de Sestao (Bilbao)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 11.10.2014 160628-141011-IF-CIAF.md"
+}

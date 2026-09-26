@@ -1,0 +1,957 @@
+{
+ "id": "IF-120112-250912-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/68EEB89B-08C3-4EE6-8A18-2F6EFAA17A39/113581/412.pdf",
+ "pdf": "pdfs/ES/IF-120112-250912-CIAF.pdf",
+ "md5_pdf": "f252358900b4929f2f61758fb6c1733f",
+ "paginas_md": 15,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 19,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Feve",
+     "Número": "04/12-1",
+     "Recomendación": "Insistir en el cumplimiento de la normativa al personal de conducción, especialmente el artículo 2.27.00 Capítulo II “Circulación de Trenes” del RCT."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 15,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Feve",
+     "Número": "04/12-1",
+     "Recomendación": "Insistir en el cumplimiento de la normativa al personal de conducción, especialmente el artículo 2.27.00 Capítulo II “Circulación de Trenes” del RCT."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0004/2012",
+   "pagina": 1,
+   "cita": "nº 0004/2012 ocurrido el 12.01.2012",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 12 de enero de 2012, a las 14:19, el tren regional 1301 de Feve rebasó indebidamente la señal de salida S1/2 en parada en la estación de San Claudio, Oviedo. Al hacerlo talonó la aguja A2, orientada para el tren de cercanías 3720, y se produjo una colisión frontal entre ambos trenes. El tren 3720 descarriló de los dos ejes del bogie trasero de su vehículo de cabeza. Resultaron heridos leves ocho viajeros y el maquinista del tren 3720. La investigación concluye que el origen fue el incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2012-01-12",
+    "hora": "14:19",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "San Claudio",
+     "pk": "5+265",
+     "linea": "12 Oviedo - San Esteban",
+     "provincia": "Asturias",
+     "descripcion_lugar": "Estación de San Claudio (Oviedo), en el tramo 71 Oviedo-Trubia. El accidente se produjo entre la señal de retroceso R2 y la aguja A2, lado Oviedo. La señal de salida S1/2 se encontraba en el PK 5+337 y protegía la aguja 2."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 12 de enero de 2012, a las 14:19 horas, en la estación de San Claudio (Oviedo), perteneciente a",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 9,
+    "danos_materiales": "Infraestructura: sustitución de dos bielas de cerrojo de uña y enderezamiento de espadines y timonería, valorados en 1.450,50 €. Material rodante: daños en acoplamientos y parte frontal de ambos trenes, valorados en 103.834,44 €.",
+    "afectacion_servicio": "Circulación interrumpida de 14:19 a 20:30 horas, 8 horas y 11 minutos; vía general interceptada por la unidad descarrilada sobre el cambio nº 2. A las 22:15 se puede circular por ambas vías y a las 04:15 del 13/01/2012 quedan reparadas las instalaciones. Se suprimen 11 trenes, 14 sufren supresiones parciales y 8 acumulan 1 hora y 51 minutos de retraso."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Rebase indebido por el tren 1301 de la señal de salida S1/2 en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Iniciar la marcha sin esperar el cruce grafiado con el tren 3720.",
+    "No comprobar la indicación de la señal S1/2.",
+    "No prestar la debida atención durante la conducción.",
+    "Error de percepción de la señal por parte del maquinista del tren 1301.",
+    "Talonamiento de la aguja A2, orientada para el itinerario del tren 3720."
+   ],
+   "pagina": 15,
+   "cita": "¾ Art. 2/10/00 al no comprobar la indicación de la señal S1/2.",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Insistir en el cumplimiento de la normativa al personal de conducción, especialmente el artículo 2.27.00 Capítulo II “Circulación de Trenes” del RCT.",
+    "Insistir en el cumplimiento de la normativa al personal de conducción, especialmente el artículo 2.27.00 Capítulo II “Circulación de Trenes” del RCT."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Feve",
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Colisión frontal y descarrilamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "la línea 12 Oviedo - San Esteban, el tren de viajeros 1301 de Feve rebasa indebidamente la señal de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2012-01-12",
+   "pagina": 3,
+   "cita": "El día 12 de enero de 2012, a las 14:19 horas, en la estación de San Claudio (Oviedo), perteneciente a",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "14:19",
+   "pagina": 3,
+   "cita": "El día 12 de enero de 2012, a las 14:19 horas, en la estación de San Claudio (Oviedo), perteneciente a",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "San Claudio",
+    "pk": "5+265",
+    "linea": "12 Oviedo - San Esteban",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Estación de San Claudio (Oviedo), en el tramo 71 Oviedo-Trubia. El accidente se produjo entre la señal de retroceso R2 y la aguja A2, lado Oviedo. La señal de salida S1/2 se encontraba en el PK 5+337 y protegía la aguja 2."
+   },
+   "pagina": 3,
+   "cita": "estacionado en el andén de la vía 2 de la estación de San Claudio. Tras realizar las operaciones",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 12 Oviedo - San Esteban (tramo 71 Oviedo-Trubia)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tren 1301: UTDH 2720 en cabeza y 2719 en cola; tren 3720: UTE 3628 en cabeza y 3627 en cola; ambos trenes tipo 80.",
+    "averia": "Funcionó correctamente; los registradores de eventos constatan parada, reanudación, activación de ASFA, frenado de emergencia y velocidades.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros regional 1301 de Feve, procedente de Ferrol y con destino Oviedo, realizó parada comercial en el andén de la vía 2 de la estación de San Claudio. Tras finalizar las operaciones, reanudó la marcha sin esperar el cruce grafiado con el tren de cercanías 3720 de Feve, sin percatarse de que la señal de salida S1/2 se encontraba en indicación de parada. El tren rebasó dicha señal y el sistema ASFA activó el freno de urgencia, produciéndose además el talonamiento de la aguja A2, que estaba orientada hacia vía 1 para el itinerario de entrada del tren 3720.\n\nEl tren 3720, procedente de Oviedo y con destino Trubia, había permanecido detenido ante la señal de entrada E2 en rojo y reanudó la marcha cuando la señal pasó a verde, encontrándose la vía ocupada por otra circulación. Ambos maquinistas aplicaron frenado de emergencia, pero se produjo una colisión frontal entre los trenes 1301 y 3720. Como consecuencia, el tren 3720 descarriló de los dos ejes del bogie trasero del vehículo que circulaba en cabeza. Resultaron heridos de carácter leve el maquinista del tren 3720 y ocho viajeros.",
+   "pagina": 3,
+   "cita": "Esteban, en la estación de San Claudio (Oviedo).",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "San Claudio",
+    "pk": "5+265",
+    "linea": "12 Oviedo - San Esteban",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Estación de San Claudio (Oviedo), en el tramo 71 Oviedo-Trubia. El accidente se produjo entre la señal de retroceso R2 y la aguja A2, lado Oviedo. La señal de salida S1/2 se encontraba en el PK 5+337 y protegía la aguja 2."
+   },
+   "pagina": 3,
+   "cita": "estacionado en el andén de la vía 2 de la estación de San Claudio. Tras realizar las operaciones",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 9,
+    "danos_materiales": "Infraestructura: sustitución de dos bielas de cerrojo de uña y enderezamiento de espadines y timonería, valorados en 1.450,50 €. Material rodante: daños en acoplamientos y parte frontal de ambos trenes, valorados en 103.834,44 €.",
+    "afectacion_servicio": "Circulación interrumpida de 14:19 a 20:30 horas, 8 horas y 11 minutos; vía general interceptada por la unidad descarrilada sobre el cambio nº 2. A las 22:15 se puede circular por ambas vías y a las 04:15 del 13/01/2012 quedan reparadas las instalaciones. Se suprimen 11 trenes, 14 sufren supresiones parciales y 8 acumulan 1 hora y 51 minutos de retraso."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 1301",
+     "implicacion": "Rebasó la señal S1/2 en parada, inició la marcha sin esperar el cruce grafiado y no comprobó la indicación de la señal; reconoció un error propio de percepción. Carné ferroviario 9477, antigüedad 3 años, habilitado, alcohol y drogas negativos."
+    },
+    {
+     "rol": "Maquinista del tren 3720",
+     "implicacion": "Esperó la señal E2 en rojo, reanudó la marcha cuando pasó a verde, aplicó freno de emergencia al encontrar la vía ocupada y resultó herido leve. Carné ferroviario 6033, antigüedad 24 años, habilitado."
+    }
+   ],
+   "pagina": 7,
+   "cita": "El maquinista del tren 1301, con carné ferroviario (CF) 9477.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "1301",
+     "tipo": "Tren regional de viajeros",
+     "operador": "Feve",
+     "danos": "Daños en acoplamientos y parte frontal; valoración conjunta de material rodante de ambos trenes: 103.834,44 €."
+    },
+    {
+     "numero": "3720",
+     "tipo": "Tren de viajeros de cercanías",
+     "operador": "Feve",
+     "danos": "Daños en acoplamientos y parte frontal; descarrilamiento de los dos ejes del bogie trasero del vehículo de cabeza; valoración conjunta de material rodante de ambos trenes: 103.834,44 €."
+    }
+   ],
+   "pagina": 3,
+   "cita": "la línea 12 Oviedo - San Esteban, el tren de viajeros 1301 de Feve rebasa indebidamente la señal de",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tren 1301: UTDH 2720 en cabeza y 2719 en cola; tren 3720: UTE 3628 en cabeza y 3627 en cola; ambos trenes tipo 80.",
+    "averia": "Funcionó correctamente; los registradores de eventos constatan parada, reanudación, activación de ASFA, frenado de emergencia y velocidades.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1/2 baja de cuatro focos, con baliza ASFA de pie de señal y buena visibilidad; señales E1, E'1, R1, E2 y R2; enclavamiento electrónico Dimetronic telemandado desde el CTC de El Berrón.",
+    "tipo_via": "Vía única electrificada.",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada.",
+    "estado_via": "Funcionó correctamente; la señal S1/2 se encontraba en rojo en todo momento y la aguja A2 estaba orientada hacia vía 1 para el itinerario del tren 3720.",
+    "otro": "Bloqueo automático (BAU) con control de tráfico centralizado (CTC). Tramo con 65 circulaciones diarias. Trazado del tren 1301 en curva derecha de radio 938 m y rampa de 4 milésimas; trazado del tren 3720 en curva izquierda de radio 938 m y pendiente de 13,8 milésimas."
+   },
+   "pagina": 8,
+   "cita": "El trayecto es de vía única electrificada. El bloqueo es automático (BAU) con control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de salida S1/2 baja de cuatro focos, con baliza ASFA de pie de señal y buena visibilidad; señales E1, E'1, R1, E2 y R2; enclavamiento electrónico Dimetronic telemandado desde el CTC de El Berrón.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía analógica y telefonía móvil GSM.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 9,
+    "danos_materiales": "Infraestructura: sustitución de dos bielas de cerrojo de uña y enderezamiento de espadines y timonería, valorados en 1.450,50 €. Material rodante: daños en acoplamientos y parte frontal de ambos trenes, valorados en 103.834,44 €.",
+    "afectacion_servicio": "Circulación interrumpida de 14:19 a 20:30 horas, 8 horas y 11 minutos; vía general interceptada por la unidad descarrilada sobre el cambio nº 2. A las 22:15 se puede circular por ambas vías y a las 04:15 del 13/01/2012 quedan reparadas las instalaciones. Se suprimen 11 trenes, 14 sufren supresiones parciales y 8 acumulan 1 hora y 51 minutos de retraso."
+   },
+   "pagina": 8,
+   "cita": "viajeros, 2 de mercancías y 7 de materiales vacíos, turísticos, etc.)",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 9,
+    "danos_materiales": "Infraestructura: sustitución de dos bielas de cerrojo de uña y enderezamiento de espadines y timonería, valorados en 1.450,50 €. Material rodante: daños en acoplamientos y parte frontal de ambos trenes, valorados en 103.834,44 €.",
+    "afectacion_servicio": "Circulación interrumpida de 14:19 a 20:30 horas, 8 horas y 11 minutos; vía general interceptada por la unidad descarrilada sobre el cambio nº 2. A las 22:15 se puede circular por ambas vías y a las 04:15 del 13/01/2012 quedan reparadas las instalaciones. Se suprimen 11 trenes, 14 sufren supresiones parciales y 8 acumulan 1 hora y 51 minutos de retraso."
+   },
+   "pagina": 9,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": null,
+    "heridos_graves": null,
+    "heridos_leves": 9,
+    "danos_materiales": "Infraestructura: sustitución de dos bielas de cerrojo de uña y enderezamiento de espadines y timonería, valorados en 1.450,50 €. Material rodante: daños en acoplamientos y parte frontal de ambos trenes, valorados en 103.834,44 €.",
+    "afectacion_servicio": "Circulación interrumpida de 14:19 a 20:30 horas, 8 horas y 11 minutos; vía general interceptada por la unidad descarrilada sobre el cambio nº 2. A las 22:15 se puede circular por ambas vías y a las 04:15 del 13/01/2012 quedan reparadas las instalaciones. Se suprimen 11 trenes, 14 sufren supresiones parciales y 8 acumulan 1 hora y 51 minutos de retraso."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 1301: UTDH 2720 en cabeza y 2719 en cola; tren 3720: UTE 3628 en cabeza y 3627 en cola; ambos trenes tipo 80.",
+    "averia": "Funcionó correctamente; los registradores de eventos constatan parada, reanudación, activación de ASFA, frenado de emergencia y velocidades.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1/2 baja de cuatro focos, con baliza ASFA de pie de señal y buena visibilidad; señales E1, E'1, R1, E2 y R2; enclavamiento electrónico Dimetronic telemandado desde el CTC de El Berrón.",
+    "tipo_via": "Vía única electrificada.",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada.",
+    "estado_via": "Funcionó correctamente; la señal S1/2 se encontraba en rojo en todo momento y la aguja A2 estaba orientada hacia vía 1 para el itinerario del tren 3720.",
+    "otro": "Bloqueo automático (BAU) con control de tráfico centralizado (CTC). Tramo con 65 circulaciones diarias. Trazado del tren 1301 en curva derecha de radio 938 m y rampa de 4 milésimas; trazado del tren 3720 en curva izquierda de radio 938 m y pendiente de 13,8 milésimas."
+   },
+   "pagina": 8,
+   "cita": "El trayecto es de vía única electrificada. El bloqueo es automático (BAU) con control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Nubes y claros sin lluvia.",
+   "pagina": 9,
+   "cita": "En el momento del suceso había nubes y claros sin lluvia.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Asturias",
+    "municipio": null,
+    "estacion": "San Claudio"
+   },
+   "pagina": 3,
+   "cita": "Asturias 2.1.2. Descripción del suceso Los hechos tuvieron lugar día 12 de enero de 2012 a las 14:19 horas, en la línea 12 Oviedo – San Esteban, en la estación de San Claudio (Oviedo). El tren de viajeros regional 1",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Nubes y claros sin lluvia.",
+   "pagina": 9,
+   "cita": "En el momento del suceso había nubes y claros sin lluvia.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de salida S1/2 baja de cuatro focos, con baliza ASFA de pie de señal y buena visibilidad; señales E1, E'1, R1, E2 y R2; enclavamiento electrónico Dimetronic telemandado desde el CTC de El Berrón.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1/2 baja de cuatro focos, con baliza ASFA de pie de señal y buena visibilidad; señales E1, E'1, R1, E2 y R2; enclavamiento electrónico Dimetronic telemandado desde el CTC de El Berrón.",
+    "tipo_via": "Vía única electrificada.",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada.",
+    "estado_via": "Funcionó correctamente; la señal S1/2 se encontraba en rojo en todo momento y la aguja A2 estaba orientada hacia vía 1 para el itinerario del tren 3720.",
+    "otro": "Bloqueo automático (BAU) con control de tráfico centralizado (CTC). Tramo con 65 circulaciones diarias. Trazado del tren 1301 en curva derecha de radio 938 m y rampa de 4 milésimas; trazado del tren 3720 en curva izquierda de radio 938 m y pendiente de 13,8 milésimas."
+   },
+   "pagina": 8,
+   "cita": "El trayecto es de vía única electrificada. El bloqueo es automático (BAU) con control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía analógica y telefonía móvil GSM.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 1301: UTDH 2720 en cabeza y 2719 en cola; tren 3720: UTE 3628 en cabeza y 3627 en cola; ambos trenes tipo 80.",
+    "averia": "Funcionó correctamente; los registradores de eventos constatan parada, reanudación, activación de ASFA, frenado de emergencia y velocidades.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Iniciar la marcha sin esperar el cruce grafiado con el tren 3720.",
+    "No comprobar la indicación de la señal S1/2.",
+    "No prestar la debida atención durante la conducción.",
+    "Error de percepción de la señal por parte del maquinista del tren 1301.",
+    "Talonamiento de la aguja A2, orientada para el itinerario del tren 3720."
+   ],
+   "pagina": 15,
+   "cita": "¾ Art. 2/10/00 al no comprobar la indicación de la señal S1/2.",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 1301 se encuentra habilitado para la conducción de vehículos ferroviarios en \nvirtud de la capacitación adquirida de conformidad con el estatuto propio y la normativa legal aplicable \na Feve. \nÉste tiene una antigüedad en el cargo de 3 años. \nRealizó su último reciclaje formativo el 19/11/2010 y su último reconocimiento médico y psicotécnico el \n01/12/2010, conforme a la normativa vigente establecida por Feve.  \nEl maquinista del tren 3720 se encuentra habilitado para la conducción de vehículos ferroviarios en \nvirtud de la capacitación adquirida de conformidad con el estatuto propio y la normativa legal aplicable \na Feve. \nÉste tiene una antigüedad en el cargo de 24 años. \nRealizó su último reciclaje formativo el 12/11/2010 y su último reconocimiento médico y psicotécnico el \n04/11/2011, conforme a la normativa vigente establecida por Feve.  \n\n## Página 11\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0004/2012 ocurrido el 12.01.2012 \nInforme final  \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n \nIF-120112-250912-CIAF \n \n \nPág. 11 de 15\n3.3. \nNORMATIVA",
+   "pagina": 10,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros regional 1301 de Feve, procedente de Ferrol y con destino Oviedo, realizó parada comercial en el andén de la vía 2 de la estación de San Claudio. Tras finalizar las operaciones, reanudó la marcha sin esperar el cruce grafiado con el tren de cercanías 3720 de Feve, sin percatarse de que la señal de salida S1/2 se encontraba en indicación de parada. El tren rebasó dicha señal y el sistema ASFA activó el freno de urgencia, produciéndose además el talonamiento de la aguja A2, que estaba orientada hacia vía 1 para el itinerario de entrada del tren 3720.\n\nEl tren 3720, procedente de Oviedo y con destino Trubia, había permanecido detenido ante la señal de entrada E2 en rojo y reanudó la marcha cuando la señal pasó a verde, encontrándose la vía ocupada por otra circulación. Ambos maquinistas aplicaron frenado de emergencia, pero se produjo una colisión frontal entre los trenes 1301 y 3720. Como consecuencia, el tren 3720 descarriló de los dos ejes del bogie trasero del vehículo que circulaba en cabeza. Resultaron heridos de carácter leve el maquinista del tren 3720 y ocho viajeros.",
+   "pagina": 3,
+   "cita": "Esteban, en la estación de San Claudio (Oviedo).",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Rebase indebido por el tren 1301 de la señal de salida S1/2 en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Iniciar la marcha sin esperar el cruce grafiado con el tren 3720.",
+    "No comprobar la indicación de la señal S1/2.",
+    "No prestar la debida atención durante la conducción.",
+    "Error de percepción de la señal por parte del maquinista del tren 1301.",
+    "Talonamiento de la aguja A2, orientada para el itinerario del tren 3720."
+   ],
+   "pagina": 15,
+   "cita": "¾ Art. 2/10/00 al no comprobar la indicación de la señal S1/2.",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Insistir en el cumplimiento de la normativa al personal de conducción, especialmente el artículo 2.27.00 Capítulo II “Circulación de Trenes” del RCT.",
+    "Insistir en el cumplimiento de la normativa al personal de conducción, especialmente el artículo 2.27.00 Capítulo II “Circulación de Trenes” del RCT."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Feve",
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "14:17",
+     "evento": "El tren 3720 queda detenido ante la señal de entrada E2 en indicación de parada."
+    },
+    {
+     "hora": "14:18",
+     "evento": "El tren 1301 realiza parada comercial en el andén de la vía 2 de la estación de San Claudio a las 14:18:53."
+    },
+    {
+     "hora": "14:19",
+     "evento": "El tren 1301 reanuda la marcha a las 14:19:11 sin esperar el cruce grafiado con el tren 3720."
+    },
+    {
+     "hora": "14:19",
+     "evento": "El tren 3720 reanuda la marcha tras establecerse el itinerario de entrada; el informe indica 14:19:12 y los registros del tren 14:19:21."
+    },
+    {
+     "hora": "14:19",
+     "evento": "El tren 1301 rebasa la señal S1/2 en parada a 43 km/h y se activa el freno de urgencia por ASFA a las 14:19:31."
+    },
+    {
+     "hora": "14:19",
+     "evento": "El tren 3720 aplica freno de emergencia a 44 km/h a las 14:19:35."
+    },
+    {
+     "hora": "14:19",
+     "evento": "Colisión frontal en el PK 5+265 a las 14:19:46, entre R2 y la aguja A2, a 8 km/h el tren 1301 y 26 km/h el tren 3720; descarrilan los dos ejes del bogie trasero de cabeza del tren 3720."
+    },
+    {
+     "hora": "16:01",
+     "evento": "El director gerente de gestión de capacidad y seguridad en la circulación de Feve comunica el suceso a la CIAF."
+    },
+    {
+     "hora": "20:30",
+     "evento": "Finaliza la interrupción de circulación iniciada a las 14:19."
+    },
+    {
+     "hora": "22:15",
+     "evento": "Se puede circular por ambas vías."
+    },
+    {
+     "hora": "04:15",
+     "evento": "El 13 de enero de 2012 quedan totalmente reparadas las instalaciones."
+    },
+    {
+     "hora": null,
+     "evento": "El 31 de enero de 2012 el Pleno de la CIAF acuerda abrir la investigación."
+    },
+    {
+     "hora": null,
+     "evento": "El 2 de abril de 2012 el director gerente de Feve entrega su informe particular."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0004/2012",
+ "expediente": "04/012",
+ "anio": 2012,
+ "titulo": "Colisión frontal y descarrilamiento por rebase de señal en la estación de San Claudio (Oviedo)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-120112-250912-CIAF.md"
+}

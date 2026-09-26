@@ -1,0 +1,936 @@
+{
+ "id": "IF-170409-221209-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/6EE7ACE4-D13E-4E5E-B34E-E71E4A8CC07B/68857/IF170409221209CIAF.pdf",
+ "pdf": "pdfs/ES/IF-170409-221209-CIAF.pdf",
+ "md5_pdf": "e34b6445da1fbc28faa6c23ded4ec5ab",
+ "paginas_md": 11,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 19,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Renfe- Operadora",
+     "Número": "22/09-1",
+     "Recomendación": "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 11,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Renfe- Operadora",
+     "Número": "22/09-1",
+     "Recomendación": "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0022/2009",
+   "pagina": 1,
+   "cita": "nº 0022/2009 ocurrido el 17.04.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2009-04-17, a las 18:40, el tren de cercanías 22126 de Renfe-Operadora rebasó la señal de entrada 4S de la estación de El Caleyo, que estaba en indicación de parada, y colisionó frontalmente con el tren 22347. El accidente se produjo en el P.K. 134+961, sobre el cambio 2B, y solo causó daños materiales en las partes frontales de ambos trenes. La causa fue el incumplimiento de las órdenes dadas por las señales por el personal de conducción del tren 22126.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-04-17",
+    "hora": "18:40",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "El Caleyo",
+     "pk": "134+961",
+     "linea": "130 Gijón Cercanías – Venta de Baños",
+     "provincia": "Asturias",
+     "descripcion_lugar": "P.K. 134+961, a la entrada de la estación de El Caleyo, lado Oviedo, sobre el cambio 2B, tramo Soto del Rey - Llamaquique."
+    }
+   },
+   "pagina": 9,
+   "cita": "Caleyo, lado Oviedo, a las 18:40 horas del día 17/4/2009.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños materiales en la parte frontal de ambos trenes: capota de enganche y conjunto de elevación neumática en el automotor 463010-9; capota de enganche, conjunto de elevación neumático y carenado en el automotor 463007-5. El pulsador de emergencia de la radiotelefonía del tren 22126 quedó con funcionamiento incorrecto tras la colisión.",
+    "afectacion_servicio": "El tren 22126 quedó suprimido entre Pola de Lena y Gijón; no hubo interceptación de la vía."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Rebase de la señal de entrada 4S de la estación de El Caleyo, que presentaba indicación de parada (rojo), por incumplimiento de las órdenes dadas por las señales al personal de conducción del tren 22126.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No iniciar una reducción inmediata de velocidad desde la baliza previa de la señal avanzada, incumpliendo la Carta Circular de Reglamentación Nº 11, de 2007-07-06.",
+    "Paso por las balizas previa y de pie de señal de la avanzada a 108 km/h y 119 km/h, respectivamente, por continuar aplicando tracción y existir pendiente.",
+    "Paso por la baliza previa de la señal de entrada a 102 km/h, velocidad mayor de 60 km/h, incumpliendo el artículo 221 del RGC.",
+    "Rebase de la señal de entrada y avance de 60 metros, incumpliendo el artículo 217 del RGC.",
+    "Despiste del maquinista del tren 22126, según su propia declaración."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción.",
+    "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe- Operadora",
+    "Renfe- Operadora"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Colisión frontal",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe-Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "El día 17 de abril de 2009 el tren de viajeros de cercanías 22126, de Renfe-Operadora, detiene su",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-04-17",
+   "pagina": 9,
+   "cita": "Caleyo, lado Oviedo, a las 18:40 horas del día 17/4/2009.",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "18:40",
+   "pagina": 3,
+   "cita": "17.04.09/ 18:40 Lugar: P.K. 134+961, a la entrada de la estación de El Caleyo Línea: 130 Gijón Cercanías – Venta de Baños Tramo: Soto del Rey - Llamaquique Municipio: El Caleyo Provincia: Asturias El dí",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "El Caleyo",
+    "pk": "134+961",
+    "linea": "130 Gijón Cercanías – Venta de Baños",
+    "provincia": "Asturias",
+    "descripcion_lugar": "P.K. 134+961, a la entrada de la estación de El Caleyo, lado Oviedo, sobre el cambio 2B, tramo Soto del Rey - Llamaquique."
+   },
+   "pagina": 3,
+   "cita": "marcha en el P.K. 134+961 de la estación de El Caleyo, tras haber rebasado indebidamente la señal",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 130 Gijón Cercanías – Venta de Baños",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tren 22126: automotor 463010-9, 3 coches, masa remolcada 154 toneladas, Nº UIC 967194630109. Tren 22347: automotor 463007-5, 3 coches, masa remolcada 154 toneladas, Nº UIC 967194630075.",
+    "averia": "Pulsador de emergencia del equipo de radiotelefonía de cabina A2, correspondiente al vehículo 463510-8 del automotor 463010-9, presentó funcionamiento incorrecto tras la colisión; los equipos de seguridad (freno, ASFA) funcionaron correctamente.",
+    "mantenimiento": "La deficiencia en el pulsador de emergencia del equipo de radiotelefonía fue reparada en fechas posteriores al accidente."
+   },
+   "pagina": 8,
+   "cita": "El pulsador de emergencia del equipo de radiotelefonía de cabina A2 correspondiente al vehículo",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 2009-04-17, el tren de viajeros de cercanías 22126, con origen en Gijón Cercanías y destino en Puente de los Fierros, sin parada prescrita en El Caleyo, circulaba por vía II desde Oviedo. Su maquinista encontró la señal avanzada 1366/II en indicación de anuncio de parada, redujo tarde la velocidad y pasó las balizas previas a la señal de entrada a velocidades superiores a las permitidas; al llegar a la baliza previa de la señal 4S se activó el frenado de urgencia ASFA.\n\nA pesar de ello, el tren 22126 actuó sobre la urgencia y, al ver que no se detenía, efectuó señales con el faro al tren que salía de la vía IV; rebasó la señal de entrada 4S, situada en indicación de parada (rojo), avanzó unos 60 metros y colisionó frontalmente a 3 km/h con el tren de cercanías 22347, que salía de la vía 4 hacia la vía 1 con dirección Oviedo y con la señal de salida en anuncio de parada. El tren 22347 circulaba a 28 km/h cuando su maquinista aplicó la urgencia al ver aproximarse al otro tren y detuvo su marcha antes del impacto.\n\nLa colisión causó daños materiales en la parte frontal de ambos automotores. Tras el suceso, el maquinista del 22126 retrocedió por iniciativa propia hasta delante de la señal 4S y comunicó el accidente al CTC de Oviedo mediante teléfono móvil de empresa, por una deficiencia del pulsador de emergencia de la radiotelefonía. El maquinista del 22347 reanudó la marcha y no informó al puesto de mando, según su propia declaración.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "El Caleyo",
+    "pk": "134+961",
+    "linea": "130 Gijón Cercanías – Venta de Baños",
+    "provincia": "Asturias",
+    "descripcion_lugar": "P.K. 134+961, a la entrada de la estación de El Caleyo, lado Oviedo, sobre el cambio 2B, tramo Soto del Rey - Llamaquique."
+   },
+   "pagina": 3,
+   "cita": "marcha en el P.K. 134+961 de la estación de El Caleyo, tras haber rebasado indebidamente la señal",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños materiales en la parte frontal de ambos trenes: capota de enganche y conjunto de elevación neumática en el automotor 463010-9; capota de enganche, conjunto de elevación neumático y carenado en el automotor 463007-5. El pulsador de emergencia de la radiotelefonía del tren 22126 quedó con funcionamiento incorrecto tras la colisión.",
+    "afectacion_servicio": "El tren 22126 quedó suprimido entre Pola de Lena y Gijón; no hubo interceptación de la vía."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Por parte de Renfe Operadora \nSuspensión de la habilitación de conducción al maquinista del tren 22126. \nLa deficiencia en el pulsador de emergencia del equipo de radiotelefonía de la cabina del tren \ncausante del accidente fue reparada en fechas posteriores al accidente.",
+   "pagina": 11,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 22126",
+     "implicacion": "Matrícula 8848020. Habilitado; último reciclaje formativo 2009-02-25; reconocimiento médico y psicotécnico 2006-05-08; prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada del día 2009-04-17: 4 horas y 45 minutos (conducción: 2 horas y 46 minutos). Rebasó la señal de entrada 4S en indicación de parada; declaró despiste; incumplió normas de reducción de velocidad y de circulación; tras la colisión retrocedió por iniciativa propia y comunicó el suceso. Renfe Operadora suspendió su habilitación de conducción."
+    },
+    {
+     "rol": "Maquinista del tren 22347",
+     "implicacion": "Matrícula 9713512. Habilitado; último reciclaje formativo 2009-02-20; reconocimiento médico y psicotécnico 2005-02-03. Jornada del día 2009-04-17: 5 horas y 7 minutos (conducción: 1 horas y 45 minutos). Aplicó parada de emergencia al percatarse del rebase del tren 22126; tras la colisión reanudó la marcha y no informó al puesto de mando, según su propia declaración."
+    }
+   ],
+   "pagina": 7,
+   "cita": " Maquinista del tren 22126.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "22126",
+     "tipo": "tren de viajeros de cercanías",
+     "operador": "Renfe-Operadora",
+     "danos": "Daños materiales en la parte frontal: capota de enganche y conjunto de elevación neumática del automotor 463010-9."
+    },
+    {
+     "numero": "22347",
+     "tipo": "tren de viajeros de cercanías",
+     "operador": "Renfe-Operadora",
+     "danos": "Daños materiales en la parte frontal: capota de enganche, conjunto de elevación neumático y carenado del automotor 463007-5."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 17 de abril de 2009 el tren de viajeros de cercanías 22126, de Renfe-Operadora, detiene su",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tren 22126: automotor 463010-9, 3 coches, masa remolcada 154 toneladas, Nº UIC 967194630109. Tren 22347: automotor 463007-5, 3 coches, masa remolcada 154 toneladas, Nº UIC 967194630075.",
+    "averia": "Pulsador de emergencia del equipo de radiotelefonía de cabina A2, correspondiente al vehículo 463510-8 del automotor 463010-9, presentó funcionamiento incorrecto tras la colisión; los equipos de seguridad (freno, ASFA) funcionaron correctamente.",
+    "mantenimiento": "La deficiencia en el pulsador de emergencia del equipo de radiotelefonía fue reparada en fechas posteriores al accidente."
+   },
+   "pagina": 8,
+   "cita": "El pulsador de emergencia del equipo de radiotelefonía de cabina A2 correspondiente al vehículo",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada 4S (lado Oviedo) en indicación de parada (rojo); señal avanzada 1366/II en anuncio de parada; balizas ASFA previa y de pie de señal; señal de salida del tren 22347 en anuncio de parada.",
+    "tipo_via": "Vía doble electrificada con bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC) en Oviedo.",
+    "velocidad_maxima": "60 km/h (velocidad permitida en la baliza previa de la señal de entrada)",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "La señal de entrada 4S se encontraba en una recta de 595 metros y en pendiente de 15,5 milésimas, con buena visibilidad. Radiotelefonía modalidad A. La colisión se produjo sobre el cambio 2B, sin talonarlo. El tramo Soto del Rey - Llamaquique tenía una media semanal de 858 circulaciones, considerada alta."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de entrada 4S (lado Oviedo) en indicación de parada (rojo); señal avanzada 1366/II en anuncio de parada; balizas ASFA previa y de pie de señal; señal de salida del tren 22347 en anuncio de parada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños materiales en la parte frontal de ambos trenes: capota de enganche y conjunto de elevación neumática en el automotor 463010-9; capota de enganche, conjunto de elevación neumático y carenado en el automotor 463007-5. El pulsador de emergencia de la radiotelefonía del tren 22126 quedó con funcionamiento incorrecto tras la colisión.",
+    "afectacion_servicio": "El tren 22126 quedó suprimido entre Pola de Lena y Gijón; no hubo interceptación de la vía."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños materiales en la parte frontal de ambos trenes: capota de enganche y conjunto de elevación neumática en el automotor 463010-9; capota de enganche, conjunto de elevación neumático y carenado en el automotor 463007-5. El pulsador de emergencia de la radiotelefonía del tren 22126 quedó con funcionamiento incorrecto tras la colisión.",
+    "afectacion_servicio": "El tren 22126 quedó suprimido entre Pola de Lena y Gijón; no hubo interceptación de la vía."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños materiales en la parte frontal de ambos trenes: capota de enganche y conjunto de elevación neumática en el automotor 463010-9; capota de enganche, conjunto de elevación neumático y carenado en el automotor 463007-5. El pulsador de emergencia de la radiotelefonía del tren 22126 quedó con funcionamiento incorrecto tras la colisión.",
+    "afectacion_servicio": "El tren 22126 quedó suprimido entre Pola de Lena y Gijón; no hubo interceptación de la vía."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 22126: automotor 463010-9, 3 coches, masa remolcada 154 toneladas, Nº UIC 967194630109. Tren 22347: automotor 463007-5, 3 coches, masa remolcada 154 toneladas, Nº UIC 967194630075.",
+    "averia": "Pulsador de emergencia del equipo de radiotelefonía de cabina A2, correspondiente al vehículo 463510-8 del automotor 463010-9, presentó funcionamiento incorrecto tras la colisión; los equipos de seguridad (freno, ASFA) funcionaron correctamente.",
+    "mantenimiento": "La deficiencia en el pulsador de emergencia del equipo de radiotelefonía fue reparada en fechas posteriores al accidente."
+   },
+   "pagina": 8,
+   "cita": "El pulsador de emergencia del equipo de radiotelefonía de cabina A2 correspondiente al vehículo",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada 4S (lado Oviedo) en indicación de parada (rojo); señal avanzada 1366/II en anuncio de parada; balizas ASFA previa y de pie de señal; señal de salida del tren 22347 en anuncio de parada.",
+    "tipo_via": "Vía doble electrificada con bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC) en Oviedo.",
+    "velocidad_maxima": "60 km/h (velocidad permitida en la baliza previa de la señal de entrada)",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "La señal de entrada 4S se encontraba en una recta de 595 metros y en pendiente de 15,5 milésimas, con buena visibilidad. Radiotelefonía modalidad A. La colisión se produjo sobre el cambio 2B, sin talonarlo. El tramo Soto del Rey - Llamaquique tenía una media semanal de 858 circulaciones, considerada alta."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Asturias",
+    "municipio": null,
+    "estacion": "El Caleyo"
+   },
+   "pagina": 3,
+   "cita": "Asturias El día 17 de abril de 2009, el tren de viajeros de cercanías 22126, con origen Gijón Cercanías y destino Puente de los Fierros, que no tenía parada prescrita en la estación de El Caleyo, detiene su marcha en",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de entrada 4S (lado Oviedo) en indicación de parada (rojo); señal avanzada 1366/II en anuncio de parada; balizas ASFA previa y de pie de señal; señal de salida del tren 22347 en anuncio de parada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada 4S (lado Oviedo) en indicación de parada (rojo); señal avanzada 1366/II en anuncio de parada; balizas ASFA previa y de pie de señal; señal de salida del tren 22347 en anuncio de parada.",
+    "tipo_via": "Vía doble electrificada con bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC) en Oviedo.",
+    "velocidad_maxima": "60 km/h (velocidad permitida en la baliza previa de la señal de entrada)",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "La señal de entrada 4S se encontraba en una recta de 595 metros y en pendiente de 15,5 milésimas, con buena visibilidad. Radiotelefonía modalidad A. La colisión se produjo sobre el cambio 2B, sin talonarlo. El tramo Soto del Rey - Llamaquique tenía una media semanal de 858 circulaciones, considerada alta."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 22126: automotor 463010-9, 3 coches, masa remolcada 154 toneladas, Nº UIC 967194630109. Tren 22347: automotor 463007-5, 3 coches, masa remolcada 154 toneladas, Nº UIC 967194630075.",
+    "averia": "Pulsador de emergencia del equipo de radiotelefonía de cabina A2, correspondiente al vehículo 463510-8 del automotor 463010-9, presentó funcionamiento incorrecto tras la colisión; los equipos de seguridad (freno, ASFA) funcionaron correctamente.",
+    "mantenimiento": "La deficiencia en el pulsador de emergencia del equipo de radiotelefonía fue reparada en fechas posteriores al accidente."
+   },
+   "pagina": 8,
+   "cita": "El pulsador de emergencia del equipo de radiotelefonía de cabina A2 correspondiente al vehículo",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "No iniciar una reducción inmediata de velocidad desde la baliza previa de la señal avanzada, incumpliendo la Carta Circular de Reglamentación Nº 11, de 2007-07-06.",
+    "Paso por las balizas previa y de pie de señal de la avanzada a 108 km/h y 119 km/h, respectivamente, por continuar aplicando tracción y existir pendiente.",
+    "Paso por la baliza previa de la señal de entrada a 102 km/h, velocidad mayor de 60 km/h, incumpliendo el artículo 221 del RGC.",
+    "Rebase de la señal de entrada y avance de 60 metros, incumpliendo el artículo 217 del RGC.",
+    "Despiste del maquinista del tren 22126, según su propia declaración."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "Jornada de trabajo del maquinista del tren 22126: \n-el día 17: 4 horas y 45 minutos (horas de conducción: 2 horas y 46 minutos). \n-el día 16: 8 horas y 0 minutos (horas de conducción: 4 horas y 0 minutos). \n-el día 15: 6 horas y 57 minutos (horas de conducción: 3 horas y 46 minutos). \nAl maquinista, el día del accidente, se le realiza la prueba de alcoholemia en aire espirado dando \nresultado negativo (0,00 mg/1000 ml). \nJornada de trabajo del maquinista del tren 22347: \n- el día 17: 5 horas y 7 minutos (horas de conducción: 1 horas y 45 minutos). \n- el día 16: 7 horas y 51 minutos (horas de conducción: 4 horas y 24 minutos). \n- el día 15: descanso/vacaciones. \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0022/2009 ocurrido el 17.04.2009 \nSUBSECRETARIA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-170409-221209-CIAF \n \n \nPág. 9 de 11",
+   "pagina": 8,
+   "cita": "3.5 INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Jornada de trabajo del maquinista del tren 22126: \n-el día 17: 4 horas y 45 minutos (horas de conducción: 2 horas y 46 minutos). \n-el día 16: 8 horas y 0 minutos (horas de conducción: 4 horas y 0 minutos). \n-el día 15: 6 horas y 57 minutos (horas de conducción: 3 horas y 46 minutos). \nAl maquinista, el día del accidente, se le realiza la prueba de alcoholemia en aire espirado dando \nresultado negativo (0,00 mg/1000 ml). \nJornada de trabajo del maquinista del tren 22347: \n- el día 17: 5 horas y 7 minutos (horas de conducción: 1 horas y 45 minutos). \n- el día 16: 7 horas y 51 minutos (horas de conducción: 4 horas y 24 minutos). \n- el día 15: descanso/vacaciones. \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0022/2009 ocurrido el 17.04.2009 \nSUBSECRETARIA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-170409-221209-CIAF \n \n \nPág. 9 de 11",
+   "pagina": 8,
+   "cita": "3.5 INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 2009-04-17, el tren de viajeros de cercanías 22126, con origen en Gijón Cercanías y destino en Puente de los Fierros, sin parada prescrita en El Caleyo, circulaba por vía II desde Oviedo. Su maquinista encontró la señal avanzada 1366/II en indicación de anuncio de parada, redujo tarde la velocidad y pasó las balizas previas a la señal de entrada a velocidades superiores a las permitidas; al llegar a la baliza previa de la señal 4S se activó el frenado de urgencia ASFA.\n\nA pesar de ello, el tren 22126 actuó sobre la urgencia y, al ver que no se detenía, efectuó señales con el faro al tren que salía de la vía IV; rebasó la señal de entrada 4S, situada en indicación de parada (rojo), avanzó unos 60 metros y colisionó frontalmente a 3 km/h con el tren de cercanías 22347, que salía de la vía 4 hacia la vía 1 con dirección Oviedo y con la señal de salida en anuncio de parada. El tren 22347 circulaba a 28 km/h cuando su maquinista aplicó la urgencia al ver aproximarse al otro tren y detuvo su marcha antes del impacto.\n\nLa colisión causó daños materiales en la parte frontal de ambos automotores. Tras el suceso, el maquinista del 22126 retrocedió por iniciativa propia hasta delante de la señal 4S y comunicó el accidente al CTC de Oviedo mediante teléfono móvil de empresa, por una deficiencia del pulsador de emergencia de la radiotelefonía. El maquinista del 22347 reanudó la marcha y no informó al puesto de mando, según su propia declaración.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar en el P.K. 134+961de la línea Venta de Baños-Gijón, en la estación de El \nCaleyo, lado Oviedo, a las 18:40 horas del día 17/4/2009. \nEl maquinista del tren 22126 procedente de Oviedo, que circula por vía II, se considera que \nacciona el pulsador de Asfa reconociendo la indicación en L1 de las balizas previa (P.K. 137+059) y de \npie de señal (P.K. 136+694) de la señal de avanzada, si no fuese así se  habría producido frenado de \nemergencia por el sistema ASFA. El paso por las balizas lo hace a 108 km/h y 119 km/h, \nrespectivamente, por continuar aplicando tracción y existir pendiente. \nDesde la baliza de pie de señal de la señal de avanzada (P.K. 136+694) hasta las proximidades de \nla baliza previa de la señal de entrada recorre 844m, reduciendo tan solo la velocidad a 117 Km/h, por \ncontinuar aplicando tracción y existir pendiente. \nDesde ese punto y hasta el paso por la baliza previa de la señal de entrada (P.K. 135+376) recorre \n474 m, y reduce la velocidad hasta 102 Km/h, por quitar tracción y aplicar freno. A su paso por esta \nbaliza previa se realiza control de velocidad (L7), debido a que la señal de entrada estaba en \nindicación de parada (rojo). \nAl paso del tren por dicha baliza previa de la señal de entrada (P.K. 135+376), se activa el frenado \nde urgencia ASFA del mismo, produciéndose el rebase de la señal de entrada (P.K. 135+025) -que \nestaba en indicación de parada- a 39 Km/h, rebasando la señal 60 metros y colisionando a 3 Km/h \ncon el tren 22347 sobre el cambio 2B, sin llegar a talonarlo. \nPor su parte, el tren 22347 salía de vía 4 de la estación con itinerario hecho sobre vía 1, con \ndirección Oviedo y con la señal de salida en indicación de anuncio de parada. El maquinista, acciona el \nfreno de urgencia al ver, según su propia declaración, aproximarse el tren 22126, circulando en ese \nmomento a 28 Km/h, y consigue detener el tren antes de producirse la colisión. \nTras la colisión el tren 22126 retrocede, por iniciativa del maquinista, hasta situarse delante de la \nseñal de entrada (P.K. 135+025) y procede a comunicar el suceso al jefe del CTC de Oviedo. Existe \nuna deficiencia en el pulsador de emergencia del equipo de radiotelefonía de la cabina del tren, según \nla declaración del maquinista, por lo que hace uso del teléfono móvil de empresa. \n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0022/2009 ocurrido el 17.04.2009 \nSUBSECRETARIA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-170409-221209-CIAF \n \n \nPág. 10 de 11\nPor su parte, el tren 22347, tras la colisión, reanuda la marcha y su maquinista no comunicó el \nsuceso al CTC, según su propia declaración, por considerarlo leve y observar que el otro maquinista \nestaba efectuando comunicaciones.  \nSe producen daños materiales en la parte frontal de ambos trenes. \n \n  \n4.2 DELIBERACIÓN \nCon relación al maquinista y al tren 22126: \nPor la baliza previa de la señal de avanzada el tren 22126 circula a 108 km/h y al no iniciar una \nreducción inmediata de velocidad desde que rebasa la mencionada baliza, para reducir su velocidad a \n100 km/h, se incumple la Carta Circular de Reglamentación Nº 11, de 6 de julio de 2007. \nEl paso por la baliza previa de la señal de entrada se realiza a velocidad mayor de 60 Km/h (102 \nkm/h), se incumple el artículo 221 del RGC. \nSe activa el frenado de urgencia ASFA y el tren rebasa la señal de entrada (4S) de la estación (38 \nkm/h) que presentaba la indicación de parada (rojo), se incumple el artículo 217 del RGC. \nTras la colisión el tren 22126 retrocede, por iniciativa del maquinista, hasta situarse delante de la \nseñal de entrada, se incumple el artículo 475 del RGC. \nSegún declaración del maquinista, tras la colisión fue deficiente el funcionamiento del pulsador de \nemergencia del equipo de radiotelefonía de la cabina del tren causante del accidente. \nEl maquinista sufre un despiste, según su propia declaración. \nCon relación al maquinista y al tren 22347: \nPor su parte, el tren 22347, tras la colisión, reanuda la marcha y su maquinista no comunicó el \nsuceso al CTC, se incumple el artículo 320 del RGC. \nLos equipos de seguridad de ambos trenes (freno, ASFA, etc.) y los sistemas de control, mando y \nseñalización funcionaron correctamente. \n \n4.3 CONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en el rebase, por el tren 22126, de la señal de entrada de la estación, \nque presentaba la indicación de parada (rojo), por incumplimiento de las órdenes dadas por las \nseñales al personal de conducción. \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0022/2009 ocurrido el 17.04.2009 \nSUBSECRETARIA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-170409-221209-CIAF \n \n \nPág. 11 de 11",
+   "pagina": 9,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Rebase de la señal de entrada 4S de la estación de El Caleyo, que presentaba indicación de parada (rojo), por incumplimiento de las órdenes dadas por las señales al personal de conducción del tren 22126.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No iniciar una reducción inmediata de velocidad desde la baliza previa de la señal avanzada, incumpliendo la Carta Circular de Reglamentación Nº 11, de 2007-07-06.",
+    "Paso por las balizas previa y de pie de señal de la avanzada a 108 km/h y 119 km/h, respectivamente, por continuar aplicando tracción y existir pendiente.",
+    "Paso por la baliza previa de la señal de entrada a 102 km/h, velocidad mayor de 60 km/h, incumpliendo el artículo 221 del RGC.",
+    "Rebase de la señal de entrada y avance de 60 metros, incumpliendo el artículo 217 del RGC.",
+    "Despiste del maquinista del tren 22126, según su propia declaración."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en el rebase, por el tren 22126, de la señal de entrada de la estación, \nque presentaba la indicación de parada (rojo), por incumplimiento de las órdenes dadas por las \nseñales al personal de conducción. \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0022/2009 ocurrido el 17.04.2009 \nSUBSECRETARIA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-170409-221209-CIAF \n \n \nPág. 11 de 11",
+   "pagina": 10,
+   "cita": "4.3 CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en el rebase, por el tren 22126, de la señal de entrada de la estación, \nque presentaba la indicación de parada (rojo), por incumplimiento de las órdenes dadas por las \nseñales al personal de conducción. \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0022/2009 ocurrido el 17.04.2009 \nSUBSECRETARIA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-170409-221209-CIAF \n \n \nPág. 11 de 11",
+   "pagina": 10,
+   "cita": "4.3 CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Por parte de Renfe Operadora \nSuspensión de la habilitación de conducción al maquinista del tren 22126. \nLa deficiencia en el pulsador de emergencia del equipo de radiotelefonía de la cabina del tren \ncausante del accidente fue reparada en fechas posteriores al accidente.",
+   "pagina": 11,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Por parte de Renfe Operadora \nSuspensión de la habilitación de conducción al maquinista del tren 22126. \nLa deficiencia en el pulsador de emergencia del equipo de radiotelefonía de la cabina del tren \ncausante del accidente fue reparada en fechas posteriores al accidente.",
+   "pagina": 11,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Por parte de Renfe Operadora \nSuspensión de la habilitación de conducción al maquinista del tren 22126. \nLa deficiencia en el pulsador de emergencia del equipo de radiotelefonía de la cabina del tren \ncausante del accidente fue reparada en fechas posteriores al accidente.",
+   "pagina": 11,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción.",
+    "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe- Operadora",
+    "Renfe- Operadora"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "18:40",
+     "evento": "El tren 22347 inicia la marcha desde El Caleyo, saliendo de vía 4 hacia vía 1, con la señal de salida en anuncio de parada."
+    },
+    {
+     "hora": "18:40",
+     "evento": "El tren 22126 rebasa la señal de entrada 4S en indicación de parada y colisiona frontalmente con el tren 22347 en el P.K. 134+961."
+    },
+    {
+     "hora": null,
+     "evento": "Tras la colisión, el tren 22126 retrocede hasta delante de la señal 4S y comunica el suceso al CTC de Oviedo; el tren 22347 reanuda la marcha sin informar al puesto de mando."
+    },
+    {
+     "hora": "10:44",
+     "evento": "El 2009-04-18, el coordinador de accidentes ferroviarios de Adif comunicó a la CIAF el rebase de la señal de entrada 4S por el tren 22126."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0022/2009",
+ "expediente": "0022/09",
+ "anio": 2009,
+ "titulo": "Colisión frontal tras rebase de señal en la estación de El Caleyo (Asturias)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-170409-221209-CIAF.md"
+}

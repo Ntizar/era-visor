@@ -1,0 +1,1028 @@
+{
+ "id": "IF-020209-221209-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/D18FE79C-FF88-4D6C-A4BA-B9C20E13615C/68852/IF020209221209CIAF.pdf",
+ "pdf": "pdfs/ES/IF-020209-221209-CIAF.pdf",
+ "md5_pdf": "055a7f46e2a18b0449f4d9b18296ad63",
+ "paginas_md": 12,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 17,
+ "n_tablas": 3,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Adif",
+     "Número": "10/09-1",
+     "Recomendación": "Realizar una campaña de mantenimiento en infraestructuras de características similares al lugar donde se produjo el accidente."
+    },
+    {
+     "Destinatario": "Adif",
+     "Número": "10/09-2",
+     "Recomendación": "Establecer un plan de comprobación y mantenimiento periódico para las infraestructuras de características similares a las del lugar donde se produjo el accidente."
+    },
+    {
+     "Destinatario": "DGIF",
+     "Número": "10/09-3",
+     "Recomendación": "Estudiar la sustitución de vía sobre balasto por vía en placa en estas zonas conflictivas."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 10,
+   "cabecera": [
+    "",
+    "",
+    "Mediciones tras el accidente (mm)",
+    "",
+    "",
+    "Mediciones tras la corrección (mm)",
+    "",
+    ""
+   ],
+   "filas": [
+    {
+     "Mediciones tras el accidente (mm)": "Entrecalle",
+     "Mediciones tras la corrección (mm)": "Entrecalle"
+    },
+    {
+     "Mediciones tras el accidente (mm)": "1900",
+     "Mediciones tras la corrección (mm)": "1925"
+    },
+    {
+     "Mediciones tras el accidente (mm)": "1920",
+     "Mediciones tras la corrección (mm)": "1920"
+    },
+    {
+     "Mediciones tras el accidente (mm)": "1925",
+     "Mediciones tras la corrección (mm)": "1925"
+    },
+    {
+     "Mediciones tras el accidente (mm)": "1900",
+     "Mediciones tras la corrección (mm)": "1922"
+    },
+    {
+     "Mediciones tras el accidente (mm)": "1875",
+     "Mediciones tras la corrección (mm)": "1869"
+    },
+    {
+     "Mediciones tras el accidente (mm)": "1865",
+     "Mediciones tras la corrección (mm)": "1872"
+    },
+    {
+     "Mediciones tras el accidente (mm)": "1840",
+     "Mediciones tras la corrección (mm)": "1865"
+    },
+    {
+     "Mediciones tras el accidente (mm)": "1840",
+     "Mediciones tras la corrección (mm)": "1853"
+    },
+    {
+     "Mediciones tras el accidente (mm)": "1800",
+     "Mediciones tras la corrección (mm)": "1840"
+    }
+   ],
+   "cita": "|   |   | Mediciones tras el accidente (mm) |   |   | Mediciones tras la corrección (mm) |   |   |"
+  },
+  {
+   "pagina": 12,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Adif",
+     "Número": "10/09-1",
+     "Recomendación": "Realizar una campaña de mantenimiento en infraestructuras de características similares al lugar donde se produjo el accidente."
+    },
+    {
+     "Destinatario": "Adif",
+     "Número": "10/09-2",
+     "Recomendación": "Establecer un plan de comprobación y mantenimiento periódico para las infraestructuras de características similares a las del lugar donde se produjo el accidente."
+    },
+    {
+     "Destinatario": "DGIF",
+     "Número": "10/09-3",
+     "Recomendación": "Estudiar la sustitución de vía sobre balasto por vía en placa en estas zonas conflictivas."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0010/2009",
+   "pagina": 1,
+   "cita": "nº 0010/2009 ocurrido el 02.02.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2 de febrero de 2009, a las 19:49 horas, los trenes de media distancia 16005 y de mercancías 57656, ambos de Renfe Operadora, colisionaron lateralmente en el interior del túnel de Osina, en Guipúzcoa. Como resultado, una viajera resultó herida leve y se produjeron daños en el tren de media distancia. La investigación concluyó que la colisión tuvo su origen en un defecto de la vía por peralte y entrecalle. Adif realizó mediciones y correcciones de la vía tras el accidente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-02-02",
+    "hora": "19:49",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "551+790",
+     "linea": "100 Madrid-Hendaya",
+     "provincia": "Guipúzcoa",
+     "descripcion_lugar": "Interior del túnel nº 13, denominado de Osina, en curva hacia la izquierda, entre las estaciones de Zegama Otzaurte y Brinkola, municipio de Zegama."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 2 de febrero de 2009, a las 19:49 horas, los trenes de media distancia 16005 y de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 1,
+    "danos_materiales": "Daños en el tren de media distancia 16005: dos espejos completos con timonería y anclajes y 7 lunas rotas.",
+    "afectacion_servicio": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Defecto de la vía por peralte y entrecalle fuera de tolerancia, que provocó la colisión lateral al cruzarse los trenes dentro del túnel.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Realizar una campaña de mantenimiento en infraestructuras de características similares al lugar donde se produjo el accidente.",
+    "Establecer un plan de comprobación y mantenimiento periódico para las infraestructuras de características similares a las del lugar donde se produjo el accidente.",
+    "Estudiar la sustitución de vía sobre balasto por vía en placa en estas zonas conflictivas.",
+    "Realizar una campaña de mantenimiento en infraestructuras de características similares al lugar donde se produjo el accidente.",
+    "Establecer un plan de comprobación y mantenimiento periódico para las infraestructuras de características similares a las del lugar donde se produjo el accidente.",
+    "Estudiar la sustitución de vía sobre balasto por vía en placa en estas zonas conflictivas."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif",
+    "DGIF",
+    "Adif",
+    "Adif",
+    "DGIF"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Colisión lateral",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "mercancías 57656, los dos de Renfe Operadora, colisionan lateralmente en el interior del túnel de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-02-02",
+   "pagina": 3,
+   "cita": "El día 2 de febrero de 2009, a las 19:49 horas, los trenes de media distancia 16005 y de",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "19:49",
+   "pagina": 3,
+   "cita": "El día 2 de febrero de 2009, a las 19:49 horas, los trenes de media distancia 16005 y de",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "551+790",
+    "linea": "100 Madrid-Hendaya",
+    "provincia": "Guipúzcoa",
+    "descripcion_lugar": "Interior del túnel nº 13, denominado de Osina, en curva hacia la izquierda, entre las estaciones de Zegama Otzaurte y Brinkola, municipio de Zegama."
+   },
+   "pagina": 11,
+   "cita": "las estaciones de Zegama – Otzaurte y Brinkola de la línea 100 Madrid-Hendaya.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 100 Madrid-Hendaya",
+   "pagina": 11,
+   "cita": "las estaciones de Zegama – Otzaurte y Brinkola de la línea 100 Madrid-Hendaya.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "U/T 440195; locomotora 28909/289039; vagón 437142702087.",
+    "averia": "Rotura de dos espejos retrovisores completos con timonería y anclajes y de 7 lunas en la U/T 440195; posible golpe en el bulón del vagón 437142702087 sin restos de pintura.",
+    "mantenimiento": "Inspecciones posteriores no hallaron anomalías en suspensión, rodadura ni caja; los registradores de seguridad indican velocidades de 80 km/h y 69 km/h, dentro de límites."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 2 de febrero de 2009, a las 19:49 horas, el tren de media distancia 16005, procedente de Vitoria y con destino Irún, y el tren de mercancías 57656, procedente de Lezo Rentería y con destino Grisen, colisionaron lateralmente en el interior del túnel de Osina, en el P.K. 551+790, entre las estaciones de Zegama Otzaurte y Brinkola. El trayecto era de vía doble y el túnel se encontraba en curva hacia la izquierda.\n\nComo consecuencia del impacto, el tren de mercancías rompió los espejos retrovisores de ambas cabinas y siete lunas del lado derecho de la composición, en sentido de la marcha. Los trozos de luna alcanzaron a una viajera, que resultó herida leve. Los daños materiales principales se concentraron en la U/T 440195 del tren 16005.\n\nTras el suceso, el interventor del tren de viajeros informó al puesto de mando de Miranda, que comunicó al maquinista del tren de mercancías que procediera a reconocer la composición en Altsasua; allí y después en Pamplona no se encontraron anomalías. Las inspecciones posteriores en Grisen y Pasaia tampoco hallaron restos de pintura u otros elementos que acreditaran el impacto, salvo un golpe aislado en el bulón de un vagón, coincidente en altura pero sin restos de pintura.\n\nLas mediciones realizadas por Adif el 3 de febrero de 2009 constataron que el peralte y la entrecalle del punto del accidente estaban fuera de tolerancia, por lo que se procedió a su corrección. La investigación atribuyó la colisión lateral a ese defecto de vía.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "551+790",
+    "linea": "100 Madrid-Hendaya",
+    "provincia": "Guipúzcoa",
+    "descripcion_lugar": "Interior del túnel nº 13, denominado de Osina, en curva hacia la izquierda, entre las estaciones de Zegama Otzaurte y Brinkola, municipio de Zegama."
+   },
+   "pagina": 11,
+   "cita": "las estaciones de Zegama – Otzaurte y Brinkola de la línea 100 Madrid-Hendaya.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 1,
+    "danos_materiales": "Daños en el tren de media distancia 16005: dos espejos completos con timonería y anclajes y 7 lunas rotas.",
+    "afectacion_servicio": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "El día 3 de febrero de 2009 Adif realiza las medidas de peralte, entrevía y flecha tanto en el túnel \nde Osina como en el resto de túneles del trayecto. Tras las mediciones se comprueba que, en el punto \nkilométrico donde se produce el accidente, los valores reales del peralte y la entrecalle no son \ncorrectos y se procede a su corrección.",
+   "pagina": 12,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren de viajeros 16005",
+     "implicacion": "Matrícula 9653882; circulaba a 80 km/h, velocidad máxima autorizada; habilitado conforme a la Orden FOM/2520/2006; jornada conforme a la normativa."
+    },
+    {
+     "rol": "Maquinista del tren de mercancías 57656",
+     "implicacion": "Matrícula 7788946; circulaba a 69 km/h, por debajo de la velocidad máxima autorizada; habilitado conforme a la Orden FOM/2520/2006; jornada conforme a la normativa."
+    },
+    {
+     "rol": "Interventor del tren de viajeros 16005",
+     "implicacion": "Informó del suceso al puesto de mando de Miranda."
+    }
+   ],
+   "pagina": 5,
+   "cita": "El maquinista del tren de viajeros 16005.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "16005",
+     "tipo": "Tren de media distancia / viajeros",
+     "operador": "Renfe Operadora",
+     "danos": "U/T 440195: rotura de dos espejos retrovisores completos con timonería y anclajes, y de 7 lunas; una viajera herida leve por los cristales."
+    },
+    {
+     "numero": "57656",
+     "tipo": "Tren de mercancías",
+     "operador": "Renfe Operadora",
+     "danos": "No se hallaron anomalías en inspecciones; posible golpe en el bulón del vagón 437142702087, coincidente en altura, pero sin restos de pintura."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 2 de febrero de 2009, a las 19:49 horas, los trenes de media distancia 16005 y de",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "U/T 440195; locomotora 28909/289039; vagón 437142702087.",
+    "averia": "Rotura de dos espejos retrovisores completos con timonería y anclajes y de 7 lunas en la U/T 440195; posible golpe en el bulón del vagón 437142702087 sin restos de pintura.",
+    "mantenimiento": "Inspecciones posteriores no hallaron anomalías en suspensión, rodadura ni caja; los registradores de seguridad indican velocidades de 80 km/h y 69 km/h, dentro de límites."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 5,
+   "cita": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (BAB) y control de tráfico centralizado.",
+    "tipo_via": "Vía doble.",
+    "velocidad_maxima": "80 km/h para las circulaciones de tipo N.",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Peralte y entrecalle fuera de tolerancia en el P.K. 551+790; corregidos tras las mediciones del 3 de febrero de 2009.",
+    "otro": "Túnel nº 13 Osina, construido en 1860, curva hacia la izquierda, radio 312 m y pendiente de 9 milésimas. Radiotelefonía modalidad A."
+   },
+   "pagina": 6,
+   "cita": "El trayecto es de vía doble, con bloqueo automático banalizado (BAB) y control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático banalizado (BAB) y control de tráfico centralizado.",
+   "pagina": 6,
+   "cita": "El trayecto es de vía doble, con bloqueo automático banalizado (BAB) y control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 1,
+    "danos_materiales": "Daños en el tren de media distancia 16005: dos espejos completos con timonería y anclajes y 7 lunas rotas.",
+    "afectacion_servicio": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 1,
+    "danos_materiales": "Daños en el tren de media distancia 16005: dos espejos completos con timonería y anclajes y 7 lunas rotas.",
+    "afectacion_servicio": null
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 1,
+    "danos_materiales": "Daños en el tren de media distancia 16005: dos espejos completos con timonería y anclajes y 7 lunas rotas.",
+    "afectacion_servicio": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "U/T 440195; locomotora 28909/289039; vagón 437142702087.",
+    "averia": "Rotura de dos espejos retrovisores completos con timonería y anclajes y de 7 lunas en la U/T 440195; posible golpe en el bulón del vagón 437142702087 sin restos de pintura.",
+    "mantenimiento": "Inspecciones posteriores no hallaron anomalías en suspensión, rodadura ni caja; los registradores de seguridad indican velocidades de 80 km/h y 69 km/h, dentro de límites."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (BAB) y control de tráfico centralizado.",
+    "tipo_via": "Vía doble.",
+    "velocidad_maxima": "80 km/h para las circulaciones de tipo N.",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Peralte y entrecalle fuera de tolerancia en el P.K. 551+790; corregidos tras las mediciones del 3 de febrero de 2009.",
+    "otro": "Túnel nº 13 Osina, construido en 1860, curva hacia la izquierda, radio 312 m y pendiente de 9 milésimas. Radiotelefonía modalidad A."
+   },
+   "pagina": 6,
+   "cita": "El trayecto es de vía doble, con bloqueo automático banalizado (BAB) y control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Guipúzcoa",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 3,
+   "cita": "Osina (Guipúzcoa). Como resultado de la colisión resulta herida leve una pasajera y se producen",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático banalizado (BAB) y control de tráfico centralizado.",
+   "pagina": 6,
+   "cita": "El trayecto es de vía doble, con bloqueo automático banalizado (BAB) y control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (BAB) y control de tráfico centralizado.",
+    "tipo_via": "Vía doble.",
+    "velocidad_maxima": "80 km/h para las circulaciones de tipo N.",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Peralte y entrecalle fuera de tolerancia en el P.K. 551+790; corregidos tras las mediciones del 3 de febrero de 2009.",
+    "otro": "Túnel nº 13 Osina, construido en 1860, curva hacia la izquierda, radio 312 m y pendiente de 9 milésimas. Radiotelefonía modalidad A."
+   },
+   "pagina": 6,
+   "cita": "El trayecto es de vía doble, con bloqueo automático banalizado (BAB) y control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "U/T 440195; locomotora 28909/289039; vagón 437142702087.",
+    "averia": "Rotura de dos espejos retrovisores completos con timonería y anclajes y de 7 lunas en la U/T 440195; posible golpe en el bulón del vagón 437142702087 sin restos de pintura.",
+    "mantenimiento": "Inspecciones posteriores no hallaron anomalías en suspensión, rodadura ni caja; los registradores de seguridad indican velocidades de 80 km/h y 69 km/h, dentro de límites."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Peralte fuera de tolerancia",
+    "Entrecalle fuera de tolerancia",
+    "Defecto de vía no corregido"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 2 de febrero de 2009, a las 19:49 horas, el tren de media distancia 16005, procedente de Vitoria y con destino Irún, y el tren de mercancías 57656, procedente de Lezo Rentería y con destino Grisen, colisionaron lateralmente en el interior del túnel de Osina, en el P.K. 551+790, entre las estaciones de Zegama Otzaurte y Brinkola. El trayecto era de vía doble y el túnel se encontraba en curva hacia la izquierda.\n\nComo consecuencia del impacto, el tren de mercancías rompió los espejos retrovisores de ambas cabinas y siete lunas del lado derecho de la composición, en sentido de la marcha. Los trozos de luna alcanzaron a una viajera, que resultó herida leve. Los daños materiales principales se concentraron en la U/T 440195 del tren 16005.\n\nTras el suceso, el interventor del tren de viajeros informó al puesto de mando de Miranda, que comunicó al maquinista del tren de mercancías que procediera a reconocer la composición en Altsasua; allí y después en Pamplona no se encontraron anomalías. Las inspecciones posteriores en Grisen y Pasaia tampoco hallaron restos de pintura u otros elementos que acreditaran el impacto, salvo un golpe aislado en el bulón de un vagón, coincidente en altura pero sin restos de pintura.\n\nLas mediciones realizadas por Adif el 3 de febrero de 2009 constataron que el peralte y la entrecalle del punto del accidente estaban fuera de tolerancia, por lo que se procedió a su corrección. La investigación atribuyó la colisión lateral a ese defecto de vía.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar en el interior del túnel nº 13 (Osina), situado en el P.K. 551+790, entre \nlas estaciones de Zegama – Otzaurte y Brinkola de la línea 100 Madrid-Hendaya. \nEl tren de viajeros de media distancia 1605, con origen en Vitoria y destino Irún, colisiona \nlateralmente en el interior del túnel nº 13 (Osina), en el p.k. 551+790 entre las estaciones de \nZegama-Otzaurte y Brinkola, con el mercancías 57656 (composición remolcada de vagones \nportaautomóviles vacíos), con origen en Lezo Rentería y destino Grisen. \nSe producen daños en los dos espejos retrovisores, y rompiéndose siete lunas, una de ellas \nprodujo heridas leves a una viajera.   \n4.2. DELIBERACIÓN \nDel análisis de los registradores de seguridad de los vehículos motores se desprende que los trenes \ncirculaban a una velocidad igual o inferior a su máxima permitida en el tramo. \nLas jornadas de trabajo de los maquinistas cumplen lo establecido en la Disposición adicional \nduodécima del Reglamento del Sector Ferroviario (RD 2387/2004, de 30 de diciembre): Tiempos \nmáximos de conducción en el transporte ferroviario.  \nLas mediciones de vía – entrecalle y peralte – realizados con posterioridad al accidente constataron \nque ambos parámetros estaban fuera de tolerancia, provocando que los dos trenes colisionaran \nlateralmente al cruzarse dentro del túnel. \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0010/2009 ocurrido el 02.02.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-020209-221209-CIAF \n \n \nPág. 12 de 12\n4.3. CONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nLa colisión lateral tuvo su origen como consecuencia del defecto de la vía por peralte y entrecalle.",
+   "pagina": 11,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Defecto de la vía por peralte y entrecalle fuera de tolerancia, que provocó la colisión lateral al cruzarse los trenes dentro del túnel.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Peralte fuera de tolerancia",
+    "Entrecalle fuera de tolerancia",
+    "Defecto de vía no corregido"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nLa colisión lateral tuvo su origen como consecuencia del defecto de la vía por peralte y entrecalle.",
+   "pagina": 12,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nLa colisión lateral tuvo su origen como consecuencia del defecto de la vía por peralte y entrecalle.",
+   "pagina": 12,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "El día 3 de febrero de 2009 Adif realiza las medidas de peralte, entrevía y flecha tanto en el túnel \nde Osina como en el resto de túneles del trayecto. Tras las mediciones se comprueba que, en el punto \nkilométrico donde se produce el accidente, los valores reales del peralte y la entrecalle no son \ncorrectos y se procede a su corrección.",
+   "pagina": 12,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "El día 3 de febrero de 2009 Adif realiza las medidas de peralte, entrevía y flecha tanto en el túnel \nde Osina como en el resto de túneles del trayecto. Tras las mediciones se comprueba que, en el punto \nkilométrico donde se produce el accidente, los valores reales del peralte y la entrecalle no son \ncorrectos y se procede a su corrección.",
+   "pagina": 12,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "El día 3 de febrero de 2009 Adif realiza las medidas de peralte, entrevía y flecha tanto en el túnel \nde Osina como en el resto de túneles del trayecto. Tras las mediciones se comprueba que, en el punto \nkilométrico donde se produce el accidente, los valores reales del peralte y la entrecalle no son \ncorrectos y se procede a su corrección.",
+   "pagina": 12,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Realizar una campaña de mantenimiento en infraestructuras de características similares al lugar donde se produjo el accidente.",
+    "Establecer un plan de comprobación y mantenimiento periódico para las infraestructuras de características similares a las del lugar donde se produjo el accidente.",
+    "Estudiar la sustitución de vía sobre balasto por vía en placa en estas zonas conflictivas.",
+    "Realizar una campaña de mantenimiento en infraestructuras de características similares al lugar donde se produjo el accidente.",
+    "Establecer un plan de comprobación y mantenimiento periódico para las infraestructuras de características similares a las del lugar donde se produjo el accidente.",
+    "Estudiar la sustitución de vía sobre balasto por vía en placa en estas zonas conflictivas."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif",
+    "DGIF",
+    "Adif",
+    "Adif",
+    "DGIF"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "19:49",
+     "evento": "2009-02-02: Colisión lateral entre el tren de media distancia 16005 y el tren de mercancías 57656 en el interior del túnel de Osina, P.K. 551+790."
+    },
+    {
+     "hora": null,
+     "evento": "2009-02-03: Adif realiza mediciones de peralte, entrecalle y flecha en el túnel de Osina y en el resto de túneles del trayecto; corrige los valores no correctos en el punto del accidente."
+    },
+    {
+     "hora": null,
+     "evento": "2009-02-03: Personal de Seguridad en la Circulación de Renfe Operadora inspecciona en Grisen la composición del tren 57656 sin encontrar elementos que hubieran impactado con el tren 16005."
+    },
+    {
+     "hora": null,
+     "evento": "2009-02-04: Inspección exhaustiva en Pasaia de los vagones del tren 57656; no se encuentran anomalías en suspensión, rodadura ni caja, salvo un golpe en el bulón de un vagón sin restos de pintura."
+    },
+    {
+     "hora": null,
+     "evento": "2009-02-24: El presidente de la Comisión de Investigación de Accidentes Ferroviarios resuelve abrir la investigación del accidente."
+    },
+    {
+     "hora": null,
+     "evento": "2009-03-18: El gerente territorial de seguridad en la circulación norte de Renfe Operadora entrega su informe particular."
+    },
+    {
+     "hora": null,
+     "evento": "2009-05-17: El coordinador de accidentes ferroviarios de Adif entrega su informe particular."
+    },
+    {
+     "hora": null,
+     "evento": "2009-12-22: Fecha del informe final."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0010/2009",
+ "expediente": "0010/09",
+ "anio": 2009,
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0010/2009 OCURRIDO EL DÍA 02.02.2009 ENTRE ZEGAMA OTZAURTE Y BRINKOLA",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-020209-221209-CIAF.md"
+}

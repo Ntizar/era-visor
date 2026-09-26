@@ -1,0 +1,966 @@
+{
+ "id": "ES 07 04 2013 IF-070413-240315-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/1A4196A1-42A3-4B79-9A0D-512CF247DA46/130586/IF070413240315CIAF.pdf",
+ "pdf": "pdfs/ES/ES 07 04 2013 IF-070413-240315-CIAF.pdf",
+ "md5_pdf": "1d0d948803684184882b359e04d7ac90",
+ "paginas_md": 28,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 19,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0027/2013",
+   "pagina": 1,
+   "cita": "nº 0027/2013 ocurrido el 07.04.2013",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 7 de abril de 2013, a las 17:31 h, el tren de larga distancia 2164 (Renfe, Madrid-Cádiz) circulaba por la vía II del túnel de Venta La Inés (línea 010 Madrid-Sevilla, PK 245+885-247+555) cuando se desprendió la puerta izquierda del coche 3 por diferencia de presión. El tren de alta velocidad 2361 (Sevilla-Madrid), que circulaba en sentido contrario por la vía I, arrolló la puerta. No hubo descarrilamiento ni víctimas. La causa fue el fallo humano del interventor en ruta, que condenó la puerta sin enclavarla al no recuperar el cuadradillo de la maneta de apertura manual.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2013-04-07",
+    "hora": "17:31:09",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "245+885 - 247+555 (túnel); desprendimiento PK ~246; detención tren 2164 PK 257+000; detención tren 2361 PK 241+600",
+     "linea": "010 Madrid Puerta de Atocha - Sevilla Santa Justa (alta velocidad)",
+     "provincia": "Ciudad Real",
+     "descripcion_lugar": "Túnel de Venta La Inés (1.681 m de longitud), entre las estaciones de Venta La Inés y Conquista, municipio de Almodóvar del Campo, tramo Puertollano-Conquista. Alineación en planta: recta de 1.471 m + curva de transición de 210 m en boca sur. Perfil: horizontal al inicio y rampa de 12 milésimas."
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 7 de abril de 2013 a la 17:31 horas el tren de larga distancia 2164 de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Tren 2164: desprendimiento de puerta (coche 3). Tren 2361: chapa retorcida en coche 2, falso techo desprendido sobre asiento 2B. Infraestructura: 300 m de cable LZB reponidos, herrajes de señalización afectados.",
+    "afectacion_servicio": "28 trenes sufrieron retrasos (25 LD AVE, 2 regionales, 1 cercanías) con un retraso total de 429 minutos. 3 trenes transbordados (2 implicados). 3 trenes suprimidos (2 implicados). Marcha a la vista prescrita en el túnel. Limitación a 160 km/h vía I entre Venta La Inés y Puertollano. Vía expedita a las 00:44 h del 8/04; normalización a las 03:05 h del 8/04."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del interventor en ruta del tren 2164: al rearmar la maneta de apertura manual de emergencia no giró el cuadradillo 90° para llevarlo a la posición vertical inicial, lo que impidió el enclavamiento de la puerta por los ganchos. La puerta quedó cerrada y condenada pero NO enclavada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Diferencia de presión entre interior y exterior del tren al circular a 245 km/h en el interior del túnel, que generó esfuerzos de expulsión sobre la puerta",
+    "Diseño del sistema que permite cerrar el lazo de puertas (y habilitar tracción) con la puerta solo condenada pero no enclavada",
+    "Formación insuficiente del interventor: 8 horas de teoría + viaje sin práctica sobre dispositivos; no sabía la diferencia entre condenar y bloquear/enclavar",
+    "La puerta ya había dado problemas previos (rebotaba) en el mismo día con la misma composición (tren 2085) sin que se comunicara la anomalía",
+    "El interventor no comprobó desde el puesto de supervisor el correcto cierre de puertas antes de dar el tren dispuesto"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ausencia de mecanismo que impidiera físicamente el accionamiento de la condena de puerta sin que los ganchos de retención estuvieran dispuestos",
+    "Terminología no unificada entre documentos (manuales de conducción, explotación, intervención en vía) que generaba confusión conceptual (condenar vs. enclavar)",
+    "Instrucción técnica de Talgo sobre puertas exteriores (IT-2008-32) no contemplaba procedimiento de anulación de puerta en avería"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Considerando adecuadas las medidas adoptadas (revisión normativa técnica de puertas por Talgo, montaje de mecanismo anti-condena sin ganchos en S-130/S-730, nuevas normas de condena en trenes nuevos, glosario de definiciones Renfe), no se establecen recomendaciones adicionales.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Considerando adecuadas las medidas adoptadas (revisión normativa técnica de puertas por Talgo, montaje de mecanismo anti-condena sin ganchos en S-130/S-730, nuevas normas de condena en trenes nuevos, glosario de definiciones Renfe), no se establecen recomendaciones adicionales.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Accidente ferroviario",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif",
+    "Talgo"
+   ],
+   "pagina": 5,
+   "cita": "Renfe Operadora, procedente de Madrid Puerta de Atocha y destino Cádiz, cuando circulaba por la vía",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2013-04-07",
+   "pagina": 5,
+   "cita": "El día 7 de abril de 2013 a la 17:31 horas el tren de larga distancia 2164 de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "17:31:09",
+   "pagina": 22,
+   "cita": "A las 17:31:09 horas es el último momento en el que la puerta tiene contacto con el coche, se puede",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "245+885 - 247+555 (túnel); desprendimiento PK ~246; detención tren 2164 PK 257+000; detención tren 2361 PK 241+600",
+    "linea": "010 Madrid Puerta de Atocha - Sevilla Santa Justa (alta velocidad)",
+    "provincia": "Ciudad Real",
+    "descripcion_lugar": "Túnel de Venta La Inés (1.681 m de longitud), entre las estaciones de Venta La Inés y Conquista, municipio de Almodóvar del Campo, tramo Puertollano-Conquista. Alineación en planta: recta de 1.471 m + curva de transición de 210 m en boca sur. Perfil: horizontal al inicio y rampa de 12 milésimas."
+   },
+   "pagina": 5,
+   "cita": "Conquista (Ciudad Real) perteneciente a la línea 010 Madrid Puerta de Atocha a Sevilla Santa Justa de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea de Alta Velocidad Madrid-Sevilla",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Talgo S-130, rama 130.045, Nº UIC motor 96719130045; parte mecánica Talgo, componentes eléctricos Bombardier",
+    "averia": "Puerta izquierda del coche 3 (lado ECV) no cerraba correctamente (rebotaba); reincidente en el mismo día (tren 2085 con misma composición en Puertollano)",
+    "mantenimiento": "Plan cumplido. Rama 130.045: 1.247.065 km recorridos. Últimas intervenciones: IS 06/04/2013 (1.245.498 km), IB 23/02/2013 (1.210.499 km), IM1 15/12/2012, IM4 21/09/2012, IM2 13/08/2011, IM3 17/09/2010"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de larga distancia 2164 de Renfe Operadora, material Talgo S-130 (rama 130.045), procedente de Madrid Puerta de Atocha y con destino Cádiz, efectuó parada comercial en Puertollano a las 17:13 h. El interventor en ruta observó que la puerta izquierda del coche 3 no cerraba correctamente (rebotaba). Tras dos intentos de reseteo mediante el interruptor magnetotérmico 3F58 sin resultado, procedió a cerrar la puerta manualmente, accionar la condena con la llave de cuadradillo y rearmar la maneta. Sin embargo, omitió el giro de 90° del cuadradillo de la maneta, por lo que los ganchos de enclavamiento quedaron levantados y la puerta no quedó bloqueada, aunque sí condenada. El lazo de puertas se cerró y el tren reanudó la marcha con tracción. A las 17:29:30 h, circulando a más de 240 km/h, se anuló la condena y se perdió presión en la junta hinchable; la puerta comenzó a salir de su alojamiento. A las 17:31:09 h, en el interior del túnel de Venta La Inés, la puerta se desprendió y cayó sobre la vía I. Simultáneamente, el tren AVE 2361 (Sevilla-Madrid) arrolló la puerta, que provocó una chapa retorcida en el coche 2. El maquinista del 2164 detuvo el tren en el PK 257+000 y lo comunicó al puesto de mando. El 2361 se detuvo en el PK 241+600 para inspección y continuó a 60 km/h hasta Puertollano. No hubo descarrilamiento ni daños personales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "245+885 - 247+555 (túnel); desprendimiento PK ~246; detención tren 2164 PK 257+000; detención tren 2361 PK 241+600",
+    "linea": "010 Madrid Puerta de Atocha - Sevilla Santa Justa (alta velocidad)",
+    "provincia": "Ciudad Real",
+    "descripcion_lugar": "Túnel de Venta La Inés (1.681 m de longitud), entre las estaciones de Venta La Inés y Conquista, municipio de Almodóvar del Campo, tramo Puertollano-Conquista. Alineación en planta: recta de 1.471 m + curva de transición de 210 m en boca sur. Perfil: horizontal al inicio y rampa de 12 milésimas."
+   },
+   "pagina": 5,
+   "cita": "Conquista (Ciudad Real) perteneciente a la línea 010 Madrid Puerta de Atocha a Sevilla Santa Justa de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Tren 2164: desprendimiento de puerta (coche 3). Tren 2361: chapa retorcida en coche 2, falso techo desprendido sobre asiento 2B. Infraestructura: 300 m de cable LZB reponidos, herrajes de señalización afectados.",
+    "afectacion_servicio": "28 trenes sufrieron retrasos (25 LD AVE, 2 regionales, 1 cercanías) con un retraso total de 429 minutos. 3 trenes transbordados (2 implicados). 3 trenes suprimidos (2 implicados). Marcha a la vista prescrita en el túnel. Limitación a 160 km/h vía I entre Venta La Inés y Puertollano. Vía expedita a las 00:44 h del 8/04; normalización a las 03:05 h del 8/04."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Interventor en ruta del tren 2164 (matrícula 8930083, antigüedad desde 06/11/1982, curso SSB S/130 el 26/04/2012)",
+     "implicacion": "Fallo humano: manipulación incorrecta del sistema de apertura/cierre manual; no recuperó el cuadradillo de la maneta (no giró 90°), dejando la puerta condenada pero no enclavada. No sabía la diferencia entre condenar y bloquear/enclavar. No comprobó desde el puesto de supervisor el cierre correcto de puertas antes de dar el tren dispuesto."
+    },
+    {
+     "rol": "Maquinista del tren 2164 (matrícula 9734427, título B, antigüedad desde 05/04/1998, último reciclaje 20/12/2012)",
+     "implicacion": "No actuó sobre el pulsador de 'Emergencia otra Vía' porque no llegó a asimilar lo ocurrido. No observó anomalía en pantalla de sinopsis. Detuvo el tren tras aviso del interventor."
+    },
+    {
+     "rol": "Interventor en ruta del tren 2361",
+     "implicacion": "Informó al jefe de tren del golpe seco y ruido continuo; participaron en la inspección exterior del tren."
+    }
+   ],
+   "pagina": 18,
+   "cita": "Del informe especial realizado por el interventor en ruta  del tren 2361 (el tren que arrolla la puerta",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "2164",
+     "tipo": "Larga distancia (Talgo S-130, rama 130.045, 11 coches + 2 cabezas motrices, 184 m, 336 t, tipo 250)",
+     "operador": "Renfe Operadora",
+     "danos": "Desprendimiento de la puerta izquierda del coche 3 (lado ECV)"
+    },
+    {
+     "numero": "2361",
+     "tipo": "Alta velocidad (AVE)",
+     "operador": "Renfe Operadora",
+     "danos": "Chapa del propio tren colgando retorcida en el coche 2 (consecuencia del arrollamiento de la puerta); falso techo desprendido sobre asiento 2B del coche 2"
+    }
+   ],
+   "pagina": 5,
+   "cita": "El día 7 de abril de 2013 a la 17:31 horas el tren de larga distancia 2164 de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Talgo S-130, rama 130.045, Nº UIC motor 96719130045; parte mecánica Talgo, componentes eléctricos Bombardier",
+    "averia": "Puerta izquierda del coche 3 (lado ECV) no cerraba correctamente (rebotaba); reincidente en el mismo día (tren 2085 con misma composición en Puertollano)",
+    "mantenimiento": "Plan cumplido. Rama 130.045: 1.247.065 km recorridos. Últimas intervenciones: IS 06/04/2013 (1.245.498 km), IB 23/02/2013 (1.210.499 km), IM1 15/12/2012, IM4 21/09/2012, IM2 13/08/2011, IM3 17/09/2010"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "LZB (con sistema de señalización), bloqueo de control automático (BCA), banalizada",
+    "tipo_via": "Vía doble electrificada y banalizada (alta velocidad)",
+    "velocidad_maxima": "250 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Funcionó correctamente antes del suceso; dañada por arrollamiento de la puerta (300 m de cable LZB reponidos, herrajes de señalización afectados)",
+    "otro": "Túnel de Venta La Inés de 1.681 m; radiotelefonía digital GSM-R; media semanal de circulaciones del tramo Puertollano-Conquista: 563 (556 LD, 4 MD, 3 servicio)"
+   },
+   "pagina": 8,
+   "cita": "Tipo 250 (velocidad máxima 250 km/h).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "LZB (con sistema de señalización), bloqueo de control automático (BCA), banalizada",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía digital GSM-R.",
+   "pagina": 14,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Tren 2164: desprendimiento de puerta (coche 3). Tren 2361: chapa retorcida en coche 2, falso techo desprendido sobre asiento 2B. Infraestructura: 300 m de cable LZB reponidos, herrajes de señalización afectados.",
+    "afectacion_servicio": "28 trenes sufrieron retrasos (25 LD AVE, 2 regionales, 1 cercanías) con un retraso total de 429 minutos. 3 trenes transbordados (2 implicados). 3 trenes suprimidos (2 implicados). Marcha a la vista prescrita en el túnel. Limitación a 160 km/h vía I entre Venta La Inés y Puertollano. Vía expedita a las 00:44 h del 8/04; normalización a las 03:05 h del 8/04."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Tren 2164: desprendimiento de puerta (coche 3). Tren 2361: chapa retorcida en coche 2, falso techo desprendido sobre asiento 2B. Infraestructura: 300 m de cable LZB reponidos, herrajes de señalización afectados.",
+    "afectacion_servicio": "28 trenes sufrieron retrasos (25 LD AVE, 2 regionales, 1 cercanías) con un retraso total de 429 minutos. 3 trenes transbordados (2 implicados). 3 trenes suprimidos (2 implicados). Marcha a la vista prescrita en el túnel. Limitación a 160 km/h vía I entre Venta La Inés y Puertollano. Vía expedita a las 00:44 h del 8/04; normalización a las 03:05 h del 8/04."
+   },
+   "pagina": 22,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Tren 2164: desprendimiento de puerta (coche 3). Tren 2361: chapa retorcida en coche 2, falso techo desprendido sobre asiento 2B. Infraestructura: 300 m de cable LZB reponidos, herrajes de señalización afectados.",
+    "afectacion_servicio": "28 trenes sufrieron retrasos (25 LD AVE, 2 regionales, 1 cercanías) con un retraso total de 429 minutos. 3 trenes transbordados (2 implicados). 3 trenes suprimidos (2 implicados). Marcha a la vista prescrita en el túnel. Limitación a 160 km/h vía I entre Venta La Inés y Puertollano. Vía expedita a las 00:44 h del 8/04; normalización a las 03:05 h del 8/04."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Talgo S-130, rama 130.045, Nº UIC motor 96719130045; parte mecánica Talgo, componentes eléctricos Bombardier",
+    "averia": "Puerta izquierda del coche 3 (lado ECV) no cerraba correctamente (rebotaba); reincidente en el mismo día (tren 2085 con misma composición en Puertollano)",
+    "mantenimiento": "Plan cumplido. Rama 130.045: 1.247.065 km recorridos. Últimas intervenciones: IS 06/04/2013 (1.245.498 km), IB 23/02/2013 (1.210.499 km), IM1 15/12/2012, IM4 21/09/2012, IM2 13/08/2011, IM3 17/09/2010"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "LZB (con sistema de señalización), bloqueo de control automático (BCA), banalizada",
+    "tipo_via": "Vía doble electrificada y banalizada (alta velocidad)",
+    "velocidad_maxima": "250 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Funcionó correctamente antes del suceso; dañada por arrollamiento de la puerta (300 m de cable LZB reponidos, herrajes de señalización afectados)",
+    "otro": "Túnel de Venta La Inés de 1.681 m; radiotelefonía digital GSM-R; media semanal de circulaciones del tramo Puertollano-Conquista: 563 (556 LD, 4 MD, 3 servicio)"
+   },
+   "pagina": 8,
+   "cita": "Tipo 250 (velocidad máxima 250 km/h).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Ciudad Real",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 5,
+   "cita": "Conquista (Ciudad Real) perteneciente a la línea 010 Madrid Puerta de Atocha a Sevilla Santa Justa de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "LZB (con sistema de señalización), bloqueo de control automático (BCA), banalizada",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "LZB (con sistema de señalización), bloqueo de control automático (BCA), banalizada",
+    "tipo_via": "Vía doble electrificada y banalizada (alta velocidad)",
+    "velocidad_maxima": "250 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Funcionó correctamente antes del suceso; dañada por arrollamiento de la puerta (300 m de cable LZB reponidos, herrajes de señalización afectados)",
+    "otro": "Túnel de Venta La Inés de 1.681 m; radiotelefonía digital GSM-R; media semanal de circulaciones del tramo Puertollano-Conquista: 563 (556 LD, 4 MD, 3 servicio)"
+   },
+   "pagina": 8,
+   "cita": "Tipo 250 (velocidad máxima 250 km/h).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía digital GSM-R.",
+   "pagina": 14,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Talgo S-130, rama 130.045, Nº UIC motor 96719130045; parte mecánica Talgo, componentes eléctricos Bombardier",
+    "averia": "Puerta izquierda del coche 3 (lado ECV) no cerraba correctamente (rebotaba); reincidente en el mismo día (tren 2085 con misma composición en Puertollano)",
+    "mantenimiento": "Plan cumplido. Rama 130.045: 1.247.065 km recorridos. Últimas intervenciones: IS 06/04/2013 (1.245.498 km), IB 23/02/2013 (1.210.499 km), IM1 15/12/2012, IM4 21/09/2012, IM2 13/08/2011, IM3 17/09/2010"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Puerta no cierra correctamente en parada",
+    "Interventor cierra puerta manualmente",
+    "No recupera cuadradillo al condenar",
+    "Puerta queda desenclavada pero cerrada"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Los interventores no están afectados por la Orden FOM/2872/2010, de 5 de noviembre.  \nEl interventor en ruta del tren 2164 tiene una antigüedad en el cargo desde el 06 de noviembre de \n1982 y realizó un curso formativo SSB S/130 el 26.04.2012. \nEl maquinista del tren 2164 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene una antigüedad en el cargo desde el 05.04.1998. \nRealizó su último reciclaje formativo el 20.12.2012 y su último reconocimiento médico y psicotécnico el \n07.01.2011, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 19,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de larga distancia 2164 de Renfe Operadora, material Talgo S-130 (rama 130.045), procedente de Madrid Puerta de Atocha y con destino Cádiz, efectuó parada comercial en Puertollano a las 17:13 h. El interventor en ruta observó que la puerta izquierda del coche 3 no cerraba correctamente (rebotaba). Tras dos intentos de reseteo mediante el interruptor magnetotérmico 3F58 sin resultado, procedió a cerrar la puerta manualmente, accionar la condena con la llave de cuadradillo y rearmar la maneta. Sin embargo, omitió el giro de 90° del cuadradillo de la maneta, por lo que los ganchos de enclavamiento quedaron levantados y la puerta no quedó bloqueada, aunque sí condenada. El lazo de puertas se cerró y el tren reanudó la marcha con tracción. A las 17:29:30 h, circulando a más de 240 km/h, se anuló la condena y se perdió presión en la junta hinchable; la puerta comenzó a salir de su alojamiento. A las 17:31:09 h, en el interior del túnel de Venta La Inés, la puerta se desprendió y cayó sobre la vía I. Simultáneamente, el tren AVE 2361 (Sevilla-Madrid) arrolló la puerta, que provocó una chapa retorcida en el coche 2. El maquinista del 2164 detuvo el tren en el PK 257+000 y lo comunicó al puesto de mando. El 2361 se detuvo en el PK 241+600 para inspección y continuó a 60 km/h hasta Puertollano. No hubo descarrilamiento ni daños personales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del interventor en ruta del tren 2164: al rearmar la maneta de apertura manual de emergencia no giró el cuadradillo 90° para llevarlo a la posición vertical inicial, lo que impidió el enclavamiento de la puerta por los ganchos. La puerta quedó cerrada y condenada pero NO enclavada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Diferencia de presión entre interior y exterior del tren al circular a 245 km/h en el interior del túnel, que generó esfuerzos de expulsión sobre la puerta",
+    "Diseño del sistema que permite cerrar el lazo de puertas (y habilitar tracción) con la puerta solo condenada pero no enclavada",
+    "Formación insuficiente del interventor: 8 horas de teoría + viaje sin práctica sobre dispositivos; no sabía la diferencia entre condenar y bloquear/enclavar",
+    "La puerta ya había dado problemas previos (rebotaba) en el mismo día con la misma composición (tren 2085) sin que se comunicara la anomalía",
+    "El interventor no comprobó desde el puesto de supervisor el correcto cierre de puertas antes de dar el tren dispuesto"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Considerando adecuadas las medidas adoptadas (revisión normativa técnica de puertas por Talgo, montaje de mecanismo anti-condena sin ganchos en S-130/S-730, nuevas normas de condena en trenes nuevos, glosario de definiciones Renfe), no se establecen recomendaciones adicionales.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "17:13:10",
+     "evento": "El tren 2164 se detiene en Puertollano; el maquinista ordena apertura de puertas lado izquierdo"
+    },
+    {
+     "hora": "17:15:02",
+     "evento": "Primer reseteo de electrónicas de control de puertas mediante interruptor 3F58; puerta sigue rebotando"
+    },
+    {
+     "hora": "17:15:40",
+     "evento": "Segundo reseteo mediante interruptor 3F58; anomalía persiste"
+    },
+    {
+     "hora": "17:16:24",
+     "evento": "Accionamiento de apertura manual de emergencia: maneta girada 180°, cuadradillo a 90°"
+    },
+    {
+     "hora": "17:16:54",
+     "evento": "Condena de la puerta; se cierra el lazo de puertas y el tren dispone de tracción; LED rojo fijo"
+    },
+    {
+     "hora": "17:17:35",
+     "evento": "Rearme de la maneta (subida) pero NO se recupera el cuadradillo (no se gira 90°); puerta condenada pero NO enclavada"
+    },
+    {
+     "hora": "17:29:30",
+     "evento": "Velocidad >240 km/h; anulación de la condena; pérdida de presión en junta hinchable (1 s)"
+    },
+    {
+     "hora": "17:29:34",
+     "evento": "Detección en cabeza motriz: 'apertura del lazo de puertas con velocidad superior a 0'"
+    },
+    {
+     "hora": "17:29:38",
+     "evento": "Recuperación del cuadradillo (tardía); puerta ya desencajada, no se enclava"
+    },
+    {
+     "hora": "17:31:09",
+     "evento": "Último contacto puerta-coche: desprendimiento de la puerta; arrollamiento por tren 2361 en vía I"
+    },
+    {
+     "hora": "17:32:53",
+     "evento": "Detención del tren 2164 por actuación del freno del maquinista en PK 257+000"
+    },
+    {
+     "hora": "17:35",
+     "evento": "El maquinista del 2164 avisa al Puesto de Mando de Alta Velocidad"
+    },
+    {
+     "hora": "17:38:01",
+     "evento": "El tren 2164 reanuda marcha a velocidad reducida hasta Córdoba con interventor custodiando la puerta"
+    },
+    {
+     "hora": "18:17",
+     "evento": "El tren 2361 continúa marcha a 60 km/h hasta Puertollano, donde es apartado"
+    },
+    {
+     "hora": "19:47",
+     "evento": "Adif comunica el suceso a la CIAF"
+    },
+    {
+     "hora": "23:20",
+     "evento": "Personal de infraestructura reconoce los túneles de Vereda y Venta La Inés"
+    },
+    {
+     "hora": "00:44",
+     "evento": "Queda la vía expedita (8 de abril)"
+    },
+    {
+     "hora": "03:05",
+     "evento": "Terminada reposición de 300 m de cable LZB; se restablece la normal circulación (8 de abril)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0027/2013",
+ "expediente": "0027/13",
+ "anio": 2013,
+ "titulo": "Desprendimiento de puerta en tren Talgo y arrollamiento por otro tren en túnel Venta La Inés (Ciudad Real)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 07 04 2013 IF-070413-240315-CIAF.md"
+}

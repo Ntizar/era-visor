@@ -1,0 +1,884 @@
+{
+ "id": "IF-040309-140709-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/A0019CCA-9BB7-4504-80D9-32BEC7BF6366/53043/040309140709CIAF.pdf",
+ "pdf": "pdfs/ES/IF-040309-140709-CIAF.pdf",
+ "md5_pdf": "932a7dc2c3a5fac33619c1aec0b61727",
+ "paginas_md": 11,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 5,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0015/2009",
+   "pagina": 1,
+   "cita": "nº 0015/2009 ocurrido el 04.03.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 4 de marzo de 2009 a las 21:49, el tren de viajeros 18098 de Renfe Operadora arrolló a una joven de 19 años en el apeadero de Platja de Castelldefels (Barcelona). La víctima, recién bajada del tren 28387 estacionado en la vía I, intentó cruzar a la vía II por detrás del tren sin percatarse de la llegada del 18098, que no tenía parada prescrita. Fue golpeada con la parte derecha del frontal y falleció al ser atendida por los servicios sanitarios. No se establecieron recomendaciones al existir un paso elevado entre andenes y carteles de advertencia, además de estar en construcción un paso inferior.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-03-04",
+    "hora": "21:49",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Apeadero de Platja de Castelldefels",
+     "pk": "656,600",
+     "linea": "200 Madrid Chamartín - Barcelona Sants",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Apeadero situado dentro del núcleo urbano de Platja de Castelldefels, próximo al mar. Vía II del apeadero, tramo Sitges - Castelldefels. Paralelo a la vía por el lado montaña transcurren la autopista C-32 y la avenida de la Constitución. Existe un paso elevado en el P.K. 656,544 para comunicar ambos lados de la ciudad y los andenes, pero su longitud de rampas y ubicación alejada del estacionamiento de trenes hacen que algunos viajeros prefieran cruzar las vías. No dispone de pasos enmaderados; los andenes tienen una altura aproximada de 70 cm."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 4 de marzo de 2009, a las 21:49 horas, el tren de viajeros 18098, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Interrupción de la vía II de 21:49 a 23:19 entre Garraf y Castelldefels. Trenes pares e impares circulan por vía I banalizada con marcha a la vista al paso por el apeadero. Afectados 5 trenes de larga distancia (79 min de retraso), 3 de media distancia (92 min), 6 de cercanías (115 min). Se suprime un tren de larga distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión del gálibo de la vía por parte de la víctima, que intentaba cruzar por detrás del tren 28387 estacionado en la vía I, sin percatarse de la llegada del tren 18098 por la vía II.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión del gálibo de la vía por parte de la víctima,",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Ubicación del paso elevado con rampas largas y alejadas del lugar de estacionamiento de los trenes, lo que induce a algunos viajeros a cruzar las vías en lugar de utilizarlo",
+    "Ausencia de pasos enmaderados en el apeadero, obligando a bajar del andén (70 cm) y caminar sobre el balasto",
+    "La víctima no tenía visibilidad para percatarse de la proximidad del tren al cruzar por detrás de la composición estacionada",
+    "Alta densidad de tráfico en el tramo (1.651 circulaciones semanales)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones, dada la existencia de un paso \nelevado que comunica los andenes y de carteles que advierten del \npeligro de cruzar las vías. Además, se está construyendo un paso \ninferior próximo al edificio de viajeros. \n \n \n \n \n \nMadrid, 14 de julio de 2009.",
+   "pagina": 11,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones, dada la existencia de un paso elevado que comunica los andenes y de carteles que advierten del peligro de cruzar las vías",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "Renfe Operadora, arrolla a una persona que cruzaba las vías sin percatarse de la llegada del tren. La",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-03-04",
+   "pagina": 3,
+   "cita": "El día 4 de marzo de 2009, a las 21:49 horas, el tren de viajeros 18098, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "21:49",
+   "pagina": 3,
+   "cita": "El día 4 de marzo de 2009, a las 21:49 horas, el tren de viajeros 18098, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Apeadero de Platja de Castelldefels",
+    "pk": "656,600",
+    "linea": "200 Madrid Chamartín - Barcelona Sants",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Apeadero situado dentro del núcleo urbano de Platja de Castelldefels, próximo al mar. Vía II del apeadero, tramo Sitges - Castelldefels. Paralelo a la vía por el lado montaña transcurren la autopista C-32 y la avenida de la Constitución. Existe un paso elevado en el P.K. 656,544 para comunicar ambos lados de la ciudad y los andenes, pero su longitud de rampas y ubicación alejada del estacionamiento de trenes hacen que algunos viajeros prefieran cruzar las vías. No dispone de pasos enmaderados; los andenes tienen una altura aproximada de 70 cm."
+   },
+   "pagina": 3,
+   "cita": "víctima se dispuso a cruzar las vías por detrás de un tren que se encontraba estacionado en la vía I y",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "200 Madrid Chamartín - Barcelona Sants",
+   "pagina": 3,
+   "cita": "200 Madrid Chamartín - Barcelona Sants",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UT 470104, 3 coches, 162 Tn de masa remolcada. Nº UIC: 96717470104-1",
+    "averia": "Ninguna. Equipos de seguridad (freno, ASFA, sistemas de vigilancia) funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 4 de marzo de 2009, a las 21:49 horas, el tren de viajeros 18098 de Renfe Operadora, procedente de Barcelona con destino Vilanova i la Geltrú (sentido norte), arrolló en el apeadero de Platja de Castelldefels a una persona que intentaba cruzar las vías por detrás de la composición del tren 28387, estacionado en la vía I, del cual se había bajado. La víctima irrumpió súbitamente en la vía II cuando el tren 18098, que no tenía parada prescrita, efectuaba su paso. Bajó del andén de la vía I por un lugar sin ningún tipo de paso que comunicara con el otro andén y se dispuso a cruzar de izquierda a derecha en el sentido de circulación del tren.\n\nLa víctima no tenía visibilidad que le permitiera percatarse de la proximidad del tren e intentó terminar de cruzar y subir al andén de la vía II, pero fue golpeada con la parte derecha del frontal de la composición y lanzada sobre dicho andén. Quedó tendida en el andén de la vía II y falleció cuando estaba siendo atendida por los servicios sanitarios. El maquinista, al observar a la persona cruzando, activó el freno de emergencia circulando a 138 km/h (máxima permitida 140 km/h), pero no pudo evitar el arrollamiento. A las 22:29 los Mossos d'Esquadra autorizaron al tren a reanudar la marcha, y a las 23:19 se produjo el levantamiento del cadáver.",
+   "pagina": 3,
+   "cita": "1. RESUMEN El día 4 de marzo de 2009, a las 21:49 horas, el tren de viajeros 18098, de la empresa ferroviaria Renfe Operadora, arrolla a una persona que cruzaba las vías sin percatarse de la llegada del tren. La vícti",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Apeadero de Platja de Castelldefels",
+    "pk": "656,600",
+    "linea": "200 Madrid Chamartín - Barcelona Sants",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Apeadero situado dentro del núcleo urbano de Platja de Castelldefels, próximo al mar. Vía II del apeadero, tramo Sitges - Castelldefels. Paralelo a la vía por el lado montaña transcurren la autopista C-32 y la avenida de la Constitución. Existe un paso elevado en el P.K. 656,544 para comunicar ambos lados de la ciudad y los andenes, pero su longitud de rampas y ubicación alejada del estacionamiento de trenes hacen que algunos viajeros prefieran cruzar las vías. No dispone de pasos enmaderados; los andenes tienen una altura aproximada de 70 cm."
+   },
+   "pagina": 3,
+   "cita": "víctima se dispuso a cruzar las vías por detrás de un tren que se encontraba estacionado en la vía I y",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Interrupción de la vía II de 21:49 a 23:19 entre Garraf y Castelldefels. Trenes pares e impares circulan por vía I banalizada con marcha a la vista al paso por el apeadero. Afectados 5 trenes de larga distancia (79 min de retraso), 3 de media distancia (92 min), 6 de cercanías (115 min). Se suprime un tren de larga distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 18098",
+     "implicacion": "Matrícula 9711011. Al observar a la víctima cruzando las vías, activó el freno de emergencia a 138 km/h (máxima permitida 140 km/h). Actuación correcta. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Título de conducción vigente, habilitado conforme a OM 2520/2006. Último reciclaje formativo 02/03/06; último reconocimiento médico y psicotécnico 08/03/06. Jornada del día 4: 4h45min de conducción (jornada laboral 5h04min); día 3: 5h20min conducción (6h40min laboral); día 2: descanso/vacaciones."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "18098",
+     "tipo": "viajeros media distancia",
+     "operador": "Renfe Operadora",
+     "danos": "Sin daños en material rodante"
+    },
+    {
+     "numero": "28387",
+     "tipo": "viajeros",
+     "operador": "Renfe Operadora",
+     "danos": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 4 de marzo de 2009, a las 21:49 horas, el tren de viajeros 18098, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UT 470104, 3 coches, 162 Tn de masa remolcada. Nº UIC: 96717470104-1",
+    "averia": "Ninguna. Equipos de seguridad (freno, ASFA, sistemas de vigilancia) funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 5,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (B.A.B.)",
+    "tipo_via": "Vía doble electrificada, ancho convencional",
+    "velocidad_maxima": "140 km/h al paso por el punto del arrollamiento",
+    "ancho": "Convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Trazado horizontal y recto, buena visibilidad tanto para trenes como para personas en andenes. Andenes de altura aproximada 70 cm. Sin pasos enmaderados. Paso elevado en P.K. 656,544 con rampas de longitud y ubicación que dificultan su uso. En construcción un paso inferior próximo al edificio de viajeros. Carteles que advierten del peligro de cruzar las vías.",
+    "otro": "Control de tráfico centralizado (C.T.C.) gestionado desde el Puesto de Mando de Barcelona Sants. Radiotelefonía modalidad A. Tramo con media semanal de 1.651 circulaciones (muy alta): 332 larga distancia, 332 media distancia, 971 cercanías, 11 mercancías, 5 servicio (datos CIRTRA 2007)."
+   },
+   "pagina": 6,
+   "cita": "Vía doble electrificada, de ancho convencional, con bloqueo automático banalizado (B.A.B.) y",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático banalizado (B.A.B.)",
+   "pagina": 6,
+   "cita": "Vía doble electrificada, de ancho convencional, con bloqueo automático banalizado (B.A.B.) y",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Interrupción de la vía II de 21:49 a 23:19 entre Garraf y Castelldefels. Trenes pares e impares circulan por vía I banalizada con marcha a la vista al paso por el apeadero. Afectados 5 trenes de larga distancia (79 min de retraso), 3 de media distancia (92 min), 6 de cercanías (115 min). Se suprime un tren de larga distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Interrupción de la vía II de 21:49 a 23:19 entre Garraf y Castelldefels. Trenes pares e impares circulan por vía I banalizada con marcha a la vista al paso por el apeadero. Afectados 5 trenes de larga distancia (79 min de retraso), 3 de media distancia (92 min), 6 de cercanías (115 min). Se suprime un tren de larga distancia."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente",
+    "afectacion_servicio": "Interrupción de la vía II de 21:49 a 23:19 entre Garraf y Castelldefels. Trenes pares e impares circulan por vía I banalizada con marcha a la vista al paso por el apeadero. Afectados 5 trenes de larga distancia (79 min de retraso), 3 de media distancia (92 min), 6 de cercanías (115 min). Se suprime un tren de larga distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 470104, 3 coches, 162 Tn de masa remolcada. Nº UIC: 96717470104-1",
+    "averia": "Ninguna. Equipos de seguridad (freno, ASFA, sistemas de vigilancia) funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (B.A.B.)",
+    "tipo_via": "Vía doble electrificada, ancho convencional",
+    "velocidad_maxima": "140 km/h al paso por el punto del arrollamiento",
+    "ancho": "Convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Trazado horizontal y recto, buena visibilidad tanto para trenes como para personas en andenes. Andenes de altura aproximada 70 cm. Sin pasos enmaderados. Paso elevado en P.K. 656,544 con rampas de longitud y ubicación que dificultan su uso. En construcción un paso inferior próximo al edificio de viajeros. Carteles que advierten del peligro de cruzar las vías.",
+    "otro": "Control de tráfico centralizado (C.T.C.) gestionado desde el Puesto de Mando de Barcelona Sants. Radiotelefonía modalidad A. Tramo con media semanal de 1.651 circulaciones (muy alta): 332 larga distancia, 332 media distancia, 971 cercanías, 11 mercancías, 5 servicio (datos CIRTRA 2007)."
+   },
+   "pagina": 6,
+   "cita": "Vía doble electrificada, de ancho convencional, con bloqueo automático banalizado (B.A.B.) y",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche con buena visibilidad",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Apeadero de Platja de Castelldefels"
+   },
+   "pagina": 3,
+   "cita": "200 Madrid Chamartín - Barcelona Sants",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche con buena visibilidad",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático banalizado (B.A.B.)",
+   "pagina": 6,
+   "cita": "Vía doble electrificada, de ancho convencional, con bloqueo automático banalizado (B.A.B.) y",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (B.A.B.)",
+    "tipo_via": "Vía doble electrificada, ancho convencional",
+    "velocidad_maxima": "140 km/h al paso por el punto del arrollamiento",
+    "ancho": "Convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Trazado horizontal y recto, buena visibilidad tanto para trenes como para personas en andenes. Andenes de altura aproximada 70 cm. Sin pasos enmaderados. Paso elevado en P.K. 656,544 con rampas de longitud y ubicación que dificultan su uso. En construcción un paso inferior próximo al edificio de viajeros. Carteles que advierten del peligro de cruzar las vías.",
+    "otro": "Control de tráfico centralizado (C.T.C.) gestionado desde el Puesto de Mando de Barcelona Sants. Radiotelefonía modalidad A. Tramo con media semanal de 1.651 circulaciones (muy alta): 332 larga distancia, 332 media distancia, 971 cercanías, 11 mercancías, 5 servicio (datos CIRTRA 2007)."
+   },
+   "pagina": 6,
+   "cita": "Vía doble electrificada, de ancho convencional, con bloqueo automático banalizado (B.A.B.) y",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 470104, 3 coches, 162 Tn de masa remolcada. Nº UIC: 96717470104-1",
+    "averia": "Ninguna. Equipos de seguridad (freno, ASFA, sistemas de vigilancia) funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Bajar del tren estacionado en vía I",
+    "Cruzar por detrás del tren",
+    "No usar paso elevado existente",
+    "No percatarse de otro tren"
+   ],
+   "pagina": 3,
+   "cita": "que intentaba cruzar por detrás del tren, del que se acababa de bajar y que estaba estacionado en la",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 4 de marzo de 2009, a las 21:49 horas, el tren de viajeros 18098 de Renfe Operadora, procedente de Barcelona con destino Vilanova i la Geltrú (sentido norte), arrolló en el apeadero de Platja de Castelldefels a una persona que intentaba cruzar las vías por detrás de la composición del tren 28387, estacionado en la vía I, del cual se había bajado. La víctima irrumpió súbitamente en la vía II cuando el tren 18098, que no tenía parada prescrita, efectuaba su paso. Bajó del andén de la vía I por un lugar sin ningún tipo de paso que comunicara con el otro andén y se dispuso a cruzar de izquierda a derecha en el sentido de circulación del tren.\n\nLa víctima no tenía visibilidad que le permitiera percatarse de la proximidad del tren e intentó terminar de cruzar y subir al andén de la vía II, pero fue golpeada con la parte derecha del frontal de la composición y lanzada sobre dicho andén. Quedó tendida en el andén de la vía II y falleció cuando estaba siendo atendida por los servicios sanitarios. El maquinista, al observar a la persona cruzando, activó el freno de emergencia circulando a 138 km/h (máxima permitida 140 km/h), pero no pudo evitar el arrollamiento. A las 22:29 los Mossos d'Esquadra autorizaron al tren a reanudar la marcha, y a las 23:19 se produjo el levantamiento del cadáver.",
+   "pagina": 3,
+   "cita": "1. RESUMEN El día 4 de marzo de 2009, a las 21:49 horas, el tren de viajeros 18098, de la empresa ferroviaria Renfe Operadora, arrolla a una persona que cruzaba las vías sin percatarse de la llegada del tren. La vícti",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en la vía II del apeadero de Platja de Castelldefels. \nDel análisis del registrador de seguridad del tren se desprende que el tren circulaba a una \nvelocidad inferior a su máxima permitida en el tramo. \nSegún lo declarado por el maquinista, al ver a la víctima en el gálibo de la vía, hace uso del freno \nde emergencia, por lo que la actuación del maquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nLos equipos de seguridad del tren y las instalaciones técnicas funcionaban correctamente en el \nmomento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nQue la víctima intenta cruzar por detrás de un tren que se encontraba estacionado, no \npercatándose de la llegada de otro tren por la otra vía.  \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en la invasión del gálibo de la vía por parte de la víctima, que intentaba \ncruzar por detrás del tren, del que se acababa de bajar y que estaba estacionado en la vía I, sin \npercatarse de la llegada del tren 18098 por la vía II. \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0015/2009 ocurrido el 04.03.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-040309-140709-CIAF \n \n \nPág. 11 de 11",
+   "pagina": 10,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión del gálibo de la vía por parte de la víctima, que intentaba cruzar por detrás del tren 28387 estacionado en la vía I, sin percatarse de la llegada del tren 18098 por la vía II.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión del gálibo de la vía por parte de la víctima,",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Ubicación del paso elevado con rampas largas y alejadas del lugar de estacionamiento de los trenes, lo que induce a algunos viajeros a cruzar las vías en lugar de utilizarlo",
+    "Ausencia de pasos enmaderados en el apeadero, obligando a bajar del andén (70 cm) y caminar sobre el balasto",
+    "La víctima no tenía visibilidad para percatarse de la proximidad del tren al cruzar por detrás de la composición estacionada",
+    "Alta densidad de tráfico en el tramo (1.651 circulaciones semanales)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones, dada la existencia de un paso \nelevado que comunica los andenes y de carteles que advierten del \npeligro de cruzar las vías. Además, se está construyendo un paso \ninferior próximo al edificio de viajeros. \n \n \n \n \n \nMadrid, 14 de julio de 2009.",
+   "pagina": 11,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones, dada la existencia de un paso elevado que comunica los andenes y de carteles que advierten del peligro de cruzar las vías",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "21:49",
+     "evento": "Arrollamiento de la víctima por el tren 18098 en la vía II del apeadero de Platja de Castelldefels"
+    },
+    {
+     "hora": "22:29",
+     "evento": "Los Mossos d'Esquadra autorizan al tren 18098 a reanudar la marcha"
+    },
+    {
+     "hora": "23:19",
+     "evento": "Levantamiento del cadáver; fin de la interrupción de la vía II"
+    },
+    {
+     "hora": "23:45",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el arrollamiento a la CIAF mediante mensaje de telefonía móvil"
+    },
+    {
+     "hora": null,
+     "evento": "11 de diciembre de 2007: la CIAF designa técnico responsable de la investigación"
+    },
+    {
+     "hora": null,
+     "evento": "20.04.09: entrega del informe particular del Responsable de Seguridad de Renfe Operadora"
+    },
+    {
+     "hora": null,
+     "evento": "05.05.09: entrega del informe particular del Gerente Territorial de Seguridad en la Circulación de Noreste de Adif"
+    },
+    {
+     "hora": null,
+     "evento": "14.07.09: fecha del informe final en Madrid"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0015/2009",
+ "expediente": "0015/09",
+ "anio": 2009,
+ "titulo": "Arrollamiento de persona en el apeadero de Platja de Castelldefels al cruzar las vías por detrás de un tren estacionado",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-040309-140709-CIAF.md"
+}

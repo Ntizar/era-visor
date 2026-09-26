@@ -1,0 +1,984 @@
+{
+ "id": "IF-070311-290512-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/1DF2FEB7-35C7-44C4-A04D-323361BCC5F5/112294/152011.pdf",
+ "pdf": "pdfs/ES/IF-070311-290512-CIAF.pdf",
+ "md5_pdf": "6886668c1a4e8e22e1ef167b3880df5b",
+ "paginas_md": 14,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 17,
+ "n_tablas": 3,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "15/11-1",
+     "Recomendación": "Vigilancia del comportamiento de la baliza ASFA de pie de señal de la 2268 (anterior a la avanzada E’2 de Flaçá) con objeto de detectar funcionamientos anómalos de la misma."
+    },
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "15/11-2",
+     "Recomendación": "Seguimiento del comportamiento del equipo ASFA embarcado en el tren 212, con el objeto de detectar si su funcionamiento es correcto."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 10,
+   "cabecera": [
+    "07/03/2011 21:26:12",
+    "Conversación entre el operador del puesto de mando de Barcelona y el maquinista del tren 212."
+   ],
+   "filas": [
+    {
+     "07/03/2011 21:26:12": "CTC: Maquinista: CTC: Maquinista: CTC: Maquinista: CTC: Maquinista: CTC: Maquinista: CTC: Maquinista: CTC: Maquinista.",
+     "Conversación entre el operador del puesto de mando de Barcelona y el maquinista del tren 212.": "212 buenas noches. 212 buenas noches, ¡Mira que te iba a decir!¡eh!... la señal, la anterior a la avanzada de Flaçà. Sí. Me ha dado la baliza previa de señal, indicación de anuncio de parada. ¿Baliza previa? ¡Sí, sí! ¡Era como estaba la señal!, la indicación de anuncio de parada. Sí. Al paso por la baliza de señal me ha dado vía libre. Te ha dado vía libre al pasar, ¿no? ¡Vale! Y la avanzada, en parada. ¡Y la avanzada en parada! Sí, en parada. En parada. Eh…"
+    }
+   ],
+   "cita": "| 07/03/2011 21:26:12 | Conversación entre el operador del puesto de mando de Barcelona y el maquinista del tren 212. |"
+  },
+  {
+   "pagina": 14,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "15/11-1",
+     "Recomendación": "Vigilancia del comportamiento de la baliza ASFA de pie de señal de la 2268 (anterior a la avanzada E’2 de Flaçá) con objeto de detectar funcionamientos anómalos de la misma."
+    },
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "15/11-2",
+     "Recomendación": "Seguimiento del comportamiento del equipo ASFA embarcado en el tren 212, con el objeto de detectar si su funcionamiento es correcto."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0015/2011",
+   "pagina": 1,
+   "cita": "nº 0015/2011 ocurrido el 07.03.2011",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 7 de marzo de 2011, a las 21:22, se produjo un conato de colisión en la entrada de la estación de Flaçà (Girona) entre el tren de viajeros 212 y el tren de mercancías 93580, ambos de Renfe Operadora. El tren 212 rebasó indebidamente la señal avanzada E'2, situada en el PK 224+794, que estaba en indicación de parada, e invadió el cantón siguiente ocupado por el tren de mercancías. La investigación concluye que el origen fue el incumplimiento de las órdenes de la señal por el personal de conducción. Como factor coadyuvante se señala el funcionamiento anómalo del sistema ASFA, al indicar vía libre en cabina cuando la señal intermedia 2268 estaba en anuncio de parada. No hubo víctimas ni daños materiales y el incidente no afectó al tráfico ferroviario.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2011-03-07",
+    "hora": "21:22",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Flaçà",
+     "pk": "224+794",
+     "linea": "270 Barcelona San Andrés Condal - Cerbere",
+     "provincia": "Girona",
+     "descripcion_lugar": "Entrada a la estación de Flaçà, lado Cerbere, a la altura de la señal avanzada E'2, en la vía II del tramo Girona - Vilamalla."
+    }
+   },
+   "pagina": 10,
+   "cita": "07/03/2011 21:26:12 Conversación entre el operador del puesto de mando de Barcelona y el maquinista del tren 212. CTC: Maquinista: CTC: Maquinista: CTC: Maquinista: CTC: Maquinista: CTC: Maquinista: CTC:",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en la infraestructura ni en el material rodante.",
+    "afectacion_servicio": "El incidente no tuvo repercusión en el tráfico ferroviario; no se vio afectada ninguna circulación; no se activó el plan de emergencia interno ni externo."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños materiales en la infraestructura ni en el material rodante.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Rebase indebido de la señal avanzada E'2 en indicación de parada por incumplimiento de las órdenes dadas por la señal al personal de conducción del tren 212.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Funcionamiento anómalo del sistema ASFA por discrepancia entre la indicación de la señal intermedia 2268 (anuncio de parada) y la indicación del ASFA embarcado (vía libre).",
+    "El maquinista atendió la indicación del ASFA en cabina en lugar de la indicación real de la señal.",
+    "No se puso el tren en condiciones de parar ante la señal siguiente, incumpliendo el artículo 213 del Reglamento General de Circulación.",
+    "No se comunicó al puesto de mando el rebase de la señal E'2, incumpliendo el artículo 279 del Reglamento General de Circulación."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Vigilancia del comportamiento de la baliza ASFA de pie de señal de la 2268 (anterior a la avanzada E’2 de Flaçá) con objeto de detectar funcionamientos anómalos de la misma.",
+    "Seguimiento del comportamiento del equipo ASFA embarcado en el tren 212, con el objeto de detectar si su funcionamiento es correcto.",
+    "Vigilancia del comportamiento de la baliza ASFA de pie de señal de la 2268 (anterior a la avanzada E’2 de Flaçá) con objeto de detectar funcionamientos anómalos de la misma.",
+    "Seguimiento del comportamiento del equipo ASFA embarcado en el tren 212, con el objeto de detectar si su funcionamiento es correcto."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Renfe Operadora",
+    "Adif",
+    "Renfe Operadora"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente",
+   "pagina": 1,
+   "cita": "Investigación del incidente",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "ambos de la empresa ferroviaria Renfe Operadora, cuando el primero rebasa indebidamente la señal",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2011-03-07",
+   "pagina": 10,
+   "cita": "07/03/2011 21:26:12 Conversación entre el operador del puesto de mando de Barcelona y el maquinista del tren 212. CTC: Maquinista: CTC: Maquinista: CTC: Maquinista: CTC: Maquinista: CTC: Maquinista: CTC:",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "21:22",
+   "pagina": 3,
+   "cita": "El día 7 de marzo de 2011 a las 21:22 horas en la estación de Flaçà (Girona), a la altura de la señal",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Flaçà",
+    "pk": "224+794",
+    "linea": "270 Barcelona San Andrés Condal - Cerbere",
+    "provincia": "Girona",
+    "descripcion_lugar": "Entrada a la estación de Flaçà, lado Cerbere, a la altura de la señal avanzada E'2, en la vía II del tramo Girona - Vilamalla."
+   },
+   "pagina": 3,
+   "cita": "El día 7 de marzo de 2011 a las 21:22 horas en la estación de Flaçà (Girona), a la altura de la señal",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "270 Barcelona San Andrés Condal - Cerbere",
+   "pagina": 3,
+   "cita": "avanzada E’2 (lado Cerbere) de la línea 270 Barcelona San Andrés Condal - Cerbere, se produce un",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tren 212: rama 449024, tipo 160A; tren 93580: locomotora 253033, tipo 100N.",
+    "averia": "El ASFA embarcado del tren 212 indicó vía libre (L3) al paso por la baliza de pie de la señal 2268, cuya indicación real era anuncio de parada; no se determinó la causa de la discrepancia.",
+    "mantenimiento": "Dimetronic verificó el correcto funcionamiento del equipo ASFA embarcado; registró una incidencia no relacionada el 05/09/2010; el captador de balizas y el procesamiento del ASFA Digital fueron revisados el 11/05/2011 en la intervención IM1. La gerencia de mantenimiento de Barcelona de Adif revisó el 14/05/2011 la señal intermedia 2268 y sus balizas, comprobando funcionamiento correcto."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 7 de marzo de 2011, a las 21:22 horas, el tren de viajeros de larga distancia 212 de Renfe Operadora, procedente de Figueres Vilafant y con destino Barcelona Sants, circulaba por la vía II de la línea 270 Barcelona San Andrés Condal - Cerbere en la entrada de la estación de Flaçà, lado Cerbere. Al paso por la baliza previa de la señal intermedia 2268 captó indicación de anuncio de parada (L1) y el maquinista actuó el reconocimiento ASFA. Al paso por la baliza de pie de la misma señal, el ASFA embarcado indicó vía libre (L3), aunque la señal 2268 permanecía en anuncio de parada; el maquinista atendió la indicación de cabina y continuó con marcha normal.\n\nCuando visualizó la señal avanzada E'2 en indicación de parada, el maquinista activó el freno de urgencia, pero el tren no pudo detenerse ante la señal. El tren 212 rebasó la señal avanzada E'2 a 23 km/h y quedó detenido 16 metros después, invadiendo el siguiente cantón de vía, que estaba ocupado por el tren de mercancías 93580 detenido ante la señal de entrada E2. Se produjo un conato de colisión; ambos trenes quedaron sobre la misma vía separados unos 1.500 metros.\n\nEl maquinista se comunicó con el puesto de mando y explicó la discrepancia entre la baliza de pie de la señal 2268 y la indicación del ASFA, así como que la avanzada estaba en parada, pero no comunicó el rebase de la señal E'2. No hubo víctimas ni daños materiales, y el incidente no tuvo repercusión en el tráfico ferroviario.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Flaçà",
+    "pk": "224+794",
+    "linea": "270 Barcelona San Andrés Condal - Cerbere",
+    "provincia": "Girona",
+    "descripcion_lugar": "Entrada a la estación de Flaçà, lado Cerbere, a la altura de la señal avanzada E'2, en la vía II del tramo Girona - Vilamalla."
+   },
+   "pagina": 3,
+   "cita": "El día 7 de marzo de 2011 a las 21:22 horas en la estación de Flaçà (Girona), a la altura de la señal",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en la infraestructura ni en el material rodante.",
+    "afectacion_servicio": "El incidente no tuvo repercusión en el tráfico ferroviario; no se vio afectada ninguna circulación; no se activó el plan de emergencia interno ni externo."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños materiales en la infraestructura ni en el material rodante.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista del tren 212 (matrícula 1347103)",
+     "implicacion": "Condujo el tren 212; al paso por la baliza de pie de la señal 2268 atendió la indicación de vía libre del ASFA en lugar de la indicación real de anuncio de parada; activó el freno de urgencia al visualizar la señal avanzada E'2 en parada; rebasó la señal y no comunicó el rebase al puesto de mando. Poseía título B de conducción, habilitación de línea desde 27/10/2001 y de vehículo desde 14/11/2009, antigüedad desde 30/01/1997, último reciclaje formativo 23/02/2011 y último reconocimiento médico y psicotécnico 24/08/2006. Su jornada laboral registrada era: día 15: 17 minutos; día 14: descanso; día 13: 5 horas y 9 minutos. No se le realizó control de alcohol y drogas porque no se tuvo conocimiento del incidente hasta el día siguiente. Fue retirado del servicio y se le aplicó la circular operativa nº1 de Renfe Operadora."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "212",
+     "tipo": "tren de viajeros de larga distancia; rama 449024, 5 coches, 12 ejes, 99 m, 185 t, tipo 160A",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños materiales"
+    },
+    {
+     "numero": "93580",
+     "tipo": "tren de mercancías; locomotora 253033, 9 vagones, 18 ejes, 138 m, tipo 100N",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños materiales"
+    }
+   ],
+   "pagina": 3,
+   "cita": "ambos de la empresa ferroviaria Renfe Operadora, cuando el primero rebasa indebidamente la señal",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tren 212: rama 449024, tipo 160A; tren 93580: locomotora 253033, tipo 100N.",
+    "averia": "El ASFA embarcado del tren 212 indicó vía libre (L3) al paso por la baliza de pie de la señal 2268, cuya indicación real era anuncio de parada; no se determinó la causa de la discrepancia.",
+    "mantenimiento": "Dimetronic verificó el correcto funcionamiento del equipo ASFA embarcado; registró una incidencia no relacionada el 05/09/2010; el captador de balizas y el procesamiento del ASFA Digital fueron revisados el 11/05/2011 en la intervención IM1. La gerencia de mantenimiento de Barcelona de Adif revisó el 14/05/2011 la señal intermedia 2268 y sus balizas, comprobando funcionamiento correcto."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal intermedia 2268 (PK 226+704) en anuncio de parada; señal avanzada E'2 (PK 224+794) en parada; señal de entrada E2 (PK 222+878); balizas ASFA de pie de señal y previa a 300 m; señales 2268 y E'2 permisivas con cartelón P; ASFA Digital embarcado; regulación mediante CTC desde Barcelona Sants.",
+    "tipo_via": "Vía doble electrificada con Bloqueo Automático Banalizado (BAB); vía II por la que circulaba el tren 212; vía I con tercer carril.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": "Vía II: ancho convencional; vía I: ancho mixto con tercer carril.",
+    "electrificacion": "Electrificada",
+    "estado_via": "Alineación horizontal y recta entre la señal intermedia 2268 y la señal avanzada E'2; sin limitaciones temporales de velocidad.",
+    "otro": "Radiotelefonía modalidad A (tren-tierra); tráfico medio semanal del tramo Girona - Vilamalla: 444 circulaciones (61 larga distancia, 270 media distancia, 1 cercanías, 106 mercancías, 6 servicio); no se activó plan de emergencia interno ni externo."
+   },
+   "pagina": 7,
+   "cita": "140 km/h, no existiendo limitaciones temporales de velocidad.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal intermedia 2268 (PK 226+704) en anuncio de parada; señal avanzada E'2 (PK 224+794) en parada; señal de entrada E2 (PK 222+878); balizas ASFA de pie de señal y previa a 300 m; señales 2268 y E'2 permisivas con cartelón P; ASFA Digital embarcado; regulación mediante CTC desde Barcelona Sants.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad A (tren tierra).",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en la infraestructura ni en el material rodante.",
+    "afectacion_servicio": "El incidente no tuvo repercusión en el tráfico ferroviario; no se vio afectada ninguna circulación; no se activó el plan de emergencia interno ni externo."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños materiales en la infraestructura ni en el material rodante.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en la infraestructura ni en el material rodante.",
+    "afectacion_servicio": "El incidente no tuvo repercusión en el tráfico ferroviario; no se vio afectada ninguna circulación; no se activó el plan de emergencia interno ni externo."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños materiales en la infraestructura ni en el material rodante.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en la infraestructura ni en el material rodante.",
+    "afectacion_servicio": "El incidente no tuvo repercusión en el tráfico ferroviario; no se vio afectada ninguna circulación; no se activó el plan de emergencia interno ni externo."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños materiales en la infraestructura ni en el material rodante.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 212: rama 449024, tipo 160A; tren 93580: locomotora 253033, tipo 100N.",
+    "averia": "El ASFA embarcado del tren 212 indicó vía libre (L3) al paso por la baliza de pie de la señal 2268, cuya indicación real era anuncio de parada; no se determinó la causa de la discrepancia.",
+    "mantenimiento": "Dimetronic verificó el correcto funcionamiento del equipo ASFA embarcado; registró una incidencia no relacionada el 05/09/2010; el captador de balizas y el procesamiento del ASFA Digital fueron revisados el 11/05/2011 en la intervención IM1. La gerencia de mantenimiento de Barcelona de Adif revisó el 14/05/2011 la señal intermedia 2268 y sus balizas, comprobando funcionamiento correcto."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal intermedia 2268 (PK 226+704) en anuncio de parada; señal avanzada E'2 (PK 224+794) en parada; señal de entrada E2 (PK 222+878); balizas ASFA de pie de señal y previa a 300 m; señales 2268 y E'2 permisivas con cartelón P; ASFA Digital embarcado; regulación mediante CTC desde Barcelona Sants.",
+    "tipo_via": "Vía doble electrificada con Bloqueo Automático Banalizado (BAB); vía II por la que circulaba el tren 212; vía I con tercer carril.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": "Vía II: ancho convencional; vía I: ancho mixto con tercer carril.",
+    "electrificacion": "Electrificada",
+    "estado_via": "Alineación horizontal y recta entre la señal intermedia 2268 y la señal avanzada E'2; sin limitaciones temporales de velocidad.",
+    "otro": "Radiotelefonía modalidad A (tren-tierra); tráfico medio semanal del tramo Girona - Vilamalla: 444 circulaciones (61 larga distancia, 270 media distancia, 1 cercanías, 106 mercancías, 6 servicio); no se activó plan de emergencia interno ni externo."
+   },
+   "pagina": 7,
+   "cita": "140 km/h, no existiendo limitaciones temporales de velocidad.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Era de noche y no existían condiciones meteorológicas adversas.",
+   "pagina": 8,
+   "cita": "En el momento del suceso era de noche y no existían condiciones meteorológicas adversas.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Girona",
+    "municipio": null,
+    "estacion": "Flaçà"
+   },
+   "pagina": 3,
+   "cita": "El día 7 de marzo de 2011 a las 21:22 horas en la estación de Flaçà (Girona), a la altura de la señal",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Era de noche y no existían condiciones meteorológicas adversas.",
+   "pagina": 8,
+   "cita": "En el momento del suceso era de noche y no existían condiciones meteorológicas adversas.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal intermedia 2268 (PK 226+704) en anuncio de parada; señal avanzada E'2 (PK 224+794) en parada; señal de entrada E2 (PK 222+878); balizas ASFA de pie de señal y previa a 300 m; señales 2268 y E'2 permisivas con cartelón P; ASFA Digital embarcado; regulación mediante CTC desde Barcelona Sants.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal intermedia 2268 (PK 226+704) en anuncio de parada; señal avanzada E'2 (PK 224+794) en parada; señal de entrada E2 (PK 222+878); balizas ASFA de pie de señal y previa a 300 m; señales 2268 y E'2 permisivas con cartelón P; ASFA Digital embarcado; regulación mediante CTC desde Barcelona Sants.",
+    "tipo_via": "Vía doble electrificada con Bloqueo Automático Banalizado (BAB); vía II por la que circulaba el tren 212; vía I con tercer carril.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": "Vía II: ancho convencional; vía I: ancho mixto con tercer carril.",
+    "electrificacion": "Electrificada",
+    "estado_via": "Alineación horizontal y recta entre la señal intermedia 2268 y la señal avanzada E'2; sin limitaciones temporales de velocidad.",
+    "otro": "Radiotelefonía modalidad A (tren-tierra); tráfico medio semanal del tramo Girona - Vilamalla: 444 circulaciones (61 larga distancia, 270 media distancia, 1 cercanías, 106 mercancías, 6 servicio); no se activó plan de emergencia interno ni externo."
+   },
+   "pagina": 7,
+   "cita": "140 km/h, no existiendo limitaciones temporales de velocidad.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad A (tren tierra).",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 212: rama 449024, tipo 160A; tren 93580: locomotora 253033, tipo 100N.",
+    "averia": "El ASFA embarcado del tren 212 indicó vía libre (L3) al paso por la baliza de pie de la señal 2268, cuya indicación real era anuncio de parada; no se determinó la causa de la discrepancia.",
+    "mantenimiento": "Dimetronic verificó el correcto funcionamiento del equipo ASFA embarcado; registró una incidencia no relacionada el 05/09/2010; el captador de balizas y el procesamiento del ASFA Digital fueron revisados el 11/05/2011 en la intervención IM1. La gerencia de mantenimiento de Barcelona de Adif revisó el 14/05/2011 la señal intermedia 2268 y sus balizas, comprobando funcionamiento correcto."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Funcionamiento anómalo del sistema ASFA por discrepancia entre la indicación de la señal intermedia 2268 (anuncio de parada) y la indicación del ASFA embarcado (vía libre).",
+    "El maquinista atendió la indicación del ASFA en cabina en lugar de la indicación real de la señal.",
+    "No se puso el tren en condiciones de parar ante la señal siguiente, incumpliendo el artículo 213 del Reglamento General de Circulación.",
+    "No se comunicó al puesto de mando el rebase de la señal E'2, incumpliendo el artículo 279 del Reglamento General de Circulación."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Por parte de Renfe Operadora \nEl maquinista del tren 212 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene antigüedad en el cargo desde el 30/01/1997, habilitación de la línea desde el 27/10/2001 y \ndel vehículo desde el 14/11/2009. \nRealizó su último reciclaje formativo el 23/02/11 y su último reconocimiento médico y psicotécnico el \n24/08/06 de acuerdo a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 8,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 7 de marzo de 2011, a las 21:22 horas, el tren de viajeros de larga distancia 212 de Renfe Operadora, procedente de Figueres Vilafant y con destino Barcelona Sants, circulaba por la vía II de la línea 270 Barcelona San Andrés Condal - Cerbere en la entrada de la estación de Flaçà, lado Cerbere. Al paso por la baliza previa de la señal intermedia 2268 captó indicación de anuncio de parada (L1) y el maquinista actuó el reconocimiento ASFA. Al paso por la baliza de pie de la misma señal, el ASFA embarcado indicó vía libre (L3), aunque la señal 2268 permanecía en anuncio de parada; el maquinista atendió la indicación de cabina y continuó con marcha normal.\n\nCuando visualizó la señal avanzada E'2 en indicación de parada, el maquinista activó el freno de urgencia, pero el tren no pudo detenerse ante la señal. El tren 212 rebasó la señal avanzada E'2 a 23 km/h y quedó detenido 16 metros después, invadiendo el siguiente cantón de vía, que estaba ocupado por el tren de mercancías 93580 detenido ante la señal de entrada E2. Se produjo un conato de colisión; ambos trenes quedaron sobre la misma vía separados unos 1.500 metros.\n\nEl maquinista se comunicó con el puesto de mando y explicó la discrepancia entre la baliza de pie de la señal 2268 y la indicación del ASFA, así como que la avanzada estaba en parada, pero no comunicó el rebase de la señal E'2. No hubo víctimas ni daños materiales, y el incidente no tuvo repercusión en el tráfico ferroviario.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Rebase indebido de la señal avanzada E'2 en indicación de parada por incumplimiento de las órdenes dadas por la señal al personal de conducción del tren 212.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Funcionamiento anómalo del sistema ASFA por discrepancia entre la indicación de la señal intermedia 2268 (anuncio de parada) y la indicación del ASFA embarcado (vía libre).",
+    "El maquinista atendió la indicación del ASFA en cabina en lugar de la indicación real de la señal.",
+    "No se puso el tren en condiciones de parar ante la señal siguiente, incumpliendo el artículo 213 del Reglamento General de Circulación.",
+    "No se comunicó al puesto de mando el rebase de la señal E'2, incumpliendo el artículo 279 del Reglamento General de Circulación."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Vigilancia del comportamiento de la baliza ASFA de pie de señal de la 2268 (anterior a la avanzada E’2 de Flaçá) con objeto de detectar funcionamientos anómalos de la misma.",
+    "Seguimiento del comportamiento del equipo ASFA embarcado en el tren 212, con el objeto de detectar si su funcionamiento es correcto.",
+    "Vigilancia del comportamiento de la baliza ASFA de pie de señal de la 2268 (anterior a la avanzada E’2 de Flaçá) con objeto de detectar funcionamientos anómalos de la misma.",
+    "Seguimiento del comportamiento del equipo ASFA embarcado en el tren 212, con el objeto de detectar si su funcionamiento es correcto."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Renfe Operadora",
+    "Adif",
+    "Renfe Operadora"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "21:20",
+     "evento": "07/03/2011: el tren 212 pasa por la baliza previa de la señal intermedia 2268 con indicación de anuncio de parada (L1) a 118 km/h; el maquinista pulsa el reconocimiento ASFA."
+    },
+    {
+     "hora": "21:21",
+     "evento": "07/03/2011: el tren pasa por la baliza de pie de la señal 2268, que estaba en anuncio de parada, pero el ASFA embarcado indica vía libre (L3); el maquinista actúa conforme a vía libre."
+    },
+    {
+     "hora": "21:21",
+     "evento": "07/03/2011: el maquinista activa el freno de urgencia al ver la señal avanzada E'2 en parada, a 581 m de la señal y a 120 km/h."
+    },
+    {
+     "hora": "21:21",
+     "evento": "07/03/2011: al paso por la baliza previa de la señal avanzada E'2 a 98 km/h se produce control de velocidad (L7) y se activa el freno de emergencia ASFA."
+    },
+    {
+     "hora": "21:22",
+     "evento": "07/03/2011: el tren 212 rebasa la señal avanzada E'2 a 23 km/h."
+    },
+    {
+     "hora": "21:22",
+     "evento": "07/03/2011: el tren 212 queda detenido a 16 m tras la señal E'2, invadiendo el cantón ocupado por el tren de mercancías 93580; se produce un conato de colisión y los trenes quedan separados 1.500 m."
+    },
+    {
+     "hora": "21:26",
+     "evento": "07/03/2011: conversación entre el maquinista del tren 212 y el operador del CTC de Barcelona; se comunica la discrepancia ASFA y que la avanzada estaba en parada, pero no se comunica el rebase."
+    },
+    {
+     "hora": "18:05",
+     "evento": "16/03/2011: el jefe de investigación de accidentes ferroviarios de Adif comunica a la CIAF el suceso."
+    },
+    {
+     "hora": null,
+     "evento": "29/03/2011: el pleno de la CIAF resuelve abrir la investigación del incidente."
+    },
+    {
+     "hora": null,
+     "evento": "11/05/2011: durante la intervención de mantenimiento preventivo IM1, Dimetronic revisa el captador de balizas y el procesamiento del ASFA Digital embarcado, verificando correcto funcionamiento."
+    },
+    {
+     "hora": null,
+     "evento": "14/05/2011: la gerencia de mantenimiento de Barcelona de Adif comprueba el funcionamiento de la señal intermedia 2268 y sus balizas, resultando correcto."
+    },
+    {
+     "hora": null,
+     "evento": "10/06/2011: el gerente de investigación técnica de accidentes de Renfe Operadora entrega su informe particular."
+    },
+    {
+     "hora": null,
+     "evento": "04/07/2011: el responsable de la gerencia territorial de seguridad en la circulación noreste de Adif entrega su informe particular."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0015/2011",
+ "expediente": "0015/011",
+ "anio": 2011,
+ "titulo": "Conato de colisión entre trenes por rebase de señal en Flaçà (Girona)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-070311-290512-CIAF.md"
+}

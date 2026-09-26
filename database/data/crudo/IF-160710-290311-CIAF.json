@@ -1,0 +1,926 @@
+{
+ "id": "IF-160710-290311-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/C8D0F3D4-E16F-4C85-B93E-B569DE3D9AEE/102269/IF160710290311CIAF.pdf",
+ "pdf": "pdfs/ES/IF-160710-290311-CIAF.pdf",
+ "md5_pdf": "c36f4dc42aa4b29a272da2917b8d076a",
+ "paginas_md": 12,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 17,
+ "n_tablas": 1,
+ "tablas": [
+  {
+   "pagina": 4,
+   "cabecera": [
+    "APARATOS Y SEÑALES",
+    "P.K."
+   ],
+   "filas": [
+    {
+     "APARATOS Y SEÑALES": "Aguja 2",
+     "P.K.": "168+837"
+    },
+    {
+     "APARATOS Y SEÑALES": "E´1",
+     "P.K.": "164+875"
+    },
+    {
+     "APARATOS Y SEÑALES": "E1",
+     "P.K.": "167+867"
+    }
+   ],
+   "cita": "| APARATOS Y SEÑALES | P.K. |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0039/2010",
+   "pagina": 1,
+   "cita": "nº 0039/2010 ocurrido el 16.07.2010",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 16 de julio de 2010, a las 15:41, en la dependencia Río Duero (Valladolid), el tren de larga distancia 4141 de Renfe Operadora rebasó indebidamente la señal de entrada E1, que indicaba parada, provocando un conato de colisión con el tren 8168. El incidente se originó por el incumplimiento de las órdenes de las señales por parte del maquinista del tren 4141, quien no reconoció la indicación de anuncio de parada (L1) en la baliza previa de la señal avanzada E'1 y posteriormente pasó la baliza de la señal de entrada E1 a 130 km/h. No se produjeron víctimas ni daños materiales. El maquinista retrocedió sin autorización tras el rebase. Renfe Operadora suspendió la habilitación del maquinista e impulsó proyectos de gestión del fallo humano.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2010-07-16",
+    "hora": "15:41",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Río Duero (RDU)",
+     "pk": "167+867",
+     "linea": "AV 80 Madrid Chamartín – Valladolid Campo Grande",
+     "provincia": "Valladolid",
+     "descripcion_lugar": "Señal de entrada E1 en la dependencia Río Duero, tramo Bifurcación Cambiador Valdestillas – Valladolid Campo Grande. Dependencia de transición de vía doble a única en ancho UIC y transición del sistema ETCS nivel 1 (lado Madrid) al sistema STM-EBICAB/ASFA (lado Valladolid)."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 16 de julio de 2010, a las 15:41 horas, en la dependencia Río Duero (Valladolid), de la línea de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños ni a la infraestructura ni al material rodante.",
+    "afectacion_servicio": "No se produjeron retrasos ni interceptaciones de la vía."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Rebase indebido, por el tren 4141, de la señal de entrada E1 en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+   "pagina": 3,
+   "cita": "Conclusión: El incidente tuvo su origen en el rebase indebido, por el tren 4141, de la señal de",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El maquinista no reconoció la indicación L1 (anuncio de parada) en la baliza previa de la señal de avanzada E'1.",
+    "El tren pasó por la baliza previa de la señal de entrada E1 a 130 km/h, superior al límite de 60 km/h para no reconocer la indicación.",
+    "Dificultad de percepción de la señalización lateral durante la transición de sistema ETCS nivel 1 a EBICAB/ASFA, con alta carga de información en cabina a velocidad superior a 200 km/h.",
+    "Retroceso sin autorización del tren tras el rebase de la señal."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "La transición entre sistemas de seguridad (ERTMS-ASFA) coincide con la ubicación de la señal avanzada, incrementando la carga de trabajo del maquinista en un punto crítico.",
+    "Gestión del riesgo por fallo humano en la conducción."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Considerando suficientes las medidas adoptadas, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 12,
+   "cita": "Recomendación Considerando suficientes las medidas adoptadas, no se establecen recomendaciones. Madrid, 29 de marzo de 2011",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Considerando suficientes las medidas adoptadas, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 12,
+   "cita": "Recomendación Considerando suficientes las medidas adoptadas, no se establecen recomendaciones. Madrid, 29 de marzo de 2011",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "conato de colisión",
+   "pagina": 3,
+   "cita": "alta velocidad 80 Madrid Chamartín – Valladolid Campo Grande, se produce un conato de colisión entre",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "- El jefe de gabinete de investigación técnica de accidentes de Renfe Operadora, por delegación del",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2010-07-16",
+   "pagina": 3,
+   "cita": "El día 16 de julio de 2010, a las 15:41 horas, en la dependencia Río Duero (Valladolid), de la línea de",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "15:41",
+   "pagina": 3,
+   "cita": "El día 16 de julio de 2010, a las 15:41 horas, en la dependencia Río Duero (Valladolid), de la línea de",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Río Duero (RDU)",
+    "pk": "167+867",
+    "linea": "AV 80 Madrid Chamartín – Valladolid Campo Grande",
+    "provincia": "Valladolid",
+    "descripcion_lugar": "Señal de entrada E1 en la dependencia Río Duero, tramo Bifurcación Cambiador Valdestillas – Valladolid Campo Grande. Dependencia de transición de vía doble a única en ancho UIC y transición del sistema ETCS nivel 1 (lado Madrid) al sistema STM-EBICAB/ASFA (lado Valladolid)."
+   },
+   "pagina": 4,
+   "cita": "Madrid ‐ Chamartín RÍO DUERO (RDU) P.B. P.K. 168,800 ### Tablas de la página 4 | APARATOS Y SEÑALES | P.K. | |---|---| | Aguja 2 | 168+837 | | E´1 | 164+875 | | E1 | 167+867 | ## Página 5 Investigación del i",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "AV 80 Madrid Chamartín – Valladolid Campo Grande",
+   "pagina": 3,
+   "cita": "AV 80 Madrid Chamartín – Valladolid Campo Grande",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Motor 130042, tipo 250 B, 13 vehículos, 343 toneladas, 184 metros. Nº UIC: 967191300425.",
+    "averia": "Ninguna. El material rodante funcionó correctamente. El equipo de seguridad del tren funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 16 de julio de 2010, el tren de viajeros de larga distancia 4141, procedente de Madrid Chamartín con destino Valladolid Campo Grande, pasaba por la baliza previa de la señal de avanzada E'1 de la dependencia Río Duero en indicación de anuncio de parada. El maquinista no reconoció en el sistema la indicación L1, lo que provocó el frenado de urgencia y la detención del tren a 1.650 metros de la baliza previa. Tras rearmar el freno, el maquinista continuó la marcha y, al pasar por la baliza previa de la señal de entrada E1 a 130 km/h, el sistema volvió a provocar el frenado de urgencia. El tren rebasó la señal E1 en 148 metros y se detuvo, provocando un conato de colisión con el tren 8168, procedente de Valladolid Campo Grande, que ya ocupaba el circuito de vía de la aguja 2 al que protege la señal E1. A continuación, el maquinista rearma el sistema y retrocede sin autorización, pasando por la baliza de la señal E1 a 15 km/h, lo que provoca una nueva urgencia de frenado. El tren se detiene finalmente ante la señal E1 tras recorrer 181 metros de retroceso.",
+   "pagina": 3,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Río Duero (RDU)",
+    "pk": "167+867",
+    "linea": "AV 80 Madrid Chamartín – Valladolid Campo Grande",
+    "provincia": "Valladolid",
+    "descripcion_lugar": "Señal de entrada E1 en la dependencia Río Duero, tramo Bifurcación Cambiador Valdestillas – Valladolid Campo Grande. Dependencia de transición de vía doble a única en ancho UIC y transición del sistema ETCS nivel 1 (lado Madrid) al sistema STM-EBICAB/ASFA (lado Valladolid)."
+   },
+   "pagina": 4,
+   "cita": "Madrid ‐ Chamartín RÍO DUERO (RDU) P.B. P.K. 168,800 ### Tablas de la página 4 | APARATOS Y SEÑALES | P.K. | |---|---| | Aguja 2 | 168+837 | | E´1 | 164+875 | | E1 | 167+867 | ## Página 5 Investigación del i",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños ni a la infraestructura ni al material rodante.",
+    "afectacion_servicio": "No se produjeron retrasos ni interceptaciones de la vía."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 4141 (matrícula 9723693)",
+     "implicacion": "No reconoció la indicación L1 de anuncio de parada en la baliza previa de la señal E'1; pasó la baliza de la señal E1 a 130 km/h (>60 km/h); rebasó indebidamente la señal E1 en parada; retrocedió sin autorización. Se le suspendió la habilitación de conducción."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "4141",
+     "tipo": "viajeros larga distancia",
+     "operador": "Renfe Operadora",
+     "danos": "Sin daños"
+    },
+    {
+     "numero": "8168",
+     "tipo": "viajeros larga distancia",
+     "operador": "Renfe Operadora",
+     "danos": "Sin daños"
+    }
+   ],
+   "pagina": 3,
+   "cita": "los trenes de viajeros de larga distancia 4141 y 8168, ambos de la empresa ferroviaria Renfe",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Motor 130042, tipo 250 B, 13 vehículos, 343 toneladas, 184 metros. Nº UIC: 967191300425.",
+    "averia": "Ninguna. El material rodante funcionó correctamente. El equipo de seguridad del tren funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E1 (P.K. 167+867): alta, luminosa de cuatro focos, dotada de balizas previa y de pie de señal. Señal de avanzada E'1 (P.K. 164+875) a 2.992 m. Ambas en zona controlada por EBICAB (ASFA). E1 indicaba parada durante todo el suceso.",
+    "tipo_via": "Vía doble a única (transición en Río Duero)",
+    "velocidad_maxima": "300 km/h (tramo anterior a Río Duero); 200 km/h (tramo posterior)",
+    "ancho": "UIC",
+    "electrificacion": null,
+    "estado_via": "Correcto",
+    "otro": "Control de tráfico centralizado (CTC) en Madrid Chamartín. Transición de sistema ETCS nivel 1 (lado Madrid) a STM-EBICAB/ASFA (lado Valladolid). Comunicación GSMR. Media semanal de 210 circulaciones (149 larga distancia, 47 media distancia, 14 servicio). Aguja 2 en P.K. 168+837."
+   },
+   "pagina": 3,
+   "cita": "Señal de entrada E1 (P.K. 167+867), dependencia Río Duero",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de entrada E1 (P.K. 167+867): alta, luminosa de cuatro focos, dotada de balizas previa y de pie de señal. Señal de avanzada E'1 (P.K. 164+875) a 2.992 m. Ambas en zona controlada por EBICAB (ASFA). E1 indicaba parada durante todo el suceso.",
+   "pagina": 3,
+   "cita": "Señal de entrada E1 (P.K. 167+867), dependencia Río Duero",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "GSMR (Global System for Mobile Communications - Railway). \n2.3. \nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "pagina": 6,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños ni a la infraestructura ni al material rodante.",
+    "afectacion_servicio": "No se produjeron retrasos ni interceptaciones de la vía."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños ni a la infraestructura ni al material rodante.",
+    "afectacion_servicio": "No se produjeron retrasos ni interceptaciones de la vía."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños ni a la infraestructura ni al material rodante.",
+    "afectacion_servicio": "No se produjeron retrasos ni interceptaciones de la vía."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Motor 130042, tipo 250 B, 13 vehículos, 343 toneladas, 184 metros. Nº UIC: 967191300425.",
+    "averia": "Ninguna. El material rodante funcionó correctamente. El equipo de seguridad del tren funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E1 (P.K. 167+867): alta, luminosa de cuatro focos, dotada de balizas previa y de pie de señal. Señal de avanzada E'1 (P.K. 164+875) a 2.992 m. Ambas en zona controlada por EBICAB (ASFA). E1 indicaba parada durante todo el suceso.",
+    "tipo_via": "Vía doble a única (transición en Río Duero)",
+    "velocidad_maxima": "300 km/h (tramo anterior a Río Duero); 200 km/h (tramo posterior)",
+    "ancho": "UIC",
+    "electrificacion": null,
+    "estado_via": "Correcto",
+    "otro": "Control de tráfico centralizado (CTC) en Madrid Chamartín. Transición de sistema ETCS nivel 1 (lado Madrid) a STM-EBICAB/ASFA (lado Valladolid). Comunicación GSMR. Media semanal de 210 circulaciones (149 larga distancia, 47 media distancia, 14 servicio). Aguja 2 en P.K. 168+837."
+   },
+   "pagina": 3,
+   "cita": "Señal de entrada E1 (P.K. 167+867), dependencia Río Duero",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "De día, despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Valladolid",
+    "municipio": null,
+    "estacion": "Río Duero"
+   },
+   "pagina": 3,
+   "cita": "El día 16 de julio de 2010, a las 15:41 horas, en la dependencia Río Duero (Valladolid), de la línea de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "De día, despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de entrada E1 (P.K. 167+867): alta, luminosa de cuatro focos, dotada de balizas previa y de pie de señal. Señal de avanzada E'1 (P.K. 164+875) a 2.992 m. Ambas en zona controlada por EBICAB (ASFA). E1 indicaba parada durante todo el suceso.",
+   "pagina": 3,
+   "cita": "Señal de entrada E1 (P.K. 167+867), dependencia Río Duero",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E1 (P.K. 167+867): alta, luminosa de cuatro focos, dotada de balizas previa y de pie de señal. Señal de avanzada E'1 (P.K. 164+875) a 2.992 m. Ambas en zona controlada por EBICAB (ASFA). E1 indicaba parada durante todo el suceso.",
+    "tipo_via": "Vía doble a única (transición en Río Duero)",
+    "velocidad_maxima": "300 km/h (tramo anterior a Río Duero); 200 km/h (tramo posterior)",
+    "ancho": "UIC",
+    "electrificacion": null,
+    "estado_via": "Correcto",
+    "otro": "Control de tráfico centralizado (CTC) en Madrid Chamartín. Transición de sistema ETCS nivel 1 (lado Madrid) a STM-EBICAB/ASFA (lado Valladolid). Comunicación GSMR. Media semanal de 210 circulaciones (149 larga distancia, 47 media distancia, 14 servicio). Aguja 2 en P.K. 168+837."
+   },
+   "pagina": 3,
+   "cita": "Señal de entrada E1 (P.K. 167+867), dependencia Río Duero",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "GSMR (Global System for Mobile Communications - Railway). \n2.3. \nVÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "pagina": 6,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Motor 130042, tipo 250 B, 13 vehículos, 343 toneladas, 184 metros. Nº UIC: 967191300425.",
+    "averia": "Ninguna. El material rodante funcionó correctamente. El equipo de seguridad del tren funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "El maquinista no reconoció la indicación L1 (anuncio de parada) en la baliza previa de la señal de avanzada E'1.",
+    "El tren pasó por la baliza previa de la señal de entrada E1 a 130 km/h, superior al límite de 60 km/h para no reconocer la indicación.",
+    "Dificultad de percepción de la señalización lateral durante la transición de sistema ETCS nivel 1 a EBICAB/ASFA, con alta carga de información en cabina a velocidad superior a 200 km/h.",
+    "Retroceso sin autorización del tren tras el rebase de la señal."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 4141 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. \nRealizó su último reciclaje formativo el 28/01/2009 y su último reconocimiento médico y psicotécnico el \n16/12/2009, de acuerdo a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 8,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 16 de julio de 2010, el tren de viajeros de larga distancia 4141, procedente de Madrid Chamartín con destino Valladolid Campo Grande, pasaba por la baliza previa de la señal de avanzada E'1 de la dependencia Río Duero en indicación de anuncio de parada. El maquinista no reconoció en el sistema la indicación L1, lo que provocó el frenado de urgencia y la detención del tren a 1.650 metros de la baliza previa. Tras rearmar el freno, el maquinista continuó la marcha y, al pasar por la baliza previa de la señal de entrada E1 a 130 km/h, el sistema volvió a provocar el frenado de urgencia. El tren rebasó la señal E1 en 148 metros y se detuvo, provocando un conato de colisión con el tren 8168, procedente de Valladolid Campo Grande, que ya ocupaba el circuito de vía de la aguja 2 al que protege la señal E1. A continuación, el maquinista rearma el sistema y retrocede sin autorización, pasando por la baliza de la señal E1 a 15 km/h, lo que provoca una nueva urgencia de frenado. El tren se detiene finalmente ante la señal E1 tras recorrer 181 metros de retroceso.",
+   "pagina": 3,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Rebase indebido, por el tren 4141, de la señal de entrada E1 en indicación de parada, por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+   "pagina": 3,
+   "cita": "Conclusión: El incidente tuvo su origen en el rebase indebido, por el tren 4141, de la señal de",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El maquinista no reconoció la indicación L1 (anuncio de parada) en la baliza previa de la señal de avanzada E'1.",
+    "El tren pasó por la baliza previa de la señal de entrada E1 a 130 km/h, superior al límite de 60 km/h para no reconocer la indicación.",
+    "Dificultad de percepción de la señalización lateral durante la transición de sistema ETCS nivel 1 a EBICAB/ASFA, con alta carga de información en cabina a velocidad superior a 200 km/h.",
+    "Retroceso sin autorización del tren tras el rebase de la señal."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Considerando suficientes las medidas adoptadas, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 12,
+   "cita": "Recomendación Considerando suficientes las medidas adoptadas, no se establecen recomendaciones. Madrid, 29 de marzo de 2011",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "15:37:40",
+     "evento": "Tren 4141 pasa por la baliza previa de la señal de avanzada E'1 a 190 km/h en indicación de anuncio de parada; el maquinista no reconoce la indicación L1."
+    },
+    {
+     "hora": "15:38:34",
+     "evento": "Frenado de urgencia (a 185 km/h) y detención del tren 4141 a 1.650 m de la baliza previa."
+    },
+    {
+     "hora": "15:40:20",
+     "evento": "Tren 4141 pasa por la baliza previa de la señal de entrada E1 a 130 km/h; el sistema provoca frenado de urgencia."
+    },
+    {
+     "hora": "15:40:56",
+     "evento": "Tren 4141 rebasa la señal E1 en 148 m y se detiene, provocando conato de colisión con el tren 8168 que ya ocupa el circuito de vía de la aguja 2."
+    },
+    {
+     "hora": "15:43:05",
+     "evento": "Maquinista rearma y retrocede sin autorización; pasa por la baliza de la señal E1 a 15 km/h, produciéndose nueva urgencia de frenado."
+    },
+    {
+     "hora": "15:43:15",
+     "evento": "Tren 4141 se detiene ante la señal E1 tras recorrer 181 m de retroceso."
+    },
+    {
+     "hora": "17:45",
+     "evento": "Prueba de alcoholemia al maquinista: resultado negativo."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0039/2010",
+ "expediente": "0039/010",
+ "anio": 2010,
+ "titulo": "Conato de colisión entre trenes 4141 y 8168 en la señal E1 de la dependencia Río Duero (Valladolid)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-160710-290311-CIAF.md"
+}

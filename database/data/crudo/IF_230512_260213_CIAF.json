@@ -1,0 +1,987 @@
+{
+ "id": "IF_230512_260213_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/EB77444E-CF1C-4326-801B-514FEEF1E7CE/116448/IF230512260213CIAF.pdf",
+ "pdf": "pdfs/ES/IF_230512_260213_CIAF.pdf",
+ "md5_pdf": "b0311d3d4e6f86e061e84ea846561950",
+ "paginas_md": 17,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 16,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "40/12-1",
+     "Recomendación": "Analizar la viabilidad de dotar a las señales mecánicas de dicha estación de balizas ASFA con el fin de paliar riesgos en la circulación. Ver, en tal caso, la aplicación de esta medida a otras dependencias similares."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 17,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "40/12-1",
+     "Recomendación": "Analizar la viabilidad de dotar a las señales mecánicas de dicha estación de balizas ASFA con el fin de paliar riesgos en la circulación. Ver, en tal caso, la aplicación de esta medida a otras dependencias similares."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0040/2012",
+   "pagina": 1,
+   "cita": "nº 0040/2012 ocurrido el 23.05.2012",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 23 de mayo de 2012, a las 21:20 horas, el tren 13946 entró a excesiva velocidad en la vía desviada 3 de la estación de Tocón-Montefrío, en la línea 426 Granada a Fuente de Piedra, para permitir el cruce con el tren 175. El tren no cumplimentó correctamente la señal de avanzada E'2, en indicación de anuncio de precaución, y talonó con el primer bogie la aguja de salida número 1 sin rebasar la señal de salida S2/SM2. No se produjeron víctimas ni daños materiales. La investigación concluye que el incidente tuvo su origen en el incumplimiento por parte del personal de conducción de la orden dada por la señal de avanzada, y recomienda analizar la viabilidad de dotar a las señales mecánicas de dicha estación de balizas ASFA.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2012-05-23",
+    "hora": "21:20",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Tocón-Montefrío",
+     "pk": "88+612",
+     "linea": "426 Granada a Fuente de Piedra",
+     "provincia": "Granada",
+     "descripcion_lugar": "Estación de Tocón-Montefrío, en el PK 88+612 de la línea 426 Granada a Fuente de Piedra, tramo Granada a Loja-San Francisco, municipio de Illora, provincia de Granada. El suceso se produjo en la entrada a la vía desviada 3 por lado Granada y en la aguja de salida número 1."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 23 de mayo de 2012, a las 21:20 horas, el tren 13946 tiene establecido itinerario de entrada a",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en infraestructura ni en material rodante.",
+    "afectacion_servicio": "Interceptación de la vía desde las 21:20 hasta las 23:09, cuando se informa que no hay daños y quedan en servicio en condiciones normales. El tren 175 reanuda con 36 minutos de retraso; el tren 13946 queda suprimido en Tocón-Montefrío y sus viajeros son transbordados por carretera; el material vacío sale como TM361 a las 00:05 del 25 de mayo con destino Granada."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Incumplimiento por parte del personal de conducción de la orden dada por la señal de avanzada E'2 de la estación de Tocón-Montefrío, en indicación de anuncio de precaución, lo que originó la entrada a excesiva velocidad en vía desviada y el talonamiento de la aguja de salida número 1.",
+   "pagina": 3,
+   "cita": "Conclusión: El incidente tuvo su origen en el incumplimiento por parte del personal de conducción",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El maquinista declaró percibir la señal de avanzada E'2 en vía libre y no redujo la velocidad, manteniéndola durante unos 1.200 metros.",
+    "La aplicación del freno de emergencia se produjo a unos 220 metros de la señal de entrada E2, cuando el tren pasaba por ella a 122 km/h.",
+    "El paso por la aguja de entrada número 2 se realizó a unos 99 km/h, superior a los 50 km/h admitidos por el desvío tipo C y a los 30 km/h exigibles.",
+    "Ambos trenes circulaban con retraso, lo que determinó que el tren 13946 fuera encaminado por vía desviada en lugar del encaminamiento habitual del 175.",
+    "Las señales mecánicas de la estación no disponían de balizas ASFA."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ausencia de balizas ASFA en las señales mecánicas de la estación, identificada como factor de riesgo en la recomendación.",
+    "Enclavamiento mecánico por cerraduras Bouré y dependencia de la cumplimentación manual de señales en una estación de vía única con bloqueo telefónico y cruces diarios programados."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Analizar la viabilidad de dotar a las señales mecánicas de dicha estación de balizas ASFA con el fin de paliar riesgos en la circulación. Ver, en tal caso, la aplicación de esta medida a otras dependencias similares.",
+    "Analizar la viabilidad de dotar a las señales mecánicas de dicha estación de balizas ASFA con el fin de paliar riesgos en la circulación. Ver, en tal caso, la aplicación de esta medida a otras dependencias similares."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Incidente",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 6,
+   "cita": "- El gerente de investigación técnica de accidentes de Renfe Operadora por delegación del director de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2012-05-23",
+   "pagina": 3,
+   "cita": "El día 23 de mayo de 2012, a las 21:20 horas, el tren 13946 tiene establecido itinerario de entrada a",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "21:20",
+   "pagina": 3,
+   "cita": "El día 23 de mayo de 2012, a las 21:20 horas, el tren 13946 tiene establecido itinerario de entrada a",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Tocón-Montefrío",
+    "pk": "88+612",
+    "linea": "426 Granada a Fuente de Piedra",
+    "provincia": "Granada",
+    "descripcion_lugar": "Estación de Tocón-Montefrío, en el PK 88+612 de la línea 426 Granada a Fuente de Piedra, tramo Granada a Loja-San Francisco, municipio de Illora, provincia de Granada. El suceso se produjo en la entrada a la vía desviada 3 por lado Granada y en la aguja de salida número 1."
+   },
+   "pagina": 4,
+   "cita": "retroceder a vía 3 y estacionarse en ésta.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "426 Granada a Fuente de Piedra",
+   "pagina": 3,
+   "cita": "426 Granada a Fuente de Piedra",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tren 13946: motor 599014, 3 coches, 175 toneladas, tipo 160 A, UIC 967195990148, origen Almería y destino Sevilla. Tren 175: Talgo, locomotora 334022, 9 vehículos, 155 toneladas, tipo 200 A.",
+    "averia": "No se produjeron daños materiales en material rodante; funcionó correctamente y no existía anormalidad en equipos de seguridad ni en el freno. El primer bogie del tren 13946 talonó la aguja de salida número 1.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El 23 de mayo de 2012, a las 21:20 horas, el tren de media distancia 13946 y el tren de larga distancia Talgo 175, ambos de Renfe Operadora, circulaban en sentido contrario por la línea 426, de vía única, hacia la estación de Tocón-Montefrío, donde tenían programado un cruce. Para permitirlo, el responsable de circulación estableció al tren 13946 itinerario de entrada a la vía desviada 3 y, posteriormente, itinerario de paso por vía 1 al tren 175.\n\nEl tren 13946 encontró la señal de avanzada E'2 en anuncio de precaución, pero el maquinista no cumplimentó correctamente esa indicación y mantuvo una velocidad excesiva. Al observar la señal de entrada E2 en anuncio de parada, aplicó el freno de emergencia; pasó por la aguja de entrada número 2 a unos 99 km/h, superior a los 50 km/h admitidos por el desvío tipo C, y talonó con el primer bogie la aguja de salida número 1, sin llegar a rebasar la señal de salida S2/SM2. El tren quedó detenido tras recorrer unos 760 metros en 35 segundos desde la aplicación del freno.\n\nEl responsable de circulación presenció el exceso de velocidad, presentó señal de parada a mano al tren 13946 y ordenó por radiotelefonía la detención del tren 175, que quedó detenido ante la señal de avanzada E'1. Ambos trenes quedaron enfrentados a unos 1.700 metros. No se produjeron víctimas ni daños materiales; el tren 13946 fue autorizado a retroceder y estacionarse en vía 3, y el tren 175 pasó por vía general.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Tocón-Montefrío",
+    "pk": "88+612",
+    "linea": "426 Granada a Fuente de Piedra",
+    "provincia": "Granada",
+    "descripcion_lugar": "Estación de Tocón-Montefrío, en el PK 88+612 de la línea 426 Granada a Fuente de Piedra, tramo Granada a Loja-San Francisco, municipio de Illora, provincia de Granada. El suceso se produjo en la entrada a la vía desviada 3 por lado Granada y en la aguja de salida número 1."
+   },
+   "pagina": 4,
+   "cita": "retroceder a vía 3 y estacionarse en ésta.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en infraestructura ni en material rodante.",
+    "afectacion_servicio": "Interceptación de la vía desde las 21:20 hasta las 23:09, cuando se informa que no hay daños y quedan en servicio en condiciones normales. El tren 175 reanuda con 36 minutos de retraso; el tren 13946 queda suprimido en Tocón-Montefrío y sus viajeros son transbordados por carretera; el material vacío sale como TM361 a las 00:05 del 25 de mayo con destino Granada."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista del tren 13946",
+     "implicacion": "Conducía el tren 13946; incumplió la orden de la señal de avanzada E'2 en anuncio de precaución, aplicó el freno de emergencia tarde y talonó la aguja de salida número 1. Poseía título B, antigüedad 02/12/2000, habilitación de línea 01/01/2006, habilitación de vehículo 18/01/2011, reciclaje formativo 02/09/2009 y reconocimiento médico/psicotécnico 16/12/2009. Prestaba servicio habitual en esta línea y horario; no llevaba acompañante en cabina; llevaba teléfono móvil particular, pero no lo utilizaba. Jornadas: 23/05/2012, 6h16 (3h49 de conducción efectiva); 22/05/2012, 5h23 (2h59); 21/05/2012, 5h41 (3h46). Pruebas de alcoholemia y drogas negativas. Renfe aplicó medidas de gestión del fallo humano: control de alcoholemia, retirada del servicio, reconocimiento psicofísico, programa individualizado de reciclaje con simulador, reciclaje formativo y acompañamiento en cabina por tutor, y reincorporación tras pruebas e informe favorable."
+    },
+    {
+     "rol": "responsable de circulación de la estación de Tocón-Montefrío",
+     "implicacion": "Estableció itinerario a vía 3 para el tren 13946 y vía 1 para el tren 175; observó el exceso de velocidad, presentó señal de parada a mano y ordenó por radiotelefonía la detención del tren 175; verificó visualmente la detención del 175 ante la señal de avanzada E'1 y autorizó el retroceso del 13946 a vía 3. Declaró que no había anomalías en instalaciones ni en la manipulación de palancas; que el tren 13946 llevaba 5 minutos de retraso y el tren 175 12 minutos. Jornadas 21, 22 y 23/05/2012: 8 horas cada día. Control de alcoholemia negativo."
+    }
+   ],
+   "pagina": 4,
+   "cita": "El maquinista del tren 13946 comunica al responsable de circulación lo sucedido y éste lo autoriza a",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "13946",
+     "tipo": "tren de viajeros de media distancia",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños materiales en el material rodante; talonó con el primer bogie la aguja de salida número 1."
+    },
+    {
+     "numero": "175",
+     "tipo": "tren de viajeros de larga distancia Talgo",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños materiales; quedó detenido ante la señal de avanzada E'1."
+    },
+    {
+     "numero": "TM361",
+     "tipo": "material rodante vacío procedente del tren 13946",
+     "operador": null,
+     "danos": "No se indican daños."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 23 de mayo de 2012, a las 21:20 horas, el tren 13946 tiene establecido itinerario de entrada a",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tren 13946: motor 599014, 3 coches, 175 toneladas, tipo 160 A, UIC 967195990148, origen Almería y destino Sevilla. Tren 175: Talgo, locomotora 334022, 9 vehículos, 155 toneladas, tipo 200 A.",
+    "averia": "No se produjeron daños materiales en material rodante; funcionó correctamente y no existía anormalidad en equipos de seguridad ni en el freno. El primer bogie del tren 13946 talonó la aguja de salida número 1.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales mecánicas altas, sin balizas ASFA y con buena visibilidad: avanzada E'2 en PK 90+500, entrada E2 en PK 89+026, salida S2/SM2 en PK 87+995 y avanzada E'1 en PK 86+665. En el itinerario establecido, E'2 presentaba anuncio de precaución, E2 anuncio de parada y S2/SM2 parada; E'1 presentaba anuncio de parada para el tren 175.",
+    "tipo_via": "Vía única no electrificada con bloqueo telefónico; estación con vías 1 y 3, enclavamiento mecánico por cerraduras Bouré; desvíos 1 y 2 tipo C.",
+    "velocidad_maxima": "140 km/h en el tramo; 50 km/h admitidos por desvío tipo C; paso por aguja de entrada número 2 a unos 99 km/h; RGC/CC11 exigía no exceder 30 km/h al pasar la aguja.",
+    "ancho": null,
+    "electrificacion": "No electrificada.",
+    "estado_via": "No se producen daños en infraestructura; el enclavamiento funcionó correctamente; tras verificación, las instalaciones quedan en servicio en condiciones normales.",
+    "otro": "Radiotelefonía modalidad C. El responsable de circulación informa al puesto de mando de Córdoba, que cursa aviso a áreas de Adif y Renfe Operadora. Tráfico CIRTRA: 128 circulaciones semanales (27 larga distancia, 98 media distancia, 2 mercancías y 1 servicio). Libros horarios: tren 13946 pasa por Tocón a 21:13 sin parada; tren 175 previsto a 21:10 con parada técnica de 4 minutos; habitualmente el 175 se encamina por vía desviada. En la estación se produce diariamente el cruce de 13946 y 175, y otro cruce de servicios similares en horario de mañana."
+   },
+   "pagina": 10,
+   "cita": "Radiotelefonía modalidad C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales mecánicas altas, sin balizas ASFA y con buena visibilidad: avanzada E'2 en PK 90+500, entrada E2 en PK 89+026, salida S2/SM2 en PK 87+995 y avanzada E'1 en PK 86+665. En el itinerario establecido, E'2 presentaba anuncio de precaución, E2 anuncio de parada y S2/SM2 parada; E'1 presentaba anuncio de parada para el tren 175.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad C.",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en infraestructura ni en material rodante.",
+    "afectacion_servicio": "Interceptación de la vía desde las 21:20 hasta las 23:09, cuando se informa que no hay daños y quedan en servicio en condiciones normales. El tren 175 reanuda con 36 minutos de retraso; el tren 13946 queda suprimido en Tocón-Montefrío y sus viajeros son transbordados por carretera; el material vacío sale como TM361 a las 00:05 del 25 de mayo con destino Granada."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en infraestructura ni en material rodante.",
+    "afectacion_servicio": "Interceptación de la vía desde las 21:20 hasta las 23:09, cuando se informa que no hay daños y quedan en servicio en condiciones normales. El tren 175 reanuda con 36 minutos de retraso; el tren 13946 queda suprimido en Tocón-Montefrío y sus viajeros son transbordados por carretera; el material vacío sale como TM361 a las 00:05 del 25 de mayo con destino Granada."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en infraestructura ni en material rodante.",
+    "afectacion_servicio": "Interceptación de la vía desde las 21:20 hasta las 23:09, cuando se informa que no hay daños y quedan en servicio en condiciones normales. El tren 175 reanuda con 36 minutos de retraso; el tren 13946 queda suprimido en Tocón-Montefrío y sus viajeros son transbordados por carretera; el material vacío sale como TM361 a las 00:05 del 25 de mayo con destino Granada."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 13946: motor 599014, 3 coches, 175 toneladas, tipo 160 A, UIC 967195990148, origen Almería y destino Sevilla. Tren 175: Talgo, locomotora 334022, 9 vehículos, 155 toneladas, tipo 200 A.",
+    "averia": "No se produjeron daños materiales en material rodante; funcionó correctamente y no existía anormalidad en equipos de seguridad ni en el freno. El primer bogie del tren 13946 talonó la aguja de salida número 1.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales mecánicas altas, sin balizas ASFA y con buena visibilidad: avanzada E'2 en PK 90+500, entrada E2 en PK 89+026, salida S2/SM2 en PK 87+995 y avanzada E'1 en PK 86+665. En el itinerario establecido, E'2 presentaba anuncio de precaución, E2 anuncio de parada y S2/SM2 parada; E'1 presentaba anuncio de parada para el tren 175.",
+    "tipo_via": "Vía única no electrificada con bloqueo telefónico; estación con vías 1 y 3, enclavamiento mecánico por cerraduras Bouré; desvíos 1 y 2 tipo C.",
+    "velocidad_maxima": "140 km/h en el tramo; 50 km/h admitidos por desvío tipo C; paso por aguja de entrada número 2 a unos 99 km/h; RGC/CC11 exigía no exceder 30 km/h al pasar la aguja.",
+    "ancho": null,
+    "electrificacion": "No electrificada.",
+    "estado_via": "No se producen daños en infraestructura; el enclavamiento funcionó correctamente; tras verificación, las instalaciones quedan en servicio en condiciones normales.",
+    "otro": "Radiotelefonía modalidad C. El responsable de circulación informa al puesto de mando de Córdoba, que cursa aviso a áreas de Adif y Renfe Operadora. Tráfico CIRTRA: 128 circulaciones semanales (27 larga distancia, 98 media distancia, 2 mercancías y 1 servicio). Libros horarios: tren 13946 pasa por Tocón a 21:13 sin parada; tren 175 previsto a 21:10 con parada técnica de 4 minutos; habitualmente el 175 se encamina por vía desviada. En la estación se produce diariamente el cruce de 13946 y 175, y otro cruce de servicios similares en horario de mañana."
+   },
+   "pagina": 10,
+   "cita": "Radiotelefonía modalidad C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo atmosférico despejado y anocheciendo; sol en el lado derecho en sentido de la marcha, casi desaparecido en la línea del horizonte; condiciones normales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Granada",
+    "municipio": null,
+    "estacion": "Tocón-Montefrío"
+   },
+   "pagina": 3,
+   "cita": "vía desviada (vía 3) de la estación de Tocón- Montefrío (Granada), de la línea 426 Granada a Fuente",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo atmosférico despejado y anocheciendo; sol en el lado derecho en sentido de la marcha, casi desaparecido en la línea del horizonte; condiciones normales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales mecánicas altas, sin balizas ASFA y con buena visibilidad: avanzada E'2 en PK 90+500, entrada E2 en PK 89+026, salida S2/SM2 en PK 87+995 y avanzada E'1 en PK 86+665. En el itinerario establecido, E'2 presentaba anuncio de precaución, E2 anuncio de parada y S2/SM2 parada; E'1 presentaba anuncio de parada para el tren 175.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales mecánicas altas, sin balizas ASFA y con buena visibilidad: avanzada E'2 en PK 90+500, entrada E2 en PK 89+026, salida S2/SM2 en PK 87+995 y avanzada E'1 en PK 86+665. En el itinerario establecido, E'2 presentaba anuncio de precaución, E2 anuncio de parada y S2/SM2 parada; E'1 presentaba anuncio de parada para el tren 175.",
+    "tipo_via": "Vía única no electrificada con bloqueo telefónico; estación con vías 1 y 3, enclavamiento mecánico por cerraduras Bouré; desvíos 1 y 2 tipo C.",
+    "velocidad_maxima": "140 km/h en el tramo; 50 km/h admitidos por desvío tipo C; paso por aguja de entrada número 2 a unos 99 km/h; RGC/CC11 exigía no exceder 30 km/h al pasar la aguja.",
+    "ancho": null,
+    "electrificacion": "No electrificada.",
+    "estado_via": "No se producen daños en infraestructura; el enclavamiento funcionó correctamente; tras verificación, las instalaciones quedan en servicio en condiciones normales.",
+    "otro": "Radiotelefonía modalidad C. El responsable de circulación informa al puesto de mando de Córdoba, que cursa aviso a áreas de Adif y Renfe Operadora. Tráfico CIRTRA: 128 circulaciones semanales (27 larga distancia, 98 media distancia, 2 mercancías y 1 servicio). Libros horarios: tren 13946 pasa por Tocón a 21:13 sin parada; tren 175 previsto a 21:10 con parada técnica de 4 minutos; habitualmente el 175 se encamina por vía desviada. En la estación se produce diariamente el cruce de 13946 y 175, y otro cruce de servicios similares en horario de mañana."
+   },
+   "pagina": 10,
+   "cita": "Radiotelefonía modalidad C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad C.",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 13946: motor 599014, 3 coches, 175 toneladas, tipo 160 A, UIC 967195990148, origen Almería y destino Sevilla. Tren 175: Talgo, locomotora 334022, 9 vehículos, 155 toneladas, tipo 200 A.",
+    "averia": "No se produjeron daños materiales en material rodante; funcionó correctamente y no existía anormalidad en equipos de seguridad ni en el freno. El primer bogie del tren 13946 talonó la aguja de salida número 1.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "El maquinista declaró percibir la señal de avanzada E'2 en vía libre y no redujo la velocidad, manteniéndola durante unos 1.200 metros.",
+    "La aplicación del freno de emergencia se produjo a unos 220 metros de la señal de entrada E2, cuando el tren pasaba por ella a 122 km/h.",
+    "El paso por la aguja de entrada número 2 se realizó a unos 99 km/h, superior a los 50 km/h admitidos por el desvío tipo C y a los 30 km/h exigibles.",
+    "Ambos trenes circulaban con retraso, lo que determinó que el tren 13946 fuera encaminado por vía desviada en lugar del encaminamiento habitual del 175.",
+    "Las señales mecánicas de la estación no disponían de balizas ASFA."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Por parte de Renfe Operadora \nEl maquinista del tren 13946/13947 posee el título B de conducción y está habilitado conforme a la \nOrden FOM/2520/2006, de 27 de julio (Título V – Personal de conducción – en vigor hasta 11 de enero \n\n## Página 13\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0040/2012 ocurrido el 23.05.2012 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n \nIF-230512-260213-CIAF \n \n \nPág. 13 de 17\nde 2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de \nnoviembre).  \nÉste tiene antigüedad en el cargo de fecha 02/12/2000, habilitación de la línea de 01/01/2006 y del \nvehículo de 18/01/2011. \nRealizó su último reciclaje formativo el 02/09/2009 y su último reconocimiento médico y psicotécnico el \n16/12/2009 de acuerdo a la normativa vigente. \nEl maquinista prestaba servicio habitualmente en esta línea y horario. \n3.3. \nNORMATIVA",
+   "pagina": 12,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El 23 de mayo de 2012, a las 21:20 horas, el tren de media distancia 13946 y el tren de larga distancia Talgo 175, ambos de Renfe Operadora, circulaban en sentido contrario por la línea 426, de vía única, hacia la estación de Tocón-Montefrío, donde tenían programado un cruce. Para permitirlo, el responsable de circulación estableció al tren 13946 itinerario de entrada a la vía desviada 3 y, posteriormente, itinerario de paso por vía 1 al tren 175.\n\nEl tren 13946 encontró la señal de avanzada E'2 en anuncio de precaución, pero el maquinista no cumplimentó correctamente esa indicación y mantuvo una velocidad excesiva. Al observar la señal de entrada E2 en anuncio de parada, aplicó el freno de emergencia; pasó por la aguja de entrada número 2 a unos 99 km/h, superior a los 50 km/h admitidos por el desvío tipo C, y talonó con el primer bogie la aguja de salida número 1, sin llegar a rebasar la señal de salida S2/SM2. El tren quedó detenido tras recorrer unos 760 metros en 35 segundos desde la aplicación del freno.\n\nEl responsable de circulación presenció el exceso de velocidad, presentó señal de parada a mano al tren 13946 y ordenó por radiotelefonía la detención del tren 175, que quedó detenido ante la señal de avanzada E'1. Ambos trenes quedaron enfrentados a unos 1.700 metros. No se produjeron víctimas ni daños materiales; el tren 13946 fue autorizado a retroceder y estacionarse en vía 3, y el tren 175 pasó por vía general.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Incumplimiento por parte del personal de conducción de la orden dada por la señal de avanzada E'2 de la estación de Tocón-Montefrío, en indicación de anuncio de precaución, lo que originó la entrada a excesiva velocidad en vía desviada y el talonamiento de la aguja de salida número 1.",
+   "pagina": 3,
+   "cita": "Conclusión: El incidente tuvo su origen en el incumplimiento por parte del personal de conducción",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El maquinista declaró percibir la señal de avanzada E'2 en vía libre y no redujo la velocidad, manteniéndola durante unos 1.200 metros.",
+    "La aplicación del freno de emergencia se produjo a unos 220 metros de la señal de entrada E2, cuando el tren pasaba por ella a 122 km/h.",
+    "El paso por la aguja de entrada número 2 se realizó a unos 99 km/h, superior a los 50 km/h admitidos por el desvío tipo C y a los 30 km/h exigibles.",
+    "Ambos trenes circulaban con retraso, lo que determinó que el tren 13946 fuera encaminado por vía desviada en lugar del encaminamiento habitual del 175.",
+    "Las señales mecánicas de la estación no disponían de balizas ASFA."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Analizar la viabilidad de dotar a las señales mecánicas de dicha estación de balizas ASFA con el fin de paliar riesgos en la circulación. Ver, en tal caso, la aplicación de esta medida a otras dependencias similares.",
+    "Analizar la viabilidad de dotar a las señales mecánicas de dicha estación de balizas ASFA con el fin de paliar riesgos en la circulación. Ver, en tal caso, la aplicación de esta medida a otras dependencias similares."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "21:19",
+     "evento": "El 23/05/2012, según el registrador de eventos, el tren 13946 pasa por la señal de avanzada E'2 a 142 km/h (21:19:15)."
+    },
+    {
+     "hora": "21:19",
+     "evento": "El 23/05/2012, a las 21:19:45, se aplica el freno de emergencia desde el controlador de tracción/freno a 142 km/h."
+    },
+    {
+     "hora": "21:19",
+     "evento": "El 23/05/2012, a las 21:19:51, el tren 13946 pasa por la señal de entrada E2 a 122 km/h."
+    },
+    {
+     "hora": "21:20",
+     "evento": "El 23/05/2012, a las 21:20:20, el tren 13946 talona con el primer bogie la aguja de salida número 1 a 6 km/h."
+    },
+    {
+     "hora": "21:20",
+     "evento": "El 23/05/2012, a las 21:20:22, el tren 13946 queda detenido sin rebasar la señal de salida S2/SM2; se produce la interceptación de la vía."
+    },
+    {
+     "hora": "21:20",
+     "evento": "El responsable de circulación ordena parada al tren 175, que queda detenido ante la señal de avanzada E'1 (PK 86+665)."
+    },
+    {
+     "hora": "21:45",
+     "evento": "El 23/05/2012, a las 21:45:27, el tren 13946 realiza un movimiento de 228 metros."
+    },
+    {
+     "hora": "21:47",
+     "evento": "El 23/05/2012, a las 21:47:14, el tren 13946 vuelve a quedar detenido."
+    },
+    {
+     "hora": "21:48",
+     "evento": "El 23/05/2012, a las 21:48, el tren 13946 es hecho retroceder hasta quedar estacionado en vía 3; el tren 175 efectúa su paso por vía general."
+    },
+    {
+     "hora": "22:37",
+     "evento": "El 23/05/2012, a las 22:37, se realizan al maquinista pruebas de alcoholemia y drogas, con resultado negativo."
+    },
+    {
+     "hora": "23:09",
+     "evento": "El 23/05/2012, a las 23:09, los servicios de infraestructuras informan que no hay daños en las instalaciones y quedan en servicio en condiciones normales."
+    },
+    {
+     "hora": "23:55",
+     "evento": "El 23/05/2012, a las 23:55, personal de seguridad en la circulación de Adif y Renfe Operadora verifica el enclavamiento y el correcto funcionamiento de los itinerarios."
+    },
+    {
+     "hora": "08:30",
+     "evento": "El 24/05/2012, a las 08:30, el jefe de gabinete de investigación de accidentes ferroviarios de Adif comunica el suceso a la CIAF."
+    },
+    {
+     "hora": null,
+     "evento": "El 29/05/2012, el Pleno de la CIAF acuerda abrir la investigación."
+    },
+    {
+     "hora": "00:05",
+     "evento": "El 25/05/2012, a las 00:05, el material vacío procedente del tren 13946 sale de Tocón-Montefrío como TM361 con destino Granada."
+    },
+    {
+     "hora": null,
+     "evento": "El 26/02/2013, en Madrid, se emite el informe final."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0040/2012",
+ "expediente": "40/012",
+ "anio": 2012,
+ "titulo": "Tren entra a excesiva velocidad en vía desviada de la estación de Tocón-Montefrío (Granada) y talona una aguja",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_230512_260213_CIAF.md"
+}

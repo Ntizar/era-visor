@@ -1,0 +1,889 @@
+{
+ "id": "IF-131008-240209-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/05B312C8-BBA0-4E51-9673-88E1FA65474B/46977/IF131008240209CIAF.pdf",
+ "pdf": "pdfs/ES/IF-131008-240209-CIAF.pdf",
+ "md5_pdf": "01fb52586c9c59dd3379b50b012033c6",
+ "paginas_md": 9,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 6,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0049/2008",
+   "pagina": 1,
+   "cita": "nº 0049/2008 ocurrido el 13.10.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 13 de octubre de 2008, a las 12:19 horas, el tren de viajeros de larga distancia 1415 de Renfe Operadora arrolló a una persona en el P.K. 375,740 de la línea 300, a la salida de la estación de La Encina, en la provincia de Alicante. La víctima era un varón de 83 años que transitaba por la vía sin autorización, según el informe mientras recogía higos. El maquinista usó el silbato y el freno de emergencia, pero no pudo evitar el impacto; el tren circulaba a 156 km/h cuando la velocidad máxima era de 160 km/h. La víctima falleció en el acto y no hubo daños materiales, aunque se produjeron afectaciones al tráfico y 152 minutos de retraso acumulado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-10-13",
+    "hora": "12:19",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "La Encina",
+     "pk": "375,740",
+     "linea": "300 Madrid-Chamartín-Valencia-Estación Nord",
+     "provincia": "Alicante",
+     "descripcion_lugar": "Salida de la estación de La Encina, lado Almansa, a la altura de la señal M-2; zona descampada, poco frecuentada y sin vallar, con camino paralelo a la vía y higuera en el terraplén."
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 13 de octubre de 2008, a las 12:19 horas, el tren de viajeros 1415, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No hubo daños en el material rodante, en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "9 trenes afectados: 7 de Larga Distancia, 1 de Media Distancia y 1 de Mercancías; 152 minutos de retraso total; marcha a la vista por ambas vías durante 3 horas."
+   },
+   "pagina": 4,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello.",
+   "pagina": 2,
+   "cita": "Conclusión: El accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Zona sin vallar.",
+    "Acceso desde un camino paralelo a la vía hacia una higuera situada en el terraplén.",
+    "Avanzada edad de la víctima.",
+    "Distracción de la víctima por recoger higos."
+   ],
+   "pagina": 6,
+   "cita": "salida de la estación de La Encina, en una zona sin vallar. Paralelo a la vía, en el lado derecho,",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Recomendar el estudio, por la autoridad competente, de las necesidades de vallado en la zona.",
+     "destinatario": "autoridad competente"
+    }
+   ],
+   "pagina": 7,
+   "cita": "Recomendar el estudio, por la autoridad competente, de las necesidades de vallado en la zona.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Recomendar el estudio, por la autoridad competente, de las necesidades de vallado en la zona.",
+     "destinatario": "autoridad competente"
+    }
+   ],
+   "pagina": 7,
+   "cita": "Recomendar el estudio, por la autoridad competente, de las necesidades de vallado en la zona.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento de una persona",
+   "pagina": 2,
+   "cita": "Investigación de accidentes ferroviarios que se había producido el arrollamiento de una persona por",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "Renfe Operadora, arrolla a una persona que transitaba por la vía 1 en el P.K. 375.740, a la salida de la",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-10-13",
+   "pagina": 2,
+   "cita": "El día 13 de octubre de 2008, a las 12:19 horas, el tren de viajeros 1415, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "12:19",
+   "pagina": 2,
+   "cita": "El día 13 de octubre de 2008, a las 12:19 horas, el tren de viajeros 1415, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "La Encina",
+    "pk": "375,740",
+    "linea": "300 Madrid-Chamartín-Valencia-Estación Nord",
+    "provincia": "Alicante",
+    "descripcion_lugar": "Salida de la estación de La Encina, lado Almansa, a la altura de la señal M-2; zona descampada, poco frecuentada y sin vallar, con camino paralelo a la vía y higuera en el terraplén."
+   },
+   "pagina": 2,
+   "cita": "estación de La Encina, de la línea 300 Madrid- Chamartín  Valencia – Estación Nord. Como",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "300 Madrid - Chamartín - Valencia – Estación Nord",
+   "pagina": 2,
+   "cita": "300 Madrid - Chamartín - Valencia – Estación Nord",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Automotor 490002, 3 coches, masa remolcada 172 Tn, Nº UIC 967194900023",
+    "averia": "No hubo daños; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El 13 de octubre de 2008, a las 12:19 horas, el tren de viajeros de larga distancia 1415 de Renfe Operadora, compuesto por el automotor 490002, 3 coches y 172 toneladas de masa remolcada, arrolló a una persona que transitaba por la vía 1 en el P.K. 375,740, a la salida de la estación de La Encina, en el lado de Almansa y a la altura de la señal M-2, en la línea 300 Madrid-Chamartín-Valencia-Estación Nord. El maquinista, al percatarse de la presencia de la víctima, hizo uso del silbato y accionó el freno de emergencia, sin poder evitar el arrollamiento; el cadáver quedó fuera de la vía y fue localizado a unos 1.200 metros del tren. Según el informe, la víctima era un varón de 83 años que usaba bastón y transitaba por las inmediaciones de la vía recogiendo higos, en una zona descampada, poco frecuentada y sin vallar, con un camino paralelo desde el que cruzó hacia una higuera situada en el terraplén. El maquinista comunicó el suceso al Puesto de Mando de la estación de Valencia, que notificó a los servicios y operadores afectados; la Guardia Civil se personó a las 12:29 horas y custodió el cadáver hasta las 15:20 horas, cuando el juez ordenó el levantamiento. Se prescribió marcha a la vista por ambas vías durante el periodo de tres horas, resultaron afectados 9 trenes y se acumularon 152 minutos de retraso; según la declaración del maquinista, el tren reanudó la marcha sobre las 13:50 horas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "La Encina",
+    "pk": "375,740",
+    "linea": "300 Madrid-Chamartín-Valencia-Estación Nord",
+    "provincia": "Alicante",
+    "descripcion_lugar": "Salida de la estación de La Encina, lado Almansa, a la altura de la señal M-2; zona descampada, poco frecuentada y sin vallar, con camino paralelo a la vía y higuera en el terraplén."
+   },
+   "pagina": 2,
+   "cita": "estación de La Encina, de la línea 300 Madrid- Chamartín  Valencia – Estación Nord. Como",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No hubo daños en el material rodante, en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "9 trenes afectados: 7 de Larga Distancia, 1 de Media Distancia y 1 de Mercancías; 152 minutos de retraso total; marcha a la vista por ambas vías durante 3 horas."
+   },
+   "pagina": 4,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 1415",
+     "implicacion": "Matrícula 9732116; habilitado conforme a la OM 2520/2006; prueba de alcoholemia negativa (0,00 mg/1000 ml); usó silbato y freno de emergencia; actuación correcta."
+    },
+    {
+     "rol": "Persona no autorizada (víctima)",
+     "implicacion": "Varón de 83 años que usaba bastón y transitaba por la vía recogiendo higos; falleció en el acto."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "1415",
+     "tipo": "tren de viajeros de larga distancia",
+     "operador": "Renfe Operadora",
+     "danos": "No hubo daños en el material rodante."
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 13 de octubre de 2008, a las 12:19 horas, el tren de viajeros 1415, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Automotor 490002, 3 coches, masa remolcada 172 Tn, Nº UIC 967194900023",
+    "averia": "No hubo daños; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal M-2; señal de salida de La Encina.",
+    "tipo_via": "Vía doble electrificada con bloqueo automático (BAD) sin C.T.C.",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Instalaciones técnicas funcionaron correctamente; zona sin vallar.",
+    "otro": "Radiotelefonía modalidad C; camino paralelo a la vía; higuera en el terraplén."
+   },
+   "pagina": 3,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático (BAD) sin C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal M-2; señal de salida de La Encina.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No hubo daños en el material rodante, en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "9 trenes afectados: 7 de Larga Distancia, 1 de Media Distancia y 1 de Mercancías; 152 minutos de retraso total; marcha a la vista por ambas vías durante 3 horas."
+   },
+   "pagina": 2,
+   "cita": "El día 13 de octubre de 2008, a las 12:19 horas, el tren de viajeros 1415, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No hubo daños en el material rodante, en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "9 trenes afectados: 7 de Larga Distancia, 1 de Media Distancia y 1 de Mercancías; 152 minutos de retraso total; marcha a la vista por ambas vías durante 3 horas."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-131008-240209-CIAF Pág. 1 de 9 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0049/2008",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No hubo daños en el material rodante, en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "9 trenes afectados: 7 de Larga Distancia, 1 de Media Distancia y 1 de Mercancías; 152 minutos de retraso total; marcha a la vista por ambas vías durante 3 horas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 490002, 3 coches, masa remolcada 172 Tn, Nº UIC 967194900023",
+    "averia": "No hubo daños; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal M-2; señal de salida de La Encina.",
+    "tipo_via": "Vía doble electrificada con bloqueo automático (BAD) sin C.T.C.",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Instalaciones técnicas funcionaron correctamente; zona sin vallar.",
+    "otro": "Radiotelefonía modalidad C; camino paralelo a la vía; higuera en el terraplén."
+   },
+   "pagina": 3,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático (BAD) sin C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Alicante",
+    "municipio": null,
+    "estacion": "La Encina"
+   },
+   "pagina": 2,
+   "cita": "Alicante El tren de viajeros de larga distancia 1415 de Renfe Operadora, compuesto por el automotor 490002 con 3 coches y masa remolcada de 172 Tn, arrolla a una persona que transita por la vía a la salida de la estac",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal M-2; señal de salida de La Encina.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal M-2; señal de salida de La Encina.",
+    "tipo_via": "Vía doble electrificada con bloqueo automático (BAD) sin C.T.C.",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Instalaciones técnicas funcionaron correctamente; zona sin vallar.",
+    "otro": "Radiotelefonía modalidad C; camino paralelo a la vía; higuera en el terraplén."
+   },
+   "pagina": 3,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático (BAD) sin C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 490002, 3 coches, masa remolcada 172 Tn, Nº UIC 967194900023",
+    "averia": "No hubo daños; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Tránsito no autorizado de persona",
+    "Recogida de higos junto vía",
+    "Zona sin vallado perimetral",
+    "Distracción de la víctima"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El 13 de octubre de 2008, a las 12:19 horas, el tren de viajeros de larga distancia 1415 de Renfe Operadora, compuesto por el automotor 490002, 3 coches y 172 toneladas de masa remolcada, arrolló a una persona que transitaba por la vía 1 en el P.K. 375,740, a la salida de la estación de La Encina, en el lado de Almansa y a la altura de la señal M-2, en la línea 300 Madrid-Chamartín-Valencia-Estación Nord. El maquinista, al percatarse de la presencia de la víctima, hizo uso del silbato y accionó el freno de emergencia, sin poder evitar el arrollamiento; el cadáver quedó fuera de la vía y fue localizado a unos 1.200 metros del tren. Según el informe, la víctima era un varón de 83 años que usaba bastón y transitaba por las inmediaciones de la vía recogiendo higos, en una zona descampada, poco frecuentada y sin vallar, con un camino paralelo desde el que cruzó hacia una higuera situada en el terraplén. El maquinista comunicó el suceso al Puesto de Mando de la estación de Valencia, que notificó a los servicios y operadores afectados; la Guardia Civil se personó a las 12:29 horas y custodió el cadáver hasta las 15:20 horas, cuando el juez ordenó el levantamiento. Se prescribió marcha a la vista por ambas vías durante el periodo de tres horas, resultaron afectados 9 trenes y se acumularon 152 minutos de retraso; según la declaración del maquinista, el tren reanudó la marcha sobre las 13:50 horas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar a la salida de la estación de La Encina, en el P.K 375,740 de la línea 300 \nMadrid - Chamartín - Valencia – Estación Nord. \nSegún el registrador de seguridad del automotor 490002, el tren circulaba a una velocidad  inferior \na la permitida en el tramo. \nSegún lo declarado por el maquinista, al percatarse de la presencia de una persona en un lugar no \nautorizado para ello, hizo uso del silbato repetidas veces y actuó sobre el freno de emergencia, por lo \nque la actuación del maquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \n\n## Página 7\n\n \n \n \nInvestigación del accidente \nnº 0049/2008 ocurrido el 13.10.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-131008-240209-CIAF \n \n \nPág. 7 de 9\nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente: \nQue la víctima, además de su avanzada edad, estuviera recogiendo higos en las cercanías del lugar \ndel arrollamiento pudo provocar su distracción, no percatándose de la proximidad del tren 1415. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba el tren, sin \nestar autorizado para ello.",
+   "pagina": 6,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello.",
+   "pagina": 2,
+   "cita": "Conclusión: El accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Zona sin vallar.",
+    "Acceso desde un camino paralelo a la vía hacia una higuera situada en el terraplén.",
+    "Avanzada edad de la víctima.",
+    "Distracción de la víctima por recoger higos."
+   ],
+   "pagina": 6,
+   "cita": "salida de la estación de La Encina, en una zona sin vallar. Paralelo a la vía, en el lado derecho,",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Recomendar el estudio, por la autoridad competente, de las necesidades de vallado en la zona.",
+     "destinatario": "autoridad competente"
+    }
+   ],
+   "pagina": 7,
+   "cita": "Recomendar el estudio, por la autoridad competente, de las necesidades de vallado en la zona.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "12:19",
+     "evento": "El tren 1415 arrolla a una persona en el P.K. 375,740, a la salida de La Encina."
+    },
+    {
+     "hora": "12:29",
+     "evento": "La Guardia Civil se persona en el lugar del accidente."
+    },
+    {
+     "hora": "13:26",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF."
+    },
+    {
+     "hora": "13:50",
+     "evento": "Según la declaración del maquinista, el tren reanuda la marcha."
+    },
+    {
+     "hora": "15:20",
+     "evento": "El juez ordena el levantamiento del cadáver."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0049/2008",
+ "expediente": "0049/08",
+ "anio": 2008,
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0049/2008 OCURRIDO EL DÍA 13.10.2008",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-131008-240209-CIAF.md"
+}

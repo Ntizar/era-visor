@@ -1,0 +1,916 @@
+{
+ "id": "IF-230209-140709-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/4A7CBDA8-F720-41D4-9AEF-36ED777C6291/53042/230209140709CIAF.pdf",
+ "pdf": "pdfs/ES/IF-230209-140709-CIAF.pdf",
+ "md5_pdf": "5dddf2fa55eac83e8ce7153e53a687cb",
+ "paginas_md": 11,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 8,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Feve",
+     "Número": "013/09-1",
+     "Recomendación": "Revisar los programas de reciclaje del personal de conducción, de manera que se haga especial énfasis en las actitudes y comportamientos que son fuentes de riesgos."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 11,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Feve",
+     "Número": "013/09-1",
+     "Recomendación": "Revisar los programas de reciclaje del personal de conducción, de manera que se haga especial énfasis en las actitudes y comportamientos que son fuentes de riesgos."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0013/2009",
+   "pagina": 1,
+   "cita": "nº 0013/2009 ocurrido el 23.02.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2009-02-23, a las 12:30, el tren de viajeros 6500 de Feve descarriló en plena vía en el PK 378,130, entre el apeadero de Ozanes y la estación de Soto Dueñas, al tomar una curva limitada a 40 km/h. La investigación concluye que el accidente se originó porque el maquinista entró en la curva a una velocidad superior a la permitida, alcanzando 77,56 km/h según el registrador. No hubo fallecidos y resultaron 14 heridos, 3 de ellos graves. La circulación se interrumpió hasta las 17:35 y se normalizó a las 22:55.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-02-23",
+    "hora": "12:30",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Soto Dueñas",
+     "pk": "378,130",
+     "linea": "21 Oviedo Santander",
+     "provincia": "Asturias",
+     "descripcion_lugar": "PK 378,130, entre el apeadero de Ozanes y la estación de Soto Dueñas, tramo Arriondas-Soto Dueñas, curva del Taragañu, vía paralela a la carretera nacional N-634 por su margen derecha, sentido de la marcha, y al río Piloña por la margen izquierda."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 23 de febrero de 2009, a las 12:30 horas, el tren de viajeros 6500 de Feve, procedente de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 3,
+    "heridos_leves": 11,
+    "danos_materiales": "Daños considerables en las dos unidades de tren diésel eléctrico; cinco traviesas de hormigón rotas y varias desplazadas; 60 metros de valla protectora de carretera de tipo doble bionda destrozada.",
+    "afectacion_servicio": "Circulación interrumpida entre las 12:30 y las 17:35; restablecida con limitación de 20 km/h entre PK 378,000 y 378,300 hasta las 22:55; suprimido el tren 5954; 2 trenes de corta distancia con retraso total de 23 minutos y 1 tren de media distancia con 24 minutos de retraso."
+   },
+   "pagina": 3,
+   "cita": "14 heridos de diversa gravedad.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "El tren entró en la curva limitada a 40 km/h a una velocidad superior a la permitida; el registrador indica 77,56 km/h en el momento del accidente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Distracción del maquinista por la alarma de presostato de mínima y la dificultad para visualizar la pantalla debido al reflejo solar",
+    "No reducción de la velocidad a tiempo antes de la curva",
+    "Demora en el reconocimiento y acusación de la alarma"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Revisar los programas de reciclaje del personal de conducción, de manera que se haga especial énfasis en las actitudes y comportamientos que son fuentes de riesgos.",
+    "Revisar los programas de reciclaje del personal de conducción, de manera que se haga especial énfasis en las actitudes y comportamientos que son fuentes de riesgos."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Feve",
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Descarrilamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "FEVE"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:entidades"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-02-23",
+   "pagina": 3,
+   "cita": "El día 23 de febrero de 2009, a las 12:30 horas, el tren de viajeros 6500 de Feve, procedente de",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "12:30",
+   "pagina": 3,
+   "cita": "El día 23 de febrero de 2009, a las 12:30 horas, el tren de viajeros 6500 de Feve, procedente de",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Soto Dueñas",
+    "pk": "378,130",
+    "linea": "21 Oviedo Santander",
+    "provincia": "Asturias",
+    "descripcion_lugar": "PK 378,130, entre el apeadero de Ozanes y la estación de Soto Dueñas, tramo Arriondas-Soto Dueñas, curva del Taragañu, vía paralela a la carretera nacional N-634 por su margen derecha, sentido de la marcha, y al río Piloña por la margen izquierda."
+   },
+   "pagina": 3,
+   "cita": "estación de Soto Dueñas, descarrila en plena vía al tomar una curva.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 21 Oviedo-Santander",
+   "pagina": 10,
+   "cita": "Pesués de la línea 21 Oviedo Santander.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Serie 2400: UTDE 2479 en cabeza y UTDE 2429 en cola.",
+    "averia": "Alarma de presostato de mínima reconocida en pantalla táctil; ruido en bogie comentado por el maquinista; comprobaciones indican que el funcionamiento antes del suceso se ajustaba a la Norma Básica de Seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros 6500 de Feve, procedente de Santander y con destino Oviedo, acababa de salir del apeadero de Ozanes cuando apareció una alarma de presostato de mínima en la pantalla de conducción. Según el maquinista, la pantalla tenía falta de nitidez y reflejo solar, lo que dificultó reconocer y acusar la alarma y lo distrajo momentáneamente de la conducción. En ese instante debía reducir la velocidad para entrar en una curva pronunciada con limitación permanente a 40 km/h, pero no lo hizo a tiempo y el tren entró en la curva a mayor velocidad de la permitida, produciéndose el descarrilamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Soto Dueñas",
+    "pk": "378,130",
+    "linea": "21 Oviedo Santander",
+    "provincia": "Asturias",
+    "descripcion_lugar": "PK 378,130, entre el apeadero de Ozanes y la estación de Soto Dueñas, tramo Arriondas-Soto Dueñas, curva del Taragañu, vía paralela a la carretera nacional N-634 por su margen derecha, sentido de la marcha, y al río Piloña por la margen izquierda."
+   },
+   "pagina": 3,
+   "cita": "estación de Soto Dueñas, descarrila en plena vía al tomar una curva.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 3,
+    "heridos_leves": 11,
+    "danos_materiales": "Daños considerables en las dos unidades de tren diésel eléctrico; cinco traviesas de hormigón rotas y varias desplazadas; 60 metros de valla protectora de carretera de tipo doble bionda destrozada.",
+    "afectacion_servicio": "Circulación interrumpida entre las 12:30 y las 17:35; restablecida con limitación de 20 km/h entre PK 378,000 y 378,300 hasta las 22:55; suprimido el tren 5954; 2 trenes de corta distancia con retraso total de 23 minutos y 1 tren de media distancia con 24 minutos de retraso."
+   },
+   "pagina": 3,
+   "cita": "14 heridos de diversa gravedad.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 6500",
+     "implicacion": "Nº CF 9667. Conducía el tren; según la investigación, no redujo la velocidad a tiempo para la curva limitada a 40 km/h. Declaró distracción por una alarma de presostato de mínima y reflejo solar en la pantalla. Prueba de alcohol negativa 0,00 mg/1000 ml. Último reciclaje formativo 2008-01-30 y último reconocimiento médico y psicotécnico 2008-10-24. Jornadas: 2009-02-21, 7 horas y 29 minutos; 2009-02-22, 6 horas; 2009-02-23, 6 horas y 10 minutos."
+    },
+    {
+     "rol": "Agente comercial del tren",
+     "implicacion": "Herido grave. Escuchó el ruido en el bogie comentado por el maquinista poco antes del apeadero de Ozanes."
+    }
+   ],
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen cuando el maquinista del tren 6500 toma la curva a una",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "6500",
+     "tipo": "Tren de viajeros/cercanías",
+     "operador": "Feve",
+     "danos": "Daños considerables en las dos unidades de tren diésel eléctrico 2479 y 2429."
+    },
+    {
+     "numero": "5954",
+     "tipo": "Tren de cercanía",
+     "operador": "Feve",
+     "danos": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 23 de febrero de 2009, a las 12:30 horas, el tren de viajeros 6500 de Feve, procedente de",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Serie 2400: UTDE 2479 en cabeza y UTDE 2429 en cola.",
+    "averia": "Alarma de presostato de mínima reconocida en pantalla táctil; ruido en bogie comentado por el maquinista; comprobaciones indican que el funcionamiento antes del suceso se ajustaba a la Norma Básica de Seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo telefónico; limitación permanente de velocidad a 40 km/h en la curva; radiotelefonía analógica.",
+    "tipo_via": "Vía única.",
+    "velocidad_maxima": "80 km/h en el tramo; 60 km/h en los seis kilómetros anteriores a la curva; 40 km/h en la curva del PK 378,130.",
+    "ancho": null,
+    "electrificacion": "No electrificada.",
+    "estado_via": "Curva hacia la izquierda, radio de 120 metros; tras el accidente, cinco traviesas de hormigón rotas y varias desplazadas.",
+    "otro": "Precedente similar: el 2007-07-11 un tren de mercancías descarriló cerca del apeadero de Pesués, en la línea 21 Oviedo-Santander."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo telefónico; limitación permanente de velocidad a 40 km/h en la curva; radiotelefonía analógica.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 3,
+    "heridos_leves": 11,
+    "danos_materiales": "Daños considerables en las dos unidades de tren diésel eléctrico; cinco traviesas de hormigón rotas y varias desplazadas; 60 metros de valla protectora de carretera de tipo doble bionda destrozada.",
+    "afectacion_servicio": "Circulación interrumpida entre las 12:30 y las 17:35; restablecida con limitación de 20 km/h entre PK 378,000 y 378,300 hasta las 22:55; suprimido el tren 5954; 2 trenes de corta distancia con retraso total de 23 minutos y 1 tren de media distancia con 24 minutos de retraso."
+   },
+   "pagina": 3,
+   "cita": "14 heridos de diversa gravedad.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 3,
+    "heridos_leves": 11,
+    "danos_materiales": "Daños considerables en las dos unidades de tren diésel eléctrico; cinco traviesas de hormigón rotas y varias desplazadas; 60 metros de valla protectora de carretera de tipo doble bionda destrozada.",
+    "afectacion_servicio": "Circulación interrumpida entre las 12:30 y las 17:35; restablecida con limitación de 20 km/h entre PK 378,000 y 378,300 hasta las 22:55; suprimido el tren 5954; 2 trenes de corta distancia con retraso total de 23 minutos y 1 tren de media distancia con 24 minutos de retraso."
+   },
+   "pagina": 2,
+   "cita": "FERROVIARIOS Informe Final IF-230209-140709-CIAF Pág. 2 de 11 1. 2. 2.1 2.2 2.3 2.4 3. 3.1 3.2 3.3 3.4 3.5 3.6 4. 4.1 4.2 5. ## Página 3 Investigación del accidente nº 0013/2009 ocur",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 3,
+    "heridos_leves": 11,
+    "danos_materiales": "Daños considerables en las dos unidades de tren diésel eléctrico; cinco traviesas de hormigón rotas y varias desplazadas; 60 metros de valla protectora de carretera de tipo doble bionda destrozada.",
+    "afectacion_servicio": "Circulación interrumpida entre las 12:30 y las 17:35; restablecida con limitación de 20 km/h entre PK 378,000 y 378,300 hasta las 22:55; suprimido el tren 5954; 2 trenes de corta distancia con retraso total de 23 minutos y 1 tren de media distancia con 24 minutos de retraso."
+   },
+   "pagina": 3,
+   "cita": "14 heridos de diversa gravedad.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 2400: UTDE 2479 en cabeza y UTDE 2429 en cola.",
+    "averia": "Alarma de presostato de mínima reconocida en pantalla táctil; ruido en bogie comentado por el maquinista; comprobaciones indican que el funcionamiento antes del suceso se ajustaba a la Norma Básica de Seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo telefónico; limitación permanente de velocidad a 40 km/h en la curva; radiotelefonía analógica.",
+    "tipo_via": "Vía única.",
+    "velocidad_maxima": "80 km/h en el tramo; 60 km/h en los seis kilómetros anteriores a la curva; 40 km/h en la curva del PK 378,130.",
+    "ancho": null,
+    "electrificacion": "No electrificada.",
+    "estado_via": "Curva hacia la izquierda, radio de 120 metros; tras el accidente, cinco traviesas de hormigón rotas y varias desplazadas.",
+    "otro": "Precedente similar: el 2007-07-11 un tren de mercancías descarriló cerca del apeadero de Pesués, en la línea 21 Oviedo-Santander."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Día, tiempo soleado; reflejo solar sobre la pantalla de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Asturias",
+    "municipio": null,
+    "estacion": "Soto Dueñas"
+   },
+   "pagina": 3,
+   "cita": "Asturias El tren de viajeros 6500 acaba de salir del apeadero de Ozanes cuando, en la pantalla del tablero de conducción, aparece una alarma que el maquinista tiene dificultad para ver con nitidez debido al reflejo so",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Día, tiempo soleado; reflejo solar sobre la pantalla de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo telefónico; limitación permanente de velocidad a 40 km/h en la curva; radiotelefonía analógica.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo telefónico; limitación permanente de velocidad a 40 km/h en la curva; radiotelefonía analógica.",
+    "tipo_via": "Vía única.",
+    "velocidad_maxima": "80 km/h en el tramo; 60 km/h en los seis kilómetros anteriores a la curva; 40 km/h en la curva del PK 378,130.",
+    "ancho": null,
+    "electrificacion": "No electrificada.",
+    "estado_via": "Curva hacia la izquierda, radio de 120 metros; tras el accidente, cinco traviesas de hormigón rotas y varias desplazadas.",
+    "otro": "Precedente similar: el 2007-07-11 un tren de mercancías descarriló cerca del apeadero de Pesués, en la línea 21 Oviedo-Santander."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 2400: UTDE 2479 en cabeza y UTDE 2429 en cola.",
+    "averia": "Alarma de presostato de mínima reconocida en pantalla táctil; ruido en bogie comentado por el maquinista; comprobaciones indican que el funcionamiento antes del suceso se ajustaba a la Norma Básica de Seguridad.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Distracción del maquinista por la alarma de presostato de mínima y la dificultad para visualizar la pantalla debido al reflejo solar",
+    "No reducción de la velocidad a tiempo antes de la curva",
+    "Demora en el reconocimiento y acusación de la alarma"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros 6500 de Feve, procedente de Santander y con destino Oviedo, acababa de salir del apeadero de Ozanes cuando apareció una alarma de presostato de mínima en la pantalla de conducción. Según el maquinista, la pantalla tenía falta de nitidez y reflejo solar, lo que dificultó reconocer y acusar la alarma y lo distrajo momentáneamente de la conducción. En ese instante debía reducir la velocidad para entrar en una curva pronunciada con limitación permanente a 40 km/h, pero no lo hizo a tiempo y el tren entró en la curva a mayor velocidad de la permitida, produciéndose el descarrilamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nLos hechos tuvieron lugar en plena vía, entre el apeadero de Ozanes y la estación de Soto Dueñas,  \nen la curva “del Taragañu”. \nLa jornada laboral del maquinista cumple lo establecido en el XVIII Convenio Colectivo de Feve \n(Artículo 9), donde se establece que la jornada diaria de trabajo no excederá de 9 horas y será \nsuperior a 6 horas. \nLa aparición de la alarma en el panel de conducción no guarda relación con el accidente. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nSegún lo declarado por el maquinista, tuvo problemas de nitidez al visualizar la pantalla de \nconducción debido a que llevaba el sol de cara, lo que hizo que prestase más atención de la debida a \nla incidencia de la alarma que a la conducción. \nLa velocidad a la que circulaba el tren, antes y en el momento del accidente, era superior a la \nmáxima permitida. \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0013/2009 ocurrido el 23.02.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-230209-140709-CIAF \n \n \nPág. 11 de 11\n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como el informe particular de Feve, el técnico responsable de la investigación concluye que: \nEl accidente tuvo su origen cuando el maquinista del tren 6500 toma la curva a una velocidad \nsuperior a la permitida, lo que produce el descarrilamiento del tren.",
+   "pagina": 10,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "El tren entró en la curva limitada a 40 km/h a una velocidad superior a la permitida; el registrador indica 77,56 km/h en el momento del accidente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Distracción del maquinista por la alarma de presostato de mínima y la dificultad para visualizar la pantalla debido al reflejo solar",
+    "No reducción de la velocidad a tiempo antes de la curva",
+    "Demora en el reconocimiento y acusación de la alarma"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Revisar los programas de reciclaje del personal de conducción, de manera que se haga especial énfasis en las actitudes y comportamientos que son fuentes de riesgos.",
+    "Revisar los programas de reciclaje del personal de conducción, de manera que se haga especial énfasis en las actitudes y comportamientos que son fuentes de riesgos."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Feve",
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "12:30",
+     "evento": "Descarrilamiento del tren 6500 de Feve en el PK 378,130, entre el apeadero de Ozanes y la estación de Soto Dueñas."
+    },
+    {
+     "hora": "17:35",
+     "evento": "Se restablece la circulación con limitación de velocidad a 20 km/h entre los PK 378,000 y 378,300."
+    },
+    {
+     "hora": "22:55",
+     "evento": "Se restaura la circulación normal en el tramo."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0013/2009",
+ "expediente": "0013/09",
+ "anio": 2009,
+ "titulo": "Descarrilamiento de tren de Feve entre apeadero de Ozanes y estación de Soto Dueñas, Asturias",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-230209-140709-CIAF.md"
+}

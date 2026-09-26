@@ -1,0 +1,902 @@
+{
+ "id": "ID-300407-190707-DGF",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-300407-190707-DGF.pdf",
+ "pdf": "pdfs/ES/ID-300407-190707-DGF.pdf",
+ "md5_pdf": "781789a9e1b9e1b1e005966caa4db34a",
+ "paginas_md": 7,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 13,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0027/2007",
+   "pagina": 1,
+   "cita": "Nº 0027/2007 OCURRIDO EL DÍA 30.04.2007 ID-300407-190707-DGF Pág. 1 de 7 ## Página 2 Investigación del accidente nº 27/2007 ocurrido el 30.04.2007 SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y PLANIFICACI",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "Una mujer de 23 años falleció tras ser arrollada por el tren de Cercanías 26877 al cruzar imprudentemente un paso entre andenes en la estación de San Sebastián. A pesar de las advertencias del maquinista y del Jefe de Circulación, la víctima ignoró el paso inferior habilitado para acceder a los andenes. El accidente fue calificado como grave y la investigación concluyó que la causa directa fue el uso indebido del paso a nivel por parte de la peatona.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-04-30",
+    "hora": "22:06",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "San Sebastián",
+     "pk": "622,516",
+     "linea": "Línea 100 Madrid-Hendaya",
+     "provincia": "Guipúzcoa",
+     "descripcion_lugar": "Paso entre andenes situado en el lado Hernani, dentro de la playa de vías de la estación."
+    }
+   },
+   "pagina": 3,
+   "cita": "Una persona resultó arrollada a las 22:06 horas del 30.04.07 en el paso entre andenes de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Retraso de 21 minutos en el tren 26877."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Uso indebido del paso entre andenes para cruzar las vías en lugar de utilizar el paso inferior existente.",
+   "pagina": 6,
+   "cita": "investigación realizada, se estima que el accidente tuvo su origen en el uso indebido del paso",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Imprudencia de la víctima al no percatarse de la llegada del tren.",
+    "Ignorancia de las advertencias visuales y acústicas del personal ferroviario."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Realizar un estudio para impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía sobre el peligro de cruzar las vías.",
+     "destinatario": "Adif/Renfe/Autoridades competentes"
+    },
+    {
+     "texto": "Considerar la posible eliminación de los dos pasos entre andenes existentes en la estación de San Sebastián, manteniéndolos solo si son estrictamente necesarios.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 6,
+   "cita": "de paso de los trenes, se considera necesario recomendar:",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Realizar un estudio para impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía sobre el peligro de cruzar las vías.",
+     "destinatario": "Adif/Renfe/Autoridades competentes"
+    },
+    {
+     "texto": "Considerar la posible eliminación de los dos pasos entre andenes existentes en la estación de San Sebastián, manteniéndolos solo si son estrictamente necesarios.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 6,
+   "cita": "de paso de los trenes, se considera necesario recomendar:",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de una persona",
+   "pagina": 2,
+   "cita": "(Adif), comunicó mediante mensaje de correo electrónico, que se había producido el",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó mediante mensaje de correo electrónico, que se había producido el",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-04-30",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "22:06",
+   "pagina": 3,
+   "cita": "Una persona resultó arrollada a las 22:06 horas del 30.04.07 en el paso entre andenes de",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "San Sebastián",
+    "pk": "622,516",
+    "linea": "Línea 100 Madrid-Hendaya",
+    "provincia": "Guipúzcoa",
+    "descripcion_lugar": "Paso entre andenes situado en el lado Hernani, dentro de la playa de vías de la estación."
+   },
+   "pagina": 5,
+   "cita": "estacionado en la estación de San Sebastián, oigo atención especial y fuertes pitadas",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 100 Madrid-Hendaya",
+   "pagina": 2,
+   "cita": "situada en el punto kilométrico 622,578 en la Línea 100 Madrid - Hendaya, en la provincia de",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UT 440139 (Automotor 967194401394)",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El 30 de abril de 2007, a las 22:06 horas, una mujer resultó fallecida al ser arrollada por el tren de Viajeros de Cercanías 26877 de Renfe mientras cruzaba uno de los pasos entre andenes de la estación de San Sebastián (PK 622,516). La víctima, que llevaba la cabeza agachada, hizo caso omiso a las reiteradas advertencias verbales y gestuales tanto del Jefe de Circulación como del silbato del tren. Aunque existía un paso inferior con ascensores a 58 metros, la persona optó por invadir la vía general. El maquinista aplicó el freno de emergencia, pero no pudo evitar el impacto. Tras retirar el cuerpo, el servicio se reanudó con un retraso de 21 minutos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "San Sebastián",
+    "pk": "622,516",
+    "linea": "Línea 100 Madrid-Hendaya",
+    "provincia": "Guipúzcoa",
+    "descripcion_lugar": "Paso entre andenes situado en el lado Hernani, dentro de la playa de vías de la estación."
+   },
+   "pagina": 5,
+   "cita": "estacionado en la estación de San Sebastián, oigo atención especial y fuertes pitadas",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Retraso de 21 minutos en el tren 26877."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 26877",
+     "implicacion": "Accionó el silbato y el freno de emergencia; prueba de alcoholemia negativa."
+    },
+    {
+     "rol": "Jefe de Circulación",
+     "implicacion": "Intentó detener a la víctima gritando y gesticulando desde el andén/vía."
+    }
+   ],
+   "pagina": 6,
+   "cita": "La víctima hizo caso omiso de las reiteradas advertencias realizadas tanto por el",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "26877",
+     "tipo": "Viajeros de Cercanías",
+     "operador": "Renfe",
+     "danos": "Ninguno"
+    },
+    {
+     "numero": "26880",
+     "tipo": "Tren estacionado",
+     "operador": null,
+     "danos": "Ninguno"
+    }
+   ],
+   "pagina": 3,
+   "cita": "la estación de San Sebastián al paso del tren de Viajeros de Cercanías 26877 de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UT 440139 (Automotor 967194401394)",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal E-1 indicaba vía libre.",
+    "tipo_via": "Vía doble",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Correcto",
+    "otro": "Existencia de paso inferior con ascensores a 58m del lugar del suceso, bien iluminado y señalizado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal E-1 indicaba vía libre.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Retraso de 21 minutos en el tren 26877."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Retraso de 21 minutos en el tren 26877."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Retraso de 21 minutos en el tren 26877."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 440139 (Automotor 967194401394)",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal E-1 indicaba vía libre.",
+    "tipo_via": "Vía doble",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Correcto",
+    "otro": "Existencia de paso inferior con ascensores a 58m del lugar del suceso, bien iluminado y señalizado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Guipúzcoa",
+    "municipio": null,
+    "estacion": "San Sebastián"
+   },
+   "pagina": 2,
+   "cita": "Guipúzcoa, perteneciente a la Red Ferroviaria de Interés General administrada por Adif.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal E-1 indicaba vía libre.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal E-1 indicaba vía libre.",
+    "tipo_via": "Vía doble",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Correcto",
+    "otro": "Existencia de paso inferior con ascensores a 58m del lugar del suceso, bien iluminado y señalizado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 440139 (Automotor 967194401394)",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "víctima cruzó paso entre andenes",
+    "no usó paso inferior disponible",
+    "tren entraba en estación"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(Adif), comunicó mediante mensaje de correo electrónico, que se había producido el \narrollamiento de una persona resultando esta fallecida, en la estación de San Sebastián \nsituada en el punto kilométrico 622,578 en la Línea 100 Madrid - Hendaya, en la provincia de \nGuipúzcoa, perteneciente a la Red Ferroviaria de Interés General administrada por Adif. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles de acuerdo \ncon el citado artículo.  \nDe conformidad con el artículo 112 del mencionado Reglamento, el 01 de enero de 2007 la \nDirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), comunicó mediante mensaje de correo electrónico, que se había producido el arrollamiento de una pers",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El 30 de abril de 2007, a las 22:06 horas, una mujer resultó fallecida al ser arrollada por el tren de Viajeros de Cercanías 26877 de Renfe mientras cruzaba uno de los pasos entre andenes de la estación de San Sebastián (PK 622,516). La víctima, que llevaba la cabeza agachada, hizo caso omiso a las reiteradas advertencias verbales y gestuales tanto del Jefe de Circulación como del silbato del tren. Aunque existía un paso inferior con ascensores a 58 metros, la persona optó por invadir la vía general. El maquinista aplicó el freno de emergencia, pero no pudo evitar el impacto. Tras retirar el cuerpo, el servicio se reanudó con un retraso de 21 minutos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR EL OPERADOR FERROVIARIO. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por ADIF concluye “el motivo del accidente fue debido a no hacer uso la \npersona del paso inferior o ascensor del que están dotados los andenes I y que dan acceso a \nambos andenes de la estación de San Sebastián  invadiendo la vía de forma imprudente”.  \n,\n \nEl elaborado por RENFE establece que “Imprudencia de la víctima al intentar pasar del \nandén de la vía 1 al andén de la vía 2 cuando llegaba el tren de Cercanías 26877 y no \npercatarse de la llegada del citado tren”.  \nPor tanto, ambas conclusiones son coincidentes entre sí en cuanto a la causa del accidente.",
+   "pagina": 6,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Uso indebido del paso entre andenes para cruzar las vías en lugar de utilizar el paso inferior existente.",
+   "pagina": 6,
+   "cita": "investigación realizada, se estima que el accidente tuvo su origen en el uso indebido del paso",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Imprudencia de la víctima al no percatarse de la llegada del tren.",
+    "Ignorancia de las advertencias visuales y acústicas del personal ferroviario."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "A la vista de los datos recogidos por el Administrador de la infraestructura y de la \ninvestigación realizada, se estima que el accidente tuvo su origen en el uso indebido del paso \nentre andenes para cruzar las vías, en lugar de utilizar el paso inferior existente en la estación \nde San Sebastián.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES A la vista de los datos recogidos por el Administrador de la infraestructura y de la investigación realizada, se estima que el accidente tuvo su origen en el uso indebido del paso entre andenes para cr",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "A la vista de los datos recogidos por el Administrador de la infraestructura y de la \ninvestigación realizada, se estima que el accidente tuvo su origen en el uso indebido del paso \nentre andenes para cruzar las vías, en lugar de utilizar el paso inferior existente en la estación \nde San Sebastián.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES A la vista de los datos recogidos por el Administrador de la infraestructura y de la investigación realizada, se estima que el accidente tuvo su origen en el uso indebido del paso entre andenes para cr",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Realizar un estudio para impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía sobre el peligro de cruzar las vías.",
+     "destinatario": "Adif/Renfe/Autoridades competentes"
+    },
+    {
+     "texto": "Considerar la posible eliminación de los dos pasos entre andenes existentes en la estación de San Sebastián, manteniéndolos solo si son estrictamente necesarios.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 6,
+   "cita": "de paso de los trenes, se considera necesario recomendar:",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "22:05",
+     "evento": "El Jefe de Circulación observa a la víctima corriendo hacia el paso entre andenes mientras el tren 26877 entra en la estación."
+    },
+    {
+     "hora": "22:06",
+     "evento": "Se produce el arrollamiento de la víctima por el tren 26877 a una velocidad de 30 km/h."
+    },
+    {
+     "hora": "22:27",
+     "evento": "Una vez retirado el cuerpo, se autoriza al maquinista a continuar la marcha."
+    },
+    {
+     "hora": "23:00",
+     "evento": "Prueba de alcoholemia negativa al maquinista realizada en Irún."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0027/2007",
+ "expediente": "0027/2007",
+ "anio": 2007,
+ "titulo": "Arrollamiento mortal de una persona en paso entre andenes de la estación de San Sebastián",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-300407-190707-DGF.md"
+}

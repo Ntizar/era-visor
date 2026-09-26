@@ -1,0 +1,1061 @@
+{
+ "id": "IF_060912__300713_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/20B00188-0F28-46F3-A2A2-DE64FD3141B6/119635/IF060912300713CIAF.pdf",
+ "pdf": "pdfs/ES/IF_060912__300713_CIAF.pdf",
+ "md5_pdf": "d29aa7497409989f0aacb1de744d2815",
+ "paginas_md": 27,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 21,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Transfesa",
+     "Número": "61/12-1",
+     "Recomendación": "Poner al día la documentación del mantenimiento de vagones porta automóviles tipo Leks de transporte peninsular de Transfesa, haciendo coincidir la duración del ciclo de mantenimiento de los ejes con la operación de mantenimiento tipo R de los vagones."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "61/12-2",
+     "Recomendación": "Establecer de acuerdo con Transfesa el plan de adaptación e implantación de los ejes tipo 65 a los vagones tipo Leks de ejes tipo 66, realizando el seguimiento de su implantación así como de su resultado."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "61/12-3",
+     "Recomendación": "Estudiar la viabilidad de incorporar a la hoja de material de los trenes el número de ejes por cada vagón de forma que sea fácilmente identificable el vagón al que corresponde un eje con indicios de caldeo."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "61/12-4",
+     "Recomendación": "Realizar un reciclaje formativo en materia de gestión de alarmas de caldeo de ejes calientes al personal del puesto de mando de Miranda implicado en la gestión de las alarmas de caldeo que nos ocupa en este informe."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 26,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Transfesa",
+     "Número": "61/12-1",
+     "Recomendación": "Poner al día la documentación del mantenimiento de vagones porta automóviles tipo Leks de transporte peninsular de Transfesa, haciendo coincidir la duración del ciclo de mantenimiento de los ejes con la operación de mantenimiento tipo R de los vagones."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "61/12-2",
+     "Recomendación": "Establecer de acuerdo con Transfesa el plan de adaptación e implantación de los ejes tipo 65 a los vagones tipo Leks de ejes tipo 66, realizando el seguimiento de su implantación así como de su resultado."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "61/12-3",
+     "Recomendación": "Estudiar la viabilidad de incorporar a la hoja de material de los trenes el número de ejes por cada vagón de forma que sea fácilmente identificable el vagón al que corresponde un eje con indicios de caldeo."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0061/2012",
+   "pagina": 1,
+   "cita": "nº 0061/2012 ocurrido el 06.09.2012",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 6 de septiembre de 2012 a las 03:07, el tren de mercancías 82658 se detuvo entre Almudévar y Tardienta (Huesca) al detectar el maquinista una pérdida de presión en la tubería de freno automático. El vagón decimocuarto de la composición (porta-automóviles tipo Leks, UIC 43714179512-4) estaba descarrilado de ambos ejes, habiendo perdido la caja de grasa derecha del segundo eje. El origen fue la rotura de la mangueta derecha por agarrotamiento del rodamiento debido a un fallo de lubricación, agravado por el incumplimiento del plazo de mantenimiento de los ejes y por un error del detector de ejes calientes de Casetas que asignó la alarma al tren equivocado. No hubo víctimas. La circulación quedó interrumpida durante casi 17 horas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2012-09-06",
+    "hora": "03:07",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Tardienta (a la entrada, lado Zaragoza)",
+     "pk": "51+800",
+     "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
+     "provincia": "Huesca",
+     "descripcion_lugar": "Tramo entre las estaciones de Almudévar (PK 43+485) y Tardienta (PK 52+915). Vía única electrificada de ancho convencional con bloqueo automático (BAU) y CTC del puesto de mando de Zaragoza El Portillo. Trazado prácticamente recto en el sentido de circulación. Paralela discurre vía de ancho UIC (línea 70 Bif. Huesca - Huesca) con BLAU. Perfil: acceso a Almudévar en rampa de 8 milésimas, luego prácticamente horizontal, y entrada a Tardienta en rampa de 2,7 a 4,7 milésimas."
+    }
+   },
+   "pagina": 11,
+   "cita": "La circulación queda interrumpida desde las 3:07 horas hasta las 20:05 horas del 06/09/2012 entre las",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: traviesas de hormigón monobloque y traviesas mixtas dañadas a lo largo de 7.740 m, valoradas en 136.807 €. Material rodante: daños en el vagón descarrilado y en uno de los vehículos transportados, valorados en 17.000 €. Total: 153.807 €.",
+    "afectacion_servicio": "Circulación interrumpida entre Almudévar y Tardienta desde las 03:07 hasta las 20:05 del 06/09/2012 (≈17 horas). Tráfico de mercancías desviado por la línea 210 Miraflores – Tarragona. Afectados 16 trenes de viajeros (440 minutos de retraso total) y 44 trenes de mercancías (2.050 minutos de retraso total). Suprimidos 12 trenes (6 de viajeros y 6 de mercancías). Viajeros transbordados por carretera. Reanudación con limitación de velocidad a 60 km/h entre PK 43+950 y 51+650."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Rotura de la mangueta derecha del segundo eje (eje 33) del vagón decimocuarto de la composición, como consecuencia del aumento de temperatura en la caja de grasa debido al agarrotamiento del rodamiento de apoyo del extremo de dicho eje (fallo del sistema de lubricación), habiéndose superado el plazo límite de mantenimiento de los ejes.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Fallo del detector de ejes calientes (DEC) de Casetas que asignó erróneamente la alarma de caldeo del tren 82658 al tren 81050 que circulaba inmediatamente después, permitiendo que el 82658 continuara la marcha sin ser detenido.",
+    "Confusión rail 1 / rail 2: el jefe del CTC de Miranda confirmó erróneamente al maquinista que rail 1 correspondía al lado izquierdo cuando en el sentido de avance del tren (kilometración descendente) rail 1 correspondía al lado derecho. El maquinista inspeccionó el lado incorrecto.",
+    "Probable inspección del vagón equivocado: según los registros de la aplicación de control, el vagón inspeccionado en Caparroso y Tudela fue el 7º de la composición, no el 14º que presentaba caldeo.",
+    "La hoja de material no incluía el número de ejes por vagón, dificultando la identificación del vagón al que correspondía el eje con alarma.",
+    "El regulador del PM de Zaragoza no estuvo atento al paso del 82658 por el DEC de Casetas.",
+    "No se estableció ficha de incidencias GIFO por las alarmas de Olite y Tudela.",
+    "El PM de Miranda no informó directamente al PM de Zaragoza del caldeo del 82658 (la comunicación se hizo entre jefes de CTC de bandas colaterales, fuera del procedimiento normal).",
+    "En la parada de Casetas (1 hora por relevo) no se revisó la composición del tren."
+   ],
+   "pagina": 3,
+   "cita": "límite de mantenimiento; junto con un fallo del detector de ejes calientes (DEC) de Casetas que asignó",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Discrepancia entre los ciclos de mantenimiento de vagones (R cada 6 años + 3 meses) y de ejes (cada 6 años) en el plan de mantenimiento actual de los Leks.",
+    "El sistema de asignación de número de tren del DEC de Casetas llevaba funcionando de forma errónea desde agosto de 2009 sin que fuera detectado por el personal responsable.",
+    "Deficiencias en la gestión de alarmas de ejes calientes: falta de cotejo entre informe de alarma y hoja de material, ausencia de ficha de incidencias, comunicación inadecuada entre puestos de mando colaterales.",
+    "El portavoz de la información del PM de Zaragoza no había realizado ningún curso previo a prestar servicio, solo recibió indicaciones de un compañero.",
+    "La normativa existente sobre gestión de alarmas de detectores de ejes calientes presentaba lagunas (se reitera recomendación del expediente 51/2012)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Poner al día la documentación del mantenimiento de vagones porta automóviles tipo Leks de transporte peninsular de Transfesa, haciendo coincidir la duración del ciclo de mantenimiento de los ejes con la operación de mantenimiento tipo R de los vagones.",
+    "Establecer de acuerdo con Transfesa el plan de adaptación e implantación de los ejes tipo 65 a los vagones tipo Leks de ejes tipo 66, realizando el seguimiento de su implantación así como de su resultado.",
+    "Estudiar la viabilidad de incorporar a la hoja de material de los trenes el número de ejes por cada vagón de forma que sea fácilmente identificable el vagón al que corresponde un eje con indicios de caldeo.",
+    "Realizar un reciclaje formativo en materia de gestión de alarmas de caldeo de ejes calientes al personal del puesto de mando de Miranda implicado en la gestión de las alarmas de caldeo que nos ocupa en este informe.",
+    "Poner al día la documentación del mantenimiento de vagones porta automóviles tipo Leks de transporte peninsular de Transfesa, haciendo coincidir la duración del ciclo de mantenimiento de los ejes con la operación de mantenimiento tipo R de los vagones.",
+    "Establecer de acuerdo con Transfesa el plan de adaptación e implantación de los ejes tipo 65 a los vagones tipo Leks de ejes tipo 66, realizando el seguimiento de su implantación así como de su resultado.",
+    "Estudiar la viabilidad de incorporar a la hoja de material de los trenes el número de ejes por cada vagón de forma que sea fácilmente identificable el vagón al que corresponde un eje con indicios de caldeo."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Transfesa",
+    "Adif",
+    "Adif",
+    "Adif",
+    "Transfesa",
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Descarrilamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Semat - Transfesa",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "por locomotora 253013 de Renfe Operadora y 23 vagones porta-automóviles propiedad de la empresa",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2012-09-06",
+   "pagina": 11,
+   "cita": "La circulación queda interrumpida desde las 3:07 horas hasta las 20:05 horas del 06/09/2012 entre las",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "03:07",
+   "pagina": 3,
+   "cita": "El día 6 de septiembre de 2012 a las 03:07 horas, a la entrada de la estación de Tardienta (lado",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Tardienta (a la entrada, lado Zaragoza)",
+    "pk": "51+800",
+    "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
+    "provincia": "Huesca",
+    "descripcion_lugar": "Tramo entre las estaciones de Almudévar (PK 43+485) y Tardienta (PK 52+915). Vía única electrificada de ancho convencional con bloqueo automático (BAU) y CTC del puesto de mando de Zaragoza El Portillo. Trazado prácticamente recto en el sentido de circulación. Paralela discurre vía de ancho UIC (línea 70 Bif. Huesca - Huesca) con BLAU. Perfil: acceso a Almudévar en rampa de 8 milésimas, luego prácticamente horizontal, y entrada a Tardienta en rampa de 2,7 a 4,7 milésimas."
+   },
+   "pagina": 3,
+   "cita": "Zaragoza) de la línea 200 Madrid Chamartín – Barcelona Estación de Francia, el tren 82658 compuesto",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 200 Madrid Chamartín - Barcelona Estación de Francia",
+   "pagina": 3,
+   "cita": "Zaragoza) de la línea 200 Madrid Chamartín – Barcelona Estación de Francia, el tren 82658 compuesto",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 253013 (Renfe Operadora). Vagones porta-automóviles tipo Leks, serie 43714179 (Semat-Transfesa). Vagón descarrilado: UIC 43714179512-4. Ejes tipo 66 (tipo RN 66). Composición: 56 ejes, 692 toneladas, 468 m de longitud.",
+    "averia": "Rotura de la mangueta derecha del eje 33 (segundo eje del vagón 14) por agarrotamiento del rodamiento de apoyo y fallo del sistema de lubricación de la caja de grasa. Pérdida de la caja de grasa derecha. Cono típico de descarrilamiento por agarrotamiento del rodamiento. Placas de guarda dobladas y erosionadas. Probable rotura o fallo de la jaula del rodamiento por haber superado la vida útil la grasa.",
+    "mantenimiento": "Plan de mantenimiento: Visita de Seguridad (VS) cada 5.000 km; Gran Reparación (R) cada 6 años + 3 meses. Ejes tipo 66: ciclo PME-66 de 12 años en 2 revisiones de 6 años (REV2 y DR). Última VS al vagón: 12/07/2012 (2.308 km recorridos). Última R1 al vagón: 11/10/2006 (válida hasta 11/10/2012). Última revisión de ejes: 2005 (fichas de 21/10/2005 y 24/10/2005). Los ejes habían superado en casi un año (prácticamente 7 años) el plazo de 6 años. Discrepancia de 3 meses entre ciclos de vagón y ejes en el plan actual. El vagón había recorrido 254.172 km y transportado 5.531.417 TKB desde la R1."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de mercancías 82658, traccionado por Renfe Operadora con locomotora 253013 y 23 vagones porta-automóviles tipo Leks de Semat-Transfesa, procedente de Pamplona con destino Barcelona Casa Antúnez, había dado alarma de caldeo en el eje 33 (vagón 14) a su paso por los detectores de ejes calientes de Olite (21:50:13, 151°C) y Tudela (22:45:53, 148°C) del día 5 de septiembre. En ambas ocasiones el puesto de mando detuvo el tren para que el maquinista reconociera el eje, pero por una confusión entre rail 1 y rail 2 (el jefe del CTC de Miranda confirmó erróneamente que rail 1 era el lado izquierdo cuando en realidad era el derecho), el maquinista inspeccionó el lado incorrecto y no detectó anomalía. Además, según los registros de la aplicación de control, el vagón inspeccionado probablemente fue el 7º de la composición en lugar del 14º. El tren continuó hasta Casetas donde realizó parada de relevo de maquinistas (23:53:48 a 00:54:30). Al pasar por el DEC de Casetas a las 01:03:11, volvió a dar alarma en el eje 33 (151°C lado derecho), pero el sistema informático del detector asignó erróneamente la alarma al tren 81050 que circulaba inmediatamente después, por lo que se detuvo al 81050 y el 82658 continuó la marcha. A las 03:02:36, entre Almudévar y Tardienta, el nuevo maquinista notó un descenso progresivo de presión en la TFA (de 5,1 a 4,7 bar) y detuvo el tren en el PK 51+800. Al reconocer la composición descubrió que el vagón 14 estaba descarrilado de ambos ejes (32 y 33) y que al segundo eje le faltaba la caja de grasa derecha. El vagón había circulado descarrilado del segundo eje durante 8 km y de ambos ejes los últimos 2 km.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Tardienta (a la entrada, lado Zaragoza)",
+    "pk": "51+800",
+    "linea": "200 Madrid Chamartín – Barcelona Estación de Francia",
+    "provincia": "Huesca",
+    "descripcion_lugar": "Tramo entre las estaciones de Almudévar (PK 43+485) y Tardienta (PK 52+915). Vía única electrificada de ancho convencional con bloqueo automático (BAU) y CTC del puesto de mando de Zaragoza El Portillo. Trazado prácticamente recto en el sentido de circulación. Paralela discurre vía de ancho UIC (línea 70 Bif. Huesca - Huesca) con BLAU. Perfil: acceso a Almudévar en rampa de 8 milésimas, luego prácticamente horizontal, y entrada a Tardienta en rampa de 2,7 a 4,7 milésimas."
+   },
+   "pagina": 3,
+   "cita": "Zaragoza) de la línea 200 Madrid Chamartín – Barcelona Estación de Francia, el tren 82658 compuesto",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: traviesas de hormigón monobloque y traviesas mixtas dañadas a lo largo de 7.740 m, valoradas en 136.807 €. Material rodante: daños en el vagón descarrilado y en uno de los vehículos transportados, valorados en 17.000 €. Total: 153.807 €.",
+    "afectacion_servicio": "Circulación interrumpida entre Almudévar y Tardienta desde las 03:07 hasta las 20:05 del 06/09/2012 (≈17 horas). Tráfico de mercancías desviado por la línea 210 Miraflores – Tarragona. Afectados 16 trenes de viajeros (440 minutos de retraso total) y 44 trenes de mercancías (2.050 minutos de retraso total). Suprimidos 12 trenes (6 de viajeros y 6 de mercancías). Viajeros transbordados por carretera. Reanudación con limitación de velocidad a 60 km/h entre PK 43+950 y 51+650."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 82658 (trayecto Pamplona-Casetas)",
+     "implicacion": "Matrícula 1347277. Realizó los dos reconocimientos en Caparroso y Tudela. Preguntó al CTC si rail 1 era el lado izquierdo y actuó según la respuesta errónea. Probablemente inspeccionó el vagón 7º en lugar del 14º. No detectó anomalía."
+    },
+    {
+     "rol": "Maquinista del tren 82658 (trayecto Casetas-Tardienta)",
+     "implicacion": "Matrícula 1347194. Detectó la pérdida de presión en la TFA, detuvo el tren y descubrió el descarrilamiento del vagón 14."
+    },
+    {
+     "rol": "Jefe del CTC PM de Miranda",
+     "implicacion": "Matrícula 7788748. Confirmó erróneamente al maquinista que rail 1 era el lado izquierdo. No informó de temperaturas ni del vagón afectado. No ordenó reconocer el eje por ambos lados."
+    },
+    {
+     "rol": "Regulador PM de Miranda",
+     "implicacion": "Matrícula 9662149. Escuchó la alarma del portavoz. Ordenó al jefe del CTC detener el tren en Tudela. No valoró la posibilidad de reconocimiento por personal de Integria."
+    },
+    {
+     "rol": "Portavoz de la información PM de Miranda",
+     "implicacion": "Matrícula 8974420. Informó de viva voz al regulador y al jefe del CTC del caldeo. No estableció ficha GIFO por la incidencia."
+    },
+    {
+     "rol": "Regulador PM de Zaragoza El Portillo",
+     "implicacion": "Matrícula 9686536. No estuvo atento al paso del 82658 por el DEC de Casetas. Ordenó detener al 81050 por la alarma mal asignada. No cotejó la hoja de material con el informe de alarma."
+    },
+    {
+     "rol": "Jefe del CTC banda San Juan de Mozarrifar – Monzón del Río Cinca (PM Zaragoza)",
+     "implicacion": "Matrícula 9674516. Recibió la llamada del maquinista del 82658 informando del problema de freno. No fue informado del caldeo previo del 82658."
+    },
+    {
+     "rol": "Jefe del CTC banda Cortes de Navarra – Zaragoza (PM Zaragoza)",
+     "implicacion": "Matrícula 7799851. Recibió información del PM de Miranda sobre el caldeo del 82658. No participó directamente en la incidencia (estaba de descanso)."
+    },
+    {
+     "rol": "Portavoz de la información PM de Zaragoza El Portillo",
+     "implicacion": "Matrícula 9675612. Reconoció la alarma del DEC de Casetas y la asignó al 81050. No había sido informado del caldeo previo del 82658. No había realizado curso previo a prestar servicio."
+    },
+    {
+     "rol": "Vigilante de seguridad estación de Caparroso",
+     "implicacion": "Presenció la inspección del maquinista en Caparroso sobre las 22:00 del día 5."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "82658",
+     "tipo": "tren de mercancías (porta-automóviles), tren tipo 100",
+     "operador": "Renfe Operadora (tracción) / Semat-Transfesa (vagones)",
+     "danos": "Vagón decimocuarto (UIC 43714179512-4) descarrilado de ambos ejes, pérdida de caja de grasa derecha del eje 33, rotura de mangueta. Daños en el vagón y en uno de los vehículos transportados valorados en 17.000 €. Daños en la TFA por el arrastre."
+    },
+    {
+     "numero": "81050",
+     "tipo": "tren de mercancías",
+     "operador": null,
+     "danos": "Ninguna. Fue detenido indebidamente por asignación errónea de la alarma del 82658."
+    }
+   ],
+   "pagina": 3,
+   "cita": "Zaragoza) de la línea 200 Madrid Chamartín – Barcelona Estación de Francia, el tren 82658 compuesto",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 253013 (Renfe Operadora). Vagones porta-automóviles tipo Leks, serie 43714179 (Semat-Transfesa). Vagón descarrilado: UIC 43714179512-4. Ejes tipo 66 (tipo RN 66). Composición: 56 ejes, 692 toneladas, 468 m de longitud.",
+    "averia": "Rotura de la mangueta derecha del eje 33 (segundo eje del vagón 14) por agarrotamiento del rodamiento de apoyo y fallo del sistema de lubricación de la caja de grasa. Pérdida de la caja de grasa derecha. Cono típico de descarrilamiento por agarrotamiento del rodamiento. Placas de guarda dobladas y erosionadas. Probable rotura o fallo de la jaula del rodamiento por haber superado la vida útil la grasa.",
+    "mantenimiento": "Plan de mantenimiento: Visita de Seguridad (VS) cada 5.000 km; Gran Reparación (R) cada 6 años + 3 meses. Ejes tipo 66: ciclo PME-66 de 12 años en 2 revisiones de 6 años (REV2 y DR). Última VS al vagón: 12/07/2012 (2.308 km recorridos). Última R1 al vagón: 11/10/2006 (válida hasta 11/10/2012). Última revisión de ejes: 2005 (fichas de 21/10/2005 y 24/10/2005). Los ejes habían superado en casi un año (prácticamente 7 años) el plazo de 6 años. Discrepancia de 3 meses entre ciclos de vagón y ejes en el plan actual. El vagón había recorrido 254.172 km y transportado 5.531.417 TKB desde la R1."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (BAU) con CTC en vía convencional; bloqueo de liberación automática (BLAU) con CTC en vía UIC paralela. Señales de entrada/salida en estaciones. Videográfico en PM de Zaragoza.",
+    "tipo_via": "Vía única electrificada de ancho convencional (línea 200) con vía paralela de ancho UIC (línea 70)",
+    "velocidad_maxima": "100 km/h (tren tipo 100)",
+    "ancho": "Convencional (1668 mm) y UIC (1435 mm) en vía paralela",
+    "electrificacion": "Electrificada",
+    "estado_via": "En buen estado. Traviesas de hormigón monobloque y traviesas mixtas dañadas a lo largo de 7.740 m por el descarrilamiento.",
+    "otro": "Detectores de ejes calientes (DEC): Olite (PK 125+966), Tudela (PK 83+970) en línea 700 bajo PM de Miranda; Casetas (PK 331+651) en línea 200 bajo PM de Zaragoza El Portillo. El DEC de Casetas llevaba funcionando de forma errónea en la asignación de número de tren desde agosto de 2009. Media semanal de circulaciones del tramo: 252 (14 LD, 120 MD, 112 mercancías, 6 servicio)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático (BAU) con CTC en vía convencional; bloqueo de liberación automática (BLAU) con CTC en vía UIC paralela. Señales de entrada/salida en estaciones. Videográfico en PM de Zaragoza.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad A.",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: traviesas de hormigón monobloque y traviesas mixtas dañadas a lo largo de 7.740 m, valoradas en 136.807 €. Material rodante: daños en el vagón descarrilado y en uno de los vehículos transportados, valorados en 17.000 €. Total: 153.807 €.",
+    "afectacion_servicio": "Circulación interrumpida entre Almudévar y Tardienta desde las 03:07 hasta las 20:05 del 06/09/2012 (≈17 horas). Tráfico de mercancías desviado por la línea 210 Miraflores – Tarragona. Afectados 16 trenes de viajeros (440 minutos de retraso total) y 44 trenes de mercancías (2.050 minutos de retraso total). Suprimidos 12 trenes (6 de viajeros y 6 de mercancías). Viajeros transbordados por carretera. Reanudación con limitación de velocidad a 60 km/h entre PK 43+950 y 51+650."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: traviesas de hormigón monobloque y traviesas mixtas dañadas a lo largo de 7.740 m, valoradas en 136.807 €. Material rodante: daños en el vagón descarrilado y en uno de los vehículos transportados, valorados en 17.000 €. Total: 153.807 €.",
+    "afectacion_servicio": "Circulación interrumpida entre Almudévar y Tardienta desde las 03:07 hasta las 20:05 del 06/09/2012 (≈17 horas). Tráfico de mercancías desviado por la línea 210 Miraflores – Tarragona. Afectados 16 trenes de viajeros (440 minutos de retraso total) y 44 trenes de mercancías (2.050 minutos de retraso total). Suprimidos 12 trenes (6 de viajeros y 6 de mercancías). Viajeros transbordados por carretera. Reanudación con limitación de velocidad a 60 km/h entre PK 43+950 y 51+650."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: traviesas de hormigón monobloque y traviesas mixtas dañadas a lo largo de 7.740 m, valoradas en 136.807 €. Material rodante: daños en el vagón descarrilado y en uno de los vehículos transportados, valorados en 17.000 €. Total: 153.807 €.",
+    "afectacion_servicio": "Circulación interrumpida entre Almudévar y Tardienta desde las 03:07 hasta las 20:05 del 06/09/2012 (≈17 horas). Tráfico de mercancías desviado por la línea 210 Miraflores – Tarragona. Afectados 16 trenes de viajeros (440 minutos de retraso total) y 44 trenes de mercancías (2.050 minutos de retraso total). Suprimidos 12 trenes (6 de viajeros y 6 de mercancías). Viajeros transbordados por carretera. Reanudación con limitación de velocidad a 60 km/h entre PK 43+950 y 51+650."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 253013 (Renfe Operadora). Vagones porta-automóviles tipo Leks, serie 43714179 (Semat-Transfesa). Vagón descarrilado: UIC 43714179512-4. Ejes tipo 66 (tipo RN 66). Composición: 56 ejes, 692 toneladas, 468 m de longitud.",
+    "averia": "Rotura de la mangueta derecha del eje 33 (segundo eje del vagón 14) por agarrotamiento del rodamiento de apoyo y fallo del sistema de lubricación de la caja de grasa. Pérdida de la caja de grasa derecha. Cono típico de descarrilamiento por agarrotamiento del rodamiento. Placas de guarda dobladas y erosionadas. Probable rotura o fallo de la jaula del rodamiento por haber superado la vida útil la grasa.",
+    "mantenimiento": "Plan de mantenimiento: Visita de Seguridad (VS) cada 5.000 km; Gran Reparación (R) cada 6 años + 3 meses. Ejes tipo 66: ciclo PME-66 de 12 años en 2 revisiones de 6 años (REV2 y DR). Última VS al vagón: 12/07/2012 (2.308 km recorridos). Última R1 al vagón: 11/10/2006 (válida hasta 11/10/2012). Última revisión de ejes: 2005 (fichas de 21/10/2005 y 24/10/2005). Los ejes habían superado en casi un año (prácticamente 7 años) el plazo de 6 años. Discrepancia de 3 meses entre ciclos de vagón y ejes en el plan actual. El vagón había recorrido 254.172 km y transportado 5.531.417 TKB desde la R1."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (BAU) con CTC en vía convencional; bloqueo de liberación automática (BLAU) con CTC en vía UIC paralela. Señales de entrada/salida en estaciones. Videográfico en PM de Zaragoza.",
+    "tipo_via": "Vía única electrificada de ancho convencional (línea 200) con vía paralela de ancho UIC (línea 70)",
+    "velocidad_maxima": "100 km/h (tren tipo 100)",
+    "ancho": "Convencional (1668 mm) y UIC (1435 mm) en vía paralela",
+    "electrificacion": "Electrificada",
+    "estado_via": "En buen estado. Traviesas de hormigón monobloque y traviesas mixtas dañadas a lo largo de 7.740 m por el descarrilamiento.",
+    "otro": "Detectores de ejes calientes (DEC): Olite (PK 125+966), Tudela (PK 83+970) en línea 700 bajo PM de Miranda; Casetas (PK 331+651) en línea 200 bajo PM de Zaragoza El Portillo. El DEC de Casetas llevaba funcionando de forma errónea en la asignación de número de tren desde agosto de 2009. Media semanal de circulaciones del tramo: 252 (14 LD, 120 MD, 112 mercancías, 6 servicio)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche. No existían condiciones meteorológicas adversas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Huesca",
+    "municipio": null,
+    "estacion": "Tardienta"
+   },
+   "pagina": 4,
+   "cita": "Huesca 2.1.2. Descripción del suceso Los hechos tuvieron lugar el día 06 de septiembre de 2012 a las 03:07 horas, entre las estaciones de Almudévar y Tardienta, de la línea 200 Madrid Chamartín – Barcelona Estación de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche. No existían condiciones meteorológicas adversas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático (BAU) con CTC en vía convencional; bloqueo de liberación automática (BLAU) con CTC en vía UIC paralela. Señales de entrada/salida en estaciones. Videográfico en PM de Zaragoza.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (BAU) con CTC en vía convencional; bloqueo de liberación automática (BLAU) con CTC en vía UIC paralela. Señales de entrada/salida en estaciones. Videográfico en PM de Zaragoza.",
+    "tipo_via": "Vía única electrificada de ancho convencional (línea 200) con vía paralela de ancho UIC (línea 70)",
+    "velocidad_maxima": "100 km/h (tren tipo 100)",
+    "ancho": "Convencional (1668 mm) y UIC (1435 mm) en vía paralela",
+    "electrificacion": "Electrificada",
+    "estado_via": "En buen estado. Traviesas de hormigón monobloque y traviesas mixtas dañadas a lo largo de 7.740 m por el descarrilamiento.",
+    "otro": "Detectores de ejes calientes (DEC): Olite (PK 125+966), Tudela (PK 83+970) en línea 700 bajo PM de Miranda; Casetas (PK 331+651) en línea 200 bajo PM de Zaragoza El Portillo. El DEC de Casetas llevaba funcionando de forma errónea en la asignación de número de tren desde agosto de 2009. Media semanal de circulaciones del tramo: 252 (14 LD, 120 MD, 112 mercancías, 6 servicio)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad A.",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 253013 (Renfe Operadora). Vagones porta-automóviles tipo Leks, serie 43714179 (Semat-Transfesa). Vagón descarrilado: UIC 43714179512-4. Ejes tipo 66 (tipo RN 66). Composición: 56 ejes, 692 toneladas, 468 m de longitud.",
+    "averia": "Rotura de la mangueta derecha del eje 33 (segundo eje del vagón 14) por agarrotamiento del rodamiento de apoyo y fallo del sistema de lubricación de la caja de grasa. Pérdida de la caja de grasa derecha. Cono típico de descarrilamiento por agarrotamiento del rodamiento. Placas de guarda dobladas y erosionadas. Probable rotura o fallo de la jaula del rodamiento por haber superado la vida útil la grasa.",
+    "mantenimiento": "Plan de mantenimiento: Visita de Seguridad (VS) cada 5.000 km; Gran Reparación (R) cada 6 años + 3 meses. Ejes tipo 66: ciclo PME-66 de 12 años en 2 revisiones de 6 años (REV2 y DR). Última VS al vagón: 12/07/2012 (2.308 km recorridos). Última R1 al vagón: 11/10/2006 (válida hasta 11/10/2012). Última revisión de ejes: 2005 (fichas de 21/10/2005 y 24/10/2005). Los ejes habían superado en casi un año (prácticamente 7 años) el plazo de 6 años. Discrepancia de 3 meses entre ciclos de vagón y ejes en el plan actual. El vagón había recorrido 254.172 km y transportado 5.531.417 TKB desde la R1."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Superado plazo límite de mantenimiento",
+    "Alarma DEC asignada a otro tren",
+    "Maquinista no detecta anomalía",
+    "Continúa marcha tras reconocimiento"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "PM DE MIRANDA \nEl regulador y el jefe del CTC del puesto de mando de Miranda, están habilitados conforme a la Orden \nFOM/2872/2010, de 5 de noviembre por la que se determinan las condiciones para la obtención de \ntítulos y habilitaciones que permiten el ejercicio de las funciones del personal ferroviario relacionadas \ncon la seguridad: \nEl jefe del CTC realizó su último reciclaje formativo el 06/07/2012 y su último reconocimiento médico y \npsicotécnico el 29/06/2012, conforme a la normativa vigente. \nEl regulador del puesto de mando realizó su último reciclaje formativo el 11/02/2013 y su último \nreconocimiento médico y psicotécnico el 29/11/2009, conforme a la normativa vigente. \nPM DE ZARAGOZA EL PORTILLO \nEl regulador del puesto de mando, el jefe del CTC de la banda Cortes de Navarra – Zaragoza, el jefe \ndel CTC de la banda San Juan de Mozarrifar – Monzón del Río Cinca del puesto de mando de Zaragoza \nEl Portillo, están habilitados conforme a la Orden FOM/2872/2010, de 5 de noviembre por la que se \ndeterminan las condiciones para la obtención de títulos y habilitaciones que permiten el ejercicio de las \nfunciones del personal ferroviario relacionadas con la seguridad: \nEl regulador del puesto de mando realizó su último reciclaje formativo el 08/09/2011 y su último \nreconocimiento médico y psicotécnico el 11/10/2012, conforme a la normativa vigente. \n\n## Página 17\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0061/2012 ocurrido el 06.09.2012 \nInforme final  \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n \nIF-060912- 300713-CIAF \n \n \nPág. 17 de 27\nEl jefe del CTC banda Cortes de Navarra - Zaragoza (PM de Zaragoza Portillo) realizó su último \nreciclaje formativo el 22/09/2011 y su último reconocimiento médico y psicotécnico el 13/12/2011, \nconforme a la normativa vigente. \nEl jefe del CTC banda San Juan de Mozarrifar – Monzón del Río Cinca (PM de Zaragoza Portillo) realizó \nsu último reciclaje formativo el 14/06/2011 y su último reconocimiento médico y psicotécnico el \n12/03/2012, conforme a la normativa vigente. \nMAQUINISTAS \nEl maquinista del tren 82658 que realizó el recorrido de Pamplona a Casetas, posee el título B de \nconducción y está habilitado conforme a la Orden FOM/2520/2006, de 27 de julio (Título V – Personal \nde conducción – en vigor hasta 11 de enero de 2019, en virtud de la disposición transitoria octava de \nla Orden FOM/2872/2010, de 5 de noviembre).  \nÉste tiene una antigüedad en el cargo desde el 2 de enero de 2007. \nRealizó su último reciclaje formativo el 16/03/2012 y su último reconocimiento médico y psicotécnico el \n16/04/2010, conforme a la normativa vigente. \nEl maquinista del tren 82658 que realizó el recorrido de Casetas a Tardienta, posee el título B de \nconducción y está habilitado conforme a la Orden FOM/2520/2006, de 27 de julio (Título V – Personal \nde conducción – en vigor hasta 11 de enero de 2019, en virtud de la disposición transitoria octava de \nla Orden FOM/2872/2010, de 5 de noviembre).  \nÉste tiene una antigüedad en el cargo desde el 2 de enero de 2007. \nRealizó su último reciclaje formativo el 09/02/2011 y su último reconocimiento médico y psicotécnico el \n04/04/2012, conforme a la normativa vigente. \n \n \n \n \n \n \n \n \n \n \n \n \n\n## Página 18\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0061/2012 ocurrido el 06.09.2012 \nInforme final  \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n \nIF-060912- 300713-CIAF \n \n \nPág. 18 de 27\n3.3. \nNORMATIVA",
+   "pagina": 16,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de mercancías 82658, traccionado por Renfe Operadora con locomotora 253013 y 23 vagones porta-automóviles tipo Leks de Semat-Transfesa, procedente de Pamplona con destino Barcelona Casa Antúnez, había dado alarma de caldeo en el eje 33 (vagón 14) a su paso por los detectores de ejes calientes de Olite (21:50:13, 151°C) y Tudela (22:45:53, 148°C) del día 5 de septiembre. En ambas ocasiones el puesto de mando detuvo el tren para que el maquinista reconociera el eje, pero por una confusión entre rail 1 y rail 2 (el jefe del CTC de Miranda confirmó erróneamente que rail 1 era el lado izquierdo cuando en realidad era el derecho), el maquinista inspeccionó el lado incorrecto y no detectó anomalía. Además, según los registros de la aplicación de control, el vagón inspeccionado probablemente fue el 7º de la composición en lugar del 14º. El tren continuó hasta Casetas donde realizó parada de relevo de maquinistas (23:53:48 a 00:54:30). Al pasar por el DEC de Casetas a las 01:03:11, volvió a dar alarma en el eje 33 (151°C lado derecho), pero el sistema informático del detector asignó erróneamente la alarma al tren 81050 que circulaba inmediatamente después, por lo que se detuvo al 81050 y el 82658 continuó la marcha. A las 03:02:36, entre Almudévar y Tardienta, el nuevo maquinista notó un descenso progresivo de presión en la TFA (de 5,1 a 4,7 bar) y detuvo el tren en el PK 51+800. Al reconocer la composición descubrió que el vagón 14 estaba descarrilado de ambos ejes (32 y 33) y que al segundo eje le faltaba la caja de grasa derecha. El vagón había circulado descarrilado del segundo eje durante 8 km y de ambos ejes los últimos 2 km.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Rotura de la mangueta derecha del segundo eje (eje 33) del vagón decimocuarto de la composición, como consecuencia del aumento de temperatura en la caja de grasa debido al agarrotamiento del rodamiento de apoyo del extremo de dicho eje (fallo del sistema de lubricación), habiéndose superado el plazo límite de mantenimiento de los ejes.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Fallo del detector de ejes calientes (DEC) de Casetas que asignó erróneamente la alarma de caldeo del tren 82658 al tren 81050 que circulaba inmediatamente después, permitiendo que el 82658 continuara la marcha sin ser detenido.",
+    "Confusión rail 1 / rail 2: el jefe del CTC de Miranda confirmó erróneamente al maquinista que rail 1 correspondía al lado izquierdo cuando en el sentido de avance del tren (kilometración descendente) rail 1 correspondía al lado derecho. El maquinista inspeccionó el lado incorrecto.",
+    "Probable inspección del vagón equivocado: según los registros de la aplicación de control, el vagón inspeccionado en Caparroso y Tudela fue el 7º de la composición, no el 14º que presentaba caldeo.",
+    "La hoja de material no incluía el número de ejes por vagón, dificultando la identificación del vagón al que correspondía el eje con alarma.",
+    "El regulador del PM de Zaragoza no estuvo atento al paso del 82658 por el DEC de Casetas.",
+    "No se estableció ficha de incidencias GIFO por las alarmas de Olite y Tudela.",
+    "El PM de Miranda no informó directamente al PM de Zaragoza del caldeo del 82658 (la comunicación se hizo entre jefes de CTC de bandas colaterales, fuera del procedimiento normal).",
+    "En la parada de Casetas (1 hora por relevo) no se revisó la composición del tren."
+   ],
+   "pagina": 3,
+   "cita": "límite de mantenimiento; junto con un fallo del detector de ejes calientes (DEC) de Casetas que asignó",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Poner al día la documentación del mantenimiento de vagones porta automóviles tipo Leks de transporte peninsular de Transfesa, haciendo coincidir la duración del ciclo de mantenimiento de los ejes con la operación de mantenimiento tipo R de los vagones.",
+    "Establecer de acuerdo con Transfesa el plan de adaptación e implantación de los ejes tipo 65 a los vagones tipo Leks de ejes tipo 66, realizando el seguimiento de su implantación así como de su resultado.",
+    "Estudiar la viabilidad de incorporar a la hoja de material de los trenes el número de ejes por cada vagón de forma que sea fácilmente identificable el vagón al que corresponde un eje con indicios de caldeo.",
+    "Realizar un reciclaje formativo en materia de gestión de alarmas de caldeo de ejes calientes al personal del puesto de mando de Miranda implicado en la gestión de las alarmas de caldeo que nos ocupa en este informe.",
+    "Poner al día la documentación del mantenimiento de vagones porta automóviles tipo Leks de transporte peninsular de Transfesa, haciendo coincidir la duración del ciclo de mantenimiento de los ejes con la operación de mantenimiento tipo R de los vagones.",
+    "Establecer de acuerdo con Transfesa el plan de adaptación e implantación de los ejes tipo 65 a los vagones tipo Leks de ejes tipo 66, realizando el seguimiento de su implantación así como de su resultado.",
+    "Estudiar la viabilidad de incorporar a la hoja de material de los trenes el número de ejes por cada vagón de forma que sea fácilmente identificable el vagón al que corresponde un eje con indicios de caldeo."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Transfesa",
+    "Adif",
+    "Adif",
+    "Adif",
+    "Transfesa",
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "2012-09-05T21:50:13",
+     "evento": "El tren 82658 pasa por el DEC de Olite (PK 125+966). Alarma de caldeo en eje 33, rail 1, temperatura 151°C. El puesto de mando de Miranda detiene el tren en Caparroso para reconocimiento."
+    },
+    {
+     "hora": "2012-09-05T22:00",
+     "evento": "El maquinista reconoce el tren en Caparroso. Pregunta al CTC si rail 1 es el lado izquierdo; el jefe del CTC confirma erróneamente que sí (en realidad es el derecho). No detecta anomalía. Continúa la marcha."
+    },
+    {
+     "hora": "2012-09-05T22:45:53",
+     "evento": "El tren 82658 pasa por el DEC de Tudela (PK 83+970). Alarma de caldeo en eje 33, rail 1, temperatura 148°C. Se detiene el tren en la vía general de Tudela para segundo reconocimiento."
+    },
+    {
+     "hora": "2012-09-05T23:00",
+     "evento": "El maquinista reconoce nuevamente en Tudela solo el lado izquierdo del eje 33 (ya había comprobado el derecho en Caparroso). No detecta anomalía. El tren continúa."
+    },
+    {
+     "hora": "2012-09-05T23:53:48",
+     "evento": "El tren 82658 se detiene en la estación de Casetas durante 1 hora para relevo de maquinistas."
+    },
+    {
+     "hora": "2012-09-06T00:54:30",
+     "evento": "El tren 82658 reanuda la marcha desde Casetas con el nuevo maquinista."
+    },
+    {
+     "hora": "2012-09-06T01:03:11",
+     "evento": "El tren 82658 pasa por el DEC de Casetas (PK 331+651). Alarma por diferencial de temperatura en eje 33: 46°C (izquierda) y 151°C (derecha)."
+    },
+    {
+     "hora": "2012-09-06T01:09:37",
+     "evento": "El tren 81050 pasa por el DEC de Casetas. La aplicación informática asigna erróneamente la alarma del 82658 al 81050. El PM de Zaragoza detiene al 81050. El 82658 continúa la marcha sin ser detenido."
+    },
+    {
+     "hora": "2012-09-06T02:54",
+     "evento": "El vagón 14 descarrila del segundo eje (eje 33) por rotura de la mangueta derecha. Circula descarrilado de un eje durante 8 km."
+    },
+    {
+     "hora": "2012-09-06T03:02:36",
+     "evento": "El maquinista del 82658 detecta descenso de presión en la TFA (de 5,1 a 4,7 bar) y detiene el tren en el PK 51+800 entre Almudévar y Tardienta."
+    },
+    {
+     "hora": "2012-09-06T03:07",
+     "evento": "El maquinista reconoce la composición y descubre que el vagón 14 está descarrilado de ambos ejes (32 y 33) y falta la caja de grasa derecha del eje 33. Informa al CTC."
+    },
+    {
+     "hora": "2012-09-06T06:05",
+     "evento": "Se realiza prueba de alcoholemia al maquinista en Tardienta: resultado negativo."
+    },
+    {
+     "hora": "2012-09-06T20:05",
+     "evento": "Queda la vía libre entre Almudévar y Tardienta tras el encarrilamiento del vagón. Se reanuda la circulación con limitación de velocidad a 60 km/h entre PK 43+950 y 51+650."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0061/2012",
+ "expediente": "61/012",
+ "anio": 2012,
+ "titulo": "Descarrilamiento de vagón porta-automóviles entre Almudévar y Tardienta (Huesca)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_060912__300713_CIAF.md"
+}

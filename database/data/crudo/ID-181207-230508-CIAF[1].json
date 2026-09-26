@@ -1,0 +1,911 @@
+{
+ "id": "ID-181207-230508-CIAF[1]",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/9DAC4C1B-A804-4D80-9AB7-6AAC377C6810/46893/ID181207230508CIAF.pdf",
+ "pdf": "pdfs/ES/ID-181207-230508-CIAF[1].pdf",
+ "md5_pdf": "d000984cf115973fda7e933408c9ebc8",
+ "paginas_md": 9,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 6,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0062/2007",
+   "pagina": 1,
+   "cita": "nº 0062/2007 ocurrido el 18.12.2007",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 18 de diciembre de 2007, a las 14:10, una vagoneta de electrificación de Adif arrolló a una persona en el P.K. 165,160 de la línea 810 Monforte de Lemos-Vigo, entre Louredo Valos y Redondela. La víctima, un varón de 86 años, cruzó la vía por un lugar no habilitado y falleció horas después en el hospital. El maquinista hizo sonar la bocina y frenó, pero no pudo evitar el atropello; el tren circulaba por debajo de la velocidad máxima. No hubo daños materiales, aunque se produjeron 20 minutos de retraso.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-12-18",
+    "hora": "14:10",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "165,160",
+     "linea": "810 Monforte de Lemos-Vigo",
+     "provincia": "Pontevedra",
+     "descripcion_lugar": "Plena vía, entre las estaciones de Louredo Valos y Redondela, en curva, con paso vicioso por donde accedió la víctima; delimitado a la derecha, en el sentido de la línea, por una carretera local. Trayecto Guillarei-Redondela."
+    }
+   },
+   "pagina": 9,
+   "cita": "entre las estaciones de Louredo Valos y Redondela el 18/12/2007, se aprueba como definitivo el",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material motor ni en las instalaciones.",
+    "afectacion_servicio": "Retraso de 20 minutos del tren GY259; circulación normal restablecida a las 14:25; llegada a Redondela a las 14:33."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "El accidente tuvo su origen en el intento de la víctima de cruzar la vía por un lugar no habilitado para ello cuando se acercaba el tren.",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en el intento de la víctima de cruzar la vía por un lugar no",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Cruce por un lugar no habilitado (paso vicioso).",
+    "Ausencia de paso a nivel en el punto del arrollamiento.",
+    "Tramo en curva.",
+    "Visibilidad discontinua por arbustos en la zona."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "La recomendación deberá ser un inventario sistemático de situaciones de estas características en la Red Ferroviaria de Interés General y la subsiguiente planificación de actuaciones a nivel global.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 9,
+   "cita": "informe particular presentado por el técnico investigador, entendiendo que la recomendación",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "La recomendación deberá ser un inventario sistemático de situaciones de estas características en la Red Ferroviaria de Interés General y la subsiguiente planificación de actuaciones a nivel global.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 9,
+   "cita": "informe particular presentado por el técnico investigador, entendiendo que la recomendación",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "de Infraestructura de Adif. La víctima resultó herida de gravedad falleciendo posteriormente en el",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-12-18",
+   "pagina": 9,
+   "cita": "entre las estaciones de Louredo Valos y Redondela el 18/12/2007, se aprueba como definitivo el",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "14:10",
+   "pagina": 2,
+   "cita": "18.12.07./ 14:10 Lugar: P.K. 165,160, plena vía, entre las estaciones de Louredo Valos y Redondela Línea: 810 Monforte de Lemos-Vigo (Red Ferroviaria de Interés General administrada por Adif) Trayecto: Guillare",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "165,160",
+    "linea": "810 Monforte de Lemos-Vigo",
+    "provincia": "Pontevedra",
+    "descripcion_lugar": "Plena vía, entre las estaciones de Louredo Valos y Redondela, en curva, con paso vicioso por donde accedió la víctima; delimitado a la derecha, en el sentido de la línea, por una carretera local. Trayecto Guillarei-Redondela."
+   },
+   "pagina": 2,
+   "cita": "El día 18 de diciembre de 2007, en la línea 810 Monforte de Lemos-Vigo, a la altura del P.K.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "810 Monforte de Lemos-Vigo",
+   "pagina": 2,
+   "cita": "El día 18 de diciembre de 2007, en la línea 810 Monforte de Lemos-Vigo, a la altura del P.K.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Vagoneta de electrificación de Mantenimiento de Infraestructura de Adif; matrícula 92.71.60.00.913.4",
+    "averia": "No se produjeron daños; el material rodante y las instalaciones técnicas funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El suceso ocurrió el 18 de diciembre de 2007 a las 14:10 en plena vía, en el P.K. 165,160 de la línea 810 Monforte de Lemos-Vigo, entre Louredo Valos y Redondela. La vagoneta de electrificación GY259, de Mantenimiento de Infraestructura de Adif, procedente de Guillarei y con destino Redondela, circulaba en curva cuando el maquinista observó a una persona cruzando la vía por un lugar no habilitado, sin paso a nivel.\n\nEl maquinista hizo sonar la bocina repetidamente y aplicó el freno de emergencia, pero no pudo evitar el arrollamiento lateral. La víctima quedó herida, tendida fuera del gálibo en el lado derecho del sentido de la marcha. Fue atendida por el maquinista y el personal de servicio de la vagoneta y evacuada al hospital a las 14:20, donde falleció horas más tarde.\n\nTras la evacuación, la circulación normal quedó restablecida a las 14:25. La vagoneta reanudó la marcha y llegó a Redondela a las 14:33, donde el Agente de la Jefatura Técnica de Operaciones de Galicia realizó al maquinista la prueba de alcoholemia, con resultado negativo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "165,160",
+    "linea": "810 Monforte de Lemos-Vigo",
+    "provincia": "Pontevedra",
+    "descripcion_lugar": "Plena vía, entre las estaciones de Louredo Valos y Redondela, en curva, con paso vicioso por donde accedió la víctima; delimitado a la derecha, en el sentido de la línea, por una carretera local. Trayecto Guillarei-Redondela."
+   },
+   "pagina": 2,
+   "cita": "El día 18 de diciembre de 2007, en la línea 810 Monforte de Lemos-Vigo, a la altura del P.K.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material motor ni en las instalaciones.",
+    "afectacion_servicio": "Retraso de 20 minutos del tren GY259; circulación normal restablecida a las 14:25; llegada a Redondela a las 14:33."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Víctima (varón de 86 años)",
+     "implicacion": "Cruzó la vía por un lugar no habilitado; resultó herida de gravedad y falleció posteriormente en el hospital."
+    },
+    {
+     "rol": "Maquinista principal del tren GY259",
+     "implicacion": "Hizo sonar la bocina y accionó el freno sin poder evitar el arrollamiento; su actuación fue correcta. Prueba de alcoholemia negativa. Jornada de conducción de 2 horas y 15 minutos. Antigüedad en el cargo: 01/04/1985. Último reciclaje formativo: 02/01/2007. Último reconocimiento: 07/11/2006."
+    },
+    {
+     "rol": "Personal de servicio de la vagoneta",
+     "implicacion": "Atendió a la víctima junto al maquinista."
+    },
+    {
+     "rol": "Agente de la Jefatura Técnica de Operaciones de Galicia",
+     "implicacion": "Realizó la prueba de alcoholemia al maquinista en Redondela."
+    },
+    {
+     "rol": "Coordinador de accidentes ferroviarios de Adif",
+     "implicacion": "Informó a la CIAF al día siguiente a las 11:24 horas mediante correo electrónico."
+    },
+    {
+     "rol": "Responsable de Seguridad en la Circulación de Adif",
+     "implicacion": "Por delegación del Director de Seguridad en la Circulación de Adif, entregó su informe particular del accidente el 05/03/2008."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El maquinista principal del tren GY259",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "GY259",
+     "tipo": "Vagoneta de electrificación de Mantenimiento de Infraestructura de Adif",
+     "operador": "Adif",
+     "danos": "No se produjeron daños en el material motor ni en las instalaciones."
+    }
+   ],
+   "pagina": 2,
+   "cita": "La vagoneta de electrificación de Mantenimiento de Infraestructura de Adif; tren GY259, a su paso",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Vagoneta de electrificación de Mantenimiento de Infraestructura de Adif; matrícula 92.71.60.00.913.4",
+    "averia": "No se produjeron daños; el material rodante y las instalaciones técnicas funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Adif",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático de vía única con control de tráfico centralizado (B.A.U con C.T.C); señal avanzada en anuncio de precaución.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "85 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Tramo en curva; carretera local al lado derecho, en el sentido de la línea; paso vicioso; visibilidad aproximada de 100 metros y discontinua unos 400 metros debido a arbustos; ausencia de paso a nivel en el punto del arrollamiento."
+   },
+   "pagina": 4,
+   "cita": "Bloqueo automático de vía única con control de tráfico centralizado (B.A.U con C.T.C)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático de vía única con control de tráfico centralizado (B.A.U con C.T.C); señal avanzada en anuncio de precaución.",
+   "pagina": 4,
+   "cita": "Bloqueo automático de vía única con control de tráfico centralizado (B.A.U con C.T.C)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material motor ni en las instalaciones.",
+    "afectacion_servicio": "Retraso de 20 minutos del tren GY259; circulación normal restablecida a las 14:25; llegada a Redondela a las 14:33."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material motor ni en las instalaciones.",
+    "afectacion_servicio": "Retraso de 20 minutos del tren GY259; circulación normal restablecida a las 14:25; llegada a Redondela a las 14:33."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe definitivo ID-181207-230508-CIAF Pág. 1 de 9 INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material motor ni en las instalaciones.",
+    "afectacion_servicio": "Retraso de 20 minutos del tren GY259; circulación normal restablecida a las 14:25; llegada a Redondela a las 14:33."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Vagoneta de electrificación de Mantenimiento de Infraestructura de Adif; matrícula 92.71.60.00.913.4",
+    "averia": "No se produjeron daños; el material rodante y las instalaciones técnicas funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático de vía única con control de tráfico centralizado (B.A.U con C.T.C); señal avanzada en anuncio de precaución.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "85 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Tramo en curva; carretera local al lado derecho, en el sentido de la línea; paso vicioso; visibilidad aproximada de 100 metros y discontinua unos 400 metros debido a arbustos; ausencia de paso a nivel en el punto del arrollamiento."
+   },
+   "pagina": 4,
+   "cita": "Bloqueo automático de vía única con control de tráfico centralizado (B.A.U con C.T.C)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Condiciones atmosféricas buenas; visibilidad atmosférica buena.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Pontevedra",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 2,
+   "cita": "Pontevedra La vagoneta de electrificación de Mantenimiento de Infraestructura de Adif; tren GY259, a su paso por el P.K. 165,160, de la línea 810 Monforte de Lemos-Vigo; arrolla a una persona que cruzaba las vías, de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Condiciones atmosféricas buenas; visibilidad atmosférica buena.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático de vía única con control de tráfico centralizado (B.A.U con C.T.C); señal avanzada en anuncio de precaución.",
+   "pagina": 4,
+   "cita": "Bloqueo automático de vía única con control de tráfico centralizado (B.A.U con C.T.C)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático de vía única con control de tráfico centralizado (B.A.U con C.T.C); señal avanzada en anuncio de precaución.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "85 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Tramo en curva; carretera local al lado derecho, en el sentido de la línea; paso vicioso; visibilidad aproximada de 100 metros y discontinua unos 400 metros debido a arbustos; ausencia de paso a nivel en el punto del arrollamiento."
+   },
+   "pagina": 4,
+   "cita": "Bloqueo automático de vía única con control de tráfico centralizado (B.A.U con C.T.C)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Vagoneta de electrificación de Mantenimiento de Infraestructura de Adif; matrícula 92.71.60.00.913.4",
+    "averia": "No se produjeron daños; el material rodante y las instalaciones técnicas funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Intento de cruzar vía no habilitada",
+    "Tren en curva con visibilidad limitada",
+    "Paso vicioso existente en vía"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El suceso ocurrió el 18 de diciembre de 2007 a las 14:10 en plena vía, en el P.K. 165,160 de la línea 810 Monforte de Lemos-Vigo, entre Louredo Valos y Redondela. La vagoneta de electrificación GY259, de Mantenimiento de Infraestructura de Adif, procedente de Guillarei y con destino Redondela, circulaba en curva cuando el maquinista observó a una persona cruzando la vía por un lugar no habilitado, sin paso a nivel.\n\nEl maquinista hizo sonar la bocina repetidamente y aplicó el freno de emergencia, pero no pudo evitar el arrollamiento lateral. La víctima quedó herida, tendida fuera del gálibo en el lado derecho del sentido de la marcha. Fue atendida por el maquinista y el personal de servicio de la vagoneta y evacuada al hospital a las 14:20, donde falleció horas más tarde.\n\nTras la evacuación, la circulación normal quedó restablecida a las 14:25. La vagoneta reanudó la marcha y llegó a Redondela a las 14:33, donde el Agente de la Jefatura Técnica de Operaciones de Galicia realizó al maquinista la prueba de alcoholemia, con resultado negativo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl lugar donde se produjo el arrollamiento se sitúa en plena vía, entre las estaciones de Louredo \nValos y Redondela, en el punto kilométrico 165,160 de la línea Monforte de Lemos-Vigo. Es un tramo \nde vía con bloqueo automático de vía única y control de tráfico centralizado. \nLa visibilidad por el lado derecho, por donde cruzó la víctima, es de aproximadamente 100 metros \ny discontinua unos 400 metros debido a la existencia de unos arbustos en la zona. Además, el día del \naccidente, la visibilidad atmosférica era buena. \nSegún la declaración del maquinista el tren GY259 circulaba a velocidad inferior a la máxima \npermitida. \nDe la prueba de alcoholemia se constata que el maquinista se encontraba apto para el desarrollo \nde sus funciones y su actuación en el momento del accidente fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasas de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario. \n\n## Página 7\n\n \n \n \nInvestigación del accidente \nnº 0062/2007 ocurrido el 18.12.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO \nDE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme definitivo \n \n \nID-181207-230508-CIAF \n \n \nPág. 7 de 9\n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \n- \n el accidente tuvo su origen en el intento de la víctima de cruzar la vía por un lugar no \nhabilitado para ello cuando se acercaba el tren.",
+   "pagina": 6,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "El accidente tuvo su origen en el intento de la víctima de cruzar la vía por un lugar no habilitado para ello cuando se acercaba el tren.",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en el intento de la víctima de cruzar la vía por un lugar no",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Cruce por un lugar no habilitado (paso vicioso).",
+    "Ausencia de paso a nivel en el punto del arrollamiento.",
+    "Tramo en curva.",
+    "Visibilidad discontinua por arbustos en la zona."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "La recomendación deberá ser un inventario sistemático de situaciones de estas características en la Red Ferroviaria de Interés General y la subsiguiente planificación de actuaciones a nivel global.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 9,
+   "cita": "informe particular presentado por el técnico investigador, entendiendo que la recomendación",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "14:10",
+     "evento": "18/12/2007: arrollamiento de la persona por la vagoneta GY259 en el P.K. 165,160."
+    },
+    {
+     "hora": "14:20",
+     "evento": "La víctima es evacuada al hospital, donde fallece horas más tarde."
+    },
+    {
+     "hora": "14:25",
+     "evento": "Circulación normal restablecida."
+    },
+    {
+     "hora": "14:33",
+     "evento": "La vagoneta GY259 llega a Redondela."
+    },
+    {
+     "hora": "15:20",
+     "evento": "Prueba de alcoholemia al maquinista: resultado negativo."
+    },
+    {
+     "hora": "11:24",
+     "evento": "Al día siguiente, el coordinador de accidentes ferroviarios de Adif informa a la CIAF por correo electrónico."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0062/2007",
+ "expediente": "0062/07",
+ "anio": 2007,
+ "titulo": "Arrollamiento de una persona por vagoneta de Adif en la línea 810 entre Louredo Valos y Redondela",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ID-181207-230508-CIAF[1].md"
+}

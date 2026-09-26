@@ -1,0 +1,978 @@
+{
+ "id": "IF-100710-290311-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/EE43DFFE-AB9A-4C98-9231-DA44D3B801E1/102268/IF100710290311CIAF.pdf",
+ "pdf": "pdfs/ES/IF-100710-290311-CIAF.pdf",
+ "md5_pdf": "1adb82da42157aa2ecc1be6624e8a31a",
+ "paginas_md": 15,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 16,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "36/10-1",
+     "Recomendación": "Continuar con las inspecciones, cada 30.000 Km, de los casquillos sin sustituir, de acuerdo con las especificaciones y normativas que se han establecido."
+    },
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "36/10-2",
+     "Recomendación": "Continuar las sustituciones del casquillo original por el de nuevo diseño, de acuerdo con el plan establecido. Acelerar el mismo si se detecta algún problema en las inspecciones de la recomendación 36/10-1."
+    },
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "36/10-3",
+     "Recomendación": "Establecer un plan de seguimiento específico de los nuevos casquillos hasta su validación definitiva. A partir de la misma se pasará al mantenimiento normal que se establezca."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 15,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "36/10-1",
+     "Recomendación": "Continuar con las inspecciones, cada 30.000 Km, de los casquillos sin sustituir, de acuerdo con las especificaciones y normativas que se han establecido."
+    },
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "36/10-2",
+     "Recomendación": "Continuar las sustituciones del casquillo original por el de nuevo diseño, de acuerdo con el plan establecido. Acelerar el mismo si se detecta algún problema en las inspecciones de la recomendación 36/10-1."
+    },
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "36/10-3",
+     "Recomendación": "Establecer un plan de seguimiento específico de los nuevos casquillos hasta su validación definitiva. A partir de la misma se pasará al mantenimiento normal que se establezca."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0036/2010",
+   "pagina": 1,
+   "cita": "nº 0036/2010 ocurrido el 10.07.2010",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 10 de julio de 2010, a las 15:51, el tren de larga distancia 436 de Renfe Operadora descarriló entre Ugao-Miraballes y Llodio (Álava). El descarrilamiento afectó al tercer coche, cuyos ejes 11 y 12 salieron de la vía tras circular 2.262 m descarrilados. No hubo fallecidos ni heridos, aunque se produjeron daños materiales y retrasos. La causa fue la rotura por fatiga del casquillo deslizante de la rueda izquierda del primer eje del segundo bogie del tercer coche, que provocó decalaje. Se formularon recomendaciones a Renfe Operadora sobre inspección, sustitución y seguimiento de casquillos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2010-07-10",
+    "hora": "15:51",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Ugao-Miraballes y Llodio",
+     "pk": "230+862",
+     "linea": "700 Intermodal Abando Indalecio Prieto a Casetas",
+     "provincia": "Álava",
+     "descripcion_lugar": "Tramo entre las estaciones de Ugao-Miraballes y Llodio, tramo Areta-Arrigorriaga, municipio Aracaldo; vía doble electrificada en curva circular de radio 273 m y rampa de 8,20 milésimas en el sentido de la marcha."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 10 de julio de 2010, a las 15:51 horas, en el P.K. 230+862 de la línea 700 Intermodal Abando",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: 16.425 €. Infraestructura: 515.547,84 €.",
+    "afectacion_servicio": "Interceptación de la vía 2 entre Ugao-Miraballes y Llodio desde las 17:51 del 10/07/2010 hasta las 07:50 del 11/07/2010 (15 h 59 min). Se banalizó la vía 1, se estableció un plan alternativo de transporte y los 436 viajeros fueron trasladados en autobús entre Llodio y Zaragoza. Retrasos: 29 trenes de cercanías con 271 minutos totales, 3 trenes de larga distancia con 30 minutos totales y 1 tren de mercancías con 8 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo técnico del material rodante por rotura a sección completa del casquillo deslizante de la rueda izquierda del primer eje del segundo bogie del tercer coche, que provocó el decalaje de la rueda y el descarrilamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Transición demasiado aguda entre la zona cilíndrica y la no cilíndrica del casquillo, con efecto concentrador de tensiones.",
+    "Conjunción de factores geométricos y defectológicos que favorecieron el inicio de la fatiga.",
+    "Progresión lenta de la grieta por fatiga hasta la rotura a sección completa."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Necesidad de inspección periódica de los casquillos deslizantes sin sustituir cada 30.000 km.",
+    "Necesidad de sustitución programada del casquillo original por el nuevo diseño.",
+    "Necesidad de seguimiento específico de los nuevos casquillos hasta su validación definitiva.",
+    "Modificación del plan de mantenimiento para el parque de las series 120, 121 y 120.05."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Continuar con las inspecciones, cada 30.000 Km, de los casquillos sin sustituir, de acuerdo con las especificaciones y normativas que se han establecido.",
+    "Continuar las sustituciones del casquillo original por el de nuevo diseño, de acuerdo con el plan establecido. Acelerar el mismo si se detecta algún problema en las inspecciones de la recomendación 36/10-1.",
+    "Establecer un plan de seguimiento específico de los nuevos casquillos hasta su validación definitiva. A partir de la misma se pasará al mantenimiento normal que se establezca.",
+    "Continuar con las inspecciones, cada 30.000 Km, de los casquillos sin sustituir, de acuerdo con las especificaciones y normativas que se han establecido.",
+    "Continuar las sustituciones del casquillo original por el de nuevo diseño, de acuerdo con el plan establecido. Acelerar el mismo si se detecta algún problema en las inspecciones de la recomendación 36/10-1.",
+    "Establecer un plan de seguimiento específico de los nuevos casquillos hasta su validación definitiva. A partir de la misma se pasará al mantenimiento normal que se establezca."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Renfe Operadora",
+    "Renfe Operadora",
+    "Renfe Operadora",
+    "Renfe Operadora",
+    "Renfe Operadora"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Descarrilamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "Renfe Operadora 36/10-1 Continuar con las inspecciones, cada 30.000 Km, de los casquillos sin sustituir, de acuerdo con las especificaciones y normativas que se han establecido. Renfe Operadora 36/10-2 Conti",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2010-07-10",
+   "pagina": 3,
+   "cita": "El día 10 de julio de 2010, a las 15:51 horas, en el P.K. 230+862 de la línea 700 Intermodal Abando",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "15:51",
+   "pagina": 3,
+   "cita": "El día 10 de julio de 2010, a las 15:51 horas, en el P.K. 230+862 de la línea 700 Intermodal Abando",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Ugao-Miraballes y Llodio",
+    "pk": "230+862",
+    "linea": "700 Intermodal Abando Indalecio Prieto a Casetas",
+    "provincia": "Álava",
+    "descripcion_lugar": "Tramo entre las estaciones de Ugao-Miraballes y Llodio, tramo Areta-Arrigorriaga, municipio Aracaldo; vía doble electrificada en curva circular de radio 273 m y rampa de 8,20 milésimas en el sentido de la marcha."
+   },
+   "pagina": 4,
+   "cita": "P.K. 230+862, entre las estaciones de Ugao-Miraballes y Llodio",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "700 Intermodal Abando Indalecio Prieto-Casetas",
+   "pagina": 4,
+   "cita": "700 Intermodal Abando Indalecio Prieto-Casetas",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Serie 120, unidad de tren U/T 927161209113, material CAF, tren tipo 200A, 4 vehículos, 16 ejes, 266 t, 107 m; bogies BRAVA de ancho variable.",
+    "averia": "Rotura a sección completa por fatiga del casquillo deslizante de la rueda izquierda del primer eje del segundo bogie del tercer coche, con decalaje de la rueda, pérdida de distancia entre caras internas de ruedas y descarrilamiento de los ejes 11 y 12.",
+    "mantenimiento": "Se establecieron inspecciones iniciales y periódicas cada 30.000 km mediante auscultación magnética/partículas magnéticas; sustitución del casquillo original por uno de acero forjado y geometría mejorada; 25 % de unidades de serie 120 con casquillos sustituidos; previsto completar series 120, 121 y 120.05 a finales de 2011; sin fisuras detectadas hasta el 14 de marzo de 2011."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 10 de julio de 2010, a las 15:51 horas, el tren de viajeros de larga distancia 436 de Renfe Operadora, procedente de Abando Indalecio Prieto (Bilbao) y con destino Barcelona, descarriló en el P.K. 230+862 de la línea 700 Intermodal Abando Indalecio Prieto a Casetas, entre las estaciones de Ugao-Miraballes y Llodio (Álava). El tren circulaba a 75 km/h y las señales de bloqueo indicaban vía libre.\n\nEl maquinista observó en la pantalla COSMOS alteraciones en los acelerómetros de los bogies y avisos intermitentes de ATMS y MANTTO; simultáneamente, el interventor le comunicó que el tren se movía mucho. El maquinista realizó un frenado de servicio hasta detener el tren en el P.K. 228+600, tras haber circulado descarrilado 2.262 metros. En el reconocimiento posterior se comprobó que estaban descarrilados los ejes 11 y 12 del tercer coche: la rueda derecha del eje 11 y ambas ruedas del eje 12.\n\nLa investigación concluyó que el accidente se originó por el fallo técnico del material rodante: se rompió a sección completa el casquillo deslizante de la rueda izquierda del primer eje del segundo bogie del tercer coche, lo que provocó el decalaje de dicha rueda, la pérdida de distancia entre las caras internas de las ruedas y el descarrilamiento subsiguiente.",
+   "pagina": 4,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Ugao-Miraballes y Llodio",
+    "pk": "230+862",
+    "linea": "700 Intermodal Abando Indalecio Prieto a Casetas",
+    "provincia": "Álava",
+    "descripcion_lugar": "Tramo entre las estaciones de Ugao-Miraballes y Llodio, tramo Areta-Arrigorriaga, municipio Aracaldo; vía doble electrificada en curva circular de radio 273 m y rampa de 8,20 milésimas en el sentido de la marcha."
+   },
+   "pagina": 4,
+   "cita": "P.K. 230+862, entre las estaciones de Ugao-Miraballes y Llodio",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: 16.425 €. Infraestructura: 515.547,84 €.",
+    "afectacion_servicio": "Interceptación de la vía 2 entre Ugao-Miraballes y Llodio desde las 17:51 del 10/07/2010 hasta las 07:50 del 11/07/2010 (15 h 59 min). Se banalizó la vía 1, se estableció un plan alternativo de transporte y los 436 viajeros fueron trasladados en autobús entre Llodio y Zaragoza. Retrasos: 29 trenes de cercanías con 271 minutos totales, 3 trenes de larga distancia con 30 minutos totales y 1 tren de mercancías con 8 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista",
+     "implicacion": "Matrícula 8868986; conductor del tren 436. Observó avisos en COSMOS, ATMS y MANTTO, fue informado por el interventor de movimientos anómalos, realizó frenado de servicio y reconoció el tren. Tenía título B de conducción, habilitación vigente, reciclaje formativo y reconocimiento psicofísico conforme a normativa; alcoholemia negativa."
+    },
+    {
+     "rol": "Interventor",
+     "implicacion": "Avisó al maquinista de que el tren se estaba moviendo mucho."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "436",
+     "tipo": "Tren de viajeros de larga distancia",
+     "operador": "Renfe Operadora",
+     "danos": "Descarrilamiento del tercer coche, ejes 11 y 12; daños materiales en material rodante por 16.425 €."
+    }
+   ],
+   "pagina": 3,
+   "cita": "descarrilamiento del tren de viajeros de larga distancia 436, de la empresa ferroviaria Renfe",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Serie 120, unidad de tren U/T 927161209113, material CAF, tren tipo 200A, 4 vehículos, 16 ejes, 266 t, 107 m; bogies BRAVA de ancho variable.",
+    "averia": "Rotura a sección completa por fatiga del casquillo deslizante de la rueda izquierda del primer eje del segundo bogie del tercer coche, con decalaje de la rueda, pérdida de distancia entre caras internas de ruedas y descarrilamiento de los ejes 11 y 12.",
+    "mantenimiento": "Se establecieron inspecciones iniciales y periódicas cada 30.000 km mediante auscultación magnética/partículas magnéticas; sustitución del casquillo original por uno de acero forjado y geometría mejorada; 25 % de unidades de serie 120 con casquillos sustituidos; previsto completar series 120, 121 y 120.05 a finales de 2011; sin fisuras detectadas hasta el 14 de marzo de 2011."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC); en el momento del suceso, vía libre-vía libre.",
+    "tipo_via": "Vía doble electrificada; carril de 54 kg; traviesas monobloc; curva circular de radio 273 m; rampa de 8,20 milésimas en el sentido de la marcha.",
+    "velocidad_maxima": "75 km/h",
+    "ancho": "Ancho convencional en el bogie afectado; bogies BRAVA de ancho variable.",
+    "electrificacion": "Electrificada",
+    "estado_via": "Las inspecciones realizadas tras el descarrilamiento indican que los parámetros de vía estaban dentro de sus límites de tolerancia; infraestructura e instalaciones técnicas funcionaron correctamente.",
+    "otro": "Radiotelefonía modalidad A (tren-tierra); media semanal de 915 circulaciones en el tramo Areta-Arrigorriaga; interceptación de la vía 2 y banalización de la vía 1 durante la incidencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC); en el momento del suceso, vía libre-vía libre.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad A (tren - tierra).",
+   "pagina": 8,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: 16.425 €. Infraestructura: 515.547,84 €.",
+    "afectacion_servicio": "Interceptación de la vía 2 entre Ugao-Miraballes y Llodio desde las 17:51 del 10/07/2010 hasta las 07:50 del 11/07/2010 (15 h 59 min). Se banalizó la vía 1, se estableció un plan alternativo de transporte y los 436 viajeros fueron trasladados en autobús entre Llodio y Zaragoza. Retrasos: 29 trenes de cercanías con 271 minutos totales, 3 trenes de larga distancia con 30 minutos totales y 1 tren de mercancías con 8 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: 16.425 €. Infraestructura: 515.547,84 €.",
+    "afectacion_servicio": "Interceptación de la vía 2 entre Ugao-Miraballes y Llodio desde las 17:51 del 10/07/2010 hasta las 07:50 del 11/07/2010 (15 h 59 min). Se banalizó la vía 1, se estableció un plan alternativo de transporte y los 436 viajeros fueron trasladados en autobús entre Llodio y Zaragoza. Retrasos: 29 trenes de cercanías con 271 minutos totales, 3 trenes de larga distancia con 30 minutos totales y 1 tren de mercancías con 8 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: 16.425 €. Infraestructura: 515.547,84 €.",
+    "afectacion_servicio": "Interceptación de la vía 2 entre Ugao-Miraballes y Llodio desde las 17:51 del 10/07/2010 hasta las 07:50 del 11/07/2010 (15 h 59 min). Se banalizó la vía 1, se estableció un plan alternativo de transporte y los 436 viajeros fueron trasladados en autobús entre Llodio y Zaragoza. Retrasos: 29 trenes de cercanías con 271 minutos totales, 3 trenes de larga distancia con 30 minutos totales y 1 tren de mercancías con 8 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 120, unidad de tren U/T 927161209113, material CAF, tren tipo 200A, 4 vehículos, 16 ejes, 266 t, 107 m; bogies BRAVA de ancho variable.",
+    "averia": "Rotura a sección completa por fatiga del casquillo deslizante de la rueda izquierda del primer eje del segundo bogie del tercer coche, con decalaje de la rueda, pérdida de distancia entre caras internas de ruedas y descarrilamiento de los ejes 11 y 12.",
+    "mantenimiento": "Se establecieron inspecciones iniciales y periódicas cada 30.000 km mediante auscultación magnética/partículas magnéticas; sustitución del casquillo original por uno de acero forjado y geometría mejorada; 25 % de unidades de serie 120 con casquillos sustituidos; previsto completar series 120, 121 y 120.05 a finales de 2011; sin fisuras detectadas hasta el 14 de marzo de 2011."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC); en el momento del suceso, vía libre-vía libre.",
+    "tipo_via": "Vía doble electrificada; carril de 54 kg; traviesas monobloc; curva circular de radio 273 m; rampa de 8,20 milésimas en el sentido de la marcha.",
+    "velocidad_maxima": "75 km/h",
+    "ancho": "Ancho convencional en el bogie afectado; bogies BRAVA de ancho variable.",
+    "electrificacion": "Electrificada",
+    "estado_via": "Las inspecciones realizadas tras el descarrilamiento indican que los parámetros de vía estaban dentro de sus límites de tolerancia; infraestructura e instalaciones técnicas funcionaron correctamente.",
+    "otro": "Radiotelefonía modalidad A (tren-tierra); media semanal de 915 circulaciones en el tramo Areta-Arrigorriaga; interceptación de la vía 2 y banalización de la vía 1 durante la incidencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Despejado y soleado",
+   "pagina": 9,
+   "cita": "En el momento del suceso el tiempo era despejado y soleado.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Álava",
+    "municipio": null,
+    "estacion": "Ugao-Miraballes y Llodio"
+   },
+   "pagina": 3,
+   "cita": "Inadalecio Prieto a Casetas, entre las estaciones de Ugao- Miraballes y Llodio (Álava),  se produce el",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Despejado y soleado",
+   "pagina": 9,
+   "cita": "En el momento del suceso el tiempo era despejado y soleado.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC); en el momento del suceso, vía libre-vía libre.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC); en el momento del suceso, vía libre-vía libre.",
+    "tipo_via": "Vía doble electrificada; carril de 54 kg; traviesas monobloc; curva circular de radio 273 m; rampa de 8,20 milésimas en el sentido de la marcha.",
+    "velocidad_maxima": "75 km/h",
+    "ancho": "Ancho convencional en el bogie afectado; bogies BRAVA de ancho variable.",
+    "electrificacion": "Electrificada",
+    "estado_via": "Las inspecciones realizadas tras el descarrilamiento indican que los parámetros de vía estaban dentro de sus límites de tolerancia; infraestructura e instalaciones técnicas funcionaron correctamente.",
+    "otro": "Radiotelefonía modalidad A (tren-tierra); media semanal de 915 circulaciones en el tramo Areta-Arrigorriaga; interceptación de la vía 2 y banalización de la vía 1 durante la incidencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad A (tren - tierra).",
+   "pagina": 8,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 120, unidad de tren U/T 927161209113, material CAF, tren tipo 200A, 4 vehículos, 16 ejes, 266 t, 107 m; bogies BRAVA de ancho variable.",
+    "averia": "Rotura a sección completa por fatiga del casquillo deslizante de la rueda izquierda del primer eje del segundo bogie del tercer coche, con decalaje de la rueda, pérdida de distancia entre caras internas de ruedas y descarrilamiento de los ejes 11 y 12.",
+    "mantenimiento": "Se establecieron inspecciones iniciales y periódicas cada 30.000 km mediante auscultación magnética/partículas magnéticas; sustitución del casquillo original por uno de acero forjado y geometría mejorada; 25 % de unidades de serie 120 con casquillos sustituidos; previsto completar series 120, 121 y 120.05 a finales de 2011; sin fisuras detectadas hasta el 14 de marzo de 2011."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Rotura por fatiga del casquillo deslizante",
+    "Decalaje de la rueda izquierda",
+    "Pérdida distancia entre caras ruedas"
+   ],
+   "pagina": 3,
+   "cita": "distancia entre las caras internas de las ruedas, debido al decalaje de la rueda izquierda del primer eje",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Por parte de Renfe Operadora \nEl maquinista del tren 436 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. \nRealizó su último reciclaje formativo el 28/10/08 y su último reconocimiento médico y psicotécnico el \n03/09/08 de acuerdo a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 10,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 10 de julio de 2010, a las 15:51 horas, el tren de viajeros de larga distancia 436 de Renfe Operadora, procedente de Abando Indalecio Prieto (Bilbao) y con destino Barcelona, descarriló en el P.K. 230+862 de la línea 700 Intermodal Abando Indalecio Prieto a Casetas, entre las estaciones de Ugao-Miraballes y Llodio (Álava). El tren circulaba a 75 km/h y las señales de bloqueo indicaban vía libre.\n\nEl maquinista observó en la pantalla COSMOS alteraciones en los acelerómetros de los bogies y avisos intermitentes de ATMS y MANTTO; simultáneamente, el interventor le comunicó que el tren se movía mucho. El maquinista realizó un frenado de servicio hasta detener el tren en el P.K. 228+600, tras haber circulado descarrilado 2.262 metros. En el reconocimiento posterior se comprobó que estaban descarrilados los ejes 11 y 12 del tercer coche: la rueda derecha del eje 11 y ambas ruedas del eje 12.\n\nLa investigación concluyó que el accidente se originó por el fallo técnico del material rodante: se rompió a sección completa el casquillo deslizante de la rueda izquierda del primer eje del segundo bogie del tercer coche, lo que provocó el decalaje de dicha rueda, la pérdida de distancia entre las caras internas de las ruedas y el descarrilamiento subsiguiente.",
+   "pagina": 4,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo técnico del material rodante por rotura a sección completa del casquillo deslizante de la rueda izquierda del primer eje del segundo bogie del tercer coche, que provocó el decalaje de la rueda y el descarrilamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Transición demasiado aguda entre la zona cilíndrica y la no cilíndrica del casquillo, con efecto concentrador de tensiones.",
+    "Conjunción de factores geométricos y defectológicos que favorecieron el inicio de la fatiga.",
+    "Progresión lenta de la grieta por fatiga hasta la rotura a sección completa."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Continuar con las inspecciones, cada 30.000 Km, de los casquillos sin sustituir, de acuerdo con las especificaciones y normativas que se han establecido.",
+    "Continuar las sustituciones del casquillo original por el de nuevo diseño, de acuerdo con el plan establecido. Acelerar el mismo si se detecta algún problema en las inspecciones de la recomendación 36/10-1.",
+    "Establecer un plan de seguimiento específico de los nuevos casquillos hasta su validación definitiva. A partir de la misma se pasará al mantenimiento normal que se establezca.",
+    "Continuar con las inspecciones, cada 30.000 Km, de los casquillos sin sustituir, de acuerdo con las especificaciones y normativas que se han establecido.",
+    "Continuar las sustituciones del casquillo original por el de nuevo diseño, de acuerdo con el plan establecido. Acelerar el mismo si se detecta algún problema en las inspecciones de la recomendación 36/10-1.",
+    "Establecer un plan de seguimiento específico de los nuevos casquillos hasta su validación definitiva. A partir de la misma se pasará al mantenimiento normal que se establezca."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Renfe Operadora",
+    "Renfe Operadora",
+    "Renfe Operadora",
+    "Renfe Operadora",
+    "Renfe Operadora"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "15:51",
+     "evento": "Se produce el descarrilamiento del eje 11 (rueda derecha) en el P.K. 230+862, mientras el tren 436 circulaba a 75 km/h con señales de vía libre."
+    },
+    {
+     "hora": "15:51",
+     "evento": "Aparecen avisos en la pantalla COSMOS de alteraciones en acelerómetros y encendido intermitente de ATMS y MANTTO; el interventor comunica al maquinista que el tren se movía mucho y este realiza frenado de servicio."
+    },
+    {
+     "hora": null,
+     "evento": "El tren circula descarrilado desde el P.K. 230+862 hasta el P.K. 228+600, donde queda detenido tras recorrer 2.262 m; se detectan descarrilados los ejes 11 y 12 del tercer coche."
+    },
+    {
+     "hora": "16:34",
+     "evento": "El jefe de investigación de accidentes ferroviarios de Adif comunica el suceso a la CIAF mediante mensaje de telefonía móvil."
+    },
+    {
+     "hora": "17:51",
+     "evento": "Comienza la interceptación de la vía 2 entre Ugao-Miraballes y Llodio y se banaliza la circulación por la vía 1."
+    },
+    {
+     "hora": "18:47",
+     "evento": "Se realiza al maquinista prueba de alcoholemia en aire espirado, con resultado negativo."
+    },
+    {
+     "hora": "07:50",
+     "evento": "El 11 de julio de 2010 finaliza la interceptación de la vía 2, con una duración total de 15 horas y 59 minutos."
+    },
+    {
+     "hora": null,
+     "evento": "El 27 de julio de 2010, la CIAF resuelve abrir la investigación del accidente."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0036/2010",
+ "expediente": "0036/010",
+ "anio": 2010,
+ "titulo": "Descarrilamiento del tren 436 de Renfe Operadora entre Ugao-Miraballes y Llodio (Álava)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-100710-290311-CIAF.md"
+}

@@ -1,0 +1,953 @@
+{
+ "id": "IF-300511-270312-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/4A727951-7C2B-4F98-AC19-A396F0E58511/110998/IF300511270312CIAF.pdf",
+ "pdf": "pdfs/ES/IF-300511-270312-CIAF.pdf",
+ "md5_pdf": "ddad5acc91894289223a417e31f25ec3",
+ "paginas_md": 16,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 19,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0024/2011",
+   "pagina": 1,
+   "cita": "nº 0024/2011 ocurrido el 30.05.2011",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 30 de mayo de 2011, a las 07:20 horas, el tren de viajeros 8476 de Renfe Operadora descarriló en el PK 224+556 de la línea de alta velocidad 50, a la entrada de la estación de Calatayud (Zaragoza). El descarrilamiento afectó a los cuatro ejes del primer coche, en el sentido de la marcha, sin causar víctimas. La investigación atribuyó el origen a un fallo técnico de las instalaciones, concretamente al incorrecto funcionamiento del desvío S1 CAL 2. Se formularon recomendaciones a la Dirección General de Ferrocarriles sobre pautas de actuación en rebases de señal y formación en aparatos de vía de alta velocidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2011-05-30",
+    "hora": "07:20",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Calatayud",
+     "pk": "224+556",
+     "linea": "50 Madrid-Puerta de Atocha a Límite Adif-TP Ferro",
+     "provincia": "Zaragoza",
+     "descripcion_lugar": "Entrada a la estación de Calatayud, lado Zaragoza, en el desvío S1 CAL 2, tramo Calatayud–Bifurcación cambiador de Plasencia de Jalón."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 30 de mayo de 2011, a las 07:20 horas, en el PK 224+556 de la línea de alta velocidad",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: daños en las cuatro ruedas de los dos bogies del primer coche, en el captador del ASFA y en varios elementos bajo el bastidor. Infraestructura: daños en elementos del desvío S1 CAL 2 en la zona del corazón.",
+    "afectacion_servicio": "Interceptación inicial de ambas vías; supresión de 8 trenes, transbordo de 2 trenes, retrasos en 34 trenes y 4.347 minutos de retraso acumulado; 47 viajeros trasladados; vía 1 restablecida con marcha a la vista y limitación de velocidad; vía 2 normal el 31 de mayo a las 04:25."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo técnico de las instalaciones: incorrecto funcionamiento del desvío S1 CAL 2 por fallo mecánico del motor 1 del corazón, que provocó el descarrilamiento al paso del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Autorización del rebase de la señal E CAL M2 con marcha a la vista y reconocimiento del desvío pese a la falta de comprobación y al fallo conocido del motor 1 del corazón.",
+    "Dificultad para visualizar la disposición de los elementos del desvío debido a las precipitaciones.",
+    "El telefonema no especificó detalladamente el número y la situación del cambio a reconocer, y el maquinista conocía la disposición del espadín y corazón pero no su enclavamiento.",
+    "Antecedentes de reparaciones del desvío S1 CAL 2 por pérdida de comprobación en 2011."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Pautas de actuación no suficientemente claras o adaptadas a alta velocidad para rebases de señal con comprobación de aparatos de vía.",
+    "Contenidos de formación del personal de conducción sobre aparatos de vía de alta velocidad y desvíos que podrían requerir refuerzo."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción, en los casos de rebases de señal con orden de comprobación de los aparatos de vía, adaptando la normativa a las nuevas tecnologías (alta velocidad).",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    },
+    {
+     "texto": "Analizar la viabilidad de reforzar los contenidos de los programas de formación para la obtención del título de conducción en lo referente a los conocimientos técnicos sobre aparatos de vía de alta velocidad y especialmente de los desvíos.",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "24/11-1 Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción, en los casos de rebases de señal con orden de comprobación de los aparatos de vía, adaptando la normativa a las nu",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción, en los casos de rebases de señal con orden de comprobación de los aparatos de vía, adaptando la normativa a las nuevas tecnologías (alta velocidad).",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    },
+    {
+     "texto": "Analizar la viabilidad de reforzar los contenidos de los programas de formación para la obtención del título de conducción en lo referente a los conocimientos técnicos sobre aparatos de vía de alta velocidad y especialmente de los desvíos.",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "24/11-1 Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción, en los casos de rebases de señal con orden de comprobación de los aparatos de vía, adaptando la normativa a las nu",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Descarrilamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "ferroviaria Renfe Operadora. Descarrilan los cuatro ejes del primer coche de la composición, en el",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2011-05-30",
+   "pagina": 3,
+   "cita": "El día 30 de mayo de 2011, a las 07:20 horas, en el PK 224+556 de la línea de alta velocidad",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "07:20",
+   "pagina": 3,
+   "cita": "El día 30 de mayo de 2011, a las 07:20 horas, en el PK 224+556 de la línea de alta velocidad",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Calatayud",
+    "pk": "224+556",
+    "linea": "50 Madrid-Puerta de Atocha a Límite Adif-TP Ferro",
+    "provincia": "Zaragoza",
+    "descripcion_lugar": "Entrada a la estación de Calatayud, lado Zaragoza, en el desvío S1 CAL 2, tramo Calatayud–Bifurcación cambiador de Plasencia de Jalón."
+   },
+   "pagina": 3,
+   "cita": "50 Madrid-Puerta de Atocha a Límite Adif-TP Ferro, a la entrada de la estación de Calatayud, lado",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "50 Madrid Puerta de Atocha a Límite Adif-TP Ferro",
+   "pagina": 3,
+   "cita": "El día 30 de mayo de 2011, a las 07:20 horas, en el PK 224+556 de la línea de alta velocidad",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Serie 104; Nº UIC 967191049139; rama 10013; 4 coches; 16 ejes, 8 tractores; longitud 107 m; peso 242 t; tipo 250; ETCS/ERTMS y ASFA Digital.",
+    "averia": "No se describe avería previa del tren; los equipos de seguridad funcionaron correctamente. Daños tras el descarrilamiento en ruedas, captador ASFA y elementos bajo bastidor.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros 8476 de Renfe Operadora, procedente de Zaragoza-Delicias y con destino Calatayud, quedó detenido en vía II ante la señal de entrada E CAL M2 de la estación de Calatayud. Al establecer el itinerario de entrada a vía 3, el jefe de circulación del CRC observó que el desvío S1 CAL 2 no daba comprobación. El personal de mantenimiento de infraestructura informó de que tardaría unos 30 minutos en llegar al desvío y confirmó un fallo en el motor 1 del corazón del desvío.\n\nPese a la falta de comprobación, el jefe de circulación estableció itinerario programado a vía 3 y autorizó al maquinista, mediante telefonema, el rebase de la señal con marcha a la vista y reconocimiento del espadín y del corazón del desvío. El tren reinició la marcha y avanzó en varias etapas, alcanzando una velocidad máxima de 30 km/h; al paso por el corazón del desvío circulaba a 27 km/h.\n\nAl llegar a la zona del corazón, descarriló el primer coche en el sentido de la marcha: los dos primeros ejes lo hicieron por ambas ruedas y los ejes tercero y cuarto por las ruedas de la izquierda, quedando las ruedas derechas apoyadas sobre la pata de liebre del corazón. El maquinista aplicó el freno de emergencia y el tren se detuvo en el PK 224+531, tras recorrer 35 metros. No hubo víctimas, aunque quedaron interceptadas inicialmente ambas vías y se produjeron daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Calatayud",
+    "pk": "224+556",
+    "linea": "50 Madrid-Puerta de Atocha a Límite Adif-TP Ferro",
+    "provincia": "Zaragoza",
+    "descripcion_lugar": "Entrada a la estación de Calatayud, lado Zaragoza, en el desvío S1 CAL 2, tramo Calatayud–Bifurcación cambiador de Plasencia de Jalón."
+   },
+   "pagina": 3,
+   "cita": "50 Madrid-Puerta de Atocha a Límite Adif-TP Ferro, a la entrada de la estación de Calatayud, lado",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: daños en las cuatro ruedas de los dos bogies del primer coche, en el captador del ASFA y en varios elementos bajo el bastidor. Infraestructura: daños en elementos del desvío S1 CAL 2 en la zona del corazón.",
+    "afectacion_servicio": "Interceptación inicial de ambas vías; supresión de 8 trenes, transbordo de 2 trenes, retrasos en 34 trenes y 4.347 minutos de retraso acumulado; 47 viajeros trasladados; vía 1 restablecida con marcha a la vista y limitación de velocidad; vía 2 normal el 31 de mayo a las 04:25."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Responsable de circulación del CRC de Zaragoza-Delicias",
+     "implicacion": "Estableció el itinerario con el desvío S1 CAL 2 sin comprobación, informó al maquinista y autorizó el rebase de la señal con marcha a la vista y reconocimiento del espadín y corazón del desvío. Prueba de alcoholemia negativa a las 08:30."
+    },
+    {
+     "rol": "Maquinista del tren 8476",
+     "implicacion": "Recibió autorización de rebase, observó la posición del desvío, notó golpes y ruidos, aplicó frenado de emergencia y comprobó el descarrilamiento. Prueba de alcoholemia negativa a las 08:45."
+    },
+    {
+     "rol": "Personal de mantenimiento de infraestructura",
+     "implicacion": "Informó de un posible fallo mecánico, confirmó el fallo del motor 1 del corazón del desvío y comunicó una previsión de llegada de unos 30 minutos."
+    }
+   ],
+   "pagina": 6,
+   "cita": "El responsable de circulación del CRC de Zaragoza-Delicias con matrícula 9738733.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "8476",
+     "tipo": "Tren de viajeros de alta velocidad / media distancia, servicio Renfe Avant",
+     "operador": "Renfe Operadora",
+     "danos": "Descarrilamiento del primer coche en el sentido de la marcha; daños en las cuatro ruedas de los dos bogies del primer coche, en el captador del ASFA y en varios elementos bajo el bastidor."
+    },
+    {
+     "numero": "319248",
+     "tipo": "Locomotora",
+     "operador": null,
+     "danos": "Acoplada al tren 8476 para realizar los trabajos de encarrilamiento."
+    }
+   ],
+   "pagina": 3,
+   "cita": "Zaragoza, se produce el descarrilamiento del tren de viajeros de media distancia 8476 de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Serie 104; Nº UIC 967191049139; rama 10013; 4 coches; 16 ejes, 8 tractores; longitud 107 m; peso 242 t; tipo 250; ETCS/ERTMS y ASFA Digital.",
+    "averia": "No se describe avería previa del tren; los equipos de seguridad funcionaron correctamente. Daños tras el descarrilamiento en ruedas, captador ASFA y elementos bajo bastidor.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 6,
+   "cita": "El jefe de investigación de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E CAL M2 que ordenaba parada; enclavamiento electrónico; bloqueo de control automático (BCA).",
+    "tipo_via": "Vía doble electrificada de ancho UIC.",
+    "velocidad_maxima": "300 km/h en posición normal del desvío; 220 km/h en posición invertida; 250 km/h permitida para el tren; 27 km/h al paso por el corazón.",
+    "ancho": "UIC",
+    "electrificacion": "Electrificada",
+    "estado_via": "Desvío S1 CAL 2 sin comprobación; fallo mecánico del motor 1 del corazón; corazón entreabierto.",
+    "otro": "PK del suceso 224+556; el informe también indica PK 224+709 para el desvío S1 CAL 2 y PK 224+851 para la señal E CAL M2; tráfico gestionado desde CRC Zaragoza-Delicias; comunicaciones GSM-R; tráfico medio semanal del tramo: 524 circulaciones."
+   },
+   "pagina": 7,
+   "cita": "El tramo donde ocurre el descarrilamiento es de vía doble electrificada de ancho UIC, en el que la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de entrada E CAL M2 que ordenaba parada; enclavamiento electrónico; bloqueo de control automático (BCA).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Global System for Mobile Communications – Railway (GSM-R).",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: daños en las cuatro ruedas de los dos bogies del primer coche, en el captador del ASFA y en varios elementos bajo el bastidor. Infraestructura: daños en elementos del desvío S1 CAL 2 en la zona del corazón.",
+    "afectacion_servicio": "Interceptación inicial de ambas vías; supresión de 8 trenes, transbordo de 2 trenes, retrasos en 34 trenes y 4.347 minutos de retraso acumulado; 47 viajeros trasladados; vía 1 restablecida con marcha a la vista y limitación de velocidad; vía 2 normal el 31 de mayo a las 04:25."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: daños en las cuatro ruedas de los dos bogies del primer coche, en el captador del ASFA y en varios elementos bajo el bastidor. Infraestructura: daños en elementos del desvío S1 CAL 2 en la zona del corazón.",
+    "afectacion_servicio": "Interceptación inicial de ambas vías; supresión de 8 trenes, transbordo de 2 trenes, retrasos en 34 trenes y 4.347 minutos de retraso acumulado; 47 viajeros trasladados; vía 1 restablecida con marcha a la vista y limitación de velocidad; vía 2 normal el 31 de mayo a las 04:25."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: daños en las cuatro ruedas de los dos bogies del primer coche, en el captador del ASFA y en varios elementos bajo el bastidor. Infraestructura: daños en elementos del desvío S1 CAL 2 en la zona del corazón.",
+    "afectacion_servicio": "Interceptación inicial de ambas vías; supresión de 8 trenes, transbordo de 2 trenes, retrasos en 34 trenes y 4.347 minutos de retraso acumulado; 47 viajeros trasladados; vía 1 restablecida con marcha a la vista y limitación de velocidad; vía 2 normal el 31 de mayo a las 04:25."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 104; Nº UIC 967191049139; rama 10013; 4 coches; 16 ejes, 8 tractores; longitud 107 m; peso 242 t; tipo 250; ETCS/ERTMS y ASFA Digital.",
+    "averia": "No se describe avería previa del tren; los equipos de seguridad funcionaron correctamente. Daños tras el descarrilamiento en ruedas, captador ASFA y elementos bajo bastidor.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E CAL M2 que ordenaba parada; enclavamiento electrónico; bloqueo de control automático (BCA).",
+    "tipo_via": "Vía doble electrificada de ancho UIC.",
+    "velocidad_maxima": "300 km/h en posición normal del desvío; 220 km/h en posición invertida; 250 km/h permitida para el tren; 27 km/h al paso por el corazón.",
+    "ancho": "UIC",
+    "electrificacion": "Electrificada",
+    "estado_via": "Desvío S1 CAL 2 sin comprobación; fallo mecánico del motor 1 del corazón; corazón entreabierto.",
+    "otro": "PK del suceso 224+556; el informe también indica PK 224+709 para el desvío S1 CAL 2 y PK 224+851 para la señal E CAL M2; tráfico gestionado desde CRC Zaragoza-Delicias; comunicaciones GSM-R; tráfico medio semanal del tramo: 524 circulaciones."
+   },
+   "pagina": 7,
+   "cita": "El tramo donde ocurre el descarrilamiento es de vía doble electrificada de ancho UIC, en el que la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "De día y con lluvia; en el momento del suceso se menciona mucha tormenta.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Zaragoza",
+    "municipio": null,
+    "estacion": "Calatayud"
+   },
+   "pagina": 3,
+   "cita": "Zaragoza, se produce el descarrilamiento del tren de viajeros de media distancia 8476 de la empresa",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "De día y con lluvia; en el momento del suceso se menciona mucha tormenta.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de entrada E CAL M2 que ordenaba parada; enclavamiento electrónico; bloqueo de control automático (BCA).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E CAL M2 que ordenaba parada; enclavamiento electrónico; bloqueo de control automático (BCA).",
+    "tipo_via": "Vía doble electrificada de ancho UIC.",
+    "velocidad_maxima": "300 km/h en posición normal del desvío; 220 km/h en posición invertida; 250 km/h permitida para el tren; 27 km/h al paso por el corazón.",
+    "ancho": "UIC",
+    "electrificacion": "Electrificada",
+    "estado_via": "Desvío S1 CAL 2 sin comprobación; fallo mecánico del motor 1 del corazón; corazón entreabierto.",
+    "otro": "PK del suceso 224+556; el informe también indica PK 224+709 para el desvío S1 CAL 2 y PK 224+851 para la señal E CAL M2; tráfico gestionado desde CRC Zaragoza-Delicias; comunicaciones GSM-R; tráfico medio semanal del tramo: 524 circulaciones."
+   },
+   "pagina": 7,
+   "cita": "El tramo donde ocurre el descarrilamiento es de vía doble electrificada de ancho UIC, en el que la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Global System for Mobile Communications – Railway (GSM-R).",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 104; Nº UIC 967191049139; rama 10013; 4 coches; 16 ejes, 8 tractores; longitud 107 m; peso 242 t; tipo 250; ETCS/ERTMS y ASFA Digital.",
+    "averia": "No se describe avería previa del tren; los equipos de seguridad funcionaron correctamente. Daños tras el descarrilamiento en ruedas, captador ASFA y elementos bajo bastidor.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Fallo mecánico motor desvío S1 CAL 2",
+    "Desvío sin comprobación en itinerario",
+    "Autorización rebase señal marcha vista"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El responsable de circulación está habilitado conforme a la Orden FOM/2872/2010, de 5 de noviembre, \npor la que se determinan las condiciones para la obtención de títulos y habilitaciones que permiten el \nejercicio de las funciones del personal ferroviario relacionadas con la seguridad. \nÉste tiene antigüedad en el cargo desde el 12/05/1999 y se encuentra en posesión de la habilitación \nde responsable de circulación con validez hasta el 12/11/2012. \nRealizó su último reciclaje formativo el 01/11/2009 y su último reconocimiento médico y psicotécnico el \n27/10/2009, conforme a la normativa vigente. \nEl maquinista del tren 8476 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene antigüedad en el cargo desde el 01/01/2000. \nRealizó su último reciclaje formativo el 12/01/2010 y su último reconocimiento médico y psicotécnico el \n23/07/2010, conforme a la normativa vigente. \n\n## Página 10\n\n \n \n \nA\nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0024/2011 ocurrido el 30.05.2011 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-300511-270312-CIAF  \n \nPág. 10 de 16\n3.3. \nNORMATIVA",
+   "pagina": 9,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros 8476 de Renfe Operadora, procedente de Zaragoza-Delicias y con destino Calatayud, quedó detenido en vía II ante la señal de entrada E CAL M2 de la estación de Calatayud. Al establecer el itinerario de entrada a vía 3, el jefe de circulación del CRC observó que el desvío S1 CAL 2 no daba comprobación. El personal de mantenimiento de infraestructura informó de que tardaría unos 30 minutos en llegar al desvío y confirmó un fallo en el motor 1 del corazón del desvío.\n\nPese a la falta de comprobación, el jefe de circulación estableció itinerario programado a vía 3 y autorizó al maquinista, mediante telefonema, el rebase de la señal con marcha a la vista y reconocimiento del espadín y del corazón del desvío. El tren reinició la marcha y avanzó en varias etapas, alcanzando una velocidad máxima de 30 km/h; al paso por el corazón del desvío circulaba a 27 km/h.\n\nAl llegar a la zona del corazón, descarriló el primer coche en el sentido de la marcha: los dos primeros ejes lo hicieron por ambas ruedas y los ejes tercero y cuarto por las ruedas de la izquierda, quedando las ruedas derechas apoyadas sobre la pata de liebre del corazón. El maquinista aplicó el freno de emergencia y el tren se detuvo en el PK 224+531, tras recorrer 35 metros. No hubo víctimas, aunque quedaron interceptadas inicialmente ambas vías y se produjeron daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo técnico de las instalaciones: incorrecto funcionamiento del desvío S1 CAL 2 por fallo mecánico del motor 1 del corazón, que provocó el descarrilamiento al paso del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Autorización del rebase de la señal E CAL M2 con marcha a la vista y reconocimiento del desvío pese a la falta de comprobación y al fallo conocido del motor 1 del corazón.",
+    "Dificultad para visualizar la disposición de los elementos del desvío debido a las precipitaciones.",
+    "El telefonema no especificó detalladamente el número y la situación del cambio a reconocer, y el maquinista conocía la disposición del espadín y corazón pero no su enclavamiento.",
+    "Antecedentes de reparaciones del desvío S1 CAL 2 por pérdida de comprobación en 2011."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción, en los casos de rebases de señal con orden de comprobación de los aparatos de vía, adaptando la normativa a las nuevas tecnologías (alta velocidad).",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    },
+    {
+     "texto": "Analizar la viabilidad de reforzar los contenidos de los programas de formación para la obtención del título de conducción en lo referente a los conocimientos técnicos sobre aparatos de vía de alta velocidad y especialmente de los desvíos.",
+     "destinatario": "Dirección General de Ferrocarriles (DGF)"
+    }
+   ],
+   "pagina": 3,
+   "cita": "24/11-1 Establecer pautas de actuación claras y lógicas para el personal de circulación y conducción, en los casos de rebases de señal con orden de comprobación de los aparatos de vía, adaptando la normativa a las nu",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "07:09",
+     "evento": "El jefe de circulación del CRC comunica al responsable de mantenimiento la falta de comprobación del desvío S1 CAL 2."
+    },
+    {
+     "hora": "07:10",
+     "evento": "El CRC informa al personal de mantenimiento; se da una previsión de media hora para llegar al punto de avería."
+    },
+    {
+     "hora": "07:12",
+     "evento": "El tren 8476 está detenido en vía II ante la señal E CAL M2; el personal de mantenimiento confirma que el fallo es del motor 1 del corazón del desvío."
+    },
+    {
+     "hora": "07:14",
+     "evento": "El CRC comunica al maquinista la falta de comprobación del desvío y le autoriza, mediante telefonema, el rebase de la señal con marcha a la vista y reconocimiento del desvío."
+    },
+    {
+     "hora": "07:14",
+     "evento": "El tren reinicia la marcha desde la señal E CAL M2."
+    },
+    {
+     "hora": "07:18",
+     "evento": "El tren inicia un cuarto trayecto de 301 metros, en el que no supera los 30 km/h."
+    },
+    {
+     "hora": "07:19",
+     "evento": "El personal de mantenimiento llama al CRC e indica que está a tres minutos del desvío y que había mucha tormenta."
+    },
+    {
+     "hora": "07:20",
+     "evento": "Se produce el descarrilamiento del primer coche del tren 8476 en la zona del corazón del desvío S1 CAL 2."
+    },
+    {
+     "hora": "07:22",
+     "evento": "El maquinista comunica al CRC que ha descarrilado en el corazón del desvío y que va a bajar a la vía."
+    },
+    {
+     "hora": "07:25",
+     "evento": "El maquinista informa al CRC de que el tren lleva 47 viajeros y de que no hay gálibo para circular por la vía 1."
+    },
+    {
+     "hora": "09:03",
+     "evento": "Se restablece la circulación por vía 1 entre Calatayud y Ricla con marcha a la vista y velocidad no superior a 5 km/h, posteriormente elevada a 20 km/h."
+    },
+    {
+     "hora": "03:38",
+     "evento": "El tren queda apartado en la vía 3 de la estación de Calatayud tras los trabajos de encarrilamiento."
+    },
+    {
+     "hora": "04:25",
+     "evento": "La vía 2 se abre en condiciones normales el 31 de mayo de 2011."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0024/2011",
+ "expediente": "0024/011",
+ "anio": 2011,
+ "titulo": "Descarrilamiento del tren 8476 de Renfe Operadora en la entrada de la estación de Calatayud (Zaragoza)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-300511-270312-CIAF.md"
+}

@@ -1,0 +1,902 @@
+{
+ "id": "ID-010207-200607-DGF",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-010207-200607-DGF.pdf",
+ "pdf": "pdfs/ES/ID-010207-200607-DGF.pdf",
+ "md5_pdf": "362cef49a0a09a29c0a5908b8b4e2b82",
+ "paginas_md": 7,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 10,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "06/2007",
+   "pagina": 1,
+   "cita": "nº 06/2007 ocurrido el 01.02.2007",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 1 de febrero de 2007, a las 18:53, el tren de Larga Distancia 609 de Renfe arrolló a una mujer de 40 años en el paso entre andenes de la estación de Beasaín. La víctima se había apeado del tren de Cercanías 26860 y cruzaba por el paso entarimado hacia el andén de vía I. El tren circulaba a 84 km/h, por debajo de la velocidad máxima de 85 km/h, y el maquinista usó el silbato y el freno de urgencia. La investigación atribuye el accidente a la imprudencia de la víctima, que no utilizó el paso inferior existente. No hubo daños materiales, aunque se produjeron retrasos y la víctima falleció a las 20:54.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-02-01",
+    "hora": "18:53",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Beasaín",
+     "pk": "581+060",
+     "linea": "Línea 100 Madrid-Hendaya",
+     "provincia": "Guipúzcoa",
+     "descripcion_lugar": "Paso entarimado o enmaderado entre andenes de la estación de Beasaín, en traza recta, con buena visibilidad y buena iluminación ambiental; existe un paso inferior a 68 metros del lugar del accidente."
+    }
+   },
+   "pagina": 4,
+   "cita": "desde las 18:53 horas hasta las 19:10, provocando un total de 27 minutos de retrasos",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+    "afectacion_servicio": "Incidencia de 17 minutos; tráfico restablecido por vía 4 a las 19:10; vías generales interceptadas hasta 19:40; 27 minutos de retrasos acumulados en 2 trenes de Larga Distancia y 55 minutos de retrasos acumulados en 4 trenes de Cercanías."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Imprudencia de la víctima al cruzar por el paso entre andenes sin percatarse de la llegada del tren 609 y no utilizar el paso inferior.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima cruzaba por el paso entarimado desde el andén de vía II al andén de vía I.",
+    "No se utilizó el paso inferior existente a 68 metros del lugar del accidente."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "El paso entre andenes enmaderado se considera un foco de peligro para los usuarios."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Reforzar la señalización existente mediante la instalación de señalización vertical en los accesos al paso entarimado, ya que estos pasos suponen un foco de peligro para los usuarios.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 7,
+   "cita": "Se estima conveniente reforzar la señalización existente mediante la instalación de",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Reforzar la señalización existente mediante la instalación de señalización vertical en los accesos al paso entarimado, ya que estos pasos suponen un foco de peligro para los usuarios.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 7,
+   "cita": "Se estima conveniente reforzar la señalización existente mediante la instalación de",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de persona",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó a través de mensaje de texto de telefonía móvil el pasado 1 de febrero, que",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-02-01",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "18:53",
+   "pagina": 4,
+   "cita": "desde las 18:53 horas hasta las 19:10, provocando un total de 27 minutos de retrasos",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Beasaín",
+    "pk": "581+060",
+    "linea": "Línea 100 Madrid-Hendaya",
+    "provincia": "Guipúzcoa",
+    "descripcion_lugar": "Paso entarimado o enmaderado entre andenes de la estación de Beasaín, en traza recta, con buena visibilidad y buena iluminación ambiental; existe un paso inferior a 68 metros del lugar del accidente."
+   },
+   "pagina": 2,
+   "cita": "entarimado de la estación de Beasaín, sito en el punto kilométrico 581+060 de la Línea 100",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 100 Madrid-Hendaya",
+   "pagina": 2,
+   "cita": "entarimado de la estación de Beasaín, sito en el punto kilométrico 581+060 de la Línea 100",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "locomotora nº UIC 252029",
+    "averia": "No se produjeron daños materiales en el material móvil.",
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "por la locomotora nº UIC 252029 y 11 coches con masa remolcada de 190 Tm., procedente",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros de Larga Distancia nº 609 de Renfe, compuesto por la locomotora nº UIC 252029 y 11 coches con masa remolcada de 190 Tm, procedente de Madrid y con destino Irún, pasaba por la vía I de la estación de Beasaín cuando arrolló a una persona en el paso entre andenes situado en el punto kilométrico 581+060 de la línea Madrid-Hendaya.\n\nLa víctima era una mujer de 40 años que se había apeado del tren de Cercanías 26860, procedente de Irún y con destino Brinkola, que se encontraba parado en vía II. La persona se disponía a cruzar desde el andén secundario al principal por el paso entarimado, desde el lado derecho hacia el lado izquierdo según la kilometración.\n\nEl maquinista observó un tren parado en vía II y personas en el andén, por lo que hizo uso del silbato; al oír un golpe aplicó el freno de urgencia y el tren quedó detenido a unos 400 metros. No se produjeron daños materiales, pero la víctima fue trasladada a la Clínica de Nuestra Sra de la Asunción de Tolosa y falleció a las 20:54.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Beasaín",
+    "pk": "581+060",
+    "linea": "Línea 100 Madrid-Hendaya",
+    "provincia": "Guipúzcoa",
+    "descripcion_lugar": "Paso entarimado o enmaderado entre andenes de la estación de Beasaín, en traza recta, con buena visibilidad y buena iluminación ambiental; existe un paso inferior a 68 metros del lugar del accidente."
+   },
+   "pagina": 2,
+   "cita": "entarimado de la estación de Beasaín, sito en el punto kilométrico 581+060 de la Línea 100",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+    "afectacion_servicio": "Incidencia de 17 minutos; tráfico restablecido por vía 4 a las 19:10; vías generales interceptadas hasta 19:40; 27 minutos de retrasos acumulados en 2 trenes de Larga Distancia y 55 minutos de retrasos acumulados en 4 trenes de Cercanías."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Jefe de Circulación de Beasaín",
+     "implicacion": "Figura entre las personas que intervinieron en el accidente; el informe no detalla su actuación concreta."
+    },
+    {
+     "rol": "Maquinista del tren 609",
+     "implicacion": "Matrícula 9723149; jornada de conducción de 04:23 h; prueba de alcoholemia negativa; usó el silbato y el freno de urgencia."
+    },
+    {
+     "rol": "Maquinista en prácticas",
+     "implicacion": "Matrícula 9723156; jornada de conducción de 04:23 h; prueba de alcoholemia negativa."
+    },
+    {
+     "rol": "Víctima",
+     "implicacion": "Mujer de 40 años, fallecida; se había apeado del tren de Cercanías 26860 y cruzaba por el paso entre andenes."
+    },
+    {
+     "rol": "Acompañante de la víctima",
+     "implicacion": "Advirtió a la víctima de la presencia del tren desde el andén de vía II."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El Jefe de Circulación de Beasaín.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "609",
+     "tipo": "tren de viajeros de Larga Distancia",
+     "operador": "Renfe",
+     "danos": "No se produjeron daños materiales en el material móvil."
+    },
+    {
+     "numero": "26860",
+     "tipo": "tren de Cercanías",
+     "operador": null,
+     "danos": "No se produjeron daños materiales."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El tren de viajeros de Larga Distancia nº 609 de la empresa ferroviaria Renfe, compuesto",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "locomotora nº UIC 252029",
+    "averia": "No se produjeron daños materiales en el material móvil.",
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "por la locomotora nº UIC 252029 y 11 coches con masa remolcada de 190 Tm., procedente",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Carteles de advertencia en colores llamativos en la parte inferior de los andenes con la leyenda Cuidado al pasar, trenes circulando en ambos sentidos.",
+    "tipo_via": "vía doble electrificada",
+    "velocidad_maxima": "85 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "traza recta, buena visibilidad desde los márgenes del paso y buena iluminación ambiental",
+    "otro": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado; paso inferior en el PK 581+128 a 68 m; perímetro de la estación vallado; paso entarimado destinado fundamentalmente a personas con discapacidades y paso de vehículos de ruedas."
+   },
+   "pagina": 5,
+   "cita": "línea discurre en vía doble electrificada, con bloqueo automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Carteles de advertencia en colores llamativos en la parte inferior de los andenes con la leyenda Cuidado al pasar, trenes circulando en ambos sentidos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+    "afectacion_servicio": "Incidencia de 17 minutos; tráfico restablecido por vía 4 a las 19:10; vías generales interceptadas hasta 19:40; 27 minutos de retrasos acumulados en 2 trenes de Larga Distancia y 55 minutos de retrasos acumulados en 4 trenes de Cercanías."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+    "afectacion_servicio": "Incidencia de 17 minutos; tráfico restablecido por vía 4 a las 19:10; vías generales interceptadas hasta 19:40; 27 minutos de retrasos acumulados en 2 trenes de Larga Distancia y 55 minutos de retrasos acumulados en 4 trenes de Cercanías."
+   },
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+    "afectacion_servicio": "Incidencia de 17 minutos; tráfico restablecido por vía 4 a las 19:10; vías generales interceptadas hasta 19:40; 27 minutos de retrasos acumulados en 2 trenes de Larga Distancia y 55 minutos de retrasos acumulados en 4 trenes de Cercanías."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "locomotora nº UIC 252029",
+    "averia": "No se produjeron daños materiales en el material móvil.",
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "por la locomotora nº UIC 252029 y 11 coches con masa remolcada de 190 Tm., procedente",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Carteles de advertencia en colores llamativos en la parte inferior de los andenes con la leyenda Cuidado al pasar, trenes circulando en ambos sentidos.",
+    "tipo_via": "vía doble electrificada",
+    "velocidad_maxima": "85 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "traza recta, buena visibilidad desde los márgenes del paso y buena iluminación ambiental",
+    "otro": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado; paso inferior en el PK 581+128 a 68 m; perímetro de la estación vallado; paso entarimado destinado fundamentalmente a personas con discapacidades y paso de vehículos de ruedas."
+   },
+   "pagina": 5,
+   "cita": "línea discurre en vía doble electrificada, con bloqueo automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche, tiempo despejado y buena iluminación ambiental.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Guipúzcoa",
+    "municipio": null,
+    "estacion": "Beasaín"
+   },
+   "pagina": 2,
+   "cita": "Madrid-Hendaya, en la provincia de Guipúzcoa, perteneciente a la Red Ferroviaria de Interés",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche, tiempo despejado y buena iluminación ambiental.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Carteles de advertencia en colores llamativos en la parte inferior de los andenes con la leyenda Cuidado al pasar, trenes circulando en ambos sentidos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Carteles de advertencia en colores llamativos en la parte inferior de los andenes con la leyenda Cuidado al pasar, trenes circulando en ambos sentidos.",
+    "tipo_via": "vía doble electrificada",
+    "velocidad_maxima": "85 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "traza recta, buena visibilidad desde los márgenes del paso y buena iluminación ambiental",
+    "otro": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado; paso inferior en el PK 581+128 a 68 m; perímetro de la estación vallado; paso entarimado destinado fundamentalmente a personas con discapacidades y paso de vehículos de ruedas."
+   },
+   "pagina": 5,
+   "cita": "línea discurre en vía doble electrificada, con bloqueo automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "locomotora nº UIC 252029",
+    "averia": "No se produjeron daños materiales en el material móvil.",
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "por la locomotora nº UIC 252029 y 11 coches con masa remolcada de 190 Tm., procedente",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "víctima no usó paso inferior",
+    "cruzó por paso entre andenes",
+    "se apeó del tren parado",
+    "no percibió llegada del tren"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(Adif), comunicó a través de mensaje de texto de telefonía móvil el pasado 1 de febrero, que \nse había producido el arrollamiento de una persona resultando fallecida la misma, en el paso \nentarimado de la estación de Beasaín, sito en el punto kilométrico 581+060 de la Línea 100 \nMadrid-Hendaya, en la provincia de Guipúzcoa, perteneciente a la Red Ferroviaria de Interés \nGeneral administrada por Adif. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles. Investigación \nque tendrá como finalidad determinar sus causas y formular recomendaciones para reducir los \nriesgos en el transporte ferroviario de acuerdo con el artículo 112 del citado Reglamento. \nReglamento que traspone parcialmente la Directiva 2004/49/CE del Parlamento Europeo de 29 \nde abril de 2004 sobre la seguridad de los ferrocarriles comunitarios, que en su  Artículo 19 \ncircunscribe la investigación a la mejora de la seguridad, y en ningún caso a la determinación \nde culpas o responsabilidades. \nDe conformidad con el artículo 112 del mencionado Reglamento, el 1 de Enero de 2007 la \nDirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), comunicó a través de mensaje de texto de telefonía móvil el pasado 1 de febrero, que se había produc",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros de Larga Distancia nº 609 de Renfe, compuesto por la locomotora nº UIC 252029 y 11 coches con masa remolcada de 190 Tm, procedente de Madrid y con destino Irún, pasaba por la vía I de la estación de Beasaín cuando arrolló a una persona en el paso entre andenes situado en el punto kilométrico 581+060 de la línea Madrid-Hendaya.\n\nLa víctima era una mujer de 40 años que se había apeado del tren de Cercanías 26860, procedente de Irún y con destino Brinkola, que se encontraba parado en vía II. La persona se disponía a cruzar desde el andén secundario al principal por el paso entarimado, desde el lado derecho hacia el lado izquierdo según la kilometración.\n\nEl maquinista observó un tren parado en vía II y personas en el andén, por lo que hizo uso del silbato; al oír un golpe aplicó el freno de urgencia y el tren quedó detenido a unos 400 metros. No se produjeron daños materiales, pero la víctima fue trasladada a la Clínica de Nuestra Sra de la Asunción de Tolosa y falleció a las 20:54.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR LA EMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por ADIF concluye “El accidente fue debido a no hacer uso la persona del paso\ninferior del que están dotados los andenes de vías I y II y que dan acceso a ambos andenes \nde la Estación de Beasaín”.  \n \nEl elaborado por RENFE establece que “Imprudencia de la víctima al cruzar las vías 1 y 2 de \nla Estación de Beasaín rápidamente sin percatarse de la llegada del tren de la Larga Distancia \n609  La víctima no utilizó el paso inferior que existe entre andenes en la Estación de Beasaín”.  \nPor tanto, ambas conclusiones son coincidentes entre sí en cuanto a la causa del accidente.",
+   "pagina": 6,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Imprudencia de la víctima al cruzar por el paso entre andenes sin percatarse de la llegada del tren 609 y no utilizar el paso inferior.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima cruzaba por el paso entarimado desde el andén de vía II al andén de vía I.",
+    "No se utilizó el paso inferior existente a 68 metros del lugar del accidente."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "A la vista de los datos recogidos por el Administrador de la infraestructura, se estima que el \naccidente tuvo su origen en la impudencia de la víctima que no se percató de la llegada del \ntren 609, circunstancia que se podía haber evitado si hubiese hecho uso del paso inferior \nentre andenes existente en la estación. \n \n \nID-010207-200607-DGF \n \n \nPág. 6 de 7\n\n## Página 7\n\n \nInvestigación del accidente \nnº 06/2007 ocurrido el 01.02.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme  definitivo",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES A la vista de los datos recogidos por el Administrador de la infraestructura, se estima que el accidente tuvo su origen en la impudencia de la víctima que no se percató de la llegada del tren 609, circ",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "A la vista de los datos recogidos por el Administrador de la infraestructura, se estima que el \naccidente tuvo su origen en la impudencia de la víctima que no se percató de la llegada del \ntren 609, circunstancia que se podía haber evitado si hubiese hecho uso del paso inferior \nentre andenes existente en la estación. \n \n \nID-010207-200607-DGF \n \n \nPág. 6 de 7\n\n## Página 7\n\n \nInvestigación del accidente \nnº 06/2007 ocurrido el 01.02.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme  definitivo",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES A la vista de los datos recogidos por el Administrador de la infraestructura, se estima que el accidente tuvo su origen en la impudencia de la víctima que no se percató de la llegada del tren 609, circ",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Reforzar la señalización existente mediante la instalación de señalización vertical en los accesos al paso entarimado, ya que estos pasos suponen un foco de peligro para los usuarios.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 7,
+   "cita": "Se estima conveniente reforzar la señalización existente mediante la instalación de",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "18:53",
+     "evento": "Arrollamiento de la persona por el tren de Larga Distancia 609 en el paso entre andenes de la estación de Beasaín."
+    },
+    {
+     "hora": "19:10",
+     "evento": "Los medios sanitarios proceden al traslado de la víctima y se restablece el tráfico por vía 4."
+    },
+    {
+     "hora": "19:40",
+     "evento": "La víctima ingresa en el centro sanitario; las vías generales quedan interceptadas hasta esta hora."
+    },
+    {
+     "hora": "20:54",
+     "evento": "El centro sanitario informa del fallecimiento de la víctima."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0006/2007",
+ "expediente": "06/2007",
+ "anio": 2007,
+ "titulo": "Arrollamiento de una persona por un tren en el paso entre andenes de la estación de Beasaín (Guipúzcoa)",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-010207-200607-DGF.md"
+}

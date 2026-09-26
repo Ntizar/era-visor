@@ -1,0 +1,883 @@
+{
+ "id": "IF-261108-310309-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/02130ABB-B63B-4AA0-A9E9-63126A216748/46998/IF261108310309CIAF.pdf",
+ "pdf": "pdfs/ES/IF-261108-310309-CIAF.pdf",
+ "md5_pdf": "02f5f423a043844181c33fc65fba897b",
+ "paginas_md": 11,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 7,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0065/2008",
+   "pagina": 1,
+   "cita": "nº 0065/2008 ocurrido el 26.11.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 26 de noviembre de 2008 a las 15:21, el tren de media distancia 18073 de Renfe Operadora arrolló a un pastor de 68 años y a unas 100 ovejas en plena vía, PK 70,200, entre Ribaforada y Tudela de Navarra. El pastor, de espaldas al tren, intentaba sacar el rebaño de la vía cuando el tren se aproximaba. El maquinista hizo uso del silbato y del freno de emergencia, pero no pudo evitar el impacto. El pastor falleció en el acto. No se produjeron daños materiales en material rodante ni infraestructura. Dadas las características del suceso, no se establecieron recomendaciones.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-11-26",
+    "hora": "15:21",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "70,200",
+     "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+     "provincia": "Navarra",
+     "descripcion_lugar": "Plena vía, PK 70,200, entre las estaciones de Ribaforada y Tudela de Navarra, término municipal de Fontellas. Tramo recto de vía doble, buena visibilidad, zona rural, sin cerramiento. Tramo Cortes Navarra – Tudela Navarra."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 26 de noviembre de 2008, a las 15:21 horas, el tren de viajeros de media distancia 18073,",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente. Aproximadamente 100 ovejas muertas.",
+    "afectacion_servicio": "Ambas vías cortadas de 15:21 a 15:45; vía 2 cortada de 15:21 a 16:00. 2 trenes de media distancia retrasados 73 min, 3 trenes de larga distancia retrasados 40 min, 4 trenes de mercancías retrasados 115 min. Limitación de velocidad a 'paso de hombre' hasta retirada de ovejas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión del galibo de la vía por el pastor, que intentaba apartar el rebaño de la vía cuando pasaba el tren 18073.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión del galibo de la vía por el pastor, que",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El pastor estaba de espaldas al sentido de la marcha del tren, despistado en el momento de la aproximación del tren.",
+    "Ausencia de cerramiento en el tramo, permitiendo el acceso de ganado y personas a la caja de la vía.",
+    "La velocidad del tren (138 km/h) impidió detenerlo a pesar de la actuación del freno de emergencia."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nDadas \nlas \ncaracterísticas \ndel \nsuceso, \nno \nse \nestablecen \nrecomendaciones. \n \n \n \n \n \n \n \nMadrid, 31 de marzo de 2009. \n \n \n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0065/2008 ocurrido el 26.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-261108-310309-CIAF \n \n \nPág. 10 de 11\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA INVESTIGACIÓN  \nDEL ACCIDENTE FERROVIARIO Nº 0065/2008 \nOCURRIDO EL DÍA 26.11.2008 \nEN PLENA VÍA, P.K. 70,200 \nENTRE RIBAFORADA Y TUDELA DE NAVARRA \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0065/2008 ocurrido el 26.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-261108-310309-CIAF \n \n \nPág. 11 de 11\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 31 de \nmarzo de 2009, analizado el expediente nº 0065/2008 del accidente acaecido el 26.11.2008 en plena \nvía, P.K. 70,200, de la línea 700 Casetas-Intermodal Abando Indalecio Prieto, se aprueba como \ndefinitivo el informe particular presentado por el técnico investigador con la siguiente \nrecomendación: \n \nDestinatario \nNúmero \nRecomendación \n \n \nDadas \nlas \ncaracterísticas \ndel \nsuceso, \nno \nse \nestablecen \nrecomendaciones. \n \n \n \nMadrid, 31 de marzo de 2009",
+   "pagina": 9,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación Dadas las características del suceso, no se establecen recomendaciones. Madrid, 31 de marzo de 2009. ## Página 10 Investi",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento",
+   "pagina": 3,
+   "cita": "emergencia no pudiendo evitar el arrollamiento de la persona y de unas 100 ovejas.",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "de la empresa ferroviaria Renfe Operadora, arrolla a una persona que custodiaba un rebaño de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-11-26",
+   "pagina": 3,
+   "cita": "El día 26 de noviembre de 2008, a las 15:21 horas, el tren de viajeros de media distancia 18073,",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "15:21",
+   "pagina": 3,
+   "cita": "El día 26 de noviembre de 2008, a las 15:21 horas, el tren de viajeros de media distancia 18073,",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "70,200",
+    "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+    "provincia": "Navarra",
+    "descripcion_lugar": "Plena vía, PK 70,200, entre las estaciones de Ribaforada y Tudela de Navarra, término municipal de Fontellas. Tramo recto de vía doble, buena visibilidad, zona rural, sin cerramiento. Tramo Cortes Navarra – Tudela Navarra."
+   },
+   "pagina": 3,
+   "cita": "700 Casetas-Intermodal Abando Indalecio Prieto",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "700 Casetas-Intermodal Abando Indalecio Prieto, tramo Cortes Navarra–Tudela Navarra",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "U/T 432011, 3 vehículos, 206 Tn de masa remolcada. Nº UIC: 967194320115",
+    "averia": "No se produjeron daños en el material rodante. Funcionamiento correcto.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 26 de noviembre de 2008, a las 15:21 horas, el tren de viajeros de media distancia 18073, de Renfe Operadora, circulaba por la vía 1 en el PK 70,200 de la línea 700, entre las estaciones de Ribaforada y Tudela de Navarra. El maquinista observó a unos 600-700 metros un rebaño de ovejas interceptando la vía y la presencia del pastor, de espaldas al tren, intentando sacar los animales. Hizo uso del silbato y del freno de emergencia, pero no pudo evitar el arrollamiento de la persona y de unas 100 ovejas. El pastor, un hombre de 68 años, falleció en el acto como consecuencia del impacto. El tren circulaba a 138 km/h en el momento de accionar el freno de emergencia, por debajo de la velocidad máxima permitida de 140 km/h. El lugar del accidente se encuentra en zona rural, tramo recto de vía doble con buena visibilidad y sin cerramiento. No se produjeron daños materiales en material rodante, infraestructura ni medio ambiente. A las 17:45 horas se procedió al levantamiento del cadáver y los agentes de vías y obras retiraron las ovejas muertas.",
+   "pagina": 3,
+   "cita": "1. RESUMEN El día 26 de noviembre de 2008, a las 15:21 horas, el tren de viajeros de media distancia 18073, de la empresa ferroviaria Renfe Operadora, arrolla a una persona que custodiaba un rebaño de ovejas. El accid",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "70,200",
+    "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+    "provincia": "Navarra",
+    "descripcion_lugar": "Plena vía, PK 70,200, entre las estaciones de Ribaforada y Tudela de Navarra, término municipal de Fontellas. Tramo recto de vía doble, buena visibilidad, zona rural, sin cerramiento. Tramo Cortes Navarra – Tudela Navarra."
+   },
+   "pagina": 3,
+   "cita": "700 Casetas-Intermodal Abando Indalecio Prieto",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente. Aproximadamente 100 ovejas muertas.",
+    "afectacion_servicio": "Ambas vías cortadas de 15:21 a 15:45; vía 2 cortada de 15:21 a 16:00. 2 trenes de media distancia retrasados 73 min, 3 trenes de larga distancia retrasados 40 min, 4 trenes de mercancías retrasados 115 min. Limitación de velocidad a 'paso de hombre' hasta retirada de ovejas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 18073",
+     "implicacion": "Observó el rebaño a 600-700 m, hizo uso del silbato y del freno de emergencia. Actuación correcta. Tasa de alcoholemia negativa (0,00 mg/1000 ml). Jornada de conducción el día del accidente: 2h52min. Habilitado conforme a OM 2520/2006. Último reciclaje formativo: 13/02/08. Último reconocimiento médico/psicotécnico: 16/11/05."
+    },
+    {
+     "rol": "Pastor (víctima mortal)",
+     "implicacion": "Hombre de 68 años. Invadió la caja de la vía de espaldas al tren intentando sacar el rebaño de ovejas. Falleció en el acto por el impacto."
+    }
+   ],
+   "pagina": 6,
+   "cita": "Un hombre de 68 años. La víctima invade la caja de la vía, de espaldas a la marcha del tren,",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "18073",
+     "tipo": "viajeros media distancia",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños en el material rodante"
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 26 de noviembre de 2008, a las 15:21 horas, el tren de viajeros de media distancia 18073,",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "U/T 432011, 3 vehículos, 206 Tn de masa remolcada. Nº UIC: 967194320115",
+    "averia": "No se produjeron daños en el material rodante. Funcionamiento correcto.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado con control de tráfico centralizado (CTC)",
+    "tipo_via": "Vía doble, alineación recta, perfil horizontal",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Funcionamiento correcto. Sin cerramiento en este tramo.",
+    "otro": "Radiotelefonía modalidad A. Consigna Serie A 2655 del 31/03/2006 del BAB con CTC del trayecto Casetas-Castejón de Ebro. Media semanal de circulaciones del tramo: 401 (115 larga distancia, 83 media distancia, 193 mercancías, 10 servicio)."
+   },
+   "pagina": 5,
+   "cita": "Radiotelefonía modalidad A.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático banalizado con control de tráfico centralizado (CTC)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente. Aproximadamente 100 ovejas muertas.",
+    "afectacion_servicio": "Ambas vías cortadas de 15:21 a 15:45; vía 2 cortada de 15:21 a 16:00. 2 trenes de media distancia retrasados 73 min, 3 trenes de larga distancia retrasados 40 min, 4 trenes de mercancías retrasados 115 min. Limitación de velocidad a 'paso de hombre' hasta retirada de ovejas."
+   },
+   "pagina": 3,
+   "cita": "El maquinista del tren de viajeros 18073 de Renfe Operadora, cuando circulaba por la vía 1, en el",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente. Aproximadamente 100 ovejas muertas.",
+    "afectacion_servicio": "Ambas vías cortadas de 15:21 a 15:45; vía 2 cortada de 15:21 a 16:00. 2 trenes de media distancia retrasados 73 min, 3 trenes de larga distancia retrasados 40 min, 4 trenes de mercancías retrasados 115 min. Limitación de velocidad a 'paso de hombre' hasta retirada de ovejas."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en material rodante, infraestructura ni medio ambiente. Aproximadamente 100 ovejas muertas.",
+    "afectacion_servicio": "Ambas vías cortadas de 15:21 a 15:45; vía 2 cortada de 15:21 a 16:00. 2 trenes de media distancia retrasados 73 min, 3 trenes de larga distancia retrasados 40 min, 4 trenes de mercancías retrasados 115 min. Limitación de velocidad a 'paso de hombre' hasta retirada de ovejas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "U/T 432011, 3 vehículos, 206 Tn de masa remolcada. Nº UIC: 967194320115",
+    "averia": "No se produjeron daños en el material rodante. Funcionamiento correcto.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado con control de tráfico centralizado (CTC)",
+    "tipo_via": "Vía doble, alineación recta, perfil horizontal",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Funcionamiento correcto. Sin cerramiento en este tramo.",
+    "otro": "Radiotelefonía modalidad A. Consigna Serie A 2655 del 31/03/2006 del BAB con CTC del trayecto Casetas-Castejón de Ebro. Media semanal de circulaciones del tramo: 401 (115 larga distancia, 83 media distancia, 193 mercancías, 10 servicio)."
+   },
+   "pagina": 5,
+   "cita": "Radiotelefonía modalidad A.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo atmosférico despejado y con viento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Navarra",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 3,
+   "cita": "de Navarra. En el accidente también son arrolladas unas 100 ovejas.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo atmosférico despejado y con viento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático banalizado con control de tráfico centralizado (CTC)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado con control de tráfico centralizado (CTC)",
+    "tipo_via": "Vía doble, alineación recta, perfil horizontal",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Funcionamiento correcto. Sin cerramiento en este tramo.",
+    "otro": "Radiotelefonía modalidad A. Consigna Serie A 2655 del 31/03/2006 del BAB con CTC del trayecto Casetas-Castejón de Ebro. Media semanal de circulaciones del tramo: 401 (115 larga distancia, 83 media distancia, 193 mercancías, 10 servicio)."
+   },
+   "pagina": 5,
+   "cita": "Radiotelefonía modalidad A.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "U/T 432011, 3 vehículos, 206 Tn de masa remolcada. Nº UIC: 967194320115",
+    "averia": "No se produjeron daños en el material rodante. Funcionamiento correcto.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "El pastor estaba de espaldas al sentido de la marcha del tren, despistado en el momento de la aproximación del tren.",
+    "Ausencia de cerramiento en el tramo, permitiendo el acceso de ganado y personas a la caja de la vía.",
+    "La velocidad del tren (138 km/h) impidió detenerlo a pesar de la actuación del freno de emergencia."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 26 de noviembre de 2008, a las 15:21 horas, el tren de viajeros de media distancia 18073, de Renfe Operadora, circulaba por la vía 1 en el PK 70,200 de la línea 700, entre las estaciones de Ribaforada y Tudela de Navarra. El maquinista observó a unos 600-700 metros un rebaño de ovejas interceptando la vía y la presencia del pastor, de espaldas al tren, intentando sacar los animales. Hizo uso del silbato y del freno de emergencia, pero no pudo evitar el arrollamiento de la persona y de unas 100 ovejas. El pastor, un hombre de 68 años, falleció en el acto como consecuencia del impacto. El tren circulaba a 138 km/h en el momento de accionar el freno de emergencia, por debajo de la velocidad máxima permitida de 140 km/h. El lugar del accidente se encuentra en zona rural, tramo recto de vía doble con buena visibilidad y sin cerramiento. No se produjeron daños materiales en material rodante, infraestructura ni medio ambiente. A las 17:45 horas se procedió al levantamiento del cadáver y los agentes de vías y obras retiraron las ovejas muertas.",
+   "pagina": 3,
+   "cita": "1. RESUMEN El día 26 de noviembre de 2008, a las 15:21 horas, el tren de viajeros de media distancia 18073, de la empresa ferroviaria Renfe Operadora, arrolla a una persona que custodiaba un rebaño de ovejas. El accid",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en el P.K. 70,200, entre las estaciones de Ribaforada y Tudela de Navarra \nde la línea 700 Casetas-Intermodal Abando Indalecio Prieto. \nDel análisis del registrador de seguridad del tren 18073 se desprende que el tren circulaba a una \nvelocidad inferior a su máxima permitida en el tramo. \nSegún lo declarado por el maquinista, al percatarse de la presencia del hombre y de las ovejas en \nla caja de la vía, hizo uso del silbato repetidas veces y actuó sobre el freno de emergencia, por lo que \nla actuación del maquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0065/2008 ocurrido el 26.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-261108-310309-CIAF \n \n \nPág. 9 de 11\nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nSegún lo declarado por el maquinista, el hombre estaba de espaldas al sentido de la marcha del \ntren, tratando de reconducir el rebaño de ovejas, de lo que se puede inferir que la víctima estaba \ndespistada en el momento que el tren se aproximaba. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en la invasión del galibo de la vía por el pastor, que intentaba apartar \nel rebaño de la vía, cuando pasaba el tren 18073.",
+   "pagina": 8,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión del galibo de la vía por el pastor, que intentaba apartar el rebaño de la vía cuando pasaba el tren 18073.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión del galibo de la vía por el pastor, que",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El pastor estaba de espaldas al sentido de la marcha del tren, despistado en el momento de la aproximación del tren.",
+    "Ausencia de cerramiento en el tramo, permitiendo el acceso de ganado y personas a la caja de la vía.",
+    "La velocidad del tren (138 km/h) impidió detenerlo a pesar de la actuación del freno de emergencia."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nDadas \nlas \ncaracterísticas \ndel \nsuceso, \nno \nse \nestablecen \nrecomendaciones. \n \n \n \n \n \n \n \nMadrid, 31 de marzo de 2009. \n \n \n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0065/2008 ocurrido el 26.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-261108-310309-CIAF \n \n \nPág. 10 de 11\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA INVESTIGACIÓN  \nDEL ACCIDENTE FERROVIARIO Nº 0065/2008 \nOCURRIDO EL DÍA 26.11.2008 \nEN PLENA VÍA, P.K. 70,200 \nENTRE RIBAFORADA Y TUDELA DE NAVARRA \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0065/2008 ocurrido el 26.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-261108-310309-CIAF \n \n \nPág. 11 de 11\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 31 de \nmarzo de 2009, analizado el expediente nº 0065/2008 del accidente acaecido el 26.11.2008 en plena \nvía, P.K. 70,200, de la línea 700 Casetas-Intermodal Abando Indalecio Prieto, se aprueba como \ndefinitivo el informe particular presentado por el técnico investigador con la siguiente \nrecomendación: \n \nDestinatario \nNúmero \nRecomendación \n \n \nDadas \nlas \ncaracterísticas \ndel \nsuceso, \nno \nse \nestablecen \nrecomendaciones. \n \n \n \nMadrid, 31 de marzo de 2009",
+   "pagina": 9,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación Dadas las características del suceso, no se establecen recomendaciones. Madrid, 31 de marzo de 2009. ## Página 10 Investi",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "15:21",
+     "evento": "Arrollamiento del pastor y ~100 ovejas por el tren 18073 en el PK 70,200"
+    },
+    {
+     "hora": "15:21",
+     "evento": "Corte de ambas vías"
+    },
+    {
+     "hora": "15:45",
+     "evento": "Reapertura de la vía 1 (ambas vías cortadas hasta este momento)"
+    },
+    {
+     "hora": "16:00",
+     "evento": "Reapertura de la vía 2"
+    },
+    {
+     "hora": "17:45",
+     "evento": "Levantamiento del cadáver del pastor"
+    },
+    {
+     "hora": null,
+     "evento": "Retirada de ovejas muertas por agentes de vías y obras"
+    },
+    {
+     "hora": "17:52",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF"
+    },
+    {
+     "hora": null,
+     "evento": "El maquinista comunica el suceso al Puesto de Mando de Miranda de Ebro"
+    },
+    {
+     "hora": null,
+     "evento": "Se establece limitación de velocidad a 'paso de hombre' hasta retirada de ovejas"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0065/2008",
+ "expediente": "0065/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de un pastor y un rebaño por tren 18073 entre Ribaforada y Tudela de Navarra",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-261108-310309-CIAF.md"
+}

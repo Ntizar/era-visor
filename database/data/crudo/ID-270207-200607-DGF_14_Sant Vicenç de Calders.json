@@ -1,0 +1,913 @@
+{
+ "id": "ID-270207-200607-DGF_14_Sant Vicenç de Calders",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-270207-200607-DGF_14_Sant%20Vicen%C3%A7%20de%20Calders.pdf",
+ "pdf": "pdfs/ES/ID-270207-200607-DGF_14_Sant Vicenç de Calders.pdf",
+ "md5_pdf": "45199762f9b65d7bbb972be3ca908968",
+ "paginas_md": 7,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 10,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0014/2007",
+   "pagina": 1,
+   "cita": "Nº 0014/2007 OCURRIDO EL DÍA 27.02.2007 ID-270207-200607-DGF Pág. 1 de 7 ## Página 2 Investigación del accidente nº 14/2007 ocurrido el 27.02.2007 SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y PLANIFICACI",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 27 de febrero de 2007, a las 22:05 horas, un varón de 67 años fue arrollado mortalmente por el tren de Viajeros Larga Distancia nº 15997 de Renfe al cruzar indebidamente por un paso entarimado entre andenes en la estación de Sant Vicenç de Calders (PK 618,000, línea Madrid-Barcelona). El maquinista aplicó el freno de urgencia a 76 km/h y usó el silbato, pero no pudo evitar el atropello. No se produjeron daños materiales. La investigación concluyó que la causa fue el uso indebido del paso entre andenes en lugar del paso inferior existente. Se recomendaron mejoras de accesibilidad y señalización prohibitiva.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-02-27",
+    "hora": "22:05",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Sant Vicenç de Calders",
+     "pk": "618,000",
+     "linea": "Madrid-Barcelona",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Paso entre andenes (paso entarimado) situado al final del andén, lado Tarragona, extremo de la estación, suficientemente alejado del edificio de viajeros. Escasa visibilidad limitada por curva. La estación dispone de 3 andenes y 11 vías (3 generales dirección Lérida y Tarragona, resto apartadero y vías mango). Existe un paso inferior para acceso a andenes de vías 1, 2, 3 y 4."
+    }
+   },
+   "pagina": 3,
+   "cita": "Una persona resultó arrollada a las 22:05 horas del 27.02.07 en el paso entre andenes de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil",
+    "afectacion_servicio": "Tren detenido 53 minutos. Retrasos acumulados: 17 min en 2 trenes de Cercanías, 9 min en 1 tren Regional, 83 min en 3 trenes de Larga Distancia y 185 min en 4 trenes de Mercancías."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Cruce indebido de las vías por la persona accidentada a través del paso entarimado entre andenes, en lugar de utilizar el paso inferior existente, sin percatarse de la llegada del tren 15997",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Escasa visibilidad en el paso entre andenes limitada por curva",
+    "Ausencia de señalización prohibitiva (cartelones) en el paso entre andenes para personas no autorizadas",
+    "Falta de rampa o acceso para personas de movilidad reducida en el paso inferior, lo que puede incentivar el uso del paso entre andenes"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Diseño de las instalaciones de la estación que permite el acceso de personas no autorizadas al paso entre andenes destinado únicamente a personal ferroviario"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Realizar un estudio para la adecuación de las instalaciones de la estación de forma que se garantice el acceso a personas de movilidad reducida a los distintos andenes sin tener que utilizar el paso entre andenes destinado únicamente al personal ferroviario autorizado",
+     "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+    },
+    {
+     "texto": "Señalizar el paso entre andenes con cartelones que prohíban el acceso al mismo a personas no autorizadas",
+     "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Realizar un estudio para la adecuación de las instalaciones de la estación de forma que se garantice el acceso a personas de movilidad reducida a los distintos andenes sin tener que utilizar el paso entre andenes destinado únicamente al personal ferroviario autorizado",
+     "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+    },
+    {
+     "texto": "Señalizar el paso entre andenes con cartelones que prohíban el acceso al mismo a personas no autorizadas",
+     "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "grave",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe Operadora"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó el pasado 27 de febrero, que se había producido el arrollamiento de una",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-02-27",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "22:05",
+   "pagina": 3,
+   "cita": "Una persona resultó arrollada a las 22:05 horas del 27.02.07 en el paso entre andenes de",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Sant Vicenç de Calders",
+    "pk": "618,000",
+    "linea": "Madrid-Barcelona",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Paso entre andenes (paso entarimado) situado al final del andén, lado Tarragona, extremo de la estación, suficientemente alejado del edificio de viajeros. Escasa visibilidad limitada por curva. La estación dispone de 3 andenes y 11 vías (3 generales dirección Lérida y Tarragona, resto apartadero y vías mango). Existe un paso inferior para acceso a andenes de vías 1, 2, 3 y 4."
+   },
+   "pagina": 4,
+   "cita": "paso por la estacion de Sant Vicenç de Calders es de 160 Km/h.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea Madrid-Barcelona",
+   "pagina": 2,
+   "cita": "kilométrico 618,000 en la Línea Madrid-Barcelona, en la provincia de Tarragona, perteneciente",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 252-040 + 29 coches, masa remolcada 455 Tm",
+    "averia": "Ninguna",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "Una persona de 67 años resultó arrollada a las 22:05 horas del 27 de febrero de 2007 en el paso entre andenes de la estación de Sant Vicenç de Calders (PK 618,000, línea Madrid-Barcelona). La víctima cruzaba un paso entarimado situado al final del andén (lado Tarragona) al paso del tren de Viajeros Larga Distancia nº 15997 de Renfe, compuesto por la locomotora 252-040 y 29 coches con masa remolcada de 455 Tm, que efectuaba paso directo (sin parada prescrita) por vía I. El maquinista observó a la persona cruzando de izquierda a derecha (sentido de avance del tren), hizo uso del silbato y aplicó el freno de urgencia a 76 km/h, deteniéndose completamente tras avanzar 275 m, sin poder evitar el arrollamiento. El tren estuvo detenido 53 minutos. No se produjeron daños materiales ni en instalaciones ni en material móvil. La Guardia Civil procedió al levantamiento del cadáver a las 23:52.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Sant Vicenç de Calders",
+    "pk": "618,000",
+    "linea": "Madrid-Barcelona",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Paso entre andenes (paso entarimado) situado al final del andén, lado Tarragona, extremo de la estación, suficientemente alejado del edificio de viajeros. Escasa visibilidad limitada por curva. La estación dispone de 3 andenes y 11 vías (3 generales dirección Lérida y Tarragona, resto apartadero y vías mango). Existe un paso inferior para acceso a andenes de vías 1, 2, 3 y 4."
+   },
+   "pagina": 4,
+   "cita": "paso por la estacion de Sant Vicenç de Calders es de 160 Km/h.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil",
+    "afectacion_servicio": "Tren detenido 53 minutos. Retrasos acumulados: 17 min en 2 trenes de Cercanías, 9 min en 1 tren Regional, 83 min en 3 trenes de Larga Distancia y 185 min en 4 trenes de Mercancías."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista",
+     "implicacion": "Matrícula 8936361. Observó a la persona cruzando, usó silbato y aplicó freno de urgencia. Alcoholemia negativa (0,00 mg/1000 ml). Jornada: tren implicado; 24 h anteriores: descanso; 48 h anteriores: descanso."
+    },
+    {
+     "rol": "Personal de la Gerencia Territorial de Seguridad de Adif",
+     "implicacion": "Acudieron al lugar para inspeccionar el punto del arrollamiento y tomar pruebas"
+    },
+    {
+     "rol": "Medios sanitarios",
+     "implicacion": "Confirmaron el fallecimiento de la víctima"
+    }
+   ],
+   "pagina": 3,
+   "cita": "Personal de la Gerencia Territorial de Seguridad de Adif, acudieron al lugar del suceso para",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "15997",
+     "tipo": "Viajeros Larga Distancia",
+     "operador": "Renfe Operadora",
+     "danos": "Sin daños materiales en el material móvil"
+    }
+   ],
+   "pagina": 3,
+   "cita": "la estación de Sant Vicenç de Calders al paso del tren de Viajeros Larga Distancia nº 15997 de",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 252-040 + 29 coches, masa remolcada 455 Tm",
+    "averia": "Ninguna",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso entre andenes sin señalización prohibitiva para personas no autorizadas (según recomendación del informe). Paso inferior con buena señalización.",
+    "tipo_via": "Bloqueo Automático Banalizado con CTC",
+    "velocidad_maxima": "160 km/h (máxima autorizada a paso por estación); limitación temporal a la salida de 80 km/h; velocidad real al aplicar freno: 76 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Andenes recrecidos impidiendo accesibilidad a las vías. Paso entarimado con escasa visibilidad limitada por curva, adecuado estado de mantenimiento. Paso inferior con adecuado estado de iluminación y limpieza, pero sin rampa o acceso para personas de movilidad reducida."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso entre andenes sin señalización prohibitiva para personas no autorizadas (según recomendación del informe). Paso inferior con buena señalización.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil",
+    "afectacion_servicio": "Tren detenido 53 minutos. Retrasos acumulados: 17 min en 2 trenes de Cercanías, 9 min en 1 tren Regional, 83 min en 3 trenes de Larga Distancia y 185 min en 4 trenes de Mercancías."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil",
+    "afectacion_servicio": "Tren detenido 53 minutos. Retrasos acumulados: 17 min en 2 trenes de Cercanías, 9 min en 1 tren Regional, 83 min en 3 trenes de Larga Distancia y 185 min en 4 trenes de Mercancías."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil",
+    "afectacion_servicio": "Tren detenido 53 minutos. Retrasos acumulados: 17 min en 2 trenes de Cercanías, 9 min en 1 tren Regional, 83 min en 3 trenes de Larga Distancia y 185 min en 4 trenes de Mercancías."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales ni en las instalaciones ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252-040 + 29 coches, masa remolcada 455 Tm",
+    "averia": "Ninguna",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso entre andenes sin señalización prohibitiva para personas no autorizadas (según recomendación del informe). Paso inferior con buena señalización.",
+    "tipo_via": "Bloqueo Automático Banalizado con CTC",
+    "velocidad_maxima": "160 km/h (máxima autorizada a paso por estación); limitación temporal a la salida de 80 km/h; velocidad real al aplicar freno: 76 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Andenes recrecidos impidiendo accesibilidad a las vías. Paso entarimado con escasa visibilidad limitada por curva, adecuado estado de mantenimiento. Paso inferior con adecuado estado de iluminación y limpieza, pero sin rampa o acceso para personas de movilidad reducida."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Sant Vicenç de Calders"
+   },
+   "pagina": 2,
+   "cita": "kilométrico 618,000 en la Línea Madrid-Barcelona, en la provincia de Tarragona, perteneciente",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso entre andenes sin señalización prohibitiva para personas no autorizadas (según recomendación del informe). Paso inferior con buena señalización.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso entre andenes sin señalización prohibitiva para personas no autorizadas (según recomendación del informe). Paso inferior con buena señalización.",
+    "tipo_via": "Bloqueo Automático Banalizado con CTC",
+    "velocidad_maxima": "160 km/h (máxima autorizada a paso por estación); limitación temporal a la salida de 80 km/h; velocidad real al aplicar freno: 76 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Andenes recrecidos impidiendo accesibilidad a las vías. Paso entarimado con escasa visibilidad limitada por curva, adecuado estado de mantenimiento. Paso inferior con adecuado estado de iluminación y limpieza, pero sin rampa o acceso para personas de movilidad reducida."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252-040 + 29 coches, masa remolcada 455 Tm",
+    "averia": "Ninguna",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "cruce indebido por paso entre andenes",
+    "no uso del paso inferior existente",
+    "no percatarse de llegada del tren",
+    "paso directo por vía I"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(Adif), comunicó el pasado 27 de febrero, que se había producido el arrollamiento de una \npersona resultando esta fallecida, en la estación de Sant Vicenç de Calders situada en el punto \nkilométrico 618,000 en la Línea Madrid-Barcelona, en la provincia de Tarragona, perteneciente \na la Red Ferroviaria de Interés General administrada por Adif. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles de acuerdo \ncon el citado artículo.  \nDe conformidad con el artículo 112 del mencionado Reglamento, el 01 de enero de 2007 la \nDirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), comunicó el pasado 27 de febrero, que se había producido el arrollamiento de una persona resultando",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "Una persona de 67 años resultó arrollada a las 22:05 horas del 27 de febrero de 2007 en el paso entre andenes de la estación de Sant Vicenç de Calders (PK 618,000, línea Madrid-Barcelona). La víctima cruzaba un paso entarimado situado al final del andén (lado Tarragona) al paso del tren de Viajeros Larga Distancia nº 15997 de Renfe, compuesto por la locomotora 252-040 y 29 coches con masa remolcada de 455 Tm, que efectuaba paso directo (sin parada prescrita) por vía I. El maquinista observó a la persona cruzando de izquierda a derecha (sentido de avance del tren), hizo uso del silbato y aplicó el freno de urgencia a 76 km/h, deteniéndose completamente tras avanzar 275 m, sin poder evitar el arrollamiento. El tren estuvo detenido 53 minutos. No se produjeron daños materiales ni en instalaciones ni en material móvil. La Guardia Civil procedió al levantamiento del cadáver a las 23:52.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR EL OPERADOR FERROVIARIO. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por Adif concluye “El arrollamiento se produce como consecuencia de cruzar \nindebidamente las vías la persona accidentada, no percatándose de la llegada del tren 15997”.  \nEl elaborado por Renfe Operadora establece que “Imprudencia de la víctima que cruzó la \nvía por el paso entarimado entre andenes, en vez de por el paso inferior existente en la \nestación”.  \nPor tanto, ambas conclusiones son coincidentes entre sí en cuanto a la causa del accidente.",
+   "pagina": 6,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Cruce indebido de las vías por la persona accidentada a través del paso entarimado entre andenes, en lugar de utilizar el paso inferior existente, sin percatarse de la llegada del tren 15997",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Escasa visibilidad en el paso entre andenes limitada por curva",
+    "Ausencia de señalización prohibitiva (cartelones) en el paso entre andenes para personas no autorizadas",
+    "Falta de rampa o acceso para personas de movilidad reducida en el paso inferior, lo que puede incentivar el uso del paso entre andenes"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "A la vista de los datos recogidos por el Administrador de la infraestructura y de la \ninvestigación realizada, se estima que el accidente tuvo su origen en el uso indebido del paso \nentre andenes para cruzar las vías, en lugar de utilizar el paso inferior existente en la estación \nde Sant Vicenç de Calders.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES A la vista de los datos recogidos por el Administrador de la infraestructura y de la investigación realizada, se estima que el accidente tuvo su origen en el uso indebido del paso entre andenes para cr",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "A la vista de los datos recogidos por el Administrador de la infraestructura y de la \ninvestigación realizada, se estima que el accidente tuvo su origen en el uso indebido del paso \nentre andenes para cruzar las vías, en lugar de utilizar el paso inferior existente en la estación \nde Sant Vicenç de Calders.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES A la vista de los datos recogidos por el Administrador de la infraestructura y de la investigación realizada, se estima que el accidente tuvo su origen en el uso indebido del paso entre andenes para cr",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Realizar un estudio para la adecuación de las instalaciones de la estación de forma que se garantice el acceso a personas de movilidad reducida a los distintos andenes sin tener que utilizar el paso entre andenes destinado únicamente al personal ferroviario autorizado",
+     "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+    },
+    {
+     "texto": "Señalizar el paso entre andenes con cartelones que prohíban el acceso al mismo a personas no autorizadas",
+     "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "22:05",
+     "evento": "Arrollamiento de la persona por el tren 15997 en el paso entarimado entre andenes"
+    },
+    {
+     "hora": "22:05",
+     "evento": "El maquinista usa silbato y aplica freno de urgencia a 76 km/h; el tren para tras 275 m"
+    },
+    {
+     "hora": "22:58",
+     "evento": "El tren reanuda su marcha tras 53 minutos detenido"
+    },
+    {
+     "hora": "23:52",
+     "evento": "La Guardia Civil procede al levantamiento del cadáver"
+    },
+    {
+     "hora": null,
+     "evento": "Extracción de la memoria estática de la locomotora 252-040 (desfase horario de -6 minutos)"
+    },
+    {
+     "hora": null,
+     "evento": "Prueba de alcoholemia al maquinista: resultado negativo (0,00 mg/1000 ml)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0014/2007",
+ "expediente": "0014/2007",
+ "anio": 2007,
+ "titulo": "Arrollamiento de una persona en el paso entre andenes de la estación de Sant Vicenç de Calders",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-270207-200607-DGF_14_Sant Vicenç de Calders.md"
+}

@@ -1,0 +1,876 @@
+{
+ "id": "IF-300708-2-281108-CIAF_Fuengirola-Málaga",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/AA7C5752-80FB-4CD2-9CA5-40D5E9992BC5/46966/IF300708281108CIAF.pdf",
+ "pdf": "pdfs/ES/IF-300708-2-281108-CIAF_Fuengirola-Málaga.pdf",
+ "md5_pdf": "0c18034f3b1e45853afc973905b56a93",
+ "paginas_md": 9,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 6,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0032/2008",
+   "pagina": 1,
+   "cita": "nº 0032/2008 ocurrido el 30.07.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 30 de julio de 2008, a las 18:05 horas, el tren de cercanías 23351 de Renfe Operadora arrolló a una persona en el P.K. 8,870 de la línea 436 Fuengirola-Málaga, entre los apeaderos de Aeropuerto y San Julián. La víctima, un varón de 65 años, falleció, mientras que la mujer que lo acompañaba resultó ilesa. El accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado mientras circulaba el tren. El material rodante y la infraestructura funcionaron correctamente y no se establecieron recomendaciones.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-07-30",
+    "hora": "18:05",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "8,870",
+     "linea": "436 Fuengirola-Málaga",
+     "provincia": "Málaga",
+     "descripcion_lugar": "Plena vía entre los apeaderos de Aeropuerto y San Julián; en curva, terraplén, de difícil acceso y vallado por ambos lados."
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 30 de julio de 2008, a las 18:05 horas, el tren de viajeros de cercanías 23351, de la empresa",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Circulación normal suspendida durante 21 minutos; marcha a la vista entre Aeropuerto y Aguja Km. 11,3 desde las 18:30 hasta las 21:00 horas; retrasos en ocho trenes de cercanías entre Fuengirola y Málaga."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Tránsito de la víctima por un lugar no autorizado para ello en el momento que circulaba el tren de viajeros 23351.",
+   "pagina": 2,
+   "cita": "Conclusión: El accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "-Dadas las características del accidente, no se establecen recomendaciones. \n \n \n \nMadrid, 28 de noviembre de 2008. \n \n \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0032/2008 ocurrido el 30.07.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-300708-281108-CIAF \n \n \nPág. 8 de 9\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0032/2008 \nOCURRIDO EL DÍA 30.07.2008 \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0032/2008 ocurrido el 30.07.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-300708-281108-CIAF \n \n \nPág. 9 de 9\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día \n28 de noviembre de 2008, analizado el expediente nº 0032/2008; del accidente acaecido en el \nP.K. 8,870 de la línea 436 Fuengirola-Málaga, el 30.07.2008; se aprueba como definitivo el \ninforme particular presentado por el técnico investigador con la siguiente recomendación: \n- Dadas las características del accidente, no se establecen recomendaciones. \n \nMadrid, 28 de noviembre de 2008",
+   "pagina": 7,
+   "cita": "6. RECOMENDACIONES -Dadas las características del accidente, no se establecen recomendaciones. Madrid, 28 de noviembre de 2008. ## Página 8 Investigación del accidente nº 0032/2008 ocurrido el 30.07",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento",
+   "pagina": 2,
+   "cita": "Investigación de accidentes ferroviarios que se había producido el arrollamiento de una persona por",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "ferroviaria Renfe Operadora, arrolla a una persona que caminaba junto a otra por la vía en el P.K.",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-07-30",
+   "pagina": 2,
+   "cita": "El día 30 de julio de 2008, a las 18:05 horas, el tren de viajeros de cercanías 23351, de la empresa",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "18:05",
+   "pagina": 2,
+   "cita": "El día 30 de julio de 2008, a las 18:05 horas, el tren de viajeros de cercanías 23351, de la empresa",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "8,870",
+    "linea": "436 Fuengirola-Málaga",
+    "provincia": "Málaga",
+    "descripcion_lugar": "Plena vía entre los apeaderos de Aeropuerto y San Julián; en curva, terraplén, de difícil acceso y vallado por ambos lados."
+   },
+   "pagina": 2,
+   "cita": "8,870 de la línea 436 Fuengirola-Málaga, perteneciente a la Red Ferroviaria de Interés General",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "436 Fuengirola-Málaga",
+   "pagina": 2,
+   "cita": "8,870 de la línea 436 Fuengirola-Málaga, perteneciente a la Red Ferroviaria de Interés General",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Automotor 446098; matrícula UIC 967194460986; 3 vehículos; masa remolcada 220 Tm.",
+    "averia": "No se produjeron daños; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 30 de julio de 2008, a las 18:05 horas, el tren de viajeros de cercanías 23351, de Renfe Operadora, formado por el automotor 446098, 3 vehículos y una masa remolcada de 220 Tm, circulaba por el punto kilométrico 8,870 de la línea 436 Fuengirola-Málaga, en plena vía, entre los apeaderos de Aeropuerto y San Julián.\n\nEl tren arrolló a una persona que caminaba junto con otra por la caja de la vía y de espaldas al tren. La víctima, un varón de 65 años, fue desplazada fuera del gálibo de la vía, mientras que la mujer que lo acompañaba resultó ilesa. Según el parte del maquinista, al percibir a dos personas andando por la vía hizo uso del silbato y del frenado de urgencia; una se quitó y la otra no, siendo arrollada.\n\nTras detenerse el tren, el maquinista comunicó el suceso al Puesto de Mando de Málaga. A las 18:26 horas el tren implicado reanudó la marcha; a las 18:44 horas los servicios médicos de bomberos comunicaron que la víctima resultaba cadáver; a las 19:05 horas se personaron agentes de la Policía Judicial; a las 20:20 horas llegaron los servicios forenses; a las 20:38 horas llegaron los servicios funerarios y se levantó el cadáver; a las 21:00 horas se reanudó la circulación en condiciones normales.",
+   "pagina": 2,
+   "cita": "1. RESUMEN El día 30 de julio de 2008, a las 18:05 horas, el tren de viajeros de cercanías 23351, de la empresa ferroviaria Renfe Operadora, arrolla a una persona que caminaba junto a otra por la vía en el P.K. 8,870",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "8,870",
+    "linea": "436 Fuengirola-Málaga",
+    "provincia": "Málaga",
+    "descripcion_lugar": "Plena vía entre los apeaderos de Aeropuerto y San Julián; en curva, terraplén, de difícil acceso y vallado por ambos lados."
+   },
+   "pagina": 2,
+   "cita": "8,870 de la línea 436 Fuengirola-Málaga, perteneciente a la Red Ferroviaria de Interés General",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Circulación normal suspendida durante 21 minutos; marcha a la vista entre Aeropuerto y Aguja Km. 11,3 desde las 18:30 hasta las 21:00 horas; retrasos en ocho trenes de cercanías entre Fuengirola y Málaga."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 23351",
+     "implicacion": "Matrícula 9683509. Percibió a dos personas andando por la vía, actuó con silbato y frenado de urgencia; su actuación fue correcta. Poseía título de conducción y habilitación; prueba de alcoholemia negativa (0,00 mg/1000 ml)."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El Maquinista principal del tren 23351",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "23351",
+     "tipo": "Tren de viajeros de cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "No se produjeron daños en el material rodante."
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 30 de julio de 2008, a las 18:05 horas, el tren de viajeros de cercanías 23351, de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Automotor 446098; matrícula UIC 967194460986; 3 vehículos; masa remolcada 220 Tm.",
+    "averia": "No se produjeron daños; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C).",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "90 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "En curva y en terraplén, de difícil acceso y vallado por ambos lados.",
+    "otro": "Radiotelefonía A. Los sistemas de control de la infraestructura funcionaban correctamente."
+   },
+   "pagina": 3,
+   "cita": "Trayecto de vía única con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C).",
+   "pagina": 3,
+   "cita": "Trayecto de vía única con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Circulación normal suspendida durante 21 minutos; marcha a la vista entre Aeropuerto y Aguja Km. 11,3 desde las 18:30 hasta las 21:00 horas; retrasos en ocho trenes de cercanías entre Fuengirola y Málaga."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Circulación normal suspendida durante 21 minutos; marcha a la vista entre Aeropuerto y Aguja Km. 11,3 desde las 18:30 hasta las 21:00 horas; retrasos en ocho trenes de cercanías entre Fuengirola y Málaga."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-300708-281108-CIAF Pág. 1 de 9 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0032/2008",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura ni al medio ambiente.",
+    "afectacion_servicio": "Circulación normal suspendida durante 21 minutos; marcha a la vista entre Aeropuerto y Aguja Km. 11,3 desde las 18:30 hasta las 21:00 horas; retrasos en ocho trenes de cercanías entre Fuengirola y Málaga."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 446098; matrícula UIC 967194460986; 3 vehículos; masa remolcada 220 Tm.",
+    "averia": "No se produjeron daños; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C).",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "90 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "En curva y en terraplén, de difícil acceso y vallado por ambos lados.",
+    "otro": "Radiotelefonía A. Los sistemas de control de la infraestructura funcionaban correctamente."
+   },
+   "pagina": 3,
+   "cita": "Trayecto de vía única con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "De día, con condiciones atmosféricas buenas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Málaga",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 2,
+   "cita": "8,870 de la línea 436 Fuengirola-Málaga, perteneciente a la Red Ferroviaria de Interés General",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "De día, con condiciones atmosféricas buenas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C).",
+   "pagina": 3,
+   "cita": "Trayecto de vía única con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C).",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "90 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "En curva y en terraplén, de difícil acceso y vallado por ambos lados.",
+    "otro": "Radiotelefonía A. Los sistemas de control de la infraestructura funcionaban correctamente."
+   },
+   "pagina": 3,
+   "cita": "Trayecto de vía única con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 446098; matrícula UIC 967194460986; 3 vehículos; masa remolcada 220 Tm.",
+    "averia": "No se produjeron daños; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Víctima transita por vía no autorizada",
+    "Compañera camina junto a vía",
+    "Persona camina de espaldas al tren"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 30 de julio de 2008, a las 18:05 horas, el tren de viajeros de cercanías 23351, de Renfe Operadora, formado por el automotor 446098, 3 vehículos y una masa remolcada de 220 Tm, circulaba por el punto kilométrico 8,870 de la línea 436 Fuengirola-Málaga, en plena vía, entre los apeaderos de Aeropuerto y San Julián.\n\nEl tren arrolló a una persona que caminaba junto con otra por la caja de la vía y de espaldas al tren. La víctima, un varón de 65 años, fue desplazada fuera del gálibo de la vía, mientras que la mujer que lo acompañaba resultó ilesa. Según el parte del maquinista, al percibir a dos personas andando por la vía hizo uso del silbato y del frenado de urgencia; una se quitó y la otra no, siendo arrollada.\n\nTras detenerse el tren, el maquinista comunicó el suceso al Puesto de Mando de Málaga. A las 18:26 horas el tren implicado reanudó la marcha; a las 18:44 horas los servicios médicos de bomberos comunicaron que la víctima resultaba cadáver; a las 19:05 horas se personaron agentes de la Policía Judicial; a las 20:20 horas llegaron los servicios forenses; a las 20:38 horas llegaron los servicios funerarios y se levantó el cadáver; a las 21:00 horas se reanudó la circulación en condiciones normales.",
+   "pagina": 2,
+   "cita": "1. RESUMEN El día 30 de julio de 2008, a las 18:05 horas, el tren de viajeros de cercanías 23351, de la empresa ferroviaria Renfe Operadora, arrolla a una persona que caminaba junto a otra por la vía en el P.K. 8,870",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl lugar del accidente es en plena vía, en el P.K. 8,870 de la línea 436 Fuengirola-Málaga, entre los \napeaderos de Aeropuerto y San Julián, en la provincia de Málaga. Es un lugar de difícil acceso, en \nterraplén y vallado por ambos márgenes. \nSegún el registrador de seguridad del automotor, el tren circulaba a una velocidad inferior a la \nmáxima permitida en el tramo. \nSegún el análisis de la memoria estática del registrador de seguridad, momentos antes del \narrollamiento, el maquinista actuó sobre el freno de emergencia, por lo que su actuación fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasas de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario. \nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \n\n## Página 7\n\n \n \n \nInvestigación del accidente \nnº 0032/2008 ocurrido el 30.07.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-300708-281108-CIAF \n \n \nPág. 7 de 9\nA efectos de la causalidad del accidente se ha podido comprobar que: \nTanto el funcionamiento de la infraestructura como la actuación del maquinista, se ajustan a la \nnormativa y no influyeron en el desarrollo de los hechos. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \n- El accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado para ello en el \nmomento que circulaba el tren de viajeros 23351.",
+   "pagina": 6,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Tránsito de la víctima por un lugar no autorizado para ello en el momento que circulaba el tren de viajeros 23351.",
+   "pagina": 2,
+   "cita": "Conclusión: El accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Víctima transita por vía no autorizada",
+    "Compañera camina junto a vía",
+    "Persona camina de espaldas al tren"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "-Dadas las características del accidente, no se establecen recomendaciones. \n \n \n \nMadrid, 28 de noviembre de 2008. \n \n \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0032/2008 ocurrido el 30.07.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-300708-281108-CIAF \n \n \nPág. 8 de 9\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0032/2008 \nOCURRIDO EL DÍA 30.07.2008 \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0032/2008 ocurrido el 30.07.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-300708-281108-CIAF \n \n \nPág. 9 de 9\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día \n28 de noviembre de 2008, analizado el expediente nº 0032/2008; del accidente acaecido en el \nP.K. 8,870 de la línea 436 Fuengirola-Málaga, el 30.07.2008; se aprueba como definitivo el \ninforme particular presentado por el técnico investigador con la siguiente recomendación: \n- Dadas las características del accidente, no se establecen recomendaciones. \n \nMadrid, 28 de noviembre de 2008",
+   "pagina": 7,
+   "cita": "6. RECOMENDACIONES -Dadas las características del accidente, no se establecen recomendaciones. Madrid, 28 de noviembre de 2008. ## Página 8 Investigación del accidente nº 0032/2008 ocurrido el 30.07",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "18:05",
+     "evento": "Arrollamiento de una persona por el tren de cercanías 23351 en el P.K. 8,870."
+    },
+    {
+     "hora": "18:26",
+     "evento": "El tren implicado en el accidente reanuda la marcha."
+    },
+    {
+     "hora": "18:30",
+     "evento": "Se prescribe marcha a la vista entre Aeropuerto y Aguja Km. 11,3."
+    },
+    {
+     "hora": "18:44",
+     "evento": "Los servicios médicos de bomberos comunican que la víctima resulta cadáver."
+    },
+    {
+     "hora": "19:05",
+     "evento": "Agentes de la Policía Judicial se personan en el lugar de los hechos."
+    },
+    {
+     "hora": "19:47",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif comunica a la CIAF la producción del arrollamiento."
+    },
+    {
+     "hora": "20:20",
+     "evento": "Los servicios forenses se presentan en el lugar del arrollamiento."
+    },
+    {
+     "hora": "20:38",
+     "evento": "Llegan los servicios funerarios y se procede al levantamiento del cadáver."
+    },
+    {
+     "hora": "21:00",
+     "evento": "Se reanuda la circulación en condiciones normales."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0032/2008",
+ "expediente": "0032/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento mortal de peatón por tren de cercanías en la línea 436 Fuengirola-Málaga, P.K. 8,870 (Málaga)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-300708-2-281108-CIAF_Fuengirola-Málaga.md"
+}

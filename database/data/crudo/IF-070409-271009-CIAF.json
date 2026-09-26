@@ -1,0 +1,873 @@
+{
+ "id": "IF-070409-271009-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/161606C0-F640-4F6E-8B25-CDB8298D2C3C/66730/CIAF_00192009.pdf",
+ "pdf": "pdfs/ES/IF-070409-271009-CIAF.pdf",
+ "md5_pdf": "fe09335d90c9274e8c9c9df17e3bd40c",
+ "paginas_md": 10,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 5,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0019/2009",
+   "pagina": 1,
+   "cita": "nº 0019/2009 ocurrido el 07.04.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2009-04-07, a las 20:04, el tren de larga distancia 407 de Renfe Operadora arrolló a una niña de 13 años que cruzaba por el paso entre andenes de la estación de Las Navas del Marqués (Ávila). El tren circulaba por la vía 1 a una velocidad inferior a la máxima permitida, y el maquinista usó el silbato y el freno de emergencia. La víctima fue trasladada con vida al hospital Nuestra Señora de Sonsoles de Ávila y falleció en la madrugada del día siguiente. La CIAF concluye que el origen del accidente fue el tránsito de la víctima por el paso entre andenes sin percatarse de que el tren 407 circulaba por la estación. No se establecen recomendaciones.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-04-07",
+    "hora": "20:04",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Las Navas del Marqués",
+     "pk": "83,700",
+     "linea": "100 Madrid - Hendaya",
+     "provincia": "Ávila",
+     "descripcion_lugar": "Paso entre andenes de placas de hormigón, en la estación de Las Navas del Marqués, tramo Santa María de la Alameda – Herradón Cañada."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 7 de abril de 2009, a las 20:04 horas, el tren de viajeros 407, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Vía 1 interceptada de 20:06 a 20:35; ambas vías generales interrumpidas de 20:48 a 21:07; tren 407 con 29 minutos de retraso; tres trenes de media distancia con un retraso total de 63 minutos."
+   },
+   "pagina": 6,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "El tránsito de la víctima por el paso entre andenes sin percatarse de que, en ese momento, el tren 407 circulaba por la estación.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en el tránsito de la víctima por el paso entre andenes sin",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima cruzaba acompañada de otra persona.",
+    "En el mismo momento, el tren de viajeros 18006 circulaba por la vía 2, lo que pudo distraer la atención de la víctima."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones. \n \n \n \n \n \n \n \nMadrid, 27 de octubre de 2009.",
+   "pagina": 10,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones. Madrid, 27 de octubre de 2009.",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento",
+   "pagina": 3,
+   "cita": "arrollamiento de una de ellas.",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "Renfe Operadora, arrolla a una persona que cruzaba por un paso entre andenes en la estación de Las",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-04-07",
+   "pagina": 3,
+   "cita": "El día 7 de abril de 2009, a las 20:04 horas, el tren de viajeros 407, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "20:04",
+   "pagina": 3,
+   "cita": "El día 7 de abril de 2009, a las 20:04 horas, el tren de viajeros 407, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Las Navas del Marqués",
+    "pk": "83,700",
+    "linea": "100 Madrid - Hendaya",
+    "provincia": "Ávila",
+    "descripcion_lugar": "Paso entre andenes de placas de hormigón, en la estación de Las Navas del Marqués, tramo Santa María de la Alameda – Herradón Cañada."
+   },
+   "pagina": 3,
+   "cita": "Estación de Las Navas del Marqués, P.K. 83,700",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 100 Madrid - Hendaya",
+   "pagina": 9,
+   "cita": "situada en el punto kilométrico 83,700 de la línea 100 Madrid - Hendaya.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 252019; tren 407; Nº UIC 957102510195; tipo 160 B; 22 vehículos; 322 Tn de masa remolcada",
+    "averia": "No se producen daños; los equipos de seguridad del tren funcionaron correctamente; antes de aplicar el freno de emergencia, el tren circulaba a 86 km/h",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 7 de abril de 2009, a las 20:04 horas, el tren de viajeros de larga distancia 407 de Renfe Operadora, procedente de Madrid Chamartín y con destino París, sin parada prescrita en Las Navas del Marqués, arrolló a una niña que cruzaba por el paso entre andenes de la estación. El tren circulaba por la vía 1 y la víctima cruzaba acompañada de otra persona, de izquierda a derecha en el sentido de la marcha.\n\nEl maquinista, al percatarse de la presencia de las dos personas, hizo uso del silbato y del freno de emergencia, sin lograr evitar el arrollamiento de una de ellas. En ese mismo momento, el tren de viajeros 18006 circulaba por la vía 2 de la estación.\n\nLa víctima fue trasladada con vida al hospital Nuestra Señora de Sonsoles de Ávila, donde falleció en la madrugada del día ocho. La vía 1 quedó interceptada desde las 20:06 hasta las 20:35 horas, y la circulación por ambas vías generales se interrumpió desde las 20:48 hasta las 21:07 horas.",
+   "pagina": 3,
+   "cita": "1. RESUMEN El día 7 de abril de 2009, a las 20:04 horas, el tren de viajeros 407, de la empresa ferroviaria Renfe Operadora, arrolla a una persona que cruzaba por un paso entre andenes en la estación de Las Navas del",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Las Navas del Marqués",
+    "pk": "83,700",
+    "linea": "100 Madrid - Hendaya",
+    "provincia": "Ávila",
+    "descripcion_lugar": "Paso entre andenes de placas de hormigón, en la estación de Las Navas del Marqués, tramo Santa María de la Alameda – Herradón Cañada."
+   },
+   "pagina": 3,
+   "cita": "Estación de Las Navas del Marqués, P.K. 83,700",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Vía 1 interceptada de 20:06 a 20:35; ambas vías generales interrumpidas de 20:48 a 21:07; tren 407 con 29 minutos de retraso; tres trenes de media distancia con un retraso total de 63 minutos."
+   },
+   "pagina": 6,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 407",
+     "implicacion": "Matrícula 9753997; habilitado conforme a la Orden FOM/2520/2006; al observar a dos personas usó el silbato y el freno de emergencia; no se le realizó prueba de alcoholemia."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "407",
+     "tipo": "tren de viajeros de larga distancia",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños en el material rodante"
+    },
+    {
+     "numero": "18006",
+     "tipo": "tren de viajeros",
+     "operador": null,
+     "danos": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "El tren de viajeros de larga distancia 407 de Renfe Operadora, procedente de Madrid Chamartín y",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 252019; tren 407; Nº UIC 957102510195; tipo 160 B; 22 vehículos; 322 Tn de masa remolcada",
+    "averia": "No se producen daños; los equipos de seguridad del tren funcionaron correctamente; antes de aplicar el freno de emergencia, el tren circulaba a 86 km/h",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 4,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.); carteles de peligro en el paso entre andenes",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "90 km/h para trenes tipo B al paso por la estación",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Estación en alineación recta, completamente iluminada, con buena visibilidad; paso entre andenes de placas de hormigón en buen estado",
+    "otro": "Radiotelefonía modalidad A; en julio Adif adjudicó obras de un paso inferior peatonal dentro de la renovación integral del tramo El Escorial – La Cañada; media semanal de circulaciones del tramo: 539"
+   },
+   "pagina": 5,
+   "cita": "Vía doble electrificada con bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.); carteles de peligro en el paso entre andenes",
+   "pagina": 5,
+   "cita": "Vía doble electrificada con bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Vía 1 interceptada de 20:06 a 20:35; ambas vías generales interrumpidas de 20:48 a 21:07; tren 407 con 29 minutos de retraso; tres trenes de media distancia con un retraso total de 63 minutos."
+   },
+   "pagina": 3,
+   "cita": "El tren de viajeros de larga distancia 407 de Renfe Operadora, procedente de Madrid Chamartín y",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Vía 1 interceptada de 20:06 a 20:35; ambas vías generales interrumpidas de 20:48 a 21:07; tren 407 con 29 minutos de retraso; tres trenes de media distancia con un retraso total de 63 minutos."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Vía 1 interceptada de 20:06 a 20:35; ambas vías generales interrumpidas de 20:48 a 21:07; tren 407 con 29 minutos de retraso; tres trenes de media distancia con un retraso total de 63 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252019; tren 407; Nº UIC 957102510195; tipo 160 B; 22 vehículos; 322 Tn de masa remolcada",
+    "averia": "No se producen daños; los equipos de seguridad del tren funcionaron correctamente; antes de aplicar el freno de emergencia, el tren circulaba a 86 km/h",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.); carteles de peligro en el paso entre andenes",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "90 km/h para trenes tipo B al paso por la estación",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Estación en alineación recta, completamente iluminada, con buena visibilidad; paso entre andenes de placas de hormigón en buen estado",
+    "otro": "Radiotelefonía modalidad A; en julio Adif adjudicó obras de un paso inferior peatonal dentro de la renovación integral del tramo El Escorial – La Cañada; media semanal de circulaciones del tramo: 539"
+   },
+   "pagina": 5,
+   "cita": "Vía doble electrificada con bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Despejado y con buena visibilidad",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Ávila",
+    "municipio": null,
+    "estacion": "Las Navas del Marqués"
+   },
+   "pagina": 3,
+   "cita": "Navas del Marqués (Ávila).",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Despejado y con buena visibilidad",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.); carteles de peligro en el paso entre andenes",
+   "pagina": 5,
+   "cita": "Vía doble electrificada con bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.); carteles de peligro en el paso entre andenes",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "90 km/h para trenes tipo B al paso por la estación",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Estación en alineación recta, completamente iluminada, con buena visibilidad; paso entre andenes de placas de hormigón en buen estado",
+    "otro": "Radiotelefonía modalidad A; en julio Adif adjudicó obras de un paso inferior peatonal dentro de la renovación integral del tramo El Escorial – La Cañada; media semanal de circulaciones del tramo: 539"
+   },
+   "pagina": 5,
+   "cita": "Vía doble electrificada con bloqueo automático (B.A.B.) y control de tráfico centralizado (C.T.C.).",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252019; tren 407; Nº UIC 957102510195; tipo 160 B; 22 vehículos; 322 Tn de masa remolcada",
+    "averia": "No se producen daños; los equipos de seguridad del tren funcionaron correctamente; antes de aplicar el freno de emergencia, el tren circulaba a 86 km/h",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Cruce por paso entre andenes",
+    "No percatarse del tren",
+    "Falta paso inferior peatonal",
+    "Otro tren pudo distraer"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 7 de abril de 2009, a las 20:04 horas, el tren de viajeros de larga distancia 407 de Renfe Operadora, procedente de Madrid Chamartín y con destino París, sin parada prescrita en Las Navas del Marqués, arrolló a una niña que cruzaba por el paso entre andenes de la estación. El tren circulaba por la vía 1 y la víctima cruzaba acompañada de otra persona, de izquierda a derecha en el sentido de la marcha.\n\nEl maquinista, al percatarse de la presencia de las dos personas, hizo uso del silbato y del freno de emergencia, sin lograr evitar el arrollamiento de una de ellas. En ese mismo momento, el tren de viajeros 18006 circulaba por la vía 2 de la estación.\n\nLa víctima fue trasladada con vida al hospital Nuestra Señora de Sonsoles de Ávila, donde falleció en la madrugada del día ocho. La vía 1 quedó interceptada desde las 20:06 hasta las 20:35 horas, y la circulación por ambas vías generales se interrumpió desde las 20:48 hasta las 21:07 horas.",
+   "pagina": 3,
+   "cita": "1. RESUMEN El día 7 de abril de 2009, a las 20:04 horas, el tren de viajeros 407, de la empresa ferroviaria Renfe Operadora, arrolla a una persona que cruzaba por un paso entre andenes en la estación de Las Navas del",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. \nDELIBERACIÓN \nEl accidente tuvo lugar en el paso entre andenes de la estación de Las Navas del Marqués (Ávila), \nsituada en el punto kilométrico 83,700 de la línea 100 Madrid - Hendaya. \nDel análisis del registrador de seguridad del vehículo motor se desprende que el tren circulaba a \nuna velocidad inferior a su máxima permitida en el tramo. \nSegún lo declarado por el maquinista, al ver dos personas cruzando por el paso entre andenes hizo \nuso del silbato y del freno de emergencia, por lo que la actuación del maquinista fue correcta. \nLas jornadas de trabajo del maquinista cumplen lo establecido en la Disposición adicional \nduodécima del Reglamento del Sector Ferroviario (RD 2387/2004, de 30 de diciembre): Tiempos \nmáximos de conducción en el transporte ferroviario.  \nEl paso entre andenes está en buen estado y dotado de carteles de peligro. \nLos equipos de seguridad del tren y las instalaciones técnicas funcionaban correctamente en el \nmomento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nEn el momento en que el tren 407 efectuaba su entrada en la estación, realizaba su paso por la vía \n2 el tren de viajeros 18006,  lo que pudo distraer la atención de la víctima. \n \n4.2. \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en el tránsito de la víctima por el paso entre andenes sin percatarse de \nque, en ese momento, el tren 407 circulaba por la estación.  \n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0019/2009 ocurrido el 07.04.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-070409-271009-CIAF \n \n \nPág. 10 de 10",
+   "pagina": 9,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "El tránsito de la víctima por el paso entre andenes sin percatarse de que, en ese momento, el tren 407 circulaba por la estación.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en el tránsito de la víctima por el paso entre andenes sin",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima cruzaba acompañada de otra persona.",
+    "En el mismo momento, el tren de viajeros 18006 circulaba por la vía 2, lo que pudo distraer la atención de la víctima."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones. \n \n \n \n \n \n \n \nMadrid, 27 de octubre de 2009.",
+   "pagina": 10,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones. Madrid, 27 de octubre de 2009.",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "20:04",
+     "evento": "El tren de viajeros 407 arrolla a una niña que cruzaba por el paso entre andenes de la estación de Las Navas del Marqués."
+    },
+    {
+     "hora": "20:06",
+     "evento": "La vía 1 queda interceptada."
+    },
+    {
+     "hora": "20:35",
+     "evento": "Finaliza la interceptación de la vía 1."
+    },
+    {
+     "hora": "20:48",
+     "evento": "Se interrumpe la circulación por ambas vías generales para evacuar a la víctima."
+    },
+    {
+     "hora": "21:07",
+     "evento": "Se restablece la circulación por ambas vías generales."
+    },
+    {
+     "hora": null,
+     "evento": "En la madrugada del 2009-04-08, la víctima fallece en el hospital Nuestra Señora de Sonsoles de Ávila."
+    },
+    {
+     "hora": "10:42",
+     "evento": "El 2009-04-08, el coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0019/2009",
+ "expediente": "0019/09",
+ "anio": 2009,
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0019/2009 OCURRIDO EL DÍA 07.04.2009 EN LA ESTACIÓN DE LAS NAVAS DEL MARQUÉS (ÁVILA)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-070409-271009-CIAF.md"
+}

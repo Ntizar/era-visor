@@ -1,0 +1,935 @@
+{
+ "id": "IF_140813_251114_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/9E903E92-7D83-4E28-A1FE-7683992F755E/128253/IF140813251114CIAF1.pdf",
+ "pdf": "pdfs/ES/IF_140813_251114_CIAF.pdf",
+ "md5_pdf": "317953c23f0010389c10dada143b8820",
+ "paginas_md": 21,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 19,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0056/2013",
+   "pagina": 1,
+   "cita": "nº 0056/2013 ocurrido el 14.08.2013",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 14 de agosto de 2013 a las 08:58 horas, el tren de mercancías 81811 de Renfe Operadora (origen Castellbisbal, destino Vicálvaro Clasificación) rebasó indebidamente la señal de salida S1/1 en indicación de parada en la estación de Torralba (línea 200 Madrid Chamartín – Barcelona Estació de França). Se produjo un conato de colisión con el tren de media distancia 17301 (Soria-Madrid) que circulaba por la misma vía 1 en el mismo sentido, a 1873 metros de distancia. El sistema ASFA activó el freno de emergencia y el tren se detuvo 48 metros tras la señal. No hubo víctimas ni daños materiales. La investigación concluyó que el incidente se originó por incumplimiento de las órdenes de las señales por parte del personal de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2013-08-14",
+    "hora": "08:58",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Torralba",
+     "pk": "157+520",
+     "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+     "provincia": "Soria",
+     "descripcion_lugar": "Estación de Torralba, señal de salida S1/1, PK 157+520, vía 1. Tramo Torralba – Arcos de Jalón. Municipio de Medinaceli. Estación integrada en CTC Madrid-Chamartín. Vía 1 de 666 m en rampa de 10 milésimas y curva a la derecha."
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 14 de agosto de 2013 a las 08:58 horas el tren de mercancías 81811 de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "No se produjo interceptación de la vía. No hubo retrasos generales, excepto el propio tren 81811 que sufrió un retraso de 3 horas y 20 minutos."
+   },
+   "pagina": 11,
+   "cita": "No se produjo interceptación de la vía.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Rebase indebido de la señal de salida S1/1 en indicación de parada (rojo) por el tren 81811, por incumplimiento de las órdenes dadas por las señales al personal de conducción (artículos 217 y 320 del Reglamento General de Circulación).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El tren 81811 circulaba a 40 km/h en la estación y a 30 km/h al pasar la baliza de S1/1, lo que no permitió detenerse a tiempo tras la activación del ASFA.",
+    "Ausencia de baliza previa en la señal de salida S1/1 en el momento del incidente (se instaló posteriormente), lo que limitó la información anticipada al maquinista.",
+    "La señal S1/1 se encontraba en curva y rampa de subida, lo que según el maquinista dificultaba la percepción (aunque el videográfico confirma que la señal estaba en rojo y tenía buena visibilidad).",
+    "No existía ninguna señal intermedia entre el tren 81811 y el 17301 que pudiera ordenar parada al primero tras el rebase.",
+    "El BLAD no permitía abrir S1/1 hasta que el tren precedente llegara a Sigüenza, lo que mantenía la señal en rojo de forma prolongada."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Fallo humano en la conducción no detectado ni mitigado antes del suceso.",
+    "Ausencia de baliza previa en señal de salida en curva y rampa (subsanada por Adif)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 5,
+   "cita": "Recomendación Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones. 2. HECHOS INMEDIATOS DEL SUCESO 2.1. SUCESO 2.1.1. Datos Día / Hora: 14.08.2013 / 08:58 Lugar: Estación d",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 5,
+   "cita": "Recomendación Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones. 2. HECHOS INMEDIATOS DEL SUCESO 2.1. SUCESO 2.1.1. Datos Día / Hora: 14.08.2013 / 08:58 Lugar: Estación d",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente ferroviario",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "Renfe Operadora, con origen Castellbisbal y con destino Vicálvaro Clasificación, rebasó indebidamente",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2013-08-14",
+   "pagina": 5,
+   "cita": "El día 14 de agosto de 2013 a las 08:58 horas el tren de mercancías 81811 de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "08:58",
+   "pagina": 5,
+   "cita": "El día 14 de agosto de 2013 a las 08:58 horas el tren de mercancías 81811 de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Torralba",
+    "pk": "157+520",
+    "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+    "provincia": "Soria",
+    "descripcion_lugar": "Estación de Torralba, señal de salida S1/1, PK 157+520, vía 1. Tramo Torralba – Arcos de Jalón. Municipio de Medinaceli. Estación integrada en CTC Madrid-Chamartín. Vía 1 de 666 m en rampa de 10 milésimas y curva a la derecha."
+   },
+   "pagina": 5,
+   "cita": "la señal S1/1 que se encontraba en indicación de parada en la estación de Torralba ubicada en la línea",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 200 Madrid Chamartín – Barcelona Estació de França",
+   "pagina": 5,
+   "cita": "la señal S1/1 que se encontraba en indicación de parada en la estación de Torralba ubicada en la línea",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tren 81811: locomotora serie 253 (253061) + 16 vagones, 64 ejes, 224 m, 364 t. Tren 17301: automotor serie 594, 2 coches, 8 ejes, 48 m, 101 t.",
+    "averia": "Ninguna. El material rodante funcionó correctamente. ASFA funcionó correctamente activando freno de emergencia.",
+    "mantenimiento": "No se mencionan deficiencias de mantenimiento. Instalaciones técnicas funcionaron correctamente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "Los hechos tuvieron lugar el 14 de agosto de 2013 a las 08:58 horas en la estación de Torralba (PK 157+520), línea 200 Madrid Chamartín – Barcelona Estació de França, tramo Torralba – Arcos de Jalón, municipio de Medinaceli (Soria). El tren de mercancías 81811 de Renfe Operadora, con origen Castellbisbal y destino Vicálvaro Clasificación, se aproximó a la estación con la señal avanzada E'1 en anuncio de parada y la señal de entrada E1 en indicación de parada. Se detuvo ante E1 unos 1 minuto y 50 segundos mientras se establecía itinerario de entrada a vía 1. Una vez reanudada la marcha, el tren circuló por vía 1 a unos 40 km/h. La señal de salida S1/1 permaneció en indicación de parada (rojo) en todo momento según el videográfico del enclavamiento. Al pasar por la baliza de pie de S1/1 a 30 km/h, el ASFA activó el freno de emergencia, pero el tren rebasó la señal y se detuvo 48 metros más allá. En ese momento, el tren de media distancia 17301 (Soria-Madrid) circulaba por la misma vía 1 en el mismo sentido, a 1873 metros de distancia, habiendo realizado su paso por vía 1S a las 08:54:23. No existía ninguna señal intermedia que ordenase parada al tren 81811, lo que generó el conato de colisión. El maquinista del 81811 declaró que la señal S1/1 había cambiado de rojo a verde y de nuevo a rojo, pero el análisis del enclavamiento confirmó que la señal permaneció en rojo durante toda la secuencia y no se detectó disolución artificial de itinerario (DAI).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Torralba",
+    "pk": "157+520",
+    "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+    "provincia": "Soria",
+    "descripcion_lugar": "Estación de Torralba, señal de salida S1/1, PK 157+520, vía 1. Tramo Torralba – Arcos de Jalón. Municipio de Medinaceli. Estación integrada en CTC Madrid-Chamartín. Vía 1 de 666 m en rampa de 10 milésimas y curva a la derecha."
+   },
+   "pagina": 5,
+   "cita": "la señal S1/1 que se encontraba en indicación de parada en la estación de Torralba ubicada en la línea",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "No se produjo interceptación de la vía. No hubo retrasos generales, excepto el propio tren 81811 que sufrió un retraso de 3 horas y 20 minutos."
+   },
+   "pagina": 11,
+   "cita": "No se produjo interceptación de la vía.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 81811 (matrícula 9693441)",
+     "implicacion": "Incumplió los artículos 217 y 320 del RGC al no detenerse ante señal de parada y no concentrar atención en las indicaciones. Retirado del servicio, sometido a reciclaje formativo, simulador y acompañamiento por tutor."
+    },
+    {
+     "rol": "Maquinista del tren 17301 (matrícula 8869752)",
+     "implicacion": "Sin implicación en la causa del incidente. Circulaba correctamente por itinerario establecido."
+    },
+    {
+     "rol": "Jefe de circulación estación de Torralba (matrícula 7773575)",
+     "implicacion": "Sin implicación en la causa. Itinerarios establecidos (movimientos 32 y 28) eran correctos y acordes a la consigna A."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "81811",
+     "tipo": "mercancías",
+     "operador": "Renfe Operadora",
+     "danos": "No se produjeron daños materiales en el material rodante."
+    },
+    {
+     "numero": "17301",
+     "tipo": "media distancia (viajeros)",
+     "operador": "Renfe Operadora",
+     "danos": "No se produjeron daños materiales en el material rodante."
+    }
+   ],
+   "pagina": 5,
+   "cita": "El día 14 de agosto de 2013 a las 08:58 horas el tren de mercancías 81811 de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tren 81811: locomotora serie 253 (253061) + 16 vagones, 64 ejes, 224 m, 364 t. Tren 17301: automotor serie 594, 2 coches, 8 ejes, 48 m, 101 t.",
+    "averia": "Ninguna. El material rodante funcionó correctamente. ASFA funcionó correctamente activando freno de emergencia.",
+    "mantenimiento": "No se mencionan deficiencias de mantenimiento. Instalaciones técnicas funcionaron correctamente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1/1: alta luminosa de 2 focos más foco blanco de rebase autorizado, con baliza de pie de señal. Buena visibilidad. Permaneció en rojo (parada) durante toda la secuencia. Señal de entrada E1 con baliza previa. Señal avanzada E'1. No había baliza previa en S1/1 en el momento del incidente (instalada posteriormente).",
+    "tipo_via": "Vía doble electrificada (línea 200, tramo Guadalajara-Ariza) y vía única sin electrificar (línea 202 Torralba-Castejón). Estación con vías 1, 1S, 2 y 3. Vía 1: 666 m, rampa 10 milésimas, curva derecha.",
+    "velocidad_maxima": "Tren 81811: tipo 100 (100 km/h). Tren 17301: no especificada en informe.",
+    "ancho": "Ibérico (implícito en la red RFIG española)",
+    "electrificacion": "Línea 200: electrificada. Línea 202: sin electrificar.",
+    "estado_via": "Correcto. No se detectaron anomalías. Estación en mando local en el momento del rebase.",
+    "otro": "Bloqueo de Liberación Automática (BLAD) en tramo Guadalajara-Ariza. CTC Madrid-Chamartín. Enclavamiento con videográfico. Consigna A nº 2426. Movimientos 32 y 42 incompatibles. Radiotelefonía modalidad A y C."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de salida S1/1: alta luminosa de 2 focos más foco blanco de rebase autorizado, con baliza de pie de señal. Buena visibilidad. Permaneció en rojo (parada) durante toda la secuencia. Señal de entrada E1 con baliza previa. Señal avanzada E'1. No había baliza previa en S1/1 en el momento del incidente (instalada posteriormente).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad A y C, y teléfono corporativo. \nSeñal S1/1 y detalle de las trayectorias de los trenes. \n(Fuente: Renfe Operadora). \nVía 1 \nVía 2 \nTren 81811 \nTren 17301 \nMADRID \nBARCELONA \n\n## Página 11\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0056/2013 ocurrido el 14.08.2013 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-140813-251114-CIAF \n \n \nPág. 11 de 21",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "No se produjo interceptación de la vía. No hubo retrasos generales, excepto el propio tren 81811 que sufrió un retraso de 3 horas y 20 minutos."
+   },
+   "pagina": 9,
+   "cita": "Tren de viajeros 17301, formado por el automotor de la serie 594, 2 coches, 8 ejes, 48 metros y 101",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "No se produjo interceptación de la vía. No hubo retrasos generales, excepto el propio tren 81811 que sufrió un retraso de 3 horas y 20 minutos."
+   },
+   "pagina": 11,
+   "cita": "No se produjo interceptación de la vía.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "No se produjo interceptación de la vía. No hubo retrasos generales, excepto el propio tren 81811 que sufrió un retraso de 3 horas y 20 minutos."
+   },
+   "pagina": 11,
+   "cita": "No se produjo interceptación de la vía.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 81811: locomotora serie 253 (253061) + 16 vagones, 64 ejes, 224 m, 364 t. Tren 17301: automotor serie 594, 2 coches, 8 ejes, 48 m, 101 t.",
+    "averia": "Ninguna. El material rodante funcionó correctamente. ASFA funcionó correctamente activando freno de emergencia.",
+    "mantenimiento": "No se mencionan deficiencias de mantenimiento. Instalaciones técnicas funcionaron correctamente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1/1: alta luminosa de 2 focos más foco blanco de rebase autorizado, con baliza de pie de señal. Buena visibilidad. Permaneció en rojo (parada) durante toda la secuencia. Señal de entrada E1 con baliza previa. Señal avanzada E'1. No había baliza previa en S1/1 en el momento del incidente (instalada posteriormente).",
+    "tipo_via": "Vía doble electrificada (línea 200, tramo Guadalajara-Ariza) y vía única sin electrificar (línea 202 Torralba-Castejón). Estación con vías 1, 1S, 2 y 3. Vía 1: 666 m, rampa 10 milésimas, curva derecha.",
+    "velocidad_maxima": "Tren 81811: tipo 100 (100 km/h). Tren 17301: no especificada en informe.",
+    "ancho": "Ibérico (implícito en la red RFIG española)",
+    "electrificacion": "Línea 200: electrificada. Línea 202: sin electrificar.",
+    "estado_via": "Correcto. No se detectaron anomalías. Estación en mando local en el momento del rebase.",
+    "otro": "Bloqueo de Liberación Automática (BLAD) en tramo Guadalajara-Ariza. CTC Madrid-Chamartín. Enclavamiento con videográfico. Consigna A nº 2426. Movimientos 32 y 42 incompatibles. Radiotelefonía modalidad A y C."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "No existían condiciones meteorológicas adversas en el momento del suceso.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Soria",
+    "municipio": null,
+    "estacion": "Torralba"
+   },
+   "pagina": 5,
+   "cita": "Soria ## Página 6 A MINISTERIO DE FOMENTO SUBSECRETARÍA Investigación del incidente nº 0056/2013 ocurrido el 14.08.2013 Informe final COMISIÓN DE INVESTIGACIÓN DE ACCIDENTES FERROVIARIOS IF-140813-25111",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "No existían condiciones meteorológicas adversas en el momento del suceso.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de salida S1/1: alta luminosa de 2 focos más foco blanco de rebase autorizado, con baliza de pie de señal. Buena visibilidad. Permaneció en rojo (parada) durante toda la secuencia. Señal de entrada E1 con baliza previa. Señal avanzada E'1. No había baliza previa en S1/1 en el momento del incidente (instalada posteriormente).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1/1: alta luminosa de 2 focos más foco blanco de rebase autorizado, con baliza de pie de señal. Buena visibilidad. Permaneció en rojo (parada) durante toda la secuencia. Señal de entrada E1 con baliza previa. Señal avanzada E'1. No había baliza previa en S1/1 en el momento del incidente (instalada posteriormente).",
+    "tipo_via": "Vía doble electrificada (línea 200, tramo Guadalajara-Ariza) y vía única sin electrificar (línea 202 Torralba-Castejón). Estación con vías 1, 1S, 2 y 3. Vía 1: 666 m, rampa 10 milésimas, curva derecha.",
+    "velocidad_maxima": "Tren 81811: tipo 100 (100 km/h). Tren 17301: no especificada en informe.",
+    "ancho": "Ibérico (implícito en la red RFIG española)",
+    "electrificacion": "Línea 200: electrificada. Línea 202: sin electrificar.",
+    "estado_via": "Correcto. No se detectaron anomalías. Estación en mando local en el momento del rebase.",
+    "otro": "Bloqueo de Liberación Automática (BLAD) en tramo Guadalajara-Ariza. CTC Madrid-Chamartín. Enclavamiento con videográfico. Consigna A nº 2426. Movimientos 32 y 42 incompatibles. Radiotelefonía modalidad A y C."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad A y C, y teléfono corporativo. \nSeñal S1/1 y detalle de las trayectorias de los trenes. \n(Fuente: Renfe Operadora). \nVía 1 \nVía 2 \nTren 81811 \nTren 17301 \nMADRID \nBARCELONA \n\n## Página 11\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0056/2013 ocurrido el 14.08.2013 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-140813-251114-CIAF \n \n \nPág. 11 de 21",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 81811: locomotora serie 253 (253061) + 16 vagones, 64 ejes, 224 m, 364 t. Tren 17301: automotor serie 594, 2 coches, 8 ejes, 48 m, 101 t.",
+    "averia": "Ninguna. El material rodante funcionó correctamente. ASFA funcionó correctamente activando freno de emergencia.",
+    "mantenimiento": "No se mencionan deficiencias de mantenimiento. Instalaciones técnicas funcionaron correctamente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "El tren 81811 circulaba a 40 km/h en la estación y a 30 km/h al pasar la baliza de S1/1, lo que no permitió detenerse a tiempo tras la activación del ASFA.",
+    "Ausencia de baliza previa en la señal de salida S1/1 en el momento del incidente (se instaló posteriormente), lo que limitó la información anticipada al maquinista.",
+    "La señal S1/1 se encontraba en curva y rampa de subida, lo que según el maquinista dificultaba la percepción (aunque el videográfico confirma que la señal estaba en rojo y tenía buena visibilidad).",
+    "No existía ninguna señal intermedia entre el tren 81811 y el 17301 que pudiera ordenar parada al primero tras el rebase.",
+    "El BLAD no permitía abrir S1/1 hasta que el tren precedente llegara a Sigüenza, lo que mantenía la señal en rojo de forma prolongada."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 81811 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene una antigüedad en el cargo de fecha 19/06/1996. \nRealizó su último reciclaje formativo el 08.02.2013 y su último reconocimiento médico y psicotécnico el \n16.10.2009, conforme a la normativa vigente. \n\n## Página 13\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0056/2013 ocurrido el 14.08.2013 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-140813-251114-CIAF \n \n \nPág. 13 de 21 \nEl maquinista del tren 17301 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene una antigüedad en el cargo de fecha 02.01.2007. \nRealizó su último reciclaje formativo el 15.07.2011 y su último reconocimiento médico y psicotécnico el \n02.04.2013, conforme a la normativa vigente. \nEl jefe de circulación está habilitado conforme a la Orden FOM/2872/2010, de 5 de noviembre por la \nque se determinan las condiciones para la obtención de títulos y habilitaciones que permiten el \nejercicio de las funciones del personal ferroviario relacionadas con la seguridad. \nRealizó su último reciclaje formativo el 31.01.2012 y su último reconocimiento médico y psicotécnico el \n09.07.2013, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 12,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "Los hechos tuvieron lugar el 14 de agosto de 2013 a las 08:58 horas en la estación de Torralba (PK 157+520), línea 200 Madrid Chamartín – Barcelona Estació de França, tramo Torralba – Arcos de Jalón, municipio de Medinaceli (Soria). El tren de mercancías 81811 de Renfe Operadora, con origen Castellbisbal y destino Vicálvaro Clasificación, se aproximó a la estación con la señal avanzada E'1 en anuncio de parada y la señal de entrada E1 en indicación de parada. Se detuvo ante E1 unos 1 minuto y 50 segundos mientras se establecía itinerario de entrada a vía 1. Una vez reanudada la marcha, el tren circuló por vía 1 a unos 40 km/h. La señal de salida S1/1 permaneció en indicación de parada (rojo) en todo momento según el videográfico del enclavamiento. Al pasar por la baliza de pie de S1/1 a 30 km/h, el ASFA activó el freno de emergencia, pero el tren rebasó la señal y se detuvo 48 metros más allá. En ese momento, el tren de media distancia 17301 (Soria-Madrid) circulaba por la misma vía 1 en el mismo sentido, a 1873 metros de distancia, habiendo realizado su paso por vía 1S a las 08:54:23. No existía ninguna señal intermedia que ordenase parada al tren 81811, lo que generó el conato de colisión. El maquinista del 81811 declaró que la señal S1/1 había cambiado de rojo a verde y de nuevo a rojo, pero el análisis del enclavamiento confirmó que la señal permaneció en rojo durante toda la secuencia y no se detectó disolución artificial de itinerario (DAI).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Rebase indebido de la señal de salida S1/1 en indicación de parada (rojo) por el tren 81811, por incumplimiento de las órdenes dadas por las señales al personal de conducción (artículos 217 y 320 del Reglamento General de Circulación).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El tren 81811 circulaba a 40 km/h en la estación y a 30 km/h al pasar la baliza de S1/1, lo que no permitió detenerse a tiempo tras la activación del ASFA.",
+    "Ausencia de baliza previa en la señal de salida S1/1 en el momento del incidente (se instaló posteriormente), lo que limitó la información anticipada al maquinista.",
+    "La señal S1/1 se encontraba en curva y rampa de subida, lo que según el maquinista dificultaba la percepción (aunque el videográfico confirma que la señal estaba en rojo y tenía buena visibilidad).",
+    "No existía ninguna señal intermedia entre el tren 81811 y el 17301 que pudiera ordenar parada al primero tras el rebase.",
+    "El BLAD no permitía abrir S1/1 hasta que el tren precedente llegara a Sigüenza, lo que mantenía la señal en rojo de forma prolongada."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 5,
+   "cita": "Recomendación Considerando adecuadas las medidas adoptadas, no se establecen recomendaciones. 2. HECHOS INMEDIATOS DEL SUCESO 2.1. SUCESO 2.1.1. Datos Día / Hora: 14.08.2013 / 08:58 Lugar: Estación d",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "08:48:56",
+     "evento": "Tren 17301 tiene establecido itinerario de salida hacia Madrid por vía 1S. Tren 81811 se aproxima a señal E1. Señal S1/1 en parada."
+    },
+    {
+     "hora": "08:50:22",
+     "evento": "Tren 81811 pasa a 85 km/h por baliza de pie de señal avanzada E'1 (anuncio de parada)."
+    },
+    {
+     "hora": "08:52:44",
+     "evento": "Tren 81811 pasa a 14 km/h por baliza previa de señal de entrada E1 (parada)."
+    },
+    {
+     "hora": "08:53:44",
+     "evento": "Tren 81811 se detiene ante señal E1 en indicación de parada."
+    },
+    {
+     "hora": "08:54:23",
+     "evento": "Tren 17301 pasa a 38 km/h por baliza de pie de señal de salida S1/1S (vía 1S), dirección Madrid."
+    },
+    {
+     "hora": "08:55:14",
+     "evento": "Se establece itinerario de entrada a vía 1 para tren 81811. E1 pasa a anuncio de parada. S1/1 continúa en parada (rojo)."
+    },
+    {
+     "hora": "08:55:35",
+     "evento": "Tren 81811 reanuda marcha, pasa baliza de pie de E1 a 9 km/h (anuncio de parada)."
+    },
+    {
+     "hora": "08:57:57",
+     "evento": "ASFA activa freno de emergencia al pasar tren 81811 por baliza de pie de S1/1 (parada) a 30 km/h."
+    },
+    {
+     "hora": "08:58:04",
+     "evento": "Tren 81811 rebasa indebidamente señal S1/1. Tren 17301 a 1873 m en la vía 1, mismo sentido. Conato de colisión."
+    },
+    {
+     "hora": "08:58:06",
+     "evento": "Tren 81811 se detiene 48 metros tras la señal S1/1."
+    },
+    {
+     "hora": "10:48",
+     "evento": "Jefe de investigación de accidentes de Adif comunica el suceso a la CIAF por telefonía móvil."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0056/2013",
+ "expediente": "0056/13",
+ "anio": 2013,
+ "titulo": "Incidente ferroviario en estación de Torralba (Soria): rebase de señal y conato de colisión",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_140813_251114_CIAF.md"
+}

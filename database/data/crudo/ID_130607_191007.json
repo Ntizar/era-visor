@@ -1,0 +1,905 @@
+{
+ "id": "ID_130607_191007",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID_130607_191007.pdf",
+ "pdf": "pdfs/ES/ID_130607_191007.pdf",
+ "md5_pdf": "b2e9b472a8de5836f432c2f6713f60e7",
+ "paginas_md": 6,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 10,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0037/2007",
+   "pagina": 1,
+   "cita": "nº 0037/2007 ocurrido el 13.06.2007",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 13 de junio de 2007, a las 03:35, una persona fue arrollada por el tren de mercancías 93556 en el punto kilométrico 93/250 de la línea Madrid-Barcelona vía Caspe, entre Reus y Vilaseca (Tarragona). La víctima falleció en el acto y fue localizada por la Policía Local de Vilaseca. El tren circulaba a 84 km/h (máximo 100 km/h) en un tramo recto, de noche y con condiciones meteorológicas buenas. El accidente se clasificó como grave y fue investigado por la Dirección General de Ferrocarriles. Las conclusiones apuntan a la imprudencia de la víctima, que invadió el gálibo de la vía.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-06-13",
+    "hora": "03:35",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Vilaseca (apeadero)",
+     "pk": "93/250",
+     "linea": "Madrid - Barcelona vía Caspe",
+     "provincia": "Tarragona",
+     "descripcion_lugar": "Plena vía, próximo al apeadero de Vilaseca, entre Reus y Vilaseca. Tramo en recta, vallado aunque no en su totalidad, con puntos por los que es posible el acceso a las vías."
+    }
+   },
+   "pagina": 3,
+   "cita": "lo hizo aproximadamente a las 03:35 horas, se observan restos de un arrollamiento en el",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "9 minutos de retraso acumulado en 2 trenes Regionales, 5 minutos en 1 tren de Larga Distancia y 27 minutos en 4 trenes de Mercancías. Marcha a la vista por ambas vías desde las 04:00 hasta las 07:05."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Imprudencia de la víctima que invadió el gálibo de la vía al paso del tren",
+   "pagina": 5,
+   "cita": "El accidente tuvo su origen en la imprudencia de la víctima que invadió el gálibo de la vía al",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Tránsito indebido por las inmediaciones de la vía",
+    "Vallado no íntegro con puntos de acceso a las vías",
+    "Circulación nocturna (reducción de visibilidad para el maquinista)"
+   ],
+   "pagina": 5,
+   "cita": "El elaborado por Adif concluye “El arrollamiento se produce como consecuencia de un",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Desconocimiento de las causas de la conducta de la víctima"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Revisar el vallado de dicho tramo, eliminando posibles puntos de entrada a las vías.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril.",
+     "destinatario": "Adif / Administrador de infraestructuras"
+    }
+   ],
+   "pagina": 5,
+   "cita": "Revisar el vallado de dicho tramo, eliminando posibles puntos de entrada a las vías.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Revisar el vallado de dicho tramo, eliminando posibles puntos de entrada a las vías.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril.",
+     "destinatario": "Adif / Administrador de infraestructuras"
+    }
+   ],
+   "pagina": 5,
+   "cita": "Revisar el vallado de dicho tramo, eliminando posibles puntos de entrada a las vías.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe Operadora"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó por mensaje de telefonía móvil que se había producido el arrollamiento de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-06-13",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "03:35",
+   "pagina": 3,
+   "cita": "lo hizo aproximadamente a las 03:35 horas, se observan restos de un arrollamiento en el",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Vilaseca (apeadero)",
+    "pk": "93/250",
+    "linea": "Madrid - Barcelona vía Caspe",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Plena vía, próximo al apeadero de Vilaseca, entre Reus y Vilaseca. Tramo en recta, vallado aunque no en su totalidad, con puntos por los que es posible el acceso a las vías."
+   },
+   "pagina": 2,
+   "cita": "una persona resultando fallecida la misma, en el punto kilométrico 93/250 de la Línea Madrid -",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Madrid - Barcelona vía Caspe",
+   "pagina": 2,
+   "cita": "Línea Madrid - Barcelona vía Caspe.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 289039",
+    "averia": "Restos de arrollamiento en el estribo derecho",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "La Policía Local de Vilaseca encontró el cadáver de una persona en las proximidades de la vía a la altura del punto kilométrico 93/250 de la línea Madrid-Barcelona vía Caspe. Una vez localizado el último tren que pasó por ese punto, el tren de mercancías 93556 con locomotora 289039 (27 vagones, 687 toneladas), que lo hizo aproximadamente a las 03:35, se observaron restos de un arrollamiento en el estribo derecho de la locomotora. El maquinista declaró que no se enteró de nada y fue avisado por el Centro de Gestión a las 09:30 de la mañana. No se realizó control de alcoholemia por el tiempo transcurrido. El accidente produjo perturbaciones menores en la circulación y no causó daños materiales al tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Vilaseca (apeadero)",
+    "pk": "93/250",
+    "linea": "Madrid - Barcelona vía Caspe",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Plena vía, próximo al apeadero de Vilaseca, entre Reus y Vilaseca. Tramo en recta, vallado aunque no en su totalidad, con puntos por los que es posible el acceso a las vías."
+   },
+   "pagina": 2,
+   "cita": "una persona resultando fallecida la misma, en el punto kilométrico 93/250 de la Línea Madrid -",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "9 minutos de retraso acumulado en 2 trenes Regionales, 5 minutos en 1 tren de Larga Distancia y 27 minutos en 4 trenes de Mercancías. Marcha a la vista por ambas vías desde las 04:00 hasta las 07:05."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 93556",
+     "implicacion": "Matrícula 9755182. No se enteró del arrollamiento. Jornada previa: 4 horas y 10 minutos. Jornadas de 24 y 48 horas anteriores: descanso. No se realizó control de alcoholemia por el tiempo transcurrido."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "93556",
+     "tipo": "tren de mercancías",
+     "operador": "Renfe Operadora",
+     "danos": "Restos de un arrollamiento en el estribo derecho de la locomotora 289039. No se produjeron daños materiales significativos."
+    }
+   ],
+   "pagina": 3,
+   "cita": "Mercancías 93556, con locomotora 289039, compuesto de 27 vagones y 687 toneladas), que",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 289039",
+    "averia": "Restos de arrollamiento en el estribo derecho",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático en vía doble",
+    "tipo_via": "vía doble",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Tramo en recta, vallado aunque no en su totalidad, con puntos de acceso posibles a las vías",
+    "otro": "Red Ferroviaria de Interés General administrada por Adif"
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático en vía doble.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo Automático en vía doble",
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático en vía doble.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "9 minutos de retraso acumulado en 2 trenes Regionales, 5 minutos en 1 tren de Larga Distancia y 27 minutos en 4 trenes de Mercancías. Marcha a la vista por ambas vías desde las 04:00 hasta las 07:05."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "9 minutos de retraso acumulado en 2 trenes Regionales, 5 minutos en 1 tren de Larga Distancia y 27 minutos en 4 trenes de Mercancías. Marcha a la vista por ambas vías desde las 04:00 hasta las 07:05."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "9 minutos de retraso acumulado en 2 trenes Regionales, 5 minutos en 1 tren de Larga Distancia y 27 minutos en 4 trenes de Mercancías. Marcha a la vista por ambas vías desde las 04:00 hasta las 07:05."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 289039",
+    "averia": "Restos de arrollamiento en el estribo derecho",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático en vía doble",
+    "tipo_via": "vía doble",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Tramo en recta, vallado aunque no en su totalidad, con puntos de acceso posibles a las vías",
+    "otro": "Red Ferroviaria de Interés General administrada por Adif"
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático en vía doble.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche, condiciones meteorológicas buenas. Tramo en recta sin trincheras que disminuyan la visibilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Tarragona",
+    "municipio": null,
+    "estacion": "Vilaseca"
+   },
+   "pagina": 2,
+   "cita": "Barcelona vía Caspe, entre Reus y Vilaseca, en la provincia de Tarragona, perteneciente a la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche, condiciones meteorológicas buenas. Tramo en recta sin trincheras que disminuyan la visibilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo Automático en vía doble",
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático en vía doble.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático en vía doble",
+    "tipo_via": "vía doble",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Tramo en recta, vallado aunque no en su totalidad, con puntos de acceso posibles a las vías",
+    "otro": "Red Ferroviaria de Interés General administrada por Adif"
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático en vía doble.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 289039",
+    "averia": "Restos de arrollamiento en el estribo derecho",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "tránsito indebido por inmediaciones de la vía",
+    "invadió el gálibo al paso del tren",
+    "acceso posible a las vías existentes"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(Adif), comunicó por mensaje de telefonía móvil que se había producido el arrollamiento de \nuna persona resultando fallecida la misma, en el punto kilométrico 93/250 de la Línea Madrid - \nBarcelona vía Caspe, entre Reus y Vilaseca, en la provincia de Tarragona, perteneciente a la \nRed Ferroviaria de Interés General administrada por Adif. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles de acuerdo \ncon el citado artículo.  \nDe conformidad con el artículo 112 del mencionado Reglamento, el 1 de julio de 2007 la \nDirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios para el periodo comprendido entre el 01.07.07 al 31.08.07 compuesto por las \nsiguientes personas para este accidente: \n \nTécnico responsable de la investigación del accidente: un funcionario adscrito a la \nDirección General de Ferrocarriles, que suscribe este informe. \n \nResponsable de seguridad de Adif en la zona Noreste: entregó su informe particular del \naccidente el 14.09.07. \n \nResponsable de seguridad de Renfe: entregó su informe particular del accidente el \n19.07.07. \nLa empresa pública INECO S.A. en el marco del convenio de colaboración suscrito con la \nDirección General de Ferrocarriles el 26.09.06 ha realizado trabajos de apoyo en la \ninvestigación de este accidente al Técnico responsable de la misma.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), comunicó por mensaje de telefonía móvil que se había producido el arrollamiento de una persona resul",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "La Policía Local de Vilaseca encontró el cadáver de una persona en las proximidades de la vía a la altura del punto kilométrico 93/250 de la línea Madrid-Barcelona vía Caspe. Una vez localizado el último tren que pasó por ese punto, el tren de mercancías 93556 con locomotora 289039 (27 vagones, 687 toneladas), que lo hizo aproximadamente a las 03:35, se observaron restos de un arrollamiento en el estribo derecho de la locomotora. El maquinista declaró que no se enteró de nada y fue avisado por el Centro de Gestión a las 09:30 de la mañana. No se realizó control de alcoholemia por el tiempo transcurrido. El accidente produjo perturbaciones menores en la circulación y no causó daños materiales al tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR LA EMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por Adif concluye “El arrollamiento se produce como consecuencia de un \ntránsito indebido por las inmediaciones de la vía”. \nEl elaborado por RENFE concluye “Posible imprudencia de la víctima”.  \nPor tanto, ambas conclusiones son coincidentes en cuanto a la causa del accidente.",
+   "pagina": 5,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Imprudencia de la víctima que invadió el gálibo de la vía al paso del tren",
+   "pagina": 5,
+   "cita": "El accidente tuvo su origen en la imprudencia de la víctima que invadió el gálibo de la vía al",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Tránsito indebido por las inmediaciones de la vía",
+    "Vallado no íntegro con puntos de acceso a las vías",
+    "Circulación nocturna (reducción de visibilidad para el maquinista)"
+   ],
+   "pagina": 5,
+   "cita": "El elaborado por Adif concluye “El arrollamiento se produce como consecuencia de un",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "El accidente tuvo su origen en la imprudencia de la víctima que invadió el gálibo de la vía al \npaso del tren, desconociéndose las causas de dicha conducta.",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES El accidente tuvo su origen en la imprudencia de la víctima que invadió el gálibo de la vía al paso del tren, desconociéndose las causas de dicha conducta. 7. RECOMENDACIONES Estimamos convenien",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "El accidente tuvo su origen en la imprudencia de la víctima que invadió el gálibo de la vía al \npaso del tren, desconociéndose las causas de dicha conducta.",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES El accidente tuvo su origen en la imprudencia de la víctima que invadió el gálibo de la vía al paso del tren, desconociéndose las causas de dicha conducta. 7. RECOMENDACIONES Estimamos convenien",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Revisar el vallado de dicho tramo, eliminando posibles puntos de entrada a las vías.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril.",
+     "destinatario": "Adif / Administrador de infraestructuras"
+    }
+   ],
+   "pagina": 5,
+   "cita": "Revisar el vallado de dicho tramo, eliminando posibles puntos de entrada a las vías.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "03:35",
+     "evento": "Arrollamiento de la persona por el tren de mercancías 93556 en el PK 93/250"
+    },
+    {
+     "hora": null,
+     "evento": "La Policía Local de Vilaseca encuentra el cadáver y avisa al Puesto de Mando"
+    },
+    {
+     "hora": "04:00",
+     "evento": "Se prescribe marcha a la vista por ambas vías hasta el levantamiento del cadáver"
+    },
+    {
+     "hora": "06:55",
+     "evento": "Se procede al levantamiento del cadáver"
+    },
+    {
+     "hora": "07:05",
+     "evento": "Se reanuda la circulación normal en ambas vías"
+    },
+    {
+     "hora": "09:30",
+     "evento": "El maquinista es informado por el Centro de Gestión de los restos de arrollamiento en la locomotora"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0037/2007",
+ "expediente": "0037/2007",
+ "anio": 2007,
+ "titulo": "Arrollamiento de persona por tren de mercancías entre Reus y Vilaseca (Tarragona)",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID_130607_191007.md"
+}

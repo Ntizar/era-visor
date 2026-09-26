@@ -1,0 +1,910 @@
+{
+ "id": "ID-010307-140907-DGF",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-010307-140907-DGF.pdf",
+ "pdf": "pdfs/ES/ID-010307-140907-DGF.pdf",
+ "md5_pdf": "fa6c00a6e95015648373f32997ee01e5",
+ "paginas_md": 6,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 9,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0018/2007",
+   "pagina": 1,
+   "cita": "nº 0018/2007 ocurrido el 01.03.2007",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 1 de marzo de 2007, a las 17:22, un tren de Media Distancia de Renfe arrolló a un peatón que caminaba por el centro de la vía en el PK 5/350 de la línea 430, entre Valchillón y Córdoba El Higuerón. El maquinista observó a la persona, accionó silbato y freno de emergencia a 105 km/h, pero no pudo evitar el impacto. La víctima, un varón, falleció en el acto. No hubo daños materiales en el tren ni en la infraestructura. La causa fue la imprudencia del peatón por transitar indebidamente por la vía.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-03-01",
+    "hora": "17:22",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "5/350",
+     "linea": "430 Bifurcación Córdoba El Higuerón a Málaga",
+     "provincia": "Córdoba",
+     "descripcion_lugar": "Plena vía entre las estaciones de Valchillón y Córdoba El Higuerón, a la salida de una curva de 179 m de transición con radio 972 m. Vía única electrificada en BAU con C.T.C. Visibilidad de 200 m desde el punto del arrollamiento."
+    }
+   },
+   "pagina": 2,
+   "cita": "De conformidad con el artículo 112 del mencionado Reglamento, el 1 de marzo de 2007 la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en el tren ni en la infraestructura",
+    "afectacion_servicio": "Incidencia de 2 h 38 min (17:22 a 20:00). Retraso al tren 3067: 43 min. Retraso al tren 696 AV-LD: 10 min. Retraso al tren 3058 MD: 21 min. Marcha a la Vista prescrita entre PK 5/200 y 5/400 hasta levantamiento del cadáver."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Imprudencia de la víctima (D. Manuel Rodríguez Risque) al transitar indebidamente por la vía, de espaldas al tren, sin percatarse de su llegada e ignorando las señales acústicas (silbato).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Visibilidad limitada a 200 m por la curva de radio 972 m",
+    "La víctima caminaba en el mismo sentido de la marcha del tren, de espaldas a él",
+    "Velocidad del tren de 105 km/h en el momento de la frenada de emergencia"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Falta de cerramiento en la línea que permite el acceso de peatones a la vía"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Intensificar el Plan de instalación de cerramientos de las líneas.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 5,
+   "cita": "Intensificar el Plan de instalación de cerramientos de las líneas.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Intensificar el Plan de instalación de cerramientos de las líneas.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 5,
+   "cita": "Intensificar el Plan de instalación de cerramientos de las líneas.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento de una persona",
+   "pagina": 2,
+   "cita": "(Adif), comunicó por mensaje de correo electrónico que se había producido el arrollamiento de",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó por mensaje de correo electrónico que se había producido el arrollamiento de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-03-01",
+   "pagina": 2,
+   "cita": "De conformidad con el artículo 112 del mencionado Reglamento, el 1 de marzo de 2007 la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "17:22",
+   "pagina": 4,
+   "cita": "La incidencia tuvo una duración de 2 horas y 38 minutos, desde las 17:22 horas del día 1",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "5/350",
+    "linea": "430 Bifurcación Córdoba El Higuerón a Málaga",
+    "provincia": "Córdoba",
+    "descripcion_lugar": "Plena vía entre las estaciones de Valchillón y Córdoba El Higuerón, a la salida de una curva de 179 m de transición con radio 972 m. Vía única electrificada en BAU con C.T.C. Visibilidad de 200 m desde el punto del arrollamiento."
+   },
+   "pagina": 2,
+   "cita": "una persona resultando fallecida la misma, en el punto kilométrico 5/350 de la Línea 430",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 430 Bifurcación Córdoba El Higuerón a Málaga",
+   "pagina": 2,
+   "cita": "kilométrico 5/350 de la Línea 430 Bifurcación Córdoba El Higuerón a Málaga.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Vehículo motor 470014",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "El tren de viajeros de Media Distancia 3067 de la empresa ferroviaria Renfe, con vehículo",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros de Media Distancia 3067 de Renfe, con vehículo motor 470014, compuesto por 3 vehículos y 196 toneladas, procedente de Bobadilla con destino Córdoba, circulaba por la línea 430 (Bifurcación Córdoba El Higuerón a Málaga) en vía única electrificada con Bloqueo Automático de vía única con C.T.C. A la salida de una curva de 179 metros de transición y radio 972 metros, en el punto kilométrico 5/350, el maquinista observó a un hombre caminando en el mismo sentido de la marcha del tren por el centro de la caja de vía. El conductor hizo uso del silbato y accionó el freno de emergencia, que se activó a una velocidad de 105 km/h (máxima permitida: 140 km/h), pero no pudo evitar el arrollamiento. La visibilidad de la vía desde el punto del arrollamiento era de 200 metros. La víctima resultó ser un varón, identificado como D. Manuel Rodríguez Risque, cuyo cadáver quedó a dos metros del carril derecho sin interceptar la vía. El tren detuvo su marcha y el maquinista informó al Puesto de Mando de Córdoba. Se cursaron avisos a los servicios de emergencia, Guardia Civil y medios sanitarios, que confirmaron el fallecimiento. El cadáver fue levantado a las 20:00 horas. La prueba de alcoholemia al maquinista fue negativa (0,00 mg/1000 ml). No se produjeron daños materiales en el tren ni en la infraestructura.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "5/350",
+    "linea": "430 Bifurcación Córdoba El Higuerón a Málaga",
+    "provincia": "Córdoba",
+    "descripcion_lugar": "Plena vía entre las estaciones de Valchillón y Córdoba El Higuerón, a la salida de una curva de 179 m de transición con radio 972 m. Vía única electrificada en BAU con C.T.C. Visibilidad de 200 m desde el punto del arrollamiento."
+   },
+   "pagina": 2,
+   "cita": "una persona resultando fallecida la misma, en el punto kilométrico 5/350 de la Línea 430",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en el tren ni en la infraestructura",
+    "afectacion_servicio": "Incidencia de 2 h 38 min (17:22 a 20:00). Retraso al tren 3067: 43 min. Retraso al tren 696 AV-LD: 10 min. Retraso al tren 3058 MD: 21 min. Marcha a la Vista prescrita entre PK 5/200 y 5/400 hasta levantamiento del cadáver."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 3067",
+     "implicacion": "Observó a la persona caminando por el centro de la vía, accionó el silbato y el freno de emergencia a 105 km/h, pero no pudo evitar el arrollamiento. Jornada previa: 6 h 5 min; 24 h anteriores: 9 h; 48 h anteriores: 8 h. Prueba de alcoholemia negativa (0,00 mg/1000 ml)."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El maquinista del tren 3067 observa a una persona caminando en el sentido de la marcha",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "3067",
+     "tipo": "Media Distancia",
+     "operador": "Renfe",
+     "danos": "No se produjeron daños"
+    },
+    {
+     "numero": "696",
+     "tipo": "Alta Velocidad - Larga Distancia",
+     "operador": null,
+     "danos": null
+    },
+    {
+     "numero": "3058",
+     "tipo": "Media Distancia",
+     "operador": null,
+     "danos": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "El tren de viajeros de Media Distancia 3067 de la empresa ferroviaria Renfe, con vehículo",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Vehículo motor 470014",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "El tren de viajeros de Media Distancia 3067 de la empresa ferroviaria Renfe, con vehículo",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático de vía única con C.T.C. (BAU)",
+    "tipo_via": "Vía única electrificada",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Sí, electrificada",
+    "estado_via": null,
+    "otro": "Curva de 179 m de transición, radio 972 m. Visibilidad de 200 m desde el punto del arrollamiento. Red Ferroviaria de Interés General administrada por Adif."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático de vía única con C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo Automático de vía única con C.T.C. (BAU)",
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático de vía única con C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en el tren ni en la infraestructura",
+    "afectacion_servicio": "Incidencia de 2 h 38 min (17:22 a 20:00). Retraso al tren 3067: 43 min. Retraso al tren 696 AV-LD: 10 min. Retraso al tren 3058 MD: 21 min. Marcha a la Vista prescrita entre PK 5/200 y 5/400 hasta levantamiento del cadáver."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en el tren ni en la infraestructura",
+    "afectacion_servicio": "Incidencia de 2 h 38 min (17:22 a 20:00). Retraso al tren 3067: 43 min. Retraso al tren 696 AV-LD: 10 min. Retraso al tren 3058 MD: 21 min. Marcha a la Vista prescrita entre PK 5/200 y 5/400 hasta levantamiento del cadáver."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en el tren ni en la infraestructura",
+    "afectacion_servicio": "Incidencia de 2 h 38 min (17:22 a 20:00). Retraso al tren 3067: 43 min. Retraso al tren 696 AV-LD: 10 min. Retraso al tren 3058 MD: 21 min. Marcha a la Vista prescrita entre PK 5/200 y 5/400 hasta levantamiento del cadáver."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Vehículo motor 470014",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "El tren de viajeros de Media Distancia 3067 de la empresa ferroviaria Renfe, con vehículo",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático de vía única con C.T.C. (BAU)",
+    "tipo_via": "Vía única electrificada",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Sí, electrificada",
+    "estado_via": null,
+    "otro": "Curva de 179 m de transición, radio 972 m. Visibilidad de 200 m desde el punto del arrollamiento. Red Ferroviaria de Interés General administrada por Adif."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático de vía única con C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Condiciones meteorológicas buenas, arrollamiento de día",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Córdoba",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 2,
+   "cita": "Bifurcación Córdoba El Higuerón a Málaga, en el trayecto Valchillón a Córdoba El Higuerón, en",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Condiciones meteorológicas buenas, arrollamiento de día",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo Automático de vía única con C.T.C. (BAU)",
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático de vía única con C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático de vía única con C.T.C. (BAU)",
+    "tipo_via": "Vía única electrificada",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Sí, electrificada",
+    "estado_via": null,
+    "otro": "Curva de 179 m de transición, radio 972 m. Visibilidad de 200 m desde el punto del arrollamiento. Red Ferroviaria de Interés General administrada por Adif."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático de vía única con C.T.C.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Vehículo motor 470014",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "El tren de viajeros de Media Distancia 3067 de la empresa ferroviaria Renfe, con vehículo",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "transitar indebidamente por la vía",
+    "caminar en sentido de la marcha",
+    "no percatarse de la llegada del tren",
+    "hacer caso omiso de señales acústicas"
+   ],
+   "pagina": 5,
+   "cita": "D. Manuel Rodríguez Risque que, al transitar indebidamente por la vía, no se percató de la",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(Adif), comunicó por mensaje de correo electrónico que se había producido el arrollamiento de \nuna persona resultando fallecida la misma, en el punto kilométrico 5/350 de la Línea 430 \nBifurcación Córdoba El Higuerón a Málaga, en el trayecto Valchillón a Córdoba El Higuerón, en \nla provincia de Córdoba, perteneciente a la Red Ferroviaria de Interés General administrada \npor Adif. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles de acuerdo \ncon el citado artículo.  \nDe conformidad con el artículo 112 del mencionado Reglamento, el 1 de marzo de 2007 la \nDirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), comunicó por mensaje de correo electrónico que se había producido el arrollamiento de una persona re",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros de Media Distancia 3067 de Renfe, con vehículo motor 470014, compuesto por 3 vehículos y 196 toneladas, procedente de Bobadilla con destino Córdoba, circulaba por la línea 430 (Bifurcación Córdoba El Higuerón a Málaga) en vía única electrificada con Bloqueo Automático de vía única con C.T.C. A la salida de una curva de 179 metros de transición y radio 972 metros, en el punto kilométrico 5/350, el maquinista observó a un hombre caminando en el mismo sentido de la marcha del tren por el centro de la caja de vía. El conductor hizo uso del silbato y accionó el freno de emergencia, que se activó a una velocidad de 105 km/h (máxima permitida: 140 km/h), pero no pudo evitar el arrollamiento. La visibilidad de la vía desde el punto del arrollamiento era de 200 metros. La víctima resultó ser un varón, identificado como D. Manuel Rodríguez Risque, cuyo cadáver quedó a dos metros del carril derecho sin interceptar la vía. El tren detuvo su marcha y el maquinista informó al Puesto de Mando de Córdoba. Se cursaron avisos a los servicios de emergencia, Guardia Civil y medios sanitarios, que confirmaron el fallecimiento. El cadáver fue levantado a las 20:00 horas. La prueba de alcoholemia al maquinista fue negativa (0,00 mg/1000 ml). No se produjeron daños materiales en el tren ni en la infraestructura.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR LA EMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por Adif concluye “…se determina como causa del accidente la imprudencia de \nD. Manuel Rodríguez Risque que, al transitar indebidamente por la vía, no se percató de la \nllegada del tren, resultando arrollado”. \nEl elaborado por Renfe concluye “Imprudencia de la víctima al transitar por la vía , de \nespaldas al tren de viajeros de Media Distancia 3067, haciendo caso omiso de las señales \nacústicas (silbato) realizadas por el maquinista, siendo inevitable el arrollamiento a pesar de la \nactuación del maquinista sobre el freno automático de emergencia”.  \nPor tanto, ambas conclusiones son coincidentes en cuanto a la causa del accidente.",
+   "pagina": 5,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Imprudencia de la víctima (D. Manuel Rodríguez Risque) al transitar indebidamente por la vía, de espaldas al tren, sin percatarse de su llegada e ignorando las señales acústicas (silbato).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Visibilidad limitada a 200 m por la curva de radio 972 m",
+    "La víctima caminaba en el mismo sentido de la marcha del tren, de espaldas a él",
+    "Velocidad del tren de 105 km/h en el momento de la frenada de emergencia"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "El accidente tuvo su origen en la imprudencia de la víctima que transitaba indebidamente \npor las vías.",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES El accidente tuvo su origen en la imprudencia de la víctima que transitaba indebidamente por las vías. 7. RECOMENDACIONES Estimamos conveniente recomendar:  Intensificar el Plan de instalació",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "El accidente tuvo su origen en la imprudencia de la víctima que transitaba indebidamente \npor las vías.",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES El accidente tuvo su origen en la imprudencia de la víctima que transitaba indebidamente por las vías. 7. RECOMENDACIONES Estimamos conveniente recomendar:  Intensificar el Plan de instalació",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Intensificar el Plan de instalación de cerramientos de las líneas.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 5,
+   "cita": "Intensificar el Plan de instalación de cerramientos de las líneas.",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "17:22",
+     "evento": "Arrollamiento de una persona por el tren MD 3067 en el PK 5/350. El maquinista observa al peatón, acciona silbato y freno de emergencia a 105 km/h, pero no puede evitar el impacto."
+    },
+    {
+     "hora": "17:22",
+     "evento": "El tren detiene su marcha. El maquinista informa al Puesto de Mando de Córdoba. Cadáver a 2 m del carril derecho, sin interceptar la vía."
+    },
+    {
+     "hora": "17:22",
+     "evento": "Se cursan avisos a Seguridad Corporativa, Protección Civil de ADIF, Gerencias Territoriales de Seguridad en la Circulación Sur de ADIF y Renfe, operadores afectados, Jefatura Técnica de Operaciones, Servicio de Mantenimiento y medios sanitarios."
+    },
+    {
+     "hora": "18:09",
+     "evento": "El Puesto de Mando de Córdoba permite reanudar la marcha al tren 3067 y prescribe Marcha a la Vista entre los PK 5/200 y 5/400 hasta el levantamiento del cadáver."
+    },
+    {
+     "hora": "20:00",
+     "evento": "La Guardia Civil y los Servicios Sanitarios confirman el fallecimiento y levantan el cadáver. Fin de la incidencia (duración total: 2 h 38 min)."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0018/2007",
+ "expediente": "0018/2007",
+ "anio": 2007,
+ "titulo": "Arrollamiento de persona por tren de Media Distancia entre Valchillón y Córdoba El Higuerón, línea 430, Córdoba",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-010307-140907-DGF.md"
+}

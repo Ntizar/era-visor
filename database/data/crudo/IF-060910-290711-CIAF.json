@@ -1,0 +1,1130 @@
+{
+ "id": "IF-060910-290711-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/72DF791E-8636-4643-B026-77135925BF5F/106331/IF060910290711CIAF.pdf",
+ "pdf": "pdfs/ES/IF-060910-290711-CIAF.pdf",
+ "md5_pdf": "9a84747478b3ab6f456d0851f22a5e2f",
+ "paginas_md": 28,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 24,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 22,
+   "cabecera": [
+    "Telefonema expedido",
+    "Telefonema recibido",
+    "Hora",
+    "",
+    "Corresponsal con el que se",
+    "Puedo expedir",
+    "",
+    "Texto"
+   ],
+   "filas": [
+    {
+     "Telefonema expedido": "",
+     "Telefonema recibido": "",
+     "Hora": "",
+     "Corresponsal con el que se": "",
+     "Puedo expedir": "Tren",
+     "Texto": ""
+    },
+    {
+     "Telefonema expedido": "",
+     "Telefonema recibido": "474",
+     "Hora": "10:00 horas",
+     "Corresponsal con el que se": "",
+     "Puedo expedir": "",
+     "Texto": "Conforme con el bloqueo de la vía para intervalo programado hasta las 11:50. (Nombre del jefe de circulación de la estación de Aldea del Cano)"
+    },
+    {
+     "Telefonema expedido": "54",
+     "Telefonema recibido": "",
+     "Hora": "10:00 horas",
+     "Corresponsal con el que se": "",
+     "Puedo expedir": "",
+     "Texto": "Concedido intervalo programado entre Aljucén y Aldea del Cano hasta las 11:50. Entrada al cantón por ambas estaciones. (Nombre del jefe de circulación de la estación)"
+    },
+    {
+     "Telefonema expedido": "",
+     "Telefonema recibido": "51",
+     "Hora": "11:50 horas",
+     "Corresponsal con el que se": "",
+     "Puedo expedir": "",
+     "Texto": "Queda libre de trenes y obstáculos la vía entre Aljucén y Aldea del Cano. Puede reanudarse la circulación en condiciones normales. (Nombre del encargado)"
+    },
+    {
+     "Telefonema expedido": "55",
+     "Telefonema recibido": "",
+     "Hora": "11:50 horas",
+     "Corresponsal con el que se": "",
+     "Puedo expedir": "",
+     "Texto": "Desbloqueada la vía. Se restablece la circulación con B.T. (Nombre del jefe de circulación de la estación)"
+    },
+    {
+     "Telefonema expedido": "",
+     "Telefonema recibido": "475",
+     "Hora": "11:50 horas",
+     "Corresponsal con el que se": "",
+     "Puedo expedir": "",
+     "Texto": "Conforme con el desbloqueo de la vía y el restablecimiento de la circulación con B.T. (Nombre del jefe de circulación de la estación de Aldea del Cano)"
+    },
+    {
+     "Telefonema expedido": "",
+     "Telefonema recibido": "476",
+     "Hora": "12:15 horas",
+     "Corresponsal con el que se": "17015",
+     "Puedo expedir": "12:20 horas",
+     "Texto": "(Nombre del jefe de circulación de la estación de Aldea del Cano)"
+    }
+   ],
+   "cita": "| Telefonema expedido | Telefonema recibido | Hora |   | Corresponsal con el que se | Puedo expedir |   | Texto |"
+  },
+  {
+   "pagina": 23,
+   "cabecera": [
+    "Telefonema expedido",
+    "Telefonema recibido",
+    "Hora",
+    "",
+    "Corresponsal con el que se",
+    "Puedo expedir",
+    "",
+    "Texto"
+   ],
+   "filas": [
+    {
+     "Telefonema expedido": "",
+     "Telefonema recibido": "",
+     "Hora": "",
+     "Corresponsal con el que se": "",
+     "Puedo expedir": "Tren",
+     "Texto": ""
+    },
+    {
+     "Telefonema expedido": "",
+     "Telefonema recibido": "53",
+     "Hora": "10:00 horas",
+     "Corresponsal con el que se": "",
+     "Puedo expedir": "",
+     "Texto": "Bloqueada la vía para intervalo programado hasta las 11:50. (Nombre del jefe de circulación de la estación de Aljucén)"
+    },
+    {
+     "Telefonema expedido": "474",
+     "Telefonema recibido": "",
+     "Hora": "10:00 horas",
+     "Corresponsal con el que se": "",
+     "Puedo expedir": "",
+     "Texto": "Conforme con el bloqueo de la vía para intervalo programado hasta las 11:50. (Nombre del jefe de circulación de la estación)"
+    },
+    {
+     "Telefonema expedido": "",
+     "Telefonema recibido": "55",
+     "Hora": "11:50 horas",
+     "Corresponsal con el que se": "",
+     "Puedo expedir": "",
+     "Texto": "Desbloqueada la vía. Se restablece la circulación con B.T. (Nombre del jefe de circulación de la estación de Aljucén)"
+    },
+    {
+     "Telefonema expedido": "475",
+     "Telefonema recibido": "",
+     "Hora": "11:50 horas",
+     "Corresponsal con el que se": "",
+     "Puedo expedir": "",
+     "Texto": "Conforme con el desbloqueo de la vía y el restablecimiento de la circulación con B.T. (Nombre del jefe de circulación de la estación)"
+    },
+    {
+     "Telefonema expedido": "476",
+     "Telefonema recibido": "",
+     "Hora": "12:15 horas",
+     "Corresponsal con el que se": "17015",
+     "Puedo expedir": "12:20 horas",
+     "Texto": "(Nombre del jefe de circulación de la estación de Aldea del Cano)"
+    }
+   ],
+   "cita": "| Telefonema expedido | Telefonema recibido | Hora |   | Corresponsal con el que se | Puedo expedir |   | Texto |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0049/2010",
+   "pagina": 1,
+   "cita": "nº 0049/2010 ocurrido el 06.09.2010",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 6 de septiembre de 2010, a las 12:35 horas, el tren de viajeros 17015 de Renfe Operadora arrolló a un camión dumper que invadió el gálibo en un paso a nivel provisional por obras situado en el PK 24+420 de la línea 510 Aljucén-Cáceres. El impacto provocó el descarrilamiento total de los tres coches del tren y el volcado del coche intermedio. Fallecieron una pasajera y el conductor del camión, mientras que el maquinista y otro pasajero resultaron heridos graves. La causa directa fue la invasión del gálibo por el camión al cruzar el paso sin que estuvieran echadas las cadenas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2010-09-06",
+    "hora": "12:35",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "24+420",
+     "linea": "510 Aljucén - Cáceres",
+     "provincia": "Badajoz",
+     "descripcion_lugar": "Paso a nivel provisional por obras en el término municipal de Carmonita, entre las estaciones de Aldea del Cano y Aljucén, al final de una recta de 900 metros con pendiente de 12 milésimas."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 6 de septiembre de 2010, a las 12:35 horas, el tren de viajeros 17015, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": 2,
+    "heridos_leves": null,
+    "danos_materiales": "Infraestructura: 35.235,70 €. Material rodante: 3.790.241,20 €. Camión dumper: totalmente destrozado.",
+    "afectacion_servicio": "Vía general totalmente interceptada desde las 12:35 del 6 de septiembre hasta las 09:30 del día siguiente; restablecida con limitación de 30 km/h entre PP.KK. 24+400 y 24+500. Dos trenes de viajeros suprimidos y otros cuatro sufrieron un retraso total de 43 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión del gálibo de la vía por parte del camión dumper, que cruzó el paso a nivel cuando pasaba el tren 17015, sin encontrarse echadas las cadenas del paso.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El piloto de seguridad desconocía la Consigna ATO 24/CTO 37 que regulaba el funcionamiento del paso.",
+    "Las cadenas del paso estaban puestas pero sin asegurar con candado, o no estaban echadas según las declaraciones de los camioneros.",
+    "El piloto se encontraba de espaldas al paso y no vio la llegada del camión ni pudo realizar señales de parada.",
+    "El paso superior en construcción impedía ver la llegada del tren desde el punto de giro del camión.",
+    "El camión dumper iba cargado en rampa y, al detectar el tren a unos 10 metros del paso, no pudo frenar a tiempo.",
+    "La polvareda y la distancia reducían la visibilidad y la audibilidad de los silbatos del tren.",
+    "Las comunicaciones entre pilotos y jefes de circulación no quedaron registradas por ningún medio técnico.",
+    "No se realizaron pruebas de alcohol y drogas a todos los implicados."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Falta de un análisis de riesgos del paso provisional por obras en la solicitud de autorización a la DGIF.",
+    "La autorización del paso no recogía medidas de protección y regulación ajustadas a las características de la obra y de la línea.",
+    "Ausencia de medios técnicos para grabar las conversaciones entre responsables de circulación y pilotos de seguridad.",
+    "Los planes de seguridad no incluían visitas sistemáticas a los pasos provisionales por obras para verificar la correcta aplicación de la consigna."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Cuando solicite la autorización a la DGIF para establecer un paso provisional por obras, adjuntará un análisis de riesgos del paso, en función de las características y necesidades de la obra, de las características del tráfico y de la gestión de la línea donde se pretenda situar dicho paso.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "La autorización para el establecimiento de un paso provisional por obras deberá recoger las medidas de protección y regulación necesarias en función de las características particulares de la obra y de la línea afectada, fundamentadas en el análisis de riesgos presentado por el administrador de la infraestructura en su solicitud de autorización. Las medidas de protección se deberán ajustar a alguna de las clases de protección establecidas en la Orden de 2 agosto de 2001, relativa a pasos a nivel.",
+     "destinatario": "Dirección General de Infraestructuras Ferroviarias - DGIF"
+    },
+    {
+     "texto": "Implantar los medios técnicos necesarios para grabar las conversaciones establecidas entre los responsables de circulación y los pilotos de seguridad a cargo de los pasos provisionales por obras.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Se recuerda la obligación de realizar pruebas de consumo de alcohol y drogas a todos aquellos que hayan estado implicados en un accidente.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Incluir, en los planes de seguridad, visitas sistemáticas a los pasos provisionales por obras por parte del personal de seguridad para verificar la correcta aplicación de la consigna correspondiente.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 3,
+   "cita": "49/10-1 Cuando solicite la autorización a la DGIF para establecer un paso provisional por obras adjuntará un análisis de riesgos del paso, en función de las características y necesidades de la obra, de las caracterís",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Cuando solicite la autorización a la DGIF para establecer un paso provisional por obras, adjuntará un análisis de riesgos del paso, en función de las características y necesidades de la obra, de las características del tráfico y de la gestión de la línea donde se pretenda situar dicho paso.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "La autorización para el establecimiento de un paso provisional por obras deberá recoger las medidas de protección y regulación necesarias en función de las características particulares de la obra y de la línea afectada, fundamentadas en el análisis de riesgos presentado por el administrador de la infraestructura en su solicitud de autorización. Las medidas de protección se deberán ajustar a alguna de las clases de protección establecidas en la Orden de 2 agosto de 2001, relativa a pasos a nivel.",
+     "destinatario": "Dirección General de Infraestructuras Ferroviarias - DGIF"
+    },
+    {
+     "texto": "Implantar los medios técnicos necesarios para grabar las conversaciones establecidas entre los responsables de circulación y los pilotos de seguridad a cargo de los pasos provisionales por obras.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Se recuerda la obligación de realizar pruebas de consumo de alcohol y drogas a todos aquellos que hayan estado implicados en un accidente.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Incluir, en los planes de seguridad, visitas sistemáticas a los pasos provisionales por obras por parte del personal de seguridad para verificar la correcta aplicación de la consigna correspondiente.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 3,
+   "cita": "49/10-1 Cuando solicite la autorización a la DGIF para establecer un paso provisional por obras adjuntará un análisis de riesgos del paso, en función de las características y necesidades de la obra, de las caracterís",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "paso_a_nivel",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "Renfe Operadora, arrolla a un camión dumper que invade el paso a nivel provisional por obras, situado",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2010-09-06",
+   "pagina": 3,
+   "cita": "El día 6 de septiembre de 2010, a las 12:35 horas, el tren de viajeros 17015, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "12:35",
+   "pagina": 3,
+   "cita": "El día 6 de septiembre de 2010, a las 12:35 horas, el tren de viajeros 17015, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "24+420",
+    "linea": "510 Aljucén - Cáceres",
+    "provincia": "Badajoz",
+    "descripcion_lugar": "Paso a nivel provisional por obras en el término municipal de Carmonita, entre las estaciones de Aldea del Cano y Aljucén, al final de una recta de 900 metros con pendiente de 12 milésimas."
+   },
+   "pagina": 3,
+   "cita": "en el PK 24+420 de la línea 510 Aljucén - Cáceres, entre las estaciones de Aldea del Cano y Aljucén",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "510 Aljucén - Cáceres",
+   "pagina": 3,
+   "cita": "en el PK 24+420 de la línea 510 Aljucén - Cáceres, entre las estaciones de Aldea del Cano y Aljucén",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Automotor 598.017-2; tren tipo 160 A; número UIC 907175980172; 3 vehículos, 12 ejes, 76 metros y 167 toneladas.",
+    "averia": "El registrador de seguridad quedó bajo custodia de la policía judicial y no se pudieron acceder a sus datos.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 6 de septiembre de 2010, el tren de viajeros 17015, procedente de Madrid-Atocha y con destino Mérida, circulaba con 14 minutos de retraso entre Aldea del Cano y Aljucén (Badajoz). Al aproximarse al paso a nivel provisional por obras del PK 24+420, el maquinista advirtió que un camión dumper, empleado en movimientos de tierras de las obras de la línea de alta velocidad Madrid-Extremadura-Frontera Portuguesa, invadía el gálibo de la vía. El maquinista realizó varios silbidos de atención y frenado de urgencia, pero no pudo evitar la colisión.\n\nTras el impacto, el camión quedó montado de su eje delantero entre el segundo y tercer coche del tren, a unos 15 metros del paso y girado 30 grados hacia la izquierda. Los tres coches del tren resultaron descarrilados, quedando el coche central volcado hacia el lado izquierdo y el último sobre el eje del paso. De los doce viajeros del tren, una pasajera de 19 años falleció, y el maquinista y otro pasajero menor de edad resultaron heridos graves. El conductor del camión dumper, único ocupante del vehículo, también falleció.\n\nLa investigación constató que el paso a nivel provisional debía estar permanentemente cerrado con cadenas aseguradas con candado, pero en el momento del accidente las cadenas no estaban echadas. El piloto de seguridad se encontraba a unos 15-20 metros del paso, de espaldas, atendiendo la colocación de una caseta de obra, y no vio la llegada del camión ni pudo realizar señales de parada.",
+   "pagina": 4,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "24+420",
+    "linea": "510 Aljucén - Cáceres",
+    "provincia": "Badajoz",
+    "descripcion_lugar": "Paso a nivel provisional por obras en el término municipal de Carmonita, entre las estaciones de Aldea del Cano y Aljucén, al final de una recta de 900 metros con pendiente de 12 milésimas."
+   },
+   "pagina": 3,
+   "cita": "en el PK 24+420 de la línea 510 Aljucén - Cáceres, entre las estaciones de Aldea del Cano y Aljucén",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": 2,
+    "heridos_leves": null,
+    "danos_materiales": "Infraestructura: 35.235,70 €. Material rodante: 3.790.241,20 €. Camión dumper: totalmente destrozado.",
+    "afectacion_servicio": "Vía general totalmente interceptada desde las 12:35 del 6 de septiembre hasta las 09:30 del día siguiente; restablecida con limitación de 30 km/h entre PP.KK. 24+400 y 24+500. Dos trenes de viajeros suprimidos y otros cuatro sufrieron un retraso total de 43 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 17015",
+     "implicacion": "Resultó herido grave; realizó silbidos de atención y frenado de urgencia sin poder evitar la colisión."
+    },
+    {
+     "rol": "Interventor del tren 17015",
+     "implicacion": "Comunicó el suceso al puesto de mando auxiliar de Manzanares."
+    },
+    {
+     "rol": "Jefe de circulación de Aldea del Cano",
+     "implicacion": "Recibió la petición del piloto y autorizó la apertura del paso hasta las 11:50; no se le realizaron pruebas de alcohol y drogas."
+    },
+    {
+     "rol": "Jefe de circulación de Aljucén",
+     "implicacion": "Recibió una llamada del piloto, pero no le solicitó autorización de apertura; no se le realizaron pruebas de alcohol y drogas."
+    },
+    {
+     "rol": "Piloto de seguridad del paso provisional",
+     "implicacion": "No conocía la consigna reguladora; dejó las cadenas sin asegurar con candado; se encontraba de espaldas al paso en el momento del accidente; no se le realizaron pruebas de alcohol y drogas."
+    },
+    {
+     "rol": "Conductor del camión dumper",
+     "implicacion": "Falleció; cruzó el paso a nivel invadiendo el gálibo cuando pasaba el tren."
+    }
+   ],
+   "pagina": 6,
+   "cita": "El maquinista del tren 17015, matrícula 9663105.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "17015",
+     "tipo": "Tren de viajeros de media distancia",
+     "operador": "Renfe Operadora",
+     "danos": "Descarrilamiento total de los tres coches; coche intermedio volcado; daños materiales estimados en 3.790.241,20 €."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 6 de septiembre de 2010, a las 12:35 horas, el tren de viajeros 17015, de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Automotor 598.017-2; tren tipo 160 A; número UIC 907175980172; 3 vehículos, 12 ejes, 76 metros y 167 toneladas.",
+    "averia": "El registrador de seguridad quedó bajo custodia de la policía judicial y no se pudieron acceder a sus datos.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 3,
+   "cita": "Infraestructuras Ferroviarias - DGIF 49/10-2 La autorización para el establecimiento de un paso provisional por obras deberá recoger las medidas de protección y regulación necesarias en función de las característica",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales de silbar, cartelones, candelabros, cadenas y candados a ambos lados del paso; señales de STOP en ambos sentidos.",
+    "tipo_via": "Vía única no electrificada con bloqueo telefónico (BT), sin ASFA ni tren-tierra.",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "No electrificada",
+    "estado_via": "Funcionó correctamente; tramo recto con pendiente de 12 milésimas.",
+    "otro": "Paso a nivel provisional por obras autorizado por resolución de la DGIF y regulado por la Consigna ATO 24/CTO 37; tráfico regulado por los jefes de circulación de Aldea del Cano y Aljucén bajo supervisión del puesto de mando auxiliar de Manzanares."
+   },
+   "pagina": 7,
+   "cita": "2.2.3. Descripción de la infraestructura",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales de silbar, cartelones, candelabros, cadenas y candados a ambos lados del paso; señales de STOP en ambos sentidos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "La línea carece de telefonía tren – tierra. Las comunicaciones entre los maquinistas y los jefes de \ncirculación se realizan por radio, cuando los trenes están próximos a las estaciones, y por telefonía \nmóvil. \nLas comunicaciones entre los pilotos de seguridad y las estaciones se realizan por teléfono móvil.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": 2,
+    "heridos_leves": null,
+    "danos_materiales": "Infraestructura: 35.235,70 €. Material rodante: 3.790.241,20 €. Camión dumper: totalmente destrozado.",
+    "afectacion_servicio": "Vía general totalmente interceptada desde las 12:35 del 6 de septiembre hasta las 09:30 del día siguiente; restablecida con limitación de 30 km/h entre PP.KK. 24+400 y 24+500. Dos trenes de viajeros suprimidos y otros cuatro sufrieron un retraso total de 43 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": 2,
+    "heridos_leves": null,
+    "danos_materiales": "Infraestructura: 35.235,70 €. Material rodante: 3.790.241,20 €. Camión dumper: totalmente destrozado.",
+    "afectacion_servicio": "Vía general totalmente interceptada desde las 12:35 del 6 de septiembre hasta las 09:30 del día siguiente; restablecida con limitación de 30 km/h entre PP.KK. 24+400 y 24+500. Dos trenes de viajeros suprimidos y otros cuatro sufrieron un retraso total de 43 minutos."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 2,
+    "heridos_graves": 2,
+    "heridos_leves": null,
+    "danos_materiales": "Infraestructura: 35.235,70 €. Material rodante: 3.790.241,20 €. Camión dumper: totalmente destrozado.",
+    "afectacion_servicio": "Vía general totalmente interceptada desde las 12:35 del 6 de septiembre hasta las 09:30 del día siguiente; restablecida con limitación de 30 km/h entre PP.KK. 24+400 y 24+500. Dos trenes de viajeros suprimidos y otros cuatro sufrieron un retraso total de 43 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 598.017-2; tren tipo 160 A; número UIC 907175980172; 3 vehículos, 12 ejes, 76 metros y 167 toneladas.",
+    "averia": "El registrador de seguridad quedó bajo custodia de la policía judicial y no se pudieron acceder a sus datos.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de silbar, cartelones, candelabros, cadenas y candados a ambos lados del paso; señales de STOP en ambos sentidos.",
+    "tipo_via": "Vía única no electrificada con bloqueo telefónico (BT), sin ASFA ni tren-tierra.",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "No electrificada",
+    "estado_via": "Funcionó correctamente; tramo recto con pendiente de 12 milésimas.",
+    "otro": "Paso a nivel provisional por obras autorizado por resolución de la DGIF y regulado por la Consigna ATO 24/CTO 37; tráfico regulado por los jefes de circulación de Aldea del Cano y Aljucén bajo supervisión del puesto de mando auxiliar de Manzanares."
+   },
+   "pagina": 7,
+   "cita": "2.2.3. Descripción de la infraestructura",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Era de día y el tiempo estaba despejado.",
+   "pagina": 11,
+   "cita": "En el momento del suceso, era de día y el tiempo estaba despejado.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Badajoz",
+    "municipio": null,
+    "estacion": "Carmonita (Badajoz)"
+   },
+   "pagina": 3,
+   "cita": "(Badajoz). Tras el impacto, el camión queda montado de su eje delantero entre el segundo y el tercer",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Era de día y el tiempo estaba despejado.",
+   "pagina": 11,
+   "cita": "En el momento del suceso, era de día y el tiempo estaba despejado.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales de silbar, cartelones, candelabros, cadenas y candados a ambos lados del paso; señales de STOP en ambos sentidos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de silbar, cartelones, candelabros, cadenas y candados a ambos lados del paso; señales de STOP en ambos sentidos.",
+    "tipo_via": "Vía única no electrificada con bloqueo telefónico (BT), sin ASFA ni tren-tierra.",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "No electrificada",
+    "estado_via": "Funcionó correctamente; tramo recto con pendiente de 12 milésimas.",
+    "otro": "Paso a nivel provisional por obras autorizado por resolución de la DGIF y regulado por la Consigna ATO 24/CTO 37; tráfico regulado por los jefes de circulación de Aldea del Cano y Aljucén bajo supervisión del puesto de mando auxiliar de Manzanares."
+   },
+   "pagina": 7,
+   "cita": "2.2.3. Descripción de la infraestructura",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "La línea carece de telefonía tren – tierra. Las comunicaciones entre los maquinistas y los jefes de \ncirculación se realizan por radio, cuando los trenes están próximos a las estaciones, y por telefonía \nmóvil. \nLas comunicaciones entre los pilotos de seguridad y las estaciones se realizan por teléfono móvil.",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 598.017-2; tren tipo 160 A; número UIC 907175980172; 3 vehículos, 12 ejes, 76 metros y 167 toneladas.",
+    "averia": "El registrador de seguridad quedó bajo custodia de la policía judicial y no se pudieron acceder a sus datos.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Cadenas del paso no echadas",
+    "Paso abierto sin autorización",
+    "Piloto desconocía consigna",
+    "Comunicación entre jefes deficiente"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 17015 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. \nRealizó su último reciclaje formativo el 23/02/10 y su último reconocimiento médico y psicotécnico el \n01/09/10, conforme a la normativa vigente. \nEl jefe de circulación de Aldea del Cano está habilitado conforme a la Orden FOM/2520/2006, de",
+   "pagina": 18,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 6 de septiembre de 2010, el tren de viajeros 17015, procedente de Madrid-Atocha y con destino Mérida, circulaba con 14 minutos de retraso entre Aldea del Cano y Aljucén (Badajoz). Al aproximarse al paso a nivel provisional por obras del PK 24+420, el maquinista advirtió que un camión dumper, empleado en movimientos de tierras de las obras de la línea de alta velocidad Madrid-Extremadura-Frontera Portuguesa, invadía el gálibo de la vía. El maquinista realizó varios silbidos de atención y frenado de urgencia, pero no pudo evitar la colisión.\n\nTras el impacto, el camión quedó montado de su eje delantero entre el segundo y tercer coche del tren, a unos 15 metros del paso y girado 30 grados hacia la izquierda. Los tres coches del tren resultaron descarrilados, quedando el coche central volcado hacia el lado izquierdo y el último sobre el eje del paso. De los doce viajeros del tren, una pasajera de 19 años falleció, y el maquinista y otro pasajero menor de edad resultaron heridos graves. El conductor del camión dumper, único ocupante del vehículo, también falleció.\n\nLa investigación constató que el paso a nivel provisional debía estar permanentemente cerrado con cadenas aseguradas con candado, pero en el momento del accidente las cadenas no estaban echadas. El piloto de seguridad se encontraba a unos 15-20 metros del paso, de espaldas, atendiendo la colocación de una caseta de obra, y no vio la llegada del camión ni pudo realizar señales de parada.",
+   "pagina": 4,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión del gálibo de la vía por parte del camión dumper, que cruzó el paso a nivel cuando pasaba el tren 17015, sin encontrarse echadas las cadenas del paso.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El piloto de seguridad desconocía la Consigna ATO 24/CTO 37 que regulaba el funcionamiento del paso.",
+    "Las cadenas del paso estaban puestas pero sin asegurar con candado, o no estaban echadas según las declaraciones de los camioneros.",
+    "El piloto se encontraba de espaldas al paso y no vio la llegada del camión ni pudo realizar señales de parada.",
+    "El paso superior en construcción impedía ver la llegada del tren desde el punto de giro del camión.",
+    "El camión dumper iba cargado en rampa y, al detectar el tren a unos 10 metros del paso, no pudo frenar a tiempo.",
+    "La polvareda y la distancia reducían la visibilidad y la audibilidad de los silbatos del tren.",
+    "Las comunicaciones entre pilotos y jefes de circulación no quedaron registradas por ningún medio técnico.",
+    "No se realizaron pruebas de alcohol y drogas a todos los implicados."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Cuando solicite la autorización a la DGIF para establecer un paso provisional por obras, adjuntará un análisis de riesgos del paso, en función de las características y necesidades de la obra, de las características del tráfico y de la gestión de la línea donde se pretenda situar dicho paso.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "La autorización para el establecimiento de un paso provisional por obras deberá recoger las medidas de protección y regulación necesarias en función de las características particulares de la obra y de la línea afectada, fundamentadas en el análisis de riesgos presentado por el administrador de la infraestructura en su solicitud de autorización. Las medidas de protección se deberán ajustar a alguna de las clases de protección establecidas en la Orden de 2 agosto de 2001, relativa a pasos a nivel.",
+     "destinatario": "Dirección General de Infraestructuras Ferroviarias - DGIF"
+    },
+    {
+     "texto": "Implantar los medios técnicos necesarios para grabar las conversaciones establecidas entre los responsables de circulación y los pilotos de seguridad a cargo de los pasos provisionales por obras.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Se recuerda la obligación de realizar pruebas de consumo de alcohol y drogas a todos aquellos que hayan estado implicados en un accidente.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Incluir, en los planes de seguridad, visitas sistemáticas a los pasos provisionales por obras por parte del personal de seguridad para verificar la correcta aplicación de la consigna correspondiente.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 3,
+   "cita": "49/10-1 Cuando solicite la autorización a la DGIF para establecer un paso provisional por obras adjuntará un análisis de riesgos del paso, en función de las características y necesidades de la obra, de las caracterís",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "08:00",
+     "evento": "Inicio del turno de día de los conductores de camiones dumper en la obra."
+    },
+    {
+     "hora": "09:55",
+     "evento": "El piloto de seguridad solicita autorización para abrir el paso a nivel provisional."
+    },
+    {
+     "hora": "09:57",
+     "evento": "El piloto llama a la estación de Aldea del Cano."
+    },
+    {
+     "hora": "09:58",
+     "evento": "El piloto llama a la estación de Aljucén."
+    },
+    {
+     "hora": "10:00",
+     "evento": "Se establece bloqueo por ocupación especial para trabajos entre Aljucén y Aldea del Cano hasta las 11:50."
+    },
+    {
+     "hora": "11:50",
+     "evento": "Finaliza el intervalo programado; la vía queda libre y se restablece la circulación normal."
+    },
+    {
+     "hora": "11:53",
+     "evento": "El piloto llama a Aldea del Cano para comunicar el cierre del paso."
+    },
+    {
+     "hora": "12:15",
+     "evento": "Se pide vía para el tren 17015 en la estación de Aldea del Cano."
+    },
+    {
+     "hora": "12:20",
+     "evento": "El tren 17015 pasa por la estación de Aldea del Cano."
+    },
+    {
+     "hora": "12:35",
+     "evento": "El tren 17015 arrolla al camión dumper en el paso a nivel provisional; se produce el descarrilamiento."
+    },
+    {
+     "hora": "14:05",
+     "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0049/2010",
+ "expediente": "0049/010",
+ "anio": 2010,
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0049/2010 OCURRIDO EL DÍA 06.09.2010 EN PASO A NIVEL PROVISIONAL POR OBRAS, EN EL TÉRMINO MUNICIPAL DE CARMONITA (BADAJOZ)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-060910-290711-CIAF.md"
+}

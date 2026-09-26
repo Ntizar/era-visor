@@ -1,0 +1,909 @@
+{
+ "id": "ID-030307-190707-DGF",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-030307-190707-DGF.pdf",
+ "pdf": "pdfs/ES/ID-030307-190707-DGF.pdf",
+ "md5_pdf": "31c6d355fd0b8bb58b3598c28cc8adc6",
+ "paginas_md": 6,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 19,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0019/2007",
+   "pagina": 1,
+   "cita": "nº 0019/2007 ocurrido el 03.03.2007",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2007-03-03, a las 14:19, el tren de mercancías 58272 de RENFE, remolcado por la locomotora 251026, arrolló a dos personas en plena vía entre las señales Avanzada y de Entrada de la estación de Viella, en el pk 7,755 de la línea 154 Tudela Veguín-Lugo de Llanera. Una mujer falleció en el acto y un hombre resultó herido leve. El tren circulaba a 69 km/h, por debajo de los 90 km/h máximos, y el maquinista realizó señales acústicas y frenado de emergencia. No hubo daños materiales y el servicio se restableció a las 16:12. La investigación atribuyó el accidente a la imprudencia de las víctimas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-03-03",
+    "hora": "14:19",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Viella",
+     "pk": "7,755",
+     "linea": "154 Tudela Veguín-Lugo de Llanera",
+     "provincia": "Asturias",
+     "descripcion_lugar": "Entre las señales Avanzada 88 y Entrada 2S de la estación de Viella, lado Lugo de Llanera; bajo el puente de la autovía Oviedo-Santander (A64) en su Km 8+450; zona semiurbana."
+    }
+   },
+   "pagina": 2,
+   "cita": "señales Avanzada y de Entrada de la estación de Viella, en el kilómetro 7,755 de la línea 154",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 1,
+    "danos_materiales": "No se producen daños.",
+    "afectacion_servicio": "Retraso de 92 minutos del tren de mercancías 582752 (implicado en el arrollamiento); restablecimiento de la circulación a las 16:12."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Imprudencia de las víctimas por caminar junto a la vía en lugar no autorizado para el tránsito de peatones e invadiendo el gálibo de seguridad del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Ausencia de cerramiento entre la Carretera Comarcal SI-3 y la línea férrea en las cercanías de la estación de Viella.",
+    "Zona semiurbana con accesos próximos desde la autovía A64 y la Carretera Comarcal SI-3."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Realizar un estudio que analice los distintos itinerarios de personas hacia la estación de Viella así como la necesidad de reponer el cerramiento (aparentemente inexistente) entre la Carretera Comarcal SI-3 y la línea férrea en las cercanías de la estación.",
+     "destinatario": null
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización a la ciudadanía en los medios de comunicación, enfatizando la prohibición del tránsito y cruce indebido por las líneas de ferrocarril.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 6,
+   "cita": "Como actuación de carácter inmediato recomendamos:",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Realizar un estudio que analice los distintos itinerarios de personas hacia la estación de Viella así como la necesidad de reponer el cerramiento (aparentemente inexistente) entre la Carretera Comarcal SI-3 y la línea férrea en las cercanías de la estación.",
+     "destinatario": null
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización a la ciudadanía en los medios de comunicación, enfatizando la prohibición del tránsito y cruce indebido por las líneas de ferrocarril.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 6,
+   "cita": "Como actuación de carácter inmediato recomendamos:",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento",
+   "pagina": 2,
+   "cita": "arrollamiento de dos personas resultando una de ellas muerta y la otra herida entre las",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "RENFE Operadora"
+   ],
+   "pagina": 2,
+   "cita": "de Interés General administrada por ADIF.",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-03-03",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "14:19",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:hora"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Viella",
+    "pk": "7,755",
+    "linea": "154 Tudela Veguín-Lugo de Llanera",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Entre las señales Avanzada 88 y Entrada 2S de la estación de Viella, lado Lugo de Llanera; bajo el puente de la autovía Oviedo-Santander (A64) en su Km 8+450; zona semiurbana."
+   },
+   "pagina": 2,
+   "cita": "señales Avanzada y de Entrada de la estación de Viella, en el kilómetro 7,755 de la línea 154",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 154 Tudela Veguín-Lugo de Llanera",
+   "pagina": 2,
+   "cita": "señales Avanzada y de Entrada de la estación de Viella, en el kilómetro 7,755 de la línea 154",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 251026; tren con 13 vagones y masa remolcada de 959 toneladas",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de mercancías 58272, remolcado por la locomotora 251026 con 13 vagones y masa remolcada de 959 toneladas, de la empresa ferroviaria RENFE, realizaba el recorrido entre Trasona y Busdongo. A las 14:19 detuvo su marcha en la estación de Viella tras arrollar a dos personas que caminaban junto a la vía de espaldas al tren y en la dirección de éste, en el punto kilométrico 7,755 de la línea Tudela Veguín-Lugo de Llanera, entre las señales Avanzada y de Entrada.\n\nComo consecuencia del arrollamiento, una mujer falleció en el acto y un hombre resultó herido de carácter leve. El hombre fue evacuado en ambulancia a las 14:42 al Hospital Central de Asturias, y la Guardia Civil autorizó el levantamiento del cadáver a las 16:05. El restablecimiento de la circulación se autorizó a las 16:12.\n\nEl tren circulaba a 69 km/h, por debajo de los 90 km/h máximos autorizados. El maquinista hizo uso de las señales acústicas y efectuó frenado de emergencia, no pudiendo evitar el arrollamiento. No se produjeron daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Viella",
+    "pk": "7,755",
+    "linea": "154 Tudela Veguín-Lugo de Llanera",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Entre las señales Avanzada 88 y Entrada 2S de la estación de Viella, lado Lugo de Llanera; bajo el puente de la autovía Oviedo-Santander (A64) en su Km 8+450; zona semiurbana."
+   },
+   "pagina": 2,
+   "cita": "señales Avanzada y de Entrada de la estación de Viella, en el kilómetro 7,755 de la línea 154",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 1,
+    "danos_materiales": "No se producen daños.",
+    "afectacion_servicio": "Retraso de 92 minutos del tren de mercancías 582752 (implicado en el arrollamiento); restablecimiento de la circulación a las 16:12."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "El maquinista del tren de mercancías 58272 informó del suceso al Puesto de Mando de \nOviedo, que cursó aviso a Gerencias Territoriales de Seguridad en la Circulación de ADIF y \nRENFE, Jefatura de Seguridad y Gestión de Tráfico de la Gerencia Operativa de León, Logística \nde Mantenimiento de Infraestructura, Jefatura Técnica de Operaciones de Asturias, C.P.S de \nRENFE y ADIF, Gire y servicio de urgencias. \n \n \n \nID-030307-190707-DGF \n \n \nPág. 3 de 6\n\n## Página 4\n\n \nInvestigación del accidente \nnº 0019/2007 ocurrido el 03.03.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO \nDE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo \n19.07.2007 \nAvisada la Gerencia Territorial de Seguridad en la Circulación Noroeste de ADIF, se \ndesplazó un agente de la misma al lugar del arrollamiento para proceder al reconocimiento y \ntoma de datos. \nSe realizó la prueba de alcoholemia al maquinista, con resultado negativo. \nEl hombre herido es evacuado en ambulancia a las 14 horas 42 minutos al Hospital Central \nde Asturias. \nLa Guardia Civil, en quién delegó funciones el Juez de Guardia, autorizó el levantamiento \ndel cadáver a la 16:05 horas, autorizándose el restablecimiento de la circulación a las 16:12 \nhoras.",
+   "pagina": 3,
+   "cita": "3.4 MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista del tren de mercancías 58272",
+     "implicacion": "Matrícula 8854473. Jornada efectiva previa en el día de la incidencia: 10 minutos. Jornada 24 horas anteriores: descanso. Jornada 48 horas anteriores: descanso. Último reconocimiento médico: 2006-03-23. Curso de reciclaje del RGC: 2007-02-05. Prueba de alcoholemia negativa. Realizó señales acústicas y frenado de emergencia."
+    },
+    {
+     "rol": "víctima (mujer)",
+     "implicacion": "Caminaba junto a la vía de espaldas al tren y en la dirección de éste; falleció en el acto."
+    },
+    {
+     "rol": "víctima (hombre)",
+     "implicacion": "Caminaba junto a la vía de espaldas al tren y en la dirección de éste; resultó herido de carácter leve y fue evacuado al Hospital Central de Asturias."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El maquinista del tren de mercancías 58272 informó del suceso al Puesto de Mando de",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "58272 (en perturbaciones aparece como 582752)",
+     "tipo": "tren de mercancías",
+     "operador": "RENFE",
+     "danos": "No se producen daños materiales."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El tren de mercancías nº 58272 remolcado por locomotora 251026 con 13 vagones y masa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 251026; tren con 13 vagones y masa remolcada de 959 toneladas",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales Avanzada 88 y Entrada 2S de la estación de Viella, lado Lugo de Llanera.",
+    "tipo_via": "vía única (Bloqueo Automático de vía única con C.T.C.)",
+    "velocidad_maxima": "90 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Zona semiurbana; trazado recto y al final de una curva de radio 1000 metros; no se aprecia cerramiento entre la Carretera Comarcal SI-3 y la línea férrea.",
+    "otro": "Punto bajo el puente de la autovía Oviedo-Santander (A64) en su Km 8+450; existe otro puente de acceso desde el ramal de la Carretera Comarcal SI-3; visibilidad de unos 250 metros en dirección Lugo de Llanera; velocidad del tren 69 km/h."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales Avanzada 88 y Entrada 2S de la estación de Viella, lado Lugo de Llanera.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 1,
+    "danos_materiales": "No se producen daños.",
+    "afectacion_servicio": "Retraso de 92 minutos del tren de mercancías 582752 (implicado en el arrollamiento); restablecimiento de la circulación a las 16:12."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 1,
+    "danos_materiales": "No se producen daños.",
+    "afectacion_servicio": "Retraso de 92 minutos del tren de mercancías 582752 (implicado en el arrollamiento); restablecimiento de la circulación a las 16:12."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 1,
+    "danos_materiales": "No se producen daños.",
+    "afectacion_servicio": "Retraso de 92 minutos del tren de mercancías 582752 (implicado en el arrollamiento); restablecimiento de la circulación a las 16:12."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 251026; tren con 13 vagones y masa remolcada de 959 toneladas",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales Avanzada 88 y Entrada 2S de la estación de Viella, lado Lugo de Llanera.",
+    "tipo_via": "vía única (Bloqueo Automático de vía única con C.T.C.)",
+    "velocidad_maxima": "90 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Zona semiurbana; trazado recto y al final de una curva de radio 1000 metros; no se aprecia cerramiento entre la Carretera Comarcal SI-3 y la línea férrea.",
+    "otro": "Punto bajo el puente de la autovía Oviedo-Santander (A64) en su Km 8+450; existe otro puente de acceso desde el ramal de la Carretera Comarcal SI-3; visibilidad de unos 250 metros en dirección Lugo de Llanera; velocidad del tren 69 km/h."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Nublado con buena visibilidad.",
+   "pagina": 4,
+   "cita": "Llanera, por donde se aproximaba el tren. El tiempo atmosférico era nublado con buena",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Asturias",
+    "municipio": null,
+    "estacion": "Viella"
+   },
+   "pagina": 2,
+   "cita": "Provincia: Asturias.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Nublado con buena visibilidad.",
+   "pagina": 4,
+   "cita": "Llanera, por donde se aproximaba el tren. El tiempo atmosférico era nublado con buena",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales Avanzada 88 y Entrada 2S de la estación de Viella, lado Lugo de Llanera.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales Avanzada 88 y Entrada 2S de la estación de Viella, lado Lugo de Llanera.",
+    "tipo_via": "vía única (Bloqueo Automático de vía única con C.T.C.)",
+    "velocidad_maxima": "90 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Zona semiurbana; trazado recto y al final de una curva de radio 1000 metros; no se aprecia cerramiento entre la Carretera Comarcal SI-3 y la línea férrea.",
+    "otro": "Punto bajo el puente de la autovía Oviedo-Santander (A64) en su Km 8+450; existe otro puente de acceso desde el ramal de la Carretera Comarcal SI-3; visibilidad de unos 250 metros en dirección Lugo de Llanera; velocidad del tren 69 km/h."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 251026; tren con 13 vagones y masa remolcada de 959 toneladas",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "peatones caminando junto a vía",
+    "ausencia de cerramiento entre carretera y vía",
+    "estacionamiento de coche junto a vía",
+    "invasión del gálibo de seguridad"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras \nFerroviarias, comunicó el pasado 04 de marzo de 2007, que se había producido el \narrollamiento de dos personas resultando una de ellas muerta y la otra herida entre las \nseñales Avanzada y de Entrada de la estación de Viella, en el kilómetro 7,755 de la línea 154 \nTudela Veguín-Lugo de Llanera, en la provincia de Oviedo, perteneciente a la Red Ferroviaria \nde Interés General administrada por ADIF.  \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles. Investigación \nque tendrá como finalidad determinar sus causas y formular recomendaciones para reducir los \nriesgos en el transporte ferroviario de acuerdo con el artículo 112 del citado Reglamento. \nReglamento que traspone parcialmente la Directiva 2004/49/CE del Parlamento Europeo de 29 \nde abril de 2004 sobre la seguridad de los ferrocarriles comunitarios, que en su  Artículo 19 \ncircunscribe la investigación a la mejora de la seguridad, y en ningún caso a la determinación \nde culpas o responsabilidades. \nDe conformidad con el artículo 112 del mencionado Reglamento, el 01 de marzo de 2007,  \nla Dirección General de Ferrocarriles designó los Técnicos responsables de la investigación de \naccidentes ferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias, comunicó el pasado 04 de marzo de 2007, que se había producido el arrollamiento de dos personas resultando",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de mercancías 58272, remolcado por la locomotora 251026 con 13 vagones y masa remolcada de 959 toneladas, de la empresa ferroviaria RENFE, realizaba el recorrido entre Trasona y Busdongo. A las 14:19 detuvo su marcha en la estación de Viella tras arrollar a dos personas que caminaban junto a la vía de espaldas al tren y en la dirección de éste, en el punto kilométrico 7,755 de la línea Tudela Veguín-Lugo de Llanera, entre las señales Avanzada y de Entrada.\n\nComo consecuencia del arrollamiento, una mujer falleció en el acto y un hombre resultó herido de carácter leve. El hombre fue evacuado en ambulancia a las 14:42 al Hospital Central de Asturias, y la Guardia Civil autorizó el levantamiento del cadáver a las 16:05. El restablecimiento de la circulación se autorizó a las 16:12.\n\nEl tren circulaba a 69 km/h, por debajo de los 90 km/h máximos autorizados. El maquinista hizo uso de las señales acústicas y efectuó frenado de emergencia, no pudiendo evitar el arrollamiento. No se produjeron daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "DE LA INFRAESTRUCTURA Y POR EL LA EMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl ADIF concluye “El Accidente fue debido a la imprudencia de las víctimas, por caminar al \nlado de la vía por pun o no autorizado para el ránsito de peatones e invadiendo el gálibo de \nseguridad, en el momen o de llegar el Tren de Mercancías 58272”. \n \n \n \nID-030307-190707-DGF \n \n \nPág. 5 de 6\n\n## Página 6\n\n \nInvestigación del accidente \nnº 0019/2007 ocurrido el 03.03.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO \nDE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo \n19.07.2007 \nRenfe Operadora, “Imprudencia de las víctimas por camina  por la vía invadiendo su gálibo en \nel momento de la llegada del tren de Mercancías 58272 , siendo inevi able el arrollamiento a \npesar de la actuación del Maquinista consistente en el reiterado aviso acústico mediante el \nsilbato de la locomotora y la aplicación urgen e del freno de emergencia”.  \nr\nt\nt  \nPor tanto, ambas conclusiones son coincidentes en cuanto a la causa del accidente.",
+   "pagina": 5,
+   "cita": "5.  ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Imprudencia de las víctimas por caminar junto a la vía en lugar no autorizado para el tránsito de peatones e invadiendo el gálibo de seguridad del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Ausencia de cerramiento entre la Carretera Comarcal SI-3 y la línea férrea en las cercanías de la estación de Viella.",
+    "Zona semiurbana con accesos próximos desde la autovía A64 y la Carretera Comarcal SI-3."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Se estima que el accidente tuvo su origen en la imprudencia del as víctimas que \ntransitaban por la vía, lugar no autorizado para ello, e invadiendo el gálibo del tren 58272.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES Se estima que el accidente tuvo su origen en la imprudencia del as víctimas que transitaban por la vía, lugar no autorizado para ello, e invadiendo el gálibo del tren 58272. 7. RECOMENDACIONES Como ac",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Se estima que el accidente tuvo su origen en la imprudencia del as víctimas que \ntransitaban por la vía, lugar no autorizado para ello, e invadiendo el gálibo del tren 58272.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES Se estima que el accidente tuvo su origen en la imprudencia del as víctimas que transitaban por la vía, lugar no autorizado para ello, e invadiendo el gálibo del tren 58272. 7. RECOMENDACIONES Como ac",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "El maquinista del tren de mercancías 58272 informó del suceso al Puesto de Mando de \nOviedo, que cursó aviso a Gerencias Territoriales de Seguridad en la Circulación de ADIF y \nRENFE, Jefatura de Seguridad y Gestión de Tráfico de la Gerencia Operativa de León, Logística \nde Mantenimiento de Infraestructura, Jefatura Técnica de Operaciones de Asturias, C.P.S de \nRENFE y ADIF, Gire y servicio de urgencias. \n \n \n \nID-030307-190707-DGF \n \n \nPág. 3 de 6\n\n## Página 4\n\n \nInvestigación del accidente \nnº 0019/2007 ocurrido el 03.03.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO \nDE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo \n19.07.2007 \nAvisada la Gerencia Territorial de Seguridad en la Circulación Noroeste de ADIF, se \ndesplazó un agente de la misma al lugar del arrollamiento para proceder al reconocimiento y \ntoma de datos. \nSe realizó la prueba de alcoholemia al maquinista, con resultado negativo. \nEl hombre herido es evacuado en ambulancia a las 14 horas 42 minutos al Hospital Central \nde Asturias. \nLa Guardia Civil, en quién delegó funciones el Juez de Guardia, autorizó el levantamiento \ndel cadáver a la 16:05 horas, autorizándose el restablecimiento de la circulación a las 16:12 \nhoras.",
+   "pagina": 3,
+   "cita": "3.4 MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "El maquinista del tren de mercancías 58272 informó del suceso al Puesto de Mando de \nOviedo, que cursó aviso a Gerencias Territoriales de Seguridad en la Circulación de ADIF y \nRENFE, Jefatura de Seguridad y Gestión de Tráfico de la Gerencia Operativa de León, Logística \nde Mantenimiento de Infraestructura, Jefatura Técnica de Operaciones de Asturias, C.P.S de \nRENFE y ADIF, Gire y servicio de urgencias. \n \n \n \nID-030307-190707-DGF \n \n \nPág. 3 de 6\n\n## Página 4\n\n \nInvestigación del accidente \nnº 0019/2007 ocurrido el 03.03.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO \nDE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo \n19.07.2007 \nAvisada la Gerencia Territorial de Seguridad en la Circulación Noroeste de ADIF, se \ndesplazó un agente de la misma al lugar del arrollamiento para proceder al reconocimiento y \ntoma de datos. \nSe realizó la prueba de alcoholemia al maquinista, con resultado negativo. \nEl hombre herido es evacuado en ambulancia a las 14 horas 42 minutos al Hospital Central \nde Asturias. \nLa Guardia Civil, en quién delegó funciones el Juez de Guardia, autorizó el levantamiento \ndel cadáver a la 16:05 horas, autorizándose el restablecimiento de la circulación a las 16:12 \nhoras.",
+   "pagina": 3,
+   "cita": "3.4 MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "El maquinista del tren de mercancías 58272 informó del suceso al Puesto de Mando de \nOviedo, que cursó aviso a Gerencias Territoriales de Seguridad en la Circulación de ADIF y \nRENFE, Jefatura de Seguridad y Gestión de Tráfico de la Gerencia Operativa de León, Logística \nde Mantenimiento de Infraestructura, Jefatura Técnica de Operaciones de Asturias, C.P.S de \nRENFE y ADIF, Gire y servicio de urgencias. \n \n \n \nID-030307-190707-DGF \n \n \nPág. 3 de 6\n\n## Página 4\n\n \nInvestigación del accidente \nnº 0019/2007 ocurrido el 03.03.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO \nDE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo \n19.07.2007 \nAvisada la Gerencia Territorial de Seguridad en la Circulación Noroeste de ADIF, se \ndesplazó un agente de la misma al lugar del arrollamiento para proceder al reconocimiento y \ntoma de datos. \nSe realizó la prueba de alcoholemia al maquinista, con resultado negativo. \nEl hombre herido es evacuado en ambulancia a las 14 horas 42 minutos al Hospital Central \nde Asturias. \nLa Guardia Civil, en quién delegó funciones el Juez de Guardia, autorizó el levantamiento \ndel cadáver a la 16:05 horas, autorizándose el restablecimiento de la circulación a las 16:12 \nhoras.",
+   "pagina": 3,
+   "cita": "3.4 MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Realizar un estudio que analice los distintos itinerarios de personas hacia la estación de Viella así como la necesidad de reponer el cerramiento (aparentemente inexistente) entre la Carretera Comarcal SI-3 y la línea férrea en las cercanías de la estación.",
+     "destinatario": null
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización a la ciudadanía en los medios de comunicación, enfatizando la prohibición del tránsito y cruce indebido por las líneas de ferrocarril.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 6,
+   "cita": "Como actuación de carácter inmediato recomendamos:",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": null,
+     "evento": "2007-03-04: el coordinador de accidentes ferroviarios de ADIF comunicó el arrollamiento de dos personas, una muerta y otra herida."
+    },
+    {
+     "hora": "14:19",
+     "evento": "El tren de mercancías 58272 detuvo su marcha en la estación de Viella tras arrollar a dos personas en el pk 7,755."
+    },
+    {
+     "hora": "14:42",
+     "evento": "El hombre herido fue evacuado en ambulancia al Hospital Central de Asturias."
+    },
+    {
+     "hora": "16:05",
+     "evento": "La Guardia Civil autorizó el levantamiento del cadáver."
+    },
+    {
+     "hora": "16:12",
+     "evento": "Se autorizó el restablecimiento de la circulación."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0019/2007",
+ "expediente": "0019/2007",
+ "anio": 2007,
+ "titulo": "Arrollamiento de dos personas por tren de mercancías entre las señales Avanzada y de Entrada de la estación de Viella, Asturias",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-030307-190707-DGF.md"
+}

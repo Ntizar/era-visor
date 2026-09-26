@@ -1,0 +1,962 @@
+{
+ "id": "IF_260213_291013_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/6559314F-C257-49D1-B35C-86FE3F3AB3B0/121906/IF260213291013CIAF.pdf",
+ "pdf": "pdfs/ES/IF_260213_291013_CIAF.pdf",
+ "md5_pdf": "46e25b5c4d22a1bcbb011db602fcc418",
+ "paginas_md": 15,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 16,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0015/2013",
+   "pagina": 1,
+   "cita": "nº 0015/2013 ocurrido el 26.02.2013",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 26 de febrero de 2013, a las 09:05 horas, un vehículo de carretera se precipitó a la vía desde un paso superior en el PK 16+100, entre San Fernando de Henares y Coslada, quedando suspendido de la catenaria. El tren de cercanías 21626 se detuvo antes de colisionar, pero el tren 21809 no pudo ser avisado a tiempo y golpeó lateralmente el vehículo tras aplicar el freno de urgencia. El conductor del automóvil resultó herido leve y la circulación quedó interrumpida en ambas vías hasta las 12:43 horas. La causa fue la invasión del gálibo por el vehículo tras la rotura de la barandilla del paso superior.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2013-02-26",
+    "hora": "09:05",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Entre las estaciones de San Fernando de Henares y Coslada",
+     "pk": "16+100",
+     "linea": "930 Madrid-Atocha Cercanías a San Fernando de Henares",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Tramo Coslada - San Fernando de Henares, en plena vía, junto a un paso superior carretero correspondiente a la calle La Rioja, perteneciente a la red viaria de un polígono industrial del municipio de Coslada."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 26 de febrero de 2013, a las 09:05 horas, el tren de cercanías 21809 de la empresa Renfe",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 1,
+    "danos_materiales": "Material rodante: daños en carenado y varios elementos de la suspensión del tren 21809, valorados en unos 3.000 €. Infraestructura: daños en catenaria y en el cerramiento de instalaciones para acceso de equipos de emergencia, valorados por Adif en 3.600 €.",
+    "afectacion_servicio": "Circulación interrumpida por ambas vías desde las 09:05 hasta las 12:43 horas. Retrasos en 51 trenes de cercanías que sumaron 579 minutos, 1 tren de media distancia con 17 minutos, 1 tren de larga distancia con 10 minutos y 1 tren de mercancías con 40 minutos. Trenes de la línea C2 desviados desde San Fernando de Henares a Madrid Chamartín; rotación en Vicálvaro hasta las 10:08 horas y después desvíos selectivos por Vicálvaro Clasificación sin parada comercial."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión del gálibo de vía por un vehículo de carretera que se precipitó desde un paso superior carretero tras romper la barandilla.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Rotura de la barandilla metálica del paso superior por el impacto del vehículo.",
+    "El puesto de mando no pudo avisar a tiempo al maquinista del tren 21809 para que se detuviera.",
+    "El vehículo quedó suspendido de la catenaria en la zona de entrevía, afectando a la vía I por la que circulaba el tren 21809."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Necesidad de reforzar los criterios de contención en pasos superiores para impedir la caída de objetos a la vía.",
+    "Falta de detección o señalización asociada a caída de objetos en la vía en casos donde los tráficos lo aconsejen."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Estudiar la posibilidad de exigir en los proyectos de construcción de pasos superiores la aplicación de la vigente Orden Circular 23/2008 sobre criterios de aplicación de pretiles metálicos en carretera, de la Dirección General de Carreteras del Ministerio de Fomento.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Estudiar la posibilidad de la instalación de caída de objetos a la vía relacionándola con la señalización ferroviaria, en aquellos casos en que los tráficos de carretera y ferroviarios lo aconsejen y las instalaciones existentes lo hagan viable.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 3,
+   "cita": "15/13-1 Estudiar la posibilidad de exigir en los proyectos de construcción de pasos superiores la aplicación de la vigente “Orden Circular 23/2008 sobre criterios de aplicación de pretiles metálicos en carretera”, d",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Estudiar la posibilidad de exigir en los proyectos de construcción de pasos superiores la aplicación de la vigente Orden Circular 23/2008 sobre criterios de aplicación de pretiles metálicos en carretera, de la Dirección General de Carreteras del Ministerio de Fomento.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Estudiar la posibilidad de la instalación de caída de objetos a la vía relacionándola con la señalización ferroviaria, en aquellos casos en que los tráficos de carretera y ferroviarios lo aconsejen y las instalaciones existentes lo hagan viable.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 3,
+   "cita": "15/13-1 Estudiar la posibilidad de exigir en los proyectos de construcción de pasos superiores la aplicación de la vigente “Orden Circular 23/2008 sobre criterios de aplicación de pretiles metálicos en carretera”, d",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Colisión lateral con el vehículo de carretera",
+   "pagina": 12,
+   "cita": "09:05:38 horas, sin poder evitar la colisión lateral con el vehículo de carretera. Éste no es desplazado",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 4,
+   "cita": "El tren de viajeros de cercanías 21626 de la empresa Renfe Operadora circula por la vía II entre las",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2013-02-26",
+   "pagina": 3,
+   "cita": "El día 26 de febrero de 2013, a las 09:05 horas, el tren de cercanías 21809 de la empresa Renfe",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "09:05",
+   "pagina": 3,
+   "cita": "El día 26 de febrero de 2013, a las 09:05 horas, el tren de cercanías 21809 de la empresa Renfe",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Entre las estaciones de San Fernando de Henares y Coslada",
+    "pk": "16+100",
+    "linea": "930 Madrid-Atocha Cercanías a San Fernando de Henares",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Tramo Coslada - San Fernando de Henares, en plena vía, junto a un paso superior carretero correspondiente a la calle La Rioja, perteneciente a la red viaria de un polígono industrial del municipio de Coslada."
+   },
+   "pagina": 3,
+   "cita": "Entre las estaciones de San Fernando de Henares y Coslada (PK 16+100)",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "930 Madrid-Atocha Cercanías a San Fernando de Henares",
+   "pagina": 3,
+   "cita": "930 Madrid-Atocha Cercanías a San Fernando de Henares",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tren 21809: serie S-446, doble composición 4461208/4461623, 6 vehículos, 152 metros, 440 toneladas, tipo 100A, velocidad máxima 100 km/h, Nos UIC 907174461208/907174461623. Tren 21626: tipo no especificado en el informe.",
+    "averia": "El tren 21809 sufrió daños en carenado y elementos de suspensión tras golpear lateralmente el vehículo suspendido de la catenaria. El vehículo de carretera quedó suspendido de la catenaria por uno de sus extremos.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "Los hechos ocurrieron el 26 de febrero de 2013 a las 09:05 horas en el PK 16+100 de la línea 930 Madrid-Atocha Cercanías a San Fernando de Henares, entre las estaciones de San Fernando de Henares y Coslada, en el municipio de Coslada, provincia de Madrid. Un vehículo de carretera se precipitó a la vía desde el paso superior carretero existente en dicho punto, tras romper la barandilla metálica, y quedó suspendido de la catenaria de la vía II en la zona de entrevía.\n\nEl tren de viajeros de cercanías 21626, de Renfe Operadora, circulaba por la vía II entre Coslada y San Fernando de Henares. Su maquinista observó el vehículo suspendido, realizó parada de emergencia y detuvo el tren antes de colisionar, avisando inmediatamente al puesto de mando de Madrid-Chamartín para que cortara la tensión y detuviera las circulaciones próximas.\n\nPor su parte, el tren de viajeros de cercanías 21809, también de Renfe Operadora, circulaba por la vía I entre San Fernando de Henares y Coslada. El puesto de mando no pudo avisar a tiempo a su maquinista, quien al percatarse del vehículo suspendido aplicó el freno de urgencia a una velocidad registrada de 82 km/h. Antes de detenerse, el tren golpeó lateralmente el vehículo, que no fue desplazado ni arrastrado, y el tren quedó detenido a 180 metros del lugar del impacto.\n\nComo consecuencia del suceso resultó herido leve el conductor del vehículo de carretera. Los viajeros del tren 21809 fueron evacuados con intervención de personal de seguridad corporativa, y se activaron servicios de emergencia de la Comunidad de Madrid, bomberos y policía local. La circulación se interrumpió por ambas vías desde las 09:05 hasta las 12:43 horas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Entre las estaciones de San Fernando de Henares y Coslada",
+    "pk": "16+100",
+    "linea": "930 Madrid-Atocha Cercanías a San Fernando de Henares",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Tramo Coslada - San Fernando de Henares, en plena vía, junto a un paso superior carretero correspondiente a la calle La Rioja, perteneciente a la red viaria de un polígono industrial del municipio de Coslada."
+   },
+   "pagina": 3,
+   "cita": "Entre las estaciones de San Fernando de Henares y Coslada (PK 16+100)",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 1,
+    "danos_materiales": "Material rodante: daños en carenado y varios elementos de la suspensión del tren 21809, valorados en unos 3.000 €. Infraestructura: daños en catenaria y en el cerramiento de instalaciones para acceso de equipos de emergencia, valorados por Adif en 3.600 €.",
+    "afectacion_servicio": "Circulación interrumpida por ambas vías desde las 09:05 hasta las 12:43 horas. Retrasos en 51 trenes de cercanías que sumaron 579 minutos, 1 tren de media distancia con 17 minutos, 1 tren de larga distancia con 10 minutos y 1 tren de mercancías con 40 minutos. Trenes de la línea C2 desviados desde San Fernando de Henares a Madrid Chamartín; rotación en Vicálvaro hasta las 10:08 horas y después desvíos selectivos por Vicálvaro Clasificación sin parada comercial."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 21809",
+     "implicacion": "Observó un bulto suspendido de la catenaria, aplicó el freno de urgencia, no pudo evitar el golpe lateral al vehículo, avisó al puesto de mando, reconoció el tren y el vehículo, y colaboró en auxiliar al conductor herido. Se le realizó prueba de alcoholemia y drogas a las 12:10 horas con resultado negativo."
+    },
+    {
+     "rol": "Maquinista del tren 21626",
+     "implicacion": "Observó un vehículo en la caja de la vía, realizó parada de emergencia antes de impactar, avisó al puesto de mando pidiendo corte de tensión y detención de circulaciones próximas, y auxilió a la persona herida dentro del vehículo."
+    },
+    {
+     "rol": "Puesto de mando de Madrid-Chamartín",
+     "implicacion": "Recibió los avisos de los maquinistas, mandó cortar la tensión en ambas vías entre San Fernando de Henares y Vicálvaro, no pudo avisar a tiempo al maquinista del tren 21809 y coordinó avisos a operadores, seguridad, emergencias y telemando de electrificación."
+    }
+   ],
+   "pagina": 8,
+   "cita": "a tiempo al maquinista del tren 21809 para que se detenga, pero si manda cortar la tensión en ambas",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "21809",
+     "tipo": "Tren de viajeros de cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Daños en el carenado y en varios elementos de la suspensión, valorados por Renfe Operadora en unos 3.000 €."
+    },
+    {
+     "numero": "21626",
+     "tipo": "Tren de viajeros de cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "No se mencionan daños materiales en el informe."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 26 de febrero de 2013, a las 09:05 horas, el tren de cercanías 21809 de la empresa Renfe",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tren 21809: serie S-446, doble composición 4461208/4461623, 6 vehículos, 152 metros, 440 toneladas, tipo 100A, velocidad máxima 100 km/h, Nos UIC 907174461208/907174461623. Tren 21626: tipo no especificado en el informe.",
+    "averia": "El tren 21809 sufrió daños en carenado y elementos de suspensión tras golpear lateralmente el vehículo suspendido de la catenaria. El vehículo de carretera quedó suspendido de la catenaria por uno de sus extremos.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 5,
+   "cita": "El jefe de investigación de accidentes del Administrador de Infraestructuras Ferroviarias (Adif), a las",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (BAB) y control de tráfico centralizado desde Madrid-Chamartín.",
+    "tipo_via": "Vía doble electrificada y banalizada.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Vía electrificada con catenaria.",
+    "estado_via": "La infraestructura funcionó correctamente; en el momento de los hechos las estaciones se encontraban en mando central desde Madrid-Chamartín.",
+    "otro": "Paso superior carretero en el PK 16+100, correspondiente a la calle La Rioja, con barandilla de 98 cm de altura compuesta por 3 tubos metálicos horizontales y malla metálica de protección contra caída de objetos. Entre calzada y barandilla existía una zona con desnivel de unos 15 cm y anchura de 87 cm. La media semanal de circulaciones del tramo Coslada - San Fernando de Henares era de 1.736, de las cuales 1.734 de cercanías y 2 de servicio."
+   },
+   "pagina": 6,
+   "cita": "El tramo donde ocurre el suceso, entre las estaciones de San Fernando de Henares y Coslada, es de vía",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático (BAB) y control de tráfico centralizado desde Madrid-Chamartín.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad A y telefonía móvil corporativa.",
+   "pagina": 8,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 1,
+    "danos_materiales": "Material rodante: daños en carenado y varios elementos de la suspensión del tren 21809, valorados en unos 3.000 €. Infraestructura: daños en catenaria y en el cerramiento de instalaciones para acceso de equipos de emergencia, valorados por Adif en 3.600 €.",
+    "afectacion_servicio": "Circulación interrumpida por ambas vías desde las 09:05 hasta las 12:43 horas. Retrasos en 51 trenes de cercanías que sumaron 579 minutos, 1 tren de media distancia con 17 minutos, 1 tren de larga distancia con 10 minutos y 1 tren de mercancías con 40 minutos. Trenes de la línea C2 desviados desde San Fernando de Henares a Madrid Chamartín; rotación en Vicálvaro hasta las 10:08 horas y después desvíos selectivos por Vicálvaro Clasificación sin parada comercial."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 1,
+    "danos_materiales": "Material rodante: daños en carenado y varios elementos de la suspensión del tren 21809, valorados en unos 3.000 €. Infraestructura: daños en catenaria y en el cerramiento de instalaciones para acceso de equipos de emergencia, valorados por Adif en 3.600 €.",
+    "afectacion_servicio": "Circulación interrumpida por ambas vías desde las 09:05 hasta las 12:43 horas. Retrasos en 51 trenes de cercanías que sumaron 579 minutos, 1 tren de media distancia con 17 minutos, 1 tren de larga distancia con 10 minutos y 1 tren de mercancías con 40 minutos. Trenes de la línea C2 desviados desde San Fernando de Henares a Madrid Chamartín; rotación en Vicálvaro hasta las 10:08 horas y después desvíos selectivos por Vicálvaro Clasificación sin parada comercial."
+   },
+   "pagina": 1,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 1,
+    "danos_materiales": "Material rodante: daños en carenado y varios elementos de la suspensión del tren 21809, valorados en unos 3.000 €. Infraestructura: daños en catenaria y en el cerramiento de instalaciones para acceso de equipos de emergencia, valorados por Adif en 3.600 €.",
+    "afectacion_servicio": "Circulación interrumpida por ambas vías desde las 09:05 hasta las 12:43 horas. Retrasos en 51 trenes de cercanías que sumaron 579 minutos, 1 tren de media distancia con 17 minutos, 1 tren de larga distancia con 10 minutos y 1 tren de mercancías con 40 minutos. Trenes de la línea C2 desviados desde San Fernando de Henares a Madrid Chamartín; rotación en Vicálvaro hasta las 10:08 horas y después desvíos selectivos por Vicálvaro Clasificación sin parada comercial."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 21809: serie S-446, doble composición 4461208/4461623, 6 vehículos, 152 metros, 440 toneladas, tipo 100A, velocidad máxima 100 km/h, Nos UIC 907174461208/907174461623. Tren 21626: tipo no especificado en el informe.",
+    "averia": "El tren 21809 sufrió daños en carenado y elementos de suspensión tras golpear lateralmente el vehículo suspendido de la catenaria. El vehículo de carretera quedó suspendido de la catenaria por uno de sus extremos.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (BAB) y control de tráfico centralizado desde Madrid-Chamartín.",
+    "tipo_via": "Vía doble electrificada y banalizada.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Vía electrificada con catenaria.",
+    "estado_via": "La infraestructura funcionó correctamente; en el momento de los hechos las estaciones se encontraban en mando central desde Madrid-Chamartín.",
+    "otro": "Paso superior carretero en el PK 16+100, correspondiente a la calle La Rioja, con barandilla de 98 cm de altura compuesta por 3 tubos metálicos horizontales y malla metálica de protección contra caída de objetos. Entre calzada y barandilla existía una zona con desnivel de unos 15 cm y anchura de 87 cm. La media semanal de circulaciones del tramo Coslada - San Fernando de Henares era de 1.736, de las cuales 1.734 de cercanías y 2 de servicio."
+   },
+   "pagina": 6,
+   "cita": "El tramo donde ocurre el suceso, entre las estaciones de San Fernando de Henares y Coslada, es de vía",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "De día y sin condiciones meteorológicas adversas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": "Entre las estaciones de San Fernando de Henares y Coslada"
+   },
+   "pagina": 3,
+   "cita": "Operadora, procedente de Guadalajara y destino Madrid Príncipe Pío, golpea lateralmente con un",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "De día y sin condiciones meteorológicas adversas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático (BAB) y control de tráfico centralizado desde Madrid-Chamartín.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático (BAB) y control de tráfico centralizado desde Madrid-Chamartín.",
+    "tipo_via": "Vía doble electrificada y banalizada.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Vía electrificada con catenaria.",
+    "estado_via": "La infraestructura funcionó correctamente; en el momento de los hechos las estaciones se encontraban en mando central desde Madrid-Chamartín.",
+    "otro": "Paso superior carretero en el PK 16+100, correspondiente a la calle La Rioja, con barandilla de 98 cm de altura compuesta por 3 tubos metálicos horizontales y malla metálica de protección contra caída de objetos. Entre calzada y barandilla existía una zona con desnivel de unos 15 cm y anchura de 87 cm. La media semanal de circulaciones del tramo Coslada - San Fernando de Henares era de 1.736, de las cuales 1.734 de cercanías y 2 de servicio."
+   },
+   "pagina": 6,
+   "cita": "El tramo donde ocurre el suceso, entre las estaciones de San Fernando de Henares y Coslada, es de vía",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad A y telefonía móvil corporativa.",
+   "pagina": 8,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 21809: serie S-446, doble composición 4461208/4461623, 6 vehículos, 152 metros, 440 toneladas, tipo 100A, velocidad máxima 100 km/h, Nos UIC 907174461208/907174461623. Tren 21626: tipo no especificado en el informe.",
+    "averia": "El tren 21809 sufrió daños en carenado y elementos de suspensión tras golpear lateralmente el vehículo suspendido de la catenaria. El vehículo de carretera quedó suspendido de la catenaria por uno de sus extremos.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Rotura de barandilla por impacto",
+    "Vehículo invade gálibo de vía",
+    "Puesto de mando no avisa a tiempo",
+    "Frenada de urgencia no evita colisión"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 21809 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene una antigüedad en el cargo de fecha 01/01/2004. \nRealizó su último reciclaje formativo el 11/01/2013 y su último reconocimiento médico y psicotécnico el \n02/02/2011, conforme a la normativa vigente. \nEl maquinista del tren 21626 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nRealizó su último reciclaje formativo el 05/02/2013 y su último reconocimiento médico y psicotécnico el \n05/04/2013, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 10,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "Los hechos ocurrieron el 26 de febrero de 2013 a las 09:05 horas en el PK 16+100 de la línea 930 Madrid-Atocha Cercanías a San Fernando de Henares, entre las estaciones de San Fernando de Henares y Coslada, en el municipio de Coslada, provincia de Madrid. Un vehículo de carretera se precipitó a la vía desde el paso superior carretero existente en dicho punto, tras romper la barandilla metálica, y quedó suspendido de la catenaria de la vía II en la zona de entrevía.\n\nEl tren de viajeros de cercanías 21626, de Renfe Operadora, circulaba por la vía II entre Coslada y San Fernando de Henares. Su maquinista observó el vehículo suspendido, realizó parada de emergencia y detuvo el tren antes de colisionar, avisando inmediatamente al puesto de mando de Madrid-Chamartín para que cortara la tensión y detuviera las circulaciones próximas.\n\nPor su parte, el tren de viajeros de cercanías 21809, también de Renfe Operadora, circulaba por la vía I entre San Fernando de Henares y Coslada. El puesto de mando no pudo avisar a tiempo a su maquinista, quien al percatarse del vehículo suspendido aplicó el freno de urgencia a una velocidad registrada de 82 km/h. Antes de detenerse, el tren golpeó lateralmente el vehículo, que no fue desplazado ni arrastrado, y el tren quedó detenido a 180 metros del lugar del impacto.\n\nComo consecuencia del suceso resultó herido leve el conductor del vehículo de carretera. Los viajeros del tren 21809 fueron evacuados con intervención de personal de seguridad corporativa, y se activaron servicios de emergencia de la Comunidad de Madrid, bomberos y policía local. La circulación se interrumpió por ambas vías desde las 09:05 hasta las 12:43 horas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión del gálibo de vía por un vehículo de carretera que se precipitó desde un paso superior carretero tras romper la barandilla.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Rotura de la barandilla metálica del paso superior por el impacto del vehículo.",
+    "El puesto de mando no pudo avisar a tiempo al maquinista del tren 21809 para que se detuviera.",
+    "El vehículo quedó suspendido de la catenaria en la zona de entrevía, afectando a la vía I por la que circulaba el tren 21809."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Estudiar la posibilidad de exigir en los proyectos de construcción de pasos superiores la aplicación de la vigente Orden Circular 23/2008 sobre criterios de aplicación de pretiles metálicos en carretera, de la Dirección General de Carreteras del Ministerio de Fomento.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Estudiar la posibilidad de la instalación de caída de objetos a la vía relacionándola con la señalización ferroviaria, en aquellos casos en que los tráficos de carretera y ferroviarios lo aconsejen y las instalaciones existentes lo hagan viable.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 3,
+   "cita": "15/13-1 Estudiar la posibilidad de exigir en los proyectos de construcción de pasos superiores la aplicación de la vigente “Orden Circular 23/2008 sobre criterios de aplicación de pretiles metálicos en carretera”, d",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "09:02",
+     "evento": "El tren de cercanías 21626 reinicia su marcha desde Coslada con siete minutos de retraso sobre su horario previsto."
+    },
+    {
+     "hora": "09:02",
+     "evento": "El tren de cercanías 21809 reinicia su marcha desde San Fernando de Henares con cuatro minutos de retraso sobre su horario previsto."
+    },
+    {
+     "hora": "09:05",
+     "evento": "Un vehículo de carretera se precipita a la vía desde el paso superior del PK 16+100 y queda suspendido de la catenaria de la vía II en la zona de entrevía."
+    },
+    {
+     "hora": "09:05",
+     "evento": "El tren 21809 golpea lateralmente el vehículo tras aplicar el freno de urgencia; el tren 21626 queda detenido ante el vehículo sin colisionar."
+    },
+    {
+     "hora": "09:05:38",
+     "evento": "El registrador de seguridad del tren 21809 indica que el tren circulaba a 82 km/h y se inicia el frenado de urgencia."
+    },
+    {
+     "hora": "09:05:57",
+     "evento": "El tren 21809 se detiene tras recorrer 180 metros desde la aplicación del freno."
+    },
+    {
+     "hora": "10:08",
+     "evento": "Tras establecerse rotación en Vicálvaro hasta esta hora, se aplican desvíos selectivos por Vicálvaro Clasificación sin parada comercial para trenes pares."
+    },
+    {
+     "hora": "10:35",
+     "evento": "Se restablece la tensión en vía I para apartar el tren 21809 en Coslada, situación que se mantiene hasta las 10:50 horas."
+    },
+    {
+     "hora": "11:14",
+     "evento": "El jefe de investigación de accidentes de Adif comunica a la Comisión de Investigación de Accidentes Ferroviarios que se ha producido el suceso."
+    },
+    {
+     "hora": "12:00",
+     "evento": "El vehículo de carretera es apartado desplazándolo al lado derecho de la vía, sin afectación al gálibo."
+    },
+    {
+     "hora": "12:35",
+     "evento": "El vehículo de carretera es retirado definitivamente de las inmediaciones de la vía."
+    },
+    {
+     "hora": "12:43",
+     "evento": "Queda restablecida la circulación en condiciones normales por ambas vías."
+    },
+    {
+     "hora": null,
+     "evento": "El 26 de marzo de 2013, el Pleno de la Comisión de Investigación de Accidentes Ferroviarios acuerda abrir la investigación del accidente."
+    },
+    {
+     "hora": null,
+     "evento": "El 17 de abril de 2013, Renfe Operadora entrega su informe particular de investigación."
+    },
+    {
+     "hora": null,
+     "evento": "El 17 de mayo de 2013, Adif entrega su informe particular de investigación."
+    },
+    {
+     "hora": null,
+     "evento": "El 29 de octubre de 2013 se emite el informe final en Madrid."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0015/2013",
+ "expediente": "0015/13",
+ "anio": 2013,
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0015/2013 OCURRIDO EL DÍA 26.02.2013 ENTRE LAS ESTACIONES DE SAN FERNANDO DE HENARES Y COSLADA (MADRID)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_260213_291013_CIAF.md"
+}

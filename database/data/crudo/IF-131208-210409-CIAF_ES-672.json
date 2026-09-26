@@ -1,0 +1,863 @@
+{
+ "id": "IF-131208-210409-CIAF_ES-672",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/77B6B4CD-0BC2-46EF-8CB6-573B8A56A0CE/47003/IF131208210409CIAF.pdf",
+ "pdf": "pdfs/ES/IF-131208-210409-CIAF_ES-672.pdf",
+ "md5_pdf": "927084c5b11419fd3702ca100a26b17b",
+ "paginas_md": 11,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 7,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0072/2008",
+   "pagina": 1,
+   "cita": "nº 0072/2008 ocurrido el 13.12.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 2008-12-13, a las 09:45, el tren de mercancías 93161 de Renfe Operadora arrolló a un varón de 58 años en plena vía, PK 494,315, entre Vitoria y Alegría de Álava, en la línea 100. La víctima caminaba por el margen izquierdo de la vía, de espaldas al tren y con paraguas, e intentó cruzar cuando pasaba el tren. El maquinista usó el silbato y el freno de emergencia, pero no pudo evitar el fallecimiento. No hubo daños materiales; se produjeron retrasos y no se establecieron recomendaciones por tratarse de zona vallada con pasarela y paso inferior próximos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-12-13",
+    "hora": "09:45",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "494,315",
+     "linea": "100 Hendaya - Madrid",
+     "provincia": "Álava",
+     "descripcion_lugar": "Plena vía, vía I, tramo recto de vía doble con buena visibilidad, entre las estaciones de Vitoria y Alegría de Álava, término municipal de Vitoria. Entorno urbano, vallado y con obras para completar el vallado; acceso presumible por una puerta en montaje para personal de mantenimiento de la vía. En las inmediaciones existen una pasarela peatonal y un paso inferior carretero."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 13 de diciembre de 2008, a las 09:45 horas, el tren de mercancías 93161, de la empresa",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Dos trenes de larga distancia con un retraso total de 11 minutos; un tren de mercancías con un retraso total de 6 minutos; el tren implicado sufre un retraso de 166 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión del gálibo por la víctima, que caminaba por el margen izquierdo de la vía e intentó cruzarla cuando pasaba el tren 93161.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión del gálibo por la víctima que caminaba por",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones, dado que es una zona vallada y \nque, en las inmediaciones, hay una pasarela peatonal y un paso inferior \ncarretero. \n \n \n \nMadrid, 21 de abril de 2009. \n \n \n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0072/2008 ocurrido el 13.12.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-131208-210409-CIAF \n \n \nPág. 10 de 11\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA INVESTIGACIÓN  \nDEL ACCIDENTE FERROVIARIO Nº 0072/2008 \nOCURRIDO EL DÍA 13.12.2008 \nEN PLENA VÍA, P.K. 494,315, \nENTRE LAS ESTACIONES DE VITORIA Y ALEGRÍA DE ÁLAVA \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0072/2008 ocurrido el 13.12.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-131208-210409-CIAF \n \n \nPág. 11 de 11\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 21 de abril \nde 2009, analizado el expediente nº 0072/2008 del accidente acaecido el 13.12.2008 en plena vía, \nP.K. 494,315, entre las estaciones de Vitoria y Alegría de Álava, de la línea 100 Madrid - Hendaya, se \naprueba como definitivo el informe particular presentado por el técnico investigador con la siguiente \nrecomendación: \n \nDestinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones, dado que es una zona vallada y \nque, en las inmediaciones, hay una pasarela peatonal y un paso inferior \ncarretero. \n \n \n \nMadrid, 21 de abril de 2009",
+   "pagina": 9,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones, dado que es una zona vallada y que, en las inmediaciones, hay una pasarela peatonal y un paso inferior carretero.",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de una persona",
+   "pagina": 4,
+   "cita": "de Investigación de accidentes ferroviarios que se había producido el arrollamiento de una persona",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "ferroviaria Renfe Operadora, arrolla a una persona que caminaba por la caja de la vía, de espaldas al",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-12-13",
+   "pagina": 3,
+   "cita": "El día 13 de diciembre de 2008, a las 09:45 horas, el tren de mercancías 93161, de la empresa",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "09:45",
+   "pagina": 3,
+   "cita": "El día 13 de diciembre de 2008, a las 09:45 horas, el tren de mercancías 93161, de la empresa",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "494,315",
+    "linea": "100 Hendaya - Madrid",
+    "provincia": "Álava",
+    "descripcion_lugar": "Plena vía, vía I, tramo recto de vía doble con buena visibilidad, entre las estaciones de Vitoria y Alegría de Álava, término municipal de Vitoria. Entorno urbano, vallado y con obras para completar el vallado; acceso presumible por una puerta en montaje para personal de mantenimiento de la vía. En las inmediaciones existen una pasarela peatonal y un paso inferior carretero."
+   },
+   "pagina": 3,
+   "cita": "100 Hendaya - Madrid",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "100 Hendaya - Madrid",
+   "pagina": 3,
+   "cita": "100 Hendaya - Madrid",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 269062, Nº UIC 957102690626; 11 vagones; 346 toneladas de masa remolcada.",
+    "averia": "No se producen daños; equipos de seguridad funcionaron correctamente; el registrador de seguridad de la locomotora indica que, al accionar el freno de emergencia, el tren circulaba a 99 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 2008-12-13, a las 09:45 horas, el tren de mercancías 93161 de Renfe Operadora, compuesto por la locomotora 269062, 11 vagones y 346 toneladas de masa remolcada, procedente de Vitoria en dirección Irún, arrolló a una persona en plena vía, PK 494,315, vía I, entre las estaciones de Vitoria y Alegría de Álava, en la línea 100 Hendaya-Madrid, provincia de Álava. La víctima, un varón de 58 años, caminaba por el margen izquierdo de la vía, de espaldas al sentido de la marcha del tren y portando un paraguas para resguardarse de la lluvia, e intentó cruzar de izquierda a derecha cuando pasaba el tren.\n\nEl maquinista, al observar a una persona a unos 200 metros en un lugar no autorizado, hizo uso del silbato en varias ocasiones y, al acercarse y ver que estaba arrimado más de lo normal, volvió a tocar el silbato y aplicó el freno de emergencia. En ese momento el tren circulaba a 99 km/h, por debajo de la velocidad máxima permitida de 135 km/h, y no pudo evitar el arrollamiento; la víctima falleció en el acto.\n\nNo se produjeron daños materiales en el material rodante, la infraestructura ni el medio ambiente. Resultaron afectados dos trenes de larga distancia con un retraso total de 11 minutos y un tren de mercancías con un retraso total de 6 minutos; el tren implicado sufrió un retraso de 166 minutos. El lugar es un tramo recto de vía doble con buena visibilidad, en zona urbana, vallado y con obras para completar el vallado; según la inspección, la víctima habría accedido por una puerta que se estaba montando para personal de mantenimiento de la vía, aunque en las inmediaciones existían una pasarela peatonal y un paso inferior carretero.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "494,315",
+    "linea": "100 Hendaya - Madrid",
+    "provincia": "Álava",
+    "descripcion_lugar": "Plena vía, vía I, tramo recto de vía doble con buena visibilidad, entre las estaciones de Vitoria y Alegría de Álava, término municipal de Vitoria. Entorno urbano, vallado y con obras para completar el vallado; acceso presumible por una puerta en montaje para personal de mantenimiento de la vía. En las inmediaciones existen una pasarela peatonal y un paso inferior carretero."
+   },
+   "pagina": 3,
+   "cita": "100 Hendaya - Madrid",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Dos trenes de larga distancia con un retraso total de 11 minutos; un tren de mercancías con un retraso total de 6 minutos; el tren implicado sufre un retraso de 166 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 93161",
+     "implicacion": "Matrícula 8848541; habilitado conforme a la Orden Ministerial 2520 de 2006-07-27; último reciclaje formativo el 2007-02-14 y último reconocimiento médico y psicotécnico el 2005-10-31. Jornada efectiva de conducción: 44 minutos el día del accidente, 3 horas y 20 minutos en las 24 horas anteriores y 4 horas y 50 minutos en las 48 horas anteriores. Prueba de alcoholemia negativa, 0,00 mg/1000 ml. Hizo uso del silbato y del freno de emergencia; su actuación fue correcta."
+    },
+    {
+     "rol": "Víctima",
+     "implicacion": "Varón de 58 años que caminaba por el margen izquierdo de la vía, de espaldas al sentido de la marcha del tren y portando un paraguas, e intentó cruzar la vía cuando pasaba el tren 93161. Falleció en el acto."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "93161",
+     "tipo": "tren de mercancías",
+     "operador": "Renfe Operadora",
+     "danos": "Sin daños materiales; retraso de 166 minutos."
+    },
+    {
+     "numero": null,
+     "tipo": "tren de larga distancia",
+     "operador": null,
+     "danos": "Sin daños materiales; dos trenes afectados con un retraso total de 11 minutos."
+    },
+    {
+     "numero": null,
+     "tipo": "tren de mercancías",
+     "operador": null,
+     "danos": "Sin daños materiales; un tren afectado con un retraso total de 6 minutos."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 13 de diciembre de 2008, a las 09:45 horas, el tren de mercancías 93161, de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 269062, Nº UIC 957102690626; 11 vagones; 346 toneladas de masa remolcada.",
+    "averia": "No se producen daños; equipos de seguridad funcionaron correctamente; el registrador de seguridad de la locomotora indica que, al accionar el freno de emergencia, el tren circulaba a 99 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 4,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado con control de tráfico centralizado.",
+    "tipo_via": "Vía doble, alineación recta, vía I.",
+    "velocidad_maxima": "135 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Tramo recto con buena visibilidad, en zona urbana, vallado y con obras para completar el vallado; acceso presumible por una puerta en montaje para personal de mantenimiento de la vía. Existen paso inferior carretero y pasarela peatonal en las inmediaciones.",
+    "otro": "Radiotelefonía modalidad A. Según CIRTRA 2007, la media semanal de circulaciones del tramo Vitoria Gasteiz - Agurain Salvatie es de 308: 109 de larga distancia, 82 de media distancia, 1 de cercanías, 110 de mercancías y 7 de servicio."
+   },
+   "pagina": 5,
+   "cita": "Trayecto de vía doble con bloqueo automático banalizado con control de tráfico centralizado. La",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático banalizado con control de tráfico centralizado.",
+   "pagina": 5,
+   "cita": "Trayecto de vía doble con bloqueo automático banalizado con control de tráfico centralizado. La",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Dos trenes de larga distancia con un retraso total de 11 minutos; un tren de mercancías con un retraso total de 6 minutos; el tren implicado sufre un retraso de 166 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Dos trenes de larga distancia con un retraso total de 11 minutos; un tren de mercancías con un retraso total de 6 minutos; el tren implicado sufre un retraso de 166 minutos."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Dos trenes de larga distancia con un retraso total de 11 minutos; un tren de mercancías con un retraso total de 6 minutos; el tren implicado sufre un retraso de 166 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 269062, Nº UIC 957102690626; 11 vagones; 346 toneladas de masa remolcada.",
+    "averia": "No se producen daños; equipos de seguridad funcionaron correctamente; el registrador de seguridad de la locomotora indica que, al accionar el freno de emergencia, el tren circulaba a 99 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado con control de tráfico centralizado.",
+    "tipo_via": "Vía doble, alineación recta, vía I.",
+    "velocidad_maxima": "135 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Tramo recto con buena visibilidad, en zona urbana, vallado y con obras para completar el vallado; acceso presumible por una puerta en montaje para personal de mantenimiento de la vía. Existen paso inferior carretero y pasarela peatonal en las inmediaciones.",
+    "otro": "Radiotelefonía modalidad A. Según CIRTRA 2007, la media semanal de circulaciones del tramo Vitoria Gasteiz - Agurain Salvatie es de 308: 109 de larga distancia, 82 de media distancia, 1 de cercanías, 110 de mercancías y 7 de servicio."
+   },
+   "pagina": 5,
+   "cita": "Trayecto de vía doble con bloqueo automático banalizado con control de tráfico centralizado. La",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Lluvioso.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Álava",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 3,
+   "cita": "de Vitoria y Alegría de Álava.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Lluvioso.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático banalizado con control de tráfico centralizado.",
+   "pagina": 5,
+   "cita": "Trayecto de vía doble con bloqueo automático banalizado con control de tráfico centralizado. La",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado con control de tráfico centralizado.",
+    "tipo_via": "Vía doble, alineación recta, vía I.",
+    "velocidad_maxima": "135 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Tramo recto con buena visibilidad, en zona urbana, vallado y con obras para completar el vallado; acceso presumible por una puerta en montaje para personal de mantenimiento de la vía. Existen paso inferior carretero y pasarela peatonal en las inmediaciones.",
+    "otro": "Radiotelefonía modalidad A. Según CIRTRA 2007, la media semanal de circulaciones del tramo Vitoria Gasteiz - Agurain Salvatie es de 308: 109 de larga distancia, 82 de media distancia, 1 de cercanías, 110 de mercancías y 7 de servicio."
+   },
+   "pagina": 5,
+   "cita": "Trayecto de vía doble con bloqueo automático banalizado con control de tráfico centralizado. La",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 269062, Nº UIC 957102690626; 11 vagones; 346 toneladas de masa remolcada.",
+    "averia": "No se producen daños; equipos de seguridad funcionaron correctamente; el registrador de seguridad de la locomotora indica que, al accionar el freno de emergencia, el tren circulaba a 99 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Invasión del gálibo por la víctima",
+    "Caminar por margen izquierdo",
+    "Intentar cruzar al pasar tren",
+    "Puerta en montaje permitía acceso"
+   ],
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión del gálibo por la víctima que caminaba por",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 2008-12-13, a las 09:45 horas, el tren de mercancías 93161 de Renfe Operadora, compuesto por la locomotora 269062, 11 vagones y 346 toneladas de masa remolcada, procedente de Vitoria en dirección Irún, arrolló a una persona en plena vía, PK 494,315, vía I, entre las estaciones de Vitoria y Alegría de Álava, en la línea 100 Hendaya-Madrid, provincia de Álava. La víctima, un varón de 58 años, caminaba por el margen izquierdo de la vía, de espaldas al sentido de la marcha del tren y portando un paraguas para resguardarse de la lluvia, e intentó cruzar de izquierda a derecha cuando pasaba el tren.\n\nEl maquinista, al observar a una persona a unos 200 metros en un lugar no autorizado, hizo uso del silbato en varias ocasiones y, al acercarse y ver que estaba arrimado más de lo normal, volvió a tocar el silbato y aplicó el freno de emergencia. En ese momento el tren circulaba a 99 km/h, por debajo de la velocidad máxima permitida de 135 km/h, y no pudo evitar el arrollamiento; la víctima falleció en el acto.\n\nNo se produjeron daños materiales en el material rodante, la infraestructura ni el medio ambiente. Resultaron afectados dos trenes de larga distancia con un retraso total de 11 minutos y un tren de mercancías con un retraso total de 6 minutos; el tren implicado sufrió un retraso de 166 minutos. El lugar es un tramo recto de vía doble con buena visibilidad, en zona urbana, vallado y con obras para completar el vallado; según la inspección, la víctima habría accedido por una puerta que se estaba montando para personal de mantenimiento de la vía, aunque en las inmediaciones existían una pasarela peatonal y un paso inferior carretero.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en el P.K. 494,315, entre las estaciones de Vitoria y Alegría de Álava de la \nlínea 100 Madrid - Hendaya. \nIF-131208-210409-CIAF \n \n \nPág. 8 de 11\n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0072/2008 ocurrido el 13.12.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-131208-210409-CIAF \n \n \nPág. 9 de 11\nDel análisis del registrador de seguridad de la locomotora se desprende que el tren circulaba a una \nvelocidad inferior a la máxima permitida en el tramo. \nSegún lo declarado por el maquinista, al percatarse de la presencia del hombre en la caja de la vía, \nhizo uso del silbato repetidas veces y actuó sobre el freno de emergencia, por lo que la actuación del \nmaquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nLos equipos de seguridad del tren funcionaban correctamente en el momento del accidente y de \nacuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nSegún lo declarado por el maquinista, el hombre caminaba por el lateral de la vía I de espaldas al \nsentido de la marcha del tren y, cuando se aproximaba el tren, trató de cruzar la vía. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en la invasión del gálibo por la víctima que caminaba por el margen \nizquierdo de la vía e intentó cruzarla cuando pasaba el tren 93161.",
+   "pagina": 8,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión del gálibo por la víctima, que caminaba por el margen izquierdo de la vía e intentó cruzarla cuando pasaba el tren 93161.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión del gálibo por la víctima que caminaba por",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Invasión del gálibo por la víctima",
+    "Caminar por margen izquierdo",
+    "Intentar cruzar al pasar tren",
+    "Puerta en montaje permitía acceso"
+   ],
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la invasión del gálibo por la víctima que caminaba por",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones, dado que es una zona vallada y \nque, en las inmediaciones, hay una pasarela peatonal y un paso inferior \ncarretero. \n \n \n \nMadrid, 21 de abril de 2009. \n \n \n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0072/2008 ocurrido el 13.12.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-131208-210409-CIAF \n \n \nPág. 10 de 11\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA INVESTIGACIÓN  \nDEL ACCIDENTE FERROVIARIO Nº 0072/2008 \nOCURRIDO EL DÍA 13.12.2008 \nEN PLENA VÍA, P.K. 494,315, \nENTRE LAS ESTACIONES DE VITORIA Y ALEGRÍA DE ÁLAVA \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0072/2008 ocurrido el 13.12.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-131208-210409-CIAF \n \n \nPág. 11 de 11\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 21 de abril \nde 2009, analizado el expediente nº 0072/2008 del accidente acaecido el 13.12.2008 en plena vía, \nP.K. 494,315, entre las estaciones de Vitoria y Alegría de Álava, de la línea 100 Madrid - Hendaya, se \naprueba como definitivo el informe particular presentado por el técnico investigador con la siguiente \nrecomendación: \n \nDestinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones, dado que es una zona vallada y \nque, en las inmediaciones, hay una pasarela peatonal y un paso inferior \ncarretero. \n \n \n \nMadrid, 21 de abril de 2009",
+   "pagina": 9,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones, dado que es una zona vallada y que, en las inmediaciones, hay una pasarela peatonal y un paso inferior carretero.",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "09:45",
+     "evento": "El tren de mercancías 93161 de Renfe Operadora arrolla a un varón de 58 años en plena vía, PK 494,315, entre Vitoria y Alegría de Álava. La víctima fallece en el acto."
+    },
+    {
+     "hora": "10:54",
+     "evento": "El coordinador de accidentes ferroviarios de Adif comunica a la Comisión de Investigación de Accidentes Ferroviarios, mediante mensaje de telefonía móvil, que se ha producido el arrollamiento de una persona entre Vitoria y Alegría de Álava."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0072/2008",
+ "expediente": "0072/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de una persona por un tren de mercancías entre Vitoria y Alegría de Álava, PK 494,315, línea 100",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-131208-210409-CIAF_ES-672.md"
+}

@@ -1,0 +1,1019 @@
+{
+ "id": "2024-64-0625-if",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/2024-64-0625-if.pdf",
+ "pdf": "pdfs/ES/2024-64-0625-if.pdf",
+ "md5_pdf": "5d0b5ea31603fa8d7f6ceef182a050d8",
+ "paginas_md": 29,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 33,
+ "n_tablas": 1,
+ "tablas": [
+  {
+   "pagina": 24,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "AESF",
+     "Número": "64/2024-1",
+     "Recomendación": "Realizar estudios específicos, para mejorar la ergonomía de las señales luminosas en alta velocidad, considerando el factor humano y realizando los análisis de riesgos correspondientes."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF y ADIF AV",
+     "Número": "64/2024-2",
+     "Recomendación": "Poner en servicio el Nivel 2 de ERTMS en las líneas equipadas con dicho nivel pero que aún no esté operativo."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF y ADIF AV",
+     "Número": "64/2024-3",
+     "Recomendación": "Estudiar la posibilidad, en aquellas líneas equipadas con ambos niveles de ERTMS, de desactivar el Nivel 1, suprimiendo el aspecto FF7D, siempre llevando a cabo el preceptivo análisis de riesgos y evaluación sobre la capacidad pertinentes."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF y ADIF AV",
+     "Número": "64/2024-4",
+     "Recomendación": "Revisar los protocolos de actuación para autorización de reanudación de la marcha tras un modo TRIP, incluidos en sus sistemas de gestión de seguridad, facilitando al RC, en particular, la confirmación del nivel de ERTMS en el que circula el tren, en casos de coexistencia de niveles."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF y ADIF AV",
+     "Número": "64/2024-5",
+     "Recomendación": "Establecer como medida mitigadora transitoria hasta la puesta en servicio de Nivel 2, la programación de los enrutadores automáticos en modo ASFA en las líneas equipadas con Nivel 2 pero que no está operativo."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF y ADIF AV",
+     "Número": "64/2024-6",
+     "Recomendación": "Establecer en los PPTP de los proyectos que afecten al subsistema CMS, condiciones que garanticen la compatibilidad técnica con los de los tramos adyacentes."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "EMPRESAS FERROVIARIAS",
+     "Número": "64/2024-7",
+     "Recomendación": "Potenciar los principios de cultura justa en lo referente a los rebases de señal."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "64/2024",
+   "pagina": 1,
+   "cita": "INFORME FINAL DE LA CIAF (IF) 64/2024",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 25 de junio de 2024, el tren de alta velocidad 05903, entre Murcia del Carmen y Madrid-Puerta de Atocha, sufrió un incidente operacional en la estación de Cuenca-Fernando Zóbel. Tras una parada comercial, el tren rebasó indebidamente la señal de salida S1/5 en aspecto FF7C mientras circulaba en ERTMS Nivel 1, lo que activó el modo TRIP. El Responsable de Circulación del CRC de Albacete autorizó reanudar la marcha sin interpretar que se había producido un rebase, aunque poco después ordenó detener el tren y retroceder a la estación. No hubo víctimas ni daños materiales, pero el tren acumuló un retraso de 55 minutos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2024-06-25",
+    "hora": "21:30",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Cuenca-Fernando Zóbel",
+     "pk": "195+100",
+     "linea": "LAV 040",
+     "provincia": null,
+     "descripcion_lugar": "Estación de Cuenca-Fernando Zóbel, vía 5 de apartado, señal de salida S1/5 en sentido Madrid, en la LAV 040 de la Red Ferroviaria de Interés General."
+    }
+   },
+   "pagina": 1,
+   "cita": "Zóbel el 25 de junio de 2024",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Retraso de 55 minutos del tren implicado; no se produjo interceptación de la vía; no se activó ningún Plan de Emergencias."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Interpretación errónea del aspecto FF7C de la señal S1/5 por parte del maquinista, que provocó un rebase indebido, y autorización de reanudación de la marcha por parte del RC sin reconocer que se había producido el rebase.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Experiencias anteriores del maquinista con situaciones de activación del modo TRIP en otros puntos de la red.",
+    "Cambio de turno en el CRC.",
+    "Falta de verificación del aspecto de la señal por parte del maquinista.",
+    "Atención dividida del maquinista, debido al acceso de personal formador a la cabina."
+   ],
+   "pagina": 5,
+   "cita": "• Experiencias anteriores del maquinista con situaciones de activación del modo TRIP en otros puntos de la red. • Cambio de turno en el CRC. • Falta de verificación del aspecto de la señal por parte del maquinista.",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Similitud entre los aspectos FF7C y FF7D de la señal.",
+    "Necesidad de actuaciones diferentes por parte del maquinista ante el aspecto FF7C, en un mismo servicio, en función del nivel de ERTMS en el que circula el tren.",
+    "Atención requerida por el maquinista para el control de la velocidad de liberación.",
+    "Equipamiento ya existente de la vía con Nivel 2 de ERTMS, sin estar operativo en este trayecto.",
+    "Expectativa del maquinista de recibir la Orden de Marcha, señal de salida."
+   ],
+   "pagina": 5,
+   "cita": "Similitud entre los aspectos FF7C y FF7D de la señal.",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Realizar estudios específicos, para mejorar la ergonomía de las señales luminosas en alta velocidad, considerando el factor humano y realizando los análisis de riesgos correspondientes.",
+    "Poner en servicio el Nivel 2 de ERTMS en las líneas equipadas con dicho nivel pero que aún no esté operativo.",
+    "Estudiar la posibilidad, en aquellas líneas equipadas con ambos niveles de ERTMS, de desactivar el Nivel 1, suprimiendo el aspecto FF7D, siempre llevando a cabo el preceptivo análisis de riesgos y evaluación sobre la capacidad pertinentes.",
+    "Revisar los protocolos de actuación para autorización de reanudación de la marcha tras un modo TRIP, incluidos en sus sistemas de gestión de seguridad, facilitando al RC, en particular, la confirmación del nivel de ERTMS en el que circula el tren, en casos de coexistencia de niveles.",
+    "Establecer como medida mitigadora transitoria hasta la puesta en servicio de Nivel 2, la programación de los enrutadores automáticos en modo ASFA en las líneas equipadas con Nivel 2 pero que no está operativo.",
+    "Establecer en los PPTP de los proyectos que afecten al subsistema CMS, condiciones que garanticen la compatibilidad técnica con los de los tramos adyacentes.",
+    "Potenciar los principios de cultura justa en lo referente a los rebases de señal."
+   ],
+   "pagina": 24,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 24,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Incidente operacional",
+   "pagina": 1,
+   "cita": "Incidente operacional en la estación de Cuenca-Fernando",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "ADIF AV"
+   ],
+   "pagina": 4,
+   "cita": "ADIF Administrador de Infraestructuras Ferroviarias AESF Agencia Estatal de Seguridad Ferroviaria ASFA Anuncio de Señales y Frenado Automático CIAF Comisión de Investigación de Accidentes Ferroviarios CRC Centro",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2024-06-25",
+   "pagina": 1,
+   "cita": "Zóbel el 25 de junio de 2024",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "21:30",
+   "pagina": 5,
+   "cita": "El 25 de junio de 2024, a las 21:30 horas, el tren de alta velocidad 05903, procedente de Murcia del",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Cuenca-Fernando Zóbel",
+    "pk": "195+100",
+    "linea": "LAV 040",
+    "provincia": null,
+    "descripcion_lugar": "Estación de Cuenca-Fernando Zóbel, vía 5 de apartado, señal de salida S1/5 en sentido Madrid, en la LAV 040 de la Red Ferroviaria de Interés General."
+   },
+   "pagina": 5,
+   "cita": "comercial en la estación de Cuenca-Fernando Zóbel. El incidente se produjo cuando el tren sobrepasó",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Serie 102, unidad 102004.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El 25 de junio de 2024, el tren de alta velocidad 05903 salió de Murcia del Carmen a las 18:58 con destino Madrid-Puerta de Atocha. Hasta Bifurcación Triángulo circuló con ERTMS Nivel 2 y, desde ese punto, con ERTMS Nivel 1. A las 21:19 llegó a la estación de Cuenca-Fernando Zóbel y realizó una parada comercial en la vía 5, donde la señal de salida S1/5 mostraba aspecto rojo fijo porque otro tren sin parada circulaba por vía directa.\n\nDurante la parada accedió a la cabina un Mando Intermedio Formador de la ETPCO. A las 21:32, la señal S1/5 cambió de rojo fijo a FF7C, rojo fijo y azul fijo. El maquinista interpretó erróneamente que el aspecto era FF7D, rojo fijo y azul destellante, e inició la marcha a 11 km/h, rebasando indebidamente la señal. Se activó el modo TRIP del ERTMS y el tren se detuvo a las 21:33, 5,40 metros después de la señal, sin rebasar el punto de peligro por 8,60 metros.\n\nEl maquinista comunicó el TRIP al Responsable de Circulación del CRC de Albacete, quien autorizó reanudar la marcha mediante telefonema sin interpretar que había ocurrido un rebase. A las 21:36, el RC ordenó detener el tren para revisar la situación y, a las 21:40, tras comprobarse en el videográfico que se había producido un rebase indebido, ordenó cambio de cabina y retroceso a la vía 5 de Cuenca-Fernando Zóbel. A las 22:05 se dio la orden de marcha hacia el destino, con un auxiliar de cabina procedente del tren 05210.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Cuenca-Fernando Zóbel",
+    "pk": "195+100",
+    "linea": "LAV 040",
+    "provincia": null,
+    "descripcion_lugar": "Estación de Cuenca-Fernando Zóbel, vía 5 de apartado, señal de salida S1/5 en sentido Madrid, en la LAV 040 de la Red Ferroviaria de Interés General."
+   },
+   "pagina": 5,
+   "cita": "comercial en la estación de Cuenca-Fernando Zóbel. El incidente se produjo cuando el tren sobrepasó",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Retraso de 55 minutos del tren implicado; no se produjo interceptación de la vía; no se activó ningún Plan de Emergencias."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Desde el incidente ocurrido en la estación de Cuenca-Fernando Zóbel y, específicamente, en relación \ncon la señal S1/5, se ha implementado una medida para mitigar el riesgo de rebase. Esta medida \nconsiste en la programación del enrutador automático en modo ASFA por parte del CRC. De este \nmodo, el itinerario de salida por la vía 5 solo se establece cuando el cantón y el circuito de \ndeslizamiento de BSL están libres. Como resultado, la señal pasa directamente de aspecto rojo a \nverde, sin mostrar los aspectos rojo y azul. \n \n \n\n## Página 24\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n24",
+   "pagina": 23,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 05903",
+     "implicacion": "Interpretó erróneamente el aspecto FF7C de la señal S1/5 como FF7D, inició la marcha y rebasó indebidamente la señal; no identificó el TRIP como rebase y tuvo atención dividida por el acceso de personal formador a la cabina."
+    },
+    {
+     "rol": "Responsable de Circulación del CRC de Albacete, banda 0301, personal de ADIF",
+     "implicacion": "Autorizó reanudar la marcha tras el TRIP sin interpretar que se había producido un rebase indebido; posteriormente ordenó detener el tren y retroceder a la estación."
+    },
+    {
+     "rol": "Regulador del CRC de Albacete",
+     "implicacion": "Sospechó que podía tratarse de un rebase indebido, revisó el registro videográfico, confirmó el rebase y ordenó la detención y el retroceso del tren."
+    },
+    {
+     "rol": "Mando Intermedio Formador de conducción de la ETPCO",
+     "implicacion": "Accedió a la cabina durante la parada comercial; su presencia pudo influir en la atención dividida del maquinista."
+    },
+    {
+     "rol": "Auxiliar de cabina procedente del tren 05210",
+     "implicacion": "Acompañó al maquinista en la orden de marcha final hacia el destino."
+    }
+   ],
+   "pagina": 10,
+   "cita": "➢ Maquinista del tren 05903 de RENFE Viajeros.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "Resultan relevantes para la investigación de este suceso las actuaciones previas del personal \nferroviario siguiente: \n➢ Responsable de Circulación de la banda 0301 del CRC de Albacete, personal de ADIF.  \n➢ Maquinista del tren 05903 de RENFE Viajeros.  \nLas entidades relacionadas con el incidente son las siguientes:  \n➢ ADIF: Administrador de Infraestructuras Ferroviarias. \n➢ RENFE Viajeros: Empresa Ferroviaria del tren implicado en el suceso.",
+   "pagina": 10,
+   "cita": "3.1.4. Personal y entidades",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "05903",
+     "tipo": "tren de alta velocidad",
+     "operador": "RENFE Viajeros",
+     "danos": "Sin daños materiales; retraso de 55 minutos."
+    },
+    {
+     "numero": null,
+     "tipo": "tren sin parada comercial en Cuenca-Fernando Zóbel",
+     "operador": null,
+     "danos": null
+    },
+    {
+     "numero": "05210",
+     "tipo": null,
+     "operador": null,
+     "danos": null
+    }
+   ],
+   "pagina": 5,
+   "cita": "El 25 de junio de 2024, a las 21:30 horas, el tren de alta velocidad 05903, procedente de Murcia del",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Serie 102, unidad 102004.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "ERTMS Nivel 1 en servicio; ERTMS Nivel 2 instalado pero no operativo; ASFA; señal de parada selectiva S1/5 en aspecto FF7C, rojo fijo y azul fijo; el enclavamiento no puede discriminar el nivel ERTMS en el que circula el tren.",
+    "tipo_via": "Vía doble de ancho internacional; estación con dos vías generales y cuatro vías de apartado; suceso en la vía 5 de apartado.",
+    "velocidad_maxima": null,
+    "ancho": "Ancho internacional.",
+    "electrificacion": "Electrificada a 25 kV.",
+    "estado_via": "Vía 5 de apartado con señal de salida S1/5; itinerario en vía general establecido para otro tren; tras el TRIP, el RC verificó que el cantón de Nivel 1 posterior estaba libre.",
+    "otro": "LAV 040 de la RFIG; PK 195+100; desde 2010 solo está en servicio el Nivel 1 por problemas asociados a la FN20; medida mitigadora implementada: programación del enrutador automático en modo ASFA para que la señal pase directamente de rojo a verde; el videográfico del CRC graba archivos cada hora."
+   },
+   "pagina": 10,
+   "cita": "El tramo es de vía doble de ancho internacional, electrificada a 25 kV, y equipada con ASFA y ERTMS",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "ERTMS Nivel 1 en servicio; ERTMS Nivel 2 instalado pero no operativo; ASFA; señal de parada selectiva S1/5 en aspecto FF7C, rojo fijo y azul fijo; el enclavamiento no puede discriminar el nivel ERTMS en el que circula el tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Retraso de 55 minutos del tren implicado; no se produjo interceptación de la vía; no se activó ningún Plan de Emergencias."
+   },
+   "pagina": 10,
+   "cita": "➢ RENFE Viajeros: Empresa Ferroviaria del tren implicado en el suceso.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Retraso de 55 minutos del tren implicado; no se produjo interceptación de la vía; no se activó ningún Plan de Emergencias."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Retraso de 55 minutos del tren implicado; no se produjo interceptación de la vía; no se activó ningún Plan de Emergencias."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 102, unidad 102004.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "ERTMS Nivel 1 en servicio; ERTMS Nivel 2 instalado pero no operativo; ASFA; señal de parada selectiva S1/5 en aspecto FF7C, rojo fijo y azul fijo; el enclavamiento no puede discriminar el nivel ERTMS en el que circula el tren.",
+    "tipo_via": "Vía doble de ancho internacional; estación con dos vías generales y cuatro vías de apartado; suceso en la vía 5 de apartado.",
+    "velocidad_maxima": null,
+    "ancho": "Ancho internacional.",
+    "electrificacion": "Electrificada a 25 kV.",
+    "estado_via": "Vía 5 de apartado con señal de salida S1/5; itinerario en vía general establecido para otro tren; tras el TRIP, el RC verificó que el cantón de Nivel 1 posterior estaba libre.",
+    "otro": "LAV 040 de la RFIG; PK 195+100; desde 2010 solo está en servicio el Nivel 1 por problemas asociados a la FN20; medida mitigadora implementada: programación del enrutador automático en modo ASFA para que la señal pase directamente de rojo a verde; el videográfico del CRC graba archivos cada hora."
+   },
+   "pagina": 10,
+   "cita": "El tramo es de vía doble de ancho internacional, electrificada a 25 kV, y equipada con ASFA y ERTMS",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Condiciones meteorológicas y de visibilidad favorables.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": null,
+    "municipio": null,
+    "estacion": "Cuenca-Fernando Zóbel"
+   },
+   "pagina": 5,
+   "cita": "comercial en la estación de Cuenca-Fernando Zóbel. El incidente se produjo cuando el tren sobrepasó",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Condiciones meteorológicas y de visibilidad favorables.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "ERTMS Nivel 1 en servicio; ERTMS Nivel 2 instalado pero no operativo; ASFA; señal de parada selectiva S1/5 en aspecto FF7C, rojo fijo y azul fijo; el enclavamiento no puede discriminar el nivel ERTMS en el que circula el tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "ERTMS Nivel 1 en servicio; ERTMS Nivel 2 instalado pero no operativo; ASFA; señal de parada selectiva S1/5 en aspecto FF7C, rojo fijo y azul fijo; el enclavamiento no puede discriminar el nivel ERTMS en el que circula el tren.",
+    "tipo_via": "Vía doble de ancho internacional; estación con dos vías generales y cuatro vías de apartado; suceso en la vía 5 de apartado.",
+    "velocidad_maxima": null,
+    "ancho": "Ancho internacional.",
+    "electrificacion": "Electrificada a 25 kV.",
+    "estado_via": "Vía 5 de apartado con señal de salida S1/5; itinerario en vía general establecido para otro tren; tras el TRIP, el RC verificó que el cantón de Nivel 1 posterior estaba libre.",
+    "otro": "LAV 040 de la RFIG; PK 195+100; desde 2010 solo está en servicio el Nivel 1 por problemas asociados a la FN20; medida mitigadora implementada: programación del enrutador automático en modo ASFA para que la señal pase directamente de rojo a verde; el videográfico del CRC graba archivos cada hora."
+   },
+   "pagina": 10,
+   "cita": "El tramo es de vía doble de ancho internacional, electrificada a 25 kV, y equipada con ASFA y ERTMS",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "La notificación del presente suceso fue realizada el día 29 de julio de 2024 mediante correo \nelectrónico remitido por el SEMAF al Secretario de la CIAF.   \nEn base a esta información, se solicitó información sobre el suceso a ADIF el día 9 de agosto de 2024, \nremitiéndose información básica del mismo el día 24 de agosto de 2024 por correo electrónico.  \nCon posterioridad se produjeron nuevos intercambios de información tanto con ADIF como con \nRENFE-Viajeros por correo electrónico. \nEl Informe Particular de ADIF se recibió en la CIAF con fecha 13 de febrero de 2025. \nEl Informe Particular de Renfe Viajeros se recibió en la CIAF con fecha 7 de mayo de 2025.",
+   "pagina": 8,
+   "cita": "2.4. CANALES DE COMUNICACIÓN",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 102, unidad 102004.",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Experiencias anteriores del maquinista con situaciones de activación del modo TRIP en otros puntos de la red.",
+    "Cambio de turno en el CRC.",
+    "Falta de verificación del aspecto de la señal por parte del maquinista.",
+    "Atención dividida del maquinista, debido al acceso de personal formador a la cabina."
+   ],
+   "pagina": 5,
+   "cita": "• Experiencias anteriores del maquinista con situaciones de activación del modo TRIP en otros puntos de la red. • Cambio de turno en el CRC. • Falta de verificación del aspecto de la señal por parte del maquinista.",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Tanto este suceso como los otros incidentes mencionados en el apartado 4.5 evidencian que los \naspectos rojo fijo y azul fijo (Figura FF7C) y rojo fijo y azul destellante (Figura FF7D) de las señales no \nresultan suficientemente ergonómicos, debido a diversos factores que se detallan a continuación.  \nEn primer lugar, es importante considerar que, en el caso objeto de este Informe, el maquinista \ncircula con ERTMS Nivel 2 entre Murcia del Carmen y Bifurcación Triángulo (Albacete), por lo que \nante las señales con aspecto FF7C (rojo fijo y azul fijo) lo que debe hacer es continuar la marcha o \niniciarla. \nSin embargo, desde Bifurcación Triángulo (Albacete) hasta Madrid, el tren pasa a circular con ERTMS \nNivel 1, lo que obliga al maquinista a detenerse ante las señales con aspecto FF7C (rojo fijo y azul fijo) \ndebiendo esperar hasta el aspecto FF7D (rojo fijo y azul destellante) para reanudar la marcha. Así, se \npresenta una situación en la que, ante exactamente el mismo estímulo visual, el maquinista debe \nreaccionar de manera diferente y contrapuesta durante un mismo viaje y jornada de conducción.  \nEn segundo lugar, debe tenerse en cuenta que la respuesta del maquinista ante un estímulo visual no \nsólo depende de dicho estímulo, sino que es un proceso cognitivo más complejo, en el que también \ninterviene la expectativa. En este caso, el maquinista detenido ante una señal que ordena parada \n\n## Página 18\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n18 \n \n \n \n \n(rojo fijo) tiene la expectativa de que dicha señal cambie de aspecto y le permita reanudar la marcha. \nNo obstante, ante el cambio de aspecto a rojo fijo y azul fijo (FF7C) la respuesta prescrita para el \nmaquinista es permanecer detenido hasta que el azul se muestre en aspecto destellante (FF7D). Es \ndecir, inicialmente se produce un estímulo visual, ante el cual el maquinista no debe reaccionar, y se \nproduce un conflicto con su expectativa en relación con otros aprendizajes para el mismo estímulo. \nAnte un estímulo visual poco discriminativo, ante el cual el maquinista tiene el hábito adquirido de \nresponder de forma contraria en otro nivel con el mismo sistema, sumado a las expectativas creadas \npor el entorno (el cruce por vía directa de otra circulación, la percepción visual de los cambios hacia \nsu dirección, la hora de salida, etc.), al maquinista le resulta difícil inhibir la respuesta de iniciar la \nmarcha en esas condiciones.  \nAsimismo, se ha identificado una situación de “atención dividida” en este suceso y otros similares. \nCuando la señal presenta un aspecto permisivo, el maquinista debe aproximarse con una velocidad \nde liberación inferior a 15 km/h (o a 30 km/h en otros casos). Si se sobrepasa esta velocidad, se activa \nel TRIP. Debido a que esta velocidad es reducida, el maquinista debe concentrarse en observar su \nDMI para asegurar que no se exceda. Esto divide su atención entre dos tareas: observar el aspecto de \nla señal y controlar la velocidad en el DMI. \nCabe destacar la similitud entre los aspectos FF7C y FF7D. La única diferencia entre ambas radica en \nque el foco azul está fijo en una, y destellante en la otra. Estas señales son muy similares, pero la \nrespuesta del maquinista debe ser distinta en cada caso.  \nSecundariamente, en este caso específico, el acceso de otro maquinista, formador en habilitación de \nla infraestructura, en la estación de Cuenca-Fernando Zóbel podría también potencialmente haber \ninfluido en la desviación atencional del maquinista. \nTambién es importante señalar que, tras el TRIP, el maquinista no lo identificó como un rebase, \ndebido en parte a experiencias previas, especialmente con una señal de salida en Orihuela, donde un \ndefecto en la baliza provocaba un TRIP sin que fuese debido a un rebase indebido. \nFinalmente, en el caso del RC, también se dio una situación de “atención dividida” en el momento del \nsuceso, tal como se explicará en el punto 4.4.",
+   "pagina": 17,
+   "cita": "4.3. FACTORES HUMANOS RELACIONADOS CON EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El 25 de junio de 2024, el tren de alta velocidad 05903 salió de Murcia del Carmen a las 18:58 con destino Madrid-Puerta de Atocha. Hasta Bifurcación Triángulo circuló con ERTMS Nivel 2 y, desde ese punto, con ERTMS Nivel 1. A las 21:19 llegó a la estación de Cuenca-Fernando Zóbel y realizó una parada comercial en la vía 5, donde la señal de salida S1/5 mostraba aspecto rojo fijo porque otro tren sin parada circulaba por vía directa.\n\nDurante la parada accedió a la cabina un Mando Intermedio Formador de la ETPCO. A las 21:32, la señal S1/5 cambió de rojo fijo a FF7C, rojo fijo y azul fijo. El maquinista interpretó erróneamente que el aspecto era FF7D, rojo fijo y azul destellante, e inició la marcha a 11 km/h, rebasando indebidamente la señal. Se activó el modo TRIP del ERTMS y el tren se detuvo a las 21:33, 5,40 metros después de la señal, sin rebasar el punto de peligro por 8,60 metros.\n\nEl maquinista comunicó el TRIP al Responsable de Circulación del CRC de Albacete, quien autorizó reanudar la marcha mediante telefonema sin interpretar que había ocurrido un rebase. A las 21:36, el RC ordenó detener el tren para revisar la situación y, a las 21:40, tras comprobarse en el videográfico que se había producido un rebase indebido, ordenó cambio de cabina y retroceso a la vía 5 de Cuenca-Fernando Zóbel. A las 22:05 se dio la orden de marcha hacia el destino, con un auxiliar de cabina procedente del tren 05210.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "A partir de la descripción de los hechos, se pueden extraer las siguientes constataciones:  \n1. El tren involucrado en el suceso realizaba el trayecto Murcia del Carmen – Madrid Puerta de \nAtocha circulando con ERTMS Nivel 2 desde su origen hasta Bifurcación Triángulo, y con ERTMS \nNivel 1 desde Bifurcación Triángulo hasta Parla AV, donde transita a LZB hasta su destino final.  \n2. En la estación de Cuenca-Fernando Zóbel, el tren realizó parada comercial en la vía 5 cumpliendo \nel tiempo establecido para la parada, mostrando en ese momento la señal de salida S1/5 aspecto \nrojo fijo (Figura FF7A), dado que existía un EoA (Fin de Movimiento Autorizado) asociado a dicha \nseñal.  \n3. Durante dicha parada comercial accedió a la cabina un Mando Intermedio de la ETPCO que se \nestaba habilitando de la infraestructura.  \n4. En el intervalo de la parada comercial, por vía general efectuó su paso un tren sin parada en \nCuenca que tras liberar el cantón correspondiente al Nivel 2 de ERTMS, ocasionó el cambio de \naspecto de la señal S1/5 de rojo fijo (Figura FF7A) a rojo y azul fijos (Figura FF7C).  \n5. A continuación, el maquinista se aproximó al grupo de balizas de la señal S1/5, interpretando \nerróneamente que el aspecto mostrado era rojo fijo y azul destellante (FF7D). \n6. El rebase del EoA asociado a la señal de salida S1/5 provocó un TRIP que detuvo el tren 5,40 \nmetros después de dicha señal.  \n7. Este TRIP no fue interpretado como un rebase indebido de señal ni por el maquinista ni por el RC \ndel CRC de Albacete.  \n8. El RC del CRC, tras verificar que el cantón de ERTMS Nivel 1 posterior estaba libre, autorizó \nmediante telefonema al maquinista a reanudar la marcha, ya que no pudo comprobar que se \ntratara de un rebase indebido. \n9. El regulador del CRC de Albacete al sospechar que podía tratarse de un rebase indebido, indicó \nal RC que comunicase al maquinista la orden de detención del tren. \n10. El regulador del CRC de Albacete verificó, al revisar el registro del videográfico, que se trataba de \nun rebase indebido, y el RC del CRC ordenó al maquinista el retroceso del tren hasta la vía 5 de \nCuenca-Fernando Zóbel.  \n4.1. COMETIDOS Y DEBERES RELACIONADOS CON EL SUCESO \nUna de las cuestiones que se han analizado durante la investigación del suceso es la funcionalidad de \nla señal de parada selectiva tal y como está descrita en el Reglamento de Circulación Ferroviaria (RCF):  \n\n## Página 14\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n14 \n \n \n \n \n“1. Para trenes que no circulen con ERTMS, ordena parar ante la señal sin rebasarla. \n2. Cuando se circule con ETCS Nivel 1 en servicio, en modo FS y con una MA, si la señal presenta el \naspecto de FF7D, ordena continuar la marcha de acuerdo con las indicaciones del DMI. Si la MA \nalcanza solamente hasta dicha señal, podrá ser rebasada con velocidad de liberación. \n3. Cuando se circule con ETCS Nivel 2 en servicio, en modo FS y con una MA, si la señal presenta el \naspecto de FF7C o FF7D, ordena continuar la marcha de acuerdo con las indicaciones del DMI, \ndebiendo el Maquinista atender al alcance de la MA mostrada. \n4. Cuando se esté circulando, o se vaya a circular con ETCS Nivel 1, la señal FF7D autoriza al Maquinista \na avanzar hacia ella para obtener una MA en sus balizas asociadas.” \n \nFigura 4 Señal de parada selectiva en el RCF \nLa motivación de esta señal de parada selectiva radica en la optimización de la capacidad cuando en \nuna línea conviven varios sistemas de señalización. Así, cuando la señal presenta el aspecto de un \nsolo foco rojo encendido, ordena la parada para todos los trenes, independientemente del sistema \nbajo el cual circulen.  \nLas características de cada sistema de circulación hacen que las longitudes de cantones y distancias \nde frenado requeridas varíen en función de si se opera en ASFA, ERTMS Nivel 1 o ERTMS Nivel 2. Esto \nimplica que dependiendo del sistema y nivel en el que circule un tren se podrá avanzar en diferentes \ncondiciones de liberación de cantones y estado de señales de bloqueo. El aspecto FF7D (rojo fijo y \n\n## Página 15\n\n \nInforme Final de la CIAF 64/2024 \n \n \n \n \n \n \n \n \n \n \n \n \n15 \n \nazul destellante) permite avanzar a los trenes que circulan en ERTMS independientemente del nivel. \nEl aspecto FF7C (rojo fijo y azul fijo) permite avanzar a los trenes que circulan en ERTMS Nivel 2 \nsolamente. Esta disposición permite una optimización de la capacidad de la línea en función del \nsistema embarcado.  \nAunque la señal de parada selectiva optimiza la capacidad de las líneas, en la práctica la convivencia \nde trenes que circulan con diferentes sistemas de señalización suele limitarse a períodos de transición \nentre sistemas. En general, las empresas ferroviarias que operan en líneas de alta velocidad tienden \na adaptar su material rodante al sistema que permita una mayor optimización de la operación \nferroviaria. De esta forma, en las líneas equipadas con ERTMS Nivel 2 en servicio, la mayoría de las \nveces se circula en Nivel 2, relegando el ASFA y el Nivel 1 a situaciones degradadas y poco frecuentes, \ncomo sistemas de respaldo/emergencia. \nEs relevante destacar que la señal de parada selectiva es necesaria en España, debido a la coexistencia \nde varios sistemas de señalización en un mismo tramo. En algunos países de la Unión Europea existen \nlíneas con ERTMS Nivel 2 que no requieren señalización vertical luminosa. En España, la señalización \nvertical no es necesaria por el ERTMS Nivel 2, sino por la presencia de un sistema de señalización \nluminosa protegido con ASFA como sistema de respaldo. Tradicionalmente, se ha considerado un \naxioma ferroviario que una señal en aspecto rojo obliga siempre a detenerse, independientemente \ndel sistema en el que se circule. Para evitar que los trenes que circulan bajo ERTMS se vean obligados \na sobrepasar un rojo de ASFA y prevenir el posible fallo humano debido a esta causa, se optó por \ndotar a la señal de un foco azul, dando lugar a la señal ",
+   "pagina": 13,
+   "cita": "4. ANÁLISIS DEL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Interpretación errónea del aspecto FF7C de la señal S1/5 por parte del maquinista, que provocó un rebase indebido, y autorización de reanudación de la marcha por parte del RC sin reconocer que se había producido el rebase.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Experiencias anteriores del maquinista con situaciones de activación del modo TRIP en otros puntos de la red.",
+    "Cambio de turno en el CRC.",
+    "Falta de verificación del aspecto de la señal por parte del maquinista.",
+    "Atención dividida del maquinista, debido al acceso de personal formador a la cabina."
+   ],
+   "pagina": 5,
+   "cita": "• Experiencias anteriores del maquinista con situaciones de activación del modo TRIP en otros puntos de la red. • Cambio de turno en el CRC. • Falta de verificación del aspecto de la señal por parte del maquinista.",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nUna vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores:  \n \nFigura 6 Árbol causal del suceso \nFactores causales \n1. Interpretación errónea, por parte del maquinista, del mensaje transmitido por la señal S1/5, \nlo que ocasionó un rebase indebido.  Ver Recomendación 64/2024-1, Recomendación \n64/2024-2, Recomendación 64/2024-3, Recomendación 64/2024-5 y Recomendación \n64/2024-7 \n2. Autorización para reanudar la marcha emitida por el RC del CRC, al no interpretar que se \nhabía producido el rebase indebido de la señal. Ver Recomendación 64/2024-1, \nRecomendación 64/2024-2, Recomendación 64/2024-3 y Recomendación 64/2024-4 \nFactores contribuyentes \n1. Experiencias anteriores del maquinista con situaciones de activación del modo TRIP en otros \npuntos de la red. Ver Recomendación 64/2024-1 y Recomendación 64/2024-7",
+   "pagina": 22,
+   "cita": "5. CONCLUSIONES 5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO Una vez analizados los datos disponibles y la documentación proporcionada, se consideran los siguientes factores: Figura 6 Árbol",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nUna vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores:  \n \nFigura 6 Árbol causal del suceso \nFactores causales \n1. Interpretación errónea, por parte del maquinista, del mensaje transmitido por la señal S1/5, \nlo que ocasionó un rebase indebido.  Ver Recomendación 64/2024-1, Recomendación \n64/2024-2, Recomendación 64/2024-3, Recomendación 64/2024-5 y Recomendación \n64/2024-7 \n2. Autorización para reanudar la marcha emitida por el RC del CRC, al no interpretar que se \nhabía producido el rebase indebido de la señal. Ver Recomendación 64/2024-1, \nRecomendación 64/2024-2, Recomendación 64/2024-3 y Recomendación 64/2024-4 \nFactores contribuyentes \n1. Experiencias anteriores del maquinista con situaciones de activación del modo TRIP en otros \npuntos de la red. Ver Recomendación 64/2024-1 y Recomendación 64/2024-7",
+   "pagina": 22,
+   "cita": "5. CONCLUSIONES 5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO Una vez analizados los datos disponibles y la documentación proporcionada, se consideran los siguientes factores: Figura 6 Árbol",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Desde el incidente ocurrido en la estación de Cuenca-Fernando Zóbel y, específicamente, en relación \ncon la señal S1/5, se ha implementado una medida para mitigar el riesgo de rebase. Esta medida \nconsiste en la programación del enrutador automático en modo ASFA por parte del CRC. De este \nmodo, el itinerario de salida por la vía 5 solo se establece cuando el cantón y el circuito de \ndeslizamiento de BSL están libres. Como resultado, la señal pasa directamente de aspecto rojo a \nverde, sin mostrar los aspectos rojo y azul. \n \n \n\n## Página 24\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n24",
+   "pagina": 23,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Desde el incidente ocurrido en la estación de Cuenca-Fernando Zóbel y, específicamente, en relación \ncon la señal S1/5, se ha implementado una medida para mitigar el riesgo de rebase. Esta medida \nconsiste en la programación del enrutador automático en modo ASFA por parte del CRC. De este \nmodo, el itinerario de salida por la vía 5 solo se establece cuando el cantón y el circuito de \ndeslizamiento de BSL están libres. Como resultado, la señal pasa directamente de aspecto rojo a \nverde, sin mostrar los aspectos rojo y azul. \n \n \n\n## Página 24\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n24",
+   "pagina": 23,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Realizar estudios específicos, para mejorar la ergonomía de las señales luminosas en alta velocidad, considerando el factor humano y realizando los análisis de riesgos correspondientes.",
+    "Poner en servicio el Nivel 2 de ERTMS en las líneas equipadas con dicho nivel pero que aún no esté operativo.",
+    "Estudiar la posibilidad, en aquellas líneas equipadas con ambos niveles de ERTMS, de desactivar el Nivel 1, suprimiendo el aspecto FF7D, siempre llevando a cabo el preceptivo análisis de riesgos y evaluación sobre la capacidad pertinentes.",
+    "Revisar los protocolos de actuación para autorización de reanudación de la marcha tras un modo TRIP, incluidos en sus sistemas de gestión de seguridad, facilitando al RC, en particular, la confirmación del nivel de ERTMS en el que circula el tren, en casos de coexistencia de niveles.",
+    "Establecer como medida mitigadora transitoria hasta la puesta en servicio de Nivel 2, la programación de los enrutadores automáticos en modo ASFA en las líneas equipadas con Nivel 2 pero que no está operativo.",
+    "Establecer en los PPTP de los proyectos que afecten al subsistema CMS, condiciones que garanticen la compatibilidad técnica con los de los tramos adyacentes.",
+    "Potenciar los principios de cultura justa en lo referente a los rebases de señal."
+   ],
+   "pagina": 24,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 24,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "AESF",
+    "ADIF y ADIF AV",
+    "ADIF y ADIF AV",
+    "ADIF y ADIF AV",
+    "ADIF y ADIF AV",
+    "ADIF y ADIF AV",
+    "EMPRESAS FERROVIARIAS"
+   ],
+   "pagina": 24,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "18:58",
+     "evento": "El tren 05903 sale de Murcia del Carmen con destino Madrid-Puerta de Atocha."
+    },
+    {
+     "hora": "21:19",
+     "evento": "El tren llega a la estación de Cuenca-Fernando Zóbel y realiza parada comercial en la vía 5; la señal S1/5 está en rojo fijo por la circulación de otro tren por vía directa."
+    },
+    {
+     "hora": "21:32",
+     "evento": "La señal S1/5 cambia a FF7C, rojo fijo y azul fijo; el maquinista inicia la marcha a 11 km/h y rebasa indebidamente la señal."
+    },
+    {
+     "hora": "21:33",
+     "evento": "Se activa el modo TRIP del ERTMS y el tren se detiene 5,40 metros después de la señal."
+    },
+    {
+     "hora": "21:33",
+     "evento": "El maquinista comunica el TRIP al RC del CRC de Albacete; el RC autoriza reanudar la marcha mediante telefonema sin interpretar el rebase."
+    },
+    {
+     "hora": "21:36",
+     "evento": "El RC ordena detener el tren para revisar si se había producido un rebase."
+    },
+    {
+     "hora": "21:40",
+     "evento": "Tras revisar el videográfico, el RC ordena cambio de cabina y retroceso del tren a la vía 5 de Cuenca-Fernando Zóbel."
+    },
+    {
+     "hora": "22:05",
+     "evento": "El RC da la orden de marcha hacia el destino, con un auxiliar de cabina procedente del tren 05210."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0064/2024",
+ "expediente": "0064/2024",
+ "anio": 2024,
+ "titulo": "Incidente operacional en la estación de Cuenca-Fernando Zóbel",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/2024-64-0625-if.md"
+}

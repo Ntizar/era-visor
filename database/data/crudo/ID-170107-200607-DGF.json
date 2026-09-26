@@ -1,0 +1,913 @@
+{
+ "id": "ID-170107-200607-DGF",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-170107-200607-DGF.pdf",
+ "pdf": "pdfs/ES/ID-170107-200607-DGF.pdf",
+ "md5_pdf": "b71af7fa2eeebc1dd6f811022c99c2e7",
+ "paginas_md": 7,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 11,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "02/2007",
+   "pagina": 1,
+   "cita": "nº 02/2007 ocurrido el 17.01.2007",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 17 de enero de 2007, a las 11:02, un varón de 88 años fue arrollado mortalmente por el tren de mercancías 54615 de RENFE al cruzar por un paso entarimado para carretillas en la estación de Sigüenza (Guadalajara), línea Madrid-Barcelona, PK 139,840. El tren circulaba a 101 km/h (máximo permitido 115 km/h) y la niebla intensa redujo la visibilidad del peatón. No se produjeron daños materiales. La investigación concluyó que el origen fue la invasión indebida de la vía por parte de la víctima, agravada por su avanzada edad, movilidad reducida y las condiciones meteorológicas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-01-17",
+    "hora": "11:02",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Sigüenza",
+     "pk": "139,840",
+     "linea": "Madrid-Barcelona",
+     "provincia": "Guadalajara",
+     "descripcion_lugar": "Paso entarimado para carretillas situado al final del andén de vía I de la estación de Sigüenza. Línea con tres vías (dos generales y una de apartado), en recta de 2.980 metros, zona semiurbana. No dispone de paso a distinto nivel (ni elevado ni subterráneo) para cruce de vías."
+    }
+   },
+   "pagina": 3,
+   "cita": "A las 11 horas y 02 minutos del día 17 de enero de 2007, se produjo el accidente grave por",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación por vía I y vía II, estableciendo el paso por vía III a los trenes 50535, 80658, 32052, 7405, FB182, 58052 y 60150 sin originar retrasos. El tren 54615 sufrió un retraso de 42 minutos. Circulación restablecida a las 14:50."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión indebida de las vías por la víctima al cruzar el paso entarimado en el momento de la llegada del tren 54615, constituyendo una imprudencia al transitar indebidamente por las instalaciones de la estación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Avanzada edad de la víctima (88 años) y movilidad reducida que dificultaron que pudiera salir de la trayectoria del tren a tiempo.",
+    "Niebla intensa que redujo la visibilidad del peatón en el paso entarimado.",
+    "Los avisos acústicos del paso a nivel y de la megafonía del apeadero no son perceptibles desde el paso entarimado donde se produjo el accidente.",
+    "El paso entarimado para carretillas se encuentra al final del andén y no está dotado de señalización luminosa ni acústica propia."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "El apeadero no dispone de paso a distinto nivel (ni elevado ni subterráneo) para el cruce de vías por parte de los viajeros.",
+    "Existencia de múltiples pasos a nivel de vía (tres entre andenes + uno para carretillas) sin protección adecuada en el paso entarimado para carretillas.",
+    "El paso entarimado para carretillas, diseñado para vehículos con ruedas, era utilizado por peatones como cruce de vías."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Suprimir los dos pasos entre andenes existentes en el apeadero y situados a 48 metros del eje de la estación de viajeros respectivamente.",
+     "destinatario": "ADIF"
+    },
+    {
+     "texto": "Dotar al paso entre andenes situado en el eje de la estación de una señalización luminosa y acústica, similar a la de los pasos a nivel peatonales, que indique la presencia de circulaciones por el apeadero. El paso entarimado para vehículos sobre ruedas se mantiene para las personas de movilidad reducida.",
+     "destinatario": "ADIF"
+    }
+   ],
+   "pagina": 2,
+   "cita": "(ADIF), comunicó a través de mensaje de telefonía móvil el pasado 17 de enero que se había",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Suprimir los dos pasos entre andenes existentes en el apeadero y situados a 48 metros del eje de la estación de viajeros respectivamente.",
+     "destinatario": "ADIF"
+    },
+    {
+     "texto": "Dotar al paso entre andenes situado en el eje de la estación de una señalización luminosa y acústica, similar a la de los pasos a nivel peatonales, que indique la presencia de circulaciones por el apeadero. El paso entarimado para vehículos sobre ruedas se mantiene para las personas de movilidad reducida.",
+     "destinatario": "ADIF"
+    }
+   ],
+   "pagina": 2,
+   "cita": "(ADIF), comunicó a través de mensaje de telefonía móvil el pasado 17 de enero que se había",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento",
+   "pagina": 2,
+   "cita": "producido el arrollamiento de una persona resultando fallecida la misma, en la estación de",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "Renfe Operadora"
+   ],
+   "pagina": 2,
+   "cita": "(ADIF), comunicó a través de mensaje de telefonía móvil el pasado 17 de enero que se había",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-01-17",
+   "pagina": 3,
+   "cita": "A las 11 horas y 02 minutos del día 17 de enero de 2007, se produjo el accidente grave por",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "11:02",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:hora"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Sigüenza",
+    "pk": "139,840",
+    "linea": "Madrid-Barcelona",
+    "provincia": "Guadalajara",
+    "descripcion_lugar": "Paso entarimado para carretillas situado al final del andén de vía I de la estación de Sigüenza. Línea con tres vías (dos generales y una de apartado), en recta de 2.980 metros, zona semiurbana. No dispone de paso a distinto nivel (ni elevado ni subterráneo) para cruce de vías."
+   },
+   "pagina": 2,
+   "cita": "Sigüenza situada en el punto kilométrico 139,840 de la Línea Madrid-Barcelona, en la provincia",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Madrid-Barcelona",
+   "pagina": 2,
+   "cita": "Sigüenza situada en el punto kilométrico 139,840 de la Línea Madrid-Barcelona, en la provincia",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 269.106",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "A las 11:02 del 17 de enero de 2007, el tren de mercancías nº 54615 de RENFE, remolcado por la locomotora 269.106 y compuesto por 20 vehículos con masa remolcada de 749 toneladas, efectuaba el recorrido Bilbao-Azuqueca. Al pasar por la estación de Sigüenza (PK 139,840, línea Madrid-Barcelona, provincia de Guadalajara), el maquinista observó a una persona caminando por las inmediaciones de la vía con intención de cruzar. Se hizo uso del silbato para apercibir de la presencia del tren, pero la persona aceleró el paso y, pese a aplicar el freno de emergencia, resultó inevitable el golpe con el lado izquierdo de la locomotora. La víctima era un varón de 88 años que intentaba cruzar por el paso entarimado para carretillas situado al final del andén de vía I. La niebla intensa en el momento del accidente redujo significativamente la visibilidad del peatón. El tren necesitó 608 metros desde la aplicación del freno de emergencia hasta su detención. No se produjeron daños materiales. La Autoridad Judicial autorizó el levantamiento del cadáver a las 14:50, restableciéndose la circulación en condiciones normales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Sigüenza",
+    "pk": "139,840",
+    "linea": "Madrid-Barcelona",
+    "provincia": "Guadalajara",
+    "descripcion_lugar": "Paso entarimado para carretillas situado al final del andén de vía I de la estación de Sigüenza. Línea con tres vías (dos generales y una de apartado), en recta de 2.980 metros, zona semiurbana. No dispone de paso a distinto nivel (ni elevado ni subterráneo) para cruce de vías."
+   },
+   "pagina": 2,
+   "cita": "Sigüenza situada en el punto kilométrico 139,840 de la Línea Madrid-Barcelona, en la provincia",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación por vía I y vía II, estableciendo el paso por vía III a los trenes 50535, 80658, 32052, 7405, FB182, 58052 y 60150 sin originar retrasos. El tren 54615 sufrió un retraso de 42 minutos. Circulación restablecida a las 14:50."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 54615",
+     "implicacion": "Observó al peatón, hizo uso del silbato y aplicó el freno de emergencia, pero resultó inevitable el arrollamiento. Alcoholemia negativa (0,00 mg/ml)."
+    },
+    {
+     "rol": "Supervisor de línea de la Jefatura Técnica de Operaciones de Madrid (ADIF)",
+     "implicacion": "Nombrado jefe delegado del accidente."
+    },
+    {
+     "rol": "Supervisor de Circulación (ADIF)",
+     "implicacion": "Portavoz de la información."
+    },
+    {
+     "rol": "Víctima (varón, 88 años)",
+     "implicacion": "Fallecida. Intentó cruzar las vías por el paso entarimado para carretillas en el momento del paso del tren."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El maquinista del tren 54615.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "54615",
+     "tipo": "mercancías",
+     "operador": "RENFE Operadora",
+     "danos": "Sin daños materiales. Retraso de 42 minutos."
+    }
+   ],
+   "pagina": 3,
+   "cita": "de la línea Madrid-Barcelona, por el tren de mercancías nº54615 de la empresa ferroviaria",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 269.106",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada de la estación en vía libre. Apeadero con señalización luminosa y megafonía centralizada avisando del paso de trenes ('Tren sin parada no admite viajeros'). En PK 139,924 paso a nivel de clase C con semibarreras, protección acústica y luminosa para vehículos y paso peatonal con señalización luminosa. Los avisos acústicos del paso a nivel y la megafonía del apeadero NO son perceptibles desde el paso entarimado objeto del accidente.",
+    "tipo_via": "Vía doble con tres vías (dos generales y una de apartado), en recta de 2.980 metros, zona semiurbana. Paso entarimado con losas de hormigón y traviesas de madera. Andenes recrecidos a cota suficiente para impedir accesibilidad a vías, pero rebajados en los lugares de acceso a los pasos entre andenes.",
+    "velocidad_maxima": "115 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Buen estado de mantenimiento constatado en el firme de los pasos entarimados.",
+    "otro": "Bloqueo de Liberación Automática de vía doble (B.L.A.D) con CTC. El apeadero dispone de tres pasos entre andenes entablonados para cruce de peatones (centro del andén y a 48 metros por cada extremo) y un paso adicional para vehículos con ruedas (carretillas rurales). No dispone de paso a distinto nivel."
+   },
+   "pagina": 5,
+   "cita": "El tren de mercancías no tenía parada prescrita en el apeadero, encontrándose la señal",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de entrada de la estación en vía libre. Apeadero con señalización luminosa y megafonía centralizada avisando del paso de trenes ('Tren sin parada no admite viajeros'). En PK 139,924 paso a nivel de clase C con semibarreras, protección acústica y luminosa para vehículos y paso peatonal con señalización luminosa. Los avisos acústicos del paso a nivel y la megafonía del apeadero NO son perceptibles desde el paso entarimado objeto del accidente.",
+   "pagina": 5,
+   "cita": "El tren de mercancías no tenía parada prescrita en el apeadero, encontrándose la señal",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación por vía I y vía II, estableciendo el paso por vía III a los trenes 50535, 80658, 32052, 7405, FB182, 58052 y 60150 sin originar retrasos. El tren 54615 sufrió un retraso de 42 minutos. Circulación restablecida a las 14:50."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación por vía I y vía II, estableciendo el paso por vía III a los trenes 50535, 80658, 32052, 7405, FB182, 58052 y 60150 sin originar retrasos. El tren 54615 sufrió un retraso de 42 minutos. Circulación restablecida a las 14:50."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación por vía I y vía II, estableciendo el paso por vía III a los trenes 50535, 80658, 32052, 7405, FB182, 58052 y 60150 sin originar retrasos. El tren 54615 sufrió un retraso de 42 minutos. Circulación restablecida a las 14:50."
+   },
+   "pagina": 3,
+   "cita": "No se producen daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 269.106",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada de la estación en vía libre. Apeadero con señalización luminosa y megafonía centralizada avisando del paso de trenes ('Tren sin parada no admite viajeros'). En PK 139,924 paso a nivel de clase C con semibarreras, protección acústica y luminosa para vehículos y paso peatonal con señalización luminosa. Los avisos acústicos del paso a nivel y la megafonía del apeadero NO son perceptibles desde el paso entarimado objeto del accidente.",
+    "tipo_via": "Vía doble con tres vías (dos generales y una de apartado), en recta de 2.980 metros, zona semiurbana. Paso entarimado con losas de hormigón y traviesas de madera. Andenes recrecidos a cota suficiente para impedir accesibilidad a vías, pero rebajados en los lugares de acceso a los pasos entre andenes.",
+    "velocidad_maxima": "115 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Buen estado de mantenimiento constatado en el firme de los pasos entarimados.",
+    "otro": "Bloqueo de Liberación Automática de vía doble (B.L.A.D) con CTC. El apeadero dispone de tres pasos entre andenes entablonados para cruce de peatones (centro del andén y a 48 metros por cada extremo) y un paso adicional para vehículos con ruedas (carretillas rurales). No dispone de paso a distinto nivel."
+   },
+   "pagina": 5,
+   "cita": "El tren de mercancías no tenía parada prescrita en el apeadero, encontrándose la señal",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Niebla intensa. Condiciones meteorológicas que redujeron significativamente la visibilidad del peatón en el paso entarimado.",
+   "pagina": 2,
+   "cita": "Condiciones meteorológicas: Niebla intensa.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Guadalajara",
+    "municipio": null,
+    "estacion": "Sigüenza"
+   },
+   "pagina": 2,
+   "cita": "de Guadalajara, perteneciente a la Red Ferroviaria de Interés General administrada por Adif.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Niebla intensa. Condiciones meteorológicas que redujeron significativamente la visibilidad del peatón en el paso entarimado.",
+   "pagina": 2,
+   "cita": "Condiciones meteorológicas: Niebla intensa.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de entrada de la estación en vía libre. Apeadero con señalización luminosa y megafonía centralizada avisando del paso de trenes ('Tren sin parada no admite viajeros'). En PK 139,924 paso a nivel de clase C con semibarreras, protección acústica y luminosa para vehículos y paso peatonal con señalización luminosa. Los avisos acústicos del paso a nivel y la megafonía del apeadero NO son perceptibles desde el paso entarimado objeto del accidente.",
+   "pagina": 5,
+   "cita": "El tren de mercancías no tenía parada prescrita en el apeadero, encontrándose la señal",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada de la estación en vía libre. Apeadero con señalización luminosa y megafonía centralizada avisando del paso de trenes ('Tren sin parada no admite viajeros'). En PK 139,924 paso a nivel de clase C con semibarreras, protección acústica y luminosa para vehículos y paso peatonal con señalización luminosa. Los avisos acústicos del paso a nivel y la megafonía del apeadero NO son perceptibles desde el paso entarimado objeto del accidente.",
+    "tipo_via": "Vía doble con tres vías (dos generales y una de apartado), en recta de 2.980 metros, zona semiurbana. Paso entarimado con losas de hormigón y traviesas de madera. Andenes recrecidos a cota suficiente para impedir accesibilidad a vías, pero rebajados en los lugares de acceso a los pasos entre andenes.",
+    "velocidad_maxima": "115 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Buen estado de mantenimiento constatado en el firme de los pasos entarimados.",
+    "otro": "Bloqueo de Liberación Automática de vía doble (B.L.A.D) con CTC. El apeadero dispone de tres pasos entre andenes entablonados para cruce de peatones (centro del andén y a 48 metros por cada extremo) y un paso adicional para vehículos con ruedas (carretillas rurales). No dispone de paso a distinto nivel."
+   },
+   "pagina": 5,
+   "cita": "El tren de mercancías no tenía parada prescrita en el apeadero, encontrándose la señal",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 269.106",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "cruce indebido por paso entarimado",
+    "movilidad reducida dificultó salida",
+    "señalización no percibida desde paso",
+    "no existía paso a distinto nivel"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(ADIF), comunicó a través de mensaje de telefonía móvil el pasado 17 de enero que se había \nproducido el arrollamiento de una persona resultando fallecida la misma, en la estación de \nSigüenza situada en el punto kilométrico 139,840 de la Línea Madrid-Barcelona, en la provincia \nde Guadalajara, perteneciente a la Red Ferroviaria de Interés General administrada por Adif. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles. Investigación \nque tendrá como finalidad determinar sus causas y formular recomendaciones para reducir los \nriesgos en el transporte ferroviario de acuerdo con el artículo 112 del citado Reglamento. \nReglamento que traspone parcialmente la Directiva 2004/49/CE del Parlamento Europeo de 29 \nde abril de 2004 sobre la seguridad de los ferrocarriles comunitarios, que en su  Artículo 19 \ncircunscribe la investigación a la mejora de la seguridad, y en ningún caso a la determinación \nde culpas o responsabilidades. \nDe conformidad también con el artículo 112 del mencionado Reglamento, el 1 de enero de \n2007 la Dirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (ADIF), comunicó a través de mensaje de telefonía móvil el pasado 17 de enero que se había producido el arro",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "A las 11:02 del 17 de enero de 2007, el tren de mercancías nº 54615 de RENFE, remolcado por la locomotora 269.106 y compuesto por 20 vehículos con masa remolcada de 749 toneladas, efectuaba el recorrido Bilbao-Azuqueca. Al pasar por la estación de Sigüenza (PK 139,840, línea Madrid-Barcelona, provincia de Guadalajara), el maquinista observó a una persona caminando por las inmediaciones de la vía con intención de cruzar. Se hizo uso del silbato para apercibir de la presencia del tren, pero la persona aceleró el paso y, pese a aplicar el freno de emergencia, resultó inevitable el golpe con el lado izquierdo de la locomotora. La víctima era un varón de 88 años que intentaba cruzar por el paso entarimado para carretillas situado al final del andén de vía I. La niebla intensa en el momento del accidente redujo significativamente la visibilidad del peatón. El tren necesitó 608 metros desde la aplicación del freno de emergencia hasta su detención. No se produjeron daños materiales. La Autoridad Judicial autorizó el levantamiento del cadáver a las 14:50, restableciéndose la circulación en condiciones normales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR LA EMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por Adif concluye “El accidente se origina por imprudencia de la víctima, al \ntransitar indebidamente por las instalaciones de la estación, y cruzar las vías en el momen o \ndel paso del tren.”. \nt\nt\nt\n \n \nEl elaborado por Renfe Operadora establece que “Causas directas e inmedia as del \nacciden e: imprudencia de la víctima\nCausas subyacentes relacionadas: Su avanzada edad y mobilidad reducida dificultaron que \npudiera salir de la trayectoria del tren a tiempo. Circunstancia acentuada por la densa niebla”.  \nPor tanto, ambas conclusiones se sustancian en los datos recogidos y son coincidentes \nentre sí en cuanto a la causa del accidente.",
+   "pagina": 6,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión indebida de las vías por la víctima al cruzar el paso entarimado en el momento de la llegada del tren 54615, constituyendo una imprudencia al transitar indebidamente por las instalaciones de la estación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Avanzada edad de la víctima (88 años) y movilidad reducida que dificultaron que pudiera salir de la trayectoria del tren a tiempo.",
+    "Niebla intensa que redujo la visibilidad del peatón en el paso entarimado.",
+    "Los avisos acústicos del paso a nivel y de la megafonía del apeadero no son perceptibles desde el paso entarimado donde se produjo el accidente.",
+    "El paso entarimado para carretillas se encuentra al final del andén y no está dotado de señalización luminosa ni acústica propia."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "A la vista de los datos obtenidos, se estima que el accidente tuvo su origen en la invasión \nindebida de las vías en el momento de llegar el tren 54615 que causó el arrollamiento la \nvíctima. \n \n \n \n \n \n \nID-170107-200607-DGFDGF \n \n \nPág. 6 de 7\n\n## Página 7\n\n \nInvestigación del accidente \nnº 02/2007 ocurrido el 17.01.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO \nDE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES. A la vista de los datos obtenidos, se estima que el accidente tuvo su origen en la invasión indebida de las vías en el momento de llegar el tren 54615 que causó el arrollamiento la víctima.",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "A la vista de los datos obtenidos, se estima que el accidente tuvo su origen en la invasión \nindebida de las vías en el momento de llegar el tren 54615 que causó el arrollamiento la \nvíctima. \n \n \n \n \n \n \nID-170107-200607-DGFDGF \n \n \nPág. 6 de 7\n\n## Página 7\n\n \nInvestigación del accidente \nnº 02/2007 ocurrido el 17.01.2007 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO \nDE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES. A la vista de los datos obtenidos, se estima que el accidente tuvo su origen en la invasión indebida de las vías en el momento de llegar el tren 54615 que causó el arrollamiento la víctima.",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Suprimir los dos pasos entre andenes existentes en el apeadero y situados a 48 metros del eje de la estación de viajeros respectivamente.",
+     "destinatario": "ADIF"
+    },
+    {
+     "texto": "Dotar al paso entre andenes situado en el eje de la estación de una señalización luminosa y acústica, similar a la de los pasos a nivel peatonales, que indique la presencia de circulaciones por el apeadero. El paso entarimado para vehículos sobre ruedas se mantiene para las personas de movilidad reducida.",
+     "destinatario": "ADIF"
+    }
+   ],
+   "pagina": 2,
+   "cita": "(ADIF), comunicó a través de mensaje de telefonía móvil el pasado 17 de enero que se había",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "11:02",
+     "evento": "Arrollamiento del peatón de 88 años por el tren de mercancías 54615 al cruzar el paso entarimado para carretillas en la estación de Sigüenza."
+    },
+    {
+     "hora": null,
+     "evento": "El maquinista comunica el suceso al Puesto de Mando, que cursa aviso a Seguridad Corporativa, Gerencias de Seguridad en la Circulación de Adif y Renfe Operadora, Autoridad Competente y servicios de emergencia."
+    },
+    {
+     "hora": null,
+     "evento": "Dos agentes de Seguridad en la Circulación Centro de Adif se personan en el lugar para realizar la toma de datos. Renfe desplaza agentes de su Gerencia Territorial para inspección."
+    },
+    {
+     "hora": null,
+     "evento": "Prueba de alcoholemia al maquinista en el Gabinete Sanitario de Atocha: resultado negativo (0,00 mg/ml)."
+    },
+    {
+     "hora": "14:50",
+     "evento": "La Autoridad Judicial autoriza el levantamiento del cadáver y se restablece la circulación en condiciones normales."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0002/2007",
+ "expediente": "02/2007",
+ "anio": 2007,
+ "titulo": "Arrollamiento de una persona en el paso entarimado de la estación de Sigüenza (Guadalajara)",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-170107-200607-DGF.md"
+}

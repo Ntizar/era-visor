@@ -1,0 +1,2661 @@
+{
+ "id": "ES-5925 - 210624-190208-if-sn_ciaf",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/210624-190208-if-sn_ciaf.pdf",
+ "pdf": "pdfs/ES/ES-5925 - 210624-190208-if-sn_ciaf.pdf",
+ "md5_pdf": "baa9aab303a93be5c5a4dc497d49a261",
+ "paginas_md": 143,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 50,
+ "n_tablas": 27,
+ "tablas": [
+  {
+   "pagina": 9,
+   "cabecera": [
+    "Destinatario",
+    "Implementa dor final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AESF",
+     "Implementa dor final": "ADIF",
+     "Número": "12/2019 - 1",
+     "Recomendación": "1.1 Reforzar la formación práctica de los Responsables de Circulación en estaciones sobre el adecuado manejo de los cuadros de mando local. 1.2 Reforzar la formación práctica de los Responsables de Circulación en estaciones sobre el procedimiento reglamentario de expedición de trenes desde vías sin señal de salida y en situaciones de anormalidad (en cumplimiento de la Recomendación Técnica de la AESF RT 2/2019)."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementa dor final": "ADIF",
+     "Número": "12/2019 - 2",
+     "Recomendación": "Insistir, en la formación y reciclaje del personal de circulación, en el cumplimiento de los protocolos de información (normas NAR nº3/16 y 6/18 del SGS de Adif)."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementa dor final": "ADIF",
+     "Número": "12/2019 - 3",
+     "Recomendación": "Estudiar la posible revisión de la norma NAR nº6/18 para especificar los protocolos, relaciones y criterios de actuación para la información entre responsables de circulación."
+    }
+   ],
+   "cita": "| Destinatario | Implementa dor final | Número | Recomendación |"
+  },
+  {
+   "pagina": 10,
+   "cabecera": [
+    "Destinatario",
+    "Implementa dor final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AESF",
+     "Implementa dor final": "RENFE",
+     "Número": "12/2019 - 4",
+     "Recomendación": "Reforzar la formación del personal de conducción en los procedimientos"
+    },
+    {
+     "Destinatario": "",
+     "Implementa dor final": "VIAJEROS Y",
+     "Número": "",
+     "Recomendación": "reglamentarios a seguir en situaciones excepcionales como circulaciones"
+    },
+    {
+     "Destinatario": "",
+     "Implementa dor final": "OTRAS",
+     "Número": "",
+     "Recomendación": "a contravía o al ser expedidos de vías sin señal de salida, de forma tanto"
+    },
+    {
+     "Destinatario": "",
+     "Implementa dor final": "EE.FF.",
+     "Número": "",
+     "Recomendación": "teórica como práctica."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementa dor final": "ADIF",
+     "Número": "12/2019 - 5",
+     "Recomendación": "Estudiar la posibilidad de modificar las instalaciones de la estación de Manresa para dotar de señal de salida a todas las vías de circulación. Asimismo, revisar si la situación de falta de señal de salida se presenta en otras estaciones término de cercanías y de paso de otros tráficos, así como en estaciones de transición de vía única a vía doble y viceversa y adoptar las medidas pertinentes."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementa dor final": "ADIF Y EE.FF.",
+     "Número": "12/2019 - 6",
+     "Recomendación": "6.1 Reforzar las inspecciones y auditorías en las estaciones para detectar y corregir el incumplimiento de las normas reglamentarias respecto a la expedición de los trenes desde vías sin señal de salida. 6.2 Reforzar la vigilancia en los trenes en lo relativo al cumplimiento de las normas reglamentarias cuando son expedidos de vías sin señal de salida o cuando circulen a contravía."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementa dor final": "ADIF",
+     "Número": "12/2019 - 7",
+     "Recomendación": "Establecer un procedimiento a seguir por parte de los Responsables de Circulación ante casos de pérdida de numeración, falsas ocupaciones y asignación a un tren de un número ya asignado a otro. Complementariamente a lo anterior, estudiar la posibilidad de que el sistema videográfico del CTC incluya en su funcionalidad alarmas específicas destacadas y diferenciadas para estas situaciones (especificando el modo de cumplimiento del punto primero del artículo 5.1.4.2 de la norma NAS 201 del SGS de Adif)."
+    }
+   ],
+   "cita": "| Destinatario | Implementa dor final | Número | Recomendación |"
+  },
+  {
+   "pagina": 18,
+   "cabecera": [
+    "13 de febrero de 2019",
+    " Toma de declaración a la Responsable de Circulación del CTC."
+   ],
+   "filas": [
+    {
+     "13 de febrero de 2019": "8 de marzo de 2019",
+     " Toma de declaración a la Responsable de Circulación del CTC.": " Toma de declaración a los maquinistas de los trenes 15624, 25056 y al Operador Comercial (interventor) del 28043."
+    }
+   ],
+   "cita": "| 13 de febrero de 2019 |  Toma de declaración a la Responsable de Circulación del CTC. |"
+  },
+  {
+   "pagina": 20,
+   "cabecera": [
+    "",
+    "Serie",
+    "447"
+   ],
+   "filas": [
+    {
+     "Serie": "Tipo",
+     "447": "Tren de Cercanías y Media Distancia"
+    },
+    {
+     "Serie": "Fabricante:",
+     "447": "CAF, Alstom, Siemens y ABB/ADtranz"
+    },
+    {
+     "Serie": "Año de recepción:",
+     "447": "1993-2001"
+    },
+    {
+     "Serie": "Composición:",
+     "447": "M-R-M"
+    },
+    {
+     "Serie": "Longitud:",
+     "447": "75.993 mm"
+    },
+    {
+     "Serie": "Anchura:",
+     "447": "2.900 mm"
+    },
+    {
+     "Serie": "Altura:",
+     "447": "4.185 mm"
+    },
+    {
+     "Serie": "Masa total:",
+     "447": "162,5 t"
+    },
+    {
+     "Serie": "Ancho de vía:",
+     "447": "1668 mm"
+    },
+    {
+     "Serie": "Velocidad máxima:",
+     "447": "120 km/h"
+    },
+    {
+     "Serie": "Potencia:",
+     "447": "2400 kW"
+    },
+    {
+     "Serie": "",
+     "447": "8 motores eléctricos trifásicos y asíncronos (4 en cada coche motor) de 320 kW"
+    },
+    {
+     "Serie": "",
+     "447": "Composición A: 234 sentadas + 468 de pie. 702 en total. Composición B: 270 sentadas + 391 de pie. 661 en total."
+    },
+    {
+     "Serie": "Mando múltiple:",
+     "447": "4"
+    }
+   ],
+   "cita": "|   | Serie | 447 |"
+  },
+  {
+   "pagina": 21,
+   "cabecera": [
+    "nº de tren",
+    "28043",
+    "",
+    "15624"
+   ],
+   "filas": [
+    {
+     "nº de tren": "nº de unidad",
+     "28043": "447.066 (cabeza)",
+     "15624": "447.170"
+    },
+    {
+     "nº de tren": "nº UIC coche motor cabeza",
+     "28043": "96.71.9.447.131.4",
+     "15624": "96.71.9.447.339.3"
+    },
+    {
+     "nº de tren": "nº UIC coche remolcado",
+     "28043": "90.71.7.447.066.2",
+     "15624": "90.71.7.447.170.2"
+    },
+    {
+     "nº de tren": "nº UIC coche motor cola",
+     "28043": "96.71.9.447.132.2",
+     "15624": "96.71.9.447.340.1"
+    },
+    {
+     "nº de tren": "Lote y año entrada servicio",
+     "28043": "1er lote – 1992",
+     "15624": "4º lote – 2001"
+    },
+    {
+     "nº de tren": "Kms (desde la última revisión R hasta el accidente)",
+     "28043": "1.371.495",
+     "15624": "542.096"
+    }
+   ],
+   "cita": "| nº de tren | 28043 |   | 15624 |"
+  },
+  {
+   "pagina": 22,
+   "cabecera": [
+    "Estaciones",
+    "PK",
+    "Vía",
+    "Bloqueo",
+    "Comunicaciones",
+    "Asistencia a la conducción"
+   ],
+   "filas": [
+    {
+     "Estaciones": "LLEIDA-PIRINEUS",
+     "PK": "183,6",
+     "Vía": "ÚNICA",
+     "Bloqueo": "TELEFÓNICO",
+     "Comunicaciones": "-",
+     "Asistencia a la conducción": "ASFA digital"
+    },
+    {
+     "Estaciones": "PLA DE VILANOVETA",
+     "PK": "185,9",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "BELL-LLOC D'URGELL",
+     "PK": "196,4",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "",
+     "PK": "",
+     "Vía": "",
+     "Bloqueo": "BLAU con CTC",
+     "Comunicaciones": "Canal 62",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "MOLLERUSSA",
+     "PK": "206,1",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "GOLMES (APD)",
+     "PK": "208,9",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "CASTELLNOU DE SEANA (APD)",
+     "PK": "212,0",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "BELLPUIG (APD)",
+     "PK": "215,8",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "ANGLESOLA (APD)",
+     "PK": "221,5",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "TARREGA",
+     "PK": "226,8",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "CERVERA",
+     "PK": "240,1",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "SANT GUIM DE FREIXENET (APD)",
+     "PK": "254,0",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "SANT MARTI SESGUEIOLES (APD)",
+     "PK": "262,4",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "CALAF",
+     "PK": "266,8",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "SEGUERS- S.P.SALLAVINERA(APD)",
+     "PK": "276,7",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "AGUILAR DE SEGARRA (APD)",
+     "PK": "282,1",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "RAJADELL (APD)",
+     "PK": "289,2",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "MANRESA",
+     "PK": "301,7",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "",
+     "PK": "",
+     "Vía": "DOBLE",
+     "Bloqueo": "BAD con CTC",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "SANT VICENÇ DE CASTELLET",
+     "PK": "309,6",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "CASTELLBELL I EL VILAR-MONISTROL",
+     "PK": "314,8",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "VACARISSES (APD)",
+     "PK": "319,6",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "VACARISSES- TORREBLANCA (APD)",
+     "PK": "322,3",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "VILADECAVALLS (APD)",
+     "PK": "328,2",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "SANT MIQUEL DE GONTERES (APD)",
+     "PK": "329,9",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "TERRASSA",
+     "PK": "333,7",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    }
+   ],
+   "cita": "| Estaciones | PK | Vía | Bloqueo | Comunicaciones | Asistencia a la conducción |"
+  },
+  {
+   "pagina": 23,
+   "cabecera": [
+    "Estaciones",
+    "PK",
+    "Vía",
+    "Bloqueo",
+    "Comunicaciones",
+    "Asistencia a la conducción"
+   ],
+   "filas": [
+    {
+     "Estaciones": "TERRASSA EST (APD)",
+     "PK": "335,9",
+     "Vía": "DOBLE",
+     "Bloqueo": "BAB con CTC",
+     "Comunicaciones": "Canal 66",
+     "Asistencia a la conducción": "ASFA digital"
+    },
+    {
+     "Estaciones": "SABADELL NORD (APD)",
+     "PK": "340,7",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "SABADELL CENTRE (APD)",
+     "PK": "343,2",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "SABADELL SUD",
+     "PK": "345,8",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "BARBERA DEL VALLES (APD)",
+     "PK": "347,8",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "CERDANYOLA DEL VALLES",
+     "PK": "351,2",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "MONTCADA I REIXAC- STA. MARIA (APD)",
+     "PK": "353,3",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "MONTCADA I REIXAC- MANRESA (APD)",
+     "PK": "355,0",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "MONTCADA- BIFURCACIO",
+     "PK": "356,7 Canal 62",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "TORRE DEL BARO (APD)",
+     "PK": "357,9",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "SANT ANDREU ARENAL",
+     "PK": "361,1",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "LA SAGRERA- MERIDIANA (APD)",
+     "PK": "362,2",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "BIF. VILANOVA",
+     "PK": "365,4",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "ARC DE TRIOMF (APD)",
+     "PK": "365,9",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "PLAÇA DE CATALUNYA",
+     "PK": "367,1",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "BARCELONA-SANTS",
+     "PK": "369,7 Canal 61",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    },
+    {
+     "Estaciones": "L'HOSPITALET DE LLOBREGAT",
+     "PK": "373,7",
+     "Vía": "",
+     "Bloqueo": "",
+     "Comunicaciones": "",
+     "Asistencia a la conducción": ""
+    }
+   ],
+   "cita": "| Estaciones | PK | Vía | Bloqueo | Comunicaciones | Asistencia a la conducción |"
+  },
+  {
+   "pagina": 25,
+   "cabecera": [
+    "Señales MANRESA",
+    "PK (Km)",
+    "Circuitos de vía",
+    "Longitud (Km)",
+    "Señales",
+    "PK (Km)",
+    "Circuitos de vía",
+    "Longitud (Km)"
+   ],
+   "filas": [
+    {
+     "Señales MANRESA": "VÍA PAR ",
+     "PK (Km)": "",
+     "Circuitos de vía": "",
+     "Longitud (Km)": "",
+     "Señales": "VÍA IMPAR "
+    },
+    {
+     "Señales MANRESA": "R1",
+     "PK (Km)": "302,609",
+     "Circuitos de vía": "CV 3039",
+     "Longitud (Km)": "1,365",
+     "Señales": "3023"
+    },
+    {
+     "Señales MANRESA": "3040",
+     "PK (Km)": "303,974",
+     "Circuitos de vía": "",
+     "Longitud (Km)": "",
+     "Señales": "3039"
+    },
+    {
+     "Señales MANRESA": "",
+     "PK (Km)": "",
+     "Circuitos de vía": "CV 3057",
+     "Longitud (Km)": "1,750",
+     "Señales": ""
+    },
+    {
+     "Señales MANRESA": "3056",
+     "PK (Km)": "305,724",
+     "Circuitos de vía": "",
+     "Longitud (Km)": "",
+     "Señales": "3057"
+    },
+    {
+     "Señales MANRESA": "",
+     "PK (Km)": "",
+     "Circuitos de vía": "CV 3073",
+     "Longitud (Km)": "1,517",
+     "Señales": ""
+    },
+    {
+     "Señales MANRESA": "3072",
+     "PK (Km)": "307,241",
+     "Circuitos de vía": "",
+     "Longitud (Km)": "",
+     "Señales": "3073"
+    },
+    {
+     "Señales MANRESA": "",
+     "PK (Km)": "",
+     "Circuitos de vía": "CV 30913",
+     "Longitud (Km)": "1,692",
+     "Señales": ""
+    },
+    {
+     "Señales MANRESA": "3090",
+     "PK (Km)": "307,381",
+     "Circuitos de vía": "",
+     "Longitud (Km)": "",
+     "Señales": "E'4"
+    },
+    {
+     "Señales MANRESA": "",
+     "PK (Km)": "308,933",
+     "Circuitos de vía": "",
+     "Longitud (Km)": "",
+     "Señales": "R2"
+    },
+    {
+     "Señales MANRESA": "",
+     "PK (Km)": "",
+     "Circuitos de vía": "CV A401",
+     "Longitud (Km)": "0,204",
+     "Señales": ""
+    },
+    {
+     "Señales MANRESA": "",
+     "PK (Km)": "309,137",
+     "Circuitos de vía": "",
+     "Longitud (Km)": "",
+     "Señales": "3091"
+    },
+    {
+     "Señales MANRESA": "VÍA PAR  SANT VICENÇ DE CASTELLET",
+     "PK (Km)": "",
+     "Circuitos de vía": "",
+     "Longitud (Km)": "",
+     "Señales": "VÍA IMPAR "
+    }
+   ],
+   "cita": "| Señales MANRESA | PK (Km) | Circuitos de vía | Longitud (Km) | Señales | PK (Km) | Circuitos de vía | Longitud (Km) |"
+  },
+  {
+   "pagina": 28,
+   "cabecera": [
+    "Hora",
+    "Procedencia/Destino",
+    "Sentido"
+   ],
+   "filas": [
+    {
+     "Hora": "5:52",
+     "Procedencia/Destino": "St. Vicenç de Calders",
+     "Sentido": "Destino"
+    }
+   ],
+   "cita": "| Hora | Procedencia/Destino | Sentido |"
+  },
+  {
+   "pagina": 29,
+   "cabecera": [
+    "Hora",
+    "Procedencia/Destino",
+    "Sentido"
+   ],
+   "filas": [
+    {
+     "Hora": "11:24",
+     "Procedencia/Destino": "Vilafranca del Penedès",
+     "Sentido": "Destino"
+    }
+   ],
+   "cita": "| Hora | Procedencia/Destino | Sentido |"
+  },
+  {
+   "pagina": 30,
+   "cabecera": [
+    "",
+    "Total",
+    "",
+    "Larga",
+    "Media",
+    "Cercanías",
+    "Mercancías",
+    "Servicio"
+   ],
+   "filas": [
+    {
+     "Total": "",
+     "Larga": "Distancia",
+     "Media": "Distancia",
+     "Cercanías": "",
+     "Mercancías": "",
+     "Servicio": ""
+    },
+    {
+     "Total": "439",
+     "Larga": "40",
+     "Media": "",
+     "Cercanías": "398",
+     "Mercancías": "-",
+     "Servicio": "1"
+    },
+    {
+     "Total": "62,7",
+     "Larga": "5,7",
+     "Media": "",
+     "Cercanías": "56,9",
+     "Mercancías": "-",
+     "Servicio": "-"
+    }
+   ],
+   "cita": "|   | Total |   | Larga | Media | Cercanías | Mercancías | Servicio |"
+  },
+  {
+   "pagina": 69,
+   "cabecera": [
+    "Hora registrador",
+    "Hora CTC",
+    "Acción",
+    "Señal",
+    "Velocidad"
+   ],
+   "filas": [
+    {
+     "Hora registrador": "18:04:52",
+     "Hora CTC": "18:02:51",
+     "Acción": "Paso por baliza previa señal avanzada E’2",
+     "Señal": "L1; anuncio de parada",
+     "Velocidad": "67 km/h"
+    },
+    {
+     "Hora registrador": "18:05:38",
+     "Hora CTC": "18:03:37",
+     "Acción": "Paso por baliza de anuncio de LTV (entre PK 303+100 y 303+700)",
+     "Señal": "L1+L8; LTV a 30 km/h",
+     "Velocidad": "53 km/h"
+    },
+    {
+     "Hora registrador": "18:06:10",
+     "Hora CTC": "18:04:09",
+     "Acción": "Paso por baliza previa de la señal de entrada E2",
+     "Señal": "L7; parada",
+     "Velocidad": "39 km/h"
+    },
+    {
+     "Hora registrador": "18:07:05",
+     "Hora CTC": "18:05:04",
+     "Acción": "Pulsador de rebase autorizado",
+     "Señal": "REBASE",
+     "Velocidad": "23 km/h"
+    },
+    {
+     "Hora registrador": "18:07:08",
+     "Hora CTC": "18:05:07",
+     "Acción": "Paso por baliza de la señal de entrada E2",
+     "Señal": "L7+ rebase autorizado",
+     "Velocidad": "27 km/h"
+    },
+    {
+     "Hora registrador": "18:08:57",
+     "Hora CTC": "18:06:56",
+     "Acción": "Parada Manresa",
+     "Señal": "",
+     "Velocidad": "0 km/h"
+    },
+    {
+     "Hora registrador": "18:10:03",
+     "Hora CTC": "18:08:02",
+     "Acción": "Arranque Manresa",
+     "Señal": "",
+     "Velocidad": "0 km/h"
+    },
+    {
+     "Hora registrador": "18:12:55",
+     "Hora CTC": "18:10:44",
+     "Acción": "Inicio de la LTV entre PK 303+100 y 303+700",
+     "Señal": "",
+     "Velocidad": "27 km/h"
+    },
+    {
+     "Hora registrador": "18:14:03",
+     "Hora CTC": "18:12:02",
+     "Acción": "Reconocimiento de final de la limitación temporal de velocidad",
+     "Señal": "L8",
+     "Velocidad": "28 km/h"
+    },
+    {
+     "Hora registrador": "18:20:33",
+     "Hora CTC": "18:18:32",
+     "Acción": "Paso por baliza previa de la señal avanzada de la estación de Sant Vicenç de Castellet E’4",
+     "Señal": "L1; anuncio de parada",
+     "Velocidad": "35 km/h"
+    },
+    {
+     "Hora registrador": "18:21:22",
+     "Hora CTC": "18:19:20",
+     "Acción": "Uso del Silbato",
+     "Señal": "BOCINA",
+     "Velocidad": "41 km/h"
+    },
+    {
+     "Hora registrador": "18:21:30",
+     "Hora CTC": "18:19:29",
+     "Acción": "Uso del Silbato",
+     "Señal": "BOCINA",
+     "Velocidad": "41 km/h"
+    },
+    {
+     "Hora registrador": "18:21:32",
+     "Hora CTC": "18:19:31",
+     "Acción": "Uso del Silbato",
+     "Señal": "BOCINA",
+     "Velocidad": "41 km/h"
+    },
+    {
+     "Hora registrador": "18:21:33",
+     "Hora CTC": "18:19:32",
+     "Acción": "Actuación sobre el manipulador de tracción/freno a posición de emergencia",
+     "Señal": "",
+     "Velocidad": "40 km/h"
+    },
+    {
+     "Hora registrador": "18:21:34",
+     "Hora CTC": "18:19:33",
+     "Acción": "Actuación sobre el manipulador de freno a posición de emergencia/activación sistema arenado",
+     "Señal": "FR_MANIP",
+     "Velocidad": "37 km/h"
+    },
+    {
+     "Hora registrador": "18:21:37",
+     "Hora CTC": "18:19:36",
+     "Acción": "COLISIÓN",
+     "Señal": "",
+     "Velocidad": "25 km/h"
+    }
+   ],
+   "cita": "| Hora registrador | Hora CTC | Acción | Señal | Velocidad |"
+  },
+  {
+   "pagina": 72,
+   "cabecera": [
+    "Hora registrador",
+    "Hora CTC",
+    "Acción",
+    "Señal",
+    "Velocidad"
+   ],
+   "filas": [
+    {
+     "Hora registrador": "18:17:45",
+     "Hora CTC": "18:15:47",
+     "Acción": "Paso por la baliza previa de la señal de entrada nº 3099 de Sant Vicenç de Castellet",
+     "Señal": "L3; Vía Libre",
+     "Velocidad": "66 km/h"
+    },
+    {
+     "Hora registrador": "18:18:03",
+     "Hora CTC": "18:16:05",
+     "Acción": "Paso por la baliza de pie de la señal de entrada nº 3099",
+     "Señal": "L3; Vía Libre",
+     "Velocidad": "64 km/h"
+    },
+    {
+     "Hora registrador": "18:19:43",
+     "Hora CTC": "18:17:45",
+     "Acción": "Paso por la baliza previa de la señal de salida nº 3091",
+     "Señal": "L1; anuncio de parada",
+     "Velocidad": "43 km/h"
+    },
+    {
+     "Hora registrador": "18:20:01",
+     "Hora CTC": "18:18:03",
+     "Acción": "Paso por la baliza de pie de la señal de salida nº 3091 (anuncio de parada)",
+     "Señal": "L1; anuncio de parada",
+     "Velocidad": "56 km/h"
+    },
+    {
+     "Hora registrador": "18:21:30",
+     "Hora CTC": "18:19:32",
+     "Acción": "Acción sobre el manipulador de tracción a freno de urgencia, lo que provoca la actuación del arenado",
+     "Señal": "",
+     "Velocidad": "56 km/h"
+    },
+    {
+     "Hora registrador": "18:21:34",
+     "Hora CTC": "18:19:36",
+     "Acción": "COLISIÓN",
+     "Señal": "",
+     "Velocidad": "42 km/h"
+    }
+   ],
+   "cita": "| Hora registrador | Hora CTC | Acción | Señal | Velocidad |"
+  },
+  {
+   "pagina": 74,
+   "cabecera": [
+    "Día",
+    "Horario trenes expedidos por vía 1",
+    ""
+   ],
+   "filas": [
+    {
+     "Día": "01-01-2019",
+     "Horario trenes expedidos por vía 1": "6:59"
+    },
+    {
+     "Día": "02-01-2019",
+     "Horario trenes expedidos por vía 1": "7:09"
+    },
+    {
+     "Día": "03-01-2019",
+     "Horario trenes expedidos por vía 1": "8:11"
+    },
+    {
+     "Día": "04-01-2019",
+     "Horario trenes expedidos por vía 1": "8:11"
+    },
+    {
+     "Día": "05-01-2019",
+     "Horario trenes expedidos por vía 1": "7:57"
+    },
+    {
+     "Día": "06-01-2019",
+     "Horario trenes expedidos por vía 1": "6:58"
+    },
+    {
+     "Día": "07-01-2019",
+     "Horario trenes expedidos por vía 1": "7:21"
+    },
+    {
+     "Día": "08-01-2019",
+     "Horario trenes expedidos por vía 1": "7:10"
+    },
+    {
+     "Día": "09-01-2019",
+     "Horario trenes expedidos por vía 1": "7:08"
+    },
+    {
+     "Día": "10-01-2019",
+     "Horario trenes expedidos por vía 1": "7:08"
+    },
+    {
+     "Día": "11-01-2019",
+     "Horario trenes expedidos por vía 1": "7:09"
+    },
+    {
+     "Día": "12-01-2019",
+     "Horario trenes expedidos por vía 1": "5:58"
+    },
+    {
+     "Día": "13-01-2019",
+     "Horario trenes expedidos por vía 1": "5:58"
+    }
+   ],
+   "cita": "| Día | Horario trenes expedidos por vía 1 |   |"
+  },
+  {
+   "pagina": 75,
+   "cabecera": [
+    "Día",
+    "Horario trenes expedidos por vía 1",
+    ""
+   ],
+   "filas": [
+    {
+     "Día": "27-01-2019",
+     "Horario trenes expedidos por vía 1": "7:57"
+    },
+    {
+     "Día": "28-01-2019",
+     "Horario trenes expedidos por vía 1": "6:41"
+    },
+    {
+     "Día": "29-01-2019",
+     "Horario trenes expedidos por vía 1": "7:09"
+    },
+    {
+     "Día": "30-01-2019",
+     "Horario trenes expedidos por vía 1": "7:09"
+    },
+    {
+     "Día": "31-01-2019",
+     "Horario trenes expedidos por vía 1": "7:22 (ANULADO)"
+    },
+    {
+     "Día": "01-02-2019",
+     "Horario trenes expedidos por vía 1": "8:11"
+    },
+    {
+     "Día": "02-02-2019",
+     "Horario trenes expedidos por vía 1": "6:59"
+    }
+   ],
+   "cita": "| Día | Horario trenes expedidos por vía 1 |   |"
+  },
+  {
+   "pagina": 98,
+   "cabecera": [
+    "Hora (unificada a CTC)",
+    "RC CTC",
+    "RC Manresa",
+    "Movimientos de trenes"
+   ],
+   "filas": [
+    {
+     "Hora (unificada a CTC)": "17:48",
+     "RC CTC": "Conversaciones con el RC Terrassa para resolver un cruce (conversación C-0)",
+     "RC Manresa": "",
+     "Movimientos de trenes": ""
+    },
+    {
+     "Hora (unificada a CTC)": "17:56",
+     "RC CTC": "",
+     "RC Manresa": "",
+     "Movimientos de trenes": "Hacia las 17:57 llega a Manresa (desde Barcelona) el tren 28081, y estaciona en vía 2. Situación previa a la llegada del tren 15624: vías 2 y 4 ocupadas por trenes estacionados:"
+    },
+    {
+     "Hora (unificada a CTC)": "18:00:57",
+     "RC CTC": "",
+     "RC Manresa": "Preparación del itinerario para el tren 15624.",
+     "Movimientos de trenes": "Los escapes 11/13 y 21/23 (salida de Manresa hacia Barcelona) pierden comprobación."
+    },
+    {
+     "Hora (unificada a CTC)": "18:01:14",
+     "RC CTC": "",
+     "RC Manresa": "",
+     "Movimientos de trenes": "El escape 11/13 recupera comprobación y queda en posición desviada. EL ESCAPE 21/23 NO COMPRUEBA y así se mantendrá hasta las 18:10:26. Se abre la señal R2 (lado Lleida) con indicación de rebase autorizado."
+    },
+    {
+     "Hora (unificada a CTC)": "18:01:26",
+     "RC CTC": "El RC Manresa pide a la RC del CTC que indique al maquinista del tren 15624 que pase a modalidad C, para comunicarse con él (M-1)",
+     "RC Manresa": "",
+     "Movimientos de trenes": ""
+    },
+    {
+     "Hora (unificada a CTC)": "18:01:42",
+     "RC CTC": "",
+     "RC Manresa": "",
+     "Movimientos de trenes": "El tren 15624 pasa por la baliza previa de la señal E’2 (en anuncio de parada) a las 18:02:51."
+    },
+    {
+     "Hora (unificada a CTC)": "18:03:29 18:03:51",
+     "RC CTC": "Llamada al maquinista del 15624 para decirle que pase a modalidad C para comunicarse con el RC Manresa (C-1)",
+     "RC Manresa": "",
+     "Movimientos de trenes": "El tren 15624 pasa por la baliza de anuncio de la LTV a 30 km/h del PK 300+340, a las 18:03:37."
+    },
+    {
+     "Hora (unificada a CTC)": "18:03:58",
+     "RC CTC": "",
+     "RC Manresa": "El RC Manresa da al tren 15624 telefonema",
+     "Movimientos de trenes": "El maquinista del tren 15624 recibe el telefonema para rebasar la señal de entrada, sin llegar a detener el tren (art. 1.4.1.1 punto 10 RCF)."
+    }
+   ],
+   "cita": "| Hora (unificada a CTC) | RC CTC | RC Manresa | Movimientos de trenes |"
+  },
+  {
+   "pagina": 99,
+   "cabecera": [
+    "Hora RC CTC (unificada a CTC)",
+    "RC Manresa",
+    "Movimientos de trenes"
+   ],
+   "filas": [
+    {
+     "Hora RC CTC (unificada a CTC)": "18:04:55",
+     "RC Manresa": "para rebasar la señal de entrada E2. Ante pregunta del maquinista, le confirma que “va a vía uno” (M-2).",
+     "Movimientos de trenes": "El tren 15624 se aproxima a la señal de entrada E2: pasa por la baliza previa a las 18:04:09. Su velocidad mínima (11 km/h) se produce a las 18:04:33."
+    },
+    {
+     "Hora RC CTC (unificada a CTC)": "18:05:07",
+     "RC Manresa": "",
+     "Movimientos de trenes": "El tren 15624 rebasa la señal de entrada E2 tras pulsar “rebase autorizado” a las 18:05:04."
+    },
+    {
+     "Hora RC CTC (unificada a CTC)": "18:06:05",
+     "RC Manresa": "El RC Manresa atiende otras operaciones.",
+     "Movimientos de trenes": "El tren 15624 queda dentro del CV I y estaciona (detención a las 18:06:56 según datos del registrador embarcado):"
+    },
+    {
+     "Hora RC CTC (unificada a CTC)": "18:07:30 18:07:59",
+     "RC Manresa": "El RC Manresa da al tren 15624 el telefonema “marche el tren de vía 1” (M-3).",
+     "Movimientos de trenes": ""
+    },
+    {
+     "Hora RC CTC (unificada a CTC)": "18:08:33",
+     "RC Manresa": "",
+     "Movimientos de trenes": "El tren 15624, en su salida de Manresa, comienza a ocupar el CV A3, donde está el escape 11/15 que debe llevarlo a vía par (según datos del registrador, arranca a las 18:08:02). EL ESCAPE 21/23 SIGUE SIN DAR COMPROBACIÓN Y LA SEÑAL R1 APARECE EN EL CTC COMO “EN ROJO”:"
+    }
+   ],
+   "cita": "| Hora RC CTC (unificada a CTC) | RC Manresa | Movimientos de trenes |"
+  },
+  {
+   "pagina": 100,
+   "cabecera": [
+    "Hora (unificada a CTC)",
+    "RC CTC",
+    "RC Manresa",
+    "Movimientos de trenes"
+   ],
+   "filas": [
+    {
+     "Hora (unificada a CTC)": "18:08:40",
+     "RC CTC": "",
+     "RC Manresa": "",
+     "Movimientos de trenes": "El tren 15624 libera el CV 1:"
+    },
+    {
+     "Hora (unificada a CTC)": "18:08:55",
+     "RC CTC": "Conversación entre la RCCTC y el RC Terrassa, hablando de cómo resolver el problema de cruces en Terrassa.",
+     "RC Manresa": "",
+     "Movimientos de trenes": "El tren 15624 comienza a ocupar el CV A15, que corresponde a los cambios de entrada de vía par: EL ESCAPE 21/23 SIGUE SIN DAR COMPROBACIÓN Y LA SEÑAL R1 APARECE EN EL CTC COMO “EN ROJO”: Aspecto que debería mostrarse en el cuadro de Manresa (reconstrucción)"
+    },
+    {
+     "Hora (unificada a CTC)": "18:09:08",
+     "RC CTC": "",
+     "RC Manresa": "",
+     "Movimientos de trenes": "El tren 15624 libera el CV A3: Aspecto que debería mostrarse en el cuadro de Manresa (reconstrucción)"
+    },
+    {
+     "Hora (unificada a CTC)": "18:09:47",
+     "RC CTC": "",
+     "RC Manresa": "El RC Manresa atiende otras varias tareas.",
+     "Movimientos de trenes": "El tren 15624 entra, EN CONTRA DE LO PREVISTO, en el CV A23 (escape a la vía impar): EL ESCAPE 21/23 SIGUE SIN DAR COMPROBACIÓN: Aspecto que debería mostrarse en el cuadro de Manresa (reconstrucción)"
+    }
+   ],
+   "cita": "| Hora (unificada a CTC) | RC CTC | RC Manresa | Movimientos de trenes |"
+  },
+  {
+   "pagina": 101,
+   "cabecera": [
+    "Hora (unificada a CTC)",
+    "RC CTC",
+    "RC Manresa",
+    "Movimientos de trenes"
+   ],
+   "filas": [
+    {
+     "Hora (unificada a CTC)": "18:09:59",
+     "RC CTC": "Continúa la conversación entre la RCCTC y el RC Terrassa. Llegan a una solución (C-2). Dan autorización al primero de los cuatro tres afectados para que salga de Terrassa (inicia su marcha hacia las 18:11)",
+     "RC Manresa": "",
+     "Movimientos de trenes": "El tren 15624 libera el circuito CV A15: Aspecto que debería mostrarse en el cuadro de Manresa (reconstrucción)"
+    },
+    {
+     "Hora (unificada a CTC)": "18:10:03",
+     "RC CTC": "",
+     "RC Manresa": "",
+     "Movimientos de trenes": "El tren 15624 entra por error en el CV 3039, a contravía, y pierde su nº SE ACTIVAN LA SONERÍA DE PROXIMIDAD Y EL INDICADOR DE PROXIMIDAD DEL CUADRO DE MANDO DE MANRESA Aspecto que debería mostrarse en el cuadro de Manresa (reconstrucción)"
+    },
+    {
+     "Hora (unificada a CTC)": "18:10:07",
+     "RC CTC": "",
+     "RC Manresa": "Oída la sonería, el RC Manresa acciona escape 11/13 y aguja 3 para hacer entrada de vía impar a vía 3 para el tren que (cree) se aproxima por vía impar (realmente 15624).",
+     "Movimientos de trenes": ""
+    },
+    {
+     "Hora (unificada a CTC)": "18:10:10",
+     "RC CTC": "",
+     "RC Manresa": "Acciona la aguja 19 para hacer la salida de vía 4 a la vía par, para el 25056 (estacionado como 28079).",
+     "Movimientos de trenes": ""
+    }
+   ],
+   "cita": "| Hora (unificada a CTC) | RC CTC | RC Manresa | Movimientos de trenes |"
+  },
+  {
+   "pagina": 102,
+   "cabecera": [
+    "Hora (unificada a CTC)",
+    "RC CTC",
+    "RC Manresa",
+    "Movimientos de trenes"
+   ],
+   "filas": [
+    {
+     "Hora (unificada a CTC)": "18:10:17",
+     "RC CTC": "Termina la conversación entre la RCCTC y el RC Terrassa.",
+     "RC Manresa": "",
+     "Movimientos de trenes": "El tren 15624 libera el CV A23 (cambios de entrada), queda enteramente en CV 3039, SIN NÚMERO: Aspecto que debería mostrarse en el cuadro de Manresa tras la liberación del CV A23 (reconstrucción) Aspecto que debería mostrarse en el cuadro de Manresa tras el enclavamiento de los itinerarios de entrada a vía 3 y salida de vía 4 (reconstrucción) El tren 15624 pasa el fin de la LTV a 30 km/h a las 18:12:02. El tren estacionado en la vía 4 de Manresa es renumerado como 25056 (por la RC del CTC) a las 18:12:07."
+    },
+    {
+     "Hora (unificada a CTC)": "18:10:30",
+     "RC CTC": "",
+     "RC Manresa": "Enclavado itinerario de entrada de vía impar a vía 3. El escape 21/23 vuelve a dar comprobación a las 18:10:26.",
+     "Movimientos de trenes": ""
+    },
+    {
+     "Hora (unificada a CTC)": "18:10:33 18:11:35",
+     "RC CTC": "",
+     "RC Manresa": "Enclavado itinerario de salida de vía 4 a la vía par, para el 25056.",
+     "Movimientos de trenes": ""
+    },
+    {
+     "Hora (unificada a CTC)": "18:11:39 18:12:31",
+     "RC CTC": "Conversación con el supervisor para explicarle la solución que han decidido para el problema de Terrassa. El supervisor termina diciendo “lo voy a ver ahí, un momentito” (C-3)",
+     "RC Manresa": "",
+     "Movimientos de trenes": ""
+    },
+    {
+     "Hora (unificada a CTC)": "18:12:33",
+     "RC CTC": "RC Manresa llama a RCCTC para preguntar qué tren le viene. Ésta comprueba que “se ha ido el número” y chequea; dice que es el 28043 y que lo va a numerar (C- 4, 2ª, y M-4, 2ª)",
+     "RC Manresa": "",
+     "Movimientos de trenes": ""
+    },
+    {
+     "Hora (unificada a CTC)": "18:12:57 18:13:04",
+     "RC CTC": "",
+     "RC Manresa": "",
+     "Movimientos de trenes": "El tren 15624 entra en el CV 3057, y el sistema le asigna el número *0332:"
+    },
+    {
+     "Hora (unificada a CTC)": "18:13:04",
+     "RC CTC": "El supervisor llega y comenta con la",
+     "RC Manresa": "",
+     "Movimientos de trenes": ""
+    }
+   ],
+   "cita": "| Hora (unificada a CTC) | RC CTC | RC Manresa | Movimientos de trenes |"
+  },
+  {
+   "pagina": 103,
+   "cabecera": [
+    "Hora (unificada a CTC)",
+    "RC CTC",
+    "RC Manresa",
+    "Movimientos de trenes"
+   ],
+   "filas": [
+    {
+     "Hora (unificada a CTC)": "18:13:05 18:13:15 18:13:21",
+     "RC CTC": "RCCTC la solución de Terrassa. Se deduce que está señalando sobre la pantalla: “¿Qué mande éste primero?” (C-4, 3ª)",
+     "RC Manresa": "El maquinista del tren 25056 (en vía 4) comunica al RC Manresa que está dispuesto para salida; éste le responde que “buen servicio” (M-5)",
+     "Movimientos de trenes": "El tren 15624 libera el CV 3039, y queda ocupando sólo el CV 3057: Aspecto que debería mostrarse en el cuadro de Manresa (reconstrucción)"
+    },
+    {
+     "Hora (unificada a CTC)": "18:13:23",
+     "RC CTC": "Se reanuda la conversación entre RCCTC y RC Manresa: éste dice (18:13:31) que la ocupación “se ha borrado” HA DEJADO DE OCUPAR EL CV 3039 Sigue la conversación: la RCCTC cree que esa ocupación es el tren 28043, pero que para verificarlo va a llamar a su maquinista para que le confirme su posición (M-4, 4ª)",
+     "RC Manresa": "",
+     "Movimientos de trenes": ""
+    },
+    {
+     "Hora (unificada a CTC)": "18:13:40",
+     "RC CTC": "",
+     "RC Manresa": "",
+     "Movimientos de trenes": "El tren 25056 inicia su recorrido, ocupando el circuito de los cambios de salida CV A15:"
+    },
+    {
+     "Hora (unificada a CTC)": "18:13:43",
+     "RC CTC": "",
+     "RC Manresa": "",
+     "Movimientos de trenes": "El tren 15624 es renombrado por la RC CTC como 28043:"
+    },
+    {
+     "Hora (unificada a CTC)": "18:14:35",
+     "RC CTC": "",
+     "RC Manresa": "",
+     "Movimientos de trenes": "El tren 25056 entra en el primer CV (CV 3020) de la vía par:"
+    }
+   ],
+   "cita": "| Hora (unificada a CTC) | RC CTC | RC Manresa | Movimientos de trenes |"
+  },
+  {
+   "pagina": 104,
+   "cabecera": [
+    "Hora (unificada a CTC)",
+    "RC CTC RC Manresa",
+    "Movimientos de trenes"
+   ],
+   "filas": [
+    {
+     "Hora (unificada a CTC)": "18:14:50",
+     "RC CTC RC Manresa": "",
+     "Movimientos de trenes": "El tren 25056 rebasa los cambios de salida y queda en el CV 3020:"
+    },
+    {
+     "Hora (unificada a CTC)": "18:15:20",
+     "RC CTC RC Manresa": "Llamada a la maquinista del tren 28043. La maquinista del 28043 le confirma a la RC CTC que se encuentra en la entrada de Sant Vicenç de Castellet (C-5)",
+     "Movimientos de trenes": ""
+    },
+    {
+     "Hora (unificada a CTC)": "18:16:01",
+     "RC CTC RC Manresa": "",
+     "Movimientos de trenes": "El tren 15624, con el número (equivocado) 28043 entra en el CV 3073:"
+    },
+    {
+     "Hora (unificada a CTC)": "18:16:08",
+     "RC CTC RC Manresa": "",
+     "Movimientos de trenes": "El tren 15624, con el número (equivocado) 28043 libera el CV 3057, y queda ocupando sólo el CV 3073SE DESACTIVA EL INDICADOR DE PROXIMIDAD DEL CUADRO DE MANDO DE MANRESA:"
+    },
+    {
+     "Hora (unificada a CTC)": "18:16:13",
+     "RC CTC RC Manresa": "",
+     "Movimientos de trenes": "~18:16: llega a Terrassa otro de los trenes involucrados en el cruce múltiple que la RCCTC debía resolver"
+    },
+    {
+     "Hora (unificada a CTC)": "18:16:20",
+     "RC CTC RC Manresa": "",
+     "Movimientos de trenes": "El tren 15624 pierde otra vez el número (la RC CTC “devuelve” su nº al 28043) y el sistema le asigna el *0335:"
+    },
+    {
+     "Hora (unificada a CTC)": "18:16:28",
+     "RC CTC RC Manresa": "Nueva comunicación de la RCCTC con el RC Manresa, para decirle que lo que hay en la vía impar es una falsa ocupación (C-6 y M-6)",
+     "Movimientos de trenes": ""
+    }
+   ],
+   "cita": "| Hora (unificada a CTC) | RC CTC RC Manresa | Movimientos de trenes |"
+  },
+  {
+   "pagina": 105,
+   "cabecera": [
+    "Hora (unificada a CTC)",
+    "RC CTC RC Manresa",
+    "Movimientos de trenes"
+   ],
+   "filas": [
+    {
+     "Hora (unificada a CTC)": "18:16:54",
+     "RC CTC RC Manresa": "Continua la conversación",
+     "Movimientos de trenes": "El tren 28043 se detiene en la vía 1 de Sant Vicenç de Castellet El tren 25056 entra en el CV 3040:"
+    },
+    {
+     "Hora (unificada a CTC)": "18:17:04",
+     "RC CTC RC Manresa": "",
+     "Movimientos de trenes": "El tren 25056 libera el CV 3020: ~18:17: sale de Terrassa uno de los trenes involucrados en el cruce que la RCCTC tenía que resolver, y llega otro."
+    },
+    {
+     "Hora (unificada a CTC)": "18:17:38 18:17:56",
+     "RC CTC RC Manresa": "Llamada a Mantenimiento para comunicar la ocupación, en el CV 3073 (C-7)",
+     "Movimientos de trenes": ""
+    },
+    {
+     "Hora (unificada a CTC)": "18:18:03",
+     "RC CTC RC Manresa": "",
+     "Movimientos de trenes": "El tren 28043 (que ya ha recuperado su número) arranca de la vía 1 de Sant Vicenç de Castellet (a las 18:17:36), y ocupa el circuito de los cambios de salida CV A38 (mientras está en el CV del cambio no muestra el número):"
+    },
+    {
+     "Hora (unificada a CTC)": "18:18:15",
+     "RC CTC RC Manresa": "",
+     "Movimientos de trenes": "El tren 28043 rebasa la señal de salida 3091 en indicación de anuncio de parada, y entra en el CV 3091:"
+    }
+   ],
+   "cita": "| Hora (unificada a CTC) | RC CTC RC Manresa | Movimientos de trenes |"
+  },
+  {
+   "pagina": 107,
+   "cabecera": [
+    "Hora (unificada a CTC)",
+    "RC CTC RC Manresa",
+    "Movimientos de trenes"
+   ],
+   "filas": [
+    {
+     "Hora (unificada a CTC)": "18:20:05 18:20:58",
+     "RC CTC RC Manresa": "El maquinista del tren 25056 llama al CTC por emergencia, pero no consiguen hablar con él (C-8)",
+     "Movimientos de trenes": "~18:20: sale de Terrassa el último de los trenes involucrados en el cruce que la RCCTC había tenido que reorganizar. El tren 25056 libera el CV 3056. Esta disposición es la que se mantiene tras el accidente:"
+    },
+    {
+     "Hora (unificada a CTC)": "18:21:20 18:23:02",
+     "RC CTC RC Manresa": "El Jefe del CTC llama al RC Manresa para que le diga las horas a las que han salido los últimos trenes, el 15624 (18:08 por hora de Manresa) y 25056 (18:12) (M-8)",
+     "Movimientos de trenes": ""
+    },
+    {
+     "Hora (unificada a CTC)": "18:23:41 18:23:54",
+     "RC CTC RC Manresa": "La RCCTC pide al RC Manresa que “no saques nada” hasta aclarar la situación (C-9, 2ª, y M-9, 1ª).",
+     "Movimientos de trenes": ""
+    },
+    {
+     "Hora (unificada a CTC)": "18:23:55 18:29:09",
+     "RC CTC RC Manresa": "Consigue hablar con el maquinista del 25056, que comunica el accidente (C-9, 3ª, y en parte M-9, 2ª)",
+     "Movimientos de trenes": ""
+    }
+   ],
+   "cita": "| Hora (unificada a CTC) | RC CTC RC Manresa | Movimientos de trenes |"
+  },
+  {
+   "pagina": 133,
+   "cabecera": [
+    "Destinatario",
+    "Implementa dor final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AESF",
+     "Implementa dor final": "ADIF",
+     "Número": "12/2019 - 1",
+     "Recomendación": "1.1 Reforzar la formación práctica de los Responsables de Circulación en estaciones sobre el adecuado manejo de los cuadros de mando local. 1.2 Reforzar la formación práctica de los Responsables de Circulación en estaciones sobre el procedimiento reglamentario de expedición de trenes desde vías sin señal de salida y en situaciones de anormalidad (en cumplimiento de la Recomendación Técnica de la AESF RT 2/2019)."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementa dor final": "ADIF",
+     "Número": "12/2019 - 2",
+     "Recomendación": "Insistir, en la formación y reciclaje del personal de circulación, en el cumplimiento de los protocolos de información (normas NAR nº3/16 y 6/18 del SGS de Adif)."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementa dor final": "ADIF",
+     "Número": "12/2019 - 3",
+     "Recomendación": "Estudiar la posible revisión de la norma NAR nº6/18 para especificar los protocolos, relaciones y criterios de actuación para la información entre responsables de circulación."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementa dor final": "RENFE",
+     "Número": "12/2019 - 4",
+     "Recomendación": "Reforzar la formación del personal de conducción en los procedimientos"
+    },
+    {
+     "Destinatario": "",
+     "Implementa dor final": "VIAJEROS Y",
+     "Número": "",
+     "Recomendación": "reglamentarios a seguir en situaciones excepcionales como circulaciones"
+    },
+    {
+     "Destinatario": "",
+     "Implementa dor final": "OTRAS",
+     "Número": "",
+     "Recomendación": "a contravía o al ser expedidos de vías sin señal de salida, de forma tanto"
+    },
+    {
+     "Destinatario": "",
+     "Implementa dor final": "EE.FF.",
+     "Número": "",
+     "Recomendación": "teórica como práctica."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementa dor final": "ADIF",
+     "Número": "12/2019 - 5",
+     "Recomendación": "Estudiar la posibilidad de modificar las instalaciones de la estación de Manresa para dotar de señal de salida a todas las vías de circulación. Asimismo, revisar si la situación de falta de señal de salida se presenta en otras estaciones término de cercanías y de paso de otros tráficos, así como en estaciones de transición de vía única a vía doble y viceversa y adoptar las medidas pertinentes."
+    }
+   ],
+   "cita": "| Destinatario | Implementa dor final | Número | Recomendación |"
+  },
+  {
+   "pagina": 134,
+   "cabecera": [
+    "Destinatario",
+    "Implementa dor final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AESF",
+     "Implementa dor final": "ADIF Y EE.FF.",
+     "Número": "12/2019 - 6",
+     "Recomendación": "6.1 Reforzar las inspecciones y auditorías en las estaciones para detectar y corregir el incumplimiento de las normas reglamentarias respecto a la expedición de los trenes desde vías sin señal de salida. 6.2 Reforzar la vigilancia en los trenes en lo relativo al cumplimiento de las normas reglamentarias cuando son expedidos de vías sin señal de salida o cuando circulen a contravía."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementa dor final": "ADIF",
+     "Número": "12/2019 - 7",
+     "Recomendación": "Establecer un procedimiento a seguir por parte de los Responsables de Circulación ante casos de pérdida de numeración, falsas ocupaciones y asignación a un tren de un número ya asignado a otro. Complementariamente a lo anterior, estudiar la posibilidad de que el sistema videográfico del CTC incluya en su funcionalidad alarmas específicas destacadas y diferenciadas para estas situaciones (especificando el modo de cumplimiento del punto primero del artículo 5.1.4.2 de la norma NAS 201 del SGS de Adif)."
+    }
+   ],
+   "cita": "| Destinatario | Implementa dor final | Número | Recomendación |"
+  },
+  {
+   "pagina": 143,
+   "cabecera": [
+    "Adressee",
+    "Final implementer",
+    "Number",
+    "Recommendation text"
+   ],
+   "filas": [
+    {
+     "Adressee": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) (NSA ES)",
+     "Final implementer": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF) (IM) & RUs",
+     "Number": "12/2019 - 6",
+     "Recommendation text": "6.1 Reinforce railway station monitoring and audit activities to detect and correct non-compliance with the regulatory procedures on the dispatch of trains from tracks without an exit signal. 6.2 Reinforce monitoring of on-board personnel regarding their compliance with the rules on the dispatch from tracks without an exit signal and opposite direction movements."
+    },
+    {
+     "Adressee": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF) (NSA ES)",
+     "Final implementer": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF) (IM)",
+     "Number": "12/2019 - 7",
+     "Recommendation text": "Implement procedures for traffic operators for dealing with issues such as missing train numbers, false track occupancies and number duplication. In addition to this, consider the upgrading of the CTC interface to include specific warnings for these situations (specifying, at the same time, how to comply with the first point of article 5.1.4.2 in NAS 201 standard within Adif SMS)."
+    }
+   ],
+   "cita": "| Adressee | Final implementer | Number | Recommendation text |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "12/2019",
+   "pagina": 1,
+   "cita": "INFORME FINAL DE LA CIAF (IFC) 12/2019",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 8 de febrero de 2019 se produjo una colisión frontal en el PK 307+710 de la línea 220 Lleida-Pirineus-L'Hospitalet de Llobregat, entre las estaciones de Manresa y Sant Vicenç de Castellet, cerca del antiguo apeadero de Castellgalí (Barcelona). El tren 15624 (Media Distancia Renfe) fue expedido desde la vía 1 de Manresa sin señal de salida y, por una incorrecta disposición del escape 21/23, se encaminó por vía impar a contravía. El tren 28043 (Rodalies Renfe) circulaba correctamente por esa misma vía en sentido Manresa. La colisión se produjo a las 18:19:36 a velocidades de 25 y 42 km/h respectivamente. Como consecuencia falleció la maquinista del tren 28043 y resultaron heridas 108 personas (19 graves).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2019-02-08",
+    "hora": null,
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Castellgalí (antiguo apeadero)",
+     "pk": "307+710",
+     "linea": "220 Lleida-Pirineus-L'Hospitalet de Llobregat",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Tramo entre las estaciones de Manresa y Sant Vicenç de Castellet, cerca del antiguo apeadero de Castellgalí, en el municipio de Castellgalí. El punto de colisión está en una explanación en trinchera situada en una curva de transición entre dos alineaciones curvas que forman una S, con mínimas condiciones de visibilidad."
+    }
+   },
+   "pagina": 51,
+   "cita": "trenes del 08-02-2019, respectivamente para las 17:52 y las 18:05. Finalmente, habrá una",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 19,
+    "heridos_leves": 89,
+    "danos_materiales": "Graves desperfectos en ambos trenes (descarrilamiento parcial, empotramiento de cabinas). Apreciables daños en la vía. No se produjeron daños de consideración en instalaciones fijas ni al medio ambiente. Pertenencias de viajeros custodiadas e inventariadas por Renfe y Mossos d'Esquadra.",
+    "afectacion_servicio": "Suspendida la circulación entre Manresa y Sant Vicenç de Castellet (ambas vías interceptadas), afectando a líneas R4 y R12. Día del accidente: 24 circulaciones afectadas, 471 minutos perdidos. Día 9: 40 trenes afectados, 610 minutos. Días 10-11: 33 y 81 trenes afectados (395 y 710 minutos). Restablecida el 11-02 a las 22:28 con LTV a 30 km/h. Del 12 al 22 de febrero: sin servicio ferroviario (traslado por carretera), 805 circulaciones afectadas."
+   },
+   "pagina": 33,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "La entrada del tren 15624 en el cantón de bloqueo automático CV 3091 de la vía impar, circulando indebidamente a contravía, cuando dicho cantón se encontraba ocupado por el tren 28043 circulando normalmente. La circulación a contravía se debió al acceso imprevisto a la vía impar por el escape 21/23 dispuesto incorrectamente en posición invertida, consecuencia de una pulsación insuficiente sobre el pulsador de accionamiento desde el cuadro de mando de Manresa.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El RC de Manresa no llevó a cabo la comprobación de que alguna señal de salida del mismo lado ordenaba vía libre, ni comprobó fehacientemente el itinerario de salida (incumplimiento del RCF art. 4.2.1.3, punto 2, párrafos a y b).",
+    "El RC de Manresa no se percató de que la sonería de proximidad y los visores de ocupación correspondían al tren 15624 circulando a contravía.",
+    "El maquinista del 15624 prosiguió circulando a contravía sin amparo del BAD y sin haber recibido la notificación L.4.32, sin detenerse ni comunicar con el RC.",
+    "La RC del CTC no detectó la anormal secuencia a contravía, realizando suposiciones (falsa ocupación) sin verificar adecuadamente la circulación.",
+    "El RC de Manresa no comunicó al CTC la salida del 15624 ni la alteración del orden de salida hasta varios minutos después.",
+    "Ambos RC supusieron que la ocupación era una falsa ocupación de circuito de vía, explicación más probable que un tren a contravía.",
+    "El sistema videográfico del CTC permite asignar manualmente un número ya asignado a otro tren, lo que facilitó la confusión.",
+    "La asignación de vías en el libro de paso variaba respecto a la programación de 2017, condicionando que el 15624 pasase por la vía 1 sin señal de salida.",
+    "La práctica reiterada de expedir trenes desde vía 1 sin abrir señal de salida del mismo lado no fue detectada ni corregida por los procedimientos de Inspección y Vigilancia del SGS.",
+    "La vía 1 de Manresa carece de señal de salida por el lado Barcelona pese a ser cabecera de Cercanías y estación de paso de Media Distancia.",
+    "La configuración de la estación de Manresa dificulta la observación directa de las señales de salida desde el gabinete de circulación.",
+    "La carga de trabajo elevada de la RC del CTC por la avería en Plaça Catalunya y los cruces alterados en Terrassa."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Deficiencias en los Sistemas de Gestión de la Seguridad (SGS) de Adif y Renfe en formación y entrenamiento del personal de circulación y conducción.",
+    "Falta de supervisión de las actuaciones del personal que interviene en el manejo de enclavamientos, bloqueos y conducción.",
+    "Inadecuación de los equipamientos a las necesidades de la explotación para las mejores condiciones de seguridad.",
+    "Carencia de procedimientos reglamentarios que definan de forma concreta las responsabilidades del RC local de estación y de los RC de bandas del CTC.",
+    "Necesidad de procedimientos específicos ante situaciones de pérdida de numeración de trenes y ocupaciones intempestivas."
+   ],
+   "pagina": 9,
+   "cita": "La carencia de procedimientos reglamentarios que definan de forma concreta las",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "1.1 Reforzar la formación práctica de los Responsables de Circulación en estaciones sobre el adecuado manejo de los cuadros de mando local. 1.2 Reforzar la formación práctica de los Responsables de Circulación en estaciones sobre el procedimiento reglamentario de expedición de trenes desde vías sin señal de salida y en situaciones de anormalidad (en cumplimiento de la Recomendación Técnica de la AESF RT 2/2019).",
+    "Insistir, en la formación y reciclaje del personal de circulación, en el cumplimiento de los protocolos de información (normas NAR nº3/16 y 6/18 del SGS de Adif).",
+    "Estudiar la posible revisión de la norma NAR nº6/18 para especificar los protocolos, relaciones y criterios de actuación para la información entre responsables de circulación.",
+    "Reforzar la formación del personal de conducción en los procedimientos",
+    "reglamentarios a seguir en situaciones excepcionales como circulaciones",
+    "a contravía o al ser expedidos de vías sin señal de salida, de forma tanto",
+    "teórica como práctica.",
+    "Estudiar la posibilidad de modificar las instalaciones de la estación de Manresa para dotar de señal de salida a todas las vías de circulación. Asimismo, revisar si la situación de falta de señal de salida se presenta en otras estaciones término de cercanías y de paso de otros tráficos, así como en estaciones de transición de vía única a vía doble y viceversa y adoptar las medidas pertinentes.",
+    "6.1 Reforzar las inspecciones y auditorías en las estaciones para detectar y corregir el incumplimiento de las normas reglamentarias respecto a la expedición de los trenes desde vías sin señal de salida. 6.2 Reforzar la vigilancia en los trenes en lo relativo al cumplimiento de las normas reglamentarias cuando son expedidos de vías sin señal de salida o cuando circulen a contravía.",
+    "Establecer un procedimiento a seguir por parte de los Responsables de Circulación ante casos de pérdida de numeración, falsas ocupaciones y asignación a un tren de un número ya asignado a otro. Complementariamente a lo anterior, estudiar la posibilidad de que el sistema videográfico del CTC incluya en su funcionalidad alarmas específicas destacadas y diferenciadas para estas situaciones (especificando el modo de cumplimiento del punto primero del artículo 5.1.4.2 de la norma NAS 201 del SGS de Adif).",
+    "1.1 Reforzar la formación práctica de los Responsables de Circulación en estaciones sobre el adecuado manejo de los cuadros de mando local. 1.2 Reforzar la formación práctica de los Responsables de Circulación en estaciones sobre el procedimiento reglamentario de expedición de trenes desde vías sin señal de salida y en situaciones de anormalidad (en cumplimiento de la Recomendación Técnica de la AESF RT 2/2019).",
+    "Insistir, en la formación y reciclaje del personal de circulación, en el cumplimiento de los protocolos de información (normas NAR nº3/16 y 6/18 del SGS de Adif).",
+    "Estudiar la posible revisión de la norma NAR nº6/18 para especificar los protocolos, relaciones y criterios de actuación para la información entre responsables de circulación.",
+    "Reforzar la formación del personal de conducción en los procedimientos",
+    "reglamentarios a seguir en situaciones excepcionales como circulaciones",
+    "a contravía o al ser expedidos de vías sin señal de salida, de forma tanto",
+    "teórica como práctica.",
+    "Estudiar la posibilidad de modificar las instalaciones de la estación de Manresa para dotar de señal de salida a todas las vías de circulación. Asimismo, revisar si la situación de falta de señal de salida se presenta en otras estaciones término de cercanías y de paso de otros tráficos, así como en estaciones de transición de vía única a vía doble y viceversa y adoptar las medidas pertinentes.",
+    "6.1 Reforzar las inspecciones y auditorías en las estaciones para detectar y corregir el incumplimiento de las normas reglamentarias respecto a la expedición de los trenes desde vías sin señal de salida. 6.2 Reforzar la vigilancia en los trenes en lo relativo al cumplimiento de las normas reglamentarias cuando son expedidos de vías sin señal de salida o cuando circulen a contravía.",
+    "Establecer un procedimiento a seguir por parte de los Responsables de Circulación ante casos de pérdida de numeración, falsas ocupaciones y asignación a un tren de un número ya asignado a otro. Complementariamente a lo anterior, estudiar la posibilidad de que el sistema videográfico del CTC incluya en su funcionalidad alarmas específicas destacadas y diferenciadas para estas situaciones (especificando el modo de cumplimiento del punto primero del artículo 5.1.4.2 de la norma NAS 201 del SGS de Adif)."
+   ],
+   "pagina": 9,
+   "cita": "| Destinatario | Implementa dor final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 9,
+   "cita": "| Destinatario | Implementa dor final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Accidente ferroviario",
+   "pagina": 1,
+   "cita": "Accidente ferroviario ocurrido en el antiguo apeadero de",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "RENFE VIAJEROS"
+   ],
+   "pagina": 4,
+   "cita": "ADIF Administrador de Infraestructuras Ferroviarias AESF Agencia Estatal de Seguridad Ferroviaria AGER Aplicación de Gestión de Estaciones de Regulación ASFA Anuncio de Señales y Frenado Automático BA Bloqueo Automático",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2019-02-08",
+   "pagina": 51,
+   "cita": "trenes del 08-02-2019, respectivamente para las 17:52 y las 18:05. Finalmente, habrá una",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Castellgalí (antiguo apeadero)",
+    "pk": "307+710",
+    "linea": "220 Lleida-Pirineus-L'Hospitalet de Llobregat",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Tramo entre las estaciones de Manresa y Sant Vicenç de Castellet, cerca del antiguo apeadero de Castellgalí, en el municipio de Castellgalí. El punto de colisión está en una explanación en trinchera situada en una curva de transición entre dos alineaciones curvas que forman una S, con mínimas condiciones de visibilidad."
+   },
+   "pagina": 1,
+   "cita": "Castellgalí (Barcelona), el 8 de febrero de 2019",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Serie 447 de Renfe (trenes autopropulsados eléctricos, M-R-M). Tren 28043: unidades 447.066 (cabeza) y 447.072 (cola), 1er y 2º lote. Tren 15624: unidad 447.170, 4º lote. Registradores electrónicos CESIS. ASFA digital.",
+    "averia": "No se detectó ninguna anomalía en los equipos de a bordo, dispositivos de seguridad, frenos ni otros equipos de ninguno de los trenes involucrados.",
+    "mantenimiento": "Todos los vehículos cumplían sus programas de mantenimiento y estaban al día de sus revisiones. Km desde última revisión R: 1.371.495 (447.066), 1.251.857 (447.072), 542.096 (447.170)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El accidente tuvo lugar el viernes 8 de febrero de 2019 en la línea 220 Lleida-Pirineus-L'Hospitalet de Llobregat, entre las estaciones de Manresa y Sant Vicenç de Castellet, cerca del antiguo apeadero de Castellgalí, en el municipio de Castellgalí (Barcelona). La colisión frontal se produjo en el PK 307+710 de la vía impar, en el cantón del circuito de vía CV 3091, a las 18:19:36 horas. El tren 15624 (Media Distancia entre Lleida y Barcelona) había sido expedido desde la estación de Manresa, que se encontraba en Mando Local, a las 18:08, desde la vía 1 sin señal de salida. Debido a una incorrecta disposición del itinerario de salida, el escape 21/23 quedó en posición invertida y el tren se encaminó por vía impar en sentido contrario al del BAD (Bloqueo Automático en vía Doble). El tren 28043 (Rodalies desde Sant Vicenç de Calders hacia Manresa) había sido expedido a las 18:17 y circulaba correctamente por vía impar en sentido Manresa al amparo del BAD. En el momento de la colisión, el tren 15624 circulaba a 25 km/h y el 28043 a 42 km/h. El lugar de la colisión se encuentra en una trinchera en curva que limita sustancialmente la visibilidad, por lo que los maquinistas solo pudieron avistarse a unos 90 metros de distancia.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Castellgalí (antiguo apeadero)",
+    "pk": "307+710",
+    "linea": "220 Lleida-Pirineus-L'Hospitalet de Llobregat",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Tramo entre las estaciones de Manresa y Sant Vicenç de Castellet, cerca del antiguo apeadero de Castellgalí, en el municipio de Castellgalí. El punto de colisión está en una explanación en trinchera situada en una curva de transición entre dos alineaciones curvas que forman una S, con mínimas condiciones de visibilidad."
+   },
+   "pagina": 1,
+   "cita": "Castellgalí (Barcelona), el 8 de febrero de 2019",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 19,
+    "heridos_leves": 89,
+    "danos_materiales": "Graves desperfectos en ambos trenes (descarrilamiento parcial, empotramiento de cabinas). Apreciables daños en la vía. No se produjeron daños de consideración en instalaciones fijas ni al medio ambiente. Pertenencias de viajeros custodiadas e inventariadas por Renfe y Mossos d'Esquadra.",
+    "afectacion_servicio": "Suspendida la circulación entre Manresa y Sant Vicenç de Castellet (ambas vías interceptadas), afectando a líneas R4 y R12. Día del accidente: 24 circulaciones afectadas, 471 minutos perdidos. Día 9: 40 trenes afectados, 610 minutos. Días 10-11: 33 y 81 trenes afectados (395 y 710 minutos). Restablecida el 11-02 a las 22:28 con LTV a 30 km/h. Del 12 al 22 de febrero: sin servicio ferroviario (traslado por carretera), 805 circulaciones afectadas."
+   },
+   "pagina": 33,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 15624",
+     "implicacion": "Accidentado, herido grave. Condujo el tren a contravía sin detenerse ni comunicar con el RC, pese a no haber recibido la notificación L.4.32. No cumplió el artículo 3.2.1.3 punto 2 del LNM."
+    },
+    {
+     "rol": "Maquinista del tren 28043",
+     "implicacion": "Fallecida en el accidente. Actuación correcta en todos los aspectos dentro del periodo analizado."
+    },
+    {
+     "rol": "Operador Comercial del tren 28043",
+     "implicacion": "Accidentado con heridas leves. Presente en la cabina. Declaró que vio al 15624 de frente y avisó a la maquinista."
+    },
+    {
+     "rol": "Maquinista del tren 25056",
+     "implicacion": "Testigo del suceso, ileso. Avisó del accidente al CTC (con dificultades de comunicación). Actuó correctamente."
+    },
+    {
+     "rol": "Responsable de Circulación de la estación de Manresa (Adif)",
+     "implicacion": "No detectó la incorrecta posición del escape 21/23, no realizó la comprobación reglamentaria del itinerario de salida, no se percató de la salida a contravía del 15624, no comunicó la alteración del orden de salida al CTC hasta minutos después."
+    },
+    {
+     "rol": "Responsable de Circulación del CTC de Barcelona (Adif)",
+     "implicacion": "No detectó la anormal secuencia a contravía, atribuyó erróneamente la ocupación al tren 28043, no advirtió el desplazamiento de la ocupación, no verificó adecuadamente la circulación de los trenes bajo su dirección."
+    },
+    {
+     "rol": "Supervisor del CTC de Barcelona (Adif)",
+     "implicacion": "Presente en el CTC durante la gestión del cruce de Terrassa, pudo haber distraído la atención de la RC del CTC."
+    }
+   ],
+   "pagina": 19,
+   "cita": "Maquinista del tren 15624. Accidentado, herido grave.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "15624",
+     "tipo": "Media Distancia (línea R12)",
+     "operador": "Renfe Viajeros",
+     "danos": "Descarrilamiento del primer coche (coche motor 96.71.9.447.339.3) y primer bogie del segundo coche (remolque 90.71.7.447.170.2). Cabina empotrada dentro de la cabina del 28043. Graves desperfectos."
+    },
+    {
+     "numero": "28043",
+     "tipo": "Rodalies (línea R4)",
+     "operador": "Renfe Viajeros",
+     "danos": "Descarrilamiento del primer bogie (coche motor 96.71.9.447.131.4). Cabina empotrada por la del 15624. Graves desperfectos."
+    },
+    {
+     "numero": "25056",
+     "tipo": "Rodalies (línea R4)",
+     "operador": "Renfe Viajeros",
+     "danos": "Sin daños. Testigo del accidente, detenido en proximidades."
+    }
+   ],
+   "pagina": 5,
+   "cita": "220 Lleida-Pirineus-L’Hospitalet de Llobregat. Los trenes involucrados fueron el tren 15624, Media",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Serie 447 de Renfe (trenes autopropulsados eléctricos, M-R-M). Tren 28043: unidades 447.066 (cabeza) y 447.072 (cola), 1er y 2º lote. Tren 15624: unidad 447.170, 4º lote. Registradores electrónicos CESIS. ASFA digital.",
+    "averia": "No se detectó ninguna anomalía en los equipos de a bordo, dispositivos de seguridad, frenos ni otros equipos de ninguno de los trenes involucrados.",
+    "mantenimiento": "Todos los vehículos cumplían sus programas de mantenimiento y estaban al día de sus revisiones. Km desde última revisión R: 1.371.495 (447.066), 1.251.857 (447.072), 542.096 (447.170)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales de bloqueo automático orientadas según el sentido de circulación establecido para cada vía (vía no banalizada). Señal E'4 fija de anuncio de parada en vía impar protegiendo entrada a Sant Vicenç de Castellet en caso de banalización temporal. La vía 1 de Manresa carece de señal de salida por el lado Barcelona. Enclavamiento eléctrico de cableado libre (puesto en servicio en 1984).",
+    "tipo_via": "Vía doble no banalizada (BAD) con CTC. Transición de vía única (lado Lleida, BLAU) a vía doble (lado Barcelona, BAD) en Manresa.",
+    "velocidad_maxima": "75-70 km/h en el tramo (Cuadro de Velocidades Máximas). LTV a 30 km/h entre PK 303+100 y 303+700 por estado de trinchera (desde 28-06-2014).",
+    "ancho": "1668 mm (ancho ibérico)",
+    "electrificacion": "Electrificada",
+    "estado_via": "El estado de la vía no resultó relevante para el accidente. Superestructura con balasto, traviesas de hormigón monobloque, carril UIC 54 en barra larga soldada. El punto de colisión está en trinchera en curva con mínimas condiciones de visibilidad.",
+    "otro": "Circuito de vía CV 3091 (lugar de colisión). Discrepancias entre numeración de circuitos de vía en consigna y videográfico del CTC (CV 3098/A40 vs 3072/A38; CV 3091 no identificado en consigna). ASFA digital en toda la línea. Radiotelefonía tren-tierra canal 62 (antes de Manresa) y canal 66 (después)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales de bloqueo automático orientadas según el sentido de circulación establecido para cada vía (vía no banalizada). Señal E'4 fija de anuncio de parada en vía impar protegiendo entrada a Sant Vicenç de Castellet en caso de banalización temporal. La vía 1 de Manresa carece de señal de salida por el lado Barcelona. Enclavamiento eléctrico de cableado libre (puesto en servicio en 1984).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 19,
+    "heridos_leves": 89,
+    "danos_materiales": "Graves desperfectos en ambos trenes (descarrilamiento parcial, empotramiento de cabinas). Apreciables daños en la vía. No se produjeron daños de consideración en instalaciones fijas ni al medio ambiente. Pertenencias de viajeros custodiadas e inventariadas por Renfe y Mossos d'Esquadra.",
+    "afectacion_servicio": "Suspendida la circulación entre Manresa y Sant Vicenç de Castellet (ambas vías interceptadas), afectando a líneas R4 y R12. Día del accidente: 24 circulaciones afectadas, 471 minutos perdidos. Día 9: 40 trenes afectados, 610 minutos. Días 10-11: 33 y 81 trenes afectados (395 y 710 minutos). Restablecida el 11-02 a las 22:28 con LTV a 30 km/h. Del 12 al 22 de febrero: sin servicio ferroviario (traslado por carretera), 805 circulaciones afectadas."
+   },
+   "pagina": 5,
+   "cita": "Distancia de Renfe Viajeros entre Lleida y Barcelona, y el tren 28043, Rodalies de Renfe Viajeros desde",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 19,
+    "heridos_leves": 89,
+    "danos_materiales": "Graves desperfectos en ambos trenes (descarrilamiento parcial, empotramiento de cabinas). Apreciables daños en la vía. No se produjeron daños de consideración en instalaciones fijas ni al medio ambiente. Pertenencias de viajeros custodiadas e inventariadas por Renfe y Mossos d'Esquadra.",
+    "afectacion_servicio": "Suspendida la circulación entre Manresa y Sant Vicenç de Castellet (ambas vías interceptadas), afectando a líneas R4 y R12. Día del accidente: 24 circulaciones afectadas, 471 minutos perdidos. Día 9: 40 trenes afectados, 610 minutos. Días 10-11: 33 y 81 trenes afectados (395 y 710 minutos). Restablecida el 11-02 a las 22:28 con LTV a 30 km/h. Del 12 al 22 de febrero: sin servicio ferroviario (traslado por carretera), 805 circulaciones afectadas."
+   },
+   "pagina": 2,
+   "cita": "Comisión de Investigación de Accidentes Ferroviarios – CIAF",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 19,
+    "heridos_leves": 89,
+    "danos_materiales": "Graves desperfectos en ambos trenes (descarrilamiento parcial, empotramiento de cabinas). Apreciables daños en la vía. No se produjeron daños de consideración en instalaciones fijas ni al medio ambiente. Pertenencias de viajeros custodiadas e inventariadas por Renfe y Mossos d'Esquadra.",
+    "afectacion_servicio": "Suspendida la circulación entre Manresa y Sant Vicenç de Castellet (ambas vías interceptadas), afectando a líneas R4 y R12. Día del accidente: 24 circulaciones afectadas, 471 minutos perdidos. Día 9: 40 trenes afectados, 610 minutos. Días 10-11: 33 y 81 trenes afectados (395 y 710 minutos). Restablecida el 11-02 a las 22:28 con LTV a 30 km/h. Del 12 al 22 de febrero: sin servicio ferroviario (traslado por carretera), 805 circulaciones afectadas."
+   },
+   "pagina": 33,
+   "cita": "Viajeros, personal y terceros",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 447 de Renfe (trenes autopropulsados eléctricos, M-R-M). Tren 28043: unidades 447.066 (cabeza) y 447.072 (cola), 1er y 2º lote. Tren 15624: unidad 447.170, 4º lote. Registradores electrónicos CESIS. ASFA digital.",
+    "averia": "No se detectó ninguna anomalía en los equipos de a bordo, dispositivos de seguridad, frenos ni otros equipos de ninguno de los trenes involucrados.",
+    "mantenimiento": "Todos los vehículos cumplían sus programas de mantenimiento y estaban al día de sus revisiones. Km desde última revisión R: 1.371.495 (447.066), 1.251.857 (447.072), 542.096 (447.170)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de bloqueo automático orientadas según el sentido de circulación establecido para cada vía (vía no banalizada). Señal E'4 fija de anuncio de parada en vía impar protegiendo entrada a Sant Vicenç de Castellet en caso de banalización temporal. La vía 1 de Manresa carece de señal de salida por el lado Barcelona. Enclavamiento eléctrico de cableado libre (puesto en servicio en 1984).",
+    "tipo_via": "Vía doble no banalizada (BAD) con CTC. Transición de vía única (lado Lleida, BLAU) a vía doble (lado Barcelona, BAD) en Manresa.",
+    "velocidad_maxima": "75-70 km/h en el tramo (Cuadro de Velocidades Máximas). LTV a 30 km/h entre PK 303+100 y 303+700 por estado de trinchera (desde 28-06-2014).",
+    "ancho": "1668 mm (ancho ibérico)",
+    "electrificacion": "Electrificada",
+    "estado_via": "El estado de la vía no resultó relevante para el accidente. Superestructura con balasto, traviesas de hormigón monobloque, carril UIC 54 en barra larga soldada. El punto de colisión está en trinchera en curva con mínimas condiciones de visibilidad.",
+    "otro": "Circuito de vía CV 3091 (lugar de colisión). Discrepancias entre numeración de circuitos de vía en consigna y videográfico del CTC (CV 3098/A40 vs 3072/A38; CV 3091 no identificado en consigna). ASFA digital en toda la línea. Radiotelefonía tren-tierra canal 62 (antes de Manresa) y canal 66 (después)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Condiciones meteorológicas buenas. El suceso se produjo al atardecer, poco después de la puesta del sol (tres minutos tras el ocaso). Condiciones atmosféricas normales según los maquinistas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "antiguo apeadero de Castellgalí"
+   },
+   "pagina": 1,
+   "cita": "Castellgalí (Barcelona), el 8 de febrero de 2019",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Condiciones meteorológicas buenas. El suceso se produjo al atardecer, poco después de la puesta del sol (tres minutos tras el ocaso). Condiciones atmosféricas normales según los maquinistas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales de bloqueo automático orientadas según el sentido de circulación establecido para cada vía (vía no banalizada). Señal E'4 fija de anuncio de parada en vía impar protegiendo entrada a Sant Vicenç de Castellet en caso de banalización temporal. La vía 1 de Manresa carece de señal de salida por el lado Barcelona. Enclavamiento eléctrico de cableado libre (puesto en servicio en 1984).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de bloqueo automático orientadas según el sentido de circulación establecido para cada vía (vía no banalizada). Señal E'4 fija de anuncio de parada en vía impar protegiendo entrada a Sant Vicenç de Castellet en caso de banalización temporal. La vía 1 de Manresa carece de señal de salida por el lado Barcelona. Enclavamiento eléctrico de cableado libre (puesto en servicio en 1984).",
+    "tipo_via": "Vía doble no banalizada (BAD) con CTC. Transición de vía única (lado Lleida, BLAU) a vía doble (lado Barcelona, BAD) en Manresa.",
+    "velocidad_maxima": "75-70 km/h en el tramo (Cuadro de Velocidades Máximas). LTV a 30 km/h entre PK 303+100 y 303+700 por estado de trinchera (desde 28-06-2014).",
+    "ancho": "1668 mm (ancho ibérico)",
+    "electrificacion": "Electrificada",
+    "estado_via": "El estado de la vía no resultó relevante para el accidente. Superestructura con balasto, traviesas de hormigón monobloque, carril UIC 54 en barra larga soldada. El punto de colisión está en trinchera en curva con mínimas condiciones de visibilidad.",
+    "otro": "Circuito de vía CV 3091 (lugar de colisión). Discrepancias entre numeración de circuitos de vía en consigna y videográfico del CTC (CV 3098/A40 vs 3072/A38; CV 3091 no identificado en consigna). ASFA digital en toda la línea. Radiotelefonía tren-tierra canal 62 (antes de Manresa) y canal 66 (después)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 447 de Renfe (trenes autopropulsados eléctricos, M-R-M). Tren 28043: unidades 447.066 (cabeza) y 447.072 (cola), 1er y 2º lote. Tren 15624: unidad 447.170, 4º lote. Registradores electrónicos CESIS. ASFA digital.",
+    "averia": "No se detectó ninguna anomalía en los equipos de a bordo, dispositivos de seguridad, frenos ni otros equipos de ninguno de los trenes involucrados.",
+    "mantenimiento": "Todos los vehículos cumplían sus programas de mantenimiento y estaban al día de sus revisiones. Km desde última revisión R: 1.371.495 (447.066), 1.251.857 (447.072), 542.096 (447.170)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "El RC de Manresa no llevó a cabo la comprobación de que alguna señal de salida del mismo lado ordenaba vía libre, ni comprobó fehacientemente el itinerario de salida (incumplimiento del RCF art. 4.2.1.3, punto 2, párrafos a y b).",
+    "El RC de Manresa no se percató de que la sonería de proximidad y los visores de ocupación correspondían al tren 15624 circulando a contravía.",
+    "El maquinista del 15624 prosiguió circulando a contravía sin amparo del BAD y sin haber recibido la notificación L.4.32, sin detenerse ni comunicar con el RC.",
+    "La RC del CTC no detectó la anormal secuencia a contravía, realizando suposiciones (falsa ocupación) sin verificar adecuadamente la circulación.",
+    "El RC de Manresa no comunicó al CTC la salida del 15624 ni la alteración del orden de salida hasta varios minutos después.",
+    "Ambos RC supusieron que la ocupación era una falsa ocupación de circuito de vía, explicación más probable que un tren a contravía.",
+    "El sistema videográfico del CTC permite asignar manualmente un número ya asignado a otro tren, lo que facilitó la confusión.",
+    "La asignación de vías en el libro de paso variaba respecto a la programación de 2017, condicionando que el 15624 pasase por la vía 1 sin señal de salida.",
+    "La práctica reiterada de expedir trenes desde vía 1 sin abrir señal de salida del mismo lado no fue detectada ni corregida por los procedimientos de Inspección y Vigilancia del SGS.",
+    "La vía 1 de Manresa carece de señal de salida por el lado Barcelona pese a ser cabecera de Cercanías y estación de paso de Media Distancia.",
+    "La configuración de la estación de Manresa dificulta la observación directa de las señales de salida desde el gabinete de circulación.",
+    "La carga de trabajo elevada de la RC del CTC por la avería en Plaça Catalunya y los cruces alterados en Terrassa."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El accidente tuvo lugar el viernes 8 de febrero de 2019 en la línea 220 Lleida-Pirineus-L'Hospitalet de Llobregat, entre las estaciones de Manresa y Sant Vicenç de Castellet, cerca del antiguo apeadero de Castellgalí, en el municipio de Castellgalí (Barcelona). La colisión frontal se produjo en el PK 307+710 de la vía impar, en el cantón del circuito de vía CV 3091, a las 18:19:36 horas. El tren 15624 (Media Distancia entre Lleida y Barcelona) había sido expedido desde la estación de Manresa, que se encontraba en Mando Local, a las 18:08, desde la vía 1 sin señal de salida. Debido a una incorrecta disposición del itinerario de salida, el escape 21/23 quedó en posición invertida y el tren se encaminó por vía impar en sentido contrario al del BAD (Bloqueo Automático en vía Doble). El tren 28043 (Rodalies desde Sant Vicenç de Calders hacia Manresa) había sido expedido a las 18:17 y circulaba correctamente por vía impar en sentido Manresa al amparo del BAD. En el momento de la colisión, el tren 15624 circulaba a 25 km/h y el 28043 a 42 km/h. El lugar de la colisión se encuentra en una trinchera en curva que limita sustancialmente la visibilidad, por lo que los maquinistas solo pudieron avistarse a unos 90 metros de distancia.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "La entrada del tren 15624 en el cantón de bloqueo automático CV 3091 de la vía impar, circulando indebidamente a contravía, cuando dicho cantón se encontraba ocupado por el tren 28043 circulando normalmente. La circulación a contravía se debió al acceso imprevisto a la vía impar por el escape 21/23 dispuesto incorrectamente en posición invertida, consecuencia de una pulsación insuficiente sobre el pulsador de accionamiento desde el cuadro de mando de Manresa.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El RC de Manresa no llevó a cabo la comprobación de que alguna señal de salida del mismo lado ordenaba vía libre, ni comprobó fehacientemente el itinerario de salida (incumplimiento del RCF art. 4.2.1.3, punto 2, párrafos a y b).",
+    "El RC de Manresa no se percató de que la sonería de proximidad y los visores de ocupación correspondían al tren 15624 circulando a contravía.",
+    "El maquinista del 15624 prosiguió circulando a contravía sin amparo del BAD y sin haber recibido la notificación L.4.32, sin detenerse ni comunicar con el RC.",
+    "La RC del CTC no detectó la anormal secuencia a contravía, realizando suposiciones (falsa ocupación) sin verificar adecuadamente la circulación.",
+    "El RC de Manresa no comunicó al CTC la salida del 15624 ni la alteración del orden de salida hasta varios minutos después.",
+    "Ambos RC supusieron que la ocupación era una falsa ocupación de circuito de vía, explicación más probable que un tren a contravía.",
+    "El sistema videográfico del CTC permite asignar manualmente un número ya asignado a otro tren, lo que facilitó la confusión.",
+    "La asignación de vías en el libro de paso variaba respecto a la programación de 2017, condicionando que el 15624 pasase por la vía 1 sin señal de salida.",
+    "La práctica reiterada de expedir trenes desde vía 1 sin abrir señal de salida del mismo lado no fue detectada ni corregida por los procedimientos de Inspección y Vigilancia del SGS.",
+    "La vía 1 de Manresa carece de señal de salida por el lado Barcelona pese a ser cabecera de Cercanías y estación de paso de Media Distancia.",
+    "La configuración de la estación de Manresa dificulta la observación directa de las señales de salida desde el gabinete de circulación.",
+    "La carga de trabajo elevada de la RC del CTC por la avería en Plaça Catalunya y los cruces alterados en Terrassa."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "1.1 Reforzar la formación práctica de los Responsables de Circulación en estaciones sobre el adecuado manejo de los cuadros de mando local. 1.2 Reforzar la formación práctica de los Responsables de Circulación en estaciones sobre el procedimiento reglamentario de expedición de trenes desde vías sin señal de salida y en situaciones de anormalidad (en cumplimiento de la Recomendación Técnica de la AESF RT 2/2019).",
+    "Insistir, en la formación y reciclaje del personal de circulación, en el cumplimiento de los protocolos de información (normas NAR nº3/16 y 6/18 del SGS de Adif).",
+    "Estudiar la posible revisión de la norma NAR nº6/18 para especificar los protocolos, relaciones y criterios de actuación para la información entre responsables de circulación.",
+    "Reforzar la formación del personal de conducción en los procedimientos",
+    "reglamentarios a seguir en situaciones excepcionales como circulaciones",
+    "a contravía o al ser expedidos de vías sin señal de salida, de forma tanto",
+    "teórica como práctica.",
+    "Estudiar la posibilidad de modificar las instalaciones de la estación de Manresa para dotar de señal de salida a todas las vías de circulación. Asimismo, revisar si la situación de falta de señal de salida se presenta en otras estaciones término de cercanías y de paso de otros tráficos, así como en estaciones de transición de vía única a vía doble y viceversa y adoptar las medidas pertinentes.",
+    "6.1 Reforzar las inspecciones y auditorías en las estaciones para detectar y corregir el incumplimiento de las normas reglamentarias respecto a la expedición de los trenes desde vías sin señal de salida. 6.2 Reforzar la vigilancia en los trenes en lo relativo al cumplimiento de las normas reglamentarias cuando son expedidos de vías sin señal de salida o cuando circulen a contravía.",
+    "Establecer un procedimiento a seguir por parte de los Responsables de Circulación ante casos de pérdida de numeración, falsas ocupaciones y asignación a un tren de un número ya asignado a otro. Complementariamente a lo anterior, estudiar la posibilidad de que el sistema videográfico del CTC incluya en su funcionalidad alarmas específicas destacadas y diferenciadas para estas situaciones (especificando el modo de cumplimiento del punto primero del artículo 5.1.4.2 de la norma NAS 201 del SGS de Adif).",
+    "1.1 Reforzar la formación práctica de los Responsables de Circulación en estaciones sobre el adecuado manejo de los cuadros de mando local. 1.2 Reforzar la formación práctica de los Responsables de Circulación en estaciones sobre el procedimiento reglamentario de expedición de trenes desde vías sin señal de salida y en situaciones de anormalidad (en cumplimiento de la Recomendación Técnica de la AESF RT 2/2019).",
+    "Insistir, en la formación y reciclaje del personal de circulación, en el cumplimiento de los protocolos de información (normas NAR nº3/16 y 6/18 del SGS de Adif).",
+    "Estudiar la posible revisión de la norma NAR nº6/18 para especificar los protocolos, relaciones y criterios de actuación para la información entre responsables de circulación.",
+    "Reforzar la formación del personal de conducción en los procedimientos",
+    "reglamentarios a seguir en situaciones excepcionales como circulaciones",
+    "a contravía o al ser expedidos de vías sin señal de salida, de forma tanto",
+    "teórica como práctica.",
+    "Estudiar la posibilidad de modificar las instalaciones de la estación de Manresa para dotar de señal de salida a todas las vías de circulación. Asimismo, revisar si la situación de falta de señal de salida se presenta en otras estaciones término de cercanías y de paso de otros tráficos, así como en estaciones de transición de vía única a vía doble y viceversa y adoptar las medidas pertinentes.",
+    "6.1 Reforzar las inspecciones y auditorías en las estaciones para detectar y corregir el incumplimiento de las normas reglamentarias respecto a la expedición de los trenes desde vías sin señal de salida. 6.2 Reforzar la vigilancia en los trenes en lo relativo al cumplimiento de las normas reglamentarias cuando son expedidos de vías sin señal de salida o cuando circulen a contravía.",
+    "Establecer un procedimiento a seguir por parte de los Responsables de Circulación ante casos de pérdida de numeración, falsas ocupaciones y asignación a un tren de un número ya asignado a otro. Complementariamente a lo anterior, estudiar la posibilidad de que el sistema videográfico del CTC incluya en su funcionalidad alarmas específicas destacadas y diferenciadas para estas situaciones (especificando el modo de cumplimiento del punto primero del artículo 5.1.4.2 de la norma NAS 201 del SGS de Adif)."
+   ],
+   "pagina": 9,
+   "cita": "| Destinatario | Implementa dor final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 9,
+   "cita": "| Destinatario | Implementa dor final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "14:27",
+     "evento": "El tren 28079 (luego 25056) estaciona en vía 4 de Manresa"
+    },
+    {
+     "hora": "17:39",
+     "evento": "El tren 28081 estaciona en vía 4 de Manresa"
+    },
+    {
+     "hora": "17:57",
+     "evento": "Llega a Manresa el tren 28081 desde Barcelona y estaciona en vía 2"
+    },
+    {
+     "hora": "18:00:18",
+     "evento": "Escapes 21/23 y 11/13 en posición invertida y normal respectivamente. Se aproxima el tren 15624 por lado Lleida"
+    },
+    {
+     "hora": "18:00:57",
+     "evento": "El RC de Manresa prepara itinerario de salida del 15624; los escapes 11/13 y 21/23 pierden comprobación"
+    },
+    {
+     "hora": "18:01:14",
+     "evento": "El escape 11/13 recupera comprobación en invertido. El escape 21/23 NO recupera comprobación y queda en invertido"
+    },
+    {
+     "hora": "18:01:26",
+     "evento": "El RC de Manresa pide al CTC que indique al maquinista del 15624 que pase a modalidad C"
+    },
+    {
+     "hora": "18:03:58",
+     "evento": "El RC de Manresa autoriza por telefonema el rebase de la señal E2 al tren 15624"
+    },
+    {
+     "hora": "18:06:56",
+     "evento": "El tren 15624 queda estacionado en vía 1 de Manresa"
+    },
+    {
+     "hora": "18:07:30",
+     "evento": "El RC de Manresa da telefonema 'marche el tren 15624 de vía 1'"
+    },
+    {
+     "hora": "18:08:02",
+     "evento": "El tren 15624 inicia la marcha desde vía 1"
+    },
+    {
+     "hora": "18:09:47",
+     "evento": "El tren 15624 pasa por el escape 21/23 en posición invertida y se encamina a vía impar, comenzando a circular indebidamente a contravía"
+    },
+    {
+     "hora": "18:10:03",
+     "evento": "El tren 15624 ocupa el CV 3039 (vía impar), activando la sonería de proximidad en Manresa. Pierde su numeración en el CTC"
+    },
+    {
+     "hora": "18:10:07",
+     "evento": "El RC de Manresa, al oír la sonería, interpreta que es un tren que se aproxima por vía impar y prepara itinerario de entrada a vía 3"
+    },
+    {
+     "hora": "18:10:26",
+     "evento": "El escape 21/23 recupera comprobación en posición normal (tras 9 min y 30 s sin comprobación)"
+    },
+    {
+     "hora": "18:10:30",
+     "evento": "Enclavamiento del itinerario de entrada de vía impar a vía 3 de Manresa"
+    },
+    {
+     "hora": "18:10:33",
+     "evento": "Enclavamiento del itinerario de salida de vía 4 a vía par para el tren 25056"
+    },
+    {
+     "hora": "18:12:24",
+     "evento": "El RC de Manresa llama al CTC para preguntar qué tren se aproxima por vía impar"
+    },
+    {
+     "hora": "18:12:57",
+     "evento": "El tren 15624 ocupa el CV 3057; el sistema le asigna el número *0332 (tren no identificado)"
+    },
+    {
+     "hora": "18:13:40",
+     "evento": "El tren 25056 inicia su salida de vía 4 por vía par con señal en vía libre"
+    },
+    {
+     "hora": "18:13:43",
+     "evento": "La RC del CTC numera manualmente al tren 15624 como 28043 (el verdadero 28043 pierde su número y recibe *0334)"
+    },
+    {
+     "hora": "18:15:20",
+     "evento": "La RC del CTC llama a la maquinista del tren 28043, que confirma estar entrando en Sant Vicenç de Castellet"
+    },
+    {
+     "hora": "18:16:20",
+     "evento": "La RC del CTC 'devuelve' el número 28043 al verdadero tren; el 15624 pasa a *0335"
+    },
+    {
+     "hora": "18:16:28",
+     "evento": "La RC del CTC comunica al RC de Manresa que lo observado es una falsa ocupación"
+    },
+    {
+     "hora": "18:17:36",
+     "evento": "El tren 28043 reemprende la marcha desde Sant Vicenç de Castellet hacia Manresa por vía impar"
+    },
+    {
+     "hora": "18:17:38",
+     "evento": "La RC del CTC comunica la ocupación intempestiva a mantenimiento"
+    },
+    {
+     "hora": "18:18:15",
+     "evento": "El tren 28043 entra en el CV 3091 a 56 km/h (señal de salida en anuncio de parada)"
+    },
+    {
+     "hora": "18:18:28",
+     "evento": "La RC del CTC llama al RC de Manresa para confirmar salidas; el RC indica que el 15624 salió antes que el 25056"
+    },
+    {
+     "hora": "18:18:32",
+     "evento": "El tren 15624 pasa por la baliza previa de la señal E'4; la restricción ASFA se anula y puede incrementar velocidad"
+    },
+    {
+     "hora": "18:18:59",
+     "evento": "El tren 15624 entra en el CV 3091, donde ya se encuentra el 28043"
+    },
+    {
+     "hora": "18:19:33",
+     "evento": "Ambos maquinistas actúan el freno de emergencia"
+    },
+    {
+     "hora": "18:19:36",
+     "evento": "COLISIÓN FRONTAL a 25 km/h (15624) y 42 km/h (28043)"
+    },
+    {
+     "hora": "18:20:05",
+     "evento": "El maquinista del 25056 llama al CTC por canal de emergencia (comunicación falla inicialmente)"
+    },
+    {
+     "hora": "18:23:55",
+     "evento": "La RC del CTC consigue hablar con el maquinista del 25056, quien informa de la colisión"
+    },
+    {
+     "hora": "19:28",
+     "evento": "Se corta tensión en vía impar para excarcelación de la maquinista fallecida"
+    },
+    {
+     "hora": "19:35",
+     "evento": "Adif notifica oficialmente el accidente a la CIAF por SMS"
+    },
+    {
+     "hora": "20:43",
+     "evento": "El tren 25056 inicia retroceso para llevar pasajeros ilesos a Manresa"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0012/2019",
+ "expediente": "0012/19",
+ "anio": 2019,
+ "titulo": "Accidente ferroviario en el antiguo apeadero de Castellgalí (Barcelona), 8 de febrero de 2019",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES-5925 - 210624-190208-if-sn_ciaf.md"
+}

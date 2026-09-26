@@ -1,0 +1,1018 @@
+{
+ "id": "IF_280413_200514_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/18872A1C-CDB3-4DE9-874D-12C9BE9FAFDF/125228/IF280413200514CIAF.pdf",
+ "pdf": "pdfs/ES/IF_280413_200514_CIAF.pdf",
+ "md5_pdf": "cc91607fed378e26f56ca356b20de49b",
+ "paginas_md": 17,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 16,
+ "n_tablas": 4,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "35/13-1",
+     "Recomendación": "En la formación y reciclaje del personal de conducción, realizar simulaciones de las operaciones con el material rodante en situaciones de incidentes o averías del mismo, comprobando que conocen las actuaciones previas a cualquier movimiento del material y que se aplican estrictamente las normas técnicas de material y circulación."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 14,
+   "cabecera": [
+    "Intervención",
+    "Km mínimos",
+    "Km medios",
+    "",
+    "Km máximos"
+   ],
+   "filas": [
+    {
+     "Intervención": "",
+     "Km mínimos": "R1",
+     "Km medios": "8.000",
+     "Km máximos": "12.000"
+    },
+    {
+     "Intervención": "",
+     "Km mínimos": "R2",
+     "Km medios": "18.000",
+     "Km máximos": "22.000"
+    },
+    {
+     "Intervención": "",
+     "Km mínimos": "R3",
+     "Km medios": "56.000",
+     "Km máximos": "64.000"
+    },
+    {
+     "Intervención": "",
+     "Km mínimos": "R4",
+     "Km medios": "116.000",
+     "Km máximos": "124.000"
+    }
+   ],
+   "cita": "| Intervención | Km mínimos | Km medios |   | Km máximos |"
+  },
+  {
+   "pagina": 15,
+   "cabecera": [
+    "Intervención",
+    "Fecha",
+    "Km",
+    ""
+   ],
+   "filas": [
+    {
+     "Intervención": "",
+     "Fecha": "R3",
+     "Km": "25/08/2011"
+    },
+    {
+     "Intervención": "",
+     "Fecha": "R2",
+     "Km": "08/08/2012"
+    },
+    {
+     "Intervención": "",
+     "Fecha": "R4",
+     "Km": "28/01/2013"
+    },
+    {
+     "Intervención": "",
+     "Fecha": "R1",
+     "Km": "01/03/2013"
+    }
+   ],
+   "cita": "| Intervención | Fecha | Km |   |"
+  },
+  {
+   "pagina": 17,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "35/13-1",
+     "Recomendación": "En la formación y reciclaje del personal de conducción, realizar simulaciones de las operaciones con el material rodante en situaciones de incidentes o averías del mismo, comprobando que conocen las actuaciones previas a cualquier movimiento del material y que se aplican estrictamente las normas técnicas de material y circulación."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0035/2013",
+   "pagina": 1,
+   "cita": "nº 0035/2013 ocurrido el 28.04.2013",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 28 de abril de 2013, el tren de viajeros 7601 de Renfe Operadora sufrió una colisión por alcance entre sus dos automotores (2901 y 2905) en la línea 790 de ancho métrico. Tras una parada de urgencia, el maquinista intentó aislar y remolcar el automotor averiado 2901, pero no realizó correctamente las operaciones. El automotor 2901 quedó desacoplado y sin frenos, iniciando una deriva por una pendiente del 20 ‰ que terminó en colisión contra el automotor 2905. El suceso dejó 7 heridos leves y la interrupción de la circulación durante varias horas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2013-04-28",
+    "hora": "09:58",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "26+700",
+     "linea": "790 (La Asunción Universidad a Aranguren)",
+     "provincia": "León",
+     "descripcion_lugar": "Vía única sin electrificar, entre los apeaderos de Otero y La Mata de la Riba, municipio de Vegaquemada, en curva derecha de radio 200 metros y pendiente del 20 ‰."
+    }
+   },
+   "pagina": 10,
+   "cita": "La vía queda interceptada entre las 09:58 y las 16:55 horas del día 28/04/2013.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 7,
+    "danos_materiales": "Daños de importante consideración en los testeros y en el interior de las unidades (sin valoración económica). Sin daños en infraestructura.",
+    "afectacion_servicio": "Vía interceptada entre las 09:58 y las 16:55. Plan alternativo por carretera entre La Vecilla y Guardo. 7 trenes de cercanías y 1 de media distancia suprimidos; retrasos en otros 5 trenes."
+   },
+   "pagina": 8,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del maquinista que no realizó correctamente la secuencia de operaciones para remolcar con freno el automotor 2901.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No realizó la prueba de freno parcial.",
+    "No observar el tren durante la marcha en plena vía para verificar si circulaba completo.",
+    "Declividad de la zona (20 ‰) que favoreció la deriva.",
+    "Fallos eléctricos previos en el automotor 2901."
+   ],
+   "pagina": 3,
+   "cita": "• No realizó la prueba de freno parcial, incumpliendo el artículo 4.04.05 del Anexo IX del",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "En la formación y reciclaje del personal de conducción, realizar simulaciones de las operaciones con el material rodante en situaciones de incidentes o averías del mismo, comprobando que conocen las actuaciones previas a cualquier movimiento del material y que se aplican estrictamente las normas técnicas de material y circulación.",
+    "En la formación y reciclaje del personal de conducción, realizar simulaciones de las operaciones con el material rodante en situaciones de incidentes o averías del mismo, comprobando que conocen las actuaciones previas a cualquier movimiento del material y que se aplican estrictamente las normas técnicas de material y circulación."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Renfe Operadora"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Colisión por alcance",
+   "pagina": 3,
+   "cita": "la red de ancho métrico (antes Feve), se produce la colisión por alcance del automotor 2901 al 2905",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "Renfe Operadora 35/13-1 En la formación y reciclaje del personal de conducción, realizar simulaciones de las operaciones con el material rodante en situaciones de incidentes o averías del mismo, comprobando que cono",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2013-04-28",
+   "pagina": 10,
+   "cita": "La vía queda interceptada entre las 09:58 y las 16:55 horas del día 28/04/2013.",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "09:58",
+   "pagina": 3,
+   "cita": "El día 28 de abril de 2013, a las 09:58 horas, entre los apeaderos de Otero y La Mata de la Riba",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "26+700",
+    "linea": "790 (La Asunción Universidad a Aranguren)",
+    "provincia": "León",
+    "descripcion_lugar": "Vía única sin electrificar, entre los apeaderos de Otero y La Mata de la Riba, municipio de Vegaquemada, en curva derecha de radio 200 metros y pendiente del 20 ‰."
+   },
+   "pagina": 3,
+   "cita": "(León), en el P.K. 26+700 de la línea 790 La Asunción Universidad (León) a Aranguren perteneciente a",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "790 La Asunción Universidad (León) - Aranguren",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UTDH serie 2900 (2905 y 2901)",
+    "averia": "El automotor 2901 presentaba fallos eléctricos (caídas de tensión) y paro del motor diésel, provocando frenadas de urgencia.",
+    "mantenimiento": "Historial de cumplimiento del Plan de Mantenimiento (R3: 2011-08-25, R2: 2012-08-08, R4: 2013-01-28, R1: 2013-03-01)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros 7601, compuesto por los automotores 2905 y 2901, circulaba con fallos eléctricos en la unidad de cola (2901). Tras varias paradas de urgencia, el tren quedó detenido en el PK 25+504. El maquinista, asesorado por el jefe de maquinistas, debía aislar eléctricamente el automotor 2901 para remolcarlo con freno, pero no realizó correctamente la secuencia de operaciones.\n\nEl automotor 2901 quedó desacoplado y sin control de freno, iniciando un movimiento en deriva debido a la fuerte pendiente del 20 ‰ de la infraestructura. El automotor 2905 reinició la marcha y se detuvo en el PK 26+700 al activarse el freno de urgencia por el dispositivo de hombre muerto. Segundos después, el automotor 2901 en deriva colisionó por alcance contra el 2905.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "26+700",
+    "linea": "790 (La Asunción Universidad a Aranguren)",
+    "provincia": "León",
+    "descripcion_lugar": "Vía única sin electrificar, entre los apeaderos de Otero y La Mata de la Riba, municipio de Vegaquemada, en curva derecha de radio 200 metros y pendiente del 20 ‰."
+   },
+   "pagina": 3,
+   "cita": "(León), en el P.K. 26+700 de la línea 790 La Asunción Universidad (León) a Aranguren perteneciente a",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 7,
+    "danos_materiales": "Daños de importante consideración en los testeros y en el interior de las unidades (sin valoración económica). Sin daños en infraestructura.",
+    "afectacion_servicio": "Vía interceptada entre las 09:58 y las 16:55. Plan alternativo por carretera entre La Vecilla y Guardo. 7 trenes de cercanías y 1 de media distancia suprimidos; retrasos en otros 5 trenes."
+   },
+   "pagina": 8,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista",
+     "implicacion": "No realizó correctamente la secuencia de operaciones para remolcar con freno el automotor 2901, omitió la prueba de freno parcial y no observó si el tren circulaba completo."
+    },
+    {
+     "rol": "Jefe de maquinistas",
+     "implicacion": "Asesoró telefónicamente al maquinista sobre el modo de proceder y los dispositivos a operar."
+    }
+   ],
+   "pagina": 3,
+   "cita": "Manual Básico de Maquinista.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "7601",
+     "tipo": "Viajeros",
+     "operador": "Renfe Operadora",
+     "danos": "Daños de importante consideración en los testeros que colisionaron y en el interior de las unidades."
+    }
+   ],
+   "pagina": 3,
+   "cita": "que acoplados formaban el tren 7601. Previamente, el tren sufre una parada de urgencia y queda",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UTDH serie 2900 (2905 y 2901)",
+    "averia": "El automotor 2901 presentaba fallos eléctricos (caídas de tensión) y paro del motor diésel, provocando frenadas de urgencia.",
+    "mantenimiento": "Historial de cumplimiento del Plan de Mantenimiento (R3: 2011-08-25, R2: 2012-08-08, R4: 2013-01-28, R1: 2013-03-01)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "ASFA",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "70 km/h (limitación permanente a 60 km/h en la zona)",
+    "ancho": "Ancho métrico",
+    "electrificacion": "Sin electrificar",
+    "estado_via": "Funcionó correctamente",
+    "otro": "Bloqueo telefónico. Pendiente del 20 ‰ y curva a la derecha de radio 200 m."
+   },
+   "pagina": 13,
+   "cita": "horas se produce frenada de urgencia por ASFA.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "ASFA",
+   "pagina": 13,
+   "cita": "horas se produce frenada de urgencia por ASFA.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía.",
+   "pagina": 8,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 7,
+    "danos_materiales": "Daños de importante consideración en los testeros y en el interior de las unidades (sin valoración económica). Sin daños en infraestructura.",
+    "afectacion_servicio": "Vía interceptada entre las 09:58 y las 16:55. Plan alternativo por carretera entre La Vecilla y Guardo. 7 trenes de cercanías y 1 de media distancia suprimidos; retrasos en otros 5 trenes."
+   },
+   "pagina": 6,
+   "cita": "El maquinista del tren de viajeros 7601, con matrícula 9230.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 7,
+    "danos_materiales": "Daños de importante consideración en los testeros y en el interior de las unidades (sin valoración económica). Sin daños en infraestructura.",
+    "afectacion_servicio": "Vía interceptada entre las 09:58 y las 16:55. Plan alternativo por carretera entre La Vecilla y Guardo. 7 trenes de cercanías y 1 de media distancia suprimidos; retrasos en otros 5 trenes."
+   },
+   "pagina": 6,
+   "cita": "2.2.1. Personal ferroviario implicado",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 7,
+    "danos_materiales": "Daños de importante consideración en los testeros y en el interior de las unidades (sin valoración económica). Sin daños en infraestructura.",
+    "afectacion_servicio": "Vía interceptada entre las 09:58 y las 16:55. Plan alternativo por carretera entre La Vecilla y Guardo. 7 trenes de cercanías y 1 de media distancia suprimidos; retrasos en otros 5 trenes."
+   },
+   "pagina": 8,
+   "cita": "2.3.1. Víctimas mortales y heridos",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTDH serie 2900 (2905 y 2901)",
+    "averia": "El automotor 2901 presentaba fallos eléctricos (caídas de tensión) y paro del motor diésel, provocando frenadas de urgencia.",
+    "mantenimiento": "Historial de cumplimiento del Plan de Mantenimiento (R3: 2011-08-25, R2: 2012-08-08, R4: 2013-01-28, R1: 2013-03-01)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "ASFA",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "70 km/h (limitación permanente a 60 km/h en la zona)",
+    "ancho": "Ancho métrico",
+    "electrificacion": "Sin electrificar",
+    "estado_via": "Funcionó correctamente",
+    "otro": "Bloqueo telefónico. Pendiente del 20 ‰ y curva a la derecha de radio 200 m."
+   },
+   "pagina": 13,
+   "cita": "horas se produce frenada de urgencia por ASFA.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Nevando",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "León",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 3,
+   "cita": "(León), en el P.K. 26+700 de la línea 790 La Asunción Universidad (León) a Aranguren perteneciente a",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Nevando",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "ASFA",
+   "pagina": 13,
+   "cita": "horas se produce frenada de urgencia por ASFA.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "ASFA",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "70 km/h (limitación permanente a 60 km/h en la zona)",
+    "ancho": "Ancho métrico",
+    "electrificacion": "Sin electrificar",
+    "estado_via": "Funcionó correctamente",
+    "otro": "Bloqueo telefónico. Pendiente del 20 ‰ y curva a la derecha de radio 200 m."
+   },
+   "pagina": 13,
+   "cita": "horas se produce frenada de urgencia por ASFA.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía.",
+   "pagina": 8,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTDH serie 2900 (2905 y 2901)",
+    "averia": "El automotor 2901 presentaba fallos eléctricos (caídas de tensión) y paro del motor diésel, provocando frenadas de urgencia.",
+    "mantenimiento": "Historial de cumplimiento del Plan de Mantenimiento (R3: 2011-08-25, R2: 2012-08-08, R4: 2013-01-28, R1: 2013-03-01)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Fallo motor diésel automotor 2901",
+    "Paradas de urgencia repetidas en vía",
+    "Desacoplamiento incorrecto del tren"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 7601 se encuentra habilitado para la conducción de vehículos ferroviarios en \nvirtud de la capacitación adquirida de conformidad con el estatuto propio y la normativa legal aplicable \na Feve. \nTiene una antigüedad en el cargo de fecha 01/02/1987. \nRealizó su último reciclaje formativo el 16/11/2009 y su último reconocimiento médico y psicotécnico el \n10/08/2012, conforme a la normativa vigente. \nEl jefe de maquinistas se encuentra habilitado para la conducción de vehículos ferroviarios en virtud de \nla capacitación adquirida de conformidad con el estatuto propio y la normativa legal aplicable a Feve. \nTiene una antigüedad en el cargo de fecha 01/06/1990. \nRealizó su último reciclaje formativo el 20/11/2009 y su último reconocimiento médico y psicotécnico el \n09/05/2012, conforme a la normativa vigente. \n\n## Página 13\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0035/2013 ocurrido el 28.04.2013 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-280413-200514-CIAF \n \n \nPág. 13 de 17\n3.3. \nNORMATIVA",
+   "pagina": 12,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros 7601, compuesto por los automotores 2905 y 2901, circulaba con fallos eléctricos en la unidad de cola (2901). Tras varias paradas de urgencia, el tren quedó detenido en el PK 25+504. El maquinista, asesorado por el jefe de maquinistas, debía aislar eléctricamente el automotor 2901 para remolcarlo con freno, pero no realizó correctamente la secuencia de operaciones.\n\nEl automotor 2901 quedó desacoplado y sin control de freno, iniciando un movimiento en deriva debido a la fuerte pendiente del 20 ‰ de la infraestructura. El automotor 2905 reinició la marcha y se detuvo en el PK 26+700 al activarse el freno de urgencia por el dispositivo de hombre muerto. Segundos después, el automotor 2901 en deriva colisionó por alcance contra el 2905.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del maquinista que no realizó correctamente la secuencia de operaciones para remolcar con freno el automotor 2901.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No realizó la prueba de freno parcial.",
+    "No observar el tren durante la marcha en plena vía para verificar si circulaba completo.",
+    "Declividad de la zona (20 ‰) que favoreció la deriva.",
+    "Fallos eléctricos previos en el automotor 2901."
+   ],
+   "pagina": 3,
+   "cita": "• No realizó la prueba de freno parcial, incumpliendo el artículo 4.04.05 del Anexo IX del",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "En la formación y reciclaje del personal de conducción, realizar simulaciones de las operaciones con el material rodante en situaciones de incidentes o averías del mismo, comprobando que conocen las actuaciones previas a cualquier movimiento del material y que se aplican estrictamente las normas técnicas de material y circulación.",
+    "En la formación y reciclaje del personal de conducción, realizar simulaciones de las operaciones con el material rodante en situaciones de incidentes o averías del mismo, comprobando que conocen las actuaciones previas a cualquier movimiento del material y que se aplican estrictamente las normas técnicas de material y circulación."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Renfe Operadora"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "09:16",
+     "evento": "Parada en la estación de La Vecilla."
+    },
+    {
+     "hora": "09:23",
+     "evento": "Salida de La Vecilla con 7 minutos de retraso."
+    },
+    {
+     "hora": "09:23",
+     "evento": "Frenada de urgencia por ASFA tras la salida."
+    },
+    {
+     "hora": "09:31",
+     "evento": "Parada de urgencia tras la salida del apeadero de Otero."
+    },
+    {
+     "hora": "09:33",
+     "evento": "Reanuda la marcha."
+    },
+    {
+     "hora": "09:34",
+     "evento": "Nueva parada de urgencia, quedando detenido en el PK 25+504."
+    },
+    {
+     "hora": "09:56",
+     "evento": "El tren reanuda marcha solo con el automotor 2905 (2901 desacoplado)."
+    },
+    {
+     "hora": "09:58",
+     "evento": "Frenado de emergencia del automotor 2905 por hombre muerto a 51 km/h."
+    },
+    {
+     "hora": "09:58",
+     "evento": "Colisión por alcance del automotor 2901 contra el 2905 en el PK 26+700."
+    },
+    {
+     "hora": "10:51",
+     "evento": "Adif comunica a la CIAF la producción del suceso."
+    },
+    {
+     "hora": "13:03",
+     "evento": "Prueba de alcoholemia al maquinista con resultado negativo."
+    },
+    {
+     "hora": "15:10",
+     "evento": "Remolque del automotor 2905."
+    },
+    {
+     "hora": "16:55",
+     "evento": "Remolque del automotor 2901 y restablecimiento de la circulación."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0035/2013",
+ "expediente": "0035/13",
+ "anio": 2013,
+ "titulo": "Colisión por alcance del tren 7601 entre los apeaderos de Otero y La Mata de la Riba (León)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_280413_200514_CIAF.md"
+}

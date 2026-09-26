@@ -1,0 +1,962 @@
+{
+ "id": "ES 10.05.2015 161129150510IFCIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/61310B5B-19D6-4BAF-903A-6A298F284DB6/140584/161129150510IFCIAF.PDF",
+ "pdf": "pdfs/ES/ES 10.05.2015 161129150510IFCIAF.pdf",
+ "md5_pdf": "939025862527d1098245c3957ace73b6",
+ "paginas_md": 26,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 20,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 5,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Agencia Estatal de Seguridad Ferroviaria",
+     "Implementador final": "Adif",
+     "Número": "30/15-1",
+     "Recomendación": "Analizar, como solución definitiva, la viabilidad de reubicar la(s) señal(es) de salida S BSN M3 (y B BSN M4) de la estación de Barcelona-Sants en otro lugar en el que se reduzca el riesgo de confusión por parte del personal de conducción."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 26,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Agencia Estatal de Seguridad Ferroviaria",
+     "Implementador final": "Adif",
+     "Número": "30/15-1",
+     "Recomendación": "Analizar, como solución definitiva, la viabilidad de reubicar la(s) señal(es) de salida S BSN M3 (y B BSN M4) de la estación de Barcelona-Sants en otro lugar en el que se reduzca el riesgo de confusión por parte del personal de conducción."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0030/2015",
+   "pagina": 1,
+   "cita": "nº 0030/2015 ocurrido el 10.05.2015",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 10 de mayo de 2015, a las 22:23, el tren 39766 de RENFE Viajeros, en material vacío, rebasó la señal de salida S BSN M3 en indicación de parada en la estación de Barcelona Sants. El rebase se produjo por confusión del maquinista con la señal de la vía 4, alineada desde la cabina. El sistema ERTMS aplicó un frenado de emergencia y se registró un conato de colisión con el tren 00537, que entraba en la vía 1. No hubo heridos ni daños materiales, aunque la vía 3 quedó interceptada 189 minutos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2015-05-10",
+    "hora": "22:23:43",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Barcelona Sants",
+     "pk": "620+644 (señal S BSN M3); estación PK 621+052",
+     "linea": "050 Madrid Puerta de Atocha a Límite Adif TP-Ferro",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Estación subterránea en túnel artificial y de tipo comercial; vía 3, señal de salida S BSN M3, tramo Barcelona Sants-Bif. Can Tunis."
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 10 de mayo de 2015 a las 22:23 horas, en la estación de Barcelona Sants, de la línea 050 Madrid",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "La vía 3 estuvo interceptada durante 189 minutos; el tren 39766 sufrió 189 minutos de retraso; no fue necesario activar el plan de emergencia interno-externo."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del personal de conducción del tren 39766 al confundir la señal de salida de la vía 3 con la de la vía 4, dando lugar al rebase indebido de la señal S BSN M3 en indicación de parada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La posición de las señales de salida de las vías 3 y 4, al final del andén común y alineadas desde la cabina, podía inducir confusión.",
+    "La apertura de la señal de salida de la vía 4 para el tren 38888 mientras el tren 39766 esperaba en la vía 3.",
+    "El maquinista no vio correctamente el aspecto de la señal de salida correspondiente a la vía 3.",
+    "Existencia de tres sucesos similares previos en la misma señal S BSN M3 en los últimos cuatro años, todos con material vacío con destino a Barcelona Can Tunis."
+   ],
+   "pagina": 25,
+   "cita": "Como factor coadyuvante se puede considerar que la posición de las señales de salida de las vías 3 y 4, al",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Analizar, como solución definitiva, la viabilidad de reubicar la(s) señal(es) de salida S BSN M3 (y B BSN M4) de la estación de Barcelona-Sants en otro lugar en el que se reduzca el riesgo de confusión por parte del personal de conducción.",
+    "Analizar, como solución definitiva, la viabilidad de reubicar la(s) señal(es) de salida S BSN M3 (y B BSN M4) de la estación de Barcelona-Sants en otro lugar en el que se reduzca el riesgo de confusión por parte del personal de conducción."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Agencia Estatal de Seguridad Ferroviaria",
+    "Agencia Estatal de Seguridad Ferroviaria"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Incidente ferroviario",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Viajeros",
+    "ADIF"
+   ],
+   "pagina": 8,
+   "cita": "Por parte de Renfe Viajeros",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2015-05-10",
+   "pagina": 5,
+   "cita": "El día 10 de mayo de 2015 a las 22:23 horas, en la estación de Barcelona Sants, de la línea 050 Madrid",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "22:23:43",
+   "pagina": 14,
+   "cita": " A las 22:23:43 horas, circulando a una velocidad de 21 km/h y al paso por la baliza de la señal",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Barcelona Sants",
+    "pk": "620+644 (señal S BSN M3); estación PK 621+052",
+    "linea": "050 Madrid Puerta de Atocha a Límite Adif TP-Ferro",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Estación subterránea en túnel artificial y de tipo comercial; vía 3, señal de salida S BSN M3, tramo Barcelona Sants-Bif. Can Tunis."
+   },
+   "pagina": 6,
+   "cita": "señal de salida (S BSN M3) de la vía 3 en la que se encontraba estacionado, produciéndose el frenado",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "El suceso ocurrió en la estación de Barcelona Sants, estación subterránea en túnel artificial y de tipo \ncomercial.  \nDicha estación está situada en el PK 621+052 de la línea 050 Madrid Puerta de Atocha a Límite Adif TP-\nFerro, y está encuadrada en un tramo de vía doble electrificada y ancho UIC. Está dotada del sistema \nde seguridad ERTMS y las comunicaciones se realizan a través del sistema GSM-R. \nLa estación dispone de 6 vías de ancho UIC numeradas de la 1 a la 6 y compartiendo andén las vías 1 \ny 2, la 3 y 4 y la 5 y 6. \n \nTREN 39766  \n(MATERIAL VACÍO) \nVÍA 3 \nVÍA 2 \nVista de las señales de salida desde la posición de estacionamiento de los trenes en la vía 3: en primer término la \nseñal S BSN M3 (señal de salida de la vía 3 rebasada), en segundo término la señal S BSN M4 (señal de salida de \nla vía 4. Esta vía no aparece en la fotografía pues se encuentra al otro lado del andén, hacia el lado izquierdo de la \nfotografía). \n\n## Página 10\n\n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0030/2015 ocurrido el 10.05.2015 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n161129-150510-IF-CIAF.docx \n \n \nPág. 10 de 26 \nEl andén de las vías 3 y 4 está en curva hacia la izquierda según el sentido de circulación del tren 39766 \n(material vacío) que rebasó la señal de salida de la vía 3. Al final de este andén por el lado Can Tunis se \ndisponen las señales de salida de las vías 3 y 4. La señal S BSN M3, señal de salida de la vía 3, se \nencuentra situada en el P.K. 620+644, a la izquierda de la vía 3 (según el sentido de salida) y dispone \nde una flecha orientada hacia la vía 3. En el P.K. 620+627 (a 17 metros de la señal de salida de la vía \n3) se encuentra la señal de salida S BSN M4 de la vía 4, instalada a la derecha de la citada vía 4. Ambas \nseñales son altas y de cuatro focos. \nLa velocidad máxima según el cuadro de velocidades máximas en el lugar del suceso es de 30 km/h.",
+   "pagina": 9,
+   "cita": "2.2.3. Descripción de la infraestructura",
+   "origen": "determinista",
+   "regla": "sec:^descripci[óo]n de la infraestructura$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Serie 114 de alta velocidad, rama 114007, 4 vehículos, 16 ejes, 108 metros y 229 toneladas; registrador de seguridad tipo CESIS 3.",
+    "averia": "No se detectaron anomalías en los equipos o dispositivos de seguridad del tren.",
+    "mantenimiento": "No consta deficiencia de mantenimiento; los equipos de seguridad funcionaron correctamente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "Los hechos tuvieron lugar el 10 de mayo de 2015 a las 22:23 en la estación de Barcelona Sants, en la línea 050 Madrid Puerta de Atocha a Límite Adif TP-Ferro. El tren 39766, de RENFE Viajeros y con material vacío, estaba estacionado en la vía 3 con destino a la base de mantenimiento de alta velocidad de Barcelona Can Tunis. El jefe del CRC de Zaragoza había establecido un itinerario de salida por la vía 4 para el tren 38888, también en material vacío con destino a Can Tunis, y simultáneamente un itinerario de entrada para el tren 00537 hacia la vía 1. A las 22:21 se abrió la señal de salida S BSN M4 de la vía 4 para el tren 38888, que realizó su salida a las 22:22.\n\nDado que las señales de salida de las vías 3 y 4 se encontraban al final del andén común, desde la posición del tren 39766 el maquinista confundió la señal de la vía 4 con la de la vía 3, que estaba en indicación de parada, e inició la marcha a las 22:23:30. A las 22:23:43, circulando a 21 km/h, el tren pasó sobre la baliza de la señal S BSN M3 y el sistema ERTMS actuó un frenado de emergencia, conocido como TRIP. El tren se detuvo a las 22:23:51 tras recorrer 46 metros desde la baliza, ocupando el circuito de vía V S22 BSN N2. En ese momento el tren 00537 estaba realizando su entrada en la vía 1, produciéndose un conato de colisión.\n\nEl jefe del CRC de Zaragoza observó la ocupación intempestiva del circuito de vía, contactó con el maquinista y, al comprobar que el tren no había pisado el cambio posterior a la señal, autorizó el retroceso de la composición para volver a estacionarla en la vía 3. El retroceso terminó a las 22:33:48 tras recorrer 33 metros. El maquinista fue relevado conforme a los protocolos de seguridad y el tren 39766 continuó hacia Barcelona Can Tunis a la 01:09 con 189 minutos de retraso. No se produjeron heridos ni daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Barcelona Sants",
+    "pk": "620+644 (señal S BSN M3); estación PK 621+052",
+    "linea": "050 Madrid Puerta de Atocha a Límite Adif TP-Ferro",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Estación subterránea en túnel artificial y de tipo comercial; vía 3, señal de salida S BSN M3, tramo Barcelona Sants-Bif. Can Tunis."
+   },
+   "pagina": 6,
+   "cita": "señal de salida (S BSN M3) de la vía 3 en la que se encontraba estacionado, produciéndose el frenado",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "La vía 3 estuvo interceptada durante 189 minutos; el tren 39766 sufrió 189 minutos de retraso; no fue necesario activar el plan de emergencia interno-externo."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 39766",
+     "implicacion": "Confundió la señal de salida de la vía 4 con la de la vía 3, inició la marcha y rebasó la señal S BSN M3 en indicación de parada; tras el incidente fue relevado, se le aplicaron medidas y las pruebas de alcoholemia y drogas fueron negativas."
+    },
+    {
+     "rol": "Jefe del CRC de Zaragoza",
+     "implicacion": "Estableció los itinerarios, observó la ocupación intempestiva del circuito de vía, contactó con el maquinista, autorizó el retroceso y activó el protocolo de seguridad."
+    },
+    {
+     "rol": "Maquinista de relevo",
+     "implicacion": "Continuó el trayecto del tren 39766 hacia Barcelona Can Tunis a la 01:09."
+    }
+   ],
+   "pagina": 8,
+   "cita": "El maquinista del tren 39766 (material vacío) con matrícula 8862310.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "No se produjeron víctimas.",
+   "pagina": 10,
+   "cita": "2.3.1. Viajeros, personal y terceros",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "39766",
+     "tipo": "Material vacío, serie 114 de alta velocidad",
+     "operador": "RENFE Viajeros",
+     "danos": "No se produjeron daños materiales"
+    },
+    {
+     "numero": "38888",
+     "tipo": "Material vacío",
+     "operador": null,
+     "danos": "No se produjeron daños materiales"
+    },
+    {
+     "numero": "00537",
+     "tipo": null,
+     "operador": null,
+     "danos": "No se produjeron daños materiales"
+    }
+   ],
+   "pagina": 5,
+   "cita": "3, que se encontraba en indicación de parada, por parte del tren 39766 (material vacío) de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Serie 114 de alta velocidad, rama 114007, 4 vehículos, 16 ejes, 108 metros y 229 toneladas; registrador de seguridad tipo CESIS 3.",
+    "averia": "No se detectaron anomalías en los equipos o dispositivos de seguridad del tren.",
+    "mantenimiento": "No consta deficiencia de mantenimiento; los equipos de seguridad funcionaron correctamente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S BSN M3 de la vía 3 en indicación de parada; señal de salida S BSN M4 de la vía 4 al final del andén común; ambas señales altas y de cuatro focos; desde el 10.07.2015 se instaló una pantalla entre las señales.",
+    "tipo_via": "Estación con 6 vías de ancho UIC; vía doble electrificada; vías 3 y 4 comparten andén en curva.",
+    "velocidad_maxima": "30 km/h en el lugar del suceso",
+    "ancho": "UIC",
+    "electrificacion": "Electrificada",
+    "estado_via": "Itinerarios establecidos correctamente; señal S BSN M3 en todo momento en indicación de parada; sin obras en inmediaciones; circuito de vía V S22 BSN N2 ocupado tras el rebase.",
+    "otro": "Sistema ERTMS en Bloqueo de Señalización Lateral; comunicaciones GSM-R; PK estación 621+052; PK señal S BSN M3 620+644; PK señal S BSN M4 620+627; distancia entre señales 17 metros; desvío D14 BSN N2 en posición invertida; media semanal de circulaciones del tramo Barcelona Sants-Bif. Can Tunis: 835."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de salida S BSN M3 de la vía 3 en indicación de parada; señal de salida S BSN M4 de la vía 4 al final del andén común; ambas señales altas y de cuatro focos; desde el 10.07.2015 se instaló una pantalla entre las señales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": "No existían obras en las inmediaciones.",
+   "pagina": 10,
+   "cita": "2.2.5. Obras en el lugar o cercanías",
+   "origen": "determinista",
+   "regla": "sec:^obras en el lugar o cercan[íi]as$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "La vía 3 estuvo interceptada durante 189 minutos; el tren 39766 sufrió 189 minutos de retraso; no fue necesario activar el plan de emergencia interno-externo."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "La vía 3 estuvo interceptada durante 189 minutos; el tren 39766 sufrió 189 minutos de retraso; no fue necesario activar el plan de emergencia interno-externo."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "La vía 3 estuvo interceptada durante 189 minutos; el tren 39766 sufrió 189 minutos de retraso; no fue necesario activar el plan de emergencia interno-externo."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 114 de alta velocidad, rama 114007, 4 vehículos, 16 ejes, 108 metros y 229 toneladas; registrador de seguridad tipo CESIS 3.",
+    "averia": "No se detectaron anomalías en los equipos o dispositivos de seguridad del tren.",
+    "mantenimiento": "No consta deficiencia de mantenimiento; los equipos de seguridad funcionaron correctamente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S BSN M3 de la vía 3 en indicación de parada; señal de salida S BSN M4 de la vía 4 al final del andén común; ambas señales altas y de cuatro focos; desde el 10.07.2015 se instaló una pantalla entre las señales.",
+    "tipo_via": "Estación con 6 vías de ancho UIC; vía doble electrificada; vías 3 y 4 comparten andén en curva.",
+    "velocidad_maxima": "30 km/h en el lugar del suceso",
+    "ancho": "UIC",
+    "electrificacion": "Electrificada",
+    "estado_via": "Itinerarios establecidos correctamente; señal S BSN M3 en todo momento en indicación de parada; sin obras en inmediaciones; circuito de vía V S22 BSN N2 ocupado tras el rebase.",
+    "otro": "Sistema ERTMS en Bloqueo de Señalización Lateral; comunicaciones GSM-R; PK estación 621+052; PK señal S BSN M3 620+644; PK señal S BSN M4 620+627; distancia entre señales 17 metros; desvío D14 BSN N2 en posición invertida; media semanal de circulaciones del tramo Barcelona Sants-Bif. Can Tunis: 835."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Barcelona Sants"
+   },
+   "pagina": 5,
+   "cita": "El día 10 de mayo de 2015 a las 22:23 horas, en la estación de Barcelona Sants, de la línea 050 Madrid",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de salida S BSN M3 de la vía 3 en indicación de parada; señal de salida S BSN M4 de la vía 4 al final del andén común; ambas señales altas y de cuatro focos; desde el 10.07.2015 se instaló una pantalla entre las señales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S BSN M3 de la vía 3 en indicación de parada; señal de salida S BSN M4 de la vía 4 al final del andén común; ambas señales altas y de cuatro focos; desde el 10.07.2015 se instaló una pantalla entre las señales.",
+    "tipo_via": "Estación con 6 vías de ancho UIC; vía doble electrificada; vías 3 y 4 comparten andén en curva.",
+    "velocidad_maxima": "30 km/h en el lugar del suceso",
+    "ancho": "UIC",
+    "electrificacion": "Electrificada",
+    "estado_via": "Itinerarios establecidos correctamente; señal S BSN M3 en todo momento en indicación de parada; sin obras en inmediaciones; circuito de vía V S22 BSN N2 ocupado tras el rebase.",
+    "otro": "Sistema ERTMS en Bloqueo de Señalización Lateral; comunicaciones GSM-R; PK estación 621+052; PK señal S BSN M3 620+644; PK señal S BSN M4 620+627; distancia entre señales 17 metros; desvío D14 BSN N2 en posición invertida; media semanal de circulaciones del tramo Barcelona Sants-Bif. Can Tunis: 835."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 114 de alta velocidad, rama 114007, 4 vehículos, 16 ejes, 108 metros y 229 toneladas; registrador de seguridad tipo CESIS 3.",
+    "averia": "No se detectaron anomalías en los equipos o dispositivos de seguridad del tren.",
+    "mantenimiento": "No consta deficiencia de mantenimiento; los equipos de seguridad funcionaron correctamente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": "Una vez observado por el jefe del CRC de Zaragoza la ocupación intempestiva del circuito de vía V \nS22 BSN 2 por parte del tren 39766 (material vacío), al realizar éste salida desde la vía 3 rebasando \nla señal S BSN M3 en indicación de parada, el jefe del CRC se pone en contacto con el maquinista \npreguntándole si había iniciado la marcha y si se encontraba detenido, respondiendo el maquinista \nque sí a las dos preguntas. \nEl jefe del CRC le ordena al maquinista que permanezca detenido a la espera de próximas \nindicaciones. \nA continuación el jefe del CRC se pone en contacto con el maquinita para preguntarle si había \nrebasado la aguja S22 BSN 2, a lo que el maquinista responde que no, que se encuentra detenida \nla cabeza de la composición a cinco metros de la señal de salida S BSN M3. \nRecabada esta información por el jefe del CRC de Zaragoza, éste procede a autorizar el retroceso \ndel tren 39766 (material vacío) regresando sobre la vía 3. \nEl jefe del CRC se pone en contacto con el Jefe delegado y se activa el protocolo de seguridad en \nla circulación. \nPosteriormente el maquinista comunica al jefe del CRC de Zaragoza que va a ser relevado de su \npuesto de trabajo. Comunicándole entonces el jefe del CRC que dejara la composición estacionada \nen la citada vía 3. \nA las 01:09 horas el tren 39766 (material vacío) sale con 189 minutos de retraso con dirección a los \ndepósitos de mantenimiento de alta velocidad de Barcelona Can Tunis con otro maquinista.",
+   "pagina": 21,
+   "cita": "3.5.1. Medidas tomadas por el personal de circulación",
+   "origen": "determinista",
+   "regla": "sec:^medidas tomadas por el personal de circulaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "La posición de las señales de salida de las vías 3 y 4, al final del andén común y alineadas desde la cabina, podía inducir confusión.",
+    "La apertura de la señal de salida de la vía 4 para el tren 38888 mientras el tren 39766 esperaba en la vía 3.",
+    "El maquinista no vio correctamente el aspecto de la señal de salida correspondiente a la vía 3.",
+    "Existencia de tres sucesos similares previos en la misma señal S BSN M3 en los últimos cuatro años, todos con material vacío con destino a Barcelona Can Tunis."
+   ],
+   "pagina": 25,
+   "cita": "Como factor coadyuvante se puede considerar que la posición de las señales de salida de las vías 3 y 4, al",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 39766 (material vacío) posee el título B de conducción y está habilitado conforme \na la Orden FOM/2520/2006, de 27 de julio (Título V – Personal de conducción - en vigor hasta el 11 de \nenero de 2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de \nnoviembre).  \nTiene una antigüedad en el cargo desde el 17.05.1983, habilitación de la línea desde el 19.05.2011 y \ndel vehículo desde el 08.08.2013. \nRealizó su último reciclaje formativo el 08.08.2014 y su último reconocimiento médico y psicotécnico el \n04.03.2015 conforme a la normativa vigente. \nEl maquinista tenía experiencia en la línea, realizando servicios AVANT (alta velocidad – media distancia), \ninicialmente (mayo de 2011) con material de la serie 104 y posteriormente (desde agosto de 2013) con \nmaterial de la serie 114. Realizaba servicios de media distancia por ancho ibérico y servicios AVANT \nentre Barcelona y Lérida.  \nDe la vía 3 (y del resto de las seis vías) de alta velocidad de la estación de Barcelona Sants, el material \nAVANT (de media distancia) puede salir como servicios comerciales con destino Lérida o bien como \nmaterial vacío con destino la base de mantenimiento de alta velocidad de Barcelona Can Tunís. \nEl jefe del CRC de Zaragoza se encuentra en posesión de la habilitación de Responsable de Circulación \nde fecha 12.04.2011 conforme a la Orden FOM/2872/2010, de 5 de noviembre, por la que se determinan \nlas condiciones para la obtención de títulos y habilitaciones que permiten el ejercicio de las funciones \ndel personal ferroviario relacionadas con la seguridad.  \nSu último reconocimiento médico y psicofísico tiene validez hasta el 19.11.2017. \n3.3. \nNORMATIVA",
+   "pagina": 13,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "Los hechos tuvieron lugar el 10 de mayo de 2015 a las 22:23 en la estación de Barcelona Sants, en la línea 050 Madrid Puerta de Atocha a Límite Adif TP-Ferro. El tren 39766, de RENFE Viajeros y con material vacío, estaba estacionado en la vía 3 con destino a la base de mantenimiento de alta velocidad de Barcelona Can Tunis. El jefe del CRC de Zaragoza había establecido un itinerario de salida por la vía 4 para el tren 38888, también en material vacío con destino a Can Tunis, y simultáneamente un itinerario de entrada para el tren 00537 hacia la vía 1. A las 22:21 se abrió la señal de salida S BSN M4 de la vía 4 para el tren 38888, que realizó su salida a las 22:22.\n\nDado que las señales de salida de las vías 3 y 4 se encontraban al final del andén común, desde la posición del tren 39766 el maquinista confundió la señal de la vía 4 con la de la vía 3, que estaba en indicación de parada, e inició la marcha a las 22:23:30. A las 22:23:43, circulando a 21 km/h, el tren pasó sobre la baliza de la señal S BSN M3 y el sistema ERTMS actuó un frenado de emergencia, conocido como TRIP. El tren se detuvo a las 22:23:51 tras recorrer 46 metros desde la baliza, ocupando el circuito de vía V S22 BSN N2. En ese momento el tren 00537 estaba realizando su entrada en la vía 1, produciéndose un conato de colisión.\n\nEl jefe del CRC de Zaragoza observó la ocupación intempestiva del circuito de vía, contactó con el maquinista y, al comprobar que el tren no había pisado el cambio posterior a la señal, autorizó el retroceso de la composición para volver a estacionarla en la vía 3. El retroceso terminó a las 22:33:48 tras recorrer 33 metros. El maquinista fue relevado conforme a los protocolos de seguridad y el tren 39766 continuó hacia Barcelona Can Tunis a la 01:09 con 189 minutos de retraso. No se produjeron heridos ni daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del personal de conducción del tren 39766 al confundir la señal de salida de la vía 3 con la de la vía 4, dando lugar al rebase indebido de la señal S BSN M3 en indicación de parada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La posición de las señales de salida de las vías 3 y 4, al final del andén común y alineadas desde la cabina, podía inducir confusión.",
+    "La apertura de la señal de salida de la vía 4 para el tren 38888 mientras el tren 39766 esperaba en la vía 3.",
+    "El maquinista no vio correctamente el aspecto de la señal de salida correspondiente a la vía 3.",
+    "Existencia de tres sucesos similares previos en la misma señal S BSN M3 en los últimos cuatro años, todos con material vacío con destino a Barcelona Can Tunis."
+   ],
+   "pagina": 25,
+   "cita": "Como factor coadyuvante se puede considerar que la posición de las señales de salida de las vías 3 y 4, al",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Analizar, como solución definitiva, la viabilidad de reubicar la(s) señal(es) de salida S BSN M3 (y B BSN M4) de la estación de Barcelona-Sants en otro lugar en el que se reduzca el riesgo de confusión por parte del personal de conducción.",
+    "Analizar, como solución definitiva, la viabilidad de reubicar la(s) señal(es) de salida S BSN M3 (y B BSN M4) de la estación de Barcelona-Sants en otro lugar en el que se reduzca el riesgo de confusión por parte del personal de conducción."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Agencia Estatal de Seguridad Ferroviaria",
+    "Agencia Estatal de Seguridad Ferroviaria"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "22:21",
+     "evento": "El jefe del CRC de Zaragoza abre la señal de salida S BSN M4 de la vía 4 para el tren 38888, material vacío con destino a Barcelona Can Tunis."
+    },
+    {
+     "hora": "22:22",
+     "evento": "El tren 38888 realiza su salida desde la vía 4."
+    },
+    {
+     "hora": "22:22",
+     "evento": "Está establecido el itinerario de entrada del tren 00537 desde la señal E BSN F2 hasta la vía 1."
+    },
+    {
+     "hora": "22:23",
+     "evento": "El tren 39766, material vacío, inicia la marcha desde la vía 3 con la señal de salida S BSN M3 en indicación de parada."
+    },
+    {
+     "hora": "22:23",
+     "evento": "El tren 39766 pasa por la baliza de la señal S BSN M3 a 21 km/h y el sistema ERTMS aplica un TRIP o frenado de emergencia."
+    },
+    {
+     "hora": "22:23",
+     "evento": "El tren 39766 queda detenido tras recorrer 46 metros desde la baliza y ocupa el circuito de vía V S22 BSN N2; se produce conato de colisión con el tren 00537, que entraba en la vía 1."
+    },
+    {
+     "hora": "22:33",
+     "evento": "El tren 39766 inicia retroceso hacia la vía 3 tras autorización del jefe del CRC de Zaragoza."
+    },
+    {
+     "hora": "22:33",
+     "evento": "El tren 39766 termina el retroceso y queda estacionado en la vía 3 tras recorrer 33 metros."
+    },
+    {
+     "hora": "01:09",
+     "evento": "El tren 39766 sale hacia Barcelona Can Tunis con otro maquinista y 189 minutos de retraso."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0030/2015",
+ "expediente": "0030/15",
+ "anio": 2015,
+ "titulo": "INFORME FINAL DE LA CIAF (IFC) SOBRE EL INCIDENTE FERROVIARIO Nº 0030/2015 OCURRIDO EL DÍA 10.05.2015 EN LA ESTACIÓN DE BARCELONA SANTS (BARCELONA)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 10.05.2015 161129150510IFCIAF.md"
+}

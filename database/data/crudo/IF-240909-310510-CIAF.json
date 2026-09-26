@@ -1,0 +1,1000 @@
+{
+ "id": "IF-240909-310510-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/DCCCB5CF-6DDC-4DDF-91B9-45BE4EA176F2/75524/0050CIAF.pdf",
+ "pdf": "pdfs/ES/IF-240909-310510-CIAF.pdf",
+ "md5_pdf": "0e8753ebe09c56d7530430cd2ddb6e0b",
+ "paginas_md": 13,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 21,
+ "n_tablas": 3,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendaciones"
+   ],
+   "filas": [
+    {
+     "Destinatario": "FEVE",
+     "Número": "50/09-1",
+     "Recomendaciones": "Establecer un sistema para asegurar la adecuada trazabilidad de las operaciones realizadas a los ejes."
+    },
+    {
+     "Destinatario": "FEVE",
+     "Número": "50/09-2",
+     "Recomendaciones": "Incluir, en el tipo de intervención que sea más factible de los establecidos en el plan de mantenimiento de cada una de las series de material, una inspección por ultrasonidos que permita la localización de fisuras. Seguimiento de resultados."
+    },
+    {
+     "Destinatario": "FEVE",
+     "Número": "50/09-3",
+     "Recomendaciones": "Establecer unas Instrucciones de Control de calidad en los procesos de calado de los ejes."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendaciones |"
+  },
+  {
+   "pagina": 12,
+   "cabecera": [
+    "1. Verificación inmediata mediante ultrasonidos de los ejes de la serie 3800",
+    "Completado en noviembre de 2009 (16 unidades)",
+    "Satisfactorio. No se identificó ningún eje con fisuras"
+   ],
+   "filas": [
+    {
+     "1. Verificación inmediata mediante ultrasonidos de los ejes de la serie 3800": "2. Extensión de la verificación por ultrasonidos a los ejes de la serie 3500 y la serie transformada 3300.",
+     "Completado en noviembre de 2009 (16 unidades)": "En curso, se realiza en las revisiones R4 y en los cambios de rodadura",
+     "Satisfactorio. No se identificó ningún eje con fisuras": "Satisfactorio"
+    }
+   ],
+   "cita": "| 1. Verificación inmediata mediante ultrasonidos de los ejes de la serie 3800 | Completado en noviembre de 2009 (16 unidades) | Satisfactorio. No se identificó ningún eje con fisuras |"
+  },
+  {
+   "pagina": 13,
+   "cabecera": [
+    "3. Implantación de la verificación periódica mediante ultrasonidos de los ejes de todas las series de material",
+    "Implantada en las intervenciones de tipo R4",
+    "Satisfactorio"
+   ],
+   "filas": [
+    {
+     "3. Implantación de la verificación periódica mediante ultrasonidos de los ejes de todas las series de material": "4. Análisis del estado de la rodadura de todo el parque de viajeros de FEVE",
+     "Implantada en las intervenciones de tipo R4": "Completado",
+     "Satisfactorio": "Satisfactorio (Adelantado)"
+    },
+    {
+     "3. Implantación de la verificación periódica mediante ultrasonidos de los ejes de todas las series de material": "5. Estudio de otras metodologías de calado diferentes a la actual de FEVE que se realiza por presión, con análisis de su viabilidad técnica y económica”.",
+     "Implantada en las intervenciones de tipo R4": "En curso",
+     "Satisfactorio": "En las coronas de 3500 se están enfriando el eje y calentando la corona"
+    }
+   ],
+   "cita": "| 3. Implantación de la verificación periódica mediante ultrasonidos de los ejes de todas las series de material | Implantada en las intervenciones de tipo R4 | Satisfactorio |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0050/2009",
+   "pagina": 1,
+   "cita": "nº 0050/2009 ocurrido el 24.09.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 24 de septiembre de 2009 a las 13:50 horas se produjo la rotura de la mangueta de un eje del tren de viajeros 6722 de FEVE en el apeadero de Cazoña (Santander), en el PK 527+485 de la línea Oviedo-Santander. El incidente no causó víctimas pero provocó la interceptación de la vía durante 6 horas y 16 minutos, con supresión y retraso de múltiples trenes. La rotura se originó por una fisura previa en una zona del eje recargada mediante soldadura, operación prohibida desde hacía 5 años. FEVE carecía de trazabilidad sobre los ejes recuperados, estimándose que hasta un 15% del parque podía estar afectado. Se formularon tres recomendaciones dirigidas a FEVE sobre trazabilidad, inspección por ultrasonidos y control de calidad en procesos de calado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-09-24",
+    "hora": "13:50",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Apeadero de Cazoña",
+     "pk": "527+485",
+     "linea": "Oviedo-Santander (L-21), tramo Santander-Llanes (T-23)",
+     "provincia": "Cantabria",
+     "descripcion_lugar": "Andén de la vía par del apeadero de Cazoña, en alineación recta y nivelación longitudinal horizontal. Kilometración Ferrol-Bilbao."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 24 de septiembre de 2009, a las 13:50 horas se produce la rotura de un eje en el tren regular",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Rotura de la mangueta izquierda del tercer eje del vehículo 3806. Descarrilamiento durante operaciones de acople con tren de socorro. Unidad llevada al taller de Santander con dyploris.",
+    "afectacion_servicio": "Vía par interceptada durante 6 horas y 16 minutos. 1 tren de cercanías suprimido parcialmente, 9 totalmente. 13 trenes de cercanías con retraso total de 122 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Rotura de la sección completa de la mangueta de un eje del vehículo 3806, por insuficiente capacidad de la sección motivada por la progresión de una fisura previa.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Dos entallas localizadas en una zona del eje recargada mediante soldadura, posiblemente producidas en un proceso de calado, que originaron la fisura.",
+    "Utilización de un procedimiento de trabajo inadecuado durante el montaje del eje: recargue mediante soldadura, operación prohibida desde hacía 5 años en todos los talleres de FEVE.",
+    "Ausencia de trazabilidad suficiente en la información de los talleres para identificar ejes recuperados que pudieran estar operativos.",
+    "Mantenimiento preventivo con inspección exclusivamente visual de los bogies, sin detección de fisuras internas.",
+    "Indicios de que el problema no era un caso aislado: estimación de hasta un 15% de ejes recuperados en el parque."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Falta de un sistema de trazabilidad de las operaciones realizadas a los ejes.",
+    "Ausencia de inspección por ultrasonidos en el plan de mantenimiento para localización de fisuras.",
+    "Falta de instrucciones de control de calidad en los procesos de calado de ejes.",
+    "Procedimientos de recuperación de ejes mediante soldadura no eliminados completamente del parque operativo."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Establecer un sistema para asegurar la adecuada trazabilidad de las operaciones realizadas a los ejes.",
+    "Incluir, en el tipo de intervención que sea más factible de los establecidos en el plan de mantenimiento de cada una de las series de material, una inspección por ultrasonidos que permita la localización de fisuras. Seguimiento de resultados.",
+    "Establecer unas Instrucciones de Control de calidad en los procesos de calado de los ejes."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendaciones |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "FEVE",
+    "FEVE",
+    "FEVE"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendaciones |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente ferroviario",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "FEVE"
+   ],
+   "pagina": 3,
+   "cita": "de viajeros 6722, de la empresa ferroviaria FEVE, en el P.K. 527+485 del tramo Santander-Llanes,",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-09-24",
+   "pagina": 3,
+   "cita": "El día 24 de septiembre de 2009, a las 13:50 horas se produce la rotura de un eje en el tren regular",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "13:50",
+   "pagina": 3,
+   "cita": "El día 24 de septiembre de 2009, a las 13:50 horas se produce la rotura de un eje en el tren regular",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Apeadero de Cazoña",
+    "pk": "527+485",
+    "linea": "Oviedo-Santander (L-21), tramo Santander-Llanes (T-23)",
+    "provincia": "Cantabria",
+    "descripcion_lugar": "Andén de la vía par del apeadero de Cazoña, en alineación recta y nivelación longitudinal horizontal. Kilometración Ferrol-Bilbao."
+   },
+   "pagina": 1,
+   "cita": "EN EL APEADERO DE CAZOÑA (CANTABRIA)",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Oviedo-Santander (L-21)",
+   "pagina": 3,
+   "cita": "Línea: Oviedo- Santander (L-21) Tramo: Santander-Llanes (T-23) Municipio: Santander Provincia: Cantabria ### Tablas de la página 3 | Destinatario | Número | Recomendaciones | |---|---|---| | FEVE | 50/0",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Coche motor 6806, remolque intermedio 6856, coche remolque con cabina 3806 (serie 3800). Cada coche con 2 bogies de 2 ejes.",
+    "averia": "Rotura de la sección completa de la mangueta de un eje del vehículo 3806. Origen: fisura previa por dos entallas en zona recargada por soldadura. Eje fabricado en 1993, último calado en 2003. En el momento de la rotura el eje estaba unido por solo 1/3 de su superficie (2/3 con estado de oxidación indicando fisura de tiempo).",
+    "mantenimiento": "Última intervención R4 (120.000 km/1 año) realizada entre 24/11/2008 y 26/11/2008, con comprobación visual de ausencia de fisuras y deformaciones en bogies. Intervenciones R1-R4 con control visual. Verificación por ultrasonidos y partículas magnéticas en el calado de 2003. No se dispone de datos de calados/decalados anteriores. Falta de trazabilidad de ejes recuperados."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros 6722 de FEVE, procedente de Santander con destino Puente de San Miguel, circulaba con normalidad. Al aplicar el freno para efectuar parada comercial en el apeadero de Cazoña, se activó la señal del sistema antibloqueo de rueda, pero el tren se detuvo correctamente. Al intentar reanudar la marcha, el maquinista advirtió que algún bogie permanecía frenado pese a aplicar tracción. Tras notificar al CTC y revisar la unidad sin apreciar anomalías, solicitó socorro. El tren de socorro acopló las unidades y realizó dos pruebas satisfactorias, pero el jefe de maquinistas detectó la rotura completa de la mangueta de la tercera rueda izquierda del vehículo 3806, último de la composición. Marcas en rueda y traviesas indican que la rueda se soltó del eje antes de llegar a Cazoña sin descarrilar; el descarrilamiento se produjo durante las operaciones de acople con el tren de socorro.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Apeadero de Cazoña",
+    "pk": "527+485",
+    "linea": "Oviedo-Santander (L-21), tramo Santander-Llanes (T-23)",
+    "provincia": "Cantabria",
+    "descripcion_lugar": "Andén de la vía par del apeadero de Cazoña, en alineación recta y nivelación longitudinal horizontal. Kilometración Ferrol-Bilbao."
+   },
+   "pagina": 1,
+   "cita": "EN EL APEADERO DE CAZOÑA (CANTABRIA)",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Rotura de la mangueta izquierda del tercer eje del vehículo 3806. Descarrilamiento durante operaciones de acople con tren de socorro. Unidad llevada al taller de Santander con dyploris.",
+    "afectacion_servicio": "Vía par interceptada durante 6 horas y 16 minutos. 1 tren de cercanías suprimido parcialmente, 9 totalmente. 13 trenes de cercanías con retraso total de 122 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "En su informe particular, FEVE indica que la Dirección de División de Operaciones, a través de la \nDirección de Gerencia de Talleres, dispuso un plan de actuación consistente en llevar a cabo una serie \nde comprobaciones y estudios: \n1. Verificación inmediata mediante ultrasonidos de los ejes de la serie 3800 a la que \npertenecía la unidad afectada por el incidente. \n2. Extensión de la verificación por ultrasonidos a los ejes de la serie 3500 y la serie \ntrasformada 3300. \n3. Implantación de la verificación periódica mediante ultrasonidos de los ejes de todas las \nseries de material, incorporándolo como parte integrante de las consistencias de los planes \nde mantenimiento preventivo. La periodicidad se adecuará a las características de cada \nserie. \n4. Análisis del estado de la rodadura de todo el parque de viajeros de FEVE, priorizando \naquellos ejes que tengan una menor vida útil por delante, por haber estado sometidos a \nun número mayor de ciclos de carga y, por tanto, a mayor fatiga. \n5. Estudio de otras metodologías de calado diferentes a la actual de FEVE que se realiza por \npresión, con análisis de su viabilidad técnica y económica. \nEl estado de cada una de las actuaciones anteriores es el siguiente:",
+   "pagina": 12,
+   "cita": "5. MEDIDAS ADOPTADAS POR FEVE",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 6722",
+     "implicacion": "Carné ferroviario nº 9982. Habilitado para conducción de vehículos ferroviarios. Último reciclaje formativo 25/03/2008, último reconocimiento médico 19/02/2009. Jornada del 24: 1h20min (conducción efectiva 5 min). Detectó la incidencia y solicitó socorro."
+    },
+    {
+     "rol": "Jefe de maquinistas (tren de socorro)",
+     "implicacion": "Realizó revisión tras acoplamiento y detectó la rotura completa de la mangueta del eje del vehículo 3806. Informó al CTC del descarrilamiento."
+    },
+    {
+     "rol": "Inspector general de FEVE",
+     "implicacion": "Comunicó el incidente a la CIAF el 24/09/2009 a las 20:12. Entregó informe particular el 14/01/2010. Integrado en el equipo investigador."
+    }
+   ],
+   "pagina": 6,
+   "cita": "Del escrito realizado por el maquinista del tren 6722, fechado en Santander el día 2 de diciembre de",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "6722",
+     "tipo": "tren de viajeros de cercanías",
+     "operador": "FEVE",
+     "danos": "Rotura de la mangueta izquierda del tercer eje (1º del 2º bogie) del coche remolque 3806. Descarrilamiento durante operaciones de acople con tren de socorro."
+    },
+    {
+     "numero": null,
+     "tipo": "tren de socorro",
+     "operador": "FEVE",
+     "danos": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "de viajeros 6722, de la empresa ferroviaria FEVE, en el P.K. 527+485 del tramo Santander-Llanes,",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Coche motor 6806, remolque intermedio 6856, coche remolque con cabina 3806 (serie 3800). Cada coche con 2 bogies de 2 ejes.",
+    "averia": "Rotura de la sección completa de la mangueta de un eje del vehículo 3806. Origen: fisura previa por dos entallas en zona recargada por soldadura. Eje fabricado en 1993, último calado en 2003. En el momento de la rotura el eje estaba unido por solo 1/3 de su superficie (2/3 con estado de oxidación indicando fisura de tiempo).",
+    "mantenimiento": "Última intervención R4 (120.000 km/1 año) realizada entre 24/11/2008 y 26/11/2008, con comprobación visual de ausencia de fisuras y deformaciones en bogies. Intervenciones R1-R4 con control visual. Verificación por ultrasonidos y partículas magnéticas en el calado de 2003. No se dispone de datos de calados/decalados anteriores. Falta de trazabilidad de ejes recuperados."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático con control de tráfico centralizado (CTC). Sistema antibloqueo de rueda activado durante la frenada.",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "Alineación recta y nivelación longitudinal horizontal. Sin deficiencias constatadas en instalaciones técnicas.",
+    "otro": "Comunicaciones: radio y GSM. No fue necesario activar plan de emergencia."
+   },
+   "pagina": 5,
+   "cita": "El trayecto es de vía doble electrificada con bloqueo automático y control de tráfico centralizado. El",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático con control de tráfico centralizado (CTC). Sistema antibloqueo de rueda activado durante la frenada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Rotura de la mangueta izquierda del tercer eje del vehículo 3806. Descarrilamiento durante operaciones de acople con tren de socorro. Unidad llevada al taller de Santander con dyploris.",
+    "afectacion_servicio": "Vía par interceptada durante 6 horas y 16 minutos. 1 tren de cercanías suprimido parcialmente, 9 totalmente. 13 trenes de cercanías con retraso total de 122 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Rotura de la mangueta izquierda del tercer eje del vehículo 3806. Descarrilamiento durante operaciones de acople con tren de socorro. Unidad llevada al taller de Santander con dyploris.",
+    "afectacion_servicio": "Vía par interceptada durante 6 horas y 16 minutos. 1 tren de cercanías suprimido parcialmente, 9 totalmente. 13 trenes de cercanías con retraso total de 122 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Rotura de la mangueta izquierda del tercer eje del vehículo 3806. Descarrilamiento durante operaciones de acople con tren de socorro. Unidad llevada al taller de Santander con dyploris.",
+    "afectacion_servicio": "Vía par interceptada durante 6 horas y 16 minutos. 1 tren de cercanías suprimido parcialmente, 9 totalmente. 13 trenes de cercanías con retraso total de 122 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Coche motor 6806, remolque intermedio 6856, coche remolque con cabina 3806 (serie 3800). Cada coche con 2 bogies de 2 ejes.",
+    "averia": "Rotura de la sección completa de la mangueta de un eje del vehículo 3806. Origen: fisura previa por dos entallas en zona recargada por soldadura. Eje fabricado en 1993, último calado en 2003. En el momento de la rotura el eje estaba unido por solo 1/3 de su superficie (2/3 con estado de oxidación indicando fisura de tiempo).",
+    "mantenimiento": "Última intervención R4 (120.000 km/1 año) realizada entre 24/11/2008 y 26/11/2008, con comprobación visual de ausencia de fisuras y deformaciones en bogies. Intervenciones R1-R4 con control visual. Verificación por ultrasonidos y partículas magnéticas en el calado de 2003. No se dispone de datos de calados/decalados anteriores. Falta de trazabilidad de ejes recuperados."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático con control de tráfico centralizado (CTC). Sistema antibloqueo de rueda activado durante la frenada.",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "Alineación recta y nivelación longitudinal horizontal. Sin deficiencias constatadas en instalaciones técnicas.",
+    "otro": "Comunicaciones: radio y GSM. No fue necesario activar plan de emergencia."
+   },
+   "pagina": 5,
+   "cita": "El trayecto es de vía doble electrificada con bloqueo automático y control de tráfico centralizado. El",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Cantabria",
+    "municipio": null,
+    "estacion": "Apeadero de Cazoña"
+   },
+   "pagina": 3,
+   "cita": "coincidente con el andén de la vía par del apeadero de Cazoña (Cantabria). No se produjeron daños",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático con control de tráfico centralizado (CTC). Sistema antibloqueo de rueda activado durante la frenada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático con control de tráfico centralizado (CTC). Sistema antibloqueo de rueda activado durante la frenada.",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "Alineación recta y nivelación longitudinal horizontal. Sin deficiencias constatadas en instalaciones técnicas.",
+    "otro": "Comunicaciones: radio y GSM. No fue necesario activar plan de emergencia."
+   },
+   "pagina": 5,
+   "cita": "El trayecto es de vía doble electrificada con bloqueo automático y control de tráfico centralizado. El",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Coche motor 6806, remolque intermedio 6856, coche remolque con cabina 3806 (serie 3800). Cada coche con 2 bogies de 2 ejes.",
+    "averia": "Rotura de la sección completa de la mangueta de un eje del vehículo 3806. Origen: fisura previa por dos entallas en zona recargada por soldadura. Eje fabricado en 1993, último calado en 2003. En el momento de la rotura el eje estaba unido por solo 1/3 de su superficie (2/3 con estado de oxidación indicando fisura de tiempo).",
+    "mantenimiento": "Última intervención R4 (120.000 km/1 año) realizada entre 24/11/2008 y 26/11/2008, con comprobación visual de ausencia de fisuras y deformaciones en bogies. Intervenciones R1-R4 con control visual. Verificación por ultrasonidos y partículas magnéticas en el calado de 2003. No se dispone de datos de calados/decalados anteriores. Falta de trazabilidad de ejes recuperados."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Entallas en proceso de calado",
+    "Recarga por soldadura no trazable",
+    "Fisura previa no detectada"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "Jornada laboral del maquinista del tren 6722: \n- el día 24: 1 hora y 20 minutos (conducción efectiva: 5 minutos) \n- el día 23: 6 horas (conducción efectiva: 3 horas y 30 minutos)  \n- el día 22: 6 horas (conducción efectiva: 0 horas y 0 minutos)",
+   "pagina": 10,
+   "cita": "3.5. INTERFAZ HOMBRE-MAQUÍNA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Jornada laboral del maquinista del tren 6722: \n- el día 24: 1 hora y 20 minutos (conducción efectiva: 5 minutos) \n- el día 23: 6 horas (conducción efectiva: 3 horas y 30 minutos)  \n- el día 22: 6 horas (conducción efectiva: 0 horas y 0 minutos)",
+   "pagina": 10,
+   "cita": "3.5. INTERFAZ HOMBRE-MAQUÍNA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros 6722 de FEVE, procedente de Santander con destino Puente de San Miguel, circulaba con normalidad. Al aplicar el freno para efectuar parada comercial en el apeadero de Cazoña, se activó la señal del sistema antibloqueo de rueda, pero el tren se detuvo correctamente. Al intentar reanudar la marcha, el maquinista advirtió que algún bogie permanecía frenado pese a aplicar tracción. Tras notificar al CTC y revisar la unidad sin apreciar anomalías, solicitó socorro. El tren de socorro acopló las unidades y realizó dos pruebas satisfactorias, pero el jefe de maquinistas detectó la rotura completa de la mangueta de la tercera rueda izquierda del vehículo 3806, último de la composición. Marcas en rueda y traviesas indican que la rueda se soltó del eje antes de llegar a Cazoña sin descarrilar; el descarrilamiento se produjo durante las operaciones de acople con el tren de socorro.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar en el apeadero de Cazoña (Santander), el día 24 de septiembre de 2009, a \nlas 13:50 horas. \nEl tren de viajeros 6722 circula con normalidad y cuando el maquinista está aplicando freno, para \nefectuar parada comercial en el apeadero de Cazoña (Santander), se activa la señal del sistema \nantibloqueo de rueda y el proceso de detención del tren, en el lugar adecuado, se produce sin \nnovedad. \nCuando el maquinista intenta reanudar la marcha, siendo las 13:50 horas, advierte que algo no va \nbien, puesto que, a pesar de aplicar tracción, algún bogie permanece frenado. \n \nIF-240909-310510-CIAF.doc \n \n \nPág. 10 de 13\n\n## Página 11\n\n \n \n \nInvestigación del incidente \nnº 0050/2009 ocurrido el 24.09.2009 \nSECRETARIA DE ESTADO \nDE TRANSPORTES \n \nSECRETARÍA GENERAL DE \nTRANSPORTES \nA\nMINISTERIO \nDE FOMENTO \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nInforme final \n \n \nIF-240909-310510-CIAF.doc \n \n \nPág. 11 de 13\nEl maquinista notifica al CTC la incidencia producida y realiza la revisión de la unidad, caminando por \nla vía, y actuando en cada uno de los bogies, no apreciando nada anormal. No obstante, la unidad no \npuede reanudar la marcha y decide solicitar socorro. \nEl tren de socorro llega al lugar de los hechos y ambos maquinistas acoplan las unidades y realizan \ndos pruebas de marcha, con resultado satisfactorio. Seguidamente, el maquinista del tren de socorro \n(jefe de maquinistas) detecta la rotura de la sección completa de la mangueta correspondiente a la \ntercera rueda de la izquierda, en el sentido de la marcha, del vehículo motor remolcado 3806, último \nde la composición, de lo que informan al CTC. \nLa unidad siniestrada fue llevada al taller de Santander con el empleo de dyploris.  \nDatos de la grabación de audio aportada por el puesto de mando de Santander: \n- \n13:50:46 horas. Maquinista comunica que se ha quedado frenado el último vehículo.  \n- \n14:06:08 horas. Maquinista solicita tren de socorro. \n- \n14:16:19 horas. CTC a maquinista, informa de la salida de Santander del tren de socorro. \n- \n14:29:03 horas. Maquinista comunica acoplamiento con tren de socorro y prueba de \nmovimiento satisfactoria. \n- \n14:44:32 horas. Jefe de maquinistas informa al CTC del descarrilamiento de la UTE. \n4.2. DELIBERACIÓN \nEl personal de conducción tiene la categoría de maquinista conforme a la normativa de FEVE.  \nNo se tiene conocimiento de fallo en las instalaciones. \nLas intervenciones realizadas son acordes con el plan de mantenimiento en lo referente al \nsubconjunto de los bogies. \nEn la inspección del eje realizada en taller se detectan dos entallas, recargadas mediante soldadura, y \nque coinciden con el inicio de la fisura que produce la rotura de la mangueta del eje. Posiblemente las \nentallas se produjeron en un proceso de calado. \nLa mencionada recarga con soldadura para recuperar ejes es un procedimiento que no se utiliza en la \nactualidad por FEVE. \nLa trazabilidad inadecuada de la información no permite identificar aquellos ejes que en su día fueron \nrecuperados y que pudieran estar operativos actualmente. Tampoco se dispone de datos referentes a \ntodos los calados y decalados realizados en cada uno de los ejes. \n\n## Página 12\n\n \n \n \nInvestigación del incidente \nnº 0050/2009 ocurrido el 24.09.2009 \nSECRETARIA DE ESTADO \nDE TRANSPORTES \n \nSECRETARÍA GENERAL DE \nTRANSPORTES \nA\nMINISTERIO \nDE FOMENTO \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nInforme final \n \n \nIF-240909-310510-CIAF.doc \n \n \nPág. 12 de 13\n4.3. CONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como el informe particular de FEVE, el técnico responsable de la \ninvestigación concluye que: \nEl incidente tuvo su origen en la rotura de la sección completa de la mangueta de un eje, \ncorrespondiente al último coche de la composición del tren. La rotura del eje pudo ser ocasionada por \nuna fisura previa cuyo origen se encuentra en dos entallas, posiblemente producidas en un proceso de \ncalado.",
+   "pagina": 10,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Rotura de la sección completa de la mangueta de un eje del vehículo 3806, por insuficiente capacidad de la sección motivada por la progresión de una fisura previa.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Dos entallas localizadas en una zona del eje recargada mediante soldadura, posiblemente producidas en un proceso de calado, que originaron la fisura.",
+    "Utilización de un procedimiento de trabajo inadecuado durante el montaje del eje: recargue mediante soldadura, operación prohibida desde hacía 5 años en todos los talleres de FEVE.",
+    "Ausencia de trazabilidad suficiente en la información de los talleres para identificar ejes recuperados que pudieran estar operativos.",
+    "Mantenimiento preventivo con inspección exclusivamente visual de los bogies, sin detección de fisuras internas.",
+    "Indicios de que el problema no era un caso aislado: estimación de hasta un 15% de ejes recuperados en el parque."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como el informe particular de FEVE, el técnico responsable de la \ninvestigación concluye que: \nEl incidente tuvo su origen en la rotura de la sección completa de la mangueta de un eje, \ncorrespondiente al último coche de la composición del tren. La rotura del eje pudo ser ocasionada por \nuna fisura previa cuyo origen se encuentra en dos entallas, posiblemente producidas en un proceso de \ncalado.",
+   "pagina": 12,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como el informe particular de FEVE, el técnico responsable d",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las \ndeclaraciones de los implicados, así como el informe particular de FEVE, el técnico responsable de la \ninvestigación concluye que: \nEl incidente tuvo su origen en la rotura de la sección completa de la mangueta de un eje, \ncorrespondiente al último coche de la composición del tren. La rotura del eje pudo ser ocasionada por \nuna fisura previa cuyo origen se encuentra en dos entallas, posiblemente producidas en un proceso de \ncalado.",
+   "pagina": 12,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como el informe particular de FEVE, el técnico responsable d",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "En su informe particular, FEVE indica que la Dirección de División de Operaciones, a través de la \nDirección de Gerencia de Talleres, dispuso un plan de actuación consistente en llevar a cabo una serie \nde comprobaciones y estudios: \n1. Verificación inmediata mediante ultrasonidos de los ejes de la serie 3800 a la que \npertenecía la unidad afectada por el incidente. \n2. Extensión de la verificación por ultrasonidos a los ejes de la serie 3500 y la serie \ntrasformada 3300. \n3. Implantación de la verificación periódica mediante ultrasonidos de los ejes de todas las \nseries de material, incorporándolo como parte integrante de las consistencias de los planes \nde mantenimiento preventivo. La periodicidad se adecuará a las características de cada \nserie. \n4. Análisis del estado de la rodadura de todo el parque de viajeros de FEVE, priorizando \naquellos ejes que tengan una menor vida útil por delante, por haber estado sometidos a \nun número mayor de ciclos de carga y, por tanto, a mayor fatiga. \n5. Estudio de otras metodologías de calado diferentes a la actual de FEVE que se realiza por \npresión, con análisis de su viabilidad técnica y económica. \nEl estado de cada una de las actuaciones anteriores es el siguiente:",
+   "pagina": 12,
+   "cita": "5. MEDIDAS ADOPTADAS POR FEVE",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "En su informe particular, FEVE indica que la Dirección de División de Operaciones, a través de la \nDirección de Gerencia de Talleres, dispuso un plan de actuación consistente en llevar a cabo una serie \nde comprobaciones y estudios: \n1. Verificación inmediata mediante ultrasonidos de los ejes de la serie 3800 a la que \npertenecía la unidad afectada por el incidente. \n2. Extensión de la verificación por ultrasonidos a los ejes de la serie 3500 y la serie \ntrasformada 3300. \n3. Implantación de la verificación periódica mediante ultrasonidos de los ejes de todas las \nseries de material, incorporándolo como parte integrante de las consistencias de los planes \nde mantenimiento preventivo. La periodicidad se adecuará a las características de cada \nserie. \n4. Análisis del estado de la rodadura de todo el parque de viajeros de FEVE, priorizando \naquellos ejes que tengan una menor vida útil por delante, por haber estado sometidos a \nun número mayor de ciclos de carga y, por tanto, a mayor fatiga. \n5. Estudio de otras metodologías de calado diferentes a la actual de FEVE que se realiza por \npresión, con análisis de su viabilidad técnica y económica. \nEl estado de cada una de las actuaciones anteriores es el siguiente:",
+   "pagina": 12,
+   "cita": "5. MEDIDAS ADOPTADAS POR FEVE",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Establecer un sistema para asegurar la adecuada trazabilidad de las operaciones realizadas a los ejes.",
+    "Incluir, en el tipo de intervención que sea más factible de los establecidos en el plan de mantenimiento de cada una de las series de material, una inspección por ultrasonidos que permita la localización de fisuras. Seguimiento de resultados.",
+    "Establecer unas Instrucciones de Control de calidad en los procesos de calado de los ejes."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendaciones |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "FEVE",
+    "FEVE",
+    "FEVE"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendaciones |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "13:50",
+     "evento": "Rotura de la mangueta del eje del tren 6722 durante la frenada para parada comercial en el apeadero de Cazoña. Activación de la señal antibloqueo de rueda."
+    },
+    {
+     "hora": "13:50",
+     "evento": "Maquinista intenta reanudar la marcha y advierte que un bogie permanece frenado."
+    },
+    {
+     "hora": "13:50:46",
+     "evento": "Maquinista comunica al puesto de mando de Santander que se ha quedado frenado el último vehículo."
+    },
+    {
+     "hora": "14:06:08",
+     "evento": "Maquinista solicita tren de socorro tras revisar la unidad sin detectar anomalías."
+    },
+    {
+     "hora": "14:16:19",
+     "evento": "CTC informa al maquinista de la salida del tren de socorro desde Santander."
+    },
+    {
+     "hora": "14:29:03",
+     "evento": "Maquinista comunica acoplamiento con tren de socorro y prueba de movimiento satisfactoria."
+    },
+    {
+     "hora": "14:44:32",
+     "evento": "Jefe de maquinistas informa al CTC del descarrilamiento de la UTE durante las operaciones de acople."
+    },
+    {
+     "hora": "20:12",
+     "evento": "El inspector general de FEVE comunica a la CIAF la rotura de un eje en el apeadero de Cazoña."
+    },
+    {
+     "hora": null,
+     "evento": "27 de octubre de 2009: la CIAF resuelve en pleno abrir la investigación."
+    },
+    {
+     "hora": null,
+     "evento": "31 de mayo de 2010: fecha del informe final."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0050/2009",
+ "expediente": "0050/09",
+ "anio": 2009,
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0050/2009 OCURRIDO EL DÍA 24.09.2009 EN EL APEADERO DE CAZOÑA (CANTABRIA)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-240909-310510-CIAF.md"
+}

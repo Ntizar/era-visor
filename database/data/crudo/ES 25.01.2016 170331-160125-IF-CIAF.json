@@ -1,0 +1,941 @@
+{
+ "id": "ES 25.01.2016 170331-160125-IF-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/170331-160125-if-ciaf.pdf",
+ "pdf": "pdfs/ES/ES 25.01.2016 170331-160125-IF-CIAF.pdf",
+ "md5_pdf": "0fb7f5ce502a5f1b5975338b1f27030a",
+ "paginas_md": 30,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 16,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0004/2016",
+   "pagina": 1,
+   "cita": "nº 0004/2016 ocurrido el 25.01.2016",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 25 de enero de 2016 a las 23:29 horas, el tren de mantenimiento de infraestructura EM485, formado por una perfiladora de Acciona y una bateadora de Ferrovial, rebasó indebidamente las señales de entrada E1 y de retroceso R1, ambas en indicación de parada, en la estación de Elx Parc (línea 336 El Reguerón–Alacant Terminal, Alicante). Se produjo un conato de colisión por alcance con el tren de viajeros 10171 de Renfe Viajeros, estacionado en la vía 1. No se registraron víctimas ni daños materiales. La causa fue un fallo humano del personal de conducción por falta de atención. Adif aplicó el procedimiento de suspensión y recuperación de habilitaciones, y la CIAF no formuló recomendaciones adicionales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2016-01-25",
+    "hora": "23:29",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Elx Parc",
+     "pk": "20+094 (señal E1) / 20+346 (señal R1) / 20+596 (centro estación)",
+     "linea": "336 El Reguerón – Alacant Terminal",
+     "provincia": "Alicante",
+     "descripcion_lugar": "Estación de Elx Parc, tramo vía única en túnel sin electrificar, ancho ibérico. Señales situadas en el lado derecho adosadas a la pared del túnel. Puesto de Mando de Valencia (CTC). Municipio: Elx."
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 25 de enero de 2016 a las 23:29 horas, en la estación de Elx Parc (Alicante) perteneciente a la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "El tren EM485 fue suprimido en Elx Parc y devuelto a su base en Elx Mercaderies. No se produjo interceptación parcial ni total de la vía. El tren 10171 prosiguió su marcha sin incidencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del personal de conducción del tren EM485 por falta de atención, dando lugar al rebase indebido de la señal de entrada E1 y de la señal de retroceso R1, ambas en indicación de parada, y al consecuente incumplimiento reglamentario (arts. 213, 217.1, 305.2 y 529 del RGC).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Posible confusión de las luces del interior del túnel con las señales de cola del tren Talgo estacionado en vía general 1 de Elx Parc (mencionado en declaraciones)",
+    "Ausencia de equipo ASFA en la perfiladora y la bateadora (tren tipo T80 sin protección automática contra SPAD)",
+    "El maquinista en funciones (agente de infraestructura) no recibió el telefonema del CTC ni el boletín de circulación y frenado; estos fueron transmitidos al OMI de la perfiladora",
+    "El maquinista en funciones desconocía que era él quien ejercía la función de maquinista responsable de la dirección de la marcha",
+    "El OMI no vio la señal de entrada E1 en parada; se percató de la R1 solo ~50 m antes",
+    "Velocidad media de 47 km/h tras el rebase de E1 (recorrido 252 m en 19 s), insuficiente para detenerse ante R1"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ninguna causa subyacente relacionada con cualificaciones del personal o mantenimiento del material rodante/infraestructura identificada por la CIAF",
+    "Ninguna causa relacionada con el marco normativo o la aplicación del sistema de gestión de la seguridad identificada por la CIAF"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Por parte de Adif \nTras el incidente tanto el maquinista Título A como el agente OMI fueron relevados del servicio, \nsiéndoles aplicadas las acciones previstas en el Procedimiento de Suspensión, Revocación y \nRecuperación de títulos Habilitantes, de Adif SGSC-PG-11, ya especificadas en el apartado 3.2.6.",
+   "pagina": 30,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "conato de colisión por alcance",
+   "pagina": 5,
+   "cita": "un conato de colisión por alcance con el tren de viajeros 10171 de la empresa ferroviaria  Renfe",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "Adif, consistentes en:",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2016-01-25",
+   "pagina": 5,
+   "cita": "El día 25 de enero de 2016 a las 23:29 horas, en la estación de Elx Parc (Alicante) perteneciente a la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "23:29",
+   "pagina": 5,
+   "cita": "El día 25 de enero de 2016 a las 23:29 horas, en la estación de Elx Parc (Alicante) perteneciente a la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Elx Parc",
+    "pk": "20+094 (señal E1) / 20+346 (señal R1) / 20+596 (centro estación)",
+    "linea": "336 El Reguerón – Alacant Terminal",
+    "provincia": "Alicante",
+    "descripcion_lugar": "Estación de Elx Parc, tramo vía única en túnel sin electrificar, ancho ibérico. Señales situadas en el lado derecho adosadas a la pared del túnel. Puesto de Mando de Valencia (CTC). Municipio: Elx."
+   },
+   "pagina": 5,
+   "cita": "Viajeros, que se encontraba estacionado en la vía 1 de la estación.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "336 El Reguerón a Alacant Terminal",
+   "pagina": 5,
+   "cita": "línea 336 El Reguerón a Alacant Terminal, el tren de mantenimiento de infraestructura EM485 formado",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Perfiladora: PLASSER PDB-100, UIC 99713010305-1 (Acciona). Bateadora: PLASSER UNIMAT 08-16 4S/32, UIC 99713034502-5 (Ferrovial). Tren 10171: locomotora UIC 95710334014-8 + 9 vehículos.",
+    "averia": "No se produjeron daños en material rodante. Ninguna anomalía en equipos o dispositivos de seguridad. Ambos trenes circulaban en condiciones normales.",
+    "mantenimiento": "Ambas máquinas de vía autorizadas para circular según archivo patrón de Adif. Perfiladora: dispone de dispositivo de vigilancia; NO dispone de Tren Tierra, equipo ASFA ni registrador de seguridad. Bateadora: dispone de dispositivo de vigilancia y Tren Tierra; NO dispone de equipo ASFA ni registrador de seguridad. Perfiladora no dispone de radiotelefonía (comunicación por móvil, sin cobertura en túnel)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 25 de enero de 2016, el tren de viajeros 10171 de Renfe Viajeros (procedente de Barcelona Sants, destino Murcia del Carmen) y el tren de mantenimiento de infraestructura EM485 (formado por la perfiladora PLASSER PDB-100 de Acciona y la bateadora PLASSER UNIMAT 08-16 4S/32 de Ferrovial, procedente de Elx Mercaderies, destino El Reguerón) circulaban en el mismo sentido por vía única hacia la estación de Elx Parc por el lado Alicante. El tren 10171 se detuvo a las 23:25:36 en la vía 1 para parada comercial. A esa hora, el EM485 se aproximaba a la señal avanzada E'1 en anuncio de parada, con las señales E1 y R1 en indicación de parada. A las 23:28:24 el 10171 reanudó la marcha y, 11 segundos después, el EM485 —que no dispone de sistema ASFA— rebasó la señal de entrada E1 (PK 20+094) en parada, produciéndose el conato de colisión por alcance. El EM485 continuó 252 metros en 19 segundos (velocidad media 47 km/h) hasta que el operador de maquinaria aplicó freno de servicio al percatarse de la señal R1 en parada, sin poder evitar su rebase a las 23:28:56. El tren 10171 pasó la señal de salida S1/1 a las 23:28:57 y prosiguió sin incidente. El EM485 retrocedió hasta situarse delante de R1 y fue comunicado al CTC a las 23:39:35.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Elx Parc",
+    "pk": "20+094 (señal E1) / 20+346 (señal R1) / 20+596 (centro estación)",
+    "linea": "336 El Reguerón – Alacant Terminal",
+    "provincia": "Alicante",
+    "descripcion_lugar": "Estación de Elx Parc, tramo vía única en túnel sin electrificar, ancho ibérico. Señales situadas en el lado derecho adosadas a la pared del túnel. Puesto de Mando de Valencia (CTC). Municipio: Elx."
+   },
+   "pagina": 5,
+   "cita": "Viajeros, que se encontraba estacionado en la vía 1 de la estación.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "El tren EM485 fue suprimido en Elx Parc y devuelto a su base en Elx Mercaderies. No se produjo interceptación parcial ni total de la vía. El tren 10171 prosiguió su marcha sin incidencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Por parte de Adif \nTras el incidente tanto el maquinista Título A como el agente OMI fueron relevados del servicio, \nsiéndoles aplicadas las acciones previstas en el Procedimiento de Suspensión, Revocación y \nRecuperación de títulos Habilitantes, de Adif SGSC-PG-11, ya especificadas en el apartado 3.2.6.",
+   "pagina": 30,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Agente de infraestructura de Adif en funciones de maquinista, con Título de Conducción A (otorgado 08/06/2015) y habilitación de infraestructura (12/06/2013). Categoría: Ayudante Ferroviario, residencia Distrito Alacant T. Último reciclaje 02/10/14, último reconocimiento 17/09/15.",
+     "implicacion": "Responsable de la dirección de la marcha del tren EM485. No recibió el telefonema del CTC (art. 305.2 RGC), no exigió el boletín de circulación y frenado (art. 529 RGC), no se puso en condiciones de detenerse ante la siguiente señal (art. 213 RGC) y no se detuvo ante señal en parada (art. 217.1 RGC). Falta de atención. Habilitación suspendida 29/01/2016, recuperada 14/04/2016 tras formación de 32 h."
+    },
+    {
+     "rol": "Conductor de la perfiladora (Operador de Maquinaria de Infraestructura - OMI) de Acciona, habilitación conforme Orden FOM/2872/2010 Título III (en vigor hasta 21/04/18). Último reciclaje 21/04/15, último reconocimiento 23/10/14.",
+     "implicacion": "Ejercía materialmente la conducción de la perfiladora. Recibió el telefonema del CTC en lugar del maquinista. No vio la señal E1 en parada. Aplicó freno de servicio al ver la R1 en parada (~50 m antes), sin poder evitar el rebase. Habilitación suspendida 28/01/2016, recuperada 08/06/2016 tras formación de 21 h."
+    },
+    {
+     "rol": "Jefe del CTC (Puesto de Mando de Valencia)",
+     "implicacion": "Transmitió el telefonema al OMI en lugar del maquinista responsable. No facilitó el boletín de circulación y frenado al maquinista (observación adicional, art. 529 RGC)."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "EM485",
+     "tipo": "Tren de mantenimiento de infraestructura, Tipo T80 (velocidad máxima 80 km/h), tracción múltiple de dos máquinas de vía. 137 toneladas, 8 ejes, 44 metros. Sin ASFA ni registrador de seguridad.",
+     "operador": "Adif (maquinista en funciones) / Acciona Infraestructuras (perfiladora) / Ferrovial Agroman (bateadora)",
+     "danos": "No se producen daños"
+    },
+    {
+     "numero": "10171",
+     "tipo": "Tren de viajeros, 9 vehículos, 155 toneladas, 116 metros, locomotora UIC 95710334014-8. Procedente de Barcelona Sants, destino Murcia del Carmen.",
+     "operador": "Renfe Viajeros",
+     "danos": "No se producen daños"
+    }
+   ],
+   "pagina": 5,
+   "cita": "línea 336 El Reguerón a Alacant Terminal, el tren de mantenimiento de infraestructura EM485 formado",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Perfiladora: PLASSER PDB-100, UIC 99713010305-1 (Acciona). Bateadora: PLASSER UNIMAT 08-16 4S/32, UIC 99713034502-5 (Ferrovial). Tren 10171: locomotora UIC 95710334014-8 + 9 vehículos.",
+    "averia": "No se produjeron daños en material rodante. Ninguna anomalía en equipos o dispositivos de seguridad. Ambos trenes circulaban en condiciones normales.",
+    "mantenimiento": "Ambas máquinas de vía autorizadas para circular según archivo patrón de Adif. Perfiladora: dispone de dispositivo de vigilancia; NO dispone de Tren Tierra, equipo ASFA ni registrador de seguridad. Bateadora: dispone de dispositivo de vigilancia y Tren Tierra; NO dispone de equipo ASFA ni registrador de seguridad. Perfiladora no dispone de radiotelefonía (comunicación por móvil, sin cobertura en túnel)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Adif",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E1 (PK 20+094): alta, tres focos (parada, anuncio de parada, vía libre), baliza previa y de pie, foco blanco de rebase autorizado, teléfono. Señal de retroceso R1 (PK 20+346): baja, cuatro focos (parada, rebase autorizado, indicadora de entrada), sin balizas ASFA. Señal avanzada E'1 (PK 18+498). Señal de salida S1/1 (PK 20+849). Todas las señales luminosas normalmente encendidas. Visibilidad comprobada el 07/10/2016: E1 a 550 m, R1 a 700 m.",
+    "tipo_via": "Vía única en túnel, sin electrificar, ancho ibérico. Bloqueo automático (BAU), CTC desde Puesto de Mando de Valencia. Enclavamiento electrónico (modo remoto en el momento del suceso). Estación de dos vías. Tramo S. Isidro-Albater – Sant Gabriel. Trazado: alineación recta, pendiente 6 milésimas (800 m), horizontal (200 m), rampa 5 milésimas (300 m), horizontal (1200 m hasta estación).",
+    "velocidad_maxima": "140 km/h por vía general (sin limitación temporal o permanente en el tramo). Tren EM485 tipo T80: 80 km/h.",
+    "ancho": "Ibérico (1668 mm)",
+    "electrificacion": "Sin electrificar",
+    "estado_via": "Funcionamiento correcto. No existían obras en el lugar ni en las inmediaciones. Las instalaciones técnicas funcionaron correctamente.",
+    "otro": "Radiotelefonía analógica y telefonía móvil GSM. Dentro del túnel no hay cobertura de móvil. Media semanal de circulaciones del tramo: 327 (42 LD, 27 MD, 257 cercanías, 1 servicio)."
+   },
+   "pagina": 9,
+   "cita": "Sistemas de comunicación",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de entrada E1 (PK 20+094): alta, tres focos (parada, anuncio de parada, vía libre), baliza previa y de pie, foco blanco de rebase autorizado, teléfono. Señal de retroceso R1 (PK 20+346): baja, cuatro focos (parada, rebase autorizado, indicadora de entrada), sin balizas ASFA. Señal avanzada E'1 (PK 18+498). Señal de salida S1/1 (PK 20+849). Todas las señales luminosas normalmente encendidas. Visibilidad comprobada el 07/10/2016: E1 a 550 m, R1 a 700 m.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "El tren EM485 fue suprimido en Elx Parc y devuelto a su base en Elx Mercaderies. No se produjo interceptación parcial ni total de la vía. El tren 10171 prosiguió su marcha sin incidencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "El tren EM485 fue suprimido en Elx Parc y devuelto a su base en Elx Mercaderies. No se produjo interceptación parcial ni total de la vía. El tren 10171 prosiguió su marcha sin incidencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni en infraestructura.",
+    "afectacion_servicio": "El tren EM485 fue suprimido en Elx Parc y devuelto a su base en Elx Mercaderies. No se produjo interceptación parcial ni total de la vía. El tren 10171 prosiguió su marcha sin incidencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Perfiladora: PLASSER PDB-100, UIC 99713010305-1 (Acciona). Bateadora: PLASSER UNIMAT 08-16 4S/32, UIC 99713034502-5 (Ferrovial). Tren 10171: locomotora UIC 95710334014-8 + 9 vehículos.",
+    "averia": "No se produjeron daños en material rodante. Ninguna anomalía en equipos o dispositivos de seguridad. Ambos trenes circulaban en condiciones normales.",
+    "mantenimiento": "Ambas máquinas de vía autorizadas para circular según archivo patrón de Adif. Perfiladora: dispone de dispositivo de vigilancia; NO dispone de Tren Tierra, equipo ASFA ni registrador de seguridad. Bateadora: dispone de dispositivo de vigilancia y Tren Tierra; NO dispone de equipo ASFA ni registrador de seguridad. Perfiladora no dispone de radiotelefonía (comunicación por móvil, sin cobertura en túnel)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E1 (PK 20+094): alta, tres focos (parada, anuncio de parada, vía libre), baliza previa y de pie, foco blanco de rebase autorizado, teléfono. Señal de retroceso R1 (PK 20+346): baja, cuatro focos (parada, rebase autorizado, indicadora de entrada), sin balizas ASFA. Señal avanzada E'1 (PK 18+498). Señal de salida S1/1 (PK 20+849). Todas las señales luminosas normalmente encendidas. Visibilidad comprobada el 07/10/2016: E1 a 550 m, R1 a 700 m.",
+    "tipo_via": "Vía única en túnel, sin electrificar, ancho ibérico. Bloqueo automático (BAU), CTC desde Puesto de Mando de Valencia. Enclavamiento electrónico (modo remoto en el momento del suceso). Estación de dos vías. Tramo S. Isidro-Albater – Sant Gabriel. Trazado: alineación recta, pendiente 6 milésimas (800 m), horizontal (200 m), rampa 5 milésimas (300 m), horizontal (1200 m hasta estación).",
+    "velocidad_maxima": "140 km/h por vía general (sin limitación temporal o permanente en el tramo). Tren EM485 tipo T80: 80 km/h.",
+    "ancho": "Ibérico (1668 mm)",
+    "electrificacion": "Sin electrificar",
+    "estado_via": "Funcionamiento correcto. No existían obras en el lugar ni en las inmediaciones. Las instalaciones técnicas funcionaron correctamente.",
+    "otro": "Radiotelefonía analógica y telefonía móvil GSM. Dentro del túnel no hay cobertura de móvil. Media semanal de circulaciones del tramo: 327 (42 LD, 27 MD, 257 cercanías, 1 servicio)."
+   },
+   "pagina": 9,
+   "cita": "Sistemas de comunicación",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Nocturno. El túnel estaba iluminado. No se menciona condición meteorológica adversa.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Alicante",
+    "municipio": null,
+    "estacion": "Elx-Parc"
+   },
+   "pagina": 5,
+   "cita": "El día 25 de enero de 2016 a las 23:29 horas, en la estación de Elx Parc (Alicante) perteneciente a la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Nocturno. El túnel estaba iluminado. No se menciona condición meteorológica adversa.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de entrada E1 (PK 20+094): alta, tres focos (parada, anuncio de parada, vía libre), baliza previa y de pie, foco blanco de rebase autorizado, teléfono. Señal de retroceso R1 (PK 20+346): baja, cuatro focos (parada, rebase autorizado, indicadora de entrada), sin balizas ASFA. Señal avanzada E'1 (PK 18+498). Señal de salida S1/1 (PK 20+849). Todas las señales luminosas normalmente encendidas. Visibilidad comprobada el 07/10/2016: E1 a 550 m, R1 a 700 m.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E1 (PK 20+094): alta, tres focos (parada, anuncio de parada, vía libre), baliza previa y de pie, foco blanco de rebase autorizado, teléfono. Señal de retroceso R1 (PK 20+346): baja, cuatro focos (parada, rebase autorizado, indicadora de entrada), sin balizas ASFA. Señal avanzada E'1 (PK 18+498). Señal de salida S1/1 (PK 20+849). Todas las señales luminosas normalmente encendidas. Visibilidad comprobada el 07/10/2016: E1 a 550 m, R1 a 700 m.",
+    "tipo_via": "Vía única en túnel, sin electrificar, ancho ibérico. Bloqueo automático (BAU), CTC desde Puesto de Mando de Valencia. Enclavamiento electrónico (modo remoto en el momento del suceso). Estación de dos vías. Tramo S. Isidro-Albater – Sant Gabriel. Trazado: alineación recta, pendiente 6 milésimas (800 m), horizontal (200 m), rampa 5 milésimas (300 m), horizontal (1200 m hasta estación).",
+    "velocidad_maxima": "140 km/h por vía general (sin limitación temporal o permanente en el tramo). Tren EM485 tipo T80: 80 km/h.",
+    "ancho": "Ibérico (1668 mm)",
+    "electrificacion": "Sin electrificar",
+    "estado_via": "Funcionamiento correcto. No existían obras en el lugar ni en las inmediaciones. Las instalaciones técnicas funcionaron correctamente.",
+    "otro": "Radiotelefonía analógica y telefonía móvil GSM. Dentro del túnel no hay cobertura de móvil. Media semanal de circulaciones del tramo: 327 (42 LD, 27 MD, 257 cercanías, 1 servicio)."
+   },
+   "pagina": 9,
+   "cita": "Sistemas de comunicación",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Perfiladora: PLASSER PDB-100, UIC 99713010305-1 (Acciona). Bateadora: PLASSER UNIMAT 08-16 4S/32, UIC 99713034502-5 (Ferrovial). Tren 10171: locomotora UIC 95710334014-8 + 9 vehículos.",
+    "averia": "No se produjeron daños en material rodante. Ninguna anomalía en equipos o dispositivos de seguridad. Ambos trenes circulaban en condiciones normales.",
+    "mantenimiento": "Ambas máquinas de vía autorizadas para circular según archivo patrón de Adif. Perfiladora: dispone de dispositivo de vigilancia; NO dispone de Tren Tierra, equipo ASFA ni registrador de seguridad. Bateadora: dispone de dispositivo de vigilancia y Tren Tierra; NO dispone de equipo ASFA ni registrador de seguridad. Perfiladora no dispone de radiotelefonía (comunicación por móvil, sin cobertura en túnel)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": "El tren EM485 se suprime en Elx Parc y posteriormente fue devuelto a su base en Elx Mercaderies.",
+   "pagina": 25,
+   "cita": "3.5.1. Medidas tomadas por el personal de circulación",
+   "origen": "determinista",
+   "regla": "sec:^medidas tomadas por el personal de circulaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "No facilitar boletín de circulación al maquinista",
+    "Telefonema dado al conductor de perfiladora",
+    "Maquinista ignora quién dirige la marcha",
+    "Conductor no ve señal de entrada E1"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 25 de enero de 2016, el tren de viajeros 10171 de Renfe Viajeros (procedente de Barcelona Sants, destino Murcia del Carmen) y el tren de mantenimiento de infraestructura EM485 (formado por la perfiladora PLASSER PDB-100 de Acciona y la bateadora PLASSER UNIMAT 08-16 4S/32 de Ferrovial, procedente de Elx Mercaderies, destino El Reguerón) circulaban en el mismo sentido por vía única hacia la estación de Elx Parc por el lado Alicante. El tren 10171 se detuvo a las 23:25:36 en la vía 1 para parada comercial. A esa hora, el EM485 se aproximaba a la señal avanzada E'1 en anuncio de parada, con las señales E1 y R1 en indicación de parada. A las 23:28:24 el 10171 reanudó la marcha y, 11 segundos después, el EM485 —que no dispone de sistema ASFA— rebasó la señal de entrada E1 (PK 20+094) en parada, produciéndose el conato de colisión por alcance. El EM485 continuó 252 metros en 19 segundos (velocidad media 47 km/h) hasta que el operador de maquinaria aplicó freno de servicio al percatarse de la señal R1 en parada, sin poder evitar su rebase a las 23:28:56. El tren 10171 pasó la señal de salida S1/1 a las 23:28:57 y prosiguió sin incidente. El EM485 retrocedió hasta situarse delante de R1 y fue comunicado al CTC a las 23:39:35.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. \nDESCRIPCIÓN DEFINITIVA DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar el día 25 de enero de 2016 a las \n23:28 horas en la estación de Elx Parc de la línea 336 El \nReguerón – Alacant Terminal, provincia de Alicante. \nEl tren de viajeros  10171 de la empresa ferroviaria Renfe \nViajeros, procedente de Barcelona y destino Murcia del \nCarmen, y  el tren de mantenimiento de infraestructura \nEM485, procedente de Elx-Mercaderies y con destino El \nReguerón, formado por dos máquinas de vía (perfiladora \nde Acciona y bateadora de Ferrovial) en tracción múltiple, \ncirculan en condiciones normales y en el mismo sentido, \npor vía única, hacia la estación de Elx Parc por el lado \nAlicante. \nEl tren 10171, a las 23:24:40 horas,  realiza su paso por la \nbaliza de pie (PK 20+089) de la señal de entrada E1  en \nindicación de vía libre.  \nTras recorrer 586 metros, desde la mencionada baliza, el \ntren 10171  realiza su parada comercial en la vía 1 \n(ocupando el CV1) a las 23:25:36 horas.  A la mencionada \nhora el tren de mantenimiento de infraestructura EM485 \ncircula aproximándose a la señal avanzada E'1 que indica \nanuncio de parada, y con la señal de entrada E1 y \nretroceso R1 en indicación de parada. \nA las 23:28:24 horas el tren 10171 reinicia la marcha y a \nlas 23:28:35 horas sigue en la estación, ocupando el \ncircuito CV1 y tiene establecido itinerario de salida con la \nseñal de salida S1/1 en vía libre. El tren EM485 sigue \navanzando y se encuentra ante las señales  de entrada E1 \n(ocupa CV E´1) y ésta y la R1 siguen en indicación de \nparada. \nA las 23:28:37 horas  el tren 10171 sigue en la estación, \nocupando el circuito CV1 y sigue teniendo establecido \nitinerario de salida con la señal de salida S1/1 en vía libre. \nEl tren EM485 rebasa indebidamente la señal de entrada \nE1 (ocupa CV E1) que sigue en indicación de parada. Se \nproduce conato de colisión por alcance entre los dos \ntrenes. \n\n## Página 28\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0004/2016 ocurrido el 25.01.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n \n170331-160125-IF-CIAF.docx \n \n \nPág. 28 de 30 \nSeguidamente el tren EM 485 continúa su marcha y, cuando se encuentra próximo a la señal R1, el \npersonal de conducción se percata de que dicha señal indica parada  y el conductor de maquinaria \n[operador de maquinaria de infraestructura], aplica freno de servicio, sin poder evitar su rebase, a las \n23:28:56 horas, habiendo recorrido desde la señal E1 252 metros en 19 segundos,  lo que da lugar a \nuna velocidad media de 47 km/h. A la hora mencionada  el tren 10171 sigue ocupando el circuito CV1 y \nel tren EM485 ha ocupado el  CV A1 y continúa ocupando el CV E1. \nA las 23:28:57 horas el tren 10171 realiza su paso por la baliza de pie de la señal de salida S1/1, sigue \nocupando el CV 1 y ocupa el CV A2, y el tren EM485 sigue ocupando los CV E1 y A1. \nA las 23:29:57 horas el tren 10171 ha liberado los CV 1, A2 y E2 y el tren EM485 sigue ocupando los \nCV E1 y A1. \nA las 23:29:58 horas el tren EM485 retrocede y se sitúa delante de la señal R1, ocupando el CV E1 y \nliberando el CV A1. \nA las 23:39:35 horas el  maquinista en funciones, tras buscar un sito con cobertura, comunica lo \nsucedido al jefe del CTC. Ésta le ordena que regrese al tren y son apartados en vía desviada. \n \n4.2. \nDELIBERACIÓN \nEl personal de conducción cumple la normativa vigente en cuanto título, habilitaciones, reciclaje y \nreconocimiento médico y psicotécnico. Asimismo, los días anteriores ambos tuvieron descanso y la  \njornada laboral ese día era de una hora y media, cumpliendo la normativa vigente. \nLos equipos de seguridad del material móvil funcionaron de modo correcto.  \nLa infraestructura funcionó correctamente, presentando la señal de entrada E1 la indicación de  parada \nen todo momento. La moviola confirma que en el momento de producirse el suceso, el tren 10171  \nestaba detenido ante la señal de salida S1/1, en indicación de vía libre, y que el tren EM485 rebasa la \nseñal de entrada E1 y la de retroceso R1, ambas en indicación de parada. La visibilidad  de estas dos  \núltimas es buena, si bien se sitúan en túnel. \nEl maquinista [agente de infraestructura, en funciones de maquinista con título de conducción A] \nconoce la zona de la estación de Elx Parc: pertenece a la plantilla de Adif, ejerce de manera habitual \nlas funciones de conducción por el trayecto del suceso con maquinaria de vía y como personal \nperteneciente a Vías y Obras  también participa en tareas de mantenimiento de la infraestructura en \neste trayecto y en la estación de Elx Parc.  \nDe la declaración realizada por el maquinista [agente de infraestructura, en funciones de maquinista \ncon título de conducción A] y las conversaciones del puesto de mando se destaca que: \n  El maquinista [agente de infraestructura] ignora que quien ejerce la función de maquinista es él \ny permite que el jefe del CTC transmita un telefonema al conductor [operador de maquinaria de \ninfraestructura] de la perfiladora.  \n Conoce el tipo de tren y desconoce el número de tren y la asimilación porque esos datos le \nfueron facilitados al conductor [operador de maquinaria de infraestructura]. \n\n## Página 29\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0004/2016 ocurrido el 25.01.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n \n170331-160125-IF-CIAF.docx \n \n \nPág. 29 de 30 \n En las conversaciones grabadas, y después de expresar que no habían rebasado la R1, manifiesta \nsu sorpresa cuando el técnico de regulación le afirma que la anterior también estaba en parada \n[señal de entrada E1]. \nEn la declaración realizada  por el conductor [operador de maquinaria de infraestructura] manifiesta \nhaber recibido del jefe del CTC los datos del tren, los cuales había anotado en un papel y solo recuerda \nque éste era el EM485, tipo 80 pero no sabe la asimilación. También manifie",
+   "pagina": 27,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del personal de conducción del tren EM485 por falta de atención, dando lugar al rebase indebido de la señal de entrada E1 y de la señal de retroceso R1, ambas en indicación de parada, y al consecuente incumplimiento reglamentario (arts. 213, 217.1, 305.2 y 529 del RGC).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Posible confusión de las luces del interior del túnel con las señales de cola del tren Talgo estacionado en vía general 1 de Elx Parc (mencionado en declaraciones)",
+    "Ausencia de equipo ASFA en la perfiladora y la bateadora (tren tipo T80 sin protección automática contra SPAD)",
+    "El maquinista en funciones (agente de infraestructura) no recibió el telefonema del CTC ni el boletín de circulación y frenado; estos fueron transmitidos al OMI de la perfiladora",
+    "El maquinista en funciones desconocía que era él quien ejercía la función de maquinista responsable de la dirección de la marcha",
+    "El OMI no vio la señal de entrada E1 en parada; se percató de la R1 solo ~50 m antes",
+    "Velocidad media de 47 km/h tras el rebase de E1 (recorrido 252 m en 19 s), insuficiente para detenerse ante R1"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": "El jefe del CTC no facilita el boletín de circulación y frenado al maquinista [agente de infraestructura, \nen funciones de maquinista con título de conducción A] contemplado en el artículo 529 del RGC y el \ntelefonema con los datos del tren contemplado en el artículo  305.2, sino que se lo facilita al conductor \n[operador de maquinaria de infraestructura] de la perfiladora. \nEl maquinista [agente de infraestructura, en funciones de maquinista con título de conducción A], es \nquien tiene la responsabilidad de ejercer la dirección de la marcha del tren EM485, y debe comunicar al \njefe del CTC que no dispone del boletín de circulación y frenado. Él también debía recibir el telefonema \ncon los datos del tren y no el  conductor [operador de maquinaria de infraestructura] de la perfiladora.",
+   "pagina": 30,
+   "cita": "4.3.4. Observaciones adicionales",
+   "origen": "determinista",
+   "regla": "sec:^observaciones adicionales",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Por parte de Adif \nTras el incidente tanto el maquinista Título A como el agente OMI fueron relevados del servicio, \nsiéndoles aplicadas las acciones previstas en el Procedimiento de Suspensión, Revocación y \nRecuperación de títulos Habilitantes, de Adif SGSC-PG-11, ya especificadas en el apartado 3.2.6.",
+   "pagina": 30,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Por parte de Adif \nTras el incidente tanto el maquinista Título A como el agente OMI fueron relevados del servicio, \nsiéndoles aplicadas las acciones previstas en el Procedimiento de Suspensión, Revocación y \nRecuperación de títulos Habilitantes, de Adif SGSC-PG-11, ya especificadas en el apartado 3.2.6.",
+   "pagina": 30,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Por parte de Adif \nTras el incidente tanto el maquinista Título A como el agente OMI fueron relevados del servicio, \nsiéndoles aplicadas las acciones previstas en el Procedimiento de Suspensión, Revocación y \nRecuperación de títulos Habilitantes, de Adif SGSC-PG-11, ya especificadas en el apartado 3.2.6.",
+   "pagina": 30,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "23:14:15",
+     "evento": "El jefe del CTC llama al teléfono móvil del EM485 y transmite telefonema (número de tren, tipo, asimilación) al operador de maquinaria (OMI) de la perfiladora"
+    },
+    {
+     "hora": "23:24:40",
+     "evento": "El tren 10171 pasa por baliza de pie de señal E1 en indicación de vía libre"
+    },
+    {
+     "hora": "23:25:36",
+     "evento": "El tren 10171 realiza parada comercial en vía 1 (CV1 ocupado). El EM485 se aproxima a señal avanzada E'1 en anuncio de parada; E1 y R1 en parada"
+    },
+    {
+     "hora": "23:28:24",
+     "evento": "El tren 10171 reanuda la marcha con itinerario de salida establecido y señal S1/1 en vía libre"
+    },
+    {
+     "hora": "23:28:35",
+     "evento": "El EM485 ocupa circuito CV E'1, ante la señal E1 en parada"
+    },
+    {
+     "hora": "23:28:37",
+     "evento": "El EM485 rebasa indebidamente la señal de entrada E1 (PK 20+094) en indicación de parada. Conato de colisión por alcance con el 10171"
+    },
+    {
+     "hora": "23:28:56",
+     "evento": "El EM485 rebasa la señal de retroceso R1 (PK 20+346) en parada tras recorrer 252 m en 19 s (velocidad media 47 km/h). El operador aplica freno de servicio"
+    },
+    {
+     "hora": "23:28:57",
+     "evento": "El tren 10171 pasa baliza de pie de señal de salida S1/1 (PK 20+849) en vía libre y prosigue"
+    },
+    {
+     "hora": "23:29:57",
+     "evento": "El tren 10171 libera circuitos CV1, CVA2 y CVE2. El EM485 sigue ocupando CVE1 y CVA1"
+    },
+    {
+     "hora": "23:29:58",
+     "evento": "El EM485 retrocede sin autorización hasta situarse delante de la señal R1, liberando CVA1"
+    },
+    {
+     "hora": "23:39:35",
+     "evento": "El maquinista (agente de infraestructura) contacta al jefe del CTC tras buscar cobertura. Le indica que están en la R1"
+    },
+    {
+     "hora": "23:49:45",
+     "evento": "Conversación con técnico de regulación: el maquinista afirma que no rebasaron la R1 y que la E1 estaba en anuncio de parada; el técnico le corrige que E1 estaba en parada"
+    },
+    {
+     "hora": "10:39",
+     "evento": "26/01/2016: Cristóbal Cuesta Maestre (Adif) comunica el suceso a la CIAF por teléfono móvil"
+    },
+    {
+     "hora": null,
+     "evento": "23/02/2016: El Presidente de la CIAF decide abrir la investigación"
+    },
+    {
+     "hora": null,
+     "evento": "31/03/2017: Fecha del informe final"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0004/2016",
+ "expediente": "0004/16",
+ "anio": 2016,
+ "titulo": "Conato de colisión por alcance en la estación de Elx Parc (Alicante) tras rebase de señal en parada",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 25.01.2016 170331-160125-IF-CIAF.md"
+}

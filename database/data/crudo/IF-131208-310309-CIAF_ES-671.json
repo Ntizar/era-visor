@@ -1,0 +1,962 @@
+{
+ "id": "IF-131208-310309-CIAF_ES-671",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/E0D23D8E-4F7A-464E-B023-CA3A4DB82F5E/47002/IF131208310309CIAF.pdf",
+ "pdf": "pdfs/ES/IF-131208-310309-CIAF_ES-671.pdf",
+ "md5_pdf": "34f1d2b8809f8e72c90ae2a48b3b9b0b",
+ "paginas_md": 12,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 5,
+ "n_tablas": 3,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Adif",
+     "Número": "71/08-1",
+     "Recomendación": "Puesto que el proyecto constructivo de supresión de este paso a nivel está en fase de redacción, se recomienda acelerar las actuaciones encaminadas a su supresión"
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 10,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Adif",
+     "Número": "71/08-1",
+     "Recomendación": "Puesto que el proyecto constructivo de supresión de este paso a nivel está en fase de redacción, se recomienda acelerar las actuaciones encaminadas a su supresión"
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 12,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Adif",
+     "Número": "71/08-1",
+     "Recomendación": "Puesto que el proyecto constructivo de supresión de este paso a nivel está en fase de redacción, se recomienda acelerar las actuaciones encaminadas a su supresión"
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0071/2008",
+   "pagina": 1,
+   "cita": "nº 0071/2008 ocurrido el 13.12.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 13 de diciembre de 2008, a las 07:41, el tren de Cercanías 25986 de Renfe Operadora arrolló a un hombre de 83 años en el paso a nivel clase C del PK 48,524 de la estación de Calella. La víctima cruzaba con un perro cuando las semibarreras estaban bajadas y los avisos luminosos y acústicos activados. El impacto causó el fallecimiento en el acto y pequeños daños en el frontis de la UT 463201. La investigación concluye que el origen fue el cruce indebido de la víctima con el paso a nivel cerrado. Se recomienda a Adif acelerar la supresión del paso a nivel.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-12-13",
+    "hora": "07:41",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Calella",
+     "pk": "48,524",
+     "linea": "276 Maçanet-Massanes-Barcelona-Sagrera",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Paso a nivel clase C situado dentro de la estación de Calella, en el tramo Arenys de Mar-Calella, en el casco urbano, en una zona de elevado tránsito peatonal. Protege la intersección de la carretera de Josep Anselm Clavé con la vía general y separa la zona comercial del paseo marítimo."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 13 de diciembre de 2008, a las 7:41 horas, el tren de viajeros de Cercanías 25986, de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Pequeños daños en el frontis de la UT 463201.",
+    "afectacion_servicio": "Interrupción de la circulación entre Calella y San Pol de 07:41 a 09:40. El tren implicado se suprimió y permaneció detenido hasta el levantamiento del cadáver. Se suprimieron 4 trenes de Cercanías y otros 13 sufrieron un retraso total de 180 minutos."
+   },
+   "pagina": 6,
+   "cita": "Se producen pequeños daños en el frontis de la UT 463201 que va en cabeza.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Cruce de la víctima por el paso a nivel cuando estaba cerrado, con las semibarreras bajadas y los sistemas de aviso luminoso y acústico activados.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El paso a nivel se encontraba en el casco urbano, en una zona de elevado tránsito peatonal y muy utilizada por vehículos y peatones.",
+    "La víctima cruzaba acompañada por un perro."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "El proyecto constructivo de supresión del paso a nivel estaba en fase de redacción."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Puesto que el proyecto constructivo de supresión de este paso a nivel está en fase de redacción, se recomienda acelerar las actuaciones encaminadas a su supresión",
+    "Puesto que el proyecto constructivo de supresión de este paso a nivel está en fase de redacción, se recomienda acelerar las actuaciones encaminadas a su supresión",
+    "Puesto que el proyecto constructivo de supresión de este paso a nivel está en fase de redacción, se recomienda acelerar las actuaciones encaminadas a su supresión"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "empresa ferroviaria Renfe Operadora, arrolla a un hombre que cruzaba la vía por el paso nivel clase C",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-12-13",
+   "pagina": 3,
+   "cita": "El día 13 de diciembre de 2008, a las 7:41 horas, el tren de viajeros de Cercanías 25986, de la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "07:41",
+   "pagina": 3,
+   "cita": "13.12.08/ 07:41 Lugar: Paso a nivel clase C, PK 48,542, estación de Calella Línea: 276 Maçanet-Massanes-Barcelona-Sagrera Tramo: Arenys de Mar-Calella Provincia: Barcelona El tren de cercanías 25986 de Renfe",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Calella",
+    "pk": "48,524",
+    "linea": "276 Maçanet-Massanes-Barcelona-Sagrera",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Paso a nivel clase C situado dentro de la estación de Calella, en el tramo Arenys de Mar-Calella, en el casco urbano, en una zona de elevado tránsito peatonal. Protege la intersección de la carretera de Josep Anselm Clavé con la vía general y separa la zona comercial del paseo marítimo."
+   },
+   "pagina": 6,
+   "cita": "La circulación de trenes queda interrumpida entre las estaciones de Calella y San Pol desde las",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "276 Maçanet-Massanes-Barcelona-Sagrera",
+   "pagina": 3,
+   "cita": "276 Maçanet-Massanes-Barcelona-Sagrera",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tren de Cercanías 25986 compuesto por UT 463201 en cabeza y UT 462210 en cola; 5 vehículos; masa remolcada 267 toneladas; Nº UIC 967194632014.",
+    "averia": "No se indica avería previa; el material rodante funcionaba correctamente. Se produjeron pequeños daños en el frontis de la UT 463201.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 13 de diciembre de 2008, a las 07:41, el tren de Cercanías 25986 de Renfe Operadora, al efectuar su salida por la vía 1 de la estación de Calella después de una parada comercial, arrolló a un peatón que cruzaba el paso a nivel clase C situado en el PK 48,524 de la estación. La víctima, un hombre de 83 años acompañado por un perro, cruzaba de izquierda a derecha en el sentido de la marcha del tren e invadió la vía cuando las semibarreras estaban bajadas y los sistemas de aviso luminoso y acústico estaban activados.\n\nEl maquinista principal del tren, matrícula 9712100, hizo uso del silbato y accionó el freno de emergencia, pero no pudo evitar el arrollamiento. En el momento de accionar la emergencia, el tren circulaba a 55 km/h, por debajo de la velocidad máxima permitida de 120 km/h a la salida de la estación. Como consecuencia del impacto, la víctima falleció en el acto y se produjeron pequeños daños en el frontis de la UT 463201, que iba en cabeza.\n\nEl análisis del enclavamiento, la moviola del CTC y los registros del paso a nivel y del tren constató que las semibarreras estaban bajadas y que las señales luminosas y acústicas funcionaban correctamente. La circulación quedó interrumpida entre Calella y San Pol desde las 07:41 hasta las 09:40; se suprimieron 4 trenes de Cercanías y otros 13 acumularon un retraso total de 180 minutos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Calella",
+    "pk": "48,524",
+    "linea": "276 Maçanet-Massanes-Barcelona-Sagrera",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Paso a nivel clase C situado dentro de la estación de Calella, en el tramo Arenys de Mar-Calella, en el casco urbano, en una zona de elevado tránsito peatonal. Protege la intersección de la carretera de Josep Anselm Clavé con la vía general y separa la zona comercial del paseo marítimo."
+   },
+   "pagina": 6,
+   "cita": "La circulación de trenes queda interrumpida entre las estaciones de Calella y San Pol desde las",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Pequeños daños en el frontis de la UT 463201.",
+    "afectacion_servicio": "Interrupción de la circulación entre Calella y San Pol de 07:41 a 09:40. El tren implicado se suprimió y permaneció detenido hasta el levantamiento del cadáver. Se suprimieron 4 trenes de Cercanías y otros 13 sufrieron un retraso total de 180 minutos."
+   },
+   "pagina": 6,
+   "cita": "Se producen pequeños daños en el frontis de la UT 463201 que va en cabeza.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 25986",
+     "implicacion": "Matrícula 9712100. Usó el silbato y accionó el freno de emergencia sin poder evitar el arrollamiento. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Jornada de conducción el día del accidente: 0 horas y 43 minutos; 24 horas anteriores: 3 horas y 35 minutos; 48 horas anteriores: 5 horas y 08 minutos. Poseía título de conducción y habilitación conforme a la Orden Ministerial 2520/2006; último reciclaje formativo el 21/10/2008 y último reconocimiento médico y psicotécnico el 18/01/2005."
+    },
+    {
+     "rol": "Peatón (víctima mortal)",
+     "implicacion": "Hombre de 83 años que cruzaba el paso a nivel acompañado por un perro, de izquierda a derecha en el sentido de la marcha del tren, cuando las semibarreras estaban bajadas y los avisos luminosos y acústicos activados. Falleció como consecuencia del impacto."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "25986",
+     "tipo": "Tren de Cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Pequeños daños en el frontis de la UT 463201, que iba en cabeza. El tren implicado se suprimió y permaneció detenido en el lugar de los hechos hasta el levantamiento del cadáver."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 13 de diciembre de 2008, a las 7:41 horas, el tren de viajeros de Cercanías 25986, de la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tren de Cercanías 25986 compuesto por UT 463201 en cabeza y UT 462210 en cola; 5 vehículos; masa remolcada 267 toneladas; Nº UIC 967194632014.",
+    "averia": "No se indica avería previa; el material rodante funcionaba correctamente. Se produjeron pequeños daños en el frontis de la UT 463201.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 4,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel de clase C con semibarreras eléctricas enclavadas, señalización luminosa y acústica a ambos lados para vehículos y peatones, y sonería de aviso del movimiento de la barrera. La estación de Calella tenía enclavamiento electrónico telemandado desde el Puesto de Mando de Barcelona y control de tráfico centralizado (CTC).",
+    "tipo_via": "Vía única con bloqueo de liberación automática y CTC; en las proximidades de Calella presenta perfil recto y horizontal. La vía está separada del casco urbano por vallados paralelos a ambos lados.",
+    "velocidad_maxima": "120 km/h a la salida de la estación de Calella",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "El paso a nivel y sus sistemas de protección funcionaron correctamente; las semibarreras estaban bajadas y las señales luminosas y acústicas encendidas. La visibilidad a ambos lados del paso a nivel era buena.",
+    "otro": "El paso a nivel tenía pavimento enmaderado con contracarril y camino asfaltado. Momento de circulación AxT = 19.580. El proyecto constructivo de supresión del paso a nivel estaba en fase de redacción. El cierre del paso a nivel fue ejecutado manualmente: las semibarreras iniciaron su descenso a los diez segundos de iniciarse el proceso y emplearon otros diez segundos aproximadamente en bajar; tras 30 segundos de comprobación se abrió la señal de vía. Radiotelefonía modalidad A. Media semanal de circulaciones del tramo Arenys de Mar-Calella: 637; el desglose citado indica 661 de Cercanías y 6 de servicio. El informe cita PK 48,524 en resumen, inspección y conclusiones, y PK 48,542 en la descripción del paso a nivel."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso a nivel de clase C con semibarreras eléctricas enclavadas, señalización luminosa y acústica a ambos lados para vehículos y peatones, y sonería de aviso del movimiento de la barrera. La estación de Calella tenía enclavamiento electrónico telemandado desde el Puesto de Mando de Barcelona y control de tráfico centralizado (CTC).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Pequeños daños en el frontis de la UT 463201.",
+    "afectacion_servicio": "Interrupción de la circulación entre Calella y San Pol de 07:41 a 09:40. El tren implicado se suprimió y permaneció detenido hasta el levantamiento del cadáver. Se suprimieron 4 trenes de Cercanías y otros 13 sufrieron un retraso total de 180 minutos."
+   },
+   "pagina": 6,
+   "cita": "Se producen pequeños daños en el frontis de la UT 463201 que va en cabeza.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Pequeños daños en el frontis de la UT 463201.",
+    "afectacion_servicio": "Interrupción de la circulación entre Calella y San Pol de 07:41 a 09:40. El tren implicado se suprimió y permaneció detenido hasta el levantamiento del cadáver. Se suprimieron 4 trenes de Cercanías y otros 13 sufrieron un retraso total de 180 minutos."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Pequeños daños en el frontis de la UT 463201.",
+    "afectacion_servicio": "Interrupción de la circulación entre Calella y San Pol de 07:41 a 09:40. El tren implicado se suprimió y permaneció detenido hasta el levantamiento del cadáver. Se suprimieron 4 trenes de Cercanías y otros 13 sufrieron un retraso total de 180 minutos."
+   },
+   "pagina": 6,
+   "cita": "Se producen pequeños daños en el frontis de la UT 463201 que va en cabeza.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren de Cercanías 25986 compuesto por UT 463201 en cabeza y UT 462210 en cola; 5 vehículos; masa remolcada 267 toneladas; Nº UIC 967194632014.",
+    "averia": "No se indica avería previa; el material rodante funcionaba correctamente. Se produjeron pequeños daños en el frontis de la UT 463201.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel de clase C con semibarreras eléctricas enclavadas, señalización luminosa y acústica a ambos lados para vehículos y peatones, y sonería de aviso del movimiento de la barrera. La estación de Calella tenía enclavamiento electrónico telemandado desde el Puesto de Mando de Barcelona y control de tráfico centralizado (CTC).",
+    "tipo_via": "Vía única con bloqueo de liberación automática y CTC; en las proximidades de Calella presenta perfil recto y horizontal. La vía está separada del casco urbano por vallados paralelos a ambos lados.",
+    "velocidad_maxima": "120 km/h a la salida de la estación de Calella",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "El paso a nivel y sus sistemas de protección funcionaron correctamente; las semibarreras estaban bajadas y las señales luminosas y acústicas encendidas. La visibilidad a ambos lados del paso a nivel era buena.",
+    "otro": "El paso a nivel tenía pavimento enmaderado con contracarril y camino asfaltado. Momento de circulación AxT = 19.580. El proyecto constructivo de supresión del paso a nivel estaba en fase de redacción. El cierre del paso a nivel fue ejecutado manualmente: las semibarreras iniciaron su descenso a los diez segundos de iniciarse el proceso y emplearon otros diez segundos aproximadamente en bajar; tras 30 segundos de comprobación se abrió la señal de vía. Radiotelefonía modalidad A. Media semanal de circulaciones del tramo Arenys de Mar-Calella: 637; el desglose citado indica 661 de Cercanías y 6 de servicio. El informe cita PK 48,524 en resumen, inspección y conclusiones, y PK 48,542 en la descripción del paso a nivel."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche; tiempo atmosférico despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Calella"
+   },
+   "pagina": 3,
+   "cita": "276 Maçanet-Massanes-Barcelona-Sagrera",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche; tiempo atmosférico despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso a nivel de clase C con semibarreras eléctricas enclavadas, señalización luminosa y acústica a ambos lados para vehículos y peatones, y sonería de aviso del movimiento de la barrera. La estación de Calella tenía enclavamiento electrónico telemandado desde el Puesto de Mando de Barcelona y control de tráfico centralizado (CTC).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel de clase C con semibarreras eléctricas enclavadas, señalización luminosa y acústica a ambos lados para vehículos y peatones, y sonería de aviso del movimiento de la barrera. La estación de Calella tenía enclavamiento electrónico telemandado desde el Puesto de Mando de Barcelona y control de tráfico centralizado (CTC).",
+    "tipo_via": "Vía única con bloqueo de liberación automática y CTC; en las proximidades de Calella presenta perfil recto y horizontal. La vía está separada del casco urbano por vallados paralelos a ambos lados.",
+    "velocidad_maxima": "120 km/h a la salida de la estación de Calella",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "El paso a nivel y sus sistemas de protección funcionaron correctamente; las semibarreras estaban bajadas y las señales luminosas y acústicas encendidas. La visibilidad a ambos lados del paso a nivel era buena.",
+    "otro": "El paso a nivel tenía pavimento enmaderado con contracarril y camino asfaltado. Momento de circulación AxT = 19.580. El proyecto constructivo de supresión del paso a nivel estaba en fase de redacción. El cierre del paso a nivel fue ejecutado manualmente: las semibarreras iniciaron su descenso a los diez segundos de iniciarse el proceso y emplearon otros diez segundos aproximadamente en bajar; tras 30 segundos de comprobación se abrió la señal de vía. Radiotelefonía modalidad A. Media semanal de circulaciones del tramo Arenys de Mar-Calella: 637; el desglose citado indica 661 de Cercanías y 6 de servicio. El informe cita PK 48,524 en resumen, inspección y conclusiones, y PK 48,542 en la descripción del paso a nivel."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren de Cercanías 25986 compuesto por UT 463201 en cabeza y UT 462210 en cola; 5 vehículos; masa remolcada 267 toneladas; Nº UIC 967194632014.",
+    "averia": "No se indica avería previa; el material rodante funcionaba correctamente. Se produjeron pequeños daños en el frontis de la UT 463201.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Peatón cruza con barreras bajadas",
+    "Tren sale de estación Calella",
+    "Parada comercial previa en vía"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 13 de diciembre de 2008, a las 07:41, el tren de Cercanías 25986 de Renfe Operadora, al efectuar su salida por la vía 1 de la estación de Calella después de una parada comercial, arrolló a un peatón que cruzaba el paso a nivel clase C situado en el PK 48,524 de la estación. La víctima, un hombre de 83 años acompañado por un perro, cruzaba de izquierda a derecha en el sentido de la marcha del tren e invadió la vía cuando las semibarreras estaban bajadas y los sistemas de aviso luminoso y acústico estaban activados.\n\nEl maquinista principal del tren, matrícula 9712100, hizo uso del silbato y accionó el freno de emergencia, pero no pudo evitar el arrollamiento. En el momento de accionar la emergencia, el tren circulaba a 55 km/h, por debajo de la velocidad máxima permitida de 120 km/h a la salida de la estación. Como consecuencia del impacto, la víctima falleció en el acto y se produjeron pequeños daños en el frontis de la UT 463201, que iba en cabeza.\n\nEl análisis del enclavamiento, la moviola del CTC y los registros del paso a nivel y del tren constató que las semibarreras estaban bajadas y que las señales luminosas y acústicas funcionaban correctamente. La circulación quedó interrumpida entre Calella y San Pol desde las 07:41 hasta las 09:40; se suprimieron 4 trenes de Cercanías y otros 13 acumularon un retraso total de 180 minutos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en la estación de Calella, en el paso a nivel clase C del PK 48,524, de la \nlínea 276 Maçanet-Massanes-Barcelona-Sagrera. \nSegún el registrador de seguridad del automotor, el tren circulaba a una velocidad inferior a la \nmáxima permitida en el tramo. \nSegún el análisis del registro de eventos del paso a nivel éste funcionó correctamente. \nIF-131208-310309-CIAF \n \n \nPág. 9 de 12\n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0071/2008 ocurrido el 13.12.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-131208-310309-CIAF \n \n \nPág. 10 de 12\nSegún el registro de eventos del enclavamiento, así como de la moviola del CTC, en el momento \ndel accidente, las semibarreras se encontraban bajadas y las señales luminosas y acústicas \nfuncionaban correctamente. \nSegún lo declarado por el maquinista, al percatarse de la presencia de una persona que cruzaba el \npaso a nivel con las barreras bajadas, hizo uso del silbato y actuó sobre el freno de emergencia, por lo \nque la actuación del maquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nLa víctima cruzó las vías por el paso a nivel de izquierda a derecha, en el sentido de la marcha del \ntren 25968, en el momento en que éste efectuaba su salida por la vía 1 de la estación de Calella \ndespués de realizar parada comercial en ella. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en el cruce de la víctima por el paso a nivel cuando éste se encontraba \ncon las semibarreras bajadas y sus sistemas de aviso luminoso y acústico activados.",
+   "pagina": 9,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Cruce de la víctima por el paso a nivel cuando estaba cerrado, con las semibarreras bajadas y los sistemas de aviso luminoso y acústico activados.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El paso a nivel se encontraba en el casco urbano, en una zona de elevado tránsito peatonal y muy utilizada por vehículos y peatones.",
+    "La víctima cruzaba acompañada por un perro."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Puesto que el proyecto constructivo de supresión de este paso a nivel está en fase de redacción, se recomienda acelerar las actuaciones encaminadas a su supresión",
+    "Puesto que el proyecto constructivo de supresión de este paso a nivel está en fase de redacción, se recomienda acelerar las actuaciones encaminadas a su supresión",
+    "Puesto que el proyecto constructivo de supresión de este paso a nivel está en fase de redacción, se recomienda acelerar las actuaciones encaminadas a su supresión"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "07:34",
+     "evento": "El 2008-12-13, el registro de eventos del paso a nivel comprueba la posición de las semibarreras bajadas."
+    },
+    {
+     "hora": "07:41",
+     "evento": "El 2008-12-13, el tren de Cercanías 25986 arrolla a un peatón en el paso a nivel de la estación de Calella; la víctima fallece como consecuencia del impacto."
+    },
+    {
+     "hora": "08:57",
+     "evento": "El 2008-12-13, el Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF mediante mensaje de telefonía móvil."
+    },
+    {
+     "hora": "09:35",
+     "evento": "El 2008-12-13, se produce el levantamiento del cadáver."
+    },
+    {
+     "hora": "09:40",
+     "evento": "El 2008-12-13, se restablecen las circulaciones normales tras la interrupción entre Calella y San Pol."
+    },
+    {
+     "hora": null,
+     "evento": "El maquinista comunicó el suceso al Puesto de Mando de Barcelona, desde donde se informó a seguridad corporativa, protección civil, seguridad en la circulación, jefatura de operaciones de Barcelona, al operador y resto de servicios afectados."
+    },
+    {
+     "hora": null,
+     "evento": "2009-02-03: El Gerente Territorial de Seguridad en la Circulación Noreste de Adif entrega su informe particular del accidente."
+    },
+    {
+     "hora": null,
+     "evento": "2009-02-16: El Responsable de Seguridad de Renfe Operadora entrega su informe particular del accidente."
+    },
+    {
+     "hora": null,
+     "evento": "2009-03-11: Se solicita a la Dirección General de Ferrocarriles datos actualizados sobre el paso a nivel."
+    },
+    {
+     "hora": null,
+     "evento": "2009-03-31: El Pleno de la CIAF aprueba como definitivo el informe particular presentado por el técnico investigador."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0071/2008",
+ "expediente": "0071/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de un peatón en un paso a nivel de la estación de Calella",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-131208-310309-CIAF_ES-671.md"
+}

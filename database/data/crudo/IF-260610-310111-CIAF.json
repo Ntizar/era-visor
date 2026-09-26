@@ -1,0 +1,1011 @@
+{
+ "id": "IF-260610-310111-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/8C69942A-1940-4414-A321-4517AAECC3D6/100151/IF260610_310111CIAF.pdf",
+ "pdf": "pdfs/ES/IF-260610-310111-CIAF.pdf",
+ "md5_pdf": "a40a6efedae4ba2096137ef3d9945e84",
+ "paginas_md": 17,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 19,
+ "n_tablas": 4,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "31/10-1",
+     "Recomendación": "Insistir en el estricto cumplimiento, por parte de los agentes de acompañamiento a bordo del tren, del procedimiento “Tren-hotel ELIPSOS. Procedimiento de actuación en el sistema de comunicación interno del tren, cierre de puertas exteriores y comunicación de las operaciones terminadas.”"
+    },
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "31/10-2",
+     "Recomendación": "Insistir en el cumplimiento, por los agentes de acompañamiento, del artículo 313 del Reglamento General de Circulación."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 14,
+   "cabecera": [
+    "",
+    "26/06/10",
+    "Duración total 56 segundos: Comunicación del responsable de circulación (jefe de"
+   ],
+   "filas": [
+    {
+     "26/06/10": "00:28:45",
+     "Duración total 56 segundos: Comunicación del responsable de circulación (jefe de": "circulación) de Vitoria – Gasteiz al puesto de mando (P.M.) de Miranda de Ebro."
+    },
+    {
+     "26/06/10": "Vitoria. Vitoria. He tenido que cerrar al pendular 407 la señal porque ha salido, y había gente subiendo y bajando, y tengo la impresión de que ha habido un accidente. Que raro ¿no? Ha caído gente a la vía. ¿Y se ha caído gente a la vía? Sí. Está allí el de Seguridad.",
+     "Duración total 56 segundos: Comunicación del responsable de circulación (jefe de": ""
+    }
+   ],
+   "cita": "|   | 26/06/10 | Duración total 56 segundos: Comunicación del responsable de circulación (jefe de |"
+  },
+  {
+   "pagina": 15,
+   "cabecera": [
+    "",
+    "26/06/10",
+    "Duración total 6 minutos y 6 segundos: Comunicación del responsable de circulación"
+   ],
+   "filas": [
+    {
+     "26/06/10": "00:33:35",
+     "Duración total 6 minutos y 6 segundos: Comunicación del responsable de circulación": "de Vitoria – Gasteiz al P.M. de Miranda de Ebro."
+    },
+    {
+     "26/06/10": "(…) Buenas noches. Bueno, pues te comento,… por lo que se ve se ha pegado un fuerte golpe, se ha caído a la vía y tiene un golpe en la cabeza, pero bueno… Pero ¿qué es lo que ha pasado al final? …. ha pasado lo siguiente, que ha salido el tren, ¡eh! y había gente subiendo, se ha subido gente… ¿Se había presentado el tren dispuesto en esas condiciones? Pues, … el que le toca el turno en el tren, el agente del tren, y como …viene muy largo pues no se ve bien y todo eso; y yo pues bueno, yo estaba ahí, a la gente diciendo que se metan todos adentro y eso, y por lo menos…. Si se han metido todos dentro…. No, no estaban subiendo, había gente que estaba subiendo, por que no habían terminado, porque iban a la cola del tren, al final del todo,… La primera vez que me ocurre esto en un tren, se vea o no se vea… ahí se ve muy bien… hay buena visibilidad. Pues nada, ya me dirás algo. Oye, esto, el interventor en ruta ya te pones en contacto con él, y ya te dará explicaciones… No, no, yo los temas de seguridad, lo que me dé seguridad.",
+     "Duración total 6 minutos y 6 segundos: Comunicación del responsable de circulación": ""
+    }
+   ],
+   "cita": "|   | 26/06/10 | Duración total 6 minutos y 6 segundos: Comunicación del responsable de circulación |"
+  },
+  {
+   "pagina": 17,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "31/10-1",
+     "Recomendación": "Insistir en el estricto cumplimiento, por parte de los agentes de acompañamiento a bordo del tren, del procedimiento “Tren-hotel ELIPSOS. Procedimiento de actuación en el sistema de comunicación interno del tren, cierre de puertas exteriores y comunicación de las operaciones terminadas.”"
+    },
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "31/10-2",
+     "Recomendación": "Insistir en el cumplimiento, por los agentes de acompañamiento, del artículo 313 del Reglamento General de Circulación."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0031/2010",
+   "pagina": 1,
+   "cita": "nº 0031/2010 ocurrido el 26.06.2010",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 26 de junio de 2010, a las 00:28, el tren 407 de larga distancia de Renfe Operadora realizó una parada comercial en la vía 1 de la estación de Vitoria-Gasteiz. La agente de acompañamiento comunicó operaciones terminadas antes de que finalizaran la bajada y la subida de viajeros, y el tren inició la marcha con la señal de salida en vía libre. Una persona cayó al andén y arrolló a otras que debían subir, con cinco heridos leves. El accidente tuvo su origen en la comunicación prematura de operaciones terminadas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2010-06-26",
+    "hora": "00:28",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Vitoria - Gasteiz",
+     "pk": "492+400",
+     "linea": "100 Madrid Chamartín – Hendaya",
+     "provincia": "Álava",
+     "descripcion_lugar": "Andén de la vía 1 de la estación, en alineación recta y perfil horizontal; tramo Jundiz - Vitoria Gasteiz; municipio Vitoria - Gasteiz."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 26 de junio de 2010, a las 00:28 horas, en la estación de Vitoria – Gasteiz (P.K. 492+400), de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 5,
+    "danos_materiales": "No se producen daños materiales.",
+    "afectacion_servicio": "La incidencia tuvo una duración de 13 minutos y no afectó a las siguientes circulaciones."
+   },
+   "pagina": 9,
+   "cita": "No se producen daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "La agente de acompañamiento comunicó operaciones terminadas al maquinista sin haber finalizado la bajada y subida de viajeros, incumpliendo el artículo 313 del Reglamento General de Circulación y el punto 5 del procedimiento Tren-hotel ELIPSOS.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Doble composición del tren con 32 vehículos y 418 metros de longitud",
+    "Distancia de unos 260 metros entre el lugar donde se comunicó operaciones terminadas y el lugar de la caída",
+    "Presencia de viajeros en el andén que aún debían subir, incluida una familia en el coche 25 y personas que habían bajado a fumar",
+    "Retraso de 49 minutos del tren en su entrada a la estación"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Insistir en el estricto cumplimiento, por parte de los agentes de acompañamiento a bordo del tren, del procedimiento “Tren-hotel ELIPSOS. Procedimiento de actuación en el sistema de comunicación interno del tren, cierre de puertas exteriores y comunicación de las operaciones terminadas.”",
+    "Insistir en el cumplimiento, por los agentes de acompañamiento, del artículo 313 del Reglamento General de Circulación.",
+    "Insistir en el estricto cumplimiento, por parte de los agentes de acompañamiento a bordo del tren, del procedimiento “Tren-hotel ELIPSOS. Procedimiento de actuación en el sistema de comunicación interno del tren, cierre de puertas exteriores y comunicación de las operaciones terminadas.”",
+    "Insistir en el cumplimiento, por los agentes de acompañamiento, del artículo 313 del Reglamento General de Circulación."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Renfe Operadora",
+    "Renfe Operadora",
+    "Renfe Operadora"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "accidente ferroviario",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "ferroviaria Renfe Operadora, estaciona en vía 1 para realizar parada comercial. El maquinista recibe la",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2010-06-26",
+   "pagina": 3,
+   "cita": "El día 26 de junio de 2010, a las 00:28 horas, en la estación de Vitoria – Gasteiz (P.K. 492+400), de la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "00:28",
+   "pagina": 3,
+   "cita": "El día 26 de junio de 2010, a las 00:28 horas, en la estación de Vitoria – Gasteiz (P.K. 492+400), de la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Vitoria - Gasteiz",
+    "pk": "492+400",
+    "linea": "100 Madrid Chamartín – Hendaya",
+    "provincia": "Álava",
+    "descripcion_lugar": "Andén de la vía 1 de la estación, en alineación recta y perfil horizontal; tramo Jundiz - Vitoria Gasteiz; municipio Vitoria - Gasteiz."
+   },
+   "pagina": 3,
+   "cita": "ferroviaria Renfe Operadora, estaciona en vía 1 para realizar parada comercial. El maquinista recibe la",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "100 Madrid Chamartín – Hendaya",
+   "pagina": 3,
+   "cita": "línea 100 Madrid Chamartín – Hendaya, el tren de viajeros de larga distancia 407, de la empresa",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Talgo; locomotora 957102520310; doble composición; 32 vehículos; 530 toneladas; 418 metros; coches con cierre centralizado o manual de puertas exteriores y bloqueo a velocidad superior a 5 km/h.",
+    "averia": "No se describe avería; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros de larga distancia 407, de Renfe Operadora, procedente de Madrid y con destino París, circulaba como tren-hotel ELIPSOS y entró con 49 minutos de retraso en la estación de Vitoria-Gasteiz, deteniéndose a las 00:26:08 en la vía 1 para una parada comercial de 2 minutos y 10 segundos. En la estación estaba prevista la subida de dieciocho personas, cinco de ellas pertenecientes a una misma familia en el coche número 25 de la composición.\n\nLa agente de acompañamiento se subió al tren por el coche número 4 y comunicó al maquinista operaciones terminadas, aunque aún quedaban viajeros sin subir en el coche número 25, incluidos miembros de la familia y personas que habían bajado a fumar. Entre el punto de comunicación de operaciones terminadas y el lugar de la caída había unos 260 metros. A las 00:28:18, con la señal de salida en vía libre, el tren inició la marcha y una persona que estaba subiendo cayó al andén, arrollando a otras personas que debían subir.\n\nEl jefe de circulación y un vigilante de seguridad, situados a unos 60 metros, observaron la caída y el arranque del tren. El jefe de circulación ordenó por radiotelefonía la detección del tren y cerró la señal de salida; el maquinista frenó y el tren se detuvo a las 00:28:48 tras recorrer 135 metros y alcanzar 17 km/h, sin rebasar la señal. Como resultado, cinco personas resultaron heridas leves y no se produjeron daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Vitoria - Gasteiz",
+    "pk": "492+400",
+    "linea": "100 Madrid Chamartín – Hendaya",
+    "provincia": "Álava",
+    "descripcion_lugar": "Andén de la vía 1 de la estación, en alineación recta y perfil horizontal; tramo Jundiz - Vitoria Gasteiz; municipio Vitoria - Gasteiz."
+   },
+   "pagina": 3,
+   "cita": "ferroviaria Renfe Operadora, estaciona en vía 1 para realizar parada comercial. El maquinista recibe la",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 5,
+    "danos_materiales": "No se producen daños materiales.",
+    "afectacion_servicio": "La incidencia tuvo una duración de 13 minutos y no afectó a las siguientes circulaciones."
+   },
+   "pagina": 9,
+   "cita": "No se producen daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista",
+     "implicacion": "Matrícula 8869232. Recibió la indicación de operaciones terminadas, inició la marcha y frenó al observar la señal de salida en parada."
+    },
+    {
+     "rol": "agente de acompañamiento (interventora)",
+     "implicacion": "Matrícula 8904823. Comunicó operaciones terminadas antes de finalizar la bajada y subida de viajeros."
+    },
+    {
+     "rol": "jefe de circulación",
+     "implicacion": "Matrícula 7789001. Observó la caída, cerró la señal de salida, ordenó la detección del tren por radiotelefonía e informó al puesto de mando."
+    },
+    {
+     "rol": "vigilante de seguridad",
+     "implicacion": "Acompañaba al jefe de circulación, advirtió a viajeros y observó personas accediendo al tren."
+    },
+    {
+     "rol": "persona de la tripulación del tren",
+     "implicacion": "Declaración no formal: acompañó a la familia que debía subir al coche 114 y describe la subida dificultosa por personas que habían bajado a fumar."
+    }
+   ],
+   "pagina": 3,
+   "cita": "ferroviaria Renfe Operadora, estaciona en vía 1 para realizar parada comercial. El maquinista recibe la",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "407",
+     "tipo": "tren de viajeros de larga distancia / tren-hotel ELIPSOS",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños materiales; el material rodante funcionó correctamente."
+    }
+   ],
+   "pagina": 3,
+   "cita": "ferroviaria Renfe Operadora, estaciona en vía 1 para realizar parada comercial. El maquinista recibe la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Talgo; locomotora 957102520310; doble composición; 32 vehículos; 530 toneladas; 418 metros; coches con cierre centralizado o manual de puertas exteriores y bloqueo a velocidad superior a 5 km/h.",
+    "averia": "No se describe avería; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales de avanzada y entrada en vía libre; señal de salida S1/1 en vía libre al estacionarse el tren. Tras la caída, el jefe de circulación cierra la señal de salida y el tren se detiene sin rebasarla.",
+    "tipo_via": "Vía 1 de estación, con andén de 507 metros, alineación recta y perfil horizontal.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Bloqueo automático banalizado con control de tráfico centralizado en Miranda de Ebro; enclavamiento electrónico en mando local; iluminación del andén encendida; tráfico medio semanal del tramo Jundiz - Vitoria-Gasteiz de 268 circulaciones."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales de avanzada y entrada en vía libre; señal de salida S1/1 en vía libre al estacionarse el tren. Tras la caída, el jefe de circulación cierra la señal de salida y el tren se detiene sin rebasarla.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad A (tren tierra).",
+   "pagina": 8,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 5,
+    "danos_materiales": "No se producen daños materiales.",
+    "afectacion_servicio": "La incidencia tuvo una duración de 13 minutos y no afectó a las siguientes circulaciones."
+   },
+   "pagina": 12,
+   "cita": "de una familia accidentados, 2 adultos y 2 niños, así como aproximadamente otros 3 viajeros que",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 5,
+    "danos_materiales": "No se producen daños materiales.",
+    "afectacion_servicio": "La incidencia tuvo una duración de 13 minutos y no afectó a las siguientes circulaciones."
+   },
+   "pagina": 5,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 5,
+    "danos_materiales": "No se producen daños materiales.",
+    "afectacion_servicio": "La incidencia tuvo una duración de 13 minutos y no afectó a las siguientes circulaciones."
+   },
+   "pagina": 9,
+   "cita": "No se producen daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Talgo; locomotora 957102520310; doble composición; 32 vehículos; 530 toneladas; 418 metros; coches con cierre centralizado o manual de puertas exteriores y bloqueo a velocidad superior a 5 km/h.",
+    "averia": "No se describe avería; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de avanzada y entrada en vía libre; señal de salida S1/1 en vía libre al estacionarse el tren. Tras la caída, el jefe de circulación cierra la señal de salida y el tren se detiene sin rebasarla.",
+    "tipo_via": "Vía 1 de estación, con andén de 507 metros, alineación recta y perfil horizontal.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Bloqueo automático banalizado con control de tráfico centralizado en Miranda de Ebro; enclavamiento electrónico en mando local; iluminación del andén encendida; tráfico medio semanal del tramo Jundiz - Vitoria-Gasteiz de 268 circulaciones."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Nocturno; el informe indica que no existía lluvia ni niebla y que la iluminación del andén era la habitual. La interventora declaró poca luz y neblina al fondo de la composición, mientras que el jefe de circulación declaró visibilidad normal sin brumas ni nieblas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Álava",
+    "municipio": null,
+    "estacion": "Vitoria-Gasteiz"
+   },
+   "pagina": 3,
+   "cita": "Álava ### Tablas de la página 3 | Destinatario final | Número | Recomendación | |---|---|---| | Renfe Operadora | 31/10-1 | Insistir en el estricto cumplimiento, por parte de los agentes de acompañamiento a bordo del",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Nocturno; el informe indica que no existía lluvia ni niebla y que la iluminación del andén era la habitual. La interventora declaró poca luz y neblina al fondo de la composición, mientras que el jefe de circulación declaró visibilidad normal sin brumas ni nieblas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales de avanzada y entrada en vía libre; señal de salida S1/1 en vía libre al estacionarse el tren. Tras la caída, el jefe de circulación cierra la señal de salida y el tren se detiene sin rebasarla.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de avanzada y entrada en vía libre; señal de salida S1/1 en vía libre al estacionarse el tren. Tras la caída, el jefe de circulación cierra la señal de salida y el tren se detiene sin rebasarla.",
+    "tipo_via": "Vía 1 de estación, con andén de 507 metros, alineación recta y perfil horizontal.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Bloqueo automático banalizado con control de tráfico centralizado en Miranda de Ebro; enclavamiento electrónico en mando local; iluminación del andén encendida; tráfico medio semanal del tramo Jundiz - Vitoria-Gasteiz de 268 circulaciones."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad A (tren tierra).",
+   "pagina": 8,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Talgo; locomotora 957102520310; doble composición; 32 vehículos; 530 toneladas; 418 metros; coches con cierre centralizado o manual de puertas exteriores y bloqueo a velocidad superior a 5 km/h.",
+    "averia": "No se describe avería; el material rodante funcionó correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Doble composición del tren con 32 vehículos y 418 metros de longitud",
+    "Distancia de unos 260 metros entre el lugar donde se comunicó operaciones terminadas y el lugar de la caída",
+    "Presencia de viajeros en el andén que aún debían subir, incluida una familia en el coche 25 y personas que habían bajado a fumar",
+    "Retraso de 49 minutos del tren en su entrada a la estación"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Por parte de Renfe Operadora \nEl maquinista del tren 407 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. \nRealizó su último reciclaje formativo el 13/01/2010 y su último reconocimiento médico y psicotécnico el \n19/01/10 de acuerdo a la normativa vigente. \nLa Orden FOM/2520/2006 no regula las condiciones para la obtención de títulos y habilitaciones de los \nagentes de acompañamiento, siendo por tanto competencia de Renfe Operadora. \n3.3. \nNORMATIVA",
+   "pagina": 13,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros de larga distancia 407, de Renfe Operadora, procedente de Madrid y con destino París, circulaba como tren-hotel ELIPSOS y entró con 49 minutos de retraso en la estación de Vitoria-Gasteiz, deteniéndose a las 00:26:08 en la vía 1 para una parada comercial de 2 minutos y 10 segundos. En la estación estaba prevista la subida de dieciocho personas, cinco de ellas pertenecientes a una misma familia en el coche número 25 de la composición.\n\nLa agente de acompañamiento se subió al tren por el coche número 4 y comunicó al maquinista operaciones terminadas, aunque aún quedaban viajeros sin subir en el coche número 25, incluidos miembros de la familia y personas que habían bajado a fumar. Entre el punto de comunicación de operaciones terminadas y el lugar de la caída había unos 260 metros. A las 00:28:18, con la señal de salida en vía libre, el tren inició la marcha y una persona que estaba subiendo cayó al andén, arrollando a otras personas que debían subir.\n\nEl jefe de circulación y un vigilante de seguridad, situados a unos 60 metros, observaron la caída y el arranque del tren. El jefe de circulación ordenó por radiotelefonía la detección del tren y cerró la señal de salida; el maquinista frenó y el tren se detuvo a las 00:28:48 tras recorrer 135 metros y alcanzar 17 km/h, sin rebasar la señal. Como resultado, cinco personas resultaron heridas leves y no se produjeron daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "La agente de acompañamiento comunicó operaciones terminadas al maquinista sin haber finalizado la bajada y subida de viajeros, incumpliendo el artículo 313 del Reglamento General de Circulación y el punto 5 del procedimiento Tren-hotel ELIPSOS.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Doble composición del tren con 32 vehículos y 418 metros de longitud",
+    "Distancia de unos 260 metros entre el lugar donde se comunicó operaciones terminadas y el lugar de la caída",
+    "Presencia de viajeros en el andén que aún debían subir, incluida una familia en el coche 25 y personas que habían bajado a fumar",
+    "Retraso de 49 minutos del tren en su entrada a la estación"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Insistir en el estricto cumplimiento, por parte de los agentes de acompañamiento a bordo del tren, del procedimiento “Tren-hotel ELIPSOS. Procedimiento de actuación en el sistema de comunicación interno del tren, cierre de puertas exteriores y comunicación de las operaciones terminadas.”",
+    "Insistir en el cumplimiento, por los agentes de acompañamiento, del artículo 313 del Reglamento General de Circulación.",
+    "Insistir en el estricto cumplimiento, por parte de los agentes de acompañamiento a bordo del tren, del procedimiento “Tren-hotel ELIPSOS. Procedimiento de actuación en el sistema de comunicación interno del tren, cierre de puertas exteriores y comunicación de las operaciones terminadas.”",
+    "Insistir en el cumplimiento, por los agentes de acompañamiento, del artículo 313 del Reglamento General de Circulación."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Renfe Operadora",
+    "Renfe Operadora",
+    "Renfe Operadora"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "00:26",
+     "evento": "2010-06-26: el tren 407 se estaciona en la vía 1 de la estación de Vitoria-Gasteiz a las 00:26:08."
+    },
+    {
+     "hora": "00:28",
+     "evento": "2010-06-26: el tren inicia la marcha a las 00:28:18 con la señal de salida en vía libre y se produce la caída al andén."
+    },
+    {
+     "hora": "00:28",
+     "evento": "2010-06-26: a las 00:28:45, el responsable de circulación comunica al puesto de mando de Miranda de Ebro que ha cerrado la señal porque había gente subiendo y bajando y parece haber un accidente."
+    },
+    {
+     "hora": "00:28",
+     "evento": "2010-06-26: a las 00:28:48, el tren se detiene tras recorrer 135 metros, sin rebasar la señal de salida."
+    },
+    {
+     "hora": "00:33",
+     "evento": "2010-06-26: a las 00:33:35, el responsable de circulación mantiene otra comunicación con el puesto de mando de Miranda de Ebro sobre la salida del tren con gente subiendo."
+    },
+    {
+     "hora": "09:23",
+     "evento": "2010-06-26: el jefe de investigación de accidentes ferroviarios de Adif comunica a la CIAF la producción del suceso."
+    },
+    {
+     "hora": null,
+     "evento": "2010-06-29: la CIAF resuelve abrir la investigación."
+    },
+    {
+     "hora": null,
+     "evento": "2010-08-12: el gerente de investigación técnica de accidentes de Renfe Operadora entrega su informe particular."
+    },
+    {
+     "hora": null,
+     "evento": "2010-10-18: el jefe territorial de seguridad en la circulación norte de Adif entrega su informe particular."
+    },
+    {
+     "hora": null,
+     "evento": "2011-01-31: fecha del informe final."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0031/2010",
+ "expediente": "0031/010",
+ "anio": 2010,
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0031/2010 OCURRIDO EL DÍA 26.06.2010 EN LA ESTACIÓN DE VITORIA – GASTEIZ (ÁLAVA)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-260610-310111-CIAF.md"
+}

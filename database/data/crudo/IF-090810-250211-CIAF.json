@@ -1,0 +1,925 @@
+{
+ "id": "IF-090810-250211-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/14411B2E-8EAD-45B7-B60F-B6688B9C2188/101328/IF090810_250211CIAF.pdf",
+ "pdf": "pdfs/ES/IF-090810-250211-CIAF.pdf",
+ "md5_pdf": "ba8db039f74eac54d56b216d40cb2814",
+ "paginas_md": 11,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 18,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Ayuntamiento de Cabezón de la Sal",
+     "Número": "44/10-1",
+     "Recomendación": "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 11,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Ayuntamiento de Cabezón de la Sal",
+     "Número": "44/10-1",
+     "Recomendación": "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0044/2010",
+   "pagina": 1,
+   "cita": "nº 0044/2010 ocurrido el 09.08.2010",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El día 9 de agosto de 2010, a las 17:00 horas, el tren regular de viajeros 6502 de Feve arrolló a un vehículo agrícola (motosegadora) que invadió el gálibo de la vía en el paso a nivel clase A situado en el P.K. 489+795 de la línea 1021 Oviedo-Santander. Como resultado del impacto falleció el único ocupante del vehículo, un varón de 21 años. La investigación concluyó que el accidente tuvo su origen en la invasión del gálibo por parte del vehículo agrícola, que cruzó el paso a nivel cuando pasaba el tren. Se identificaron deficiencias en la señalización del camino y en la visibilidad del paso a nivel.",
+   "pagina": 3,
+   "cita": "RESUMEN El día 9 de agosto de 2010, a las 17:00 horas, el tren regular de viajeros 6502 de Feve arrolla a un vehículo agrícola que invade el paso a nivel, clase A, situado en el P.K. 489+795 de la línea 1021 Oviedo –",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2010-08-09",
+    "hora": "17:00",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "489+795",
+     "linea": "1021 Oviedo – Santander",
+     "provincia": "Cantabria",
+     "descripcion_lugar": "Paso a nivel nº 68, clase A, denominado 'La recta de Casar', entre las estaciones de Casar de Periedo y Virgen de la Peña, municipio de Cabezón de la Sal. Trayecto de alineación recta con perfil en rampa de 9,55 milésimas. Cruza por el lado Sur con un camino que da acceso a la carretera CA-135 y por el lado Norte con un camino que da acceso a fincas."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 9 de agosto de 2010, a las 17:00 horas, el tren regular de viajeros 6502 de Feve arrolla a un",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños de escasa entidad en la unidad 2427 (rozaduras en carrocería, torceduras en chapa de intercomunicación y guía de enganche, perforación del quitarreses). La motosegadora agrícola quedó destrozada",
+    "afectacion_servicio": "Vía interceptada hasta las 17:35 horas (35 minutos). El tren implicado sufrió un retraso de 60 minutos y otros cuatro trenes de viajeros sufrieron un retraso total de 117 minutos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión del gálibo de la vía por parte del vehículo agrícola (motosegadora), que cruza por el paso a nivel cuando pasaba el tren 6502",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Señalización del camino incompleta conforme a la Orden Ministerial de 2 de agosto de 2001 (carece de P-8, P-15, P-9, P-10, R-301 y R-305)",
+    "Pavimento del cruce en mal estado, sin contracarriles y con carriles descarnados",
+    "Visibilidad real en dos cuadrantes (165 m y 195 m) inferior a la distancia de visibilidad técnica (237 m), con presencia de maleza, columna de catenaria, árbol y arbustos",
+    "El conductor del vehículo agrícola no se percató de la llegada del tren y hizo caso omiso de las señales acústicas del tren y de la señalización de STOP del paso a nivel"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001.",
+    "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Ayuntamiento de Cabezón de la Sal",
+    "Ayuntamiento de Cabezón de la Sal"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Paso a nivel",
+   "pagina": 3,
+   "cita": "Paso a nivel nº 68, clase A, P.K. 489+795 (denominado “La recta de Casar”)",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "El día 9 de agosto de 2010, a las 17:00 horas, el tren regular de viajeros 6502 de Feve arrolla a un",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2010-08-09",
+   "pagina": 3,
+   "cita": "El día 9 de agosto de 2010, a las 17:00 horas, el tren regular de viajeros 6502 de Feve arrolla a un",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "17:00",
+   "pagina": 3,
+   "cita": "El día 9 de agosto de 2010, a las 17:00 horas, el tren regular de viajeros 6502 de Feve arrolla a un",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "489+795",
+    "linea": "1021 Oviedo – Santander",
+    "provincia": "Cantabria",
+    "descripcion_lugar": "Paso a nivel nº 68, clase A, denominado 'La recta de Casar', entre las estaciones de Casar de Periedo y Virgen de la Peña, municipio de Cabezón de la Sal. Trayecto de alineación recta con perfil en rampa de 9,55 milésimas. Cruza por el lado Sur con un camino que da acceso a la carretera CA-135 y por el lado Norte con un camino que da acceso a fincas."
+   },
+   "pagina": 3,
+   "cita": "1021 Oviedo – Santander",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "1021 Oviedo - Santander",
+   "pagina": 6,
+   "cita": "alineación recta, en el P.K. 489+795 de la línea 1021 Oviedo - Santander. Según la nomenclatura de",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UTDEs M2427-M2477 (unidades de tren diésel-eléctricas)",
+    "averia": "Según el registrador de seguridad de la unidad en cabeza 2427, los equipos de seguridad del tren funcionaron correctamente",
+    "mantenimiento": null
+   },
+   "pagina": 9,
+   "cita": "3.4.1. Material rodante",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 9 de agosto de 2010, el tren regular de viajeros 6502 de Feve circulaba con normalidad, en sentido Este-Oeste, entre las estaciones de Casar de Periedo y Virgen de la Peña (Cantabria). Al aproximarse al paso a nivel clase A situado en el P.K. 489+795, el maquinista apreció que un vehículo agrícola (motosegadora) se disponía a cruzar el paso, de derecha a izquierda según la marcha del tren, sin percatarse de la llegada del tren. El maquinista activó el freno de emergencia y hizo uso del silbato sin poder evitar el arrollamiento del vehículo, resultando fallecido el conductor del mismo. A las 17:00:02 horas, el maquinista accionó la bocina al percatarse de la posible invasión de la vía, cuando el tren circulaba a 73,6 km/h y se encontraba a unos 130 metros del paso a nivel. A las 17:00:03 horas, hizo uso del freno de emergencia a 102 metros del paso. A las 17:00:09 horas se produjo el arrollamiento y a las 17:00:29 horas el tren quedó detenido, tras recorrer 253 metros desde el punto donde accionó el freno de emergencia y 151 metros desde el paso a nivel. La vía quedó interceptada hasta las 17:35 horas, cuando la Guardia Civil dio la vía expedita.",
+   "pagina": 3,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "489+795",
+    "linea": "1021 Oviedo – Santander",
+    "provincia": "Cantabria",
+    "descripcion_lugar": "Paso a nivel nº 68, clase A, denominado 'La recta de Casar', entre las estaciones de Casar de Periedo y Virgen de la Peña, municipio de Cabezón de la Sal. Trayecto de alineación recta con perfil en rampa de 9,55 milésimas. Cruza por el lado Sur con un camino que da acceso a la carretera CA-135 y por el lado Norte con un camino que da acceso a fincas."
+   },
+   "pagina": 3,
+   "cita": "1021 Oviedo – Santander",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños de escasa entidad en la unidad 2427 (rozaduras en carrocería, torceduras en chapa de intercomunicación y guía de enganche, perforación del quitarreses). La motosegadora agrícola quedó destrozada",
+    "afectacion_servicio": "Vía interceptada hasta las 17:35 horas (35 minutos). El tren implicado sufrió un retraso de 60 minutos y otros cuatro trenes de viajeros sufrieron un retraso total de 117 minutos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 6502",
+     "implicacion": "Carné ferroviario número 7796. Habilitado para la conducción de vehículos ferroviarios. Último reciclaje formativo el 10/04/08 y último reconocimiento médico y psicotécnico el 02/10/09. Pruebas de alcoholemia y drogas con resultado negativo. Accionó el freno de emergencia y la bocina. Jornada laboral el día 9: 3 horas y 30 minutos (conducción efectiva: 2 horas y 10 minutos)"
+    },
+    {
+     "rol": "Conductor de la motosegadora agrícola",
+     "implicacion": "Fallecido en el accidente. Varón de 21 años. Único ocupante del vehículo"
+    }
+   ],
+   "pagina": 5,
+   "cita": "El maquinista del tren 6502, con carné ferroviario (CF) número 7796.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "6502",
+     "tipo": "Tren regular de viajeros",
+     "operador": "Feve",
+     "danos": "La unidad que iba en cabeza (2427) sufre daños de escasa entidad: rozaduras en la carrocería, huellas del impacto en los cofres metálicos del lateral derecho bajo el bastidor, torceduras en la chapa de intercomunicación y en la guía de enganche en el lado frontal, y perforación de la chapa del quitarreses"
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 9 de agosto de 2010, a las 17:00 horas, el tren regular de viajeros 6502 de Feve arrolla a un",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UTDEs M2427-M2477 (unidades de tren diésel-eléctricas)",
+    "averia": "Según el registrador de seguridad de la unidad en cabeza 2427, los equipos de seguridad del tren funcionaron correctamente",
+    "mantenimiento": null
+   },
+   "pagina": 9,
+   "cita": "3.4.1. Material rodante",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señalización de la vía férrea: sendos cartelones de silbar a 250 metros. Señalización del camino: en ambos lados (C1 y C2) dispone de señales de detención obligatoria (R-2) y de situación de paso a nivel sin barreras (P-11). La señalización del camino está incompleta conforme a la Orden Ministerial de 2 de agosto de 2001: carece de P-8 (paso a nivel sin barreras), P-15 (firme irregular), P-9 y P-10 (bandas de proximidad), R-301 (velocidad máxima) y R-305 (adelantamiento prohibido)",
+    "tipo_via": "Vía única electrificada con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C.)",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Pavimento del cruce del paso a nivel en mal estado, tipo bituminoso (tratamiento superficial). Sin contracarriles y con los carriles en mal estado (descarnados). Visibilidad deficiente: C1 ≥500 m; C2 165 m con maleza y columna de catenaria; C3 195 m con un árbol; C4 325 m con arbustos. La distancia de visibilidad técnica para 80 km/h es de 237 metros, siendo la real inferior en dos cuadrantes",
+    "otro": "Paso a nivel nº 68, clase A, momento de circulación AxT: 92 (A=2 y T=46)"
+   },
+   "pagina": 5,
+   "cita": "2.2.4. Descripción de la infraestructura",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señalización de la vía férrea: sendos cartelones de silbar a 250 metros. Señalización del camino: en ambos lados (C1 y C2) dispone de señales de detención obligatoria (R-2) y de situación de paso a nivel sin barreras (P-11). La señalización del camino está incompleta conforme a la Orden Ministerial de 2 de agosto de 2001: carece de P-8 (paso a nivel sin barreras), P-15 (firme irregular), P-9 y P-10 (bandas de proximidad), R-301 (velocidad máxima) y R-305 (adelantamiento prohibido)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía analógica.",
+   "pagina": 7,
+   "cita": "2.2.5. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños de escasa entidad en la unidad 2427 (rozaduras en carrocería, torceduras en chapa de intercomunicación y guía de enganche, perforación del quitarreses). La motosegadora agrícola quedó destrozada",
+    "afectacion_servicio": "Vía interceptada hasta las 17:35 horas (35 minutos). El tren implicado sufrió un retraso de 60 minutos y otros cuatro trenes de viajeros sufrieron un retraso total de 117 minutos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños de escasa entidad en la unidad 2427 (rozaduras en carrocería, torceduras en chapa de intercomunicación y guía de enganche, perforación del quitarreses). La motosegadora agrícola quedó destrozada",
+    "afectacion_servicio": "Vía interceptada hasta las 17:35 horas (35 minutos). El tren implicado sufrió un retraso de 60 minutos y otros cuatro trenes de viajeros sufrieron un retraso total de 117 minutos"
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños de escasa entidad en la unidad 2427 (rozaduras en carrocería, torceduras en chapa de intercomunicación y guía de enganche, perforación del quitarreses). La motosegadora agrícola quedó destrozada",
+    "afectacion_servicio": "Vía interceptada hasta las 17:35 horas (35 minutos). El tren implicado sufrió un retraso de 60 minutos y otros cuatro trenes de viajeros sufrieron un retraso total de 117 minutos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTDEs M2427-M2477 (unidades de tren diésel-eléctricas)",
+    "averia": "Según el registrador de seguridad de la unidad en cabeza 2427, los equipos de seguridad del tren funcionaron correctamente",
+    "mantenimiento": null
+   },
+   "pagina": 9,
+   "cita": "3.4.1. Material rodante",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señalización de la vía férrea: sendos cartelones de silbar a 250 metros. Señalización del camino: en ambos lados (C1 y C2) dispone de señales de detención obligatoria (R-2) y de situación de paso a nivel sin barreras (P-11). La señalización del camino está incompleta conforme a la Orden Ministerial de 2 de agosto de 2001: carece de P-8 (paso a nivel sin barreras), P-15 (firme irregular), P-9 y P-10 (bandas de proximidad), R-301 (velocidad máxima) y R-305 (adelantamiento prohibido)",
+    "tipo_via": "Vía única electrificada con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C.)",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Pavimento del cruce del paso a nivel en mal estado, tipo bituminoso (tratamiento superficial). Sin contracarriles y con los carriles en mal estado (descarnados). Visibilidad deficiente: C1 ≥500 m; C2 165 m con maleza y columna de catenaria; C3 195 m con un árbol; C4 325 m con arbustos. La distancia de visibilidad técnica para 80 km/h es de 237 metros, siendo la real inferior en dos cuadrantes",
+    "otro": "Paso a nivel nº 68, clase A, momento de circulación AxT: 92 (A=2 y T=46)"
+   },
+   "pagina": 5,
+   "cita": "2.2.4. Descripción de la infraestructura",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo despejado en el momento del suceso",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Cantabria",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 3,
+   "cita": "Oviedo – Santander, entre las estaciones de Casar de Periedo y Virgen de la Peña (Cantabria). Como",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo despejado en el momento del suceso",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señalización de la vía férrea: sendos cartelones de silbar a 250 metros. Señalización del camino: en ambos lados (C1 y C2) dispone de señales de detención obligatoria (R-2) y de situación de paso a nivel sin barreras (P-11). La señalización del camino está incompleta conforme a la Orden Ministerial de 2 de agosto de 2001: carece de P-8 (paso a nivel sin barreras), P-15 (firme irregular), P-9 y P-10 (bandas de proximidad), R-301 (velocidad máxima) y R-305 (adelantamiento prohibido)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señalización de la vía férrea: sendos cartelones de silbar a 250 metros. Señalización del camino: en ambos lados (C1 y C2) dispone de señales de detención obligatoria (R-2) y de situación de paso a nivel sin barreras (P-11). La señalización del camino está incompleta conforme a la Orden Ministerial de 2 de agosto de 2001: carece de P-8 (paso a nivel sin barreras), P-15 (firme irregular), P-9 y P-10 (bandas de proximidad), R-301 (velocidad máxima) y R-305 (adelantamiento prohibido)",
+    "tipo_via": "Vía única electrificada con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C.)",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Pavimento del cruce del paso a nivel en mal estado, tipo bituminoso (tratamiento superficial). Sin contracarriles y con los carriles en mal estado (descarnados). Visibilidad deficiente: C1 ≥500 m; C2 165 m con maleza y columna de catenaria; C3 195 m con un árbol; C4 325 m con arbustos. La distancia de visibilidad técnica para 80 km/h es de 237 metros, siendo la real inferior en dos cuadrantes",
+    "otro": "Paso a nivel nº 68, clase A, momento de circulación AxT: 92 (A=2 y T=46)"
+   },
+   "pagina": 5,
+   "cita": "2.2.4. Descripción de la infraestructura",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía analógica.",
+   "pagina": 7,
+   "cita": "2.2.5. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTDEs M2427-M2477 (unidades de tren diésel-eléctricas)",
+    "averia": "Según el registrador de seguridad de la unidad en cabeza 2427, los equipos de seguridad del tren funcionaron correctamente",
+    "mantenimiento": null
+   },
+   "pagina": 9,
+   "cita": "3.4.1. Material rodante",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "invasión del gálibo por vehículo agrícola",
+    "señalización del camino incompleta",
+    "visibilidad inferior a la técnica",
+    "pavimento y carriles en mal estado"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 6502 se encuentra habilitado para la conducción de vehículos ferroviarios en \nvirtud de la capacitación adquirida de conformidad con el estatuto propio y la normativa legal aplicable \na Feve \nRealizó su último reciclaje formativo el 10/04/08 y su último reconocimiento médico y psicotécnico el \n02/10/09, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 8,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 9 de agosto de 2010, el tren regular de viajeros 6502 de Feve circulaba con normalidad, en sentido Este-Oeste, entre las estaciones de Casar de Periedo y Virgen de la Peña (Cantabria). Al aproximarse al paso a nivel clase A situado en el P.K. 489+795, el maquinista apreció que un vehículo agrícola (motosegadora) se disponía a cruzar el paso, de derecha a izquierda según la marcha del tren, sin percatarse de la llegada del tren. El maquinista activó el freno de emergencia y hizo uso del silbato sin poder evitar el arrollamiento del vehículo, resultando fallecido el conductor del mismo. A las 17:00:02 horas, el maquinista accionó la bocina al percatarse de la posible invasión de la vía, cuando el tren circulaba a 73,6 km/h y se encontraba a unos 130 metros del paso a nivel. A las 17:00:03 horas, hizo uso del freno de emergencia a 102 metros del paso. A las 17:00:09 horas se produjo el arrollamiento y a las 17:00:29 horas el tren quedó detenido, tras recorrer 253 metros desde el punto donde accionó el freno de emergencia y 151 metros desde el paso a nivel. La vía quedó interceptada hasta las 17:35 horas, cuando la Guardia Civil dio la vía expedita.",
+   "pagina": 3,
+   "cita": "2.1.2. Descripción del suceso",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión del gálibo de la vía por parte del vehículo agrícola (motosegadora), que cruza por el paso a nivel cuando pasaba el tren 6502",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Señalización del camino incompleta conforme a la Orden Ministerial de 2 de agosto de 2001 (carece de P-8, P-15, P-9, P-10, R-301 y R-305)",
+    "Pavimento del cruce en mal estado, sin contracarriles y con carriles descarnados",
+    "Visibilidad real en dos cuadrantes (165 m y 195 m) inferior a la distancia de visibilidad técnica (237 m), con presencia de maleza, columna de catenaria, árbol y arbustos",
+    "El conductor del vehículo agrícola no se percató de la llegada del tren y hizo caso omiso de las señales acústicas del tren y de la señalización de STOP del paso a nivel"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001.",
+    "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Ayuntamiento de Cabezón de la Sal",
+    "Ayuntamiento de Cabezón de la Sal"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "17:00:00",
+     "evento": "Hora del suceso según resumen del informe"
+    },
+    {
+     "hora": "17:00:02",
+     "evento": "El maquinista acciona la bocina al percatarse de la posible invasión de la vía por parte de un vehículo. El tren circula a 73,6 km/h y se encuentra a unos 130 metros del paso a nivel"
+    },
+    {
+     "hora": "17:00:03",
+     "evento": "El maquinista hace uso del freno de emergencia a 73,6 km/h y a 102 metros del paso a nivel. Reitera el uso de la bocina"
+    },
+    {
+     "hora": "17:00:09",
+     "evento": "Se produce el arrollamiento del vehículo agrícola"
+    },
+    {
+     "hora": "17:00:29",
+     "evento": "El tren queda detenido, tras recorrer 253 metros desde el punto donde se accionó el freno de emergencia y 151 metros desde el paso a nivel"
+    },
+    {
+     "hora": "17:35",
+     "evento": "La Guardia Civil da la vía expedita"
+    },
+    {
+     "hora": "18:43",
+     "evento": "El inspector general de Feve comunica el suceso a la CIAF"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0044/2010",
+ "expediente": "0044/010",
+ "anio": 2010,
+ "titulo": "Arrollamiento de un vehículo agrícola en un paso a nivel en Cabezón de la Sal (Cantabria)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-090810-250211-CIAF.md"
+}

@@ -1,0 +1,919 @@
+{
+ "id": "ID-151006-020307-STACRUZ",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-151006-020307-STACRUZ.pdf",
+ "pdf": "pdfs/ES/ID-151006-020307-STACRUZ.pdf",
+ "md5_pdf": "b4b247f3acd0558e80bba25d64883c32",
+ "paginas_md": 6,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 10,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0038/2006",
+   "pagina": 1,
+   "cita": "Nº 0038/2006 OCURRIDO EL DÍA 15.10.2006 ID-151006-020307 Pág. 1 de 6 ## Página 2 Investigación del accidente nº 38/2006 ocurrido el 15.10.2006 SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y PLANIFICACIÓN",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 15 de octubre de 2006, a las 13:00, una persona falleció al ser arrollada por el tren de viajeros 15695 de Renfe en la estación de Santa Cruz de Mudela, provincia de Ciudad Real. La víctima, un varón de 80 años, cruzaba las vías en una zona no autorizada, próxima a los desvíos de entrada, mientras el tren circulaba por vía II a 96 km/h, por debajo de los 110 km/h permitidos. No hubo daños materiales, pero la circulación quedó suspendida en las vías I y II entre las 13:00 y las 16:15, con retrasos acumulados de 51 minutos en 2 trenes. Las investigaciones atribuyeron el origen al tránsito indebido de la víctima y recomendaron vallar zonas expuestas al paso irregular de personas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2006-10-15",
+    "hora": "13:00",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Santa Cruz de Mudela",
+     "pk": "239,544",
+     "linea": "Alcázar de San Juan-Cádiz",
+     "provincia": "Ciudad Real",
+     "descripcion_lugar": "Estación de transición, situada a 505 metros del edificio de viajeros en el punto kilométrico 239,544 de la línea Alcázar de San Juan-Cádiz. Cuenta con una playa de cinco vías, dos generales y tres de apartado. El arrollamiento se produjo en la zona de los desvíos de entrada. El perímetro exterior presentaba un antiguo cerramiento de obra en avanzado estado de deterioro en el lado este y un cerramiento discontinuo en el lado oeste. Existen pasos inferiores de tierra para peatones y determinado tipo de vehículos en los P.K. 239,781 y 240,239. La estación está ubicada en una zona rural."
+    }
+   },
+   "pagina": 3,
+   "cita": "Andrés Condal, el día 15 de octubre de 2006 a las 13 horas y 00 minutos en la estación de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Retrasos acumulados de 51 minutos con 2 trenes afectados. Circulación suspendida por vías I y II de la estación desde las 13:00 hasta las 16:15 horas."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Tránsito de la víctima por las vías de la estación, lugar no autorizado para personas, que provocó su invasión de la caja de vía y el arrollamiento por el tren 15695. ADIF y Renfe concluyen que el accidente se origina por imprudencia de la víctima.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El perímetro de la estación no disponía en la zona de un cerramiento en condiciones aceptables.",
+    "La víctima mostró desconcierto o desorientación al silbar la locomotora, retrocediendo y volviendo a entrar en la caja de vía.",
+    "El arrollamiento se produjo en la zona de desvíos de entrada a la estación, con varias vías próximas."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Exposición del perímetro de la estación al tránsito irregular de personas no autorizadas, especialmente en zonas rurales o con cerramientos deteriorados o discontinuos."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Se estima conveniente recomendar el vallado, por el administrador de la infraestructura, de aquellas zonas particularmente expuestas al tránsito irregular por personas no autorizadas.",
+     "destinatario": "ADIF (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": 6,
+   "cita": "7. RECOMENDACIONES Se estima conveniente recomendar el vallado por el administrador de la infraestructura, de aquellas zonas particularmente expuestas al transito irregular por personas no autorizadas. 8. COMENTARIO",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Se estima conveniente recomendar el vallado, por el administrador de la infraestructura, de aquellas zonas particularmente expuestas al tránsito irregular por personas no autorizadas.",
+     "destinatario": "ADIF (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": 6,
+   "cita": "7. RECOMENDACIONES Se estima conveniente recomendar el vallado por el administrador de la infraestructura, de aquellas zonas particularmente expuestas al transito irregular por personas no autorizadas. 8. COMENTARIO",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "Renfe"
+   ],
+   "pagina": 2,
+   "cita": "(ADIF), comunicó por correo electrónico que se había producido el arrollamiento de una",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2006-10-15",
+   "pagina": 3,
+   "cita": "Andrés Condal, el día 15 de octubre de 2006 a las 13 horas y 00 minutos en la estación de",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "13:00",
+   "pagina": 4,
+   "cita": "La circulación quedó suspendida por vías I y II de la estación desde las 13:00 horas hasta",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Santa Cruz de Mudela",
+    "pk": "239,544",
+    "linea": "Alcázar de San Juan-Cádiz",
+    "provincia": "Ciudad Real",
+    "descripcion_lugar": "Estación de transición, situada a 505 metros del edificio de viajeros en el punto kilométrico 239,544 de la línea Alcázar de San Juan-Cádiz. Cuenta con una playa de cinco vías, dos generales y tres de apartado. El arrollamiento se produjo en la zona de los desvíos de entrada. El perímetro exterior presentaba un antiguo cerramiento de obra en avanzado estado de deterioro en el lado este y un cerramiento discontinuo en el lado oeste. Existen pasos inferiores de tierra para peatones y determinado tipo de vehículos en los P.K. 239,781 y 240,239. La estación está ubicada en una zona rural."
+   },
+   "pagina": 5,
+   "cita": "regula el CTC, desde el puesto de mando de Manzanares, entre las estaciones de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Alcázar de San Juan-Cádiz",
+   "pagina": 2,
+   "cita": "Línea: Alcázar de San Juan-Cádiz.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 252043; tren de 9 vehículos y 449 toneladas remolcadas.",
+    "averia": "No se produjeron daños materiales.",
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 15 de octubre de 2006, a las 13:00 horas, una persona que cruzaba las vías de la estación de Santa Cruz de Mudela falleció como consecuencia del arrollamiento por el tren de viajeros nº 15695 de Renfe. El tren estaba compuesto por la locomotora 252043, 9 vehículos y 449 toneladas remolcadas, y circulaba por vía II con origen Málaga y destino Barcelona San Andrés Condal, sin parada prescrita en dicha estación. La víctima era un varón de 80 años.\n\nSegún la declaración del maquinista, al llegar a la estación apareció de súbito una persona invadiendo la caja de la vía por la que circulaba el tren; tras el silbato y el freno de emergencia, la persona volvió a cruzar en sentido contrario, probablemente desorientada, y no se pudo evitar el arrollamiento. El personal de servicio del tren acudió a prestar auxilio y se avisó al Puesto de Mando de Manzanares, que informó a los servicios de emergencia y a las Fuerzas de Seguridad del Estado.\n\nNo se produjeron daños materiales. El levantamiento del cadáver fue autorizado por la autoridad judicial a las 16:10 horas. La circulación quedó suspendida por las vías I y II desde las 13:00 hasta las 16:15 horas, produciéndose retrasos acumulados de 51 minutos y afectación a 2 trenes. Al día siguiente, agentes de ADIF inspeccionaron el lugar.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Santa Cruz de Mudela",
+    "pk": "239,544",
+    "linea": "Alcázar de San Juan-Cádiz",
+    "provincia": "Ciudad Real",
+    "descripcion_lugar": "Estación de transición, situada a 505 metros del edificio de viajeros en el punto kilométrico 239,544 de la línea Alcázar de San Juan-Cádiz. Cuenta con una playa de cinco vías, dos generales y tres de apartado. El arrollamiento se produjo en la zona de los desvíos de entrada. El perímetro exterior presentaba un antiguo cerramiento de obra en avanzado estado de deterioro en el lado este y un cerramiento discontinuo en el lado oeste. Existen pasos inferiores de tierra para peatones y determinado tipo de vehículos en los P.K. 239,781 y 240,239. La estación está ubicada en una zona rural."
+   },
+   "pagina": 5,
+   "cita": "regula el CTC, desde el puesto de mando de Manzanares, entre las estaciones de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Retrasos acumulados de 51 minutos con 2 trenes afectados. Circulación suspendida por vías I y II de la estación desde las 13:00 hasta las 16:15 horas."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Coordinador de accidentes ferroviarios de ADIF",
+     "implicacion": "Comunicó por correo electrónico el arrollamiento de una persona fallecida."
+    },
+    {
+     "rol": "Supervisor de Línea de la Jefatura Técnica de Operaciones La Mancha",
+     "implicacion": "Fue nombrado jefe delegado del accidente."
+    },
+    {
+     "rol": "Supervisores de circulación del Puesto de Mando de Manzanares",
+     "implicacion": "Dos supervisores fueron nombrados portavoces de la información."
+    },
+    {
+     "rol": "Maquinista del tren 15695",
+     "implicacion": "Conducía el tren en el momento del arrollamiento. Usó el silbato de la locomotora y el freno de emergencia, sin poder evitar el impacto. Realizó declaración voluntaria ante la Guardia Civil. Jornada efectiva el día del incidente: 3 horas y 16 minutos; día anterior: descanso; último reconocimiento médico: 17.02.2005; último reciclaje en Normas de Circulación: 08.05.2006."
+    },
+    {
+     "rol": "Personal de servicio del tren",
+     "implicacion": "Se personó en el lugar de los hechos para prestar auxilio y llamó al puesto de mando para que avisaran a la Guardia Civil y a los servicios de emergencia."
+    },
+    {
+     "rol": "Fuerzas de Seguridad del Estado",
+     "implicacion": "Procedieron a la custodia del cadáver hasta que la autoridad judicial autorizó su levantamiento."
+    },
+    {
+     "rol": "Agentes de ADIF",
+     "implicacion": "Al día siguiente se personaron en la estación para la toma de datos e inspección del lugar del arrollamiento."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El supervisor de Línea de la Jefatura Técnica de Operaciones La Mancha, que fue",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "15695",
+     "tipo": "Tren de viajeros",
+     "operador": "Renfe",
+     "danos": "No se produjeron daños materiales."
+    }
+   ],
+   "pagina": 3,
+   "cita": "como consecuencia de su arrollamiento por el tren de viajeros nº 15695 de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 252043; tren de 9 vehículos y 449 toneladas remolcadas.",
+    "averia": "No se produjeron daños materiales.",
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Estación de transición de bloqueo automático de vía única con CTC a bloqueo automático banalizado de vía doble con CTC. La circulación se realizaba conforme a la Consigna serie A nº1780, de 10 de mayo de 1993, que regula el CTC desde el Puesto de Mando de Manzanares entre Alcázar de San Juan y Linares-Baeza.",
+    "tipo_via": "Vía doble en la estación; playa de cinco vías: vías I y II generales y tres vías de apartado.",
+    "velocidad_maxima": "110 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "No se describe el estado de la vía; el arrollamiento se produjo en la zona de desvíos de entrada a la estación.",
+    "otro": "El P.K. 239,544 está distante 505 metros del edificio de viajeros. En el lado este existe un antiguo cerramiento de obra en avanzado estado de deterioro y en el lado oeste un cerramiento discontinuo. En los P.K. 239,781 y 240,239 existen sendos pasos inferiores de tierra para peatones y determinado tipo de vehículos. La estación está ubicada en una zona rural y el perímetro no disponía en la zona de un cerramiento en condiciones aceptables."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Estación de transición de bloqueo automático de vía única con CTC a",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Estación de transición de bloqueo automático de vía única con CTC a bloqueo automático banalizado de vía doble con CTC. La circulación se realizaba conforme a la Consigna serie A nº1780, de 10 de mayo de 1993, que regula el CTC desde el Puesto de Mando de Manzanares entre Alcázar de San Juan y Linares-Baeza.",
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Estación de transición de bloqueo automático de vía única con CTC a",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Retrasos acumulados de 51 minutos con 2 trenes afectados. Circulación suspendida por vías I y II de la estación desde las 13:00 hasta las 16:15 horas."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Retrasos acumulados de 51 minutos con 2 trenes afectados. Circulación suspendida por vías I y II de la estación desde las 13:00 hasta las 16:15 horas."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Retrasos acumulados de 51 minutos con 2 trenes afectados. Circulación suspendida por vías I y II de la estación desde las 13:00 hasta las 16:15 horas."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252043; tren de 9 vehículos y 449 toneladas remolcadas.",
+    "averia": "No se produjeron daños materiales.",
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Estación de transición de bloqueo automático de vía única con CTC a bloqueo automático banalizado de vía doble con CTC. La circulación se realizaba conforme a la Consigna serie A nº1780, de 10 de mayo de 1993, que regula el CTC desde el Puesto de Mando de Manzanares entre Alcázar de San Juan y Linares-Baeza.",
+    "tipo_via": "Vía doble en la estación; playa de cinco vías: vías I y II generales y tres vías de apartado.",
+    "velocidad_maxima": "110 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "No se describe el estado de la vía; el arrollamiento se produjo en la zona de desvíos de entrada a la estación.",
+    "otro": "El P.K. 239,544 está distante 505 metros del edificio de viajeros. En el lado este existe un antiguo cerramiento de obra en avanzado estado de deterioro y en el lado oeste un cerramiento discontinuo. En los P.K. 239,781 y 240,239 existen sendos pasos inferiores de tierra para peatones y determinado tipo de vehículos. La estación está ubicada en una zona rural y el perímetro no disponía en la zona de un cerramiento en condiciones aceptables."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Estación de transición de bloqueo automático de vía única con CTC a",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Ciudad Real",
+    "municipio": null,
+    "estacion": "Santa Cruz de Mudela"
+   },
+   "pagina": 2,
+   "cita": "Mudela, en la provincia de Ciudad Real, en el punto kilométrico 239,544 de la Línea Alcázar de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Estación de transición de bloqueo automático de vía única con CTC a bloqueo automático banalizado de vía doble con CTC. La circulación se realizaba conforme a la Consigna serie A nº1780, de 10 de mayo de 1993, que regula el CTC desde el Puesto de Mando de Manzanares entre Alcázar de San Juan y Linares-Baeza.",
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Estación de transición de bloqueo automático de vía única con CTC a",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Estación de transición de bloqueo automático de vía única con CTC a bloqueo automático banalizado de vía doble con CTC. La circulación se realizaba conforme a la Consigna serie A nº1780, de 10 de mayo de 1993, que regula el CTC desde el Puesto de Mando de Manzanares entre Alcázar de San Juan y Linares-Baeza.",
+    "tipo_via": "Vía doble en la estación; playa de cinco vías: vías I y II generales y tres vías de apartado.",
+    "velocidad_maxima": "110 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "No se describe el estado de la vía; el arrollamiento se produjo en la zona de desvíos de entrada a la estación.",
+    "otro": "El P.K. 239,544 está distante 505 metros del edificio de viajeros. En el lado este existe un antiguo cerramiento de obra en avanzado estado de deterioro y en el lado oeste un cerramiento discontinuo. En los P.K. 239,781 y 240,239 existen sendos pasos inferiores de tierra para peatones y determinado tipo de vehículos. La estación está ubicada en una zona rural y el perímetro no disponía en la zona de un cerramiento en condiciones aceptables."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Estación de transición de bloqueo automático de vía única con CTC a",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252043; tren de 9 vehículos y 449 toneladas remolcadas.",
+    "averia": "No se produjeron daños materiales.",
+    "mantenimiento": null
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños materiales.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Cruce irregular por víctima",
+    "Cerramiento exterior deteriorado",
+    "Cerramiento discontinuo lado oeste",
+    "Falta de vallado en zona"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(ADIF), comunicó por correo electrónico que se había producido el arrollamiento de una \npersona resultando fallecida la misma. El accidente se produjo en la estación de Santa Cruz de \nMudela, en la provincia de Ciudad Real, en el punto kilométrico 239,544 de la Línea Alcázar de \nSan Juan-Cádiz, perteneciente a la Red Ferroviaria de Interés General administrada por ADIF. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles. Investigación \nque tendrá como finalidad determinar sus causas y formular recomendaciones para reducir los \nriesgos en el transporte ferroviario de acuerdo con el artículo 112 del citado Reglamento. \nReglamento que traspone parcialmente la Directiva 2004/49/CE del Parlamento Europeo de 29 \nde abril de 2004 sobre la seguridad de los ferrocarriles comunitarios, que en su  Artículo 19 \ncircunscribe la investigación a la mejora de la seguridad, y en ningún caso a la determinación \nde culpas o responsabilidades. \nDe conformidad también con el artículo 112 del mencionado Reglamento, el 1 de \nseptiembre de 2006 la Dirección General de Ferrocarriles designó el equipo de investigación \nde accidentes ferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (ADIF), comunicó por correo electrónico que se había producido el arrollamiento de una persona resultando fa",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 15 de octubre de 2006, a las 13:00 horas, una persona que cruzaba las vías de la estación de Santa Cruz de Mudela falleció como consecuencia del arrollamiento por el tren de viajeros nº 15695 de Renfe. El tren estaba compuesto por la locomotora 252043, 9 vehículos y 449 toneladas remolcadas, y circulaba por vía II con origen Málaga y destino Barcelona San Andrés Condal, sin parada prescrita en dicha estación. La víctima era un varón de 80 años.\n\nSegún la declaración del maquinista, al llegar a la estación apareció de súbito una persona invadiendo la caja de la vía por la que circulaba el tren; tras el silbato y el freno de emergencia, la persona volvió a cruzar en sentido contrario, probablemente desorientada, y no se pudo evitar el arrollamiento. El personal de servicio del tren acudió a prestar auxilio y se avisó al Puesto de Mando de Manzanares, que informó a los servicios de emergencia y a las Fuerzas de Seguridad del Estado.\n\nNo se produjeron daños materiales. El levantamiento del cadáver fue autorizado por la autoridad judicial a las 16:10 horas. La circulación quedó suspendida por las vías I y II desde las 13:00 hasta las 16:15 horas, produciéndose retrasos acumulados de 51 minutos y afectación a 2 trenes. Al día siguiente, agentes de ADIF inspeccionaron el lugar.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR LA EMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl ADIF concluye “El accidente se origina por imprudencia de la víctima. En el lugar donde se \nproduce, está prohibido el tránsito y la entrada de personas: Artículo 295 2.C de la LOTT (R.D\n1211/1990 de 28.09, B.O.E  de 08.10.1990) Capítulo V , Régimen Sancionador”  \n. \n.\nI\n.\nt\n,\nt\n \nPor su parte la empresa Renfe concluye, “El acciden e se produce por imprudencia de la \nvíctima  ya que en el lugar del arrollamien o está prohibida la entrada y el tránsito de \npersonas, según el artículo 295 de la LOTT”.  \nPor tanto, ambas conclusiones son coincidentes en cuanto a la causa del accidente.",
+   "pagina": 6,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Tránsito de la víctima por las vías de la estación, lugar no autorizado para personas, que provocó su invasión de la caja de vía y el arrollamiento por el tren 15695. ADIF y Renfe concluyen que el accidente se origina por imprudencia de la víctima.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El perímetro de la estación no disponía en la zona de un cerramiento en condiciones aceptables.",
+    "La víctima mostró desconcierto o desorientación al silbar la locomotora, retrocediendo y volviendo a entrar en la caja de vía.",
+    "El arrollamiento se produjo en la zona de desvíos de entrada a la estación, con varias vías próximas."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Se estima que el accidente tuvo su origen en el tránsito de la víctima por las vías que \nconforman la estación de Santa Cruz de Mudela, lugar no autorizado para ello.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES Se estima que el accidente tuvo su origen en el tránsito de la víctima por las vías que conforman la estación de Santa Cruz de Mudela, lugar no autorizado para ello. 7. RECOMENDACIONES Se estima con",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Se estima que el accidente tuvo su origen en el tránsito de la víctima por las vías que \nconforman la estación de Santa Cruz de Mudela, lugar no autorizado para ello.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES Se estima que el accidente tuvo su origen en el tránsito de la víctima por las vías que conforman la estación de Santa Cruz de Mudela, lugar no autorizado para ello. 7. RECOMENDACIONES Se estima con",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Se estima conveniente recomendar el vallado, por el administrador de la infraestructura, de aquellas zonas particularmente expuestas al tránsito irregular por personas no autorizadas.",
+     "destinatario": "ADIF (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": 6,
+   "cita": "7. RECOMENDACIONES Se estima conveniente recomendar el vallado por el administrador de la infraestructura, de aquellas zonas particularmente expuestas al transito irregular por personas no autorizadas. 8. COMENTARIO",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": null,
+     "evento": "El coordinador de accidentes ferroviarios de ADIF comunicó por correo electrónico que se había producido el arrollamiento de una persona fallecida."
+    },
+    {
+     "hora": null,
+     "evento": "El 1 de septiembre de 2006, la Dirección General de Ferrocarriles designó el equipo de investigación de accidentes ferroviarios."
+    },
+    {
+     "hora": "13:00",
+     "evento": "Arrollamiento de una persona por el tren de viajeros 15695 en la estación de Santa Cruz de Mudela, en el P.K. 239,544."
+    },
+    {
+     "hora": "13:00",
+     "evento": "El maquinista informa inmediatamente del suceso al Puesto de Mando de Manzanares, que cursa aviso a servicios de emergencia, Fuerzas de Seguridad del Estado, ADIF y RENFE Operadora."
+    },
+    {
+     "hora": "13:00",
+     "evento": "Queda suspendida la circulación por las vías I y II de la estación."
+    },
+    {
+     "hora": "16:10",
+     "evento": "La autoridad judicial autoriza el levantamiento del cadáver."
+    },
+    {
+     "hora": "16:15",
+     "evento": "Se restablece la circulación por las vías I y II de la estación."
+    },
+    {
+     "hora": null,
+     "evento": "Al día siguiente, agentes de ADIF se personan en la estación para toma de datos e inspección del lugar del arrollamiento."
+    },
+    {
+     "hora": null,
+     "evento": "El 2 de marzo de 2007, en Madrid, se firma el informe definitivo de la investigación."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0038/2006",
+ "expediente": "0038/2006",
+ "anio": 2006,
+ "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0038/2006 OCURRIDO EL DÍA 15.10.2006",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-151006-020307-STACRUZ.md"
+}

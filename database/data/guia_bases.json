@@ -1,0 +1,67 @@
+[
+ [
+  "Código",
+  "Documento / base",
+  "Uso principal propuesto"
+ ],
+ [
+  "B1",
+  "Reglamento de Ejecución (UE) 2020/572",
+  "Estructura y contenido de los informes de investigación; factores causales, coadyuvantes y sistémicos; cadena de acontecimientos, HOF y recomendaciones."
+ ],
+ [
+  "B2",
+  "Real Decreto 929/2020, Anexo III",
+  "Clasificación española de sucesos y causas directas; base principal para tipo de suceso y causa directa."
+ ],
+ [
+  "B3",
+  "Directiva (UE) 2016/798, Anexo I · Indicadores Comunes de Seguridad (CSI)",
+  "Accidentes, víctimas, precursores, daños, mercancías peligrosas y definiciones estadísticas."
+ ],
+ [
+  "B4",
+  "Directiva (UE) 2016/797, Anexo II",
+  "Clasificación oficial de subsistemas ferroviarios."
+ ],
+ [
+  "B5",
+  "RINF · Reglamento de Ejecución (UE) 2019/777 y vocabulario/guía ERA + CIRTRA/ADIF",
+  "Localización y características de infraestructura, puntos operacionales, líneas, parámetros y elementos de red."
+ ],
+ [
+  "B6",
+  "EVR + ERATV + Decisión de Ejecución (UE) 2018/1614",
+  "Identificación, matrícula/EVN y características de vehículos y tipos de material rodante."
+ ],
+ [
+  "B7",
+  "ERA Organisation Code Register + ERADIS",
+  "Identificación normalizada de administradores, empresas ferroviarias y otras organizaciones del sector."
+ ],
+ [
+  "B8",
+  "ETI OPE, ETI CCS, ETI INF + Reglamento de Circulación Ferroviaria (RD 664/2015)",
+  "Explotación, señalización/protección, comunicaciones e infraestructura; categorías técnicas y operativas."
+ ],
+ [
+  "B9",
+  "Reglamento Delegado (UE) 2018/762 + documentación ERA de Human and Organisational Factors",
+  "Sistema de gestión de la seguridad, competencias, organización, factores humanos y organizativos."
+ ],
+ [
+  "B10",
+  "AEMET OpenData + WMO Manual on Codes",
+  "Variables meteorológicas, fenómenos, unidades y codificación homogénea."
+ ],
+ [
+  "B11",
+  "RID vigente",
+  "Mercancías peligrosas, clases y números UN."
+ ],
+ [
+  "B12",
+  "ERA Railway Terminology Collection + taxonomías históricas ERA/ERAIL",
+  "Terminología, sinónimos y mappings auxiliares para homogeneizar vocabulario manteniendo trazabilidad."
+ ]
+]

@@ -1,0 +1,877 @@
+{
+ "id": "IF-140109-190509-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/4B3E3EF2-9FE6-4FFC-8A3A-734232336A55/47501/209IF140109190509CIAF.pdf",
+ "pdf": "pdfs/ES/IF-140109-190509-CIAF.pdf",
+ "md5_pdf": "7e7de86a942442cca62a6b2844a7ca69",
+ "paginas_md": 14,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 5,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0002/2009",
+   "pagina": 1,
+   "cita": "nº 0002/2009 ocurrido el 14.01.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 14 de enero de 2009, a las 10:57, el tren de cercanías 22321 de Renfe Operadora arrolló a una mujer en un paso a nivel clase C de la estación de Avilés, P.K. 16,863, línea 144. La víctima cruzó sorteando las semibarreras bajadas, con señales acústicas y luminosas funcionando correctamente. El maquinista usó silbato y freno de emergencia, pero no pudo evitar el impacto, y la mujer falleció en el acto. La investigación concluyó que el origen fue el cruce indebido de la víctima y no estableció recomendaciones por estar prevista la supresión del paso a nivel.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-01-14",
+    "hora": "10:57",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Avilés",
+     "pk": "16,863",
+     "linea": "144 San Juan de Nieva – Villabona",
+     "provincia": "Asturias",
+     "descripcion_lugar": "Paso a nivel clase C situado en la estación de Avilés, tramo Nubledo - Avilés. Zona urbana, trazado recto y buena visibilidad. Por el lado izquierdo existe un muro de separación con la calle del Muelle, de 1 metro de altura, más una valla metálica de 0,8 metros; por el lado derecho están el apeadero de Avilés de FEVE, un aparcamiento y la ría de Avilés. Es una zona muy transitada."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 14 de enero de 2009, a las 10:57 horas, el tren de cercanías 22321, de la empresa",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Vía interceptada desde las 10:57 hasta las 12:21, durante 1 hora y 24 minutos. Dos trenes de cercanías afectados con un retraso total de 20 minutos. El tren implicado sufrió un retraso de 47 minutos y fue suprimido entre las estaciones de Avilés y San Juan de Nieva."
+   },
+   "pagina": 7,
+   "cita": "Víctimas mortales Una mujer de 49 años. Daños materiales No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente. Minutos perdidos. Interceptación de vía Resultan afectados",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "La víctima cruzó el paso a nivel sorteando las semibarreras bajadas, cuando las protecciones estaban activadas y el tren 22321 circulaba por él.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Dadas las circunstancias en que se produjo el suceso, y que está prevista la supresión de este paso a nivel, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "Recomendación Dadas las circunstancias en que se produjo el suceso, y que está prevista la supresión de este paso a nivel, no se establecen recomendaciones 2. HECHOS INMEDIATOS DEL SUCESO 2.1 SUCESO Día / Hor",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Dadas las circunstancias en que se produjo el suceso, y que está prevista la supresión de este paso a nivel, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "Recomendación Dadas las circunstancias en que se produjo el suceso, y que está prevista la supresión de este paso a nivel, no se establecen recomendaciones 2. HECHOS INMEDIATOS DEL SUCESO 2.1 SUCESO Día / Hor",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de una persona",
+   "pagina": 5,
+   "cita": "Investigación de accidentes ferroviarios que se había producido el arrollamiento de una persona, en el",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "ferroviaria Renfe Operadora, procedente de Oviedo y destino San Juan de Nieva, arrolla a una",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-01-14",
+   "pagina": 3,
+   "cita": "El día 14 de enero de 2009, a las 10:57 horas, el tren de cercanías 22321, de la empresa",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "10:57",
+   "pagina": 3,
+   "cita": "El día 14 de enero de 2009, a las 10:57 horas, el tren de cercanías 22321, de la empresa",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Avilés",
+    "pk": "16,863",
+    "linea": "144 San Juan de Nieva – Villabona",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Paso a nivel clase C situado en la estación de Avilés, tramo Nubledo - Avilés. Zona urbana, trazado recto y buena visibilidad. Por el lado izquierdo existe un muro de separación con la calle del Muelle, de 1 metro de altura, más una valla metálica de 0,8 metros; por el lado derecho están el apeadero de Avilés de FEVE, un aparcamiento y la ría de Avilés. Es una zona muy transitada."
+   },
+   "pagina": 7,
+   "cita": "A las 11:41 horas el tren 22321 reanuda la marcha, quedando estacionado en la estación de Avilés.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "144 San Juan de Nieva – Villabona",
+   "pagina": 3,
+   "cita": "144 San Juan de Nieva – Villabona (Oviedo)",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Automotor 463010-9; tren de cercanías 22321; Nº UIC 967194630109.",
+    "averia": "No se produjeron daños ni averías. Los equipos de seguridad del tren, incluidos freno, ASFA y sistemas de vigilancia, funcionaron correctamente. Según el registrador de seguridad, el tren circulaba a 76 km/h en el momento del accidente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El 14 de enero de 2009, a las 10:57, el tren de cercanías 22321 de Renfe Operadora, procedente de Oviedo y con destino San Juan de Nieva, arrolló a una mujer al entrar en la estación de Avilés, en el paso a nivel clase C del P.K. 16,863 de la línea 144 San Juan de Nieva – Villabona. La víctima cruzaba la vía de izquierda a derecha, en el sentido de la marcha del tren, cuando las semibarreras estaban bajadas y las señales acústicas y luminosas para vehículos y peatones funcionaban correctamente.\n\nEl maquinista, al advertir la invasión de la caja de la vía, hizo uso del silbato en repetidas ocasiones y aplicó el freno de emergencia, pero no pudo evitar el arrollamiento. La mujer falleció en el acto como consecuencia del impacto, y el cuerpo quedó fuera de la caja de la vía, entre las vías de Adif y FEVE.\n\nTras el suceso, el maquinista comunicó el accidente al Puesto de Mando de Oviedo, desde donde se informó al servicio de urgencias 112, al Centro de Protección y Seguridad de Adif, a Renfe Operadora y a otras instancias. A las 11:41 el tren 22321 reanudó la marcha y quedó estacionado en la estación de Avilés; a las 12:21 se levantó el cadáver y se reanudó la circulación en condiciones normales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Avilés",
+    "pk": "16,863",
+    "linea": "144 San Juan de Nieva – Villabona",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Paso a nivel clase C situado en la estación de Avilés, tramo Nubledo - Avilés. Zona urbana, trazado recto y buena visibilidad. Por el lado izquierdo existe un muro de separación con la calle del Muelle, de 1 metro de altura, más una valla metálica de 0,8 metros; por el lado derecho están el apeadero de Avilés de FEVE, un aparcamiento y la ría de Avilés. Es una zona muy transitada."
+   },
+   "pagina": 7,
+   "cita": "A las 11:41 horas el tren 22321 reanuda la marcha, quedando estacionado en la estación de Avilés.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Vía interceptada desde las 10:57 hasta las 12:21, durante 1 hora y 24 minutos. Dos trenes de cercanías afectados con un retraso total de 20 minutos. El tren implicado sufrió un retraso de 47 minutos y fue suprimido entre las estaciones de Avilés y San Juan de Nieva."
+   },
+   "pagina": 7,
+   "cita": "Víctimas mortales Una mujer de 49 años. Daños materiales No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente. Minutos perdidos. Interceptación de vía Resultan afectados",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren de cercanías 22321",
+     "implicacion": "Matrícula 9713520. Condujo el tren; observó la invasión de la vía, usó el silbato y el freno de emergencia; actuación correcta. Poseía título de conducción habilitado; último reciclaje formativo 2008-01-22; último reconocimiento médico y psicotécnico 2006-06-05. Prueba de alcoholemia negativa: 0,00 mg/1000 ml. Jornada de conducción: 3 h 32 min el día del accidente; 5 h 24 min en las 24 horas anteriores; 4 h 34 min en las 48 horas anteriores."
+    },
+    {
+     "rol": "Peatón/víctima",
+     "implicacion": "Mujer de 49 años que cruzó el paso a nivel de izquierda a derecha, sentido de la marcha del tren, sorteando las semibarreras bajadas; falleció en el acto."
+    },
+    {
+     "rol": "Coordinador de accidentes ferroviarios de Adif",
+     "implicacion": "Comunicó el suceso a la Comisión de Investigación de Accidentes Ferroviarios el 14 de enero de 2009 a las 12:14."
+    }
+   ],
+   "pagina": 5,
+   "cita": " El Maquinista principal del tren de cercanías 22321.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "22321",
+     "tipo": "tren de cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños en el material rodante."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 14 de enero de 2009, a las 10:57 horas, el tren de cercanías 22321, de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Automotor 463010-9; tren de cercanías 22321; Nº UIC 967194630109.",
+    "averia": "No se produjeron daños ni averías. Los equipos de seguridad del tren, incluidos freno, ASFA y sistemas de vigilancia, funcionaron correctamente. Según el registrador de seguridad, el tren circulaba a 76 km/h en el momento del accidente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 5,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase C dotado de semibarreras enclavadas y señales acústicas y luminosas; señales luminosas en ambos lados para peatones y vehículos. Funcionaron correctamente.",
+    "tipo_via": "Vía única, con bloqueo automático y control de tráfico centralizado.",
+    "velocidad_maxima": "75 km/h al paso por el punto del arrollamiento; según Consigna C Experimental nº 69, el tren podía circular a una velocidad máxima de 80 km/h.",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Tramo de trazado recto y buena visibilidad, en zona urbana. Pavimento del camino carretero de asfalto y del paso peatonal de caucho tipo strail.",
+    "otro": "Momento de circulación AxT: 9.791. Según el registrador de eventos del paso a nivel, las semibarreras estuvieron bajadas durante 3 minutos y 55 segundos. Sistemas de comunicación: radiotelefonía modalidad A. El paso a nivel iba a ser suprimido por el Estudio de integración del ferrocarril en Avilés. Media semanal de circulaciones del tramo Nubledo - Avilés: 370, de las cuales 349 de cercanías, 20 de mercancías y 1 de servicio. Precedente: el 28 de marzo de 2006 se produjo un arrollamiento similar en el P.K. 16,780 de la misma línea, a pocos metros."
+   },
+   "pagina": 6,
+   "cita": "La línea es de vía única, con bloqueo automático y control de tráfico centralizado.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso a nivel clase C dotado de semibarreras enclavadas y señales acústicas y luminosas; señales luminosas en ambos lados para peatones y vehículos. Funcionaron correctamente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Vía interceptada desde las 10:57 hasta las 12:21, durante 1 hora y 24 minutos. Dos trenes de cercanías afectados con un retraso total de 20 minutos. El tren implicado sufrió un retraso de 47 minutos y fue suprimido entre las estaciones de Avilés y San Juan de Nieva."
+   },
+   "pagina": 7,
+   "cita": "Víctimas mortales Una mujer de 49 años. Daños materiales No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente. Minutos perdidos. Interceptación de vía Resultan afectados",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Vía interceptada desde las 10:57 hasta las 12:21, durante 1 hora y 24 minutos. Dos trenes de cercanías afectados con un retraso total de 20 minutos. El tren implicado sufrió un retraso de 47 minutos y fue suprimido entre las estaciones de Avilés y San Juan de Nieva."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, en la infraestructura ni en el medio ambiente.",
+    "afectacion_servicio": "Vía interceptada desde las 10:57 hasta las 12:21, durante 1 hora y 24 minutos. Dos trenes de cercanías afectados con un retraso total de 20 minutos. El tren implicado sufrió un retraso de 47 minutos y fue suprimido entre las estaciones de Avilés y San Juan de Nieva."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 463010-9; tren de cercanías 22321; Nº UIC 967194630109.",
+    "averia": "No se produjeron daños ni averías. Los equipos de seguridad del tren, incluidos freno, ASFA y sistemas de vigilancia, funcionaron correctamente. Según el registrador de seguridad, el tren circulaba a 76 km/h en el momento del accidente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase C dotado de semibarreras enclavadas y señales acústicas y luminosas; señales luminosas en ambos lados para peatones y vehículos. Funcionaron correctamente.",
+    "tipo_via": "Vía única, con bloqueo automático y control de tráfico centralizado.",
+    "velocidad_maxima": "75 km/h al paso por el punto del arrollamiento; según Consigna C Experimental nº 69, el tren podía circular a una velocidad máxima de 80 km/h.",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Tramo de trazado recto y buena visibilidad, en zona urbana. Pavimento del camino carretero de asfalto y del paso peatonal de caucho tipo strail.",
+    "otro": "Momento de circulación AxT: 9.791. Según el registrador de eventos del paso a nivel, las semibarreras estuvieron bajadas durante 3 minutos y 55 segundos. Sistemas de comunicación: radiotelefonía modalidad A. El paso a nivel iba a ser suprimido por el Estudio de integración del ferrocarril en Avilés. Media semanal de circulaciones del tramo Nubledo - Avilés: 370, de las cuales 349 de cercanías, 20 de mercancías y 1 de servicio. Precedente: el 28 de marzo de 2006 se produjo un arrollamiento similar en el P.K. 16,780 de la misma línea, a pocos metros."
+   },
+   "pagina": 6,
+   "cita": "La línea es de vía única, con bloqueo automático y control de tráfico centralizado.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Era de día y el tiempo era despejado.",
+   "pagina": 7,
+   "cita": "En el momento del arrollamiento era de día y el tiempo era despejado.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Asturias",
+    "municipio": null,
+    "estacion": "Avilés"
+   },
+   "pagina": 3,
+   "cita": "Asturias El tren de cercanías 22321 de Renfe Operadora, a su entrada en la estación de Avilés, procedente de Oviedo y destino San Juan de Nieva, arrolla a una mujer que cruzaba el paso a nivel, situado en el P.K. 16,8",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Era de día y el tiempo era despejado.",
+   "pagina": 7,
+   "cita": "En el momento del arrollamiento era de día y el tiempo era despejado.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso a nivel clase C dotado de semibarreras enclavadas y señales acústicas y luminosas; señales luminosas en ambos lados para peatones y vehículos. Funcionaron correctamente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase C dotado de semibarreras enclavadas y señales acústicas y luminosas; señales luminosas en ambos lados para peatones y vehículos. Funcionaron correctamente.",
+    "tipo_via": "Vía única, con bloqueo automático y control de tráfico centralizado.",
+    "velocidad_maxima": "75 km/h al paso por el punto del arrollamiento; según Consigna C Experimental nº 69, el tren podía circular a una velocidad máxima de 80 km/h.",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Tramo de trazado recto y buena visibilidad, en zona urbana. Pavimento del camino carretero de asfalto y del paso peatonal de caucho tipo strail.",
+    "otro": "Momento de circulación AxT: 9.791. Según el registrador de eventos del paso a nivel, las semibarreras estuvieron bajadas durante 3 minutos y 55 segundos. Sistemas de comunicación: radiotelefonía modalidad A. El paso a nivel iba a ser suprimido por el Estudio de integración del ferrocarril en Avilés. Media semanal de circulaciones del tramo Nubledo - Avilés: 370, de las cuales 349 de cercanías, 20 de mercancías y 1 de servicio. Precedente: el 28 de marzo de 2006 se produjo un arrollamiento similar en el P.K. 16,780 de la misma línea, a pocos metros."
+   },
+   "pagina": 6,
+   "cita": "La línea es de vía única, con bloqueo automático y control de tráfico centralizado.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 463010-9; tren de cercanías 22321; Nº UIC 967194630109.",
+    "averia": "No se produjeron daños ni averías. Los equipos de seguridad del tren, incluidos freno, ASFA y sistemas de vigilancia, funcionaron correctamente. Según el registrador de seguridad, el tren circulaba a 76 km/h en el momento del accidente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Víctima sortea semibarreras bajadas",
+    "Peatón ignora señales activas",
+    "Tren se aproxima al paso a nivel"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El 14 de enero de 2009, a las 10:57, el tren de cercanías 22321 de Renfe Operadora, procedente de Oviedo y con destino San Juan de Nieva, arrolló a una mujer al entrar en la estación de Avilés, en el paso a nivel clase C del P.K. 16,863 de la línea 144 San Juan de Nieva – Villabona. La víctima cruzaba la vía de izquierda a derecha, en el sentido de la marcha del tren, cuando las semibarreras estaban bajadas y las señales acústicas y luminosas para vehículos y peatones funcionaban correctamente.\n\nEl maquinista, al advertir la invasión de la caja de la vía, hizo uso del silbato en repetidas ocasiones y aplicó el freno de emergencia, pero no pudo evitar el arrollamiento. La mujer falleció en el acto como consecuencia del impacto, y el cuerpo quedó fuera de la caja de la vía, entre las vías de Adif y FEVE.\n\nTras el suceso, el maquinista comunicó el accidente al Puesto de Mando de Oviedo, desde donde se informó al servicio de urgencias 112, al Centro de Protección y Seguridad de Adif, a Renfe Operadora y a otras instancias. A las 11:41 el tren 22321 reanudó la marcha y quedó estacionado en la estación de Avilés; a las 12:21 se levantó el cadáver y se reanudó la circulación en condiciones normales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en el paso a nivel tipo C del P.K. 16,863, situado en la estación de Avilés. \nDel análisis del registrador de seguridad del automotor se desprende que el tren circulaba a una \nvelocidad inferior a su máxima permitida en el tramo. \nSegún lo declarado por el maquinista, antes de llegar al paso a nivel, hizo uso del silbato repetidas \nveces y actuó sobre el freno de emergencia, por lo que la actuación del maquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nLos equipos de seguridad del tren y las instalaciones del paso a nivel funcionaban correctamente \nen el momento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nLa víctima cruzó el paso a nivel cuando este se encontraba con sus sistemas de protección \nactivados. \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0002/2009 ocurrido el 14.01.2009 \nSECRETARIA DE ESTADO \nDE  PLANIFICACIÓN E \nINFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-140109-190509-CIAF \n \n \nPág. 12 de 14\n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen cuando la víctima cruza el paso a nivel, sorteando las barreras bajadas, \nen el momento en que el tren 22321 circulaba por él.",
+   "pagina": 11,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "La víctima cruzó el paso a nivel sorteando las semibarreras bajadas, cuando las protecciones estaban activadas y el tren 22321 circulaba por él.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Víctima sortea semibarreras bajadas",
+    "Peatón ignora señales activas",
+    "Tren se aproxima al paso a nivel"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Dadas las circunstancias en que se produjo el suceso, y que está prevista la supresión de este paso a nivel, no se establecen recomendaciones.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "Recomendación Dadas las circunstancias en que se produjo el suceso, y que está prevista la supresión de este paso a nivel, no se establecen recomendaciones 2. HECHOS INMEDIATOS DEL SUCESO 2.1 SUCESO Día / Hor",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "10:57",
+     "evento": "2009-01-14: el tren de cercanías 22321 arrolla a la víctima en el paso a nivel clase C del P.K. 16,863, estación de Avilés."
+    },
+    {
+     "hora": "11:41",
+     "evento": "2009-01-14: el tren 22321 reanuda la marcha y queda estacionado en la estación de Avilés."
+    },
+    {
+     "hora": "12:14",
+     "evento": "2009-01-14: el coordinador de accidentes ferroviarios de Adif comunica a la CIAF el arrollamiento por telefonía móvil."
+    },
+    {
+     "hora": "12:21",
+     "evento": "2009-01-14: se levanta el cadáver y se reanuda la circulación en condiciones normales."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0002/2009",
+ "expediente": "0002/09",
+ "anio": 2009,
+ "titulo": "Arrollamiento de una persona en un paso a nivel de la estación de Avilés",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-140109-190509-CIAF.md"
+}

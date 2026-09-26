@@ -1,0 +1,1043 @@
+{
+ "id": "es-10687 - final report, 2025-17-0207-if",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/2025-17-0207-if.pdf",
+ "pdf": "pdfs/ES/es-10687 - final report, 2025-17-0207-if.pdf",
+ "md5_pdf": "46ac2c8ec9baa4848b10950b7012de19",
+ "paginas_md": 31,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 33,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 27,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "Renfe Mercancías",
+     "Número": "17/2025-1",
+     "Recomendación": "Implantar un sistema de gestión y control del repostaje del material motor que garantice niveles adecuados de combustible antes del inicio y durante la continuidad de los servicios, incluyendo mecanismos de supervisión y trazabilidad."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "Renfe Mercancías",
+     "Número": "17/2025-2",
+     "Recomendación": "Establecer procedimientos normalizados para la verificación de los niveles de combustible en el material motor, definiendo responsabilidades, momentos de comprobación y criterios de actuación ante niveles insuficientes."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "Renfe Mercancías",
+     "Número": "17/2025-3",
+     "Recomendación": "Definir las operativas de toma y relevo al paso, especificando tareas a realizar, tiempos necesarios para su ejecución y canales de comunicación al personal de conducción."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "Renfe Mercancías",
+     "Número": "17/2025-4",
+     "Recomendación": "Reforzar la formación del personal del Centro de Gestión Operativa (CGO) en relación con las características técnicas del material motor y la ejecución de operativas de socorro."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "Renfe Mercancías",
+     "Número": "17/2025-5",
+     "Recomendación": "Mejorar la formación del personal de conducción en operativas de socorro."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "Renfe Mercancías",
+     "Número": "17/2025-6",
+     "Recomendación": "Adoptar las medidas necesarias para evitar la alta rotación del personal del Centro de Gestión Operativa (CGO) y reforzar la presencia de personal de supervisión en dicho Centro."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 31,
+   "cabecera": [
+    "AESF (NSA-ES)",
+    "Renfe Mercancías (RU)",
+    "17/2025-3",
+    "Define the procedures for train drivers changes, specifying the tasks to be carried out, the time required to perform them, and the communication channels to be used to inform train drivers."
+   ],
+   "filas": [
+    {
+     "AESF (NSA-ES)": "AESF (NSA-ES)",
+     "Renfe Mercancías (RU)": "Renfe Mercancías (RU)",
+     "17/2025-3": "17/2025-4",
+     "Define the procedures for train drivers changes, specifying the tasks to be carried out, the time required to perform them, and the communication channels to be used to inform train drivers.": "Strengthen the training provided to Operational Management Centre staff regarding the technical characteristics of traction units and the execution of rescue operations."
+    },
+    {
+     "AESF (NSA-ES)": "AESF (NSA-ES)",
+     "Renfe Mercancías (RU)": "Renfe Mercancías (RU)",
+     "17/2025-3": "17/2025-5",
+     "Define the procedures for train drivers changes, specifying the tasks to be carried out, the time required to perform them, and the communication channels to be used to inform train drivers.": "Enhance the training provided to train drivers in rescue procedures."
+    },
+    {
+     "AESF (NSA-ES)": "AESF (NSA-ES)",
+     "Renfe Mercancías (RU)": "Renfe Mercancías (RU)",
+     "17/2025-3": "17/2025-6",
+     "Define the procedures for train drivers changes, specifying the tasks to be carried out, the time required to perform them, and the communication channels to be used to inform train drivers.": "Adopt the necessary measures to reduce the high turnover of Operational Management Centre staff and strengthen the supervisory presence within the Centre."
+    }
+   ],
+   "cita": "| AESF (NSA-ES) | Renfe Mercancías (RU) | 17/2025-3 | Define the procedures for train drivers changes, specifying the tasks to be carried out, the time required to perform them, and the communication "
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "17/2025",
+   "pagina": 1,
+   "cita": "INFORME FINAL DE LA CIAF (IF) 17/2025",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 7 de febrero de 2025, a las 18:56, el tren de Renfe Mercancías 91804 rebasó la señal de salida S2/1 de la estación de Las Matas, que ordenaba parada, y se detuvo 736 m después. El suceso se produjo durante el retorno a Vicálvaro-Clasificación tras el socorro al tren 54147, detenido en plena vía por agotamiento de combustible de su locomotora titular. La composición quedó con capacidad de frenado insuficiente por un acondicionamiento incorrecto de las locomotoras de socorro y por no haberse realizado las pruebas de freno. No hubo víctimas ni daños materiales, aunque la vía 1 entre Las Matas y Pinar de las Rozas permaneció cortada 3 horas y 2 minutos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2025-02-07",
+    "hora": "18:56",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Las Matas",
+     "pk": null,
+     "linea": "Línea 100 Madrid Chamartín Clara Campoamor - Irún Frontera francesa",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Rebase de la señal de salida S2/1 en la vía 1 general, en sentido Madrid; el tren se detuvo 736 m después, entre Las Matas y Pinar de las Rozas."
+    }
+   },
+   "pagina": 1,
+   "cita": "el 7 de febrero de 2025",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se registraron daños materiales.",
+    "afectacion_servicio": "La vía 1 del trayecto entre Las Matas y Pinar de las Rozas permaneció cortada al tráfico durante 3 horas y 2 minutos, desde las 18:56 hasta las 21:58."
+   },
+   "pagina": 5,
+   "cita": "Como consecuencia del rebase, no se registraron daños materiales ni personales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Insuficiencia de la capacidad de frenado del tren 91804, formado por la composición del tren 54147 y dos locomotoras de socorro.",
+   "pagina": 5,
+   "cita": "• Insuficiencia de la capacidad de frenado del tren 91804, formado por la composición del tren 54147 y dos locomotoras de socorro. Los factores contribuyentes del suceso fueron: • Acondicionamiento inadecuado del tr",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Acondicionamiento inadecuado del tren 91804 durante las operaciones previas a la salida de Torrelodones para su retorno.",
+    "Realización incompleta de las pruebas de freno tras los acoplamientos sucesivos de material motor del tren 91804.",
+    "Deficiencias en la planificación y coordinación de las operaciones de socorro al tren 54147 tras el agotamiento de combustible.",
+    "Agotamiento del combustible en la locomotora titular del tren 54147, que provocó su detención en plena vía.",
+    "Presión operativa para la liberación rápida de la vía por la afección a los servicios de Cercanías."
+   ],
+   "pagina": 5,
+   "cita": "• Acondicionamiento inadecuado del tren 91804 durante las operaciones previas a la salida de Torrelodones para su retorno. ## Página 6 Comisión de Investigación de Accidentes Ferroviarios 6",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Deficiencias en la gestión del repostaje del material motor.",
+    "Ausencia de procedimientos normalizados para la verificación de los niveles de combustible en material motor por el personal de conducción.",
+    "Falta de definición de las operativas de relevo y toma al paso de circulaciones, incluyendo las tareas asociadas y su comunicación al personal de conducción.",
+    "Insuficiencia formativa del personal del Centro de Gestión Operativa sobre las características del material motor y las operativas de socorro.",
+    "Insuficiencia formativa del personal de conducción en operativas de socorro."
+   ],
+   "pagina": 6,
+   "cita": "Deficiencias en la gestión del repostaje del material motor.",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Implantar un sistema de gestión y control del repostaje del material motor que garantice niveles adecuados de combustible antes del inicio y durante la continuidad de los servicios, incluyendo mecanismos de supervisión y trazabilidad.",
+    "Establecer procedimientos normalizados para la verificación de los niveles de combustible en el material motor, definiendo responsabilidades, momentos de comprobación y criterios de actuación ante niveles insuficientes.",
+    "Definir las operativas de toma y relevo al paso, especificando tareas a realizar, tiempos necesarios para su ejecución y canales de comunicación al personal de conducción.",
+    "Reforzar la formación del personal del Centro de Gestión Operativa (CGO) en relación con las características técnicas del material motor y la ejecución de operativas de socorro.",
+    "Mejorar la formación del personal de conducción en operativas de socorro.",
+    "Adoptar las medidas necesarias para evitar la alta rotación del personal del Centro de Gestión Operativa (CGO) y reforzar la presencia de personal de supervisión en dicho Centro."
+   ],
+   "pagina": 27,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 27,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Rebase de señal",
+   "pagina": 1,
+   "cita": "Rebase de señal en la",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Mercancías",
+    "ADIF"
+   ],
+   "pagina": 5,
+   "cita": "El 7 de febrero de 2025, a las 18:56 horas, el tren de Renfe Mercancías 91804, formado por la",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2025-02-07",
+   "pagina": 1,
+   "cita": "el 7 de febrero de 2025",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "18:56",
+   "pagina": 5,
+   "cita": "El 7 de febrero de 2025, a las 18:56 horas, el tren de Renfe Mercancías 91804, formado por la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Las Matas",
+    "pk": null,
+    "linea": "Línea 100 Madrid Chamartín Clara Campoamor - Irún Frontera francesa",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Rebase de la señal de salida S2/1 en la vía 1 general, en sentido Madrid; el tren se detuvo 736 m después, entre Las Matas y Pinar de las Rozas."
+   },
+   "pagina": 5,
+   "cita": "quedado detenido en plena vía entre las estaciones de Pitis y Bifurcación P. Pío, por agotamiento del",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotoras 333.325, 333.367 y 253.093; vagones cisterna para etanol.",
+    "averia": "Agotamiento de combustible de la locomotora 333.325; mangas de la TFA cerradas entre la locomotora de cabeza y la composición; locomotora 253.093 mal acondicionada por alimentar indebidamente la TFA.",
+    "mantenimiento": "La locomotora 333.325 estaba próxima a alcanzar el kilometraje previsto para intervención en la Base de Mantenimiento de Vicálvaro; el informe no identifica fallos mecánicos o técnicos previos."
+   },
+   "pagina": 17,
+   "cita": "8. El tren 54147 quedó detenido en plena vía entre Pitis y Bif. P. Pío por agotamiento de",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren 54147 de Renfe Mercancías, formado por la locomotora 333.325 y 14 vagones cisterna vacíos de etanol, procedía de Escombreras con destino Babilafuente. La locomotora titular se quedó sin combustible y detuvo el tren en plena vía entre Pitis y Bifurcación P. Pío. El CGO de Renfe Mercancías envió una locomotora de socorro desde Fuencarral, la 333.367, que partió sin completar el repostaje por la presión operativa derivada de la afección a Cercanías. Esta locomotora remolcó la composición hasta Torrelodones, pero el maquinista se negó a continuar hacia Babilafuente por el bajo nivel de combustible, por lo que se autorizó el retorno a Vicálvaro-Clasificación.\n\nDurante la preparación del retorno, la locomotora 333.367 fue reubicada al otro extremo de la composición, quedando la locomotora titular 333.325 en cola. Esta última no podía recibir aire comprimido de TDP a través de los vagones, y durante la maniobra no se abrieron las mangas de conexión de la TFA entre la locomotora de cabeza y el resto del tren. Para suministrar aire a la locomotora titular, el CGO envió una segunda locomotora de socorro, la 253.093, que se acopló en cola.\n\nTras ese acoplamiento no se realizó la prueba de freno, por lo que no se detectó que las mangas de la TFA permanecían cerradas ni que la locomotora 253.093 no estaba correctamente acondicionada para circular en cola, ya que seguía alimentando la TFA. El tren resultante, numerado como 91804, salió de Torrelodones a las 18:50 con capacidad de frenado insuficiente. Al llegar a Las Matas, no pudo detenerse ante la señal de salida S2/1 en parada, rebasándola a las 18:56 y deteniéndose 736 m después entre Las Matas y Pinar de las Rozas. No se registraron víctimas ni daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Las Matas",
+    "pk": null,
+    "linea": "Línea 100 Madrid Chamartín Clara Campoamor - Irún Frontera francesa",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Rebase de la señal de salida S2/1 en la vía 1 general, en sentido Madrid; el tren se detuvo 736 m después, entre Las Matas y Pinar de las Rozas."
+   },
+   "pagina": 5,
+   "cita": "quedado detenido en plena vía entre las estaciones de Pitis y Bifurcación P. Pío, por agotamiento del",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se registraron daños materiales.",
+    "afectacion_servicio": "La vía 1 del trayecto entre Las Matas y Pinar de las Rozas permaneció cortada al tráfico durante 3 horas y 2 minutos, desde las 18:56 hasta las 21:58."
+   },
+   "pagina": 5,
+   "cita": "Como consecuencia del rebase, no se registraron daños materiales ni personales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "No se tiene constancia de que se hayan adoptado medidas desde el suceso. \n \n\n## Página 27\n\n \nInforme Final 17/2025 \n \n \n \n \n \n \n \n \n \n \n \n \n27",
+   "pagina": 26,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista titular del tren 54147",
+     "implicacion": "Detectó el agotamiento de combustible de la locomotora 333.325 y comunicó la incidencia al CGO."
+    },
+    {
+     "rol": "Maquinista titular de la locomotora de socorro 333.367",
+     "implicacion": "Solicitó repostaje, remolcó la composición hasta Torrelodones y se negó a continuar hacia Babilafuente por bajo nivel de combustible."
+    },
+    {
+     "rol": "Maquinista acompañante de la locomotora 333.367",
+     "implicacion": "Quedó a cargo de la custodia del tren con mercancías peligrosas durante la espera de la segunda locomotora."
+    },
+    {
+     "rol": "Personal de conducción de la locomotora 253.093",
+     "implicacion": "Acopló la locomotora en cola para suministrar aire, pero no participó en una prueba de freno y la locomotora quedó mal acondicionada."
+    },
+    {
+     "rol": "Responsable de Circulación de la banda 1102 del CTC de Madrid-Chamartín",
+     "implicacion": "Personal de ADIF relevante para la circulación en el ámbito del suceso."
+    },
+    {
+     "rol": "Personal del Centro de Gestión Operativa de Renfe Mercancías",
+     "implicacion": "Planificó y dirigió las operaciones de socorro con deficiencias de coordinación, formación y comunicación interna."
+    }
+   ],
+   "pagina": 10,
+   "cita": "únicamente el maquinista acompañante de la locomotora 333.367 para la custodia del tren, debido",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "Resultan relevantes para la investigación de este suceso las actuaciones previas del personal \nferroviario siguiente: \n➢ Maquinistas de RENFE Mercancías presentes a bordo del tren 54147 y de las locomotoras   \n333.367 y 253.093 enviadas a su socorro.  \n➢ Responsable de Circulación de la banda 1102 del CTC de Madrid-Chamartín, personal de ADIF.  \nLas entidades relacionadas con el incidente son las siguientes:  \n➢ RENFE Mercancías: Empresa Ferroviaria del tren implicado en el suceso. \n➢ ADIF: Administrador de Infraestructuras Ferroviarias.",
+   "pagina": 12,
+   "cita": "3.1.4. Personal y entidades",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "91804",
+     "tipo": "Tren de mercancías formado para operación de retorno tras socorro",
+     "operador": "Renfe Mercancías",
+     "danos": "Sin daños personales ni materiales."
+    },
+    {
+     "numero": "54147",
+     "tipo": "Tren de mercancías peligrosas con vagones cisterna vacíos de etanol",
+     "operador": "Renfe Mercancías",
+     "danos": "Sin daños personales ni materiales."
+    }
+   ],
+   "pagina": 5,
+   "cita": "El 7 de febrero de 2025, a las 18:56 horas, el tren de Renfe Mercancías 91804, formado por la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotoras 333.325, 333.367 y 253.093; vagones cisterna para etanol.",
+    "averia": "Agotamiento de combustible de la locomotora 333.325; mangas de la TFA cerradas entre la locomotora de cabeza y la composición; locomotora 253.093 mal acondicionada por alimentar indebidamente la TFA.",
+    "mantenimiento": "La locomotora 333.325 estaba próxima a alcanzar el kilometraje previsto para intervención en la Base de Mantenimiento de Vicálvaro; el informe no identifica fallos mecánicos o técnicos previos."
+   },
+   "pagina": 17,
+   "cita": "8. El tren 54147 quedó detenido en plena vía entre Pitis y Bif. P. Pío por agotamiento de",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Equipada con ASFA; señal de salida S2/1 en parada.",
+    "tipo_via": "Vía doble de ancho ibérico.",
+    "velocidad_maxima": null,
+    "ancho": "Ancho ibérico.",
+    "electrificacion": "Electrificada a 3 kV CC.",
+    "estado_via": "Vía 1 cortada al tráfico entre Las Matas y Pinar de las Rozas desde las 18:56 hasta las 21:58.",
+    "otro": "Bloqueo Automático Banalizado con CTC; estación de Las Matas con dos vías generales y dos vías de apartado."
+   },
+   "pagina": 12,
+   "cita": "El tramo es de vía doble de ancho ibérico con Bloqueo Automático Banalizado (BAB) con CTC,",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Equipada con ASFA; señal de salida S2/1 en parada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se registraron daños materiales.",
+    "afectacion_servicio": "La vía 1 del trayecto entre Las Matas y Pinar de las Rozas permaneció cortada al tráfico durante 3 horas y 2 minutos, desde las 18:56 hasta las 21:58."
+   },
+   "pagina": 5,
+   "cita": "Como consecuencia del rebase, no se registraron daños materiales ni personales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se registraron daños materiales.",
+    "afectacion_servicio": "La vía 1 del trayecto entre Las Matas y Pinar de las Rozas permaneció cortada al tráfico durante 3 horas y 2 minutos, desde las 18:56 hasta las 21:58."
+   },
+   "pagina": 5,
+   "cita": "Como consecuencia del rebase, no se registraron daños materiales ni personales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se registraron daños materiales.",
+    "afectacion_servicio": "La vía 1 del trayecto entre Las Matas y Pinar de las Rozas permaneció cortada al tráfico durante 3 horas y 2 minutos, desde las 18:56 hasta las 21:58."
+   },
+   "pagina": 5,
+   "cita": "Como consecuencia del rebase, no se registraron daños materiales ni personales.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras 333.325, 333.367 y 253.093; vagones cisterna para etanol.",
+    "averia": "Agotamiento de combustible de la locomotora 333.325; mangas de la TFA cerradas entre la locomotora de cabeza y la composición; locomotora 253.093 mal acondicionada por alimentar indebidamente la TFA.",
+    "mantenimiento": "La locomotora 333.325 estaba próxima a alcanzar el kilometraje previsto para intervención en la Base de Mantenimiento de Vicálvaro; el informe no identifica fallos mecánicos o técnicos previos."
+   },
+   "pagina": 17,
+   "cita": "8. El tren 54147 quedó detenido en plena vía entre Pitis y Bif. P. Pío por agotamiento de",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Equipada con ASFA; señal de salida S2/1 en parada.",
+    "tipo_via": "Vía doble de ancho ibérico.",
+    "velocidad_maxima": null,
+    "ancho": "Ancho ibérico.",
+    "electrificacion": "Electrificada a 3 kV CC.",
+    "estado_via": "Vía 1 cortada al tráfico entre Las Matas y Pinar de las Rozas desde las 18:56 hasta las 21:58.",
+    "otro": "Bloqueo Automático Banalizado con CTC; estación de Las Matas con dos vías generales y dos vías de apartado."
+   },
+   "pagina": 12,
+   "cita": "El tramo es de vía doble de ancho ibérico con Bloqueo Automático Banalizado (BAB) con CTC,",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Condiciones meteorológicas y de visibilidad favorables.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": "Las Matas"
+   },
+   "pagina": 1,
+   "cita": "estación de Las Matas (Madrid)",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Condiciones meteorológicas y de visibilidad favorables.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Equipada con ASFA; señal de salida S2/1 en parada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Equipada con ASFA; señal de salida S2/1 en parada.",
+    "tipo_via": "Vía doble de ancho ibérico.",
+    "velocidad_maxima": null,
+    "ancho": "Ancho ibérico.",
+    "electrificacion": "Electrificada a 3 kV CC.",
+    "estado_via": "Vía 1 cortada al tráfico entre Las Matas y Pinar de las Rozas desde las 18:56 hasta las 21:58.",
+    "otro": "Bloqueo Automático Banalizado con CTC; estación de Las Matas con dos vías generales y dos vías de apartado."
+   },
+   "pagina": 12,
+   "cita": "El tramo es de vía doble de ancho ibérico con Bloqueo Automático Banalizado (BAB) con CTC,",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "La notificación del presente suceso se realizó el día 7 de febrero de 2025 a las 20:05 horas, mediante \nun mensaje de texto (SMS) remitido por ADIF al Secretario de la CIAF. \nA partir de dicha comunicación, se solicitó información adicional a ADIF, que remitió una información \nbásica del suceso el día 12 de marzo de 2025 por correo electrónico. Con base en esta documentación, \nen el Pleno nº 193 de la CIAF, celebrado el 18 de marzo de 2025, se acordó la realización de un estudio \npreliminar. \nPosteriormente, a la vista de los resultados obtenidos durante dicho estudio preliminar, en el Pleno \nnº 195 de la CIAF, celebrado el 22 de mayo de 2025, se acordó iniciar una investigación formal. \nCon posterioridad, se produjeron nuevos intercambios de información, tanto con ADIF como con \nRenfe Mercancías, a través de correo electrónico.",
+   "pagina": 8,
+   "cita": "2.4. CANALES DE COMUNICACIÓN",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras 333.325, 333.367 y 253.093; vagones cisterna para etanol.",
+    "averia": "Agotamiento de combustible de la locomotora 333.325; mangas de la TFA cerradas entre la locomotora de cabeza y la composición; locomotora 253.093 mal acondicionada por alimentar indebidamente la TFA.",
+    "mantenimiento": "La locomotora 333.325 estaba próxima a alcanzar el kilometraje previsto para intervención en la Base de Mantenimiento de Vicálvaro; el informe no identifica fallos mecánicos o técnicos previos."
+   },
+   "pagina": 17,
+   "cita": "8. El tren 54147 quedó detenido en plena vía entre Pitis y Bif. P. Pío por agotamiento de",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Agotamiento de combustible locomotora titular",
+    "Bajo nivel de combustible locomotora socorro",
+    "Reubicación locomotora socorro extremo opuesto",
+    "Acoplamiento incorrecto locomotoras socorro"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "El rebase indebido de la señal S2/1 de la estación de Las Matas por insuficiencia de frenado fue el \nresultado de un cúmulo de fallos organizativos y operativos que se acumularon a lo largo del servicio. \nUno de los factores más relevantes fue la falta de planificación y coordinación de los repostajes por \nparte del CGO de Renfe Mercancías. La locomotora titular del tren 54147 no fue convenientemente \nrepostada, y los procedimientos de relevos al paso y de toma de servicio no estaban suficientemente \nregulados, careciendo de una definición clara de tareas, tiempos y canales de comunicación. Esta falta \nde organización provocó que la locomotora agotase su combustible en plena vía, lo que inició una \ncadena de decisiones improvisadas. \nA estas deficiencias se sumaron los problemas derivados de la operativa de socorro. La afectación a \nlos servicios de Cercanías obligó a ejecutar la maniobra de forma precipitada, con una primera \nlocomotora de socorro desplazándose con niveles bajos de combustible, lo que impedía garantizar la \ncontinuidad del servicio hacia Babilafuente. Ante esta situación, se tomó la decisión de que la \ncomposición regresase hacia Vicálvaro-Clasificación, y esta operación de retorno tampoco fue \nplanificada de manera adecuada, realizándose de forma improvisada. Esta improvisación generó un \ncontexto de elevada complejidad operativa, incrementando la probabilidad de errores humanos. \nDurante la reconfiguración de la composición se produjo un fallo crítico: al cambiar de posición la \nprimera locomotora de socorro, no se abrieron las mangas de freno, interrumpiendo la continuidad \nde la TFA hacia los vagones y comprometiendo la capacidad de frenado de la composición. Este lapsus \noperativo se produjo porque los maquinistas debían simultáneamente resolver cómo movilizar la \nlocomotora que se había quedado sin combustible, al carecer de suministro de TDP. La situación se \ncomplicó aún más con la decisión de solicitar una segunda locomotora de socorro, adoptada \nnuevamente de manera improvisada por los maquinistas ante la falta de coordinación y dirección del \nCGO. Esta nueva locomotora fue acoplada a la locomotora sin combustible con una disposición del \npulsador de control de freno que introducía aire comprimido a los vagones de la composición, \nenmascarando el cierre de las mangas de freno. Esto provocó que los vagones aflojaran el freno y que \nla composición pudiera moverse. \n\n## Página 23\n\n \nInforme Final 17/2025 \n \n \n \n \n \n \n \n \n \n \n \n \n23 \n \nAdemás, la maniobra no era claramente comprendida por todos los maquinistas implicados: quien \ninició la operación abandonó el lugar, el maquinista que se quedó a custodiar los vagones no participó \nen la toma de decisiones y el personal de la segunda locomotora carecía de un conocimiento global \nde la operación de socorro. Esta descoordinación impidió la realización de la prueba de freno, que \npodría haber detectado las anomalías. \nEn conjunto, los factores humanos y organizacionales interactuaron de manera que la composición \nse encontraba en una situación operativa atípica y de alta complejidad, con procedimientos de \nrepostaje y relevo de maquinistas insuficientemente regulados, falta de planificación de las \noperaciones de socorro, lapsus en la manipulación de los sistemas de freno, disposición inadecuada \ndel control del freno y ausencia de la prueba de freno. Esta combinación de deficiencias incrementó \nsignificativamente la probabilidad de fallo operativo y fue determinante en la ocurrencia del rebase \nindebido de la señal S2/1 en la estación de Las Matas.",
+   "pagina": 22,
+   "cita": "4.3. FACTORES HUMANOS Y ORGANIZATIVOS RELACIONADOS CON EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren 54147 de Renfe Mercancías, formado por la locomotora 333.325 y 14 vagones cisterna vacíos de etanol, procedía de Escombreras con destino Babilafuente. La locomotora titular se quedó sin combustible y detuvo el tren en plena vía entre Pitis y Bifurcación P. Pío. El CGO de Renfe Mercancías envió una locomotora de socorro desde Fuencarral, la 333.367, que partió sin completar el repostaje por la presión operativa derivada de la afección a Cercanías. Esta locomotora remolcó la composición hasta Torrelodones, pero el maquinista se negó a continuar hacia Babilafuente por el bajo nivel de combustible, por lo que se autorizó el retorno a Vicálvaro-Clasificación.\n\nDurante la preparación del retorno, la locomotora 333.367 fue reubicada al otro extremo de la composición, quedando la locomotora titular 333.325 en cola. Esta última no podía recibir aire comprimido de TDP a través de los vagones, y durante la maniobra no se abrieron las mangas de conexión de la TFA entre la locomotora de cabeza y el resto del tren. Para suministrar aire a la locomotora titular, el CGO envió una segunda locomotora de socorro, la 253.093, que se acopló en cola.\n\nTras ese acoplamiento no se realizó la prueba de freno, por lo que no se detectó que las mangas de la TFA permanecían cerradas ni que la locomotora 253.093 no estaba correctamente acondicionada para circular en cola, ya que seguía alimentando la TFA. El tren resultante, numerado como 91804, salió de Torrelodones a las 18:50 con capacidad de frenado insuficiente. Al llegar a Las Matas, no pudo detenerse ante la señal de salida S2/1 en parada, rebasándola a las 18:56 y deteniéndose 736 m después entre Las Matas y Pinar de las Rozas. No se registraron víctimas ni daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "A partir de la descripción de los hechos, se pueden extraer las siguientes constataciones: \n1. La locomotora titular 333.325 realizó su último repostaje en la estación de Salamanca el día",
+   "pagina": 17,
+   "cita": "4. ANÁLISIS DEL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Insuficiencia de la capacidad de frenado del tren 91804, formado por la composición del tren 54147 y dos locomotoras de socorro.",
+   "pagina": 5,
+   "cita": "• Insuficiencia de la capacidad de frenado del tren 91804, formado por la composición del tren 54147 y dos locomotoras de socorro. Los factores contribuyentes del suceso fueron: • Acondicionamiento inadecuado del tr",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Acondicionamiento inadecuado del tren 91804 durante las operaciones previas a la salida de Torrelodones para su retorno.",
+    "Realización incompleta de las pruebas de freno tras los acoplamientos sucesivos de material motor del tren 91804.",
+    "Deficiencias en la planificación y coordinación de las operaciones de socorro al tren 54147 tras el agotamiento de combustible.",
+    "Agotamiento del combustible en la locomotora titular del tren 54147, que provocó su detención en plena vía.",
+    "Presión operativa para la liberación rápida de la vía por la afección a los servicios de Cercanías."
+   ],
+   "pagina": 5,
+   "cita": "• Acondicionamiento inadecuado del tren 91804 durante las operaciones previas a la salida de Torrelodones para su retorno. ## Página 6 Comisión de Investigación de Accidentes Ferroviarios 6",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nUna vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores:  \n \nFigura 3 Árbol causal del suceso \nFactores causales \n1. Insuficiencia de la capacidad de frenado del tren 91804, formado por la composición del tren \n54147 y dos locomotoras de socorro. Ver Recomendación 17/2025-4 y Recomendación \n17/2025-5. \nFactores contribuyentes \n1. Acondicionamiento inadecuado del tren 91804 durante las operaciones previas a la salida de \nTorrelodones para su retorno. Ver Recomendación 17/2025-4 y Recomendación 17/2025-5. \n2. Realización incompleta de las pruebas de freno tras los acoplamientos sucesivos de material \nmotor del tren 91804. Ver Recomendación 17/2025-4 y Recomendación        17/2025-5. \n3. Deficiencias en la planificación y coordinación de las operaciones de socorro al tren 54147 \ntras el agotamiento de combustible. Ver Recomendación 17/2025-4 y Recomendación \n17/2025-5. \n4. Agotamiento del combustible en la locomotora titular del tren 54147, que provocó su \ndetención en plena vía. Ver Recomendación 17/2025-1, Recomendación 17/2025-2 y \nRecomendación 17/2025-3. \n\n## Página 26\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n26 \n \n \n \n \n5. Presión operativa para la liberación rápida de la vía por la afección a los servicios de \nCercanías. Ver Recomendación 17/2025-4 y Recomendación 17/2025-5. \nFactores sistémicos \n1. Deficiencias en la gestión del repostaje del material motor. Ver Recomendación 17/2025-1, \nRecomendación 17/2025-2 y Recomendación 17/2025-3. \n2. Ausencia de procedimientos normalizados para la verificación de los niveles de combustible \nen material motor por el personal de conducción. Ver Recomendación 17/2025-1, \nRecomendación 17/2025-2 y Recomendación 17/2025-3. \n3. Falta de definición de las operativas de relevo y toma al paso de circulaciones, incluyendo las \ntareas asociadas y su comunicación al personal de conducción. Ver Recomendación      \n17/2025-3. \n4. Insuficiencia formativa del personal del Centro de Gestión Operativa (CGO) sobre las \ncaracterísticas del material motor y las operativas de socorro. Ver Recomendación       \n17/2025-4 y Recomendación 17/2025-6. \n5. Insuficiencia formativa del personal de conducción en operativas de socorro. Ver \nRecomendación 17/2025-5. \n \n5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO \nNo se tiene constancia de que se hayan adoptado medidas desde el suceso. \n \n\n## Página 27\n\n \nInforme Final 17/2025 \n \n \n \n \n \n \n \n \n \n \n \n \n27",
+   "pagina": 25,
+   "cita": "5. CONCLUSIONES 5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO Una vez analizados los datos disponibles y la documentación proporcionada, se consideran los siguientes factores: Figura 3 Árbol",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nUna vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores:  \n \nFigura 3 Árbol causal del suceso \nFactores causales \n1. Insuficiencia de la capacidad de frenado del tren 91804, formado por la composición del tren \n54147 y dos locomotoras de socorro. Ver Recomendación 17/2025-4 y Recomendación \n17/2025-5. \nFactores contribuyentes \n1. Acondicionamiento inadecuado del tren 91804 durante las operaciones previas a la salida de \nTorrelodones para su retorno. Ver Recomendación 17/2025-4 y Recomendación 17/2025-5. \n2. Realización incompleta de las pruebas de freno tras los acoplamientos sucesivos de material \nmotor del tren 91804. Ver Recomendación 17/2025-4 y Recomendación        17/2025-5. \n3. Deficiencias en la planificación y coordinación de las operaciones de socorro al tren 54147 \ntras el agotamiento de combustible. Ver Recomendación 17/2025-4 y Recomendación \n17/2025-5. \n4. Agotamiento del combustible en la locomotora titular del tren 54147, que provocó su \ndetención en plena vía. Ver Recomendación 17/2025-1, Recomendación 17/2025-2 y \nRecomendación 17/2025-3. \n\n## Página 26\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n26 \n \n \n \n \n5. Presión operativa para la liberación rápida de la vía por la afección a los servicios de \nCercanías. Ver Recomendación 17/2025-4 y Recomendación 17/2025-5. \nFactores sistémicos \n1. Deficiencias en la gestión del repostaje del material motor. Ver Recomendación 17/2025-1, \nRecomendación 17/2025-2 y Recomendación 17/2025-3. \n2. Ausencia de procedimientos normalizados para la verificación de los niveles de combustible \nen material motor por el personal de conducción. Ver Recomendación 17/2025-1, \nRecomendación 17/2025-2 y Recomendación 17/2025-3. \n3. Falta de definición de las operativas de relevo y toma al paso de circulaciones, incluyendo las \ntareas asociadas y su comunicación al personal de conducción. Ver Recomendación      \n17/2025-3. \n4. Insuficiencia formativa del personal del Centro de Gestión Operativa (CGO) sobre las \ncaracterísticas del material motor y las operativas de socorro. Ver Recomendación       \n17/2025-4 y Recomendación 17/2025-6. \n5. Insuficiencia formativa del personal de conducción en operativas de socorro. Ver \nRecomendación 17/2025-5. \n \n5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO \nNo se tiene constancia de que se hayan adoptado medidas desde el suceso. \n \n\n## Página 27\n\n \nInforme Final 17/2025 \n \n \n \n \n \n \n \n \n \n \n \n \n27",
+   "pagina": 25,
+   "cita": "5. CONCLUSIONES 5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO Una vez analizados los datos disponibles y la documentación proporcionada, se consideran los siguientes factores: Figura 3 Árbol",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "No se tiene constancia de que se hayan adoptado medidas desde el suceso. \n \n\n## Página 27\n\n \nInforme Final 17/2025 \n \n \n \n \n \n \n \n \n \n \n \n \n27",
+   "pagina": 26,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "No se tiene constancia de que se hayan adoptado medidas desde el suceso. \n \n\n## Página 27\n\n \nInforme Final 17/2025 \n \n \n \n \n \n \n \n \n \n \n \n \n27",
+   "pagina": 26,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Implantar un sistema de gestión y control del repostaje del material motor que garantice niveles adecuados de combustible antes del inicio y durante la continuidad de los servicios, incluyendo mecanismos de supervisión y trazabilidad.",
+    "Establecer procedimientos normalizados para la verificación de los niveles de combustible en el material motor, definiendo responsabilidades, momentos de comprobación y criterios de actuación ante niveles insuficientes.",
+    "Definir las operativas de toma y relevo al paso, especificando tareas a realizar, tiempos necesarios para su ejecución y canales de comunicación al personal de conducción.",
+    "Reforzar la formación del personal del Centro de Gestión Operativa (CGO) en relación con las características técnicas del material motor y la ejecución de operativas de socorro.",
+    "Mejorar la formación del personal de conducción en operativas de socorro.",
+    "Adoptar las medidas necesarias para evitar la alta rotación del personal del Centro de Gestión Operativa (CGO) y reforzar la presencia de personal de supervisión en dicho Centro."
+   ],
+   "pagina": 27,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 27,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "Renfe Mercancías",
+    "Renfe Mercancías",
+    "Renfe Mercancías",
+    "Renfe Mercancías",
+    "Renfe Mercancías",
+    "Renfe Mercancías"
+   ],
+   "pagina": 27,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": null,
+     "evento": "La locomotora titular 333.325 realizó su último repostaje en Salamanca el 3 de febrero de 2025."
+    },
+    {
+     "hora": null,
+     "evento": "El 7 de febrero de 2025, el tren inició el regreso desde Escombreras con 24 vagones de mercancías peligrosas y dos locomotoras."
+    },
+    {
+     "hora": null,
+     "evento": "La locomotora 333.325 se quedó sin combustible y detuvo el tren 54147 entre Pitis y Bifurcación P. Pío."
+    },
+    {
+     "hora": null,
+     "evento": "La locomotora de socorro 333.367 salió del depósito de Fuencarral sin completar el repostaje."
+    },
+    {
+     "hora": null,
+     "evento": "La locomotora 333.367 remolcó la composición hasta Torrelodones y se decidió el retorno a Vicálvaro-Clasificación."
+    },
+    {
+     "hora": null,
+     "evento": "Durante la reconfiguración, la locomotora 333.367 pasó a cabeza sin abrirse las mangas de la TFA hacia el resto del tren."
+    },
+    {
+     "hora": null,
+     "evento": "La locomotora 253.093 fue acoplada en cola para suministrar aire a la locomotora titular, sin realizarse prueba de freno."
+    },
+    {
+     "hora": "18:50",
+     "evento": "El tren 91804 inició la marcha desde Torrelodones con capacidad de frenado insuficiente."
+    },
+    {
+     "hora": "18:56",
+     "evento": "El tren rebasó la señal de salida S2/1 de Las Matas, que ordenaba parada."
+    },
+    {
+     "hora": "20:05",
+     "evento": "ADIF notificó el suceso a la CIAF mediante SMS."
+    },
+    {
+     "hora": "21:58",
+     "evento": "Se restableció la circulación tras permanecer cortada la vía 1 entre Las Matas y Pinar de las Rozas."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0017/2025",
+ "expediente": "017/2025",
+ "anio": 2025,
+ "titulo": "Rebase de señal en la estación de Las Matas (Madrid) el 7 de febrero de 2025",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/es-10687 - final report, 2025-17-0207-if.md"
+}

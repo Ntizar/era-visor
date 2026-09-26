@@ -1,0 +1,930 @@
+{
+ "id": "ID_070607_191007",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID_070607_191007.pdf",
+ "pdf": "pdfs/ES/ID_070607_191007.pdf",
+ "md5_pdf": "103ced5576551ad8baad85945c7bf7b4",
+ "paginas_md": 6,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 9,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0036/2007",
+   "pagina": 1,
+   "cita": "nº 0036/2007 ocurrido el 07.06.2007",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 7 de junio de 2007 a las 10:55, un tren de Larga Distancia de Renfe arrolló a una persona en plena vía en el PK 61/700 de la Línea 600 Valencia Nord – San Vicente Calders, entre Vila-Real y Burriana (Castellón). La víctima, acompañada de otra persona, cruzó indebidamente las vías sin percatarse de la llegada del convoy. El tren circulaba a 138 km/h (máximo 140) en un tramo recto con buena visibilidad. La persona arrollada fue trasladada al Hospital de la Plana de Vila-Real, donde falleció horas después. No hubo daños materiales al tren. La investigación atribuyó el accidente a la imprudencia de la víctima.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-06-07",
+    "hora": "10:55",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Vila-Real y Burriana",
+     "pk": "61/700",
+     "linea": "600 Valencia Nord – San Vicente Calders",
+     "provincia": "Castellón",
+     "descripcion_lugar": "Tramo de vía recto con muy buena visibilidad, lugar eminentemente rural pero muy próximo al núcleo urbano, zona transitada con numerosos pasos viciosos que cruzan las vías. El tramo no se encuentra vallado, aunque existen parcelas cuyos cerramientos actúan a modo de vallado."
+    }
+   },
+   "pagina": 4,
+   "cita": "La incidencia tuvo una duración de 40 minutos, desde las 10:55 horas del día 7 de junio",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales al tren.",
+    "afectacion_servicio": "Incidencia de 40 minutos (10:55 a 11:35). Retraso de 31 min al tren 697. 75 min de retraso acumulado en 4 trenes de Larga Distancia, 84 min en 5 trenes de Cercanías y 29 min en 1 tren de Media Distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Imprudencia de la víctima que cruzó las vías de forma indebida sin percatarse de la llegada del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Existencia de numerosos pasos viciosos que cruzan las vías en la zona",
+    "Tramo no vallado, aunque próximo a núcleo urbano",
+    "La víctima y su acompañante se aseguraron de que ningún tren se aproximaba en dirección Castellón, pero no percataron de la proximidad del convoy en dirección Valencia",
+    "Francisco Alejandro se quedó rezagado y muy cerca de las vías al paso del tren"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ausencia de vallado en un tramo con gran número de pasos viciosos y próxima a núcleo urbano",
+    "Necesidad de intensificar el Plan de instalación de cerramientos de las líneas"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Instalación de vallado en toda la zona, con independencia de la existencia de cerramiento en las parcelas.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Intensificar el Plan de instalación de cerramientos de las líneas.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril.",
+     "destinatario": "Adif / Administraciones públicas"
+    }
+   ],
+   "pagina": 6,
+   "cita": " Instalación de vallado en toda la zona, con independencia de la existencia de cerramiento en las parcelas.  Intensificar el Plan de instalación de cerramientos de las líneas.  Impulsar campañas de sensibilizac",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Instalación de vallado en toda la zona, con independencia de la existencia de cerramiento en las parcelas.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Intensificar el Plan de instalación de cerramientos de las líneas.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril.",
+     "destinatario": "Adif / Administraciones públicas"
+    }
+   ],
+   "pagina": 6,
+   "cita": " Instalación de vallado en toda la zona, con independencia de la existencia de cerramiento en las parcelas.  Intensificar el Plan de instalación de cerramientos de las líneas.  Impulsar campañas de sensibilizac",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de una persona",
+   "pagina": 2,
+   "cita": "(Adif), comunicó por mensaje de telefonía móvil que se había producido el arrollamiento de",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó por mensaje de telefonía móvil que se había producido el arrollamiento de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-06-07",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "10:55",
+   "pagina": 4,
+   "cita": "La incidencia tuvo una duración de 40 minutos, desde las 10:55 horas del día 7 de junio",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Vila-Real y Burriana",
+    "pk": "61/700",
+    "linea": "600 Valencia Nord – San Vicente Calders",
+    "provincia": "Castellón",
+    "descripcion_lugar": "Tramo de vía recto con muy buena visibilidad, lugar eminentemente rural pero muy próximo al núcleo urbano, zona transitada con numerosos pasos viciosos que cruzan las vías. El tramo no se encuentra vallado, aunque existen parcelas cuyos cerramientos actúan a modo de vallado."
+   },
+   "pagina": 2,
+   "cita": "Valencia Nord – San Vicente Calders, entre las estaciones de Vila-Real y Burriana, en la",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 600 Valencia Nord – San Vicente Calders",
+   "pagina": 2,
+   "cita": "61/700 de la Línea 600 Valencia Nord – San Vicente Calders.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 252.070",
+    "averia": "Ninguna",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros de Larga Distancia 697 de Renfe, con locomotora 252.070, procedente de Barcelona Sants y destino Málaga, circulaba por la vía impar de la Línea 600 Valencia Nord – San Vicente Calders en dirección Valencia. En el punto kilométrico 61/700, entre las estaciones de Vila-Real y Burriana, el maquinista observó la aparición de dos varones mayores en la vía. Accionó el silbato y el freno de emergencia. Una de las dos personas se retiró a tiempo, pero la otra (Francisco Alejandro) no logró apartarse completamente y fue rozada por el lateral de la locomotora a 138 km/h. El tren se detuvo y el maquinista informó al Puesto de Mando de Valencia, que cursó los avisos correspondientes.\n\nA las 11:05 se ordenó marcha a la vista por vía par hasta la evacuación del herido. A las 11:15 se presentó la Policía Local y a las 11:23 el tren reanudó la marcha, ya que la persona arrollada estaba siendo atendida fuera de la vía. A las 11:30 llegaron los medios sanitarios y a las 11:35 el herido fue evacuado al Hospital de la Plana de Vila-Real, donde falleció horas más tarde. Se restableció la circulación en condiciones normales. Se realizaron pruebas de alcoholemia y drogadicción al maquinista con resultado negativo. No se produjeron daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Vila-Real y Burriana",
+    "pk": "61/700",
+    "linea": "600 Valencia Nord – San Vicente Calders",
+    "provincia": "Castellón",
+    "descripcion_lugar": "Tramo de vía recto con muy buena visibilidad, lugar eminentemente rural pero muy próximo al núcleo urbano, zona transitada con numerosos pasos viciosos que cruzan las vías. El tramo no se encuentra vallado, aunque existen parcelas cuyos cerramientos actúan a modo de vallado."
+   },
+   "pagina": 2,
+   "cita": "Valencia Nord – San Vicente Calders, entre las estaciones de Vila-Real y Burriana, en la",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales al tren.",
+    "afectacion_servicio": "Incidencia de 40 minutos (10:55 a 11:35). Retraso de 31 min al tren 697. 75 min de retraso acumulado en 4 trenes de Larga Distancia, 84 min en 5 trenes de Cercanías y 29 min en 1 tren de Media Distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 697",
+     "implicacion": "Matrícula 9721499. Jornada efectiva previa: 3h25min. Jornada 24h anteriores: 8h15min. Jornada 48h anteriores: 8h. Accionó silbato y freno de emergencia. Pruebas de alcoholemia y drogadicción negativas. En perfectas condiciones para sus funciones."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "697",
+     "tipo": "Larga Distancia",
+     "operador": "Renfe",
+     "danos": "No se produjeron daños"
+    }
+   ],
+   "pagina": 3,
+   "cita": "El tren de viajeros de Larga Distancia 697 de la empresa ferroviaria Renfe, con locomotora",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 252.070",
+    "averia": "Ninguna",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": null,
+    "tipo_via": "Vía doble",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Tramo recto con muy buena visibilidad. No vallado. Numerosos pasos viciosos. Zona rural próxima a núcleo urbano.",
+    "otro": "Bloqueo Automático en vía doble electrificada. Red Ferroviaria de Interés General administrada por Adif."
+   },
+   "pagina": 4,
+   "cita": "tramo de 140 km/h. A.3. OTROS DATOS ## Página 5 A MINISTERIO DE FOMENTO SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y PLANIFICACIÓN SECRETARÍA GENERAL DE INFRAESTRUCTURAS Investigación del accidente",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales al tren.",
+    "afectacion_servicio": "Incidencia de 40 minutos (10:55 a 11:35). Retraso de 31 min al tren 697. 75 min de retraso acumulado en 4 trenes de Larga Distancia, 84 min en 5 trenes de Cercanías y 29 min en 1 tren de Media Distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales al tren.",
+    "afectacion_servicio": "Incidencia de 40 minutos (10:55 a 11:35). Retraso de 31 min al tren 697. 75 min de retraso acumulado en 4 trenes de Larga Distancia, 84 min en 5 trenes de Cercanías y 29 min en 1 tren de Media Distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales al tren.",
+    "afectacion_servicio": "Incidencia de 40 minutos (10:55 a 11:35). Retraso de 31 min al tren 697. 75 min de retraso acumulado en 4 trenes de Larga Distancia, 84 min en 5 trenes de Cercanías y 29 min en 1 tren de Media Distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252.070",
+    "averia": "Ninguna",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": null,
+    "tipo_via": "Vía doble",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Tramo recto con muy buena visibilidad. No vallado. Numerosos pasos viciosos. Zona rural próxima a núcleo urbano.",
+    "otro": "Bloqueo Automático en vía doble electrificada. Red Ferroviaria de Interés General administrada por Adif."
+   },
+   "pagina": 4,
+   "cita": "tramo de 140 km/h. A.3. OTROS DATOS ## Página 5 A MINISTERIO DE FOMENTO SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y PLANIFICACIÓN SECRETARÍA GENERAL DE INFRAESTRUCTURAS Investigación del accidente",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Condiciones meteorológicas buenas. Día.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Castellón",
+    "municipio": null,
+    "estacion": "Vila-Real y Burriana"
+   },
+   "pagina": 2,
+   "cita": "provincia de Castellón, perteneciente a la Red Ferroviaria de Interés General administrada por",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Condiciones meteorológicas buenas. Día.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": null,
+    "tipo_via": "Vía doble",
+    "velocidad_maxima": "140 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Tramo recto con muy buena visibilidad. No vallado. Numerosos pasos viciosos. Zona rural próxima a núcleo urbano.",
+    "otro": "Bloqueo Automático en vía doble electrificada. Red Ferroviaria de Interés General administrada por Adif."
+   },
+   "pagina": 4,
+   "cita": "tramo de 140 km/h. A.3. OTROS DATOS ## Página 5 A MINISTERIO DE FOMENTO SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y PLANIFICACIÓN SECRETARÍA GENERAL DE INFRAESTRUCTURAS Investigación del accidente",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252.070",
+    "averia": "Ninguna",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Cruce indebido de la vía por peatón",
+    "No percatarse de la llegada del tren",
+    "Ausencia de vallado en el tramo",
+    "Numerosos pasos viciosos en la zona"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(Adif), comunicó por mensaje de telefonía móvil que se había producido el arrollamiento de \nuna persona resultando fallecida la misma, en el punto kilométrico 61/700 de la Línea 600 \nValencia Nord – San Vicente Calders, entre las estaciones de Vila-Real y Burriana, en la \nprovincia de Castellón, perteneciente a la Red Ferroviaria de Interés General administrada por \nAdif. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles de acuerdo \ncon el citado artículo.  \nDe conformidad con el artículo 112 del mencionado Reglamento, el 1 de septiembre de \n2007 la Dirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios para el periodo comprendido entre el 01.09.07 al 31.10.07 compuesto por las \nsiguientes personas para este accidente: \n \nTécnico responsable de la investigación del accidente: un funcionario adscrito a la \nDirección General de Ferrocarriles, que suscribe este informe. \n \nResponsable de seguridad de Adif en la zona Levante: entregó su informe particular del \naccidente el 14.09.07. \n \nResponsable de seguridad de Renfe: entregó su informe particular del accidente el \n14.09.07. \nLa empresa pública INECO S.A. en el marco del convenio de colaboración suscrito con la \nDirección General de Ferrocarriles el 26.09.06 ha realizado trabajos de apoyo en la \ninvestigación de este accidente al Técnico responsable de la misma.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), comunicó por mensaje de telefonía móvil que se había producido el arrollamiento de una persona resul",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros de Larga Distancia 697 de Renfe, con locomotora 252.070, procedente de Barcelona Sants y destino Málaga, circulaba por la vía impar de la Línea 600 Valencia Nord – San Vicente Calders en dirección Valencia. En el punto kilométrico 61/700, entre las estaciones de Vila-Real y Burriana, el maquinista observó la aparición de dos varones mayores en la vía. Accionó el silbato y el freno de emergencia. Una de las dos personas se retiró a tiempo, pero la otra (Francisco Alejandro) no logró apartarse completamente y fue rozada por el lateral de la locomotora a 138 km/h. El tren se detuvo y el maquinista informó al Puesto de Mando de Valencia, que cursó los avisos correspondientes.\n\nA las 11:05 se ordenó marcha a la vista por vía par hasta la evacuación del herido. A las 11:15 se presentó la Policía Local y a las 11:23 el tren reanudó la marcha, ya que la persona arrollada estaba siendo atendida fuera de la vía. A las 11:30 llegaron los medios sanitarios y a las 11:35 el herido fue evacuado al Hospital de la Plana de Vila-Real, donde falleció horas más tarde. Se restableció la circulación en condiciones normales. Se realizaron pruebas de alcoholemia y drogadicción al maquinista con resultado negativo. No se produjeron daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR LA EMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por Adif concluye “…imprudencia de la persona, al intentar cruzar desde el \nlado derecho de la línea al lado izquierdo, para acceder a algún paso vicioso…”. \nEl elaborado por RENFE concluye “…imprudencia de la víctima por invadir el gálibo de la vía \nen el momento del paso del tren de Larga Distancia 697…”.  \nPor tanto, ambas conclusiones son coincidentes en cuanto a la causa del accidente. \n\n## Página 6\n\n \n \n \nA \nMINISTERIO DE \nFOMENTO \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nInvestigación del accidente \nnº 0036/2007 ocurrido el 07.06.2007 \nInforme definitivo \nDIRECCION GENERAL DE \nFERROCARRILES \n \nID-070607-191007 \n \n \nPág. 6 de 6",
+   "pagina": 5,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Imprudencia de la víctima que cruzó las vías de forma indebida sin percatarse de la llegada del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Existencia de numerosos pasos viciosos que cruzan las vías en la zona",
+    "Tramo no vallado, aunque próximo a núcleo urbano",
+    "La víctima y su acompañante se aseguraron de que ningún tren se aproximaba en dirección Castellón, pero no percataron de la proximidad del convoy en dirección Valencia",
+    "Francisco Alejandro se quedó rezagado y muy cerca de las vías al paso del tren"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "El accidente tuvo su origen en la imprudencia de la víctima que cruzo las vías de forma \nindebida sin percatarse de la llegada del tren.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES El accidente tuvo su origen en la imprudencia de la víctima que cruzo las vías de forma indebida sin percatarse de la llegada del tren. 7. RECOMENDACIONES Estimamos conveniente recomendar:  I",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "El accidente tuvo su origen en la imprudencia de la víctima que cruzo las vías de forma \nindebida sin percatarse de la llegada del tren.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES El accidente tuvo su origen en la imprudencia de la víctima que cruzo las vías de forma indebida sin percatarse de la llegada del tren. 7. RECOMENDACIONES Estimamos conveniente recomendar:  I",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Instalación de vallado en toda la zona, con independencia de la existencia de cerramiento en las parcelas.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Intensificar el Plan de instalación de cerramientos de las líneas.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril.",
+     "destinatario": "Adif / Administraciones públicas"
+    }
+   ],
+   "pagina": 6,
+   "cita": " Instalación de vallado en toda la zona, con independencia de la existencia de cerramiento en las parcelas.  Intensificar el Plan de instalación de cerramientos de las líneas.  Impulsar campañas de sensibilizac",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "10:55",
+     "evento": "Arrollamiento de persona por el tren LD 697 en el PK 61/700. El maquinista acciona silbato y freno de emergencia. Detención del tren."
+    },
+    {
+     "hora": "10:55",
+     "evento": "El maquinista informa al Puesto de Mando de Valencia, que cursa avisos a Seguridad Corporativa, Protección Civil, Gerencias Territoriales y servicios de emergencia."
+    },
+    {
+     "hora": "11:05",
+     "evento": "Se ordena marcha a la vista por vía par hasta la evacuación del herido."
+    },
+    {
+     "hora": "11:15",
+     "evento": "Se presenta la Policía Local en el lugar."
+    },
+    {
+     "hora": "11:23",
+     "evento": "El tren reanuda la marcha; la persona arrollada está herida y siendo atendida fuera de la vía."
+    },
+    {
+     "hora": "11:30",
+     "evento": "Llegan los medios sanitarios."
+    },
+    {
+     "hora": "11:35",
+     "evento": "El herido es evacuado al Hospital de la Plana de Vila-Real. Se restablece la circulación en condiciones normales."
+    },
+    {
+     "hora": null,
+     "evento": "La víctima fallece horas más tarde en el hospital."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0036/2007",
+ "expediente": "0036/2007",
+ "anio": 2007,
+ "titulo": "Informe definitivo sobre la investigación del accidente ferroviario Nº 0036/2007 ocurrido el día 07.06.2007",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID_070607_191007.md"
+}

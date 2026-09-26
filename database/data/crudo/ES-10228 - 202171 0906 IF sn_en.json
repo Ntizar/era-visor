@@ -1,0 +1,1115 @@
+{
+ "id": "ES-10228 - 202171 0906 IF sn_en",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/220721-210906-if-sn_ciaf.pdf",
+ "pdf": "pdfs/ES/ES-10228 - 202171 0906 IF sn_en.pdf",
+ "md5_pdf": "cac8a0a625fe965db984eeabfd6e4f68",
+ "paginas_md": 48,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 17,
+ "n_tablas": 1,
+ "tablas": [
+  {
+   "pagina": 42,
+   "cabecera": [
+    "Destinatarios",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatarios": "AESF",
+     "Implementador final": "ADIF",
+     "Número": "71/2021-1",
+     "Recomendación": "Insistir en los procesos de formación y reciclaje del personal de infraestructura y circulación y a través de los canales de difusión y aprendizaje permanente, en la obligatoriedad de formalizar cualquier tipo de intervención de pruebas, verificaciones y actuaciones de mantenimiento correctivo que impliquen la comunicación de la posición de los aparatos de vía."
+    },
+    {
+     "Destinatarios": "AESF",
+     "Implementador final": "ADIF",
+     "Número": "71/2021-2",
+     "Recomendación": "Elaboración de un protocolo en el que se denominen inequívocamente los aparatos de vía, su estado y posición en las comunicaciones entre los agentes de mantenimiento de infraestructura y los responsables de circulación, durante la realización de pruebas, verificaciones y actuaciones de mantenimiento correctivo."
+    },
+    {
+     "Destinatarios": "AESF",
+     "Implementador final": "ADIF",
+     "Número": "71/2021-3",
+     "Recomendación": "Definir las prioridades e incompatibilidades entre los sistemas automáticos de ayuda a la operación, como el FAI, y las operaciones manuales del personal de circulación, con la finalidad de mejorar la operativa de todas aquellas actuaciones que, sin ser de seguridad, puedan tener repercusión sobre la misma. Ésto se debe hacer en los enclavamientos y/o CTC, o bien a través de las consignas específicas de las estaciones."
+    }
+   ],
+   "cita": "| Destinatarios | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "71/2021",
+   "pagina": 1,
+   "cita": "INFORME FINAL (IF) 71/2021",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 6 de septiembre de 2021 a las 17:40, el tren de Rodalies 25542 descarriló al talonar el desvío nº4 de la estación de El Prat de Llobregat (línea 200, PK 667,524). Previamente, el desvío había perdido la comprobación y un equipo de mantenimiento de IISS intervino sin resolver la incidencia, comunicando erróneamente al puesto de mando que el desvío estaba a posición normal. El RC del CTC autorizó al maquinista a rebasar la señal 6668 en indicación de parada, y el tren circuló por vía directa mientras el desvío estaba posicionado a vía desviada. No hubo fallecidos ni heridos, pero sí daños materiales leves e interrupción del tráfico.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2021-09-06",
+    "hora": null,
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "El Prat de Llobregat",
+     "pk": "667,524",
+     "linea": "200 Madrid Chamartín-Clara Campoamor a Barcelona Estación de França",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Desvío nº4 que da acceso al ramal hacia la estación de Aeropuerto T2, situado en el municipio de Sant Boi de Llobregat (provincia de Barcelona, Cataluña), en zona prácticamente llana. Coordenadas: 41°19'16.88\"N, 2°3'44.87\"E. Estaciones colaterales: Gavá, Aeropuerto T2 y Bellvitge."
+    }
+   },
+   "pagina": 1,
+   "cita": "Descarrilamiento ocurrido el 6 de septiembre de 2021 en la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Leves daños materiales en la infraestructura (desvío, vía) y en el material rodante (tren 450.016). El tren descarriló del primer bogie, forzó la aguja recta hacia su contraaguja. La cabeza del tren paró a unos 80 metros del punto de descarrilamiento.",
+    "afectacion_servicio": "Tráfico interceptado afectando a numerosos trenes. Se activó un Plan Alternativo de Transporte con servicio por carretera (autobuses) entre Gavá y El Prat de Llobregat. Transbordo de viajeros del 25542 al 15033 (17:50-18:28). Vía 2 cortada hasta las 07:08 del día siguiente con LTV de 30 km/h. Vía 1 reabierta a las 04:45 sin limitación. Desvío nº4 fuera de servicio hasta las 02:56 del 9 de septiembre por nueva avería de comprobación a invertido."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Talonamiento del desvío nº4, que se encontraba posicionado hacia vía desviada, por el tren 25542 que circulaba por la vía directa tras ser autorizado a rebasar la señal 6668 en indicación de parada. El desvío perdió la comprobación porque el motor 4B no completó su recorrido hacia la posición invertida por un motivo mecánico o eléctrico indeterminado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La comunicación de la posición del desvío nº4 al puesto de mando se hizo de manera informal (verbal), sin utilizar los telefonemas reglamentarios del RCF (L3.15, L3.16, L3.19), aumentando la probabilidad de fallo en la transmisión de la información.",
+    "En el telefonema de autorización de rebase de la señal 6668 no se prescribió al maquinista la comprobación de la posición del desvío nº4, por indicación del inspector del PM.",
+    "El FAI activo en la señal 6668 y el proceso de formación del itinerario de la señal 36 impidieron que se ejecutaran las órdenes individuales del RC del CTC al desvío nº4. No se desactivó el FAI porque la letra F no aparecía en el videográfico del CTC.",
+    "La Consigna serie A 2621 del enclavamiento de El Prat de Llobregat no contempla las incompatibilidades entre los sistemas automáticos (FAI) y las operaciones manuales del operador.",
+    "El desvío recuperó la comprobación a invertido a las 17:37:47, pero esta información no se mostró en el videográfico del CTC, impidiendo que el RC del CTC lo advirtiera.",
+    "El motor 4B tenía fluctuaciones en la tensión de comprobación (24,3-27 V CC), lo que no fue detectado como indicativo de posición incorrecta."
+   ],
+   "pagina": 39,
+   "cita": "2. En el telefonema de autorización de rebase de la señal 6668 no se prescribió al maquinista la",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Práctica habitual de actuar con rapidez y sin formalizar la intervención en incidencias de falta de comprobación de aparatos de vía, posicionando el desvío a una posición concreta sin telefonemas, para luego resolver en la banda de mantenimiento nocturna.",
+    "La terminología utilizada para concretar la orientación del desvío (normal/invertida, directa/desviada) es relativa y confusa, especialmente en desvíos con tangente reducida. No existe un procedimiento para nombrar inequívocamente los aparatos de vía en las comunicaciones entre mantenimiento y circulación.",
+    "Incongruencia entre la comprobación del aparato de vía en el videográfico, el enclavamiento y su posición real en el campo, sin alarmas suficientemente significativas para advertir al RC."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Insistir en los procesos de formación y reciclaje del personal de infraestructura y circulación y a través de los canales de difusión y aprendizaje permanente, en la obligatoriedad de formalizar cualquier tipo de intervención de pruebas, verificaciones y actuaciones de mantenimiento correctivo que impliquen la comunicación de la posición de los aparatos de vía.",
+    "Elaboración de un protocolo en el que se denominen inequívocamente los aparatos de vía, su estado y posición en las comunicaciones entre los agentes de mantenimiento de infraestructura y los responsables de circulación, durante la realización de pruebas, verificaciones y actuaciones de mantenimiento correctivo.",
+    "Definir las prioridades e incompatibilidades entre los sistemas automáticos de ayuda a la operación, como el FAI, y las operaciones manuales del personal de circulación, con la finalidad de mejorar la operativa de todas aquellas actuaciones que, sin ser de seguridad, puedan tener repercusión sobre la misma. Ésto se debe hacer en los enclavamientos y/o CTC, o bien a través de las consignas específicas de las estaciones."
+   ],
+   "pagina": 42,
+   "cita": "| Destinatarios | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 42,
+   "cita": "| Destinatarios | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Descarrilamiento",
+   "pagina": 1,
+   "cita": "Descarrilamiento ocurrido el 6 de septiembre de 2021 en la",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "Rodalies"
+   ],
+   "pagina": 4,
+   "cita": "ADIF Administrador de Infraestructuras Ferroviarias AESF Agencia Estatal de Seguridad Ferroviaria ASFA Anuncio de Señales y Frenado Automático BAB Bloqueo Automático de vía Banalizada BAU Bloqueo Automático de v",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2021-09-06",
+   "pagina": 1,
+   "cita": "Descarrilamiento ocurrido el 6 de septiembre de 2021 en la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "El Prat de Llobregat",
+    "pk": "667,524",
+    "linea": "200 Madrid Chamartín-Clara Campoamor a Barcelona Estación de França",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Desvío nº4 que da acceso al ramal hacia la estación de Aeropuerto T2, situado en el municipio de Sant Boi de Llobregat (provincia de Barcelona, Cataluña), en zona prácticamente llana. Coordenadas: 41°19'16.88\"N, 2°3'44.87\"E. Estaciones colaterales: Gavá, Aeropuerto T2 y Bellvitge."
+   },
+   "pagina": 11,
+   "cita": "General en la estación de El Prat de Llobregat. Las estaciones colaterales son, por un lado, Gavá y",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 200 Madrid Chamartín-Clara Campoamor a Barcelona Estación de França",
+   "pagina": 5,
+   "cita": "La estación del Prat de Llobregat pertenece a línea 200 Madrid Chamartín-Clara Campoamor a",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Serie 450 (Alstom y CAF), tracción eléctrica, composición M-4R-M, tipo 140N, rama 450.016. 6 vehículos, 24 ejes, 159 m longitud, 348 t masa. ASFA Digital.",
+    "averia": "El material rodante no presentó ninguna anomalía. El funcionamiento de sus sistemas fue conforme a lo esperado. El autopropulsado 450.016 no presentaba avería tras el encarrilamiento.",
+    "mantenimiento": "No se menciona información específica sobre el mantenimiento del material rodante implicado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El desvío nº4 de El Prat de Llobregat perdió su comprobación a las 16:46:50 cuando el enclavamiento mandó dos órdenes incompatibles (itinerario de señal 36 y FAI de señal 6668), iniciando el movimiento a invertido el motor 4B sin completar el recorrido. El RC del CTC envió 20 órdenes individuales al desvío sin resultado porque el FAI activo bloqueaba los mandos. Sobre las 17:20, dos agentes de IISS (PMANT1 y PMANT2) acudieron al desvío, comprobaron visualmente el encerrojamiento y completaron el recorrido del motor 4B con una manivela, pero no realizaron comprobación con galga. PMANT1 comunicó verbalmente al RC del CTC que la aguja estaba 'hecha completa a normal', cuando en realidad los cuatro motores quedaron posicionados a vía desviada. El inspector del PM indicó al RC que no prescribiera al maquinista la comprobación del desvío. A las 17:36, el RC autorizó al tren 25542 a rebasar la señal 6668 con marcha a la vista. A las 17:40:14, el tren talonó el desvío a 34 km/h, descarrilando el primer bogie. El desvío había recuperado la comprobación a invertido a las 17:37:47, pero esta información no se mostró en el videográfico del CTC.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "El Prat de Llobregat",
+    "pk": "667,524",
+    "linea": "200 Madrid Chamartín-Clara Campoamor a Barcelona Estación de França",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Desvío nº4 que da acceso al ramal hacia la estación de Aeropuerto T2, situado en el municipio de Sant Boi de Llobregat (provincia de Barcelona, Cataluña), en zona prácticamente llana. Coordenadas: 41°19'16.88\"N, 2°3'44.87\"E. Estaciones colaterales: Gavá, Aeropuerto T2 y Bellvitge."
+   },
+   "pagina": 11,
+   "cita": "General en la estación de El Prat de Llobregat. Las estaciones colaterales son, por un lado, Gavá y",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Leves daños materiales en la infraestructura (desvío, vía) y en el material rodante (tren 450.016). El tren descarriló del primer bogie, forzó la aguja recta hacia su contraaguja. La cabeza del tren paró a unos 80 metros del punto de descarrilamiento.",
+    "afectacion_servicio": "Tráfico interceptado afectando a numerosos trenes. Se activó un Plan Alternativo de Transporte con servicio por carretera (autobuses) entre Gavá y El Prat de Llobregat. Transbordo de viajeros del 25542 al 15033 (17:50-18:28). Vía 2 cortada hasta las 07:08 del día siguiente con LTV de 30 km/h. Vía 1 reabierta a las 04:45 sin limitación. Desvío nº4 fuera de servicio hasta las 02:56 del 9 de septiembre por nueva avería de comprobación a invertido."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Por parte del administrador de infraestructura, los agentes de II.SS. que participaron en el suceso se \nsometieron a reconocimiento psicofísico adicional de conformidad con la Orden FOM de personal \nferroviario y además se realizó un taller de aprendizaje sobre este suceso en el que participaron los \nAgentes implicados en el mismo y representantes de las Áreas afectadas. \nSegún el Informe particular de ADIF, desde el Área de Formación de ADIF, las practicas seguras en los \ntrabajos en instalaciones de seguridad y en las comprobaciones a realizar en la autorización de rebase \nde señales se han reforzado en los reciclajes y en los canales de difusión y aprendizaje permanentes. \n\n## Página 41\n\n \nInforme Provisional de la CIAF 71/2021 \n \n \n \n \n \n \n \n \n \n \n \n \n41",
+   "pagina": 40,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Responsable de Circulación del CTC (RC del CTC)",
+     "implicacion": "Personal de ADIF. Autorizó el rebase de la señal 6668 al tren 25542 basándose en la comunicación verbal errónea del equipo de IISS. No prescribió la comprobación del desvío al maquinista. No desactivó el FAI de la señal 6668 al no aparecer la letra F en el videográfico. Intervino el inspector del PM indicándole que no diera la prescripción."
+    },
+    {
+     "rol": "Maquinista del tren 25542 (M1)",
+     "implicacion": "Personal de Renfe Viajeros. Recibió autorización de rebase sin prescripción de comprobación del desvío. Sintió vibraciones crecientes al pasar por el desvío y aplicó freno. No fue informado de la necesidad de comprobar la posición del aparato de vía."
+    },
+    {
+     "rol": "Encargado de Trabajos / Personal de mantenimiento 1 (PMANT1)",
+     "implicacion": "Personal de ADIF, montador eléctrico de IISS, equipo de Hospitalet. Habilitación de Encargado de Trabajos desde noviembre de 2010 (11 años de experiencia). Comunicó verbalmente al RC del CTC que la aguja estaba 'hecha completa a normal' cuando en realidad quedó a vía desviada. Completó el recorrido del motor 4B con manivela sin realizar comprobación con galga. No formalizó la intervención mediante telefonemas del RCF."
+    },
+    {
+     "rol": "Personal de mantenimiento 2 (PMANT2)",
+     "implicacion": "Personal de ADIF, montador eléctrico de IISS, equipo de Hospitalet. Habilitación de Encargado de Trabajos desde febrero de 2021. Primera vez que acudía a esa estación, llevaba menos de un mes de servicio. Asistía a PMANT1, no cuestionó la posición real de la aguja."
+    },
+    {
+     "rol": "Inspector del Puesto de Mando",
+     "implicacion": "Indicó al RC del CTC que podía autorizar el rebase de la señal 6668 sin prescribir la comprobación del desvío, interrumpiendo al RC cuando intentaba incluir dicha prescripción en el telefonema."
+    }
+   ],
+   "pagina": 9,
+   "cita": "➢ Responsable de Circulación del CTC (RC del CTC)",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "25542",
+     "tipo": "Rodalies/Cercanías, Serie 450, tipo 140N, composición simple, rama 450.016",
+     "operador": "Renfe Viajeros",
+     "danos": "Descarrilamiento del primer bogie. Sin avería posterior. Daños leves en material rodante."
+    },
+    {
+     "numero": "28368",
+     "tipo": "Tren de pasajeros",
+     "operador": "Renfe Viajeros",
+     "danos": null
+    },
+    {
+     "numero": "25444",
+     "tipo": "Tren de pasajeros (procedente del Aeropuerto)",
+     "operador": "Renfe Viajeros",
+     "danos": null
+    },
+    {
+     "numero": "28369",
+     "tipo": "Tren de pasajeros (vía contigua)",
+     "operador": "Renfe Viajeros",
+     "danos": null
+    },
+    {
+     "numero": "15033",
+     "tipo": "Tren de pasajeros (vía contigua, receptor de transbordo)",
+     "operador": "Renfe Viajeros",
+     "danos": null
+    },
+    {
+     "numero": "28536",
+     "tipo": "Tren de pasajeros",
+     "operador": "Renfe Viajeros",
+     "danos": null
+    },
+    {
+     "numero": "18054",
+     "tipo": "Tren de pasajeros (prueba de gálibo)",
+     "operador": "Renfe Viajeros",
+     "danos": null
+    }
+   ],
+   "pagina": 5,
+   "cita": "El tren de Rodalíes 25542 descarriló en el desvío nº 4 de El Prat de Llobregat (vía par). Previamente",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Serie 450 (Alstom y CAF), tracción eléctrica, composición M-4R-M, tipo 140N, rama 450.016. 6 vehículos, 24 ejes, 159 m longitud, 348 t masa. ASFA Digital.",
+    "averia": "El material rodante no presentó ninguna anomalía. El funcionamiento de sus sistemas fue conforme a lo esperado. El autopropulsado 450.016 no presentaba avería tras el encarrilamiento.",
+    "mantenimiento": "No se menciona información específica sobre el mantenimiento del material rodante implicado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 4,
+   "cita": "Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "ASFA Digital. Señal 6668 (entrada) protege el desvío nº4. Señales interiores E'2 y E2. Señales 32 (avanzada) y 36 (entrada) desde el lado Aeropuerto. Enclavamiento electrónico Ebilock (Bombardier). FAI (Formación Automática de Itinerarios) activo en señal 6668. Videográfico del CTC de Barcelona-Estación de Francia.",
+    "tipo_via": "Vía doble en ancho ibérico (tramo Gavá-El Prat, línea 200). Vía única en ancho ibérico (tramo Aeropuerto T2-El Prat, línea 254). Desvío nº4 tipo P izquierdo, radio 1.500 m, carril 60 kg/m (DSH-P-60-1500-042-CR-I). Traviesas de hormigón tipo losa. Alineación recta, rasante en rampa 0.0001.",
+    "velocidad_maxima": "140 km/h (tramo Gavá-El Prat); 75 km/h (tramo Aeropuerto T2-El Prat). Velocidad del tren en el momento del remonte: 34 km/h.",
+    "ancho": "1668 mm (ancho ibérico)",
+    "electrificacion": "Electrificado",
+    "estado_via": "Zona prácticamente llana. Tramo Gavá-El Prat: BAB con CTC, canal 64. Tramo Aeropuerto-El Prat: BAU con CTC, canal 66. Subred C1 de la RFIG. Bandas SITRA: 5109 (Barcelona Sants-Aeropuerto) y 5105 (Vilanova-Gavá). Desvío con 4 accionamientos electromecánicos MD2000 Siemens con cerrojos de uña y comprobadores eléctricos de posición.",
+    "otro": "El desvío nº4 conectaba con el ramal hacia el Aeropuerto del Prat. La comprobación del desvío se recuperó a invertido a las 17:37:47 pero no se visualizó en el videográfico del CTC durante 53 segundos antes del descarrilamiento. Las designaciones de señales 6668, E'2 y E2 no se ajustan a la normativa NAG 2-0-1.0."
+   },
+   "pagina": 10,
+   "cita": "tren ASFA Digital. El 25542 hacía un servicio de Cercanías con salida de Sant Vicenç de Calders a las 16:30 y llegada prevista a Barcelona-Estación de França a las 17:51. ## Página 11 Informe Provisional de la CIA",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "ASFA Digital. Señal 6668 (entrada) protege el desvío nº4. Señales interiores E'2 y E2. Señales 32 (avanzada) y 36 (entrada) desde el lado Aeropuerto. Enclavamiento electrónico Ebilock (Bombardier). FAI (Formación Automática de Itinerarios) activo en señal 6668. Videográfico del CTC de Barcelona-Estación de Francia.",
+   "pagina": 10,
+   "cita": "tren ASFA Digital. El 25542 hacía un servicio de Cercanías con salida de Sant Vicenç de Calders a las 16:30 y llegada prevista a Barcelona-Estación de França a las 17:51. ## Página 11 Informe Provisional de la CIA",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Leves daños materiales en la infraestructura (desvío, vía) y en el material rodante (tren 450.016). El tren descarriló del primer bogie, forzó la aguja recta hacia su contraaguja. La cabeza del tren paró a unos 80 metros del punto de descarrilamiento.",
+    "afectacion_servicio": "Tráfico interceptado afectando a numerosos trenes. Se activó un Plan Alternativo de Transporte con servicio por carretera (autobuses) entre Gavá y El Prat de Llobregat. Transbordo de viajeros del 25542 al 15033 (17:50-18:28). Vía 2 cortada hasta las 07:08 del día siguiente con LTV de 30 km/h. Vía 1 reabierta a las 04:45 sin limitación. Desvío nº4 fuera de servicio hasta las 02:56 del 9 de septiembre por nueva avería de comprobación a invertido."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Leves daños materiales en la infraestructura (desvío, vía) y en el material rodante (tren 450.016). El tren descarriló del primer bogie, forzó la aguja recta hacia su contraaguja. La cabeza del tren paró a unos 80 metros del punto de descarrilamiento.",
+    "afectacion_servicio": "Tráfico interceptado afectando a numerosos trenes. Se activó un Plan Alternativo de Transporte con servicio por carretera (autobuses) entre Gavá y El Prat de Llobregat. Transbordo de viajeros del 25542 al 15033 (17:50-18:28). Vía 2 cortada hasta las 07:08 del día siguiente con LTV de 30 km/h. Vía 1 reabierta a las 04:45 sin limitación. Desvío nº4 fuera de servicio hasta las 02:56 del 9 de septiembre por nueva avería de comprobación a invertido."
+   },
+   "pagina": 2,
+   "cita": "Comisión de Investigación de Accidentes Ferroviarios – CIAF",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Leves daños materiales en la infraestructura (desvío, vía) y en el material rodante (tren 450.016). El tren descarriló del primer bogie, forzó la aguja recta hacia su contraaguja. La cabeza del tren paró a unos 80 metros del punto de descarrilamiento.",
+    "afectacion_servicio": "Tráfico interceptado afectando a numerosos trenes. Se activó un Plan Alternativo de Transporte con servicio por carretera (autobuses) entre Gavá y El Prat de Llobregat. Transbordo de viajeros del 25542 al 15033 (17:50-18:28). Vía 2 cortada hasta las 07:08 del día siguiente con LTV de 30 km/h. Vía 1 reabierta a las 04:45 sin limitación. Desvío nº4 fuera de servicio hasta las 02:56 del 9 de septiembre por nueva avería de comprobación a invertido."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 450 (Alstom y CAF), tracción eléctrica, composición M-4R-M, tipo 140N, rama 450.016. 6 vehículos, 24 ejes, 159 m longitud, 348 t masa. ASFA Digital.",
+    "averia": "El material rodante no presentó ninguna anomalía. El funcionamiento de sus sistemas fue conforme a lo esperado. El autopropulsado 450.016 no presentaba avería tras el encarrilamiento.",
+    "mantenimiento": "No se menciona información específica sobre el mantenimiento del material rodante implicado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "ASFA Digital. Señal 6668 (entrada) protege el desvío nº4. Señales interiores E'2 y E2. Señales 32 (avanzada) y 36 (entrada) desde el lado Aeropuerto. Enclavamiento electrónico Ebilock (Bombardier). FAI (Formación Automática de Itinerarios) activo en señal 6668. Videográfico del CTC de Barcelona-Estación de Francia.",
+    "tipo_via": "Vía doble en ancho ibérico (tramo Gavá-El Prat, línea 200). Vía única en ancho ibérico (tramo Aeropuerto T2-El Prat, línea 254). Desvío nº4 tipo P izquierdo, radio 1.500 m, carril 60 kg/m (DSH-P-60-1500-042-CR-I). Traviesas de hormigón tipo losa. Alineación recta, rasante en rampa 0.0001.",
+    "velocidad_maxima": "140 km/h (tramo Gavá-El Prat); 75 km/h (tramo Aeropuerto T2-El Prat). Velocidad del tren en el momento del remonte: 34 km/h.",
+    "ancho": "1668 mm (ancho ibérico)",
+    "electrificacion": "Electrificado",
+    "estado_via": "Zona prácticamente llana. Tramo Gavá-El Prat: BAB con CTC, canal 64. Tramo Aeropuerto-El Prat: BAU con CTC, canal 66. Subred C1 de la RFIG. Bandas SITRA: 5109 (Barcelona Sants-Aeropuerto) y 5105 (Vilanova-Gavá). Desvío con 4 accionamientos electromecánicos MD2000 Siemens con cerrojos de uña y comprobadores eléctricos de posición.",
+    "otro": "El desvío nº4 conectaba con el ramal hacia el Aeropuerto del Prat. La comprobación del desvío se recuperó a invertido a las 17:37:47 pero no se visualizó en el videográfico del CTC durante 53 segundos antes del descarrilamiento. Las designaciones de señales 6668, E'2 y E2 no se ajustan a la normativa NAG 2-0-1.0."
+   },
+   "pagina": 10,
+   "cita": "tren ASFA Digital. El 25542 hacía un servicio de Cercanías con salida de Sant Vicenç de Calders a las 16:30 y llegada prevista a Barcelona-Estación de França a las 17:51. ## Página 11 Informe Provisional de la CIA",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Día nublado. Zona prácticamente llana. Alineación recta.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Prat de Llobregat"
+   },
+   "pagina": 5,
+   "cita": "Barcelona Estación de França de la Red Ferroviaria de Interés General. La estación se ubica en el",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Día nublado. Zona prácticamente llana. Alineación recta.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "ASFA Digital. Señal 6668 (entrada) protege el desvío nº4. Señales interiores E'2 y E2. Señales 32 (avanzada) y 36 (entrada) desde el lado Aeropuerto. Enclavamiento electrónico Ebilock (Bombardier). FAI (Formación Automática de Itinerarios) activo en señal 6668. Videográfico del CTC de Barcelona-Estación de Francia.",
+   "pagina": 10,
+   "cita": "tren ASFA Digital. El 25542 hacía un servicio de Cercanías con salida de Sant Vicenç de Calders a las 16:30 y llegada prevista a Barcelona-Estación de França a las 17:51. ## Página 11 Informe Provisional de la CIA",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "ASFA Digital. Señal 6668 (entrada) protege el desvío nº4. Señales interiores E'2 y E2. Señales 32 (avanzada) y 36 (entrada) desde el lado Aeropuerto. Enclavamiento electrónico Ebilock (Bombardier). FAI (Formación Automática de Itinerarios) activo en señal 6668. Videográfico del CTC de Barcelona-Estación de Francia.",
+    "tipo_via": "Vía doble en ancho ibérico (tramo Gavá-El Prat, línea 200). Vía única en ancho ibérico (tramo Aeropuerto T2-El Prat, línea 254). Desvío nº4 tipo P izquierdo, radio 1.500 m, carril 60 kg/m (DSH-P-60-1500-042-CR-I). Traviesas de hormigón tipo losa. Alineación recta, rasante en rampa 0.0001.",
+    "velocidad_maxima": "140 km/h (tramo Gavá-El Prat); 75 km/h (tramo Aeropuerto T2-El Prat). Velocidad del tren en el momento del remonte: 34 km/h.",
+    "ancho": "1668 mm (ancho ibérico)",
+    "electrificacion": "Electrificado",
+    "estado_via": "Zona prácticamente llana. Tramo Gavá-El Prat: BAB con CTC, canal 64. Tramo Aeropuerto-El Prat: BAU con CTC, canal 66. Subred C1 de la RFIG. Bandas SITRA: 5109 (Barcelona Sants-Aeropuerto) y 5105 (Vilanova-Gavá). Desvío con 4 accionamientos electromecánicos MD2000 Siemens con cerrojos de uña y comprobadores eléctricos de posición.",
+    "otro": "El desvío nº4 conectaba con el ramal hacia el Aeropuerto del Prat. La comprobación del desvío se recuperó a invertido a las 17:37:47 pero no se visualizó en el videográfico del CTC durante 53 segundos antes del descarrilamiento. Las designaciones de señales 6668, E'2 y E2 no se ajustan a la normativa NAG 2-0-1.0."
+   },
+   "pagina": 10,
+   "cita": "tren ASFA Digital. El 25542 hacía un servicio de Cercanías con salida de Sant Vicenç de Calders a las 16:30 y llegada prevista a Barcelona-Estación de França a las 17:51. ## Página 11 Informe Provisional de la CIA",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "La Dirección Corporativa de Seguridad en la Circulación del Administrador de Infraestructuras \nFerroviarias (ADIF), mediante mensajería móvil (SMS) a las 18:15:00 horas del día 6 de septiembre de \n2021, comunicó a la Comisión de Investigación de Accidentes Ferroviarios que se había producido el \nsuceso objeto de esta investigación.  \nADIF presentó información preliminar necesaria para la investigación del accidente: fichas de \nincidencia, transcripciones de las entrevistas realizadas al personal relacionado con el accidente, \n\n## Página 7\n\n \nInforme Provisional de la CIAF 71/2021 \n \n \n \n \n \n \n \n \n \n \n \n \n7 \n \npruebas practicadas de control de consumo de alcohol y drogas de abuso y otras sustancias \npsicoactivas, informe fotográfico, transcripción de conversaciones, etc...  \nAnalizada la información, la CIAF solicitó a ADIF más información y el 8 de octubre de 2021 entregaron \ndatos sobre el personal de mantenimiento, los registros del enclavamiento y del videográfico del CTC, \nel registrador del tren y datos generales sobre infraestructura. \nLa CIAF realizó una visita al campo para ver el desvío nº4, así como al enclavamiento que gobierna \ndicho desvío y además entrevistó al personal que estuvo presente el día del accidente (personal de \nmantenimiento y de circulación). \nLa CIAF solicitó información a la dirección de mantenimiento de ADIF, en concreto a la gerencia de \nárea de infraestructura noreste, sobre el sistema de gestión de mantenimiento correctivo (SGMC) y \nsobre las incidencias en dicho desvío en los últimos años. \nA su vez, la CIAF también mantuvo comunicaciones con el tecnólogo Alstom para tratar todo lo \nrelativo al funcionamiento del enclavamiento el día del accidente. También se mantuvieron \ncomunicaciones con el tecnólogo Siemens con relación al videográfico del CTC. \nADIF remitió información sobre inspecciones realizadas a trabajos en vía, así como en los puestos de \nmando. \nPor parte de la empresa ferroviaria, Renfe Viajeros remitió su informe particular de la investigación \ndel accidente el 4 de febrero de 2022. ADIF entregó su informe de investigación particular el 24 de \njunio de 2022.",
+   "pagina": 6,
+   "cita": "2.4. CANALES DE COMUNICACIÓN",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 450 (Alstom y CAF), tracción eléctrica, composición M-4R-M, tipo 140N, rama 450.016. 6 vehículos, 24 ejes, 159 m longitud, 348 t masa. ASFA Digital.",
+    "averia": "El material rodante no presentó ninguna anomalía. El funcionamiento de sus sistemas fue conforme a lo esperado. El autopropulsado 450.016 no presentaba avería tras el encarrilamiento.",
+    "mantenimiento": "No se menciona información específica sobre el mantenimiento del material rodante implicado."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Desvío sin comprobación de posición",
+    "Equipo de mantenimiento no resolvió incidencia",
+    "Comunicación errónea de posición normal",
+    "RC autorizó rebasar señal protegida"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Factores relacionados con la no formalización de los trabajos \nDe acuerdo con las entrevistas realizadas por el EI al personal presente en el accidente, no \nconsideraron que fueran propiamente a reparar ninguna avería, su intención era determinar la \nexistencia de una avería y la necesidad de acometer una reparación de la misma, en caso de su \nexistencia. Por ello, realizaron comprobaciones visuales y fruto de las mismas, realizaron el ajuste del \naccionamiento de un motor mediante la manivela para completar el movimiento de uno de los \nmotores. De esto modo y por agilizar, los agentes de IISS no formalizaron reglamentariamente la \npetición de los trabajos, ni la entrega de la instalación tal y como se establece en los mencionados \nartículos del RCF en el apartado de Cometidos y deberes. La utilización del telefonema L3.19 podría \nhaber evitado la confusión sobre la posición de la aguja nº4 por parte del PMANT1. \nPor las entrevistas realizadas, se puede entrever que esto es una práctica que se suele dar \nhabitualmente: cuando hay una incidencia de falta de comprobación de un desvío en un momento \nen el que hay muchas circulaciones, se tiene que actuar con rapidez con la única intención de dejar \ncolocado el mismo a una posición concreta y sin utilizar telefonemas, después, en la banda de \nmantenimiento por la noche, se llevarán a cabo los trabajos de forma reglada y con la intención de \nsolventar la incidencia. Por ello no se esperó a que el equipo de IISS acudiese a cabina a hacer las \ncomprobaciones pertinentes antes de dejar pasar al tren, el RC del CTC, sabiendo la posición de la \naguja ya tenía información suficiente para autorizar al tren a rebasar la señal, de acuerdo con esta \nforma de trabajo. \nFactores relacionados con la confusión en la posición del desvío \nPor otro lado, hay otros factores que, según lo deducido de las entrevistas realizadas al personal de \nADIF, influyeron en la confusión de PMANT1 sobre la posición de la aguja. El hecho de que le pidieran \nel desvío nº4 en una determinada posición le hizo confundirse con que ya estaba colocada a dicha \nposición. Además, PMANT1 sólo fue acompañado por PMANT2, que sólo tenía 1 mes de experiencia \ny era la primera vez que acudía a ese desvío, éste seguía sus indicaciones, por lo que se fio de lo que \nle decía y de lo que escuchó al puesto de mando, no cuestionando nada sobre la posición real de la \naguja. PMANT1 tenía 11 años de experiencia y había trabajado con ese desvío en mantenimiento \npreventivo y averías. \nDentro del equipo de IISS de la base de mantenimiento de L’Hospitalet de Llobregat, a la que \npertenece el personal de mantenimiento que atendió la incidencia, los operarios de IISS mecánicas \n\n## Página 36\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n36  \n \n \n \nno hacen turnos por la tarde, por lo que sólo están presentes los de IISS eléctricas, de los que \nnormalmente sólo suele haber dos personas.  \nTambién hay que resaltar el hecho de que la terminología utilizada para concretar la orientación del \ndesvío nº4 por parte de los agentes de IISS y que es generalizada, resulta confusa. Las denominaciones \na posición normal/invertida, a vía directa/desviada son relativas, es decir, dependen de la vía que se \ntome como referencia. Normalmente se toma como criterio referente, la vía recta como la posición \nnormal o directa, sin embargo, en desvíos con una tangente reducida, este criterio puede dar lugar a \nconfusión. Se estima conveniente, asimismo, un procedimiento, o ampliación de los existentes, para \nnombrar inequívocamente los aparatos de vía, su estado y posición en las comunicaciones entre los \nagentes de mantenimiento de infraestructura y los responsables de circulación, durante la realización \nde pruebas, verificaciones y actuaciones de mantenimiento correctivo.",
+   "pagina": 35,
+   "cita": "4.3. FACTORES HUMANOS",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El desvío nº4 de El Prat de Llobregat perdió su comprobación a las 16:46:50 cuando el enclavamiento mandó dos órdenes incompatibles (itinerario de señal 36 y FAI de señal 6668), iniciando el movimiento a invertido el motor 4B sin completar el recorrido. El RC del CTC envió 20 órdenes individuales al desvío sin resultado porque el FAI activo bloqueaba los mandos. Sobre las 17:20, dos agentes de IISS (PMANT1 y PMANT2) acudieron al desvío, comprobaron visualmente el encerrojamiento y completaron el recorrido del motor 4B con una manivela, pero no realizaron comprobación con galga. PMANT1 comunicó verbalmente al RC del CTC que la aguja estaba 'hecha completa a normal', cuando en realidad los cuatro motores quedaron posicionados a vía desviada. El inspector del PM indicó al RC que no prescribiera al maquinista la comprobación del desvío. A las 17:36, el RC autorizó al tren 25542 a rebasar la señal 6668 con marcha a la vista. A las 17:40:14, el tren talonó el desvío a 34 km/h, descarrilando el primer bogie. El desvío había recuperado la comprobación a invertido a las 17:37:47, pero esta información no se mostró en el videográfico del CTC.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Talonamiento del desvío nº4, que se encontraba posicionado hacia vía desviada, por el tren 25542 que circulaba por la vía directa tras ser autorizado a rebasar la señal 6668 en indicación de parada. El desvío perdió la comprobación porque el motor 4B no completó su recorrido hacia la posición invertida por un motivo mecánico o eléctrico indeterminado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La comunicación de la posición del desvío nº4 al puesto de mando se hizo de manera informal (verbal), sin utilizar los telefonemas reglamentarios del RCF (L3.15, L3.16, L3.19), aumentando la probabilidad de fallo en la transmisión de la información.",
+    "En el telefonema de autorización de rebase de la señal 6668 no se prescribió al maquinista la comprobación de la posición del desvío nº4, por indicación del inspector del PM.",
+    "El FAI activo en la señal 6668 y el proceso de formación del itinerario de la señal 36 impidieron que se ejecutaran las órdenes individuales del RC del CTC al desvío nº4. No se desactivó el FAI porque la letra F no aparecía en el videográfico del CTC.",
+    "La Consigna serie A 2621 del enclavamiento de El Prat de Llobregat no contempla las incompatibilidades entre los sistemas automáticos (FAI) y las operaciones manuales del operador.",
+    "El desvío recuperó la comprobación a invertido a las 17:37:47, pero esta información no se mostró en el videográfico del CTC, impidiendo que el RC del CTC lo advirtiera.",
+    "El motor 4B tenía fluctuaciones en la tensión de comprobación (24,3-27 V CC), lo que no fue detectado como indicativo de posición incorrecta."
+   ],
+   "pagina": 39,
+   "cita": "2. En el telefonema de autorización de rebase de la señal 6668 no se prescribió al maquinista la",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": "Al margen de las conclusiones señaladas anteriormente que tienen una relación causal con lo \nsucedido, durante el proceso de investigación se han constatado los siguientes hechos: \n• \nLa designación de las señales de entrada 6668 e interiores E’2 y E2 no se ajusta a la normativa \ngeneral de designación de vías y componentes de la superestructura, NAG 2-0-1.0, julio de \n2016. \n• \nSobre la recuperación de la comprobación del desvío nº4 en el videográfico del CTC: desde \nque la aguja comprueba en invertido (en normal no llega a comprobar en ningún momento) \nen el enclavamiento, hasta que el tren rebasa la señal 6668, pasan 53 segundos. La \nrecuperación de la comprobación no se muestra puesto que el videográfico está mostrando \nla posición a directa y la recuperación de la comprobación de la aguja se realiza a invertido, \nesto provoca una situación discordante entre la posición en campo y la posición marcada en \nel videográfico. \n• \nEl RC del CTC dictó el telefonema de autorización de rebase de la señal 6668 al maquinista \ndel tren 25542 sin la prescripción de comprobar la posición del desvío. Este telefonema \ndictado no coincide con el escrito por el propio RC del CTC en el libro de telefonemas del CTC, \nen el que sí se incluye tal prescripción. \n \n \n\n## Página 42\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n42  \n \n \n \n6 \nRECOMENDACIONES DE SEGURIDAD \nDestinatarios Implementador \nfinal \nNúmero \nRecomendación \nAESF \nADIF \n71/2021-1 \nInsistir en los procesos de formación y reciclaje del personal \nde infraestructura y circulación y a través de los canales de \ndifusión y aprendizaje permanente, en la obligatoriedad de \nformalizar cualquier tipo de intervención de pruebas, \nverificaciones y actuaciones de mantenimiento correctivo \nque impliquen la comunicación de la posición de los \naparatos de vía. \nAESF \nADIF \n71/2021-2 \nElaboración de un protocolo en el que se denominen \ninequívocamente los aparatos de vía, su estado y posición \nen las comunicaciones entre los agentes de mantenimiento \nde infraestructura y los responsables de circulación, durante \nla realización de pruebas, verificaciones y actuaciones de \nmantenimiento correctivo. \nAESF \nADIF \n71/2021-3 \nDefinir las prioridades e incompatibilidades entre los \nsistemas automáticos de ayuda a la operación, como el FAI, \ny las operaciones manuales del personal de circulación, con \nla finalidad de mejorar la operativa de todas aquellas \nactuaciones que, sin ser de seguridad, puedan tener \nrepercusión sobre la misma. Ésto se debe hacer en los \nenclavamientos y/o CTC, o bien a través de las consignas \nespecíficas de las estaciones. \n \n \nMadrid, a 21 de julio de 2022 \n \n \n\n### Tablas de la página 42\n\n| Destinatarios | Implementador final | Número | Recomendación |\n|---|---|---|---|\n| AESF | ADIF | 71/2021-1 | Insistir en los procesos de formación y reciclaje del personal de infraestructura y circulación y a través de los canales de difusión y aprendizaje permanente, en la obligatoriedad de formalizar cualquier tipo de intervención de pruebas, verificaciones y actuaciones de mantenimiento correctivo que impliquen la comunicación de la posición de los aparatos de vía. |\n| AESF | ADIF | 71/2021-2 | Elaboración de un protocolo en el que se denominen inequívocamente los aparatos de vía, su estado y posición en las comunicaciones entre los agentes de mantenimiento de infraestructura y los responsables de circulación, durante la realización de pruebas, verificaciones y actuaciones de mantenimiento correctivo. |\n| AESF | ADIF | 71/2021-3 | Definir las prioridades e incompatibilidades entre los sistemas automáticos de ayuda a la operación, como el FAI, y las operaciones manuales del personal de circulación, con la finalidad de mejorar la operativa de todas aquellas actuaciones que, sin ser de seguridad, puedan tener repercusión sobre la misma. Ésto se debe hacer en los enclavamientos y/o CTC, o bien a través de las consignas específicas de las estaciones. |\n\n## Página 43\n\n \nInforme Provisional de la CIAF 71/2021 \n \n \n \n \n \n \n \n \n \n \n \n \n43 \n \nAPPENDIX: ENGLISH SUMMARY OF THE MAIN PARTS OF THE REPORT \nCommission Implementing Regulation (EU) 2020/572 of 24 April 2020 on the reporting \nstructure to be followed by railway accident and incident investigation reports states \n(Article 3): \n“Points 1, 5 and 6 of the Annex I shall be written in a second official European language. \nThis translation should be available no later than 3 months after the delivery of the report”. \n(Annex I establishes the structure to follow on the reporting).  \nThis appendix contains the translation into English of points 1, 5 and 6 of the final report, \naccording to that regulation. \nIn case of any doubt or contradiction, the corresponding original Spanish text shall prevail.  \n \n \n \nThis report is a technical document that presents the approach of the Spanish National \nInvestigation Body (CIAF) to the circumstances of the investigated occurrence, setting out \nits probable causes and safety recommendations. \nAs stated by Royal Decree 623/2014 of 18 July 2014, in particular Article 4 paragraphs 4 \nand 5 thereof: \n“4. Investigation shall aim to determine the causes of the accident or incident, and clarify \nits circumstances, so that rail transport safety increases and accidents are prevented”.  \n“5. The investigation will not deal with allocation of blame nor liability for the accident or \nincident, and it will be independent of any judicial enquiry”. \nConsequently, using this report for any other purpose than prevention of future accidents \nor incidents could result in wrong conclusions or interpretations. \n \n \n\n## Página 44\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n44  \n \n \n \nSUMMARY \nRodalíes train 25542 derailed at switch #4 at Prat de Llobregat station. Previously, this switch had \ndetection loss problems, and a safety installations maintenance team (SIM team) intervened without \nbeing able to completely resolve this inc",
+   "pagina": 41,
+   "cita": "5.3. OBSERVACIONES ADICIONALES",
+   "origen": "determinista",
+   "regla": "sec:^observaciones adicionales",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Por parte del administrador de infraestructura, los agentes de II.SS. que participaron en el suceso se \nsometieron a reconocimiento psicofísico adicional de conformidad con la Orden FOM de personal \nferroviario y además se realizó un taller de aprendizaje sobre este suceso en el que participaron los \nAgentes implicados en el mismo y representantes de las Áreas afectadas. \nSegún el Informe particular de ADIF, desde el Área de Formación de ADIF, las practicas seguras en los \ntrabajos en instalaciones de seguridad y en las comprobaciones a realizar en la autorización de rebase \nde señales se han reforzado en los reciclajes y en los canales de difusión y aprendizaje permanentes. \n\n## Página 41\n\n \nInforme Provisional de la CIAF 71/2021 \n \n \n \n \n \n \n \n \n \n \n \n \n41",
+   "pagina": 40,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Por parte del administrador de infraestructura, los agentes de II.SS. que participaron en el suceso se \nsometieron a reconocimiento psicofísico adicional de conformidad con la Orden FOM de personal \nferroviario y además se realizó un taller de aprendizaje sobre este suceso en el que participaron los \nAgentes implicados en el mismo y representantes de las Áreas afectadas. \nSegún el Informe particular de ADIF, desde el Área de Formación de ADIF, las practicas seguras en los \ntrabajos en instalaciones de seguridad y en las comprobaciones a realizar en la autorización de rebase \nde señales se han reforzado en los reciclajes y en los canales de difusión y aprendizaje permanentes. \n\n## Página 41\n\n \nInforme Provisional de la CIAF 71/2021 \n \n \n \n \n \n \n \n \n \n \n \n \n41",
+   "pagina": 40,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Insistir en los procesos de formación y reciclaje del personal de infraestructura y circulación y a través de los canales de difusión y aprendizaje permanente, en la obligatoriedad de formalizar cualquier tipo de intervención de pruebas, verificaciones y actuaciones de mantenimiento correctivo que impliquen la comunicación de la posición de los aparatos de vía.",
+    "Elaboración de un protocolo en el que se denominen inequívocamente los aparatos de vía, su estado y posición en las comunicaciones entre los agentes de mantenimiento de infraestructura y los responsables de circulación, durante la realización de pruebas, verificaciones y actuaciones de mantenimiento correctivo.",
+    "Definir las prioridades e incompatibilidades entre los sistemas automáticos de ayuda a la operación, como el FAI, y las operaciones manuales del personal de circulación, con la finalidad de mejorar la operativa de todas aquellas actuaciones que, sin ser de seguridad, puedan tener repercusión sobre la misma. Ésto se debe hacer en los enclavamientos y/o CTC, o bien a través de las consignas específicas de las estaciones."
+   ],
+   "pagina": 42,
+   "cita": "| Destinatarios | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 42,
+   "cita": "| Destinatarios | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "ADIF",
+    "ADIF",
+    "ADIF"
+   ],
+   "pagina": 42,
+   "cita": "| Destinatarios | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "16:45:12",
+     "evento": "Desvío nº4 enclavado y comprobando orientado a vía directa. FAI activo en señales 6668 y E2. Tren 28368 pasa por señal 6668 en vía libre."
+    },
+    {
+     "hora": "16:45:52",
+     "evento": "Itinerario 6668-E2 se disuelve al paso del tren 28368. Desvío nº4 deja de estar enclavado."
+    },
+    {
+     "hora": "16:46:50",
+     "evento": "Desvío nº4 pasa a parpadear orientado a vía desviada. Letra F del FAI desaparece de señal 6668. RC del CTC manda itinerario de señal S36 a E2 para tren 25444."
+    },
+    {
+     "hora": "16:46:51",
+     "evento": "FAI lanza itinerario de señal 6668 a E2 por ocupación de circuito de proximidad. Desvío inicia movimiento a invertido y pierde comprobación."
+    },
+    {
+     "hora": "16:46:57",
+     "evento": "Enclavamiento manda dos órdenes incompatibles. Itinerario de señal 6668 no se ejecuta. Señal permanece en rojo."
+    },
+    {
+     "hora": "16:48:24",
+     "evento": "RC del CTC manda comando DAI a señal 6668. Desvío queda desenclavado, parpadeando a vía directa, sin comprobación."
+    },
+    {
+     "hora": "16:48:31",
+     "evento": "RC del CTC bloquea automatismo GRP en señal 6668 y otras señales de la estación."
+    },
+    {
+     "hora": "16:49",
+     "evento": "Se abre ficha de incidencia por pérdida de comprobación del desvío. Se moviliza personal de mantenimiento."
+    },
+    {
+     "hora": "16:52",
+     "evento": "RC del CTC anula FAI de señal E2. A las 16:54 disuelve itinerario de señal E2."
+    },
+    {
+     "hora": "17:00:59",
+     "evento": "RC del CTC manda orden de bloqueo contra movimiento del desvío nº4."
+    },
+    {
+     "hora": "17:05:53",
+     "evento": "RC del CTC anula el bloqueo del desvío. Se comunica con maquinista del tren 28369 que informa desvío a vía desviada."
+    },
+    {
+     "hora": "17:08",
+     "evento": "Tren 25444 retrocede para itinerario alternativo por vía 3. Se banaliza vía 1 para trenes pares. RC del CTC manda 25 órdenes adicionales al desvío sin resultado."
+    },
+    {
+     "hora": "17:20",
+     "evento": "Equipo de mantenimiento IISS (PMANT1 y PMANT2) se persona en el desvío nº4."
+    },
+    {
+     "hora": "17:22",
+     "evento": "PMANT1 comunica al RC del CTC que la aguja está a posición general (normal). Pide orden para invertir: no se mueve nada."
+    },
+    {
+     "hora": "17:25",
+     "evento": "PMANT1 y PMANT2 completan recorrido del motor 4B con manivela. Todos los motores quedan a vía desviada."
+    },
+    {
+     "hora": "17:27",
+     "evento": "PMANT1 comunica verbalmente al RC del CTC que la aguja está 'hecha completa a normal'. RC decide pasar trenes con autorización de rebase."
+    },
+    {
+     "hora": "17:28:47",
+     "evento": "RC del CTC manda orden de bloquear desvío nº4 contra movimiento."
+    },
+    {
+     "hora": "17:32:39",
+     "evento": "Enclavamiento recibe 10 cambios de estado en aguja A4 (sin comprobación a comprobando a invertido). No se visualiza en CTC."
+    },
+    {
+     "hora": "17:36",
+     "evento": "RC del CTC autoriza al tren 25542 a rebasar señal 6668 con marcha a la vista, sin prescribir comprobación del desvío (interrumpido por inspector del PM)."
+    },
+    {
+     "hora": "17:37:22",
+     "evento": "Enclavamiento recibe 2 cambios de estado. A las 17:37:47 aguja A4 queda comprobando a invertido. No se muestra en videográfico del CTC."
+    },
+    {
+     "hora": "17:38:58",
+     "evento": "Tren 25542 pasa señal 6668 en indicación de parada y ocupa CV6668."
+    },
+    {
+     "hora": "17:40:00",
+     "evento": "Tren 25542 ocupa circuito del desvío nº4 (CVA4). Desvío bloqueado contra movimiento, parpadeando sin comprobación."
+    },
+    {
+     "hora": "17:40:14",
+     "evento": "Descarrilamiento. Tren talona desvío a 34 km/h. Pestaña remonta a la altura del motor 4C, cae a la altura del motor 4B."
+    },
+    {
+     "hora": "17:40:20",
+     "evento": "Tren libera por cola CV 6668."
+    },
+    {
+     "hora": "17:44",
+     "evento": "Maquinista del tren 15033 informa al RC del CTC del descarrilamiento."
+    },
+    {
+     "hora": "17:49",
+     "evento": "Se ordena retroceso del tren 28536 a Gavá."
+    },
+    {
+     "hora": "17:50",
+     "evento": "Inicia transbordo de viajeros del 25542 al 15033. Finaliza a las 18:28."
+    },
+    {
+     "hora": "18:33",
+     "evento": "Tren 15033 reanuda marcha. Viajeros apean en Gavá."
+    },
+    {
+     "hora": "19:49",
+     "evento": "Tren 18054 sale de Gavá para prueba de gálibo por vía 1."
+    },
+    {
+     "hora": "20:00",
+     "evento": "Se permite circular por vía 1 con marcha a la vista, máx 5 km/h, PK 667+400 a 667+600, excepto series 450 y 451."
+    },
+    {
+     "hora": "20:44",
+     "evento": "Se corta tensión en vía 2 entre señales 6668 y E2."
+    },
+    {
+     "hora": "22:37",
+     "evento": "Se solicita bloqueo de vía 1 para trabajos de encarrilamiento con gatos hidráulicos."
+    },
+    {
+     "hora": "00:54",
+     "evento": "Fin de trabajos de encarrilamiento. Tren 450.016 sin avería."
+    },
+    {
+     "hora": "01:45",
+     "evento": "Tren 450.016 inicia movimiento hacia El Prat. Estacionado en vía 4 a las 2:00."
+    },
+    {
+     "hora": "02:10",
+     "evento": "Comienzan trabajos de acondicionamiento de vía y reparación del desvío nº4."
+    },
+    {
+     "hora": "04:45",
+     "evento": "Se reanuda circulación en vía 1 en ambos sentidos sin limitación de velocidad."
+    },
+    {
+     "hora": "07:08",
+     "evento": "Se devuelve vía 2 con LTV de 30 km/h entre PK 667+505 y 667+585. Desvío nº4 embridado a posición normal."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0071/2021",
+ "expediente": "071/21",
+ "anio": 2021,
+ "titulo": "Descarrilamiento del tren de Rodalies 25542 en el desvío nº 4 de la estación de Prat de Llobregat",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES-10228 - 202171 0906 IF sn_en.md"
+}

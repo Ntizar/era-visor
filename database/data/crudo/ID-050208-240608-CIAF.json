@@ -1,0 +1,873 @@
+{
+ "id": "ID-050208-240608-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/327824A3-4B15-4130-A83F-6D9AA797C2C1/46959/ID050208240608CIAF.pdf",
+ "pdf": "pdfs/ES/ID-050208-240608-CIAF.pdf",
+ "md5_pdf": "5f26196296e3865ab125dedfe4779e91",
+ "paginas_md": 9,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 8,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0023/2008",
+   "pagina": 1,
+   "cita": "nº 0023/2008 ocurrido el 05.02.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 5 de febrero de 2008, a las 17:00 horas, el tren de viajeros 224 AVE-Larga Distancia de Renfe Operadora arrolló a una persona que caminaba por la vía en el P.K. 13+100 de la línea 300 Madrid-Valencia, entre San Cristóbal Industrial y Getafe Industrial. El maquinista advirtió a la víctima con el silbato y aplicó el freno de emergencia, pero no pudo evitar el impacto. La víctima, un varón de 31 años, falleció en el lugar. No hubo daños en instalaciones ni en el medio ambiente, aunque se registraron daños de escasa consideración en el material motor y retrasos en la circulación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-02-05",
+    "hora": "17:00",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "13+100",
+     "linea": "300 Madrid-Valencia",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Plena vía entre las estaciones de San Cristóbal Industrial y Getafe Industrial, a unos 80 m de la señal de entrada de Getafe Industrial."
+    }
+   },
+   "pagina": 9,
+   "cita": "estaciones de San Cristóbal Industrial y Getafe Industrial, el 05/02/2008, se aprueba como",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños de escasa consideración en el material motor; no se produjeron daños en instalaciones ni en el medio ambiente.",
+    "afectacion_servicio": "Marcha a la vista por ambas vías hasta las 19:15 h; 25 trenes de viajeros retrasados; 271 minutos de retraso."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "El tránsito de la víctima por un lugar no autorizado para ello, en el momento del paso del tren.",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado para",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima caminaba por encima de las traviesas, en el sentido de la marcha del tren."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Realizar un estudio para detectar la existencia de posibles pasos viciosos en la zona sur de Madrid y proceder a su supresión, en caso de que existan.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 2,
+   "cita": "Madrid, se recomienda realizar un estudio para detectar la existencia de posibles pasos viciosos en la",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Realizar un estudio para detectar la existencia de posibles pasos viciosos en la zona sur de Madrid y proceder a su supresión, en caso de que existan.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 2,
+   "cita": "Madrid, se recomienda realizar un estudio para detectar la existencia de posibles pasos viciosos en la",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de una persona",
+   "pagina": 2,
+   "cita": "Accidentes Ferroviarios, que el arrollamiento de una persona en la línea 300- Madrid-Valencia, el 5 de",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "Renfe Operadora compuesto de la locomotora 95710334008-0 y 9 vehículos con masa remolcada de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-02-05",
+   "pagina": 9,
+   "cita": "estaciones de San Cristóbal Industrial y Getafe Industrial, el 05/02/2008, se aprueba como",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "17:00",
+   "pagina": 2,
+   "cita": "El día 5 de febrero de 2008, a las 17:00 horas, el tren de viajeros 224 AVE-Larga Distancia de",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "13+100",
+    "linea": "300 Madrid-Valencia",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Plena vía entre las estaciones de San Cristóbal Industrial y Getafe Industrial, a unos 80 m de la señal de entrada de Getafe Industrial."
+   },
+   "pagina": 2,
+   "cita": "13+100 de la línea 300 Madrid-Valencia, arrolla a una persona que caminaba por la vía, en el sentido",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "300 Madrid-Valencia",
+   "pagina": 2,
+   "cita": "13+100 de la línea 300 Madrid-Valencia, arrolla a una persona que caminaba por la vía, en el sentido",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 95710334008-0 y 9 vehículos; masa remolcada 135 Tn",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros 224 AVE-Larga Distancia de Renfe Operadora, compuesto por la locomotora 95710334008-0 y 9 vehículos, circulaba entre las estaciones de San Cristóbal Industrial y Getafe Industrial por el P.K. 13+100 de la línea 300 Madrid-Valencia. A unos 80 metros de la señal de entrada de Getafe Industrial, el maquinista observó que una persona caminaba por encima de las traviesas, en el sentido de la marcha del tren.\n\nEl maquinista hizo uso insistente del silbato y del freno de emergencia, pero no pudo evitar el arrollamiento; el tren circulaba a 139 km/h en el momento de accionarse el freno de urgencia, por debajo de la velocidad máxima permitida de 160 km/h. Tras detenerse, el maquinista avisó al Puesto de Mando y se personó en el lugar; el cuerpo de la víctima, un varón de 31 años, quedó a metro y medio de la vía y fue confirmado cadáver por la Policía Nacional y los equipos de emergencia.\n\nLa investigación concluyó que el material rodante y las instalaciones funcionaron correctamente y que la actuación del maquinista fue adecuada. El origen del accidente fue el tránsito de la víctima por un lugar no autorizado, en el momento del paso del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "13+100",
+    "linea": "300 Madrid-Valencia",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Plena vía entre las estaciones de San Cristóbal Industrial y Getafe Industrial, a unos 80 m de la señal de entrada de Getafe Industrial."
+   },
+   "pagina": 2,
+   "cita": "13+100 de la línea 300 Madrid-Valencia, arrolla a una persona que caminaba por la vía, en el sentido",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños de escasa consideración en el material motor; no se produjeron daños en instalaciones ni en el medio ambiente.",
+    "afectacion_servicio": "Marcha a la vista por ambas vías hasta las 19:15 h; 25 trenes de viajeros retrasados; 271 minutos de retraso."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista del tren 224",
+     "implicacion": "Observó a la persona, usó el silbato y el freno de emergencia; no pudo evitar el arrollamiento. Su jornada, aptitud psicofísica y habilitación se consideraron correctas."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El maquinista del tren 224",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "224",
+     "tipo": "AVE-Larga Distancia",
+     "operador": "Renfe Operadora",
+     "danos": "Daños de escasa consideración en el material motor"
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 5 de febrero de 2008, a las 17:00 horas, el tren de viajeros 224 AVE-Larga Distancia de",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 95710334008-0 y 9 vehículos; masa remolcada 135 Tn",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de Accidentes Ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático en Doble vía electrificada con control de tráfico centralizado (B.A.D con C.T.C)",
+    "tipo_via": "doble vía",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": null,
+    "otro": "Radiotelefonía, modalidad A. El registrador jurídico MEMOTEL indicó 139 km/h al accionarse el freno de urgencia."
+   },
+   "pagina": 3,
+   "cita": "Descripción de la infraestructura",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo Automático en Doble vía electrificada con control de tráfico centralizado (B.A.D con C.T.C)",
+   "pagina": 3,
+   "cita": "Descripción de la infraestructura",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños de escasa consideración en el material motor; no se produjeron daños en instalaciones ni en el medio ambiente.",
+    "afectacion_servicio": "Marcha a la vista por ambas vías hasta las 19:15 h; 25 trenes de viajeros retrasados; 271 minutos de retraso."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños de escasa consideración en el material motor; no se produjeron daños en instalaciones ni en el medio ambiente.",
+    "afectacion_servicio": "Marcha a la vista por ambas vías hasta las 19:15 h; 25 trenes de viajeros retrasados; 271 minutos de retraso."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe definitivo ID-050208-240608-CIAF Pág. 1 de 9 INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños de escasa consideración en el material motor; no se produjeron daños en instalaciones ni en el medio ambiente.",
+    "afectacion_servicio": "Marcha a la vista por ambas vías hasta las 19:15 h; 25 trenes de viajeros retrasados; 271 minutos de retraso."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 95710334008-0 y 9 vehículos; masa remolcada 135 Tn",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático en Doble vía electrificada con control de tráfico centralizado (B.A.D con C.T.C)",
+    "tipo_via": "doble vía",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": null,
+    "otro": "Radiotelefonía, modalidad A. El registrador jurídico MEMOTEL indicó 139 km/h al accionarse el freno de urgencia."
+   },
+   "pagina": 3,
+   "cita": "Descripción de la infraestructura",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Las condiciones atmosféricas en el momento del accidente eran buenas.",
+   "pagina": 4,
+   "cita": "Las condiciones atmosféricas en el momento del accidente eran buenas.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 2,
+   "cita": "13+100 de la línea 300 Madrid-Valencia, arrolla a una persona que caminaba por la vía, en el sentido",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Las condiciones atmosféricas en el momento del accidente eran buenas.",
+   "pagina": 4,
+   "cita": "Las condiciones atmosféricas en el momento del accidente eran buenas.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo Automático en Doble vía electrificada con control de tráfico centralizado (B.A.D con C.T.C)",
+   "pagina": 3,
+   "cita": "Descripción de la infraestructura",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático en Doble vía electrificada con control de tráfico centralizado (B.A.D con C.T.C)",
+    "tipo_via": "doble vía",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": null,
+    "otro": "Radiotelefonía, modalidad A. El registrador jurídico MEMOTEL indicó 139 km/h al accionarse el freno de urgencia."
+   },
+   "pagina": 3,
+   "cita": "Descripción de la infraestructura",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 95710334008-0 y 9 vehículos; masa remolcada 135 Tn",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Víctima camina por vía no autorizada",
+    "Persona camina en sentido de marcha"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros 224 AVE-Larga Distancia de Renfe Operadora, compuesto por la locomotora 95710334008-0 y 9 vehículos, circulaba entre las estaciones de San Cristóbal Industrial y Getafe Industrial por el P.K. 13+100 de la línea 300 Madrid-Valencia. A unos 80 metros de la señal de entrada de Getafe Industrial, el maquinista observó que una persona caminaba por encima de las traviesas, en el sentido de la marcha del tren.\n\nEl maquinista hizo uso insistente del silbato y del freno de emergencia, pero no pudo evitar el arrollamiento; el tren circulaba a 139 km/h en el momento de accionarse el freno de urgencia, por debajo de la velocidad máxima permitida de 160 km/h. Tras detenerse, el maquinista avisó al Puesto de Mando y se personó en el lugar; el cuerpo de la víctima, un varón de 31 años, quedó a metro y medio de la vía y fue confirmado cadáver por la Policía Nacional y los equipos de emergencia.\n\nLa investigación concluyó que el material rodante y las instalaciones funcionaron correctamente y que la actuación del maquinista fue adecuada. El origen del accidente fue el tránsito de la víctima por un lugar no autorizado, en el momento del paso del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nSe ha comprobado que tanto el material rodante como los sistemas de control de la infraestructura \nfuncionaban correctamente en el momento del accidente. \nSe ha corroborado, por el registro jurídico de seguridad del tren, que el mismo circulaba a \nvelocidad inferior a la máxima permitida (160 Km/h). \nSe ha comprobado que la jornada de conducción del maquinista y su aptitud psicofísica, cumplen \nlo establecido en la Disposición adicional duodécima del Reglamento del Sector Ferroviario y O.M. \n2520/2006. \nSe comprueba que la víctima transitaba por un lugar no habilitado para ello.  \n4.2 \nCONCLUSIONES \n \nVerificado el correcto funcionamiento del material rodante y de las instalaciones, así como la \nactuación del maquinista, el técnico responsable de la investigación concluye que el accidente tuvo su \norigen en el tránsito de la persona arrollada en el momento del accidente por el lugar por donde \ncirculaba el tren. \n\n## Página 7\n\n \n \n \nInvestigación del accidente \nnº 0023/2008 ocurrido el 05.02.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme definitivo \n \n \nID-050208-240608-CIAF \n \n \nPág. 7 de 9",
+   "pagina": 6,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "El tránsito de la víctima por un lugar no autorizado para ello, en el momento del paso del tren.",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en el tránsito de la víctima por un lugar no autorizado para",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima caminaba por encima de las traviesas, en el sentido de la marcha del tren."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Realizar un estudio para detectar la existencia de posibles pasos viciosos en la zona sur de Madrid y proceder a su supresión, en caso de que existan.",
+     "destinatario": null
+    }
+   ],
+   "pagina": 2,
+   "cita": "Madrid, se recomienda realizar un estudio para detectar la existencia de posibles pasos viciosos en la",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "17:00",
+     "evento": "El tren 224 arrolla a una persona que caminaba por la vía en el P.K. 13+100."
+    },
+    {
+     "hora": null,
+     "evento": "El maquinista observa a la persona, acciona el silbato y el freno de emergencia, pero no evita el impacto."
+    },
+    {
+     "hora": null,
+     "evento": "El tren se detiene; el maquinista avisa al Puesto de Mando y se confirma el fallecimiento de la víctima."
+    },
+    {
+     "hora": "19:15",
+     "evento": "Se levanta la marcha a la vista por ambas vías tras la interceptación."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0023/2008",
+ "expediente": "0023/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de persona por tren AVE entre San Cristóbal Industrial y Getafe Industrial, línea Madrid-Valencia",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ID-050208-240608-CIAF.md"
+}

@@ -1,0 +1,962 @@
+{
+ "id": "IF-180609-221209-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/DBC0106C-B6CF-42F6-84D4-0C9AA8F37764/68860/IF180609221209CIAF.pdf",
+ "pdf": "pdfs/ES/IF-180609-221209-CIAF.pdf",
+ "md5_pdf": "c6acbb2fedb4722ffdaca4db5d4a69a0",
+ "paginas_md": 11,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 19,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Renfe Operadora",
+     "Número": "27/09-1",
+     "Recomendación": "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 11,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Renfe Operadora",
+     "Número": "27/09-1",
+     "Recomendación": "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0027/2009",
+   "pagina": 1,
+   "cita": "nº 0027/2009 ocurrido el 18.06.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 18 de junio de 2009, a las 08:20, el tren de cercanías 27209 de Renfe Operadora rebasó indebidamente la señal de salida S1/10 en parada en la vía 10 de la estación de Madrid-Chamartín. El sistema ASFA provocó la detención del tren y se originó un conato de colisión lateral con el tren de larga distancia 752. No hubo víctimas ni daños materiales, aunque se produjeron retrasos en varios trenes. La investigación atribuyó el suceso al incumplimiento de las órdenes de las señales por parte del personal de conducción.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-06-18",
+    "hora": "08:20",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Madrid-Chamartín",
+     "pk": "0+00",
+     "linea": "100 Hendaya – Madrid Chamartín",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Vía 10 de la estación de Madrid-Chamartín, en el tramo Madrid-Chamartín - Madrid Atocha cercanías; municipio de Madrid."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 18 de junio de 2009, a las 08:20 horas, en la estación de Madrid-Chamartín, el tren de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en el material rodante, la infraestructura ni el medio ambiente.",
+    "afectacion_servicio": "Retraso de 15 minutos en el tren 27209, 8 minutos en el tren 752 y 42 minutos de retraso total en 7 trenes de cercanías."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Rebase indebido por el tren 27209 de la señal de salida S1/10 que se encontraba ordenando parada (rojo), por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en el rebase indebido por el tren 27209 de la señal de",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Incumplimiento del artículo 217 del Reglamento General de Circulación al rebasar la señal en parada.",
+    "No ponerse en contacto con el agente que tenía la señal a su cargo tras el rebase, pese al intento, incumpliendo el artículo 279 del RGC.",
+    "Retroceso por iniciativa del maquinista hasta delante de la señal de salida S1/10 sin autorización reglamentaria, incumpliendo el artículo 475 del RGC.",
+    "Posible cierre intempestivo, según la opinión del maquinista del tren 27209."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción.",
+    "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Renfe Operadora"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente ferroviario",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "viajeros de cercanías 27209, de Renfe Operadora, rebasa indebidamente la señal de salida S1/10 que",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-06-18",
+   "pagina": 3,
+   "cita": "El día 18 de junio de 2009, a las 08:20 horas, en la estación de Madrid-Chamartín, el tren de",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "08:20",
+   "pagina": 3,
+   "cita": "El día 18 de junio de 2009, a las 08:20 horas, en la estación de Madrid-Chamartín, el tren de",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Madrid-Chamartín",
+    "pk": "0+00",
+    "linea": "100 Hendaya – Madrid Chamartín",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Vía 10 de la estación de Madrid-Chamartín, en el tramo Madrid-Chamartín - Madrid Atocha cercanías; municipio de Madrid."
+   },
+   "pagina": 7,
+   "cita": "anuncio de parada y reinicio la marcha para estacionarme. A unos 60 metros observo que un",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "100 Hendaya – Madrid Chamartín",
+   "pagina": 3,
+   "cita": "100 Hendaya – Madrid Chamartín",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tren 27209: motor 450014, 6 coches, 481 toneladas de masa remolcada, Nº UIC 967194500146. Tren 752: motor 252046, 8 coches, 130 toneladas de masa remolcada, Nº UIC 957102520468.",
+    "averia": "No se indica avería; los equipos de seguridad del tren funcionaban correctamente.",
+    "mantenimiento": "No se detalla mantenimiento; se indica que los equipos de seguridad y las instalaciones técnicas funcionaban correctamente conforme a la normativa vigente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros de cercanías 27209, de Renfe Operadora, procedente de Guadalajara y con destino Cercedilla, realizó la parada prescrita en la vía 10 de la estación de Madrid-Chamartín. Al reanudar la marcha, rebasó la señal de salida S1/10 que indicaba parada; el sistema ASFA actuó y detuvo el tren, que se frenó a una velocidad de 30 km/h.\n\nEn ese momento, el tren de larga distancia 752, de Ferrol a Madrid-Chamartín, realizaba su entrada hacia la vía 13. Su maquinista observó que el tren 27209 podía encontrarse en trayectoria de colisión lateral y efectuó una parada inmediata, quedando los dos trenes a unos 42 metros de distancia.\n\nTras el rebase, el maquinista del tren 27209 intentó comunicarse con el puesto de mando sin obtener respuesta y, por propia iniciativa y sin autorización reglamentaria, retrocedió hasta situarse ante la señal S1/10. Cuando la señal autorizó el paso, reanudó la marcha hasta Villalba de Guadarrama, donde fue relevado y se le comunicó la suspensión temporal del servicio.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Madrid-Chamartín",
+    "pk": "0+00",
+    "linea": "100 Hendaya – Madrid Chamartín",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Vía 10 de la estación de Madrid-Chamartín, en el tramo Madrid-Chamartín - Madrid Atocha cercanías; municipio de Madrid."
+   },
+   "pagina": 7,
+   "cita": "anuncio de parada y reinicio la marcha para estacionarme. A unos 60 metros observo que un",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en el material rodante, la infraestructura ni el medio ambiente.",
+    "afectacion_servicio": "Retraso de 15 minutos en el tren 27209, 8 minutos en el tren 752 y 42 minutos de retraso total en 7 trenes de cercanías."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "En la estación de Villalba de Guadarrama el maquinista es relevado y se le comunica la suspensión \ntemporal del servicio al tener conocimiento de los hechos el puesto de mando.  \nSegún Renfe Operadora, se constituyó el equipo de apoyo en aplicación de la Circular Operativa \nnúmero 1.",
+   "pagina": 11,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 27209",
+     "implicacion": "Rebasó indebidamente la señal S1/10 en parada, intentó comunicar con el puesto de mando sin respuesta, retrocedió sin autorización reglamentaria y continuó servicio hasta Villalba; fue relevado y suspendido temporalmente del servicio."
+    },
+    {
+     "rol": "Maquinista del tren 752",
+     "implicacion": "Observó una posible trayectoria de colisión lateral con el tren 27209 y efectuó parada inmediata para evitar la colisión."
+    }
+   ],
+   "pagina": 4,
+   "cita": "El maquinista del tren 27209, tras haber rebasado la señal S1/10, retrocede por propia iniciativa",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "27209",
+     "tipo": "tren de viajeros de cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Sin daños en material rodante."
+    },
+    {
+     "numero": "752",
+     "tipo": "tren de viajeros de larga distancia",
+     "operador": "Renfe Operadora",
+     "danos": "Sin daños en material rodante."
+    }
+   ],
+   "pagina": 3,
+   "cita": "viajeros de cercanías 27209, de Renfe Operadora, rebasa indebidamente la señal de salida S1/10 que",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tren 27209: motor 450014, 6 coches, 481 toneladas de masa remolcada, Nº UIC 967194500146. Tren 752: motor 252046, 8 coches, 130 toneladas de masa remolcada, Nº UIC 957102520468.",
+    "averia": "No se indica avería; los equipos de seguridad del tren funcionaban correctamente.",
+    "mantenimiento": "No se detalla mantenimiento; se indica que los equipos de seguridad y las instalaciones técnicas funcionaban correctamente conforme a la normativa vigente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1/10 sobre mástil elevado con buena visibilidad, dotada de baliza de señal pero no de baliza previa; señal anterior S1/10 A situada 270 metros antes; señal de entrada interior EP5.",
+    "tipo_via": "Vía 10 de estación; vía doble banalizada.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Bloqueo automático en vía doble banalizada (BAB) con control de tráfico centralizado (CTC); radiotelefonía modalidad A entre trenes y puesto de mando; no fue necesario activar el plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de salida S1/10 sobre mástil elevado con buena visibilidad, dotada de baliza de señal pero no de baliza previa; señal anterior S1/10 A situada 270 metros antes; señal de entrada interior EP5.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en el material rodante, la infraestructura ni el medio ambiente.",
+    "afectacion_servicio": "Retraso de 15 minutos en el tren 27209, 8 minutos en el tren 752 y 42 minutos de retraso total en 7 trenes de cercanías."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en el material rodante, la infraestructura ni el medio ambiente.",
+    "afectacion_servicio": "Retraso de 15 minutos en el tren 27209, 8 minutos en el tren 752 y 42 minutos de retraso total en 7 trenes de cercanías."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en el material rodante, la infraestructura ni el medio ambiente.",
+    "afectacion_servicio": "Retraso de 15 minutos en el tren 27209, 8 minutos en el tren 752 y 42 minutos de retraso total en 7 trenes de cercanías."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 27209: motor 450014, 6 coches, 481 toneladas de masa remolcada, Nº UIC 967194500146. Tren 752: motor 252046, 8 coches, 130 toneladas de masa remolcada, Nº UIC 957102520468.",
+    "averia": "No se indica avería; los equipos de seguridad del tren funcionaban correctamente.",
+    "mantenimiento": "No se detalla mantenimiento; se indica que los equipos de seguridad y las instalaciones técnicas funcionaban correctamente conforme a la normativa vigente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1/10 sobre mástil elevado con buena visibilidad, dotada de baliza de señal pero no de baliza previa; señal anterior S1/10 A situada 270 metros antes; señal de entrada interior EP5.",
+    "tipo_via": "Vía 10 de estación; vía doble banalizada.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Bloqueo automático en vía doble banalizada (BAB) con control de tráfico centralizado (CTC); radiotelefonía modalidad A entre trenes y puesto de mando; no fue necesario activar el plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo atmosférico despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": "Madrid Chamartín"
+   },
+   "pagina": 3,
+   "cita": "El día 18 de junio de 2009, a las 08:20 horas, en la estación de Madrid-Chamartín, el tren de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo atmosférico despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de salida S1/10 sobre mástil elevado con buena visibilidad, dotada de baliza de señal pero no de baliza previa; señal anterior S1/10 A situada 270 metros antes; señal de entrada interior EP5.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S1/10 sobre mástil elevado con buena visibilidad, dotada de baliza de señal pero no de baliza previa; señal anterior S1/10 A situada 270 metros antes; señal de entrada interior EP5.",
+    "tipo_via": "Vía 10 de estación; vía doble banalizada.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": null,
+    "otro": "Bloqueo automático en vía doble banalizada (BAB) con control de tráfico centralizado (CTC); radiotelefonía modalidad A entre trenes y puesto de mando; no fue necesario activar el plan de emergencia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tren 27209: motor 450014, 6 coches, 481 toneladas de masa remolcada, Nº UIC 967194500146. Tren 752: motor 252046, 8 coches, 130 toneladas de masa remolcada, Nº UIC 957102520468.",
+    "averia": "No se indica avería; los equipos de seguridad del tren funcionaban correctamente.",
+    "mantenimiento": "No se detalla mantenimiento; se indica que los equipos de seguridad y las instalaciones técnicas funcionaban correctamente conforme a la normativa vigente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Incumplimiento del artículo 217 del Reglamento General de Circulación al rebasar la señal en parada.",
+    "No ponerse en contacto con el agente que tenía la señal a su cargo tras el rebase, pese al intento, incumpliendo el artículo 279 del RGC.",
+    "Retroceso por iniciativa del maquinista hasta delante de la señal de salida S1/10 sin autorización reglamentaria, incumpliendo el artículo 475 del RGC.",
+    "Posible cierre intempestivo, según la opinión del maquinista del tren 27209."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "Jornada laboral y conducción efectiva del maquinista del tren 27209: \n- el día 18: 3 horas y 1 minuto (1 hora y 49 minutos) \n- el día 17: 6 horas y 46 minutos (3 horas y 13 minutos) \n- el día 16: 5 horas y 58 minutos (3 horas y 40 minutos) \nAl maquinista, el día del incidente, se le realiza prueba de alcoholemia en aire espirado dando \nresultado negativo (0,00 mg/100 ml). \nJornada laboral y conducción efectiva del maquinista del tren 752: \n- \nel día 18: 5 horas y 20 minutos (5 horas y 20 minutos) \n- \nel día 17: 6 horas y 10 minutos (3 horas y 10 minutos) \n- \nel día 16: 7 horas (3 horas y 10 minutos) \nAl maquinista no se le realiza prueba de alcoholemia porque no tuvo una implicación directa en la \nconcatenación de los hechos.",
+   "pagina": 9,
+   "cita": "3.6 INTERFAZ HOMBRE-MAQUÍNA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Jornada laboral y conducción efectiva del maquinista del tren 27209: \n- el día 18: 3 horas y 1 minuto (1 hora y 49 minutos) \n- el día 17: 6 horas y 46 minutos (3 horas y 13 minutos) \n- el día 16: 5 horas y 58 minutos (3 horas y 40 minutos) \nAl maquinista, el día del incidente, se le realiza prueba de alcoholemia en aire espirado dando \nresultado negativo (0,00 mg/100 ml). \nJornada laboral y conducción efectiva del maquinista del tren 752: \n- \nel día 18: 5 horas y 20 minutos (5 horas y 20 minutos) \n- \nel día 17: 6 horas y 10 minutos (3 horas y 10 minutos) \n- \nel día 16: 7 horas (3 horas y 10 minutos) \nAl maquinista no se le realiza prueba de alcoholemia porque no tuvo una implicación directa en la \nconcatenación de los hechos.",
+   "pagina": 9,
+   "cita": "3.6 INTERFAZ HOMBRE-MAQUÍNA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros de cercanías 27209, de Renfe Operadora, procedente de Guadalajara y con destino Cercedilla, realizó la parada prescrita en la vía 10 de la estación de Madrid-Chamartín. Al reanudar la marcha, rebasó la señal de salida S1/10 que indicaba parada; el sistema ASFA actuó y detuvo el tren, que se frenó a una velocidad de 30 km/h.\n\nEn ese momento, el tren de larga distancia 752, de Ferrol a Madrid-Chamartín, realizaba su entrada hacia la vía 13. Su maquinista observó que el tren 27209 podía encontrarse en trayectoria de colisión lateral y efectuó una parada inmediata, quedando los dos trenes a unos 42 metros de distancia.\n\nTras el rebase, el maquinista del tren 27209 intentó comunicarse con el puesto de mando sin obtener respuesta y, por propia iniciativa y sin autorización reglamentaria, retrocedió hasta situarse ante la señal S1/10. Cuando la señal autorizó el paso, reanudó la marcha hasta Villalba de Guadarrama, donde fue relevado y se le comunicó la suspensión temporal del servicio.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar en la vía 10 de la estación de Chamartín-Madrid. \nEl tren de cercanías 27209, que había realizado parada prescrita en vía 10 de la estación, reanuda \nla marcha rebasando la señal de salida interior S1/10 A en anuncio de parada y después rebasa \nindebidamente la señal de salida S1/10 que se encontraba ordenando parada, siendo la velocidad de \n30km/h y el  tren frenado por acción del ASFA y se detiene.  \nEl maquinista llama (según su propia declaración) al puesto de mando y no consigue comunicar; a \ncontinuación retrocede, sin la autorización reglamentaria, hasta situarse ante la señal S1/10. Al ver \nque la señal S1/10 autoriza el paso, el maquinista reanuda la marcha, continuando el servicio hasta \nVillalba de Guadarrama. \nPor su parte, el tren de viajeros de larga distancia 752 tenía establecido itinerario de entrada de \nseñal EP5 a vía 13 de la estación; el maquinista observa que los cambios no están dispuestos para el \ntren 27209 y efectúa parada inmediata. \n \n4.2 DELIBERACIÓN \nEl tren rebasa indebidamente la señal de salida S1/10 que se encontraba ordenando parada, se \nincumple el artículo 217 del RGC. \nTras el rebase el maquinista no se pone en contacto, aunque lo intenta con el agente que tenía la \nseñal a su cargo, se incumple el artículo 279 del RGC. Asimismo, retrocede, por iniciativa del \nmaquinista, hasta situarse delante de la señal de salida S1/10, se incumple el artículo 475 del RGC. \nLos equipos de seguridad del tren (freno, ASFA, sistemas de vigilancia, etc.) y las instalaciones \ntécnicas funcionaban correctamente en el momento del accidente y de acuerdo a la normativa \nvigente. \n \n4.3 CONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en el rebase  indebido por el tren 27209 de la señal de salida S1/10 \nque se encontraba ordenando parada (rojo), por incumplimiento de las órdenes dadas por las señales \nal personal de conducción. \n\n## Página 11\n\n \n \n \nInvestigación del incidente \nnº 0027/2009 ocurrido el 18.06.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-180609-221209-CIAF \n \n \nPág. 11 de 11",
+   "pagina": 10,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Rebase indebido por el tren 27209 de la señal de salida S1/10 que se encontraba ordenando parada (rojo), por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en el rebase indebido por el tren 27209 de la señal de",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Incumplimiento del artículo 217 del Reglamento General de Circulación al rebasar la señal en parada.",
+    "No ponerse en contacto con el agente que tenía la señal a su cargo tras el rebase, pese al intento, incumpliendo el artículo 279 del RGC.",
+    "Retroceso por iniciativa del maquinista hasta delante de la señal de salida S1/10 sin autorización reglamentaria, incumpliendo el artículo 475 del RGC.",
+    "Posible cierre intempestivo, según la opinión del maquinista del tren 27209."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en el rebase  indebido por el tren 27209 de la señal de salida S1/10 \nque se encontraba ordenando parada (rojo), por incumplimiento de las órdenes dadas por las señales \nal personal de conducción. \n\n## Página 11\n\n \n \n \nInvestigación del incidente \nnº 0027/2009 ocurrido el 18.06.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-180609-221209-CIAF \n \n \nPág. 11 de 11",
+   "pagina": 10,
+   "cita": "4.3 CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en el rebase  indebido por el tren 27209 de la señal de salida S1/10 \nque se encontraba ordenando parada (rojo), por incumplimiento de las órdenes dadas por las señales \nal personal de conducción. \n\n## Página 11\n\n \n \n \nInvestigación del incidente \nnº 0027/2009 ocurrido el 18.06.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-180609-221209-CIAF \n \n \nPág. 11 de 11",
+   "pagina": 10,
+   "cita": "4.3 CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "En la estación de Villalba de Guadarrama el maquinista es relevado y se le comunica la suspensión \ntemporal del servicio al tener conocimiento de los hechos el puesto de mando.  \nSegún Renfe Operadora, se constituyó el equipo de apoyo en aplicación de la Circular Operativa \nnúmero 1.",
+   "pagina": 11,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "En la estación de Villalba de Guadarrama el maquinista es relevado y se le comunica la suspensión \ntemporal del servicio al tener conocimiento de los hechos el puesto de mando.  \nSegún Renfe Operadora, se constituyó el equipo de apoyo en aplicación de la Circular Operativa \nnúmero 1.",
+   "pagina": 11,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "En la estación de Villalba de Guadarrama el maquinista es relevado y se le comunica la suspensión \ntemporal del servicio al tener conocimiento de los hechos el puesto de mando.  \nSegún Renfe Operadora, se constituyó el equipo de apoyo en aplicación de la Circular Operativa \nnúmero 1.",
+   "pagina": 11,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción.",
+    "Insistir en la aplicación de las medidas de gestión de seguridad existentes, destacando el aspecto formativo en el estricto cumplimiento de las normas establecidas en el Reglamento General de Circulación, la influencia de los procesos psicológicos en la conducción y la verificación de la aptitud del personal de conducción."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Renfe Operadora"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "08:20",
+     "evento": "El tren de cercanías 27209 rebasa la señal de salida S1/10 en parada y se produce un conato de colisión con el tren 752."
+    },
+    {
+     "hora": null,
+     "evento": "El sistema ASFA actúa y detiene el tren 27209."
+    },
+    {
+     "hora": null,
+     "evento": "El maquinista del tren 27209 intenta comunicar con el puesto de mando, no obtiene respuesta y retrocede sin autorización hasta la señal S1/10."
+    },
+    {
+     "hora": null,
+     "evento": "El tren 752 efectúa parada inmediata al observar una posible trayectoria de colisión lateral; los trenes quedan a unos 42 metros."
+    },
+    {
+     "hora": null,
+     "evento": "El tren 27209 reanuda la marcha hasta Villalba de Guadarrama, donde su maquinista es relevado y se le comunica la suspensión temporal del servicio."
+    },
+    {
+     "hora": null,
+     "evento": "El 18.06.2009 se toma declaración al maquinista del tren 752."
+    },
+    {
+     "hora": null,
+     "evento": "El 22.06.2009 se toma declaración al maquinista del tren 27209."
+    },
+    {
+     "hora": null,
+     "evento": "El 23.07.2009 el pleno de la CIAF resuelve abrir la investigación del incidente."
+    },
+    {
+     "hora": null,
+     "evento": "El 17.09.2009 el Jefe de Investigación de Accidentes de Adif entrega su informe particular."
+    },
+    {
+     "hora": null,
+     "evento": "El 07.10.2009 el Responsable de Seguridad de Renfe Operadora entrega su informe particular."
+    },
+    {
+     "hora": null,
+     "evento": "El 22.12.2009 se emite el informe final."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0027/2009",
+ "expediente": "0027/09",
+ "anio": 2009,
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0027/2009 OCURRIDO EL DÍA 18.06.2009 EN LA ESTACIÓN DE MADRID CHAMARTÍN",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-180609-221209-CIAF.md"
+}

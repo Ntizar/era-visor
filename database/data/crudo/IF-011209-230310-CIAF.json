@@ -1,0 +1,876 @@
+{
+ "id": "IF-011209-230310-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/B98867E0-CAB9-4B11-831C-BA08DFE5B23B/71657/IF_011209_230310_CIAF.pdf",
+ "pdf": "pdfs/ES/IF-011209-230310-CIAF.pdf",
+ "md5_pdf": "69ae316782dffce00ae10d6af2781e3e",
+ "paginas_md": 11,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 33,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0060/2009",
+   "pagina": 1,
+   "cita": "nº 0060/2009 ocurrido el 01.12.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 1 de diciembre de 2009 a las 19:34, el tren de larga distancia 283 de Renfe Operadora arrolló a un varón de 44 años que cruzaba por el paso peatonal del paso a nivel clase C del P.K. 151+433 de la línea 810 Monforte de Lemos-Vigo, en la estación de O Porriño (Pontevedra). La víctima cruzó con las semibarreras bajadas y la señalización luminosa y acústica activada. El maquinista aplicó el freno de emergencia cuando el tren circulaba a 139 km/h, pero el impacto fue inevitable. No se produjeron daños materiales ni en el tren ni en la infraestructura. La investigación concluyó que el accidente tuvo su origen exclusivamente en la actuación de la víctima.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-12-01",
+    "hora": "19:34",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "O Porriño",
+     "pk": "151+433",
+     "linea": "810 Monforte de Lemos-Vigo",
+     "provincia": "Pontevedra",
+     "descripcion_lugar": "Paso a nivel clase C enclavado con la estación de O Porriño, en la intersección con la Avenida de Buenos Aires, tramo Guillarei-Ag K 141,6-Redondela. Vía única, alineación recta, perfil en rampa de 8,344 mm/m."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 1 de diciembre de 2009, a las 19:34 horas, el tren de viajeros de larga distancia 283, de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+    "afectacion_servicio": "Vía general interceptada de 19:34 a 21:57 (2 horas y 23 minutos). Tren 283: 37 minutos de retraso. Tres trenes de media distancia: 51 minutos de retraso total."
+   },
+   "pagina": 8,
+   "cita": "No se producen daños ni en el material rodante ni en la infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "La víctima cruzó por el paso peatonal del paso a nivel cuando las semibarreras estaban bajadas y la señalización luminosa y acústica alertaba de la llegada del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones. \n \n \n \n \nMadrid, 23 de marzo de 2010",
+   "pagina": 11,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones. Madrid, 23 de marzo de 2010",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento",
+   "pagina": 5,
+   "cita": "arrollamiento de una persona en el paso a nivel, clase C, en la estación de O Porriño.",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "empresa ferroviaria Renfe Operadora, arrolla a una persona que cruzaba por el paso peatonal del",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-12-01",
+   "pagina": 3,
+   "cita": "El día 1 de diciembre de 2009, a las 19:34 horas, el tren de viajeros de larga distancia 283, de la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "19:34",
+   "pagina": 3,
+   "cita": "El día 1 de diciembre de 2009, a las 19:34 horas, el tren de viajeros de larga distancia 283, de la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "O Porriño",
+    "pk": "151+433",
+    "linea": "810 Monforte de Lemos-Vigo",
+    "provincia": "Pontevedra",
+    "descripcion_lugar": "Paso a nivel clase C enclavado con la estación de O Porriño, en la intersección con la Avenida de Buenos Aires, tramo Guillarei-Ag K 141,6-Redondela. Vía única, alineación recta, perfil en rampa de 8,344 mm/m."
+   },
+   "pagina": 3,
+   "cita": "paso a nivel, tipo C, situado en la estación de O Porriño (Pontevedra), en el P.K. 151+433 de la línea",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "810 Monforte de Lemos-Vigo",
+   "pagina": 3,
+   "cita": "paso a nivel, tipo C, situado en la estación de O Porriño (Pontevedra), en el P.K. 151+433 de la línea",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Tipo 160 A, Nº UIC: 957102520534, 1 vehículo, 51 Tn de masa remolcada",
+    "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros de larga distancia 283 de Renfe Operadora, procedente de Irún con destino Vigo, circulaba por la línea 810 Monforte de Lemos-Vigo a una velocidad de 150 km/h. A las 19:32:49 pasó sobre la baliza direccional (C.V.1485) que inició el cierre del paso a nivel clase C del P.K. 151+433, en la estación de O Porriño. A las 19:33:12 el paso quedó cerrado con las dobles semibarreras bajadas y la señalización luminosa y acústica activada, tanto para el paso carretero como para el peatonal. A las 19:34:26 el tren ocupó el circuito de vía isla A1 (P1) lado Monforte de Lemos; simultáneamente, una persona cruzó por el paso peatonal lado Vigo, de izquierda a derecha en sentido de la marcha del tren. El maquinista hizo uso reiterado del silbato y observó que el varón, al ver llegar el tren, intentó correr pero fue alcanzado por el tope derecho de la locomotora. Se aplicó el freno de emergencia cuando el convoy circulaba a 139 km/h. La víctima fue desplazada por el impacto y quedó fuera de la caja de vía, en el lado derecho. El tren se detuvo aproximadamente a 480 metros del paso a nivel. Era de noche y llovía moderadamente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "O Porriño",
+    "pk": "151+433",
+    "linea": "810 Monforte de Lemos-Vigo",
+    "provincia": "Pontevedra",
+    "descripcion_lugar": "Paso a nivel clase C enclavado con la estación de O Porriño, en la intersección con la Avenida de Buenos Aires, tramo Guillarei-Ag K 141,6-Redondela. Vía única, alineación recta, perfil en rampa de 8,344 mm/m."
+   },
+   "pagina": 3,
+   "cita": "paso a nivel, tipo C, situado en la estación de O Porriño (Pontevedra), en el P.K. 151+433 de la línea",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+    "afectacion_servicio": "Vía general interceptada de 19:34 a 21:57 (2 horas y 23 minutos). Tren 283: 37 minutos de retraso. Tres trenes de media distancia: 51 minutos de retraso total."
+   },
+   "pagina": 8,
+   "cita": "No se producen daños ni en el material rodante ni en la infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 283 (matrícula 9704677)",
+     "implicacion": "Circulaba a 150 km/h (velocidad máxima permitida 155 km/h). Hizo uso reiterado del silbato. Aplicó el freno de emergencia a 139 km/h. Actuación correcta según la investigación. Título B de conducción, reciclaje formativo 30/01/07, reconocimiento médico y psicotécnico 14/04/09. Alcoholemia negativa."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "283",
+     "tipo": "Viajeros larga distancia, Tipo 160 A",
+     "operador": "Renfe Operadora",
+     "danos": "Ninguno"
+    }
+   ],
+   "pagina": 3,
+   "cita": "empresa ferroviaria Renfe Operadora, arrolla a una persona que cruzaba por el paso peatonal del",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Tipo 160 A, Nº UIC: 957102520534, 1 vehículo, 51 Tn de masa remolcada",
+    "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 5,
+   "cita": "El jefe de investigación de accidentes ferroviarios del Administrador de Infraestructuras",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señalización luminosa y acústica en ambos lados del paso (carretero y peatonal), activada en el momento del accidente. Semibarreras dobles bajadas.",
+    "tipo_via": "Vía única con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C.) desde el puesto de mando auxiliar de Ourense",
+    "velocidad_maxima": "155 km/h (trenes tipo A)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Funcionamiento correcto. Sin limitación temporal de velocidad. Registro de eventos del paso y del CTC confirman funcionamiento correcto. Tiempo entre cierre y llegada del tren: 1 minuto 14 segundos.",
+    "otro": "Paso a nivel clase C enclavado con la estación de O Porriño. Pavimento de hormigón (paso carretero) y caucho tipo strail (paso peatonal). Tramo con alineación recta y rampa de 8,344 mm/m. Media semanal de 202 circulaciones (considerada baja): 64 larga distancia, 70 media distancia, 63 mercancías, 5 servicio. Momento de circulación AxT: 194.130 (A=6.471 y T=30)."
+   },
+   "pagina": 6,
+   "cita": "un trayecto de vía única con bloqueo automático (B.A.U.) y control de tráfico centralizado",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señalización luminosa y acústica en ambos lados del paso (carretero y peatonal), activada en el momento del accidente. Semibarreras dobles bajadas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía A.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+    "afectacion_servicio": "Vía general interceptada de 19:34 a 21:57 (2 horas y 23 minutos). Tren 283: 37 minutos de retraso. Tres trenes de media distancia: 51 minutos de retraso total."
+   },
+   "pagina": 5,
+   "cita": "El maquinista principal del tren de viajeros 283, con matrícula: 9704677.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+    "afectacion_servicio": "Vía general interceptada de 19:34 a 21:57 (2 horas y 23 minutos). Tren 283: 37 minutos de retraso. Tres trenes de media distancia: 51 minutos de retraso total."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe final IF-011209-230310-CIAF Pág. 1 de 11 INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0060/2009 OCURRIDO EL DÍA 01.12.2009 EN EL",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+    "afectacion_servicio": "Vía general interceptada de 19:34 a 21:57 (2 horas y 23 minutos). Tren 283: 37 minutos de retraso. Tres trenes de media distancia: 51 minutos de retraso total."
+   },
+   "pagina": 8,
+   "cita": "No se producen daños ni en el material rodante ni en la infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tipo 160 A, Nº UIC: 957102520534, 1 vehículo, 51 Tn de masa remolcada",
+    "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señalización luminosa y acústica en ambos lados del paso (carretero y peatonal), activada en el momento del accidente. Semibarreras dobles bajadas.",
+    "tipo_via": "Vía única con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C.) desde el puesto de mando auxiliar de Ourense",
+    "velocidad_maxima": "155 km/h (trenes tipo A)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Funcionamiento correcto. Sin limitación temporal de velocidad. Registro de eventos del paso y del CTC confirman funcionamiento correcto. Tiempo entre cierre y llegada del tren: 1 minuto 14 segundos.",
+    "otro": "Paso a nivel clase C enclavado con la estación de O Porriño. Pavimento de hormigón (paso carretero) y caucho tipo strail (paso peatonal). Tramo con alineación recta y rampa de 8,344 mm/m. Media semanal de 202 circulaciones (considerada baja): 64 larga distancia, 70 media distancia, 63 mercancías, 5 servicio. Momento de circulación AxT: 194.130 (A=6.471 y T=30)."
+   },
+   "pagina": 6,
+   "cita": "un trayecto de vía única con bloqueo automático (B.A.U.) y control de tráfico centralizado",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche, llovía moderadamente",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Pontevedra",
+    "municipio": null,
+    "estacion": "O Porriño"
+   },
+   "pagina": 3,
+   "cita": "paso a nivel, tipo C, situado en la estación de O Porriño (Pontevedra), en el P.K. 151+433 de la línea",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche, llovía moderadamente",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señalización luminosa y acústica en ambos lados del paso (carretero y peatonal), activada en el momento del accidente. Semibarreras dobles bajadas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señalización luminosa y acústica en ambos lados del paso (carretero y peatonal), activada en el momento del accidente. Semibarreras dobles bajadas.",
+    "tipo_via": "Vía única con bloqueo automático (B.A.U.) y control de tráfico centralizado (C.T.C.) desde el puesto de mando auxiliar de Ourense",
+    "velocidad_maxima": "155 km/h (trenes tipo A)",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Funcionamiento correcto. Sin limitación temporal de velocidad. Registro de eventos del paso y del CTC confirman funcionamiento correcto. Tiempo entre cierre y llegada del tren: 1 minuto 14 segundos.",
+    "otro": "Paso a nivel clase C enclavado con la estación de O Porriño. Pavimento de hormigón (paso carretero) y caucho tipo strail (paso peatonal). Tramo con alineación recta y rampa de 8,344 mm/m. Media semanal de 202 circulaciones (considerada baja): 64 larga distancia, 70 media distancia, 63 mercancías, 5 servicio. Momento de circulación AxT: 194.130 (A=6.471 y T=30)."
+   },
+   "pagina": 6,
+   "cita": "un trayecto de vía única con bloqueo automático (B.A.U.) y control de tráfico centralizado",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía A.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Tipo 160 A, Nº UIC: 957102520534, 1 vehículo, 51 Tn de masa remolcada",
+    "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "víctima cruza con semibarreras bajadas",
+    "señalización acústica ignorada por peatón"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. \nRealizó su último reciclaje formativo el 30/01/07 y su último reconocimiento médico y \npsicotécnico el 14/04/09, conforme a la normativa vigente.",
+   "pagina": 9,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "Jornadas laboral y de conducción del maquinista del tren 283: \n- el día 1: 6 horas y 30 minutos (5 horas y 15 minutos de conducción). \n- el día 30: descanso. \n- el día 29: 5 horas y 46 minutos (2 horas y 12 minutos de conducción). \nAl maquinista, el día del accidente, a las 20:43 horas, se le realiza, en la estación de Vigo, la \nprueba de alcoholemia en aire espirado dando resultado negativo (0,00 mg/1000 ml).",
+   "pagina": 10,
+   "cita": "3.5. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Jornadas laboral y de conducción del maquinista del tren 283: \n- el día 1: 6 horas y 30 minutos (5 horas y 15 minutos de conducción). \n- el día 30: descanso. \n- el día 29: 5 horas y 46 minutos (2 horas y 12 minutos de conducción). \nAl maquinista, el día del accidente, a las 20:43 horas, se le realiza, en la estación de Vigo, la \nprueba de alcoholemia en aire espirado dando resultado negativo (0,00 mg/1000 ml).",
+   "pagina": 10,
+   "cita": "3.5. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros de larga distancia 283 de Renfe Operadora, procedente de Irún con destino Vigo, circulaba por la línea 810 Monforte de Lemos-Vigo a una velocidad de 150 km/h. A las 19:32:49 pasó sobre la baliza direccional (C.V.1485) que inició el cierre del paso a nivel clase C del P.K. 151+433, en la estación de O Porriño. A las 19:33:12 el paso quedó cerrado con las dobles semibarreras bajadas y la señalización luminosa y acústica activada, tanto para el paso carretero como para el peatonal. A las 19:34:26 el tren ocupó el circuito de vía isla A1 (P1) lado Monforte de Lemos; simultáneamente, una persona cruzó por el paso peatonal lado Vigo, de izquierda a derecha en sentido de la marcha del tren. El maquinista hizo uso reiterado del silbato y observó que el varón, al ver llegar el tren, intentó correr pero fue alcanzado por el tope derecho de la locomotora. Se aplicó el freno de emergencia cuando el convoy circulaba a 139 km/h. La víctima fue desplazada por el impacto y quedó fuera de la caja de vía, en el lado derecho. El tren se detuvo aproximadamente a 480 metros del paso a nivel. Era de noche y llovía moderadamente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar el día 1 de diciembre de 2009, a las 19:34 horas; en la estación de \nO Porriño (Pontevedra), en el paso a nivel, clase C, del P.K. 151+433 de la línea 810 Monforte de \nLemos-Vigo. \nEl tren de viajeros de larga distancia 283, que realizaba el recorrido entre Irún y Vigo, se aproxima \nal paso a nivel clase C del P.K. 151+433. \nA las 19:32:49 horas, el tren 283 pasa sobre la baliza direccional que da inicio al proceso de cierre \ndel paso (C.V.1485). A las 19:33:12 horas, el paso se encuentra cerrado. \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0060/2009 ocurrido el 01.12.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-011209-230310-CIAF \n \n \nPág. 11 de 11\nA las 19:34:26 horas, el tren ocupa el circuito de vía isla A1 (P1) del paso a nivel lado Monforte de \nLemos. Simultáneamente, la victima cruza por el paso peatonal –lado Vigo. El maquinista, actúa sobre \nel freno de emergencia - cuando el tren circulaba a 139 Km/h -, impacta con la víctima, arrollándola y \ndesplazándola hacia el lado derecho (según el sentido de la marcha del tren), quedando ésta fuera de \nla caja de la vía. \nTras el impacto, el tren se detiene, aproximadamente, a 480 metros del paso a nivel. \n4.2. DELIBERACIÓN \nEl personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje \ny reconocimiento médico y psicotécnico. \nSegún el registrador de seguridad del tren, el maquinista hizo uso del freno de emergencia del \ntren, por lo que la actuación del maquinista fue correcta. \nSegún el registrador de seguridad del tren, la velocidad del tren era inferior a la máxima permitida. \nLos equipos de seguridad del tren y las instalaciones del paso a nivel funcionaban correctamente \nen el momento del accidente y de acuerdo a la normativa vigente. \nLa víctima irrumpe en el paso a nivel cuando éste tenía las semibarreras bajadas y activadas las \nseñales que alertaban de la inminente llegada del tren. \n4.3. CONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en la actuación de la víctima que cruza por el paso a nivel, cuando \ncirculaba el tren 283 por el mismo, estando las semibarreras bajadas y la señalización alertando de la \nllegada del convoy.",
+   "pagina": 10,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "La víctima cruzó por el paso peatonal del paso a nivel cuando las semibarreras estaban bajadas y la señalización luminosa y acústica alertaba de la llegada del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "víctima cruza con semibarreras bajadas",
+    "señalización acústica ignorada por peatón"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en la actuación de la víctima que cruza por el paso a nivel, cuando \ncirculaba el tren 283 por el mismo, estando las semibarreras bajadas y la señalización alertando de la \nllegada del convoy.",
+   "pagina": 11,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investiga",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en la actuación de la víctima que cruza por el paso a nivel, cuando \ncirculaba el tren 283 por el mismo, estando las semibarreras bajadas y la señalización alertando de la \nllegada del convoy.",
+   "pagina": 11,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investiga",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones. \n \n \n \n \nMadrid, 23 de marzo de 2010",
+   "pagina": 11,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones. Madrid, 23 de marzo de 2010",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "19:32:49",
+     "evento": "El tren 283 pasa sobre la baliza direccional (C.V.1485) que inicia el cierre del paso a nivel"
+    },
+    {
+     "hora": "19:33:12",
+     "evento": "El paso a nivel queda cerrado: semibarreras bajadas y señalización luminosa y acústica activada"
+    },
+    {
+     "hora": "19:34",
+     "evento": "Hora oficial del accidente según el informe"
+    },
+    {
+     "hora": "19:34:26",
+     "evento": "El tren ocupa el circuito de vía isla A1 (P1) lado Monforte de Lemos; simultáneamente la víctima cruza por el paso peatonal lado Vigo. Impacto con el tope derecho de la locomotora. Aplicación del freno de emergencia a 139 km/h"
+    },
+    {
+     "hora": "19:34",
+     "evento": "El tren se detiene aproximadamente a 480 metros del paso a nivel"
+    },
+    {
+     "hora": "20:30",
+     "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF"
+    },
+    {
+     "hora": "20:43",
+     "evento": "Prueba de alcoholemia al maquinista en la estación de Vigo: resultado negativo (0,00 mg/1000 ml)"
+    },
+    {
+     "hora": "21:57",
+     "evento": "Reapertura de la vía general tras 2 horas y 23 minutos de interceptación"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0060/2009",
+ "expediente": "0060/09",
+ "anio": 2009,
+ "titulo": "Arrollamiento de persona en paso a nivel clase C, estación O Porriño (Pontevedra)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-011209-230310-CIAF.md"
+}

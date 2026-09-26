@@ -1,0 +1,945 @@
+{
+ "id": "IF-280809-230210-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/206BC1E6-1C32-4580-9785-EB03F5145538/71652/IF_280809_230210_CIAF.pdf",
+ "pdf": "pdfs/ES/IF-280809-230210-CIAF.pdf",
+ "md5_pdf": "bd665c8062e9abd8d8bd98131001bd37",
+ "paginas_md": 12,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 35,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Adif",
+     "Número": "46/09-1",
+     "Recomendación": "En la formación de los responsables de circulación se debe insistir en aquella específica que contemple la realización de itinerarios con accionamiento de desvíos a distancia sin efecto pedal."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 12,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Adif",
+     "Número": "46/09-1",
+     "Recomendación": "En la formación de los responsables de circulación se debe insistir en aquella específica que contemple la realización de itinerarios con accionamiento de desvíos a distancia sin efecto pedal."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0046/2009",
+   "pagina": 1,
+   "cita": "nº 0046/2009 ocurrido el 28.08.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 28 de agosto de 2009, el tren de media distancia 18160 de Renfe Operadora descarriló parcialmente en la estación de El Rebollar (Valencia). La causa fue el accionamiento prematuro de la aguja nº 2 por parte de la jefa de circulación mientras el último coche aún ocupaba el desvío. No hubo víctimas ni daños materiales significativos, aunque se produjo una interrupción del servicio durante varias horas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-08-28",
+    "hora": "13:33",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "El Rebollar",
+     "pk": "22+600",
+     "linea": "310 Aranjuez/Valencia- Estación del Nord",
+     "provincia": "Valencia",
+     "descripcion_lugar": "Estación situada en el tramo Utiel-Buñol, municipio de Requena. Vía única sin electrificar con bloqueo telefónico."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 28 de agosto de 2009, a las 13:33 horas en la estación de El Rebollar (Valencia), se produce",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Sin daños importantes en material rodante ni infraestructura.",
+    "afectacion_servicio": "Interceptación de ambas vías de 13:33 a 18:50. Supresión de trenes 18160 y 14501. Retrasos menores en otros trenes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Accionamiento indebido de la aguja nº 2 por la responsable de circulación encontrándose el tren sobre ella.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Falta de experiencia específica de la jefa de circulación (primer día en la estación).",
+    "Diseño del enclavamiento Bouré que permite maniobrar agujas sin comprobación automática de liberación (sin efecto pedal).",
+    "Percepción visual errónea de la liberación del cambio por parte de la operaria."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Deficiencias en la formación práctica sobre itinerarios con accionamiento de desvíos a distancia sin efecto pedal."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "En la formación de los responsables de circulación se debe insistir en aquella específica que contemple la realización de itinerarios con accionamiento de desvíos a distancia sin efecto pedal.",
+    "En la formación de los responsables de circulación se debe insistir en aquella específica que contemple la realización de itinerarios con accionamiento de desvíos a distancia sin efecto pedal."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Descarrilamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "el descarrilamiento del tren de viajeros 18160 de media distancia de Renfe Operadora, al accionar la",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-08-28",
+   "pagina": 3,
+   "cita": "El día 28 de agosto de 2009, a las 13:33 horas en la estación de El Rebollar (Valencia), se produce",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "13:33",
+   "pagina": 3,
+   "cita": "El día 28 de agosto de 2009, a las 13:33 horas en la estación de El Rebollar (Valencia), se produce",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "El Rebollar",
+    "pk": "22+600",
+    "linea": "310 Aranjuez/Valencia- Estación del Nord",
+    "provincia": "Valencia",
+    "descripcion_lugar": "Estación situada en el tramo Utiel-Buñol, municipio de Requena. Vía única sin electrificar con bloqueo telefónico."
+   },
+   "pagina": 4,
+   "cita": "el tren 14501 (que estaba estacionado en la vía 1). Para realizar dicho cruce, el tren 18160 efectúa su",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "310 Aranjuez/Valencia-Estación del Nord, tramo Utiel-Buñol",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Motores 95922075 y 95922083",
+    "averia": null,
+    "mantenimiento": "Equipo de freno funcionó correctamente según registrador."
+   },
+   "pagina": 6,
+   "cita": "Tren de viajeros de media distancia 18160, compuesto por motores 95922075 y 95922083, 3",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren 18160, procedente de Villaverde Bajo con destino Valencia Nord, entró en la estación de El Rebollar para realizar un cruce con el tren estacionado 14501. Al efectuar la entrada desde la vía general a la vía desviada a través de la aguja nº 2, la responsable de circulación, que prestaba su primer día de servicio en dicha estación, accionó la palanca para poner la aguja a normal cuando todavía quedaban bogies del último coche sobre ella. Esto provocó el descarrilamiento del segundo eje del penúltimo bogie y del último bogie del tren. El maquinista aplicó el freno de emergencia inmediatamente tras notar los tirones y escuchar la alerta por radio, deteniendo el tren sin consecuencias personales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "El Rebollar",
+    "pk": "22+600",
+    "linea": "310 Aranjuez/Valencia- Estación del Nord",
+    "provincia": "Valencia",
+    "descripcion_lugar": "Estación situada en el tramo Utiel-Buñol, municipio de Requena. Vía única sin electrificar con bloqueo telefónico."
+   },
+   "pagina": 4,
+   "cita": "el tren 14501 (que estaba estacionado en la vía 1). Para realizar dicho cruce, el tren 18160 efectúa su",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Sin daños importantes en material rodante ni infraestructura.",
+    "afectacion_servicio": "Interceptación de ambas vías de 13:33 a 18:50. Supresión de trenes 18160 y 14501. Retrasos menores en otros trenes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Jefa de circulación",
+     "implicacion": "Accionó indebidamente la aguja nº 2 con el tren encima. Primer día de servicio en la estación."
+    },
+    {
+     "rol": "Maquinista",
+     "implicacion": "Conducción correcta, respetó límites de velocidad y actuó correctamente aplicando el freno de emergencia."
+    }
+   ],
+   "pagina": 5,
+   "cita": "La jefa de circulación encargada de los cambios de El Rebollar, con matrícula 2837045.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "18160",
+     "tipo": "Media Distancia",
+     "operador": "Renfe Operadora",
+     "danos": "Descarrilamiento parcial del último coche (segundo eje del penúltimo bogie y último bogie). Sin daños importantes."
+    },
+    {
+     "numero": "14501",
+     "tipo": "Media Distancia",
+     "operador": "Renfe Operadora",
+     "danos": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "el descarrilamiento del tren de viajeros 18160 de media distancia de Renfe Operadora, al accionar la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Motores 95922075 y 95922083",
+    "averia": null,
+    "mantenimiento": "Equipo de freno funcionó correctamente según registrador."
+   },
+   "pagina": 6,
+   "cita": "Tren de viajeros de media distancia 18160, compuesto por motores 95922075 y 95922083, 3",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo telefónico. Señales de avanzada E'2 y entrada E2.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "30 km/h",
+    "ancho": null,
+    "electrificacion": "No electrificada",
+    "estado_via": "Correcto antes del accidente",
+    "otro": "Enclavamiento por cerradura Bouré con accionamiento de agujas a distancia sin efecto pedal."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo telefónico. Señales de avanzada E'2 y entrada E2.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía C.",
+   "pagina": 6,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Sin daños importantes en material rodante ni infraestructura.",
+    "afectacion_servicio": "Interceptación de ambas vías de 13:33 a 18:50. Supresión de trenes 18160 y 14501. Retrasos menores en otros trenes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Sin daños importantes en material rodante ni infraestructura.",
+    "afectacion_servicio": "Interceptación de ambas vías de 13:33 a 18:50. Supresión de trenes 18160 y 14501. Retrasos menores en otros trenes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Sin daños importantes en material rodante ni infraestructura.",
+    "afectacion_servicio": "Interceptación de ambas vías de 13:33 a 18:50. Supresión de trenes 18160 y 14501. Retrasos menores en otros trenes."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Motores 95922075 y 95922083",
+    "averia": null,
+    "mantenimiento": "Equipo de freno funcionó correctamente según registrador."
+   },
+   "pagina": 6,
+   "cita": "Tren de viajeros de media distancia 18160, compuesto por motores 95922075 y 95922083, 3",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo telefónico. Señales de avanzada E'2 y entrada E2.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "30 km/h",
+    "ancho": null,
+    "electrificacion": "No electrificada",
+    "estado_via": "Correcto antes del accidente",
+    "otro": "Enclavamiento por cerradura Bouré con accionamiento de agujas a distancia sin efecto pedal."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Valencia",
+    "municipio": null,
+    "estacion": "El Rebollar"
+   },
+   "pagina": 3,
+   "cita": "El día 28 de agosto de 2009, a las 13:33 horas en la estación de El Rebollar (Valencia), se produce",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo telefónico. Señales de avanzada E'2 y entrada E2.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo telefónico. Señales de avanzada E'2 y entrada E2.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "30 km/h",
+    "ancho": null,
+    "electrificacion": "No electrificada",
+    "estado_via": "Correcto antes del accidente",
+    "otro": "Enclavamiento por cerradura Bouré con accionamiento de agujas a distancia sin efecto pedal."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía C.",
+   "pagina": 6,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Motores 95922075 y 95922083",
+    "averia": null,
+    "mantenimiento": "Equipo de freno funcionó correctamente según registrador."
+   },
+   "pagina": 6,
+   "cita": "Tren de viajeros de media distancia 18160, compuesto por motores 95922075 y 95922083, 3",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Falta de experiencia específica de la jefa de circulación (primer día en la estación).",
+    "Diseño del enclavamiento Bouré que permite maniobrar agujas sin comprobación automática de liberación (sin efecto pedal).",
+    "Percepción visual errónea de la liberación del cambio por parte de la operaria."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "3.2.1.1. \nLa jefa de circulación de la estación de El Rebollar  \nLa jefa de circulación posee habilitación conforme a la Orden FOM/2520/2006, de 27 de julio, \ncomo responsable de circulación. \nRealizó su último reciclaje formativo el 04/05/09 y su último reconocimiento médico el \n24/09/08, de acuerdo a la normativa vigente. \n3.2.1.2. \nEl maquinista del tren 18160 \nPosee el título de conducción categoría B y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. \nRealizó su último reciclaje formativo el 27/01/09 y su último reconocimiento médico el \n25/01/07, de acuerdo a la normativa vigente.",
+   "pagina": 9,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "3.5.1. La jefa de circulación de El Rebollar \nJornada laboral: \n- \nel día 28: 12 horas.  \n- \nel día 27: descanso. \n- \nel día 26: descanso. \nEl día del accidente, era su primer día de servicio en la estación de El Rebollar. \nEl día del accidente, a las 15:00 horas, se le realiza la prueba de alcoholemia en aire espirado con \nresultado negativo. \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0046/2009 ocurrido el 28.08.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-280809-230210-CIAF \n \n \nPág. 11 de 12\n3.5.2. Maquinista del tren 18160 \nJornada laboral: \n- \nel día 28: 6 horas y 32 minutos (conducción efectiva: 5 horas y 18 minutos) \n- \nel día 27: 4 horas y 46 minutos (conducción efectiva: 3 horas y 16 minutos)  \n- \nel día 26: 4 horas y 50 minutos (conducción efectiva: 3 horas y 50 minutos)",
+   "pagina": 10,
+   "cita": "3.5. INTERFAZ HOMBRE-MAQUÍNA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "3.5.1. La jefa de circulación de El Rebollar \nJornada laboral: \n- \nel día 28: 12 horas.  \n- \nel día 27: descanso. \n- \nel día 26: descanso. \nEl día del accidente, era su primer día de servicio en la estación de El Rebollar. \nEl día del accidente, a las 15:00 horas, se le realiza la prueba de alcoholemia en aire espirado con \nresultado negativo. \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0046/2009 ocurrido el 28.08.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-280809-230210-CIAF \n \n \nPág. 11 de 12\n3.5.2. Maquinista del tren 18160 \nJornada laboral: \n- \nel día 28: 6 horas y 32 minutos (conducción efectiva: 5 horas y 18 minutos) \n- \nel día 27: 4 horas y 46 minutos (conducción efectiva: 3 horas y 16 minutos)  \n- \nel día 26: 4 horas y 50 minutos (conducción efectiva: 3 horas y 50 minutos)",
+   "pagina": 10,
+   "cita": "3.5. INTERFAZ HOMBRE-MAQUÍNA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren 18160, procedente de Villaverde Bajo con destino Valencia Nord, entró en la estación de El Rebollar para realizar un cruce con el tren estacionado 14501. Al efectuar la entrada desde la vía general a la vía desviada a través de la aguja nº 2, la responsable de circulación, que prestaba su primer día de servicio en dicha estación, accionó la palanca para poner la aguja a normal cuando todavía quedaban bogies del último coche sobre ella. Esto provocó el descarrilamiento del segundo eje del penúltimo bogie y del último bogie del tren. El maquinista aplicó el freno de emergencia inmediatamente tras notar los tirones y escuchar la alerta por radio, deteniendo el tren sin consecuencias personales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar a la entrada de la estación de El Rebollar, lado Utiel (Valencia), el día 28 \nde agosto de 2009. \nEl tren de media distancia 18160 de Renfe Operadora circulaba por vía general (vía 1), procedente \nde Cuenca y con destino Valencia estación del Nord, pasa por la señal de avanzada E’2 en anuncio de \nprecaución y por la señal de entrada E2 en anuncio de parada. \nEl trayecto es de vía única y el tren 18160 tenía previsto cruce en la estación de El Rebollar con \nel tren 14501 (que estaba estacionado en la vía 1). Para realizar dicho cruce, el tren 18160 efectúa su \nentrada de vía 1(vía general) a vía 2 (desviada) a través de la aguja nº 2 y; una vez superada por el  \ncoche motor, el remolque intermedio y el primer bogie del último coche (sentido de la marcha); la \nresponsable de la circulación acciona dicha aguja nº 2 a normal, produciéndose el descarrilamiento del \núltimo coche (segundo eje del penúltimo bogie y último bogie). \nDel registrador de seguridad del tren 18160 y disposición de la señalización se deduce lo siguiente: \n- \n13:31:28 horas. El tren pasa a 109 km/h por anuncio de velocidad limitada a 30km/h y va \nreduciendo paulatinamente su velocidad hasta entrar en un trayecto de velocidad \npermanentemente limitada a 30 km/h., recorriendo 1.469 metros. \n- \n13:32:42 horas. El tren pasa a 29 km/h por el punto de inicio del trayecto de velocidad \npermanentemente limitada a 30 km/h. y recorre 135 metros. \n- \n13:33:01 horas. El tren pasa por la aguja nº 2 a una velocidad de 26 km/h, velocidad inferior \na la máxima permitida (30 km/h), y recorre 73 metros. \n- \nQue a las 13:33:11 horas se produce el descarrilamiento a la velocidad de 26km/h. \n- \nSobre las 13:33:20 horas se aplica freno de emergencia, tras recorrer 58 metros. \n- \nQue a las 13:33:21 horas el tren queda detenido, tras recorrer 12 metros. \n\n## Página 12\n\n \n \n \nInvestigación del accidente \nnº 0046/2009 ocurrido el 28.08.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-280809-230210-CIAF \n \n \nPág. 12 de 12\n4.2. DELIBERACIÓN \nEl personal implicado en el accidente, cumple la normativa vigente en cuanto a título, \nhabilitaciones, reciclaje y reconocimiento médico y psicotécnico. \nLa velocidad del tren en el momento del descarrilamiento era inferior a la permitida. \nEl maquinista hizo uso del freno, siendo su actuación correcta. \nEn su declaración, la jefa de circulación dice que era el primer día que prestaba servicio en la \nestación de El Rebollar. \nLa jefa de circulación actúa indebidamente pues cambia la aguja nº 2 de posición cuando el tren \n18160 se encuentra sobre ella, se incumple el artículo 268 y 311 del RGC. \n4.3. CONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en el accionamiento indebido de la aguja nº 2, al encontrarse sobre ella \nel último coche del tren 18160.",
+   "pagina": 11,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Accionamiento indebido de la aguja nº 2 por la responsable de circulación encontrándose el tren sobre ella.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Falta de experiencia específica de la jefa de circulación (primer día en la estación).",
+    "Diseño del enclavamiento Bouré que permite maniobrar agujas sin comprobación automática de liberación (sin efecto pedal).",
+    "Percepción visual errónea de la liberación del cambio por parte de la operaria."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en el accionamiento indebido de la aguja nº 2, al encontrarse sobre ella \nel último coche del tren 18160.",
+   "pagina": 12,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el \ntécnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en el accionamiento indebido de la aguja nº 2, al encontrarse sobre ella \nel último coche del tren 18160.",
+   "pagina": 12,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como los informes particulares de Adif y Renfe Operadora, el",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "En la formación de los responsables de circulación se debe insistir en aquella específica que contemple la realización de itinerarios con accionamiento de desvíos a distancia sin efecto pedal.",
+    "En la formación de los responsables de circulación se debe insistir en aquella específica que contemple la realización de itinerarios con accionamiento de desvíos a distancia sin efecto pedal."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "13:31:28",
+     "evento": "El tren pasa por anuncio de velocidad limitada a 30 km/h a 109 km/h e inicia reducción."
+    },
+    {
+     "hora": "13:32:42",
+     "evento": "El tren entra en trayecto de velocidad permanentemente limitada a 30 km/h a 29 km/h."
+    },
+    {
+     "hora": "13:33:01",
+     "evento": "El tren pasa por la aguja nº 2 a 26 km/h."
+    },
+    {
+     "hora": "13:33:11",
+     "evento": "Se produce el descarrilamiento al accionar la aguja con el tren encima."
+    },
+    {
+     "hora": "13:33:20",
+     "evento": "Aplicación del freno de emergencia."
+    },
+    {
+     "hora": "13:33:21",
+     "evento": "Tren detenido completamente."
+    },
+    {
+     "hora": "18:50",
+     "evento": "Fin de la interceptación total; se restablece circulación con limitación de velocidad."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0046/2009",
+ "expediente": "0046/09",
+ "anio": 2009,
+ "titulo": "Descarrilamiento del tren 18160 de Renfe Operadora en la estación de El Rebollar (Valencia)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-280809-230210-CIAF.md"
+}

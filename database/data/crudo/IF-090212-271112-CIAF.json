@@ -1,0 +1,978 @@
+{
+ "id": "IF-090212-271112-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/1EA7EE72-7579-411C-BD7D-6016C33B86A9/114721/IF090212271112CIAF.pdf",
+ "pdf": "pdfs/ES/IF-090212-271112-CIAF.pdf",
+ "md5_pdf": "3053132f8122eec4ee8bc1505efcd4c3",
+ "paginas_md": 15,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 16,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "10/12-1",
+     "Recomendación": "Estudiar la posibilidad de instalar balizas ASFA con fondo fijo L7 (control de velocidad) en vías con topera y un elevado número de entradas de trenes de viajeros."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "10/12-2",
+     "Recomendación": "Estudiar la posibilidad de instalar toperas que absorban y amortigüen el impacto de los trenes en aquellas vías en las que un alto número de trenes de viajeros finalicen su recorrido."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 15,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "10/12-1",
+     "Recomendación": "Estudiar la posibilidad de instalar balizas ASFA con fondo fijo L7 (control de velocidad) en vías con topera y un elevado número de entradas de trenes de viajeros."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "10/12-2",
+     "Recomendación": "Estudiar la posibilidad de instalar toperas que absorban y amortigüen el impacto de los trenes en aquellas vías en las que un alto número de trenes de viajeros finalicen su recorrido."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0010/2012",
+   "pagina": 1,
+   "cita": "nº 0010/2012 ocurrido el 09.02.2012",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 9 de febrero de 2012, a las 09:43 horas, el tren 28867 de viajeros de cercanías de Renfe Operadora, procedente de Molins de Rei, colisionó contra la topera de la vía 4 de la estación de Mataró. El tren pasó por los desvíos a 40-45 km/h, superior a los 30 km/h prescritos, e impactó a 23 km/h sin frenado en los últimos metros. Resultaron heridos graves el maquinista y leves diez viajeros. La investigación atribuyó el accidente a un fallo humano del personal de conducción por incumplimiento de las señales y falta de atención.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2012-02-09",
+    "hora": "09:43",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Mataró",
+     "pk": "28+158",
+     "linea": "276 Maçanet-Massanes a Bifurcación Sagrera",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Topera de la vía 4 de la estación de Mataró, formada por estructura de hormigón armado con traviesa de madera y dos topes, detrás de la cual se sitúa un poste final de catenaria con contrapesos de compensación."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 9 de febrero de 2012, a las 09:43 horas, en la estación de Mataró, de la línea 276 Maçanet-",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 1,
+    "heridos_leves": 10,
+    "danos_materiales": "Daños en el automotor UT 447030 cuantificados en 797.196 €, con reconstrucción de chapa, interiorismo, cabina, primer bogie, instalaciones y cableado general; daños en la topera de la vía 4, poste de catenaria y dispositivos de compensación.",
+    "afectacion_servicio": "Sin afectación a la circulación general por producirse en vía de topera; no fue necesario plan alternativo de transportes; supresión de un tren de cercanías; vía 4 reparada y entregada a las 05:02 del 10 de febrero de 2012."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del personal de conducción por incumplimiento de las órdenes dadas por las señales y no prestar la debida atención durante la conducción.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en un fallo humano del personal de conducción, por",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Exceso de velocidad al pasar por los desvíos de acceso a la vía 4: 40-45 km/h frente a los 30 km/h prescritos.",
+    "No reducir la velocidad para asegurar el cumplimiento de la señal de parada ante el final de vía.",
+    "No uso del freno durante los últimos 290 metros previos a la colisión.",
+    "Distracción del maquinista tras reconocer el anuncio de parada de la señal S1/4A, al coger el libro horario para guardarlo en la mochila."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Vías con topera y elevado número de entradas de trenes de viajeros sin balizas ASFA con fondo fijo L7 para control de velocidad.",
+    "Toperas no diseñadas para absorber y amortiguar el impacto de trenes que finalizan recorrido en vías con alta ocupación de viajeros."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Estudiar la posibilidad de instalar balizas ASFA con fondo fijo L7 (control de velocidad) en vías con topera y un elevado número de entradas de trenes de viajeros.",
+    "Estudiar la posibilidad de instalar toperas que absorban y amortigüen el impacto de los trenes en aquellas vías en las que un alto número de trenes de viajeros finalicen su recorrido.",
+    "Estudiar la posibilidad de instalar balizas ASFA con fondo fijo L7 (control de velocidad) en vías con topera y un elevado número de entradas de trenes de viajeros.",
+    "Estudiar la posibilidad de instalar toperas que absorban y amortigüen el impacto de los trenes en aquellas vías en las que un alto número de trenes de viajeros finalicen su recorrido."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif",
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Colisión con topera",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "empresa ferroviaria Renfe Operadora con la topera de la vía 4 de dicha estación.",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2012-02-09",
+   "pagina": 3,
+   "cita": "El día 9 de febrero de 2012, a las 09:43 horas, en la estación de Mataró, de la línea 276 Maçanet-",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "09:43",
+   "pagina": 3,
+   "cita": "El día 9 de febrero de 2012, a las 09:43 horas, en la estación de Mataró, de la línea 276 Maçanet-",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Mataró",
+    "pk": "28+158",
+    "linea": "276 Maçanet-Massanes a Bifurcación Sagrera",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Topera de la vía 4 de la estación de Mataró, formada por estructura de hormigón armado con traviesa de madera y dos topes, detrás de la cual se sitúa un poste final de catenaria con contrapesos de compensación."
+   },
+   "pagina": 10,
+   "cita": "Que reconoce el anuncio de parada del mono bajo (señal última antes del estacionamiento) [S1/4A], y",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "276 Maçanet-Massanes a Bifurcación Sagrera",
+   "pagina": 3,
+   "cita": "276 Maçanet-Massanes a Bifurcación Sagrera",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Automotores 447030 y 447043; tipo 120A; 6 vehículos; 144 metros; 432 toneladas; Nº UIC 907174470308 y 907174470431.",
+    "averia": "Ninguna; el material rodante funcionó correctamente y el tren circulaba con velocidad prefijada.",
+    "mantenimiento": "El 16/02/2012 se realizaron pruebas de funcionalidad de hombre muerto y velocidad prefijada en los Talleres de Sant Andreu Comtal, comprobando funcionamiento correcto."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 9 de febrero de 2012, a las 09:43 horas, el tren 28867 de viajeros de cercanías de Renfe Operadora, compuesto por los automotores 447030 en cabeza y 447043 en cola, finalizaba su recorrido en la estación de Mataró, en la línea 276 Maçanet-Massanes a Bifurcación Sagrera. El jefe de circulación estableció el itinerario de entrada desde la señal E1 hasta la vía 4, conforme al movimiento nº 9 de la Consigna Serie A nº 1871. La señal avanzada 255 estaba en anuncio de precaución y las señales E1 y S1/4A en anuncio de parada.\n\nDel registrador de seguridad se observó que el tren pasó por la baliza de pie de la señal 255 a 88 km/h, por la baliza previa de E1 a 76 km/h, por la baliza de pie de E1 a 66 km/h, por los desvíos 1-3 y 5-7 a 45 km/h y por el desvío nº 11 a 40 km/h, superando la velocidad máxima de 30 km/h para el paso por agujas. Tras pasar por la baliza de S1/4A a 34 km/h, se registró la última actuación puntual sobre el freno; después de recorrer 290 metros sin frenado, el tren impactó contra la topera de la vía 4 a 23 km/h.\n\nComo consecuencia de la colisión, el automotor de cabeza quedó acaballado sobre la topera, el primer coche descarriló completamente y su primer bogie quedó empotrado, mientras que el segundo coche descarriló del primer bogie en el sentido de la marcha. El maquinista resultó herido grave y diez viajeros heridos leves.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Mataró",
+    "pk": "28+158",
+    "linea": "276 Maçanet-Massanes a Bifurcación Sagrera",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Topera de la vía 4 de la estación de Mataró, formada por estructura de hormigón armado con traviesa de madera y dos topes, detrás de la cual se sitúa un poste final de catenaria con contrapesos de compensación."
+   },
+   "pagina": 10,
+   "cita": "Que reconoce el anuncio de parada del mono bajo (señal última antes del estacionamiento) [S1/4A], y",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 1,
+    "heridos_leves": 10,
+    "danos_materiales": "Daños en el automotor UT 447030 cuantificados en 797.196 €, con reconstrucción de chapa, interiorismo, cabina, primer bogie, instalaciones y cableado general; daños en la topera de la vía 4, poste de catenaria y dispositivos de compensación.",
+    "afectacion_servicio": "Sin afectación a la circulación general por producirse en vía de topera; no fue necesario plan alternativo de transportes; supresión de un tren de cercanías; vía 4 reparada y entregada a las 05:02 del 10 de febrero de 2012."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista",
+     "implicacion": "Conductor del tren 28867, matrícula 9670415; resultó herido grave. La investigación concluye que hubo fallo humano por incumplimiento de las órdenes de las señales y no prestar la debida atención durante la conducción."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "28867",
+     "tipo": "Viajeros cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "Automotor de cabeza UT 447030 con estructura totalmente deformada; primer coche completamente descarrilado; segundo coche descarrilado del primer bogie en el sentido de la marcha."
+    }
+   ],
+   "pagina": 3,
+   "cita": "Massanes a Bifurcación Sagrera se produce la colisión del tren 28867 de viajeros (cercanías) de la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Automotores 447030 y 447043; tipo 120A; 6 vehículos; 144 metros; 432 toneladas; Nº UIC 907174470308 y 907174470431.",
+    "averia": "Ninguna; el material rodante funcionó correctamente y el tren circulaba con velocidad prefijada.",
+    "mantenimiento": "El 16/02/2012 se realizaron pruebas de funcionalidad de hombre muerto y velocidad prefijada en los Talleres de Sant Andreu Comtal, comprobando funcionamiento correcto."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales avanzadas 255, de entrada E1 y de salida S1/4A; avanzada y entrada altas de 3 focos con balizas previa y de pie; salida baja con baliza de pie y sin baliza previa. ITINERARIO: E1 a vía 4 con paso por escapes 1-3 y 5-7 y desvío nº 11.",
+    "tipo_via": "Vía doble electrificada de ancho convencional con dos vías generales (1 y 2) y cuatro vías de apartado (3, 5, 7 y 4).",
+    "velocidad_maxima": "30 km/h para el paso por los desvíos de acceso a la vía 4; velocidad máxima del tren 120 km/h.",
+    "ancho": "Convencional",
+    "electrificacion": "Electrificada; la vía 4 tenía poste final de catenaria con contrapesos de compensación.",
+    "estado_via": "Funcionamiento correcto; estación en mando local; enclavamiento eléctrico y CTC gestionado desde Barcelona Sants; bloqueo automático banalizado.",
+    "otro": "Perfil horizontal desde E1 hasta la topera; tramo recto desde la travesía T39 hasta la topera; media semanal de circulaciones del tramo 1.728, considerada muy alta."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales avanzadas 255, de entrada E1 y de salida S1/4A; avanzada y entrada altas de 3 focos con balizas previa y de pie; salida baja con baliza de pie y sin baliza previa. ITINERARIO: E1 a vía 4 con paso por escapes 1-3 y 5-7 y desvío nº 11.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Tren Tierra modalidad A.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 1,
+    "heridos_leves": 10,
+    "danos_materiales": "Daños en el automotor UT 447030 cuantificados en 797.196 €, con reconstrucción de chapa, interiorismo, cabina, primer bogie, instalaciones y cableado general; daños en la topera de la vía 4, poste de catenaria y dispositivos de compensación.",
+    "afectacion_servicio": "Sin afectación a la circulación general por producirse en vía de topera; no fue necesario plan alternativo de transportes; supresión de un tren de cercanías; vía 4 reparada y entregada a las 05:02 del 10 de febrero de 2012."
+   },
+   "pagina": 3,
+   "cita": "elevado número de entradas de trenes de viajeros.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 1,
+    "heridos_leves": 10,
+    "danos_materiales": "Daños en el automotor UT 447030 cuantificados en 797.196 €, con reconstrucción de chapa, interiorismo, cabina, primer bogie, instalaciones y cableado general; daños en la topera de la vía 4, poste de catenaria y dispositivos de compensación.",
+    "afectacion_servicio": "Sin afectación a la circulación general por producirse en vía de topera; no fue necesario plan alternativo de transportes; supresión de un tren de cercanías; vía 4 reparada y entregada a las 05:02 del 10 de febrero de 2012."
+   },
+   "pagina": 1,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 1,
+    "heridos_leves": 10,
+    "danos_materiales": "Daños en el automotor UT 447030 cuantificados en 797.196 €, con reconstrucción de chapa, interiorismo, cabina, primer bogie, instalaciones y cableado general; daños en la topera de la vía 4, poste de catenaria y dispositivos de compensación.",
+    "afectacion_servicio": "Sin afectación a la circulación general por producirse en vía de topera; no fue necesario plan alternativo de transportes; supresión de un tren de cercanías; vía 4 reparada y entregada a las 05:02 del 10 de febrero de 2012."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotores 447030 y 447043; tipo 120A; 6 vehículos; 144 metros; 432 toneladas; Nº UIC 907174470308 y 907174470431.",
+    "averia": "Ninguna; el material rodante funcionó correctamente y el tren circulaba con velocidad prefijada.",
+    "mantenimiento": "El 16/02/2012 se realizaron pruebas de funcionalidad de hombre muerto y velocidad prefijada en los Talleres de Sant Andreu Comtal, comprobando funcionamiento correcto."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales avanzadas 255, de entrada E1 y de salida S1/4A; avanzada y entrada altas de 3 focos con balizas previa y de pie; salida baja con baliza de pie y sin baliza previa. ITINERARIO: E1 a vía 4 con paso por escapes 1-3 y 5-7 y desvío nº 11.",
+    "tipo_via": "Vía doble electrificada de ancho convencional con dos vías generales (1 y 2) y cuatro vías de apartado (3, 5, 7 y 4).",
+    "velocidad_maxima": "30 km/h para el paso por los desvíos de acceso a la vía 4; velocidad máxima del tren 120 km/h.",
+    "ancho": "Convencional",
+    "electrificacion": "Electrificada; la vía 4 tenía poste final de catenaria con contrapesos de compensación.",
+    "estado_via": "Funcionamiento correcto; estación en mando local; enclavamiento eléctrico y CTC gestionado desde Barcelona Sants; bloqueo automático banalizado.",
+    "otro": "Perfil horizontal desde E1 hasta la topera; tramo recto desde la travesía T39 hasta la topera; media semanal de circulaciones del tramo 1.728, considerada muy alta."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "No existían condiciones meteorológicas adversas.",
+   "pagina": 10,
+   "cita": "En el momento del suceso no existían condiciones meteorológicas adversas.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Estación de Mataró"
+   },
+   "pagina": 3,
+   "cita": "Barcelona 2.1.2. Descripción del suceso Los hechos tuvieron lugar el día 9 de febrero de 2012, a las 09:43 horas, en la estación de Mataró, de la línea 276 Maçanet-Massanes a Bifurcación Sagrera. El tren 28867 de via",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "No existían condiciones meteorológicas adversas.",
+   "pagina": 10,
+   "cita": "En el momento del suceso no existían condiciones meteorológicas adversas.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales avanzadas 255, de entrada E1 y de salida S1/4A; avanzada y entrada altas de 3 focos con balizas previa y de pie; salida baja con baliza de pie y sin baliza previa. ITINERARIO: E1 a vía 4 con paso por escapes 1-3 y 5-7 y desvío nº 11.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales avanzadas 255, de entrada E1 y de salida S1/4A; avanzada y entrada altas de 3 focos con balizas previa y de pie; salida baja con baliza de pie y sin baliza previa. ITINERARIO: E1 a vía 4 con paso por escapes 1-3 y 5-7 y desvío nº 11.",
+    "tipo_via": "Vía doble electrificada de ancho convencional con dos vías generales (1 y 2) y cuatro vías de apartado (3, 5, 7 y 4).",
+    "velocidad_maxima": "30 km/h para el paso por los desvíos de acceso a la vía 4; velocidad máxima del tren 120 km/h.",
+    "ancho": "Convencional",
+    "electrificacion": "Electrificada; la vía 4 tenía poste final de catenaria con contrapesos de compensación.",
+    "estado_via": "Funcionamiento correcto; estación en mando local; enclavamiento eléctrico y CTC gestionado desde Barcelona Sants; bloqueo automático banalizado.",
+    "otro": "Perfil horizontal desde E1 hasta la topera; tramo recto desde la travesía T39 hasta la topera; media semanal de circulaciones del tramo 1.728, considerada muy alta."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Tren Tierra modalidad A.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotores 447030 y 447043; tipo 120A; 6 vehículos; 144 metros; 432 toneladas; Nº UIC 907174470308 y 907174470431.",
+    "averia": "Ninguna; el material rodante funcionó correctamente y el tren circulaba con velocidad prefijada.",
+    "mantenimiento": "El 16/02/2012 se realizaron pruebas de funcionalidad de hombre muerto y velocidad prefijada en los Talleres de Sant Andreu Comtal, comprobando funcionamiento correcto."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Exceso de velocidad al pasar por los desvíos de acceso a la vía 4: 40-45 km/h frente a los 30 km/h prescritos.",
+    "No reducir la velocidad para asegurar el cumplimiento de la señal de parada ante el final de vía.",
+    "No uso del freno durante los últimos 290 metros previos a la colisión.",
+    "Distracción del maquinista tras reconocer el anuncio de parada de la señal S1/4A, al coger el libro horario para guardarlo en la mochila."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 24406 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene una antigüedad en el cargo desde el 09/04/2004, tiene habilitación para la línea de fecha \n31/12/2004 y del vehículo de fecha 25/02/2005. \nRealizó su último reciclaje formativo el 03/11/2009 y su último reconocimiento médico y psicotécnico el \n31/10/2007, conforme a la normativa vigente. \n\n## Página 11\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0010/2012 ocurrido el 09.02.2012 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-090212-271112-CIAF  \n \n \nPág. 11 de 15\n3.3. \nNORMATIVA",
+   "pagina": 10,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 9 de febrero de 2012, a las 09:43 horas, el tren 28867 de viajeros de cercanías de Renfe Operadora, compuesto por los automotores 447030 en cabeza y 447043 en cola, finalizaba su recorrido en la estación de Mataró, en la línea 276 Maçanet-Massanes a Bifurcación Sagrera. El jefe de circulación estableció el itinerario de entrada desde la señal E1 hasta la vía 4, conforme al movimiento nº 9 de la Consigna Serie A nº 1871. La señal avanzada 255 estaba en anuncio de precaución y las señales E1 y S1/4A en anuncio de parada.\n\nDel registrador de seguridad se observó que el tren pasó por la baliza de pie de la señal 255 a 88 km/h, por la baliza previa de E1 a 76 km/h, por la baliza de pie de E1 a 66 km/h, por los desvíos 1-3 y 5-7 a 45 km/h y por el desvío nº 11 a 40 km/h, superando la velocidad máxima de 30 km/h para el paso por agujas. Tras pasar por la baliza de S1/4A a 34 km/h, se registró la última actuación puntual sobre el freno; después de recorrer 290 metros sin frenado, el tren impactó contra la topera de la vía 4 a 23 km/h.\n\nComo consecuencia de la colisión, el automotor de cabeza quedó acaballado sobre la topera, el primer coche descarriló completamente y su primer bogie quedó empotrado, mientras que el segundo coche descarriló del primer bogie en el sentido de la marcha. El maquinista resultó herido grave y diez viajeros heridos leves.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del personal de conducción por incumplimiento de las órdenes dadas por las señales y no prestar la debida atención durante la conducción.",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en un fallo humano del personal de conducción, por",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Exceso de velocidad al pasar por los desvíos de acceso a la vía 4: 40-45 km/h frente a los 30 km/h prescritos.",
+    "No reducir la velocidad para asegurar el cumplimiento de la señal de parada ante el final de vía.",
+    "No uso del freno durante los últimos 290 metros previos a la colisión.",
+    "Distracción del maquinista tras reconocer el anuncio de parada de la señal S1/4A, al coger el libro horario para guardarlo en la mochila."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Estudiar la posibilidad de instalar balizas ASFA con fondo fijo L7 (control de velocidad) en vías con topera y un elevado número de entradas de trenes de viajeros.",
+    "Estudiar la posibilidad de instalar toperas que absorban y amortigüen el impacto de los trenes en aquellas vías en las que un alto número de trenes de viajeros finalicen su recorrido.",
+    "Estudiar la posibilidad de instalar balizas ASFA con fondo fijo L7 (control de velocidad) en vías con topera y un elevado número de entradas de trenes de viajeros.",
+    "Estudiar la posibilidad de instalar toperas que absorban y amortigüen el impacto de los trenes en aquellas vías en las que un alto número de trenes de viajeros finalicen su recorrido."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif",
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "09:40:32",
+     "evento": "El tren 28867 pasa por la baliza de pie de la señal avanzada 255 a 88 km/h, con indicación de anuncio de precaución."
+    },
+    {
+     "hora": "09:41:05",
+     "evento": "El tren pasa por la baliza previa de la señal de entrada E1 a 76 km/h, con indicación de anuncio de parada."
+    },
+    {
+     "hora": "09:41",
+     "evento": "El tren pasa por la baliza de pie de la señal de entrada E1 a 66 km/h, con indicación de anuncio de parada."
+    },
+    {
+     "hora": "09:41",
+     "evento": "El tren pasa por los desvíos 1-3 y 5-7 a 45 km/h y por el desvío nº 11 a 40 km/h, superando los 30 km/h prescritos."
+    },
+    {
+     "hora": "09:43:00",
+     "evento": "El tren pasa por la baliza de la señal S1/4A a 34 km/h, con indicación de anuncio de parada; se registra la última actuación puntual sobre el freno."
+    },
+    {
+     "hora": "09:43:41",
+     "evento": "El tren impacta contra la topera de la vía 4, en el PK 28+158, a 23 km/h tras recorrer 290 metros sin frenado."
+    },
+    {
+     "hora": "09:43",
+     "evento": "El jefe de circulación de Mataró comunica al puesto de mando la colisión del tren 28867 con la topera de la vía 4."
+    },
+    {
+     "hora": "10:21",
+     "evento": "El jefe de gabinete de investigación de accidentes e inspección de Adif comunica a la CIAF la producción del suceso."
+    },
+    {
+     "hora": "12:50-13:35",
+     "evento": "Se corta la tensión de la vía 4 y demás vías secundarias a petición de la fuerza pública; las circulaciones pares pasan por vía 1."
+    },
+    {
+     "hora": "13:35",
+     "evento": "Se restablece la circulación por la vía 2."
+    },
+    {
+     "hora": "15:45-17:42",
+     "evento": "Se corta la tensión en la catenaria de la vía 4 y se prevé la liberación de la vía en turno de noche."
+    },
+    {
+     "hora": "22:52",
+     "evento": "Se corta nuevamente la tensión en la vía 4 para encarrilar la composición."
+    },
+    {
+     "hora": "02:18",
+     "evento": "Se acaba de retirar de la vía la composición accidentada y se inician labores de reparación de la infraestructura dañada."
+    },
+    {
+     "hora": "05:02",
+     "evento": "La vía 4 es entregada por Mantenimiento de Infraestructuras y queda en condiciones normales de circulación."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0010/2012",
+ "expediente": "10/012",
+ "anio": 2012,
+ "titulo": "Colisión de tren de cercanías contra topera en estación de Mataró (Barcelona)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-090212-271112-CIAF.md"
+}

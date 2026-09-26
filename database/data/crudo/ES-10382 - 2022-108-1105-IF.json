@@ -1,0 +1,995 @@
+{
+ "id": "ES-10382 - 2022-108-1105-IF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/108-221105-if-sn_ciafv2.pdf",
+ "pdf": "pdfs/ES/ES-10382 - 2022-108-1105-IF.pdf",
+ "md5_pdf": "3c903f5caf48736a2b079df2f7ac79db",
+ "paginas_md": 30,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 30,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 25,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "AESF",
+     "Número": "108/2022-1",
+     "Recomendación": "Extender la aplicación con carácter general de las prescripciones establecidas en el Reglamento de Circulación Ferroviaria para la variación de itinerarios en caso de anormalidad de los enclavamientos."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF y EEFF",
+     "Número": "108/2022-2",
+     "Recomendación": "Establecer condiciones regulatorias e incidir en las acciones formativas, tanto al personal de conducción como a los RC, sobre la existencia de una zona en las proximidades de las señales, tal que una detención sobre la misma obligue a verificar nuevamente su indicación antes de reanudar la marcha."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 30,
+   "cabecera": [
+    "Addressee",
+    "Final Implementer",
+    "Number",
+    "Recommendation"
+   ],
+   "filas": [
+    {
+     "Addressee": "AESF (NSA-ES)",
+     "Final Implementer": "AESF (NSA-ES)",
+     "Number": "108/2022-1",
+     "Recommendation": "Extend application of the prescriptions established in the Railway Traffic Regulations for the variation of routes in the event of abnormal interlockings to a general application."
+    },
+    {
+     "Addressee": "AESF (NSA-ES)",
+     "Final Implementer": "ADIF (IM) and RUs",
+     "Number": "108/2022-2",
+     "Recommendation": "Establish regulatory conditions and include in training actions, both for driving staff and signal staff, on the existence of an area around the signals, such that a stop on the signal makes it necessary to check the indication again before resuming the journey."
+    }
+   ],
+   "cita": "| Addressee | Final Implementer | Number | Recommendation |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "108/2022",
+   "pagina": 1,
+   "cita": "INFORME FINAL (IF) 108/2022",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 5 de noviembre de 2022, un corte de tensión en la catenaria en la estación de Manlleu dejó sin tracción a los trenes Rodalies 78355 y 78350, que debían cruzarse en la estación de Torelló. El tren 78355 se detuvo con la cabina sobrepasando la señal E1 pero sin ocupar el circuito de vía de audiofrecuencia, generando una discrepancia sobre su posición real entre el maquinista y el RC del CTC. Tras recuperar tensión, el RC disolvió el itinerario del 78355 y estableció otro incompatible para el 78350 a la vía 2, y al ordenar al 78355 avanzar hasta la señal de entrada, el maquinista interpretó la instrucción como referida a la siguiente señal. La ocupación intempestiva del CV hizo creer al RC que se había producido un rebase de señal, ordenando la detención del 78350 y evitando una colisión.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2022-11-05",
+    "hora": "10:10",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Torelló",
+     "pk": "85+129",
+     "linea": "L222 Bif. Aigües - La Tour de Carol-Enveigt",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Estación de Torelló, en recta precedida por curva a la izquierda en sentido de marcha del tren 78355. La línea discurre en rampa en dirección Manlleu-Torelló (14,5 milésimas). Señal E1 de entrada por lado Manlleu en PK 84+645; señal E2 de entrada por lado Sant Quirze en PK 85+578. Estaciones colaterales: Manlleu (lado Bif. Aigües) y Sant Quirze de Besora-Montesquiu (lado La Tour de Carol)."
+    }
+   },
+   "pagina": 1,
+   "cita": "Incidente operacional ocurrido el día 5/11/2022",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "No se produjo interceptación de la vía. No fue necesaria la activación de ningún plan de emergencias. El corte de tensión duró aproximadamente 15 minutos. El tren 78350 fue suprimido en Torelló."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Falta de entendimiento entre el maquinista del 78355 y el RC del CTC por errónea interpretación de la posición real del tren (cabina sobrepasó E1 pero sin ocupación del CV), que provocó la reanudación de marcha con itinerario disuelto, combinada con el establecimiento de itinerario incompatible para el 78350 a la vía 2.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Corte de tensión en la catenaria que detuvo ambos trenes en aproximación a Torelló.",
+    "Detención del 78355 con primer eje en la zona muerta del CV de audiofrecuencia, habiendo sobrepasado el puesto de conducción la posición de la señal E1.",
+    "Desconocimiento e inexistencia de pautas sobre la condición de uso de los CV de audiofrecuencia y su zona muerta.",
+    "Disolución del itinerario del 78355 sin verificar su ubicación real.",
+    "Decisión de suprimir el tren 78350 en Torelló, donde quedaría temporalmente estacionado.",
+    "Recuperación de la tensión por el 78350 con anterioridad al 78355.",
+    "En las comunicaciones durante el corte de tensión (~10 min) nunca se precisó la ubicación exacta del 78355.",
+    "El ASFA embarcado había reconocido el aspecto previo de E1 (anuncio de parada), por lo que el maquinista no tuvo conocimiento del cambio a indicación de parada."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Inexistencia de prescripciones regulatorias con carácter general que restrinjan la disolución y modificación de itinerarios establecidos (el RCF solo lo contempla en caso de anormalidad del enclavamiento).",
+    "Carencias regulatorias y formativas sobre la condición de uso de los sistemas de detección de trenes asociados a las señales (zona muerta de CV de audiofrecuencia)."
+   ],
+   "pagina": 6,
+   "cita": "La inexistencia de prescripciones regulatorias con carácter general que restrinjan la",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Extender la aplicación con carácter general de las prescripciones establecidas en el Reglamento de Circulación Ferroviaria para la variación de itinerarios en caso de anormalidad de los enclavamientos.",
+    "Establecer condiciones regulatorias e incidir en las acciones formativas, tanto al personal de conducción como a los RC, sobre la existencia de una zona en las proximidades de las señales, tal que una detención sobre la misma obligue a verificar nuevamente su indicación antes de reanudar la marcha."
+   ],
+   "pagina": 25,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 25,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Incidente operacional",
+   "pagina": 1,
+   "cita": "Incidente operacional ocurrido el día 5/11/2022",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF",
+    "Empresas Ferroviarias (EEFF)"
+   ],
+   "pagina": 4,
+   "cita": "ADIF Administrador de Infraestructuras Ferroviarias AESF Agencia Estatal de Seguridad Ferroviaria BLAU Bloqueo de Liberación Automática en Vía Única CTC Control de Tráfico Centralizado CV Circuito de vía DAI",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2022-11-05",
+   "pagina": 1,
+   "cita": "Incidente operacional ocurrido el día 5/11/2022",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "10:10",
+   "pagina": 5,
+   "cita": "El día 5/11/2022 sobre las 10:10 de la mañana se produjo un corte de tensión en la línea L222 Bif.",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Torelló",
+    "pk": "85+129",
+    "linea": "L222 Bif. Aigües - La Tour de Carol-Enveigt",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Estación de Torelló, en recta precedida por curva a la izquierda en sentido de marcha del tren 78355. La línea discurre en rampa en dirección Manlleu-Torelló (14,5 milésimas). Señal E1 de entrada por lado Manlleu en PK 84+645; señal E2 de entrada por lado Sant Quirze en PK 85+578. Estaciones colaterales: Manlleu (lado Bif. Aigües) y Sant Quirze de Besora-Montesquiu (lado La Tour de Carol)."
+   },
+   "pagina": 5,
+   "cita": "tren 78350 de itinerario de entrada a la misma vía 2, para que no quedase estacionado en la vía",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "L222 Bif. Aigües - La Tour de Carol",
+   "pagina": 9,
+   "cita": "Torelló, perteneciente a la línea L222 Bif. Aigües - La Tour de Carol-Enveigt.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "447 (unidades 447033, 447163 en tren 78355; 447111, 447108 en tren 78350)",
+    "averia": null,
+    "mantenimiento": "Material rodante funcionó correctamente. Dimensiones relevantes: primer eje a 3 m de la cabeza del tren; pupitre del maquinista a 160 cm por delante del primer eje (no puede observar señal sobrepasada por cabina); captador ASFA a 60 cm por delante del primer eje (no detecta cambio de aspecto posterior al paso)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 5/11/2022, sobre las 10:08:51, se produjo un corte de tensión en la línea L222 Bif. Aigües - La Tour de Carol en las inmediaciones de la estación de Manlleu, debido a que al levantar los pantógrafos un tren estacionado en la vía 3 se fusionaron ambos hilos de contacto, provocando un cortocircuito que desconectó los feeders de las subestaciones de Manlleu y Ripoll. Los trenes Rodalies 78355 (procedente de Manlleu, destino La Tour de Carol) y 78350 (procedente de Sant Quirze de Besora-Montesquiu, destino L'Hospitalet) quedaron sin tracción y continuaron por inercia hasta detenerse. El tren 78355, que tenía establecido itinerario de entrada a la vía 2 de Torelló, se detuvo a las 10:12:22 con la cabina sobrepasando la señal E1 (en anuncio de parada) pero sin que el primer eje ocupara el circuito de vía de audiofrecuencia CVA1, quedando en la zona muerta adyacente al lazo de cortocircuito. El tren 78350 quedó detenido en el cantón de bloqueo previo a la señal E2, que estaba en parada.\n\nA las 10:18 se restableció la tensión salvo en Manlleu. A las 10:20:53, el RC del CTC confirmó que el 78350 tenía tensión pero el 78355 aún no. Dado que el 78350 recuperó tensión antes y el tramo Torelló-Manlleu seguía sin tensión, se decidió suprimir el servicio del 78350 en Torelló. El RC realizó una Disolución Artificial de Itinerario (DAI) para el 78355, cerrando la señal E1, y estableció itinerario de entrada a la vía 2 para el 78350, incompatible con el itinerario disuelto. A las 10:25:02, el maquinista del 78355 comunicó que ya tenía tensión y el RC le ordenó avanzar hasta la señal de entrada, creyendo erróneamente que el tren estaba antes de dicha señal. El maquinista, que no podía ver la señal al haberla sobrepasado y cuyo ASFA había reconocido el aspecto previo de anuncio de parada, interpretó la orden como referida a la siguiente señal y avanzó.\n\nA las 10:28:57, el RC observó en el videográfico la ocupación intempestiva del CVA1 por el 78355, interpretó que se había producido un rebase de señal y ordenó inmediatamente la detención total del tren 78350. A las 10:30:22, el 78355 ocupó el CV de la vía 2, cerrando la señal E2 para el 78350. No se produjeron víctimas ni daños materiales. En ningún momento durante las comunicaciones entre el RC y el maquinista del 78355 se precisó la ubicación real de la cabina del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Torelló",
+    "pk": "85+129",
+    "linea": "L222 Bif. Aigües - La Tour de Carol-Enveigt",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Estación de Torelló, en recta precedida por curva a la izquierda en sentido de marcha del tren 78355. La línea discurre en rampa en dirección Manlleu-Torelló (14,5 milésimas). Señal E1 de entrada por lado Manlleu en PK 84+645; señal E2 de entrada por lado Sant Quirze en PK 85+578. Estaciones colaterales: Manlleu (lado Bif. Aigües) y Sant Quirze de Besora-Montesquiu (lado La Tour de Carol)."
+   },
+   "pagina": 5,
+   "cita": "tren 78350 de itinerario de entrada a la misma vía 2, para que no quedase estacionado en la vía",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "No se produjo interceptación de la vía. No fue necesaria la activación de ningún plan de emergencias. El corte de tensión duró aproximadamente 15 minutos. El tren 78350 fue suprimido en Torelló."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Con fecha 22/05/2023 la AESF ha publicado la Ficha Guía F-RCF-02/2023 “Modificación de Itinerarios \nEstablecidos” para aclarar que el apartado 5.2.2.1 es de aplicación a otras situaciones de \nanormalidad, no únicamente debido a anormalidades del enclavamiento.  \nPor otro lado, por parte del ADIF y dentro del Plan de Mejoras de Cataluña está contemplada la \nsustitución de todos los circuitos de vía TI21 por los ET 400 por razones de mantenibilidad y por ser \nuna versión más actualizada desde el punto de vista tecnológico. Por este motivo tras el suceso se \nprocedió a cambiar el equipo de cabina del CV existente en Torelló; simplemente se le dio prioridad. \nGeneralmente, excepto en el caso de cambio de configuración, solo se cambian los equipos de cabina, \nno los de campo. En este caso la configuración es la misma antes y después del cambio. \n  \n \n\n## Página 25\n\n \nInforme Final 108/2022 \n \n \n \n \n \n \n \n \n \n \n25",
+   "pagina": 24,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Responsable de Circulación del CTC (RC del CTC)",
+     "implicacion": "Personal de ADIF. Estableció y disolvió itinerarios sin verificar la ubicación real del tren 78355. Ordenó al 78355 avanzar hasta la señal de entrada creyendo que estaba antes de E1. Ordenó detención del 78350 al observar ocupación intempestiva del CV."
+    },
+    {
+     "rol": "Maquinista del tren 78355",
+     "implicacion": "Personal de Renfe Viajeros. Detuvo el tren con cabina sobrepasando E1 sin comunicar su posición exacta. Interpretó la orden del RC como referida a la siguiente señal (ya que E1 había sido sobrepasada). No pudo observar el cambio de aspecto de E1 al estar fuera de su campo de visión."
+    },
+    {
+     "rol": "Maquinista del tren 78350",
+     "implicacion": "Personal de Renfe Viajeros. Recibió la orden de detención total del RC cuando se detectó la ocupación del CV por el 78355."
+    }
+   ],
+   "pagina": 11,
+   "cita": "Responsable de Circulación del CTC (RC del CTC). Personal de ADIF.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "Resultan relevantes para la investigación de este suceso las actuaciones previas del personal \nferroviario siguiente: \n• \nResponsable de Circulación del CTC (RC del CTC). Personal de ADIF.  \n• \nMaquinista de tren 78355. Personal de Renfe Viajeros. \n• \nMaquinista de tren 78350. Personal de Renfe Viajeros. \nLas entidades relacionadas con el accidente son las siguientes:  \n• \nRENFE VIAJEROS: Empresa Ferroviaria de los trenes 78355 y 78350.  \n• \nADIF: Administrador de Infraestructuras Ferroviarias.",
+   "pagina": 11,
+   "cita": "3.1.4. Personal y entidades",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "78355",
+     "tipo": "Rodalies (2 unidades 447: 447033 y 447163)",
+     "operador": "Renfe Viajeros",
+     "danos": null
+    },
+    {
+     "numero": "78350",
+     "tipo": "Rodalies (2 unidades 447: 447111 y 447108)",
+     "operador": "Renfe Viajeros",
+     "danos": null
+    }
+   ],
+   "pagina": 5,
+   "cita": "trenes de Rodalies 78355 y 78350 que tenían previsto cruzarse en la estación de Torelló, llegando",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "447 (unidades 447033, 447163 en tren 78355; 447111, 447108 en tren 78350)",
+    "averia": null,
+    "mantenimiento": "Material rodante funcionó correctamente. Dimensiones relevantes: primer eje a 3 m de la cabeza del tren; pupitre del maquinista a 160 cm por delante del primer eje (no puede observar señal sobrepasada por cabina); captador ASFA a 60 cm por delante del primer eje (no detecta cambio de aspecto posterior al paso)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales E1 (PK 84+645, entrada por lado Manlleu) y E2 (PK 85+578, entrada por lado Sant Quirze). Sistema ASFA embarcado. Baliza previa y baliza de pie en E1. Contadores de ejes para el bloqueo entre estaciones; circuitos de vía de audiofrecuencia (CVA1 y CVA2) en la estación.",
+    "tipo_via": "Vía única con bloqueo BLAU (Bloqueo de Liberación Automática en Vía Única) y CTC. Estación con vías 1 (directa), 2 y 4.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "Catenaria (2 hilos de contacto). Corte de tensión por fusión de hilos al levantar pantógrafos un tren estacionado en vía 3 de Manlleu.",
+    "estado_via": "Recta en la estación, precedida por curva a la izquierda. Rampa de 14,5 milésimas en sentido kilométrico ascendente. En el momento del suceso, la vía estaba operativa; el corte de tensión fue temporal (~15 min).",
+    "otro": "Comunicación por radiotelefonía tren-tierra modo A, canal 64. Videográfico del CTC para supervisión. Zona muerta en CVA1 adyacente al lazo de cortocircuito (tren shunt < 0,3 Ω). Contadores de ejes a 0,5 m después de E1; lazo de cortocircuito a 1,8 m y equipo de sintonía a 5 m del pie de señal. Baliza de pie a 4,8 m antes de la señal."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales E1 (PK 84+645, entrada por lado Manlleu) y E2 (PK 85+578, entrada por lado Sant Quirze). Sistema ASFA embarcado. Baliza previa y baliza de pie en E1. Contadores de ejes para el bloqueo entre estaciones; circuitos de vía de audiofrecuencia (CVA1 y CVA2) en la estación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "No se produjo interceptación de la vía. No fue necesaria la activación de ningún plan de emergencias. El corte de tensión duró aproximadamente 15 minutos. El tren 78350 fue suprimido en Torelló."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "No se produjo interceptación de la vía. No fue necesaria la activación de ningún plan de emergencias. El corte de tensión duró aproximadamente 15 minutos. El tren 78350 fue suprimido en Torelló."
+   },
+   "pagina": 18,
+   "cita": "Comisión de Investigación de Accidentes Ferroviarios",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "No se produjo interceptación de la vía. No fue necesaria la activación de ningún plan de emergencias. El corte de tensión duró aproximadamente 15 minutos. El tren 78350 fue suprimido en Torelló."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "447 (unidades 447033, 447163 en tren 78355; 447111, 447108 en tren 78350)",
+    "averia": null,
+    "mantenimiento": "Material rodante funcionó correctamente. Dimensiones relevantes: primer eje a 3 m de la cabeza del tren; pupitre del maquinista a 160 cm por delante del primer eje (no puede observar señal sobrepasada por cabina); captador ASFA a 60 cm por delante del primer eje (no detecta cambio de aspecto posterior al paso)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales E1 (PK 84+645, entrada por lado Manlleu) y E2 (PK 85+578, entrada por lado Sant Quirze). Sistema ASFA embarcado. Baliza previa y baliza de pie en E1. Contadores de ejes para el bloqueo entre estaciones; circuitos de vía de audiofrecuencia (CVA1 y CVA2) en la estación.",
+    "tipo_via": "Vía única con bloqueo BLAU (Bloqueo de Liberación Automática en Vía Única) y CTC. Estación con vías 1 (directa), 2 y 4.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "Catenaria (2 hilos de contacto). Corte de tensión por fusión de hilos al levantar pantógrafos un tren estacionado en vía 3 de Manlleu.",
+    "estado_via": "Recta en la estación, precedida por curva a la izquierda. Rampa de 14,5 milésimas en sentido kilométrico ascendente. En el momento del suceso, la vía estaba operativa; el corte de tensión fue temporal (~15 min).",
+    "otro": "Comunicación por radiotelefonía tren-tierra modo A, canal 64. Videográfico del CTC para supervisión. Zona muerta en CVA1 adyacente al lazo de cortocircuito (tren shunt < 0,3 Ω). Contadores de ejes a 0,5 m después de E1; lazo de cortocircuito a 1,8 m y equipo de sintonía a 5 m del pie de señal. Baliza de pie a 4,8 m antes de la señal."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Condiciones meteorológicas y de visibilidad buenas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Torelló"
+   },
+   "pagina": 1,
+   "cita": "en la Estación de Torelló (Barcelona)",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Condiciones meteorológicas y de visibilidad buenas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales E1 (PK 84+645, entrada por lado Manlleu) y E2 (PK 85+578, entrada por lado Sant Quirze). Sistema ASFA embarcado. Baliza previa y baliza de pie en E1. Contadores de ejes para el bloqueo entre estaciones; circuitos de vía de audiofrecuencia (CVA1 y CVA2) en la estación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales E1 (PK 84+645, entrada por lado Manlleu) y E2 (PK 85+578, entrada por lado Sant Quirze). Sistema ASFA embarcado. Baliza previa y baliza de pie en E1. Contadores de ejes para el bloqueo entre estaciones; circuitos de vía de audiofrecuencia (CVA1 y CVA2) en la estación.",
+    "tipo_via": "Vía única con bloqueo BLAU (Bloqueo de Liberación Automática en Vía Única) y CTC. Estación con vías 1 (directa), 2 y 4.",
+    "velocidad_maxima": null,
+    "ancho": null,
+    "electrificacion": "Catenaria (2 hilos de contacto). Corte de tensión por fusión de hilos al levantar pantógrafos un tren estacionado en vía 3 de Manlleu.",
+    "estado_via": "Recta en la estación, precedida por curva a la izquierda. Rampa de 14,5 milésimas en sentido kilométrico ascendente. En el momento del suceso, la vía estaba operativa; el corte de tensión fue temporal (~15 min).",
+    "otro": "Comunicación por radiotelefonía tren-tierra modo A, canal 64. Videográfico del CTC para supervisión. Zona muerta en CVA1 adyacente al lazo de cortocircuito (tren shunt < 0,3 Ω). Contadores de ejes a 0,5 m después de E1; lazo de cortocircuito a 1,8 m y equipo de sintonía a 5 m del pie de señal. Baliza de pie a 4,8 m antes de la señal."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Se tuvo conocimiento de este suceso por primera vez el día 5 de diciembre de 2022 a través de escrito \npresentado por el sindicato de maquinistas SEMAF a la CIAF, en el que se ponía de manifiesto su \npreocupación por una posible brecha en la seguridad del enclavamiento. Posteriormente se solicitó \ninformación sobre el mismo a ADIF y RENFE VIAJEROS, remitiendo las primeras informaciones por \nemail.  \n\n## Página 9\n\n \nInforme Final 108/2022 \n \n \n \n \n \n \n \n \n \n \n9 \n \nEn el curso de la investigación se llevaron a cabo entrevistas con personal de ADIF y RENFE VIAJEROS, \nasí como preguntas adicionales a las planteadas en las entrevistas a través de correo electrónico. La \ndisponibilidad del personal para la realización de las entrevistas y reuniones ha sido adecuada. \nLa empresa ferroviaria RENFE VIAJEROS remitió su informe particular a la CIAF con fecha 11/05/2023 \ny el ADIF remitió también su informe particular a la CIAF el día 24/05/2023.",
+   "pagina": 8,
+   "cita": "2.4. CANALES DE COMUNICACIÓN",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "447 (unidades 447033, 447163 en tren 78355; 447111, 447108 en tren 78350)",
+    "averia": null,
+    "mantenimiento": "Material rodante funcionó correctamente. Dimensiones relevantes: primer eje a 3 m de la cabeza del tren; pupitre del maquinista a 160 cm por delante del primer eje (no puede observar señal sobrepasada por cabina); captador ASFA a 60 cm por delante del primer eje (no detecta cambio de aspecto posterior al paso)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Corte de tensión en la catenaria que detuvo ambos trenes en aproximación a Torelló.",
+    "Detención del 78355 con primer eje en la zona muerta del CV de audiofrecuencia, habiendo sobrepasado el puesto de conducción la posición de la señal E1.",
+    "Desconocimiento e inexistencia de pautas sobre la condición de uso de los CV de audiofrecuencia y su zona muerta.",
+    "Disolución del itinerario del 78355 sin verificar su ubicación real.",
+    "Decisión de suprimir el tren 78350 en Torelló, donde quedaría temporalmente estacionado.",
+    "Recuperación de la tensión por el 78350 con anterioridad al 78355.",
+    "En las comunicaciones durante el corte de tensión (~10 min) nunca se precisó la ubicación exacta del 78355.",
+    "El ASFA embarcado había reconocido el aspecto previo de E1 (anuncio de parada), por lo que el maquinista no tuvo conocimiento del cambio a indicación de parada."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Durante la investigación llevada a cabo se ha puesto de manifiesto que, tanto maquinistas como RC \ndel CTC, desconocen la tipología de los CV instalados y sus particularidades, por lo que sería \nconveniente que las acciones formativas que lleven a cabo los maquinistas y RC incidan sobre la \nnecesidad de establecer, mediante la comunicación efectiva entre ambos, la posición inequívoca de \nla circulación con anterioridad a realizar cualquier acción que modifique la orden de la señal \npercibida.  \nEn general, en caso de detención de trenes, los protocolos que se establezcan para la reanudación de \nla marcha deberían tener en cuenta que en las comunicaciones quede determinada la ubicación real \nde los trenes.  \n\n## Página 20\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n20 \n \n \n \n \nEl problema en la seguridad se genera en el momento en el que los itinerarios prestablecidos son \nalterados por los RC sin tener una información fidedigna de la ubicación real de los trenes. Por ello, \nuna comunicación efectiva entre personal de conducción y los RC se hace necesaria para asegurar su \nubicación.  \nEn el suceso que se analiza en este informe, a pesar de que se llevó a cabo una comunicación verbal \nentre el RC del CTC y el maquinista, esta no fue efectiva, debido a que cada uno tenía un punto de \nreferencia distinto y asumía que el otro tenía el mismo. El maquinista había sobrepasado la señal de \nentrada E1 en anuncio de parada coincidente con la correspondiente indicación en el sistema ASFA. \nEl RC del CTC creía que el tren se encontraba en el cantón previo ya que no aparecía ocupación del \nCVA1 en el videográfico y la señal E1 se mantenía en indicación de anuncio de parada durante un \nperiodo de tiempo suficientemente largo.   \nSe hace patente que existe una laguna o carencia procedimental que permita la comprobación de la \nposición de un tren en caso de paradas no previstas por parte del RC, y que es imprescindible que \néste conozca con precisión la posición de los trenes y tenga confirmada y asegurada su detención \nantes de modificar itinerarios ya establecidos.",
+   "pagina": 19,
+   "cita": "4.3. FACTORES HUMANOS RELACIONADOS CON EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "No se conocen sucesos de características similares a los encontrados en el presente informe. \n \n \n \n\n## Página 22\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n22",
+   "pagina": 21,
+   "cita": "4.5. SUCESOS ANTERIORES DE CARÁCTER SIMILAR",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 5/11/2022, sobre las 10:08:51, se produjo un corte de tensión en la línea L222 Bif. Aigües - La Tour de Carol en las inmediaciones de la estación de Manlleu, debido a que al levantar los pantógrafos un tren estacionado en la vía 3 se fusionaron ambos hilos de contacto, provocando un cortocircuito que desconectó los feeders de las subestaciones de Manlleu y Ripoll. Los trenes Rodalies 78355 (procedente de Manlleu, destino La Tour de Carol) y 78350 (procedente de Sant Quirze de Besora-Montesquiu, destino L'Hospitalet) quedaron sin tracción y continuaron por inercia hasta detenerse. El tren 78355, que tenía establecido itinerario de entrada a la vía 2 de Torelló, se detuvo a las 10:12:22 con la cabina sobrepasando la señal E1 (en anuncio de parada) pero sin que el primer eje ocupara el circuito de vía de audiofrecuencia CVA1, quedando en la zona muerta adyacente al lazo de cortocircuito. El tren 78350 quedó detenido en el cantón de bloqueo previo a la señal E2, que estaba en parada.\n\nA las 10:18 se restableció la tensión salvo en Manlleu. A las 10:20:53, el RC del CTC confirmó que el 78350 tenía tensión pero el 78355 aún no. Dado que el 78350 recuperó tensión antes y el tramo Torelló-Manlleu seguía sin tensión, se decidió suprimir el servicio del 78350 en Torelló. El RC realizó una Disolución Artificial de Itinerario (DAI) para el 78355, cerrando la señal E1, y estableció itinerario de entrada a la vía 2 para el 78350, incompatible con el itinerario disuelto. A las 10:25:02, el maquinista del 78355 comunicó que ya tenía tensión y el RC le ordenó avanzar hasta la señal de entrada, creyendo erróneamente que el tren estaba antes de dicha señal. El maquinista, que no podía ver la señal al haberla sobrepasado y cuyo ASFA había reconocido el aspecto previo de anuncio de parada, interpretó la orden como referida a la siguiente señal y avanzó.\n\nA las 10:28:57, el RC observó en el videográfico la ocupación intempestiva del CVA1 por el 78355, interpretó que se había producido un rebase de señal y ordenó inmediatamente la detención total del tren 78350. A las 10:30:22, el 78355 ocupó el CV de la vía 2, cerrando la señal E2 para el 78350. No se produjeron víctimas ni daños materiales. En ningún momento durante las comunicaciones entre el RC y el maquinista del 78355 se precisó la ubicación real de la cabina del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. COMETIDOS Y DEBERES RELACIONADOS CON EL SUCESO \nEl corte de tensión en la catenaria, que provocó la detención de los trenes 78350 y 78355, no supone, \npor sí mismo, ningún riesgo adicional en materia de seguridad, siempre que, una vez recuperada la \ntensión, los trenes continúen con la operación prevista. Sin embargo, la recuperación de la tensión \nen primer lugar por el tren 78350 y la persistencia del corte de tensión en la estación de Manlleu, \nprovocó que se tomase la decisión de suprimir la circulación 78350 más allá de Torelló, ya que el tren \nestaba acumulando un retraso de duración indeterminada en esos momentos, lo que dificultaría su \nintegración en la malla de circulaciones del entorno de Barcelona. \nEn un principio, estaba previsto que el tren 78350 realizara su paso a través de la estación de Torelló \npor la vía directa 1. Sin embargo, su supresión obligaba a su estacionamiento temporal en la estación, \npor lo que el RC del CTC decidió modificar los itinerarios para ambos trenes de manera que el material \nrodante del tren 78350 quedara apartado en la vía 2. Esta circunstancia supuso una modificación de \nla operación prevista y, por tanto, generó una situación de trabajo adicional que suponía una mayor \natención. \nEn este caso, la modificación de itinerarios requería, por una parte, la disolución del itinerario para el \ntren 78355, cerrando la señal de entrada E1, y el establecimiento de itinerario de entrada a vía 2 para \nel tren 78350, incompatible con el itinerario previamente establecido.  \nLa situación de riesgo se generó debido a que el tren 78355 se detuvo accidentalmente de tal modo \nque la cabina de la unidad sobrepasaba la señal de entrada E1, pero sin que los ejes produjesen \nocupación en el CV. De esta manera, en la percepción del maquinista, el tren ya se encontraba \nocupando el cantón de entrada a Torelló, mientras que, para el RC del CTC, el tren, al no haber \nproducido ocupación del CV, debía encontrarse en alguna posición intermedia en el cantón anterior. \nEn las comunicaciones que se produjeron entre el maquinista y el RC, durante los 10 minutos que \naproximadamente duró el corte de tensión, en ningún caso comunicó el maquinista, ni preguntó el \nRC, la ubicación exacta en la que el tren 78355 había quedado detenido. \nEn el momento en el que el tren 78355 recuperó la tensión, el RC del CTC indicó al maquinista que \nreanudara la marcha con la pretensión de que se detuviera delante de la señal E1 en indicación de \nparada. El maquinista del tren 78355 cumplió la orden de reanudación de marcha, pero sin la \nposibilidad de detenerse ante la señal E1 debido a que ésta se encontraba fuera de su campo de \nvisión al haber ya sido sobrepasada, y además el equipo ASFA embarcado había reconocido el estado \n\n## Página 16\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n16 \n \n \n \n \nprevio de la señal E1 en anuncio de parada. De este modo, el maquinista del tren 78355 no tuvo \nconocimiento del cambio de estado de la señal a indicación de parada, ni visualmente ni a través de \nla información proporcionada por el ASFA. \n4.2. MATERIAL RODANTE E INSTALACIONES TÉCNICAS \nTanto el material rodante como las instalaciones técnicas funcionaron correctamente en este suceso, \na excepción de la catenaria que sufrió una pérdida de tensión que provocó la detención de los trenes \n78350 y 78355. \nLas características propias, tanto del material rodante como de las instalaciones técnicas, hacen que, \nen las situaciones habituales de paso, por encima de cierta velocidad, pasen desapercibidas ciertas \npeculiaridades. Pero en este caso de una detención en una zona tan concreta, han propiciado que \nocurra este incidente. Dada su influencia en este suceso, se van a detallar dichas peculiaridades \npropias del material rodante y de los circuitos de vía. \nCon respecto al material rodante, ha de considerarse la disposición de una serie de elementos en la \nzona de la cabina de las 447.  \nEn primer lugar, ha de tenerse en cuenta que el primer eje del tren se sitúa a 3 metros de la cabeza \nde éste. Además, dada la posición del pupitre del maquinista, este se sitúa unos 160 centímetros por \ndelante del primer eje, de manera que el maquinista no puede observar una señal una vez es \nsobrepasada por la cabina, y aunque el primer eje aún no haya ocupado el CV. Otra circunstancia \nrelevante es que el captador ASFA del tren se sitúa también unos 60 centímetros adelantado con \nrespecto al primer eje, de forma que, si una señal cambia su aspecto una vez que el captador ya ha \npasado por ella, el sistema embarcado no detecta este cambio.  \n \nFigura 6: Esquema acotado con las dimensiones físicas de los elementos de las unidades 447. \n\n## Página 17\n\n \nInforme Final 108/2022 \n \n \n \n \n \n \n \n \n \n \n17 \n \nCon respecto a las instalaciones técnicas, en la zona donde se sitúa la señal E1 se encuentra la frontera \nentre el bloqueo y la entrada al enclavamiento. Por el lado de Manlleu el bloqueo se establece con \ncontadores de ejes, mientras que en la estación de Torelló están instalados circuitos de vía de \naudiofrecuencia.  \nAdemás, en los circuitos de audiofrecuencia la detección del tren no se produce en el momento en el \nque el primer eje del tren sobrepasa la zona entre dos circuitos consecutivos. Dado que en este tipo \nde circuitos no existen juntas, se dispone un lazo entre ambos carriles que ocupa una longitud \ndeterminada. \nEn las fronteras entre dos circuitos de vía de audiofrecuencia consecutivos se suelen disponer los \nlazos en forma de S, de manera que exista una zona en la que el tren sea detectado a la vez por ambos \ncircuitos, pero en este caso, y debido a que el cantón anterior está delimitado mediante contadores \nde ejes, no se elimina esta zona muerta.  \nCabe reseñar que, reglamentariamente, y a efectos de explotación de la línea (tiras de bloqueo y \nconsigna de estaciones), la transición se produce en un punto determinado de la vía, pero en la \nrealidad y por razones constructivas",
+   "pagina": 15,
+   "cita": "4. ANÁLISIS DEL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Falta de entendimiento entre el maquinista del 78355 y el RC del CTC por errónea interpretación de la posición real del tren (cabina sobrepasó E1 pero sin ocupación del CV), que provocó la reanudación de marcha con itinerario disuelto, combinada con el establecimiento de itinerario incompatible para el 78350 a la vía 2.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Corte de tensión en la catenaria que detuvo ambos trenes en aproximación a Torelló.",
+    "Detención del 78355 con primer eje en la zona muerta del CV de audiofrecuencia, habiendo sobrepasado el puesto de conducción la posición de la señal E1.",
+    "Desconocimiento e inexistencia de pautas sobre la condición de uso de los CV de audiofrecuencia y su zona muerta.",
+    "Disolución del itinerario del 78355 sin verificar su ubicación real.",
+    "Decisión de suprimir el tren 78350 en Torelló, donde quedaría temporalmente estacionado.",
+    "Recuperación de la tensión por el 78350 con anterioridad al 78355.",
+    "En las comunicaciones durante el corte de tensión (~10 min) nunca se precisó la ubicación exacta del 78355.",
+    "El ASFA embarcado había reconocido el aspecto previo de E1 (anuncio de parada), por lo que el maquinista no tuvo conocimiento del cambio a indicación de parada."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nDel análisis realizado sobre este suceso se puede concluir que el material rodante, la infraestructura, \nel telemando y las instalaciones, salvo en lo que respecta al corte de tensión, se comportaron \ncorrectamente. En relación con este último se puede extraer los siguientes resultados: \n1.- El corte de tensión se produjo sobre las 10:08 de la mañana del 5/11/2022 provocando que los \ntrenes 78350 y 78355, que tenían previsto cruzarse en la estación de Torelló, quedaran sin tracción \nhasta su completa detención. \n2.- En el momento en el que los trenes quedaron detenidos, el tren 78355, que tenía prevista su \nllegada a Torelló en primer lugar, tenía establecido el itinerario de entrada E1 a la vía 2 mientras que \nel tren 78350 debía pararse ante la señal E2. \n3.- La cabina del tren 78355 quedó detenida una vez sobrepasada la señal de entrada E1 a la estación \nde Torelló, pero sin que el primer eje fuera aún detectado por el CV de audiofrecuencia de dicha \nestación. \n4.- En las numerosas comunicaciones efectuadas entre el tren 78355 y el PM en ningún momento se \nprecisó la ubicación real de la cabina por lo que ambas partes tenían una información distinta al \nrespecto. Para el maquinista del tren, la señal de entrada E1 ya había sido sobrepasada mientras que \npara el personal de PM el tren se encontraba, por las indicaciones del CTC, en alguna posición \nintermedia anterior a dicha señal. \n5.- La recuperación de la tensión se produjo en primer lugar por el tren 78350. Pero al persistir el \nproblema de corte de tensión en el tramo Torelló – Manlleu se decidió que entrase en primer lugar a \nla vía 2 para que finalizase allí su recorrido.  \n6.- Para ello, se procedió a disolver el itinerario de entrada a la vía 2 establecido para el tren 78355 y, \ntranscurrido el tiempo del diferímetro de proximidad, establecer un nuevo itinerario de entrada para \nel tren 78350 a esa misma vía. \n7.- Recuperada la tensión por el tren 78355, el RC del CTC comunicó al maquinista que avanzase hasta \nla señal de entrada, lo que fue interpretado por el maquinista como la próxima señal (señal de salida) \npor lo que se produce el conflicto. \n8.- Detectada por el personal del PM la ocupación del circuito de vía de entrada a la estación de \nTorelló por el tren 78355 al considerar que podría tratarse de un rebase de señal, ordenó \ninmediatamente la detención del tren 78350 hasta aclarar lo sucedido. \n\n## Página 23\n\n \nInforme Final 108/2022 \n \n \n \n \n \n \n \n \n \n \n23 \n \n \nFigura 10: Árbol causal del suceso. \nAnalizada toda la documentación y todos los datos se consideran los siguientes factores: \nFactores causales \nLos factores causales del suceso han sido: \nA1.- La falta de entendimiento entre el maquinista y el RC del CTC debida a una errónea interpretación \nde la posición real del tren 78355, que provocó la reanudación de su marcha, tras su detención por \nel corte de tensión, con el itinerario disuelto hacia la vía 2 de la estación de Torelló. \nA2.- El establecimiento de itinerario de entrada para el tren 78350 a la vía 2 de la estación de Torelló, \nincompatible con el itinerario que se había disuelto para tren 78355. \nFactores contribuyentes \nLos factores que han contribuido en este suceso han sido: \nB1.- El corte de tensión en la catenaria que provocó la detención de los trenes 78350 y 78355 en sus \nrecorridos de aproximación a la estación de Torelló. \nB2.- La detención del tren 78355 con su primer eje en la zona muerta del CV de audiofrecuencia de \nentrada a la estación de Torelló habiendo sobrepasado el puesto de conducción la posición de dicha \nseñal. \n\n## Página 24\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n24 \n \n \n \n \nB3.- El desconocimiento y la inexistencia de pautas de la condición de uso de los CV de \naudiofrecuencia debido a la existencia de una zona muerta en la que no se puede garantizar la \nocupación del CV para la detección de los trenes. \nB4.- La disolución del itinerario establecido para el tren 78355 sin verificar su ubicación. \nB5.- La decisión de supresión del tren 78350 en la estación de Torelló donde quedaría temporalmente \nestacionado. \nB6.- La recuperación de la tensión por el tren 78350 con anterioridad al tren 78355. \nFactores sistémicos \nEn el análisis de este suceso, se han detectado los siguientes factores sistémicos: \nC1.- La inexistencia de prescripciones regulatorias con carácter general que restrinjan la disolución y \nmodificación de itinerarios establecidos. \nC2.- Las carencias regulatorias y formativas sobre la condición de uso de los sistemas de detección de \ntrenes asociados a las señales. \n5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO \nCon fecha 22/05/2023 la AESF ha publicado la Ficha Guía F-RCF-02/2023 “Modificación de Itinerarios \nEstablecidos” para aclarar que el apartado 5.2.2.1 es de aplicación a otras situaciones de \nanormalidad, no únicamente debido a anormalidades del enclavamiento.  \nPor otro lado, por parte del ADIF y dentro del Plan de Mejoras de Cataluña está contemplada la \nsustitución de todos los circuitos de vía TI21 por los ET 400 por razones de mantenibilidad y por ser \nuna versión más actualizada desde el punto de vista tecnológico. Por este motivo tras el suceso se \nprocedió a cambiar el equipo de cabina del CV existente en Torelló; simplemente se le dio prioridad. \nGeneralmente, excepto en el caso de cambio de configuración, solo se cambian los equipos de cabina, \nno los de campo. En este caso la configuración es la misma antes y después del cambio. \n  \n \n\n## Página 25\n\n \nInforme Final 108/2022 \n \n \n \n \n \n \n \n \n \n \n25",
+   "pagina": 22,
+   "cita": "5. CONCLUSIONES 5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO Del análisis realizado sobre este suceso se puede concluir que el material rodante, la infraestructura, el telemando y las instalacio",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nDel análisis realizado sobre este suceso se puede concluir que el material rodante, la infraestructura, \nel telemando y las instalaciones, salvo en lo que respecta al corte de tensión, se comportaron \ncorrectamente. En relación con este último se puede extraer los siguientes resultados: \n1.- El corte de tensión se produjo sobre las 10:08 de la mañana del 5/11/2022 provocando que los \ntrenes 78350 y 78355, que tenían previsto cruzarse en la estación de Torelló, quedaran sin tracción \nhasta su completa detención. \n2.- En el momento en el que los trenes quedaron detenidos, el tren 78355, que tenía prevista su \nllegada a Torelló en primer lugar, tenía establecido el itinerario de entrada E1 a la vía 2 mientras que \nel tren 78350 debía pararse ante la señal E2. \n3.- La cabina del tren 78355 quedó detenida una vez sobrepasada la señal de entrada E1 a la estación \nde Torelló, pero sin que el primer eje fuera aún detectado por el CV de audiofrecuencia de dicha \nestación. \n4.- En las numerosas comunicaciones efectuadas entre el tren 78355 y el PM en ningún momento se \nprecisó la ubicación real de la cabina por lo que ambas partes tenían una información distinta al \nrespecto. Para el maquinista del tren, la señal de entrada E1 ya había sido sobrepasada mientras que \npara el personal de PM el tren se encontraba, por las indicaciones del CTC, en alguna posición \nintermedia anterior a dicha señal. \n5.- La recuperación de la tensión se produjo en primer lugar por el tren 78350. Pero al persistir el \nproblema de corte de tensión en el tramo Torelló – Manlleu se decidió que entrase en primer lugar a \nla vía 2 para que finalizase allí su recorrido.  \n6.- Para ello, se procedió a disolver el itinerario de entrada a la vía 2 establecido para el tren 78355 y, \ntranscurrido el tiempo del diferímetro de proximidad, establecer un nuevo itinerario de entrada para \nel tren 78350 a esa misma vía. \n7.- Recuperada la tensión por el tren 78355, el RC del CTC comunicó al maquinista que avanzase hasta \nla señal de entrada, lo que fue interpretado por el maquinista como la próxima señal (señal de salida) \npor lo que se produce el conflicto. \n8.- Detectada por el personal del PM la ocupación del circuito de vía de entrada a la estación de \nTorelló por el tren 78355 al considerar que podría tratarse de un rebase de señal, ordenó \ninmediatamente la detención del tren 78350 hasta aclarar lo sucedido. \n\n## Página 23\n\n \nInforme Final 108/2022 \n \n \n \n \n \n \n \n \n \n \n23 \n \n \nFigura 10: Árbol causal del suceso. \nAnalizada toda la documentación y todos los datos se consideran los siguientes factores: \nFactores causales \nLos factores causales del suceso han sido: \nA1.- La falta de entendimiento entre el maquinista y el RC del CTC debida a una errónea interpretación \nde la posición real del tren 78355, que provocó la reanudación de su marcha, tras su detención por \nel corte de tensión, con el itinerario disuelto hacia la vía 2 de la estación de Torelló. \nA2.- El establecimiento de itinerario de entrada para el tren 78350 a la vía 2 de la estación de Torelló, \nincompatible con el itinerario que se había disuelto para tren 78355. \nFactores contribuyentes \nLos factores que han contribuido en este suceso han sido: \nB1.- El corte de tensión en la catenaria que provocó la detención de los trenes 78350 y 78355 en sus \nrecorridos de aproximación a la estación de Torelló. \nB2.- La detención del tren 78355 con su primer eje en la zona muerta del CV de audiofrecuencia de \nentrada a la estación de Torelló habiendo sobrepasado el puesto de conducción la posición de dicha \nseñal. \n\n## Página 24\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n24 \n \n \n \n \nB3.- El desconocimiento y la inexistencia de pautas de la condición de uso de los CV de \naudiofrecuencia debido a la existencia de una zona muerta en la que no se puede garantizar la \nocupación del CV para la detección de los trenes. \nB4.- La disolución del itinerario establecido para el tren 78355 sin verificar su ubicación. \nB5.- La decisión de supresión del tren 78350 en la estación de Torelló donde quedaría temporalmente \nestacionado. \nB6.- La recuperación de la tensión por el tren 78350 con anterioridad al tren 78355. \nFactores sistémicos \nEn el análisis de este suceso, se han detectado los siguientes factores sistémicos: \nC1.- La inexistencia de prescripciones regulatorias con carácter general que restrinjan la disolución y \nmodificación de itinerarios establecidos. \nC2.- Las carencias regulatorias y formativas sobre la condición de uso de los sistemas de detección de \ntrenes asociados a las señales. \n5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO \nCon fecha 22/05/2023 la AESF ha publicado la Ficha Guía F-RCF-02/2023 “Modificación de Itinerarios \nEstablecidos” para aclarar que el apartado 5.2.2.1 es de aplicación a otras situaciones de \nanormalidad, no únicamente debido a anormalidades del enclavamiento.  \nPor otro lado, por parte del ADIF y dentro del Plan de Mejoras de Cataluña está contemplada la \nsustitución de todos los circuitos de vía TI21 por los ET 400 por razones de mantenibilidad y por ser \nuna versión más actualizada desde el punto de vista tecnológico. Por este motivo tras el suceso se \nprocedió a cambiar el equipo de cabina del CV existente en Torelló; simplemente se le dio prioridad. \nGeneralmente, excepto en el caso de cambio de configuración, solo se cambian los equipos de cabina, \nno los de campo. En este caso la configuración es la misma antes y después del cambio. \n  \n \n\n## Página 25\n\n \nInforme Final 108/2022 \n \n \n \n \n \n \n \n \n \n \n25",
+   "pagina": 22,
+   "cita": "5. CONCLUSIONES 5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO Del análisis realizado sobre este suceso se puede concluir que el material rodante, la infraestructura, el telemando y las instalacio",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Con fecha 22/05/2023 la AESF ha publicado la Ficha Guía F-RCF-02/2023 “Modificación de Itinerarios \nEstablecidos” para aclarar que el apartado 5.2.2.1 es de aplicación a otras situaciones de \nanormalidad, no únicamente debido a anormalidades del enclavamiento.  \nPor otro lado, por parte del ADIF y dentro del Plan de Mejoras de Cataluña está contemplada la \nsustitución de todos los circuitos de vía TI21 por los ET 400 por razones de mantenibilidad y por ser \nuna versión más actualizada desde el punto de vista tecnológico. Por este motivo tras el suceso se \nprocedió a cambiar el equipo de cabina del CV existente en Torelló; simplemente se le dio prioridad. \nGeneralmente, excepto en el caso de cambio de configuración, solo se cambian los equipos de cabina, \nno los de campo. En este caso la configuración es la misma antes y después del cambio. \n  \n \n\n## Página 25\n\n \nInforme Final 108/2022 \n \n \n \n \n \n \n \n \n \n \n25",
+   "pagina": 24,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Con fecha 22/05/2023 la AESF ha publicado la Ficha Guía F-RCF-02/2023 “Modificación de Itinerarios \nEstablecidos” para aclarar que el apartado 5.2.2.1 es de aplicación a otras situaciones de \nanormalidad, no únicamente debido a anormalidades del enclavamiento.  \nPor otro lado, por parte del ADIF y dentro del Plan de Mejoras de Cataluña está contemplada la \nsustitución de todos los circuitos de vía TI21 por los ET 400 por razones de mantenibilidad y por ser \nuna versión más actualizada desde el punto de vista tecnológico. Por este motivo tras el suceso se \nprocedió a cambiar el equipo de cabina del CV existente en Torelló; simplemente se le dio prioridad. \nGeneralmente, excepto en el caso de cambio de configuración, solo se cambian los equipos de cabina, \nno los de campo. En este caso la configuración es la misma antes y después del cambio. \n  \n \n\n## Página 25\n\n \nInforme Final 108/2022 \n \n \n \n \n \n \n \n \n \n \n25",
+   "pagina": 24,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Extender la aplicación con carácter general de las prescripciones establecidas en el Reglamento de Circulación Ferroviaria para la variación de itinerarios en caso de anormalidad de los enclavamientos.",
+    "Establecer condiciones regulatorias e incidir en las acciones formativas, tanto al personal de conducción como a los RC, sobre la existencia de una zona en las proximidades de las señales, tal que una detención sobre la misma obligue a verificar nuevamente su indicación antes de reanudar la marcha."
+   ],
+   "pagina": 25,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 25,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "AESF",
+    "ADIF y EEFF"
+   ],
+   "pagina": 25,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "10:08:51",
+     "evento": "Corte de tensión en la catenaria en Manlleu: al levantar pantógrafos un tren estacionado en vía 3 se fusionan ambos hilos de contacto, cortocircuito y desconexión de feeders de subestaciones de Manlleu y Ripoll."
+    },
+    {
+     "hora": "10:08:59",
+     "evento": "El RC del CTC establece itinerario de entrada a vía 2 de Torelló para el tren 78355; señal E1 en anuncio de parada."
+    },
+    {
+     "hora": "10:12:22",
+     "evento": "El tren 78355 se detiene por inercia con la cabina sobrepasando la señal E1, pero sin ocupar el CVA1 (primer eje en zona muerta). Velocidad al paso por baliza previa: 38 km/h; al pie de señal: 7 km/h."
+    },
+    {
+     "hora": "10:18",
+     "evento": "Restablecimiento de la tensión en el tramo Manlleu-Ripoll tras aislar vía 3 de Manlleu, excepto en la propia estación de Manlleu. Se reparan hilos de contacto con calas."
+    },
+    {
+     "hora": "10:20:53",
+     "evento": "Comunicación RC-CTC con maquinista del 78350 (confirma tensión) y con el del 78355 (sin tensión)."
+    },
+    {
+     "hora": null,
+     "evento": "El RC realiza DAI: disuelve itinerario del 78355 (cierra señal E1) y, tras diferímetro, establece itinerario de entrada a vía 2 para el 78350 (incompatible con el disuelto)."
+    },
+    {
+     "hora": "10:25:02",
+     "evento": "El maquinista del 78355 comunica que ya tiene tensión. El RC le ordena avanzar hasta la señal de entrada (creyendo que está antes de E1). El maquinista interpreta la orden como referida a la siguiente señal."
+    },
+    {
+     "hora": "10:28:57",
+     "evento": "El RC observa en el videográfico ocupación intempestiva del CVA1 por el 78355. Interpreta rebase de señal y ordena detención total del tren 78350."
+    },
+    {
+     "hora": "10:30:22",
+     "evento": "El tren 78355 ocupa el CV de la vía 2 de Torelló, cerrando la señal E2 para el 78350. Riesgo de colisión evitado."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0108/2022",
+ "expediente": "108/2022",
+ "anio": 2022,
+ "titulo": "Incidente operacional ocurrido el día 5/11/2022 en la Estación de Torelló (Barcelona)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES-10382 - 2022-108-1105-IF.md"
+}

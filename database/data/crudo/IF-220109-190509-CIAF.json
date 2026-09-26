@@ -1,0 +1,950 @@
+{
+ "id": "IF-220109-190509-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/459D640D-167C-4D07-9E76-DD191627041D/47504/509IF220109190509CIAF.pdf",
+ "pdf": "pdfs/ES/IF-220109-190509-CIAF.pdf",
+ "md5_pdf": "2b54fb650ec7422d9f16b08ba1b379a7",
+ "paginas_md": 13,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 5,
+ "n_tablas": 3,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Adif",
+     "Número": "05/09-1",
+     "Recomendación": "Se recomienda el estudio del vallado de la vía por esa zona para evitar el tránsito de personas por lugares no autorizados para ello."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 11,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Adif",
+     "Número": "05/09-1",
+     "Recomendación": "Se recomienda el estudio del vallado de la vía por esa zona para evitar el tránsito de personas por lugares no autorizados para ello."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 13,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Adif",
+     "Número": "05/09-1",
+     "Recomendación": "Se recomienda el estudio del vallado de la vía por esa zona para evitar el tránsito de personas por lugares no autorizados para ello."
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0005/2009",
+   "pagina": 1,
+   "cita": "nº 0005/2009 ocurrido el 22.01.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 22 de enero de 2009, a las 07:03, el tren de media distancia 30744 de Renfe Operadora arrolló a un hombre de 62 años en la estación de Gavá. La víctima cruzó por un lugar no habilitado, un paso vicioso, detrás de un tren que circulaba en sentido contrario, e invadió el gálibo de la vía II. El maquinista usó silbato y freno de emergencia, pero no pudo evitar el fallecimiento. El informe concluye que el origen fue la invasión del gálibo por la víctima y recomienda a Adif estudiar el vallado de la zona.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-01-22",
+    "hora": "07:03",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Gavá",
+     "pk": "663,700",
+     "linea": "200 Barcelona Sants - Madrid Chamartín",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "A la salida de la estación de Gavá, a pocos metros de su señal de entrada por el lado Barcelona y a un kilómetro del Edificio de Viajeros. Vía doble, con vía I y vía II; zona industrial y poco transitada, con paso superior carretero y pontón próximos. La línea no está vallada y el lugar se usa como paso vicioso."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 22 de enero de 2009, a las 07:03 horas, el tren de media distancia 30744, de la empresa",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Vía II interceptada de 07:03 a 09:27 y vía I de 09:27 a 09:35. Afectados 10 trenes de larga distancia con 241 minutos de retraso, 23 trenes de media distancia con 697 minutos y 55 trenes de cercanías con 1.424 minutos. Se trasbordó a los pasajeros del tren implicado, se suprimieron 5 trenes y se desviaron 4; se notificó marcha a la vista al paso por el punto del accidente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión del gálibo de la vía por la víctima, que cruzó por un lugar no habilitado cuando pasaba el tren 30744.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima cruzó detrás de un tren que circulaba en sentido contrario, lo que impidió percatarse de la presencia del tren 30744.",
+    "El lugar del accidente era un paso vicioso no autorizado.",
+    "La línea no se encontraba vallada, solo con hileras de cañas altas y densas."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Falta de medidas físicas, como vallado, para evitar el tránsito de personas por lugares no autorizados."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Se recomienda el estudio del vallado de la vía por esa zona para evitar el tránsito de personas por lugares no autorizados para ello.",
+    "Se recomienda el estudio del vallado de la vía por esa zona para evitar el tránsito de personas por lugares no autorizados para ello.",
+    "Se recomienda el estudio del vallado de la vía por esa zona para evitar el tránsito de personas por lugares no autorizados para ello."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de persona",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "ferroviaria Renfe Operadora, arrolla a una persona que cruzaba las vías por un lugar no habilitado",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-01-22",
+   "pagina": 3,
+   "cita": "El día 22 de enero de 2009, a las 07:03 horas, el tren de media distancia 30744, de la empresa",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "07:03",
+   "pagina": 3,
+   "cita": "El día 22 de enero de 2009, a las 07:03 horas, el tren de media distancia 30744, de la empresa",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Gavá",
+    "pk": "663,700",
+    "linea": "200 Barcelona Sants - Madrid Chamartín",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "A la salida de la estación de Gavá, a pocos metros de su señal de entrada por el lado Barcelona y a un kilómetro del Edificio de Viajeros. Vía doble, con vía I y vía II; zona industrial y poco transitada, con paso superior carretero y pontón próximos. La línea no está vallada y el lugar se usa como paso vicioso."
+   },
+   "pagina": 3,
+   "cita": "para ello, a la salida de la estación de Gavá.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "200 Barcelona Sants - Madrid Chamartín",
+   "pagina": 3,
+   "cita": "200 Barcelona Sants - Madrid Chamartín",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UT 470070, 3 coches, 162 toneladas de masa remolcada, Nº UIC 967194700704.",
+    "averia": "No se aprecia avería; los equipos de seguridad del tren funcionaron correctamente. El registrador de seguridad indica 68 km/h al accionar el freno de emergencia.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "Día 22.01.09/ 7:03. El tren de media distancia 30744 de Renfe Operadora, procedente de Reus y con destino Barcelona, circulaba por la vía II a la salida de la estación de Gavá. Una persona cruzó las vías de izquierda a derecha en el sentido de la marcha del tren, desde lado montaña a lado mar, por un lugar no habilitado; lo hizo detrás de un tren que se dirigía a la estación de Gavá.\nAl ver a la persona sobre la caja de la vía, el maquinista hizo uso repetido del silbato y accionó el freno de emergencia, pero no pudo evitar el arrollamiento. La víctima fue un hombre de 62 años, declarado cadáver a las 07:30. No hubo daños materiales en material rodante, infraestructura ni medio ambiente; se produjeron importantes retrasos y desvíos en el servicio.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Gavá",
+    "pk": "663,700",
+    "linea": "200 Barcelona Sants - Madrid Chamartín",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "A la salida de la estación de Gavá, a pocos metros de su señal de entrada por el lado Barcelona y a un kilómetro del Edificio de Viajeros. Vía doble, con vía I y vía II; zona industrial y poco transitada, con paso superior carretero y pontón próximos. La línea no está vallada y el lugar se usa como paso vicioso."
+   },
+   "pagina": 3,
+   "cita": "para ello, a la salida de la estación de Gavá.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Vía II interceptada de 07:03 a 09:27 y vía I de 09:27 a 09:35. Afectados 10 trenes de larga distancia con 241 minutos de retraso, 23 trenes de media distancia con 697 minutos y 55 trenes de cercanías con 1.424 minutos. Se trasbordó a los pasajeros del tren implicado, se suprimieron 5 trenes y se desviaron 4; se notificó marcha a la vista al paso por el punto del accidente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 30744",
+     "implicacion": "Conducía el tren; usó silbato y freno de emergencia, y su actuación fue correcta. Matrícula 9703315; prueba de alcoholemia negativa (0,00 mg/1000 ml) y jornada de conducción dentro de límites."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "30744",
+     "tipo": "Tren de media distancia",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños en el material rodante."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 22 de enero de 2009, a las 07:03 horas, el tren de media distancia 30744, de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UT 470070, 3 coches, 162 toneladas de masa remolcada, Nº UIC 967194700704.",
+    "averia": "No se aprecia avería; los equipos de seguridad del tren funcionaron correctamente. El registrador de seguridad indica 68 km/h al accionar el freno de emergencia.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 5,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC); señal de entrada por el lado Barcelona.",
+    "tipo_via": "Vía doble electrificada de ancho convencional.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": "Ancho convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Perfil horizontal y recto, con buena visibilidad para los maquinistas y para los posibles transeúntes.",
+    "otro": "Radiotelefonía modalidad A. La línea no se encuentra vallada; dispone a ambos lados de hileras de cañas altas y densas. El lugar del accidente es utilizado como paso vicioso. Tramo Castelldefels – El Prat de Llobregat; media semanal de 1.814 circulaciones, considerada muy alta."
+   },
+   "pagina": 6,
+   "cita": "Vía doble electrificada de ancho convencional, con bloqueo automático banalizado (BAB) y con",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC); señal de entrada por el lado Barcelona.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Vía II interceptada de 07:03 a 09:27 y vía I de 09:27 a 09:35. Afectados 10 trenes de larga distancia con 241 minutos de retraso, 23 trenes de media distancia con 697 minutos y 55 trenes de cercanías con 1.424 minutos. Se trasbordó a los pasajeros del tren implicado, se suprimieron 5 trenes y se desviaron 4; se notificó marcha a la vista al paso por el punto del accidente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Vía II interceptada de 07:03 a 09:27 y vía I de 09:27 a 09:35. Afectados 10 trenes de larga distancia con 241 minutos de retraso, 23 trenes de media distancia con 697 minutos y 55 trenes de cercanías con 1.424 minutos. Se trasbordó a los pasajeros del tren implicado, se suprimieron 5 trenes y se desviaron 4; se notificó marcha a la vista al paso por el punto del accidente."
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+    "afectacion_servicio": "Vía II interceptada de 07:03 a 09:27 y vía I de 09:27 a 09:35. Afectados 10 trenes de larga distancia con 241 minutos de retraso, 23 trenes de media distancia con 697 minutos y 55 trenes de cercanías con 1.424 minutos. Se trasbordó a los pasajeros del tren implicado, se suprimieron 5 trenes y se desviaron 4; se notificó marcha a la vista al paso por el punto del accidente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 470070, 3 coches, 162 toneladas de masa remolcada, Nº UIC 967194700704.",
+    "averia": "No se aprecia avería; los equipos de seguridad del tren funcionaron correctamente. El registrador de seguridad indica 68 km/h al accionar el freno de emergencia.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC); señal de entrada por el lado Barcelona.",
+    "tipo_via": "Vía doble electrificada de ancho convencional.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": "Ancho convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Perfil horizontal y recto, con buena visibilidad para los maquinistas y para los posibles transeúntes.",
+    "otro": "Radiotelefonía modalidad A. La línea no se encuentra vallada; dispone a ambos lados de hileras de cañas altas y densas. El lugar del accidente es utilizado como paso vicioso. Tramo Castelldefels – El Prat de Llobregat; media semanal de 1.814 circulaciones, considerada muy alta."
+   },
+   "pagina": 6,
+   "cita": "Vía doble electrificada de ancho convencional, con bloqueo automático banalizado (BAB) y con",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche; tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Gavá"
+   },
+   "pagina": 3,
+   "cita": "200 Barcelona Sants - Madrid Chamartín",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche; tiempo despejado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC); señal de entrada por el lado Barcelona.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (BAB) y control de tráfico centralizado (CTC); señal de entrada por el lado Barcelona.",
+    "tipo_via": "Vía doble electrificada de ancho convencional.",
+    "velocidad_maxima": "140 km/h",
+    "ancho": "Ancho convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Perfil horizontal y recto, con buena visibilidad para los maquinistas y para los posibles transeúntes.",
+    "otro": "Radiotelefonía modalidad A. La línea no se encuentra vallada; dispone a ambos lados de hileras de cañas altas y densas. El lugar del accidente es utilizado como paso vicioso. Tramo Castelldefels – El Prat de Llobregat; media semanal de 1.814 circulaciones, considerada muy alta."
+   },
+   "pagina": 6,
+   "cita": "Vía doble electrificada de ancho convencional, con bloqueo automático banalizado (BAB) y con",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 470070, 3 coches, 162 toneladas de masa remolcada, Nº UIC 967194700704.",
+    "averia": "No se aprecia avería; los equipos de seguridad del tren funcionaron correctamente. El registrador de seguridad indica 68 km/h al accionar el freno de emergencia.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Acceso a vía por lugar no habilitado",
+    "Cruce tras tren en sentido contrario",
+    "Línea sin vallado en zona",
+    "Paso vicioso utilizado como cruce"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "Día 22.01.09/ 7:03. El tren de media distancia 30744 de Renfe Operadora, procedente de Reus y con destino Barcelona, circulaba por la vía II a la salida de la estación de Gavá. Una persona cruzó las vías de izquierda a derecha en el sentido de la marcha del tren, desde lado montaña a lado mar, por un lugar no habilitado; lo hizo detrás de un tren que se dirigía a la estación de Gavá.\nAl ver a la persona sobre la caja de la vía, el maquinista hizo uso repetido del silbato y accionó el freno de emergencia, pero no pudo evitar el arrollamiento. La víctima fue un hombre de 62 años, declarado cadáver a las 07:30. No hubo daños materiales en material rodante, infraestructura ni medio ambiente; se produjeron importantes retrasos y desvíos en el servicio.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en el P.K. 663,700, situado en la estación de Gavá (a un kilómetro del \nEdificio de Viajeros). \nIF-220109-190509-CIAF \n \n \nPág. 10 de 13\n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0005/2009 ocurrido el 22.01.2009 \nSECRETARIA DE ESTADO \nDE  PLANIFICACIÓN E \nINFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \nIF-220109-190509-CIAF \n \n \nPág. 11 de 13\nDel análisis del registrador de seguridad del tren se desprende que, el momento del accidente, el \ntren circulaba a una velocidad inferior a su máxima permitida en el tramo. \nSegún lo declarado por el maquinista, éste hizo uso del silbato y posteriormente, cuando se \npercató de la presencia de la víctima, actuó sobre el freno de emergencia; por lo que la actuación del \nmaquinista fue correcta. \nTanto la tasa de alcoholemia como la jornada de trabajo del maquinista cumplen lo establecido en \nlas Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nLos equipos de seguridad del tren funcionaban correctamente en el momento del accidente y de \nacuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nQue la víctima accedió a la vía por el paso vicioso. \nQue la víctima cruzara tras un tren que circulaba en sentido contrario al tren 30744 impidió que se \npercatase de la presencia de éste. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en la invasión del gálibo de la vía por la víctima que cruzó cuando \npasaba el tren 30744.",
+   "pagina": 10,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión del gálibo de la vía por la víctima, que cruzó por un lugar no habilitado cuando pasaba el tren 30744.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima cruzó detrás de un tren que circulaba en sentido contrario, lo que impidió percatarse de la presencia del tren 30744.",
+    "El lugar del accidente era un paso vicioso no autorizado.",
+    "La línea no se encontraba vallada, solo con hileras de cañas altas y densas."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Se recomienda el estudio del vallado de la vía por esa zona para evitar el tránsito de personas por lugares no autorizados para ello.",
+    "Se recomienda el estudio del vallado de la vía por esa zona para evitar el tránsito de personas por lugares no autorizados para ello.",
+    "Se recomienda el estudio del vallado de la vía por esa zona para evitar el tránsito de personas por lugares no autorizados para ello."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "07:03",
+     "evento": "El tren 30744 arrolla a una persona en la estación de Gavá."
+    },
+    {
+     "hora": "07:30",
+     "evento": "Los servicios sanitarios confirman que la víctima es cadáver."
+    },
+    {
+     "hora": "07:49",
+     "evento": "El coordinador de accidentes ferroviarios de Adif comunica el suceso a la Comisión de Investigación de Accidentes Ferroviarios."
+    },
+    {
+     "hora": "08:43",
+     "evento": "Llegan los servicios funerarios."
+    },
+    {
+     "hora": "09:22",
+     "evento": "Se persona el médico forense y se procede al levantamiento del cadáver."
+    },
+    {
+     "hora": "09:27",
+     "evento": "Finaliza la intercepción de la vía II y comienza la intercepción de la vía I."
+    },
+    {
+     "hora": "09:35",
+     "evento": "Finaliza la intercepción de la vía I."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0005/2009",
+ "expediente": "0005/09",
+ "anio": 2009,
+ "titulo": "Arrollamiento de una persona por el tren 30744 en la estación de Gavá (Barcelona)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-220109-190509-CIAF.md"
+}

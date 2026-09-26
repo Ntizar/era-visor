@@ -1,0 +1,931 @@
+{
+ "id": "IF-231009-270410-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/2D01E382-F5F5-432A-AAF3-8966273BC39A/74822/IF_N_57_CIAF.pdf",
+ "pdf": "pdfs/ES/IF-231009-270410-CIAF.pdf",
+ "md5_pdf": "12b9a936640598cda57621443acf9f55",
+ "paginas_md": 10,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 34,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Adif",
+     "Número": "57/09-1",
+     "Recomendación": "Realizar vallado adecuado en la zona para impedir la existencia de pasos viciosos para personas"
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  },
+  {
+   "pagina": 10,
+   "cabecera": [
+    "Destinatario",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Adif",
+     "Número": "57/09-1",
+     "Recomendación": "Realizar vallado adecuado en la zona para impedir la existencia de pasos viciosos para personas"
+    }
+   ],
+   "cita": "| Destinatario | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0057/2009",
+   "pagina": 1,
+   "cita": "nº 0057/2009 ocurrido el 23.10.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 23 de octubre de 2009, a las 12:30 horas, el tren de cercanías 25143 de Renfe Operadora arrolló a una persona que caminaba por la banqueta de balasto entre la cuneta y el carril derecho de la vía 1, en el P.K. 94+316, próximo al apeadero de San Ildefonso. La víctima, un varón de 58 años, falleció como consecuencia del atropello. El maquinista aplicó el freno de urgencia y usó los silbatos, pero no pudo evitar el impacto. La investigación concluye que el accidente tuvo su origen en la actuación de la víctima al transitar por la zona de libre gálibo de circulación de trenes.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-10-23",
+    "hora": "12:30",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "94+316",
+     "linea": "240 Sant Vicent de Calders - L'Hospitalet de Llobregat",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Vía 1, próximo al apeadero de San Ildefonso, entre las estaciones de L'Hospitalet de Llobregat y Cornellá. Zona poblada de cañas hasta el balasto, sin vallado de cerramiento y con pasos viciosos. Perfil recto en pendiente de 6,03 milésimas."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 23 de octubre de 2009, a las 12:30 horas, el tren de viajeros de cercanías 25143, de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños al material rodante ni a la infraestructura",
+    "afectacion_servicio": "Interrupción de circulación por vía 1 durante 1 hora y 23 minutos (12:30-13:53); trenes en ambos sentidos por vía 2 banalizada con marcha a la vista; 1 tren de media distancia con retraso de 16 minutos; 51 trenes de cercanías con retraso total de 740 minutos; supresión de trenes 25143 y 25146 en Cornellá y L'Hospitalet de Llobregat"
+   },
+   "pagina": 6,
+   "cita": "2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Actuación de la víctima al transitar en la zona de libre gálibo de circulación de trenes de la vía 1 cuando efectuaba su paso el tren 25143",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la actuación de la víctima al transitar en la zona de",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Ausencia de vallado de cerramiento en la zona",
+    "Existencia de pasos viciosos para salvar la infraestructura",
+    "Vegetación de altura media que se acerca a los postes de catenaria, dificultando visión lateral y obligando a invadir la zona de seguridad"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Realizar vallado adecuado en la zona para impedir la existencia de pasos viciosos para personas",
+    "Realizar vallado adecuado en la zona para impedir la existencia de pasos viciosos para personas"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento",
+   "pagina": 3,
+   "cita": "posición de freno de urgencia, sin poder evitar el arrollamiento.",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "empresa ferroviaria Renfe Operadora, arrolla a una persona que caminaba por la banqueta de balasto",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-10-23",
+   "pagina": 3,
+   "cita": "El día 23 de octubre de 2009, a las 12:30 horas, el tren de viajeros de cercanías 25143, de la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "12:30",
+   "pagina": 3,
+   "cita": "El día 23 de octubre de 2009, a las 12:30 horas, el tren de viajeros de cercanías 25143, de la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "94+316",
+    "linea": "240 Sant Vicent de Calders - L'Hospitalet de Llobregat",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Vía 1, próximo al apeadero de San Ildefonso, entre las estaciones de L'Hospitalet de Llobregat y Cornellá. Zona poblada de cañas hasta el balasto, sin vallado de cerramiento y con pasos viciosos. Perfil recto en pendiente de 6,03 milésimas."
+   },
+   "pagina": 3,
+   "cita": "L’Hospitalet de Llobregat y Cornellá, provincia de Barcelona.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "240 Sant Vicent de Calders - L'Hospitalet de Llobregat",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UT 447117 (cabeza) y UT 447169 (cola), tipo 120A, 2 ramas de 3 vehículos y 216 Tm por rama, matrículas UIC 967194471173 y 967194471694",
+    "averia": null,
+    "mantenimiento": "Equipos de seguridad funcionaron correctamente según registro"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de cercanías 25143 de Renfe Operadora, procedente de Terrasa y con destino Martorell, circulaba por la vía 1 en el P.K. 94+316, entre las estaciones de L'Hospitalet de Llobregat y Cornellá (Barcelona). En las proximidades del P.K. 94+400, el maquinista observó cómo una persona caminaba de espaldas al tren por el lado derecho, según la marcha del tren, entre el carril exterior y la cuneta.\n\nEl maquinista hizo uso de los dos silbatos en tres ocasiones en un intervalo de 4 segundos y actuó sobre el manipulador del freno llevándolo a la posición de freno de urgencia, sin poder evitar el arrollamiento. La persona no reaccionó al silbato y continuó andando entre el balasto y las cañas dirección Cornellá. El tren circulaba a una velocidad estimada de 69 km/h en el momento del impacto.\n\nTras el arrollamiento, el tren recorrió 602 metros y quedó detenido a las 12:31:13 en el P.K. 93+714. La circulación quedó interrumpida por la vía 1 desde las 12:30 hasta las 13:53 horas, entre las estaciones de L'Hospitalet de Llobregat y Cornellá.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "94+316",
+    "linea": "240 Sant Vicent de Calders - L'Hospitalet de Llobregat",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Vía 1, próximo al apeadero de San Ildefonso, entre las estaciones de L'Hospitalet de Llobregat y Cornellá. Zona poblada de cañas hasta el balasto, sin vallado de cerramiento y con pasos viciosos. Perfil recto en pendiente de 6,03 milésimas."
+   },
+   "pagina": 3,
+   "cita": "L’Hospitalet de Llobregat y Cornellá, provincia de Barcelona.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños al material rodante ni a la infraestructura",
+    "afectacion_servicio": "Interrupción de circulación por vía 1 durante 1 hora y 23 minutos (12:30-13:53); trenes en ambos sentidos por vía 2 banalizada con marcha a la vista; 1 tren de media distancia con retraso de 16 minutos; 51 trenes de cercanías con retraso total de 740 minutos; supresión de trenes 25143 y 25146 en Cornellá y L'Hospitalet de Llobregat"
+   },
+   "pagina": 6,
+   "cita": "2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista",
+     "implicacion": "Detectó a la persona, usó silbatos y aplicó freno de urgencia; título B de conducción, habilitado según Orden FOM/2520/2006; prueba de alcoholemia y drogas negativa"
+    }
+   ],
+   "pagina": 3,
+   "cita": "(Barcelona). En las proximidades del P.K. 94+400, el maquinista observa cómo una persona camina",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "25143",
+     "tipo": "cercanías",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños al material rodante"
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 23 de octubre de 2009, a las 12:30 horas, el tren de viajeros de cercanías 25143, de la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UT 447117 (cabeza) y UT 447169 (cola), tipo 120A, 2 ramas de 3 vehículos y 216 Tm por rama, matrículas UIC 967194471173 y 967194471694",
+    "averia": null,
+    "mantenimiento": "Equipos de seguridad funcionaron correctamente según registro"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 4,
+   "cita": "El jefe de investigación de accidentes ferroviarios del Administrador de Infraestructuras",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.) desde Barcelona Sants; señales con indicaciones L2/L3",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "100 km/h (para trenes tipo 120A)",
+    "ancho": null,
+    "electrificacion": "Sí",
+    "estado_via": "Sin limitaciones de velocidad permanentes o temporales en la zona; perfil recto en pendiente de 6,03 milésimas; sin vallado de cerramiento; presencia de pasos viciosos y vegetación de altura media que dificulta visión lateral",
+    "otro": "Tramo con alta densidad de tráfico: 1.243 circulaciones semanales (2 larga distancia, 2 media distancia, 1.235 cercanías, 4 servicio)"
+   },
+   "pagina": 5,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático banalizado (B.A.B.) con control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.) desde Barcelona Sants; señales con indicaciones L2/L3",
+   "pagina": 5,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático banalizado (B.A.B.) con control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía A.",
+   "pagina": 6,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños al material rodante ni a la infraestructura",
+    "afectacion_servicio": "Interrupción de circulación por vía 1 durante 1 hora y 23 minutos (12:30-13:53); trenes en ambos sentidos por vía 2 banalizada con marcha a la vista; 1 tren de media distancia con retraso de 16 minutos; 51 trenes de cercanías con retraso total de 740 minutos; supresión de trenes 25143 y 25146 en Cornellá y L'Hospitalet de Llobregat"
+   },
+   "pagina": 3,
+   "cita": "El día 23 de octubre de 2009, a las 12:30 horas, el tren de viajeros de cercanías 25143, de la",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños al material rodante ni a la infraestructura",
+    "afectacion_servicio": "Interrupción de circulación por vía 1 durante 1 hora y 23 minutos (12:30-13:53); trenes en ambos sentidos por vía 2 banalizada con marcha a la vista; 1 tren de media distancia con retraso de 16 minutos; 51 trenes de cercanías con retraso total de 740 minutos; supresión de trenes 25143 y 25146 en Cornellá y L'Hospitalet de Llobregat"
+   },
+   "pagina": 1,
+   "cita": "La investigación de los accidentes ferroviarios tendrá como finalidad determinar",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños al material rodante ni a la infraestructura",
+    "afectacion_servicio": "Interrupción de circulación por vía 1 durante 1 hora y 23 minutos (12:30-13:53); trenes en ambos sentidos por vía 2 banalizada con marcha a la vista; 1 tren de media distancia con retraso de 16 minutos; 51 trenes de cercanías con retraso total de 740 minutos; supresión de trenes 25143 y 25146 en Cornellá y L'Hospitalet de Llobregat"
+   },
+   "pagina": 6,
+   "cita": "2.3.1. Víctimas mortales y heridos",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 447117 (cabeza) y UT 447169 (cola), tipo 120A, 2 ramas de 3 vehículos y 216 Tm por rama, matrículas UIC 967194471173 y 967194471694",
+    "averia": null,
+    "mantenimiento": "Equipos de seguridad funcionaron correctamente según registro"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.) desde Barcelona Sants; señales con indicaciones L2/L3",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "100 km/h (para trenes tipo 120A)",
+    "ancho": null,
+    "electrificacion": "Sí",
+    "estado_via": "Sin limitaciones de velocidad permanentes o temporales en la zona; perfil recto en pendiente de 6,03 milésimas; sin vallado de cerramiento; presencia de pasos viciosos y vegetación de altura media que dificulta visión lateral",
+    "otro": "Tramo con alta densidad de tráfico: 1.243 circulaciones semanales (2 larga distancia, 2 media distancia, 1.235 cercanías, 4 servicio)"
+   },
+   "pagina": 5,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático banalizado (B.A.B.) con control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 3,
+   "cita": "L’Hospitalet de Llobregat y Cornellá, provincia de Barcelona.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.) desde Barcelona Sants; señales con indicaciones L2/L3",
+   "pagina": 5,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático banalizado (B.A.B.) con control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C.) desde Barcelona Sants; señales con indicaciones L2/L3",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "100 km/h (para trenes tipo 120A)",
+    "ancho": null,
+    "electrificacion": "Sí",
+    "estado_via": "Sin limitaciones de velocidad permanentes o temporales en la zona; perfil recto en pendiente de 6,03 milésimas; sin vallado de cerramiento; presencia de pasos viciosos y vegetación de altura media que dificulta visión lateral",
+    "otro": "Tramo con alta densidad de tráfico: 1.243 circulaciones semanales (2 larga distancia, 2 media distancia, 1.235 cercanías, 4 servicio)"
+   },
+   "pagina": 5,
+   "cita": "Trayecto de vía doble electrificada con bloqueo automático banalizado (B.A.B.) con control de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía A.",
+   "pagina": 6,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UT 447117 (cabeza) y UT 447169 (cola), tipo 120A, 2 ramas de 3 vehículos y 216 Tm por rama, matrículas UIC 967194471173 y 967194471694",
+    "averia": null,
+    "mantenimiento": "Equipos de seguridad funcionaron correctamente según registro"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "transito persona zona libre gálibo",
+    "ausencia de vallado perimetral",
+    "existencia pasos viciosos personas"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. \nRealizó su último reciclaje formativo el 08/07/08 y su último reconocimiento médico y \npsicotécnico el 27/05/08, conforme a la normativa vigente.",
+   "pagina": 7,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "Jornada laboral del maquinista del tren 25143: \n- el día 23: 6 horas y 15 minutos. (3 horas y 18 minutos de conducción).  \n- el día 22: 7 horas y 46 minutos. (3 horas y 8 minutos de conducción).  \n- el día 21: 7 horas y 23 minutos. (4 horas y 5 minutos de conducción). \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0057/2009 ocurrido el 23.10.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-231009-270410-CIAF.doc \n \n \nPág. 9 de 10\nAl maquinista, el día del accidente, a las 14:20 horas, se le realiza la prueba de alcoholemia y \ndrogas con resultado negativo en ambas.",
+   "pagina": 8,
+   "cita": "3.5. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Jornada laboral del maquinista del tren 25143: \n- el día 23: 6 horas y 15 minutos. (3 horas y 18 minutos de conducción).  \n- el día 22: 7 horas y 46 minutos. (3 horas y 8 minutos de conducción).  \n- el día 21: 7 horas y 23 minutos. (4 horas y 5 minutos de conducción). \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0057/2009 ocurrido el 23.10.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-231009-270410-CIAF.doc \n \n \nPág. 9 de 10\nAl maquinista, el día del accidente, a las 14:20 horas, se le realiza la prueba de alcoholemia y \ndrogas con resultado negativo en ambas.",
+   "pagina": 8,
+   "cita": "3.5. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de cercanías 25143 de Renfe Operadora, procedente de Terrasa y con destino Martorell, circulaba por la vía 1 en el P.K. 94+316, entre las estaciones de L'Hospitalet de Llobregat y Cornellá (Barcelona). En las proximidades del P.K. 94+400, el maquinista observó cómo una persona caminaba de espaldas al tren por el lado derecho, según la marcha del tren, entre el carril exterior y la cuneta.\n\nEl maquinista hizo uso de los dos silbatos en tres ocasiones en un intervalo de 4 segundos y actuó sobre el manipulador del freno llevándolo a la posición de freno de urgencia, sin poder evitar el arrollamiento. La persona no reaccionó al silbato y continuó andando entre el balasto y las cañas dirección Cornellá. El tren circulaba a una velocidad estimada de 69 km/h en el momento del impacto.\n\nTras el arrollamiento, el tren recorrió 602 metros y quedó detenido a las 12:31:13 en el P.K. 93+714. La circulación quedó interrumpida por la vía 1 desde las 12:30 hasta las 13:53 horas, entre las estaciones de L'Hospitalet de Llobregat y Cornellá.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar el día 23 de octubre de 2009, a las 12:30 horas, en el P.K. 94+316, de \nla línea 240 Sant Vicent de Calders-L’Hospitalet de Llobregat, entre las estaciones de L’Hospitalet de \nLlobregat y Cornellá, provincia de Barcelona. \nEl tren 25143, después de haber realizado parada comercial en la estación de L’Hospitalet de \nLlobregat, reanuda su marcha pasando por la baliza de la señal de salida S1/2, en indicación de L2/L3 \n(vía libre/vía libre condicional), a una velocidad de 41 km/h. \nSeguidamente pasa por las balizas previa (12:30:07) y de pie de señal (12:30.23) de la señal 945, \nsituada en el P.K. 94+444, a las velocidades de 62 y 71 km/h respectivamente, habiendo transmitido \ndichas balizas la indicación L2/L3. \nEl maquinista del tren declara que, al llegar al P.K. 94+400, de entre las cañas, salió una persona \n(varón) por el lado derecho en el sentido de la marcha. \nA las 12:30:24, circulando a 70 km/h actuó sobre el silbato, lo cual repitió en dos ocasiones más \nen un intervalo de 4 segundos. \nInmediatamente después de actuar por tercera vez sobre el silbato se produce el arrollamiento de \nla persona en el P.K. 94+316 aproximadamente, a la velocidad de 69 km/h. \nA partir de este momento comienza una reducción de velocidad realizándose el paso por la baliza \nprevia de la señal 937, en el P.K. 93+974, avanzada de la estación de Cornellá, a una velocidad de 57 \nkm/h, en indicación de L2/L3+L1 (anuncio de precaución), actuando sobre el manipulador del freno a \nla posición de freno de urgencia en el P.K. 93+764, cuando el tren circulaba a la velocidad de 38 \nkm/h. \nA las 12:31:13 el tren queda detenido en el P.K. 93+714, después de recorrer 602 metros, tras \nproducirse el arrollamiento. \n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0057/2009 ocurrido el 23.10.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-231009-270410-CIAF.doc \n \n \nPág. 10 de 10\n4.2. DELIBERACIÓN \nEl personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje \ny reconocimiento médico y psicotécnico. \nLos equipos de seguridad del tren funcionaban correctamente en el momento del accidente. \nSegún el registrador de seguridad del tren, el maquinista hizo uso del silbato y del freno de \nurgencia. \nLa velocidad del tren era inferior a la máxima permitida, según el registrador de seguridad del tren. \n4.3. CONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en la actuación de la víctima al transitar en la zona de libre gálibo de \ncirculación de trenes de la vía 1, cuando efectuaba su paso el tren de viajeros 25143.",
+   "pagina": 9,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Actuación de la víctima al transitar en la zona de libre gálibo de circulación de trenes de la vía 1 cuando efectuaba su paso el tren 25143",
+   "pagina": 3,
+   "cita": "Conclusión: El accidente tuvo su origen en la actuación de la víctima al transitar en la zona de",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Ausencia de vallado de cerramiento en la zona",
+    "Existencia de pasos viciosos para salvar la infraestructura",
+    "Vegetación de altura media que se acerca a los postes de catenaria, dificultando visión lateral y obligando a invadir la zona de seguridad"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en la actuación de la víctima al transitar en la zona de libre gálibo de \ncirculación de trenes de la vía 1, cuando efectuaba su paso el tren de viajeros 25143.",
+   "pagina": 10,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investiga",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en la actuación de la víctima al transitar en la zona de libre gálibo de \ncirculación de trenes de la vía 1, cuando efectuaba su paso el tren de viajeros 25143.",
+   "pagina": 10,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la investiga",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Realizar vallado adecuado en la zona para impedir la existencia de pasos viciosos para personas",
+    "Realizar vallado adecuado en la zona para impedir la existencia de pasos viciosos para personas"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "12:30:00",
+     "evento": "El tren 25143 pasa por la baliza de la señal de salida S1/2 en indicación L2/L3 a 41 km/h tras parada comercial en L'Hospitalet de Llobregat"
+    },
+    {
+     "hora": "12:30:07",
+     "evento": "Paso por baliza previa de señal 945 a 62 km/h, indicación L2/L3"
+    },
+    {
+     "hora": "12:30:23",
+     "evento": "Paso por baliza de pie de señal 945 a 71 km/h, indicación L2/L3"
+    },
+    {
+     "hora": "12:30:24",
+     "evento": "El maquinista actúa sobre el silbato al detectar persona entre las cañas, circulando a 70 km/h"
+    },
+    {
+     "hora": null,
+     "evento": "Arrollamiento de la persona en P.K. 94+316 a velocidad de 69 km/h, tras tercera actuación del silbato"
+    },
+    {
+     "hora": null,
+     "evento": "Paso por baliza previa de señal 937 (avanzada Cornellá) a 57 km/h en indicación L2/L3+L1"
+    },
+    {
+     "hora": null,
+     "evento": "Actuación del manipulador del freno a posición de urgencia en P.K. 93+764 a 38 km/h"
+    },
+    {
+     "hora": "12:31:13",
+     "evento": "El tren queda detenido en P.K. 93+714 tras recorrer 602 metros"
+    },
+    {
+     "hora": "13:53:00",
+     "evento": "Se restablece la circulación normal por ambas vías"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0057/2009",
+ "expediente": "0057/09",
+ "anio": 2009,
+ "titulo": "Arrollamiento de una persona por un tren de cercanías entre L'Hospitalet de Llobregat y Cornellá, Barcelona",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-231009-270410-CIAF.md"
+}

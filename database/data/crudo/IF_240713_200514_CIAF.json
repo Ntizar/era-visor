@@ -1,0 +1,1422 @@
+{
+ "id": "IF_240713_200514_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/0ADE7F17-84BB-4CBD-9451-C750EDE06170/125127/IF240713200514CIAF.pdf",
+ "pdf": "pdfs/ES/IF_240713_200514_CIAF.pdf",
+ "md5_pdf": "396452842cbc83b720a2fb9646f7e6e6",
+ "paginas_md": 266,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 100,
+ "n_tablas": 5,
+ "tablas": [
+  {
+   "pagina": 7,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "54/13-1",
+     "Recomendación": "Normativizar que todas las reducciones de velocidad a partir de un cierto rango estén señalizadas en la vía con señales fijas de limitación de velocidad."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "54/13-2",
+     "Recomendación": "Para estas situaciones (reducciones significativas de velocidad), gestionar la implantación progresiva de balizas que puedan ayudar a controlar la velocidad de los trenes, de modo que se produzca su frenado en el caso de que se pueda llegar a rebasar la velocidad máxima con la que debe ingresar en el tramo siguiente. Para ello, impulsar los desarrollos tecnológicos necesarios del sistema ASFA Digital."
+    },
+    {
+     "Destinatario final": "Renfe Operadora",
+     "Número": "54/13-3.1",
+     "Recomendación": "Reforzar los procedimientos establecidos en el SGS de Renfe Operadora para que las deficiencias relacionadas con la seguridad que se detecten en cualquier estamento se reconduzcan hacia los canales funcionalmente establecidos para su análisis y consideración, asegurando así una eficaz gestión preventiva."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 13,
+   "cabecera": [
+    "Numeración UIC",
+    "Tipo de vehículo"
+   ],
+   "filas": [
+    {
+     "Numeración UIC": "96719 730 045-2",
+     "Tipo de vehículo": "CABEZA MOTRIZ 2 (1º)"
+    },
+    {
+     "Numeración UIC": "90717 730 132-8",
+     "Tipo de vehículo": "COCHE EXTREMO TÉCNICO (2º)"
+    },
+    {
+     "Numeración UIC": "90717 730 131-0",
+     "Tipo de vehículo": "COCHE TURISTA (3º)"
+    },
+    {
+     "Numeración UIC": "90717 730 130-2",
+     "Tipo de vehículo": "COCHE TURISTA (4º)"
+    },
+    {
+     "Numeración UIC": "90717 730 129-4",
+     "Tipo de vehículo": "COCHE TURISTA (5º)"
+    },
+    {
+     "Numeración UIC": "90717 730 128-6",
+     "Tipo de vehículo": "COCHE TURISTA (6º)"
+    },
+    {
+     "Numeración UIC": "90717 730 127-8",
+     "Tipo de vehículo": "COCHE TURISTA (7º)"
+    },
+    {
+     "Numeración UIC": "90717 730 126-0",
+     "Tipo de vehículo": "COCHE TURISTA (8º)"
+    },
+    {
+     "Numeración UIC": "90717 730 125-2",
+     "Tipo de vehículo": "COCHE CAFETERIA-BAR (9º)"
+    },
+    {
+     "Numeración UIC": "90717 730 124-5",
+     "Tipo de vehículo": "COCHE ACCESIBLE PREFERENTE (10º)"
+    },
+    {
+     "Numeración UIC": "90717 730 123-7",
+     "Tipo de vehículo": "COCHE PREFERENTE (11º)"
+    },
+    {
+     "Numeración UIC": "90717 730 122-9",
+     "Tipo de vehículo": "COCHE EXTREMO TÉCNICO (12º)"
+    },
+    {
+     "Numeración UIC": "96719 730 046-0",
+     "Tipo de vehículo": "CABEZA MOTRIZ 1 (13º)"
+    }
+   ],
+   "cita": "| Numeración UIC | Tipo de vehículo |"
+  },
+  {
+   "pagina": 79,
+   "cabecera": [
+    "",
+    "",
+    "",
+    "Km",
+    "Km",
+    "Km"
+   ],
+   "filas": [
+    {
+     "Km": "máximos"
+    },
+    {
+     "Km": ""
+    },
+    {
+     "Km": ""
+    },
+    {
+     "Km": ""
+    },
+    {
+     "Km": ""
+    },
+    {
+     "Km": ""
+    },
+    {
+     "Km": ""
+    },
+    {
+     "Km": ""
+    },
+    {
+     "Km": ""
+    }
+   ],
+   "cita": "|   |   |   | Km | Km | Km |"
+  },
+  {
+   "pagina": 82,
+   "cabecera": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Campo",
+    "",
+    "",
+    "Taller",
+    "Campo",
+    "",
+    "",
+    "Taller",
+    "Taller"
+   ],
+   "filas": [
+    {
+     "Campo": "Espesor (mm)",
+     "Taller": "Distancia entre caras internas (mm)"
+    },
+    {
+     "Campo": "Rueda izquierda",
+     "Taller": ""
+    },
+    {
+     "Campo": "Nº 65450-234",
+     "Taller": ""
+    },
+    {
+     "Campo": "29,4",
+     "Taller": "1.358,8"
+    },
+    {
+     "Campo": "Nº 65448-263",
+     "Taller": ""
+    },
+    {
+     "Campo": "31,7",
+     "Taller": "1.359,0"
+    },
+    {
+     "Campo": "Nº 30841-067",
+     "Taller": ""
+    },
+    {
+     "Campo": "30,1",
+     "Taller": "1.359,1"
+    },
+    {
+     "Campo": "Nº 30841-057",
+     "Taller": ""
+    },
+    {
+     "Campo": "29,4",
+     "Taller": "1.358,9"
+    },
+    {
+     "Campo": "Nº 65093-127",
+     "Taller": ""
+    },
+    {
+     "Campo": "29,7",
+     "Taller": "1.359,0"
+    },
+    {
+     "Campo": "Nº 65094-209",
+     "Taller": ""
+    },
+    {
+     "Campo": "29,3",
+     "Taller": "1.359,3"
+    },
+    {
+     "Campo": "Nº 65357-131",
+     "Taller": ""
+    },
+    {
+     "Campo": "30,9",
+     "Taller": "1.360,8"
+    },
+    {
+     "Campo": "Nº 65357-118",
+     "Taller": ""
+    },
+    {
+     "Campo": "28,2",
+     "Taller": "1.360,6"
+    },
+    {
+     "Campo": "Nº 65521-124",
+     "Taller": ""
+    },
+    {
+     "Campo": "30,9",
+     "Taller": "1.361,1"
+    },
+    {
+     "Campo": "Nº 65357-101",
+     "Taller": ""
+    },
+    {
+     "Campo": "28,6",
+     "Taller": "1.360,8"
+    },
+    {
+     "Campo": "Nº 65357-216",
+     "Taller": ""
+    },
+    {
+     "Campo": "28,4",
+     "Taller": "1.361,0"
+    },
+    {
+     "Campo": "Nº 65357-021",
+     "Taller": ""
+    },
+    {
+     "Campo": "29,2",
+     "Taller": "1.361,0"
+    },
+    {
+     "Campo": "Nº 65357-230",
+     "Taller": ""
+    },
+    {
+     "Campo": "30,2",
+     "Taller": "1.360,8"
+    },
+    {
+     "Campo": "Nº 65357-157",
+     "Taller": ""
+    },
+    {
+     "Campo": "27,8",
+     "Taller": "1.360,1"
+    },
+    {
+     "Campo": "Nº 65357-225",
+     "Taller": ""
+    },
+    {
+     "Campo": "28,3",
+     "Taller": "1.360,4"
+    },
+    {
+     "Campo": "Nº 69613-02",
+     "Taller": ""
+    },
+    {
+     "Campo": "28,6",
+     "Taller": "1.360,5"
+    },
+    {
+     "Campo": "Nº 56922-032",
+     "Taller": ""
+    },
+    {
+     "Campo": "29,0",
+     "Taller": "1.359,0"
+    },
+    {
+     "Campo": "Nº 56922-024",
+     "Taller": ""
+    },
+    {
+     "Campo": "28,5",
+     "Taller": "1.359,2"
+    },
+    {
+     "Campo": "Nº 65448-226",
+     "Taller": ""
+    },
+    {
+     "Campo": "29,7",
+     "Taller": "1.359,8"
+    },
+    {
+     "Campo": "Nº 065448-242",
+     "Taller": ""
+    },
+    {
+     "Campo": "29,1",
+     "Taller": "1.358,8"
+    },
+    {
+     "Campo": "Nº 65450-253",
+     "Taller": ""
+    },
+    {
+     "Campo": "29,6",
+     "Taller": "1.359,1"
+    },
+    {
+     "Campo": "Nº 65462-232",
+     "Taller": ""
+    },
+    {
+     "Campo": "30,3",
+     "Taller": "1.359,2"
+    }
+   ],
+   "cita": "|   |   |   |   |   | Campo |   |   | Taller | Campo |   |   | Taller | Taller |"
+  },
+  {
+   "pagina": 109,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "54/13-1",
+     "Recomendación": "Normativizar que todas las reducciones de velocidad a partir de un cierto rango estén señalizadas en la vía con señales fijas de limitación de velocidad."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "54/13-2",
+     "Recomendación": "Para estas situaciones (reducciones significativas de velocidad), gestionar la implantación progresiva de balizas que puedan ayudar a controlar la velocidad de los trenes, de modo que se produzca su frenado en el caso de que se pueda llegar a rebasar la velocidad máxima con la que debe ingresar en el tramo siguiente. Para ello, impulsar los desarrollos tecnológicos necesarios del sistema ASFA Digital."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0054/2013",
+   "pagina": 1,
+   "cita": "nº 0054/2013 ocurrido el 24.07.2013",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 24 de julio de 2013 a las 20:41 h, el tren Alvia 150/151 de Renfe Operadora, material S-730 con 13 vehículos, descarriló en la curva de Angrois (PK 84+413, línea 082) a 179 km/h cuando la velocidad máxima era 80 km/h. La causa directa fue el exceso de velocidad por no respetar el libro horario y el cuadro de velocidades máximas. Como causa coadyuvante, una llamada telefónica del interventor al maquinista desvió su atención e impidió iniciar el frenado a tiempo. Se produjeron 80 fallecidos y numerosos heridos. El informe recomienda señalización fija de limitación de velocidad, balizas ASFA Digital, análisis de riesgos en nuevas líneas y regulación de comunicaciones en cabina.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2013-07-24",
+    "hora": null,
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Santiago de Compostela",
+     "pk": "84+413",
+     "linea": "082 Bifurcación Coto da Torre - Bifurcación A Grandeira aguja km 85,0",
+     "provincia": "A Coruña",
+     "descripcion_lugar": "Barrio de Angrois, Santiago de Compostela. Curva de entrada a Bifurcación A Grandeira (curva de Angrois), radio 402 m, limitada a 80 km/h, a 3,6 km de la estación de Santiago de Compostela. Punto de descarrilamiento en el tramo final de la primera transición (clotoide) de la curva."
+    }
+   },
+   "pagina": 7,
+   "cita": "El día 24 de julio de 2013, a las 20:41 horas, en el PK 84+413 de la línea 082 Bifurcación Coto da",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 80,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Cuantiosos, valoración pendiente por Renfe Operadora. Material móvil: los 13 vehículos descarrilados, CET de cola incendiado. Infraestructura vía 1: deterioro total de 32 m de carril, 600 traviesas, 8 postes con ménsulas, 1.200 m de cable de catenaria. Vía 2: 100 m de catenaria a reponer. Cerramiento lateral y 2 cámaras de videovigilancia a reponer. Daños en edificaciones cercanas por proyección de elementos (pendientes de valorar)",
+    "afectacion_servicio": "Vías 1 y 2 de la línea 082 interceptadas; vía 1 restablecida el 29/07/2013 (4 días y 11 horas de interceptación) con limitación 30 km/h; vía 2 restablecida el 26/07/2013 (35 horas) con limitación 30 km/h hasta el 29/07; vía convencional 822 interceptada ~32 horas. 29 trenes afectados (27 viajeros, 2 mercancías) con retraso global de 699 minutos. Plan alternativo de transporte desde el 24/07. >3.000 efectivos en operativo de emergencia"
+   },
+   "pagina": 7,
+   "cita": "Se producen 80 fallecidos y numerosos heridos de distinta gravedad.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Exceso de velocidad del tren (circulaba a 179 km/h) en la curva de entrada a Bifurcación A Grandeira (curva de Angrois, limitada a 80 km/h), por no respetar el personal de conducción lo prescrito en el Libro Horario del tren 150/151 y en el Cuadro de Velocidades Máximas de la línea 082",
+   "pagina": 7,
+   "cita": "Conclusión: La causa del accidente fue un exceso de velocidad del tren (circulaba a 179 km/h) en la",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Falta de atención del maquinista al responder una llamada telefónica de servicio del interventor (100 s), lo que motivó la no aplicación del freno en el momento oportuno para reducir la velocidad antes de la curva",
+    "Ausencia de señalización fija de limitación de velocidad preventiva en la vía para el cambio brusco de velocidad (de 300/200 a 80 km/h)",
+    "Ausencia de balizas ASFA en la curva de Angrois que pudieran controlar la velocidad y provocar frenado automático",
+    "El ERTMS/ETCS no cubría el tramo del accidente (finalizaba en PK 80+069), por lo que no existía supervisión automática de velocidad en la curva",
+    "La conversación telefónica fue excesiva y reiterativa (100 s, sin ser emergencia), y no se realizó por los interfonos interiores del tren",
+    "El maquinista no efectuó el cambio de modo ASFA (alta velocidad a convencional) al pasar por el cartelón del PK 80+803"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Inexistencia de normativa que prescriba qué señalización fija preventiva debe implantarse en los cambios de velocidad máxima y en qué circunstancias deben estar señalizados en vía",
+    "Deficiencia en la gestión preventiva de la seguridad: una advertencia interna sobre la peligrosidad de la curva de Angrois (diciembre 2011, jefe de maquinistas JM1) no fue elevada a los foros establecidos para la gestión de la seguridad ni trasladada a Adif, siendo conocida por al menos nueve personas de Renfe Operadora",
+    "Ausencia de un análisis de riesgos específico en la puesta en servicio de nuevas líneas que recoja la interacción de subsistemas (infraestructura, señalización, material rodante, factor humano) en condiciones normales y degradadas",
+    "Falta de reglamentación normativa sobre el uso de comunicaciones en cabina (solo existía un aviso de 1997 y una ficha informativa de 2011, sin carácter normativo)",
+    "Incompatibilidad de versiones ERTMS (tren Bombardier vs. vía Thales) que obligó a retirar la autorización de circular con ERTMS en la línea 082, reduciendo la protección a ASFA sin supervisión de velocidad",
+    "Modificación del trazado original (de ancho estándar a ibérico) que obligó a recortar la extensión del ERTMS y a gestionar el acceso a Santiago por enclavamiento convencional con ASFA"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Normativizar que todas las reducciones de velocidad a partir de un cierto rango estén señalizadas en la vía con señales fijas de limitación de velocidad.",
+    "Para estas situaciones (reducciones significativas de velocidad), gestionar la implantación progresiva de balizas que puedan ayudar a controlar la velocidad de los trenes, de modo que se produzca su frenado en el caso de que se pueda llegar a rebasar la velocidad máxima con la que debe ingresar en el tramo siguiente. Para ello, impulsar los desarrollos tecnológicos necesarios del sistema ASFA Digital.",
+    "Reforzar los procedimientos establecidos en el SGS de Renfe Operadora para que las deficiencias relacionadas con la seguridad que se detecten en cualquier estamento se reconduzcan hacia los canales funcionalmente establecidos para su análisis y consideración, asegurando así una eficaz gestión preventiva.",
+    "Normativizar que todas las reducciones de velocidad a partir de un cierto rango estén señalizadas en la vía con señales fijas de limitación de velocidad.",
+    "Para estas situaciones (reducciones significativas de velocidad), gestionar la implantación progresiva de balizas que puedan ayudar a controlar la velocidad de los trenes, de modo que se produzca su frenado en el caso de que se pueda llegar a rebasar la velocidad máxima con la que debe ingresar en el tramo siguiente. Para ello, impulsar los desarrollos tecnológicos necesarios del sistema ASFA Digital."
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif",
+    "Renfe Operadora",
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "accidente grave ferroviario",
+   "pagina": 1,
+   "cita": "EL ACCIDENTE GRAVE FERROVIARIO Nº 0054/2013",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe Operadora"
+   ],
+   "pagina": 3,
+   "cita": "3.2.3.3.1. Órganos de participación en la gestión de la seguridad de Adif y revisión de las actas",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2013-07-24",
+   "pagina": 7,
+   "cita": "El día 24 de julio de 2013, a las 20:41 horas, en el PK 84+413 de la línea 082 Bifurcación Coto da",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Santiago de Compostela",
+    "pk": "84+413",
+    "linea": "082 Bifurcación Coto da Torre - Bifurcación A Grandeira aguja km 85,0",
+    "provincia": "A Coruña",
+    "descripcion_lugar": "Barrio de Angrois, Santiago de Compostela. Curva de entrada a Bifurcación A Grandeira (curva de Angrois), radio 402 m, limitada a 80 km/h, a 3,6 km de la estación de Santiago de Compostela. Punto de descarrilamiento en el tramo final de la primera transición (clotoide) de la curva."
+   },
+   "pagina": 7,
+   "cita": "estación de Santiago de Compostela (A Coruña), se produce un accidente grave por descarrilamiento",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 082 Bifurcación Coto da Torre - Bifurcación A Grandeira",
+   "pagina": 15,
+   "cita": "Línea 082 Bifurcación Coto da Torre - Bifurcación A Grandeira aguja km 85,0",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "S-730 (rama 730.012), transformación de S-130, consorcio Talgo-Bombardier, 13 vehículos (2 cabezas motrices, 2 CET, 8 coches viajeros, 1 cafetería), 264 plazas, 185 m longitud, 382 Tn, 22 ejes, rodadura desplazable",
+    "averia": "Problemas de fiabilidad/disponibilidad con ERTMS (versión 3.1.0.1 Bombardier incompatible con versión Thales en vía); desde junio 2012 autorizado a circular solo con ASFA Digital en línea 082; libro de averías: test válvula blending con errores (22/07, pendiente), convertidor 2 desconectado (22/07, reparado), remolque marca frenado sin estarlo (05/07 y 19/07, no reproducido en taller); 1 eje con freno anulado en Madrid (no afectaba a rama 012); prueba de freno en Ourense correcta para rama 012; frenada de emergencia acorde a ETI (deceleración 1,11 m/s²)",
+    "mantenimiento": "Plan PM.7300.10 aprobado y cumplido; último IS del 22-24/07/2013; IM1 el 16/05/2013; IM2 el 14/09/2012; kilometraje total 918.251 km; mantenimiento por Talgo y Btren en taller BM Madrid Fuencarral AV (habilitación Adif 13/06/2012); rodadura dentro de límites"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren Alvia 150/151 de Renfe Operadora, compuesto por la rama 730.012 (13 vehículos, 264 plazas), salió de Madrid-Chamartín a las 15:00 h en doble composición con destino Ferrol. Tras parada comercial en Ourense (llegada ~19:51-19:55 h), se desacopló la rama 012, cambió de maquinista y salió a las 20:05:13 h con cuatro minutos de retraso. Recorrió los primeros 78 km de la línea 082 a ~200 km/h con ASFA Digital en servicio y todas las señales en vía libre. Aproximadamente 6.000 m antes del inicio de la curva de Angrois (PK 84+228, limitada a 80 km/h), el maquinista respondió una llamada telefónica de servicio del interventor del tren sobre la parada en Puentedeume. La conversación duró 100 segundos (20:39:15-20:40:55 h), durante los cuales el tren recorrió 5.540 m sin que el maquinista iniciara la frenada en la señal avanzada E'7 (PK 80+619), su punto habitual de referencia para reducir velocidad. Tampoco efectuó el cambio de modo ASFA (alta velocidad a convencional) al pasar por el cartelón del PK 80+803. Al terminar la llamada, ya muy próximo a la señal de entrada E7 (PK 84+176), aplicó el freno de emergencia a 195 km/h. El tren entró en la curva de radio 402 m a ~191 km/h y descarriló en el PK 84+413 a 179 km/h. Los trece vehículos quedaron descarrilados y fuera de la vía 1, separados en tres grupos. Se incendió el coche extremo técnico (CET) de cola y uno de los coches del último grupo fue desplazado por encima del muro de contención hasta un camino adyacente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Santiago de Compostela",
+    "pk": "84+413",
+    "linea": "082 Bifurcación Coto da Torre - Bifurcación A Grandeira aguja km 85,0",
+    "provincia": "A Coruña",
+    "descripcion_lugar": "Barrio de Angrois, Santiago de Compostela. Curva de entrada a Bifurcación A Grandeira (curva de Angrois), radio 402 m, limitada a 80 km/h, a 3,6 km de la estación de Santiago de Compostela. Punto de descarrilamiento en el tramo final de la primera transición (clotoide) de la curva."
+   },
+   "pagina": 7,
+   "cita": "estación de Santiago de Compostela (A Coruña), se produce un accidente grave por descarrilamiento",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 80,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Cuantiosos, valoración pendiente por Renfe Operadora. Material móvil: los 13 vehículos descarrilados, CET de cola incendiado. Infraestructura vía 1: deterioro total de 32 m de carril, 600 traviesas, 8 postes con ménsulas, 1.200 m de cable de catenaria. Vía 2: 100 m de catenaria a reponer. Cerramiento lateral y 2 cámaras de videovigilancia a reponer. Daños en edificaciones cercanas por proyección de elementos (pendientes de valorar)",
+    "afectacion_servicio": "Vías 1 y 2 de la línea 082 interceptadas; vía 1 restablecida el 29/07/2013 (4 días y 11 horas de interceptación) con limitación 30 km/h; vía 2 restablecida el 26/07/2013 (35 horas) con limitación 30 km/h hasta el 29/07; vía convencional 822 interceptada ~32 horas. 29 trenes afectados (27 viajeros, 2 mercancías) con retraso global de 699 minutos. Plan alternativo de transporte desde el 24/07. >3.000 efectivos en operativo de emergencia"
+   },
+   "pagina": 7,
+   "cita": "Se producen 80 fallecidos y numerosos heridos de distinta gravedad.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 150/151 (matrícula 8945362)",
+     "implicacion": "Conducía el tren; no inició la frenada en el punto habitual (E'7) por atención a llamada telefónica del interventor; aplicó freno de emergencia tarde; descarriló a 179 km/h en curva limitada a 80 km/h; fallecido 2 personas del personal, incluido posiblemente el propio maquinista como implicado"
+    },
+    {
+     "rol": "Agente de acompañamiento / interventor del tren 150/151 (matrícula 9610643)",
+     "implicacion": "Realizó llamada telefónica de servicio al maquinista (100 s) sobre vía de apartado en Puentedeume, desviando la atención del conductor"
+    },
+    {
+     "rol": "Maquinista fuera de servicio (trayecto Medina del Campo-Ourense)",
+     "implicacion": "Viajaba en el tren; realizó 1ª llamada telefónica al maquinista titular (46 s) sobre incidencia técnica y activación del HM"
+    },
+    {
+     "rol": "Vigilante de seguridad",
+     "implicacion": "Viajaba en el tren en servicio Ourense-Santiago"
+    },
+    {
+     "rol": "Empleados de catering (2)",
+     "implicacion": "Prestaban servicio en la cafetería del tren"
+    }
+   ],
+   "pagina": 12,
+   "cita": "Medina del Campo-Ourense, así como un vigilante de seguridad y dos empleados de la empresa de",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "150/151",
+     "tipo": "Alvia de viajeros de larga distancia, material S-730, 13 vehículos, doble composición (rama 012)",
+     "operador": "Renfe Operadora",
+     "danos": "Descarrilamiento total de los 13 vehículos; incendio del CET de cola (posición 12); coche posición 8 desplazado sobre muro de contención; posiciones 5, 6, 9, 12 y 13 con grandes desperfectos; posiciones 1, 2, 3, 4, 7, 8, 10 y 11 con desperfectos; valoración económica pendiente"
+    }
+   ],
+   "pagina": 7,
+   "cita": "de todos los vehículos del tren de viajeros de larga distancia 150/151, perteneciente a Renfe",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "S-730 (rama 730.012), transformación de S-130, consorcio Talgo-Bombardier, 13 vehículos (2 cabezas motrices, 2 CET, 8 coches viajeros, 1 cafetería), 264 plazas, 185 m longitud, 382 Tn, 22 ejes, rodadura desplazable",
+    "averia": "Problemas de fiabilidad/disponibilidad con ERTMS (versión 3.1.0.1 Bombardier incompatible con versión Thales en vía); desde junio 2012 autorizado a circular solo con ASFA Digital en línea 082; libro de averías: test válvula blending con errores (22/07, pendiente), convertidor 2 desconectado (22/07, reparado), remolque marca frenado sin estarlo (05/07 y 19/07, no reproducido en taller); 1 eje con freno anulado en Madrid (no afectaba a rama 012); prueba de freno en Ourense correcta para rama 012; frenada de emergencia acorde a ETI (deceleración 1,11 m/s²)",
+    "mantenimiento": "Plan PM.7300.10 aprobado y cumplido; último IS del 22-24/07/2013; IM1 el 16/05/2013; IM2 el 14/09/2012; kilometraje total 918.251 km; mantenimiento por Talgo y Btren en taller BM Madrid Fuencarral AV (habilitación Adif 13/06/2012); rodadura dentro de límites"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "BSL (bloqueo de señalización lateral); ERTMS/ETCS nivel 1 solo hasta PK 80+069 (sentido Santiago); ASFA Digital como sistema principal en el tramo del accidente (PK 80+069 a PK 85+000); señales E'7 (PK 80+619) y E7 (PK 84+176) en vía libre; señal fija de reducción de velocidad (cartelón) en PK 84+273; cartelón cambio modo ASFA en PK 80+803; cartelón RGC en PK 84+176; 3 pantallas de proximidad de E'7 (PK 80+086, 80+278, 80+398); NO había señalización fija de limitación de velocidad preventiva antes de la curva; NO había balizas ASFA en la curva de Angrois",
+    "tipo_via": "Doble vía",
+    "velocidad_maxima": "200 km/h con ASFA Digital (300 km/h por trazado según cuadro de velocidades máximas); 80 km/h en curva de Angrois (PK 84+230 a PK 85+000)",
+    "ancho": "Ibérico (1.668 mm) sobre traviesa polivalente PR-01",
+    "electrificacion": "25 kV CA",
+    "estado_via": "Buen estado: auscultación geométrica nov-2012 correcta (bache en PK 84+245 corregido dic-2012); auscultación dinámica 08/05/2013 correcta; mediciones in situ tras el accidente dentro de tolerancia (ancho de vía y peralte); carril nuevo 60E1 en servicio desde 2011",
+    "otro": "31 túneles y 35 viaductos (60% del trazado); curva de Angrois: radio 402 m, peralte 130 mm, transición inicial 202 m (clotoide A=283,8), circular 264 m, transición final 200 m; pendiente 12,5 milésimas en aproximación; rampa 8,6 milésimas en el punto de descarrilamiento; CTC gestionado desde CRC Atocha (excepto extremos); enclavamiento electrónico de Santiago (mando local en el momento del suceso); escape B1-B3 (PK 84+892/84+983); desvío B5 (PK 85+011)"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "BSL (bloqueo de señalización lateral); ERTMS/ETCS nivel 1 solo hasta PK 80+069 (sentido Santiago); ASFA Digital como sistema principal en el tramo del accidente (PK 80+069 a PK 85+000); señales E'7 (PK 80+619) y E7 (PK 84+176) en vía libre; señal fija de reducción de velocidad (cartelón) en PK 84+273; cartelón cambio modo ASFA en PK 80+803; cartelón RGC en PK 84+176; 3 pantallas de proximidad de E'7 (PK 80+086, 80+278, 80+398); NO había señalización fija de limitación de velocidad preventiva antes de la curva; NO había balizas ASFA en la curva de Angrois",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Se pueden distinguir dos ámbitos: comunicación entre el tren y el puesto de mando (exterior al tren) y \ncomunicaciones dentro del propio tren. \nCon respecto a las comunicaciones con el exterior del tren, en la línea 082 Bifurcación Coto da Torre - \nBifurcación A Grandeira aguja km 85,0, se dispone de comunicación mediante el sistema GSM-R (telefonía \nmóvil con banda reservada para el ferrocarril) entre el tren y el puesto de mando de Madrid-Atocha.  \nEn los accesos a Ourense y Santiago de Compostela, desde la línea 082, se dispone de sistema de \nradiotelefonía (tren-tierra) que comunica el tren con el puesto de mando de Ourense. \nCon respecto a las comunicaciones interiores del tren, se dispone de telefonía interior para la \ncomunicación del maquinista con la tripulación. También el personal de servicio en el tren (interventor \ny maquinista) cuenta con teléfono móvil corporativo, lo que les permite comunicarse entre ellos y \ntambién con el exterior, de forma limitada, en caso necesario. \n\n## Página 23\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente grave \nnº 0054/2013 ocurrido el 24.07.2013 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-240713-200514-CIAF \n \nPág. 23 de 266",
+   "pagina": 22,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 80,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Cuantiosos, valoración pendiente por Renfe Operadora. Material móvil: los 13 vehículos descarrilados, CET de cola incendiado. Infraestructura vía 1: deterioro total de 32 m de carril, 600 traviesas, 8 postes con ménsulas, 1.200 m de cable de catenaria. Vía 2: 100 m de catenaria a reponer. Cerramiento lateral y 2 cámaras de videovigilancia a reponer. Daños en edificaciones cercanas por proyección de elementos (pendientes de valorar)",
+    "afectacion_servicio": "Vías 1 y 2 de la línea 082 interceptadas; vía 1 restablecida el 29/07/2013 (4 días y 11 horas de interceptación) con limitación 30 km/h; vía 2 restablecida el 26/07/2013 (35 horas) con limitación 30 km/h hasta el 29/07; vía convencional 822 interceptada ~32 horas. 29 trenes afectados (27 viajeros, 2 mercancías) con retraso global de 699 minutos. Plan alternativo de transporte desde el 24/07. >3.000 efectivos en operativo de emergencia"
+   },
+   "pagina": 7,
+   "cita": "de todos los vehículos del tren de viajeros de larga distancia 150/151, perteneciente a Renfe",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 80,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Cuantiosos, valoración pendiente por Renfe Operadora. Material móvil: los 13 vehículos descarrilados, CET de cola incendiado. Infraestructura vía 1: deterioro total de 32 m de carril, 600 traviesas, 8 postes con ménsulas, 1.200 m de cable de catenaria. Vía 2: 100 m de catenaria a reponer. Cerramiento lateral y 2 cámaras de videovigilancia a reponer. Daños en edificaciones cercanas por proyección de elementos (pendientes de valorar)",
+    "afectacion_servicio": "Vías 1 y 2 de la línea 082 interceptadas; vía 1 restablecida el 29/07/2013 (4 días y 11 horas de interceptación) con limitación 30 km/h; vía 2 restablecida el 26/07/2013 (35 horas) con limitación 30 km/h hasta el 29/07; vía convencional 822 interceptada ~32 horas. 29 trenes afectados (27 viajeros, 2 mercancías) con retraso global de 699 minutos. Plan alternativo de transporte desde el 24/07. >3.000 efectivos en operativo de emergencia"
+   },
+   "pagina": 7,
+   "cita": "Se producen 80 fallecidos y numerosos heridos de distinta gravedad.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 80,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Cuantiosos, valoración pendiente por Renfe Operadora. Material móvil: los 13 vehículos descarrilados, CET de cola incendiado. Infraestructura vía 1: deterioro total de 32 m de carril, 600 traviesas, 8 postes con ménsulas, 1.200 m de cable de catenaria. Vía 2: 100 m de catenaria a reponer. Cerramiento lateral y 2 cámaras de videovigilancia a reponer. Daños en edificaciones cercanas por proyección de elementos (pendientes de valorar)",
+    "afectacion_servicio": "Vías 1 y 2 de la línea 082 interceptadas; vía 1 restablecida el 29/07/2013 (4 días y 11 horas de interceptación) con limitación 30 km/h; vía 2 restablecida el 26/07/2013 (35 horas) con limitación 30 km/h hasta el 29/07; vía convencional 822 interceptada ~32 horas. 29 trenes afectados (27 viajeros, 2 mercancías) con retraso global de 699 minutos. Plan alternativo de transporte desde el 24/07. >3.000 efectivos en operativo de emergencia"
+   },
+   "pagina": 7,
+   "cita": "Se producen 80 fallecidos y numerosos heridos de distinta gravedad.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "S-730 (rama 730.012), transformación de S-130, consorcio Talgo-Bombardier, 13 vehículos (2 cabezas motrices, 2 CET, 8 coches viajeros, 1 cafetería), 264 plazas, 185 m longitud, 382 Tn, 22 ejes, rodadura desplazable",
+    "averia": "Problemas de fiabilidad/disponibilidad con ERTMS (versión 3.1.0.1 Bombardier incompatible con versión Thales en vía); desde junio 2012 autorizado a circular solo con ASFA Digital en línea 082; libro de averías: test válvula blending con errores (22/07, pendiente), convertidor 2 desconectado (22/07, reparado), remolque marca frenado sin estarlo (05/07 y 19/07, no reproducido en taller); 1 eje con freno anulado en Madrid (no afectaba a rama 012); prueba de freno en Ourense correcta para rama 012; frenada de emergencia acorde a ETI (deceleración 1,11 m/s²)",
+    "mantenimiento": "Plan PM.7300.10 aprobado y cumplido; último IS del 22-24/07/2013; IM1 el 16/05/2013; IM2 el 14/09/2012; kilometraje total 918.251 km; mantenimiento por Talgo y Btren en taller BM Madrid Fuencarral AV (habilitación Adif 13/06/2012); rodadura dentro de límites"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "BSL (bloqueo de señalización lateral); ERTMS/ETCS nivel 1 solo hasta PK 80+069 (sentido Santiago); ASFA Digital como sistema principal en el tramo del accidente (PK 80+069 a PK 85+000); señales E'7 (PK 80+619) y E7 (PK 84+176) en vía libre; señal fija de reducción de velocidad (cartelón) en PK 84+273; cartelón cambio modo ASFA en PK 80+803; cartelón RGC en PK 84+176; 3 pantallas de proximidad de E'7 (PK 80+086, 80+278, 80+398); NO había señalización fija de limitación de velocidad preventiva antes de la curva; NO había balizas ASFA en la curva de Angrois",
+    "tipo_via": "Doble vía",
+    "velocidad_maxima": "200 km/h con ASFA Digital (300 km/h por trazado según cuadro de velocidades máximas); 80 km/h en curva de Angrois (PK 84+230 a PK 85+000)",
+    "ancho": "Ibérico (1.668 mm) sobre traviesa polivalente PR-01",
+    "electrificacion": "25 kV CA",
+    "estado_via": "Buen estado: auscultación geométrica nov-2012 correcta (bache en PK 84+245 corregido dic-2012); auscultación dinámica 08/05/2013 correcta; mediciones in situ tras el accidente dentro de tolerancia (ancho de vía y peralte); carril nuevo 60E1 en servicio desde 2011",
+    "otro": "31 túneles y 35 viaductos (60% del trazado); curva de Angrois: radio 402 m, peralte 130 mm, transición inicial 202 m (clotoide A=283,8), circular 264 m, transición final 200 m; pendiente 12,5 milésimas en aproximación; rampa 8,6 milésimas en el punto de descarrilamiento; CTC gestionado desde CRC Atocha (excepto extremos); enclavamiento electrónico de Santiago (mando local en el momento del suceso); escape B1-B3 (PK 84+892/84+983); desvío B5 (PK 85+011)"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Buenas condiciones meteorológicas, de día",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "A Coruña",
+    "municipio": null,
+    "estacion": "Santiago de Compostela"
+   },
+   "pagina": 7,
+   "cita": "Torre (Ourense) - Bifurcación A Grandeira (A Coruña) aguja km 85,0, en las proximidades de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Buenas condiciones meteorológicas, de día",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "BSL (bloqueo de señalización lateral); ERTMS/ETCS nivel 1 solo hasta PK 80+069 (sentido Santiago); ASFA Digital como sistema principal en el tramo del accidente (PK 80+069 a PK 85+000); señales E'7 (PK 80+619) y E7 (PK 84+176) en vía libre; señal fija de reducción de velocidad (cartelón) en PK 84+273; cartelón cambio modo ASFA en PK 80+803; cartelón RGC en PK 84+176; 3 pantallas de proximidad de E'7 (PK 80+086, 80+278, 80+398); NO había señalización fija de limitación de velocidad preventiva antes de la curva; NO había balizas ASFA en la curva de Angrois",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "BSL (bloqueo de señalización lateral); ERTMS/ETCS nivel 1 solo hasta PK 80+069 (sentido Santiago); ASFA Digital como sistema principal en el tramo del accidente (PK 80+069 a PK 85+000); señales E'7 (PK 80+619) y E7 (PK 84+176) en vía libre; señal fija de reducción de velocidad (cartelón) en PK 84+273; cartelón cambio modo ASFA en PK 80+803; cartelón RGC en PK 84+176; 3 pantallas de proximidad de E'7 (PK 80+086, 80+278, 80+398); NO había señalización fija de limitación de velocidad preventiva antes de la curva; NO había balizas ASFA en la curva de Angrois",
+    "tipo_via": "Doble vía",
+    "velocidad_maxima": "200 km/h con ASFA Digital (300 km/h por trazado según cuadro de velocidades máximas); 80 km/h en curva de Angrois (PK 84+230 a PK 85+000)",
+    "ancho": "Ibérico (1.668 mm) sobre traviesa polivalente PR-01",
+    "electrificacion": "25 kV CA",
+    "estado_via": "Buen estado: auscultación geométrica nov-2012 correcta (bache en PK 84+245 corregido dic-2012); auscultación dinámica 08/05/2013 correcta; mediciones in situ tras el accidente dentro de tolerancia (ancho de vía y peralte); carril nuevo 60E1 en servicio desde 2011",
+    "otro": "31 túneles y 35 viaductos (60% del trazado); curva de Angrois: radio 402 m, peralte 130 mm, transición inicial 202 m (clotoide A=283,8), circular 264 m, transición final 200 m; pendiente 12,5 milésimas en aproximación; rampa 8,6 milésimas en el punto de descarrilamiento; CTC gestionado desde CRC Atocha (excepto extremos); enclavamiento electrónico de Santiago (mando local en el momento del suceso); escape B1-B3 (PK 84+892/84+983); desvío B5 (PK 85+011)"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Se pueden distinguir dos ámbitos: comunicación entre el tren y el puesto de mando (exterior al tren) y \ncomunicaciones dentro del propio tren. \nCon respecto a las comunicaciones con el exterior del tren, en la línea 082 Bifurcación Coto da Torre - \nBifurcación A Grandeira aguja km 85,0, se dispone de comunicación mediante el sistema GSM-R (telefonía \nmóvil con banda reservada para el ferrocarril) entre el tren y el puesto de mando de Madrid-Atocha.  \nEn los accesos a Ourense y Santiago de Compostela, desde la línea 082, se dispone de sistema de \nradiotelefonía (tren-tierra) que comunica el tren con el puesto de mando de Ourense. \nCon respecto a las comunicaciones interiores del tren, se dispone de telefonía interior para la \ncomunicación del maquinista con la tripulación. También el personal de servicio en el tren (interventor \ny maquinista) cuenta con teléfono móvil corporativo, lo que les permite comunicarse entre ellos y \ntambién con el exterior, de forma limitada, en caso necesario. \n\n## Página 23\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente grave \nnº 0054/2013 ocurrido el 24.07.2013 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-240713-200514-CIAF \n \nPág. 23 de 266",
+   "pagina": 22,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "S-730 (rama 730.012), transformación de S-130, consorcio Talgo-Bombardier, 13 vehículos (2 cabezas motrices, 2 CET, 8 coches viajeros, 1 cafetería), 264 plazas, 185 m longitud, 382 Tn, 22 ejes, rodadura desplazable",
+    "averia": "Problemas de fiabilidad/disponibilidad con ERTMS (versión 3.1.0.1 Bombardier incompatible con versión Thales en vía); desde junio 2012 autorizado a circular solo con ASFA Digital en línea 082; libro de averías: test válvula blending con errores (22/07, pendiente), convertidor 2 desconectado (22/07, reparado), remolque marca frenado sin estarlo (05/07 y 19/07, no reproducido en taller); 1 eje con freno anulado en Madrid (no afectaba a rama 012); prueba de freno en Ourense correcta para rama 012; frenada de emergencia acorde a ETI (deceleración 1,11 m/s²)",
+    "mantenimiento": "Plan PM.7300.10 aprobado y cumplido; último IS del 22-24/07/2013; IM1 el 16/05/2013; IM2 el 14/09/2012; kilometraje total 918.251 km; mantenimiento por Talgo y Btren en taller BM Madrid Fuencarral AV (habilitación Adif 13/06/2012); rodadura dentro de límites"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Exceso de velocidad en curva",
+    "Falta de atención del maquinista"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Según informe de Renfe Operadora, el maquinista titular del tren 150/151 siniestrado pertenece a la \nresidencia de A Coruña.  \nEl día 24 de julio de 2013 había comenzado su jornada laboral a las 11:55 h en A Coruña, desde donde \nviajó sin servicio hasta Pontevedra. A las 14:42 h comenzó a realizar labores propias del servicio de \nconducción con un tren Alvia 252, con origen Pontevedra y destino Madrid-Chamartín, realizando su \nconducción hasta Ourense, a donde llega a las 16:49 h. Allí permanece hasta las 20:05 h, en que inicia \nel servicio de conducción con el tren accidentado. \nAsí pues, hasta el momento del siniestro, la jornada de trabajo había sido de 8 horas y 47 minutos, y \nel tiempo efectivo de conducción de 2 horas y 44 minutos. En las 48 horas anteriores había disfrutado \ndel descanso reglamentario. \nEl Real Decreto 2387/2004 por el que se aprueba el Reglamento del Sector Ferroviario, en su \ndisposición adicional 11, establece un periodo máximo de conducción continuada de seis horas y de \nconducción diaria de nueve. \nAsimismo, el Real Decreto 1561/1995 de 21 de septiembre sobre jornadas especiales de trabajo, \nestablece una jornada máxima de trabajo de 12 horas y un periodo mínimo de descanso semanal de \ndía y medio. En la sección correspondiente a transporte ferroviario establece un máximo de nueve \nhoras ordinarias de trabajo efectivo, pudiéndose superar excepcionalmente. \n\n## Página 93\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente grave \nnº 0054/2013 ocurrido el 24.07.2013 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-240713-200514-CIAF \n \nPág. 93 de 266 \nTambién es de aplicación el II Convenio Colectivo de Renfe Operadora que, en el Acuerdo de \ndesarrollo profesional (parte relativa a la conducción), recoge la jornada diaria de trabajo, cifrándola \nen ocho horas, pudiendo alcanzar las nueve y media en casos concretos. En dicho acuerdo se hace \nreferencia a lo establecido en la regulación de Agente Único de Conducción (del Texto Refundido de la \nNormativa Laboral de Renfe, artículo 606) que concreta lo relativo a tiempos máximos de conducción \ncontinuada, que la cifra en cinco horas y media. \nTodos los periodos (jornada laboral, conducción y descanso) realizados por el maquinista están dentro \nde la normativa vigente.",
+   "pagina": 92,
+   "cita": "3.6.1. Tiempo de trabajo del personal implicado",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": "Se desconocen las circunstancias médicas y personales del maquinista el día del suceso. No obstante, \nen las dos declaraciones realizadas en sede judicial no aduce nada al respecto. Sólo indica que \ncirculaba tranquilo. \nAsimismo, se solicitó desde la CIAF al Juzgado de Instrucción nº 3 de Santiago de Compostela los \nresultados de las pruebas de alcohol y drogas realizadas al maquinista tras el accidente. Según consta \nen la documentación remitida, se obtuvieron muestras de suero y plasma el 24 de julio de 2013 a las \n23:15 h y el 25 de julio de 2013 a las 21:08 h.  \nEl análisis químico-toxicológico realizado sobre alcohol, drogas y medicamentos arrojó resultado negativo.",
+   "pagina": 93,
+   "cita": "3.6.2. Circunstancias médicas y personales",
+   "origen": "determinista",
+   "regla": "sec:^circunstancias medicas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren Alvia 150/151 de Renfe Operadora, compuesto por la rama 730.012 (13 vehículos, 264 plazas), salió de Madrid-Chamartín a las 15:00 h en doble composición con destino Ferrol. Tras parada comercial en Ourense (llegada ~19:51-19:55 h), se desacopló la rama 012, cambió de maquinista y salió a las 20:05:13 h con cuatro minutos de retraso. Recorrió los primeros 78 km de la línea 082 a ~200 km/h con ASFA Digital en servicio y todas las señales en vía libre. Aproximadamente 6.000 m antes del inicio de la curva de Angrois (PK 84+228, limitada a 80 km/h), el maquinista respondió una llamada telefónica de servicio del interventor del tren sobre la parada en Puentedeume. La conversación duró 100 segundos (20:39:15-20:40:55 h), durante los cuales el tren recorrió 5.540 m sin que el maquinista iniciara la frenada en la señal avanzada E'7 (PK 80+619), su punto habitual de referencia para reducir velocidad. Tampoco efectuó el cambio de modo ASFA (alta velocidad a convencional) al pasar por el cartelón del PK 80+803. Al terminar la llamada, ya muy próximo a la señal de entrada E7 (PK 84+176), aplicó el freno de emergencia a 195 km/h. El tren entró en la curva de radio 402 m a ~191 km/h y descarriló en el PK 84+413 a 179 km/h. Los trece vehículos quedaron descarrilados y fuera de la vía 1, separados en tres grupos. Se incendió el coche extremo técnico (CET) de cola y uno de los coches del último grupo fue desplazado por encima del muro de contención hasta un camino adyacente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Exceso de velocidad del tren (circulaba a 179 km/h) en la curva de entrada a Bifurcación A Grandeira (curva de Angrois, limitada a 80 km/h), por no respetar el personal de conducción lo prescrito en el Libro Horario del tren 150/151 y en el Cuadro de Velocidades Máximas de la línea 082",
+   "pagina": 7,
+   "cita": "Conclusión: La causa del accidente fue un exceso de velocidad del tren (circulaba a 179 km/h) en la",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Falta de atención del maquinista al responder una llamada telefónica de servicio del interventor (100 s), lo que motivó la no aplicación del freno en el momento oportuno para reducir la velocidad antes de la curva",
+    "Ausencia de señalización fija de limitación de velocidad preventiva en la vía para el cambio brusco de velocidad (de 300/200 a 80 km/h)",
+    "Ausencia de balizas ASFA en la curva de Angrois que pudieran controlar la velocidad y provocar frenado automático",
+    "El ERTMS/ETCS no cubría el tramo del accidente (finalizaba en PK 80+069), por lo que no existía supervisión automática de velocidad en la curva",
+    "La conversación telefónica fue excesiva y reiterativa (100 s, sin ser emergencia), y no se realizó por los interfonos interiores del tren",
+    "El maquinista no efectuó el cambio de modo ASFA (alta velocidad a convencional) al pasar por el cartelón del PK 80+803"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "La comunicación entre el maquinista y el puesto de mando se recoge en el Capítulo 15 del Manual de \nCirculación. Ésta se puede establecer por radiotelefonía (tren-tierra) y desde el establecimiento de \nlíneas de alta velocidad por telefonía móvil (GSM-R), como es el caso de la línea 082. \nCon respecto al uso de teléfonos móviles por parte del personal de conducción, la reglamentación \nexistente es el Aviso nº 102 de la extinta RENFE y la ficha de información al maquinista (FIM) nº 3 de \nRenfe Operadora. \nEl aviso es un documento que se publica con objeto de poner en conocimiento del personal de \ncirculación informaciones necesarias para este fin. No tiene carácter normativo.  \nEl Aviso nº 102 de la Dirección de Protección Civil y Seguridad en la Circulación de 21 de abril de 1997, \nrecuerda que, debido a la proliferación de medios de comunicación en cabina, el maquinista utilizará \nde forma prioritaria el sistema de radiotelefonía [tren-tierra] y llevará desconectado cualquier otro \nmedio de comunicación particular. \nPor otro lado, la Oficina Técnica del Factor Humano de Renfe Operadora, creada en 2010, tiene \ncomo finalidad estudiar los riesgos del factor humano y su mitigación, centrados fundamentalmente \nen la conducción. Para ello estudia los errores más frecuentes (reales y potenciales) y los da a \nconocer a los interesados (principalmente maquinistas), trasladando también las recomendaciones \n\n## Página 92\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente grave \nnº 0054/2013 ocurrido el 24.07.2013 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-240713-200514-CIAF \n \nPág. 92 de 266 \noportunas para paliarlos en lo posible. Toda esta información se recoge en fichas “FIM” que, \nposteriormente, alimentan la denominada “Guía de buenas prácticas en la conducción”. Se trata de \ndocumentación de carácter informativo, sin tampoco tener nivel reglamentario o normativo. \nHabida cuenta con el tiempo de la masiva utilización de los teléfonos móviles y otros aparatos \nelectrónicos, y que se han incorporado profusamente en la actividad laboral, la ficha FIM nº 3: “El uso \nseguro de teléfono móvil en la conducción” de 18 de julio de 2011, recoge como posible riesgo la \nutilización de teléfonos móviles y otros dispositivos de comunicación, recomendando la manera de \nhacer un uso adecuado de los mismos. \nEn dicha ficha se dice que a partir del primer minuto de conversación, la persona se implica más en la \nmisma, relegando la conducción a un segundo lugar, no procesando la información. Entre otras \nrecomendaciones se indica que cuando sea necesario hacer uso del teléfono móvil se limite la \nconversación a lo estrictamente necesario. \nEn el anejo 3.5.3 aparecen el Aviso nº 102 y la ficha FIM nº3.  \n3.6. \nINTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "pagina": 91,
+   "cita": "3.5.3. Normativa relativa a las comunicaciones en cabina",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Normativizar que todas las reducciones de velocidad a partir de un cierto rango estén señalizadas en la vía con señales fijas de limitación de velocidad.",
+    "Para estas situaciones (reducciones significativas de velocidad), gestionar la implantación progresiva de balizas que puedan ayudar a controlar la velocidad de los trenes, de modo que se produzca su frenado en el caso de que se pueda llegar a rebasar la velocidad máxima con la que debe ingresar en el tramo siguiente. Para ello, impulsar los desarrollos tecnológicos necesarios del sistema ASFA Digital.",
+    "Reforzar los procedimientos establecidos en el SGS de Renfe Operadora para que las deficiencias relacionadas con la seguridad que se detecten en cualquier estamento se reconduzcan hacia los canales funcionalmente establecidos para su análisis y consideración, asegurando así una eficaz gestión preventiva.",
+    "Normativizar que todas las reducciones de velocidad a partir de un cierto rango estén señalizadas en la vía con señales fijas de limitación de velocidad.",
+    "Para estas situaciones (reducciones significativas de velocidad), gestionar la implantación progresiva de balizas que puedan ayudar a controlar la velocidad de los trenes, de modo que se produzca su frenado en el caso de que se pueda llegar a rebasar la velocidad máxima con la que debe ingresar en el tramo siguiente. Para ello, impulsar los desarrollos tecnológicos necesarios del sistema ASFA Digital."
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif",
+    "Renfe Operadora",
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "15:00",
+     "evento": "Salida del tren 150/151 de Madrid-Chamartín en doble composición (ramas 012 y 013)"
+    },
+    {
+     "hora": "19:51",
+     "evento": "Llegada prevista a Ourense según libro horario (real ~19:55 h); parada comercial, desacoplamiento de ramas, cambio de maquinista"
+    },
+    {
+     "hora": "20:01",
+     "evento": "Salida prevista de Ourense según libro horario"
+    },
+    {
+     "hora": "20:02:04",
+     "evento": "Comunicación GSM-R del maquinista al CRC de Atocha (toma de servicio, 51 s)"
+    },
+    {
+     "hora": "20:04:34",
+     "evento": "Primera llamada del interventor al maquinista (35 s, saludo e identificación)"
+    },
+    {
+     "hora": "20:05:13",
+     "evento": "Inicio de marcha desde Ourense (4 min de retraso)"
+    },
+    {
+     "hora": "20:05:36",
+     "evento": "Segunda llamada del interventor (15 s, confirmación bloqueo de puertas)"
+    },
+    {
+     "hora": "20:08:54",
+     "evento": "Inicio grabación de audio; presencia del maquinista fuera de servicio en cabina"
+    },
+    {
+     "hora": "20:09:29",
+     "evento": "Cambio de modo ASFA Convencional a Alta Velocidad (PK ~9+, a 98 km/h)"
+    },
+    {
+     "hora": "20:12:01",
+     "evento": "Salida del maquinista fuera de servicio de cabina"
+    },
+    {
+     "hora": "20:15:21",
+     "evento": "1ª activación del freno de emergencia por hombre muerto (HM) a 110 km/h (PK 8+889)"
+    },
+    {
+     "hora": "20:17:05",
+     "evento": "2ª activación del freno de emergencia por HM a 109 km/h (PK ~10+857)"
+    },
+    {
+     "hora": "20:17:42",
+     "evento": "1ª llamada telefónica en movimiento (maquinista saliente); conversación 46 s"
+    },
+    {
+     "hora": "20:23:47",
+     "evento": "Velocidad se mantiene próxima a 200 km/h (máxima permitida con ASFA)"
+    },
+    {
+     "hora": "20:29:02",
+     "evento": "1er aviso acústico ASFA Digital por velocidad (sobrepaso 201,25 km/h), 47 s"
+    },
+    {
+     "hora": "20:30:33",
+     "evento": "2º aviso acústico ASFA Digital por velocidad (sobrepaso 201,25 km/h), 72 s"
+    },
+    {
+     "hora": "20:39:06",
+     "evento": "Sonido de aviso de 3ª llamada telefónica (interventor) (PK 77+780)"
+    },
+    {
+     "hora": "20:39:15",
+     "evento": "Inicio conversación telefónica interventor-maquinista (PK 78+280, 199 km/h)"
+    },
+    {
+     "hora": "20:39:52",
+     "evento": "Paso baliza previa E'7 (PK 80+319) en vía libre, 199 km/h"
+    },
+    {
+     "hora": "20:39:58",
+     "evento": "Paso señal avanzada E'7 (PK 80+619) en vía libre; no inicia frenada"
+    },
+    {
+     "hora": "20:40:01",
+     "evento": "Paso cartelón cambio modo ASFA (PK 80+803); no efectúa el cambio"
+    },
+    {
+     "hora": "20:40:55",
+     "evento": "Último sonido de voz del maquinista (PK 83+821, 195 km/h); fin conversación (100 s)"
+    },
+    {
+     "hora": "20:40:56",
+     "evento": "Paso baliza previa E7 (PK 83+876) en vía libre, 195 km/h"
+    },
+    {
+     "hora": "20:40:59",
+     "evento": "Aplicación del freno de emergencia (PK 84+009), 195 km/h"
+    },
+    {
+     "hora": "20:41:02",
+     "evento": "Paso baliza de señal E7 (PK 84+171) en vía libre, 195 km/h"
+    },
+    {
+     "hora": "20:41:03",
+     "evento": "Paso inicio curva Angrois (PK 84+228), ~191 km/h; supera señal fija reducción velocidad (PK 84+273)"
+    },
+    {
+     "hora": "20:41:06",
+     "evento": "Descarrilamiento (punto 0) en PK 84+413 a 179 km/h; inicio sonido de arrastre"
+    },
+    {
+     "hora": "20:41:16",
+     "evento": "Fin del descarrilamiento (PK 84+684); fin sonido de arrastre"
+    },
+    {
+     "hora": "20:42",
+     "evento": "Maquinista informa del accidente por GSM-R al CRC de Atocha"
+    },
+    {
+     "hora": "20:42:25",
+     "evento": "Conversación maquinista-CRC Atocha (32 s): informa descarrilamiento y vuelco"
+    },
+    {
+     "hora": "20:45",
+     "evento": "CGR24 de Adif informa al puesto de mando de León y CECON de Renfe"
+    },
+    {
+     "hora": "20:46:53",
+     "evento": "2ª conversación maquinista-CRC: 'se despistó, tenía que pasar a 80 y pasó a 190'"
+    },
+    {
+     "hora": "21:10:06",
+     "evento": "3ª conversación maquinista-CRC: 'no se puede recibir en vía libre con limitación a 80, es inhumano'"
+    },
+    {
+     "hora": "21:11",
+     "evento": "Jefe de Investigación de Adif comunica el accidente a la CIAF (llamada al secretario)"
+    },
+    {
+     "hora": "21:18",
+     "evento": "Mensaje SMS al resto del personal de la CIAF"
+    },
+    {
+     "hora": "21:20",
+     "evento": "Renfe y Adif inician plan alternativo de transporte"
+    },
+    {
+     "hora": "03:10",
+     "evento": "Juez autoriza acceso a zona del accidente a personal ajeno a emergencias (25/07)"
+    },
+    {
+     "hora": "05:00",
+     "evento": "Restablecida circulación por vía convencional (822) con marcha a la vista (26/07)"
+    },
+    {
+     "hora": "06:15",
+     "evento": "Suprimida limitación de velocidad por vía 2 (29/07)"
+    },
+    {
+     "hora": "07:25",
+     "evento": "Restablecida circulación por vía 1 con limitación 30 km/h (29/07)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0054/2013",
+ "expediente": "0054/13",
+ "anio": 2013,
+ "titulo": "Accidente grave ferroviario en las proximidades de la estación de Santiago de Compostela (A Coruña)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_240713_200514_CIAF.md"
+}

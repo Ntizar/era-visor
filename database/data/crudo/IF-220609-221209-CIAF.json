@@ -1,0 +1,883 @@
+{
+ "id": "IF-220609-221209-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/B4F9F883-F07E-4467-BFBB-B35B5B93D0A4/68861/IF220609221209CIAF.pdf",
+ "pdf": "pdfs/ES/IF-220609-221209-CIAF.pdf",
+ "md5_pdf": "7e8a75e8316f4f8f6b38c8170f868e0a",
+ "paginas_md": 11,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 18,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0028/2009",
+   "pagina": 1,
+   "cita": "nº 0028/2009 ocurrido el 22.06.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 22 de junio de 2009, a las 09:20, el tren de viajeros 5950 de Feve arrolló a un peatón en el paso a nivel clase C nº 236 de la estación de Infiesto (Asturias). La víctima cruzó con las barreras bajadas y pese a la actuación correcta de la sonería y de los indicadores luminosos. El maquinista usó el silbato y el freno de emergencia, pero no pudo evitar el impacto; el hombre falleció en el acto. No hubo daños en material rodante ni en infraestructura y la vía no resultó interceptada. El informe no establece recomendaciones.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-06-22",
+    "hora": "09:20",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Infiesto",
+     "pk": "P.K.361+975",
+     "linea": "21 Oviedo - Santander",
+     "provincia": "Asturias",
+     "descripcion_lugar": "Paso a nivel clase C, nº 236, situado dentro de la estación de Infiesto, en el tramo Oviedo - Llanes, término municipal de Piloña, Asturias. Está a la entrada de la estación, lado Santander, entre la señal de retroceso R2 y el desvío A2. Se encuentra en zona urbana, en la carretera AS-254, con pavimento de asfalto, y en la calle Camino Real que desemboca en el paso. Punto bastante transitado por vehículos y peatones."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 22 de junio de 2009, a las 9:20 horas, el tren de viajeros 5950 de Feve arrolla a una persona",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+    "afectacion_servicio": "La vía no resultó interceptada. El tren 5950 reanudó su marcha a las 09:24, tras permanecer parado 3 minutos y 23 segundos."
+   },
+   "pagina": 7,
+   "cita": "Daños materiales No se producen daños ni en el material rodante, ni en la infraestructura. Minutos perdidos. Interceptación de vía La vía no resultó interceptada y el tren 5950 reanudó su marcha a los 3 minutos y 23 s",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión del gálibo de la vía por la víctima al cruzar el paso a nivel cuando el tren estaba próximo, pese a que las barreras estaban bajadas, la sonería había actuado correctamente y los indicadores luminosos se encontraban activados.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones. \n \n \n \n \n \n \nMadrid, 22 de diciembre de 2009",
+   "pagina": 11,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones. Madrid, 22 de diciembre de 2009",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de peatón",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "El día 22 de junio de 2009, a las 9:20 horas, el tren de viajeros 5950 de Feve arrolla a una persona",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-06-22",
+   "pagina": 3,
+   "cita": "El día 22 de junio de 2009, a las 9:20 horas, el tren de viajeros 5950 de Feve arrolla a una persona",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "09:20",
+   "pagina": 3,
+   "cita": "22.06.09/ 09:20 Lugar: P.K.361+975, paso a nivel C, Nº 236 en la estación de Infiesto. Línea: 21 Oviedo - Santander Tramo: Oviedo - Llanes Municipio: Piloña Provincia: Asturias El tren de viajeros de 5950,",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Infiesto",
+    "pk": "P.K.361+975",
+    "linea": "21 Oviedo - Santander",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Paso a nivel clase C, nº 236, situado dentro de la estación de Infiesto, en el tramo Oviedo - Llanes, término municipal de Piloña, Asturias. Está a la entrada de la estación, lado Santander, entre la señal de retroceso R2 y el desvío A2. Se encuentra en zona urbana, en la carretera AS-254, con pavimento de asfalto, y en la calle Camino Real que desemboca en el paso. Punto bastante transitado por vehículos y peatones."
+   },
+   "pagina": 7,
+   "cita": "espera de la ambulancia. Mientras, estaciono la unidad en andén de Infiesto, hasta recibir orden de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "21 Oviedo - Santander",
+   "pagina": 3,
+   "cita": "21 Oviedo - Santander",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UTDE 2473 (cabeza) y UTDE 2423 (cola)",
+    "averia": "No se detectan averías. Los equipos de seguridad del tren, como freno y silbato, funcionaron correctamente. Velocidad registrada al aplicar el freno de emergencia: 38 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros 5950 de Feve, procedente de Llanes y con destino a Oviedo, arrolló a un hombre que cruzaba por el paso a nivel de clase C nº 236, situado dentro de la estación de Infiesto, lado Santander. La víctima cruzaba la vía de izquierda a derecha en el sentido de la marcha del tren, sorteando la barrera de la parte izquierda, correspondiente a la calle Camino Real. En el momento del arrollamiento, las barreras estaban bajadas y la sonería y los indicadores luminosos se encontraban activos.\n\nSegún el registrador de eventos del vehículo 2473, que circulaba en cabeza, a las 09:20:02 el maquinista reconoció la indicación en amarillo de la señal de entrada E4, lo que confirmaba que el paso a nivel estaba correctamente formado. A las 09:20:19, con el tren a 40 km/h, el maquinista actuó sobre el silbato. A las 09:20:22, a 38 km/h, aplicó el pulsador seta de emergencia, recorriendo 49 metros hasta la parada del tren, producida a las 09:20:35. La persona falleció en el acto como consecuencia del impacto y salió despedida hacia la parte derecha de vía, quedando fuera del gálibo.\n\nTras el arrollamiento, el agente comercial y de trenes quedó custodiando a la persona arrollada hasta la llegada del Samur, la Guardia Civil y la Policía Local de Infiesto. El tren reinició la marcha a las 09:24, tras estar parado 3 minutos y 23 segundos. El levantamiento del cadáver se produjo a las 10:15 por la autoridad competente. No se produjeron daños en el material rodante ni en la infraestructura, y la vía no resultó interceptada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Infiesto",
+    "pk": "P.K.361+975",
+    "linea": "21 Oviedo - Santander",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Paso a nivel clase C, nº 236, situado dentro de la estación de Infiesto, en el tramo Oviedo - Llanes, término municipal de Piloña, Asturias. Está a la entrada de la estación, lado Santander, entre la señal de retroceso R2 y el desvío A2. Se encuentra en zona urbana, en la carretera AS-254, con pavimento de asfalto, y en la calle Camino Real que desemboca en el paso. Punto bastante transitado por vehículos y peatones."
+   },
+   "pagina": 7,
+   "cita": "espera de la ambulancia. Mientras, estaciono la unidad en andén de Infiesto, hasta recibir orden de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+    "afectacion_servicio": "La vía no resultó interceptada. El tren 5950 reanudó su marcha a las 09:24, tras permanecer parado 3 minutos y 23 segundos."
+   },
+   "pagina": 7,
+   "cita": "Daños materiales No se producen daños ni en el material rodante, ni en la infraestructura. Minutos perdidos. Interceptación de vía La vía no resultó interceptada y el tren 5950 reanudó su marcha a los 3 minutos y 23 s",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 5950",
+     "implicacion": "Número CF 9447. Realizaba turno nº 21 del Depósito del Berrón. Observó a un peatón sorteando la barrera, usó el silbato y el freno de emergencia sin poder evitar el arrollamiento. Poseía título de conducción y habilitación vigente; último reciclaje formativo el 2008-09-18 y último reconocimiento médico y psicotécnico el 2009-04-06. Prueba de alcoholemia negativa: 0,00 mg/1000 ml. Jornada del día del accidente: 2 horas y 50 minutos, con 40 minutos de tiempo efectivo de conducción. Fue relevado del servicio al llegar a El Berrón."
+    },
+    {
+     "rol": "Agente comercial y de trenes",
+     "implicacion": "Acompañaba al maquinista. Tras el arrollamiento, quedó custodiando a la persona arrollada hasta la llegada del Samur, la Guardia Civil y la Policía Local de Infiesto, y el tren quedó estacionado en el andén hasta recibir orden de reanudar la marcha."
+    },
+    {
+     "rol": "Inspector General de Feve",
+     "implicacion": "Comunicó el accidente a la CIAF el 2009-06-22 a las 10:14 y entregó su informe particular el 2009-08-05."
+    },
+    {
+     "rol": "Peatón/víctima",
+     "implicacion": "Varón de 90 años. Cruzó por el paso a nivel de izquierda a derecha en el sentido de la marcha del tren, pasando por debajo de la barrera con intención de cruzar las vías. Falleció en el acto como consecuencia del impacto."
+    }
+   ],
+   "pagina": 7,
+   "cita": "La declaración realizada por el maquinista del tren 5950, el día 24 de junio, es la siguiente:",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "5950",
+     "tipo": "Tren de viajeros/cercanías diesel eléctrico, compuesto por UTDE 2473 en cabeza y UTDE 2423 en cola",
+     "operador": "Feve",
+     "danos": "No se producen daños en el material rodante."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 22 de junio de 2009, a las 9:20 horas, el tren de viajeros 5950 de Feve arrolla a una persona",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UTDE 2473 (cabeza) y UTDE 2423 (cola)",
+    "averia": "No se detectan averías. Los equipos de seguridad del tren, como freno y silbato, funcionaron correctamente. Velocidad registrada al aplicar el freno de emergencia: 38 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase C dotado de semibarreras enclavadas y señales acústicas y luminosas. Señal de entrada E4 en amarillo; señal de retroceso R2 y desvío A2 en el ámbito de entrada a estación, lado Santander.",
+    "tipo_via": "Vía única electrificada",
+    "velocidad_maxima": "60 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Vía no interceptada. El paso a nivel se cerró correctamente y permaneció cerrado por un tiempo no superior a 3 minutos hasta el arrollamiento; la inspección posterior comprobó su funcionamiento correcto.",
+    "otro": "Bloqueo automático (BAU) lado Oviedo y bloqueo telefónico (BT) lado Santander, lado del paso a nivel. Paso a nivel incluido en el cuadro de mando de la estación de Infiesto. Pavimento de asfalto en la carretera AS-254 y en la calle Camino Real. Radiotelefonía tren-tierra. Momento de circulación A(2.549) x T(48): 122.352 a fecha 2008-12-31."
+   },
+   "pagina": 6,
+   "cita": "La línea es de vía única electrificada, con bloqueo automático (BAU), lado Oviedo, y bloqueo",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso a nivel clase C dotado de semibarreras enclavadas y señales acústicas y luminosas. Señal de entrada E4 en amarillo; señal de retroceso R2 y desvío A2 en el ámbito de entrada a estación, lado Santander.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+    "afectacion_servicio": "La vía no resultó interceptada. El tren 5950 reanudó su marcha a las 09:24, tras permanecer parado 3 minutos y 23 segundos."
+   },
+   "pagina": 7,
+   "cita": "Daños materiales No se producen daños ni en el material rodante, ni en la infraestructura. Minutos perdidos. Interceptación de vía La vía no resultó interceptada y el tren 5950 reanudó su marcha a los 3 minutos y 23 s",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+    "afectacion_servicio": "La vía no resultó interceptada. El tren 5950 reanudó su marcha a las 09:24, tras permanecer parado 3 minutos y 23 segundos."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe final IF-220609-221209-CIAF Pág. 1 de 11 INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0028/2009 OCURRIDO EL DÍA 22.06.2009 EN EL",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se producen daños ni en el material rodante ni en la infraestructura.",
+    "afectacion_servicio": "La vía no resultó interceptada. El tren 5950 reanudó su marcha a las 09:24, tras permanecer parado 3 minutos y 23 segundos."
+   },
+   "pagina": 7,
+   "cita": "Daños materiales No se producen daños ni en el material rodante, ni en la infraestructura. Minutos perdidos. Interceptación de vía La vía no resultó interceptada y el tren 5950 reanudó su marcha a los 3 minutos y 23 s",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTDE 2473 (cabeza) y UTDE 2423 (cola)",
+    "averia": "No se detectan averías. Los equipos de seguridad del tren, como freno y silbato, funcionaron correctamente. Velocidad registrada al aplicar el freno de emergencia: 38 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase C dotado de semibarreras enclavadas y señales acústicas y luminosas. Señal de entrada E4 en amarillo; señal de retroceso R2 y desvío A2 en el ámbito de entrada a estación, lado Santander.",
+    "tipo_via": "Vía única electrificada",
+    "velocidad_maxima": "60 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Vía no interceptada. El paso a nivel se cerró correctamente y permaneció cerrado por un tiempo no superior a 3 minutos hasta el arrollamiento; la inspección posterior comprobó su funcionamiento correcto.",
+    "otro": "Bloqueo automático (BAU) lado Oviedo y bloqueo telefónico (BT) lado Santander, lado del paso a nivel. Paso a nivel incluido en el cuadro de mando de la estación de Infiesto. Pavimento de asfalto en la carretera AS-254 y en la calle Camino Real. Radiotelefonía tren-tierra. Momento de circulación A(2.549) x T(48): 122.352 a fecha 2008-12-31."
+   },
+   "pagina": 6,
+   "cita": "La línea es de vía única electrificada, con bloqueo automático (BAU), lado Oviedo, y bloqueo",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Soleado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Asturias",
+    "municipio": null,
+    "estacion": "Infiesto"
+   },
+   "pagina": 3,
+   "cita": "que cruzaba por un paso a nivel tipo C en Infiesto (Asturias) cuando estaban las barreras bajadas.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Soleado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso a nivel clase C dotado de semibarreras enclavadas y señales acústicas y luminosas. Señal de entrada E4 en amarillo; señal de retroceso R2 y desvío A2 en el ámbito de entrada a estación, lado Santander.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase C dotado de semibarreras enclavadas y señales acústicas y luminosas. Señal de entrada E4 en amarillo; señal de retroceso R2 y desvío A2 en el ámbito de entrada a estación, lado Santander.",
+    "tipo_via": "Vía única electrificada",
+    "velocidad_maxima": "60 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Vía no interceptada. El paso a nivel se cerró correctamente y permaneció cerrado por un tiempo no superior a 3 minutos hasta el arrollamiento; la inspección posterior comprobó su funcionamiento correcto.",
+    "otro": "Bloqueo automático (BAU) lado Oviedo y bloqueo telefónico (BT) lado Santander, lado del paso a nivel. Paso a nivel incluido en el cuadro de mando de la estación de Infiesto. Pavimento de asfalto en la carretera AS-254 y en la calle Camino Real. Radiotelefonía tren-tierra. Momento de circulación A(2.549) x T(48): 122.352 a fecha 2008-12-31."
+   },
+   "pagina": 6,
+   "cita": "La línea es de vía única electrificada, con bloqueo automático (BAU), lado Oviedo, y bloqueo",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTDE 2473 (cabeza) y UTDE 2423 (cola)",
+    "averia": "No se detectan averías. Los equipos de seguridad del tren, como freno y silbato, funcionaron correctamente. Velocidad registrada al aplicar el freno de emergencia: 38 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "peatón sortea barrera del paso",
+    "peatón cruza con barreras bajadas",
+    "víctima invade gálibo de vía",
+    "tren se aproxima al paso"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros 5950 de Feve, procedente de Llanes y con destino a Oviedo, arrolló a un hombre que cruzaba por el paso a nivel de clase C nº 236, situado dentro de la estación de Infiesto, lado Santander. La víctima cruzaba la vía de izquierda a derecha en el sentido de la marcha del tren, sorteando la barrera de la parte izquierda, correspondiente a la calle Camino Real. En el momento del arrollamiento, las barreras estaban bajadas y la sonería y los indicadores luminosos se encontraban activos.\n\nSegún el registrador de eventos del vehículo 2473, que circulaba en cabeza, a las 09:20:02 el maquinista reconoció la indicación en amarillo de la señal de entrada E4, lo que confirmaba que el paso a nivel estaba correctamente formado. A las 09:20:19, con el tren a 40 km/h, el maquinista actuó sobre el silbato. A las 09:20:22, a 38 km/h, aplicó el pulsador seta de emergencia, recorriendo 49 metros hasta la parada del tren, producida a las 09:20:35. La persona falleció en el acto como consecuencia del impacto y salió despedida hacia la parte derecha de vía, quedando fuera del gálibo.\n\nTras el arrollamiento, el agente comercial y de trenes quedó custodiando a la persona arrollada hasta la llegada del Samur, la Guardia Civil y la Policía Local de Infiesto. El tren reinició la marcha a las 09:24, tras estar parado 3 minutos y 23 segundos. El levantamiento del cadáver se produjo a las 10:15 por la autoridad competente. No se produjeron daños en el material rodante ni en la infraestructura, y la vía no resultó interceptada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar en el paso a nivel clase C, situado en la estación de Infiesto (Asturias). \nEl paso a nivel se encuentra en el P.K. 361+975, a la entrada de la estación, lado Santander. \nSegún el registrador de eventos del vehículo 2473, que circulaba en cabeza de la composición del \ntren 5950: \n• \nA las 9:20:02 horas, el maquinista del tren 5950 reconoce la indicación en amarillo de la \nseñal de entrada E4, lo que confirma que el paso a nivel está correctamente formado. \n• \nA las 9:20:19 horas, cuando la velocidad del tren era de 40 km/h, el maquinista actuó \nsobre el silbato. \n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0028/2009 ocurrido el 22.06.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-220609-221209-CIAF \n \n \nPág. 10 de 11\n• \nA las 9:20:22 horas, el maquinista aplicó el pulsador seta de emergencia, siendo la \nvelocidad del tren de 38 km/h, recorriendo 49 metros hasta la parada del tren, que se \nprodujo a las 9:20:35 horas. \n \n4.2 DELIBERACIÓN \nSegún el registrador de eventos del vehículo 2473, que circulaba en cabeza de la composición del \ntren 5950, la velocidad del tren era de 38 km/h en el momento de actuar sobre el freno de \nemergencia. En ese tramo existe una limitación permanente de velocidad de 60km/h, por lo que la \nvelocidad del tren era correcta. \nEl maquinista actuó correctamente, pues hace uso del silbato y seguidamente del freno de \nemergencia.  \nLos equipos de seguridad del tren (freno, silbato, etc.) funcionaron correctamente. \nEl paso a nivel estaba correctamente formado. \nLa jornada laboral del maquinista cumple lo establecido en el XVIII Convenio Colectivo de Feve. \n \n4.3 CONCLUSIONES \nPor tanto, vista la descripción de los hechos, y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como el informe particular de Feve, el técnico responsable de \nla investigación concluye que: \nEl arrollamiento se produce a consecuencia de la invasión del gálibo de la vía por la víctima, \ncuando el tren estaba próximo al paso a nivel, pese a que las barreras estaban bajadas, la sonería \nhabía actuado correctamente y los indicadores luminosos se encontraban activados. \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0028/2009 ocurrido el 22.06.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-220609-221209-CIAF \n \n \nPág. 11 de 11",
+   "pagina": 9,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión del gálibo de la vía por la víctima al cruzar el paso a nivel cuando el tren estaba próximo, pese a que las barreras estaban bajadas, la sonería había actuado correctamente y los indicadores luminosos se encontraban activados.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "peatón sortea barrera del paso",
+    "peatón cruza con barreras bajadas",
+    "víctima invade gálibo de vía",
+    "tren se aproxima al paso"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos, y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como el informe particular de Feve, el técnico responsable de \nla investigación concluye que: \nEl arrollamiento se produce a consecuencia de la invasión del gálibo de la vía por la víctima, \ncuando el tren estaba próximo al paso a nivel, pese a que las barreras estaban bajadas, la sonería \nhabía actuado correctamente y los indicadores luminosos se encontraban activados. \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0028/2009 ocurrido el 22.06.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-220609-221209-CIAF \n \n \nPág. 11 de 11",
+   "pagina": 10,
+   "cita": "4.3 CONCLUSIONES Por tanto, vista la descripción de los hechos, y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como el informe particular de Feve, el técnico responsable d",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos, y teniendo en cuenta las consideraciones anteriores, \nlas declaraciones de los implicados, así como el informe particular de Feve, el técnico responsable de \nla investigación concluye que: \nEl arrollamiento se produce a consecuencia de la invasión del gálibo de la vía por la víctima, \ncuando el tren estaba próximo al paso a nivel, pese a que las barreras estaban bajadas, la sonería \nhabía actuado correctamente y los indicadores luminosos se encontraban activados. \n\n## Página 11\n\n \n \n \nInvestigación del accidente \nnº 0028/2009 ocurrido el 22.06.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \n \nIF-220609-221209-CIAF \n \n \nPág. 11 de 11",
+   "pagina": 10,
+   "cita": "4.3 CONCLUSIONES Por tanto, vista la descripción de los hechos, y teniendo en cuenta las consideraciones anteriores, las declaraciones de los implicados, así como el informe particular de Feve, el técnico responsable d",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones. \n \n \n \n \n \n \nMadrid, 22 de diciembre de 2009",
+   "pagina": 11,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones. Madrid, 22 de diciembre de 2009",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "09:20",
+     "evento": "2009-06-22. El tren de viajeros 5950 de Feve arrolla a un peatón en el paso a nivel clase C nº 236 de la estación de Infiesto, con barreras bajadas, sonería y indicadores luminosos activos."
+    },
+    {
+     "hora": "09:20",
+     "evento": "Según el registrador de eventos del vehículo 2473, a las 09:20:02 el maquinista reconoce la indicación en amarillo de la señal de entrada E4, confirmando que el paso a nivel está correctamente formado."
+    },
+    {
+     "hora": "09:20",
+     "evento": "A las 09:20:19, con el tren a 40 km/h, el maquinista actúa sobre el silbato al observar al peatón sorteando la barrera."
+    },
+    {
+     "hora": "09:20",
+     "evento": "A las 09:20:22, con el tren a 38 km/h, el maquinista aplica el pulsador seta de emergencia; recorre 49 metros hasta la parada del tren, producida a las 09:20:35."
+    },
+    {
+     "hora": "09:24",
+     "evento": "El tren reinicia la marcha tras permanecer parado 3 minutos y 23 segundos en el lugar del arrollamiento."
+    },
+    {
+     "hora": "10:14",
+     "evento": "El Inspector General de Feve comunica a la CIAF, mediante mensaje de telefonía móvil, el arrollamiento de una persona en el paso a nivel clase C de Infiesto con barreras bajadas."
+    },
+    {
+     "hora": "10:15",
+     "evento": "La autoridad competente procede al levantamiento del cadáver."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0028/2009",
+ "expediente": "0028/09",
+ "anio": 2009,
+ "titulo": "Arrollamiento de un peatón en el paso a nivel de Infiesto (Asturias)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-220609-221209-CIAF.md"
+}

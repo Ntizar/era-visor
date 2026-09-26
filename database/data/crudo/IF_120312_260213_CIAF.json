@@ -1,0 +1,1000 @@
+{
+ "id": "IF_120312_260213_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/7FC043DA-534D-4679-B84C-85DA0E008E62/116447/IF120312260213CIAF.pdf",
+ "pdf": "pdfs/ES/IF_120312_260213_CIAF.pdf",
+ "md5_pdf": "fd59e14ca4c4c2a7602ed83926a88f38",
+ "paginas_md": 18,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 16,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "22/12-1",
+     "Recomendación": "Transmitir, tanto a los responsables de la circulación de trenes como a los responsables de los trabajos en vía, la necesidad de aplicar estrictamente los artículos del RGC que los contemplan."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "22/12-2",
+     "Recomendación": "Establecer un programa de prevención del fallo humano en las materias relacionadas con los trabajos en vía, destinado al personal de circulación (incluido el puesto de mando) y al personal de infraestructura (propio y externo)."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 18,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "22/12-1",
+     "Recomendación": "Transmitir, tanto a los responsables de la circulación de trenes como a los responsables de los trabajos en vía, la necesidad de aplicar estrictamente los artículos del RGC que los contemplan."
+    },
+    {
+     "Destinatario final": "Adif",
+     "Número": "22/12-2",
+     "Recomendación": "Establecer un programa de prevención del fallo humano en las materias relacionadas con los trabajos en vía, destinado al personal de circulación (incluido el puesto de mando) y al personal de infraestructura (propio y externo)."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0022/2012",
+   "pagina": 1,
+   "cita": "nº 0022/2012 ocurrido el 12.03.2012",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 12 de marzo de 2012, a las 11:30, el tren de larga distancia 222 de Renfe Operadora (Madrid Chamartín–Cartagena) colisionó con una señal cuadrada de parada, una motoclavadora y herramientas manuales que se encontraban en la vía 2 de la estación de Socuéllamos, donde se realizaban trabajos de sustitución del cruzamiento del desvío nº 8. El accidente se originó por un fallo humano del personal de circulación, que estableció un itinerario de paso directo por la vía 2 para el tren 222 mientras se ejecutaban trabajos en esa misma vía, y por el encargado de los trabajos, que no adoptó las medidas de seguridad pertinentes. No hubo víctimas mortales ni heridos. Los daños materiales se valoraron en 40.321,06 € (infraestructura y material rodante). La vía 2 quedó interceptada hasta las 13:30.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2012-03-12",
+    "hora": "11:30",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Socuéllamos",
+     "pk": "188+690",
+     "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+     "provincia": "Ciudad Real",
+     "descripcion_lugar": "Vía 2 de la estación de Socuéllamos, a la altura del desvío/cambio nº 8 que da acceso a la vía 4 (vía de apartado). Estación con 4 vías (2 generales y 2 de apartado), tramo de vía doble electrificada de ancho convencional con bloqueo automático banalizado (BAB) sin CTC y enclavamiento electrónico. Tramo Alcázar de San Juan – Socuéllamos."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 12 de marzo de 2012, a las 11:30 horas, el tren de viajeros 222 de Renfe Operadora,",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: daños en equipos de soldadura, herramientas de mano y diversa maquinaria-herramienta para trabajos en vía, valorados en 17.347,49 €. Material rodante: daños en quitarreses, enchufe de calefacción, peldaño de elemento fusible, soporte vertical de radar, topes de cabina 1, cables de motores de tracción, paquetes elásticos, soportes de arenero, captadores de ASFA, faros de posición y manga de TDP, valorados en 22.973,57 €. Total: 40.321,06 €.",
+    "afectacion_servicio": "Vía 2 interceptada por restos del arrollamiento hasta las 13:30 (2 horas). 8 trenes de Renfe Operadora sufrieron retraso: 5 de larga distancia (159 minutos) y 3 de media distancia (139 minutos). El tren 222 reanudó marcha a las 13:08 hacia Murcia con velocidad máxima 140 km/h por avería ASFA; viajeros trasladados en autobús hasta Cartagena."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del personal de circulación (responsable de circulación de Socuéllamos) al establecer un itinerario de paso directo por la vía 2 para el tren 222 cuando se estaban realizando trabajos en esa misma vía, en lugar de desviarlo a la vía 1 por el escape 2-4 como se había acordado con el PM de Valencia.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Fallo humano del encargado de los trabajos al no tomar las medidas de seguridad pertinentes: retiró el útil de cortocircuitado a las 11:00 pero los operarios continuaban trabajando en el amolado de soldaduras en vía 2, incumpliendo el artículo 343 puntos 2 y 3 del RGC.",
+    "El encargado de los trabajos no entregó el boletín de autorización de trabajos al responsable de circulación, como es preceptivo según el artículo 271 punto 2 del RGC.",
+    "El responsable de circulación no reclamó el boletín de autorización de trabajos al encargado.",
+    "La 'condición' impuesta por el PM de Valencia (liberar el circuito sobre las 11:00 para pasar el tren 222) redujo el nivel de seguridad en el que se debían realizar los trabajos autorizados.",
+    "El responsable de circulación se encontraba realizando operaciones de venta de billetes en el momento del suceso.",
+    "Las señales de avanzada, entrada y salida se encontraban en indicación de vía libre, lo que no alertó al maquinista del tren 222 de la ocupación de la vía."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Fallo en la aplicación estricta de los artículos del Reglamento General de Circulación (RGC) relativos a los trabajos en vía y a la protección de los mismos.",
+    "Necesidad de un programa de prevención del fallo humano en materias relacionadas con los trabajos en vía, tanto para personal de circulación como para personal de infraestructura.",
+    "La condición impuesta por el puesto de mando para autorizar trabajos en vía puede reducir el nivel de seguridad si no se gestiona adecuadamente la coexistencia de trabajos y circulación."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Transmitir, tanto a los responsables de la circulación de trenes como a los responsables de los trabajos en vía, la necesidad de aplicar estrictamente los artículos del RGC que los contemplan.",
+    "Establecer un programa de prevención del fallo humano en las materias relacionadas con los trabajos en vía, destinado al personal de circulación (incluido el puesto de mando) y al personal de infraestructura (propio y externo).",
+    "Transmitir, tanto a los responsables de la circulación de trenes como a los responsables de los trabajos en vía, la necesidad de aplicar estrictamente los artículos del RGC que los contemplan.",
+    "Establecer un programa de prevención del fallo humano en las materias relacionadas con los trabajos en vía, destinado al personal de circulación (incluido el puesto de mando) y al personal de infraestructura (propio y externo)."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif",
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Accidente ferroviario",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "El día 12 de marzo de 2012, a las 11:30 horas, el tren de viajeros 222 de Renfe Operadora,",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2012-03-12",
+   "pagina": 3,
+   "cita": "El día 12 de marzo de 2012, a las 11:30 horas, el tren de viajeros 222 de Renfe Operadora,",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "11:30",
+   "pagina": 3,
+   "cita": "El día 12 de marzo de 2012, a las 11:30 horas, el tren de viajeros 222 de Renfe Operadora,",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Socuéllamos",
+    "pk": "188+690",
+    "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+    "provincia": "Ciudad Real",
+    "descripcion_lugar": "Vía 2 de la estación de Socuéllamos, a la altura del desvío/cambio nº 8 que da acceso a la vía 4 (vía de apartado). Estación con 4 vías (2 generales y 2 de apartado), tramo de vía doble electrificada de ancho convencional con bloqueo automático banalizado (BAB) sin CTC y enclavamiento electrónico. Tramo Alcázar de San Juan – Socuéllamos."
+   },
+   "pagina": 11,
+   "cita": "con preferencia sobre el tren 18080, el cual se iba a estacionar en la vía 3. Que el tren 222 entró",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 300 Madrid Chamartín – Valencia Estació del Nord",
+   "pagina": 3,
+   "cita": "estación de Socuéllamos de la línea 300 Madrid Chamartín – Valencia Estació del Nord.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 334013 (tren 222, tipo 180 A, 9 coches, 10 ejes, 141 t, 116 m, UIC 957103340130). Tren 18080 tipo 160 A.",
+    "averia": "Avería en el sistema ASFA tras el arrollamiento (captadores de ASFA dañados). Velocidad máxima limitada a 140 km/h tras el suceso. Funcionamiento correcto antes del accidente: señales en vía libre, velocidad de 170 km/h por debajo de la máxima permitida, uso del freno de urgencia tras rebasar la señal de entrada.",
+    "mantenimiento": "Funcionó correctamente. Memoria del ASFA Digital embarcado analizada: señales avanzada (1842), entrada (E2) y salida (S2/2) en indicación de vía libre al paso del tren."
+   },
+   "pagina": 14,
+   "cita": "Funcionó correctamente.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 12 de marzo de 2012, a las 11:30 horas, en la estación de Socuéllamos (línea 300 Madrid Chamartín–Valencia Estació del Nord), se estaban realizando trabajos de sustitución del cruzamiento del desvío nº 8 en la vía 2, contemplados en el punto 240 del acta semanal de trabajos con horario previsto de 07:30 a 13:00. A las 07:23, el encargado de los trabajos solicitó autorización al regulador del puesto de mando de Valencia, quien la concedió con la condición de poder pasar el tren 222 sobre las 11:00 por el escape 2-4 hacia la vía 1. El encargado dio su conformidad y comunicó que liberaría el circuito de agujas afectando a los desvíos 2-4 y nº 8, y que apartaría el tren de infraestructuras a la vía 2 o 4.\n\nSobre las 11:00, una vez sustituido el cruzamiento y realizadas las soldaduras, el encargado mandó apartar el tren de infraestructuras a la vía 4 y retiró el útil de cortocircuitado para desocupar el circuito de agujas. Sin embargo, los operarios continuaban trabajando en el amolado de soldaduras en la vía 2. El responsable de circulación de Socuéllamos informó al encargado de la llegada del tren 18080 por vía 1 (banalizada) y del tren 222 por vía 2, ambos procedentes de Río Záncara, indicando que pasaría al 222 por vía 1 cuando el 18080 hubiera pasado.\n\nA las 11:27, al recibir el aviso de proximidad del tren 222 circulando por vía 2, el responsable de circulación estableció un itinerario de paso directo desde las señales de entrada E2 hasta la señal de salida S2/2 (movimiento nº 1 de la consigna A), en lugar de desviarlo a la vía 1. A las 11:29, el tren 18080 se detuvo por freno de urgencia al ver a los operarios haciendo señales de alto. A las 11:30, el maquinista del tren 222, que circulaba a 170 km/h, vio la señal cuadrada de parada y los operarios, accionó el freno de urgencia y el silbato, pero arrolló la señal y las máquinas-herramientas a 147 km/h a la altura del cambio nº 8, quedando detenido junto a la señal de salida de la vía 2 (lado Alicante). El tren no descarriló y no hubo daños personales.",
+   "pagina": 4,
+   "cita": "Los hechos tuvieron lugar el día 12 de marzo de 2012, a las 11:30 horas, en la estación de",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Socuéllamos",
+    "pk": "188+690",
+    "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
+    "provincia": "Ciudad Real",
+    "descripcion_lugar": "Vía 2 de la estación de Socuéllamos, a la altura del desvío/cambio nº 8 que da acceso a la vía 4 (vía de apartado). Estación con 4 vías (2 generales y 2 de apartado), tramo de vía doble electrificada de ancho convencional con bloqueo automático banalizado (BAB) sin CTC y enclavamiento electrónico. Tramo Alcázar de San Juan – Socuéllamos."
+   },
+   "pagina": 11,
+   "cita": "con preferencia sobre el tren 18080, el cual se iba a estacionar en la vía 3. Que el tren 222 entró",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: daños en equipos de soldadura, herramientas de mano y diversa maquinaria-herramienta para trabajos en vía, valorados en 17.347,49 €. Material rodante: daños en quitarreses, enchufe de calefacción, peldaño de elemento fusible, soporte vertical de radar, topes de cabina 1, cables de motores de tracción, paquetes elásticos, soportes de arenero, captadores de ASFA, faros de posición y manga de TDP, valorados en 22.973,57 €. Total: 40.321,06 €.",
+    "afectacion_servicio": "Vía 2 interceptada por restos del arrollamiento hasta las 13:30 (2 horas). 8 trenes de Renfe Operadora sufrieron retraso: 5 de larga distancia (159 minutos) y 3 de media distancia (139 minutos). El tren 222 reanudó marcha a las 13:08 hacia Murcia con velocidad máxima 140 km/h por avería ASFA; viajeros trasladados en autobús hasta Cartagena."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 222 (matrícula 9682428)",
+     "implicacion": "Circulaba por vía 2 a 170 km/h. Vio la señal cuadrada de parada y los operarios, accionó freno de urgencia y silbato, pero no pudo evitar el arrollamiento a 147 km/h. Título B de conducción, antigüedad desde 16/04/1988. Último reciclaje formativo 09/02/2012. Jornada del día 12: 3h 27min."
+    },
+    {
+     "rol": "Maquinista del tren 18080 (matrícula 9692211)",
+     "implicacion": "Circulaba por vía 1 (banalizada). Al aproximarse a Socuéllamos observó obreros trabajando en vía 2 y al tren 222 a toda velocidad por esa misma vía. Aplicó freno de urgencia para detenerse antes del desvío nº 8 y evitar ser alcanzado por un posible descarriamiento o restos."
+    },
+    {
+     "rol": "Responsable de circulación de Socuéllamos (matrícula 9656505, Adif)",
+     "implicacion": "Estableció un itinerario de paso directo por vía 2 para el tren 222 (E2 a S2/2) cuando se estaban realizando trabajos en esa vía, en lugar de desviarlo a vía 1 por el escape 2-4 como se había acordado. Informó al encargado de la llegada de los trenes pero no ejecutó la desviación prevista. No reclamó el boletín de autorización de trabajos. Antigüedad desde 01/06/1987. Jornada del día 12: 8h. Alcoholemia negativa."
+    },
+    {
+     "rol": "Encargado de los trabajos (matrícula 9744053, Adif)",
+     "implicacion": "Solicitó autorización al PM de Valencia y aceptó la condición de liberar el circuito sobre las 11:00. Retiró el útil de cortocircuitado a las 11:00 pero los operarios seguían trabajando en el amolado de soldaduras en vía 2, incumpliendo el artículo 343 puntos 2 y 3 del RGC. No entregó el boletín de autorización de trabajos al responsable de circulación según artículo 271 punto 2 del RGC. Colocó señal cuadrada de parada y cartelones de silbar a 600 m. Antigüedad desde 01/09/2008. Jornada del día 12: 5h 29min. Alcoholemia negativa."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "222",
+     "tipo": "Larga distancia, tipo 180 A (velocidad máxima 180 km/h). Locomotora 334013, 9 coches, 10 ejes, 141 toneladas, 116 metros de longitud. Nº UIC: 957103340130.",
+     "operador": "Renfe Operadora",
+     "danos": "Desprendimiento del quitarreses de cabina 1, enchufe de calefacción, peldaño de elemento fusible, soporte vertical de radar, topes completos de cabina 1, cables de motores de tracción, cuatro paquetes elásticos, dos soportes de arenero del eje 1, dos captadores de ASFA, faros de posición de cabina 1 y manga de TDP. Valorados en 22.973,57 €. Avería en sistema ASFA (velocidad máxima limitada a 140 km/h tras el suceso)."
+    },
+    {
+     "numero": "18080",
+     "tipo": "Media distancia, tipo 160 A (velocidad máxima 160 km/h).",
+     "operador": "Renfe Operadora",
+     "danos": null
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 12 de marzo de 2012, a las 11:30 horas, el tren de viajeros 222 de Renfe Operadora,",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 334013 (tren 222, tipo 180 A, 9 coches, 10 ejes, 141 t, 116 m, UIC 957103340130). Tren 18080 tipo 160 A.",
+    "averia": "Avería en el sistema ASFA tras el arrollamiento (captadores de ASFA dañados). Velocidad máxima limitada a 140 km/h tras el suceso. Funcionamiento correcto antes del accidente: señales en vía libre, velocidad de 170 km/h por debajo de la máxima permitida, uso del freno de urgencia tras rebasar la señal de entrada.",
+    "mantenimiento": "Funcionó correctamente. Memoria del ASFA Digital embarcado analizada: señales avanzada (1842), entrada (E2) y salida (S2/2) en indicación de vía libre al paso del tren."
+   },
+   "pagina": 14,
+   "cita": "Funcionó correctamente.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal cuadrada de parada (colocada por el encargado de los trabajos como protección del tajo). Señales de avanzada, entrada (E2) y salida (S2/2) en indicación de vía libre al paso del tren 222, lo que no alertó al maquinista de la ocupación de la vía. Cartelones de silbar a 600 m a ambos lados.",
+    "tipo_via": "Vía doble electrificada de ancho convencional. Estación con 4 vías: 2 generales (vías 1 y 2) y 2 de apartado (vías 3 y 4). Desvíos: escape 2-4 (diagonal), desvío nº 8 (vía 2, acceso a vía 4), desvío nº 6 (vía 1, acceso a vía 3).",
+    "velocidad_maxima": "200 km/h (cuadro de velocidades máximas del trayecto). Velocidad máxima del tren 222: 180 km/h. Velocidad máxima del tren 18080: 160 km/h.",
+    "ancho": "Convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Vía 2 ocupada por trabajos de sustitución del cruzamiento del desvío nº 8 (trabajos de 3ª categoría). Circuito de agujas desocupado (útil de cortocircuitado retirado a las 11:00) pero operarios aún trabajando en amolado de soldaduras.",
+    "otro": "Bloqueo automático banalizado (BAB) sin CTC. Enclavamiento electrónico. Tramo recto con buena visibilidad. Estaciones colaterales: Río Záncara (lado Alcázar de San Juan) y Villarobledo (lado Alicante). Media semanal de circulaciones en el tramo Alcázar de San Juan–Socuéllamos: 485 (305 larga distancia, 58 media distancia, 116 mercancías, 6 servicio)."
+   },
+   "pagina": 8,
+   "cita": "Está ubicada en un tramo de vía doble electrificada de ancho convencional donde la circulación se",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal cuadrada de parada (colocada por el encargado de los trabajos como protección del tajo). Señales de avanzada, entrada (E2) y salida (S2/2) en indicación de vía libre al paso del tren 222, lo que no alertó al maquinista de la ocupación de la vía. Cartelones de silbar a 600 m a ambos lados.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Tren tierra modalidad A.",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: daños en equipos de soldadura, herramientas de mano y diversa maquinaria-herramienta para trabajos en vía, valorados en 17.347,49 €. Material rodante: daños en quitarreses, enchufe de calefacción, peldaño de elemento fusible, soporte vertical de radar, topes de cabina 1, cables de motores de tracción, paquetes elásticos, soportes de arenero, captadores de ASFA, faros de posición y manga de TDP, valorados en 22.973,57 €. Total: 40.321,06 €.",
+    "afectacion_servicio": "Vía 2 interceptada por restos del arrollamiento hasta las 13:30 (2 horas). 8 trenes de Renfe Operadora sufrieron retraso: 5 de larga distancia (159 minutos) y 3 de media distancia (139 minutos). El tren 222 reanudó marcha a las 13:08 hacia Murcia con velocidad máxima 140 km/h por avería ASFA; viajeros trasladados en autobús hasta Cartagena."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: daños en equipos de soldadura, herramientas de mano y diversa maquinaria-herramienta para trabajos en vía, valorados en 17.347,49 €. Material rodante: daños en quitarreses, enchufe de calefacción, peldaño de elemento fusible, soporte vertical de radar, topes de cabina 1, cables de motores de tracción, paquetes elásticos, soportes de arenero, captadores de ASFA, faros de posición y manga de TDP, valorados en 22.973,57 €. Total: 40.321,06 €.",
+    "afectacion_servicio": "Vía 2 interceptada por restos del arrollamiento hasta las 13:30 (2 horas). 8 trenes de Renfe Operadora sufrieron retraso: 5 de larga distancia (159 minutos) y 3 de media distancia (139 minutos). El tren 222 reanudó marcha a las 13:08 hacia Murcia con velocidad máxima 140 km/h por avería ASFA; viajeros trasladados en autobús hasta Cartagena."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Infraestructura: daños en equipos de soldadura, herramientas de mano y diversa maquinaria-herramienta para trabajos en vía, valorados en 17.347,49 €. Material rodante: daños en quitarreses, enchufe de calefacción, peldaño de elemento fusible, soporte vertical de radar, topes de cabina 1, cables de motores de tracción, paquetes elásticos, soportes de arenero, captadores de ASFA, faros de posición y manga de TDP, valorados en 22.973,57 €. Total: 40.321,06 €.",
+    "afectacion_servicio": "Vía 2 interceptada por restos del arrollamiento hasta las 13:30 (2 horas). 8 trenes de Renfe Operadora sufrieron retraso: 5 de larga distancia (159 minutos) y 3 de media distancia (139 minutos). El tren 222 reanudó marcha a las 13:08 hacia Murcia con velocidad máxima 140 km/h por avería ASFA; viajeros trasladados en autobús hasta Cartagena."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 334013 (tren 222, tipo 180 A, 9 coches, 10 ejes, 141 t, 116 m, UIC 957103340130). Tren 18080 tipo 160 A.",
+    "averia": "Avería en el sistema ASFA tras el arrollamiento (captadores de ASFA dañados). Velocidad máxima limitada a 140 km/h tras el suceso. Funcionamiento correcto antes del accidente: señales en vía libre, velocidad de 170 km/h por debajo de la máxima permitida, uso del freno de urgencia tras rebasar la señal de entrada.",
+    "mantenimiento": "Funcionó correctamente. Memoria del ASFA Digital embarcado analizada: señales avanzada (1842), entrada (E2) y salida (S2/2) en indicación de vía libre al paso del tren."
+   },
+   "pagina": 14,
+   "cita": "Funcionó correctamente.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal cuadrada de parada (colocada por el encargado de los trabajos como protección del tajo). Señales de avanzada, entrada (E2) y salida (S2/2) en indicación de vía libre al paso del tren 222, lo que no alertó al maquinista de la ocupación de la vía. Cartelones de silbar a 600 m a ambos lados.",
+    "tipo_via": "Vía doble electrificada de ancho convencional. Estación con 4 vías: 2 generales (vías 1 y 2) y 2 de apartado (vías 3 y 4). Desvíos: escape 2-4 (diagonal), desvío nº 8 (vía 2, acceso a vía 4), desvío nº 6 (vía 1, acceso a vía 3).",
+    "velocidad_maxima": "200 km/h (cuadro de velocidades máximas del trayecto). Velocidad máxima del tren 222: 180 km/h. Velocidad máxima del tren 18080: 160 km/h.",
+    "ancho": "Convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Vía 2 ocupada por trabajos de sustitución del cruzamiento del desvío nº 8 (trabajos de 3ª categoría). Circuito de agujas desocupado (útil de cortocircuitado retirado a las 11:00) pero operarios aún trabajando en amolado de soldaduras.",
+    "otro": "Bloqueo automático banalizado (BAB) sin CTC. Enclavamiento electrónico. Tramo recto con buena visibilidad. Estaciones colaterales: Río Záncara (lado Alcázar de San Juan) y Villarobledo (lado Alicante). Media semanal de circulaciones en el tramo Alcázar de San Juan–Socuéllamos: 485 (305 larga distancia, 58 media distancia, 116 mercancías, 6 servicio)."
+   },
+   "pagina": 8,
+   "cita": "Está ubicada en un tramo de vía doble electrificada de ancho convencional donde la circulación se",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Soleado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Ciudad Real",
+    "municipio": null,
+    "estacion": "Socuéllamos"
+   },
+   "pagina": 3,
+   "cita": "Ciudad Real ### Tablas de la página 3 | Destinatario final | Número | Recomendación | |---|---|---| | Adif | 22/12-1 | Transmitir, tanto a los responsables de la circulación de trenes como a los responsables de los tr",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Soleado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal cuadrada de parada (colocada por el encargado de los trabajos como protección del tajo). Señales de avanzada, entrada (E2) y salida (S2/2) en indicación de vía libre al paso del tren 222, lo que no alertó al maquinista de la ocupación de la vía. Cartelones de silbar a 600 m a ambos lados.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal cuadrada de parada (colocada por el encargado de los trabajos como protección del tajo). Señales de avanzada, entrada (E2) y salida (S2/2) en indicación de vía libre al paso del tren 222, lo que no alertó al maquinista de la ocupación de la vía. Cartelones de silbar a 600 m a ambos lados.",
+    "tipo_via": "Vía doble electrificada de ancho convencional. Estación con 4 vías: 2 generales (vías 1 y 2) y 2 de apartado (vías 3 y 4). Desvíos: escape 2-4 (diagonal), desvío nº 8 (vía 2, acceso a vía 4), desvío nº 6 (vía 1, acceso a vía 3).",
+    "velocidad_maxima": "200 km/h (cuadro de velocidades máximas del trayecto). Velocidad máxima del tren 222: 180 km/h. Velocidad máxima del tren 18080: 160 km/h.",
+    "ancho": "Convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Vía 2 ocupada por trabajos de sustitución del cruzamiento del desvío nº 8 (trabajos de 3ª categoría). Circuito de agujas desocupado (útil de cortocircuitado retirado a las 11:00) pero operarios aún trabajando en amolado de soldaduras.",
+    "otro": "Bloqueo automático banalizado (BAB) sin CTC. Enclavamiento electrónico. Tramo recto con buena visibilidad. Estaciones colaterales: Río Záncara (lado Alcázar de San Juan) y Villarobledo (lado Alicante). Media semanal de circulaciones en el tramo Alcázar de San Juan–Socuéllamos: 485 (305 larga distancia, 58 media distancia, 116 mercancías, 6 servicio)."
+   },
+   "pagina": 8,
+   "cita": "Está ubicada en un tramo de vía doble electrificada de ancho convencional donde la circulación se",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Tren tierra modalidad A.",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 334013 (tren 222, tipo 180 A, 9 coches, 10 ejes, 141 t, 116 m, UIC 957103340130). Tren 18080 tipo 160 A.",
+    "averia": "Avería en el sistema ASFA tras el arrollamiento (captadores de ASFA dañados). Velocidad máxima limitada a 140 km/h tras el suceso. Funcionamiento correcto antes del accidente: señales en vía libre, velocidad de 170 km/h por debajo de la máxima permitida, uso del freno de urgencia tras rebasar la señal de entrada.",
+    "mantenimiento": "Funcionó correctamente. Memoria del ASFA Digital embarcado analizada: señales avanzada (1842), entrada (E2) y salida (S2/2) en indicación de vía libre al paso del tren."
+   },
+   "pagina": 14,
+   "cita": "Funcionó correctamente.",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Fallo humano del encargado de los trabajos al no tomar las medidas de seguridad pertinentes: retiró el útil de cortocircuitado a las 11:00 pero los operarios continuaban trabajando en el amolado de soldaduras en vía 2, incumpliendo el artículo 343 puntos 2 y 3 del RGC.",
+    "El encargado de los trabajos no entregó el boletín de autorización de trabajos al responsable de circulación, como es preceptivo según el artículo 271 punto 2 del RGC.",
+    "El responsable de circulación no reclamó el boletín de autorización de trabajos al encargado.",
+    "La 'condición' impuesta por el PM de Valencia (liberar el circuito sobre las 11:00 para pasar el tren 222) redujo el nivel de seguridad en el que se debían realizar los trabajos autorizados.",
+    "El responsable de circulación se encontraba realizando operaciones de venta de billetes en el momento del suceso.",
+    "Las señales de avanzada, entrada y salida se encontraban en indicación de vía libre, lo que no alertó al maquinista del tren 222 de la ocupación de la vía."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Por parte de Renfe Operadora \nEl maquinista del tren 222 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio (Título V – Personal de conducción – en vigor hasta 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre).  \nÉste tiene una antigüedad en el cargo desde 16/04/1988. \nRealizó su último reciclaje formativo el 09/02/2012 y su último reconocimiento médico y psicotécnico el \n18/12/2008 de acuerdo a la normativa vigente. \n\n## Página 13\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0022/2012 ocurrido el 12.03.2012 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n \nIF-120312-260213-CIAF \n \n \nPág. 13 de 18\nPor parte de Adif \nEl responsable de circulación de Socuéllamos y el encargado de los trabajos están habilitados \nconforme a la Orden FOM/2872/2010, de 5 de noviembre por la que se determinan las condiciones \npara la obtención de títulos y habilitaciones que permiten el ejercicio de las funciones del personal \nferroviario relacionadas con la seguridad: \nEl responsable de circulación de Socuéllamos tiene antigüedad en el cargo desde el 1/06/1987, realizó \nsu último reciclaje formativo el 11/11/2009 y su último reconocimiento médico y psicotécnico el \n21/03/2012, conforme a la normativa vigente. \nEl encargado de los trabajos tiene antigüedad en el cargo desde el 1/09/2008, realizó su último \nreciclaje formativo el 21/10/2011 y su último reconocimiento médico y psicotécnico el 10/03/2010, \nconforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 12,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 12 de marzo de 2012, a las 11:30 horas, en la estación de Socuéllamos (línea 300 Madrid Chamartín–Valencia Estació del Nord), se estaban realizando trabajos de sustitución del cruzamiento del desvío nº 8 en la vía 2, contemplados en el punto 240 del acta semanal de trabajos con horario previsto de 07:30 a 13:00. A las 07:23, el encargado de los trabajos solicitó autorización al regulador del puesto de mando de Valencia, quien la concedió con la condición de poder pasar el tren 222 sobre las 11:00 por el escape 2-4 hacia la vía 1. El encargado dio su conformidad y comunicó que liberaría el circuito de agujas afectando a los desvíos 2-4 y nº 8, y que apartaría el tren de infraestructuras a la vía 2 o 4.\n\nSobre las 11:00, una vez sustituido el cruzamiento y realizadas las soldaduras, el encargado mandó apartar el tren de infraestructuras a la vía 4 y retiró el útil de cortocircuitado para desocupar el circuito de agujas. Sin embargo, los operarios continuaban trabajando en el amolado de soldaduras en la vía 2. El responsable de circulación de Socuéllamos informó al encargado de la llegada del tren 18080 por vía 1 (banalizada) y del tren 222 por vía 2, ambos procedentes de Río Záncara, indicando que pasaría al 222 por vía 1 cuando el 18080 hubiera pasado.\n\nA las 11:27, al recibir el aviso de proximidad del tren 222 circulando por vía 2, el responsable de circulación estableció un itinerario de paso directo desde las señales de entrada E2 hasta la señal de salida S2/2 (movimiento nº 1 de la consigna A), en lugar de desviarlo a la vía 1. A las 11:29, el tren 18080 se detuvo por freno de urgencia al ver a los operarios haciendo señales de alto. A las 11:30, el maquinista del tren 222, que circulaba a 170 km/h, vio la señal cuadrada de parada y los operarios, accionó el freno de urgencia y el silbato, pero arrolló la señal y las máquinas-herramientas a 147 km/h a la altura del cambio nº 8, quedando detenido junto a la señal de salida de la vía 2 (lado Alicante). El tren no descarriló y no hubo daños personales.",
+   "pagina": 4,
+   "cita": "Los hechos tuvieron lugar el día 12 de marzo de 2012, a las 11:30 horas, en la estación de",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del personal de circulación (responsable de circulación de Socuéllamos) al establecer un itinerario de paso directo por la vía 2 para el tren 222 cuando se estaban realizando trabajos en esa misma vía, en lugar de desviarlo a la vía 1 por el escape 2-4 como se había acordado con el PM de Valencia.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Fallo humano del encargado de los trabajos al no tomar las medidas de seguridad pertinentes: retiró el útil de cortocircuitado a las 11:00 pero los operarios continuaban trabajando en el amolado de soldaduras en vía 2, incumpliendo el artículo 343 puntos 2 y 3 del RGC.",
+    "El encargado de los trabajos no entregó el boletín de autorización de trabajos al responsable de circulación, como es preceptivo según el artículo 271 punto 2 del RGC.",
+    "El responsable de circulación no reclamó el boletín de autorización de trabajos al encargado.",
+    "La 'condición' impuesta por el PM de Valencia (liberar el circuito sobre las 11:00 para pasar el tren 222) redujo el nivel de seguridad en el que se debían realizar los trabajos autorizados.",
+    "El responsable de circulación se encontraba realizando operaciones de venta de billetes en el momento del suceso.",
+    "Las señales de avanzada, entrada y salida se encontraban en indicación de vía libre, lo que no alertó al maquinista del tren 222 de la ocupación de la vía."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Transmitir, tanto a los responsables de la circulación de trenes como a los responsables de los trabajos en vía, la necesidad de aplicar estrictamente los artículos del RGC que los contemplan.",
+    "Establecer un programa de prevención del fallo humano en las materias relacionadas con los trabajos en vía, destinado al personal de circulación (incluido el puesto de mando) y al personal de infraestructura (propio y externo).",
+    "Transmitir, tanto a los responsables de la circulación de trenes como a los responsables de los trabajos en vía, la necesidad de aplicar estrictamente los artículos del RGC que los contemplan.",
+    "Establecer un programa de prevención del fallo humano en las materias relacionadas con los trabajos en vía, destinado al personal de circulación (incluido el puesto de mando) y al personal de infraestructura (propio y externo)."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif",
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "07:23",
+     "evento": "El encargado de los trabajos solicita autorización al regulador del PM de Valencia para iniciar los trabajos de sustitución del cruzamiento del desvío nº 8 en vía 2. El regulador autoriza con la condición de pasar el tren 222 sobre las 11:00 por el escape 2-4 hacia vía 1."
+    },
+    {
+     "hora": "07:30",
+     "evento": "Horario previsto de inicio de trabajos según acta semanal de trabajos (punto 240)."
+    },
+    {
+     "hora": "08:05",
+     "evento": "Comienzan efectivamente los trabajos de sustitución del cruzamiento."
+    },
+    {
+     "hora": "11:00",
+     "evento": "Cruzamiento sustituido y soldaduras realizadas. El encargado manda apartar el tren de infraestructuras a vía 4 y retira el útil de cortocircuitado para desocupar el circuito de agujas. Los operarios continúan trabajando en el amolado de soldaduras en vía 2."
+    },
+    {
+     "hora": "11:27",
+     "evento": "El responsable de circulación, al recibir el aviso de proximidad del tren 222 por vía 2 (lado Río Záncara), establece itinerario de paso directo desde E2 hasta S2/2 (movimiento nº 1 de la consigna A), en lugar de desviarlo a vía 1."
+    },
+    {
+     "hora": "11:29",
+     "evento": "El tren 18080 (media distancia, vía 1 banalizada) se detiene por freno de urgencia antes del desvío nº 8 al ver personal de infraestructura sobre vía 2 haciendo señales de alto."
+    },
+    {
+     "hora": "11:30",
+     "evento": "El maquinista del tren 222 ve la señal cuadrada de parada y los operarios a la altura del desvío nº 8, acciona freno de urgencia y silbato a 170 km/h. Arrolla la señal cuadrada y las máquinas-herramientas a 147 km/h. Queda detenido junto a la señal de salida de vía 2 (lado Alicante). No descarrila."
+    },
+    {
+     "hora": "13:08",
+     "evento": "El tren 222 reanuda la marcha hasta Murcia con velocidad máxima 140 km/h por avería en el sistema ASFA. Viajeros trasladados en autobús hasta Cartagena."
+    },
+    {
+     "hora": "13:30",
+     "evento": "La vía 2 de la estación queda liberada de los restos del arrollamiento."
+    },
+    {
+     "hora": "14:10",
+     "evento": "Prueba de alcoholemia al responsable de circulación: resultado negativo."
+    },
+    {
+     "hora": "14:12",
+     "evento": "Prueba de alcoholemia al encargado de los trabajos: resultado negativo."
+    },
+    {
+     "hora": null,
+     "evento": "13/03/2012, 08:32: El gerente de investigación técnica de accidentes de Renfe Operadora comunica el suceso a la CIAF por correo electrónico."
+    },
+    {
+     "hora": null,
+     "evento": "27/03/2012: El Pleno de la CIAF acuerda abrir la investigación."
+    },
+    {
+     "hora": null,
+     "evento": "26/02/2013: Fecha del informe final en Madrid."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0022/2012",
+ "expediente": "22/012",
+ "anio": 2012,
+ "titulo": "Colisión del tren 222 con señal y herramientas en vía 2 de la estación de Socuéllamos",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_120312_260213_CIAF.md"
+}

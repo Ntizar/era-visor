@@ -1,0 +1,987 @@
+{
+ "id": "ES 22.05.2015 160628-150522-IF-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/BBFF614E-8C0C-4EB4-B257-0233AC2E76BC/138964/160628150522IFCIAF.pdf",
+ "pdf": "pdfs/ES/ES 22.05.2015 160628-150522-IF-CIAF.pdf",
+ "md5_pdf": "dad2aaa4d0860491ad0ecf8bf02fed62",
+ "paginas_md": 30,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 20,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 5,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+     "Implementador final": "Continental Rail",
+     "Número": "28/2015-1",
+     "Recomendación": "Que en los cursos de reciclaje a maquinistas se insista sobre el diferente comportamiento del material móvil en lo relativo a su aceleración y frenado en las distintas circunstancias en las que éste puede circular."
+    },
+    {
+     "Destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+     "Implementador final": "Continental Rail",
+     "Número": "28/2015-2",
+     "Recomendación": "Que se elabore e incluya dentro del SGS de Continental Rail un procedimiento que establezca unos criterios generales para la suspensión, revocación y recuperación de las habilitaciones, tras un fallo humano en función de la gravedad de éste."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 30,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+     "Implementador final": "Continental Rail",
+     "Número": "28/2015-1",
+     "Recomendación": "Que en los cursos de reciclaje a maquinistas se insista sobre el diferente comportamiento del material móvil en lo relativo a su aceleración y frenado en las distintas circunstancias en las que éste puede circular."
+    },
+    {
+     "Destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+     "Implementador final": "Continental Rail",
+     "Número": "28/2015-2",
+     "Recomendación": "Que se elabore e incluya dentro del SGS de Continental Rail un procedimiento que establezca unos criterios generales para la suspensión, revocación y recuperación de las habilitaciones, tras un fallo humano en función de la gravedad de éste."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0028/2015",
+   "pagina": 1,
+   "cita": "nº 0028/2015 ocurrido el 22.05.2015",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 22 de mayo de 2015, a las 21:26 horas, se produjo un conato de colisión en la estación de Vicálvaro (Madrid) entre el tren 97131 de Tracción Rail y la locomotora aislada VK153 de Continental Rail. La locomotora rebasó indebidamente la señal de salida B107-3, que indicaba parada, mientras el tren 97131 ocupaba circuitos contiguos. No se produjeron víctimas ni daños materiales. La causa principal fue un fallo humano por falta de atención del maquinista, con influencia de la distinta aceleración de una locomotora aislada frente a un tren de mercancías cargado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2015-05-22",
+    "hora": null,
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Vicálvaro",
+     "pk": "PK 10+797 (señal B107-3); estación en PK 11+200",
+     "linea": "930 Madrid Atocha Cercanías - San Fernando de Henares",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Estación de Vicálvaro, señal de salida B107-3, vía 3 de la estación, con itinerario previsto hacia la vía general G3 del trayecto Vicálvaro-Vallecas Industrial."
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 22 de mayo de 2015, a las 21:26 horas en la estación de Vicálvaro (Madrid) de la línea 930",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura.",
+    "afectacion_servicio": "La circulación resultó afectada unos 16 minutos, desde las 21:26 hasta las 21:42; la locomotora implicada sufrió un retraso total de 147 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del personal de conducción de la locomotora aislada VK153, por falta de atención, que originó el rebase indebido de la señal de salida B107-3 en indicación de parada y el incumplimiento de los artículos 213 y 217.1 del Reglamento General de Circulación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El maquinista no tuvo en cuenta la diferencia de aceleración entre una locomotora aislada y un tren de mercancías cargado.",
+    "La locomotora aislada aceleró más que en las circulaciones habituales con trenes de unas 1.000 toneladas, reduciendo el tiempo empleado entre las señales B101 y B107-3.",
+    "El freno de emergencia por ASFA no pudo evitar el rebase indebido, que se produjo unos 80 metros después de la baliza de pie de la señal."
+   ],
+   "pagina": 5,
+   "cita": "Como causa coadyuvante se apunta que el maquinista no tuvo en cuenta la diferencia de aceleración",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "No se constató que en los cursos de reciclaje a maquinistas de Continental Rail se insistiera sobre el diferente comportamiento del material móvil en aceleración y frenado según las distintas circunstancias de circulación.",
+    "No se constató la existencia de un procedimiento en el SGS de Continental Rail que establezca criterios generales para la suspensión, revocación y recuperación de habilitaciones tras un fallo humano según su gravedad."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Que en los cursos de reciclaje a maquinistas se insista sobre el diferente comportamiento del material móvil en lo relativo a su aceleración y frenado en las distintas circunstancias en las que éste puede circular.",
+    "Que se elabore e incluya dentro del SGS de Continental Rail un procedimiento que establezca unos criterios generales para la suspensión, revocación y recuperación de las habilitaciones, tras un fallo humano en función de la gravedad de éste.",
+    "Que en los cursos de reciclaje a maquinistas se insista sobre el diferente comportamiento del material móvil en lo relativo a su aceleración y frenado en las distintas circunstancias en las que éste puede circular.",
+    "Que se elabore e incluya dentro del SGS de Continental Rail un procedimiento que establezca unos criterios generales para la suspensión, revocación y recuperación de las habilitaciones, tras un fallo humano en función de la gravedad de éste."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Incidente",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Continental Rail",
+    "ADIF"
+   ],
+   "pagina": 5,
+   "cita": "la empresa ferroviaria Continental Rail, cuando ésta rebasa indebidamente la señal de salida B107-3 de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2015-05-22",
+   "pagina": 5,
+   "cita": "El día 22 de mayo de 2015, a las 21:26 horas en la estación de Vicálvaro (Madrid) de la línea 930",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Vicálvaro",
+    "pk": "PK 10+797 (señal B107-3); estación en PK 11+200",
+    "linea": "930 Madrid Atocha Cercanías - San Fernando de Henares",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Estación de Vicálvaro, señal de salida B107-3, vía 3 de la estación, con itinerario previsto hacia la vía general G3 del trayecto Vicálvaro-Vallecas Industrial."
+   },
+   "pagina": 9,
+   "cita": "el punto normal de estacionamiento en la",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "La estación de Vicálvaro está situada en el PK 11+200 de la línea 930 Madrid Atocha Cercanías - San \nFernando de Henares. \nLa estación dispone de bloqueo automático de vía doble banalizada (BAB) con control de tráfico \ncentralizado (CTC) en Madrid Chamartín. \n \n \n \n \n \n \n \n \n\n## Página 9\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0028/2015 ocurrido el 22.05.2015 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n160628-150522-IF-CIAF \n \n \nPág. 9 de 30 \nEl trayecto entre Vicálvaro y Vallecas \ndispone de 4 vías. La locomotora aislada \nVK153 tenía previsto su paso desde la vía 3 \nde la estación de Vicálvaro a la vía G3 del \ntrayecto mencionado. \nLa señal de salida rebasada B107-3 (PK \n10+797) es de tres focos, está situada \nsobre pescante y dispone de baliza previa y \nde pie de señal. La distancia entre ambas \nbalizas es de unos 230 metros, para salvar \nel punto normal de estacionamiento en la \nvía 3. Su visibilidad es buena. \nEn el momento del suceso la estación se encontraba en mando central a cargo del CTC de Madrid \nChamartín (Banda de Regulación de Madrid Atocha a Alcalá de Henares). \nEn el trayecto Vicálvaro Clasificación a estación de  Vicálvaro la velocidad es de 65 km/h. \nLa velocidad máxima de paso por la vía 3 de la estación de Vicálvaro,  según el Cuadro de Velocidades \nMáximas, es de 120 km/h y no existían limitaciones temporales de velocidad. \n \n \n \n \n \n \n \n \n \n \nSeñal \nB107-3 \n\n## Página 10\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0028/2015 ocurrido el 22.05.2015 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n160628-150522-IF-CIAF \n \n \nPág. 10 de 30",
+   "pagina": 8,
+   "cita": "2.2.3. Descripción de la infraestructura",
+   "origen": "determinista",
+   "regla": "sec:^descripci[óo]n de la infraestructura$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "335",
+    "averia": "No se detectaron anomalías en los equipos y dispositivos de seguridad; el ASFA actuó correctamente provocando el freno de emergencia.",
+    "mantenimiento": "Autorización de circulación desde el 15/04/2009 según Archivo Patrón; revisiones conforme a su plan de mantenimiento, certificadas por Erion Mantenimiento Ferroviario S.A."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 22 de mayo de 2015, la locomotora aislada VK153, de Continental Rail, con destino Madrid Santa Catalina, inicia la marcha en Vicálvaro Clasificación y se detiene ante la señal de entrada B101, en vía 3, en indicación de parada. En ese momento, el tren 97131 de Tracción Rail, con destino La Salud (Sevilla), se encuentra ante la señal de entrada B103 con indicación de vía libre y pasa por la señal de salida B107-3. A las 21:25:05 horas la locomotora aislada reanuda la marcha tras pasar B101 a anuncio de parada, circulando por la vía 3 de la estación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Vicálvaro",
+    "pk": "PK 10+797 (señal B107-3); estación en PK 11+200",
+    "linea": "930 Madrid Atocha Cercanías - San Fernando de Henares",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Estación de Vicálvaro, señal de salida B107-3, vía 3 de la estación, con itinerario previsto hacia la vía general G3 del trayecto Vicálvaro-Vallecas Industrial."
+   },
+   "pagina": 9,
+   "cita": "el punto normal de estacionamiento en la",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura.",
+    "afectacion_servicio": "La circulación resultó afectada unos 16 minutos, desde las 21:26 hasta las 21:42; la locomotora implicada sufrió un retraso total de 147 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista de Continental Rail",
+     "implicacion": "Personal de conducción de la locomotora aislada VK153; fallo humano por falta de atención; sin antecedentes de rebases indebidos; prueba de alcoholemia y drogas negativa."
+    },
+    {
+     "rol": "Responsable de circulación de Adif",
+     "implicacion": "Jefe de circulación de Madrid Chamartín, matrícula 2837854; recibió la comunicación del maquinista sobre el suceso."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "No se producen víctimas.",
+   "pagina": 11,
+   "cita": "2.3.1. Viajeros, personal y terceros",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "97131",
+     "tipo": null,
+     "operador": "Tracción Rail",
+     "danos": "No se producen daños."
+    },
+    {
+     "numero": "VK153 (UIC 957103350246)",
+     "tipo": "locomotora aislada",
+     "operador": "Continental Rail",
+     "danos": "No se producen daños."
+    }
+   ],
+   "pagina": 5,
+   "cita": "97131, de la empresa ferroviaria Tracción Rail, y la locomotora aislada VK153 (UIC 957103350246), de",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "335",
+    "averia": "No se detectaron anomalías en los equipos y dispositivos de seguridad; el ASFA actuó correctamente provocando el freno de emergencia.",
+    "mantenimiento": "Autorización de circulación desde el 15/04/2009 según Archivo Patrón; revisiones conforme a su plan de mantenimiento, certificadas por Erion Mantenimiento Ferroviario S.A."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida B107-3 de tres focos, sobre pescante, con baliza previa y baliza de pie; distancia entre balizas de unos 230 metros; visibilidad buena; ASFA en el material rodante; la señal estaba en indicación de parada.",
+    "tipo_via": "Vía 3 de la estación de Vicálvaro, con conexión a la vía general G3 del trayecto Vicálvaro-Vallecas.",
+    "velocidad_maxima": "120 km/h en vía 3 según Cuadro de Velocidades Máximas; 60 km/h permitidos en la baliza previa de B107-3; 65 km/h en el trayecto Vicálvaro Clasificación-Vicálvaro.",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "No existían obras en el lugar ni en sus proximidades; las instalaciones técnicas funcionaron correctamente.",
+    "otro": "Bloqueo automático de vía doble banalizada (BAB) con control de tráfico centralizado (CTC) en Madrid Chamartín; radiotelefonía en modalidad A, canal 99; tráfico medio semanal del tramo Vicálvaro-Vicálvaro Clasificación: 328 circulaciones."
+   },
+   "pagina": 8,
+   "cita": "La estación dispone de bloqueo automático de vía doble banalizada (BAB) con control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de salida B107-3 de tres focos, sobre pescante, con baliza previa y baliza de pie; distancia entre balizas de unos 230 metros; visibilidad buena; ASFA en el material rodante; la señal estaba en indicación de parada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía en modalidad A, canal 99.",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": "No existían obras de ningún tipo en el lugar del suceso ni en sus proximidades.",
+   "pagina": 10,
+   "cita": "2.2.5. Obras en el lugar o cercanías",
+   "origen": "determinista",
+   "regla": "sec:^obras en el lugar o cercan[íi]as$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura.",
+    "afectacion_servicio": "La circulación resultó afectada unos 16 minutos, desde las 21:26 hasta las 21:42; la locomotora implicada sufrió un retraso total de 147 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura.",
+    "afectacion_servicio": "La circulación resultó afectada unos 16 minutos, desde las 21:26 hasta las 21:42; la locomotora implicada sufrió un retraso total de 147 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños en material rodante ni en infraestructura.",
+    "afectacion_servicio": "La circulación resultó afectada unos 16 minutos, desde las 21:26 hasta las 21:42; la locomotora implicada sufrió un retraso total de 147 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "335",
+    "averia": "No se detectaron anomalías en los equipos y dispositivos de seguridad; el ASFA actuó correctamente provocando el freno de emergencia.",
+    "mantenimiento": "Autorización de circulación desde el 15/04/2009 según Archivo Patrón; revisiones conforme a su plan de mantenimiento, certificadas por Erion Mantenimiento Ferroviario S.A."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida B107-3 de tres focos, sobre pescante, con baliza previa y baliza de pie; distancia entre balizas de unos 230 metros; visibilidad buena; ASFA en el material rodante; la señal estaba en indicación de parada.",
+    "tipo_via": "Vía 3 de la estación de Vicálvaro, con conexión a la vía general G3 del trayecto Vicálvaro-Vallecas.",
+    "velocidad_maxima": "120 km/h en vía 3 según Cuadro de Velocidades Máximas; 60 km/h permitidos en la baliza previa de B107-3; 65 km/h en el trayecto Vicálvaro Clasificación-Vicálvaro.",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "No existían obras en el lugar ni en sus proximidades; las instalaciones técnicas funcionaron correctamente.",
+    "otro": "Bloqueo automático de vía doble banalizada (BAB) con control de tráfico centralizado (CTC) en Madrid Chamartín; radiotelefonía en modalidad A, canal 99; tráfico medio semanal del tramo Vicálvaro-Vicálvaro Clasificación: 328 circulaciones."
+   },
+   "pagina": 8,
+   "cita": "La estación dispone de bloqueo automático de vía doble banalizada (BAB) con control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Condiciones meteorológicas normales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": "Estación de Vicálvaro"
+   },
+   "pagina": 2,
+   "cita": "Madrid 28071 España NIPO: 161-16-266-8 ## Página 3 A MINISTERIO DE FOMENTO SUBSECRETARÍA Investigación del incidente nº 0028/2015 ocurrido el 22.05.2015 Informe Final de la CIAF COMISIÓN DE IN",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Condiciones meteorológicas normales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de salida B107-3 de tres focos, sobre pescante, con baliza previa y baliza de pie; distancia entre balizas de unos 230 metros; visibilidad buena; ASFA en el material rodante; la señal estaba en indicación de parada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida B107-3 de tres focos, sobre pescante, con baliza previa y baliza de pie; distancia entre balizas de unos 230 metros; visibilidad buena; ASFA en el material rodante; la señal estaba en indicación de parada.",
+    "tipo_via": "Vía 3 de la estación de Vicálvaro, con conexión a la vía general G3 del trayecto Vicálvaro-Vallecas.",
+    "velocidad_maxima": "120 km/h en vía 3 según Cuadro de Velocidades Máximas; 60 km/h permitidos en la baliza previa de B107-3; 65 km/h en el trayecto Vicálvaro Clasificación-Vicálvaro.",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "No existían obras en el lugar ni en sus proximidades; las instalaciones técnicas funcionaron correctamente.",
+    "otro": "Bloqueo automático de vía doble banalizada (BAB) con control de tráfico centralizado (CTC) en Madrid Chamartín; radiotelefonía en modalidad A, canal 99; tráfico medio semanal del tramo Vicálvaro-Vicálvaro Clasificación: 328 circulaciones."
+   },
+   "pagina": 8,
+   "cita": "La estación dispone de bloqueo automático de vía doble banalizada (BAB) con control de tráfico",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía en modalidad A, canal 99.",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "335",
+    "averia": "No se detectaron anomalías en los equipos y dispositivos de seguridad; el ASFA actuó correctamente provocando el freno de emergencia.",
+    "mantenimiento": "Autorización de circulación desde el 15/04/2009 según Archivo Patrón; revisiones conforme a su plan de mantenimiento, certificadas por Erion Mantenimiento Ferroviario S.A."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "El maquinista no tuvo en cuenta la diferencia de aceleración entre una locomotora aislada y un tren de mercancías cargado.",
+    "La locomotora aislada aceleró más que en las circulaciones habituales con trenes de unas 1.000 toneladas, reduciendo el tiempo empleado entre las señales B101 y B107-3.",
+    "El freno de emergencia por ASFA no pudo evitar el rebase indebido, que se produjo unos 80 metros después de la baliza de pie de la señal."
+   ],
+   "pagina": 5,
+   "cita": "Como causa coadyuvante se apunta que el maquinista no tuvo en cuenta la diferencia de aceleración",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista de la locomotora aislada VK153 posee el título B de conducción de vehículos ferroviarios \ny está habilitado conforme a la Orden FOM/2520/2006, de 27 de julio (Título V – Personal de \nconducción - en vigor hasta el 11 de enero de 2019, en virtud de la disposición transitoria octava de la \nOrden FOM/2872/2010, de 5 de noviembre).  \nTiene una antigüedad en el cargo desde el 16.04.2008, habilitación de la línea desde el 15.03.2011 y \ndel vehículo desde el 19.12.2008. \nRealizó su último reciclaje formativo el 08.04.2014 y su último reconocimiento médico y psicotécnico el \n04.05.2015, conforme a la normativa vigente. \nEl maquinista no tiene antecedentes de rebases indebidos de ninguna señal. Desde el 27.05.2008 que \ninició su actividad como maquinista en Continental Rail, ha circulado por el lugar del suceso (estación \nde Vicálvaro) con trenes en los trayectos Madrid-Valencia, León-Abroñigal, Valladolid-Abroñigal y \ndiferentes movimientos de composiciones entre las terminales del entorno de Madrid.  \nLas veces que haya podido pasar por el lugar del suceso pueden estimarse en unas 150. Durante los \ndos primeros años estuvo prácticamente circulando sólo entre Madrid y Valencia, para luego irse  \nhabilitando en otras líneas, pero continuó pasando regularmente por esa estación. \n3.3. \nNORMATIVA",
+   "pagina": 19,
+   "cita": "3.2.3. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 22 de mayo de 2015, la locomotora aislada VK153, de Continental Rail, con destino Madrid Santa Catalina, inicia la marcha en Vicálvaro Clasificación y se detiene ante la señal de entrada B101, en vía 3, en indicación de parada. En ese momento, el tren 97131 de Tracción Rail, con destino La Salud (Sevilla), se encuentra ante la señal de entrada B103 con indicación de vía libre y pasa por la señal de salida B107-3. A las 21:25:05 horas la locomotora aislada reanuda la marcha tras pasar B101 a anuncio de parada, circulando por la vía 3 de la estación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del personal de conducción de la locomotora aislada VK153, por falta de atención, que originó el rebase indebido de la señal de salida B107-3 en indicación de parada y el incumplimiento de los artículos 213 y 217.1 del Reglamento General de Circulación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El maquinista no tuvo en cuenta la diferencia de aceleración entre una locomotora aislada y un tren de mercancías cargado.",
+    "La locomotora aislada aceleró más que en las circulaciones habituales con trenes de unas 1.000 toneladas, reduciendo el tiempo empleado entre las señales B101 y B107-3.",
+    "El freno de emergencia por ASFA no pudo evitar el rebase indebido, que se produjo unos 80 metros después de la baliza de pie de la señal."
+   ],
+   "pagina": 5,
+   "cita": "Como causa coadyuvante se apunta que el maquinista no tuvo en cuenta la diferencia de aceleración",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": "No se ha podido constatar la existencia dentro del SGS de Continental Rail de un procedimiento que \nestablezca unos criterios generales para la suspensión, revocación y recuperación  de las habilitaciones \ntras un fallo humano en función de la gravedad de éste. (Ver Recomendación 28/2015-2) \n5. \nMEDIDAS ADOPTADAS \nPor parte de Continental Rail \nSe adoptaron las siguientes medidas: \na) Con respecto al maquinista:   \n \nJornada en colaboración con ADIF en la que se realiza el análisis de lo ocurrido con los datos \ntanto de la moviola del CTC como con los del registrador de la locomotora. \n \nPautas de conducción de locomotoras aisladas teniendo en cuenta su gran diferencia en cuanto \na capacidad de aceleración comparativamente con los trenes que normalmente se remolcan. \n\n## Página 29\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0028/2015 ocurrido el 22.05.2015 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n160628-150522-IF-CIAF \n \n \nPág. 29 de 30 \n \nRecordatorio sobre las técnicas de conducción y priorización de actuaciones cuando se circula \nhacia una señal que indica parada. \nb) Con respecto al colectivo de maquinistas de Continental Rail:  \nSe emitió el Comunicado de Seguridad 2015- 01 PAUTAS EN LA CONDUCCIÓN DE TRENES,  uno de \ncuyos apartados establece las pautas básicas a tener en consideración en la conducción de locomotoras \naisladas: \n“Cuando se circula como locomotora aislada, parece que existe la creencia  errónea por parte de \nmuchos maquinistas de que es una  conducción “más fácil” que cuando se realiza la tracción   de un \ntren con su carga máxima.  \nNada más  lejos de la realidad, si bien es evidente que  los procesos de aceleraron se ven muy \nbeneficiados por el hecho de disponer de todas las  prestaciones  de tracción  para desplazar sólo la \npropia locomotora, esta misma circunstancia hace que se tenga que extremar la atención en la \nconducción de la locomotora aislada. Los tiempos necesarios para alcanzar la velocidad máxima \ncorrespondiente son mucho menores, situación a tener  muy en cuenta sobre todo cuando se circula \nrebasando sucesivas señales en indicación de anuncio de parada. \nPor otro lado, al ser mayor la velocidad de circulación habitual de la locomotora aislada al circular a  T \n120, es preciso tener en cuenta que será necesario anticiparse antes para la realización de una \ndisminución de velocidad o una parada. \nAdemás de lo anterior y con respecto al freno dinámico circulando de locomotora aislada, es preciso \ntener en cuenta lo siguiente: \n \nSerá preciso anticiparse en su establecimiento, ya que al contrario de lo que sucede remolcando \nun tren, en el que puede establecer el freno dinámico y simultáneamente hacer una aplicación de \nfreno automático, de la locomotora aislada no se obtendrá esfuerzo de freno hasta que pasados \nunos segundos se verifique la secuencia de establecimiento del mismo. \n \nTener muy claro que una vez establecido el freno dinámico, si se hace una aplicación de freno \nautomático que no sea de urgencia no tendrá ninguna consecuencia ya que, con el freno dinámico \nestablecido, una aplicación del freno automático (TFA) NO GENERA NINGÚN AUMENTO DE \nPRESIÓN EN CILINDROS DE FRENO DE LA LOCOMOTORA, ESTO OCURRE EN LAS TRES  SERIES \nDE LOCOMOTORAS (319, 333 y 335). \nCorno recordatorio a lo ya explicado en diferentes ocasiones, en caso de descenso de pendientes \nprolongadas (como por ejemplo el tramo La Encina-Xátiva o La Cañada –El Escorial), en el que el \nesfuerzo del freno dinámico sea insuficiente para mantener la correspondiente velocidad mínima,  se \ndeberá realizar la denominada conducción de “diente de sierra”. \n\n## Página 30\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0028/2015 ocurrido el 22.05.2015 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n160628-150522-IF-CIAF \n \n \nPág. 30 de 30 \n6. \nRECOMENDACIONES \nDestinatario  \nImplementador \nfinal \nNúmero \nRecomendación \nAgencia Estatal  \nde Seguridad \nFerroviaria \n(AESF) \nContinental Rail \n28/2015-1 \nQue en los cursos de reciclaje a maquinistas \nse insista sobre el diferente comportamiento \ndel material móvil en lo relativo a su \naceleración \ny \nfrenado \nen \nlas \ndistintas \ncircunstancias en las que éste puede circular.  \n \nAgencia Estatal  \nde Seguridad \nFerroviaria \n(AESF) \nContinental Rail \n28/2015-2 \nQue se elabore e incluya dentro del SGS de \nContinental \nRail \nun \nprocedimiento \nque \nestablezca unos criterios generales para la \nsuspensión, revocación y recuperación  de las  \nhabilitaciones, tras un fallo humano en \nfunción de la gravedad de éste. \n \n \nMadrid, 28 de junio de 2016 \n \n \n\n### Tablas de la página 30\n\n| Destinatario | Implementador final | Número | Recomendación |\n|---|---|---|---|\n| Agencia Estatal de Seguridad Ferroviaria (AESF) | Continental Rail | 28/2015-1 | Que en los cursos de reciclaje a maquinistas se insista sobre el diferente comportamiento del material móvil en lo relativo a su aceleración y frenado en las distintas circunstancias en las que éste puede circular. |\n| Agencia Estatal de Seguridad Ferroviaria (AESF) | Continental Rail | 28/2015-2 | Que se elabore e incluya dentro del SGS de Continental Rail un procedimiento que establezca unos criterios generales para la suspensión, revocación y recuperación de las habilitaciones, tras un fallo humano en función de la gravedad de éste. |",
+   "pagina": 28,
+   "cita": "4.3.4. Observaciones adicionales",
+   "origen": "determinista",
+   "regla": "sec:^observaciones adicionales",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Que en los cursos de reciclaje a maquinistas se insista sobre el diferente comportamiento del material móvil en lo relativo a su aceleración y frenado en las distintas circunstancias en las que éste puede circular.",
+    "Que se elabore e incluya dentro del SGS de Continental Rail un procedimiento que establezca unos criterios generales para la suspensión, revocación y recuperación de las habilitaciones, tras un fallo humano en función de la gravedad de éste.",
+    "Que en los cursos de reciclaje a maquinistas se insista sobre el diferente comportamiento del material móvil en lo relativo a su aceleración y frenado en las distintas circunstancias en las que éste puede circular.",
+    "Que se elabore e incluya dentro del SGS de Continental Rail un procedimiento que establezca unos criterios generales para la suspensión, revocación y recuperación de las habilitaciones, tras un fallo humano en función de la gravedad de éste."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "Continental Rail",
+    "Continental Rail",
+    "Continental Rail",
+    "Continental Rail"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "21:17",
+     "evento": "21:17:18: la locomotora aislada VK153 inicia la marcha en Vicálvaro Clasificación."
+    },
+    {
+     "hora": "21:20",
+     "evento": "21:20:15: pasa por la baliza previa de la señal B101 a 14 km/h y posteriormente se detiene ante ella."
+    },
+    {
+     "hora": "21:21",
+     "evento": "21:21:01: la locomotora se detiene ante la señal de entrada B101, en vía 3, en indicación de parada; el tren 97131 está ante la señal B103 en vía libre."
+    },
+    {
+     "hora": "21:24",
+     "evento": "21:24:34: el tren 97131 ha rebasado la señal de salida B107-3; la locomotora sigue ante B101."
+    },
+    {
+     "hora": "21:25",
+     "evento": "21:25:05: la locomotora reanuda la marcha; 21:25:13: el tren 97131 pasa por B107-3 y B101 pasa a anuncio de parada; 21:25:34: la locomotora pasa por la baliza de pie de B101 y registra L1."
+    },
+    {
+     "hora": "21:26",
+     "evento": "21:26:02: la locomotora ocupa CVA1 con B107-3 en parada; 21:26:15: conversación en la que el maquinista declara despistarse; 21:26:45: pasa la baliza previa de B107-3 a 74 km/h y actúa el freno de emergencia ASFA; 21:26:56: rebasa la baliza de pie de B107-3 a 45 km/h y se produce el conato de colisión; 21:26:59: el conato dura 3 segundos."
+    },
+    {
+     "hora": "21:27",
+     "evento": "21:27:09: la locomotora se detiene a 80 metros tras la baliza de pie de la señal B107-3."
+    },
+    {
+     "hora": "21:42",
+     "evento": "La locomotora queda retirada de la vía 3 y apartada en vía 4; la circulación se restablece tras unos 16 minutos de afectación."
+    },
+    {
+     "hora": "23:53",
+     "evento": "La locomotora VK153 es expedida a su destino, Madrid Santa Catalina."
+    },
+    {
+     "hora": "12:20",
+     "evento": "El 26 de mayo de 2015, Adif comunica a la CIAF la reclasificación del suceso como conato de colisión."
+    },
+    {
+     "hora": null,
+     "evento": "El 14 de julio de 2015, el Presidente de la CIAF decide abrir la investigación."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0028/2015",
+ "expediente": "0028/15",
+ "anio": 2015,
+ "titulo": "INFORME FINAL DE LA CIAF (IFC) SOBRE EL INCIDENTE FERROVIARIO Nº 0028/2015 OCURRIDO EL DÍA 22.05.2015 EN LA ESTACIÓN DE VICÁLVARO (MADRID)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 22.05.2015 160628-150522-IF-CIAF.md"
+}

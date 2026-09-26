@@ -1,0 +1,876 @@
+{
+ "id": "IF-300608-281008-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/0B194DD7-AD03-4BFC-B272-26D8E078594A/46962/IF300608281008CIAF.pdf",
+ "pdf": "pdfs/ES/IF-300608-281008-CIAF.pdf",
+ "md5_pdf": "62bd3d9dddc9d3d14dbb276f512b55f1",
+ "paginas_md": 9,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 6,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0028/2008",
+   "pagina": 1,
+   "cita": "nº 0028/2008 ocurrido el 30.06.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 30 de junio de 2008, a las 21:07 horas, el tren de mercancías 60665 de Renfe Operadora arrolló a una persona en el P.K. 146,950 de la línea 700 Casetas-Intermodal Abando Indalecio Prieto, a la salida de la estación de Miranda de Ebro. La víctima, un varón de 33 años, quedó gravemente herida con las piernas seccionadas y falleció posteriormente en el Hospital Santiago Apóstol. El tren circulaba a 29 km/h, muy por debajo de la velocidad máxima permitida de 100 km/h. La causa del accidente fue el tránsito de la víctima por un lugar no autorizado.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-06-30",
+    "hora": "21:07",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Miranda de Ebro",
+     "pk": "146,950",
+     "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+     "provincia": "Burgos",
+     "descripcion_lugar": "A la salida de la estación de Miranda de Ebro, a la altura de la aguja nº10 de la bifurcación hacia Bilbao, junto al muro que separa a la empresa azucarera Ebro de las vías"
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 30 de junio de 2008, a las 21:07 horas, el tren de mercancías 60665, de la empresa",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura, ni al medio ambiente",
+    "afectacion_servicio": "Interceptación de vía de 118 minutos (21:07-23:05). Cuatro trenes de mercancías (incluido el implicado) sufrieron un retraso total de 339 minutos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Tránsito de la víctima por un lugar no autorizado para ello",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en el tránsito de la víctima  por un lugar no autorizado",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Dadas las características del suceso, no se establecen recomendaciones. \n \n \n \n \n \nMadrid, 28 de octubre de 2008. \n \n \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0028/2008 ocurrido el 30.06.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-300608-281008-CIAF \n \n \nPág. 8 de 9\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0028/2008 \nOCURRIDO EL DÍA 30.06.2008 \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0028/2008 ocurrido el 30.06.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-300608-281008-CIAF \n \n \nPág. 9 de 9\n \n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día \n28 de octubre de 2008, analizado el expediente nº 0028/2008; del accidente acaecido en el \nP.K.146,950 de la línea 700 Casetas-Intermodal Abando Indalecio Prieto el 30.06.2008, se \naprueba como definitivo el informe particular presentado por el técnico investigador con la \nsiguiente recomendación: \n \n- Dadas las características del suceso, no se establecen recomendaciones. \n \n \n \nMadrid, 28 de octubre de 2008",
+   "pagina": 7,
+   "cita": "6. RECOMENDACIONES Dadas las características del suceso, no se establecen recomendaciones. Madrid, 28 de octubre de 2008. ## Página 8 Investigación del accidente nº 0028/2008 ocurrido el 30.06.2",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de una persona",
+   "pagina": 2,
+   "cita": "Investigación de accidentes ferroviarios que se había producido el arrollamiento de una persona por el",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "ferroviaria Renfe Operadora, arrolla a una persona en el P.K.146,950, de la línea 700 Casetas-",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-06-30",
+   "pagina": 2,
+   "cita": "El día 30 de junio de 2008, a las 21:07 horas, el tren de mercancías 60665, de la empresa",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "21:07",
+   "pagina": 2,
+   "cita": "El día 30 de junio de 2008, a las 21:07 horas, el tren de mercancías 60665, de la empresa",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Miranda de Ebro",
+    "pk": "146,950",
+    "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+    "provincia": "Burgos",
+    "descripcion_lugar": "A la salida de la estación de Miranda de Ebro, a la altura de la aguja nº10 de la bifurcación hacia Bilbao, junto al muro que separa a la empresa azucarera Ebro de las vías"
+   },
+   "pagina": 2,
+   "cita": "posteriormente. El lugar del accidente se encuentra a la salida de la estación de Miranda de Ebro, a la",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "700 Casetas-Intermodal Abando Indalecio Prieto",
+   "pagina": 9,
+   "cita": "P.K.146,950 de la línea 700 Casetas-Intermodal Abando Indalecio Prieto el 30.06.2008, se",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 269263",
+    "averia": "Ninguna; funcionamiento correcto según memoria estática",
+    "mantenimiento": "No se menciona; el material rodante funcionaba correctamente"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de mercancías 60665 de Renfe Operadora, compuesto por la locomotora 269263 y 15 vagones con masa remolcada de 388 Tm, procedente de Villafría con destino Bilbao, efectúa la salida de la estación de Miranda de Ebro. Circulando parejo al muro que separa a la empresa azucarera Ebro de las vías, una vez rebasada la señal S3, el maquinista observa a dos personas que permanecen junto a dicho muro. El maquinista hace uso del silbato y aplica el freno de urgencia, pero las personas quedan inmóviles, produciéndose el arrollamiento de una de ellas, que queda gravemente herida con las piernas seccionadas, mientras que la otra resulta ilesa. El maquinista se desplaza al lugar del arrollamiento, localiza a la víctima consciente y avisa al puesto de emergencia solicitando ambulancia. La víctima ingresa en el Hospital Santiago Apóstol de Miranda de Ebro, donde fallece posteriormente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Miranda de Ebro",
+    "pk": "146,950",
+    "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+    "provincia": "Burgos",
+    "descripcion_lugar": "A la salida de la estación de Miranda de Ebro, a la altura de la aguja nº10 de la bifurcación hacia Bilbao, junto al muro que separa a la empresa azucarera Ebro de las vías"
+   },
+   "pagina": 2,
+   "cita": "posteriormente. El lugar del accidente se encuentra a la salida de la estación de Miranda de Ebro, a la",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura, ni al medio ambiente",
+    "afectacion_servicio": "Interceptación de vía de 118 minutos (21:07-23:05). Cuatro trenes de mercancías (incluido el implicado) sufrieron un retraso total de 339 minutos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 60665",
+     "implicacion": "Observó a dos personas junto al muro, usó silbato y freno de urgencia; actuación correcta según la investigación. Alcohol test negativo (0,00 mg/1000 ml). Jornada efectiva: 4h15min; descanso 24h y 48h previas"
+    },
+    {
+     "rol": "Víctima (varón de 33 años)",
+     "implicacion": "Transitaba por un lugar no autorizado; arrollada con las piernas seccionadas; falleció en el Hospital Santiago Apóstol de Miranda de Ebro"
+    },
+    {
+     "rol": "Segunda persona junto al muro",
+     "implicacion": "Resultó ilesa"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "60665",
+     "tipo": "tren de mercancías",
+     "operador": "Renfe Operadora",
+     "danos": "Sin daños en el material rodante"
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 30 de junio de 2008, a las 21:07 horas, el tren de mercancías 60665, de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 269263",
+    "averia": "Ninguna; funcionamiento correcto según memoria estática",
+    "mantenimiento": "No se menciona; el material rodante funcionaba correctamente"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal S3 (rebasada antes del arrollamiento)",
+    "tipo_via": "Vía única, tramo en curva a izquierda, radio 459 m, pendiente 3,85‰",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Funcionamiento correcto; galibo mínimo entre hilo izquierdo de la vía y muro de la empresa azucarera",
+    "otro": "Bloqueo Eléctrico Manual (B.E.M.); radiotelefonía modalidad A; Consigna Serie A 2708 de Miranda de Ebro; Consigna Serie A del BEM trayecto Miranda de Ebro-Orduña"
+   },
+   "pagina": 3,
+   "cita": "459 y pendiente 3,85 º/oo y con  Bloqueo Eléctrico Manual (B.E.M.)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal S3 (rebasada antes del arrollamiento)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura, ni al medio ambiente",
+    "afectacion_servicio": "Interceptación de vía de 118 minutos (21:07-23:05). Cuatro trenes de mercancías (incluido el implicado) sufrieron un retraso total de 339 minutos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura, ni al medio ambiente",
+    "afectacion_servicio": "Interceptación de vía de 118 minutos (21:07-23:05). Cuatro trenes de mercancías (incluido el implicado) sufrieron un retraso total de 339 minutos"
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-300608-281008-CIAF Pág. 1 de 9 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0028/2008",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños en el material rodante, ni en la infraestructura, ni al medio ambiente",
+    "afectacion_servicio": "Interceptación de vía de 118 minutos (21:07-23:05). Cuatro trenes de mercancías (incluido el implicado) sufrieron un retraso total de 339 minutos"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 269263",
+    "averia": "Ninguna; funcionamiento correcto según memoria estática",
+    "mantenimiento": "No se menciona; el material rodante funcionaba correctamente"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal S3 (rebasada antes del arrollamiento)",
+    "tipo_via": "Vía única, tramo en curva a izquierda, radio 459 m, pendiente 3,85‰",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Funcionamiento correcto; galibo mínimo entre hilo izquierdo de la vía y muro de la empresa azucarera",
+    "otro": "Bloqueo Eléctrico Manual (B.E.M.); radiotelefonía modalidad A; Consigna Serie A 2708 de Miranda de Ebro; Consigna Serie A del BEM trayecto Miranda de Ebro-Orduña"
+   },
+   "pagina": 3,
+   "cita": "459 y pendiente 3,85 º/oo y con  Bloqueo Eléctrico Manual (B.E.M.)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Condiciones atmosféricas buenas y tiempo despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Burgos",
+    "municipio": null,
+    "estacion": "Miranda de Ebro"
+   },
+   "pagina": 2,
+   "cita": "Burgos El tren de mercancías 60665 de Renfe Operadora, compuesto por la locomotora 269263, 15 vagones con masa remolcada de 388 Tm, procedente de Villafría destino Bilbao, efectúa la salida de la estación de Miranda d",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Condiciones atmosféricas buenas y tiempo despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal S3 (rebasada antes del arrollamiento)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal S3 (rebasada antes del arrollamiento)",
+    "tipo_via": "Vía única, tramo en curva a izquierda, radio 459 m, pendiente 3,85‰",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Funcionamiento correcto; galibo mínimo entre hilo izquierdo de la vía y muro de la empresa azucarera",
+    "otro": "Bloqueo Eléctrico Manual (B.E.M.); radiotelefonía modalidad A; Consigna Serie A 2708 de Miranda de Ebro; Consigna Serie A del BEM trayecto Miranda de Ebro-Orduña"
+   },
+   "pagina": 3,
+   "cita": "459 y pendiente 3,85 º/oo y con  Bloqueo Eléctrico Manual (B.E.M.)",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 269263",
+    "averia": "Ninguna; funcionamiento correcto según memoria estática",
+    "mantenimiento": "No se menciona; el material rodante funcionaba correctamente"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Tránsito de víctima por lugar no autorizado",
+    "Personas permanecían junto al muro"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de mercancías 60665 de Renfe Operadora, compuesto por la locomotora 269263 y 15 vagones con masa remolcada de 388 Tm, procedente de Villafría con destino Bilbao, efectúa la salida de la estación de Miranda de Ebro. Circulando parejo al muro que separa a la empresa azucarera Ebro de las vías, una vez rebasada la señal S3, el maquinista observa a dos personas que permanecen junto a dicho muro. El maquinista hace uso del silbato y aplica el freno de urgencia, pero las personas quedan inmóviles, produciéndose el arrollamiento de una de ellas, que queda gravemente herida con las piernas seccionadas, mientras que la otra resulta ilesa. El maquinista se desplaza al lugar del arrollamiento, localiza a la víctima consciente y avisa al puesto de emergencia solicitando ambulancia. La víctima ingresa en el Hospital Santiago Apóstol de Miranda de Ebro, donde fallece posteriormente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en la estación de Miranda de Ebro, en el pk 146,950 de la línea 700 \nCasetas- Intermodal Abando Indalecio Prieto. \nSegún la memoria estática de la locomotora, el tren circulaba a una velocidad inferior a la máxima \npermitida en el tramo. \nSegún lo declarado por el maquinista, al percatarse de la presencia de las personas en lugar no \nautorizado para ello, hizo uso del silbato y actuó sobre el freno de emergencia, por lo que la actuación \ndel maquinista fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasas de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario. \n\n## Página 7\n\n \n \n \nInvestigación del accidente \nnº 0028/2008 ocurrido el 30.06.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-300608-281008-CIAF \n \n \nPág. 7 de 9\nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nTanto el funcionamiento de la infraestructura como la actuación del maquinista se ajustan a la \nnormativa y no influyeron en el desarrollo de los hechos. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en el tránsito de la víctima  por un lugar no autorizado para ello.",
+   "pagina": 6,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Tránsito de la víctima por un lugar no autorizado para ello",
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en el tránsito de la víctima  por un lugar no autorizado",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Tránsito de víctima por lugar no autorizado",
+    "Personas permanecían junto al muro"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "Dadas las características del suceso, no se establecen recomendaciones. \n \n \n \n \n \nMadrid, 28 de octubre de 2008. \n \n \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0028/2008 ocurrido el 30.06.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-300608-281008-CIAF \n \n \nPág. 8 de 9\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0028/2008 \nOCURRIDO EL DÍA 30.06.2008 \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0028/2008 ocurrido el 30.06.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-300608-281008-CIAF \n \n \nPág. 9 de 9\n \n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día \n28 de octubre de 2008, analizado el expediente nº 0028/2008; del accidente acaecido en el \nP.K.146,950 de la línea 700 Casetas-Intermodal Abando Indalecio Prieto el 30.06.2008, se \naprueba como definitivo el informe particular presentado por el técnico investigador con la \nsiguiente recomendación: \n \n- Dadas las características del suceso, no se establecen recomendaciones. \n \n \n \nMadrid, 28 de octubre de 2008",
+   "pagina": 7,
+   "cita": "6. RECOMENDACIONES Dadas las características del suceso, no se establecen recomendaciones. Madrid, 28 de octubre de 2008. ## Página 8 Investigación del accidente nº 0028/2008 ocurrido el 30.06.2",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "21:07",
+     "evento": "Arrollamiento de la persona por el tren de mercancías 60665 en el P.K. 146,950"
+    },
+    {
+     "hora": "21:07",
+     "evento": "El maquinista observa a dos personas junto al muro, hace uso del silbato y aplica el freno de urgencia"
+    },
+    {
+     "hora": "21:07",
+     "evento": "El tren se detiene; el maquinista localiza a la víctima consciente y avisa al puesto de emergencia"
+    },
+    {
+     "hora": null,
+     "evento": "La víctima es trasladada al Hospital Santiago Apóstol de Miranda de Ebro, donde fallece"
+    },
+    {
+     "hora": "23:05",
+     "evento": "Fin de la interceptación de vía (118 minutos)"
+    },
+    {
+     "hora": "07:40",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF (1 de julio de 2008)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0028/2008",
+ "expediente": "0028/08",
+ "anio": 2008,
+ "titulo": "INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0028/2008 OCURRIDO EL DÍA 30.06.2008",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-300608-281008-CIAF.md"
+}

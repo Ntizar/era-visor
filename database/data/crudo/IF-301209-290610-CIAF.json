@@ -1,0 +1,966 @@
+{
+ "id": "IF-301209-290610-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/53BADB05-D6EF-496F-B621-9C9E73B2460C/76760/0069CIAF.pdf",
+ "pdf": "pdfs/ES/IF-301209-290610-CIAF.pdf",
+ "md5_pdf": "95dca2d48ac6e3f8affb4a50a0aa69b3",
+ "paginas_md": 11,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 19,
+ "n_tablas": 1,
+ "tablas": [
+  {
+   "pagina": 9,
+   "cabecera": [
+    "Distribución por gerencias (período 2005-2010)",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Distribución por años",
+    ""
+   ],
+   "filas": [
+    {
+     "Distribución por gerencias (período 2005-2010)": "Gerencia",
+     "Distribución por años": "Año"
+    },
+    {
+     "Distribución por gerencias (período 2005-2010)": "Tierras",
+     "Distribución por años": ""
+    },
+    {
+     "Distribución por gerencias (período 2005-2010)": "CE NTRO",
+     "Distribución por años": "2005"
+    },
+    {
+     "Distribución por gerencias (período 2005-2010)": "NOROESTE",
+     "Distribución por años": "2006"
+    },
+    {
+     "Distribución por gerencias (período 2005-2010)": "NORTE",
+     "Distribución por años": "2007"
+    },
+    {
+     "Distribución por gerencias (período 2005-2010)": "NO RESTE",
+     "Distribución por años": "2008"
+    },
+    {
+     "Distribución por gerencias (período 2005-2010)": "LEVANTE",
+     "Distribución por años": "2009"
+    },
+    {
+     "Distribución por gerencias (período 2005-2010)": "SUR",
+     "Distribución por años": "2010 (*)"
+    },
+    {
+     "Distribución por gerencias (período 2005-2010)": "TOTALES",
+     "Distribución por años": "22"
+    }
+   ],
+   "cita": "| Distribución por gerencias (período 2005-2010) |   |   |   |   |   |   | Distribución por años |   |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0069/2009",
+   "pagina": 1,
+   "cita": "nº 0069/2009 ocurrido el 30.12.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 30 de diciembre de 2009, a las 03:08 horas, el tren de larga distancia 930 de Renfe Operadora colisionó con una roca situada en la caja de la vía en el P.K. 92+020 de la línea 700, a la entrada de la estación de Fuenmayor. La roca procedía de un desprendimiento de la ladera derecha y no fue detenida por la malla metálica de protección. Como consecuencia se produjo el descarrilamiento de la locomotora y de los cuatro primeros coches, sin víctimas mortales ni heridos. La vía quedó interceptada durante más de un día y se produjeron importantes retrasos en trenes de mercancías y larga distancia.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-12-30",
+    "hora": "03:08",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Fuenmayor",
+     "pk": "92+020",
+     "linea": "700 Intermodal Abando Indalecio Prieto - Casetas",
+     "provincia": "La Rioja",
+     "descripcion_lugar": "A la entrada de la estación de Fuenmayor, en el tramo Logroño-Haro, sobre una alineación en curva de radio 450 metros, con perfil en ligera pendiente y plataforma a media ladera, con muro de contención y malla metálica en la coronación."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 30 de diciembre de 2009, a las 03:08 horas, el tren de viajeros de lar ga distancia 930, de la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Rotura del hilo derecho del carril en el sentido de la marcha y daños de cierta consideración al material rodante.",
+    "afectacion_servicio": "Vía interceptada desde las 03:08 horas del 30 de diciembre de 2009 hasta las 14:15 horas del 31 de diciembre de 2009; cinco trenes de mercancías sufrieron un retraso total de 274 minutos y once trenes de larga distancia un retraso total de 360 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Colisión del tren 930 con una roca de aproximadamente 1 metro cúbico existente en la caja de la vía y procedente de un desprendimiento de la ladera derecha desde unos 25 metros de altura, no detenida por la malla metálica de protección.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La malla metálica de protección no soportó el impacto de la roca.",
+    "El desprendimiento se produjo desde una altura de unos 25 metros y la roca tenía un volumen aproximado de 1 metro cúbico.",
+    "Tiempo lluvioso y circulación nocturna, con visibilidad hacia la roca de unos 50 metros.",
+    "Existencia de otros desprendimientos de rocas de menor tamaño entre el P.K. 92+020 y el P.K. 91+780."
+   ],
+   "pagina": 10,
+   "cita": "procedente de un desprendimiento. La malla metálica de protección no soportó el impacto de la roca,",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Necesidad de incrementar el ritmo de tratamiento de trincheras con riesgo.",
+    "Aumento de incidencias por desprendimientos en el invierno de 2010 debido a la mayor intensidad de precipitaciones y a la mayor inestabilidad de taludes."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Que DGIF y ADIF analicen la viabilidad de incrementar el ritmo de tratamiento de trincheras con riesgo.",
+     "destinatario": "Dirección General de Infraestructuras Ferroviarias (DGIF) y Adif"
+    }
+   ],
+   "pagina": 11,
+   "cita": "69/09-1 Que DGIF y ADIF Analicen la viabilidad de incrementar el ritmo de tratamiento de trincheras con riesgo. Madrid, 29 de junio de 2010",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Que DGIF y ADIF analicen la viabilidad de incrementar el ritmo de tratamiento de trincheras con riesgo.",
+     "destinatario": "Dirección General de Infraestructuras Ferroviarias (DGIF) y Adif"
+    }
+   ],
+   "pagina": 11,
+   "cita": "69/09-1 Que DGIF y ADIF Analicen la viabilidad de incrementar el ritmo de tratamiento de trincheras con riesgo. Madrid, 29 de junio de 2010",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Colisión y descarrilamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "empresa ferroviaria Renfe Operadora, colisiona con una roca, situada en la caja de la vía y procedente",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-12-30",
+   "pagina": 3,
+   "cita": "El día 30 de diciembre de 2009, a las 03:08 horas, el tren de viajeros de lar ga distancia 930, de la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "03:08",
+   "pagina": 3,
+   "cita": "El día 30 de diciembre de 2009, a las 03:08 horas, el tren de viajeros de lar ga distancia 930, de la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Fuenmayor",
+    "pk": "92+020",
+    "linea": "700 Intermodal Abando Indalecio Prieto - Casetas",
+    "provincia": "La Rioja",
+    "descripcion_lugar": "A la entrada de la estación de Fuenmayor, en el tramo Logroño-Haro, sobre una alineación en curva de radio 450 metros, con perfil en ligera pendiente y plataforma a media ladera, con muro de contención y malla metálica en la coronación."
+   },
+   "pagina": 3,
+   "cita": "Casetas, a la entrada de l a estación de Fuenmayor, provincia de La Rioja. Como consecuencia de l a",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "700 Intermodal Abando Indalecio Prieto - Casetas",
+   "pagina": 3,
+   "cita": "700 Intermodal Abando Indalecio Prieto - Casetas",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 252018; tren tipo 160B",
+    "averia": "Colisión con roca y descarrilamiento de la locomotora y de los cuatro primeros coches; los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 30 de diciembre de 2009, a las 03:08 horas, el tren de viajeros de larga distancia 930 de Renfe Operadora, procedente de Gijón y con destino Barcelona, circulaba por el tramo Logroño-Haro de la línea 700 Intermodal Abando Indalecio Prieto-Casetas. Al salir de una curva, antes de llegar a la estación de Fuenmayor, el maquinista observó una roca en el centro de la caja de la vía a unos 50 metros de distancia y accionó el freno de emergencia, sin poder evitar la colisión.\n\nEl tren pasó la señal de entrada E2 a las 03:08:07 horas a una velocidad de 78 km/h, el freno de emergencia se accionó a las 03:08:13 horas a 75 km/h y la colisión con la roca se produjo a las 03:08:19 horas aproximadamente, a 63 km/h, tras recorrer unos 100 metros. Inmediatamente después se produjo el descarrilamiento de la locomotora 252018 y de los cuatro primeros coches de la composición, deteniéndose el convoy tras recorrer unos 70 metros más.\n\nLa roca, de aproximadamente 1 metro cúbico, se desprendió de la ladera derecha en el sentido de la marcha del tren, desde una altura de unos 25 metros. La malla metálica instalada en la coronación del muro de contención no soportó el impacto, permitiendo que la roca llegara a la caja de la vía. No se produjeron víctimas mortales ni heridos, aunque el material rodante sufrió daños de cierta consideración y se rompió el hilo derecho del carril en el sentido de la marcha.",
+   "pagina": 3,
+   "cita": "RESUMEN El día 30 de diciembre de 2009, a las 03:08 horas, el tren de viajeros de lar ga distancia 930, de la empresa ferroviaria Renfe Operadora, colisiona con una roca, situada en la caja de la vía y procedente de",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Fuenmayor",
+    "pk": "92+020",
+    "linea": "700 Intermodal Abando Indalecio Prieto - Casetas",
+    "provincia": "La Rioja",
+    "descripcion_lugar": "A la entrada de la estación de Fuenmayor, en el tramo Logroño-Haro, sobre una alineación en curva de radio 450 metros, con perfil en ligera pendiente y plataforma a media ladera, con muro de contención y malla metálica en la coronación."
+   },
+   "pagina": 3,
+   "cita": "Casetas, a la entrada de l a estación de Fuenmayor, provincia de La Rioja. Como consecuencia de l a",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Rotura del hilo derecho del carril en el sentido de la marcha y daños de cierta consideración al material rodante.",
+    "afectacion_servicio": "Vía interceptada desde las 03:08 horas del 30 de diciembre de 2009 hasta las 14:15 horas del 31 de diciembre de 2009; cinco trenes de mercancías sufrieron un retraso total de 274 minutos y once trenes de larga distancia un retraso total de 360 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista",
+     "implicacion": "Conducía el tren 930; observó la roca a unos 50 metros y accionó el freno de emergencia sin poder evitar la colisión. Cumplía título, habilitaciones, formación y reconocimientos médicos y psicotécnicos; prueba de alcoholemia negativa."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "930",
+     "tipo": "Tren de viajeros de larga distancia",
+     "operador": "Renfe Operadora",
+     "danos": "Descarrilamiento de la locomotora y de los cuatro primeros coches; daños de cierta consideración al material rodante."
+    }
+   ],
+   "pagina": 3,
+   "cita": "empresa ferroviaria Renfe Operadora, colisiona con una roca, situada en la caja de la vía y procedente",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 252018; tren tipo 160B",
+    "averia": "Colisión con roca y descarrilamiento de la locomotora y de los cuatro primeros coches; los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 3,
+   "cita": "de Infraestructuras Ferroviarias (DGIF) y Adif 69/09-1 Que DGIF y ADIF analic en la vi abilidad de increm entar el ritmo de tratamiento de trincheras con riesgo. 2. HECHOS INMEDIATOS DEL SUCESO 2.1. SUCESO 2.1.",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E2; según el maquinista, vía libre con paso directo.",
+    "tipo_via": "Vía única electrificada",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Alineación en curva de radio 450 metros, perfil en ligera pendiente, plataforma a media ladera, muro de contención y malla metálica en coronación; tras el accidente se produjo la rotura del hilo derecho del carril en el sentido de la marcha.",
+    "otro": "Bloqueo automático con C.T.C.; radiotelefonía A; media semanal de circulaciones del tramo Logroño-Haro: 176; sin limitación temporal de velocidad en el momento del accidente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de entrada E2; según el maquinista, vía libre con paso directo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía A.",
+   "pagina": 6,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Rotura del hilo derecho del carril en el sentido de la marcha y daños de cierta consideración al material rodante.",
+    "afectacion_servicio": "Vía interceptada desde las 03:08 horas del 30 de diciembre de 2009 hasta las 14:15 horas del 31 de diciembre de 2009; cinco trenes de mercancías sufrieron un retraso total de 274 minutos y once trenes de larga distancia un retraso total de 360 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Rotura del hilo derecho del carril en el sentido de la marcha y daños de cierta consideración al material rodante.",
+    "afectacion_servicio": "Vía interceptada desde las 03:08 horas del 30 de diciembre de 2009 hasta las 14:15 horas del 31 de diciembre de 2009; cinco trenes de mercancías sufrieron un retraso total de 274 minutos y once trenes de larga distancia un retraso total de 360 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Rotura del hilo derecho del carril en el sentido de la marcha y daños de cierta consideración al material rodante.",
+    "afectacion_servicio": "Vía interceptada desde las 03:08 horas del 30 de diciembre de 2009 hasta las 14:15 horas del 31 de diciembre de 2009; cinco trenes de mercancías sufrieron un retraso total de 274 minutos y once trenes de larga distancia un retraso total de 360 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252018; tren tipo 160B",
+    "averia": "Colisión con roca y descarrilamiento de la locomotora y de los cuatro primeros coches; los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E2; según el maquinista, vía libre con paso directo.",
+    "tipo_via": "Vía única electrificada",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Alineación en curva de radio 450 metros, perfil en ligera pendiente, plataforma a media ladera, muro de contención y malla metálica en coronación; tras el accidente se produjo la rotura del hilo derecho del carril en el sentido de la marcha.",
+    "otro": "Bloqueo automático con C.T.C.; radiotelefonía A; media semanal de circulaciones del tramo Logroño-Haro: 176; sin limitación temporal de velocidad en el momento del accidente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche con tiempo lluvioso.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "La Rioja",
+    "municipio": null,
+    "estacion": "Fuenmayor"
+   },
+   "pagina": 3,
+   "cita": "Casetas, a la entrada de l a estación de Fuenmayor, provincia de La Rioja. Como consecuencia de l a",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche con tiempo lluvioso.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de entrada E2; según el maquinista, vía libre con paso directo.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E2; según el maquinista, vía libre con paso directo.",
+    "tipo_via": "Vía única electrificada",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Alineación en curva de radio 450 metros, perfil en ligera pendiente, plataforma a media ladera, muro de contención y malla metálica en coronación; tras el accidente se produjo la rotura del hilo derecho del carril en el sentido de la marcha.",
+    "otro": "Bloqueo automático con C.T.C.; radiotelefonía A; media semanal de circulaciones del tramo Logroño-Haro: 176; sin limitación temporal de velocidad en el momento del accidente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía A.",
+   "pagina": 6,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252018; tren tipo 160B",
+    "averia": "Colisión con roca y descarrilamiento de la locomotora y de los cuatro primeros coches; los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "desprendimiento de roca desde ladera",
+    "malla metálica no soportó impacto",
+    "visibilidad limitada al salir curva",
+    "insuficiente tratamiento de trincheras"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El personal de conducción del tren posee título y habilitación conforme a la Orden FOM/2520/2006, de",
+   "pagina": 7,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 30 de diciembre de 2009, a las 03:08 horas, el tren de viajeros de larga distancia 930 de Renfe Operadora, procedente de Gijón y con destino Barcelona, circulaba por el tramo Logroño-Haro de la línea 700 Intermodal Abando Indalecio Prieto-Casetas. Al salir de una curva, antes de llegar a la estación de Fuenmayor, el maquinista observó una roca en el centro de la caja de la vía a unos 50 metros de distancia y accionó el freno de emergencia, sin poder evitar la colisión.\n\nEl tren pasó la señal de entrada E2 a las 03:08:07 horas a una velocidad de 78 km/h, el freno de emergencia se accionó a las 03:08:13 horas a 75 km/h y la colisión con la roca se produjo a las 03:08:19 horas aproximadamente, a 63 km/h, tras recorrer unos 100 metros. Inmediatamente después se produjo el descarrilamiento de la locomotora 252018 y de los cuatro primeros coches de la composición, deteniéndose el convoy tras recorrer unos 70 metros más.\n\nLa roca, de aproximadamente 1 metro cúbico, se desprendió de la ladera derecha en el sentido de la marcha del tren, desde una altura de unos 25 metros. La malla metálica instalada en la coronación del muro de contención no soportó el impacto, permitiendo que la roca llegara a la caja de la vía. No se produjeron víctimas mortales ni heridos, aunque el material rodante sufrió daños de cierta consideración y se rompió el hilo derecho del carril en el sentido de la marcha.",
+   "pagina": 3,
+   "cita": "RESUMEN El día 30 de diciembre de 2009, a las 03:08 horas, el tren de viajeros de lar ga distancia 930, de la empresa ferroviaria Renfe Operadora, colisiona con una roca, situada en la caja de la vía y procedente de",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Colisión del tren 930 con una roca de aproximadamente 1 metro cúbico existente en la caja de la vía y procedente de un desprendimiento de la ladera derecha desde unos 25 metros de altura, no detenida por la malla metálica de protección.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La malla metálica de protección no soportó el impacto de la roca.",
+    "El desprendimiento se produjo desde una altura de unos 25 metros y la roca tenía un volumen aproximado de 1 metro cúbico.",
+    "Tiempo lluvioso y circulación nocturna, con visibilidad hacia la roca de unos 50 metros.",
+    "Existencia de otros desprendimientos de rocas de menor tamaño entre el P.K. 92+020 y el P.K. 91+780."
+   ],
+   "pagina": 10,
+   "cita": "procedente de un desprendimiento. La malla metálica de protección no soportó el impacto de la roca,",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Que DGIF y ADIF analicen la viabilidad de incrementar el ritmo de tratamiento de trincheras con riesgo.",
+     "destinatario": "Dirección General de Infraestructuras Ferroviarias (DGIF) y Adif"
+    }
+   ],
+   "pagina": 11,
+   "cita": "69/09-1 Que DGIF y ADIF Analicen la viabilidad de incrementar el ritmo de tratamiento de trincheras con riesgo. Madrid, 29 de junio de 2010",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "03:08",
+     "evento": "El tren 930 pasa por la señal de entrada E2 a una velocidad de 78 km/h y el maquinista observa una roca en la caja de la vía a unos 50 metros."
+    },
+    {
+     "hora": "03:08",
+     "evento": "El maquinista acciona el freno de emergencia a una velocidad de 75 km/h."
+    },
+    {
+     "hora": "03:08",
+     "evento": "Colisión del tren con la roca en el P.K. 92+020 a una velocidad de 63 km/h, tras recorrer unos 100 metros y pasar unos 6 segundos."
+    },
+    {
+     "hora": "03:08",
+     "evento": "Se produce el descarrilamiento de la locomotora y de los cuatro primeros coches de la composición."
+    },
+    {
+     "hora": "03:08",
+     "evento": "Parada del convoy tras recorrer unos 70 metros desde la colisión."
+    },
+    {
+     "hora": "03:51",
+     "evento": "El jefe de investigación de accidentes de Adif comunica a la CIAF, por correo electrónico, que se había producido el descarrilamiento de un tren de larga distancia."
+    },
+    {
+     "hora": "05:15",
+     "evento": "Se realiza al maquinista la prueba de alcoholemia en aire espirado, con resultado negativo (0,00 mg/1000 ml)."
+    },
+    {
+     "hora": null,
+     "evento": "La vía quedó interceptada desde las 03:08 horas del 30 de diciembre de 2009 hasta las 14:15 horas del 31 de diciembre de 2009."
+    },
+    {
+     "hora": null,
+     "evento": "El 26 de enero de 2010, la Comisión de Investigación de Accidentes Ferroviarios resolvió abrir la investigación del accidente."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0069/2009",
+ "expediente": "0069/09",
+ "anio": 2009,
+ "titulo": "Colisión y descarrilamiento del tren 930 por roca desprendida en estación de Fuenmayor (La Rioja)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-301209-290610-CIAF.md"
+}

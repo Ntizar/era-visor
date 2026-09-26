@@ -1,0 +1,934 @@
+{
+ "id": "IF_010612_280513_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/F18848C8-4D7F-416A-ADE3-2E0E7B418C64/118401/IF010612280513CIAF.pdf",
+ "pdf": "pdfs/ES/IF_010612_280513_CIAF.pdf",
+ "md5_pdf": "db7a99e7cd70360140be42b4a68ab082",
+ "paginas_md": 19,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 18,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0041/2012",
+   "pagina": 1,
+   "cita": "nº 0041/2012 ocurrido el 01.06.2012",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 1 de junio de 2012 a las 14:32, el tren de mercancías 92559 de Renfe Operadora descarriló en el interior del túnel nº 73 'L'Argentera' (PK 558+049) de la línea 210 Miraflores-Tarragona, entre las estaciones de Duesaigües-L'Argentera y Marçà-Falset. El descarrilamiento se originó en el primer eje del penúltimo vagón y progresó hasta afectar a los tres últimos vagones, circulando el tren descarrilado unos 6 km antes de detenerse. No hubo víctimas mortales ni heridos. La causa fue el fallo de la infraestructura, concretamente la incorrecta disposición de un cupón de vía de 5 metros (inferior a los 10 metros exigidos por la norma NAV 7-6-0.1) montado tras un descarrilamiento previo del 22/03/2012, con deficiencias en bridas, calzos, tuercas y grapas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2012-06-01",
+    "hora": "14:32",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Túnel nº 73 'L'Argentera' (entre Duesaigües-L'Argentera y Marçà-Falset)",
+     "pk": "PK 558+049",
+     "linea": "210 Miraflores - Tarragona",
+     "provincia": "Tarragona",
+     "descripcion_lugar": "Interior del túnel nº 73 'L'Argentera' (4.470 m de longitud), en alineación recta, rampa de 10 milésimas. Municipio: Falset. Tramo: Mora La Nova - Reus. Boca oeste del túnel (PK 556+636) junto a la estación de Pradell (PK 556+098). Estación de Marçà-Falset en PK 551+348."
+    }
+   },
+   "pagina": 12,
+   "cita": "La circulación queda interrumpida desde las 14:37 horas del día 01/06/2012 hasta las 08:27 horas del",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: 76.000 € (daños graves en los dos últimos vagones). Infraestructura: 275.958 € (daños en vía, instalaciones de seguridad, señales, aparatos de vía, columnas de electrificación en Pradell, Marçà-Falset y trayecto entre ambas). Pérdida de contenedores del último y penúltimo vagón. Daños en puente de Pradell y andén de vía I.",
+    "afectacion_servicio": "Circulación interrumpida del 01/06/2012 14:37 al 04/06/2012 08:27 (~66 horas). 17 trenes suprimidos. Retrasos en 20 trenes de mercancías (1.436 min acumulados) y 16 trenes de viajeros (871 min acumulados). Transbordo por carretera de viajeros en Pradell y Mora La Nova. Limitaciones de velocidad posteriores: 20 km/h mercancías y 40 km/h resto entre PK 552+145 y 555+940; 60 km/h entre PK 555+940 y 560+700, vigentes a fecha del informe."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo de la infraestructura por incorrecta disposición de un cupón de vía de 5 metros (inferior a los 10 m exigidos por la norma NAV 7-6-0.1 para velocidad de 100 km/h), con deficiencias en la fijación de bridas (falta de calzos y tuerca) y de grapas (no presionan sobre el patín del carril), lo que provocó el remonte y descarrilamiento de la rueda.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Problemas de filtraciones y drenaje en el túnel nº 73 que afectan al estado de la plataforma",
+    "Última auscultación geométrica realizada en mayo de 2010, con datos que ya indicaban zonas urgentes de tratamiento (ZUT) al aproximarse al PK 558+049, con nivelación longitudinal fuera de tolerancia, fallos en nivelación transversal y sobreanchos",
+    "Valores de alabeo extremos (-27,2 y +30,1 mm/m) en la zona del cupón, muy superiores al límite de 2 mm/m",
+    "Cupón de vía montado como reparación provisional tras el descarrilamiento del 22/03/2012 por rotura del carril derecho",
+    "Grapas dispuestas tras el descarrilamiento del 22/03/2012 con incorrecta fijación",
+    "Limitación temporal de 60 km/h existente por el descarrilamiento previo del 22/03/2012, pero el tren circulaba a 83 km/h tras finalizar la limitación (aunque dentro de la velocidad máxima de 100 km/h)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Deficiencias en el mantenimiento correctivo de infraestructura en el área de Tarragona (motivo de la recomendación de auditoría)",
+    "Posible incumplimiento de la normativa NAV 7-6-0.1 en la reparación provisional del cupón de vía",
+    "Intervalo excesivo entre auscultaciones geométricas (última en mayo 2010 para un accidente en junio 2012)",
+    "Repetición de descarrilamientos en el mismo punto (28/03/2008 y 22/03/2012) sin resolución definitiva de la causa"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "En base al documento Manual del Sistema de Gestión de Seguridad en la Circulación de la Dirección General de Operaciones e Ingeniería de Adif, realizar una auditoría de las actuaciones de mantenimiento correctivo de infraestructura realizadas en el área de Tarragona, con objeto de verificar la correcta aplicación de la normativa al respecto.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 3,
+   "cita": "41/12-1 En base al documento Manual del Sistema de Gestión de Seguridad en la Circulación de la Dirección General de Operaciones e Ingeniería de Adif, realizar una auditoría de las actuaciones de mantenimiento correc",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "En base al documento Manual del Sistema de Gestión de Seguridad en la Circulación de la Dirección General de Operaciones e Ingeniería de Adif, realizar una auditoría de las actuaciones de mantenimiento correctivo de infraestructura realizadas en el área de Tarragona, con objeto de verificar la correcta aplicación de la normativa al respecto.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 3,
+   "cita": "41/12-1 En base al documento Manual del Sistema de Gestión de Seguridad en la Circulación de la Dirección General de Operaciones e Ingeniería de Adif, realizar una auditoría de las actuaciones de mantenimiento correc",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "descarrilamiento",
+   "pagina": 3,
+   "cita": "El día 1 de junio de 2012, a las 14:32 horas, se produce el descarrilamiento del tren de mercancías",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "92559 de la empresa ferroviaria Renfe Operadora, en el trayecto entre Duesaigües-L’Argentera y",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2012-06-01",
+   "pagina": 12,
+   "cita": "La circulación queda interrumpida desde las 14:37 horas del día 01/06/2012 hasta las 08:27 horas del",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "14:32",
+   "pagina": 3,
+   "cita": "El día 1 de junio de 2012, a las 14:32 horas, se produce el descarrilamiento del tren de mercancías",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Túnel nº 73 'L'Argentera' (entre Duesaigües-L'Argentera y Marçà-Falset)",
+    "pk": "PK 558+049",
+    "linea": "210 Miraflores - Tarragona",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Interior del túnel nº 73 'L'Argentera' (4.470 m de longitud), en alineación recta, rampa de 10 milésimas. Municipio: Falset. Tramo: Mora La Nova - Reus. Boca oeste del túnel (PK 556+636) junto a la estación de Pradell (PK 556+098). Estación de Marçà-Falset en PK 551+348."
+   },
+   "pagina": 3,
+   "cita": "Túnel nº 73 de “L’Argentera” (PK 558+049)",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "210 Miraflores - Tarragona",
+   "pagina": 3,
+   "cita": "210 Miraflores - Tarragona",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotoras 269015 y 269056 (UIC 95719269015-9 y 95719269056-9). 30 vagones plataforma MC3F de 2 ejes con contenedores vacíos. Longitud 416 m, peso 438 t. Tipo 100 (velocidad máxima 100 km/h).",
+    "averia": "Funcionamiento correcto. Registrador de seguridad sin irregularidades. Parámetros de rodadura dentro de tolerancia (excepto pestañas ligeramente por debajo del mínimo en ruedas descarriladas, atribuible a circular descarriladas). Ejes de vagones de cola con intervenciones tipo R: abril 2009 (último) y marzo 2012 (penúltimo).",
+    "mantenimiento": "Ejes de los dos vagones de cola habían pasado intervenciones tipo R (reparación general) según plan de mantenimiento: abril de 2009 y marzo de 2012."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 1 de junio de 2012, a las 14:32 horas, el tren de mercancías 92559 de Renfe Operadora, con origen Barcelona-Can Tunis y destino Zaragoza Corbera Alta, circulaba por el interior del túnel nº 73 'L'Argentera' (PK 558+049) a 83 km/h cuando descarriló el primer eje del penúltimo vagón en el sentido de la marcha. La rueda derecha descarriló hacia el exterior del carril y la izquierda hacia el interior (entre los dos carriles). Se desconoce el PK exacto del remonte de la rueda, tomándose como 'punto 0' el PK 558+049 donde se produce la caída.\n\nEl tren continuó circulando descarrilado y a la entrada de la estación de Pradell (PK 556+098), al pasar por los cambios, la rueda descarrilada golpeó cruzamientos y aparatos de vía, descarrilando el segundo eje del penúltimo vagón y los dos ejes del último vagón. Al paso por el andén de vía I de Pradell, la caja de grasa derecha del último eje rozó la estructura del andén, y a la salida de la estación la composición golpeó por el lado izquierdo la estructura del puente de Pradell. Durante el recorrido hacia Marçà-Falset se perdieron los contenedores de los dos últimos vagones.\n\nAl llegar a la estación de Marçà-Falset (PK 551+348), con itinerario establecido hacia vía 3 para cruce con otro tren, al pasar por las agujas 1/3 los ejes del penúltimo vagón golpearon el cambio y salieron despedidos, impactando con elementos del equipo de freno, produciéndose el descarrilamiento del antepenúltimo vagón. Con los tres últimos vagones descarrilados se cortó la manga de freno TFA entre el penúltimo y último vagón, deteniéndose el tren en el PK 551+569 a la altura de la indicadora IS2/1, tras haber circulado descarrilado unos 6 kilómetros.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Túnel nº 73 'L'Argentera' (entre Duesaigües-L'Argentera y Marçà-Falset)",
+    "pk": "PK 558+049",
+    "linea": "210 Miraflores - Tarragona",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Interior del túnel nº 73 'L'Argentera' (4.470 m de longitud), en alineación recta, rampa de 10 milésimas. Municipio: Falset. Tramo: Mora La Nova - Reus. Boca oeste del túnel (PK 556+636) junto a la estación de Pradell (PK 556+098). Estación de Marçà-Falset en PK 551+348."
+   },
+   "pagina": 3,
+   "cita": "Túnel nº 73 de “L’Argentera” (PK 558+049)",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: 76.000 € (daños graves en los dos últimos vagones). Infraestructura: 275.958 € (daños en vía, instalaciones de seguridad, señales, aparatos de vía, columnas de electrificación en Pradell, Marçà-Falset y trayecto entre ambas). Pérdida de contenedores del último y penúltimo vagón. Daños en puente de Pradell y andén de vía I.",
+    "afectacion_servicio": "Circulación interrumpida del 01/06/2012 14:37 al 04/06/2012 08:27 (~66 horas). 17 trenes suprimidos. Retrasos en 20 trenes de mercancías (1.436 min acumulados) y 16 trenes de viajeros (871 min acumulados). Transbordo por carretera de viajeros en Pradell y Mora La Nova. Limitaciones de velocidad posteriores: 20 km/h mercancías y 40 km/h resto entre PK 552+145 y 555+940; 60 km/h entre PK 555+940 y 560+700, vigentes a fecha del informe."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 92559",
+     "implicacion": "Matrícula 9693219. Título B de conducción, habilitado conforme a Orden FOM/2520/2006. Antigüedad en el cargo desde 01/01/2000. Último reciclaje formativo 16/03/2012. Último reconocimiento médico y psicotécnico 16/04/2010. Pruebas de alcoholemia y drogadicción negativas (realizadas a las 16:40 en Marçà). Jornada del día: 60 min (40 min conducción efectiva). No se observa irregularidad en la conducción. Cumplimentó la limitación de 60 km/h."
+    }
+   ],
+   "pagina": 7,
+   "cita": "El maquinista del tren 92559 con matrícula 9693219.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "92559",
+     "tipo": "tren de mercancías",
+     "operador": "Renfe Operadora",
+     "danos": "Daños graves en los dos últimos vagones (valoración 76.000 €). Pérdida de contenedores del último y penúltimo vagón. Ejes con pestañas por debajo del mínimo (27,6/27,2/27,8 mm vs 28 mm) como consecuencia de circular descarrilados."
+    }
+   ],
+   "pagina": 3,
+   "cita": "92559 de la empresa ferroviaria Renfe Operadora, en el trayecto entre Duesaigües-L’Argentera y",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotoras 269015 y 269056 (UIC 95719269015-9 y 95719269056-9). 30 vagones plataforma MC3F de 2 ejes con contenedores vacíos. Longitud 416 m, peso 438 t. Tipo 100 (velocidad máxima 100 km/h).",
+    "averia": "Funcionamiento correcto. Registrador de seguridad sin irregularidades. Parámetros de rodadura dentro de tolerancia (excepto pestañas ligeramente por debajo del mínimo en ruedas descarriladas, atribuible a circular descarriladas). Ejes de vagones de cola con intervenciones tipo R: abril 2009 (último) y marzo 2012 (penúltimo).",
+    "mantenimiento": "Ejes de los dos vagones de cola habían pasado intervenciones tipo R (reparación general) según plan de mantenimiento: abril de 2009 y marzo de 2012."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 7,
+   "cita": "El jefe de gabinete de investigación de accidentes e inspección del Administrador de Infraestructuras",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E1 de Pradell en verde; señal de salida S1/1 de Pradell en verde; balizas previa y pie de señal intermedia 5539 en anuncio de precaución (verde-amarillo); señal de entrada E1 de Marçà-Falset en anuncio de parada; indicadora IS2/1 en Marçà-Falset",
+    "tipo_via": "Vía única electrificada",
+    "velocidad_maxima": "100 km/h (con limitaciones temporales de 60 km/h en tramos PK 560+700 a 558+210 por estado de plataforma del túnel, y PK 556+210 a 555+700 por descarrilamiento del 22/03/2012)",
+    "ancho": null,
+    "electrificacion": "Electrificada (columnas de electrificación dañadas)",
+    "estado_via": "Deficiente: cupón de vía de 5 m (inferior a los 10 m exigidos por NAV 7-6-0.1 para 100 km/h), falta de calzos bajo bridas, falta de tuerca en tornillo de brida, incorrecta fijación de muchas grapas que no presionan sobre el patín del carril. Valores de alabeo de -27,2 y +30,1 mm/m en zona del cupón. Variaciones de ancho superiores a 3,33 mm/m. Peralte fuera de tolerancia (hasta 14-15 mm). Túnel con problemas de filtraciones y drenaje. Última auscultación geométrica: 13/05/2010.",
+    "otro": "Bloqueo automático (BAU) con CTC. Comunicaciones tren-tierra modalidad A. Tramo Mora La Nova - Reus con tráfico medio semanal de 204 circulaciones (considerado bajo): 1 larga distancia, 81 media distancia, 113 mercancías, 9 servicio."
+   },
+   "pagina": 8,
+   "cita": "El trayecto de la línea 210, entre Duesaigües-L’Argentera y Marçà-Falset es de vía única electrificada.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de entrada E1 de Pradell en verde; señal de salida S1/1 de Pradell en verde; balizas previa y pie de señal intermedia 5539 en anuncio de precaución (verde-amarillo); señal de entrada E1 de Marçà-Falset en anuncio de parada; indicadora IS2/1 en Marçà-Falset",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Tren-Tierra modalidad A.",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: 76.000 € (daños graves en los dos últimos vagones). Infraestructura: 275.958 € (daños en vía, instalaciones de seguridad, señales, aparatos de vía, columnas de electrificación en Pradell, Marçà-Falset y trayecto entre ambas). Pérdida de contenedores del último y penúltimo vagón. Daños en puente de Pradell y andén de vía I.",
+    "afectacion_servicio": "Circulación interrumpida del 01/06/2012 14:37 al 04/06/2012 08:27 (~66 horas). 17 trenes suprimidos. Retrasos en 20 trenes de mercancías (1.436 min acumulados) y 16 trenes de viajeros (871 min acumulados). Transbordo por carretera de viajeros en Pradell y Mora La Nova. Limitaciones de velocidad posteriores: 20 km/h mercancías y 40 km/h resto entre PK 552+145 y 555+940; 60 km/h entre PK 555+940 y 560+700, vigentes a fecha del informe."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: 76.000 € (daños graves en los dos últimos vagones). Infraestructura: 275.958 € (daños en vía, instalaciones de seguridad, señales, aparatos de vía, columnas de electrificación en Pradell, Marçà-Falset y trayecto entre ambas). Pérdida de contenedores del último y penúltimo vagón. Daños en puente de Pradell y andén de vía I.",
+    "afectacion_servicio": "Circulación interrumpida del 01/06/2012 14:37 al 04/06/2012 08:27 (~66 horas). 17 trenes suprimidos. Retrasos en 20 trenes de mercancías (1.436 min acumulados) y 16 trenes de viajeros (871 min acumulados). Transbordo por carretera de viajeros en Pradell y Mora La Nova. Limitaciones de velocidad posteriores: 20 km/h mercancías y 40 km/h resto entre PK 552+145 y 555+940; 60 km/h entre PK 555+940 y 560+700, vigentes a fecha del informe."
+   },
+   "pagina": 8,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Material rodante: 76.000 € (daños graves en los dos últimos vagones). Infraestructura: 275.958 € (daños en vía, instalaciones de seguridad, señales, aparatos de vía, columnas de electrificación en Pradell, Marçà-Falset y trayecto entre ambas). Pérdida de contenedores del último y penúltimo vagón. Daños en puente de Pradell y andén de vía I.",
+    "afectacion_servicio": "Circulación interrumpida del 01/06/2012 14:37 al 04/06/2012 08:27 (~66 horas). 17 trenes suprimidos. Retrasos en 20 trenes de mercancías (1.436 min acumulados) y 16 trenes de viajeros (871 min acumulados). Transbordo por carretera de viajeros en Pradell y Mora La Nova. Limitaciones de velocidad posteriores: 20 km/h mercancías y 40 km/h resto entre PK 552+145 y 555+940; 60 km/h entre PK 555+940 y 560+700, vigentes a fecha del informe."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras 269015 y 269056 (UIC 95719269015-9 y 95719269056-9). 30 vagones plataforma MC3F de 2 ejes con contenedores vacíos. Longitud 416 m, peso 438 t. Tipo 100 (velocidad máxima 100 km/h).",
+    "averia": "Funcionamiento correcto. Registrador de seguridad sin irregularidades. Parámetros de rodadura dentro de tolerancia (excepto pestañas ligeramente por debajo del mínimo en ruedas descarriladas, atribuible a circular descarriladas). Ejes de vagones de cola con intervenciones tipo R: abril 2009 (último) y marzo 2012 (penúltimo).",
+    "mantenimiento": "Ejes de los dos vagones de cola habían pasado intervenciones tipo R (reparación general) según plan de mantenimiento: abril de 2009 y marzo de 2012."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E1 de Pradell en verde; señal de salida S1/1 de Pradell en verde; balizas previa y pie de señal intermedia 5539 en anuncio de precaución (verde-amarillo); señal de entrada E1 de Marçà-Falset en anuncio de parada; indicadora IS2/1 en Marçà-Falset",
+    "tipo_via": "Vía única electrificada",
+    "velocidad_maxima": "100 km/h (con limitaciones temporales de 60 km/h en tramos PK 560+700 a 558+210 por estado de plataforma del túnel, y PK 556+210 a 555+700 por descarrilamiento del 22/03/2012)",
+    "ancho": null,
+    "electrificacion": "Electrificada (columnas de electrificación dañadas)",
+    "estado_via": "Deficiente: cupón de vía de 5 m (inferior a los 10 m exigidos por NAV 7-6-0.1 para 100 km/h), falta de calzos bajo bridas, falta de tuerca en tornillo de brida, incorrecta fijación de muchas grapas que no presionan sobre el patín del carril. Valores de alabeo de -27,2 y +30,1 mm/m en zona del cupón. Variaciones de ancho superiores a 3,33 mm/m. Peralte fuera de tolerancia (hasta 14-15 mm). Túnel con problemas de filtraciones y drenaje. Última auscultación geométrica: 13/05/2010.",
+    "otro": "Bloqueo automático (BAU) con CTC. Comunicaciones tren-tierra modalidad A. Tramo Mora La Nova - Reus con tráfico medio semanal de 204 circulaciones (considerado bajo): 1 larga distancia, 81 media distancia, 113 mercancías, 9 servicio."
+   },
+   "pagina": 8,
+   "cita": "El trayecto de la línea 210, entre Duesaigües-L’Argentera y Marçà-Falset es de vía única electrificada.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "En el momento del suceso no existían condiciones meteorológicas adversas.",
+   "pagina": 12,
+   "cita": "En el momento del suceso no existían condiciones meteorológicas adversas.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Tarragona",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 3,
+   "cita": "Marçà-Falset de la línea 210 de Miraflores - Tarragona. El descarrilamiento se inicia en el interior del",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "En el momento del suceso no existían condiciones meteorológicas adversas.",
+   "pagina": 12,
+   "cita": "En el momento del suceso no existían condiciones meteorológicas adversas.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de entrada E1 de Pradell en verde; señal de salida S1/1 de Pradell en verde; balizas previa y pie de señal intermedia 5539 en anuncio de precaución (verde-amarillo); señal de entrada E1 de Marçà-Falset en anuncio de parada; indicadora IS2/1 en Marçà-Falset",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E1 de Pradell en verde; señal de salida S1/1 de Pradell en verde; balizas previa y pie de señal intermedia 5539 en anuncio de precaución (verde-amarillo); señal de entrada E1 de Marçà-Falset en anuncio de parada; indicadora IS2/1 en Marçà-Falset",
+    "tipo_via": "Vía única electrificada",
+    "velocidad_maxima": "100 km/h (con limitaciones temporales de 60 km/h en tramos PK 560+700 a 558+210 por estado de plataforma del túnel, y PK 556+210 a 555+700 por descarrilamiento del 22/03/2012)",
+    "ancho": null,
+    "electrificacion": "Electrificada (columnas de electrificación dañadas)",
+    "estado_via": "Deficiente: cupón de vía de 5 m (inferior a los 10 m exigidos por NAV 7-6-0.1 para 100 km/h), falta de calzos bajo bridas, falta de tuerca en tornillo de brida, incorrecta fijación de muchas grapas que no presionan sobre el patín del carril. Valores de alabeo de -27,2 y +30,1 mm/m en zona del cupón. Variaciones de ancho superiores a 3,33 mm/m. Peralte fuera de tolerancia (hasta 14-15 mm). Túnel con problemas de filtraciones y drenaje. Última auscultación geométrica: 13/05/2010.",
+    "otro": "Bloqueo automático (BAU) con CTC. Comunicaciones tren-tierra modalidad A. Tramo Mora La Nova - Reus con tráfico medio semanal de 204 circulaciones (considerado bajo): 1 larga distancia, 81 media distancia, 113 mercancías, 9 servicio."
+   },
+   "pagina": 8,
+   "cita": "El trayecto de la línea 210, entre Duesaigües-L’Argentera y Marçà-Falset es de vía única electrificada.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Tren-Tierra modalidad A.",
+   "pagina": 10,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras 269015 y 269056 (UIC 95719269015-9 y 95719269056-9). 30 vagones plataforma MC3F de 2 ejes con contenedores vacíos. Longitud 416 m, peso 438 t. Tipo 100 (velocidad máxima 100 km/h).",
+    "averia": "Funcionamiento correcto. Registrador de seguridad sin irregularidades. Parámetros de rodadura dentro de tolerancia (excepto pestañas ligeramente por debajo del mínimo en ruedas descarriladas, atribuible a circular descarriladas). Ejes de vagones de cola con intervenciones tipo R: abril 2009 (último) y marzo 2012 (penúltimo).",
+    "mantenimiento": "Ejes de los dos vagones de cola habían pasado intervenciones tipo R (reparación general) según plan de mantenimiento: abril de 2009 y marzo de 2012."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Cupón de vía mal dispuesto",
+    "Montaje no cumple norma vigente",
+    "Fijación incorrecta de bridas",
+    "Defectos en fijación del carril"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 92559 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene una antigüedad en el cargo desde el 01/01/2000. \nRealizó su último reciclaje formativo el 16/03/2012 y su último reconocimiento médico y psicotécnico el \n16/04/2010, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 13,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 1 de junio de 2012, a las 14:32 horas, el tren de mercancías 92559 de Renfe Operadora, con origen Barcelona-Can Tunis y destino Zaragoza Corbera Alta, circulaba por el interior del túnel nº 73 'L'Argentera' (PK 558+049) a 83 km/h cuando descarriló el primer eje del penúltimo vagón en el sentido de la marcha. La rueda derecha descarriló hacia el exterior del carril y la izquierda hacia el interior (entre los dos carriles). Se desconoce el PK exacto del remonte de la rueda, tomándose como 'punto 0' el PK 558+049 donde se produce la caída.\n\nEl tren continuó circulando descarrilado y a la entrada de la estación de Pradell (PK 556+098), al pasar por los cambios, la rueda descarrilada golpeó cruzamientos y aparatos de vía, descarrilando el segundo eje del penúltimo vagón y los dos ejes del último vagón. Al paso por el andén de vía I de Pradell, la caja de grasa derecha del último eje rozó la estructura del andén, y a la salida de la estación la composición golpeó por el lado izquierdo la estructura del puente de Pradell. Durante el recorrido hacia Marçà-Falset se perdieron los contenedores de los dos últimos vagones.\n\nAl llegar a la estación de Marçà-Falset (PK 551+348), con itinerario establecido hacia vía 3 para cruce con otro tren, al pasar por las agujas 1/3 los ejes del penúltimo vagón golpearon el cambio y salieron despedidos, impactando con elementos del equipo de freno, produciéndose el descarrilamiento del antepenúltimo vagón. Con los tres últimos vagones descarrilados se cortó la manga de freno TFA entre el penúltimo y último vagón, deteniéndose el tren en el PK 551+569 a la altura de la indicadora IS2/1, tras haber circulado descarrilado unos 6 kilómetros.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo de la infraestructura por incorrecta disposición de un cupón de vía de 5 metros (inferior a los 10 m exigidos por la norma NAV 7-6-0.1 para velocidad de 100 km/h), con deficiencias en la fijación de bridas (falta de calzos y tuerca) y de grapas (no presionan sobre el patín del carril), lo que provocó el remonte y descarrilamiento de la rueda.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Problemas de filtraciones y drenaje en el túnel nº 73 que afectan al estado de la plataforma",
+    "Última auscultación geométrica realizada en mayo de 2010, con datos que ya indicaban zonas urgentes de tratamiento (ZUT) al aproximarse al PK 558+049, con nivelación longitudinal fuera de tolerancia, fallos en nivelación transversal y sobreanchos",
+    "Valores de alabeo extremos (-27,2 y +30,1 mm/m) en la zona del cupón, muy superiores al límite de 2 mm/m",
+    "Cupón de vía montado como reparación provisional tras el descarrilamiento del 22/03/2012 por rotura del carril derecho",
+    "Grapas dispuestas tras el descarrilamiento del 22/03/2012 con incorrecta fijación",
+    "Limitación temporal de 60 km/h existente por el descarrilamiento previo del 22/03/2012, pero el tren circulaba a 83 km/h tras finalizar la limitación (aunque dentro de la velocidad máxima de 100 km/h)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "En base al documento Manual del Sistema de Gestión de Seguridad en la Circulación de la Dirección General de Operaciones e Ingeniería de Adif, realizar una auditoría de las actuaciones de mantenimiento correctivo de infraestructura realizadas en el área de Tarragona, con objeto de verificar la correcta aplicación de la normativa al respecto.",
+     "destinatario": "Adif"
+    }
+   ],
+   "pagina": 3,
+   "cita": "41/12-1 En base al documento Manual del Sistema de Gestión de Seguridad en la Circulación de la Dirección General de Operaciones e Ingeniería de Adif, realizar una auditoría de las actuaciones de mantenimiento correc",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "14:32",
+     "evento": "Descarrilamiento del primer eje del penúltimo vagón en el interior del túnel nº 73 (PK 558+049), a 83 km/h"
+    },
+    {
+     "hora": "14:32",
+     "evento": "A la entrada de Pradell (PK 556+098), descarrilan el segundo eje del penúltimo vagón y los dos ejes del último vagón al pasar por cambios"
+    },
+    {
+     "hora": "14:32",
+     "evento": "Al paso por andén vía I de Pradell, caja de grasa roza el andén; a la salida golpea el puente de Pradell"
+    },
+    {
+     "hora": "14:32",
+     "evento": "Pérdida de contenedores de los dos últimos vagones durante el recorrido hacia Marçà-Falset"
+    },
+    {
+     "hora": "14:32",
+     "evento": "A la entrada de Marçà-Falset (PK 551+348), descarrila el antepenúltimo vagón al pasar por agujas 1/3"
+    },
+    {
+     "hora": "14:32",
+     "evento": "Corte de manga de freno TFA; detención del tren en PK 551+569 tras ~6 km descarrilado"
+    },
+    {
+     "hora": "14:37",
+     "evento": "Interrupción de la circulación"
+    },
+    {
+     "hora": "14:40",
+     "evento": "Queda sin comprobación ni telemando el CTC entre Pradell y Mora La Nova; el maquinista comunica el descarrilamiento"
+    },
+    {
+     "hora": "15:20",
+     "evento": "Se moviliza camión taller de Tarragona"
+    },
+    {
+     "hora": "17:45",
+     "evento": "Se expide vagoneta desde Riudecanyes"
+    },
+    {
+     "hora": "20:32",
+     "evento": "Sale de Zaragoza Plaza el tren taller"
+    },
+    {
+     "hora": "23:00",
+     "evento": "El jefe de gabinete de investigación de Adif comunica el suceso a la CIAF"
+    },
+    {
+     "hora": null,
+     "evento": "El 26 de junio de 2012, el Pleno de la CIAF acuerda abrir la investigación"
+    },
+    {
+     "hora": "08:27",
+     "evento": "El 04/06/2012 se restablece la circulación con limitaciones de velocidad"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0041/2012",
+ "expediente": "41/012",
+ "anio": 2012,
+ "titulo": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0041/2012 OCURRIDO EL DÍA 01.06.2012 ENTRE LAS ESTACIONES DE DUESAIGÜES-L’ARGENTERA Y MARÇÀ-FALSET (TARRAGONA)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_010612_280513_CIAF.md"
+}

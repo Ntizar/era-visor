@@ -1,0 +1,972 @@
+{
+ "id": "ID-220208-230508-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/047D8F61-6B4F-4CFB-A4FF-C6138BB6A20F/46929/ID220208230508CIAF.pdf",
+ "pdf": "pdfs/ES/ID-220208-230508-CIAF.pdf",
+ "md5_pdf": "c38b0dd5f27373818eb51626dff8dfe6",
+ "paginas_md": 9,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 10,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0003/2008",
+   "pagina": 1,
+   "cita": "nº 0003/2008 ocurrido el 22.02.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 22 de febrero de 2008, a las 20:00, la locomotora aislada ME663 de Renfe Operadora colisionó con un vehículo de carretera (Opel Astra) que había caído a la vía desde el paso superior de la autopista A-625, rompiendo los pretiles de protección. El vehículo se precipitó por un terraplén de 45º de pendiente e invadió la vía I del apeadero de Salbio (P.K. 218,654). La maquinista accionó el freno de urgencia pero no pudo evitar el arrollamiento, arrastrando el vehículo 157 metros. El único ocupante del vehículo, un varón de 60 años, falleció en el accidente. La investigación concluyó que el origen fue la invasión de la vía por un vehículo previamente accidentado en un hecho fortuito, no pudiendo evitarse el arrollamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-02-22",
+    "hora": "20:00",
+    "lugar": {
+     "tipo": "apeadero",
+     "estacion": "Apeadero de Salbio",
+     "pk": "218,654",
+     "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+     "provincia": "Álava",
+     "descripcion_lugar": "Apeadero de Salbio, entre las estaciones de Amurrio y Llodio, trayecto Orduña-Bilbao Abando. La vía fue invadida por un vehículo que cayó desde el paso superior de la autopista A-625 por un terraplén de 45º de pendiente en el lado izquierdo del sentido de la marcha del tren. El arrollamiento se produjo en el P.K. 218,743 y el tren se detuvo en el P.K. 218,900."
+    }
+   },
+   "pagina": 9,
+   "cita": "de Salbio, el 22/02/2008, se aprueba como definitivo el informe particular presentado por el",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños de escasa consideración en la locomotora ME663. Vehículo Opel Astra (7612 FSZ) siniestro total. Sin daños en instalaciones ni en el medio ambiente.",
+    "afectacion_servicio": "Vía I interceptada de 20:00 a 23:59 (4h). Vía II interceptada de 20:00 a 21:30 (1h30). 6 trenes de Cercanías suspendidos (26607, 26598, 26604, 26602, 26609, 26611). 2 trenes de AVE Larga Distancia transbordados (233, 201). Retrasos acumulados: 9 trenes de Cercanías (110 min), 2 trenes de AVE (70 min), 7 trenes de Mercancías (739 min)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión de la vía por un vehículo de carretera que había caído desde el paso superior de la autopista A-625, rompiendo los pretiles de protección y precipitándose por un terraplén de 45º de pendiente. El vehículo había sufrido previamente un accidente de carretera cuya causa se desconoce (hecho fortuito).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Rotura de los pretiles de protección del paso superior de la autopista A-625, que permitieron la caída del vehículo a la vía.",
+    "Desconocimiento de la causa del accidente de tráfico previo que provocó la caída del vehículo."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Posible insuficiencia o vulnerabilidad de las barreras de protección en pasos superiores sobre infraestructura ferroviaria.",
+    "Ausencia de un inventario sistemático de situaciones similares en la Red Ferroviaria de Interés General (señalado por el Pleno de la CIAF)."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Dadas las características del suceso, el técnico investigador no estima necesario realizar recomendaciones.",
+     "destinatario": "N/A (técnico investigador)"
+    },
+    {
+     "texto": "El Pleno de la CIAF, al aprobar el informe definitivo, entiende que la recomendación deberá ser un inventario sistemático de situaciones de estas características (invasión de vía por vehículos caídos desde pasos superiores) en la Red Ferroviaria de Interés General y la subsiguiente planificación de actuaciones a nivel global.",
+     "destinatario": "Adif / Dirección General de Ferrocarriles"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Dadas las características del suceso, el técnico investigador no estima necesario realizar recomendaciones.",
+     "destinatario": "N/A (técnico investigador)"
+    },
+    {
+     "texto": "El Pleno de la CIAF, al aprobar el informe definitivo, entiende que la recomendación deberá ser un inventario sistemático de situaciones de estas características (invasión de vía por vehículos caídos desde pasos superiores) en la Red Ferroviaria de Interés General y la subsiguiente planificación de actuaciones a nivel global.",
+     "destinatario": "Adif / Dirección General de Ferrocarriles"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Colisión con vehículo de carretera",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "ferroviaria Renfe Operadora, colisiona con un vehículo de carretera en el apeadero de Salbio, situado",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-02-22",
+   "pagina": 9,
+   "cita": "de Salbio, el 22/02/2008, se aprueba como definitivo el informe particular presentado por el",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "20:00",
+   "pagina": 2,
+   "cita": "El día 22 de febrero de 2008, a las 20:00 horas, la locomotora aislada ME663, de la empresa",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "apeadero",
+    "estacion": "Apeadero de Salbio",
+    "pk": "218,654",
+    "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+    "provincia": "Álava",
+    "descripcion_lugar": "Apeadero de Salbio, entre las estaciones de Amurrio y Llodio, trayecto Orduña-Bilbao Abando. La vía fue invadida por un vehículo que cayó desde el paso superior de la autopista A-625 por un terraplén de 45º de pendiente en el lado izquierdo del sentido de la marcha del tren. El arrollamiento se produjo en el P.K. 218,743 y el tren se detuvo en el P.K. 218,900."
+   },
+   "pagina": 2,
+   "cita": "ferroviaria Renfe Operadora, colisiona con un vehículo de carretera en el apeadero de Salbio, situado",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "700 Casetas-Intermodal Abando Indalecio Prieto",
+   "pagina": 2,
+   "cita": "en el P.K. 218,654, de la línea 700 Casetas-Intermodal Abando Indalecio Prieto, perteneciente a la",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "ME663 (aislada), Área de Actividad de Mercancías. Nº UIC: 95710269953-6. Matrícula del personal: 8931156.",
+    "averia": null,
+    "mantenimiento": "El material rodante funcionó correctamente. Registrador jurídico MEMOTEL operativo: velocidad de 87 km/h al accionar el freno de urgencia y 62 km/h al arrollar el vehículo."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 22 de febrero de 2008, a las 20:00 horas, la locomotora aislada ME663, de la empresa ferroviaria Renfe Operadora, circulaba por la vía I del apeadero de Salbio, situado en el P.K. 218,654 de la línea 700 Casetas-Intermodal Abando Indalecio Prieto, en el trayecto Orduña-Bilbao Abando, provincia de Álava, entre las estaciones de Amurrio y Llodio. La maquinista observó que sobre la vía se encontraba un vehículo de carretera (Opel Astra, matrícula 7612 FSZ), que había caído al apeadero desde el paso superior de la carretera A-625 por un terraplén de 45º de pendiente, situado en el lado izquierdo del sentido de la marcha del tren, tras romper los pretiles de protección. El vehículo había sufrido previamente un accidente de carretera cuya causa se desconoce.\n\nLa maquinista accionó el freno de urgencia (seta de emergencia), pero no pudo evitar el arrollamiento del vehículo en el P.K. 218,743, arrastrándolo 157 metros hasta detenerse en el P.K. 218,900. Según el registrador jurídico MEMOTEL, el tren circulaba a 87 km/h en el momento de accionarse el freno de urgencia y a 62 km/h cuando arrolló al vehículo, por debajo de la velocidad máxima permitida de 100 km/h en ese punto. El único ocupante del vehículo, un varón de 60 años, falleció en el accidente.\n\nDesde el Puesto de Mando de Miranda de Ebro se activaron los protocolos de emergencia y se avisó a los servicios correspondientes. A las 20:30 horas se personaron en el lugar agentes de la Guardia Civil, policía autonómica, bomberos y personal sanitario. La vía I quedó interceptada desde las 20:00 hasta las 23:59 horas y la vía II desde las 20:00 hasta las 21:30 horas. No se produjeron daños en las instalaciones ni en el medio ambiente, y los daños en el material motor fueron de escasa consideración. El vehículo de carretera quedó siniestro total.",
+   "pagina": 2,
+   "cita": "1. RESUMEN El día 22 de febrero de 2008, a las 20:00 horas, la locomotora aislada ME663, de la empresa ferroviaria Renfe Operadora, colisiona con un vehículo de carretera en el apeadero de Salbio, situado en el P.K. 2",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "apeadero",
+    "estacion": "Apeadero de Salbio",
+    "pk": "218,654",
+    "linea": "700 Casetas-Intermodal Abando Indalecio Prieto",
+    "provincia": "Álava",
+    "descripcion_lugar": "Apeadero de Salbio, entre las estaciones de Amurrio y Llodio, trayecto Orduña-Bilbao Abando. La vía fue invadida por un vehículo que cayó desde el paso superior de la autopista A-625 por un terraplén de 45º de pendiente en el lado izquierdo del sentido de la marcha del tren. El arrollamiento se produjo en el P.K. 218,743 y el tren se detuvo en el P.K. 218,900."
+   },
+   "pagina": 2,
+   "cita": "ferroviaria Renfe Operadora, colisiona con un vehículo de carretera en el apeadero de Salbio, situado",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños de escasa consideración en la locomotora ME663. Vehículo Opel Astra (7612 FSZ) siniestro total. Sin daños en instalaciones ni en el medio ambiente.",
+    "afectacion_servicio": "Vía I interceptada de 20:00 a 23:59 (4h). Vía II interceptada de 20:00 a 21:30 (1h30). 6 trenes de Cercanías suspendidos (26607, 26598, 26604, 26602, 26609, 26611). 2 trenes de AVE Larga Distancia transbordados (233, 201). Retrasos acumulados: 9 trenes de Cercanías (110 min), 2 trenes de AVE (70 min), 7 trenes de Mercancías (739 min)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista de la locomotora ME663",
+     "implicacion": "Observó el vehículo a unos 150 m, accionó el freno de urgencia (seta) pero no pudo evitar el arrollamiento. Actuación correcta. Título y habilitación conforme a OM 2520/2006. Último reciclaje formativo 20/12/2007, último reconocimiento médico 23/02/2005. Prueba de alcoholemia negativa. Jornada en el momento del suceso: 7h15min, con 1h32min de conducción. Cumplimiento de RD 2387/2004."
+    },
+    {
+     "rol": "Ocupante del vehículo de carretera",
+     "implicacion": "Varón de 60 años. Único ocupante del Opel Astra (7612 FSZ). Falleció en el accidente."
+    }
+   ],
+   "pagina": 4,
+   "cita": "Un varón de 60 años 2.3.2 Material rodante, infraestructura y medio ambiente No se produjeron daños ni en las instalaciones ni en el medio ambiente. Daños de escasa consideración en el material motor. 2.3.3 Bienes",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "ME663 (aislada)",
+     "tipo": "locomotora aislada",
+     "operador": "Renfe Operadora",
+     "danos": "Daños de escasa consideración en el material motor"
+    },
+    {
+     "numero": "26607",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora (Área de Actividad de Cercanías)",
+     "danos": "Suspendido"
+    },
+    {
+     "numero": "26598",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora (Área de Actividad de Cercanías)",
+     "danos": "Suspendido"
+    },
+    {
+     "numero": "26604",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora (Área de Actividad de Cercanías)",
+     "danos": "Suspendido"
+    },
+    {
+     "numero": "26602",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora (Área de Actividad de Cercanías)",
+     "danos": "Suspendido"
+    },
+    {
+     "numero": "26609",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora (Área de Actividad de Cercanías)",
+     "danos": "Suspendido"
+    },
+    {
+     "numero": "26611",
+     "tipo": "Cercanías",
+     "operador": "Renfe Operadora (Área de Actividad de Cercanías)",
+     "danos": "Suspendido"
+    },
+    {
+     "numero": "233",
+     "tipo": "AVE Larga Distancia",
+     "operador": "Renfe Operadora",
+     "danos": "Transbordado"
+    },
+    {
+     "numero": "201",
+     "tipo": "AVE Larga Distancia",
+     "operador": "Renfe Operadora",
+     "danos": "Transbordado"
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 22 de febrero de 2008, a las 20:00 horas, la locomotora aislada ME663, de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "ME663 (aislada), Área de Actividad de Mercancías. Nº UIC: 95710269953-6. Matrícula del personal: 8931156.",
+    "averia": null,
+    "mantenimiento": "El material rodante funcionó correctamente. Registrador jurídico MEMOTEL operativo: velocidad de 87 km/h al accionar el freno de urgencia y 62 km/h al arrollar el vehículo."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado (B.A.B con C.T.C). Consigna serie A, nº 2457.",
+    "tipo_via": "Doble vía",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Correcta. No se produjeron daños en las instalaciones.",
+    "otro": "Paso superior de la autopista A-625 sobre la vía, con pretiles de protección que fueron rotos por el vehículo. Terraplén de 45º de pendiente en el lado izquierdo. Radiotelefonía modalidad A. Puesto de Mando de Miranda de Ebro."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado (B.A.B con C.T.C). Consigna serie A, nº 2457.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños de escasa consideración en la locomotora ME663. Vehículo Opel Astra (7612 FSZ) siniestro total. Sin daños en instalaciones ni en el medio ambiente.",
+    "afectacion_servicio": "Vía I interceptada de 20:00 a 23:59 (4h). Vía II interceptada de 20:00 a 21:30 (1h30). 6 trenes de Cercanías suspendidos (26607, 26598, 26604, 26602, 26609, 26611). 2 trenes de AVE Larga Distancia transbordados (233, 201). Retrasos acumulados: 9 trenes de Cercanías (110 min), 2 trenes de AVE (70 min), 7 trenes de Mercancías (739 min)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños de escasa consideración en la locomotora ME663. Vehículo Opel Astra (7612 FSZ) siniestro total. Sin daños en instalaciones ni en el medio ambiente.",
+    "afectacion_servicio": "Vía I interceptada de 20:00 a 23:59 (4h). Vía II interceptada de 20:00 a 21:30 (1h30). 6 trenes de Cercanías suspendidos (26607, 26598, 26604, 26602, 26609, 26611). 2 trenes de AVE Larga Distancia transbordados (233, 201). Retrasos acumulados: 9 trenes de Cercanías (110 min), 2 trenes de AVE (70 min), 7 trenes de Mercancías (739 min)."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe definitivo ID-220208-230508-CIAF Pág. 1 de 9 INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "Daños de escasa consideración en la locomotora ME663. Vehículo Opel Astra (7612 FSZ) siniestro total. Sin daños en instalaciones ni en el medio ambiente.",
+    "afectacion_servicio": "Vía I interceptada de 20:00 a 23:59 (4h). Vía II interceptada de 20:00 a 21:30 (1h30). 6 trenes de Cercanías suspendidos (26607, 26598, 26604, 26602, 26609, 26611). 2 trenes de AVE Larga Distancia transbordados (233, 201). Retrasos acumulados: 9 trenes de Cercanías (110 min), 2 trenes de AVE (70 min), 7 trenes de Mercancías (739 min)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "ME663 (aislada), Área de Actividad de Mercancías. Nº UIC: 95710269953-6. Matrícula del personal: 8931156.",
+    "averia": null,
+    "mantenimiento": "El material rodante funcionó correctamente. Registrador jurídico MEMOTEL operativo: velocidad de 87 km/h al accionar el freno de urgencia y 62 km/h al arrollar el vehículo."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado (B.A.B con C.T.C). Consigna serie A, nº 2457.",
+    "tipo_via": "Doble vía",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Correcta. No se produjeron daños en las instalaciones.",
+    "otro": "Paso superior de la autopista A-625 sobre la vía, con pretiles de protección que fueron rotos por el vehículo. Terraplén de 45º de pendiente en el lado izquierdo. Radiotelefonía modalidad A. Puesto de Mando de Miranda de Ebro."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Buenas condiciones atmosféricas en el momento del accidente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Álava",
+    "municipio": null,
+    "estacion": "Apeadero de Salbio"
+   },
+   "pagina": 2,
+   "cita": "Álava La maquinista de la locomotora aislada ME663 a su paso por el Apeadero de Salbio, situado en el P.K. 218,654, observa que sobre la vía I se encuentra un vehículo de carretera, que había caído al apeadero desde e",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Buenas condiciones atmosféricas en el momento del accidente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado (B.A.B con C.T.C). Consigna serie A, nº 2457.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático Banalizado con Control de Tráfico Centralizado (B.A.B con C.T.C). Consigna serie A, nº 2457.",
+    "tipo_via": "Doble vía",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Correcta. No se produjeron daños en las instalaciones.",
+    "otro": "Paso superior de la autopista A-625 sobre la vía, con pretiles de protección que fueron rotos por el vehículo. Terraplén de 45º de pendiente en el lado izquierdo. Radiotelefonía modalidad A. Puesto de Mando de Miranda de Ebro."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "ME663 (aislada), Área de Actividad de Mercancías. Nº UIC: 95710269953-6. Matrícula del personal: 8931156.",
+    "averia": null,
+    "mantenimiento": "El material rodante funcionó correctamente. Registrador jurídico MEMOTEL operativo: velocidad de 87 km/h al accionar el freno de urgencia y 62 km/h al arrollar el vehículo."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "vehículo rompe pretiles de protección",
+    "vehículo cae sobre la vía",
+    "invasión de la vía",
+    "circulación de locomotora aislada"
+   ],
+   "pagina": 2,
+   "cita": "Conclusión: el accidente tuvo su origen en la invasión de la vía por el vehículo previamente",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 22 de febrero de 2008, a las 20:00 horas, la locomotora aislada ME663, de la empresa ferroviaria Renfe Operadora, circulaba por la vía I del apeadero de Salbio, situado en el P.K. 218,654 de la línea 700 Casetas-Intermodal Abando Indalecio Prieto, en el trayecto Orduña-Bilbao Abando, provincia de Álava, entre las estaciones de Amurrio y Llodio. La maquinista observó que sobre la vía se encontraba un vehículo de carretera (Opel Astra, matrícula 7612 FSZ), que había caído al apeadero desde el paso superior de la carretera A-625 por un terraplén de 45º de pendiente, situado en el lado izquierdo del sentido de la marcha del tren, tras romper los pretiles de protección. El vehículo había sufrido previamente un accidente de carretera cuya causa se desconoce.\n\nLa maquinista accionó el freno de urgencia (seta de emergencia), pero no pudo evitar el arrollamiento del vehículo en el P.K. 218,743, arrastrándolo 157 metros hasta detenerse en el P.K. 218,900. Según el registrador jurídico MEMOTEL, el tren circulaba a 87 km/h en el momento de accionarse el freno de urgencia y a 62 km/h cuando arrolló al vehículo, por debajo de la velocidad máxima permitida de 100 km/h en ese punto. El único ocupante del vehículo, un varón de 60 años, falleció en el accidente.\n\nDesde el Puesto de Mando de Miranda de Ebro se activaron los protocolos de emergencia y se avisó a los servicios correspondientes. A las 20:30 horas se personaron en el lugar agentes de la Guardia Civil, policía autonómica, bomberos y personal sanitario. La vía I quedó interceptada desde las 20:00 hasta las 23:59 horas y la vía II desde las 20:00 hasta las 21:30 horas. No se produjeron daños en las instalaciones ni en el medio ambiente, y los daños en el material motor fueron de escasa consideración. El vehículo de carretera quedó siniestro total.",
+   "pagina": 2,
+   "cita": "1. RESUMEN El día 22 de febrero de 2008, a las 20:00 horas, la locomotora aislada ME663, de la empresa ferroviaria Renfe Operadora, colisiona con un vehículo de carretera en el apeadero de Salbio, situado en el P.K. 2",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nSegún el registrador jurídico de la locomotora, el tren circulaba a una velocidad adecuada al \ntrayecto, por debajo de la velocidad máxima permitida. \nDe la prueba de alcoholemia se constata que la maquinista se encontraba apta para el desarrollo \nde sus funciones y su actuación en el momento del accidente fue correcta. \nTanto la tasa de alcoholemia como las jornadas de trabajo del maquinista cumplen lo establecido \nen las Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasas de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario. \nSe ha comprobado que tanto el material rodante como los sistemas de control de la infraestructura \nfuncionaban correctamente en el momento del accidente. \nLa presencia del vehículo de carretera parece deberse a un hecho fortuito, desconociéndose la \ncausa del accidente de tráfico. \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y de Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \n-  \nEl accidente tuvo su origen en la invasión de la vía por el vehículo previamente \naccidentado, no pudiendo evitarse su arrollamiento.",
+   "pagina": 7,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión de la vía por un vehículo de carretera que había caído desde el paso superior de la autopista A-625, rompiendo los pretiles de protección y precipitándose por un terraplén de 45º de pendiente. El vehículo había sufrido previamente un accidente de carretera cuya causa se desconoce (hecho fortuito).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Rotura de los pretiles de protección del paso superior de la autopista A-625, que permitieron la caída del vehículo a la vía.",
+    "Desconocimiento de la causa del accidente de tráfico previo que provocó la caída del vehículo."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Dadas las características del suceso, el técnico investigador no estima necesario realizar recomendaciones.",
+     "destinatario": "N/A (técnico investigador)"
+    },
+    {
+     "texto": "El Pleno de la CIAF, al aprobar el informe definitivo, entiende que la recomendación deberá ser un inventario sistemático de situaciones de estas características (invasión de vía por vehículos caídos desde pasos superiores) en la Red Ferroviaria de Interés General y la subsiguiente planificación de actuaciones a nivel global.",
+     "destinatario": "Adif / Dirección General de Ferrocarriles"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "20:00",
+     "evento": "Colisión de la locomotora aislada ME663 con un vehículo de carretera que invadía la vía I en el apeadero de Salbio. Arrollamiento en P.K. 218,743, arrastre de 157 m hasta P.K. 218,900. Fallecimiento del ocupante del vehículo. Inicio de interceptación de ambas vías."
+    },
+    {
+     "hora": "20:30",
+     "evento": "Personación en el lugar de agentes de la Guardia Civil, policía autonómica, bomberos y personal sanitario. Activación de protocolos desde el Puesto de Mando de Miranda de Ebro."
+    },
+    {
+     "hora": "21:30",
+     "evento": "Reapertura de la vía II tras la finalización de las actuaciones."
+    },
+    {
+     "hora": "23:59",
+     "evento": "Reapertura de la vía I tras finalizar la investigación y retirada del vehículo."
+    },
+    {
+     "hora": "14:52",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif informa por correo electrónico a la CIAF de la colisión (día siguiente, 23.02.2008)."
+    },
+    {
+     "hora": null,
+     "evento": "Toma de declaración a la maquinista (23 de febrero de 2008)."
+    },
+    {
+     "hora": null,
+     "evento": "Entrega de informes particulares de Adif y Renfe Operadora (04.04.2008)."
+    },
+    {
+     "hora": null,
+     "evento": "Aprobación del informe definitivo por el Pleno de la CIAF (23.05.2008)."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0003/2008",
+ "expediente": "0003/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de un vehículo de carretera por una locomotora en el apeadero de Salbio, Álava",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ID-220208-230508-CIAF.md"
+}

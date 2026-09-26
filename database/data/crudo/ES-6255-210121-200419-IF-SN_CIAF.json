@@ -1,0 +1,1070 @@
+{
+ "id": "ES-6255-210121-200419-IF-SN_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/210121-190420-if-sn_ciaf.pdf",
+ "pdf": "pdfs/ES/ES-6255-210121-200419-IF-SN_CIAF.pdf",
+ "md5_pdf": "d0e9d7b0c6e2138278c282d7e77534af",
+ "paginas_md": 32,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 25,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 6,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "28/2019 - 1",
+     "Recomendación": "Revisar las tareas asignadas a los RC de las estaciones terminales y aquellas que presentan cierta complejidad técnica. Establecer procedimientos para la asignación de funciones de control y mando en dichas estaciones, tanto en situación normal en periodos de elevada carga de trabajo como en condiciones degradadas."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "28/2019 - 2",
+     "Recomendación": "En las nuevas actuaciones a realizar en la infraestructura, especialmente en las renovaciones y modificaciones de los enclavamientos y otras instalaciones de seguridad, se deben realizar los Análisis de Riesgos correspondientes, tomando en cuenta las amenazas que la experiencia del funcionamiento del enclavamiento o la instalación a modificar puedan aportar, especialmente en situaciones de anormalidad."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "28/2019 - 3",
+     "Recomendación": "Debe tenerse en cuenta que en los Análisis de Riesgos, los Safety Cases realizados por los contratistas para sus equipos no resultan suficientes, debiendo realizar un Análisis de Riesgos del sistema integrado, considerando las situaciones de anormalidad que se puedan producir."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 32,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "28/2019 - 1",
+     "Recomendación": "Revisar las tareas asignadas a los RC de las estaciones terminales y aquellas que presentan cierta complejidad técnica. Establecer procedimientos para la asignación de funciones de control y mando en dichas estaciones, tanto en situación normal en periodos de elevada carga de trabajo como en condiciones degradadas."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "28/2019 - 2",
+     "Recomendación": "En las nuevas actuaciones a realizar en la infraestructura, especialmente en las renovaciones y modificaciones de los enclavamientos y otras instalaciones de seguridad, se deben realizar los Análisis de Riesgos correspondientes, tomando en cuenta las amenazas que la experiencia del funcionamiento del enclavamiento o la instalación a modificar puedan aportar, especialmente en situaciones de anormalidad."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+     "Número": "28/2019 - 3",
+     "Recomendación": "Debe tenerse en cuenta que en los Análisis de Riesgos, los Safety Cases realizados por los contratistas para sus equipos no resultan suficientes, debiendo realizar un Análisis de Riesgos del sistema integrado, considerando las situaciones de anormalidad que se puedan producir."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "28/2019",
+   "pagina": 1,
+   "cita": "INFORME FINAL DE LA CIAF (IF) 28/2019",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 20 de abril de 2019, el tren de cercanías 28976 de Rodalies rebasó la señal de salida S2/5 de la estación de Mataró en indicación de parada tras recibir autorización por telefonema del Responsable de Circulación. Un temporal marítimo provocó ocupaciones artificiales en varios circuitos de vía, impidiendo la apertura normal de señales y obligando a autorizar salidas por teléfono. El itinerario hacia vía II estaba mal dispuesto con la aguja 21 en posición directa hacia vía I, con riesgo de colisión con el tren 25953 que circulaba por vía I. El maquinista percibió la anomalía y frenó antes de invadir la aguja, sin producirse daños materiales ni personales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2019-04-20",
+    "hora": null,
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Mataró",
+     "pk": "133+130",
+     "linea": "L276 Maçanet-Massanes a Bifurcació Sagrera",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Estación de Mataró, PK 133+130, tramo Bifurcació Sagrera-Ag.Km.2,1 a Mataró. Señal de salida S2/5 en PK 132+723. Agujas 33, 31, 23, 21, 15 y 13 incluidas en el enclavamiento. 9 vías de circulación (1, 2, 3, 4, 5, 7, 10, 12 y 14), vías 2 y 4 divididas en dos estacionamientos (2A, 4A)."
+    }
+   },
+   "pagina": 1,
+   "cita": "ocurrido el 20 de abril de 2019.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material rodante, instalaciones ni infraestructura.",
+    "afectacion_servicio": "Retrasos en varios trenes de Cercanías con un total de 27 minutos perdidos. No se activó plan de emergencia externo. Se produjeron condiciones degradadas de explotación durante toda la tarde-noche del 20 de abril."
+   },
+   "pagina": 9,
+   "cita": "No se producen daños materiales en material rodante, instalaciones ni infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Autorización de rebase para el tren 28976 dada por el RC de Mataró de la señal S2/5 en parada hacia la vía II, estando mal dispuestos los elementos del itinerario de salida con el escape 21/15 en posición normal orientado hacia vía I y con posibilidad de colisión con el tren 25953 circulando por la vía I hacia la estación de Mataró.",
+   "pagina": 5,
+   "cita": "(cd1) La autorización de rebase para el tren 28976, dada por el RC de Mataró, de la señal S2/5 en",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "fc1: Como consecuencia de las condiciones degradadas y la acumulación de trenes, las cargas de trabajo habituales del RC se incrementaron sensiblemente al tener que gestionar tanto el enclavamiento como las circulaciones de Mataró y de Vilassar de Mar.",
+    "fc2: Fuerte temporal marítimo de viento y oleaje que inundó parcialmente las vías dando lugar a averías por ocupación artificial en varios circuitos de vía del entorno de la estación.",
+    "fc3: El gabinete de circulación de Mataró no contaba con el número adecuado de personal de circulación para la explotación de la estación y a su vez el telemando de Vilassar; las funciones del RC son elevadas incluso en condiciones normales, agravadas al telemandar Vilassar en anormalidad.",
+    "fc4: No existe un protocolo o procedimiento de actuación que establezca reglas para el control en la línea que faciliten la operación en Mataró en situaciones degradadas, a pesar de que dichas situaciones son recurrentes (2 veces al año aproximadamente).",
+    "fc5: No se valoró adecuadamente en el análisis de riesgos del diseño y proyecto del nuevo enclavamiento la repercusión de la modificación de la longitud de los circuitos de vía en cuanto a su fiabilidad respecto a la problemática existente por temporales."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "No se consideraron las amenazas y peligros que las condiciones degradadas producían sobre la instalación como consecuencia de los temporales marítimos en el análisis de riesgos de la modificación de julio de 2018.",
+    "No se identificaron actuaciones preventivas para solventar incidencias que se producen con cierta periodicidad (procedimiento SGSC-PO-24.00.03).",
+    "No se realizó una evaluación del riesgo específica para cada actuación (modificación del enclavamiento y recantonamiento del trayecto) según el procedimiento ADIF-PE.204-002-001.",
+    "No se estableció un Plan de Contingencias adecuado que disminuyera el riesgo generado por situaciones de anormalidad por condiciones climáticas periódicas.",
+    "Los Safety Cases de los contratistas no resultaron suficientes; no se realizó un Análisis de Riesgos del sistema integrado considerando situaciones de anormalidad.",
+    "El tiempo de respuesta para solventar incidencias en circuitos de vía se considera elevado, aumentando el tiempo en condiciones degradadas."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Revisar las tareas asignadas a los RC de las estaciones terminales y aquellas que presentan cierta complejidad técnica. Establecer procedimientos para la asignación de funciones de control y mando en dichas estaciones, tanto en situación normal en periodos de elevada carga de trabajo como en condiciones degradadas.",
+    "En las nuevas actuaciones a realizar en la infraestructura, especialmente en las renovaciones y modificaciones de los enclavamientos y otras instalaciones de seguridad, se deben realizar los Análisis de Riesgos correspondientes, tomando en cuenta las amenazas que la experiencia del funcionamiento del enclavamiento o la instalación a modificar puedan aportar, especialmente en situaciones de anormalidad.",
+    "Debe tenerse en cuenta que en los Análisis de Riesgos, los Safety Cases realizados por los contratistas para sus equipos no resultan suficientes, debiendo realizar un Análisis de Riesgos del sistema integrado, considerando las situaciones de anormalidad que se puedan producir.",
+    "Revisar las tareas asignadas a los RC de las estaciones terminales y aquellas que presentan cierta complejidad técnica. Establecer procedimientos para la asignación de funciones de control y mando en dichas estaciones, tanto en situación normal en periodos de elevada carga de trabajo como en condiciones degradadas.",
+    "En las nuevas actuaciones a realizar en la infraestructura, especialmente en las renovaciones y modificaciones de los enclavamientos y otras instalaciones de seguridad, se deben realizar los Análisis de Riesgos correspondientes, tomando en cuenta las amenazas que la experiencia del funcionamiento del enclavamiento o la instalación a modificar puedan aportar, especialmente en situaciones de anormalidad.",
+    "Debe tenerse en cuenta que en los Análisis de Riesgos, los Safety Cases realizados por los contratistas para sus equipos no resultan suficientes, debiendo realizar un Análisis de Riesgos del sistema integrado, considerando las situaciones de anormalidad que se puedan producir."
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente ferroviario",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "ADIF"
+   ],
+   "pagina": 4,
+   "cita": "ADIF Administrador de Infraestructuras Ferroviarias Aemet Agencia Estatal de Meteorología AESF Agencia Estatal de Seguridad Ferroviaria AI Administrador de Infraestructuras ASFA Anuncio de Señales y Frenado",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2019-04-20",
+   "pagina": 1,
+   "cita": "ocurrido el 20 de abril de 2019.",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Mataró",
+    "pk": "133+130",
+    "linea": "L276 Maçanet-Massanes a Bifurcació Sagrera",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Estación de Mataró, PK 133+130, tramo Bifurcació Sagrera-Ag.Km.2,1 a Mataró. Señal de salida S2/5 en PK 132+723. Agujas 33, 31, 23, 21, 15 y 13 incluidas en el enclavamiento. 9 vías de circulación (1, 2, 3, 4, 5, 7, 10, 12 y 14), vías 2 y 4 divididas en dos estacionamientos (2A, 4A)."
+   },
+   "pagina": 6,
+   "cita": "estaciones terminales y aquellas que",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "U/T 465.238 tipo 120A (tren 28976); serie 447 (tren 25953)",
+    "averia": null,
+    "mantenimiento": "Del análisis del registrador de seguridad se deduce que tanto los sistemas de frenado como los equipos y sistemas de seguridad del tren funcionaron correctamente"
+   },
+   "pagina": 10,
+   "cita": "Tren de Cercanías 28976 de la empresa ferroviaria RENFE Viajeros, formado por la U/T 465.238 (UIC",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 20 de abril de 2019, un fuerte temporal marítimo de viento y oleaje iniciado el día 19 inundó parcialmente las vías del entorno de la estación de Mataró, provocando ocupaciones artificiales en varios circuitos de vía (CVAE1, CVAE3, CVE'4, CVE1). Esta situación degradada impidió la apertura normal de señales de salida con el enclavamiento, obligando al Responsable de Circulación (RC) de Mataró a autorizar salidas mediante telefonema con marcha a la vista. El RC de Mataró se encontraba en Mando Local (ML) y además telemandaba la estación de Vilassar de Mar, lo que incrementó notablemente su carga de trabajo.\n\nA las 20:05 horas, el RC de Mataró cursó telefonema nº 213 al maquinista del tren 28976 autorizándole el rebase de la señal de salida S2/5 con marcha a la vista hasta la señal siguiente, indicándole que circularía por vía II. A las 20:08 horas el tren rebasó la señal S2/5 en indicación de parada actuando sobre el rebase autorizado. Sin embargo, el itinerario de salida estaba mal dispuesto: la aguja nº 21 se encontraba en posición directa orientada hacia vía I, no hacia vía II como se había indicado al maquinista. Por vía I circulaba el tren 25953 en sentido entrada a Mataró, lo que generaba un riesgo de colisión frontal.\n\nA las 20:09 horas, tras alcanzar una velocidad máxima de 25 km/h, el maquinista se percató visualmente de que la aguja nº 21 estaba en posición directa y aplicó el freno, deteniéndose ante la aguja sin llegar a invadirla. El RC del CTC de Barcelona observó la mala disposición de las agujas y comunicó inmediatamente con el RC de Mataró. Tras confirmar que el cambio 21 estaba libre, el RC del CTC ordenó al tren 28976 retroceder a vía 5. El retroceso se inició a las 20:13 horas y finalizó a las 20:15 horas tras recorrer 357 metros. El tren 25953, que se encontraba detenido ante la señal E1, pudo entrar en vía I a las 20:16-20:17 horas y continuar su recorrido. El tren 28976 recibió una nueva autorización de rebase a las 20:31 horas y salió de vía 5 a las 20:32 horas, continuando su recorrido con normalidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Mataró",
+    "pk": "133+130",
+    "linea": "L276 Maçanet-Massanes a Bifurcació Sagrera",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Estación de Mataró, PK 133+130, tramo Bifurcació Sagrera-Ag.Km.2,1 a Mataró. Señal de salida S2/5 en PK 132+723. Agujas 33, 31, 23, 21, 15 y 13 incluidas en el enclavamiento. 9 vías de circulación (1, 2, 3, 4, 5, 7, 10, 12 y 14), vías 2 y 4 divididas en dos estacionamientos (2A, 4A)."
+   },
+   "pagina": 6,
+   "cita": "estaciones terminales y aquellas que",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material rodante, instalaciones ni infraestructura.",
+    "afectacion_servicio": "Retrasos en varios trenes de Cercanías con un total de 27 minutos perdidos. No se activó plan de emergencia externo. Se produjeron condiciones degradadas de explotación durante toda la tarde-noche del 20 de abril."
+   },
+   "pagina": 9,
+   "cita": "No se producen daños materiales en material rodante, instalaciones ni infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Responsable de Circulación (RC) de Mataró",
+     "implicacion": "Autorizó el rebase de la señal S2/5 al tren 28976 por telefonema sin comprobar adecuadamente que el itinerario estaba correctamente establecido. Bloqueó cambios 33, 23, 21 y 15 a invertido y 31, 13, 5 y 3 a normal. Observó el rebase y apreció visualmente que los cambios 21 y 15 no estaban a invertido sino a normal. Habilitación en vigor hasta 18.08.2020, reciclajes y reconocimientos al día."
+    },
+    {
+     "rol": "Responsable de Circulación del CTC de Barcelona",
+     "implicacion": "Observó desde el videográfico la salida del tren 28976 con agujas mal dispuestas. Comunicó inmediatamente con el RC de Mataró y ordenó el retroceso del tren a vía 5. Habilitación en vigor hasta 22.08.2020, reciclajes y reconocimientos al día."
+    },
+    {
+     "rol": "Maquinista del tren 28976",
+     "implicacion": "Recibió autorización de rebase con marcha a la vista. Vigiló el itinerario durante la marcha, se percató de que la aguja 21 estaba en posición directa (mal dispuesto) y aplicó freno deteniéndose ante la aguja sin invadirla. Actuó correctamente con responsabilidad y criterios profesionales de seguridad. Licencia de Conducción válida hasta 26.01.2020, reciclajes y reconocimientos al día."
+    }
+   ],
+   "pagina": 10,
+   "cita": "- El responsable de circulación del CTC de Barcelona.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "o Por parte del administrador de infraestructuras, ADIF: \n- El responsable de circulación del gabinete de circulación de Mataró. \nSe encuentra en posesión de la Habilitación de Responsable de Circulación expedida \nconforme a la normativa legal vigente y en vigor hasta el 18.08.2020.  \nSe encuentra al día de reciclajes formativos y de reconocimientos médicos y psicofísicos. \n- El responsable de circulación del CTC de Barcelona. \nSe encuentra en posesión de la Habilitación de Responsable de Circulación expedida \nconforme a la normativa legal vigente y en vigor hasta el 22.08.2020.  \nSe encuentra al día de reciclajes formativos y de reconocimientos médicos y psicofísicos. \no Por parte del operador, RENFE Viajeros: \n- El maquinista del tren 28976. \nSe encuentra en posesión de la Licencia de Conducción de Categoría válida hasta el \n26.01.2020. \nSe encuentra al día de reciclajes formativos, habilitaciones y de reconocimientos médicos \ny psicofísicos.",
+   "pagina": 10,
+   "cita": "3.1.6 Personal y entidades",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "28976",
+     "tipo": "Cercanías Rodalies",
+     "operador": "RENFE Viajeros",
+     "danos": "Sin daños. U/T 465.238 (UIC 927164652384) tipo 120A, 5 vehículos, 12 ejes, 98 m, 203 t"
+    },
+    {
+     "numero": "25953",
+     "tipo": "Cercanías Rodalies",
+     "operador": "RENFE Viajeros",
+     "danos": "Sin daños. Dos unidades serie 447, 6 vehículos, 24 ejes, 152 m, 437 t"
+    },
+    {
+     "numero": "28973",
+     "tipo": "Cercanías Rodalies",
+     "operador": "RENFE Viajeros",
+     "danos": "Sin daños. Material que formó el tren 28976 tras estacionarse en vía 5 de Mataró"
+    }
+   ],
+   "pagina": 5,
+   "cita": "El día 20 de abril de 2019, el tren de cercanías 28976 de Rodalies rebasa la señal de salida S2/5 de la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "U/T 465.238 tipo 120A (tren 28976); serie 447 (tren 25953)",
+    "averia": null,
+    "mantenimiento": "Del análisis del registrador de seguridad se deduce que tanto los sistemas de frenado como los equipos y sistemas de seguridad del tren funcionaron correctamente"
+   },
+   "pagina": 10,
+   "cita": "Tren de Cercanías 28976 de la empresa ferroviaria RENFE Viajeros, formado por la U/T 465.238 (UIC",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 4,
+   "cita": "Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S2/5 (PK 132+723) baja de 4 focos (parada, anuncio de parada, rebase autorizado, vía libre); señal avanzada E'1 (PK 130+574) alta de 3 focos con balizas ASFA previas y de pie, aspecto FF7 B permisiva con letra P; señales de entrada E1 (PK 131+587) y E1A (PK 132+299) altas de 4 focos con teléfono en E1; señal de salida S1/1 de Vilassar (PK 127+355)",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "40 km/h (marcha a la vista tras rebasar señal avanzada E'1); tren 28976 alcanzó 25 km/h durante el incidente",
+    "ancho": "Ibérico",
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "Condiciones degradadas por ocupaciones artificiales de circuitos de vía (CVAE1, CVAE3, CVE'4, CVE1) debido a temporal marítimo; imposibilidad de apertura de señales de salida con enclavamiento; bloqueo establecido hacia Vilassar por vía II sin posibilidad de abrir señal de salida; efecto de escape de material en vía I",
+    "otro": "Nuevo enclavamiento electrónico instalado en julio de 2018; Bloqueo Automático de vía doble Banalizada (BAB) con CTC; rediseño de cantonamiento para ERTMS Nivel 2 con circuitos de vía de mayor longitud; 9 vías de circulación; mando en Mando Local (ML) desde gabinete de Mataró; telemando de Vilassar de Mar desde Mataró; cobertura de radiotelefonía tren-tierra con zonas de poca cobertura hacia Vilassar"
+   },
+   "pagina": 10,
+   "cita": "La estación de Mataró está ubicada en el PK 133+130 de la línea 276, dentro de un tramo dotado de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de salida S2/5 (PK 132+723) baja de 4 focos (parada, anuncio de parada, rebase autorizado, vía libre); señal avanzada E'1 (PK 130+574) alta de 3 focos con balizas ASFA previas y de pie, aspecto FF7 B permisiva con letra P; señales de entrada E1 (PK 131+587) y E1A (PK 132+299) altas de 4 focos con teléfono en E1; señal de salida S1/1 de Vilassar (PK 127+355)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": "No existían obras de ningún tipo en el lugar del suceso ni en sus proximidades.",
+   "pagina": 9,
+   "cita": "3.1.3 Obras en el lugar o cercanías",
+   "origen": "determinista",
+   "regla": "sec:^obras en el lugar o cercan[íi]as$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material rodante, instalaciones ni infraestructura.",
+    "afectacion_servicio": "Retrasos en varios trenes de Cercanías con un total de 27 minutos perdidos. No se activó plan de emergencia externo. Se produjeron condiciones degradadas de explotación durante toda la tarde-noche del 20 de abril."
+   },
+   "pagina": 9,
+   "cita": "No se producen daños materiales en material rodante, instalaciones ni infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material rodante, instalaciones ni infraestructura.",
+    "afectacion_servicio": "Retrasos en varios trenes de Cercanías con un total de 27 minutos perdidos. No se activó plan de emergencia externo. Se produjeron condiciones degradadas de explotación durante toda la tarde-noche del 20 de abril."
+   },
+   "pagina": 2,
+   "cita": "Comisión de Investigación de Accidentes Ferroviarios – CIAF",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en material rodante, instalaciones ni infraestructura.",
+    "afectacion_servicio": "Retrasos en varios trenes de Cercanías con un total de 27 minutos perdidos. No se activó plan de emergencia externo. Se produjeron condiciones degradadas de explotación durante toda la tarde-noche del 20 de abril."
+   },
+   "pagina": 9,
+   "cita": "No se producen daños materiales en material rodante, instalaciones ni infraestructura.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "U/T 465.238 tipo 120A (tren 28976); serie 447 (tren 25953)",
+    "averia": null,
+    "mantenimiento": "Del análisis del registrador de seguridad se deduce que tanto los sistemas de frenado como los equipos y sistemas de seguridad del tren funcionaron correctamente"
+   },
+   "pagina": 10,
+   "cita": "Tren de Cercanías 28976 de la empresa ferroviaria RENFE Viajeros, formado por la U/T 465.238 (UIC",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S2/5 (PK 132+723) baja de 4 focos (parada, anuncio de parada, rebase autorizado, vía libre); señal avanzada E'1 (PK 130+574) alta de 3 focos con balizas ASFA previas y de pie, aspecto FF7 B permisiva con letra P; señales de entrada E1 (PK 131+587) y E1A (PK 132+299) altas de 4 focos con teléfono en E1; señal de salida S1/1 de Vilassar (PK 127+355)",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "40 km/h (marcha a la vista tras rebasar señal avanzada E'1); tren 28976 alcanzó 25 km/h durante el incidente",
+    "ancho": "Ibérico",
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "Condiciones degradadas por ocupaciones artificiales de circuitos de vía (CVAE1, CVAE3, CVE'4, CVE1) debido a temporal marítimo; imposibilidad de apertura de señales de salida con enclavamiento; bloqueo establecido hacia Vilassar por vía II sin posibilidad de abrir señal de salida; efecto de escape de material en vía I",
+    "otro": "Nuevo enclavamiento electrónico instalado en julio de 2018; Bloqueo Automático de vía doble Banalizada (BAB) con CTC; rediseño de cantonamiento para ERTMS Nivel 2 con circuitos de vía de mayor longitud; 9 vías de circulación; mando en Mando Local (ML) desde gabinete de Mataró; telemando de Vilassar de Mar desde Mataró; cobertura de radiotelefonía tren-tierra con zonas de poca cobertura hacia Vilassar"
+   },
+   "pagina": 10,
+   "cita": "La estación de Mataró está ubicada en el PK 133+130 de la línea 276, dentro de un tramo dotado de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Temporal marítimo de viento y oleaje iniciado el 19 de abril: rachas de viento fuerte de hasta 50 km/h dirección N/NNE, oleaje de procedencia E/ESE con alturas significantes de ola de 2,5 m que incide perpendicularmente al trazado de la vía. Precipitación máxima 0,4 mm (poco significativa). Horas diurnas con buena visibilidad. El oleaje invadió las vías produciendo ocupaciones artificiales de circuitos de vía por disminución de resistividad entre carriles por salinidad del agua de mar.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Mataró"
+   },
+   "pagina": 1,
+   "cita": "Incidente ferroviario en la estación de Mataró (Barcelona),",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Temporal marítimo de viento y oleaje iniciado el 19 de abril: rachas de viento fuerte de hasta 50 km/h dirección N/NNE, oleaje de procedencia E/ESE con alturas significantes de ola de 2,5 m que incide perpendicularmente al trazado de la vía. Precipitación máxima 0,4 mm (poco significativa). Horas diurnas con buena visibilidad. El oleaje invadió las vías produciendo ocupaciones artificiales de circuitos de vía por disminución de resistividad entre carriles por salinidad del agua de mar.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de salida S2/5 (PK 132+723) baja de 4 focos (parada, anuncio de parada, rebase autorizado, vía libre); señal avanzada E'1 (PK 130+574) alta de 3 focos con balizas ASFA previas y de pie, aspecto FF7 B permisiva con letra P; señales de entrada E1 (PK 131+587) y E1A (PK 132+299) altas de 4 focos con teléfono en E1; señal de salida S1/1 de Vilassar (PK 127+355)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de salida S2/5 (PK 132+723) baja de 4 focos (parada, anuncio de parada, rebase autorizado, vía libre); señal avanzada E'1 (PK 130+574) alta de 3 focos con balizas ASFA previas y de pie, aspecto FF7 B permisiva con letra P; señales de entrada E1 (PK 131+587) y E1A (PK 132+299) altas de 4 focos con teléfono en E1; señal de salida S1/1 de Vilassar (PK 127+355)",
+    "tipo_via": "Vía doble electrificada",
+    "velocidad_maxima": "40 km/h (marcha a la vista tras rebasar señal avanzada E'1); tren 28976 alcanzó 25 km/h durante el incidente",
+    "ancho": "Ibérico",
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "Condiciones degradadas por ocupaciones artificiales de circuitos de vía (CVAE1, CVAE3, CVE'4, CVE1) debido a temporal marítimo; imposibilidad de apertura de señales de salida con enclavamiento; bloqueo establecido hacia Vilassar por vía II sin posibilidad de abrir señal de salida; efecto de escape de material en vía I",
+    "otro": "Nuevo enclavamiento electrónico instalado en julio de 2018; Bloqueo Automático de vía doble Banalizada (BAB) con CTC; rediseño de cantonamiento para ERTMS Nivel 2 con circuitos de vía de mayor longitud; 9 vías de circulación; mando en Mando Local (ML) desde gabinete de Mataró; telemando de Vilassar de Mar desde Mataró; cobertura de radiotelefonía tren-tierra con zonas de poca cobertura hacia Vilassar"
+   },
+   "pagina": 10,
+   "cita": "La estación de Mataró está ubicada en el PK 133+130 de la línea 276, dentro de un tramo dotado de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "U/T 465.238 tipo 120A (tren 28976); serie 447 (tren 25953)",
+    "averia": null,
+    "mantenimiento": "Del análisis del registrador de seguridad se deduce que tanto los sistemas de frenado como los equipos y sistemas de seguridad del tren funcionaron correctamente"
+   },
+   "pagina": 10,
+   "cita": "Tren de Cercanías 28976 de la empresa ferroviaria RENFE Viajeros, formado por la U/T 465.238 (UIC",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": "El RC del CTC de Barcelona, tras percatarse de que el itinerario del tren 28976 está mal dispuesto, \ncomunica inmediatamente con el RC del gabinete de Mataró para ponerle en conocimiento de esta \nsituación. \nEl RC de Mataró informa que se acaba de percatar de lo sucedido, y que se encuentra comunicando \ncon el maquinista para ordenarle que detenga la marcha. \nEl maquinista del tren 28976, quien tras rebasar la señal de salida S2/5 había ido vigilando el \nitinerario, informa al RC de Mataró que ya se encuentra detenido antes de llegar a la aguja nº 21, y \nque por tanto no ha llegado a invadir el cambio. El maquinista del tren 28976 actúa correctamente, \ncon responsabilidad y criterios profesionales de seguridad en circunstancias de anormalidad. \nTras consultar con el PM, el RC del CTC comunica nuevamente con el gabinete de Mataró, e indica al \nRC que ordene al maquinista del tren 28976 la maniobra de retroceso a vía 5. \nSentido habitual \nde la circulación \n\n## Página 17\n\n \n                                                                                                                Informe final de la CIAF   28/2019 \n \n \n \n \n \n \n \n \n \n \n \n \n17",
+   "pagina": 16,
+   "cita": "3.2.4 Medidas tomadas por el personal de circulación",
+   "origen": "determinista",
+   "regla": "sec:^medidas tomadas por el personal de circulaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Ocupaciones artificiales por temporal marítimo",
+    "Alta carga de trabajo del RC",
+    "Modificación reciente enclavamiento Mataró"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "Con fecha de julio de 2018, se instala en Mataró un nuevo enclavamiento electrónico y se rediseña el \ncantonamiento de la línea, en particular el trayecto comprendido entre Vilassar y Mataró, para \nincorporar el sistema ERTMS Nivel 2. \nCon motivo de dicho recantonamiento, se instalan en varios puntos nuevos circuitos de vía de \nlongitud superior a los existentes. Como consecuencia de la instalación de estos circuitos de vía de \nmayor longitud se aprecia que se produce un incremento de las incidencias por temporal \n(ocupaciones artificiales de dichos circuitos), afectando a la circulación de los trenes.  \nEl día 20 de abril de 2019, las estaciones de Mataró y Vilassar de Mar se encontraban en condiciones \ndegradadas, debido a que habían registrado ocupaciones artificiales de varios circuitos de vía como \nconsecuencia de las condiciones climatológicas adversas. Esta situación obligó a tomar medidas \ncomplementarias para mantener la circulación de los trenes. \nEn el gabinete de Circulación de Mataró, el RC se encontraba gestionando el ML de Mataró, así como \ntelemandando la estación de Vilassar de Mar. \nSegún los datos de los registros históricos de la Agencia Estatal de Meteorología (Aemet) y de Puertos \ndel Estado, el día 19 de abril se inicia un temporal marítimo de viento y oleaje, caracterizado por \nrachas de viento fuerte de hasta 50 km/h con dirección predominante N/NNE, y oleaje de \nprocedencia E/ESE con alturas significantes de ola de 2,5 m aproximadamente que incide \nperpendicularmente al trazado de la vía en esa zona. Los valores de precipitación registrados en esos \ndías muestran un máximo de 0,4 mm, siendo un valor poco significativo. \nEste temporal provoca que el oleaje invada las vías, produciéndose ocupaciones artificiales de varios \ncircuitos de vía en el entorno de la estación de Mataró. Los circuitos de vía que se vieron afectados el \ndía 20 de abril son: \n- \nA las 09:43 horas el CVAE1 en vía I, trayecto Vilassar de Mar – Mataró, afectando a la señal \navanzada E’1 de Mataró. \n- \nA las 19:09 horas el CVAE3 en vía II, trayecto Mataró – Vilassar de Mar, afectando a las salidas \nde Mataró hacia Vilassar. \n- \nA las 19:25 horas el CVE’4 en vía I, trayecto Vilassar de Mar – Mataró, afectando a la señal \nintermedia permisiva 1291. \n\n## Página 13\n\n \n                                                                                                                Informe final de la CIAF   28/2019 \n \n \n \n \n \n \n \n \n \n \n \n \n13 \n \n \n- \nA las 19:25 horas el CVE1 en la estación de Mataró, afectando a la señal E1 y provocando un \nefecto de escape de material en la vía I. \nComo primeras actuaciones, el RC de Mataró da continuidad al servicio de circulación de trenes \nmediante autorizaciones de rebase, tanto para la salida de Vilassar y entrada a Mataró por vía I como \nla salida de Mataró hacia Vilassar por vía II, siguiendo las prescripciones recogidas en los Arts. 5.2.1.2 \ny 5.2.1.3 del RCF.",
+   "pagina": 12,
+   "cita": "3.2.1 Antecedentes y condicionantes externos",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 20 de abril de 2019, un fuerte temporal marítimo de viento y oleaje iniciado el día 19 inundó parcialmente las vías del entorno de la estación de Mataró, provocando ocupaciones artificiales en varios circuitos de vía (CVAE1, CVAE3, CVE'4, CVE1). Esta situación degradada impidió la apertura normal de señales de salida con el enclavamiento, obligando al Responsable de Circulación (RC) de Mataró a autorizar salidas mediante telefonema con marcha a la vista. El RC de Mataró se encontraba en Mando Local (ML) y además telemandaba la estación de Vilassar de Mar, lo que incrementó notablemente su carga de trabajo.\n\nA las 20:05 horas, el RC de Mataró cursó telefonema nº 213 al maquinista del tren 28976 autorizándole el rebase de la señal de salida S2/5 con marcha a la vista hasta la señal siguiente, indicándole que circularía por vía II. A las 20:08 horas el tren rebasó la señal S2/5 en indicación de parada actuando sobre el rebase autorizado. Sin embargo, el itinerario de salida estaba mal dispuesto: la aguja nº 21 se encontraba en posición directa orientada hacia vía I, no hacia vía II como se había indicado al maquinista. Por vía I circulaba el tren 25953 en sentido entrada a Mataró, lo que generaba un riesgo de colisión frontal.\n\nA las 20:09 horas, tras alcanzar una velocidad máxima de 25 km/h, el maquinista se percató visualmente de que la aguja nº 21 estaba en posición directa y aplicó el freno, deteniéndose ante la aguja sin llegar a invadirla. El RC del CTC de Barcelona observó la mala disposición de las agujas y comunicó inmediatamente con el RC de Mataró. Tras confirmar que el cambio 21 estaba libre, el RC del CTC ordenó al tren 28976 retroceder a vía 5. El retroceso se inició a las 20:13 horas y finalizó a las 20:15 horas tras recorrer 357 metros. El tren 25953, que se encontraba detenido ante la señal E1, pudo entrar en vía I a las 20:16-20:17 horas y continuar su recorrido. El tren 28976 recibió una nueva autorización de rebase a las 20:31 horas y salió de vía 5 a las 20:32 horas, continuando su recorrido con normalidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "A partir de la información recopilada y una vez establecida la descripción de los acontecimientos, se \nha elaborado un análisis STEP (Sequential Timed Events Plotting – Trazado de Eventos Secuenciales). \nMediante este método se analiza el proceso previo al accidente, aclarando y estableciendo relaciones \nentre las acciones, actores y elementos implicados. De este modo pueden identificarse posibles \nproblemas relacionados con la seguridad que hayan podido influir en el suceso.",
+   "pagina": 29,
+   "cita": "5.1.2 Análisis STEP de los acontecimientos.",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Autorización de rebase para el tren 28976 dada por el RC de Mataró de la señal S2/5 en parada hacia la vía II, estando mal dispuestos los elementos del itinerario de salida con el escape 21/15 en posición normal orientado hacia vía I y con posibilidad de colisión con el tren 25953 circulando por la vía I hacia la estación de Mataró.",
+   "pagina": 5,
+   "cita": "(cd1) La autorización de rebase para el tren 28976, dada por el RC de Mataró, de la señal S2/5 en",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "fc1: Como consecuencia de las condiciones degradadas y la acumulación de trenes, las cargas de trabajo habituales del RC se incrementaron sensiblemente al tener que gestionar tanto el enclavamiento como las circulaciones de Mataró y de Vilassar de Mar.",
+    "fc2: Fuerte temporal marítimo de viento y oleaje que inundó parcialmente las vías dando lugar a averías por ocupación artificial en varios circuitos de vía del entorno de la estación.",
+    "fc3: El gabinete de circulación de Mataró no contaba con el número adecuado de personal de circulación para la explotación de la estación y a su vez el telemando de Vilassar; las funciones del RC son elevadas incluso en condiciones normales, agravadas al telemandar Vilassar en anormalidad.",
+    "fc4: No existe un protocolo o procedimiento de actuación que establezca reglas para el control en la línea que faciliten la operación en Mataró en situaciones degradadas, a pesar de que dichas situaciones son recurrentes (2 veces al año aproximadamente).",
+    "fc5: No se valoró adecuadamente en el análisis de riesgos del diseño y proyecto del nuevo enclavamiento la repercusión de la modificación de la longitud de los circuitos de vía en cuanto a su fiabilidad respecto a la problemática existente por temporales."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "De las investigaciones realizadas, así como de las causas y factores contribuyentes encontrados, se \npueden concluir los siguientes puntos a considerar: \n1. ADIF debería revisar las tareas asignadas a los RC de la estación de Mataró procurando \nestablecer procedimientos para la asignación de funciones de control y mando en dicha \nestación, tanto en situación normal en periodos de elevada carga de trabajo como en \ncondiciones degradadas. Del mismo modo, deberían desarrollarse en detalle las técnicas de \nverificación manual en las que debe apoyarse el personal de circulación para la correcta \nverificación de las operaciones, especialmente en aquellas situaciones en que no puedan \nverificarse mediante el enclavamiento [VER RECOMENDACIÓN Nº 1] \n \n2. ADIF debería revisar los procedimientos para la realización de los análisis de riesgos en las \nnuevas actuaciones, especialmente en las renovaciones y modificaciones de los \n\n## Página 31\n\n \n                                                                                                                Informe final de la CIAF   28/2019 \n \n \n \n \n \n \n \n \n \n \n \n \n31 \n \n \nenclavamientos, tomando en cuenta las amenazas que la experiencia del funcionamiento del \nenclavamiento o la instalación a modificar puedan aportar. [VER RECOMENDACIÓN Nº 2] \n5.2 \nMEDIDAS ADOPTADAS DESDE EL SUCESO \nMedidas adoptadas por el administrador de infraestructuras ferroviarias ADIF: \nCon la finalidad de disminuir las incidencias en condiciones de temporal marítimo, las cuales consisten \nen ocupaciones intempestivas de varios circuitos de vía y se producen de forma repetitiva, se van a \nllevar a cabo modificaciones y rediseño en la configuración y longitud de dichos circuitos, de forma \nque su sensibilidad a la salinidad del agua de mar se reduzca a valores aceptables. \nAdemás, se están llevando a cabo trabajos de obra civil consistentes en el refuerzo y reparación de \nlas estructuras de protección existentes, mediante la adición y consolidación de nuevas capas de \nescollera con el objetivo de que la cantidad y frecuencia de agua de mar que llegue a los circuitos de \nvía se reduzca. \nDesde el punto de vista operativo, se ha procedido a mantener en ML únicamente la estación de \nMataró estando la estación de Vilassar telemandada desde el CTC, disminuyendo de esta forma la \ncarga de trabajo del RC de Mataró en consonancia con lo indicado en este informe en relación con el \nelevado número de funciones asignadas. \nEn lo referente a los análisis de riesgos de modificaciones significativas, en la reunión por \nvideoconferencia mantenida con representantes de ADIF se constata que se están tomando medidas \npara adoptar las recomendaciones y requisitos de los Métodos Comunes de Seguridad (MCS). Del \nmismo modo, se están actualizando los criterios de diseño de las IISS para tomar en consideración \ntodas las circunstancias y factores desde las fases iniciales del proyecto. \n5.3 \nOBSERVACIONES ADICIONALES \nDel examen de la documentación de la que se dispone para la investigación, en particular el histórico \nde averías en CV entre Mataró y Vilassar por temporal marítimo y las fichas GIFO correspondientes, \nse observa que, en general, se demoran varias horas hasta recuperar la normalidad en el \nfuncionamiento de las instalaciones tras producirse averías por ocupaciones artificiales de los CV. \nSegún lo recogido en dichas fichas, en algunos casos los CV afectados se “autoliberan” antes de que \nlos equipos de mantenimiento hayan realizado ninguna actuación. \nEn este sentido, el tiempo de respuesta para solventar las incidencias podría considerarse elevado, \nresultando en un aumento del tiempo durante el cual la explotación del tráfico se encuentra en \ncondiciones degradadas. Si bien las ocupaciones artificiales de CV se deben a la disminución de la \nresistividad entre carriles debido a las condiciones atmosféricas y, por ello, hasta que dichas \ncondiciones no mejoran y la resistividad del terreno aumenta no es posible recuperar las condiciones \nnormales, el equipo de mantenimiento podría intentar realizar un reajuste temporal y controlado de \nlos CV con incidencias hasta la normalización de la situación climática. Esta medida podría reducir el \ntiempo y número de CV con incidencias, contribuyendo a una reducción del estado de anormalidad \nde la estación. \nSe tiene conocimiento de que los partes de averías/incidencias entran a través del RC del CTC, quien \nlas deriva al departamento correspondiente. Es este departamento en última instancia el que decide \nel orden prioritario de actuación, aunque se desconocen los criterios de actuación empleados. \n\n## Página 32\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n32",
+   "pagina": 30,
+   "cita": "5.1.4 Conclusiones De las investigaciones realizadas, así como de las causas y factores contribuyentes encontrados, se pueden concluir los siguientes puntos a considerar: 1. ADIF debería revisar las tareas asignadas a",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "De las investigaciones realizadas, así como de las causas y factores contribuyentes encontrados, se \npueden concluir los siguientes puntos a considerar: \n1. ADIF debería revisar las tareas asignadas a los RC de la estación de Mataró procurando \nestablecer procedimientos para la asignación de funciones de control y mando en dicha \nestación, tanto en situación normal en periodos de elevada carga de trabajo como en \ncondiciones degradadas. Del mismo modo, deberían desarrollarse en detalle las técnicas de \nverificación manual en las que debe apoyarse el personal de circulación para la correcta \nverificación de las operaciones, especialmente en aquellas situaciones en que no puedan \nverificarse mediante el enclavamiento [VER RECOMENDACIÓN Nº 1] \n \n2. ADIF debería revisar los procedimientos para la realización de los análisis de riesgos en las \nnuevas actuaciones, especialmente en las renovaciones y modificaciones de los \n\n## Página 31\n\n \n                                                                                                                Informe final de la CIAF   28/2019 \n \n \n \n \n \n \n \n \n \n \n \n \n31 \n \n \nenclavamientos, tomando en cuenta las amenazas que la experiencia del funcionamiento del \nenclavamiento o la instalación a modificar puedan aportar. [VER RECOMENDACIÓN Nº 2] \n5.2 \nMEDIDAS ADOPTADAS DESDE EL SUCESO \nMedidas adoptadas por el administrador de infraestructuras ferroviarias ADIF: \nCon la finalidad de disminuir las incidencias en condiciones de temporal marítimo, las cuales consisten \nen ocupaciones intempestivas de varios circuitos de vía y se producen de forma repetitiva, se van a \nllevar a cabo modificaciones y rediseño en la configuración y longitud de dichos circuitos, de forma \nque su sensibilidad a la salinidad del agua de mar se reduzca a valores aceptables. \nAdemás, se están llevando a cabo trabajos de obra civil consistentes en el refuerzo y reparación de \nlas estructuras de protección existentes, mediante la adición y consolidación de nuevas capas de \nescollera con el objetivo de que la cantidad y frecuencia de agua de mar que llegue a los circuitos de \nvía se reduzca. \nDesde el punto de vista operativo, se ha procedido a mantener en ML únicamente la estación de \nMataró estando la estación de Vilassar telemandada desde el CTC, disminuyendo de esta forma la \ncarga de trabajo del RC de Mataró en consonancia con lo indicado en este informe en relación con el \nelevado número de funciones asignadas. \nEn lo referente a los análisis de riesgos de modificaciones significativas, en la reunión por \nvideoconferencia mantenida con representantes de ADIF se constata que se están tomando medidas \npara adoptar las recomendaciones y requisitos de los Métodos Comunes de Seguridad (MCS). Del \nmismo modo, se están actualizando los criterios de diseño de las IISS para tomar en consideración \ntodas las circunstancias y factores desde las fases iniciales del proyecto. \n5.3 \nOBSERVACIONES ADICIONALES \nDel examen de la documentación de la que se dispone para la investigación, en particular el histórico \nde averías en CV entre Mataró y Vilassar por temporal marítimo y las fichas GIFO correspondientes, \nse observa que, en general, se demoran varias horas hasta recuperar la normalidad en el \nfuncionamiento de las instalaciones tras producirse averías por ocupaciones artificiales de los CV. \nSegún lo recogido en dichas fichas, en algunos casos los CV afectados se “autoliberan” antes de que \nlos equipos de mantenimiento hayan realizado ninguna actuación. \nEn este sentido, el tiempo de respuesta para solventar las incidencias podría considerarse elevado, \nresultando en un aumento del tiempo durante el cual la explotación del tráfico se encuentra en \ncondiciones degradadas. Si bien las ocupaciones artificiales de CV se deben a la disminución de la \nresistividad entre carriles debido a las condiciones atmosféricas y, por ello, hasta que dichas \ncondiciones no mejoran y la resistividad del terreno aumenta no es posible recuperar las condiciones \nnormales, el equipo de mantenimiento podría intentar realizar un reajuste temporal y controlado de \nlos CV con incidencias hasta la normalización de la situación climática. Esta medida podría reducir el \ntiempo y número de CV con incidencias, contribuyendo a una reducción del estado de anormalidad \nde la estación. \nSe tiene conocimiento de que los partes de averías/incidencias entran a través del RC del CTC, quien \nlas deriva al departamento correspondiente. Es este departamento en última instancia el que decide \nel orden prioritario de actuación, aunque se desconocen los criterios de actuación empleados. \n\n## Página 32\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n32",
+   "pagina": 30,
+   "cita": "5.1.4 Conclusiones De las investigaciones realizadas, así como de las causas y factores contribuyentes encontrados, se pueden concluir los siguientes puntos a considerar: 1. ADIF debería revisar las tareas asignadas a",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Revisar las tareas asignadas a los RC de las estaciones terminales y aquellas que presentan cierta complejidad técnica. Establecer procedimientos para la asignación de funciones de control y mando en dichas estaciones, tanto en situación normal en periodos de elevada carga de trabajo como en condiciones degradadas.",
+    "En las nuevas actuaciones a realizar en la infraestructura, especialmente en las renovaciones y modificaciones de los enclavamientos y otras instalaciones de seguridad, se deben realizar los Análisis de Riesgos correspondientes, tomando en cuenta las amenazas que la experiencia del funcionamiento del enclavamiento o la instalación a modificar puedan aportar, especialmente en situaciones de anormalidad.",
+    "Debe tenerse en cuenta que en los Análisis de Riesgos, los Safety Cases realizados por los contratistas para sus equipos no resultan suficientes, debiendo realizar un Análisis de Riesgos del sistema integrado, considerando las situaciones de anormalidad que se puedan producir.",
+    "Revisar las tareas asignadas a los RC de las estaciones terminales y aquellas que presentan cierta complejidad técnica. Establecer procedimientos para la asignación de funciones de control y mando en dichas estaciones, tanto en situación normal en periodos de elevada carga de trabajo como en condiciones degradadas.",
+    "En las nuevas actuaciones a realizar en la infraestructura, especialmente en las renovaciones y modificaciones de los enclavamientos y otras instalaciones de seguridad, se deben realizar los Análisis de Riesgos correspondientes, tomando en cuenta las amenazas que la experiencia del funcionamiento del enclavamiento o la instalación a modificar puedan aportar, especialmente en situaciones de anormalidad.",
+    "Debe tenerse en cuenta que en los Análisis de Riesgos, los Safety Cases realizados por los contratistas para sus equipos no resultan suficientes, debiendo realizar un Análisis de Riesgos del sistema integrado, considerando las situaciones de anormalidad que se puedan producir."
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)",
+    "ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS (ADIF)"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "2019-04-19",
+     "evento": "Inicio del temporal marítimo de viento y oleaje (rachas hasta 50 km/h, oleaje 2,5 m)"
+    },
+    {
+     "hora": "14:00",
+     "evento": "RC de Mataró toma servicio; ocupación intermitente del CV CVAE1"
+    },
+    {
+     "hora": "19:05",
+     "evento": "Se ocupan varios circuitos más del trayecto por causas meteorológicas"
+    },
+    {
+     "hora": "19:09",
+     "evento": "CV CVAE3 en vía II afectado, impidiendo salidas de Mataró hacia Vilassar"
+    },
+    {
+     "hora": "19:25",
+     "evento": "CV E'4 en vía I y CVE1 en estación afectados; se solicita agente SIC a Vilassar"
+    },
+    {
+     "hora": "19:45",
+     "evento": "Tren 28973 recibe telefonema de autorización de rebase de señal S1/1 de Vilassar"
+    },
+    {
+     "hora": "19:57",
+     "evento": "Tren 25953 recibe telefonema de autorización de rebase de señal S1/1 de Vilassar"
+    },
+    {
+     "hora": "20:01",
+     "evento": "Tren 28973 se estaciona en vía 5 de Mataró (formará tren 28976)"
+    },
+    {
+     "hora": "20:04",
+     "evento": "Tren 25953 ocupa CV E'4 de Mataró; se bloquean mandos de cambios 33, 31 y 23"
+    },
+    {
+     "hora": "20:05",
+     "evento": "RC de Mataró cursa telefonema nº 213 al maquinista del tren 28976 autorizando rebase de S2/5 con marcha a la vista por vía II"
+    },
+    {
+     "hora": "20:07",
+     "evento": "Tren 28976 inicia marcha desde vía 5; tren 25953 rebasa señal avanzada E'1 en parada"
+    },
+    {
+     "hora": "20:08",
+     "evento": "Tren 28976 se detiene ante señal S2/5 en parada y actúa rebase autorizado; PM de Barcelona tiene conocimiento del incidente"
+    },
+    {
+     "hora": "20:08:52",
+     "evento": "Tren 28976 rebasa señal S2/5 con itinerario mal dispuesto hacia vía I; ocupa CV A21"
+    },
+    {
+     "hora": "20:09:33",
+     "evento": "Tren 28976 alcanza velocidad máxima de 25 km/h; maquinista percibe aguja 21 en posición directa"
+    },
+    {
+     "hora": "20:09:35",
+     "evento": "RC del CTC llama a RC de Mataró advirtiendo agujas mal dispuestas"
+    },
+    {
+     "hora": "20:09:42",
+     "evento": "Tren 28976 queda detenido ante aguja 21 sin invadirla (343 m desde señal S2/5)"
+    },
+    {
+     "hora": "20:10:57",
+     "evento": "RC de Mataró ordena al maquinista cambiar de cabina y retroceder a vía 5"
+    },
+    {
+     "hora": "20:13",
+     "evento": "Tren 28976 inicia movimiento de retroceso hacia vía 5"
+    },
+    {
+     "hora": "20:15",
+     "evento": "Tren 28976 finaliza retroceso tras 357 m"
+    },
+    {
+     "hora": "20:16",
+     "evento": "Tren 25953 pasa señal E1 en vía libre"
+    },
+    {
+     "hora": "20:17",
+     "evento": "Tren 25953 pasa señal E1A en vía libre"
+    },
+    {
+     "hora": "20:18",
+     "evento": "Tren 25953 continúa recorrido hacia Arenys de Mar"
+    },
+    {
+     "hora": "20:31",
+     "evento": "Tren 28976 recibe telefonema nº 215 de nueva autorización de rebase de S2/5"
+    },
+    {
+     "hora": "20:32",
+     "evento": "Tren 28976 sale de vía 5 y continúa su recorrido con normalidad"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0028/2019",
+ "expediente": "0028/19",
+ "anio": 2019,
+ "titulo": "Incidente ferroviario en la estación de Mataró (Barcelona), ocurrido el 20 de abril de 2019",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES-6255-210121-200419-IF-SN_CIAF.md"
+}

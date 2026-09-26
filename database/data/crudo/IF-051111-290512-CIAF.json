@@ -1,0 +1,888 @@
+{
+ "id": "IF-051111-290512-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/D70E5807-A7FF-47BA-ADEB-6BBB2C6DE5AE/112296/512011.pdf",
+ "pdf": "pdfs/ES/IF-051111-290512-CIAF.pdf",
+ "md5_pdf": "d5efb7f2ffad25e4d506a5b0c5cdc6f7",
+ "paginas_md": 13,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 17,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0051/2011",
+   "pagina": 1,
+   "cita": "nº 0051/2011 ocurrido el 05.11.2011",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 5 de noviembre de 2011, a las 10:43 horas, el tren de larga distancia 37537 (material vacío del tren 874) de Renfe Operadora rebasó indebidamente la señal de entrada 1107 de la Bifurcación Sagrera, que se encontraba en indicación de parada. Se produjo una situación de conato de colisión con el tren 274, que tenía establecido itinerario hacia Barcelona Marina. El incidente se debió al incumplimiento de las órdenes dadas por la señal al personal de conducción. No hubo víctimas ni daños materiales, y no se formularon recomendaciones al considerar adecuadas las medidas adoptadas por Renfe Operadora.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2011-11-05",
+    "hora": "10:43",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Bifurcación Sagrera",
+     "pk": "110+311",
+     "linea": "268 Bif. Aragó – Barcelona Sant Andreu Comtal",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Tramo de túnel con vía doble electrificada de ancho convencional, señal de entrada 1107 situada al final del andén del apeadero de Barcelona Clot-Aragó, alta y dotada de baliza previa. Circulación al amparo de bloqueo automático banalizado (BAB) con CTC gestionado desde el puesto de mando de Barcelona."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 5 de noviembre de 2011, a las 10:43 horas, en la Bifurcación Sagrera, de la línea 268 Bif.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales ni en material rodante ni en infraestructura",
+    "afectacion_servicio": "Retraso de 12 minutos a un tren de larga distancia y 4 minutos a un tren de cercanías; no fue necesaria la activación de plan de emergencia interno-externo"
+   },
+   "pagina": 9,
+   "cita": "El incidente provoca un retraso de 12 minutos a un tren de larga distancia y 4 minutos a un tren de",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Rebase indebido de la señal 1107 en indicación de parada por incumplimiento de las órdenes dadas por la señal al personal de conducción (artículo 217 del RGC)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Circulación detrás de una unidad de cercanías que generó una secuencia de señales en anuncio de parada (L1), creando confusión en el maquinista",
+    "El maquinista esperó que se encendiera la indicadora de dirección M (Mataró) para que la señal pasara a anuncio de parada, lo cual no ocurrió",
+    "La indicadora de dirección G (Granollers) estaba apagada, lo que pudo inducir a error"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente",
+   "pagina": 1,
+   "cita": "Investigación del incidente",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 4,
+   "cita": "Croquis: (Fuente: Renfe Operadora)",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2011-11-05",
+   "pagina": 3,
+   "cita": "El día 5 de noviembre de 2011, a las 10:43 horas, en la Bifurcación Sagrera, de la línea 268 Bif.",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "10:43",
+   "pagina": 3,
+   "cita": "El día 5 de noviembre de 2011, a las 10:43 horas, en la Bifurcación Sagrera, de la línea 268 Bif.",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Bifurcación Sagrera",
+    "pk": "110+311",
+    "linea": "268 Bif. Aragó – Barcelona Sant Andreu Comtal",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Tramo de túnel con vía doble electrificada de ancho convencional, señal de entrada 1107 situada al final del andén del apeadero de Barcelona Clot-Aragó, alta y dotada de baliza previa. Circulación al amparo de bloqueo automático banalizado (BAB) con CTC gestionado desde el puesto de mando de Barcelona."
+   },
+   "pagina": 3,
+   "cita": "El día 5 de noviembre de 2011, a las 10:43 horas, en la Bifurcación Sagrera, de la línea 268 Bif.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "268 Bif. Aragó-Barcelona Sant Andreu Comtal",
+   "pagina": 3,
+   "cita": "El día 5 de noviembre de 2011, a las 10:43 horas, en la Bifurcación Sagrera, de la línea 268 Bif.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora serie 252, Tipo 180B, UIC 9571025207740",
+    "averia": "Ninguna; equipos de seguridad funcionaron correctamente",
+    "mantenimiento": "No se menciona; registrador de seguridad operativo y analizado"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 5 de noviembre de 2011, a las 10:43 horas, en la señal de entrada 1107 (PK 110+311) de la Bifurcación Sagrera, de la línea 268 Bif. Aragó–Barcelona Sant Andreu Comtal, el tren de viajeros de larga distancia 37537 (material vacío del tren 874), procedente de Barcelona Sants y con destino Barcelona Sagrera Ag. Km 0, rebasó indebidamente dicha señal que se encontraba en indicación de parada. El tren circulaba por vía impar detrás de una unidad de cercanías, encontrándose con una secuencia de señales que pasaban de parada a anuncio de parada. Al llegar a la señal 1107, el maquinista esperó que se encendiera la indicadora de dirección M (Mataró) para que pasara a anuncio de parada, lo cual no ocurrió, y rebasó la señal a 2 km/h, deteniéndose 3 metros después por activación del freno de emergencia del sistema ASFA.\n\nEn ese momento, el tren 274 ya había rebasado la señal 1108 (en vía libre) y se encontraba circulando por la diagonal de acceso a la línea 262 Barcelona Sagrera a Bif. Clot, con itinerario establecido hacia Barcelona Marina, produciéndose una situación de conato de colisión entre ambos trenes. El maquinista comunicó el rebase al puesto de mando (CTC), que ordenó retroceder hasta liberar la señal 1107 y posteriormente le estableció itinerario hasta la señal 1113. No fue necesaria la activación de plan de emergencia.",
+   "pagina": 3,
+   "cita": "Los hechos tuvieron lugar el día 5 de noviembre de 2011, a las 10:43 horas, en la señal de entrada",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Bifurcación Sagrera",
+    "pk": "110+311",
+    "linea": "268 Bif. Aragó – Barcelona Sant Andreu Comtal",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Tramo de túnel con vía doble electrificada de ancho convencional, señal de entrada 1107 situada al final del andén del apeadero de Barcelona Clot-Aragó, alta y dotada de baliza previa. Circulación al amparo de bloqueo automático banalizado (BAB) con CTC gestionado desde el puesto de mando de Barcelona."
+   },
+   "pagina": 3,
+   "cita": "El día 5 de noviembre de 2011, a las 10:43 horas, en la Bifurcación Sagrera, de la línea 268 Bif.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales ni en material rodante ni en infraestructura",
+    "afectacion_servicio": "Retraso de 12 minutos a un tren de larga distancia y 4 minutos a un tren de cercanías; no fue necesaria la activación de plan de emergencia interno-externo"
+   },
+   "pagina": 9,
+   "cita": "El incidente provoca un retraso de 12 minutos a un tren de larga distancia y 4 minutos a un tren de",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 37537 (matrícula 9710690)",
+     "implicacion": "Rebasó indebidamente la señal 1107 en indicación de parada por incumplimiento de las órdenes dadas por la señal; esperó el encendido de la indicadora de dirección M (Mataró) que no se produjo; prueba de alcoholemia y drogas negativa; título B de conducción, habilitación para la línea desde 10/09/2008, para el vehículo desde 27/03/2008, antigüedad en el cargo desde 06/02/2003, último reciclaje formativo 09/07/2010, último reconocimiento médico-psicotécnico 11/08/2011"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "37537",
+     "tipo": "Viajeros larga distancia (material vacío de tren 874), locomotora serie 252, 14 coches, 15 ejes, 208 t, 185 m, Tipo 180B, UIC 9571025207740",
+     "operador": "Renfe Operadora",
+     "danos": "No se producen daños"
+    },
+    {
+     "numero": "274",
+     "tipo": "Tren de viajeros con itinerario establecido hacia Barcelona Marina",
+     "operador": "Renfe Operadora",
+     "danos": "No se mencionan daños"
+    }
+   ],
+   "pagina": 3,
+   "cita": "Aragó–Barcelona Sant Andreu Comtal, el tren de viajeros 37537, material vacío de tren 874, rebasa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora serie 252, Tipo 180B, UIC 9571025207740",
+    "averia": "Ninguna; equipos de seguridad funcionaron correctamente",
+    "mantenimiento": "No se menciona; registrador de seguridad operativo y analizado"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada 1107 en indicación de parada (aspecto no cambió en ningún momento), alta, dotada de baliza previa y baliza de pie de señal con sistema ASFA; señal intermedia nº 13 (PK 109+723) en anuncio de parada; señal 1108 en vía libre",
+    "tipo_via": "Túnel con vía doble electrificada de ancho convencional",
+    "velocidad_maxima": "120 km/h",
+    "ancho": "Convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Funcionó correctamente; sin limitación temporal de velocidad",
+    "otro": "Bloqueo automático banalizado (BAB) con CTC gestionado desde el puesto de mando de Barcelona; comunicación Tren Tierra modalidad A; tráfico medio semanal del tramo: 1.182 circulaciones (88 LD, 324 MD, 768 cercanías, 2 servicio)"
+   },
+   "pagina": 7,
+   "cita": "El lugar donde ocurre el incidente corresponde a un tramo de túnel con vía doble electrificada de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de entrada 1107 en indicación de parada (aspecto no cambió en ningún momento), alta, dotada de baliza previa y baliza de pie de señal con sistema ASFA; señal intermedia nº 13 (PK 109+723) en anuncio de parada; señal 1108 en vía libre",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Tren Tierra modalidad A.",
+   "pagina": 8,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales ni en material rodante ni en infraestructura",
+    "afectacion_servicio": "Retraso de 12 minutos a un tren de larga distancia y 4 minutos a un tren de cercanías; no fue necesaria la activación de plan de emergencia interno-externo"
+   },
+   "pagina": 3,
+   "cita": "El tren de viajeros 37537 (material vacío de tren 874), perteneciente a la empresa ferroviaria Renfe",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales ni en material rodante ni en infraestructura",
+    "afectacion_servicio": "Retraso de 12 minutos a un tren de larga distancia y 4 minutos a un tren de cercanías; no fue necesaria la activación de plan de emergencia interno-externo"
+   },
+   "pagina": 9,
+   "cita": "El incidente provoca un retraso de 12 minutos a un tren de larga distancia y 4 minutos a un tren de",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales ni en material rodante ni en infraestructura",
+    "afectacion_servicio": "Retraso de 12 minutos a un tren de larga distancia y 4 minutos a un tren de cercanías; no fue necesaria la activación de plan de emergencia interno-externo"
+   },
+   "pagina": 9,
+   "cita": "El incidente provoca un retraso de 12 minutos a un tren de larga distancia y 4 minutos a un tren de",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora serie 252, Tipo 180B, UIC 9571025207740",
+    "averia": "Ninguna; equipos de seguridad funcionaron correctamente",
+    "mantenimiento": "No se menciona; registrador de seguridad operativo y analizado"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada 1107 en indicación de parada (aspecto no cambió en ningún momento), alta, dotada de baliza previa y baliza de pie de señal con sistema ASFA; señal intermedia nº 13 (PK 109+723) en anuncio de parada; señal 1108 en vía libre",
+    "tipo_via": "Túnel con vía doble electrificada de ancho convencional",
+    "velocidad_maxima": "120 km/h",
+    "ancho": "Convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Funcionó correctamente; sin limitación temporal de velocidad",
+    "otro": "Bloqueo automático banalizado (BAB) con CTC gestionado desde el puesto de mando de Barcelona; comunicación Tren Tierra modalidad A; tráfico medio semanal del tramo: 1.182 circulaciones (88 LD, 324 MD, 768 cercanías, 2 servicio)"
+   },
+   "pagina": 7,
+   "cita": "El lugar donde ocurre el incidente corresponde a un tramo de túnel con vía doble electrificada de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "No afecta; el incidente ocurre en el interior de un túnel",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Bifurcación Sagrera"
+   },
+   "pagina": 3,
+   "cita": "Aragó–Barcelona Sant Andreu Comtal, el tren de viajeros 37537, material vacío de tren 874, rebasa",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "No afecta; el incidente ocurre en el interior de un túnel",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de entrada 1107 en indicación de parada (aspecto no cambió en ningún momento), alta, dotada de baliza previa y baliza de pie de señal con sistema ASFA; señal intermedia nº 13 (PK 109+723) en anuncio de parada; señal 1108 en vía libre",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada 1107 en indicación de parada (aspecto no cambió en ningún momento), alta, dotada de baliza previa y baliza de pie de señal con sistema ASFA; señal intermedia nº 13 (PK 109+723) en anuncio de parada; señal 1108 en vía libre",
+    "tipo_via": "Túnel con vía doble electrificada de ancho convencional",
+    "velocidad_maxima": "120 km/h",
+    "ancho": "Convencional",
+    "electrificacion": "Electrificada",
+    "estado_via": "Funcionó correctamente; sin limitación temporal de velocidad",
+    "otro": "Bloqueo automático banalizado (BAB) con CTC gestionado desde el puesto de mando de Barcelona; comunicación Tren Tierra modalidad A; tráfico medio semanal del tramo: 1.182 circulaciones (88 LD, 324 MD, 768 cercanías, 2 servicio)"
+   },
+   "pagina": 7,
+   "cita": "El lugar donde ocurre el incidente corresponde a un tramo de túnel con vía doble electrificada de",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Tren Tierra modalidad A.",
+   "pagina": 8,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora serie 252, Tipo 180B, UIC 9571025207740",
+    "averia": "Ninguna; equipos de seguridad funcionaron correctamente",
+    "mantenimiento": "No se menciona; registrador de seguridad operativo y analizado"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Circulación detrás de una unidad de cercanías que generó una secuencia de señales en anuncio de parada (L1), creando confusión en el maquinista",
+    "El maquinista esperó que se encendiera la indicadora de dirección M (Mataró) para que la señal pasara a anuncio de parada, lo cual no ocurrió",
+    "La indicadora de dirección G (Granollers) estaba apagada, lo que pudo inducir a error"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 15837 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉste tiene antigüedad en el cargo desde el 06/02/2003, tiene habilitación para la línea desde el \n10/09/2008 y habilitación para el vehículo desde el 27/03/2008. \nRealizó su último reciclaje formativo el 09/07/2010 y su último reconocimiento médico y psicotécnico el \n11/08/2011, conforme a la normativa vigente. \n\n## Página 10\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0051/2011 ocurrido el 05.11.2011 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-051111-290512-CIAF  \n \n \nPág. 10 de 13\n3.3. \nNORMATIVA",
+   "pagina": 9,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 5 de noviembre de 2011, a las 10:43 horas, en la señal de entrada 1107 (PK 110+311) de la Bifurcación Sagrera, de la línea 268 Bif. Aragó–Barcelona Sant Andreu Comtal, el tren de viajeros de larga distancia 37537 (material vacío del tren 874), procedente de Barcelona Sants y con destino Barcelona Sagrera Ag. Km 0, rebasó indebidamente dicha señal que se encontraba en indicación de parada. El tren circulaba por vía impar detrás de una unidad de cercanías, encontrándose con una secuencia de señales que pasaban de parada a anuncio de parada. Al llegar a la señal 1107, el maquinista esperó que se encendiera la indicadora de dirección M (Mataró) para que pasara a anuncio de parada, lo cual no ocurrió, y rebasó la señal a 2 km/h, deteniéndose 3 metros después por activación del freno de emergencia del sistema ASFA.\n\nEn ese momento, el tren 274 ya había rebasado la señal 1108 (en vía libre) y se encontraba circulando por la diagonal de acceso a la línea 262 Barcelona Sagrera a Bif. Clot, con itinerario establecido hacia Barcelona Marina, produciéndose una situación de conato de colisión entre ambos trenes. El maquinista comunicó el rebase al puesto de mando (CTC), que ordenó retroceder hasta liberar la señal 1107 y posteriormente le estableció itinerario hasta la señal 1113. No fue necesaria la activación de plan de emergencia.",
+   "pagina": 3,
+   "cita": "Los hechos tuvieron lugar el día 5 de noviembre de 2011, a las 10:43 horas, en la señal de entrada",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Rebase indebido de la señal 1107 en indicación de parada por incumplimiento de las órdenes dadas por la señal al personal de conducción (artículo 217 del RGC)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Circulación detrás de una unidad de cercanías que generó una secuencia de señales en anuncio de parada (L1), creando confusión en el maquinista",
+    "El maquinista esperó que se encendiera la indicadora de dirección M (Mataró) para que la señal pasara a anuncio de parada, lo cual no ocurrió",
+    "La indicadora de dirección G (Granollers) estaba apagada, lo que pudo inducir a error"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "10:42:03",
+     "evento": "El tren 37537 pasa por la baliza previa de la señal 1107 a una velocidad de 36 km/h"
+    },
+    {
+     "hora": "10:43:00",
+     "evento": "Se establece itinerario de paso para el tren 274 por la diagonal desde la señal 1108 hasta la señal 1103 de la línea 262; la señal 1107 está en parada"
+    },
+    {
+     "hora": "10:43:12",
+     "evento": "El tren 37537 rebasa indebidamente la señal 1107 a 2 km/h, deteniéndose 3 metros después por activación del ASFA; conato de colisión con el tren 274"
+    },
+    {
+     "hora": "12:10",
+     "evento": "Prueba de alcoholemia y drogas al maquinista en Barcelona, resultado negativo"
+    },
+    {
+     "hora": "12:42",
+     "evento": "El jefe de gabinete de investigación de Adif comunica el suceso a la CIAF por telefonía móvil"
+    },
+    {
+     "hora": "13:30",
+     "evento": "Toma de declaración al maquinista del tren 37537"
+    },
+    {
+     "hora": null,
+     "evento": "2011-11-29: El Pleno de la CIAF acuerda abrir la investigación"
+    },
+    {
+     "hora": null,
+     "evento": "2011-12-15: Renfe Operadora entrega su informe particular"
+    },
+    {
+     "hora": null,
+     "evento": "2012-02-29: Adif entrega informe con ficha GISCA y anexos"
+    },
+    {
+     "hora": null,
+     "evento": "2012-05-29: Fecha del informe final (Madrid)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0051/2011",
+ "expediente": "0051/011",
+ "anio": 2011,
+ "titulo": "Rebase de señal en parada en Bifurcación Sagrera (Barcelona) con conato de colisión entre trenes",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-051111-290512-CIAF.md"
+}

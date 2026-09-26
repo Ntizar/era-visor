@@ -1,0 +1,994 @@
+{
+ "id": "IF_061212_170913_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/37C95D2D-CC49-49E3-9AC4-CC4065EB80E0/120791/IF061212170913CIAF.pdf",
+ "pdf": "pdfs/ES/IF_061212_170913_CIAF.pdf",
+ "md5_pdf": "89ec9be7ed09525242a4a683072d8d8b",
+ "paginas_md": 16,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 20,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Renfe Operadora (servicios de ancho métrico – SAM)",
+     "Número": "74/12-1",
+     "Recomendación": "Estudio del funcionamiento del sistema del freno de estacionamiento de esta serie de vehículos, y de otras series con sistema similar. Evaluación de su modificación y del cambio de la consistencia de mantenimiento."
+    },
+    {
+     "Destinatario final": "Renfe Operadora (servicios de ancho métrico – SAM)",
+     "Número": "74/12-2",
+     "Recomendación": "Realizar una auditoría sobre el cumplimiento de los ciclos de mantenimiento del material móvil adscrito a los Servicios de Ancho Métrico (SAM)."
+    },
+    {
+     "Destinatario final": "Adif (red de ancho métrico - RAM)",
+     "Número": "74/12-3",
+     "Recomendación": "Disponer las medidas necesarias para garantizar la seguridad ante el riesgo de deriva de material móvil en las estaciones con características similares a las de Laviana (inicio o fin de recorrido y/o pendiente en la zona de estacionamiento en sentido hacia la vía general)."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 16,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Renfe Operadora (servicios de ancho métrico – SAM)",
+     "Número": "74/12-1",
+     "Recomendación": "Estudio del funcionamiento del sistema del freno de estacionamiento de esta serie de vehículos, y de otras series con sistema similar. Evaluación de su modificación y del cambio de la consistencia de mantenimiento."
+    },
+    {
+     "Destinatario final": "Renfe Operadora (servicios de ancho métrico – SAM)",
+     "Número": "74/12-2",
+     "Recomendación": "Realizar una auditoría sobre el cumplimiento de los ciclos de mantenimiento de los vehículos adscritos a los Servicios de Ancho Métrico (SAM)."
+    },
+    {
+     "Destinatario final": "Adif (red de ancho métrico - RAM)",
+     "Número": "74/12-3",
+     "Recomendación": "Disponer las medidas necesarias para garantizar la seguridad ante el riesgo de deriva de material móvil en las estaciones con características similares a las de Laviana (inicio o fin de recorrido y/o pendiente en la zona de estacionamiento en sentido hacia la vía general)."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0074/2012",
+   "pagina": 1,
+   "cita": "nº 0074/2012 ocurrido el 06.12.2012",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 6 de diciembre de 2012 a las 02:35, la UTE 3532-6532 de Feve, estacionada en la vía 1 de la estación de Laviana (línea 61 Gijón-Laviana) para pernoctar, escapó a la deriva en sentido Gijón recorriendo más de 12,8 km por vía única. El incidente se originó por el fallo simultáneo del freno de estacionamiento (con gran fuga de fluido hidráulico que dejaba la manivela liberada pese al testigo rojo en cabina) y del freno neumático (pérdida de presión por defectuosa estanqueidad del circuito de aire). No hubo víctimas ni daños materiales. La CIAF formuló tres recomendaciones dirigidas a Renfe Operadora (SAM) y Adif (RAM).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2012-12-06",
+    "hora": "02:35",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Laviana",
+     "pk": "49+700",
+     "linea": "61 Gijón - Laviana",
+     "provincia": "Asturias",
+     "descripcion_lugar": "Estación de Laviana, término de la línea 61, vía 1 con pendiente de 2 milésimas en sentido Gijón. El recorrido de deriva fue por vía única entre Laviana (PK 49+700) y PK 36+915 (entre Sama y La Felguera), con tramos horizontales alternando con pendientes de 1 a 15 milésimas, 17 pasos a nivel, 3 estaciones intermedias (Sotrondio, El Entrego, Sama) y 6 apeaderos."
+    }
+   },
+   "pagina": 8,
+   "cita": "A las 02:35 horas del día 06/12/2012 se registra el escape de la unidad de la estación de Laviana.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en infraestructura ni en material rodante",
+    "afectacion_servicio": "No se producen alteraciones en la circulación al no haber circulaciones en la línea a esas horas. Vía expedita a las 06:05 del 06/12/2012."
+   },
+   "pagina": 8,
+   "cita": "2.3.3. Minutos perdidos",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo del material por ineficacia de los sistemas de freno, tanto del neumático como del de estacionamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Defectuosa estanqueidad del circuito de aire comprimido que provocó la pérdida de presión y liberación del freno neumático",
+    "Gran fuga de fluido hidráulico en el freno de estacionamiento del RC 6532 que impedía el apriete real de pastillas sobre discos pese al testigo rojo en cabina",
+    "Pendiente de 2 milésimas en sentido Gijón en la zona de estacionamiento de la vía 1 de Laviana",
+    "Inconsistencia en la ejecución del plan de mantenimiento: fallo recurrente del freno de estacionamiento a los 25 días de una reparación correctiva y superación del plazo de R2 en 1.555 km",
+    "El procedimiento no exigía aplicar el freno de estacionamiento en ambos vehículos de la UTE"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Sistema de detección de frenado del freno de mano que no confirmaba al maquinista la eficacia real del apriete (testigo rojo con pastillas sin apretar)",
+    "Falta de medidas de seguridad en estaciones con características similares a Laviana (fin de recorrido, pendiente hacia vía general, estacionamiento nocturno sin personal)",
+    "Cumplimiento deficiente de los ciclos de mantenimiento del material móvil de los Servicios de Ancho Métrico"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Estudio del funcionamiento del sistema del freno de estacionamiento de esta serie de vehículos, y de otras series con sistema similar. Evaluación de su modificación y del cambio de la consistencia de mantenimiento.",
+    "Realizar una auditoría sobre el cumplimiento de los ciclos de mantenimiento del material móvil adscrito a los Servicios de Ancho Métrico (SAM).",
+    "Disponer las medidas necesarias para garantizar la seguridad ante el riesgo de deriva de material móvil en las estaciones con características similares a las de Laviana (inicio o fin de recorrido y/o pendiente en la zona de estacionamiento en sentido hacia la vía general).",
+    "Estudio del funcionamiento del sistema del freno de estacionamiento de esta serie de vehículos, y de otras series con sistema similar. Evaluación de su modificación y del cambio de la consistencia de mantenimiento.",
+    "Realizar una auditoría sobre el cumplimiento de los ciclos de mantenimiento de los vehículos adscritos a los Servicios de Ancho Métrico (SAM).",
+    "Disponer las medidas necesarias para garantizar la seguridad ante el riesgo de deriva de material móvil en las estaciones con características similares a las de Laviana (inicio o fin de recorrido y/o pendiente en la zona de estacionamiento en sentido hacia la vía general)."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe Operadora (servicios de ancho métrico – SAM)",
+    "Renfe Operadora (servicios de ancho métrico – SAM)",
+    "Adif (red de ancho métrico - RAM)",
+    "Renfe Operadora (servicios de ancho métrico – SAM)",
+    "Renfe Operadora (servicios de ancho métrico – SAM)",
+    "Adif (red de ancho métrico - RAM)"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Incidente ferroviario",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Feve",
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 3,
+   "cita": "Gijón - Laviana, la composición formada por la UTE 3532-6532 de Feve, que estaba estacionada en",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2012-12-06",
+   "pagina": 8,
+   "cita": "A las 02:35 horas del día 06/12/2012 se registra el escape de la unidad de la estación de Laviana.",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "02:35",
+   "pagina": 3,
+   "cita": "El día 6 de diciembre de 2012, a las 02:35 horas, en la estación de Laviana (Asturias), de la línea 61",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Laviana",
+    "pk": "49+700",
+    "linea": "61 Gijón - Laviana",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Estación de Laviana, término de la línea 61, vía 1 con pendiente de 2 milésimas en sentido Gijón. El recorrido de deriva fue por vía única entre Laviana (PK 49+700) y PK 36+915 (entre Sama y La Felguera), con tramos horizontales alternando con pendientes de 1 a 15 milésimas, 17 pasos a nivel, 3 estaciones intermedias (Sotrondio, El Entrego, Sama) y 6 apeaderos."
+   },
+   "pagina": 3,
+   "cita": "Gijón - Laviana, la composición formada por la UTE 3532-6532 de Feve, que estaba estacionada en",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "61 Gijón - Laviana",
+   "pagina": 3,
+   "cita": "61 Gijón - Laviana Tramo: 60 Laviana - Sama Municipio: Laviana Provincia: Asturias ### Tablas de la página 3 | Destinatario final | Número | Recomendación | |---|---|---| | Renfe Operadora (servicios de",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Serie 3500 (UTE 3532-6532: coche motor 3532 + remolque cabina 6532)",
+    "averia": "Fallo del freno de estacionamiento del RC 6532 por gran fuga de fluido hidráulico (la manivela se liberaba tras 3 vueltas sin apretar pastillas-discos, pese a testigo rojo en pantalla). Fallo del freno neumático por pérdida de presión en la TFA (defectuosa estanqueidad del circuito de aire comprimido; al cabo de una hora todas las presiones TDP, TGA, TFA y DF eran 0,00 kg/cm²). El freno de estacionamiento del CM 3532 funcionaba correctamente.",
+    "mantenimiento": "Última R1 el 02/11/2012 (985.409 km) sin anomalías detectadas. 9 días después (11/11/2012) aviso de freno de mano inútil; orden de taller correctivo el 12/11/2012. 25 días después del incidente vuelve a fallar. La R2 se realizó el 10/12/2012 (996.964 km), superando en 1.555 km el plazo máximo. Inconsistencia en la ejecución del plan de mantenimiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren 4945, compuesto por la UTE 3532-6532 de Feve, se estacionó a las 23:39:50 del 5 de diciembre de 2012 en la vía 1 de la estación de Laviana, final de línea con pendiente de 2 milésimas en sentido Gijón. El maquinista, conduciendo desde la RC 6532, accionó el freno de estacionamiento dando unas 14 vueltas a la manivela, observando el testigo rojo en pantalla, y deshabilitó las unidades a las 23:40:25. A las 02:35:06 del 6 de diciembre, la composición inició movimiento de deriva hacia vía general en sentido Gijón. Sobre las 02:45, operarios de vía que trabajaban entre Sama y La Felguera observaron el paso de las unidades y su posterior retroceso, quedando detenidas en el PK 36+915, a 12,8 km de Laviana, en un tramo horizontal. El aviso al puesto de mando se produjo hacia las 03:06. Un maquinista fue enviado para retirar la UTE hacia Laviana, quedando la vía expedita a las 06:05. La unidad fue trasladada a los talleres de El Berrón para inspección.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Laviana",
+    "pk": "49+700",
+    "linea": "61 Gijón - Laviana",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Estación de Laviana, término de la línea 61, vía 1 con pendiente de 2 milésimas en sentido Gijón. El recorrido de deriva fue por vía única entre Laviana (PK 49+700) y PK 36+915 (entre Sama y La Felguera), con tramos horizontales alternando con pendientes de 1 a 15 milésimas, 17 pasos a nivel, 3 estaciones intermedias (Sotrondio, El Entrego, Sama) y 6 apeaderos."
+   },
+   "pagina": 3,
+   "cita": "Gijón - Laviana, la composición formada por la UTE 3532-6532 de Feve, que estaba estacionada en",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en infraestructura ni en material rodante",
+    "afectacion_servicio": "No se producen alteraciones en la circulación al no haber circulaciones en la línea a esas horas. Vía expedita a las 06:05 del 06/12/2012."
+   },
+   "pagina": 8,
+   "cita": "2.3.3. Minutos perdidos",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 4945",
+     "implicacion": "Estacionó la UTE en vía 1 de Laviana, accionó el freno de estacionamiento de la RC 6532 (14 vueltas a la manivela), deshabilitó y desconectó las unidades. No se aprecia incumplimiento normativo en su actuación. Carné ferroviario 1402, antigüedad 9 años y 5 meses."
+    },
+    {
+     "rol": "Operarios de vía",
+     "implicacion": "Realizaban trabajos nocturnos entre Sama y La Felguera; observaron el paso de la UTE a la deriva y avisaron al encargado de trabajos."
+    },
+    {
+     "rol": "Jefe de Maquinistas",
+     "implicacion": "Acudió al lugar y procedió a retirar la unidad hacia Laviana."
+    }
+   ],
+   "pagina": 6,
+   "cita": "El maquinista del tren 4945, con carné ferroviario 1402.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "4945",
+     "tipo": "UTE serie 3500 (coche motor 3532 + remolque cabina 6532)",
+     "operador": "Feve",
+     "danos": "No se producen daños materiales en el material rodante"
+    }
+   ],
+   "pagina": 4,
+   "cita": "El tren 4945, compuesto por la UTE 3532-6532 de Feve, se estaciona en la vía 1 de Laviana, estación",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Serie 3500 (UTE 3532-6532: coche motor 3532 + remolque cabina 6532)",
+    "averia": "Fallo del freno de estacionamiento del RC 6532 por gran fuga de fluido hidráulico (la manivela se liberaba tras 3 vueltas sin apretar pastillas-discos, pese a testigo rojo en pantalla). Fallo del freno neumático por pérdida de presión en la TFA (defectuosa estanqueidad del circuito de aire comprimido; al cabo de una hora todas las presiones TDP, TGA, TFA y DF eran 0,00 kg/cm²). El freno de estacionamiento del CM 3532 funcionaba correctamente.",
+    "mantenimiento": "Última R1 el 02/11/2012 (985.409 km) sin anomalías detectadas. 9 días después (11/11/2012) aviso de freno de mano inútil; orden de taller correctivo el 12/11/2012. 25 días después del incidente vuelve a fallar. La R2 se realizó el 10/12/2012 (996.964 km), superando en 1.555 km el plazo máximo. Inconsistencia en la ejecución del plan de mantenimiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señales de avanzada, entrada, retroceso y salida en la estación de Laviana",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "80 km/h",
+    "ancho": "Ancho métrico",
+    "electrificacion": "Electrificada",
+    "estado_via": "En buen estado; estación sin servicio en el momento del incidente. Pendiente de 2 milésimas en vía 1 de Laviana en sentido Gijón. 287 circulaciones semanales (solo cercanías, 06:20-23:20, sin circulaciones nocturnas).",
+    "otro": "Bloqueo automático (BAU) con CTC, puesto de mando en El Berrón. Radiotelefonía analógica y telefonía móvil GSM. 17 pasos a nivel entre Laviana y La Felguera (2 clase A, 5 clase B, 6 clase C, 4 clase F). 14 pasos a nivel en el tramo de deriva."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señales de avanzada, entrada, retroceso y salida en la estación de Laviana",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía analógica y telefonía móvil GSM.",
+   "pagina": 8,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en infraestructura ni en material rodante",
+    "afectacion_servicio": "No se producen alteraciones en la circulación al no haber circulaciones en la línea a esas horas. Vía expedita a las 06:05 del 06/12/2012."
+   },
+   "pagina": 8,
+   "cita": "2.3.3. Minutos perdidos",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en infraestructura ni en material rodante",
+    "afectacion_servicio": "No se producen alteraciones en la circulación al no haber circulaciones en la línea a esas horas. Vía expedita a las 06:05 del 06/12/2012."
+   },
+   "pagina": 8,
+   "cita": "2.3.3. Minutos perdidos",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños materiales en infraestructura ni en material rodante",
+    "afectacion_servicio": "No se producen alteraciones en la circulación al no haber circulaciones en la línea a esas horas. Vía expedita a las 06:05 del 06/12/2012."
+   },
+   "pagina": 8,
+   "cita": "2.3.3. Minutos perdidos",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 3500 (UTE 3532-6532: coche motor 3532 + remolque cabina 6532)",
+    "averia": "Fallo del freno de estacionamiento del RC 6532 por gran fuga de fluido hidráulico (la manivela se liberaba tras 3 vueltas sin apretar pastillas-discos, pese a testigo rojo en pantalla). Fallo del freno neumático por pérdida de presión en la TFA (defectuosa estanqueidad del circuito de aire comprimido; al cabo de una hora todas las presiones TDP, TGA, TFA y DF eran 0,00 kg/cm²). El freno de estacionamiento del CM 3532 funcionaba correctamente.",
+    "mantenimiento": "Última R1 el 02/11/2012 (985.409 km) sin anomalías detectadas. 9 días después (11/11/2012) aviso de freno de mano inútil; orden de taller correctivo el 12/11/2012. 25 días después del incidente vuelve a fallar. La R2 se realizó el 10/12/2012 (996.964 km), superando en 1.555 km el plazo máximo. Inconsistencia en la ejecución del plan de mantenimiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de avanzada, entrada, retroceso y salida en la estación de Laviana",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "80 km/h",
+    "ancho": "Ancho métrico",
+    "electrificacion": "Electrificada",
+    "estado_via": "En buen estado; estación sin servicio en el momento del incidente. Pendiente de 2 milésimas en vía 1 de Laviana en sentido Gijón. 287 circulaciones semanales (solo cercanías, 06:20-23:20, sin circulaciones nocturnas).",
+    "otro": "Bloqueo automático (BAU) con CTC, puesto de mando en El Berrón. Radiotelefonía analógica y telefonía móvil GSM. 17 pasos a nivel entre Laviana y La Felguera (2 clase A, 5 clase B, 6 clase C, 4 clase F). 14 pasos a nivel en el tramo de deriva."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Noche; no existían condiciones meteorológicas adversas",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Asturias",
+    "municipio": null,
+    "estacion": "Laviana"
+   },
+   "pagina": 3,
+   "cita": "El día 6 de diciembre de 2012, a las 02:35 horas, en la estación de Laviana (Asturias), de la línea 61",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Noche; no existían condiciones meteorológicas adversas",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señales de avanzada, entrada, retroceso y salida en la estación de Laviana",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señales de avanzada, entrada, retroceso y salida en la estación de Laviana",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "80 km/h",
+    "ancho": "Ancho métrico",
+    "electrificacion": "Electrificada",
+    "estado_via": "En buen estado; estación sin servicio en el momento del incidente. Pendiente de 2 milésimas en vía 1 de Laviana en sentido Gijón. 287 circulaciones semanales (solo cercanías, 06:20-23:20, sin circulaciones nocturnas).",
+    "otro": "Bloqueo automático (BAU) con CTC, puesto de mando en El Berrón. Radiotelefonía analógica y telefonía móvil GSM. 17 pasos a nivel entre Laviana y La Felguera (2 clase A, 5 clase B, 6 clase C, 4 clase F). 14 pasos a nivel en el tramo de deriva."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía analógica y telefonía móvil GSM.",
+   "pagina": 8,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 3500 (UTE 3532-6532: coche motor 3532 + remolque cabina 6532)",
+    "averia": "Fallo del freno de estacionamiento del RC 6532 por gran fuga de fluido hidráulico (la manivela se liberaba tras 3 vueltas sin apretar pastillas-discos, pese a testigo rojo en pantalla). Fallo del freno neumático por pérdida de presión en la TFA (defectuosa estanqueidad del circuito de aire comprimido; al cabo de una hora todas las presiones TDP, TGA, TFA y DF eran 0,00 kg/cm²). El freno de estacionamiento del CM 3532 funcionaba correctamente.",
+    "mantenimiento": "Última R1 el 02/11/2012 (985.409 km) sin anomalías detectadas. 9 días después (11/11/2012) aviso de freno de mano inútil; orden de taller correctivo el 12/11/2012. 25 días después del incidente vuelve a fallar. La R2 se realizó el 10/12/2012 (996.964 km), superando en 1.555 km el plazo máximo. Inconsistencia en la ejecución del plan de mantenimiento."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Estacionar tren en vía pendiente",
+    "Deshabilitar y desconectar unidades",
+    "Accionar solo freno estacionamiento",
+    "Superar plazo revisión R2"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista se encuentra habilitado para la conducción de vehículos ferroviarios en virtud de la \ncapacitación adquirida de conformidad con el estatuto propio y la normativa legal aplicable a Feve. \nÉste tiene una antigüedad en el cargo de 9 años y 5 meses (4 años y 5 meses como maquinista \nprincipal y 5 de maquinista). \nRealizó su último curso formativo el 29/11/2011 y su último reconocimiento médico y psicotécnico el \n28/11/2012, conforme a la normativa vigente establecida por Feve.  \n3.3. \nNORMATIVA",
+   "pagina": 9,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren 4945, compuesto por la UTE 3532-6532 de Feve, se estacionó a las 23:39:50 del 5 de diciembre de 2012 en la vía 1 de la estación de Laviana, final de línea con pendiente de 2 milésimas en sentido Gijón. El maquinista, conduciendo desde la RC 6532, accionó el freno de estacionamiento dando unas 14 vueltas a la manivela, observando el testigo rojo en pantalla, y deshabilitó las unidades a las 23:40:25. A las 02:35:06 del 6 de diciembre, la composición inició movimiento de deriva hacia vía general en sentido Gijón. Sobre las 02:45, operarios de vía que trabajaban entre Sama y La Felguera observaron el paso de las unidades y su posterior retroceso, quedando detenidas en el PK 36+915, a 12,8 km de Laviana, en un tramo horizontal. El aviso al puesto de mando se produjo hacia las 03:06. Un maquinista fue enviado para retirar la UTE hacia Laviana, quedando la vía expedita a las 06:05. La unidad fue trasladada a los talleres de El Berrón para inspección.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo del material por ineficacia de los sistemas de freno, tanto del neumático como del de estacionamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Defectuosa estanqueidad del circuito de aire comprimido que provocó la pérdida de presión y liberación del freno neumático",
+    "Gran fuga de fluido hidráulico en el freno de estacionamiento del RC 6532 que impedía el apriete real de pastillas sobre discos pese al testigo rojo en cabina",
+    "Pendiente de 2 milésimas en sentido Gijón en la zona de estacionamiento de la vía 1 de Laviana",
+    "Inconsistencia en la ejecución del plan de mantenimiento: fallo recurrente del freno de estacionamiento a los 25 días de una reparación correctiva y superación del plazo de R2 en 1.555 km",
+    "El procedimiento no exigía aplicar el freno de estacionamiento en ambos vehículos de la UTE"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Estudio del funcionamiento del sistema del freno de estacionamiento de esta serie de vehículos, y de otras series con sistema similar. Evaluación de su modificación y del cambio de la consistencia de mantenimiento.",
+    "Realizar una auditoría sobre el cumplimiento de los ciclos de mantenimiento del material móvil adscrito a los Servicios de Ancho Métrico (SAM).",
+    "Disponer las medidas necesarias para garantizar la seguridad ante el riesgo de deriva de material móvil en las estaciones con características similares a las de Laviana (inicio o fin de recorrido y/o pendiente en la zona de estacionamiento en sentido hacia la vía general).",
+    "Estudio del funcionamiento del sistema del freno de estacionamiento de esta serie de vehículos, y de otras series con sistema similar. Evaluación de su modificación y del cambio de la consistencia de mantenimiento.",
+    "Realizar una auditoría sobre el cumplimiento de los ciclos de mantenimiento de los vehículos adscritos a los Servicios de Ancho Métrico (SAM).",
+    "Disponer las medidas necesarias para garantizar la seguridad ante el riesgo de deriva de material móvil en las estaciones con características similares a las de Laviana (inicio o fin de recorrido y/o pendiente en la zona de estacionamiento en sentido hacia la vía general)."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Renfe Operadora (servicios de ancho métrico – SAM)",
+    "Renfe Operadora (servicios de ancho métrico – SAM)",
+    "Adif (red de ancho métrico - RAM)",
+    "Renfe Operadora (servicios de ancho métrico – SAM)",
+    "Renfe Operadora (servicios de ancho métrico – SAM)",
+    "Adif (red de ancho métrico - RAM)"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "23:39:50",
+     "evento": "La UTE 3532-6532 queda detenida en la vía 1 de Laviana (registrador de eventos)"
+    },
+    {
+     "hora": "23:39:58",
+     "evento": "El freno de estacionamiento del RC 6532 se registra como accionado (icono rojo en pantalla); el maquinista da unas 14 vueltas a la manivela"
+    },
+    {
+     "hora": "23:40:25",
+     "evento": "El maquinista deshabilita y desconecta las unidades desde la cabina RC 6532"
+    },
+    {
+     "hora": "23:40:30",
+     "evento": "El maquinista se apea de la cabina RC 6532"
+    },
+    {
+     "hora": "02:35:06",
+     "evento": "La UTE inicia movimiento de deriva en sentido Gijón desde la estación de Laviana"
+    },
+    {
+     "hora": "02:45",
+     "evento": "Operarios de vía entre Sama y La Felguera observan el paso de las unidades y su retroceso"
+    },
+    {
+     "hora": "02:51",
+     "evento": "Las unidades ocupan el circuito de vía de la estación de Sama (hora del puesto de mando)"
+    },
+    {
+     "hora": "03:06",
+     "evento": "El encargado de trabajos de Feve informa al puesto de mando"
+    },
+    {
+     "hora": "05:11:50",
+     "evento": "La UTE 3532-6532 es de nuevo habilitada en el punto de detención por personal de tracción"
+    },
+    {
+     "hora": "06:05",
+     "evento": "Vía expedita tras retirar la UTE hacia Laviana"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0074/2012",
+ "expediente": "74/012",
+ "anio": 2012,
+ "titulo": "Informe final sobre el incidente ferroviario nº 0074/2012 ocurrido el día 06.12.2012 en la estación de Laviana (Asturias)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_061212_170913_CIAF.md"
+}

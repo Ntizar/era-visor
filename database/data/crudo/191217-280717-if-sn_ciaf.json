@@ -1,0 +1,1811 @@
+{
+ "id": "191217-280717-if-sn_ciaf",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/191217-170728-if-sn_ciaf.pdf",
+ "pdf": "pdfs/ES/191217-280717-if-sn_ciaf.pdf",
+ "md5_pdf": "7461510c7d476a0965e74f07be091c7f",
+ "paginas_md": 71,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 101,
+ "n_tablas": 16,
+ "tablas": [
+  {
+   "pagina": 7,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "RENFE Viajeros y resto de empresas ferroviarias",
+     "Número": "35/2017 - 1",
+     "Recomendación": "Insistir en la correcta aplicación de la normativa sobre velocidad prefijada, a través de los procesos de formación y reciclaje del personal de conducción. Para ello se deberán revisar los manuales de conducción y cualquier otro documento formativo para evitar priorizar el uso de la velocidad prefijada y eliminar cualquier posible referencia a “conducción automática”. Asimismo, se recomienda utilizar la información obtenida de los registros de los trenes sobre el uso real de la velocidad prefijada."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "RENFE Viajeros",
+     "Número": "35/2017 - 2",
+     "Recomendación": "Estudiar la viabilidad de establecer limitaciones técnicas que imposibiliten la utilización de la velocidad prefijada a velocidades bajas, evitando así su uso indebido en maniobras, estacionamientos u otras circunstancias de limitación de velocidad que requieran una mayor atención de los maquinistas."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "RENFE Viajeros",
+     "Número": "35/2017 - 3",
+     "Recomendación": "Formar y concienciar al personal de conducción, a través de los procesos de formación y reciclaje y de campañas informativas específicas, sobre:  la importancia de cumplir con los tiempos de sueño y descanso;  hábitos saludables en cuanto a descanso y alimentación;  la adecuada percepción del riesgo derivado del descanso insuficiente."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 8,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "AESF",
+     "Número": "35/2017 - 4",
+     "Recomendación": "En las pruebas médicas periódicas realizadas al personal de conducción, incluir tests o cuestionarios destinados a detectar posibles riesgos de trastornos de sueño, de modo que se puedan adoptar medidas preventivas al respecto."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "AESF",
+     "Número": "35/2017 - 5",
+     "Recomendación": "Promover, en colaboración con los diferentes agentes de la industria, un análisis sobre posibles dispositivos complementarios al HM que permitan detectar situaciones de semiinconsciencia (y actuar ante ellas)."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADIF",
+     "Número": "35/2017 - 6",
+     "Recomendación": "Asegurar el correcto diseño, mantenimiento y funcionamiento de las toperas hidráulicas (especialmente en aquellas vías de gran tráfico de trenes de viajeros), estableciendo los procedimientos que sean necesarios."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADIF",
+     "Número": "35/2017 - 7",
+     "Recomendación": "Instar al cumplimiento de las recomendaciones del suceso 10/12, relativas a toperas con elevado número de entradas de trenes de viajeros; así como estudiar las posibilidades de establecer distancias de deslizamiento entre el punto de parada y las toperas que reduzcan el riesgo de colisión."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "RENFE Viajeros",
+     "Número": "35/2017 - 8",
+     "Recomendación": "Para asegurar el correcto registro y trazabilidad del proceso de asignación de turnos de conducción en situaciones de huelga u otras anomalías del servicio, mejorar los procedimientos en lo necesario."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 14,
+   "cabecera": [
+    "",
+    "Serie:",
+    "465"
+   ],
+   "filas": [
+    {
+     "Serie:": "Tipo:",
+     "465": "Tren de Cercanías"
+    },
+    {
+     "Serie:": "Fabricante:",
+     "465": "Alstom/Vossloh"
+    },
+    {
+     "Serie:": "Año de fabricación:",
+     "465": "2008-2010"
+    },
+    {
+     "Serie:": "",
+     "465": "Cinco coches articulados con bogies compartidos"
+    },
+    {
+     "Serie:": "Longitud:",
+     "465": "98,05 m"
+    }
+   ],
+   "cita": "|   | Serie: | 465 |"
+  },
+  {
+   "pagina": 15,
+   "cabecera": [
+    "",
+    "Anchura:",
+    "2,94 m"
+   ],
+   "filas": [
+    {
+     "Anchura:": "Altura:",
+     "2,94 m": "4,26 m (máx)"
+    },
+    {
+     "Anchura:": "Masa total:",
+     "2,94 m": "157,30 t"
+    },
+    {
+     "Anchura:": "Ancho de vía:",
+     "2,94 m": "1668 mm"
+    },
+    {
+     "Anchura:": "Velocidad máxima:",
+     "2,94 m": "120 km/h"
+    },
+    {
+     "Anchura:": "Potencia:",
+     "2,94 m": "2.200 kW"
+    },
+    {
+     "Anchura:": "",
+     "2,94 m": "2 motores trifásicos asíncronos en cada uno de los 4 bogies compartidos"
+    },
+    {
+     "Anchura:": "Número de plazas:",
+     "2,94 m": "277 sentadas / 997 totales"
+    },
+    {
+     "Anchura:": "Mando múltiple:",
+     "2,94 m": "3 unidades"
+    }
+   ],
+   "cita": "|   | Anchura: | 2,94 m |"
+  },
+  {
+   "pagina": 16,
+   "cabecera": [
+    "",
+    "Unidad en cabeza",
+    "Unidad en cola"
+   ],
+   "filas": [
+    {
+     "Unidad en cabeza": "465 210",
+     "Unidad en cola": "465 265"
+    },
+    {
+     "Unidad en cabeza": "1-10-2008",
+     "Unidad en cola": "10-12-2010"
+    },
+    {
+     "Unidad en cabeza": "Alstom",
+     "Unidad en cola": "Alstom"
+    },
+    {
+     "Unidad en cabeza": "1.249.268",
+     "Unidad en cola": "862.228"
+    },
+    {
+     "Unidad en cabeza": "18-07-2017 (IS) (Montcada bifurcació)",
+     "Unidad en cola": "17-07-2017 (IM) (Montcada bifurcació)"
+    }
+   ],
+   "cita": "|   | Unidad en cabeza | Unidad en cola |"
+  },
+  {
+   "pagina": 17,
+   "cabecera": [
+    "Señal:",
+    "E’4",
+    "E4",
+    "R4"
+   ],
+   "filas": [
+    {
+     "Señal:": "Tipo:",
+     "E’4": "avanzada",
+     "E4": "entrada",
+     "R4": "retroceso"
+    },
+    {
+     "Señal:": "PK (nominal):",
+     "E’4": "683+857",
+     "E4": "684+319",
+     "R4": "684+707"
+    }
+   ],
+   "cita": "| Señal: | E’4 | E4 | R4 |"
+  },
+  {
+   "pagina": 18,
+   "cabecera": [
+    "Sant Vicenç de Calders",
+    "6:01"
+   ],
+   "filas": [
+    {
+     "Sant Vicenç de Calders": "Calafell",
+     "6:01": "6:06"
+    },
+    {
+     "Sant Vicenç de Calders": "Segur de Calafell",
+     "6:01": "6:09"
+    },
+    {
+     "Sant Vicenç de Calders": "Cunit",
+     "6:01": "6:12"
+    },
+    {
+     "Sant Vicenç de Calders": "Cubelles",
+     "6:01": "6:16"
+    },
+    {
+     "Sant Vicenç de Calders": "Vilanova i la Geltrú",
+     "6:01": "6:21"
+    },
+    {
+     "Sant Vicenç de Calders": "Sitges",
+     "6:01": "6:27"
+    }
+   ],
+   "cita": "| Sant Vicenç de Calders | 6:01 |"
+  },
+  {
+   "pagina": 21,
+   "cabecera": [
+    "",
+    "Pasajeros",
+    "Tripulación"
+   ],
+   "filas": [
+    {
+     "Pasajeros": "-",
+     "Tripulación": "-"
+    },
+    {
+     "Pasajeros": "10",
+     "Tripulación": "1"
+    },
+    {
+     "Pasajeros": "49",
+     "Tripulación": "-"
+    }
+   ],
+   "cita": "|   | Pasajeros | Tripulación |"
+  },
+  {
+   "pagina": 54,
+   "cabecera": [
+    "Expediente",
+    "Fecha",
+    "Estación",
+    "Velocidad",
+    "Heridos"
+   ],
+   "filas": [
+    {
+     "Expediente": "60/17",
+     "Fecha": "22/12/2017",
+     "Estación": "Alcalá de Henares",
+     "Velocidad": "7 km/h",
+     "Heridos": "2 graves 37 leves"
+    },
+    {
+     "Expediente": "22/17",
+     "Fecha": "05/04/2017",
+     "Estación": "L’Hospitalet de Llobregat",
+     "Velocidad": "2 km/h",
+     "Heridos": "ninguno"
+    },
+    {
+     "Expediente": "42/15",
+     "Fecha": "14/09/2015",
+     "Estación": "Bilbao Abando",
+     "Velocidad": "12 km/h",
+     "Heridos": "26 leves"
+    },
+    {
+     "Expediente": "59/14",
+     "Fecha": "04/11/2014",
+     "Estación": "Guadalajara",
+     "Velocidad": "7 km/h",
+     "Heridos": "2 leves"
+    },
+    {
+     "Expediente": "65/12",
+     "Fecha": "08/10/2012",
+     "Estación": "Gijón",
+     "Velocidad": "",
+     "Heridos": "3 leves"
+    },
+    {
+     "Expediente": "23/10",
+     "Fecha": "12/05/2010",
+     "Estación": "Manresa",
+     "Velocidad": "14 km/h",
+     "Heridos": "9 leves"
+    },
+    {
+     "Expediente": "34/09",
+     "Fecha": "02/07/2009",
+     "Estación": "La Cantábrica (ap.)",
+     "Velocidad": "",
+     "Heridos": "ninguno"
+    },
+    {
+     "Expediente": "29/09",
+     "Fecha": "25/06/2009",
+     "Estación": "Parla",
+     "Velocidad": "<5 km/h",
+     "Heridos": "5 leves"
+    },
+    {
+     "Expediente": "20/09",
+     "Fecha": "10/04/2009",
+     "Estación": "Mataró",
+     "Velocidad": "36 km/h",
+     "Heridos": "5 leves"
+    }
+   ],
+   "cita": "| Expediente | Fecha | Estación | Velocidad | Heridos |"
+  },
+  {
+   "pagina": 56,
+   "cabecera": [
+    "",
+    "Hora",
+    "",
+    "",
+    "Indicación",
+    ""
+   ],
+   "filas": [
+    {
+     "Hora": "Hora CTC",
+     "Indicación": "Velocidad"
+    },
+    {
+     "Hora": "registrador",
+     "Indicación": "baliza"
+    },
+    {
+     "Hora": "(referencia)",
+     "Indicación": "(km/h)"
+    },
+    {
+     "Hora": "Cesis",
+     "Indicación": "ASFA"
+    },
+    {
+     "Hora": "7:18:11",
+     "Indicación": ""
+    },
+    {
+     "Hora": "7:18:35",
+     "Indicación": "L1"
+    },
+    {
+     "Hora": "7:18:53",
+     "Indicación": "L7"
+    },
+    {
+     "Hora": "7:19:36",
+     "Indicación": "0"
+    },
+    {
+     "Hora": "7:21:02",
+     "Indicación": "0"
+    },
+    {
+     "Hora": "7:22:06",
+     "Indicación": "0"
+    },
+    {
+     "Hora": "7:22:17",
+     "Indicación": "L1"
+    },
+    {
+     "Hora": "7:22:28",
+     "Indicación": "28"
+    },
+    {
+     "Hora": "7:22:53",
+     "Indicación": "28"
+    },
+    {
+     "Hora": "7:23:48",
+     "Indicación": "28"
+    },
+    {
+     "Hora": "7:24:15",
+     "Indicación": "28"
+    },
+    {
+     "Hora": "7:24:12",
+     "Indicación": "28"
+    }
+   ],
+   "cita": "|   | Hora |   |   | Indicación |   |"
+  },
+  {
+   "pagina": 59,
+   "cabecera": [
+    "Canal del registrador",
+    "Descripción"
+   ],
+   "filas": [
+    {
+     "Canal del registrador": "Distancia",
+     "Descripción": "Valor de posición del tren (m)"
+    },
+    {
+     "Canal del registrador": "Velocidad",
+     "Descripción": "Valor de la velocidad de tren (km/h)"
+    },
+    {
+     "Canal del registrador": "Aceleración",
+     "Descripción": "Valor de la aceleración del tren (m/s2)"
+    },
+    {
+     "Canal del registrador": "L1, L3, L7, L8",
+     "Descripción": "Señales que indican el aspecto de la señal (booleano)"
+    }
+   ],
+   "cita": "| Canal del registrador | Descripción |"
+  },
+  {
+   "pagina": 60,
+   "cabecera": [
+    "Manipulación Freno",
+    "Indica acción sobre el manipulador de freno (booleano)"
+   ],
+   "filas": [
+    {
+     "Manipulación Freno": "Manipulación Tracción",
+     "Indica acción sobre el manipulador de freno (booleano)": "Indica acción sobre el manipulador de tracción (booleano)"
+    },
+    {
+     "Manipulación Freno": "Manipulación Emergencia",
+     "Indica acción sobre el manipulador de freno (booleano)": "Posición última de frenado del manipulador (booleano)"
+    },
+    {
+     "Manipulación Freno": "Velocidad consigna",
+     "Indica acción sobre el manipulador de freno (booleano)": "Valor de la velocidad prefijada (km/h)"
+    },
+    {
+     "Manipulación Freno": "Posición Mando Tracción",
+     "Indica acción sobre el manipulador de freno (booleano)": "Posición del mando de tracción (%)"
+    },
+    {
+     "Manipulación Freno": "Posición Mando Freno",
+     "Indica acción sobre el manipulador de freno (booleano)": "Posición del mando de freno (%)"
+    }
+   ],
+   "cita": "| Manipulación Freno | Indica acción sobre el manipulador de freno (booleano) |"
+  },
+  {
+   "pagina": 61,
+   "cabecera": [
+    "Tramo",
+    "",
+    "Uso de",
+    "",
+    "Uso de",
+    "",
+    "Uso de freno de emergencia",
+    "Inicio frenado",
+    "",
+    "Uso velocidad"
+   ],
+   "filas": [
+    {
+     "Tramo": "",
+     "Uso de": "freno al",
+     "Uso de freno de emergencia": "",
+     "Inicio frenado": "antes/después",
+     "Uso velocidad": "prefijada después"
+    },
+    {
+     "Tramo": "",
+     "Uso de": "100%",
+     "Uso de freno de emergencia": "",
+     "Inicio frenado": "señal de entrada",
+     "Uso velocidad": "señal de entrada"
+    },
+    {
+     "Tramo": "1",
+     "Uso de": "Sí",
+     "Uso de freno de emergencia": "",
+     "Inicio frenado": "Antes",
+     "Uso velocidad": ""
+    },
+    {
+     "Tramo": "2",
+     "Uso de": "Sí",
+     "Uso de freno de emergencia": "Sí",
+     "Inicio frenado": "Antes",
+     "Uso velocidad": ""
+    },
+    {
+     "Tramo": "3",
+     "Uso de": "Sí",
+     "Uso de freno de emergencia": "",
+     "Inicio frenado": "Después",
+     "Uso velocidad": "Sí"
+    },
+    {
+     "Tramo": "4",
+     "Uso de": "No",
+     "Uso de freno de emergencia": "",
+     "Inicio frenado": "Después",
+     "Uso velocidad": ""
+    },
+    {
+     "Tramo": "5",
+     "Uso de": "No",
+     "Uso de freno de emergencia": "",
+     "Inicio frenado": "Después",
+     "Uso velocidad": ""
+    },
+    {
+     "Tramo": "6",
+     "Uso de": "No",
+     "Uso de freno de emergencia": "",
+     "Inicio frenado": "Antes",
+     "Uso velocidad": ""
+    },
+    {
+     "Tramo": "7",
+     "Uso de": "Sí",
+     "Uso de freno de emergencia": "",
+     "Inicio frenado": "Después",
+     "Uso velocidad": ""
+    },
+    {
+     "Tramo": "8",
+     "Uso de": "Sí",
+     "Uso de freno de emergencia": "",
+     "Inicio frenado": "Después",
+     "Uso velocidad": "Sí"
+    },
+    {
+     "Tramo": "9",
+     "Uso de": "No",
+     "Uso de freno de emergencia": "",
+     "Inicio frenado": "Antes",
+     "Uso velocidad": ""
+    },
+    {
+     "Tramo": "10",
+     "Uso de": "Sí",
+     "Uso de freno de emergencia": "",
+     "Inicio frenado": "Después",
+     "Uso velocidad": ""
+    },
+    {
+     "Tramo": "11",
+     "Uso de": "No",
+     "Uso de freno de emergencia": "",
+     "Inicio frenado": "Después",
+     "Uso velocidad": "Sí"
+    },
+    {
+     "Tramo": "12",
+     "Uso de": "No",
+     "Uso de freno de emergencia": "",
+     "Inicio frenado": "Antes",
+     "Uso velocidad": ""
+    },
+    {
+     "Tramo": "13",
+     "Uso de": "No",
+     "Uso de freno de emergencia": "-",
+     "Inicio frenado": "-",
+     "Uso velocidad": ""
+    },
+    {
+     "Tramo": "14",
+     "Uso de": "No",
+     "Uso de freno de emergencia": "",
+     "Inicio frenado": "No frena",
+     "Uso velocidad": "Sí"
+    }
+   ],
+   "cita": "| Tramo |   | Uso de |   | Uso de |   | Uso de freno de emergencia | Inicio frenado |   | Uso velocidad |"
+  },
+  {
+   "pagina": 62,
+   "cabecera": [
+    "Testimonio",
+    "Posibilidad de un desmayo",
+    "Posibilidad de somnolencia"
+   ],
+   "filas": [
+    {
+     "Testimonio": "Maquinista del tren 25502",
+     "Posibilidad de un desmayo": " Perdió el conocimiento antes del choque  Notó flojera y visión borrosa antes de perder el conocimiento  No había desayunado",
+     "Posibilidad de somnolencia": " La noche anterior durmió lo suficiente  No notó somnolencia ni antes ni después del accidente"
+    },
+    {
+     "Testimonio": "Testigo (primera persona que lo atendió)",
+     "Posibilidad de un desmayo": " Lo encontró desmayado y con los ojos en blanco  Debió desmayarse tras la última pulsación del HM",
+     "Posibilidad de somnolencia": " Lo descarta: el movimiento de estacionamiento requiere mayor atención  No notó nada extraño en la marcha del tren"
+    },
+    {
+     "Testimonio": "Personal médico que atendió al maquinista",
+     "Posibilidad de un desmayo": " Una persona con la edad y condición del maquinista no debería desmayarse por cansancio  No realizó comentarios sobre flojera o visión borrosa",
+     "Posibilidad de somnolencia": " Observaron somnolencia en el maquinista después del accidente"
+    },
+    {
+     "Testimonio": "Indagaciones de los Mossos d’Esquadra",
+     "Posibilidad de un desmayo": "",
+     "Posibilidad de somnolencia": " Pesquisas realizadas en el entorno personal del maquinista apuntan a que sólo habría dormido unas 4 horas"
+    }
+   ],
+   "cita": "| Testimonio | Posibilidad de un desmayo | Posibilidad de somnolencia |"
+  },
+  {
+   "pagina": 70,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "RENFE Viajeros y resto de empresas ferroviarias",
+     "Número": "35/2017 - 1",
+     "Recomendación": "Insistir en la correcta aplicación de la normativa sobre velocidad prefijada, a través de los procesos de formación y reciclaje del personal de conducción. Para ello se deberán revisar los manuales de conducción y cualquier otro documento formativo para evitar priorizar el uso de la velocidad prefijada y eliminar cualquier posible referencia a “conducción automática”. Asimismo, se recomienda utilizar la información obtenida de los registros de los trenes sobre el uso real de la velocidad prefijada."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "RENFE Viajeros",
+     "Número": "35/2017 - 2",
+     "Recomendación": "Estudiar la viabilidad de establecer limitaciones técnicas que imposibiliten la utilización de la velocidad prefijada a velocidades bajas, evitando así su uso indebido en maniobras, estacionamientos u otras circunstancias de limitación de velocidad que requieran una mayor atención de los maquinistas."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "RENFE Viajeros",
+     "Número": "35/2017 - 3",
+     "Recomendación": "Formar y concienciar al personal de conducción, a través de los procesos de formación y reciclaje y de campañas informativas específicas, sobre:  la importancia de cumplir con los tiempos de sueño y descanso;  hábitos saludables en cuanto a descanso y alimentación;  la adecuada percepción del riesgo derivado del descanso insuficiente."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "AESF",
+     "Número": "35/2017 - 4",
+     "Recomendación": "En las pruebas médicas periódicas realizadas al personal de conducción, incluir tests o cuestionarios destinados a detectar posibles riesgos de trastornos de sueño, de modo que se puedan adoptar medidas preventivas al respecto."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "AESF",
+     "Número": "35/2017 - 5",
+     "Recomendación": "Promover, en colaboración con los diferentes agentes de la industria, un análisis sobre posibles dispositivos complementarios al HM que permitan detectar situaciones de semiinconsciencia (y actuar ante ellas)."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 71,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADIF",
+     "Número": "35/2017 - 6",
+     "Recomendación": "Asegurar el correcto diseño, mantenimiento y funcionamiento de las toperas hidráulicas (especialmente en aquellas vías de gran tráfico de trenes de viajeros), estableciendo los procedimientos que sean necesarios."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "ADIF",
+     "Número": "35/2017 - 7",
+     "Recomendación": "Instar al cumplimiento de las recomendaciones del suceso 10/12, relativas a toperas con elevado número de entradas de trenes de viajeros; así como estudiar las posibilidades de establecer distancias de deslizamiento entre el punto de parada y las toperas que reduzcan el riesgo de colisión."
+    },
+    {
+     "Destinatario": "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+     "Implementador final": "RENFE Viajeros",
+     "Número": "35/2017 - 8",
+     "Recomendación": "Para asegurar el correcto registro y trazabilidad del proceso de asignación de turnos de conducción en situaciones de huelga u otras anomalías del servicio, mejorar los procedimientos en lo necesario."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0035/2017",
+   "pagina": 1,
+   "cita": "nº 0035/2017 ocurrido el 28.07.2017",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 28 de julio de 2017 a las 7:24 h, el tren 25502 de Rodalies de Catalunya (línea R2 Sud) colisionó contra la topera del final de la vía 11 de la estación de Barcelona-França a una velocidad constante de 28 km/h. El maquinista, que presuntamente perdió la consciencia por somnolencia tras la reanudación de la marcha en la señal de entrada E4, no aplicó el freno ni desactivó la velocidad prefijada, contraviniendo la normativa. La cabeza del tren quedó empotrada en la topera, el segundo bogie descarriló y se produjo un cortocircuito en la catenaria. Resultaron heridos el maquinista (grave) y 59 viajeros (10 graves), sin víctimas mortales. La investigación atribuyó el accidente a la falta de descanso del maquinista, al uso indebido de la velocidad prefijada y al estado inoperante del mecanismo hidráulico de la topera.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2017-07-28",
+    "hora": null,
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Barcelona-França",
+     "pk": "685+375",
+     "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Vía 11 de la estación de Barcelona-França, terminal de la línea 200. Vía de 230 m con andén de 202 m (compartido con vía 10), pendiente ascendente del 1,30‰, trazado en curva a derechas, acabada en topera hidráulica de fundición. Estación de alta densidad con 231 circulaciones diarias y 17 vías acabadas en topera."
+    }
+   },
+   "pagina": 5,
+   "cita": "El viernes 28 de julio de 2017, a las 7:24, se produce la colisión del tren 25502 de Rodalies de Catalunya",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 11,
+    "heridos_leves": 49,
+    "danos_materiales": "Topera de vía 11 destruida (dada de baja, reemplazada provisionalmente a 9 m); señal de topera arrancada; daños en murete entre topera y andén; roturas en borde del andén. Tren: coche 1 con grandes daños por impacto, bogie descarrilado; coche 2 con desperfectos estructurales; coche 3 con desperfectos en estructura; coche 5 con desperfectos en frontal y acoplamiento; coche 6 con desperfectos en frontal y acoplamiento. Catenaria sin daños (cortocircuito momentáneo). Vía sin daños.",
+    "afectacion_servicio": "Vías 11, 10 y 12 bloqueadas desde las 7:24 hasta las 18:56 (~10,5 horas). Solo 2 trenes afectados: 18091 (13 min retraso) y 28381 (19 min retraso). Total: 32 minutos perdidos. Resto de la estación operó con normalidad tras restablecer tensión."
+   },
+   "pagina": 19,
+   "cita": "delimitaron los espacios para atender, clasificar y evacuar los heridos, así como para el trabajo de los",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Falta de aplicación del freno por parte del maquinista durante el movimiento de estacionamiento en la vía 11, con la velocidad prefijada activada a 28 km/h (contraviniendo la normativa que prohíbe su uso en itinerarios de estacionamiento). La no aplicación del freno se debió a la presumible pérdida de plena consciencia del maquinista, atribuible a un estado de somnolencia.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Uso habitual e indebido de la velocidad prefijada en movimientos de estacionamiento por parte del maquinista (mala práctica)",
+    "Manuales de conducción que usan términos como 'automático' y 'habitual' al referirse a velocidad prefijada, induciendo a error",
+    "El HM funcionaba correctamente pero no está diseñado para detectar duermevela o semiinconsciencia",
+    "Topera hidráulica con mecanismo inoperante desde 1992 (sin fluido hidráulico), trabajando como rígida",
+    "Topera no adaptada al tipo de enganche central del material rodante actual",
+    "Ausencia de distancia de deslizamiento entre punto de parada y topera",
+    "No había procedimiento específico de mantenimiento y vigilancia de toperas en el SGS de Adif"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Falta de descanso la noche anterior: el maquinista durmió solo entre 3,5 y 4,5 horas (contradiciendo su declaración)",
+    "Deficiencias en la trazabilidad de la documentación de asignación de maquinistas en situaciones de huelga (no se pudo verificar notificación de servicios mínimos)",
+    "Deficiencias en la cultura de seguridad del maquinista: inadecuada percepción del riesgo de conducir sin descanso suficiente",
+    "No se puede excluir que la conducta de riesgo (conducir sin descanso) se haya repetido en otras ocasiones sin consecuencias",
+    "Recomendaciones previas de la CIAF (suceso 10/12) sobre toperas y balizas L7 sin constancia de cumplimiento",
+    "Ausencia de procedimiento de control de tiempos de conducción en el SGS de Renfe Viajeros a fecha del accidente (se incorporó un año después)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Insistir en la correcta aplicación de la normativa sobre velocidad prefijada, a través de los procesos de formación y reciclaje del personal de conducción. Para ello se deberán revisar los manuales de conducción y cualquier otro documento formativo para evitar priorizar el uso de la velocidad prefijada y eliminar cualquier posible referencia a “conducción automática”. Asimismo, se recomienda utilizar la información obtenida de los registros de los trenes sobre el uso real de la velocidad prefijada.",
+    "Estudiar la viabilidad de establecer limitaciones técnicas que imposibiliten la utilización de la velocidad prefijada a velocidades bajas, evitando así su uso indebido en maniobras, estacionamientos u otras circunstancias de limitación de velocidad que requieran una mayor atención de los maquinistas.",
+    "Formar y concienciar al personal de conducción, a través de los procesos de formación y reciclaje y de campañas informativas específicas, sobre:  la importancia de cumplir con los tiempos de sueño y descanso;  hábitos saludables en cuanto a descanso y alimentación;  la adecuada percepción del riesgo derivado del descanso insuficiente.",
+    "En las pruebas médicas periódicas realizadas al personal de conducción, incluir tests o cuestionarios destinados a detectar posibles riesgos de trastornos de sueño, de modo que se puedan adoptar medidas preventivas al respecto.",
+    "Promover, en colaboración con los diferentes agentes de la industria, un análisis sobre posibles dispositivos complementarios al HM que permitan detectar situaciones de semiinconsciencia (y actuar ante ellas).",
+    "Asegurar el correcto diseño, mantenimiento y funcionamiento de las toperas hidráulicas (especialmente en aquellas vías de gran tráfico de trenes de viajeros), estableciendo los procedimientos que sean necesarios.",
+    "Instar al cumplimiento de las recomendaciones del suceso 10/12, relativas a toperas con elevado número de entradas de trenes de viajeros; así como estudiar las posibilidades de establecer distancias de deslizamiento entre el punto de parada y las toperas que reduzcan el riesgo de colisión.",
+    "Para asegurar el correcto registro y trazabilidad del proceso de asignación de turnos de conducción en situaciones de huelga u otras anomalías del servicio, mejorar los procedimientos en lo necesario.",
+    "Insistir en la correcta aplicación de la normativa sobre velocidad prefijada, a través de los procesos de formación y reciclaje del personal de conducción. Para ello se deberán revisar los manuales de conducción y cualquier otro documento formativo para evitar priorizar el uso de la velocidad prefijada y eliminar cualquier posible referencia a “conducción automática”. Asimismo, se recomienda utilizar la información obtenida de los registros de los trenes sobre el uso real de la velocidad prefijada.",
+    "Estudiar la viabilidad de establecer limitaciones técnicas que imposibiliten la utilización de la velocidad prefijada a velocidades bajas, evitando así su uso indebido en maniobras, estacionamientos u otras circunstancias de limitación de velocidad que requieran una mayor atención de los maquinistas.",
+    "Formar y concienciar al personal de conducción, a través de los procesos de formación y reciclaje y de campañas informativas específicas, sobre:  la importancia de cumplir con los tiempos de sueño y descanso;  hábitos saludables en cuanto a descanso y alimentación;  la adecuada percepción del riesgo derivado del descanso insuficiente.",
+    "En las pruebas médicas periódicas realizadas al personal de conducción, incluir tests o cuestionarios destinados a detectar posibles riesgos de trastornos de sueño, de modo que se puedan adoptar medidas preventivas al respecto.",
+    "Promover, en colaboración con los diferentes agentes de la industria, un análisis sobre posibles dispositivos complementarios al HM que permitan detectar situaciones de semiinconsciencia (y actuar ante ellas).",
+    "Asegurar el correcto diseño, mantenimiento y funcionamiento de las toperas hidráulicas (especialmente en aquellas vías de gran tráfico de trenes de viajeros), estableciendo los procedimientos que sean necesarios.",
+    "Instar al cumplimiento de las recomendaciones del suceso 10/12, relativas a toperas con elevado número de entradas de trenes de viajeros; así como estudiar las posibilidades de establecer distancias de deslizamiento entre el punto de parada y las toperas que reduzcan el riesgo de colisión.",
+    "Para asegurar el correcto registro y trazabilidad del proceso de asignación de turnos de conducción en situaciones de huelga u otras anomalías del servicio, mejorar los procedimientos en lo necesario."
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)"
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Colisión contra topera",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Viajeros",
+    "Adif"
+   ],
+   "pagina": 14,
+   "cita": "El maquinista del tren nº 25502, perteneciente a Renfe Viajeros (herido en el accidente).",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2017-07-28",
+   "pagina": 5,
+   "cita": "El viernes 28 de julio de 2017, a las 7:24, se produce la colisión del tren 25502 de Rodalies de Catalunya",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Barcelona-França",
+    "pk": "685+375",
+    "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Vía 11 de la estación de Barcelona-França, terminal de la línea 200. Vía de 230 m con andén de 202 m (compartido con vía 10), pendiente ascendente del 1,30‰, trazado en curva a derechas, acabada en topera hidráulica de fundición. Estación de alta densidad con 231 circulaciones diarias y 17 vías acabadas en topera."
+   },
+   "pagina": 5,
+   "cita": "entrada E4 de la estación, a las 7:19. Se le estableció un itinerario de entrada para su estacionamiento",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Serie 465.200 'Civia III' (unidades 465 210 en cabeza y 465 265 en cola); doble composición de 10 coches, 197,1 m, 322,2 t, 24 ejes (16 motores). Fabricante: Alstom. ASFA digital desde 19/04/2010. Dispositivo de Vigilancia (HM) operativo.",
+    "averia": "Ninguna. Pruebas de freno realizadas el 31/08 y 01/09/2017 confirmaron correcto funcionamiento de todos los elementos. Los registros del Cesis demuestran que no se aplicó freno en ningún momento. No se detectaron anomalías en Libros de Reparaciones ni históricos de incidencias.",
+    "mantenimiento": "Base de Montcada Bifurcació (Renfe Fabricación y Mantenimiento SA). Plan PM465230 (ed. 30/05/2008, rev. 4ª 24/01/2017). Última IS unidad 465 210: 18/07/2017. Última IM unidad 465 265: 17/07/2017. Kilómetros: 465 210 = 1.249.268 km; 465 265 = 862.228 km."
+   },
+   "pagina": 14,
+   "cita": "El tren accidentado, número 25502, estaba formado por dos unidades de la Serie 465.200 “Civia III” de",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El viernes 28 de julio de 2017, el tren 25502 de Rodalies de Catalunya, formado por dos unidades de la serie 465 'Civia' (465 210 y 465 265), partió de Sant Vicenç de Calders a las 6:01 h como servicio mínimo de la jornada de huelga convocada en Adif y Renfe. El recorrido hasta Barcelona-França se realizó sin contratiempos. A las 7:19 h, el tren fue detenido ante la señal de entrada E4 de la estación terminal, a la espera de itinerario. A las 7:21 h se le estableció itinerario a la vía 11 (vía no habitual, ocupadas las vías 4, 5 y 6). A las 7:22 h reanudó la marcha con la velocidad prefijada activada a 28 km/h y mantuvo esa velocidad constante durante los 897 metros hasta el final de la vía, sin aplicar el freno ni desactivar la velocidad prefijada. A las 7:24 h colisionó contra la topera hidráulica (inoperante desde 1992) del final de la vía 11. La cabeza del tren quedó empotrada, el segundo bogie (entre los dos primeros coches) se levantó y descarriló, y la carrocería tocó la catenaria produciendo un cortocircuito y caída de tensión. La topera sufrió daños graves (pistones doblados, piezas de fundición rotas). No hubo víctimas mortales; resultaron heridos el maquinista (grave) y 59 viajeros (10 graves).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Barcelona-França",
+    "pk": "685+375",
+    "linea": "200 Madrid Chamartín – Barcelona Estació de França",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Vía 11 de la estación de Barcelona-França, terminal de la línea 200. Vía de 230 m con andén de 202 m (compartido con vía 10), pendiente ascendente del 1,30‰, trazado en curva a derechas, acabada en topera hidráulica de fundición. Estación de alta densidad con 231 circulaciones diarias y 17 vías acabadas en topera."
+   },
+   "pagina": 5,
+   "cita": "entrada E4 de la estación, a las 7:19. Se le estableció un itinerario de entrada para su estacionamiento",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 11,
+    "heridos_leves": 49,
+    "danos_materiales": "Topera de vía 11 destruida (dada de baja, reemplazada provisionalmente a 9 m); señal de topera arrancada; daños en murete entre topera y andén; roturas en borde del andén. Tren: coche 1 con grandes daños por impacto, bogie descarrilado; coche 2 con desperfectos estructurales; coche 3 con desperfectos en estructura; coche 5 con desperfectos en frontal y acoplamiento; coche 6 con desperfectos en frontal y acoplamiento. Catenaria sin daños (cortocircuito momentáneo). Vía sin daños.",
+    "afectacion_servicio": "Vías 11, 10 y 12 bloqueadas desde las 7:24 hasta las 18:56 (~10,5 horas). Solo 2 trenes afectados: 18091 (13 min retraso) y 28381 (19 min retraso). Total: 32 minutos perdidos. Resto de la estación operó con normalidad tras restablecer tensión."
+   },
+   "pagina": 19,
+   "cita": "delimitaron los espacios para atender, clasificar y evacuar los heridos, así como para el trabajo de los",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 25502 (Renfe Viajeros)",
+     "implicacion": "Herido grave. No aplicó freno ni desactivó velocidad prefijada durante estacionamiento en vía 11. Presuntamente perdió la consciencia por somnolencia tras reanudar marcha en señal E4. Dormido solo ~4 horas la noche anterior. Habituado a usar velocidad prefijada en estacionamientos (mala práctica). Suspendido cautelarmente por Renfe."
+    },
+    {
+     "rol": "Segundo maquinista Renfe Viajeros fuera de servicio (viajaba como pasajero)",
+     "implicacion": "Testigo de primera mano. Primero en atender al maquinista accidentado (lo encontró inconsciente). Dio instrucciones a viajeros, abrió puertas para evacuación y asistió al maquinista."
+    },
+    {
+     "rol": "Responsable de Circulación del CTC Barcelona-França (Adif)",
+     "implicacion": "Estableció itinerario de entrada a vía 11. No se comunicó con el maquinista. Escuchó el ruido del impacto tras observar ocupación de circuitos."
+    },
+    {
+     "rol": "Operador de administración y gestión de Renfe (viajaba como pasajero)",
+     "implicacion": "Testigo; no aportó información relevante."
+    },
+    {
+     "rol": "Auxiliar de circulación en andenes",
+     "implicacion": "Intentó comunicarse con el maquinista por radiotelefonía modalidad C durante la entrada a vía 11, sin obtener respuesta."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "Como resultado del accidente resultaron heridos de diversa consideración el maquinista del tren y 59 \nviajeros, 10 de ellos considerados como heridos graves1. Sus nacionalidades eran: 50 españoles (8 de \nellos heridos graves), 3 marroquíes (2 de ellos graves), 2 franceses, 1 rumano, 1 senegalés, 1 \nnicaragüense y 1 ecuatoriano. \n  \nPasajeros \nTripulación \nFallecidos \n- \n- \nHeridos graves \n10 \n1 \nHeridos leves \n49 \n- \n2.3.1.1 Víctimas mortales \nNo se produjeron víctimas mortales. \n2.3.1.2 Lesiones \nComo se ha indicado, se produjeron 11 heridos graves (hospitalizados durante más de 24 horas): 10 \nviajeros y el maquinista. Las informaciones recogidas sobre los heridos (a través de informes de los Mossos \nd’Esquadra y los servicios de emergencia) indican que las lesiones producidas fueron principalmente \ncontusiones y fracturas, producidas por caídas en el momento del impacto. Se da la circunstancia de que, \nal estar el tren aproximándose a su última parada, un gran número de los pasajeros que viajaban sentados \nse habían levantado para dirigirse a las puertas de salida, lo que favoreció que muchos de ellos saliesen \nproyectados en el momento del choque y sufriesen más lesiones. \nSe ha podido verificar que al menos 7 de los 10 viajeros heridos graves viajaban en el primer coche de la \ncomposición, que recibió el impacto contra la topera. En los vídeos grabados por las cámaras de seguridad \nde la estación (apartado 3.4.1.3) se observa cómo la energía del impacto fue absorbida principalmente \npor este primer coche, que llegó a levantarse momentáneamente de la vía en su parte posterior (bogie \ncompartido con el segundo coche). Este comportamiento dinámico del impacto explica la mayor gravedad \nde las lesiones de los viajeros del primer coche. \n                                        \n1 A efectos de esta investigación, y de acuerdo con el criterio establecido por la normativa vigente, se contabiliza \ncomo grave “cualquier herido que haya estado hospitalizado más de 24 horas” (Real Decreto 810/2007, de 22 de \njunio, por el que se aprueba el Reglamento sobre seguridad en la circulación de la Red Ferroviaria de Interés General, \napartado 7.1.19 del Anexo I). \n\n### Tablas de la página 21\n\n|   | Pasajeros | Tripulación |\n|---|---|---|\n| Fallecidos | - | - |\n| Heridos graves | 10 | 1 |\n| Heridos leves | 49 | - |\n\n## Página 22\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0035/2017 ocurrido el 28.07.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n191217-170728 IF CIAF.docx \nPág. 22 de 71 \nEn la inspección ocular del interior del tren tras el impacto no se observan excesivos daños: sólo unos \npocos asientos han sido parcialmente arrancados y se aprecian impactos en sólo algunos asientos, \nmamparas interiores y ventanas. Los mayores daños en el interior del tren se concentran en torno al \n“fuelle” que conecta los coches 1 y 2, en donde los paneles de revestimiento han sido rotos, deformados \ny desencajados, a consecuencia dela reacción antes mencionada.",
+   "pagina": 21,
+   "cita": "2.3.1 Viajeros, personal y terceros",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "25502",
+     "tipo": "Tren de Cercanías (Rodalies de Catalunya, línea R2 Sud)",
+     "operador": "Renfe Viajeros",
+     "danos": "Cabeza empotrada en topera con grandes daños; segundo bogie descarrilado; daños en carrocería e interiores; unidades incrustadas con daños en topes y acoplamientos entre 5º y 6º coche; coches 1, 2, 3 y 5 con grandes desperfectos; coche 6 con desperfectos en frontal y acoplamiento"
+    },
+    {
+     "numero": "253012",
+     "tipo": "Locomotora (apoyo en operaciones de encarrilamiento y retirada)",
+     "operador": "Adif/Renfe",
+     "danos": null
+    }
+   ],
+   "pagina": 5,
+   "cita": "El viernes 28 de julio de 2017, a las 7:24, se produce la colisión del tren 25502 de Rodalies de Catalunya",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Serie 465.200 'Civia III' (unidades 465 210 en cabeza y 465 265 en cola); doble composición de 10 coches, 197,1 m, 322,2 t, 24 ejes (16 motores). Fabricante: Alstom. ASFA digital desde 19/04/2010. Dispositivo de Vigilancia (HM) operativo.",
+    "averia": "Ninguna. Pruebas de freno realizadas el 31/08 y 01/09/2017 confirmaron correcto funcionamiento de todos los elementos. Los registros del Cesis demuestran que no se aplicó freno en ningún momento. No se detectaron anomalías en Libros de Reparaciones ni históricos de incidencias.",
+    "mantenimiento": "Base de Montcada Bifurcació (Renfe Fabricación y Mantenimiento SA). Plan PM465230 (ed. 30/05/2008, rev. 4ª 24/01/2017). Última IS unidad 465 210: 18/07/2017. Última IM unidad 465 265: 17/07/2017. Kilómetros: 465 210 = 1.249.268 km; 465 265 = 862.228 km."
+   },
+   "pagina": 14,
+   "cita": "El tren accidentado, número 25502, estaba formado por dos unidades de la Serie 465.200 “Civia III” de",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Enclavamiento electrónico. Señales: avanzada E'4 (PK 683+857), entrada E4 (PK 684+319), retroceso R4 (PK 684+707). ASFA digital con balizas L1 y L7. Señalización funcionó correctamente; visibilidad adecuada. Ocho aparatos de vía (5 desvíos, 3 travesías) en el recorrido desde señal de entrada.",
+    "tipo_via": "Vía 11 de 230 m, doble ancho ibérico, electrificada, con andén de 202 m compartido con vía 10. Pendiente ascendente 1,30‰, curva a derechas. Acabada en topera hidráulica de fundición (Ransomes & Rapier, 1929, remodelación 1992).",
+    "velocidad_maxima": "120 km/h (tren); velocidad prefijada activa a 28 km/h en momento del impacto",
+    "ancho": "1668 mm (ancho ibérico)",
+    "electrificacion": "3.000 V CC (catenaria); cortocircuito y caída de tensión momentánea por contacto del tren con catenaria durante la sacudida",
+    "estado_via": "Correcto; sin grasa ni suciedad en carriles. No se observaron daños en la vía tras el accidente. Catenaria sin daños.",
+    "otro": "Topera hidráulica de fundición con mecanismo inoperante (sin fluido hidráulico) al menos desde la remodelación de 1992; diseñada para trenes clásicos con topes laterales, no adaptada al enganche central del material actual. Bloqueo automático banalizado con CTC. Estación con 231 circulaciones diarias (alta densidad). No había procedimiento específico de mantenimiento de toperas en el SGS de Adif."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Enclavamiento electrónico. Señales: avanzada E'4 (PK 683+857), entrada E4 (PK 684+319), retroceso R4 (PK 684+707). ASFA digital con balizas L1 y L7. Señalización funcionó correctamente; visibilidad adecuada. Ocho aparatos de vía (5 desvíos, 3 travesías) en el recorrido desde señal de entrada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "A lo largo de toda la línea existe cobertura de radiotelefonía tren-tierra, mediante la cual los maquinistas \npueden comunicarse con el Puesto de Mando (modalidad A) o con el responsable de circulación en las \nestaciones en mando local (modalidad C). El maquinista del tren accidentado mantuvo la radiotelefonía \nen modalidad A hasta el momento del accidente.",
+   "pagina": 17,
+   "cita": "2.2.4 Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 11,
+    "heridos_leves": 49,
+    "danos_materiales": "Topera de vía 11 destruida (dada de baja, reemplazada provisionalmente a 9 m); señal de topera arrancada; daños en murete entre topera y andén; roturas en borde del andén. Tren: coche 1 con grandes daños por impacto, bogie descarrilado; coche 2 con desperfectos estructurales; coche 3 con desperfectos en estructura; coche 5 con desperfectos en frontal y acoplamiento; coche 6 con desperfectos en frontal y acoplamiento. Catenaria sin daños (cortocircuito momentáneo). Vía sin daños.",
+    "afectacion_servicio": "Vías 11, 10 y 12 bloqueadas desde las 7:24 hasta las 18:56 (~10,5 horas). Solo 2 trenes afectados: 18091 (13 min retraso) y 28381 (19 min retraso). Total: 32 minutos perdidos. Resto de la estación operó con normalidad tras restablecer tensión."
+   },
+   "pagina": 19,
+   "cita": "de los servicios médicos y de bomberos y asistir en la atención y evacuación de los viajeros. También se",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 11,
+    "heridos_leves": 49,
+    "danos_materiales": "Topera de vía 11 destruida (dada de baja, reemplazada provisionalmente a 9 m); señal de topera arrancada; daños en murete entre topera y andén; roturas en borde del andén. Tren: coche 1 con grandes daños por impacto, bogie descarrilado; coche 2 con desperfectos estructurales; coche 3 con desperfectos en estructura; coche 5 con desperfectos en frontal y acoplamiento; coche 6 con desperfectos en frontal y acoplamiento. Catenaria sin daños (cortocircuito momentáneo). Vía sin daños.",
+    "afectacion_servicio": "Vías 11, 10 y 12 bloqueadas desde las 7:24 hasta las 18:56 (~10,5 horas). Solo 2 trenes afectados: 18091 (13 min retraso) y 28381 (19 min retraso). Total: 32 minutos perdidos. Resto de la estación operó con normalidad tras restablecer tensión."
+   },
+   "pagina": 19,
+   "cita": "delimitaron los espacios para atender, clasificar y evacuar los heridos, así como para el trabajo de los",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 11,
+    "heridos_leves": 49,
+    "danos_materiales": "Topera de vía 11 destruida (dada de baja, reemplazada provisionalmente a 9 m); señal de topera arrancada; daños en murete entre topera y andén; roturas en borde del andén. Tren: coche 1 con grandes daños por impacto, bogie descarrilado; coche 2 con desperfectos estructurales; coche 3 con desperfectos en estructura; coche 5 con desperfectos en frontal y acoplamiento; coche 6 con desperfectos en frontal y acoplamiento. Catenaria sin daños (cortocircuito momentáneo). Vía sin daños.",
+    "afectacion_servicio": "Vías 11, 10 y 12 bloqueadas desde las 7:24 hasta las 18:56 (~10,5 horas). Solo 2 trenes afectados: 18091 (13 min retraso) y 28381 (19 min retraso). Total: 32 minutos perdidos. Resto de la estación operó con normalidad tras restablecer tensión."
+   },
+   "pagina": 19,
+   "cita": "delimitaron los espacios para atender, clasificar y evacuar los heridos, así como para el trabajo de los",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 465.200 'Civia III' (unidades 465 210 en cabeza y 465 265 en cola); doble composición de 10 coches, 197,1 m, 322,2 t, 24 ejes (16 motores). Fabricante: Alstom. ASFA digital desde 19/04/2010. Dispositivo de Vigilancia (HM) operativo.",
+    "averia": "Ninguna. Pruebas de freno realizadas el 31/08 y 01/09/2017 confirmaron correcto funcionamiento de todos los elementos. Los registros del Cesis demuestran que no se aplicó freno en ningún momento. No se detectaron anomalías en Libros de Reparaciones ni históricos de incidencias.",
+    "mantenimiento": "Base de Montcada Bifurcació (Renfe Fabricación y Mantenimiento SA). Plan PM465230 (ed. 30/05/2008, rev. 4ª 24/01/2017). Última IS unidad 465 210: 18/07/2017. Última IM unidad 465 265: 17/07/2017. Kilómetros: 465 210 = 1.249.268 km; 465 265 = 862.228 km."
+   },
+   "pagina": 14,
+   "cita": "El tren accidentado, número 25502, estaba formado por dos unidades de la Serie 465.200 “Civia III” de",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Enclavamiento electrónico. Señales: avanzada E'4 (PK 683+857), entrada E4 (PK 684+319), retroceso R4 (PK 684+707). ASFA digital con balizas L1 y L7. Señalización funcionó correctamente; visibilidad adecuada. Ocho aparatos de vía (5 desvíos, 3 travesías) en el recorrido desde señal de entrada.",
+    "tipo_via": "Vía 11 de 230 m, doble ancho ibérico, electrificada, con andén de 202 m compartido con vía 10. Pendiente ascendente 1,30‰, curva a derechas. Acabada en topera hidráulica de fundición (Ransomes & Rapier, 1929, remodelación 1992).",
+    "velocidad_maxima": "120 km/h (tren); velocidad prefijada activa a 28 km/h en momento del impacto",
+    "ancho": "1668 mm (ancho ibérico)",
+    "electrificacion": "3.000 V CC (catenaria); cortocircuito y caída de tensión momentánea por contacto del tren con catenaria durante la sacudida",
+    "estado_via": "Correcto; sin grasa ni suciedad en carriles. No se observaron daños en la vía tras el accidente. Catenaria sin daños.",
+    "otro": "Topera hidráulica de fundición con mecanismo inoperante (sin fluido hidráulico) al menos desde la remodelación de 1992; diseñada para trenes clásicos con topes laterales, no adaptada al enganche central del material actual. Bloqueo automático banalizado con CTC. Estación con 231 circulaciones diarias (alta densidad). No había procedimiento específico de mantenimiento de toperas en el SGS de Adif."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": "No se produjeron daños apreciables al medio ambiente.",
+   "pagina": 25,
+   "cita": "2.3.3 Daños al medio ambiente",
+   "origen": "determinista",
+   "regla": "sec:^da[ñn]os al medio ambiente$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Buenas condiciones meteorológicas y buena visibilidad. Día.",
+   "pagina": 25,
+   "cita": "El suceso se produjo de día, con buenas condiciones meteorológicas y buena visibilidad.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "França"
+   },
+   "pagina": 5,
+   "cita": "estación de França (Barcelona).",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Buenas condiciones meteorológicas y buena visibilidad. Día.",
+   "pagina": 25,
+   "cita": "El suceso se produjo de día, con buenas condiciones meteorológicas y buena visibilidad.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Enclavamiento electrónico. Señales: avanzada E'4 (PK 683+857), entrada E4 (PK 684+319), retroceso R4 (PK 684+707). ASFA digital con balizas L1 y L7. Señalización funcionó correctamente; visibilidad adecuada. Ocho aparatos de vía (5 desvíos, 3 travesías) en el recorrido desde señal de entrada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Enclavamiento electrónico. Señales: avanzada E'4 (PK 683+857), entrada E4 (PK 684+319), retroceso R4 (PK 684+707). ASFA digital con balizas L1 y L7. Señalización funcionó correctamente; visibilidad adecuada. Ocho aparatos de vía (5 desvíos, 3 travesías) en el recorrido desde señal de entrada.",
+    "tipo_via": "Vía 11 de 230 m, doble ancho ibérico, electrificada, con andén de 202 m compartido con vía 10. Pendiente ascendente 1,30‰, curva a derechas. Acabada en topera hidráulica de fundición (Ransomes & Rapier, 1929, remodelación 1992).",
+    "velocidad_maxima": "120 km/h (tren); velocidad prefijada activa a 28 km/h en momento del impacto",
+    "ancho": "1668 mm (ancho ibérico)",
+    "electrificacion": "3.000 V CC (catenaria); cortocircuito y caída de tensión momentánea por contacto del tren con catenaria durante la sacudida",
+    "estado_via": "Correcto; sin grasa ni suciedad en carriles. No se observaron daños en la vía tras el accidente. Catenaria sin daños.",
+    "otro": "Topera hidráulica de fundición con mecanismo inoperante (sin fluido hidráulico) al menos desde la remodelación de 1992; diseñada para trenes clásicos con topes laterales, no adaptada al enganche central del material actual. Bloqueo automático banalizado con CTC. Estación con 231 circulaciones diarias (alta densidad). No había procedimiento específico de mantenimiento de toperas en el SGS de Adif."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "A lo largo de toda la línea existe cobertura de radiotelefonía tren-tierra, mediante la cual los maquinistas \npueden comunicarse con el Puesto de Mando (modalidad A) o con el responsable de circulación en las \nestaciones en mando local (modalidad C). El maquinista del tren accidentado mantuvo la radiotelefonía \nen modalidad A hasta el momento del accidente.",
+   "pagina": 17,
+   "cita": "2.2.4 Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 465.200 'Civia III' (unidades 465 210 en cabeza y 465 265 en cola); doble composición de 10 coches, 197,1 m, 322,2 t, 24 ejes (16 motores). Fabricante: Alstom. ASFA digital desde 19/04/2010. Dispositivo de Vigilancia (HM) operativo.",
+    "averia": "Ninguna. Pruebas de freno realizadas el 31/08 y 01/09/2017 confirmaron correcto funcionamiento de todos los elementos. Los registros del Cesis demuestran que no se aplicó freno en ningún momento. No se detectaron anomalías en Libros de Reparaciones ni históricos de incidencias.",
+    "mantenimiento": "Base de Montcada Bifurcació (Renfe Fabricación y Mantenimiento SA). Plan PM465230 (ed. 30/05/2008, rev. 4ª 24/01/2017). Última IS unidad 465 210: 18/07/2017. Última IM unidad 465 265: 17/07/2017. Kilómetros: 465 210 = 1.249.268 km; 465 265 = 862.228 km."
+   },
+   "pagina": 14,
+   "cita": "El tren accidentado, número 25502, estaba formado por dos unidades de la Serie 465.200 “Civia III” de",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": "Una vez que el Puesto de Mando recibió el aviso de que se había producido el accidente, se pusieron en \nmarcha los protocolos incluidos en el Plan de Contingencias. El enclavamiento de la estación no se vio \nafectado y el corte de tensión producido en el momento de la colisión no causó daños y pudo ser \nsolventado rápidamente, de modo que el funcionamiento normal del resto de la estación (excluyendo la \nvía 11 y sus aledaños) pudo mantenerse. \nEl Puesto de Mando adoptó las siguientes medidas: \n \nDesde el \nsuceso \n(7:24 h): \nSe bloquean las vías contiguas 10 y 12, para facilitar las tareas de atención a los heridos, \nevacuación e inspección posterior. \n9:47 h: \nLlegada del tren taller de Renfe Integria, que queda estacionado en vía 11 a las 9:57. \n13:17 h \nSe estaciona una locomotora (253012) en vía 12, para apoyar en las tareas de \nencarrilamiento y retirada del material. \n14:42 h \nSe inician los trabajos de encarrilamiento, una vez autorizados por el responsable de la \nCIAF presente en el lugar. \n17:22 h \nConcluido el encarrilamiento, se inicia la retirada de la composición accidentada, \nremolcada por la locomotora 253012. \n17:50 h \nLa unidad accidentada queda estacionada en vía 19. \n18:56 h \nSe da por apta de nuevo la vía 11, una vez concluida la limpieza de restos de material, \ny colocada una señal de parada a mano, a 9 metros de la topera. \n\n## Página 50\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0035/2017 ocurrido el 28.07.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n191217-170728 IF CIAF.docx \nPág. 50 de 71 \n20:22 h \nSe desacoplan las dos unidades que forman la composición accidentada: la unidad 465 \n210 (cabeza de la composición) permanece en vía 19, asegurada con calces. \n20:35 h \nLa unidad 465 265 (cola de la composición) es estacionada en la vía 16 tras ser remolcada \npor la locomotora 253012. \n23:22 h \nLa unidad 465 265 (cola de la composición) sale de la vía 16 remolcada por la locomotora \n253012, con destino a la Base de Mantenimiento de Montcada bifurcació.",
+   "pagina": 49,
+   "cita": "3.5.1 Medidas tomadas por el personal de circulación",
+   "origen": "determinista",
+   "regla": "sec:^medidas tomadas por el personal de circulaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "falta de descanso del maquinista",
+    "uso indebido velocidad prefijada",
+    "estado somnolencia conductor"
+   ],
+   "pagina": 66,
+   "cita": "un accidente y en su investigación ha salido a la luz la falta de descanso del maquinista y su decisión",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "3.2.2.1 Maquinista del tren 25502 \nEl maquinista cumple con los requisitos establecidos para el desempeño de sus funciones:  \n \nTítulo B de conducción, conforme a la Orden FOM/2520/2006, de 27 de julio. \n \nAntigüedad de 7 años a la fecha del accidente. \n \nHabilitación para el material (serie 465) y línea (200) y reciclajes formativos al día. \n \nCondición psicofísica apta, según su último reconocimiento médico antes del accidente. \nSu jornada laboral y tiempos de conducción cumplían la normativa, si bien la circunstancia de la huelga \nconvocada introduce algunas matizaciones a considerar (ver apartado 3.6.2). Las pruebas de alcohol y \ndrogas posteriores dieron resultado negativo en todos los casos. \n3.2.2.2 Responsable de circulación \nEl responsable de circulación de servicio en la estación en el momento del accidente cumplía también con \nlos requisitos establecidos: \n \nHabilitación conforme a la normativa vigente, y reciclajes formativos cumplidos. \n \nCondición psicofísica apta, según su último reconocimiento.  \n\n## Página 32\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0035/2017 ocurrido el 28.07.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n191217-170728 IF CIAF.docx \nPág. 32 de 71 \nSu jornada laboral el día del accidente era de 6 a 14h, por lo que en el momento del accidente llevaba 84 \nminutos de jornada de trabajo. En las 48 horas anteriores había descansado. Las pruebas de alcohol y \ndrogas que se le realizaron dieron resultado negativo.",
+   "pagina": 31,
+   "cita": "3.2.2 Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": "Las pruebas de alcohol y drogas realizadas por los Mossos d’Esquadra (tras haber sido evacuado al \nhospital) arrojaron resultados negativos en todos los casos. \nPor otra parte, el maquinista afirmó en sus declaraciones haber dormido lo suficiente la noche anterior al \naccidente, desde las 22:30 hasta las 4:50. Sin embargo, las pesquisas realizadas por los Mossos \nd’Esquadra (en base a testimonios en su entorno personal y comunicaciones de su teléfono móvil) \n\n### Tablas de la página 51\n\n| Criterios de asignación de SS.MM. ante situaciones de Huelga Legal convocada PRIMERO: Se procura asignar los trenes que tiene el maquinista en su clave de gráfico para ese día, si dichos trenes se encuentran dentro de los servicios mínimos (SS.MM.) aprobados. SEGUNDO: Si la totalidad de los trenes que tiene en su servicio habitual no se encuentran dentro de los trenes acogidos a los SS.MM., se le nombra un turno de trabajo con trenes que circulan acogidos a los citados SS.MM., respetando la jornada legal de descanso antes, después y durante la realización del turno que puede realizar el maquinista, procurando que exista una similitud con el turno que tenía asignado en el cuadro de servicio. TERCERO: El servicio nombrado para el día de huelga, se refleja en la carta de Servicios mínimos, haciendo entrega de la misma, bajo firma al maquinista o mediante correo electrónico con acuse de recibo, con la antelación posible, en función de la fecha en que se publique la orden que establece los mismos. |\n|---|\n\n## Página 52\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0035/2017 ocurrido el 28.07.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n191217-170728 IF CIAF.docx \nPág. 52 de 71 \ncontradicen esa versión, apuntando a que el maquinista habría dormido solamente entre tres horas y \nmedia y cuatro horas y media. Las diligencias también refieren que durante su ingreso hospitalario se \nobservó tendencia a la somnolencia. \nLos testimonios del propio maquinista y de las personas que lo atendieron tras el accidente constatan que \nhabía quedado inconsciente, aunque no se puede determinar con seguridad si esta pérdida de \nconocimiento fue resultado directo del impacto o si se había producido con anterioridad al choque. El \nmaquinista afirmaba no recordar lo sucedido tras el inicio de la marcha en la señal E4, hecho que el \npersonal médico atribuye a una amnesia retrógrada compatible con el traumatismo sufrido. Por otra parte, \nel maquinista mencionó (en su declaración ante los Mossos d’Esquadra) cierta sensación de visión borrosa \ny flojera previa al accidente, aunque no mencionó esa circunstancia en otras declaraciones ni la comunicó \nal personal médico.",
+   "pagina": 51,
+   "cita": "3.6.3 Circunstancias médicas o personales",
+   "origen": "determinista",
+   "regla": "sec:^circunstancias medicas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El viernes 28 de julio de 2017, el tren 25502 de Rodalies de Catalunya, formado por dos unidades de la serie 465 'Civia' (465 210 y 465 265), partió de Sant Vicenç de Calders a las 6:01 h como servicio mínimo de la jornada de huelga convocada en Adif y Renfe. El recorrido hasta Barcelona-França se realizó sin contratiempos. A las 7:19 h, el tren fue detenido ante la señal de entrada E4 de la estación terminal, a la espera de itinerario. A las 7:21 h se le estableció itinerario a la vía 11 (vía no habitual, ocupadas las vías 4, 5 y 6). A las 7:22 h reanudó la marcha con la velocidad prefijada activada a 28 km/h y mantuvo esa velocidad constante durante los 897 metros hasta el final de la vía, sin aplicar el freno ni desactivar la velocidad prefijada. A las 7:24 h colisionó contra la topera hidráulica (inoperante desde 1992) del final de la vía 11. La cabeza del tren quedó empotrada, el segundo bogie (entre los dos primeros coches) se levantó y descarriló, y la carrocería tocó la catenaria produciendo un cortocircuito y caída de tensión. La topera sufrió daños graves (pistones doblados, piezas de fundición rotas). No hubo víctimas mortales; resultaron heridos el maquinista (grave) y 59 viajeros (10 graves).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "A partir de los testimonios y los diferentes registros de datos (moviola del registro de eventos del CTC \nvista en el apartado 3.4.1.2, y grabaciones del registrador embarcado Cesis, en el apartado 3.4.4.3), \npuede reconstruirse la secuencia de eventos en los momentos inmediatamente anteriores a la colisión. \nSe puede asumir que el paso sobre la baliza de la señal E4 (grabado en el registrador embarcado Cesis) \ny la entrada en el circuito de vía (registrado por la moviola del CTC) se producen casi simultáneamente y \ncorresponden con el momento en que el tren rebasa la señal E4 (el posible desajuste entre ambos hechos \nno sería superior a un segundo). Tomando este momento como referencia se pueden ajustar los tiempos \ndel CTC y el registrador embarcado para analizar conjuntamente ambos registros. Se ha considerado que \nla cronología de referencia es la de la moviola del CTC, y la del registrador Cesis se ha ajustado a \nella (existe un desfase de unos 9 segundos): \nPK \nHora \nregistrador \nCesis \nHora CTC \n(referencia) \nDescripción \nIndicación \nbaliza \nASFA \nVelocidad \n(km/h) \n \n \n7:18:11 \nSeñal avanzada E’4 en anuncio de parada, \nseñal de entrada E4 en parada \n \n \n683+857 \n7:18:35 \n7:18:44 \nRebase de la señal avanzada E’4 \nL1 \n40 \n684+050 \n7:18:53 \n7:19:02 \nPaso por baliza previa señal entrada E4 \nL7 \n42 \n684+292 \n7:19:36 \n7:19:45 \nDetención ante señal entrada E4 \n \n0 \n \n7:21:02 \n7:21:11 \nAbre la señal de entrada E4 (anuncio de \nparada) \n \n0 \n684+292 \n7:22:06 \n7:22:15 \nReanudación de la marcha \n \n0 \n684+319 \n7:22:17 \n7:22:26 \nPaso por baliza pie de señal entrada E4 \nL1 \n24 \n \n7:22:28 \n7:22:37 \nSe alcanza la velocidad prefijada de 28 km/h \n \n28 \n684+707 \n684+540 (*) \n \n7:22:53 \nRebase de la señal R4 \n \n28 \n \n \n7:23:48 \nEntrada en el circuito de la vía 11 \n \n28 \n \n \n7:24:15 \nEl tren queda dentro del circuito de la vía 11 \n \n28 \n685+375 \n685+216 (*) \n7:24:12 \n7:24:21 \nColisión con topera de final de vía 11 \n \n28 \n(*) La primera cifra corresponde al PK nominal según la consigna de la estación (ver \napartado 2.2.3); la segunda es la que correspondería de acuerdo a las mediciones del \nodómetro del registrador embarcado.  \nDe esta reconstrucción se extraen las siguientes observaciones: \n\n### Tablas de la página 56\n\n|   | Hora |   |   | Indicación |   |\n|---|---|---|---|---|---|\n|   | Hora CTC |   |   | Velocidad |   |\n| PK | registrador |   | Descripción | baliza |   |\n|   | (referencia) |   |   | (km/h) |   |\n|   | Cesis |   |   | ASFA |   |\n|   | 7:18:11 |   | Señal avanzada E’4 en anuncio de parada, señal de entrada E4 en parada |   |   |\n| 683+857 | 7:18:35 | 7:18:44 | Rebase de la señal avanzada E’4 | L1 | 40 |\n| 684+050 | 7:18:53 | 7:19:02 | Paso por baliza previa señal entrada E4 | L7 | 42 |\n| 684+292 | 7:19:36 | 7:19:45 | Detención ante señal entrada E4 | 0 |   |\n|   | 7:21:02 | 7:21:11 | Abre la señal de entrada E4 (anuncio de parada) | 0 |   |\n| 684+292 | 7:22:06 | 7:22:15 | Reanudación de la marcha | 0 |   |\n| 684+319 | 7:22:17 | 7:22:26 | Paso por baliza pie de señal entrada E4 | L1 | 24 |\n|   | 7:22:28 | 7:22:37 | Se alcanza la velocidad prefijada de 28 km/h | 28 |   |\n| 684+707 684+540 (*) | 7:22:53 |   | Rebase de la señal R4 | 28 |   |\n|   | 7:23:48 |   | Entrada en el circuito de la vía 11 | 28 |   |\n|   | 7:24:15 |   | El tren queda dentro del circuito de la vía 11 | 28 |   |\n| 685+375 685+216 (*) | 7:24:12 | 7:24:21 | Colisión con topera de final de vía 11 | 28 |   |\n\n## Página 57\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0035/2017 ocurrido el 28.07.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n191217-170728 IF CIAF.docx \nPág. 57 de 71 \n \nEl tren se detiene con normalidad ante la señal de entrada E4, que muestra indicación de parada. \n \nEl tren permanece detenido ante la señal E4 durante un total de 150 segundos (datos del \nregistrador Cesis), tras lo cual reanuda la marcha. Pasa sobre la baliza de la señal (rebasándola)",
+   "pagina": 56,
+   "cita": "4.2.1 Análisis de la información de los registradores",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Falta de aplicación del freno por parte del maquinista durante el movimiento de estacionamiento en la vía 11, con la velocidad prefijada activada a 28 km/h (contraviniendo la normativa que prohíbe su uso en itinerarios de estacionamiento). La no aplicación del freno se debió a la presumible pérdida de plena consciencia del maquinista, atribuible a un estado de somnolencia.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Uso habitual e indebido de la velocidad prefijada en movimientos de estacionamiento por parte del maquinista (mala práctica)",
+    "Manuales de conducción que usan términos como 'automático' y 'habitual' al referirse a velocidad prefijada, induciendo a error",
+    "El HM funcionaba correctamente pero no está diseñado para detectar duermevela o semiinconsciencia",
+    "Topera hidráulica con mecanismo inoperante desde 1992 (sin fluido hidráulico), trabajando como rígida",
+    "Topera no adaptada al tipo de enganche central del material rodante actual",
+    "Ausencia de distancia de deslizamiento entre punto de parada y topera",
+    "No había procedimiento específico de mantenimiento y vigilancia de toperas en el SGS de Adif"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "4.3.1 Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del material \nrodante o de las instalaciones técnicas \n1. La causa directa del accidente fue la falta de aplicación del freno por parte del maquinista del tren \n25502, durante el movimiento de estacionamiento en la vía 11. \n2. La colisión se produjo estando activada una velocidad prefijada (a 28 km/h) durante el \nestacionamiento (sin que se desactivase al no aplicarse freno en ningún momento), algo que \ncontraviene directamente la normativa sobre su uso. Asimismo, se ha detectado una mala práctica \npor parte del maquinista, al emplear habitualmente la velocidad prefijada en movimientos de \nestacionamiento [VER RECOMENDACIONES nº 1 y nº 2]. \n3. Asimismo, la consiguiente no aplicación del freno y no desactivación de la velocidad prefijada se \ndebieron a que el maquinista perdió presuntamente la plena consciencia tras el arranque del tren \nen la señal de entrada E4. Esta presumible pérdida de consciencia es atribuible, probablemente, \na un estado de somnolencia [VER RECOMENDACIONES nº 3 y nº 4].  \n4.3.2 Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \n4. El Dispositivo de Vigilancia (“Hombre Muerto” o “HM”) funcionaba correctamente, pero no pudo \nimpedir el accidente, al no estar diseñado para detectar situaciones de duermevela o \nsemiinconsciencia como la que se habría dado. Considerando que la función de este dispositivo \nes detener el tren en caso de que el maquinista pierda plenamente la consciencia o abandone el \npuesto de conducción, convendría estudiar un dispositivo adicional que detectara esas situaciones \nde semiinconsciencia [VER RECOMENDACIÓN nº 5]. \n5. Existen recomendaciones de la CIAF para casos similares, sobre la instalación de balizas y toperas \nadecuadas que mitiguen las consecuencias de choques como el sucedido. A fecha actual no hay \nconstancia de su cumplimiento, si bien se han implementado funcionalidades en el ASFA Digital \nque reducen las consecuencias de un accidente (limitando la velocidad de aproximación con la \ninstalación de dos L7 antes de topera, o con equipamiento con ETCS L1 o L2). La introducción de \nuna distancia de deslizamiento suficiente, donde sea posible, podría también reducir el riesgo de \neste tipo de accidentes [VER RECOMENDACIÓN nº 7]. \n\n## Página 69\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0035/2017 ocurrido el 28.07.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n191217-170728 IF CIAF.docx \nPág. 69 de 71 \n4.3.3 Causas raíces relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \n6. El posible estado de somnolencia del maquinista habría sido causado presuntamente por la falta \nde descanso la noche anterior, al haber dormido un número insuficiente de horas.  \n7. Se han advertido deficiencias en la trazabilidad de la documentación asociada al proceso de \nasignación de maquinistas en situaciones de huelga. Esto podría indicar otras deficiencias en el \nproceso de asignación y notificación a los maquinistas de los servicios mínimos, si bien esto último \nno ha podido verificarse [VER RECOMENDACIÓN nº 8]. \n8. Se detectan ciertas deficiencias en la cultura de seguridad y responsabilidad del maquinista, \nconsistentes en una inadecuada percepción del riesgo de conducir sin el descanso suficiente. \nAsimismo, no ha podido excluirse la posibilidad de que esta conducta de riesgo no hubiese podido \nsuceder otras veces [VER RECOMENDACIÓN nº 3]. \n4.3.4 Factores causales que tuvieron influencia en las consecuencias de la incidencia \n9. Como factor coadyuvante que habría influido en las consecuencias de la colisión, debe señalarse \nel estado y diseño de la topera. El impacto del tren fue amortiguado parcialmente por la topera \nde la vía 11, que resultó muy dañada (al igual que la cabeza del tren). No obstante, la \namortiguación del impacto hubiese causado menos daños si la topera hubiese mantenido \noperativo su mecanismo hidráulico original y hubiese estado adaptada al enganche del tren [VER \nRECOMENDACIÓN nº 6]. \n \n \n \n \n5 \nMEDIDAS ADOPTADAS \nTras el accidente, Renfe suspendió cautelarmente al maquinista implicado, a la espera de otras medidas. \nPor parte de Adif la topera de la vía 11 ha sido dada de baja, y se ha protegido con una topera provisional \na 9 metros y una señal portátil de parada (pantalla). La misma medida ha sido adoptada en la vía contigua \n(número 12). Además, a partir del 10 de julio de 2018 se incluyó en la Consigna Serie B 08-18 una \nlimitación temporal de velocidad de 20 km/h en la entrada a vía 11. \n \n \n\n## Página 70\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0035/2017 ocurrido el 28.07.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n191217-170728 IF CIAF.docx \nPág. 70 de 71 \n6 \nRECOMENDACIONES \nDestinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAGENCIA \nESTATAL DE \nSEGURIDAD \nFERROVIARIA \n(AESF) \nRENFE Viajeros y \nresto de empresas \nferroviarias \n35/2017 - 1 \nInsistir en la correcta aplicación de la \nnormativa sobre velocidad prefijada, a través \nde los procesos de formación y reciclaje del \npersonal de conducción. Para ello se deberán \nrevisar los manuales de conducción y \ncualquier otro documento formativo para \nevitar priorizar el uso de la velocidad \nprefijada \ny \neliminar \ncualquier \nposible \nreferencia \na \n“conducción \nautomática”. \nAsimismo, \nse \nrecomienda \nutilizar \nla \ninformación obtenida de los registros de los \ntrenes sobre el uso real de la velocidad \nprefijada. \nAGENCIA \nESTATAL DE \nSEGURIDAD \nFERROVIARIA \n(AESF) \nRENFE Viajeros \n35/2017 - 2 \nEstudiar \nla \nviabilidad \nde \nestablecer \nlimitaciones técnicas que imposibiliten la \nutilización de la veloci",
+   "pagina": 68,
+   "cita": "4.3 CONCLUSIONES 4.3.1 Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalacione",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "4.3.1 Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes \nrelacionados con las acciones de las personas implicadas o las condiciones del material \nrodante o de las instalaciones técnicas \n1. La causa directa del accidente fue la falta de aplicación del freno por parte del maquinista del tren \n25502, durante el movimiento de estacionamiento en la vía 11. \n2. La colisión se produjo estando activada una velocidad prefijada (a 28 km/h) durante el \nestacionamiento (sin que se desactivase al no aplicarse freno en ningún momento), algo que \ncontraviene directamente la normativa sobre su uso. Asimismo, se ha detectado una mala práctica \npor parte del maquinista, al emplear habitualmente la velocidad prefijada en movimientos de \nestacionamiento [VER RECOMENDACIONES nº 1 y nº 2]. \n3. Asimismo, la consiguiente no aplicación del freno y no desactivación de la velocidad prefijada se \ndebieron a que el maquinista perdió presuntamente la plena consciencia tras el arranque del tren \nen la señal de entrada E4. Esta presumible pérdida de consciencia es atribuible, probablemente, \na un estado de somnolencia [VER RECOMENDACIONES nº 3 y nº 4].  \n4.3.2 Causas subyacentes relacionadas con las cualificaciones del personal ferroviario y el \nmantenimiento del material rodante o de la infraestructura ferroviaria \n4. El Dispositivo de Vigilancia (“Hombre Muerto” o “HM”) funcionaba correctamente, pero no pudo \nimpedir el accidente, al no estar diseñado para detectar situaciones de duermevela o \nsemiinconsciencia como la que se habría dado. Considerando que la función de este dispositivo \nes detener el tren en caso de que el maquinista pierda plenamente la consciencia o abandone el \npuesto de conducción, convendría estudiar un dispositivo adicional que detectara esas situaciones \nde semiinconsciencia [VER RECOMENDACIÓN nº 5]. \n5. Existen recomendaciones de la CIAF para casos similares, sobre la instalación de balizas y toperas \nadecuadas que mitiguen las consecuencias de choques como el sucedido. A fecha actual no hay \nconstancia de su cumplimiento, si bien se han implementado funcionalidades en el ASFA Digital \nque reducen las consecuencias de un accidente (limitando la velocidad de aproximación con la \ninstalación de dos L7 antes de topera, o con equipamiento con ETCS L1 o L2). La introducción de \nuna distancia de deslizamiento suficiente, donde sea posible, podría también reducir el riesgo de \neste tipo de accidentes [VER RECOMENDACIÓN nº 7]. \n\n## Página 69\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0035/2017 ocurrido el 28.07.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n191217-170728 IF CIAF.docx \nPág. 69 de 71 \n4.3.3 Causas raíces relacionadas con las condiciones del marco normativo y la aplicación del \nsistema de gestión de la seguridad \n6. El posible estado de somnolencia del maquinista habría sido causado presuntamente por la falta \nde descanso la noche anterior, al haber dormido un número insuficiente de horas.  \n7. Se han advertido deficiencias en la trazabilidad de la documentación asociada al proceso de \nasignación de maquinistas en situaciones de huelga. Esto podría indicar otras deficiencias en el \nproceso de asignación y notificación a los maquinistas de los servicios mínimos, si bien esto último \nno ha podido verificarse [VER RECOMENDACIÓN nº 8]. \n8. Se detectan ciertas deficiencias en la cultura de seguridad y responsabilidad del maquinista, \nconsistentes en una inadecuada percepción del riesgo de conducir sin el descanso suficiente. \nAsimismo, no ha podido excluirse la posibilidad de que esta conducta de riesgo no hubiese podido \nsuceder otras veces [VER RECOMENDACIÓN nº 3]. \n4.3.4 Factores causales que tuvieron influencia en las consecuencias de la incidencia \n9. Como factor coadyuvante que habría influido en las consecuencias de la colisión, debe señalarse \nel estado y diseño de la topera. El impacto del tren fue amortiguado parcialmente por la topera \nde la vía 11, que resultó muy dañada (al igual que la cabeza del tren). No obstante, la \namortiguación del impacto hubiese causado menos daños si la topera hubiese mantenido \noperativo su mecanismo hidráulico original y hubiese estado adaptada al enganche del tren [VER \nRECOMENDACIÓN nº 6]. \n \n \n \n \n5 \nMEDIDAS ADOPTADAS \nTras el accidente, Renfe suspendió cautelarmente al maquinista implicado, a la espera de otras medidas. \nPor parte de Adif la topera de la vía 11 ha sido dada de baja, y se ha protegido con una topera provisional \na 9 metros y una señal portátil de parada (pantalla). La misma medida ha sido adoptada en la vía contigua \n(número 12). Además, a partir del 10 de julio de 2018 se incluyó en la Consigna Serie B 08-18 una \nlimitación temporal de velocidad de 20 km/h en la entrada a vía 11. \n \n \n\n## Página 70\n\n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0035/2017 ocurrido el 28.07.2017 \nInforme Final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN DE \nACCIDENTES FERROVIARIOS \n191217-170728 IF CIAF.docx \nPág. 70 de 71 \n6 \nRECOMENDACIONES \nDestinatario \nImplementador \nfinal \nNúmero \nRecomendación \nAGENCIA \nESTATAL DE \nSEGURIDAD \nFERROVIARIA \n(AESF) \nRENFE Viajeros y \nresto de empresas \nferroviarias \n35/2017 - 1 \nInsistir en la correcta aplicación de la \nnormativa sobre velocidad prefijada, a través \nde los procesos de formación y reciclaje del \npersonal de conducción. Para ello se deberán \nrevisar los manuales de conducción y \ncualquier otro documento formativo para \nevitar priorizar el uso de la velocidad \nprefijada \ny \neliminar \ncualquier \nposible \nreferencia \na \n“conducción \nautomática”. \nAsimismo, \nse \nrecomienda \nutilizar \nla \ninformación obtenida de los registros de los \ntrenes sobre el uso real de la velocidad \nprefijada. \nAGENCIA \nESTATAL DE \nSEGURIDAD \nFERROVIARIA \n(AESF) \nRENFE Viajeros \n35/2017 - 2 \nEstudiar \nla \nviabilidad \nde \nestablecer \nlimitaciones técnicas que imposibiliten la \nutilización de la veloci",
+   "pagina": 68,
+   "cita": "4.3 CONCLUSIONES 4.3.1 Causas directas e inmediatas del suceso, incluidos los factores coadyuvantes relacionados con las acciones de las personas implicadas o las condiciones del material rodante o de las instalacione",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Insistir en la correcta aplicación de la normativa sobre velocidad prefijada, a través de los procesos de formación y reciclaje del personal de conducción. Para ello se deberán revisar los manuales de conducción y cualquier otro documento formativo para evitar priorizar el uso de la velocidad prefijada y eliminar cualquier posible referencia a “conducción automática”. Asimismo, se recomienda utilizar la información obtenida de los registros de los trenes sobre el uso real de la velocidad prefijada.",
+    "Estudiar la viabilidad de establecer limitaciones técnicas que imposibiliten la utilización de la velocidad prefijada a velocidades bajas, evitando así su uso indebido en maniobras, estacionamientos u otras circunstancias de limitación de velocidad que requieran una mayor atención de los maquinistas.",
+    "Formar y concienciar al personal de conducción, a través de los procesos de formación y reciclaje y de campañas informativas específicas, sobre:  la importancia de cumplir con los tiempos de sueño y descanso;  hábitos saludables en cuanto a descanso y alimentación;  la adecuada percepción del riesgo derivado del descanso insuficiente.",
+    "En las pruebas médicas periódicas realizadas al personal de conducción, incluir tests o cuestionarios destinados a detectar posibles riesgos de trastornos de sueño, de modo que se puedan adoptar medidas preventivas al respecto.",
+    "Promover, en colaboración con los diferentes agentes de la industria, un análisis sobre posibles dispositivos complementarios al HM que permitan detectar situaciones de semiinconsciencia (y actuar ante ellas).",
+    "Asegurar el correcto diseño, mantenimiento y funcionamiento de las toperas hidráulicas (especialmente en aquellas vías de gran tráfico de trenes de viajeros), estableciendo los procedimientos que sean necesarios.",
+    "Instar al cumplimiento de las recomendaciones del suceso 10/12, relativas a toperas con elevado número de entradas de trenes de viajeros; así como estudiar las posibilidades de establecer distancias de deslizamiento entre el punto de parada y las toperas que reduzcan el riesgo de colisión.",
+    "Para asegurar el correcto registro y trazabilidad del proceso de asignación de turnos de conducción en situaciones de huelga u otras anomalías del servicio, mejorar los procedimientos en lo necesario.",
+    "Insistir en la correcta aplicación de la normativa sobre velocidad prefijada, a través de los procesos de formación y reciclaje del personal de conducción. Para ello se deberán revisar los manuales de conducción y cualquier otro documento formativo para evitar priorizar el uso de la velocidad prefijada y eliminar cualquier posible referencia a “conducción automática”. Asimismo, se recomienda utilizar la información obtenida de los registros de los trenes sobre el uso real de la velocidad prefijada.",
+    "Estudiar la viabilidad de establecer limitaciones técnicas que imposibiliten la utilización de la velocidad prefijada a velocidades bajas, evitando así su uso indebido en maniobras, estacionamientos u otras circunstancias de limitación de velocidad que requieran una mayor atención de los maquinistas.",
+    "Formar y concienciar al personal de conducción, a través de los procesos de formación y reciclaje y de campañas informativas específicas, sobre:  la importancia de cumplir con los tiempos de sueño y descanso;  hábitos saludables en cuanto a descanso y alimentación;  la adecuada percepción del riesgo derivado del descanso insuficiente.",
+    "En las pruebas médicas periódicas realizadas al personal de conducción, incluir tests o cuestionarios destinados a detectar posibles riesgos de trastornos de sueño, de modo que se puedan adoptar medidas preventivas al respecto.",
+    "Promover, en colaboración con los diferentes agentes de la industria, un análisis sobre posibles dispositivos complementarios al HM que permitan detectar situaciones de semiinconsciencia (y actuar ante ellas).",
+    "Asegurar el correcto diseño, mantenimiento y funcionamiento de las toperas hidráulicas (especialmente en aquellas vías de gran tráfico de trenes de viajeros), estableciendo los procedimientos que sean necesarios.",
+    "Instar al cumplimiento de las recomendaciones del suceso 10/12, relativas a toperas con elevado número de entradas de trenes de viajeros; así como estudiar las posibilidades de establecer distancias de deslizamiento entre el punto de parada y las toperas que reduzcan el riesgo de colisión.",
+    "Para asegurar el correcto registro y trazabilidad del proceso de asignación de turnos de conducción en situaciones de huelga u otras anomalías del servicio, mejorar los procedimientos en lo necesario."
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)",
+    "AGENCIA ESTATAL DE SEGURIDAD FERROVIARIA (AESF)"
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "RENFE Viajeros y resto de empresas ferroviarias",
+    "RENFE Viajeros",
+    "RENFE Viajeros",
+    "AESF",
+    "AESF",
+    "ADIF",
+    "ADIF",
+    "RENFE Viajeros",
+    "RENFE Viajeros y resto de empresas ferroviarias",
+    "RENFE Viajeros",
+    "RENFE Viajeros",
+    "AESF",
+    "AESF",
+    "ADIF",
+    "ADIF",
+    "RENFE Viajeros"
+   ],
+   "pagina": 7,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "05:15",
+     "evento": "Inicio de la jornada laboral del maquinista"
+    },
+    {
+     "hora": "05:30",
+     "evento": "Inicio de la conducción del tren 25502"
+    },
+    {
+     "hora": "06:01",
+     "evento": "Salida del tren 25502 de Sant Vicenç de Calders"
+    },
+    {
+     "hora": "07:06",
+     "evento": "Última comunicación del maquinista con el CTC (en Barcelona-Sants, retraso por persona de movilidad reducida)"
+    },
+    {
+     "hora": "07:18:11",
+     "evento": "Tren aproxima a estación; señal avanzada E'4 en anuncio de parada, señal de entrada E4 en parada"
+    },
+    {
+     "hora": "07:18:44",
+     "evento": "Rebase de la señal avanzada E'4 en anuncio de parada (L1)"
+    },
+    {
+     "hora": "07:19:02",
+     "evento": "Paso por baliza previa señal E4 (L7, indicación de parada); maquinista acciona freno"
+    },
+    {
+     "hora": "07:19:36",
+     "evento": "Tren se detiene ante la señal de entrada E4 (a 27 m de la baliza)"
+    },
+    {
+     "hora": "07:21:11",
+     "evento": "Señal E4 pasa a anuncio de parada (amarillo); se establece itinerario a vía 11"
+    },
+    {
+     "hora": "07:22:06",
+     "evento": "Maquinista reanuda la marcha; activa velocidad prefijada a 28 km/h"
+    },
+    {
+     "hora": "07:22:26",
+     "evento": "Tren rebasa la señal de entrada E4 (L1)"
+    },
+    {
+     "hora": "07:22:37",
+     "evento": "Se alcanza y estabiliza la velocidad prefijada de 28 km/h"
+    },
+    {
+     "hora": "07:22:53",
+     "evento": "Rebase de la señal R4 (entrada a vía desviada)"
+    },
+    {
+     "hora": "07:23:48",
+     "evento": "Entrada en el circuito de vía de la vía 11"
+    },
+    {
+     "hora": "07:24:15",
+     "evento": "Tren queda totalmente dentro del circuito de vía 11"
+    },
+    {
+     "hora": "07:24:21",
+     "evento": "COLISIÓN con la topera del final de vía 11 a 28 km/h; segundo bogie descarrila; tocón catenaria; cortocircuito"
+    },
+    {
+     "hora": "07:24:24",
+     "evento": "Tren detenido, empotrado en la topera"
+    },
+    {
+     "hora": "07:27",
+     "evento": "Puesto de Mando avisa a servicios de emergencia (112)"
+    },
+    {
+     "hora": "07:30",
+     "evento": "112 Cataluña recibe aviso; movilización de emergencias"
+    },
+    {
+     "hora": "07:46",
+     "evento": "Adif notifica oficialmente el accidente a la CIAF (SMS)"
+    },
+    {
+     "hora": "09:35",
+     "evento": "Reunión informativa con autoridades (Alcaldesa, President Generalitat, Conseller Interior, Delegado Gobierno)"
+    },
+    {
+     "hora": "09:40",
+     "evento": "Finalizadas tareas de evacuación de heridos"
+    },
+    {
+     "hora": "09:47",
+     "evento": "Llegada del camión taller de Renfe Integria a vía 11"
+    },
+    {
+     "hora": "13:17",
+     "evento": "Estacionamiento de locomotora 253012 en vía 12 para apoyo de encarrilamiento"
+    },
+    {
+     "hora": "14:42",
+     "evento": "Inicio de trabajos de encarrilamiento"
+    },
+    {
+     "hora": "16:42",
+     "evento": "Tren encarrilado y separado de la topera"
+    },
+    {
+     "hora": "17:22",
+     "evento": "Inicio de retirada de la composición accidentada"
+    },
+    {
+     "hora": "17:50",
+     "evento": "Unidad accidentada estacionada en vía 19"
+    },
+    {
+     "hora": "18:56",
+     "evento": "Vía 11 dada por apta; final de la intercepción"
+    },
+    {
+     "hora": "20:22",
+     "evento": "Desacoplamiento de las dos unidades de la composición"
+    },
+    {
+     "hora": "20:35",
+     "evento": "Unidad 465 265 estacionada en vía 16"
+    },
+    {
+     "hora": "23:22",
+     "evento": "Unidad 465 265 remolcada hacia Base de Mantenimiento de Montcada Bifurcació"
+    },
+    {
+     "hora": "00:09",
+     "evento": "Llegada del material remolcado a talleres"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0035/2017",
+ "expediente": "0035/17",
+ "anio": 2017,
+ "titulo": "Colisión de tren contra topera en la estación de França (Barcelona) por pérdida de consciencia del maquinista",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/191217-280717-if-sn_ciaf.md"
+}

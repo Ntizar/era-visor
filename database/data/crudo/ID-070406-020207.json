@@ -1,0 +1,900 @@
+{
+ "id": "ID-070406-020207",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-070406-020207.pdf",
+ "pdf": "pdfs/ES/ID-070406-020207.pdf",
+ "md5_pdf": "67b10e2c8a1cd81778bd3031cbe44758",
+ "paginas_md": 6,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 13,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0016/2006",
+   "pagina": 1,
+   "cita": "Nº 0016/2006 OCURRIDO EL DÍA 07.04.2006 ID-070406-020207 Pág. 1 de 6 ## Página 2 Investigación del accidente nº 16/2006 ocurrido el 07.04.2006 SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 07.04.2006, a las 22:55, el tren de Larga Distancia nº 15196 de Renfe arrolló a un joven de 15 años a unos 230 metros del paso a nivel de la estación de Villena (PK 395,415, línea Madrid-Alicante). La víctima falleció y no se produjeron daños materiales, aunque hubo un retraso de 105 minutos. El informe atribuye el accidente a la imprudencia del peatón, que caminaba por la banqueta con auriculares, y señala como causa coadyuvante el mal estado del vallado, con roturas que permiten pasos viciosos. Se recomienda reparar y reforzar el cerramiento con un vallado perimetral.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2006-04-07",
+    "hora": "22:55",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Villena",
+     "pk": "395,415",
+     "linea": "Madrid-Alicante",
+     "provincia": "Alicante",
+     "descripcion_lugar": "Entrada de la estación de Villena, en el casco urbano, a unos 230 metros del paso a nivel (PK 325,615). Vía en recta con buena visibilidad diurna, reducida por la nocturnidad. Lado izquierdo con viviendas y recinto ferial (3 pasos viciosos) y lado del arrollamiento con cerramiento de 230 metros, lugar de reunión frecuente de jóvenes."
+    }
+   },
+   "pagina": 2,
+   "cita": "mismo, a unos 230 metros del paso a nivel de la estación de Villena, en el punto kilométrico",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "Retraso de 105 minutos en un tren de viajeros de Larga Distancia; marcha del tren no autorizada hasta las 00:38"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Imprudencia de la víctima, que transitaba por lugar no permitido (banqueta de la vía) y no se percató de la llegada del tren",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima caminaba con auriculares de un MP3, que posiblemente le impidieron oír el silbato de la locomotora",
+    "Falta de conservación del vallado existente, con roturas y agujeros que permiten el acceso de personas a la vía",
+    "Existencia de pasos viciosos y de un lugar de reunión frecuente de jóvenes junto a la vía",
+    "Reducción de la visibilidad por la nocturnidad"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Deficiente conservación del cerramiento/vallado en el tramo urbano de Villena, con múltiples pasos irregulares"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Proceder a la reparación del vallado actual, reforzándolo en las zonas de mayor tránsito mediante la ejecución de un vallado perimetral que aumente la seguridad",
+     "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Proceder a la reparación del vallado actual, reforzándolo en las zonas de mayor tránsito mediante la ejecución de un vallado perimetral que aumente la seguridad",
+     "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "grave",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó que se había producido el arrollamiento de un joven resultando fallecido el",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2006-04-07",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "22:55",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:hora"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Villena",
+    "pk": "395,415",
+    "linea": "Madrid-Alicante",
+    "provincia": "Alicante",
+    "descripcion_lugar": "Entrada de la estación de Villena, en el casco urbano, a unos 230 metros del paso a nivel (PK 325,615). Vía en recta con buena visibilidad diurna, reducida por la nocturnidad. Lado izquierdo con viviendas y recinto ferial (3 pasos viciosos) y lado del arrollamiento con cerramiento de 230 metros, lugar de reunión frecuente de jóvenes."
+   },
+   "pagina": 2,
+   "cita": "mismo, a unos 230 metros del paso a nivel de la estación de Villena, en el punto kilométrico",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Madrid-Alicante",
+   "pagina": 2,
+   "cita": "395,415 de la Línea Madrid-Alicante, en la provincia de Alicante, perteneciente a la Red",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 252035 y 18 vehículos, masa remolcada 312 Tm",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de Larga Distancia nº 15196 de Renfe, compuesto por la locomotora 252035 y 18 vehículos con masa remolcada de 312 Tm, se aproximaba a la estación de Villena por la línea Madrid-Alicante. A la altura de la señal de entrada E-2, unos 230 metros antes del paso a nivel de la estación y en el PK 395,415, el tren detuvo su marcha a las 22:55 tras arrollar a un joven que se encontraba en las proximidades de la vía. El tren, con parada prescrita en Villena, circulaba a 85 km/h sobre una velocidad máxima de 160 km/h, en vía única electrificada y en traza recta.\n\nSegún el parte del maquinista, al aproximarse al PK 395,400 vio a una persona de pie sobre el balasto de la bancada de la vía, cerca del carril derecho, por lo que usó el silbato varias veces y accionó el freno de emergencia, oyendo al pasar un golpe en la locomotora. La víctima era un varón de 15 años que, según el informe particular de Adif, caminaba por la banqueta de la vía con un reproductor MP3 y auriculares, en compañía de otras cuatro personas que sí se retiraron de la vía.\n\nTras el arrollamiento, el maquinista informó al jefe del CCR, que comunicó el suceso al Puesto de Mando de Valencia, cursándose el Plan de Emergencia Interior. Agentes de Adif tomaron datos y el cadáver quedó custodiado por la Policía Local. El servicio sanitario llegó a las 23:15 y notificó el fallecimiento a las 23:30; la Autoridad Judicial se personó a las 23:55 y no autorizó reanudar la marcha hasta las 00:38. No se pudo realizar la prueba de alcoholemia al maquinista por no haber agentes en el territorio, y al día siguiente se consideró que no aportaría nada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Villena",
+    "pk": "395,415",
+    "linea": "Madrid-Alicante",
+    "provincia": "Alicante",
+    "descripcion_lugar": "Entrada de la estación de Villena, en el casco urbano, a unos 230 metros del paso a nivel (PK 325,615). Vía en recta con buena visibilidad diurna, reducida por la nocturnidad. Lado izquierdo con viviendas y recinto ferial (3 pasos viciosos) y lado del arrollamiento con cerramiento de 230 metros, lugar de reunión frecuente de jóvenes."
+   },
+   "pagina": 2,
+   "cita": "mismo, a unos 230 metros del paso a nivel de la estación de Villena, en el punto kilométrico",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "Retraso de 105 minutos en un tren de viajeros de Larga Distancia; marcha del tren no autorizada hasta las 00:38"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "El maquinista informó al jefe del CCR que a su vez comunicó el suceso al Puesto de Mando \nde Valencia que cursó el Plan de Emergencia Interior. \n \nAgentes de Adif se personaron en el lugar del accidente procediendo a la toma de datos, \nquedando el cadáver custodiado por la Policía Local.  \nNo se pudo realizar la prueba de alcoholemia al maquinista debido a no existir ningún \nagente en el territorio. Al recabar al día siguiente el registro de dicho control, se consideró \nque no aportaría nada dicha prueba, por lo que no se realizó. \nA las 23 horas y 15 minutos llegó el servicio sanitario, que notificó el fallecimiento del joven \na las 23 horas y 30 minutos. \n \n A las 23 horas y 55 minutos se personó la Autoridad Judicial, no autorizando a reanudar la \nmarcha del tren hasta las 00:38h.",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 15196",
+     "implicacion": "Vio a la persona sobre el balasto, usó el silbato varias veces y accionó el freno de emergencia; no se pudo realizarle prueba de alcoholemia"
+    }
+   ],
+   "pagina": 3,
+   "cita": "-  El maquinista del tren 15196.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "15196",
+     "tipo": "Larga Distancia",
+     "operador": "Renfe",
+     "danos": "No se produjeron daños"
+    }
+   ],
+   "pagina": 2,
+   "cita": "El Tren Larga Distancia nº 15196 de la empresa ferroviaria Renfe, compuesto por la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 252035 y 18 vehículos, masa remolcada 312 Tm",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E-2 de la estación de Villena; paso a nivel de la estación en el PK 325,615",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Tramo en recta con buena visibilidad en ambos sentidos en condiciones diurnas; a la hora del suceso la nocturnidad disminuye la visibilidad",
+    "otro": "Bloqueo Automático de vía única con CTC. Vallado metálico en ambas márgenes en defectuoso estado de conservación, con roturas y agujeros que permiten pasos viciosos. Cerramiento de 465 m en un lado y 230 m en el lado del arrollamiento."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático de vía única con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de entrada E-2 de la estación de Villena; paso a nivel de la estación en el PK 325,615",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "Retraso de 105 minutos en un tren de viajeros de Larga Distancia; marcha del tren no autorizada hasta las 00:38"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "Retraso de 105 minutos en un tren de viajeros de Larga Distancia; marcha del tren no autorizada hasta las 00:38"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "Retraso de 105 minutos en un tren de viajeros de Larga Distancia; marcha del tren no autorizada hasta las 00:38"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252035 y 18 vehículos, masa remolcada 312 Tm",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E-2 de la estación de Villena; paso a nivel de la estación en el PK 325,615",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Tramo en recta con buena visibilidad en ambos sentidos en condiciones diurnas; a la hora del suceso la nocturnidad disminuye la visibilidad",
+    "otro": "Bloqueo Automático de vía única con CTC. Vallado metálico en ambas márgenes en defectuoso estado de conservación, con roturas y agujeros que permiten pasos viciosos. Cerramiento de 465 m en un lado y 230 m en el lado del arrollamiento."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático de vía única con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Alicante",
+    "municipio": null,
+    "estacion": "Villena"
+   },
+   "pagina": 2,
+   "cita": "395,415 de la Línea Madrid-Alicante, en la provincia de Alicante, perteneciente a la Red",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de entrada E-2 de la estación de Villena; paso a nivel de la estación en el PK 325,615",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E-2 de la estación de Villena; paso a nivel de la estación en el PK 325,615",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "160 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": "Tramo en recta con buena visibilidad en ambos sentidos en condiciones diurnas; a la hora del suceso la nocturnidad disminuye la visibilidad",
+    "otro": "Bloqueo Automático de vía única con CTC. Vallado metálico en ambas márgenes en defectuoso estado de conservación, con roturas y agujeros que permiten pasos viciosos. Cerramiento de 465 m en un lado y 230 m en el lado del arrollamiento."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático de vía única con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252035 y 18 vehículos, masa remolcada 312 Tm",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Vallado en mal estado con roturas",
+    "Acceso irregular de peatones a vía",
+    "Uso de auriculares por la víctima",
+    "Circulación nocturna con menor visibilidad"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de Larga Distancia nº 15196 de Renfe, compuesto por la locomotora 252035 y 18 vehículos con masa remolcada de 312 Tm, se aproximaba a la estación de Villena por la línea Madrid-Alicante. A la altura de la señal de entrada E-2, unos 230 metros antes del paso a nivel de la estación y en el PK 395,415, el tren detuvo su marcha a las 22:55 tras arrollar a un joven que se encontraba en las proximidades de la vía. El tren, con parada prescrita en Villena, circulaba a 85 km/h sobre una velocidad máxima de 160 km/h, en vía única electrificada y en traza recta.\n\nSegún el parte del maquinista, al aproximarse al PK 395,400 vio a una persona de pie sobre el balasto de la bancada de la vía, cerca del carril derecho, por lo que usó el silbato varias veces y accionó el freno de emergencia, oyendo al pasar un golpe en la locomotora. La víctima era un varón de 15 años que, según el informe particular de Adif, caminaba por la banqueta de la vía con un reproductor MP3 y auriculares, en compañía de otras cuatro personas que sí se retiraron de la vía.\n\nTras el arrollamiento, el maquinista informó al jefe del CCR, que comunicó el suceso al Puesto de Mando de Valencia, cursándose el Plan de Emergencia Interior. Agentes de Adif tomaron datos y el cadáver quedó custodiado por la Policía Local. El servicio sanitario llegó a las 23:15 y notificó el fallecimiento a las 23:30; la Autoridad Judicial se personó a las 23:55 y no autorizó reanudar la marcha hasta las 00:38. No se pudo realizar la prueba de alcoholemia al maquinista por no haber agentes en el territorio, y al día siguiente se consideró que no aportaría nada.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "PARTICULARES DEL ADMINISTRADOR DE LA INFRAESTRUCTURA Y DE LA \nEMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nAdif : “Se estima imprudencia de la víctima  que fue arrollada al transitar por lugar no \npermitido y no percatarse de la llegada del tren”. \n,\n \n \nt\nt\nr\n,\n, \nt r\nt\nr\nRenfe: “El lugar donde ocurrió el accidente no es un pun o autorizado para el tránsito de \npersonas, ni existe paso a nivel, ni paso de peatones, estando vallado el lado izquierdo de la \nvía en el sentido de la marcha del tren (lado población), pero con ro uras que permiten el \nacceso de personas a la vía. \nA lo largo del tramo vallado existen varios puntos con agujeros que pe miten el tránsito de \npersonas y son utilizados como pasos viciosos para cruzar o transitar la vía. \nSe estima que la causa del accidente fue por imprudencia de la persona arrollada, la cuál \ncaminaba en unión de otras cuatro personas por la banqueta de la vía, próxima al carril \nderecho en el sentido de la marcha del tren y de espaldas a éste  con auriculares en los oídos\nque posiblemente le impidieran escuchar el silbato de la locomo o a que insistentemen e \naccionaba el Maquinista, por lo que no se percató de la presencia del tren y por lo tanto no se \nretiró de la vía, como así hicieron los otros cuatro miemb os del grupo. \nNo obstante, se considera como causa coadyuvante la falta de conservación del vallado \nexistente, en la cuál existen varios puntos con agujeros que permiten el acceso a la vía. \nComo se puede observar son coincidentes ambas conclusiones entre sí, y consistentes con \nlos datos recogidos por el Administrador de la infraestructura.",
+   "pagina": 5,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES INCLUIDAS EN LOS INFORMES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Imprudencia de la víctima, que transitaba por lugar no permitido (banqueta de la vía) y no se percató de la llegada del tren",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima caminaba con auriculares de un MP3, que posiblemente le impidieron oír el silbato de la locomotora",
+    "Falta de conservación del vallado existente, con roturas y agujeros que permiten el acceso de personas a la vía",
+    "Existencia de pasos viciosos y de un lugar de reunión frecuente de jóvenes junto a la vía",
+    "Reducción de la visibilidad por la nocturnidad"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "De acuerdo con lo expresado en el párrafo anterior, todos los datos disponibles apuntan \nque la víctima fue arrollada por el tren nº15196 al transitar por la vía o cruzar la misma \nindebidamente.",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES De acuerdo con lo expresado en el párrafo anterior, todos los datos disponibles apuntan que la víctima fue arrollada por el tren nº15196 al transitar por la vía o cruzar la misma indebidamente. 7. REC",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "De acuerdo con lo expresado en el párrafo anterior, todos los datos disponibles apuntan \nque la víctima fue arrollada por el tren nº15196 al transitar por la vía o cruzar la misma \nindebidamente.",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES De acuerdo con lo expresado en el párrafo anterior, todos los datos disponibles apuntan que la víctima fue arrollada por el tren nº15196 al transitar por la vía o cruzar la misma indebidamente. 7. REC",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "El maquinista informó al jefe del CCR que a su vez comunicó el suceso al Puesto de Mando \nde Valencia que cursó el Plan de Emergencia Interior. \n \nAgentes de Adif se personaron en el lugar del accidente procediendo a la toma de datos, \nquedando el cadáver custodiado por la Policía Local.  \nNo se pudo realizar la prueba de alcoholemia al maquinista debido a no existir ningún \nagente en el territorio. Al recabar al día siguiente el registro de dicho control, se consideró \nque no aportaría nada dicha prueba, por lo que no se realizó. \nA las 23 horas y 15 minutos llegó el servicio sanitario, que notificó el fallecimiento del joven \na las 23 horas y 30 minutos. \n \n A las 23 horas y 55 minutos se personó la Autoridad Judicial, no autorizando a reanudar la \nmarcha del tren hasta las 00:38h.",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "El maquinista informó al jefe del CCR que a su vez comunicó el suceso al Puesto de Mando \nde Valencia que cursó el Plan de Emergencia Interior. \n \nAgentes de Adif se personaron en el lugar del accidente procediendo a la toma de datos, \nquedando el cadáver custodiado por la Policía Local.  \nNo se pudo realizar la prueba de alcoholemia al maquinista debido a no existir ningún \nagente en el territorio. Al recabar al día siguiente el registro de dicho control, se consideró \nque no aportaría nada dicha prueba, por lo que no se realizó. \nA las 23 horas y 15 minutos llegó el servicio sanitario, que notificó el fallecimiento del joven \na las 23 horas y 30 minutos. \n \n A las 23 horas y 55 minutos se personó la Autoridad Judicial, no autorizando a reanudar la \nmarcha del tren hasta las 00:38h.",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "El maquinista informó al jefe del CCR que a su vez comunicó el suceso al Puesto de Mando \nde Valencia que cursó el Plan de Emergencia Interior. \n \nAgentes de Adif se personaron en el lugar del accidente procediendo a la toma de datos, \nquedando el cadáver custodiado por la Policía Local.  \nNo se pudo realizar la prueba de alcoholemia al maquinista debido a no existir ningún \nagente en el territorio. Al recabar al día siguiente el registro de dicho control, se consideró \nque no aportaría nada dicha prueba, por lo que no se realizó. \nA las 23 horas y 15 minutos llegó el servicio sanitario, que notificó el fallecimiento del joven \na las 23 horas y 30 minutos. \n \n A las 23 horas y 55 minutos se personó la Autoridad Judicial, no autorizando a reanudar la \nmarcha del tren hasta las 00:38h.",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Proceder a la reparación del vallado actual, reforzándolo en las zonas de mayor tránsito mediante la ejecución de un vallado perimetral que aumente la seguridad",
+     "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "22:55",
+     "evento": "El tren LD 15196 arrolla al joven y detiene su marcha en el PK 395,415"
+    },
+    {
+     "hora": "23:15",
+     "evento": "Llega el servicio sanitario"
+    },
+    {
+     "hora": "23:30",
+     "evento": "Notificación del fallecimiento del joven"
+    },
+    {
+     "hora": "23:55",
+     "evento": "Se persona la Autoridad Judicial"
+    },
+    {
+     "hora": "00:38",
+     "evento": "Autorización para reanudar la marcha del tren"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0016/2006",
+ "expediente": "0016/2006",
+ "anio": 2006,
+ "titulo": "Arrollamiento mortal de un joven por tren LD en Villena (Alicante)",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-070406-020207.md"
+}

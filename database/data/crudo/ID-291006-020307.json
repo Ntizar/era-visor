@@ -1,0 +1,902 @@
+{
+ "id": "ID-291006-020307",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-291006-020307.pdf",
+ "pdf": "pdfs/ES/ID-291006-020307.pdf",
+ "md5_pdf": "1e481aa31ea09cb2c3698c6b6f2e211c",
+ "paginas_md": 5,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 14,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0043/2006",
+   "pagina": 1,
+   "cita": "Nº 0043/2006 OCURRIDO EL DÍA 29.10.2006 ID-291006-020307 Pág. 1 de 5 ## Página 2 Investigación del accidente nº 43/2006 ocurrido el 29.10.2006 SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 29 de octubre de 2006, el tren de Media Distancia 4416 de Renfe arrolló a una persona en el punto kilométrico 54,100 de la línea Xátiva-Alcoy, entre Agres y Cocentaina. La víctima, un varón de 59 años, invadió la vía para retirar a un perro cuando el tren salía de una curva. El hombre falleció en el acto y no se produjeron daños materiales. La circulación quedó interrumpida 82 minutos y se acumuló un retraso de 286 minutos en cuatro trenes de Media Distancia.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2006-10-29",
+    "hora": "18:30",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "54,100",
+     "linea": "Xátiva-Alcoy",
+     "provincia": "Alicante",
+     "descripcion_lugar": "Plena vía, a la salida de una curva y a 15 metros de un tramo metálico, no autorizado como paso; entorno rural del término municipal de Muro de Alcoy, al final del camino Racó de Roca, con viviendas aisladas, zona frecuentada por cazadores y densa vegetación."
+    }
+   },
+   "pagina": 4,
+   "cita": "Del informe de incidencias elaborado por el maquinista a 29 de octubre de 2006 se extracta",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Circulación interrumpida 82 minutos; retraso acumulado de 286 minutos en cuatro trenes de Media Distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Imprudencia de la víctima, que invadió la vía para retirar a un perro ante la proximidad del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Falta de vallado que impida u obstaculice el acceso a la vía.",
+    "Escasa visibilidad por tratarse de un tramo recto de 50 metros a la salida de una curva.",
+    "Densa vegetación en ambos márgenes de la línea.",
+    "Zona rural con viviendas aisladas y frecuentada por cazadores.",
+    "Presencia de un perro en la caja de la vía."
+   ],
+   "pagina": 4,
+   "cita": "población, encontrando una densa vegetación en ambos márgenes de la línea.",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Fomentar campañas de concienciación destinadas a la población sobre el peligro que supone el tránsito indebido y por lugares no autorizados dentro de las líneas de ferrocarril.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Fomentar campañas de concienciación destinadas a la población sobre el peligro que supone el tránsito indebido y por lugares no autorizados dentro de las líneas de ferrocarril.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento de una persona",
+   "pagina": 2,
+   "cita": "(Adif), comunicó que se había producido el arrollamiento de una persona resultando fallecida",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó que se había producido el arrollamiento de una persona resultando fallecida",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2006-10-29",
+   "pagina": 4,
+   "cita": "Del informe de incidencias elaborado por el maquinista a 29 de octubre de 2006 se extracta",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "18:30",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:hora"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "54,100",
+    "linea": "Xátiva-Alcoy",
+    "provincia": "Alicante",
+    "descripcion_lugar": "Plena vía, a la salida de una curva y a 15 metros de un tramo metálico, no autorizado como paso; entorno rural del término municipal de Muro de Alcoy, al final del camino Racó de Roca, con viviendas aisladas, zona frecuentada por cazadores y densa vegetación."
+   },
+   "pagina": 2,
+   "cita": "18 horas y 20 minutos en el punto kilométrico 54,100 de la línea Xátiva-Alcoy, a la salida de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Xativa-Alcoy",
+   "pagina": 2,
+   "cita": "Línea Xativa-Alcoy, en la provincia de Alicante, perteneciente a la Red Ferroviaria de Interés",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Motor 592.013; tren compuesto por tres vehículos, masa remolcada 137 toneladas",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de Media Distancia nº 4416, de Renfe, compuesto por tres vehículos, con masa remolcada de 137 toneladas y motor 592.013, se detuvo a las 18:20 en el pk 54,100 de la línea Xátiva-Alcoy, a la salida de una curva, tras arrollar a una persona que falleció en el acto.\n\nLa víctima vestía indumentaria de cazador e invadió la vía para retirar a un perro; al hacerlo, el tren la golpeó y el cadáver quedó fuera de la caja de la vía. Según el informe del maquinista, vio primero un perro en la caja de la vía, hizo uso del silbato y después observó a una persona que entraba por la derecha para sacarlo, accionó el freno de emergencia y volvió a usar el silbato; la persona y el perro salieron, pero el perro regresó y la persona volvió a entrar, llegando a tenerlo en brazos, sin tiempo para salir.\n\nLa víctima era un varón de 59 años. No se produjeron daños materiales y el maquinista arrojó resultado negativo en la prueba de alcoholemia.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "54,100",
+    "linea": "Xátiva-Alcoy",
+    "provincia": "Alicante",
+    "descripcion_lugar": "Plena vía, a la salida de una curva y a 15 metros de un tramo metálico, no autorizado como paso; entorno rural del término municipal de Muro de Alcoy, al final del camino Racó de Roca, con viviendas aisladas, zona frecuentada por cazadores y densa vegetación."
+   },
+   "pagina": 2,
+   "cita": "18 horas y 20 minutos en el punto kilométrico 54,100 de la línea Xátiva-Alcoy, a la salida de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Circulación interrumpida 82 minutos; retraso acumulado de 286 minutos en cuatro trenes de Media Distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "El maquinista informó del suceso al Puesto de Mando que cursó aviso a los Operadores \nafectados y al CPS de Valencia que a su vez alertó a los servicios de emergencia. \n \nAgentes de Adif se personaron en el lugar del accidente procediendo a la toma de datos del \naccidente y realización de la prueba de control de alcoholemia al maquinista.  \nSe realizó la prueba de control de alcoholemia al maquinista en Valencia a las 21 horas y 45 \nminutos con resultado negativo (0,00mg/1000ml.). \nA las 18 horas y 40 minutos se personaron agentes de la Guardia Civil, seguidamente a las",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista principal del tren 4416",
+     "implicacion": "Informó del suceso al Puesto de Mando, usó silbato y freno de emergencia; prueba de alcoholemia negativa y condiciones aptas."
+    },
+    {
+     "rol": "víctima / persona arrollada",
+     "implicacion": "Varón de 59 años, con indumentaria de cazador, invadió la vía para retirar a un perro y falleció en el acto."
+    }
+   ],
+   "pagina": 3,
+   "cita": "-  El maquinista principal del tren 4416.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "4416",
+     "tipo": "Media Distancia",
+     "operador": "Renfe",
+     "danos": "No se produjeron daños materiales."
+    }
+   ],
+   "pagina": 2,
+   "cita": "Tren de Media Distancia nº 4416, de la empresa ferroviaria Renfe, compuesto por tres",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Motor 592.013; tren compuesto por tres vehículos, masa remolcada 137 toneladas",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": null,
+    "tipo_via": "Vía única, sin electrificar, con bloqueo telefónico",
+    "velocidad_maxima": "70 km/h en el trayecto Cocentaina-Agres",
+    "ancho": null,
+    "electrificacion": "Sin electrificar",
+    "estado_via": "Tramo recto de 50 metros a la salida de una curva, con densa vegetación en ambos márgenes y escasa visibilidad; lugar no autorizado de paso",
+    "otro": "Bloqueo telefónico; entorno rural, camino Racó de Roca, zona frecuentada por cazadores"
+   },
+   "pagina": 4,
+   "cita": "una velocidad de 55 Km/h, siendo la velocidad máxima de 70 Km/h en el trayecto",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Circulación interrumpida 82 minutos; retraso acumulado de 286 minutos en cuatro trenes de Media Distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Circulación interrumpida 82 minutos; retraso acumulado de 286 minutos en cuatro trenes de Media Distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Circulación interrumpida 82 minutos; retraso acumulado de 286 minutos en cuatro trenes de Media Distancia."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Motor 592.013; tren compuesto por tres vehículos, masa remolcada 137 toneladas",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": null,
+    "tipo_via": "Vía única, sin electrificar, con bloqueo telefónico",
+    "velocidad_maxima": "70 km/h en el trayecto Cocentaina-Agres",
+    "ancho": null,
+    "electrificacion": "Sin electrificar",
+    "estado_via": "Tramo recto de 50 metros a la salida de una curva, con densa vegetación en ambos márgenes y escasa visibilidad; lugar no autorizado de paso",
+    "otro": "Bloqueo telefónico; entorno rural, camino Racó de Roca, zona frecuentada por cazadores"
+   },
+   "pagina": 4,
+   "cita": "una velocidad de 55 Km/h, siendo la velocidad máxima de 70 Km/h en el trayecto",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Alicante",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 2,
+   "cita": "Línea Xativa-Alcoy, en la provincia de Alicante, perteneciente a la Red Ferroviaria de Interés",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": null,
+    "tipo_via": "Vía única, sin electrificar, con bloqueo telefónico",
+    "velocidad_maxima": "70 km/h en el trayecto Cocentaina-Agres",
+    "ancho": null,
+    "electrificacion": "Sin electrificar",
+    "estado_via": "Tramo recto de 50 metros a la salida de una curva, con densa vegetación en ambos márgenes y escasa visibilidad; lugar no autorizado de paso",
+    "otro": "Bloqueo telefónico; entorno rural, camino Racó de Roca, zona frecuentada por cazadores"
+   },
+   "pagina": 4,
+   "cita": "una velocidad de 55 Km/h, siendo la velocidad máxima de 70 Km/h en el trayecto",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Motor 592.013; tren compuesto por tres vehículos, masa remolcada 137 toneladas",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Invadió la vía para retirar perro",
+    "Perro entró en caja de vía",
+    "Falta de vallado en la línea",
+    "No había paso autorizado"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de Media Distancia nº 4416, de Renfe, compuesto por tres vehículos, con masa remolcada de 137 toneladas y motor 592.013, se detuvo a las 18:20 en el pk 54,100 de la línea Xátiva-Alcoy, a la salida de una curva, tras arrollar a una persona que falleció en el acto.\n\nLa víctima vestía indumentaria de cazador e invadió la vía para retirar a un perro; al hacerlo, el tren la golpeó y el cadáver quedó fuera de la caja de la vía. Según el informe del maquinista, vio primero un perro en la caja de la vía, hizo uso del silbato y después observó a una persona que entraba por la derecha para sacarlo, accionó el freno de emergencia y volvió a usar el silbato; la persona y el perro salieron, pero el perro regresó y la persona volvió a entrar, llegando a tenerlo en brazos, sin tiempo para salir.\n\nLa víctima era un varón de 59 años. No se produjeron daños materiales y el maquinista arrojó resultado negativo en la prueba de alcoholemia.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "PARTICULARES DEL ADMINISTRADOR DE LA INFRAESTRUCTURA Y DE LA \nEMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nAdif : “Se estima que la víctima fue arrollada al invadir la vía imprudentemen e, ante la \nproximidad del tren, pa a retirar al perro.” \n \n \n \nID-291006-020307 \n \n \nPág. 4 de 5\n\n## Página 5\n\n \nInvestigación del accidente \nnº 43/2006 ocurrido el 29.10.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \n Informe definitivo \nRenfe: “La causa del accidente fue por imprudencia de la persona arrollada, la cual se \nintrodujo en la caja de la vía cuando el tren es aba llegando a su altura, ya que el tren salía \nde una curva y el maquinista vió en la vía un perro y a con inuación una pe sona que \nentraba en la vía y sacaba al perro e inmedia amente el perro volvió a entrar en la vía y la \npersona detrás, procediendo inmediatamente a acciona  el freno de emergencia y \nsimultáneamente hacer uso del silbato, pero debido a la escasa distancia no pudo evitar el \nacciden e. No obstante se considera como causa coadyuvan e la falta de vallado que impida \no al menos obstaculice el acceso a la vía”. \nt\nt\nr\nt\nr\nt\nt\n \nSiendo coincidentes ambas conclusiones entre sí, y consistentes con los datos recogidos por \nel Administrador de la infraestructura.",
+   "pagina": 4,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES INCLUIDAS EN LOS INFORMES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Imprudencia de la víctima, que invadió la vía para retirar a un perro ante la proximidad del tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Falta de vallado que impida u obstaculice el acceso a la vía.",
+    "Escasa visibilidad por tratarse de un tramo recto de 50 metros a la salida de una curva.",
+    "Densa vegetación en ambos márgenes de la línea.",
+    "Zona rural con viviendas aisladas y frecuentada por cazadores.",
+    "Presencia de un perro en la caja de la vía."
+   ],
+   "pagina": 4,
+   "cita": "población, encontrando una densa vegetación en ambos márgenes de la línea.",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "A la vista de los datos aportados, la causa del accidente fue la impudencia de la víctima \nque fue arrollado por el tren nº4416 cuando se encontraba dentro de la caja de la vía.",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES A la vista de los datos aportados, la causa del accidente fue la impudencia de la víctima que fue arrollado por el tren nº4416 cuando se encontraba dentro de la caja de la vía. 7. RECOMENDACIONES",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "A la vista de los datos aportados, la causa del accidente fue la impudencia de la víctima \nque fue arrollado por el tren nº4416 cuando se encontraba dentro de la caja de la vía.",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES A la vista de los datos aportados, la causa del accidente fue la impudencia de la víctima que fue arrollado por el tren nº4416 cuando se encontraba dentro de la caja de la vía. 7. RECOMENDACIONES",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "El maquinista informó del suceso al Puesto de Mando que cursó aviso a los Operadores \nafectados y al CPS de Valencia que a su vez alertó a los servicios de emergencia. \n \nAgentes de Adif se personaron en el lugar del accidente procediendo a la toma de datos del \naccidente y realización de la prueba de control de alcoholemia al maquinista.  \nSe realizó la prueba de control de alcoholemia al maquinista en Valencia a las 21 horas y 45 \nminutos con resultado negativo (0,00mg/1000ml.). \nA las 18 horas y 40 minutos se personaron agentes de la Guardia Civil, seguidamente a las",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "El maquinista informó del suceso al Puesto de Mando que cursó aviso a los Operadores \nafectados y al CPS de Valencia que a su vez alertó a los servicios de emergencia. \n \nAgentes de Adif se personaron en el lugar del accidente procediendo a la toma de datos del \naccidente y realización de la prueba de control de alcoholemia al maquinista.  \nSe realizó la prueba de control de alcoholemia al maquinista en Valencia a las 21 horas y 45 \nminutos con resultado negativo (0,00mg/1000ml.). \nA las 18 horas y 40 minutos se personaron agentes de la Guardia Civil, seguidamente a las",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "El maquinista informó del suceso al Puesto de Mando que cursó aviso a los Operadores \nafectados y al CPS de Valencia que a su vez alertó a los servicios de emergencia. \n \nAgentes de Adif se personaron en el lugar del accidente procediendo a la toma de datos del \naccidente y realización de la prueba de control de alcoholemia al maquinista.  \nSe realizó la prueba de control de alcoholemia al maquinista en Valencia a las 21 horas y 45 \nminutos con resultado negativo (0,00mg/1000ml.). \nA las 18 horas y 40 minutos se personaron agentes de la Guardia Civil, seguidamente a las",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Fomentar campañas de concienciación destinadas a la población sobre el peligro que supone el tránsito indebido y por lugares no autorizados dentro de las líneas de ferrocarril.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "18:20",
+     "evento": "El tren 4416 detuvo su marcha en el pk 54,100 tras arrollar a una persona."
+    },
+    {
+     "hora": "18:30",
+     "evento": "Hora de ocurrencia indicada en el informe."
+    },
+    {
+     "hora": "18:40",
+     "evento": "Se personaron agentes de la Guardia Civil."
+    },
+    {
+     "hora": "18:45",
+     "evento": "Se personaron agentes de la Policía Local y ambulancia."
+    },
+    {
+     "hora": "19:25",
+     "evento": "Se autorizó al tren 4416 a reanudar la marcha."
+    },
+    {
+     "hora": "21:45",
+     "evento": "Prueba de alcoholemia al maquinista en Valencia; resultado negativo (0,00 mg/1000 ml)."
+    },
+    {
+     "hora": "21:55",
+     "evento": "El forense autorizó el levantamiento del cadáver."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0043/2006",
+ "expediente": "0043/2006",
+ "anio": 2006,
+ "titulo": "Arrollamiento de una persona en la línea Xativa-Alcoy, entre Agres y Cocentaina (Alicante)",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-291006-020307.md"
+}

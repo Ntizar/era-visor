@@ -1,0 +1,890 @@
+{
+ "id": "ID-180406-020207",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-180406-020207.pdf",
+ "pdf": "pdfs/ES/ID-180406-020207.pdf",
+ "md5_pdf": "9c38b911d1aa6eaa73fa356fc85528a3",
+ "paginas_md": 5,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 10,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0017/2006",
+   "pagina": 1,
+   "cita": "Nº 0017/2006 OCURRIDO EL DÍA 18.04.2006 ID-180406-020207 Pág. 1 de 5 ## Página 2 Investigación del accidente nº 17/2006 ocurrido el 18.04.2006 SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y PLANIFICACIÓN",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 18 de abril de 2006, a las 17:16, el tren de Grandes Líneas nº 270 de Renfe, con origen Madrid y destino Almería, arrolló a un peatón varón de 49 años en plena vía en el pk 9,900 de la Línea 300 Madrid Atocha-Valencia Nord, entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial (Madrid). La víctima falleció en el acto. El accidente se calificó como grave. Se concluyó que fue causado por imprudencia de la víctima al invadir la vía por un lugar donde el tránsito peatonal está prohibido, existiendo una pasarela elevada en las proximidades. Se recomendó a Adif el mantenimiento del cerramiento perimetral.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2006-04-18",
+    "hora": "17:16",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "9,900",
+     "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Plena vía entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial, a 130 metros de la señal E2 de entrada a la estación de San Cristóbal Industrial. Tramo de cuádruple vía (líneas 300 y 500), protegido por vallado perimetral, con paso peatonal elevado en las proximidades. Municipio de Madrid."
+    }
+   },
+   "pagina": 3,
+   "cita": "Intercepción de vías G4 y G3 de 17:16 a 19:50 horas. A petición del Samur las vías G1 y G2",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños",
+    "afectacion_servicio": "Intercepción de vías G4 y G3 de 17:16 a 19:50; vías G1 y G2 de 17:16 a 18:00 y de 19:32 a 19:50. 655 minutos de retrasos acumulados en trenes de viajeros y 113 minutos en Mercancías."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Tránsito sobre las vías de la víctima (peatón), que invadió la vía por un lugar donde el tránsito peatonal está prohibido (art. 40 del Reglamento del Sector Ferroviario, RD 2387/2004), siendo alcanzada por el tren nº 270.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Imprudencia de la víctima al cruzar la vía por una zona donde el tránsito y el cruce se encuentran prohibidos",
+    "Roturas constatadas en el vallado perimetral que impide el acceso a las vías"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Deficiencias en el mantenimiento del cerramiento perimetral que facilitan el acceso indebido de peatones a la vía"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Dado el elevado tráfico ferroviario de la línea, el Administrador de la infraestructura (Adif) debe mantener el cerramiento perimetral existente en las debidas condiciones.",
+     "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Dado el elevado tráfico ferroviario de la línea, el Administrador de la infraestructura (Adif) debe mantener el cerramiento perimetral existente en las debidas condiciones.",
+     "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento",
+   "pagina": 2,
+   "cita": "había producido el arrollamiento de una persona resultando fallecida la misma, en el punto",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó a través de mensaje de texto de telefonía móvil el pasado 18 de abril, que se",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2006-04-18",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "17:16",
+   "pagina": 3,
+   "cita": "Intercepción de vías G4 y G3 de 17:16 a 19:50 horas. A petición del Samur las vías G1 y G2",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "9,900",
+    "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Plena vía entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial, a 130 metros de la señal E2 de entrada a la estación de San Cristóbal Industrial. Tramo de cuádruple vía (líneas 300 y 500), protegido por vallado perimetral, con paso peatonal elevado en las proximidades. Municipio de Madrid."
+   },
+   "pagina": 2,
+   "cita": "Industrial, de la Línea 300 Madrid Atocha-Valencia Nord, en la provincia de Madrid,",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 300 Madrid Atocha-Valencia Nord",
+   "pagina": 2,
+   "cita": "Industrial, de la Línea 300 Madrid Atocha-Valencia Nord, en la provincia de Madrid,",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 269.602, 17 vehículos, masa remolcada 205 Tm",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de Grandes Líneas nº 270 de Renfe, compuesto por la locomotora 269.602 y 17 vehículos con masa remolcada de 205 Tm, que efectuaba recorrido Madrid-Almería, detuvo su marcha en vía G4 del pk 9,900 de la Línea 300 Madrid Atocha-Valencia Nord, después de rebasar la señal de entrada E2 de la estación de San Cristóbal Industrial, por haber arrollado a una persona que resultó fallecida en el acto. Según el parte del maquinista, observó a una persona andando por la vía contigua en dirección a su vía, que hizo caso omiso al silbato, por lo que aplicó el freno de urgencia siendo imposible evitar el arrollamiento. La víctima era un varón de 49 años. El tren circulaba a 105 km/h siendo la velocidad máxima permitida de 110 km/h. No se produjeron daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "9,900",
+    "linea": "Línea 300 Madrid Atocha-Valencia Nord",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Plena vía entre el apeadero de San Cristóbal de los Ángeles y la estación de San Cristóbal Industrial, a 130 metros de la señal E2 de entrada a la estación de San Cristóbal Industrial. Tramo de cuádruple vía (líneas 300 y 500), protegido por vallado perimetral, con paso peatonal elevado en las proximidades. Municipio de Madrid."
+   },
+   "pagina": 2,
+   "cita": "Industrial, de la Línea 300 Madrid Atocha-Valencia Nord, en la provincia de Madrid,",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños",
+    "afectacion_servicio": "Intercepción de vías G4 y G3 de 17:16 a 19:50; vías G1 y G2 de 17:16 a 18:00 y de 19:32 a 19:50. 655 minutos de retrasos acumulados en trenes de viajeros y 113 minutos en Mercancías."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 270",
+     "implicacion": "Observó a la persona andando por la vía contigua en dirección a su vía, hizo sonar el silbato sin respuesta, aplicó el freno de urgencia sin poder evitar el arrollamiento. Prueba de alcoholemia negativa (0,00 mg/1000ml)."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El maquinista del tren 270.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "270",
+     "tipo": "Grandes Líneas",
+     "operador": "Renfe",
+     "danos": "No se produjeron daños materiales"
+    }
+   ],
+   "pagina": 2,
+   "cita": "El tren de Grandes Líneas nº 270 de la empresa ferroviaria Renfe, compuesto por la",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 269.602, 17 vehículos, masa remolcada 205 Tm",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E2 de la estación de San Cristóbal Industrial. Bloqueo BAB con CTC.",
+    "tipo_via": "Cuádruple vía (líneas 300 Madrid-Valencia Nord y 500 Madrid-Valencia de Alcántara)",
+    "velocidad_maxima": "110 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Vía G4. Protegida por vallado perimetral en buenas condiciones generales, aunque se han constatado roturas en el mismo. Existe paso peatonal elevado en las proximidades. Visibilidad para el maquinista estimada en 200 metros.",
+    "otro": "Red Ferroviaria de Interés General administrada por Adif."
+   },
+   "pagina": 4,
+   "cita": "El arrollamiento se produjo en plena vía, a 130 metros de la señal de entrada E2 de la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de entrada E2 de la estación de San Cristóbal Industrial. Bloqueo BAB con CTC.",
+   "pagina": 4,
+   "cita": "El arrollamiento se produjo en plena vía, a 130 metros de la señal de entrada E2 de la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños",
+    "afectacion_servicio": "Intercepción de vías G4 y G3 de 17:16 a 19:50; vías G1 y G2 de 17:16 a 18:00 y de 19:32 a 19:50. 655 minutos de retrasos acumulados en trenes de viajeros y 113 minutos en Mercancías."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños",
+    "afectacion_servicio": "Intercepción de vías G4 y G3 de 17:16 a 19:50; vías G1 y G2 de 17:16 a 18:00 y de 19:32 a 19:50. 655 minutos de retrasos acumulados en trenes de viajeros y 113 minutos en Mercancías."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños",
+    "afectacion_servicio": "Intercepción de vías G4 y G3 de 17:16 a 19:50; vías G1 y G2 de 17:16 a 18:00 y de 19:32 a 19:50. 655 minutos de retrasos acumulados en trenes de viajeros y 113 minutos en Mercancías."
+   },
+   "pagina": 3,
+   "cita": "No se produjeron daños.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 269.602, 17 vehículos, masa remolcada 205 Tm",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E2 de la estación de San Cristóbal Industrial. Bloqueo BAB con CTC.",
+    "tipo_via": "Cuádruple vía (líneas 300 Madrid-Valencia Nord y 500 Madrid-Valencia de Alcántara)",
+    "velocidad_maxima": "110 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Vía G4. Protegida por vallado perimetral en buenas condiciones generales, aunque se han constatado roturas en el mismo. Existe paso peatonal elevado en las proximidades. Visibilidad para el maquinista estimada en 200 metros.",
+    "otro": "Red Ferroviaria de Interés General administrada por Adif."
+   },
+   "pagina": 4,
+   "cita": "El arrollamiento se produjo en plena vía, a 130 metros de la señal de entrada E2 de la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": "San Cristóbal Industrial"
+   },
+   "pagina": 2,
+   "cita": "Industrial, de la Línea 300 Madrid Atocha-Valencia Nord, en la provincia de Madrid,",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de entrada E2 de la estación de San Cristóbal Industrial. Bloqueo BAB con CTC.",
+   "pagina": 4,
+   "cita": "El arrollamiento se produjo en plena vía, a 130 metros de la señal de entrada E2 de la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E2 de la estación de San Cristóbal Industrial. Bloqueo BAB con CTC.",
+    "tipo_via": "Cuádruple vía (líneas 300 Madrid-Valencia Nord y 500 Madrid-Valencia de Alcántara)",
+    "velocidad_maxima": "110 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Vía G4. Protegida por vallado perimetral en buenas condiciones generales, aunque se han constatado roturas en el mismo. Existe paso peatonal elevado en las proximidades. Visibilidad para el maquinista estimada en 200 metros.",
+    "otro": "Red Ferroviaria de Interés General administrada por Adif."
+   },
+   "pagina": 4,
+   "cita": "El arrollamiento se produjo en plena vía, a 130 metros de la señal de entrada E2 de la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 269.602, 17 vehículos, masa remolcada 205 Tm",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "víctima invade vía prohibida",
+    "roturas en vallado perimetral"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(Adif), comunicó a través de mensaje de texto de telefonía móvil el pasado 18 de abril, que se \nhabía producido el arrollamiento de una persona resultando fallecida la misma, en el punto \nkilométrico 9,900 situado entre las estaciones de San Cristóbal de Los Ángeles y San Cristóbal \nIndustrial, de la Línea 300 Madrid Atocha-Valencia Nord, en la provincia de Madrid, \nperteneciente a la Red Ferroviaria de Interés General administrada por Adif. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles de acuerdo \ncon el citado artículo.  \nDe conformidad con el artículo 112 del mencionado Reglamento, el 31 de marzo de 2006 la \nDirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), comunicó a través de mensaje de texto de telefonía móvil el pasado 18 de abril, que se había produci",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de Grandes Líneas nº 270 de Renfe, compuesto por la locomotora 269.602 y 17 vehículos con masa remolcada de 205 Tm, que efectuaba recorrido Madrid-Almería, detuvo su marcha en vía G4 del pk 9,900 de la Línea 300 Madrid Atocha-Valencia Nord, después de rebasar la señal de entrada E2 de la estación de San Cristóbal Industrial, por haber arrollado a una persona que resultó fallecida en el acto. Según el parte del maquinista, observó a una persona andando por la vía contigua en dirección a su vía, que hizo caso omiso al silbato, por lo que aplicó el freno de urgencia siendo imposible evitar el arrollamiento. La víctima era un varón de 49 años. El tren circulaba a 105 km/h siendo la velocidad máxima permitida de 110 km/h. No se produjeron daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR EL OPERADOR FERROVIARIO. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por Adif concluye “El accidente se produce por imprudencia de la víctima al \ninvadir las vías y transitar por lugar indebido, donde está p ohibido el ánsito de peatones o \nvehículos (Artículo 40 del Reglamento del Sector Ferroviario, RD 2387/2004”. coincidiendo con \nel elaborado por Renfe, que establece que “El acciden e se produce por imprudencia de la \nvíctima al cruzar la vía por una zona en la que el tránsito y el cruce se encuentra prohibido”.  \nr\ntr\nt",
+   "pagina": 5,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Tránsito sobre las vías de la víctima (peatón), que invadió la vía por un lugar donde el tránsito peatonal está prohibido (art. 40 del Reglamento del Sector Ferroviario, RD 2387/2004), siendo alcanzada por el tren nº 270.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Imprudencia de la víctima al cruzar la vía por una zona donde el tránsito y el cruce se encuentran prohibidos",
+    "Roturas constatadas en el vallado perimetral que impide el acceso a las vías"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "A la vista de los datos recogidos por el Administrador de la infraestructura y de la \ninvestigación realizada, se estima que el accidente fue causado por el tránsito sobre las vías \nde la víctima, que fue alcanzado por el tren nº270, tal como se establece en las conclusiones \nde los informes particulares de Adif y Renfe.",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES A la vista de los datos recogidos por el Administrador de la infraestructura y de la investigación realizada, se estima que el accidente fue causado por el tránsito sobre las vías de la víctima, que fu",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "A la vista de los datos recogidos por el Administrador de la infraestructura y de la \ninvestigación realizada, se estima que el accidente fue causado por el tránsito sobre las vías \nde la víctima, que fue alcanzado por el tren nº270, tal como se establece en las conclusiones \nde los informes particulares de Adif y Renfe.",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES A la vista de los datos recogidos por el Administrador de la infraestructura y de la investigación realizada, se estima que el accidente fue causado por el tránsito sobre las vías de la víctima, que fu",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Dado el elevado tráfico ferroviario de la línea, el Administrador de la infraestructura (Adif) debe mantener el cerramiento perimetral existente en las debidas condiciones.",
+     "destinatario": "Adif (Administrador de Infraestructuras Ferroviarias)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "17:16",
+     "evento": "Arrollamiento de la persona por el tren 270 en vía G4, pk 9,900. Intercepción de vías G4 y G3."
+    },
+    {
+     "hora": "17:16",
+     "evento": "Intercepción de vías G1 y G2 a petición del Samur (hasta las 18:00)."
+    },
+    {
+     "hora": "18:00",
+     "evento": "Se levanta la intercepción de vías G1 y G2."
+    },
+    {
+     "hora": "19:15",
+     "evento": "Se persona la Autoridad Judicial."
+    },
+    {
+     "hora": "19:32",
+     "evento": "Intercepción de vías G1 y G2 a petición de la Autoridad Judicial para levantamiento del cadáver (hasta las 19:50)."
+    },
+    {
+     "hora": "19:40",
+     "evento": "La policía autoriza al tren 270 a reanudar la marcha."
+    },
+    {
+     "hora": "19:50",
+     "evento": "Autoridad Judicial autoriza el levantamiento del cadáver. Se levanta la intercepción de vías G4, G3, G1 y G2."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0017/2006",
+ "expediente": "0017/2006",
+ "anio": 2006,
+ "titulo": "Arrollamiento de persona por tren entre San Cristóbal de los Ángeles y San Cristóbal Industrial, Madrid",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-180406-020207.md"
+}

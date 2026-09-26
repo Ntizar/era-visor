@@ -1,0 +1,946 @@
+{
+ "id": "ID-011206-130407",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-011206-130407.pdf",
+ "pdf": "pdfs/ES/ID-011206-130407.pdf",
+ "md5_pdf": "782409a58e2820e940513c5c26891a2d",
+ "paginas_md": 7,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 17,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0054/2006",
+   "pagina": 1,
+   "cita": "Nº 0054/2006 OCURRIDO EL DÍA 01.12.2006 ID-011206-130407 Pág. 1 de 7 ## Página 2 Investigación del accidente nº 54/2006 ocurrido el 01.12.2006 SECRETARIA DE ESTADO DE INFRAESTRUCTU",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 1 de diciembre de 2006, dos personas fueron arrolladas por el tren de mercancías 57021 de Renfe en plena vía, entre Fuencarral y Pitis, en el punto kilométrico 11,907 de la línea Hortaleza Bifurcación-Pitis. Una víctima falleció en el acto y otra mujer de 38 años resultó herida grave. No se produjeron daños materiales en el tren ni en la infraestructura. La investigación atribuyó el origen del accidente al tránsito indebido de las personas sobre la vía, en un tramo sin cerramiento y con puntos críticos de paso.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2006-12-01",
+    "hora": "18:45",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Fuencarral Fuentegrande-Pitis",
+     "pk": "11,907",
+     "linea": "Hortaleza Bifurcación-Pitis",
+     "provincia": "Madrid",
+     "descripcion_lugar": "Plena vía entre Fuencarral Fuentegrande y Pitis, a unos 493-500 metros del eje del edificio de viajeros de Pitis, en un descampado no urbanizado ni explotado agrícolamente, próximo a un poblado de viviendas de realojo e infraviviendas entre la autopista M-40 y el trazado ferroviario."
+    }
+   },
+   "pagina": 2,
+   "cita": "De conformidad con el artículo 112 del mencionado Reglamento, el 1 de diciembre de 2006",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 1,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación por vía I entre Fuencarral y Pitis de 18:45 a 19:18; interrupción por ambas vías de 19:35 a 20:04 a petición del SAMUR. El tren 57021 sufrió un retraso de 32 minutos y el tren 57127 de 21 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Tránsito indebido sobre las vías de ferrocarril por parte de las víctimas, que invadieron la vía por lugar indebido y fueron arrolladas por el tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Ausencia de cerramiento o vallado en un tramo que discurre por zona rural.",
+    "Existencia de un poblado de viviendas de realojo e infraviviendas en las proximidades, con tránsito indebido habitual por las vías.",
+    "Puntos críticos de paso indebido en la zona del accidente y en entornos próximos a Fuencarral.",
+    "Prohibición del tránsito y entrada de personas a la infraestructura ferroviaria según la LOTT y su régimen sancionador.",
+    "Velocidad del tren y perfil de la vía que impidieron detener la composición antes del arrollamiento pese a la aplicación del freno de emergencia."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Falta de infraestructura peatonal alternativa, como una pasarela, para conectar el poblado con la estación y evitar cruces indebidos.",
+    "Limitación de las medidas barrera en un entorno rural amplio donde el vallado y la vigilancia resultan menos viables."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Estudiar la viabilidad de ejecutar una pasarela peatonal que, a nivel del terreno, salve la carretera de enlace de la autopista M-40 con la avenida Ventisquero de la Condesa y conecte el camino de tierra que conduce al poblado.",
+     "destinatario": "Adif / Dirección General de Ferrocarriles"
+    },
+    {
+     "texto": "Realizar el vallado de la vía dado el elevado número de arrollamientos en esta estación.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Señalizar con paneles informativos el peligro de cruzar la vía.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Intensificar las labores de vigilancia en este punto.",
+     "destinatario": "Adif / Renfe"
+    }
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó por mensaje de telefonía móvil que se había producido el arrollamiento de",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Estudiar la viabilidad de ejecutar una pasarela peatonal que, a nivel del terreno, salve la carretera de enlace de la autopista M-40 con la avenida Ventisquero de la Condesa y conecte el camino de tierra que conduce al poblado.",
+     "destinatario": "Adif / Dirección General de Ferrocarriles"
+    },
+    {
+     "texto": "Realizar el vallado de la vía dado el elevado número de arrollamientos en esta estación.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Señalizar con paneles informativos el peligro de cruzar la vía.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Intensificar las labores de vigilancia en este punto.",
+     "destinatario": "Adif / Renfe"
+    }
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó por mensaje de telefonía móvil que se había producido el arrollamiento de",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento",
+   "pagina": 2,
+   "cita": "(Adif), comunicó por mensaje de telefonía móvil que se había producido el arrollamiento de",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó por mensaje de telefonía móvil que se había producido el arrollamiento de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2006-12-01",
+   "pagina": 2,
+   "cita": "De conformidad con el artículo 112 del mencionado Reglamento, el 1 de diciembre de 2006",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "18:45",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:hora"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Fuencarral Fuentegrande-Pitis",
+    "pk": "11,907",
+    "linea": "Hortaleza Bifurcación-Pitis",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Plena vía entre Fuencarral Fuentegrande y Pitis, a unos 493-500 metros del eje del edificio de viajeros de Pitis, en un descampado no urbanizado ni explotado agrícolamente, próximo a un poblado de viviendas de realojo e infraviviendas entre la autopista M-40 y el trazado ferroviario."
+   },
+   "pagina": 6,
+   "cita": "de la víctima, que resultó arrollada por el tren nº 57021 en el tramo Fuencarral",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Hortaleza Bifurcación-Pitis",
+   "pagina": 2,
+   "cita": "Fuencarral y Pitis, en el punto kilométrico 11,907 de la Línea Hortaleza Bifurcación-Pitis, en la",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 269521",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "Dos personas que se encontraban en las inmediaciones de las vías entre las estaciones de Fuencarral Fuentegrande y Pitis resultaron arrolladas por el tren de mercancías nº 57021 de Renfe. El tren estaba compuesto por la locomotora 269521 y 22 vehículos, con 423 toneladas remolcadas, circulaba con 2 minutos de adelanto sobre su horario y no tenía parada prescrita en Pitis. El suceso ocurrió el 1 de diciembre de 2006 a las 18:45, en el punto kilométrico 11,907 de la línea Hortaleza Bifurcación-Pitis.\n\nSegún el parte del maquinista, observó un obstáculo y personas próximas a la vía, aplicó el freno de emergencia y dio señales acústicas. Por la velocidad y el perfil de la vía, la frenada no fue suficiente para evitar el arrollamiento, y el estribo de la máquina tocó a alguno de los componentes del grupo. Como consecuencia, una persona falleció en el acto y otra mujer de 38 años resultó herida grave. El fallecido carecía de documentación.",
+   "pagina": 3,
+   "cita": "3.1. HECHOS Dos personas que se encontraban en las inmediaciones de las vías entre las estaciones de Fuencarral Fuentegrande y Pitis resultaron arrolladas por el tren de Mercancías nº 57021 de la empresa ferr",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Fuencarral Fuentegrande-Pitis",
+    "pk": "11,907",
+    "linea": "Hortaleza Bifurcación-Pitis",
+    "provincia": "Madrid",
+    "descripcion_lugar": "Plena vía entre Fuencarral Fuentegrande y Pitis, a unos 493-500 metros del eje del edificio de viajeros de Pitis, en un descampado no urbanizado ni explotado agrícolamente, próximo a un poblado de viviendas de realojo e infraviviendas entre la autopista M-40 y el trazado ferroviario."
+   },
+   "pagina": 6,
+   "cita": "de la víctima, que resultó arrollada por el tren nº 57021 en el tramo Fuencarral",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 1,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación por vía I entre Fuencarral y Pitis de 18:45 a 19:18; interrupción por ambas vías de 19:35 a 20:04 a petición del SAMUR. El tren 57021 sufrió un retraso de 32 minutos y el tren 57127 de 21 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "El maquinista informó del suceso al Puesto de Mando de Chamartín que cumplimentó los \nprotocolos de aviso a Seguridad Corporativa y servicios internos de ADIF y RENFE, a los \nservicios de emergencia (061) y a las Fuerzas de Seguridad del Estado. \n \nAgentes de Adif se personaron en el lugar del accidente el día 4 de diciembre, procediendo \na la toma de datos del accidente e inspección de la zona.",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "maquinista del tren 57021",
+     "implicacion": "Condujo el tren implicado, observó personas y un obstáculo en la vía, aplicó el freno de emergencia, dio señales acústicas e informó del suceso al Puesto de Mando de Chamartín."
+    },
+    {
+     "rol": "Supervisor de Línea de la Jefatura Técnica de Operaciones de Madrid",
+     "implicacion": "Nombrado jefe delegado del accidente."
+    },
+    {
+     "rol": "Supervisor de Circulación en el Puesto de Mando de Madrid Chamartín",
+     "implicacion": "Nombrado portavoz de la información."
+    }
+   ],
+   "pagina": 3,
+   "cita": "-  El maquinista del tren 57021.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "57021",
+     "tipo": "tren de mercancías",
+     "operador": "Renfe",
+     "danos": "No se produjeron daños materiales."
+    },
+    {
+     "numero": "57127",
+     "tipo": null,
+     "operador": null,
+     "danos": "Sufrió un retraso de 21 minutos por la afectación del servicio."
+    }
+   ],
+   "pagina": 3,
+   "cita": "Fuencarral Fuentegrande y Pitis resultaron arrolladas por el tren de Mercancías nº 57021 de",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 269521",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Se constata la existencia de señales de entrada y salida de la estación de Fuencarral como uno de los puntos críticos de tránsito indebido.",
+    "tipo_via": "vía doble",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "El tramo no dispone de cerramiento o vallado por discurrir por zona rural; pendiente de 13 milésimas.",
+    "otro": "Bloqueo automático banalizado con control de tráfico centralizado (CTC). Puntos críticos entre pk 11,700 y 11,800, entorno de 50 metros del paso inferior de enlace entre la M-40 y la Avenida Ventisquero de la Condesa, y entorno de señales de entrada y salida de Fuencarral."
+   },
+   "pagina": 5,
+   "cita": "− La línea discurre en vía doble electrificada, en pendiente de 13 milésimas. Siendo el",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Se constata la existencia de señales de entrada y salida de la estación de Fuencarral como uno de los puntos críticos de tránsito indebido.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 1,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación por vía I entre Fuencarral y Pitis de 18:45 a 19:18; interrupción por ambas vías de 19:35 a 20:04 a petición del SAMUR. El tren 57021 sufrió un retraso de 32 minutos y el tren 57127 de 21 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 1,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación por vía I entre Fuencarral y Pitis de 18:45 a 19:18; interrupción por ambas vías de 19:35 a 20:04 a petición del SAMUR. El tren 57021 sufrió un retraso de 32 minutos y el tren 57127 de 21 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 1,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación por vía I entre Fuencarral y Pitis de 18:45 a 19:18; interrupción por ambas vías de 19:35 a 20:04 a petición del SAMUR. El tren 57021 sufrió un retraso de 32 minutos y el tren 57127 de 21 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 269521",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Se constata la existencia de señales de entrada y salida de la estación de Fuencarral como uno de los puntos críticos de tránsito indebido.",
+    "tipo_via": "vía doble",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "El tramo no dispone de cerramiento o vallado por discurrir por zona rural; pendiente de 13 milésimas.",
+    "otro": "Bloqueo automático banalizado con control de tráfico centralizado (CTC). Puntos críticos entre pk 11,700 y 11,800, entorno de 50 metros del paso inferior de enlace entre la M-40 y la Avenida Ventisquero de la Condesa, y entorno de señales de entrada y salida de Fuencarral."
+   },
+   "pagina": 5,
+   "cita": "− La línea discurre en vía doble electrificada, en pendiente de 13 milésimas. Siendo el",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Madrid",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 2,
+   "cita": "provincia de Madrid, perteneciente a la Red Ferroviaria de Interés General administrada por",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Se constata la existencia de señales de entrada y salida de la estación de Fuencarral como uno de los puntos críticos de tránsito indebido.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Se constata la existencia de señales de entrada y salida de la estación de Fuencarral como uno de los puntos críticos de tránsito indebido.",
+    "tipo_via": "vía doble",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "electrificada",
+    "estado_via": "El tramo no dispone de cerramiento o vallado por discurrir por zona rural; pendiente de 13 milésimas.",
+    "otro": "Bloqueo automático banalizado con control de tráfico centralizado (CTC). Puntos críticos entre pk 11,700 y 11,800, entorno de 50 metros del paso inferior de enlace entre la M-40 y la Avenida Ventisquero de la Condesa, y entorno de señales de entrada y salida de Fuencarral."
+   },
+   "pagina": 5,
+   "cita": "− La línea discurre en vía doble electrificada, en pendiente de 13 milésimas. Siendo el",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 269521",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Personas transitaron indebidamente por vía",
+    "Falta de cerramiento en zona rural",
+    "No se usaron pasos inferiores",
+    "Acceso indebido desde infraviviendas"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "Dos personas que se encontraban en las inmediaciones de las vías entre las estaciones de Fuencarral Fuentegrande y Pitis resultaron arrolladas por el tren de mercancías nº 57021 de Renfe. El tren estaba compuesto por la locomotora 269521 y 22 vehículos, con 423 toneladas remolcadas, circulaba con 2 minutos de adelanto sobre su horario y no tenía parada prescrita en Pitis. El suceso ocurrió el 1 de diciembre de 2006 a las 18:45, en el punto kilométrico 11,907 de la línea Hortaleza Bifurcación-Pitis.\n\nSegún el parte del maquinista, observó un obstáculo y personas próximas a la vía, aplicó el freno de emergencia y dio señales acústicas. Por la velocidad y el perfil de la vía, la frenada no fue suficiente para evitar el arrollamiento, y el estribo de la máquina tocó a alguno de los componentes del grupo. Como consecuencia, una persona falleció en el acto y otra mujer de 38 años resultó herida grave. El fallecido carecía de documentación.",
+   "pagina": 3,
+   "cita": "3.1. HECHOS Dos personas que se encontraban en las inmediaciones de las vías entre las estaciones de Fuencarral Fuentegrande y Pitis resultaron arrolladas por el tren de Mercancías nº 57021 de la empresa ferr",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "PARTICULARES DEL ADMINISTRADOR DE LA INFRAESTRUCTURA Y DE LA \nEMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nAdif : “El accidente se origina por imprudencia de las víctimas al transitar e invadir las vías \npor lugar indebido.  \n \n \n \nID-011206-130407 \n \n \nPág. 5 de 7\n\n## Página 6\n\n \nInvestigación del accidente \nnº 54/2006 ocurrido el 01.12.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo \n \nEn el lugar en que se produce  está prohibido el tránsito y entrada de personas: A tículo \n292 de la LOTT (R.D. 1211/1990 de 28 de septiembre, BOE de 8 de octubre de 1990) y \nArtículo 295 2.C. Regimen Sancionador”. \n,\nr\n \n \nt\n \n.\nt\nPor su parte RENFE concluye: “El arrollamiento se produce por estar cruzando las vías por \nlugares inadecuados y no haciendo uso de los pasos inferiores.”.  \nPor tanto, ambas conclusiones son coincidentes entre sí y consistentes con los datos \nrecogidos por el Administrador de la infraestructura.",
+   "pagina": 5,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES INCLUIDAS EN LOS INFORMES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Tránsito indebido sobre las vías de ferrocarril por parte de las víctimas, que invadieron la vía por lugar indebido y fueron arrolladas por el tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Ausencia de cerramiento o vallado en un tramo que discurre por zona rural.",
+    "Existencia de un poblado de viviendas de realojo e infraviviendas en las proximidades, con tránsito indebido habitual por las vías.",
+    "Puntos críticos de paso indebido en la zona del accidente y en entornos próximos a Fuencarral.",
+    "Prohibición del tránsito y entrada de personas a la infraestructura ferroviaria según la LOTT y su régimen sancionador.",
+    "Velocidad del tren y perfil de la vía que impidieron detener la composición antes del arrollamiento pese a la aplicación del freno de emergencia."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Estando de acuerdo con lo expresado en el párrafo anterior, todos los datos disponibles \napuntan a que el accidente tuvo su origen en el tránsito indebido sobre las vías de ferrocarril \nde la víctima, que resultó arrollada por el tren nº 57021 en el tramo Fuencarral \nFuentegrande-Pitis.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES Estando de acuerdo con lo expresado en el párrafo anterior, todos los datos disponibles apuntan a que el accidente tuvo su origen en el tránsito indebido sobre las vías de ferrocarril de la víctima, q",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Estando de acuerdo con lo expresado en el párrafo anterior, todos los datos disponibles \napuntan a que el accidente tuvo su origen en el tránsito indebido sobre las vías de ferrocarril \nde la víctima, que resultó arrollada por el tren nº 57021 en el tramo Fuencarral \nFuentegrande-Pitis.",
+   "pagina": 6,
+   "cita": "6. CONCLUSIONES Estando de acuerdo con lo expresado en el párrafo anterior, todos los datos disponibles apuntan a que el accidente tuvo su origen en el tránsito indebido sobre las vías de ferrocarril de la víctima, q",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "El maquinista informó del suceso al Puesto de Mando de Chamartín que cumplimentó los \nprotocolos de aviso a Seguridad Corporativa y servicios internos de ADIF y RENFE, a los \nservicios de emergencia (061) y a las Fuerzas de Seguridad del Estado. \n \nAgentes de Adif se personaron en el lugar del accidente el día 4 de diciembre, procediendo \na la toma de datos del accidente e inspección de la zona.",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "El maquinista informó del suceso al Puesto de Mando de Chamartín que cumplimentó los \nprotocolos de aviso a Seguridad Corporativa y servicios internos de ADIF y RENFE, a los \nservicios de emergencia (061) y a las Fuerzas de Seguridad del Estado. \n \nAgentes de Adif se personaron en el lugar del accidente el día 4 de diciembre, procediendo \na la toma de datos del accidente e inspección de la zona.",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "El maquinista informó del suceso al Puesto de Mando de Chamartín que cumplimentó los \nprotocolos de aviso a Seguridad Corporativa y servicios internos de ADIF y RENFE, a los \nservicios de emergencia (061) y a las Fuerzas de Seguridad del Estado. \n \nAgentes de Adif se personaron en el lugar del accidente el día 4 de diciembre, procediendo \na la toma de datos del accidente e inspección de la zona.",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Estudiar la viabilidad de ejecutar una pasarela peatonal que, a nivel del terreno, salve la carretera de enlace de la autopista M-40 con la avenida Ventisquero de la Condesa y conecte el camino de tierra que conduce al poblado.",
+     "destinatario": "Adif / Dirección General de Ferrocarriles"
+    },
+    {
+     "texto": "Realizar el vallado de la vía dado el elevado número de arrollamientos en esta estación.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Señalizar con paneles informativos el peligro de cruzar la vía.",
+     "destinatario": "Adif"
+    },
+    {
+     "texto": "Intensificar las labores de vigilancia en este punto.",
+     "destinatario": "Adif / Renfe"
+    }
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó por mensaje de telefonía móvil que se había producido el arrollamiento de",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "18:45",
+     "evento": "Arrollamiento de dos personas por el tren de mercancías 57021 en el pk 11,907."
+    },
+    {
+     "hora": "18:45",
+     "evento": "Inicio de la interrupción de la circulación por vía I entre Fuencarral y Pitis."
+    },
+    {
+     "hora": "19:18",
+     "evento": "Fin de la interrupción de la circulación por vía I entre Fuencarral y Pitis."
+    },
+    {
+     "hora": "19:35",
+     "evento": "Inicio de la interrupción de la circulación por ambas vías a petición del SAMUR."
+    },
+    {
+     "hora": "20:04",
+     "evento": "Fin de la interrupción de la circulación por ambas vías."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0054/2006",
+ "expediente": "0054/2006",
+ "anio": 2006,
+ "titulo": "Arrollamiento de dos personas por un tren de mercancías entre Fuencarral y Pitis, Madrid",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-011206-130407.md"
+}

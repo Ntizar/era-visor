@@ -1,0 +1,964 @@
+{
+ "id": "IF_040613_230914_CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/7C493683-7FD5-444B-8D02-708A0D9C6CB4/127010/IF040613230914CIAF.pdf",
+ "pdf": "pdfs/ES/IF_040613_230914_CIAF.pdf",
+ "md5_pdf": "ccdc32f16b7adb7430372c4427294a3e",
+ "paginas_md": 20,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 17,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 5,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "43/13-1",
+     "Recomendación": "Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos)."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 20,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Adif",
+     "Número": "43/13-1",
+     "Recomendación": "Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos)."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0043/2013",
+   "pagina": 1,
+   "cita": "nº 0043/2013 ocurrido el 04.06.2013",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 4 de junio de 2013, a las 00:30, el jefe de CTC de Villafranca bloqueó por error la vía I en lugar de la vía II en el trayecto entre Sant Sadurní d'Anoia y Martorell, donde estaban programados trabajos de limpieza de cunetas. El tren de mercancías LK500 de Renfe Operadora, circulando por la vía II, rebasó la señal intermedia 642 que pasó a rojo por la colocación de una barra de shuntado, activándose el freno de urgencia por ASFA. El tren quedó detenido 533 metros sobrepasando la señal. No se produjeron daños personales ni materiales, solo un retraso de 8 minutos.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2013-06-04",
+    "hora": "00:30:34",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Sant Sadurní d'Anoia - Martorell (trayecto)",
+     "pk": "64+073",
+     "linea": "240 Sant Vicent de Calders – L'Hospitalet de Llobregat",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Plena vía entre las estaciones de Sant Sadurní d'Anoia y Martorell, entorno de la señal intermedia 642 (PK 64+073). Tramo recto con buena visibilidad. Municipio: Sant Sadurní d'Anoia. Tramo: Sant Sadurní – Ag. KM 70+477. Trabajos programados en PK 65+500 y 66+000."
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 4 de junio de 2013, en torno a las 00:30 horas, el jefe de CTC de Villafranca establece",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni infraestructura",
+    "afectacion_servicio": "No hubo interceptación de la vía. El tren LK500 sufrió un retraso de 8 minutos. No se activó ningún plan de emergencia."
+   },
+   "pagina": 10,
+   "cita": "No hubo interceptación de la vía, únicamente el tren LK500 sufrió un retraso de 8 minutos.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo humano del jefe del CTC al establecer incorrectamente el bloqueo en el trayecto entre Sant Sadurní d'Anoia y Martorell, bloqueando por error la vía I en lugar de la vía II.",
+   "pagina": 5,
+   "cita": "Conclusión: El incidente se produce por fallo humano del jefe del CTC al establecer incorrectamente",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Cierre intempestivo de la señal 642 al colocar el encargado de trabajos la barra de shuntado mientras el tren pasaba por la baliza previa",
+    "Elevada carga de trabajo del puesto de CTC con picos muy acusados (trenes de mercancías, maniobras en muchas estaciones, cortes de trabajo en distintos trayectos, complejidad de ciertas estaciones), lo que lleva a cierto grado de saturación",
+    "La Consigna C Experimental nº 58 no exigía el uso obligatorio de barra de shuntado para este tipo de trabajos"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "La normativa aplicable (Consigna C Experimental nº 58) no contemplaba el uso obligatorio de protecciones mediante útiles de cortocircuitado ni señales para este tipo de trabajos",
+    "Posibilidad de error humano en el establecimiento del bloqueo en CTC sin verificación cruzada automática"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).",
+    "Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos)."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente",
+   "pagina": 1,
+   "cita": "Investigación del incidente",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "El tren de mercancías LK500 de la empresa ferroviaria Renfe Operadora, con origen en Villaverde",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2013-06-04",
+   "pagina": 5,
+   "cita": "El día 4 de junio de 2013, en torno a las 00:30 horas, el jefe de CTC de Villafranca establece",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "00:30:34",
+   "pagina": 18,
+   "cita": "a las 00:30:34 horas a una velocidad de 94 km/h y al encontrarse la señal 642 en rojo se produce la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Sant Sadurní d'Anoia - Martorell (trayecto)",
+    "pk": "64+073",
+    "linea": "240 Sant Vicent de Calders – L'Hospitalet de Llobregat",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Plena vía entre las estaciones de Sant Sadurní d'Anoia y Martorell, entorno de la señal intermedia 642 (PK 64+073). Tramo recto con buena visibilidad. Municipio: Sant Sadurní d'Anoia. Tramo: Sant Sadurní – Ag. KM 70+477. Trabajos programados en PK 65+500 y 66+000."
+   },
+   "pagina": 5,
+   "cita": "(Madrid) y destino La Llagosta (Barcelona), venía circulando por la vía II aproximándose a la estación",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Tramo Sant Sadurní d'Anoia–Martorell",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:linea"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 253077 (Nº UIC: 957102530772), 4 vagones porta-automóviles",
+    "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": "No se menciona avería ni problema de mantenimiento. Longitud 106 m, peso 105 toneladas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 4 de junio de 2013, en torno a las 00:30 horas, el jefe de CTC de Villafranca estableció incorrectamente el bloqueo en el trayecto entre las estaciones de Sant Sadurní d'Anoia y Martorell, bloqueando por error la vía I en vez de la vía II, donde estaban programados trabajos de limpieza de cunetas según el acta semanal (punto nº 188). El tren de mercancías LK500 de Renfe Operadora, con origen en Villaverde (Madrid) y destino La Llagosta (Barcelona), circulaba por la vía II aproximándose a Sant Sadurní. El jefe del CTC le estableció itinerario de paso por vía II, encontrando el tren la secuencia de señales en verde.\n\nAl llegar a la baliza previa de la señal intermedia 642 (PK 64+073), el tren la encontró en vía libre (verde), pero al pasar por la baliza de pie de dicha señal, esta había cambiado a rojo como consecuencia de la colocación de la barra de shuntado por el encargado de trabajos situado en el PK 65+500. Al rebasar el tren la señal 642 en rojo, el sistema ASFA activó el freno de urgencia, quedando el tren detenido sobrepasando la señal en 533 metros (PK 64+600).\n\nEl encargado de trabajos vio cómo se aproximaba el tren LK500 por la vía II al lugar de los trabajos y ordenó a los operarios retirarse de la vía, no produciéndose ningún daño personal ni material. El tren sufrió únicamente un retraso de 8 minutos.",
+   "pagina": 5,
+   "cita": "RESUMEN El día 4 de junio de 2013, en torno a las 00:30 horas, el jefe de CTC de Villafranca establece incorrectamente el bloqueo en el trayecto entre las estaciones de Sant Sadurní d’Anoia y Martorell, de la línea 24",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Sant Sadurní d'Anoia - Martorell (trayecto)",
+    "pk": "64+073",
+    "linea": "240 Sant Vicent de Calders – L'Hospitalet de Llobregat",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Plena vía entre las estaciones de Sant Sadurní d'Anoia y Martorell, entorno de la señal intermedia 642 (PK 64+073). Tramo recto con buena visibilidad. Municipio: Sant Sadurní d'Anoia. Tramo: Sant Sadurní – Ag. KM 70+477. Trabajos programados en PK 65+500 y 66+000."
+   },
+   "pagina": 5,
+   "cita": "(Madrid) y destino La Llagosta (Barcelona), venía circulando por la vía II aproximándose a la estación",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni infraestructura",
+    "afectacion_servicio": "No hubo interceptación de la vía. El tren LK500 sufrió un retraso de 8 minutos. No se activó ningún plan de emergencia."
+   },
+   "pagina": 10,
+   "cita": "No hubo interceptación de la vía, únicamente el tren LK500 sufrió un retraso de 8 minutos.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Jefe de CTC (Adif, Villafranca)",
+     "implicacion": "Fallo humano: bloqueó por error la vía I en lugar de la vía II, permitiendo la circulación del tren por vía con trabajos programados"
+    },
+    {
+     "rol": "Encargado de trabajos (Adif)",
+     "implicacion": "Colocó la barra de shuntado en vía II que provocó el cierre de la señal 642; observó la aproximación del tren y ordenó a los operarios retirarse de la vía"
+    },
+    {
+     "rol": "Maquinista del tren LK500 (Renfe Operadora)",
+     "implicacion": "Circulaba con normalidad, señales en verde; rebasó la señal 642 en rojo por cierre intempestivo; reanudó marcha a la vista según RGC"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "LK500 (nº 82150 hasta Casetas, CZ530 entre Casetas y Zuera, LK500 desde Zuera a La Llagosta)",
+     "tipo": "tren de mercancías (porta-automóviles)",
+     "operador": "Renfe Operadora",
+     "danos": "Ningún daño material"
+    }
+   ],
+   "pagina": 5,
+   "cita": "El tren de mercancías LK500 de la empresa ferroviaria Renfe Operadora, con origen en Villaverde",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 253077 (Nº UIC: 957102530772), 4 vagones porta-automóviles",
+    "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": "No se menciona avería ni problema de mantenimiento. Longitud 106 m, peso 105 toneladas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal intermedia 642 (PK 64+073): señal alta de 3 focos, con cartel con letra P (permisiva), dotada de balizas previa y de pie. Señal de salida S2/2 (PK 60+129). Señal intermedia 626 (PK 62+309). Bloqueo automático banalizado (BAB).",
+    "tipo_via": "Vía doble electrificada de ancho ibérico",
+    "velocidad_maxima": "100 km/h (tren tipo 100); el tren circulaba a 94-95 km/h al pasar la señal 642",
+    "ancho": "Ibérico",
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "Vía II con trabajos de limpieza de cunetas programados (debería estar bloqueada); vía I bloqueada por error. Tramo recto con buena visibilidad.",
+    "otro": "Control de tráfico centralizado (CTC) desde el puesto de mando de Villafranca. Radiotelefonía modalidad A. Media semanal de circulaciones del tramo: 739."
+   },
+   "pagina": 9,
+   "cita": "El tramo donde ocurre el incidente es de vía doble electrificada de ancho ibérico, realizándose la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal intermedia 642 (PK 64+073): señal alta de 3 focos, con cartel con letra P (permisiva), dotada de balizas previa y de pie. Señal de salida S2/2 (PK 60+129). Señal intermedia 626 (PK 62+309). Bloqueo automático banalizado (BAB).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía modalidad A. \n\n## Página 10\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0043/2013 ocurrido el 04.06.2013 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-040613-230914-CIAF \n \n \nPág. 10 de 20",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni infraestructura",
+    "afectacion_servicio": "No hubo interceptación de la vía. El tren LK500 sufrió un retraso de 8 minutos. No se activó ningún plan de emergencia."
+   },
+   "pagina": 10,
+   "cita": "No hubo interceptación de la vía, únicamente el tren LK500 sufrió un retraso de 8 minutos.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni infraestructura",
+    "afectacion_servicio": "No hubo interceptación de la vía. El tren LK500 sufrió un retraso de 8 minutos. No se activó ningún plan de emergencia."
+   },
+   "pagina": 7,
+   "cita": "DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales en material rodante ni infraestructura",
+    "afectacion_servicio": "No hubo interceptación de la vía. El tren LK500 sufrió un retraso de 8 minutos. No se activó ningún plan de emergencia."
+   },
+   "pagina": 10,
+   "cita": "No hubo interceptación de la vía, únicamente el tren LK500 sufrió un retraso de 8 minutos.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 253077 (Nº UIC: 957102530772), 4 vagones porta-automóviles",
+    "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": "No se menciona avería ni problema de mantenimiento. Longitud 106 m, peso 105 toneladas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal intermedia 642 (PK 64+073): señal alta de 3 focos, con cartel con letra P (permisiva), dotada de balizas previa y de pie. Señal de salida S2/2 (PK 60+129). Señal intermedia 626 (PK 62+309). Bloqueo automático banalizado (BAB).",
+    "tipo_via": "Vía doble electrificada de ancho ibérico",
+    "velocidad_maxima": "100 km/h (tren tipo 100); el tren circulaba a 94-95 km/h al pasar la señal 642",
+    "ancho": "Ibérico",
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "Vía II con trabajos de limpieza de cunetas programados (debería estar bloqueada); vía I bloqueada por error. Tramo recto con buena visibilidad.",
+    "otro": "Control de tráfico centralizado (CTC) desde el puesto de mando de Villafranca. Radiotelefonía modalidad A. Media semanal de circulaciones del tramo: 739."
+   },
+   "pagina": 9,
+   "cita": "El tramo donde ocurre el incidente es de vía doble electrificada de ancho ibérico, realizándose la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Era de noche. No existían condiciones meteorológicas adversas.",
+   "pagina": 10,
+   "cita": "En el momento del suceso no existían condiciones meteorológicas adversas. Era de noche.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Era de noche. No existían condiciones meteorológicas adversas.",
+   "pagina": 10,
+   "cita": "En el momento del suceso no existían condiciones meteorológicas adversas. Era de noche.",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal intermedia 642 (PK 64+073): señal alta de 3 focos, con cartel con letra P (permisiva), dotada de balizas previa y de pie. Señal de salida S2/2 (PK 60+129). Señal intermedia 626 (PK 62+309). Bloqueo automático banalizado (BAB).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal intermedia 642 (PK 64+073): señal alta de 3 focos, con cartel con letra P (permisiva), dotada de balizas previa y de pie. Señal de salida S2/2 (PK 60+129). Señal intermedia 626 (PK 62+309). Bloqueo automático banalizado (BAB).",
+    "tipo_via": "Vía doble electrificada de ancho ibérico",
+    "velocidad_maxima": "100 km/h (tren tipo 100); el tren circulaba a 94-95 km/h al pasar la señal 642",
+    "ancho": "Ibérico",
+    "electrificacion": "Sí, electrificada",
+    "estado_via": "Vía II con trabajos de limpieza de cunetas programados (debería estar bloqueada); vía I bloqueada por error. Tramo recto con buena visibilidad.",
+    "otro": "Control de tráfico centralizado (CTC) desde el puesto de mando de Villafranca. Radiotelefonía modalidad A. Media semanal de circulaciones del tramo: 739."
+   },
+   "pagina": 9,
+   "cita": "El tramo donde ocurre el incidente es de vía doble electrificada de ancho ibérico, realizándose la",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía modalidad A. \n\n## Página 10\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del incidente \nnº 0043/2013 ocurrido el 04.06.2013 \nInforme final \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-040613-230914-CIAF \n \n \nPág. 10 de 20",
+   "pagina": 9,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 253077 (Nº UIC: 957102530772), 4 vagones porta-automóviles",
+    "averia": "Ninguna. Los equipos de seguridad del tren funcionaron correctamente.",
+    "mantenimiento": "No se menciona avería ni problema de mantenimiento. Longitud 106 m, peso 105 toneladas."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Cierre intempestivo de la señal 642 al colocar el encargado de trabajos la barra de shuntado mientras el tren pasaba por la baliza previa",
+    "Elevada carga de trabajo del puesto de CTC con picos muy acusados (trenes de mercancías, maniobras en muchas estaciones, cortes de trabajo en distintos trayectos, complejidad de ciertas estaciones), lo que lleva a cierto grado de saturación",
+    "La Consigna C Experimental nº 58 no exigía el uso obligatorio de barra de shuntado para este tipo de trabajos"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "Por parte de Adif \nEl jefe del CTC (responsable de circulación) y el encargado de trabajos, están habilitados conforme a \nla Orden FOM/2872/2010, de 5 de noviembre por la que se determinan las condiciones para la \nobtención de títulos y habilitaciones que permiten el ejercicio de las funciones del personal ferroviario \nrelacionadas con la seguridad: \nEl jefe del CTC realizó su último reciclaje formativo el 04/10/2013 y su último reconocimiento médico y \npsicotécnico el 01/08/2013, conforme a la normativa vigente. \nEl encargado de trabajos realizó su último reciclaje formativo el 06/06/2011 y su último \nreconocimiento médico y psicotécnico el 22/04/2013, conforme a la normativa vigente. \nPor parte de Renfe Operadora \nLa maquinista del tren LK500 posee el título B de conducción y está habilitada conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nÉsta tiene una antigüedad en el cargo desde el 09/12/2010. \nRealizó su último reciclaje formativo el 23/12/2011 y su último reconocimiento médico y psicotécnico el \n25/10/2010, conforme a la normativa vigente. \n3.3. \nNORMATIVA",
+   "pagina": 12,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 4 de junio de 2013, en torno a las 00:30 horas, el jefe de CTC de Villafranca estableció incorrectamente el bloqueo en el trayecto entre las estaciones de Sant Sadurní d'Anoia y Martorell, bloqueando por error la vía I en vez de la vía II, donde estaban programados trabajos de limpieza de cunetas según el acta semanal (punto nº 188). El tren de mercancías LK500 de Renfe Operadora, con origen en Villaverde (Madrid) y destino La Llagosta (Barcelona), circulaba por la vía II aproximándose a Sant Sadurní. El jefe del CTC le estableció itinerario de paso por vía II, encontrando el tren la secuencia de señales en verde.\n\nAl llegar a la baliza previa de la señal intermedia 642 (PK 64+073), el tren la encontró en vía libre (verde), pero al pasar por la baliza de pie de dicha señal, esta había cambiado a rojo como consecuencia de la colocación de la barra de shuntado por el encargado de trabajos situado en el PK 65+500. Al rebasar el tren la señal 642 en rojo, el sistema ASFA activó el freno de urgencia, quedando el tren detenido sobrepasando la señal en 533 metros (PK 64+600).\n\nEl encargado de trabajos vio cómo se aproximaba el tren LK500 por la vía II al lugar de los trabajos y ordenó a los operarios retirarse de la vía, no produciéndose ningún daño personal ni material. El tren sufrió únicamente un retraso de 8 minutos.",
+   "pagina": 5,
+   "cita": "RESUMEN El día 4 de junio de 2013, en torno a las 00:30 horas, el jefe de CTC de Villafranca establece incorrectamente el bloqueo en el trayecto entre las estaciones de Sant Sadurní d’Anoia y Martorell, de la línea 24",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo humano del jefe del CTC al establecer incorrectamente el bloqueo en el trayecto entre Sant Sadurní d'Anoia y Martorell, bloqueando por error la vía I en lugar de la vía II.",
+   "pagina": 5,
+   "cita": "Conclusión: El incidente se produce por fallo humano del jefe del CTC al establecer incorrectamente",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Cierre intempestivo de la señal 642 al colocar el encargado de trabajos la barra de shuntado mientras el tren pasaba por la baliza previa",
+    "Elevada carga de trabajo del puesto de CTC con picos muy acusados (trenes de mercancías, maniobras en muchas estaciones, cortes de trabajo en distintos trayectos, complejidad de ciertas estaciones), lo que lleva a cierto grado de saturación",
+    "La Consigna C Experimental nº 58 no exigía el uso obligatorio de barra de shuntado para este tipo de trabajos"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos).",
+    "Incluir dentro de la normativa de aplicación a los trabajos descritos en este informe, en especial en la Consigna C Experimental nº 58, el uso obligatorio de protecciones mediante útiles de cortocircuitado (en líneas con circuitos de vía eléctricos) y señales (en líneas sin circuitos de vía eléctricos)."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "00:09",
+     "evento": "El encargado de trabajos solicita el bloqueo por ocupación especial en la vía II (según su declaración)"
+    },
+    {
+     "hora": "00:18",
+     "evento": "El encargado de trabajos solicita al jefe de CTC el bloqueo por ocupación especial de la vía II sin tren de trabajos (telefonema nº 55)"
+    },
+    {
+     "hora": "00:21",
+     "evento": "El jefe de CTC concede el intervalo por vía II hasta las 04:30 (telefonema nº 738). El jefe de CTC bloquea por error la vía I en lugar de la vía II"
+    },
+    {
+     "hora": "00:25:10",
+     "evento": "Según videográfico CTC: el tren LK500 tiene itinerario establecido por vía II de la estación de Sant Sadurní d'Anoia, dirección Martorell; vía I bloqueada"
+    },
+    {
+     "hora": "00:27:16",
+     "evento": "El tren LK500 pasa por la señal de salida S2/2 de Sant Sadurní (lado Martorell) en verde, a 44 km/h"
+    },
+    {
+     "hora": "00:27:30",
+     "evento": "El tren pasa por la señal de entrada de la estación de Sant Sadurní"
+    },
+    {
+     "hora": "00:28:40",
+     "evento": "El tren ocupa el circuito de estacionamiento de vía II de la estación de Sant Sadurní"
+    },
+    {
+     "hora": "00:29:46",
+     "evento": "El tren ya ha salido de la estación de Sant Sadurní"
+    },
+    {
+     "hora": "00:29:59",
+     "evento": "El tren pasa por la baliza previa de la señal intermedia 626 en vía libre a 85 km/h"
+    },
+    {
+     "hora": "00:30:12",
+     "evento": "El tren pasa por la baliza de pie de la señal 626 en verde a 90 km/h"
+    },
+    {
+     "hora": "00:30:20",
+     "evento": "El tren pasa por la baliza previa de la señal intermedia 642 en vía libre a 95 km/h. El encargado de trabajos coloca la barra de shuntado en vía II, la señal 642 pasa de verde a rojo"
+    },
+    {
+     "hora": "00:30:34",
+     "evento": "El tren pasa por la baliza de pie de la señal 642 a 94 km/h; la señal está en rojo. Se activa el freno de urgencia por ASFA"
+    },
+    {
+     "hora": "00:30",
+     "evento": "El encargado de trabajos observa luces del tren aproximándose por vía II y ordena a los operarios salir de la vía"
+    },
+    {
+     "hora": "00:31:07",
+     "evento": "El tren LK500 queda detenido a 533 metros de la señal 642, en PK 64+600"
+    },
+    {
+     "hora": "00:31:58",
+     "evento": "Según registrador del tren (con desfase +45s): tren detenido tras recorrer 533 m desde activación del freno"
+    },
+    {
+     "hora": "00:33:21",
+     "evento": "Llamada del encargado de trabajos al jefe de CTC informando del tren circulando por vía bloqueada; el jefe de CTC reconoce el error"
+    },
+    {
+     "hora": "08:57",
+     "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0043/2013",
+ "expediente": "0043/13",
+ "anio": 2013,
+ "titulo": "INFORME FINAL SOBRE EL INCIDENTE FERROVIARIO Nº 0043/2013 OCURRIDO EL DÍA 04.06.2013 ENTRE LAS ESTACIONES DE SANT SADURNÍ D’ANOIA Y MARTORELL",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF_040613_230914_CIAF.md"
+}

@@ -1,0 +1,1409 @@
+{
+ "id": "ES-6201 - 210520-200124-IF-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/210520-200124-if-ciaf.pdf",
+ "pdf": "pdfs/ES/ES-6201 - 210520-200124-IF-CIAF.pdf",
+ "md5_pdf": "8c906c879cee81dc23e947779a0d8515",
+ "paginas_md": 73,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 4,
+ "n_tablas": 10,
+ "tablas": [
+  {
+   "pagina": 6,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF y ADIF-AV",
+     "Número": "04/2020-1",
+     "Recomendación": "Formalizar protocolos de verificación de agujas, según sus características, que determinen otras comprobaciones además de las visuales y acústicas, para garantizar el acoplamiento y encerrojamiento de las mismas en caso de operaciones de reparación y ajuste, antes de permitir la circulación sobre ellas."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF y ADIF-AV",
+     "Número": "04/2020-2",
+     "Recomendación": "Asegurar la idoneidad de los participantes en los trabajos correctivos de reparación urgente en base a su capacitación, experiencia y, en su caso, habilitación."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF y ADIF-AV",
+     "Número": "04/2020-3",
+     "Recomendación": "Exigencia en los PPT para la contratación de los servicios de mantenimiento de establecer condiciones y requisitos específicos de seguridad y sus mecanismos de supervisión; así como de garantizar la coordinación con otros contratistas y con el resto de la organización de ADIF."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 7,
+   "cabecera": [
+    "Fecha",
+    "Actividad",
+    "Realizada por:"
+   ],
+   "filas": [
+    {
+     "Fecha": "24/01/2020- 26/01/2020",
+     "Actividad": "Toma de fotos en el lugar del descarrilamiento",
+     "Realizada por:": "ADIF y Renfe Viajeros"
+    },
+    {
+     "Fecha": "30/01/2020",
+     "Actividad": "Medición del material rodante",
+     "Realizada por:": "ADIF y Renfe Viajeros"
+    }
+   ],
+   "cita": "| Fecha | Actividad | Realizada por: |"
+  },
+  {
+   "pagina": 8,
+   "cabecera": [
+    "24/01/2020",
+    "Delegado Territorial de ADIF Norte realizó entrevista al Piloto de Seguridad de la Brigada de desvíos"
+   ],
+   "filas": [
+    {
+     "24/01/2020": "29/01/2020",
+     "Delegado Territorial de ADIF Norte realizó entrevista al Piloto de Seguridad de la Brigada de desvíos": "Delegado Territorial de ADIF Norte realizó entrevista a cada uno del personal de ADIF implicado en el suceso y al maquinista de Renfe Viajeros."
+    }
+   ],
+   "cita": "| 24/01/2020 | Delegado Territorial de ADIF Norte realizó entrevista al Piloto de Seguridad de la Brigada de desvíos |"
+  },
+  {
+   "pagina": 23,
+   "cabecera": [
+    "Horas CRC",
+    "Hora registrador 04171",
+    "Evento",
+    "Velocidad (km/h)"
+   ],
+   "filas": [
+    {
+     "Horas CRC": "18:28:17",
+     "Hora registrador 04171": "18:24:50",
+     "Evento": "Paso por baliza de la señal E'9 con indicación de anuncio de parada",
+     "Velocidad (km/h)": "182,2"
+    },
+    {
+     "Horas CRC": "18:29:26",
+     "Hora registrador 04171": "18:25:59",
+     "Evento": "Paso por baliza previa de la señal E9 con indicación de parada",
+     "Velocidad (km/h)": "61,2"
+    },
+    {
+     "Horas CRC": "18:29:26",
+     "Hora registrador 04171": "18:25:59",
+     "Evento": "Aplicación de freno de emergencia por el sistema ASFA Digital al circular a velocidad superior a la velocidad de intervención de frenado en control al paso por la baliza previa de la señal de parada",
+     "Velocidad (km/h)": "61,2"
+    },
+    {
+     "Horas CRC": "18:29:41",
+     "Hora registrador 04171": "18:26:14",
+     "Evento": "Detención del tren",
+     "Velocidad (km/h)": "0"
+    },
+    {
+     "Horas CRC": "18:56:42",
+     "Hora registrador 04171": "18:53:15",
+     "Evento": "Emprende marcha",
+     "Velocidad (km/h)": "0"
+    },
+    {
+     "Horas CRC": "18:57:13",
+     "Hora registrador 04171": "18:53:46",
+     "Evento": "Paso por la baliza de la señal E9 en indicación de parada con rebase autorizado",
+     "Velocidad (km/h)": "25,6"
+    },
+    {
+     "Horas CRC": "19:00:18",
+     "Hora registrador 04171": "18:56:51",
+     "Evento": "Paso por la baliza de anuncio a LVI",
+     "Velocidad (km/h)": "9,2"
+    },
+    {
+     "Horas CRC": "19:00:19",
+     "Hora registrador 04171": "18:56:52",
+     "Evento": "Pulsación rebase autorizado",
+     "Velocidad (km/h)": "9,2"
+    },
+    {
+     "Horas CRC": "19:00:21",
+     "Hora registrador 04171": "18:56:54",
+     "Evento": "Aplicación de freno de emergencia por falta de reconocimiento LVI en un tiempo inferior a 3s",
+     "Velocidad (km/h)": "9,2"
+    },
+    {
+     "Horas CRC": "19:00:27",
+     "Hora registrador 04171": "18:57:00",
+     "Evento": "Detención",
+     "Velocidad (km/h)": "0"
+    },
+    {
+     "Horas CRC": "19:00:44",
+     "Hora registrador 04171": "18:57:17",
+     "Evento": "Inicia el movimiento",
+     "Velocidad (km/h)": "0"
+    },
+    {
+     "Horas CRC": "19:00:47",
+     "Hora registrador 04171": "18:57:20",
+     "Evento": "Paso por la punta de la aguja nº4",
+     "Velocidad (km/h)": "2,5"
+    },
+    {
+     "Horas CRC": "19:01:00",
+     "Hora registrador 04171": "18:57:33",
+     "Evento": "Descarrilamiento del primer bogie",
+     "Velocidad (km/h)": "8,5"
+    },
+    {
+     "Horas CRC": "19:01:05",
+     "Hora registrador 04171": "18:57:38",
+     "Evento": "Activación freno de urgencia",
+     "Velocidad (km/h)": "8,5"
+    },
+    {
+     "Horas CRC": "19:01:09",
+     "Hora registrador 04171": "18:57:42",
+     "Evento": "Detención del vehículo",
+     "Velocidad (km/h)": "0"
+    },
+    {
+     "Horas CRC": "19:01:49",
+     "Hora registrador 04171": "18:58:22",
+     "Evento": "Indicación de averías en el sistema de cambio de ancho",
+     "Velocidad (km/h)": "0"
+    }
+   ],
+   "cita": "| Horas CRC | Hora registrador 04171 | Evento | Velocidad (km/h) |"
+  },
+  {
+   "pagina": 28,
+   "cabecera": [
+    "",
+    "Hora",
+    "Mando",
+    "Comprobación",
+    "CVA6",
+    "CVA4"
+   ],
+   "filas": [
+    {
+     "Hora": "-",
+     "Mando": "Directa",
+     "Comprobación": "-",
+     "CVA6": "-",
+     "CVA4": ""
+    },
+    {
+     "Hora": "18:43:53",
+     "Mando": "Desviada",
+     "Comprobación": "No comprueba",
+     "CVA6": "-",
+     "CVA4": "-"
+    },
+    {
+     "Hora": "Directa",
+     "Mando": "Directa",
+     "Comprobación": "-",
+     "CVA6": "-",
+     "CVA4": ""
+    },
+    {
+     "Hora": "18:45:30",
+     "Mando": "Desviada",
+     "Comprobación": "No comprueba",
+     "CVA6": "-",
+     "CVA4": "-"
+    },
+    {
+     "Hora": "Directa",
+     "Mando": "Directa",
+     "Comprobación": "-",
+     "CVA6": "-",
+     "CVA4": ""
+    },
+    {
+     "Hora": "18:51:23",
+     "Mando": "Desviada",
+     "Comprobación": "No comprueba",
+     "CVA6": "-",
+     "CVA4": "-"
+    },
+    {
+     "Hora": "-",
+     "Mando": "No comprueba",
+     "Comprobación": "Ocupación",
+     "CVA6": "-",
+     "CVA4": ""
+    },
+    {
+     "Hora": "19:00:07",
+     "Mando": "-",
+     "Comprobación": "No comprueba",
+     "CVA6": "Ocupación",
+     "CVA4": "Ocupación"
+    },
+    {
+     "Hora": "-",
+     "Mando": "No comprueba",
+     "Comprobación": "Ocupación",
+     "CVA6": "Ocupación",
+     "CVA4": ""
+    }
+   ],
+   "cita": "|   | Hora | Mando | Comprobación | CVA6 | CVA4 |"
+  },
+  {
+   "pagina": 48,
+   "cabecera": [
+    "Agente",
+    "Experiencia"
+   ],
+   "filas": [
+    {
+     "Agente": "Piloto de Seguridad",
+     "Experiencia": "16 días (10 años en otros trabajos como PS pero sólo acompañando a la brigada de vía)"
+    },
+    {
+     "Agente": "Aprendiz 1",
+     "Experiencia": "2,5 meses"
+    },
+    {
+     "Agente": "Aprendiz 2",
+     "Experiencia": "6 días"
+    },
+    {
+     "Agente": "Oficial 1ª",
+     "Experiencia": "8-9 meses"
+    }
+   ],
+   "cita": "| Agente | Experiencia |"
+  },
+  {
+   "pagina": 57,
+   "cabecera": [
+    "",
+    "Coche",
+    "Bogie",
+    "Eje",
+    "Posición Rueda",
+    ""
+   ],
+   "filas": [
+    {
+     "Coche": "",
+     "Bogie": "",
+     "Eje": "",
+     "Posición Rueda": "Izquierda"
+    },
+    {
+     "Coche": "1º",
+     "Bogie": "1º",
+     "Eje": "1º",
+     "Posición Rueda": "-"
+    },
+    {
+     "Coche": "",
+     "Bogie": "",
+     "Eje": "2º",
+     "Posición Rueda": "-"
+    },
+    {
+     "Coche": "",
+     "Bogie": "2º",
+     "Eje": "3º",
+     "Posición Rueda": "-"
+    },
+    {
+     "Coche": "",
+     "Bogie": "",
+     "Eje": "4º",
+     "Posición Rueda": "-"
+    },
+    {
+     "Coche": "2º",
+     "Bogie": "3º",
+     "Eje": "5º",
+     "Posición Rueda": "-"
+    },
+    {
+     "Coche": "",
+     "Bogie": "",
+     "Eje": "6º",
+     "Posición Rueda": "-"
+    },
+    {
+     "Coche": "",
+     "Bogie": "4º",
+     "Eje": "7º",
+     "Posición Rueda": "-"
+    },
+    {
+     "Coche": "",
+     "Bogie": "",
+     "Eje": "8º",
+     "Posición Rueda": "-"
+    },
+    {
+     "Coche": "3º",
+     "Bogie": "5º",
+     "Eje": "9º",
+     "Posición Rueda": "-"
+    },
+    {
+     "Coche": "",
+     "Bogie": "",
+     "Eje": "10º",
+     "Posición Rueda": "-"
+    },
+    {
+     "Coche": "",
+     "Bogie": "6º",
+     "Eje": "11º",
+     "Posición Rueda": "-"
+    },
+    {
+     "Coche": "",
+     "Bogie": "",
+     "Eje": "12º",
+     "Posición Rueda": "-"
+    },
+    {
+     "Coche": "4º",
+     "Bogie": "7º",
+     "Eje": "13º",
+     "Posición Rueda": "-"
+    },
+    {
+     "Coche": "",
+     "Bogie": "",
+     "Eje": "14º",
+     "Posición Rueda": "-"
+    },
+    {
+     "Coche": "",
+     "Bogie": "8º",
+     "Eje": "15º",
+     "Posición Rueda": "-"
+    },
+    {
+     "Coche": "",
+     "Bogie": "",
+     "Eje": "16º",
+     "Posición Rueda": "-"
+    }
+   ],
+   "cita": "|   | Coche | Bogie | Eje | Posición Rueda |   |"
+  },
+  {
+   "pagina": 61,
+   "cabecera": [
+    "Incidencia",
+    "",
+    "Descripción"
+   ],
+   "filas": [
+    {
+     "Incidencia": "28/4/2019",
+     "Descripción": ""
+    },
+    {
+     "Incidencia": "5/5/2019",
+     "Descripción": "A las 21:43, la aguja nº4 de bifurcación Cerrato no comprobaba a posición invertida afectando al tren 4409, a las 22:05 se presentó personal de mantenimiento quedando reparada a las 23:05. El motivo de la avería era la falta de comprobación por un tirante, de modo que se procedió a su ajuste."
+    },
+    {
+     "Incidencia": "5/11/2019",
+     "Descripción": ""
+    }
+   ],
+   "cita": "| Incidencia |   | Descripción |"
+  },
+  {
+   "pagina": 62,
+   "cabecera": [
+    "711/2019",
+    "",
+    "Ante un aviso de que la aguja nº4 de Bifurcación Cerrato no comprobaba a invertido, el personal de mantenimiento acudió a repararla y quedó funcionando correctamente a las 4:57 por lo que se dio por cerrada la incidencia debido a un fallo puntual. A las 5:30 se dio un nuevo aviso de falta de comprobación, siendo el mismo motor el que fallaba, el personal procedió a corregir la comprobación y ajustándola con ayuda de las galgas y dando como reparada la incidencia a las 7:35. A las 10:45 se dio un tercer aviso de que no comprobaba la aguja nº4. Tras una revisión detectaron la presencia de un barrón algo doblado, por lo que procedieron a enderezarlo, mandaron hacer movimientos y comprobaron que funcionaba correctamente."
+   ],
+   "filas": [
+    {
+     "711/2019": "9/12/2019",
+     "Ante un aviso de que la aguja nº4 de Bifurcación Cerrato no comprobaba a invertido, el personal de mantenimiento acudió a repararla y quedó funcionando correctamente a las 4:57 por lo que se dio por cerrada la incidencia debido a un fallo puntual. A las 5:30 se dio un nuevo aviso de falta de comprobación, siendo el mismo motor el que fallaba, el personal procedió a corregir la comprobación y ajustándola con ayuda de las galgas y dando como reparada la incidencia a las 7:35. A las 10:45 se dio un tercer aviso de que no comprobaba la aguja nº4. Tras una revisión detectaron la presencia de un barrón algo doblado, por lo que procedieron a enderezarlo, mandaron hacer movimientos y comprobaron que funcionaba correctamente.": ""
+    },
+    {
+     "711/2019": "10/12/2019",
+     "Ante un aviso de que la aguja nº4 de Bifurcación Cerrato no comprobaba a invertido, el personal de mantenimiento acudió a repararla y quedó funcionando correctamente a las 4:57 por lo que se dio por cerrada la incidencia debido a un fallo puntual. A las 5:30 se dio un nuevo aviso de falta de comprobación, siendo el mismo motor el que fallaba, el personal procedió a corregir la comprobación y ajustándola con ayuda de las galgas y dando como reparada la incidencia a las 7:35. A las 10:45 se dio un tercer aviso de que no comprobaba la aguja nº4. Tras una revisión detectaron la presencia de un barrón algo doblado, por lo que procedieron a enderezarlo, mandaron hacer movimientos y comprobaron que funcionaba correctamente.": "Ante un aviso de una falta de comprobación en la aguja 4 de Bifurcación Cerrato, el personal acudió a la aguja y encontraron el fallo en la caja de cerrojos del motor 10, por lo que procedieron a regular los cerrojos, mandaron mover el desvío 4 veces y quedó funcionando correctamente."
+    },
+    {
+     "711/2019": "23/01/2020",
+     "Ante un aviso de que la aguja nº4 de Bifurcación Cerrato no comprobaba a invertido, el personal de mantenimiento acudió a repararla y quedó funcionando correctamente a las 4:57 por lo que se dio por cerrada la incidencia debido a un fallo puntual. A las 5:30 se dio un nuevo aviso de falta de comprobación, siendo el mismo motor el que fallaba, el personal procedió a corregir la comprobación y ajustándola con ayuda de las galgas y dando como reparada la incidencia a las 7:35. A las 10:45 se dio un tercer aviso de que no comprobaba la aguja nº4. Tras una revisión detectaron la presencia de un barrón algo doblado, por lo que procedieron a enderezarlo, mandaron hacer movimientos y comprobaron que funcionaba correctamente.": ""
+    }
+   ],
+   "cita": "| 711/2019 |   | Ante un aviso de que la aguja nº4 de Bifurcación Cerrato no comprobaba a invertido, el personal de mantenimiento acudió a repararla y quedó funcionando correctamente a las 4:57 por lo"
+  },
+  {
+   "pagina": 73,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF y ADIF-AV",
+     "Número": "04/2020-1",
+     "Recomendación": "Formalizar protocolos de verificación de agujas, según sus características, que determinen otras comprobaciones además de las visuales y acústicas, para garantizar el acoplamiento y encerrojamiento de las mismas en caso de operaciones de reparación y ajuste, antes de permitir la circulación sobre ellas."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF y ADIF-AV",
+     "Número": "04/2020-2",
+     "Recomendación": "Asegurar la idoneidad de los participantes en los trabajos correctivos de reparación urgente en base a su capacitación, experiencia y, en su caso, habilitación."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF y ADIF-AV",
+     "Número": "04/2020-3",
+     "Recomendación": "Exigencia en los PPT para la contratación de los servicios de mantenimiento de establecer condiciones y requisitos específicos de seguridad y sus mecanismos de supervisión; así como de garantizar la coordinación con otros contratistas y con el resto de la organización de ADIF."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "04/2020",
+   "pagina": 1,
+   "cita": "INFORME FINAL DE LA CIAF (IF) 04/2020",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 24 de enero de 2020, el tren 04171 de Renfe Viajeros descarriló su primer bogie al pasar por el desvío nº4 de Bifurcación Cerrato. El desvío acusaba falta de comprobación a posición desviada, pero la brigada de desvíos realizó una inspección visual y acústica errónea, asumiendo que estaba correctamente dispuesto. Basándose en esta información, el Responsable de Circulación autorizó el rebase de la señal de entrada mediante telefonema, lo que derivó en el accidente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2020-01-24",
+    "hora": "19:01",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Bifurcación Cerrato",
+     "pk": "223/158",
+     "linea": "084 (Bif. Venta de Baños a León AV) / LAV Madrid - Valladolid - León",
+     "provincia": "Palencia",
+     "descripcion_lugar": "Desvío nº4, situado en una zona llana cerca de una fábrica de automóviles, en el escape de la bifurcación."
+    }
+   },
+   "pagina": 7,
+   "cita": "24/01/2020- 26/01/2020 Toma de fotos en el lugar del descarrilamiento ADIF y Renfe Viajeros 30/01/2020 Medición del material rodante ADIF y Renfe Viajeros ### Tablas de la página 7 | Fecha | Actividad | Re",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el desvío nº4 (reparación y sustitución de elementos) y en el tren (bogie, antena LZB, ventana).",
+    "afectacion_servicio": "Vía 1 interceptada durante 2 días y 3 horas. Tiempo perdido total de 590 minutos (9 horas y 50 minutos)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Disposición incompleta de la punta de la aguja a posición desviada en la zona del primer motor, lo que provocó que el tren entrara a vía directa y descarrilara.",
+   "pagina": 5,
+   "cita": "1. Disposición incompleta de la punta de la aguja a posición desviada, en la zona del primer",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Inspección errónea del desvío nº4 por parte de la brigada de desvíos.",
+    "Ausencia de una comunicación reglada entre el Oficial 1ª y el PSH.",
+    "Escasa experiencia en materia de desvíos entre los miembros de la brigada de desvíos.",
+    "Descoordinación de la brigada de desvíos con la brigada de señalización.",
+    "Limitaciones a la hora de disponer de personal con la experiencia exigida en los pliegos."
+   ],
+   "pagina": 5,
+   "cita": "2. Inspección errónea del desvío nº4 por parte de la brigada de desvíos que asumió que",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "En los procedimientos de ADIF de gestión de averías no se detalla la coordinación de diferentes equipos ni la definición del agente habilitado y el responsable técnico.",
+    "Falta de coordinación entre los distintos contratos de mantenimiento que afectan a diferentes subsistemas.",
+    "Ausencia de prescripciones en los documentos del contrato que obliguen a los contratistas a aplicar los Requisitos de Seguridad y sus mecanismos de supervisión."
+   ],
+   "pagina": 6,
+   "cita": "1. En los procedimientos de ADIF de gestión de averías no se detalla la coordinación de",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Formalizar protocolos de verificación de agujas, según sus características, que determinen otras comprobaciones además de las visuales y acústicas, para garantizar el acoplamiento y encerrojamiento de las mismas en caso de operaciones de reparación y ajuste, antes de permitir la circulación sobre ellas.",
+    "Asegurar la idoneidad de los participantes en los trabajos correctivos de reparación urgente en base a su capacitación, experiencia y, en su caso, habilitación.",
+    "Exigencia en los PPT para la contratación de los servicios de mantenimiento de establecer condiciones y requisitos específicos de seguridad y sus mecanismos de supervisión; así como de garantizar la coordinación con otros contratistas y con el resto de la organización de ADIF.",
+    "Formalizar protocolos de verificación de agujas, según sus características, que determinen otras comprobaciones además de las visuales y acústicas, para garantizar el acoplamiento y encerrojamiento de las mismas en caso de operaciones de reparación y ajuste, antes de permitir la circulación sobre ellas.",
+    "Asegurar la idoneidad de los participantes en los trabajos correctivos de reparación urgente en base a su capacitación, experiencia y, en su caso, habilitación.",
+    "Exigencia en los PPT para la contratación de los servicios de mantenimiento de establecer condiciones y requisitos específicos de seguridad y sus mecanismos de supervisión; así como de garantizar la coordinación con otros contratistas y con el resto de la organización de ADIF."
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Descarrilamiento",
+   "pagina": 23,
+   "cita": "Descarrilamiento del primer bogie",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Viajeros",
+    "ADIF",
+    "ADIF-Alta Velocidad"
+   ],
+   "pagina": 5,
+   "cita": "Al paso por la aguja nº4 de Bifurcación Cerrato el tren de Renfe Viajeros 04171, con procedencia",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2020-01-24",
+   "pagina": 7,
+   "cita": "24/01/2020- 26/01/2020 Toma de fotos en el lugar del descarrilamiento ADIF y Renfe Viajeros 30/01/2020 Medición del material rodante ADIF y Renfe Viajeros ### Tablas de la página 7 | Fecha | Actividad | Re",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "19:01",
+   "pagina": 5,
+   "cita": "Madrid Chamartín y destino Gijón San Crespo, descarriló su primer bogie a las 19:01 (41°57'59.00\"N,",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Bifurcación Cerrato",
+    "pk": "223/158",
+    "linea": "084 (Bif. Venta de Baños a León AV) / LAV Madrid - Valladolid - León",
+    "provincia": "Palencia",
+    "descripcion_lugar": "Desvío nº4, situado en una zona llana cerca de una fábrica de automóviles, en el escape de la bifurcación."
+   },
+   "pagina": 11,
+   "cita": "el momento del accidente hasta las 19:28. Finalmente se decidió dejar vía única entre las estaciones",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "LAV Madrid - Valladolid - León",
+   "pagina": 5,
+   "cita": "Bifurcación Cerrato pertenece a la LAV Madrid - Valladolid – León de la Red Ferroviaria de Interés",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Serie 121 (121.001)",
+    "averia": "Ninguna avería previa; parámetros de rodadura dentro de norma.",
+    "mantenimiento": "Revisado y reparado en el taller de Fuencarral tras el accidente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "Sobre las 18:25, el desvío nº4 de Bifurcación Cerrato no daba comprobación a posición invertida, impidiendo la apertura de la señal E9. Se avisó a la brigada de desvíos, que inspeccionó el aparato de vía de forma visual y acústica, sin levantar las tapas de los encerrojamientos ni usar galgas de comprobación. A las 18:53, el Piloto de Seguridad Habilitado (PSH) emitió un telefonema indicando erróneamente que la aguja estaba dispuesta a vía desviada y libre de trabajos. A las 18:55, el RC del CRC autorizó al tren 04171 a rebasar la señal E9 con marcha de maniobras. Al pasar por la aguja a menos de 9 km/h, el primer bogie descarriló a las 19:01 porque la punta de la aguja curva no estaba acoplada ni encerrojada en la zona del motor nº1.",
+   "pagina": 5,
+   "cita": "RESUMEN Sobre las 18:25, el desvío nº4 de Bifurcación Cerrato no daba comprobación a posición invertida y se avisó de esta situación al personal de mantenimiento. Tras las revisiones realizadas por el personal de mant",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Bifurcación Cerrato",
+    "pk": "223/158",
+    "linea": "084 (Bif. Venta de Baños a León AV) / LAV Madrid - Valladolid - León",
+    "provincia": "Palencia",
+    "descripcion_lugar": "Desvío nº4, situado en una zona llana cerca de una fábrica de automóviles, en el escape de la bifurcación."
+   },
+   "pagina": 11,
+   "cita": "el momento del accidente hasta las 19:28. Finalmente se decidió dejar vía única entre las estaciones",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el desvío nº4 (reparación y sustitución de elementos) y en el tren (bogie, antena LZB, ventana).",
+    "afectacion_servicio": "Vía 1 interceptada durante 2 días y 3 horas. Tiempo perdido total de 590 minutos (9 horas y 50 minutos)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Piloto de Seguridad Habilitado (PSH)",
+     "implicacion": "Realizó inspección errónea y emitió telefonema de entrega de vía con indicación errónea de disposición a vía desviada."
+    },
+    {
+     "rol": "Oficial 1ª de la brigada de desvíos",
+     "implicacion": "Coordinó la inspección visual y acústica deficiente del desvío, sin comprobar el encerrojamiento mecánico."
+    },
+    {
+     "rol": "Responsable de Circulación del CRC (RC del CRC)",
+     "implicacion": "Autorizó el rebase de la señal E9 basándose en el telefonema erróneo del PSH."
+    },
+    {
+     "rol": "Maquinista del tren 04171",
+     "implicacion": "Rebasó la señal E9 con autorización y frenó de emergencia por no reconocer la LVI, reanudando la marcha hasta descarrilar."
+    }
+   ],
+   "pagina": 12,
+   "cita": "El Piloto de Seguridad Habilitado (PSH). Personal de GORCAM, empresa subcontratista de la",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "04171",
+     "tipo": "Intercity",
+     "operador": "Renfe Viajeros",
+     "danos": "Sustitución del bogie afectado, de la antena LZB receptora y de la ventana exterior rota."
+    },
+    {
+     "numero": "97753",
+     "tipo": "Tren de transbordo (UT 114.001)",
+     "operador": "Renfe",
+     "danos": null
+    }
+   ],
+   "pagina": 5,
+   "cita": "04171 con marcha de maniobras mediante telefonema, amparado en el telefonema del PSH que",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Serie 121 (121.001)",
+    "averia": "Ninguna avería previa; parámetros de rodadura dentro de norma.",
+    "mantenimiento": "Revisado y reparado en el taller de Fuencarral tras el accidente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Mantenimiento",
+   "pagina": 8,
+   "cita": "y a la Dirección de Mantenimiento por parte de ADIF y a la Dirección de Seguridad en la Circulación",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Enclavamiento electrónico SMARTLOCK-300, ASFA Digital, ERTMS Nivel 2, Bloqueo de Señalización Lateral (BSL).",
+    "tipo_via": "Línea de Alta Velocidad (LAV)",
+    "velocidad_maxima": "150 km/h",
+    "ancho": "UIC (1.435 mm)",
+    "electrificacion": "25 kV, corriente alterna",
+    "estado_via": "Desvío nº4 con falta de comprobación a posición desviada y disposición incompleta de la punta de la aguja.",
+    "otro": "Desvío tipo VL 17 007 AV4, apto para 220 km/h, con 14 accionamientos."
+   },
+   "pagina": 17,
+   "cita": "km/h. Las características de línea son iguales en todos ellos: ancho UIC (1.435 mm), electrificada (25",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Enclavamiento electrónico SMARTLOCK-300, ASFA Digital, ERTMS Nivel 2, Bloqueo de Señalización Lateral (BSL).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el desvío nº4 (reparación y sustitución de elementos) y en el tren (bogie, antena LZB, ventana).",
+    "afectacion_servicio": "Vía 1 interceptada durante 2 días y 3 horas. Tiempo perdido total de 590 minutos (9 horas y 50 minutos)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el desvío nº4 (reparación y sustitución de elementos) y en el tren (bogie, antena LZB, ventana).",
+    "afectacion_servicio": "Vía 1 interceptada durante 2 días y 3 horas. Tiempo perdido total de 590 minutos (9 horas y 50 minutos)."
+   },
+   "pagina": 2,
+   "cita": "Comisión de Investigación de Accidentes Ferroviarios – CIAF",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el desvío nº4 (reparación y sustitución de elementos) y en el tren (bogie, antena LZB, ventana).",
+    "afectacion_servicio": "Vía 1 interceptada durante 2 días y 3 horas. Tiempo perdido total de 590 minutos (9 horas y 50 minutos)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 121 (121.001)",
+    "averia": "Ninguna avería previa; parámetros de rodadura dentro de norma.",
+    "mantenimiento": "Revisado y reparado en el taller de Fuencarral tras el accidente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Enclavamiento electrónico SMARTLOCK-300, ASFA Digital, ERTMS Nivel 2, Bloqueo de Señalización Lateral (BSL).",
+    "tipo_via": "Línea de Alta Velocidad (LAV)",
+    "velocidad_maxima": "150 km/h",
+    "ancho": "UIC (1.435 mm)",
+    "electrificacion": "25 kV, corriente alterna",
+    "estado_via": "Desvío nº4 con falta de comprobación a posición desviada y disposición incompleta de la punta de la aguja.",
+    "otro": "Desvío tipo VL 17 007 AV4, apto para 220 km/h, con 14 accionamientos."
+   },
+   "pagina": 17,
+   "cita": "km/h. Las características de línea son iguales en todos ellos: ancho UIC (1.435 mm), electrificada (25",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Llovizna, cielo nublado, anochecer con poca visibilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Palencia",
+    "municipio": null,
+    "estacion": "Bifurcación Cerrato"
+   },
+   "pagina": 1,
+   "cita": "Bifurcación Cerrato (Palencia).",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Llovizna, cielo nublado, anochecer con poca visibilidad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Enclavamiento electrónico SMARTLOCK-300, ASFA Digital, ERTMS Nivel 2, Bloqueo de Señalización Lateral (BSL).",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Enclavamiento electrónico SMARTLOCK-300, ASFA Digital, ERTMS Nivel 2, Bloqueo de Señalización Lateral (BSL).",
+    "tipo_via": "Línea de Alta Velocidad (LAV)",
+    "velocidad_maxima": "150 km/h",
+    "ancho": "UIC (1.435 mm)",
+    "electrificacion": "25 kV, corriente alterna",
+    "estado_via": "Desvío nº4 con falta de comprobación a posición desviada y disposición incompleta de la punta de la aguja.",
+    "otro": "Desvío tipo VL 17 007 AV4, apto para 220 km/h, con 14 accionamientos."
+   },
+   "pagina": 17,
+   "cita": "km/h. Las características de línea son iguales en todos ellos: ancho UIC (1.435 mm), electrificada (25",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Serie 121 (121.001)",
+    "averia": "Ninguna avería previa; parámetros de rodadura dentro de norma.",
+    "mantenimiento": "Revisado y reparado en el taller de Fuencarral tras el accidente."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Falta comprobación posición desviada aguja",
+    "Inspección errónea brigada de desvíos",
+    "Autorización rebase señal por telefonema",
+    "Desconocimiento causa falta comprobación"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "Sobre las 18:25, el desvío nº4 de Bifurcación Cerrato no daba comprobación a posición invertida, impidiendo la apertura de la señal E9. Se avisó a la brigada de desvíos, que inspeccionó el aparato de vía de forma visual y acústica, sin levantar las tapas de los encerrojamientos ni usar galgas de comprobación. A las 18:53, el Piloto de Seguridad Habilitado (PSH) emitió un telefonema indicando erróneamente que la aguja estaba dispuesta a vía desviada y libre de trabajos. A las 18:55, el RC del CRC autorizó al tren 04171 a rebasar la señal E9 con marcha de maniobras. Al pasar por la aguja a menos de 9 km/h, el primer bogie descarriló a las 19:01 porque la punta de la aguja curva no estaba acoplada ni encerrojada en la zona del motor nº1.",
+   "pagina": 5,
+   "cita": "RESUMEN Sobre las 18:25, el desvío nº4 de Bifurcación Cerrato no daba comprobación a posición invertida y se avisó de esta situación al personal de mantenimiento. Tras las revisiones realizadas por el personal de mant",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Disposición incompleta de la punta de la aguja a posición desviada en la zona del primer motor, lo que provocó que el tren entrara a vía directa y descarrilara.",
+   "pagina": 5,
+   "cita": "1. Disposición incompleta de la punta de la aguja a posición desviada, en la zona del primer",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Inspección errónea del desvío nº4 por parte de la brigada de desvíos.",
+    "Ausencia de una comunicación reglada entre el Oficial 1ª y el PSH.",
+    "Escasa experiencia en materia de desvíos entre los miembros de la brigada de desvíos.",
+    "Descoordinación de la brigada de desvíos con la brigada de señalización.",
+    "Limitaciones a la hora de disponer de personal con la experiencia exigida en los pliegos."
+   ],
+   "pagina": 5,
+   "cita": "2. Inspección errónea del desvío nº4 por parte de la brigada de desvíos que asumió que",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Formalizar protocolos de verificación de agujas, según sus características, que determinen otras comprobaciones además de las visuales y acústicas, para garantizar el acoplamiento y encerrojamiento de las mismas en caso de operaciones de reparación y ajuste, antes de permitir la circulación sobre ellas.",
+    "Asegurar la idoneidad de los participantes en los trabajos correctivos de reparación urgente en base a su capacitación, experiencia y, en su caso, habilitación.",
+    "Exigencia en los PPT para la contratación de los servicios de mantenimiento de establecer condiciones y requisitos específicos de seguridad y sus mecanismos de supervisión; así como de garantizar la coordinación con otros contratistas y con el resto de la organización de ADIF.",
+    "Formalizar protocolos de verificación de agujas, según sus características, que determinen otras comprobaciones además de las visuales y acústicas, para garantizar el acoplamiento y encerrojamiento de las mismas en caso de operaciones de reparación y ajuste, antes de permitir la circulación sobre ellas.",
+    "Asegurar la idoneidad de los participantes en los trabajos correctivos de reparación urgente en base a su capacitación, experiencia y, en su caso, habilitación.",
+    "Exigencia en los PPT para la contratación de los servicios de mantenimiento de establecer condiciones y requisitos específicos de seguridad y sus mecanismos de supervisión; así como de garantizar la coordinación con otros contratistas y con el resto de la organización de ADIF."
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "ADIF y ADIF-AV",
+    "ADIF y ADIF-AV",
+    "ADIF y ADIF-AV",
+    "ADIF y ADIF-AV",
+    "ADIF y ADIF-AV",
+    "ADIF y ADIF-AV"
+   ],
+   "pagina": 6,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "18:25",
+     "evento": "El desvío nº4 no da comprobación a posición invertida."
+    },
+    {
+     "hora": "18:26",
+     "evento": "El tren 04171 se detiene ante la señal E9 por actuación del freno ASFA."
+    },
+    {
+     "hora": "18:40",
+     "evento": "Llegada de la brigada de desvíos y solicitud de trabajos en la aguja."
+    },
+    {
+     "hora": "18:53",
+     "evento": "El PSH emite telefonema indicando erróneamente que la aguja está dispuesta a vía desviada."
+    },
+    {
+     "hora": "18:55",
+     "evento": "El RC del CRC autoriza al tren 04171 a rebasar la señal E9 con marcha de maniobras."
+    },
+    {
+     "hora": "19:01",
+     "evento": "Descarrilamiento del primer bogie del tren 04171 al pasar por el desvío nº4."
+    },
+    {
+     "hora": "19:25",
+     "evento": "Se autoriza el paso de trenes por vía 2 con marcha a la vista."
+    },
+    {
+     "hora": "20:26",
+     "evento": "Llegada del tren 97753 para el transbordo de los pasajeros del tren accidentado."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0004/2020",
+ "expediente": "004/20",
+ "anio": 2020,
+ "titulo": "Accidente ferroviario ocurrido el día 24 de enero de 2020 en Bifurcación Cerrato (Palencia)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES-6201 - 210520-200124-IF-CIAF.md"
+}

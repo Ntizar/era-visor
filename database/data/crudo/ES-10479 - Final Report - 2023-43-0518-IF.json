@@ -1,0 +1,1054 @@
+{
+ "id": "ES-10479 - Final Report - 2023-43-0518-IF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/paginabasica/recursos/2023-43-0518-if.pdf",
+ "pdf": "pdfs/ES/ES-10479 - Final Report - 2023-43-0518-IF.pdf",
+ "md5_pdf": "b4399829cd4cd8e1ff37798dac3b41f8",
+ "paginas_md": 27,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 35,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 22,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ALSTOM",
+     "Número": "43/2023-1",
+     "Recomendación": "Implementar mecanismos que aseguren la disponibilidad de datos de explotación antes de la generación del software y, en el caso de partir de hipótesis, diseñar métodos que realicen el seguimiento y validación de estas."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ALSTOM",
+     "Número": "43/2023-2",
+     "Recomendación": "Establecer procedimientos de doble comprobación por parte del equipo de Safety sobre las campañas de pruebas diseñadas por V&V y especialmente sobre los errores que los primeros hayan detectado, para confirmar su gestión y solución."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ALSTOM",
+     "Número": "43/2023-3",
+     "Recomendación": "Incluir en los procedimientos de Alstom mecanismos específicos que analicen las fronteras existentes y las nuevas que se creen, así como su alcance, y en su caso las pruebas necesarias para su correcta implementación."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF",
+     "Número": "43/2023-4",
+     "Recomendación": "Incluir en el SGS de ADIF mecanismos específicos que analicen las fronteras existentes y las nuevas que se creen, así como su alcance, y en su caso las pruebas necesarias para su correcta implementación."
+    },
+    {
+     "Destinatario": "AESF",
+     "Implementador final": "ADIF",
+     "Número": "43/2023-5",
+     "Recomendación": "Desarrollar herramientas tecnológicas que permitan una mayor agilidad tanto en el registro como en la realización de las pruebas detalladas en la IT-205-002-001 “Realización de pruebas en Fábrica”, así como la mejora de dichos protocolos, que garantice un cumplimiento riguroso de los mismos."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 27,
+   "cabecera": [
+    "Addressee",
+    "Final Implementer",
+    "Number",
+    "Recommendation"
+   ],
+   "filas": [
+    {
+     "Addressee": "AESF (NSA-ES)",
+     "Final Implementer": "ALSTOM (software developer)",
+     "Number": "43/2023-1",
+     "Recommendation": "To implement tools to ensure the availability of operating data prior to software generation and, in the case of setting hypotheses, to design methods to monitor and validate them."
+    },
+    {
+     "Addressee": "AESF (NSA- ES)",
+     "Final Implementer": "ALSTOM (software developer)",
+     "Number": "43/2023-2",
+     "Recommendation": "To establish double-checking procedures by the Safety team on the test campaigns designed by V&V, and especially on the errors detected by the former ones, in order to confirm their management and solution."
+    },
+    {
+     "Addressee": "AESF (NSA- ES)",
+     "Final Implementer": "ALSTOM (software developer)",
+     "Number": "43/2023-3",
+     "Recommendation": "To include in Alstom's procedures specific tools that analyse existing and new boundaries to be created, as well as their scope and, if applicable, the necessary tests for their correct implementation."
+    },
+    {
+     "Addressee": "AESF (NSA- ES)",
+     "Final Implementer": "ADIF (IM)",
+     "Number": "43/2023-4",
+     "Recommendation": "To include in ADIF's SMS specific tools to analyse existing and new boundaries, as well as their scope and, if applicable, the necessary tests for their correct implementation."
+    },
+    {
+     "Addressee": "AESF (NSA- ES)",
+     "Final Implementer": "ADIF (IM)",
+     "Number": "43/2023-5",
+     "Recommendation": "To develop technological tools that allow greater agility both in the registration and in the performance of the tests detailed in IT-205-002-001 \"Performance of Factory Tests\", as well as the improvement of these protocols, to ensure strict compliance with them."
+    }
+   ],
+   "cita": "| Addressee | Final Implementer | Number | Recommendation |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "43/2023",
+   "pagina": 1,
+   "cita": "INFORME FINAL DE LA CIAF (IF) 43/2023",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 18 de mayo de 2023 a las 19:00, el tren de mercancías 55115 de RENFE Mercancías se aproximaba a la estación de Les Borges del Camp (línea 210, Tarragona). El maquinista accionó el freno de emergencia al detectar una secuencia de señales incorrecta (avanzada en vía libre cuando debía estar en anuncio de parada) debido a una insuficiente distancia de frenado entre la señal de entrada E1 y la de salida S1/1. El origen fue un error en el software de enclavamiento instalado el 27 de febrero de 2023 dentro del proyecto 'Centralización de Bloqueos Reus-Mora', desarrollado por Alstom. No hubo víctimas ni daños materiales. La CIAF emitió 5 recomendaciones dirigidas a AESF para Alstom y ADIF.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2023-05-18",
+    "hora": "19:00",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Les Borges del Camp",
+     "pk": "573+750",
+     "linea": "210",
+     "provincia": "Tarragona",
+     "descripcion_lugar": "Estación de Les Borges del Camp, vía general (Vía 1), a la altura de la señal de entrada E1 lado Reus. Estaciones colaterales: Reus y Riudecanyes-Botarell. La estación cuenta con una vía general y cuatro vías de apartado, una de las cuales acaba en mango. Distancia entre señal de entrada E1 y señal de salida S1/1: 444 metros. Señal avanzada: 5737."
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 18/05/2023 a las 19:00 horas el tren 55115 de la empresa RENFE Mercancías se aproximaba a",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Retraso acumulado de 12 minutos para dos trenes de Renfe Mercancías el día 19 de mayo de 2023. Medida inmediata: retirada de lámparas del foco verde de las avanzadas de los enclavamientos afectados (madrugada del 18 al 19 de mayo de 2023)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Error en el software de enclavamiento instalado el 27/02/2023 que generaba una secuencia de señales incorrecta (Verde-Amarillo-Rojo en lugar de Amarillo-Amarillo-Rojo) para los itinerarios de entrada a vía principal, debido a una hipótesis errónea durante el diseño que asumía suficiente distancia de frenado entre la señal de entrada y la de salida.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No se hizo seguimiento ni verificación de las hipótesis de partida durante el desarrollo del software, asumiéndose como válidas hasta la versión final.",
+    "La campaña de pruebas del tecnólogo (Alstom) no incluyó la prueba necesaria para detectar el error en la secuencia de señales de los itinerarios de entrada a vía general.",
+    "El equipo de Safety de Alstom detectó la ausencia de pruebas en revisión de la versión C de la Campaña de pruebas, pero por error no se corrigió en la campaña.",
+    "Las pruebas conjuntas con ADIF no detectaron el error presente.",
+    "Falta de definición de la frontera del proyecto entre bloqueo y enclavamiento, tanto por parte del tecnólogo como del responsable de infraestructura.",
+    "Desde 2009, la señal avanzada no estaba incluida en el software del enclavamiento (seguía controlada por relés), situación no evaluada correctamente al centralizar los bloqueos.",
+    "La GAPI de ADIF no elaboró el Anexo 3 'Protocolo de pruebas estándar de bloqueo' de la IT-205-002-001.",
+    "El 'Protocolo de pruebas estándar de bloqueo' de la IT-205-002-001 carece de un desarrollo que concrete cómo registrar cada prueba."
+   ],
+   "pagina": 16,
+   "cita": "5. Las pruebas conjuntas con ADIF no detectaron el error presente.",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Falta de mecanismos para asegurar la disponibilidad de datos de explotación antes de la generación del software y para el seguimiento y validación de hipótesis.",
+    "Ausencia de procedimientos de doble comprobación por el equipo de Safety sobre las campañas de pruebas diseñadas por V&V.",
+    "Inexistencia de mecanismos específicos en los procedimientos de Alstom y en el SGS de ADIF para analizar fronteras existentes y nuevas entre sistemas.",
+    "Falta de herramientas tecnológicas que permitan agilidad en el registro y realización de pruebas detalladas en la IT-205-002-001."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Implementar mecanismos que aseguren la disponibilidad de datos de explotación antes de la generación del software y, en el caso de partir de hipótesis, diseñar métodos que realicen el seguimiento y validación de estas.",
+    "Establecer procedimientos de doble comprobación por parte del equipo de Safety sobre las campañas de pruebas diseñadas por V&V y especialmente sobre los errores que los primeros hayan detectado, para confirmar su gestión y solución.",
+    "Incluir en los procedimientos de Alstom mecanismos específicos que analicen las fronteras existentes y las nuevas que se creen, así como su alcance, y en su caso las pruebas necesarias para su correcta implementación.",
+    "Incluir en el SGS de ADIF mecanismos específicos que analicen las fronteras existentes y las nuevas que se creen, así como su alcance, y en su caso las pruebas necesarias para su correcta implementación.",
+    "Desarrollar herramientas tecnológicas que permitan una mayor agilidad tanto en el registro como en la realización de las pruebas detalladas en la IT-205-002-001 “Realización de pruebas en Fábrica”, así como la mejora de dichos protocolos, que garantice un cumplimiento riguroso de los mismos."
+   ],
+   "pagina": 22,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 22,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Fallo de señalización",
+   "pagina": 1,
+   "cita": "Fallo de señalización en Les Borges del Camp (Tarragona),",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Mercancías",
+    "ADIF"
+   ],
+   "pagina": 4,
+   "cita": "ADIF Administrador de Infraestructuras Ferroviarias AESF Agencia Estatal de Seguridad Ferroviaria ASFA Anuncio de Señales y Frenado Automático BAU Bloqueo Automático en Vía Única CIAF Comisión de Investigación d",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2023-05-18",
+   "pagina": 5,
+   "cita": "El día 18/05/2023 a las 19:00 horas el tren 55115 de la empresa RENFE Mercancías se aproximaba a",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "19:00",
+   "pagina": 5,
+   "cita": "El día 18/05/2023 a las 19:00 horas el tren 55115 de la empresa RENFE Mercancías se aproximaba a",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Les Borges del Camp",
+    "pk": "573+750",
+    "linea": "210",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Estación de Les Borges del Camp, vía general (Vía 1), a la altura de la señal de entrada E1 lado Reus. Estaciones colaterales: Reus y Riudecanyes-Botarell. La estación cuenta con una vía general y cuatro vías de apartado, una de las cuales acaba en mango. Distancia entre señal de entrada E1 y señal de salida S1/1: 444 metros. Señal avanzada: 5737."
+   },
+   "pagina": 5,
+   "cita": "27/02/2023, que incluía la “Centralización de Bloqueos Reus-Mora”, en las estaciones del tramo: Els",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "línea 210",
+   "pagina": 9,
+   "cita": "19:00 h en el p.k. 573+750 de la línea 210, correspondiente a la estación de Les Borges del Camp,",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora serie 253 (253081) + 10 vagones PRR (cisterna particular)",
+    "averia": "ninguna",
+    "mantenimiento": "no aplica"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 18 de mayo de 2023 a las 19:00 horas, el tren 55115 de RENFE Mercancías se aproximaba a la estación de Les Borges del Camp, en la línea 210, recibiendo itinerario dispuesto a vía 1 para notificarle que el paso a nivel del km 567+603 entre Les Borges del Camp y Riudecanyes-Botarell se encontraba sin protección. La secuencia de señales era: salida S1/1 en indicación de parada, entrada E1 en anuncio de parada y avanzada 5737 en indicación de vía libre. A la altura de la señal E1, el maquinista accionó el freno de emergencia al apreciar que la secuencia no era correcta, ya que no existía suficiente distancia de frenado (444 m) entre E1 y S1/1. El maquinista comunicó la incidencia al Responsable de Circulación del CRC de Zaragoza (El Portillo). El RC consultó la Consigna Serie A nº 2607 del 03/05/2022 y comprobó que la secuencia correcta debía ser Amarillo-Amarillo-Rojo (avanzada/entrada/salida), no Verde-Amarillo-Rojo como mostraba el software.\n\nLa última actuación relacionada con la señalización fue la puesta en servicio el 27 de febrero de 2023 del proyecto 'Centralización de Bloqueos Reus-Mora', que incluía una nueva versión del software de enclavamiento para las estaciones de Els Guiamets, Marça-Falset, Pradell de la Teixeta, Riudecanyes-Botarell y Les Borges del Camp. El software, desarrollado por Alstom Group, partió de una hipótesis errónea sobre la secuencia de señales, al considerar que existía suficiente distancia de frenado cuando en realidad no la había. La campaña de pruebas interna de Alstom no incluyó la prueba específica que habría detectado el error, y las pruebas conjuntas con ADIF tampoco lo detectaron.\n\nComo medida inmediata, la madrugada del 18 al 19 de mayo de 2023 se retiraron las lámparas del foco verde de las avanzadas de los enclavamientos afectados, eliminando los aspectos de Vía Libre y Anuncio de Precaución. Posteriormente, se actualizó el software del enclavamiento para que la avanzada mostrara amarillo cuando la entrada fuera amarilla, poniéndose en servicio la nueva versión los días 7 y 8 de junio de 2023.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Les Borges del Camp",
+    "pk": "573+750",
+    "linea": "210",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Estación de Les Borges del Camp, vía general (Vía 1), a la altura de la señal de entrada E1 lado Reus. Estaciones colaterales: Reus y Riudecanyes-Botarell. La estación cuenta con una vía general y cuatro vías de apartado, una de las cuales acaba en mango. Distancia entre señal de entrada E1 y señal de salida S1/1: 444 metros. Señal avanzada: 5737."
+   },
+   "pagina": 5,
+   "cita": "27/02/2023, que incluía la “Centralización de Bloqueos Reus-Mora”, en las estaciones del tramo: Els",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Retraso acumulado de 12 minutos para dos trenes de Renfe Mercancías el día 19 de mayo de 2023. Medida inmediata: retirada de lámparas del foco verde de las avanzadas de los enclavamientos afectados (madrugada del 18 al 19 de mayo de 2023)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Como medida inmediata tras el suceso, y una vez constatado el fallo de señalización se procedió a la \nretirada de lámparas y fusibles la madrugada del 18 al 19 de mayo de 2023. En concreto, se retiraron \n\n## Página 21\n\n \nInforme Final de la CIAF 43/2023 \n \n \n \n \n \n \n \n \n \n \n \n \n21 \n \nlas lámparas del foco verde de las señales avanzadas. De esta forma, las señales avanzadas dejaban \nde ofrecer los aspectos de Vía Libre y Anuncio de Precaución.  \nA continuación, y una vez comprobado que el origen del fallo de señalización se debía a un error en \nel software, se tomó la decisión de actualizar el software del enclavamiento, para modificar la \nfuncionalidad, de forma que la señal de avanzada mostrara aspecto amarillo cuando la señal de \nentrada fuera igualmente amarilla, según se describía en la consigna. Esta nueva versión del software \nfue puesta en servicio los días 7 y 8 de junio de 2023, con lo cual, se solventó el fallo de señalización.",
+   "pagina": 20,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 55115 (RENFE Mercancías)",
+     "implicacion": "Detectó la incoherencia en la secuencia de señales, accionó el freno de emergencia y alertó al RC"
+    },
+    {
+     "rol": "Responsable de Circulación (RC) de la banda de Tarragona del CRC de Zaragoza (El Portillo), personal de ADIF",
+     "implicacion": "Consultó la Consigna Serie A y confirmó la discrepancia entre la secuencia mostrada y la correcta"
+    },
+    {
+     "rol": "Equipo de Ingeniería de Alstom (desarrollo de software)",
+     "implicacion": "Partió de una hipótesis errónea sobre la secuencia de señales (V-A-R en lugar de A-A-R) y no la verificó"
+    },
+    {
+     "rol": "Equipo de V&V de Alstom (Verificación y Validación)",
+     "implicacion": "Elaboró la campaña de pruebas que no incluyó la prueba necesaria para detectar el error"
+    },
+    {
+     "rol": "Equipo de Safety de Alstom",
+     "implicacion": "Detectó la ausencia de pruebas en revisión de la versión C de la Campaña de pruebas, pero el error no se corrigió"
+    },
+    {
+     "rol": "Personal de GAPI de ADIF (Gerencia de Área de Programación e Instalaciones)",
+     "implicacion": "Participó en pruebas conjuntas que no detectaron el fallo; no elaboró el Anexo 3 'Protocolo de pruebas estándar de bloqueo'"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": "Resultan relevantes para la investigación de este suceso las actuaciones previas del personal \nferroviario siguiente: \n➢ Responsable de Circulación de la banda de Tarragona del CRC de Zaragoza (El Portillo), \npersonal de ADIF.  \n➢ Maquinista del tren 55115 de RENFE Mercancías.  \nLas entidades relacionadas con el accidente son las siguientes:  \n➢ ADIF: Administrador de Infraestructuras Ferroviarias. \n➢ RENFE Mercancías: Empresa Ferroviaria del tren implicado en el suceso. \n➢ Alstom Group: Tecnólogo suministrador de instalaciones del proyecto.",
+   "pagina": 10,
+   "cita": "3.1.4. Personal y entidades",
+   "origen": "determinista",
+   "regla": "sec:^viajeros, personal y terceros",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "55115",
+     "tipo": "tren de mercancías",
+     "operador": "RENFE Mercancías",
+     "danos": "ninguno"
+    }
+   ],
+   "pagina": 5,
+   "cita": "El día 18/05/2023 a las 19:00 horas el tren 55115 de la empresa RENFE Mercancías se aproximaba a",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora serie 253 (253081) + 10 vagones PRR (cisterna particular)",
+    "averia": "ninguna",
+    "mantenimiento": "no aplica"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 4,
+   "cita": "Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Enclavamiento electrónico con software Alstom; señales de entrada (E1), salida (S1/1) y avanzada (5737); sistema ASFA; BAU con CTC",
+    "tipo_via": "vía única",
+    "velocidad_maxima": "115 km/h",
+    "ancho": "ibérico",
+    "electrificacion": "3 kV",
+    "estado_via": "normal",
+    "otro": "Subred D de la RFIG. Sistema de comunicación tren-tierra, canal 64. Estación con 1 vía general y 4 vías de apartado (una en mango). Distancia E1 a S1/1: 444 m. Insuficiente distancia de frenado para secuencia V-A-R."
+   },
+   "pagina": 10,
+   "cita": "El tramo es de vía única en ancho ibérico, electrificada a 3 kV con BAU con CTC, sistema de protección",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Enclavamiento electrónico con software Alstom; señales de entrada (E1), salida (S1/1) y avanzada (5737); sistema ASFA; BAU con CTC",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Retraso acumulado de 12 minutos para dos trenes de Renfe Mercancías el día 19 de mayo de 2023. Medida inmediata: retirada de lámparas del foco verde de las avanzadas de los enclavamientos afectados (madrugada del 18 al 19 de mayo de 2023)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Retraso acumulado de 12 minutos para dos trenes de Renfe Mercancías el día 19 de mayo de 2023. Medida inmediata: retirada de lámparas del foco verde de las avanzadas de los enclavamientos afectados (madrugada del 18 al 19 de mayo de 2023)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Ninguno",
+    "afectacion_servicio": "Retraso acumulado de 12 minutos para dos trenes de Renfe Mercancías el día 19 de mayo de 2023. Medida inmediata: retirada de lámparas del foco verde de las avanzadas de los enclavamientos afectados (madrugada del 18 al 19 de mayo de 2023)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora serie 253 (253081) + 10 vagones PRR (cisterna particular)",
+    "averia": "ninguna",
+    "mantenimiento": "no aplica"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Enclavamiento electrónico con software Alstom; señales de entrada (E1), salida (S1/1) y avanzada (5737); sistema ASFA; BAU con CTC",
+    "tipo_via": "vía única",
+    "velocidad_maxima": "115 km/h",
+    "ancho": "ibérico",
+    "electrificacion": "3 kV",
+    "estado_via": "normal",
+    "otro": "Subred D de la RFIG. Sistema de comunicación tren-tierra, canal 64. Estación con 1 vía general y 4 vías de apartado (una en mango). Distancia E1 a S1/1: 444 m. Insuficiente distancia de frenado para secuencia V-A-R."
+   },
+   "pagina": 10,
+   "cita": "El tramo es de vía única en ancho ibérico, electrificada a 3 kV con BAU con CTC, sistema de protección",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Buenas condiciones meteorológicas, nublado, sin lluvia, buena visibilidad",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Tarragona",
+    "municipio": null,
+    "estacion": "Les Borges del Camp"
+   },
+   "pagina": 1,
+   "cita": "Fallo de señalización en Les Borges del Camp (Tarragona),",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Buenas condiciones meteorológicas, nublado, sin lluvia, buena visibilidad",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Enclavamiento electrónico con software Alstom; señales de entrada (E1), salida (S1/1) y avanzada (5737); sistema ASFA; BAU con CTC",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Enclavamiento electrónico con software Alstom; señales de entrada (E1), salida (S1/1) y avanzada (5737); sistema ASFA; BAU con CTC",
+    "tipo_via": "vía única",
+    "velocidad_maxima": "115 km/h",
+    "ancho": "ibérico",
+    "electrificacion": "3 kV",
+    "estado_via": "normal",
+    "otro": "Subred D de la RFIG. Sistema de comunicación tren-tierra, canal 64. Estación con 1 vía general y 4 vías de apartado (una en mango). Distancia E1 a S1/1: 444 m. Insuficiente distancia de frenado para secuencia V-A-R."
+   },
+   "pagina": 10,
+   "cita": "El tramo es de vía única en ancho ibérico, electrificada a 3 kV con BAU con CTC, sistema de protección",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "El jefe de área de investigación de accidentes de la Dirección Corporativa de Seguridad en la \nCirculación del Administrador de Infraestructuras Ferroviarias (ADIF), mediante mensajería móvil \n(SMS) a las 17:40 horas del día 26 de mayo de 2023, comunicó a la Comisión de Investigación de \nAccidentes Ferroviarios que se había producido el suceso objeto de esta investigación. Esta \ncomunicación se produjo 8 días después de la fecha del suceso.  \nLa CIAF solicitó a ADIF información sobre las circunstancias del suceso tras la comunicación, siendo \nremitida vía email. \nTambién se le solicitó información al tecnólogo del software, Alstom, la cual fue remitida vía email. \nEl día 22/05/2024 la CIAF recibió el Informe Particular de ADIF. \nA la fecha de aprobación del presente informe no se ha recibido en la CIAF el Informe Particular de \nRenfe.  \nEn cumplimiento del artículo 15.2 del Real Decreto 623/2014, de 18 de julio, por el que se regula la \ninvestigación de los accidentes e incidentes ferroviarios y la Comisión de Investigación de Accidentes \nFerroviarios, se remitió el informe provisional a las siguientes entidades para que facilitaran \ninformación técnica pertinente para mejorar la calidad del informe de investigación: ALSTOM GROUP, \nADIF, AESF, CGT, RENFE Mercancías y SEMAF. \nRemitieron información: ALSTOM GROUP, ADIF, AESF y RENFE Mercancías.",
+   "pagina": 7,
+   "cita": "2.4. CANALES DE COMUNICACIÓN",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora serie 253 (253081) + 10 vagones PRR (cisterna particular)",
+    "averia": "ninguna",
+    "mantenimiento": "no aplica"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Puesta en servicio de software defectuoso",
+    "Supuestos erróneos en desarrollo",
+    "Falta de verificación de supuestos",
+    "Pruebas de campaña de test insuficientes"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "En este caso es destacable la actuación del maquinista del tren 51155 al percatarse de la incoherencia \nen la secuencia de señales. En primer lugar, actuó sobre el freno de emergencia al comprobar que no \nhabía suficiente distancia de frenado, con la intención de mitigar el posible riesgo, y por otro lado \nalertó al personal del CRC, que una vez comprobada la Consigna Serie A nº 2307, constató la falta de \ncorrespondencia entre esta y el aspecto de la señal de avanzada.",
+   "pagina": 19,
+   "cita": "4.3. FACTORES HUMANOS RELACIONADOS CON EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "No se conocen sucesos anteriores de carácter similar. \n \n \n\n## Página 20\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n20",
+   "pagina": 19,
+   "cita": "4.5. SUCESOS ANTERIORES DE CARÁCTER SIMILAR",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 18 de mayo de 2023 a las 19:00 horas, el tren 55115 de RENFE Mercancías se aproximaba a la estación de Les Borges del Camp, en la línea 210, recibiendo itinerario dispuesto a vía 1 para notificarle que el paso a nivel del km 567+603 entre Les Borges del Camp y Riudecanyes-Botarell se encontraba sin protección. La secuencia de señales era: salida S1/1 en indicación de parada, entrada E1 en anuncio de parada y avanzada 5737 en indicación de vía libre. A la altura de la señal E1, el maquinista accionó el freno de emergencia al apreciar que la secuencia no era correcta, ya que no existía suficiente distancia de frenado (444 m) entre E1 y S1/1. El maquinista comunicó la incidencia al Responsable de Circulación del CRC de Zaragoza (El Portillo). El RC consultó la Consigna Serie A nº 2607 del 03/05/2022 y comprobó que la secuencia correcta debía ser Amarillo-Amarillo-Rojo (avanzada/entrada/salida), no Verde-Amarillo-Rojo como mostraba el software.\n\nLa última actuación relacionada con la señalización fue la puesta en servicio el 27 de febrero de 2023 del proyecto 'Centralización de Bloqueos Reus-Mora', que incluía una nueva versión del software de enclavamiento para las estaciones de Els Guiamets, Marça-Falset, Pradell de la Teixeta, Riudecanyes-Botarell y Les Borges del Camp. El software, desarrollado por Alstom Group, partió de una hipótesis errónea sobre la secuencia de señales, al considerar que existía suficiente distancia de frenado cuando en realidad no la había. La campaña de pruebas interna de Alstom no incluyó la prueba específica que habría detectado el error, y las pruebas conjuntas con ADIF tampoco lo detectaron.\n\nComo medida inmediata, la madrugada del 18 al 19 de mayo de 2023 se retiraron las lámparas del foco verde de las avanzadas de los enclavamientos afectados, eliminando los aspectos de Vía Libre y Anuncio de Precaución. Posteriormente, se actualizó el software del enclavamiento para que la avanzada mostrara amarillo cuando la entrada fuera amarilla, poniéndose en servicio la nueva versión los días 7 y 8 de junio de 2023.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "De la descripción de los hechos se pueden extraer las siguientes constataciones:  \n0. Se llevó a cabo una actuación cuya finalidad era que los bloqueos se controlasen desde los \nenclavamientos de las estaciones mediante un nuevo software de enclavamiento.  \n1. Para el desarrollo de este software se tomó una hipótesis de partida incorrecta, que incluía una \nsecuencia avanzada/entrada/salida V-A-R (verde-amarillo-rojo) para un itinerario de entrada a \nvía general en lugar de la secuencia recogida en la consigna A-A-R (amarillo-amarillo-rojo). \n2. No se hizo un seguimiento de que era una hipótesis y permaneció hasta la versión final.  \n3. Se diseñó una campaña de pruebas en la que no se incluyó la prueba concreta que podía detectar \nel fallo.  \n4. El personal que revisó la campaña de pruebas se dio cuenta de que faltaba una prueba y lo puso \nde manifiesto, pero por error no se corrigió en dicha campaña.",
+   "pagina": 16,
+   "cita": "4. ANÁLISIS DEL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Error en el software de enclavamiento instalado el 27/02/2023 que generaba una secuencia de señales incorrecta (Verde-Amarillo-Rojo en lugar de Amarillo-Amarillo-Rojo) para los itinerarios de entrada a vía principal, debido a una hipótesis errónea durante el diseño que asumía suficiente distancia de frenado entre la señal de entrada y la de salida.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "No se hizo seguimiento ni verificación de las hipótesis de partida durante el desarrollo del software, asumiéndose como válidas hasta la versión final.",
+    "La campaña de pruebas del tecnólogo (Alstom) no incluyó la prueba necesaria para detectar el error en la secuencia de señales de los itinerarios de entrada a vía general.",
+    "El equipo de Safety de Alstom detectó la ausencia de pruebas en revisión de la versión C de la Campaña de pruebas, pero por error no se corrigió en la campaña.",
+    "Las pruebas conjuntas con ADIF no detectaron el error presente.",
+    "Falta de definición de la frontera del proyecto entre bloqueo y enclavamiento, tanto por parte del tecnólogo como del responsable de infraestructura.",
+    "Desde 2009, la señal avanzada no estaba incluida en el software del enclavamiento (seguía controlada por relés), situación no evaluada correctamente al centralizar los bloqueos.",
+    "La GAPI de ADIF no elaboró el Anexo 3 'Protocolo de pruebas estándar de bloqueo' de la IT-205-002-001.",
+    "El 'Protocolo de pruebas estándar de bloqueo' de la IT-205-002-001 carece de un desarrollo que concrete cómo registrar cada prueba."
+   ],
+   "pagina": 16,
+   "cita": "5. Las pruebas conjuntas con ADIF no detectaron el error presente.",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nUna vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores:  \n \nFigura 5 Árbol causal del suceso \nFactores causales \n1. Se llevó a cabo el desarrollo del software partiendo de hipótesis erróneas relacionadas con \nel alcance de la actuación. Ver Recomendaciones 43/2023-1 y 43/2023-4 \n2. No se hizo un seguimiento ni verificación de las hipótesis de partida, de manera que fueron \ntomadas como válidas en fases posteriores del proyecto. Ver Recomendaciones 43/2023-1 \nFactores contribuyentes \n1. No se incluyó en la campaña de pruebas del tecnólogo la prueba necesaria para detectar el \nerror presente. Ver Recomendaciones 43/2023-2 y 43/2023-3 \n2. Existió una falta de definición de la frontera del proyecto y de la concreción de las pruebas \nnecesarias tanto por parte de Alstom como por parte de ADIF. Ver Recomendaciones 43/2023-",
+   "pagina": 20,
+   "cita": "5. CONCLUSIONES 5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO Una vez analizados los datos disponibles y la documentación proporcionada, se consideran los siguientes factores: Figura 5 Árbol",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO \nUna vez analizados los datos disponibles y la documentación proporcionada, se consideran los \nsiguientes factores:  \n \nFigura 5 Árbol causal del suceso \nFactores causales \n1. Se llevó a cabo el desarrollo del software partiendo de hipótesis erróneas relacionadas con \nel alcance de la actuación. Ver Recomendaciones 43/2023-1 y 43/2023-4 \n2. No se hizo un seguimiento ni verificación de las hipótesis de partida, de manera que fueron \ntomadas como válidas en fases posteriores del proyecto. Ver Recomendaciones 43/2023-1 \nFactores contribuyentes \n1. No se incluyó en la campaña de pruebas del tecnólogo la prueba necesaria para detectar el \nerror presente. Ver Recomendaciones 43/2023-2 y 43/2023-3 \n2. Existió una falta de definición de la frontera del proyecto y de la concreción de las pruebas \nnecesarias tanto por parte de Alstom como por parte de ADIF. Ver Recomendaciones 43/2023-",
+   "pagina": 20,
+   "cita": "5. CONCLUSIONES 5.1. RESUMEN DEL ANÁLISIS Y CONCLUSIONES RELACIONADAS CON EL SUCESO Una vez analizados los datos disponibles y la documentación proporcionada, se consideran los siguientes factores: Figura 5 Árbol",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": "Durante el proceso de investigación de este suceso, se ha detectado que el “Protocolo de pruebas \nestándar de bloqueo”, detallado en la IT- 205-002-001 carece de un desarrollo que concrete la forma \nen que se registre cada una de las pruebas realizadas. Análogamente puede extenderse esta carencia \nal resto de protocolos de prueba incluidos en dicha instrucción técnica. Se aprecia una falta de \naplicabilidad de dichos protocolos a las diferentes funciones evaluadas en cada proyecto, así como \nuna dificultad de registro de cada prueba. Así mismo, debe tenerse en cuenta que es necesario que \ndicho protocolo se pueda aplicar de manera transversal a todos los desarrollos independientemente \nde las pruebas internas de cada tecnólogo. Ver Recomendación 43/2023-5 \n \n \n \n\n## Página 22\n\n \nComisión de Investigación de Accidentes Ferroviarios \n \n \n \n \n \n \n \n \n \n22",
+   "pagina": 21,
+   "cita": "5.3. OBSERVACIONES ADICIONALES",
+   "origen": "determinista",
+   "regla": "sec:^observaciones adicionales",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Como medida inmediata tras el suceso, y una vez constatado el fallo de señalización se procedió a la \nretirada de lámparas y fusibles la madrugada del 18 al 19 de mayo de 2023. En concreto, se retiraron \n\n## Página 21\n\n \nInforme Final de la CIAF 43/2023 \n \n \n \n \n \n \n \n \n \n \n \n \n21 \n \nlas lámparas del foco verde de las señales avanzadas. De esta forma, las señales avanzadas dejaban \nde ofrecer los aspectos de Vía Libre y Anuncio de Precaución.  \nA continuación, y una vez comprobado que el origen del fallo de señalización se debía a un error en \nel software, se tomó la decisión de actualizar el software del enclavamiento, para modificar la \nfuncionalidad, de forma que la señal de avanzada mostrara aspecto amarillo cuando la señal de \nentrada fuera igualmente amarilla, según se describía en la consigna. Esta nueva versión del software \nfue puesta en servicio los días 7 y 8 de junio de 2023, con lo cual, se solventó el fallo de señalización.",
+   "pagina": 20,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Como medida inmediata tras el suceso, y una vez constatado el fallo de señalización se procedió a la \nretirada de lámparas y fusibles la madrugada del 18 al 19 de mayo de 2023. En concreto, se retiraron \n\n## Página 21\n\n \nInforme Final de la CIAF 43/2023 \n \n \n \n \n \n \n \n \n \n \n \n \n21 \n \nlas lámparas del foco verde de las señales avanzadas. De esta forma, las señales avanzadas dejaban \nde ofrecer los aspectos de Vía Libre y Anuncio de Precaución.  \nA continuación, y una vez comprobado que el origen del fallo de señalización se debía a un error en \nel software, se tomó la decisión de actualizar el software del enclavamiento, para modificar la \nfuncionalidad, de forma que la señal de avanzada mostrara aspecto amarillo cuando la señal de \nentrada fuera igualmente amarilla, según se describía en la consigna. Esta nueva versión del software \nfue puesta en servicio los días 7 y 8 de junio de 2023, con lo cual, se solventó el fallo de señalización.",
+   "pagina": 20,
+   "cita": "5.2. MEDIDAS ADOPTADAS DESDE EL SUCESO",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Implementar mecanismos que aseguren la disponibilidad de datos de explotación antes de la generación del software y, en el caso de partir de hipótesis, diseñar métodos que realicen el seguimiento y validación de estas.",
+    "Establecer procedimientos de doble comprobación por parte del equipo de Safety sobre las campañas de pruebas diseñadas por V&V y especialmente sobre los errores que los primeros hayan detectado, para confirmar su gestión y solución.",
+    "Incluir en los procedimientos de Alstom mecanismos específicos que analicen las fronteras existentes y las nuevas que se creen, así como su alcance, y en su caso las pruebas necesarias para su correcta implementación.",
+    "Incluir en el SGS de ADIF mecanismos específicos que analicen las fronteras existentes y las nuevas que se creen, así como su alcance, y en su caso las pruebas necesarias para su correcta implementación.",
+    "Desarrollar herramientas tecnológicas que permitan una mayor agilidad tanto en el registro como en la realización de las pruebas detalladas en la IT-205-002-001 “Realización de pruebas en Fábrica”, así como la mejora de dichos protocolos, que garantice un cumplimiento riguroso de los mismos."
+   ],
+   "pagina": 22,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF",
+    "AESF"
+   ],
+   "pagina": 22,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "ALSTOM",
+    "ALSTOM",
+    "ALSTOM",
+    "ADIF",
+    "ADIF"
+   ],
+   "pagina": 22,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "2009",
+     "evento": "Sustitución de enclavamientos eléctricos por electrónicos (software Alstom) en el tramo Reus-Mora"
+    },
+    {
+     "hora": "2023-02-27",
+     "evento": "Puesta en servicio del software con el proyecto 'Centralización de Bloqueos Reus-Mora' en Els Guiamets, Marça-Falset, Pradell de la Teixeta, Riudecanyes-Botarell y Les Borges del Camp"
+    },
+    {
+     "hora": "2023-05-18 19:00",
+     "evento": "Tren 55115 se aproxima a Les Borges del Camp; el maquinista detecta secuencia de señales incorrecta y acciona el freno de emergencia a la altura de la señal E1"
+    },
+    {
+     "hora": "2023-05-18",
+     "evento": "El RC consulta la Consigna Serie A nº 2607 y confirma que la secuencia mostrada no corresponde con la indicada"
+    },
+    {
+     "hora": "2023-05-18/19",
+     "evento": "Medida inmediata: retirada de lámparas del foco verde de las avanzadas de los enclavamientos afectados"
+    },
+    {
+     "hora": "2023-06-07/08",
+     "evento": "Puesta en servicio de la nueva versión del software que corrige la secuencia de señales (A-A-R)"
+    },
+    {
+     "hora": "2023-06-07",
+     "evento": "Pleno CIAF nº 173: acuerdo de estudio preliminar del suceso"
+    },
+    {
+     "hora": "2023-11-22",
+     "evento": "Pleno CIAF nº 178: acuerdo de investigación formal del suceso"
+    },
+    {
+     "hora": "2024-05-22",
+     "evento": "La CIAF recibe el Informe Particular de ADIF"
+    },
+    {
+     "hora": "2024-06-20",
+     "evento": "Aprobación del Informe Final CIAF 43/2023 en Madrid"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0043/2023",
+ "expediente": "0043/2023",
+ "anio": 2023,
+ "titulo": "Fallo de señalización en Les Borges del Camp (Tarragona), ocurrido el 18 de mayo de 2023",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES-10479 - Final Report - 2023-43-0518-IF.md"
+}

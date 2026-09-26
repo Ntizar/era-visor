@@ -1,0 +1,882 @@
+{
+ "id": "IF-221108-240209-CIAF_Salamanca – Ávila",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/C9F96194-D3F3-438E-8E1A-493E71245058/46996/IF221108240209CIAF.pdf",
+ "pdf": "pdfs/ES/IF-221108-240209-CIAF_Salamanca – Ávila.pdf",
+ "md5_pdf": "bffa3e79bac61e559f2e4e719fc13c65",
+ "paginas_md": 9,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 6,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0063/2008",
+   "pagina": 1,
+   "cita": "nº 0063/2008 ocurrido el 22.11.2008",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 22 de noviembre de 2008 a las 15:00, el tren de media distancia 18918 de Renfe Operadora arrolló a un motorista que circulaba en motocicleta por la caja de la vía en sentido de la marcha del tren, en el PK 104,857 de la línea 122 Salamanca-Ávila. El motorista, un hombre de 26 años, resultó herido grave y falleció poco después en el hospital. El maquinista hizo uso del silbato y accionó el freno de emergencia sin poder evitar el atropello. El accidente se debió al tránsito no autorizado de la víctima por la vía. No se establecieron recomendaciones al no identificarse deficiencias del sistema ferroviario.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2008-11-22",
+    "hora": "15:00",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "104,857",
+     "linea": "122 Salamanca - Ávila",
+     "provincia": "Salamanca",
+     "descripcion_lugar": "Entre las estaciones de Babilafuente y Salamanca, en plena vía con trazado recto. A ambos márgenes se realizaban trabajos en la carretera. El motorista accedió desde un camino de tierra paralelo a la vía."
+    }
+   },
+   "pagina": 2,
+   "cita": "El día 22 de noviembre de 2008, a las 15:00 horas, el tren de viajeros de media distancia 18918,",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el tren 18918, coche 594602-5: quitarreses, captador del Asfa, freno de estacionamiento, sirgas de freno bogie 1º, Scharffenberg, motor A y motor B.",
+    "afectacion_servicio": "Supresión de 2 trenes de media distancia (incluido el de la incidencia). Afectación de 3 trenes con 132 minutos de retraso total. Vía interceptada 1 hora 39 minutos (15:00 a 16:39)."
+   },
+   "pagina": 4,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Tránsito de la víctima en motocicleta por la caja de la vía, sin estar autorizada para ello, por el lugar por donde pasaba el tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El motorista no hizo ademán de modificar su trayectoria al ver/oir el tren.",
+    "Acceso a la vía desde un camino de tierra paralelo, sin autorización.",
+    "Trabajos en la carretera a ambos márgenes de la vía que pudieron favorecer el acceso."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Dadas las características del suceso, no se establecen recomendaciones. \n \n \n \n \nMadrid, 24 de febrero de 2009. \n \n \n \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0063/2008 ocurrido el 22.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-221108-240209-CIAF \n \n \nPág. 8 de 9\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0063/2008 \nOCURRIDO EL DÍA 22.11.2008 \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0063/2008 ocurrido el 22.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-221108-240209-CIAF \n \n \nPág. 9 de 9\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 24 \nde febrero de 2009, analizado el expediente nº 0063/2008 del accidente acaecido en el P.K. \n104,857 de la línea 122 Salamanca - Ávila, el 22.11.2008, se aprueba como definitivo el \ninforme particular presentado por el técnico investigador con la siguiente recomendación: \nDadas las características del suceso, no se establecen recomendaciones. \n \n \n \nMadrid, 24 de febrero de 2009",
+   "pagina": 7,
+   "cita": "6. RECOMENDACIONES Dadas las características del suceso, no se establecen recomendaciones. Madrid, 24 de febrero de 2009. ## Página 8 Investigación del accidente nº 0063/2008 ocurrido el 22.11.2",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Operadora",
+    "Adif"
+   ],
+   "pagina": 2,
+   "cita": "de la empresa ferroviaria Renfe Operadora, arrolla a un motorista que circulaba por la caja de la vía,",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2008-11-22",
+   "pagina": 2,
+   "cita": "El día 22 de noviembre de 2008, a las 15:00 horas, el tren de viajeros de media distancia 18918,",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "15:00",
+   "pagina": 2,
+   "cita": "El día 22 de noviembre de 2008, a las 15:00 horas, el tren de viajeros de media distancia 18918,",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "104,857",
+    "linea": "122 Salamanca - Ávila",
+    "provincia": "Salamanca",
+    "descripcion_lugar": "Entre las estaciones de Babilafuente y Salamanca, en plena vía con trazado recto. A ambos márgenes se realizaban trabajos en la carretera. El motorista accedió desde un camino de tierra paralelo a la vía."
+   },
+   "pagina": 2,
+   "cita": "122 Salamanca - Ávila.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "122 Salamanca - Ávila",
+   "pagina": 2,
+   "cita": "122 Salamanca - Ávila.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Automotor 594102-6, Nº UIC 967195941026, 2 vehículos, 101 Tn de masa remolcada",
+    "averia": "Funcionó correctamente. El registrador de seguridad confirma velocidad de 118 km/h al accionar el freno de emergencia, por debajo de la máxima autorizada.",
+    "mantenimiento": "Sin información específica en el informe."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 22 de noviembre de 2008, a las 15:00 horas, el tren de viajeros de media distancia 18918 de Renfe Operadora, compuesto por el automotor 594102-6 (2 vehículos, 101 Tn de masa remolcada), circulaba en trayecto Peñaranda de Bracamonte-Salamanca por la línea 122 Salamanca-Ávila. En el PK 104,857, entre las estaciones de Babilafuente y Salamanca, en plena vía y con trazado recto, el maquinista observó al salir de una curva a dos motoristas: uno circulando por la caja de la vía en el mismo sentido que el tren y otro por el margen exterior. El motorista de la caja de la vía había accedido a la misma desde un camino de tierra paralelo a la vía, sin estar autorizado. El maquinista hizo uso repetido del silbato y accionó el freno de emergencia, pero no pudo evitar el arrollamiento. La víctima, un hombre de 26 años, resultó herida grave y fue evacuada a las 15:19 al hospital, donde falleció poco después. El tren circulaba a 118 km/h en el momento de accionar el freno, por debajo de la limitación de 130 km/h vigente en el tramo. La vía quedó libre y se restableció la circulación a las 16:39.",
+   "pagina": 2,
+   "cita": "1. RESUMEN El día 22 de noviembre de 2008, a las 15:00 horas, el tren de viajeros de media distancia 18918, de la empresa ferroviaria Renfe Operadora, arrolla a un motorista que circulaba por la caja de la vía, en sen",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "104,857",
+    "linea": "122 Salamanca - Ávila",
+    "provincia": "Salamanca",
+    "descripcion_lugar": "Entre las estaciones de Babilafuente y Salamanca, en plena vía con trazado recto. A ambos márgenes se realizaban trabajos en la carretera. El motorista accedió desde un camino de tierra paralelo a la vía."
+   },
+   "pagina": 2,
+   "cita": "122 Salamanca - Ávila.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el tren 18918, coche 594602-5: quitarreses, captador del Asfa, freno de estacionamiento, sirgas de freno bogie 1º, Scharffenberg, motor A y motor B.",
+    "afectacion_servicio": "Supresión de 2 trenes de media distancia (incluido el de la incidencia). Afectación de 3 trenes con 132 minutos de retraso total. Vía interceptada 1 hora 39 minutos (15:00 a 16:39)."
+   },
+   "pagina": 4,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista principal del tren 18918",
+     "implicacion": "Matrícula 9711151. Titulado y habilitado conforme a OM 2520 de 27/07/2006. Último reciclaje formativo 02/03/2006, último reconocimiento médico y psicotécnico 10/11/2005. Jornada de conducción: 7 min el día del accidente, 2h35m en 24h anteriores, 5h18m en 48h anteriores. Prueba de alcoholemia negativa (0,00 mg/1000 ml). Actuación correcta: uso del silbato y freno de emergencia."
+    },
+    {
+     "rol": "Víctima (motorista)",
+     "implicacion": "Hombre de 26 años, circulaba en motocicleta por la caja de la vía en sentido de la marcha del tren, sin autorización. Herido grave, trasladado al hospital donde falleció poco después."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "18918",
+     "tipo": "media distancia",
+     "operador": "Renfe Operadora",
+     "danos": "Daños en el quitarreses, captador del Asfa, freno de estacionamiento (cilindro doble y tuberías), sirgas de freno del bogie 1º, Scharffenberg, motor A (radiador de agua, filtro del aire y tuberías), motor B (guardamotor, correa bomba, manguito y toma rápida)."
+    }
+   ],
+   "pagina": 2,
+   "cita": "El día 22 de noviembre de 2008, a las 15:00 horas, el tren de viajeros de media distancia 18918,",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Automotor 594102-6, Nº UIC 967195941026, 2 vehículos, 101 Tn de masa remolcada",
+    "averia": "Funcionó correctamente. El registrador de seguridad confirma velocidad de 118 km/h al accionar el freno de emergencia, por debajo de la máxima autorizada.",
+    "mantenimiento": "Sin información específica en el informe."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif),",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo de liberación automática (BLAU), control de tráfico centralizado (CTC). Limitación permanente de velocidad por curva de 130 km/h entre PK 105,040 y 104,812.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "130 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Trazado recto en el punto del accidente. A ambos márgenes se realizaban trabajos en la carretera.",
+    "otro": "Radiotelefonía modalidad A. El motorista accedió a la vía desde un camino de tierra paralelo. Circulaciones reales semanales del tramo: 130 (110 media distancia, 17 mercancías, 3 servicio), considerada baja."
+   },
+   "pagina": 6,
+   "cita": "velocidad por curva entre los puntos kilométricos 105,040 y 104,812 de 130 km/hora, por lo que el",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo de liberación automática (BLAU), control de tráfico centralizado (CTC). Limitación permanente de velocidad por curva de 130 km/h entre PK 105,040 y 104,812.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el tren 18918, coche 594602-5: quitarreses, captador del Asfa, freno de estacionamiento, sirgas de freno bogie 1º, Scharffenberg, motor A y motor B.",
+    "afectacion_servicio": "Supresión de 2 trenes de media distancia (incluido el de la incidencia). Afectación de 3 trenes con 132 minutos de retraso total. Vía interceptada 1 hora 39 minutos (15:00 a 16:39)."
+   },
+   "pagina": 4,
+   "cita": "VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el tren 18918, coche 594602-5: quitarreses, captador del Asfa, freno de estacionamiento, sirgas de freno bogie 1º, Scharffenberg, motor A y motor B.",
+    "afectacion_servicio": "Supresión de 2 trenes de media distancia (incluido el de la incidencia). Afectación de 3 trenes con 132 minutos de retraso total. Vía interceptada 1 hora 39 minutos (15:00 a 16:39)."
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe Final IF-221108-240209-CIAF Pág. 1 de 9 INFORME FINAL SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0063/2008",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Daños en el tren 18918, coche 594602-5: quitarreses, captador del Asfa, freno de estacionamiento, sirgas de freno bogie 1º, Scharffenberg, motor A y motor B.",
+    "afectacion_servicio": "Supresión de 2 trenes de media distancia (incluido el de la incidencia). Afectación de 3 trenes con 132 minutos de retraso total. Vía interceptada 1 hora 39 minutos (15:00 a 16:39)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 594102-6, Nº UIC 967195941026, 2 vehículos, 101 Tn de masa remolcada",
+    "averia": "Funcionó correctamente. El registrador de seguridad confirma velocidad de 118 km/h al accionar el freno de emergencia, por debajo de la máxima autorizada.",
+    "mantenimiento": "Sin información específica en el informe."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo de liberación automática (BLAU), control de tráfico centralizado (CTC). Limitación permanente de velocidad por curva de 130 km/h entre PK 105,040 y 104,812.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "130 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Trazado recto en el punto del accidente. A ambos márgenes se realizaban trabajos en la carretera.",
+    "otro": "Radiotelefonía modalidad A. El motorista accedió a la vía desde un camino de tierra paralelo. Circulaciones reales semanales del tramo: 130 (110 media distancia, 17 mercancías, 3 servicio), considerada baja."
+   },
+   "pagina": 6,
+   "cita": "velocidad por curva entre los puntos kilométricos 105,040 y 104,812 de 130 km/hora, por lo que el",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo atmosférico despejado en el momento del arrollamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Salamanca",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 2,
+   "cita": "en sentido de la marcha del tren, en el P.K 104,857 de la línea 122 Salamanca – Ávila entre",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo atmosférico despejado en el momento del arrollamiento.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo de liberación automática (BLAU), control de tráfico centralizado (CTC). Limitación permanente de velocidad por curva de 130 km/h entre PK 105,040 y 104,812.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo de liberación automática (BLAU), control de tráfico centralizado (CTC). Limitación permanente de velocidad por curva de 130 km/h entre PK 105,040 y 104,812.",
+    "tipo_via": "Vía única",
+    "velocidad_maxima": "130 km/h",
+    "ancho": null,
+    "electrificacion": null,
+    "estado_via": "Trazado recto en el punto del accidente. A ambos márgenes se realizaban trabajos en la carretera.",
+    "otro": "Radiotelefonía modalidad A. El motorista accedió a la vía desde un camino de tierra paralelo. Circulaciones reales semanales del tramo: 130 (110 media distancia, 17 mercancías, 3 servicio), considerada baja."
+   },
+   "pagina": 6,
+   "cita": "velocidad por curva entre los puntos kilométricos 105,040 y 104,812 de 130 km/hora, por lo que el",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Automotor 594102-6, Nº UIC 967195941026, 2 vehículos, 101 Tn de masa remolcada",
+    "averia": "Funcionó correctamente. El registrador de seguridad confirma velocidad de 118 km/h al accionar el freno de emergencia, por debajo de la máxima autorizada.",
+    "mantenimiento": "Sin información específica en el informe."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Circulación no autorizada por la caja de vía",
+    "Acceso desde camino paralelo a la vía",
+    "No modificar trayectoria ante silbato",
+    "Circulación en sentido de marcha tren"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 22 de noviembre de 2008, a las 15:00 horas, el tren de viajeros de media distancia 18918 de Renfe Operadora, compuesto por el automotor 594102-6 (2 vehículos, 101 Tn de masa remolcada), circulaba en trayecto Peñaranda de Bracamonte-Salamanca por la línea 122 Salamanca-Ávila. En el PK 104,857, entre las estaciones de Babilafuente y Salamanca, en plena vía y con trazado recto, el maquinista observó al salir de una curva a dos motoristas: uno circulando por la caja de la vía en el mismo sentido que el tren y otro por el margen exterior. El motorista de la caja de la vía había accedido a la misma desde un camino de tierra paralelo a la vía, sin estar autorizado. El maquinista hizo uso repetido del silbato y accionó el freno de emergencia, pero no pudo evitar el arrollamiento. La víctima, un hombre de 26 años, resultó herida grave y fue evacuada a las 15:19 al hospital, donde falleció poco después. El tren circulaba a 118 km/h en el momento de accionar el freno, por debajo de la limitación de 130 km/h vigente en el tramo. La vía quedó libre y se restableció la circulación a las 16:39.",
+   "pagina": 2,
+   "cita": "1. RESUMEN El día 22 de noviembre de 2008, a las 15:00 horas, el tren de viajeros de media distancia 18918, de la empresa ferroviaria Renfe Operadora, arrolla a un motorista que circulaba por la caja de la vía, en sen",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1 \nDELIBERACIÓN \nEl accidente tuvo lugar en el P.K. 104,857 de la línea 122 Salamanca – Ávila. \n\n## Página 7\n\n \n \n \nInvestigación del accidente \nnº 0063/2008 ocurrido el 22.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-221108-240209-CIAF \n \n \nPág. 7 de 9\nSegún el registrador de seguridad del automotor 594102-6, el tren circulaba a una velocidad \ninferior a la máxima permitida en el tramo. \nSegún lo declarado por el maquinista, al percatarse de la presencia de un motorista circulando por \nla caja de la vía, hizo uso del silbato repetidas veces y actuó sobre el freno de emergencia, por lo que \nla actuación del maquinista fue correcta. \nTanto la tasa de alcoholemia como la jornada de trabajo del maquinista cumplen lo establecido en \nlas Disposiciones adicionales undécima y duodécima del Reglamento del Sector Ferroviario (RD \n2387/2004, de 30 de diciembre): Tasa de alcoholemia de aplicación en el transporte ferroviario y \nTiempos máximos de conducción en el transporte ferroviario.  \nTanto el material rodante como los sistemas de control de la infraestructura funcionaban \ncorrectamente en el momento del accidente y de acuerdo a la normativa de seguridad. \nA efectos de la causalidad del accidente se ha podido comprobar que: \nSegún lo declarado por el maquinista, la víctima en ningún momento hizo ademán de modificar su \ntrayectoria.  \n4.2 \nCONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como los informes particulares de Adif y Renfe Operadora, el técnico responsable de la \ninvestigación concluye que: \nEl accidente tuvo su origen en el tránsito de la víctima (que circulaba en motocicleta por la caja de \nla vía) por el lugar por donde pasaba el tren, sin estar autorizado para ello.",
+   "pagina": 6,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Tránsito de la víctima en motocicleta por la caja de la vía, sin estar autorizada para ello, por el lugar por donde pasaba el tren.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "El motorista no hizo ademán de modificar su trayectoria al ver/oir el tren.",
+    "Acceso a la vía desde un camino de tierra paralelo, sin autorización.",
+    "Trabajos en la carretera a ambos márgenes de la vía que pudieron favorecer el acceso."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "cita": "5. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "Dadas las características del suceso, no se establecen recomendaciones. \n \n \n \n \nMadrid, 24 de febrero de 2009. \n \n \n \n\n## Página 8\n\n \n \n \nInvestigación del accidente \nnº 0063/2008 ocurrido el 22.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-221108-240209-CIAF \n \n \nPág. 8 de 9\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nRESOLUCIÓN SOBRE LA \nINVESTIGACIÓN DEL ACCIDENTE FERROVIARIO \nNº 0063/2008 \nOCURRIDO EL DÍA 22.11.2008 \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0063/2008 ocurrido el 22.11.2008 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme Final \n \n \nIF-221108-240209-CIAF \n \n \nPág. 9 de 9\n \nEn el Pleno de la Comisión de Investigación de accidentes ferroviarios, celebrado el día 24 \nde febrero de 2009, analizado el expediente nº 0063/2008 del accidente acaecido en el P.K. \n104,857 de la línea 122 Salamanca - Ávila, el 22.11.2008, se aprueba como definitivo el \ninforme particular presentado por el técnico investigador con la siguiente recomendación: \nDadas las características del suceso, no se establecen recomendaciones. \n \n \n \nMadrid, 24 de febrero de 2009",
+   "pagina": 7,
+   "cita": "6. RECOMENDACIONES Dadas las características del suceso, no se establecen recomendaciones. Madrid, 24 de febrero de 2009. ## Página 8 Investigación del accidente nº 0063/2008 ocurrido el 22.11.2",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "15:00",
+     "evento": "Arrollamiento del motorista por el tren 18918 en el PK 104,857. El maquinista acciona el silbato y el freno de emergencia."
+    },
+    {
+     "hora": "15:19",
+     "evento": "El herido es evacuado, quedando al cuidado de los Servicios de Urgencia."
+    },
+    {
+     "hora": "16:39",
+     "evento": "La vía queda libre y se restablece la circulación en condiciones normales."
+    },
+    {
+     "hora": "19:26",
+     "evento": "El Coordinador de accidentes ferroviarios de Adif comunica el suceso a la CIAF vía telefonía móvil."
+    },
+    {
+     "hora": null,
+     "evento": "17/12/2008: Renfe Operadora entrega su informe particular del accidente."
+    },
+    {
+     "hora": null,
+     "evento": "14/01/2009: Adif (Gerente Territorial de Seguridad en la Circulación Noroeste) entrega su informe particular."
+    },
+    {
+     "hora": null,
+     "evento": "24/02/2009: Pleno de la CIAF aprueba el informe definitivo."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0063/2008",
+ "expediente": "0063/08",
+ "anio": 2008,
+ "titulo": "Arrollamiento de un motorista por un tren de media distancia en la línea Salamanca-Ávila, PK 104,857",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-221108-240209-CIAF_Salamanca – Ávila.md"
+}

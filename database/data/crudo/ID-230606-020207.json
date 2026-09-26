@@ -1,0 +1,916 @@
+{
+ "id": "ID-230606-020207",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID-230606-020207.pdf",
+ "pdf": "pdfs/ES/ID-230606-020207.pdf",
+ "md5_pdf": "0908a02d3535b6b65a2565c33a6c24cf",
+ "paginas_md": 5,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 12,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0027/2006",
+   "pagina": 1,
+   "cita": "Nº 0027/2006 OCURRIDO EL DÍA 23.06.2006 ID-230606-020207 Pág. 1 de 5 ## Página 2 Investigación del accidente nº 27/2006 ocurrido el 23.06.2006 SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 23 de junio de 2006 a las 23:29, un tren de Cercanías nº 39262 de Renfe arrolló a un joven de 17 años en el pk 92,700 de la Línea Tarragona-Barcelona-Francia, entre las estaciones de Cornellá y Hospitalet (Barcelona). La víctima formaba parte de un grupo de jóvenes que cruzaban las vías para dirigirse a unas instalaciones deportivas durante la celebración de la verbena de San Juan. El tren circulaba a 73-76 km/h, por debajo de la velocidad máxima permitida de 100 km/h. El joven ingresó cadáver en el Hospital Príncipes de España de Bellvitge. No se produjeron daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2006-06-23",
+    "hora": "23:29",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Cornellá (agujas de salida)",
+     "pk": "92,700",
+     "linea": "Tarragona-Barcelona-Francia",
+     "provincia": "Barcelona",
+     "descripcion_lugar": "Plena vía entre Cornellá y Hospitalet de Llobregat, en las inmediaciones de la estación de Cornellá, parte del cinturón de cercanías de Barcelona. Vía doble electrificada, traza curva, núcleo urbano. En el pk 92,700 existe un paso inferior peatonal. Márgenes protegidas por vallado metálico, densa vegetación al margen izquierdo y trinchera de talud considerable al margen derecho."
+    }
+   },
+   "pagina": 2,
+   "cita": "Lugar: plena vía, punto kilométrico 92,700 de la Línea Tarragona-Barcelona-Francia.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "Retrasos acumulados de 45 minutos en dos trenes de Cercanías y 17 minutos de retraso en un tren de mercancías"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Imprudencia por tránsito indebido por la vía. La víctima no libró el gálibo de la vía II al cruzar las vías y fue golpeada por el tope del lado derecho del tren.",
+   "pagina": 4,
+   "cita": "Adif : “Imprudencia por tránsito indebido por la vía”.",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Celebración de la verbena de San Juan que motivó el cruce de un grupo de jóvenes por las vías hacia instalaciones deportivas",
+    "Deficientes condiciones de visibilidad: traza en curva a izquierdas y horario nocturno",
+    "Distancia de frenado insuficiente para evitar el impacto a 73-76 km/h",
+    "Ausencia de prueba de alcoholemia al maquinista (no se dispone de dato)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Inadecuada permeabilización peatonal del trazado en entorno urbano, resuelta con viaducto ferroviario en construcción por el Ministerio de Fomento",
+    "Alta densidad de tráfico (145 trenes/día) en zona urbana con paso inferior peatonal"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Impulsar campañas de concienciación a la población sobre el peligro que supone cruzar las vías del ferrocarril.",
+     "destinatario": "Administraciones competentes / opinión pública"
+    },
+    {
+     "texto": "Se estima que no es procedente la realización de otras recomendaciones adicionales, dado que el Ministerio de Fomento ya está ejecutando las obras de construcción de un viaducto ferroviario en Cornellá que permeabilizará el trazado actual.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Impulsar campañas de concienciación a la población sobre el peligro que supone cruzar las vías del ferrocarril.",
+     "destinatario": "Administraciones competentes / opinión pública"
+    },
+    {
+     "texto": "Se estima que no es procedente la realización de otras recomendaciones adicionales, dado que el Ministerio de Fomento ya está ejecutando las obras de construcción de un viaducto ferroviario en Cornellá que permeabilizará el trazado actual.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "arrollamiento",
+   "pagina": 2,
+   "cita": "(Adif), comunicó el pasado 24 de junio que se había producido el arrollamiento de dos",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó el pasado 24 de junio que se había producido el arrollamiento de dos",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2006-06-23",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "23:29",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:hora"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Cornellá (agujas de salida)",
+    "pk": "92,700",
+    "linea": "Tarragona-Barcelona-Francia",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Plena vía entre Cornellá y Hospitalet de Llobregat, en las inmediaciones de la estación de Cornellá, parte del cinturón de cercanías de Barcelona. Vía doble electrificada, traza curva, núcleo urbano. En el pk 92,700 existe un paso inferior peatonal. Márgenes protegidas por vallado metálico, densa vegetación al margen izquierdo y trinchera de talud considerable al margen derecho."
+   },
+   "pagina": 2,
+   "cita": "en el punto kilométrico 92,700 de la Línea Tarragona-Barcelona-Francia, en la provincia de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Tarragona-Barcelona-Francia",
+   "pagina": 2,
+   "cita": "en el punto kilométrico 92,700 de la Línea Tarragona-Barcelona-Francia, en la provincia de",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 447182 (memoria estática 957104471827)",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El Tren Cercanías nº 39262 de Renfe, compuesto por la locomotora 447182 y material vacío, circulaba por vía II desde Cornellá dirección Barcelona. A la altura de las agujas de salida de la estación de Cornellá, en el pk 92,700 de la Línea Tarragona-Barcelona-Francia, el maquinista observó a dos personas situadas al lado de la vía y aplicó inmediatamente el freno de emergencia, sin poder evitar golpear a una de ellas. La víctima, un varón de 17 años, fue golpeada por el tope del lado derecho del tren y proyectada hacia el terraplén. Resultó herida en primera instancia y fue evacuada en ambulancia al Hospital Príncipes de España de Bellvitge, donde ingresó ya cadáver. La otra persona que acompañaba al grupo no fue alcanzada.\n\nPresuntamente la víctima se encontraba acompañada de un grupo de amigos que cruzaron las vías para dirigirse a las instalaciones deportivas del municipio, con motivo de la celebración de la verbena de San Juan. El punto del accidente coincide con un paso inferior peatonal de cruce de vías. Ambas márgenes están protegidas por vallado metálico, con densa vegetación en el margen izquierdo y una trinchera de talud considerable en el margen derecho. El tramo discurre en vía doble electrificada, en traza curva y a lo largo del núcleo urbano de Cornellá, con un tráfico medio de 145 trenes/día.\n\nEl maquinista no pudo evitar el golpe tanto por la distancia necesaria para frenar como por las deficientes condiciones de visibilidad: curva a izquierdas según la marcha del tren y de noche. No se realizó prueba de alcoholemia al maquinista por carecer de medios la noche del suceso. El Ministerio de Fomento ya había iniciado en ese municipio las obras de un viaducto ferroviario que permeabilizará completamente la zona.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Cornellá (agujas de salida)",
+    "pk": "92,700",
+    "linea": "Tarragona-Barcelona-Francia",
+    "provincia": "Barcelona",
+    "descripcion_lugar": "Plena vía entre Cornellá y Hospitalet de Llobregat, en las inmediaciones de la estación de Cornellá, parte del cinturón de cercanías de Barcelona. Vía doble electrificada, traza curva, núcleo urbano. En el pk 92,700 existe un paso inferior peatonal. Márgenes protegidas por vallado metálico, densa vegetación al margen izquierdo y trinchera de talud considerable al margen derecho."
+   },
+   "pagina": 2,
+   "cita": "en el punto kilométrico 92,700 de la Línea Tarragona-Barcelona-Francia, en la provincia de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "Retrasos acumulados de 45 minutos en dos trenes de Cercanías y 17 minutos de retraso en un tren de mercancías"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": "El maquinista informó al Puesto de Mando que cursó aviso a los servicios de emergencia, \npolicía, Gerencia de Seguridad en la Circulación de ADIF y RENFE, Gerencia de Seguridad y \nProtección Civil de ADIF y RENFE, Operadores afectados, Logística y Jefatura de \nOperaciones. \n \nAgentes de Adif se personaron en el lugar del accidente al día siguiente procediendo a la \ntoma de datos del accidente. \n \nA las 23 horas y 35 minutos se personaron agentes de la Policía Local y Policía Nacional, \nquedándo el cadáver custodiado por ellos.",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas inmediatas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 39262",
+     "implicacion": "Observó a dos personas al lado de la vía y aplicó inmediatamente el freno de emergencia, sin poder evitar golpear a una de ellas. Circulaba a 73-76 km/h, por debajo de la velocidad máxima permitida (100 km/h). No se le realizó prueba de alcoholemia por carecer de medios esa noche."
+    }
+   ],
+   "pagina": 3,
+   "cita": "-  El maquinista del tren 39262.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "39262",
+     "tipo": "Cercanías",
+     "operador": "Renfe",
+     "danos": "No se produjeron daños materiales"
+    }
+   ],
+   "pagina": 2,
+   "cita": "El Tren Cercanías nº 39262 de la empresa ferroviaria Renfe, compuesto por la locomotora",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 447182 (memoria estática 957104471827)",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático Banalizado con CTC",
+    "tipo_via": "Vía doble electrificada, traza curva, núcleo urbano",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "Vallado metálico en ambas márgenes; densa vegetación en margen izquierdo (sentido marcha); trinchera de talud considerable en margen derecho; paso inferior peatonal en pk 92,700; tráfico medio de 145 trenes/día; Red Ferroviaria de Interés General administrada por Adif"
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Bloqueo Automático Banalizado con CTC",
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "Retrasos acumulados de 45 minutos en dos trenes de Cercanías y 17 minutos de retraso en un tren de mercancías"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "Retrasos acumulados de 45 minutos en dos trenes de Cercanías y 17 minutos de retraso en un tren de mercancías"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales",
+    "afectacion_servicio": "Retrasos acumulados de 45 minutos en dos trenes de Cercanías y 17 minutos de retraso en un tren de mercancías"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 447182 (memoria estática 957104471827)",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático Banalizado con CTC",
+    "tipo_via": "Vía doble electrificada, traza curva, núcleo urbano",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "Vallado metálico en ambas márgenes; densa vegetación en margen izquierdo (sentido marcha); trinchera de talud considerable en margen derecho; paso inferior peatonal en pk 92,700; tráfico medio de 145 trenes/día; Red Ferroviaria de Interés General administrada por Adif"
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Nocturno; deficientes condiciones de visibilidad por curva a izquierdas y oscuridad",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Barcelona",
+    "municipio": null,
+    "estacion": "Cornellá"
+   },
+   "pagina": 2,
+   "cita": "en el punto kilométrico 92,700 de la Línea Tarragona-Barcelona-Francia, en la provincia de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Nocturno; deficientes condiciones de visibilidad por curva a izquierdas y oscuridad",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Bloqueo Automático Banalizado con CTC",
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Bloqueo Automático Banalizado con CTC",
+    "tipo_via": "Vía doble electrificada, traza curva, núcleo urbano",
+    "velocidad_maxima": "100 km/h",
+    "ancho": null,
+    "electrificacion": "Electrificada",
+    "estado_via": null,
+    "otro": "Vallado metálico en ambas márgenes; densa vegetación en margen izquierdo (sentido marcha); trinchera de talud considerable en margen derecho; paso inferior peatonal en pk 92,700; tráfico medio de 145 trenes/día; Red Ferroviaria de Interés General administrada por Adif"
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático Banalizado con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 447182 (memoria estática 957104471827)",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Personas en proximidades de vía",
+    "Acceso indebido a la vía",
+    "Celebración nocturna de la verbena",
+    "Visibilidad reducida en curva nocturna"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El Tren Cercanías nº 39262 de Renfe, compuesto por la locomotora 447182 y material vacío, circulaba por vía II desde Cornellá dirección Barcelona. A la altura de las agujas de salida de la estación de Cornellá, en el pk 92,700 de la Línea Tarragona-Barcelona-Francia, el maquinista observó a dos personas situadas al lado de la vía y aplicó inmediatamente el freno de emergencia, sin poder evitar golpear a una de ellas. La víctima, un varón de 17 años, fue golpeada por el tope del lado derecho del tren y proyectada hacia el terraplén. Resultó herida en primera instancia y fue evacuada en ambulancia al Hospital Príncipes de España de Bellvitge, donde ingresó ya cadáver. La otra persona que acompañaba al grupo no fue alcanzada.\n\nPresuntamente la víctima se encontraba acompañada de un grupo de amigos que cruzaron las vías para dirigirse a las instalaciones deportivas del municipio, con motivo de la celebración de la verbena de San Juan. El punto del accidente coincide con un paso inferior peatonal de cruce de vías. Ambas márgenes están protegidas por vallado metálico, con densa vegetación en el margen izquierdo y una trinchera de talud considerable en el margen derecho. El tramo discurre en vía doble electrificada, en traza curva y a lo largo del núcleo urbano de Cornellá, con un tráfico medio de 145 trenes/día.\n\nEl maquinista no pudo evitar el golpe tanto por la distancia necesaria para frenar como por las deficientes condiciones de visibilidad: curva a izquierdas según la marcha del tren y de noche. No se realizó prueba de alcoholemia al maquinista por carecer de medios la noche del suceso. El Ministerio de Fomento ya había iniciado en ese municipio las obras de un viaducto ferroviario que permeabilizará completamente la zona.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "PARTICULARES DEL ADMINISTRADOR DE LA INFRAESTRUCTURA Y DE LA \nEMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nAdif : “Imprudencia por tránsito indebido por la vía”. \nRenfe: “Un grupo de jóvenes transitaba por las inmediaciones de las vías de salida de la\nestación de Cornellá, lado Hospitales, dirigiéndose hasta las instalaciones deportivas \n(campo de fútbol) que están ubicadas en dicho lugar, y por motivo de la celebración \ndurante esa noche de la verbena de San Juan. \n \n \n \nID-230606-020207 \n \n \nPág. 4 de 5\n\n## Página 5\n\n \nInvestigación del accidente \nnº 27/2006 ocurrido el 23.06.2006 \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nA\nMINISTERIO DE \nFOMENTO \nDIRECCION GENERAL DE \nFERROCARRILES \nInforme definitivo \nLa persona fallecida no libró el galibo de la vía II, y fue golpeada por el tope del lado \nderecho del tren, resultando proyectada hacia el terraplén, ya que en dicho punto por \ndebajo de las vías existe un paso inferior. \nEl maquinista del tren que circulaba a 76km/h por debajo de la velocidad máxima permitida\nen dicho punto (100 km/h), no pudo evitar el golpe tanto por la dis ancia necesaria para \nfrenar el tren, como por las deficientes condiciones de visibilidad en aquel punto, curva a \nizquierdas según la marcha del tren y de noche. \n \nt\n \nSiendo coincidentes ambas conclusiones entre sí, y consistentes con los datos recogidos \npor el Administrador de la infraestructura.",
+   "pagina": 4,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES INCLUIDAS EN LOS INFORMES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Imprudencia por tránsito indebido por la vía. La víctima no libró el gálibo de la vía II al cruzar las vías y fue golpeada por el tope del lado derecho del tren.",
+   "pagina": 4,
+   "cita": "Adif : “Imprudencia por tránsito indebido por la vía”.",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Celebración de la verbena de San Juan que motivó el cruce de un grupo de jóvenes por las vías hacia instalaciones deportivas",
+    "Deficientes condiciones de visibilidad: traza en curva a izquierdas y horario nocturno",
+    "Distancia de frenado insuficiente para evitar el impacto a 73-76 km/h",
+    "Ausencia de prueba de alcoholemia al maquinista (no se dispone de dato)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por los datos disponibles y de acuerdo con el apartado anterior, la víctima resultó arrollado \npor el tren nº39262 al transitar por la vía indebidamente.",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES Por los datos disponibles y de acuerdo con el apartado anterior, la víctima resultó arrollado por el tren nº39262 al transitar por la vía indebidamente. 7. RECOMENDACIONES Estimo conveniente que se i",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por los datos disponibles y de acuerdo con el apartado anterior, la víctima resultó arrollado \npor el tren nº39262 al transitar por la vía indebidamente.",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES Por los datos disponibles y de acuerdo con el apartado anterior, la víctima resultó arrollado por el tren nº39262 al transitar por la vía indebidamente. 7. RECOMENDACIONES Estimo conveniente que se i",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": "El maquinista informó al Puesto de Mando que cursó aviso a los servicios de emergencia, \npolicía, Gerencia de Seguridad en la Circulación de ADIF y RENFE, Gerencia de Seguridad y \nProtección Civil de ADIF y RENFE, Operadores afectados, Logística y Jefatura de \nOperaciones. \n \nAgentes de Adif se personaron en el lugar del accidente al día siguiente procediendo a la \ntoma de datos del accidente. \n \nA las 23 horas y 35 minutos se personaron agentes de la Policía Local y Policía Nacional, \nquedándo el cadáver custodiado por ellos.",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": "El maquinista informó al Puesto de Mando que cursó aviso a los servicios de emergencia, \npolicía, Gerencia de Seguridad en la Circulación de ADIF y RENFE, Gerencia de Seguridad y \nProtección Civil de ADIF y RENFE, Operadores afectados, Logística y Jefatura de \nOperaciones. \n \nAgentes de Adif se personaron en el lugar del accidente al día siguiente procediendo a la \ntoma de datos del accidente. \n \nA las 23 horas y 35 minutos se personaron agentes de la Policía Local y Policía Nacional, \nquedándo el cadáver custodiado por ellos.",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas adoptadas$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": "El maquinista informó al Puesto de Mando que cursó aviso a los servicios de emergencia, \npolicía, Gerencia de Seguridad en la Circulación de ADIF y RENFE, Gerencia de Seguridad y \nProtección Civil de ADIF y RENFE, Operadores afectados, Logística y Jefatura de \nOperaciones. \n \nAgentes de Adif se personaron en el lugar del accidente al día siguiente procediendo a la \ntoma de datos del accidente. \n \nA las 23 horas y 35 minutos se personaron agentes de la Policía Local y Policía Nacional, \nquedándo el cadáver custodiado por ellos.",
+   "pagina": 3,
+   "cita": "3.4. MEDIDAS ADOPTADAS",
+   "origen": "determinista",
+   "regla": "sec:^medidas preventivas",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Impulsar campañas de concienciación a la población sobre el peligro que supone cruzar las vías del ferrocarril.",
+     "destinatario": "Administraciones competentes / opinión pública"
+    },
+    {
+     "texto": "Se estima que no es procedente la realización de otras recomendaciones adicionales, dado que el Ministerio de Fomento ya está ejecutando las obras de construcción de un viaducto ferroviario en Cornellá que permeabilizará el trazado actual.",
+     "destinatario": null
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.recomendaciones"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "23:29",
+     "evento": "El tren 39262 detiene su marcha tras golpear a una persona en el pk 92,700, a la altura de las agujas de salida de Cornellá"
+    },
+    {
+     "hora": "23:35",
+     "evento": "Se personan agentes de Policía Local y Policía Nacional; el cadáver queda custodiado por ellos"
+    },
+    {
+     "hora": null,
+     "evento": "La víctima herida es evacuada en ambulancia al Hospital Príncipes de España de Bellvitge, donde ingresa ya cadáver"
+    },
+    {
+     "hora": null,
+     "evento": "El maquinista informa al Puesto de Mando, que cursa aviso a servicios de emergencia, policía, Gerencias de Seguridad en la Circulación y Protección Civil de Adif y Renfe, operadores afectados, Logística y Jefatura de Operaciones"
+    },
+    {
+     "hora": null,
+     "evento": "Al día siguiente, agentes de Adif se personan en el lugar para la toma de datos del accidente"
+    },
+    {
+     "hora": null,
+     "evento": "El coordinador de accidentes ferroviarios de Adif comunica el arrollamiento (24 de junio de 2006)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0027/2006",
+ "expediente": "0027/2006",
+ "anio": 2006,
+ "titulo": "Arrollamiento de una persona por tren de Cercanías en Cornellá (Barcelona)",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID-230606-020207.md"
+}

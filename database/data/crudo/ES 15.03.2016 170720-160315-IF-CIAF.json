@@ -1,0 +1,1002 @@
+{
+ "id": "ES 15.03.2016 170720-160315-IF-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/170720160315ifciafsn.pdf",
+ "pdf": "pdfs/ES/ES 15.03.2016 170720-160315-IF-CIAF.pdf",
+ "md5_pdf": "0f0302dd190489f9de8791a2a540b690",
+ "paginas_md": 24,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 19,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 5,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+     "Implementador final": "Adif",
+     "Número": "12/16-1",
+     "Recomendación": "Analizar la posibilidad de estabilizar toda la trinchera mediante la aplicación del sistema que se considere adecuado."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  },
+  {
+   "pagina": 24,
+   "cabecera": [
+    "Destinatario",
+    "Implementador final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario": "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+     "Implementador final": "Adif",
+     "Número": "12/16-1",
+     "Recomendación": "Analizar la posibilidad de estabilizar toda la trinchera mediante la aplicación del sistema que se considere adecuado."
+    }
+   ],
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0012/2016",
+   "pagina": 1,
+   "cita": "nº 0012/2016 ocurrido el 15.03.2016",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 15 de marzo de 2016 a las 17:19 h, el tren Euromed 11161 de Renfe Viajeros arrolló un obstáculo (tierras y una gran piedra) procedente del desmoronamiento parcial de una trinchera en el p.k. 247+490 de la línea 600 Valencia Nord – Sant Vicenç de Calders, entre Mont-Roig del Camp y L'Hospitalet de L'Infant (Tarragona). El impacto a 150 km/h provocó el descarrilamiento del primer eje de la cabeza tractora, que circuló descarrilado 826 m hasta detenerse. No hubo víctimas mortales ni heridos, aunque tres pasajeros fueron atendidos por lipotimia y ansiedad. Se produjeron daños materiales en la motriz (67.782 €) y en la infraestructura (199.755 €), con una afectación de 31 trenes y 2.409 minutos perdidos. La CIAF concluyó que la causa fue un fallo de infraestructura agravado por lluvias intensas previas.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2016-03-15",
+    "hora": "17:19",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": "Mont-Roig del Camp",
+     "pk": "247+490",
+     "linea": "600 Valencia Nord – Sant Vicenç de Calders",
+     "provincia": "Tarragona",
+     "descripcion_lugar": "Tramo entre Mont-Roig del Camp (p.k. 251+100) y L'Hospitalet de L'Infant (p.k. 243+000). Zona en curva a la izquierda (radio 3000 m), rampa de 10 milésimas, trinchera con taludes verticales de unos 3 m de altura desde p.k. 247+235 a p.k. 247+499. Lado derecho según sentido de circulación del tren."
+    }
+   },
+   "pagina": 5,
+   "cita": "El día 15 de marzo de 2016 a las 17:19 horas en plena vía (p.k. 247+490), entre las estaciones de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Motriz: daño frontal valorado en 67.782 €. Infraestructura: traviesas y sujeciones dañadas por 826 m de circulación descarrilada, valoradas en 199.755 €. Total: 267.537 €.",
+    "afectacion_servicio": "Vía totalmente interceptada desde las 17:19 hasta las 23:56 h (6 h 37 min). Restablecimiento con LTV de 30 km/h entre p.k. 247+482 y 246+664. Afectados 31 trenes (21 suprimidos). Pérdida de 2.409 minutos. 260 viajeros transbordados y trasladados en autobuses."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Fallo de la infraestructura: desmoronamiento parcial de la trinchera (lado derecho) que ocupó la caja de la vía con tierras y una roca de grandes dimensiones, provocando el arrollamiento del obstáculo y el descarrilamiento del primer eje del primer bogie de la cabeza tractora.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Episodios de fuertes lluvias los días anteriores (47,4 l/m² en 48 h) que empaparon el terreno y alteraron el equilibrio interno de los taludes",
+    "Geometría de la zona (curva a izquierda) que limitó la distancia de visibilidad del obstáculo y la capacidad de frenada del tren",
+    "Trinchera con taludes verticales de ~3 m sin protección (gunitado) en el punto del desprendimiento",
+    "La trinchera no estaba incluida en el Plan de Trincheras ni en el listado de puntos de riesgo del MPGI, por lo que la periodicidad de inspecciones era la mínima (1 al año)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "El tramo de trinchera donde se produjo el desmoronamiento no estaba protegido con gunitado (a diferencia de otra zona de la misma trinchera)",
+    "Las labores de vigilancia y mantenimiento, aunque cumplieron el procedimiento vigente, no pudieron advertir la situación de la trinchera",
+    "No se activó alerta meteorológica por lluvias pese a las precipitaciones registradas"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Analizar la posibilidad de estabilizar toda la trinchera mediante la aplicación del sistema que se considere adecuado.",
+    "Analizar la posibilidad de estabilizar toda la trinchera mediante la aplicación del sistema que se considere adecuado."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de obstáculo",
+   "pagina": 5,
+   "cita": "una roca de grandes dimensiones, que provocaron el descarrilamiento del tren por arrollamiento de",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Renfe Viajeros",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "Calders,  el tren de viajeros 11161 de la empresa ferroviaria Renfe Viajeros colisionó con un obstáculo",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2016-03-15",
+   "pagina": 5,
+   "cita": "El día 15 de marzo de 2016 a las 17:19 horas en plena vía (p.k. 247+490), entre las estaciones de",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "17:19",
+   "pagina": 5,
+   "cita": "El día 15 de marzo de 2016 a las 17:19 horas en plena vía (p.k. 247+490), entre las estaciones de",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Mont-Roig del Camp",
+    "pk": "247+490",
+    "linea": "600 Valencia Nord – Sant Vicenç de Calders",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Tramo entre Mont-Roig del Camp (p.k. 251+100) y L'Hospitalet de L'Infant (p.k. 243+000). Zona en curva a la izquierda (radio 3000 m), rampa de 10 milésimas, trinchera con taludes verticales de unos 3 m de altura desde p.k. 247+235 a p.k. 247+499. Lado derecho según sentido de circulación del tren."
+   },
+   "pagina": 5,
+   "cita": "Mont-Roig del Camp y L`Hospitalet de L`Infant de la línea  600 Valencia Nord – Sant Vicenç de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "247+490",
+   "pagina": 5,
+   "cita": "El día 15 de marzo de 2016 a las 17:19 horas en plena vía (p.k. 247+490), entre las estaciones de",
+   "origen": "importado",
+   "regla": "db:pk",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Talgo serie s-130 (13 vehículos, 183 m, 336 t). Motriz tipo 200 B, N.º UIC 967191300136, velocidad máxima 200 km/h",
+    "averia": "Ninguna. Los equipos de seguridad (freno, ASFA) funcionaron correctamente. Registrador HASLER TELOC15 operativo. El tren no superó la velocidad máxima permitida en ningún momento.",
+    "mantenimiento": "Sin anomalías detectadas"
+   },
+   "pagina": 22,
+   "cita": "Ninguna. ## Página 23 MINISTERIO DE FOMENTO SUBSECRETARÍA Investigación del accidente nº 0012/2016 ocurrido el 15.03.2016 Informe final de la CIAF COMISIÓN DE INVESTIGACIÓN DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 15 de marzo de 2016 a las 17:19 horas, en plena vía, en el p.k. 247+490 de la línea 600 Valencia Nord – Sant Vicenç de Calders, entre las estaciones de Mont-Roig del Camp y L'Hospitalet de L'Infant (Tarragona), el tren de viajeros de larga distancia (Euromed) 11161 de Renfe Viajeros, procedente de Barcelona Estación de Francia con destino Alicante Término, arrolló un obstáculo formado por tierras y una piedra de gran tamaño procedentes del desmoronamiento de la trinchera adyacente. El tren pasó por Mont-Roig del Camp a las 17:17 h con normalidad. A las 17:19:01 h pasó por la baliza previa de la señal 2473 a 151 km/h en vía libre (L3). A las 17:19:02 h el maquinista activó el freno de emergencia al observar el obstáculo sobre la caja de la vía. A pesar de la frenada, a 150 km/h impactó con la roca en el p.k. 247+490, descarrilando el primer eje del primer bogie de la cabeza tractora hacia el interior de la curva. El tren circuló descarrilado 826 metros hasta detenerse en el p.k. 246+664.\n\nEl maquinista contactó con el interventor (sin heridos) y luego con el puesto de mando de Valencia. Se activó el protocolo de emergencia y un plan alternativo de transporte: los 260 viajeros fueron transbordados a otro tren con ayuda de bomberos y policía (transbordo de 18:36 a 19:10 h), trasladados a L'Hospitalet y de allí en cinco autobuses a sus destinos. El tren fue encarrilado a las 20:55 h y apartado en vía 4 de Mont-Roig del Camp a las 23:54 h. La circulación se restableció a las 23:56 h con LTV de 30 km/h entre p.k. 247+482 y 246+664.\n\nNo se produjeron víctimas mortales ni heridos. Tres pasajeros fueron atendidos por el SEM (uno por lipotimia, dos por ansiedad). Los daños materiales se cifraron en 67.782 € en la motriz y 199.755 € en infraestructura. Se afectaron 31 trenes (21 suprimidos) con una pérdida de 2.409 minutos.",
+   "pagina": 5,
+   "cita": "RESUMEN El día 15 de marzo de 2016 a las 17:19 horas en plena vía (p.k. 247+490), entre las estaciones de Mont-Roig del Camp y L`Hospitalet de L`Infant de la línea 600 Valencia Nord – Sant Vicenç de Calders, el tre",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": "Mont-Roig del Camp",
+    "pk": "247+490",
+    "linea": "600 Valencia Nord – Sant Vicenç de Calders",
+    "provincia": "Tarragona",
+    "descripcion_lugar": "Tramo entre Mont-Roig del Camp (p.k. 251+100) y L'Hospitalet de L'Infant (p.k. 243+000). Zona en curva a la izquierda (radio 3000 m), rampa de 10 milésimas, trinchera con taludes verticales de unos 3 m de altura desde p.k. 247+235 a p.k. 247+499. Lado derecho según sentido de circulación del tren."
+   },
+   "pagina": 5,
+   "cita": "Mont-Roig del Camp y L`Hospitalet de L`Infant de la línea  600 Valencia Nord – Sant Vicenç de",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Motriz: daño frontal valorado en 67.782 €. Infraestructura: traviesas y sujeciones dañadas por 826 m de circulación descarrilada, valoradas en 199.755 €. Total: 267.537 €.",
+    "afectacion_servicio": "Vía totalmente interceptada desde las 17:19 hasta las 23:56 h (6 h 37 min). Restablecimiento con LTV de 30 km/h entre p.k. 247+482 y 246+664. Afectados 31 trenes (21 suprimidos). Pérdida de 2.409 minutos. 260 viajeros transbordados y trasladados en autobuses."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 11161 (matrícula 7799045)",
+     "implicacion": "Activó el freno de emergencia al observar el obstáculo; no pudo evitar la colisión por la geometría en curva y la escasa distancia de visibilidad. Titulación, habilitación, reciclaje y reconocimientos médicos en vigor. Prueba de alcoholemia negativa. Jornada del día 15: 1 h 34 min (1 h 19 min conducción efectiva). No viajaba nadie más en cabina."
+    },
+    {
+     "rol": "Interventor",
+     "implicacion": "Verificó el estado de los viajeros tras el incidente (sin heridos)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "11161",
+     "tipo": "Viajeros larga distancia (Euromed)",
+     "operador": "Renfe Viajeros",
+     "danos": "Daño en el frontal de la motriz (cabeza tractora) valorado en 67.782 €; descarrilamiento del primer eje del primer bogie; circulación descarrilada 826 m"
+    }
+   ],
+   "pagina": 5,
+   "cita": "Calders,  el tren de viajeros 11161 de la empresa ferroviaria Renfe Viajeros colisionó con un obstáculo",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Talgo serie s-130 (13 vehículos, 183 m, 336 t). Motriz tipo 200 B, N.º UIC 967191300136, velocidad máxima 200 km/h",
+    "averia": "Ninguna. Los equipos de seguridad (freno, ASFA) funcionaron correctamente. Registrador HASLER TELOC15 operativo. El tren no superó la velocidad máxima permitida en ningún momento.",
+    "mantenimiento": "Sin anomalías detectadas"
+   },
+   "pagina": 22,
+   "cita": "Ninguna. ## Página 23 MINISTERIO DE FOMENTO SUBSECRETARÍA Investigación del accidente nº 0012/2016 ocurrido el 15.03.2016 Informe final de la CIAF COMISIÓN DE INVESTIGACIÓN DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 10,
+   "cita": "de Infraestructuras Ferroviarias (Adif), a las 18:49 horas del 15 de marzo de 2016, a través de",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal 2473 (intermedia) con baliza previa; vía libre L3 en el paso del tren",
+    "tipo_via": "Vía única, electrificada, ancho ibérico. Bloqueo automático de vía única (BAU) y control de tráfico centralizado (CTC) desde el puesto de mando de Valencia",
+    "velocidad_maxima": "160 km/h (trenes tipo B, según CVM)",
+    "ancho": "Ibérico (1668 mm)",
+    "electrificacion": "Sí",
+    "estado_via": "Trinchera con taludes verticales de ~3 m de altura (p.k. 247+235 a 247+499). Zona sin protección (gunitado) en el punto del desprendimiento; otra zona anterior (p.k. 247+235 a 247+354) sí disponía de protección parcial mediante gunitado. No incluida en Plan de Trincheras ni en listado de puntos de riesgo del MPGI. Rampa de 10 milésimas, curva a izquierda radio 3000 m.",
+    "otro": "Radiotelefonía Tren-Tierra (modalidad de explotación A). No existían obras en el lugar ni proximidades. Media semanal de circulaciones del tramo Vandellós-Cambrils: 451 (219 LD, 135 MD, 22 cercanías, 71 mercancías, 4 servicio)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal 2473 (intermedia) con baliza previa; vía libre L3 en el paso del tren",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "La línea 600 Valencia Nord – Sant Vicenç de Calders dispone de radiotelefonía en la modalidad de \nexplotación A (Tren-Tierra).",
+   "pagina": 13,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": "No existían obras de ningún tipo en el lugar del suceso ni en sus proximidades.",
+   "pagina": 13,
+   "cita": "2.2.5. Obras en el lugar o cercanías",
+   "origen": "determinista",
+   "regla": "sec:^obras en el lugar o cercan[íi]as$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Motriz: daño frontal valorado en 67.782 €. Infraestructura: traviesas y sujeciones dañadas por 826 m de circulación descarrilada, valoradas en 199.755 €. Total: 267.537 €.",
+    "afectacion_servicio": "Vía totalmente interceptada desde las 17:19 hasta las 23:56 h (6 h 37 min). Restablecimiento con LTV de 30 km/h entre p.k. 247+482 y 246+664. Afectados 31 trenes (21 suprimidos). Pérdida de 2.409 minutos. 260 viajeros transbordados y trasladados en autobuses."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Motriz: daño frontal valorado en 67.782 €. Infraestructura: traviesas y sujeciones dañadas por 826 m de circulación descarrilada, valoradas en 199.755 €. Total: 267.537 €.",
+    "afectacion_servicio": "Vía totalmente interceptada desde las 17:19 hasta las 23:56 h (6 h 37 min). Restablecimiento con LTV de 30 km/h entre p.k. 247+482 y 246+664. Afectados 31 trenes (21 suprimidos). Pérdida de 2.409 minutos. 260 viajeros transbordados y trasladados en autobuses."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "Motriz: daño frontal valorado en 67.782 €. Infraestructura: traviesas y sujeciones dañadas por 826 m de circulación descarrilada, valoradas en 199.755 €. Total: 267.537 €.",
+    "afectacion_servicio": "Vía totalmente interceptada desde las 17:19 hasta las 23:56 h (6 h 37 min). Restablecimiento con LTV de 30 km/h entre p.k. 247+482 y 246+664. Afectados 31 trenes (21 suprimidos). Pérdida de 2.409 minutos. 260 viajeros transbordados y trasladados en autobuses."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Talgo serie s-130 (13 vehículos, 183 m, 336 t). Motriz tipo 200 B, N.º UIC 967191300136, velocidad máxima 200 km/h",
+    "averia": "Ninguna. Los equipos de seguridad (freno, ASFA) funcionaron correctamente. Registrador HASLER TELOC15 operativo. El tren no superó la velocidad máxima permitida en ningún momento.",
+    "mantenimiento": "Sin anomalías detectadas"
+   },
+   "pagina": 22,
+   "cita": "Ninguna. ## Página 23 MINISTERIO DE FOMENTO SUBSECRETARÍA Investigación del accidente nº 0012/2016 ocurrido el 15.03.2016 Informe final de la CIAF COMISIÓN DE INVESTIGACIÓN DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal 2473 (intermedia) con baliza previa; vía libre L3 en el paso del tren",
+    "tipo_via": "Vía única, electrificada, ancho ibérico. Bloqueo automático de vía única (BAU) y control de tráfico centralizado (CTC) desde el puesto de mando de Valencia",
+    "velocidad_maxima": "160 km/h (trenes tipo B, según CVM)",
+    "ancho": "Ibérico (1668 mm)",
+    "electrificacion": "Sí",
+    "estado_via": "Trinchera con taludes verticales de ~3 m de altura (p.k. 247+235 a 247+499). Zona sin protección (gunitado) en el punto del desprendimiento; otra zona anterior (p.k. 247+235 a 247+354) sí disponía de protección parcial mediante gunitado. No incluida en Plan de Trincheras ni en listado de puntos de riesgo del MPGI. Rampa de 10 milésimas, curva a izquierda radio 3000 m.",
+    "otro": "Radiotelefonía Tren-Tierra (modalidad de explotación A). No existían obras en el lugar ni proximidades. Media semanal de circulaciones del tramo Vandellós-Cambrils: 451 (219 LD, 135 MD, 22 cercanías, 71 mercancías, 4 servicio)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "En el momento del suceso: día, cielo despejado, sin viento (declaración del maquinista). Factor coadyuvante: episodios de fuertes lluvias los días anteriores; 47,4 l/m² recogidos en 48 h (desde 00:01 del 14 hasta 24:00 del 15, dato AEMET). No estaba activada la alerta meteorológica en la zona.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Tarragona",
+    "municipio": null,
+    "estacion": "Mont-Roig del Camp"
+   },
+   "pagina": 6,
+   "cita": "Tarragona 2.1.2. Descripción del suceso El día 15 de marzo de 2016 a las 17:19 horas en plena vía, en el tramo entre Mont-Roig del Camp y L`Hospitalet de L`Infant, en el p.k. 247+490 de la línea 600 Valencia Nord –",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "En el momento del suceso: día, cielo despejado, sin viento (declaración del maquinista). Factor coadyuvante: episodios de fuertes lluvias los días anteriores; 47,4 l/m² recogidos en 48 h (desde 00:01 del 14 hasta 24:00 del 15, dato AEMET). No estaba activada la alerta meteorológica en la zona.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal 2473 (intermedia) con baliza previa; vía libre L3 en el paso del tren",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal 2473 (intermedia) con baliza previa; vía libre L3 en el paso del tren",
+    "tipo_via": "Vía única, electrificada, ancho ibérico. Bloqueo automático de vía única (BAU) y control de tráfico centralizado (CTC) desde el puesto de mando de Valencia",
+    "velocidad_maxima": "160 km/h (trenes tipo B, según CVM)",
+    "ancho": "Ibérico (1668 mm)",
+    "electrificacion": "Sí",
+    "estado_via": "Trinchera con taludes verticales de ~3 m de altura (p.k. 247+235 a 247+499). Zona sin protección (gunitado) en el punto del desprendimiento; otra zona anterior (p.k. 247+235 a 247+354) sí disponía de protección parcial mediante gunitado. No incluida en Plan de Trincheras ni en listado de puntos de riesgo del MPGI. Rampa de 10 milésimas, curva a izquierda radio 3000 m.",
+    "otro": "Radiotelefonía Tren-Tierra (modalidad de explotación A). No existían obras en el lugar ni proximidades. Media semanal de circulaciones del tramo Vandellós-Cambrils: 451 (219 LD, 135 MD, 22 cercanías, 71 mercancías, 4 servicio)."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "La línea 600 Valencia Nord – Sant Vicenç de Calders dispone de radiotelefonía en la modalidad de \nexplotación A (Tren-Tierra).",
+   "pagina": 13,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Talgo serie s-130 (13 vehículos, 183 m, 336 t). Motriz tipo 200 B, N.º UIC 967191300136, velocidad máxima 200 km/h",
+    "averia": "Ninguna. Los equipos de seguridad (freno, ASFA) funcionaron correctamente. Registrador HASLER TELOC15 operativo. El tren no superó la velocidad máxima permitida en ningún momento.",
+    "mantenimiento": "Sin anomalías detectadas"
+   },
+   "pagina": 22,
+   "cita": "Ninguna. ## Página 23 MINISTERIO DE FOMENTO SUBSECRETARÍA Investigación del accidente nº 0012/2016 ocurrido el 15.03.2016 Informe final de la CIAF COMISIÓN DE INVESTIGACIÓN DE ACCIDENTES FERROVIARIOS",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": "Una vez detenido el tren 11161 el maquinista informó del suceso al puesto de mando de Valencia. \nEl puesto de mando de Valencia cursó aviso al operador afectado, CPS, Logística de PM y a la Gerencia \nde Área de seguridad en la circulación Este de ADIF. \nSe suprime la circulación en el tramo. \n\n## Página 20\n\n \n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0012/2016 ocurrido el 15.03.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n170720-160315-IF-CIAF.doc \n \n \nPág. 20 de 24 \n3.5. \nINTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO \nJornada laboral del maquinista del tren 11161: \n- el día 15: 1 hora y 34 minutos  (1 hora y 19 minutos de conducción efectiva), \n- el día 14: 8 horas (1 hora y 27 minutos de conducción efectiva), \n- el día 13: 4 horas y 45 minutos (2 horas y 28 minutos de conducción efectiva). \nAl maquinista del tren 11161, el día15 de marzo a las 18:20 horas en Mont-Roig del Camp, se le \nrealizó prueba de alcoholemia por parte de la Policía Local de Mont-Roig del Camp, con resultado \nnegativo. \n3.6. \nOTROS SUCESOS ANTERIORES DE CARÁCTER SIMILAR \nNo se tiene conocimiento de sucesos similares ocurridos en esa zona. \n4. \nANÁLISIS Y CONCLUSIONES \n4.1. \nDESCRIPCIÓN DE LOS ACONTECIMIENTOS \nEl día 15 de marzo de 2016 a las 17:19 horas en plena vía, en el tramo entre Mont-Roig del Camp a \nL`Hospitalet de L`Infant, en el p.k. 247+490 de la línea 600 Valencia Nord – Sant Vicenç de Calders \nprovincia de Tarragona, el tren 11161 arrolló un obstáculo (tierras y piedras) que se encontraba en la \ncaja de la vía, produciéndose la colisión y posterior descarrilamiento del mismo. \nEl tren de viajeros de larga distancia (Euromed) 11161 de la empresa ferroviaria Renfe Viajeros, \nprocedente de Barcelona Estación de Francia y con destino Alicante Término, pasó por la estación de \nMont-Roig del Camp a las 17:17 horas circulando con normalidad. \nA las 17. 19:01 horas el tren pasó por la baliza previa de la señal 2473 (señal intermedia), a una \nvelocidad de 151 Km/h y en vía libre (L3). \nA las 17:19:02 horas el maquinista del tren activó el freno de emergencia (aproximadamente en el p.k. \n247+772) al observar que más adelante, sobre la caja de la vía, hay tierras y piedras que \nobstaculizaban el paso del tren. \nLa zona del obstáculo a la que se  aproximaba el tren  es una curva hacia la izquierda, según el \nsentido de circulación del tren, y discurre en trinchera por ambos lados. \nEl material que obstaculizaba la vía provenía del desmoronamiento de parte de la trinchera del lado \nderecho, según el sentido de circulación del tren, y estaba formado por tierras, piedras y \nespecialmente una roca de gran tamaño. \n\n## Página 21\n\n \n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0012/2016 ocurrido el 15.03.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n170720-160315-IF-CIAF.doc \n \n \nPág. 21 de 24 \nEl tren continuó circulando y en el p.k. 247+490 y a una velocidad de 150 Km/h impactó con el \nobstáculo. Como consecuencia del impacto el tren descarriló del primer eje del primer bogie de la \ncabeza tractora, hacia el lado interior de la curva según el sentido de circulación del tren, circulando de \nesta manera durante 826 metros y deteniéndose en el p.k. 246+664. \nUna vez detenido el tren, el maquinista, se puso en contacto con el interventor para conocer el estado \nde los viajeros. Una vez conocido que no había heridos entre los viajeros, el maquinista, se puso en \ncontacto con el puesto de mando de Valencia informando al mismo de lo sucedido. \nEl puesto de mando de Valencia inició el protocolo de actuación establecido para estos casos \ninformando a diferentes organismos, incluidos los servicios de emergencia. \nSe estableció un plan alternativo de transporte y los 260 viajeros fueron transbordados a otro tren con \nla ayuda de los bomberos y policía. En dicho tren se les trasladó a L`Hospitalet, donde fueron \nrecogidos por cinco autobuses y trasladados a sus lugares de destino. \nComo consecuencia del accidente no se produjeron víctimas mortales ni heridos, aunque tuvieron que \nser atendidos tres pasajeros por los servicios médicos de emergencias, uno de ellos por una lipotimia y \nlos otros dos por ataques de ansiedad. \nSe produjeron daños materiales en el frontal de la motriz del automotor y en la infraestructura de la \nvía (traviesas, sujeciones, etc) debido a los metros que circuló el tren descarrilado. \n4.2. \nDELIBERACIÓN \nLos sistemas del tren 11161 funcionaron correctamente. \nEl tren no superó en ningún momento la velocidad máxima permitida, circulaba a unos 150 Km/h \ncuando se produjo el arrollamiento de obstáculo. \nEl personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y \nreconocimiento médico y psicotécnico. \nEl maquinista, al observar el obstáculo hizo uso del freno de urgencia, pero dado que el trazado en esa \nzona es en curva, no había distancia suficiente para detener el tren antes de que se produjera el \narrollamiento de obstáculo. \nEl día anterior se habían producido en la zona episodios de fuertes lluvias, pero no dio lugar a la \nactivación de la alerta meteorológica por lluvias. \nLa zona del accidente discurre en trinchera por ambos lados, con taludes verticales y de una altura de \nunos tres metros.  \nLa hipótesis más probable es que las lluvias de los días anteriores empapasen el terreno y produjeran \nun cambio en el equilibrio interno de las tierras de la trinchera, ocasionando su desmoronamiento \nparcial. \n\n## Página 22\n\n \n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0012/2016 ocurrido el 15.03.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n170720-160315-IF-CIAF.doc \n \n \nPág. 22 de 24 \nEl tren colisionó con las tierras, especialmente una roca de grandes dimensiones ocasionando el \nposterior descarrilamiento del primer eje del primer bogie",
+   "pagina": 19,
+   "cita": "3.4.3. Medidas tomadas por el personal de circulación",
+   "origen": "determinista",
+   "regla": "sec:^medidas tomadas por el personal de circulaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "fuertes lluvias días anteriores",
+    "desmoronamiento parcial trinchera",
+    "roca ocupó caja vía"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 11161 posee el título B de conducción y está habilitado conforme a la Orden \nFOM/2520/2006, de 27 de julio. (Título V – Personal de conducción - en vigor hasta el 11 de enero de \n2019, en virtud de la disposición transitoria octava de la Orden FOM/2872/2010, de 5 de noviembre). \nTiene una antigüedad en el cargo desde el día 2 de enero de 2007. \nRealizó su último reciclaje formativo el 10.10.2014 y su último reconocimiento médico y psicotécnico el \n24.01.2014, conforme a la normativa vigente. \n\n## Página 18\n\n \n \n \n \n \nMINISTERIO \nDE FOMENTO \nSUBSECRETARÍA \nInvestigación del accidente \nnº 0012/2016 ocurrido el 15.03.2016 \nInforme final de la CIAF \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n170720-160315-IF-CIAF.doc \n \n \nPág. 18 de 24 \n3.3. \nNORMATIVA",
+   "pagina": 17,
+   "cita": "3.2.2. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 15 de marzo de 2016 a las 17:19 horas, en plena vía, en el p.k. 247+490 de la línea 600 Valencia Nord – Sant Vicenç de Calders, entre las estaciones de Mont-Roig del Camp y L'Hospitalet de L'Infant (Tarragona), el tren de viajeros de larga distancia (Euromed) 11161 de Renfe Viajeros, procedente de Barcelona Estación de Francia con destino Alicante Término, arrolló un obstáculo formado por tierras y una piedra de gran tamaño procedentes del desmoronamiento de la trinchera adyacente. El tren pasó por Mont-Roig del Camp a las 17:17 h con normalidad. A las 17:19:01 h pasó por la baliza previa de la señal 2473 a 151 km/h en vía libre (L3). A las 17:19:02 h el maquinista activó el freno de emergencia al observar el obstáculo sobre la caja de la vía. A pesar de la frenada, a 150 km/h impactó con la roca en el p.k. 247+490, descarrilando el primer eje del primer bogie de la cabeza tractora hacia el interior de la curva. El tren circuló descarrilado 826 metros hasta detenerse en el p.k. 246+664.\n\nEl maquinista contactó con el interventor (sin heridos) y luego con el puesto de mando de Valencia. Se activó el protocolo de emergencia y un plan alternativo de transporte: los 260 viajeros fueron transbordados a otro tren con ayuda de bomberos y policía (transbordo de 18:36 a 19:10 h), trasladados a L'Hospitalet y de allí en cinco autobuses a sus destinos. El tren fue encarrilado a las 20:55 h y apartado en vía 4 de Mont-Roig del Camp a las 23:54 h. La circulación se restableció a las 23:56 h con LTV de 30 km/h entre p.k. 247+482 y 246+664.\n\nNo se produjeron víctimas mortales ni heridos. Tres pasajeros fueron atendidos por el SEM (uno por lipotimia, dos por ansiedad). Los daños materiales se cifraron en 67.782 € en la motriz y 199.755 € en infraestructura. Se afectaron 31 trenes (21 suprimidos) con una pérdida de 2.409 minutos.",
+   "pagina": 5,
+   "cita": "RESUMEN El día 15 de marzo de 2016 a las 17:19 horas en plena vía (p.k. 247+490), entre las estaciones de Mont-Roig del Camp y L`Hospitalet de L`Infant de la línea 600 Valencia Nord – Sant Vicenç de Calders, el tre",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Fallo de la infraestructura: desmoronamiento parcial de la trinchera (lado derecho) que ocupó la caja de la vía con tierras y una roca de grandes dimensiones, provocando el arrollamiento del obstáculo y el descarrilamiento del primer eje del primer bogie de la cabeza tractora.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Episodios de fuertes lluvias los días anteriores (47,4 l/m² en 48 h) que empaparon el terreno y alteraron el equilibrio interno de los taludes",
+    "Geometría de la zona (curva a izquierda) que limitó la distancia de visibilidad del obstáculo y la capacidad de frenada del tren",
+    "Trinchera con taludes verticales de ~3 m sin protección (gunitado) en el punto del desprendimiento",
+    "La trinchera no estaba incluida en el Plan de Trincheras ni en el listado de puntos de riesgo del MPGI, por lo que la periodicidad de inspecciones era la mínima (1 al año)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Analizar la posibilidad de estabilizar toda la trinchera mediante la aplicación del sistema que se considere adecuado.",
+    "Analizar la posibilidad de estabilizar toda la trinchera mediante la aplicación del sistema que se considere adecuado."
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)",
+    "Agencia Estatal de Seguridad Ferroviaria (AESF)"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": [
+    "Adif",
+    "Adif"
+   ],
+   "pagina": 5,
+   "cita": "| Destinatario | Implementador final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "2016-03-14T00:01",
+     "evento": "Inicio del periodo de 48 h con precipitaciones de 47,4 l/m² en la zona (dato AEMET)"
+    },
+    {
+     "hora": "2016-03-15T17:17",
+     "evento": "El tren 11161 pasa por la estación de Mont-Roig del Camp circulando con normalidad"
+    },
+    {
+     "hora": "2016-03-15T17:19:01",
+     "evento": "El tren pasa por la baliza previa de la señal 2473 a 151 km/h en vía libre (L3)"
+    },
+    {
+     "hora": "2016-03-15T17:19:02",
+     "evento": "El maquinista activa el freno de emergencia (aprox. p.k. 247+772) al observar tierras y piedras sobre la vía"
+    },
+    {
+     "hora": "2016-03-15T17:19",
+     "evento": "Impacto con el obstáculo (roca) en p.k. 247+490 a 150 km/h; descarrilamiento del primer eje del primer bogie de la cabeza tractora"
+    },
+    {
+     "hora": "2016-03-15T17:19:36",
+     "evento": "El tren queda detenido en p.k. 246+664 tras 826 m descarrilado"
+    },
+    {
+     "hora": "2016-03-15T17:31",
+     "evento": "El CPS de Barcelona alerta por SMS a CASH24, C24H, CECAT, 112 y por correo a COS de la Guardia Civil"
+    },
+    {
+     "hora": "2016-03-15T17:42",
+     "evento": "El maquinista solicita socorro al puesto de mando de Valencia indicando el p.k. de la cabeza del tren"
+    },
+    {
+     "hora": "2016-03-15T17:47",
+     "evento": "El 112 confirma la presencia de bomberos y policía en el lugar del suceso"
+    },
+    {
+     "hora": "2016-03-15T17:53",
+     "evento": "Se movilizan cinco autocares con destino a L'Hospitalet"
+    },
+    {
+     "hora": "2016-03-15T18:04",
+     "evento": "Sale el tren de socorro con dirección al punto del accidente; se dispone también de un camión bivial desde Tarragona"
+    },
+    {
+     "hora": "2016-03-15T18:20",
+     "evento": "Prueba de alcoholemia al maquinista en Mont-Roig del Camp: resultado negativo"
+    },
+    {
+     "hora": "2016-03-15T18:36",
+     "evento": "Comienza el transbordo de los 260 viajeros con ayuda de policía y bomberos"
+    },
+    {
+     "hora": "2016-03-15T18:49",
+     "evento": "El jefe de investigación de accidentes de Adif comunica el suceso a la CIAF por SMS"
+    },
+    {
+     "hora": "2016-03-15T19:10",
+     "evento": "Finaliza el transbordo; comienza el traslado de viajeros a L'Hospitalet"
+    },
+    {
+     "hora": "2016-03-15T20:20",
+     "evento": "Se inician las tareas de encarrilamiento del tren 11161"
+    },
+    {
+     "hora": "2016-03-15T20:55",
+     "evento": "El tren queda encarrilado"
+    },
+    {
+     "hora": "2016-03-15T23:54",
+     "evento": "El tren queda apartado en la vía 4 de Mont-Roig del Camp"
+    },
+    {
+     "hora": "2016-03-15T23:56",
+     "evento": "Se restablece la circulación con LTV de 30 km/h entre p.k. 247+482 y p.k. 246+664"
+    },
+    {
+     "hora": "2016-03-31",
+     "evento": "El Presidente de la CIAF decide abrir la investigación tras sesión plenaria"
+    },
+    {
+     "hora": "2017-07-20",
+     "evento": "Fecha del informe final de la CIAF"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0012/2016",
+ "expediente": "0012/16",
+ "anio": 2016,
+ "titulo": "Arrollamiento de obstáculo y descarrilamiento por desmoronamiento de trinchera en Mont-Roig del Camp (Tarragona)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/ES 15.03.2016 170720-160315-IF-CIAF.md"
+}

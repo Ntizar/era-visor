@@ -1,0 +1,879 @@
+{
+ "id": "IF-280909-230210-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/1DDE96B9-3900-43DA-8FAE-49C40358A570/71655/IF_280909_230210_CIAF.pdf",
+ "pdf": "pdfs/ES/IF-280909-230210-CIAF.pdf",
+ "md5_pdf": "7a7b5efb899aa2203e51a78a96480fd9",
+ "paginas_md": 10,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 34,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0052/2009",
+   "pagina": 1,
+   "cita": "nº 0052/2009 ocurrido el 28.09.2009",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 28 de septiembre de 2009, el tren de viajeros 91724 de FEVE arrolló a un vehículo que invadió el paso a nivel tipo B 'Los Limoneros' en la línea Cartagena-Los Nietos. El accidente se produjo cuando las señales luminosas y acústicas del paso estaban activadas, indicando la llegada inminente del tren. Como resultado, falleció una mujer ocupante del coche y el conductor resultó herido grave. La investigación concluyó que la causa fue la invasión del gálibo por parte del vehículo de carretera.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2009-09-28",
+    "hora": "13:35",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "16+708",
+     "linea": "Línea 45 Cartagena – Los Nietos",
+     "provincia": "Murcia",
+     "descripcion_lugar": "Paso a nivel nº35, clase B, denominado 'Los Limoneros', intersección de vía férrea con camino rural."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 28 de septiembre de 2009, a las 13:35 horas, el tren de viajeros 91724, de la empresa",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 1,
+    "heridos_leves": 0,
+    "danos_materiales": "Destrucción total del automóvil Suzuki Vitara; daños menores en material rodante",
+    "afectacion_servicio": "Interceptación de la vía de 13:35 a 22:00; supresión del tren 91724 y transbordo por carretera"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión del gálibo de la vía por parte del vehículo de carretera mientras las señales del paso a nivel estaban activadas",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones.  \n \n \n \n \nMadrid, 23 de febrero de 2010",
+   "pagina": 10,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones. Madrid, 23 de febrero de 2010",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:tipo_categoria"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "FEVE"
+   ],
+   "pagina": 3,
+   "cita": "ferroviaria FEVE, arrolla a un automóvil con dos ocupantes que invade el paso a nivel tipo B, situado",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2009-09-28",
+   "pagina": 3,
+   "cita": "El día 28 de septiembre de 2009, a las 13:35 horas, el tren de viajeros 91724, de la empresa",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "13:35",
+   "pagina": 3,
+   "cita": "El día 28 de septiembre de 2009, a las 13:35 horas, el tren de viajeros 91724, de la empresa",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "16+708",
+    "linea": "Línea 45 Cartagena – Los Nietos",
+    "provincia": "Murcia",
+    "descripcion_lugar": "Paso a nivel nº35, clase B, denominado 'Los Limoneros', intersección de vía férrea con camino rural."
+   },
+   "pagina": 5,
+   "cita": "Se produce el accidente en el P.K. 16+708 de la línea 45 Cartagena – Los Nietos, en la",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 45 Cartagena - Los Nietos",
+   "pagina": 5,
+   "cita": "Se produce el accidente en el P.K. 16+708 de la línea 45 Cartagena – Los Nietos, en la",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "UTDH 2610 y 2609",
+    "averia": null,
+    "mantenimiento": "Equipos de seguridad (freno, ASFA) funcionaron correctamente según registrador"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 28 de septiembre de 2009, a las 13:35 horas, el tren de cercanías 91724 de FEVE, compuesto por unidades diésel-hidráulicas, circulaba entre Los Nietos y Cartagena. Al aproximarse al paso a nivel nº35 ('Los Limoneros'), situado en el PK 16+708, el maquinista observó un vehículo acercándose desde la izquierda con intención de cruzar. Pese a que el paso contaba con señalización luminosa y acústica activa, el automóvil invadió la vía. El maquinista hizo uso prolongado del silbato y aplicó el freno de emergencia, pero no pudo evitar el impacto. El vehículo quedó destrozado, falleciendo una pasajera y resultando herido grave el conductor.",
+   "pagina": 3,
+   "cita": "1. RESUMEN El día 28 de septiembre de 2009, a las 13:35 horas, el tren de viajeros 91724, de la empresa ferroviaria FEVE, arrolla a un automóvil con dos ocupantes que invade el paso a nivel tipo B, situado en el P.K.",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "16+708",
+    "linea": "Línea 45 Cartagena – Los Nietos",
+    "provincia": "Murcia",
+    "descripcion_lugar": "Paso a nivel nº35, clase B, denominado 'Los Limoneros', intersección de vía férrea con camino rural."
+   },
+   "pagina": 5,
+   "cita": "Se produce el accidente en el P.K. 16+708 de la línea 45 Cartagena – Los Nietos, en la",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 1,
+    "heridos_leves": 0,
+    "danos_materiales": "Destrucción total del automóvil Suzuki Vitara; daños menores en material rodante",
+    "afectacion_servicio": "Interceptación de la vía de 13:35 a 22:00; supresión del tren 91724 y transbordo por carretera"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista",
+     "implicacion": "Realizó actuaciones correctas de frenado y aviso sonoro; prueba de alcoholemia negativa"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.personal"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "91724",
+     "tipo": "Viajeros de cercanías",
+     "operador": "FEVE",
+     "danos": "Daños en carenado frontal, enganche Schaffenberg y tuberías neumáticas de la unidad 2610"
+    }
+   ],
+   "pagina": 3,
+   "cita": "El día 28 de septiembre de 2009, a las 13:35 horas, el tren de viajeros 91724, de la empresa",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "UTDH 2610 y 2609",
+    "averia": null,
+    "mantenimiento": "Equipos de seguridad (freno, ASFA) funcionaron correctamente según registrador"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Clase B con señalización luminosa y acústica automática",
+    "tipo_via": "Vía única sin electrificar",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "No electrificada",
+    "estado_via": "Buen estado general; pavimento del cruce de hormigón en buen estado; caminos adyacentes de tierra con barro por lluvias previas",
+    "otro": "Bloqueo automático de trenes telemandado desde Cartagena"
+   },
+   "pagina": 5,
+   "cita": "La línea es de vía única sin electrificar, con bloqueo automático de trenes, telemandado desde el",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Clase B con señalización luminosa y acústica automática",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía analógica.",
+   "pagina": 6,
+   "cita": "2.2.5. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 1,
+    "heridos_leves": 0,
+    "danos_materiales": "Destrucción total del automóvil Suzuki Vitara; daños menores en material rodante",
+    "afectacion_servicio": "Interceptación de la vía de 13:35 a 22:00; supresión del tren 91724 y transbordo por carretera"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 1,
+    "heridos_leves": 0,
+    "danos_materiales": "Destrucción total del automóvil Suzuki Vitara; daños menores en material rodante",
+    "afectacion_servicio": "Interceptación de la vía de 13:35 a 22:00; supresión del tren 91724 y transbordo por carretera"
+   },
+   "pagina": 1,
+   "cita": "FERROVIARIOS Informe final IF-280909-230210-CIAF Pág. 1 de 10 INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0052/2009 OCURRIDO EL DÍA 28.09.2009 EN EL P",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 1,
+    "heridos_leves": 0,
+    "danos_materiales": "Destrucción total del automóvil Suzuki Vitara; daños menores en material rodante",
+    "afectacion_servicio": "Interceptación de la vía de 13:35 a 22:00; supresión del tren 91724 y transbordo por carretera"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTDH 2610 y 2609",
+    "averia": null,
+    "mantenimiento": "Equipos de seguridad (freno, ASFA) funcionaron correctamente según registrador"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Clase B con señalización luminosa y acústica automática",
+    "tipo_via": "Vía única sin electrificar",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "No electrificada",
+    "estado_via": "Buen estado general; pavimento del cruce de hormigón en buen estado; caminos adyacentes de tierra con barro por lluvias previas",
+    "otro": "Bloqueo automático de trenes telemandado desde Cartagena"
+   },
+   "pagina": 5,
+   "cita": "La línea es de vía única sin electrificar, con bloqueo automático de trenes, telemandado desde el",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Despejado tras fuertes lluvias recientes",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Murcia",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 3,
+   "cita": "en el P.K. 16+708 de la línea Cartagena – Los Nietos (Murcia). Como resultado del arrollamiento,",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Despejado tras fuertes lluvias recientes",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Clase B con señalización luminosa y acústica automática",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Clase B con señalización luminosa y acústica automática",
+    "tipo_via": "Vía única sin electrificar",
+    "velocidad_maxima": "80 km/h",
+    "ancho": null,
+    "electrificacion": "No electrificada",
+    "estado_via": "Buen estado general; pavimento del cruce de hormigón en buen estado; caminos adyacentes de tierra con barro por lluvias previas",
+    "otro": "Bloqueo automático de trenes telemandado desde Cartagena"
+   },
+   "pagina": 5,
+   "cita": "La línea es de vía única sin electrificar, con bloqueo automático de trenes, telemandado desde el",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía analógica.",
+   "pagina": 6,
+   "cita": "2.2.5. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "UTDH 2610 y 2609",
+    "averia": null,
+    "mantenimiento": "Equipos de seguridad (freno, ASFA) funcionaron correctamente según registrador"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "vehículo invade paso a nivel activo",
+    "conductor ignora señales luminosas y acústicas"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 91724 posee el título de conducción, encontrándose expresamente \nhabilitado para la conducción de vehículos ferroviarios en virtud de la capacitación adquirida de \nconformidad con el estatuto propio y la normativa legal aplicable a FEVE. \nRealizó su último reciclaje formativo el 09/05/03 y su último reconocimiento médico y \npsicotécnico el 01/12/08, conforme a la normativa de FEVE.",
+   "pagina": 7,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": "Jornadas laboral y de conducción del maquinista del tren 91724: \n- el día 28: 7 horas y 58 minutos (4 horas y 42 minutos de conducción). \n- el día 27: 6 horas (0 horas). \n- el día 26: 6 horas (4 horas y 41 minutos de conducción). \nAl maquinista, el día del accidente, se le realiza la prueba de alcoholemia por la Guardia Civil, \ndando resultado negativo, según información verbal dada a FEVE. \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0052/2009 ocurrido el 28.09.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-280909-230210-CIAF \n \n \nPág. 9 de 10",
+   "pagina": 8,
+   "cita": "3.5. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^interfaz hombre-maquina",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": "Jornadas laboral y de conducción del maquinista del tren 91724: \n- el día 28: 7 horas y 58 minutos (4 horas y 42 minutos de conducción). \n- el día 27: 6 horas (0 horas). \n- el día 26: 6 horas (4 horas y 41 minutos de conducción). \nAl maquinista, el día del accidente, se le realiza la prueba de alcoholemia por la Guardia Civil, \ndando resultado negativo, según información verbal dada a FEVE. \n\n## Página 9\n\n \n \n \nInvestigación del accidente \nnº 0052/2009 ocurrido el 28.09.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-280909-230210-CIAF \n \n \nPág. 9 de 10",
+   "pagina": 8,
+   "cita": "3.5. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO",
+   "origen": "determinista",
+   "regla": "sec:^factores humanos",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 28 de septiembre de 2009, a las 13:35 horas, el tren de cercanías 91724 de FEVE, compuesto por unidades diésel-hidráulicas, circulaba entre Los Nietos y Cartagena. Al aproximarse al paso a nivel nº35 ('Los Limoneros'), situado en el PK 16+708, el maquinista observó un vehículo acercándose desde la izquierda con intención de cruzar. Pese a que el paso contaba con señalización luminosa y acústica activa, el automóvil invadió la vía. El maquinista hizo uso prolongado del silbato y aplicó el freno de emergencia, pero no pudo evitar el impacto. El vehículo quedó destrozado, falleciendo una pasajera y resultando herido grave el conductor.",
+   "pagina": 3,
+   "cita": "1. RESUMEN El día 28 de septiembre de 2009, a las 13:35 horas, el tren de viajeros 91724, de la empresa ferroviaria FEVE, arrolla a un automóvil con dos ocupantes que invade el paso a nivel tipo B, situado en el P.K.",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS \nLos hechos tuvieron lugar el día 28 de septiembre de 2009, a las 13:35 horas, en el paso a nivel, \nclase B, situado P.K. 16+708 de la línea 45 Cartagena – Los Nietos (Murcia). \nEl tren sale del apeadero de Los Nietos Viejos a las 13:33:35 horas, circulando a velocidad inferior \na la permitida (80 km/h). \nA las 13:35:10 horas, el registrador del tren recoge, al paso por la baliza ASFA asociada a la señal \ndel paso a nivel, la indicación de verde, lo que indica paso a nivel correctamente conformado. \nAl salir de una curva situada unos 250 metros antes del paso a nivel, el maquinista observa que, \npor la margen izquierda (según sentido de marcha), se acerca un vehículo en dirección al paso a nivel \nexistente en la vía. \nA las 13:35:20 horas, cuando el tren circulaba a 73 km/h, el maquinista realiza la primera \nactuación  sobre la bocina, (a las 13:35:24 y a las 13:35:25 repite la actuación sobre la bocina). \nA las 13:35:27 horas , circulando el tren a 73,4 km/h, el maquinista actúa sobre el freno \nneumático; a las 13:35:29 realiza la cuarta actuación sobre la bocina y a las 13:35:32, cuando el tren \ncircula a 56,6 km/h, el maquinista actúa sobre la seta de emergencia; un segundo después, a la \nvelocidad de 44,3 km/h, se produce el arrollamiento del vehículo y el tren queda totalmente parado a \nlas 13:35:41 horas, tras recorrer 53 metros desde el momento en que el maquinista actúa sobre la \nseta de emergencia. \n4.2. DELIBERACIÓN \nEl personal de conducción cumple la normativa vigente de FEVE en cuanto al título, habilitaciones, \nreciclaje y reconocimiento médico y psicotécnico. \nLa velocidad del tren era inferior a la máxima permitida. \nLos equipos de seguridad del tren funcionaban correctamente en el momento del accidente y de \nacuerdo a la normativa vigente. \nEl maquinista pulsa repetidas veces la bocina y actúa sobre el freno neumático y la seta de \nemergencia, siendo correcta su actuación. \nDe los datos del registrador de seguridad del tren se puede leer que, al paso por la baliza ASFA \nasociada a la señal del paso a nivel, ésta se encontraba en verde, lo que indica que el paso se \nencontraba correctamente conformado. \nNo se ha podido comprobar el funcionamiento del paso a nivel en el momento del accidente debido \na que estaba en reparación la tarjeta que registra los acontecimientos. Comprobaciones realizadas \n\n## Página 10\n\n \n \n \nInvestigación del accidente \nnº 0052/2009 ocurrido el 28.09.2009 \nSUBSECRETARÍA \nA\nMINISTERIO DE \nFOMENTO \nCOMISIÓN DE \nINVESTIGACIÓN DE \nACCIDENTES \nFERROVIARIOS\nInforme final \n \nIF-280909-230210-CIAF \n \n \nPág. 10 de 10\ndespués de producirse los hechos indican un funcionamiento correcto de las instalaciones del paso a \nnivel. El maquinista declara que funcionaban correctamente las luces y la sonería. \n4.3. CONCLUSIONES \nPor tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como el informe particular de FEVE, el técnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, \nque irrumpe en el paso a nivel cuando éste se encontraba con las señales luminosas y acústicas \nactivadas, indicando la inminente llegada del tren 91724.",
+   "pagina": 9,
+   "cita": "4. ANÁLISIS Y CONCLUSIONES",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión del gálibo de la vía por parte del vehículo de carretera mientras las señales del paso a nivel estaban activadas",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "vehículo invade paso a nivel activo",
+    "conductor ignora señales luminosas y acústicas"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como el informe particular de FEVE, el técnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, \nque irrumpe en el paso a nivel cuando éste se encontraba con las señales luminosas y acústicas \nactivadas, indicando la inminente llegada del tren 91724.",
+   "pagina": 10,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como el informe particular de FEVE, el técnico responsable de la investigación concluye que: El",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, \nasí como el informe particular de FEVE, el técnico responsable de la investigación concluye que: \nEl accidente tuvo su origen en la invasión del gálibo de la vía por parte del vehículo de carretera, \nque irrumpe en el paso a nivel cuando éste se encontraba con las señales luminosas y acústicas \nactivadas, indicando la inminente llegada del tren 91724.",
+   "pagina": 10,
+   "cita": "4.3. CONCLUSIONES Por tanto, vista la descripción de los hechos y teniendo en cuenta las consideraciones anteriores, así como el informe particular de FEVE, el técnico responsable de la investigación concluye que: El",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": "Destinatario \nNúmero \nRecomendación \n \n \nNo se establecen recomendaciones.  \n \n \n \n \nMadrid, 23 de febrero de 2010",
+   "pagina": 10,
+   "cita": "5. RECOMENDACIONES Destinatario Número Recomendación No se establecen recomendaciones. Madrid, 23 de febrero de 2010",
+   "origen": "determinista",
+   "regla": "sec:^recomendaciones$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "13:33:35",
+     "evento": "Salida del tren del apeadero de Los Nietos Viejos"
+    },
+    {
+     "hora": "13:35:10",
+     "evento": "Paso por baliza ASFA; señal en verde (paso conformado)"
+    },
+    {
+     "hora": "13:35:20",
+     "evento": "Primera actuación sobre la bocina (velocidad 73 km/h)"
+    },
+    {
+     "hora": "13:35:27",
+     "evento": "Actuación sobre el freno neumático (velocidad 73,4 km/h)"
+    },
+    {
+     "hora": "13:35:32",
+     "evento": "Actuación sobre la seta de emergencia (velocidad 56,6 km/h)"
+    },
+    {
+     "hora": "13:35:33",
+     "evento": "Arrollamiento del vehículo (velocidad 44,3 km/h)"
+    },
+    {
+     "hora": "13:35:41",
+     "evento": "Tren totalmente parado tras recorrer 53 metros desde la seta"
+    },
+    {
+     "hora": "22:00",
+     "evento": "Reapertura de la vía tras interceptación"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0052/2009",
+ "expediente": "0052/09",
+ "anio": 2009,
+ "titulo": "Arrollamiento de un automóvil en el paso a nivel Los Limoneros, línea Cartagena-Los Nietos (Murcia)",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-280909-230210-CIAF.md"
+}

@@ -1,0 +1,993 @@
+{
+ "id": "IF-010611-310112-CIAF",
+ "url_oficial": "https://www.transportes.gob.es/recursos_mfom/pdf/E6BD21A8-574A-4A2A-BEF7-8A4E6717EA02/110100/IF010611310112CIAF.pdf",
+ "pdf": "pdfs/ES/IF-010611-310112-CIAF.pdf",
+ "md5_pdf": "1f32332d7d647a6859111a4621380bda",
+ "paginas_md": 14,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 20,
+ "n_tablas": 2,
+ "tablas": [
+  {
+   "pagina": 3,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Feve",
+     "Número": "26/11-1",
+     "Recomendación": "Insistir en el cumplimiento de la normativa a todo el personal implicado en la circulación de los trenes, en lo referente a la realización de operaciones de enganche y desenganche."
+    },
+    {
+     "Destinatario final": "Feve",
+     "Número": "26/11-2",
+     "Recomendación": "Analizar la conveniencia de colocar, en la estación de Trasona y en otras estaciones de características similares, indicadores de rasante que señalicen la pendiente existente en la vía."
+    },
+    {
+     "Destinatario final": "Feve",
+     "Número": "26/11-3",
+     "Recomendación": "Dadas las características de la estación de Trasona (elevadas pendientes, realización de maniobras para mercancías y fluido tráfico de cercanías), y según lo estipulado en el artículo 6/12/00 del RCT, analizar la conveniencia de documentar mediante consigna la realización de maniobras en esta estación."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  },
+  {
+   "pagina": 14,
+   "cabecera": [
+    "Destinatario final",
+    "Número",
+    "Recomendación"
+   ],
+   "filas": [
+    {
+     "Destinatario final": "Feve",
+     "Número": "26/11-1",
+     "Recomendación": "Insistir en el cumplimiento de la normativa a todo el personal implicado en la circulación de los trenes, en lo referente a la realización de operaciones de enganche y desenganche."
+    },
+    {
+     "Destinatario final": "Feve",
+     "Número": "26/11-2",
+     "Recomendación": "Analizar la conveniencia de colocar, en la estación de Trasona y en otras estaciones de características similares, indicadores de rasante que señalicen la pendiente existente en la vía."
+    },
+    {
+     "Destinatario final": "Feve",
+     "Número": "26/11-3",
+     "Recomendación": "Dadas las características de la estación de Trasona (elevadas pendientes, realización de maniobras para mercancías y fluido tráfico de cercanías), y según lo estipulado en el artículo 6/12/00 del RCT, analizar la conveniencia de documentar mediante consigna la realización de maniobras en esta estación."
+    }
+   ],
+   "cita": "| Destinatario final | Número | Recomendación |"
+  }
+ ],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0026/2011",
+   "pagina": 1,
+   "cita": "nº 0026/2011 ocurrido el 01.06.2011",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 1 de junio de 2011 a las 16:00 horas, en la estación de Trasona (Asturias), línea 11 Ferrol-Gijón de Feve, se produjo el escape de 8 plataformas portabobinas vacías del tren de mercancías 9203 tras el desacople de las dos locomotoras. El corte inició deslizamiento por la pendiente de 10 milésimas de la vía 3A, accedió a la vía general y recorrió 1.380 metros a la deriva antes de detenerse cerca del apeadero de Llaranes. No hubo víctimas ni daños materiales. La causa fue el incumplimiento normativo del personal ferroviario en las operaciones de frenado y corte, así como la no modificación de la posición de las agujas por la jefa de circulación.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2011-06-01",
+    "hora": "16:00",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Trasona",
+     "pk": "PK 27+510",
+     "linea": "11 Ferrol - Gijón",
+     "provincia": "Asturias",
+     "descripcion_lugar": "Vía 3A (vía de apartado) de la estación de Trasona, tramo 12 Aboño-Avilés, trayecto Avilés apeadero - El Regueral. Municipio de Corvera de Asturias (Parroquia de Trasona). Vía en curva a derecha radio 307 m, pendiente 10 milésimas sentido Pravia."
+    }
+   },
+   "pagina": 3,
+   "cita": "El día 1 de junio de 2011, a las 16:00 horas, en la estación de Trasona (Asturias), perteneciente a la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños ni en la infraestructura ni en el material móvil",
+    "afectacion_servicio": "Incidencia de 25 minutos (16:00-16:25). No se suprimió ningún tren. 16 trenes sufrieron un retraso total de 269 minutos. Tren de viajeros 2419 detenido en Avilés apeadero con evacuación de viajeros al andén."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños ni en la infraestructura ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Incumplimiento normativo del personal ferroviario: el maquinista no realizó el frenado total del tren (solo freno directo de locomotora, sin freno neumático del convoy) y el especialista de estaciones no comprobó la inmovilización, no aplicó frenos de estacionamiento ni calces, y cerró simultáneamente ambos grifos sin descargar la TFA, impidiendo el frenado automático del corte.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Pendiente de 10 milésimas de la vía 3A sin señalización mediante indicadores de rasante",
+    "Agujas 1 y 3 mantenidas en posición vía general por la jefa de circulación, permitiendo el acceso del escape a la vía general",
+    "Desconocimiento por el especialista de estaciones de la pendiente de la vía 3A (no era su residencia habitual)",
+    "El especialista no iba acompañado de agente caracterizado que conociera la estación",
+    "La jefa de circulación no hizo que el personal a su cargo comprobara los frenos de estacionamiento",
+    "Existe de obras en la estación que alteraban la forma de trabajo",
+    "No se documentó mediante consigna la realización de maniobras en la estación (RCT art. 6/12/00)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Ausencia de indicadores de rasante en vías con pendiente significativa en la red Feve (no preceptivo)",
+    "Falta de documentación obligatoria de maniobras mediante consigna en estaciones con elevadas pendientes y tráfico mixto",
+    "Posible deficiencia en la formación/reciclaje del especialista de estaciones (último reciclaje 28/02/08, más de 3 años antes del incidente)",
+    "No se realizaron pruebas de alcoholemia al personal implicado"
+   ],
+   "pagina": 13,
+   "cita": "No se realizaron pruebas de alcoholemia al personal implicado.",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    "Insistir en el cumplimiento de la normativa a todo el personal implicado en la circulación de los trenes, en lo referente a la realización de operaciones de enganche y desenganche.",
+    "Analizar la conveniencia de colocar, en la estación de Trasona y en otras estaciones de características similares, indicadores de rasante que señalicen la pendiente existente en la vía.",
+    "Dadas las características de la estación de Trasona (elevadas pendientes, realización de maniobras para mercancías y fluido tráfico de cercanías), y según lo estipulado en el artículo 6/12/00 del RCT, analizar la conveniencia de documentar mediante consigna la realización de maniobras en esta estación.",
+    "Insistir en el cumplimiento de la normativa a todo el personal implicado en la circulación de los trenes, en lo referente a la realización de operaciones de enganche y desenganche.",
+    "Analizar la conveniencia de colocar, en la estación de Trasona y en otras estaciones de características similares, indicadores de rasante que señalicen la pendiente existente en la vía.",
+    "Dadas las características de la estación de Trasona (elevadas pendientes, realización de maniobras para mercancías y fluido tráfico de cercanías), y según lo estipulado en el artículo 6/12/00 del RCT, analizar la conveniencia de documentar mediante consigna la realización de maniobras en esta estación."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Feve",
+    "Feve",
+    "Feve",
+    "Feve",
+    "Feve",
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "incidente",
+   "pagina": 1,
+   "cita": "Investigación del incidente",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "tren 9203, de Feve, tras haberse realizado el desacople de las dos locomotoras, en la vía de apartado",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2011-06-01",
+   "pagina": 3,
+   "cita": "El día 1 de junio de 2011, a las 16:00 horas, en la estación de Trasona (Asturias), perteneciente a la",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "16:00",
+   "pagina": 3,
+   "cita": "El día 1 de junio de 2011, a las 16:00 horas, en la estación de Trasona (Asturias), perteneciente a la",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Trasona",
+    "pk": "PK 27+510",
+    "linea": "11 Ferrol - Gijón",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Vía 3A (vía de apartado) de la estación de Trasona, tramo 12 Aboño-Avilés, trayecto Avilés apeadero - El Regueral. Municipio de Corvera de Asturias (Parroquia de Trasona). Vía en curva a derecha radio 307 m, pendiente 10 milésimas sentido Pravia."
+   },
+   "pagina": 3,
+   "cita": "parte del maquinista y del especialista de estaciones, al no realizar correctamente el frenado del tren y",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 11 Ferrol - Gijón",
+   "pagina": 3,
+   "cita": "El día 1 de junio de 2011, a las 16:00 horas, en la estación de Trasona (Asturias), perteneciente a la",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotoras diésel-eléctricas 1607 y 1612; plataformas portabobinas tipo 2SSag (8 unidades); Tipo 50 (velocidad máxima 50 km/h)",
+    "averia": "Una de las plataformas presentaba problemas de frenado (detectados tras el incidente, ordenada su retirada inmediata)",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El día 1 de junio de 2011, el tren de mercancías 9203 de Feve, compuesto por dos locomotoras diésel-eléctricas (1607 y 1612) y ocho plataformas portabobinas vacías (tipo 2SSag), procedente de Pravia con destino Trasona, realizó su entrada a la estación de Trasona con treinta minutos de retraso, estableciéndose itinerario sobre vía 3A. El tren pasó la señal de entrada E1 en amarillo a las 15:59:57 a 40 km/h. El maquinista cortó tracción 30 metros antes del punto de detención (a 18 km/h) y accionó únicamente el freno directo de la locomotora 20 metros antes (a 8 km/h), deteniéndose a las 16:02:05 sin haber accionado el freno neumático del convoy. La estación estaba en mando local para realizar la maniobra de desacople.\n\nInmediatamente después de la detención, el especialista de estaciones procedió al corte: cerró simultáneamente los grifos de la locomotora y del primer vagón, desconectó las mangueras de aire sin abrir el grifo del primer vagón (por lo que no se descargó el circuito y no se activó el freno automático), no aplicó los frenos de estacionamiento manuales de los vagones ni utilizó calces. Las dos locomotoras se encaminaron al parque de Aceralia mientras las ocho plataformas iniciaron deslizamiento en dirección Pravia por la pendiente de 10 milésimas de la vía 3A. Como las agujas 1 y 3 seguían dispuestas hacia vía general (la jefa de circulación no las había modificado aún), el corte accedió a la vía general y recorrió 1.380 metros a la deriva, deteniéndose por sí solo cerca del apeadero de Llaranes al pasar el perfil a horizontal.\n\nLa jefa de circulación detectó la ocupación de circuitos de vía, alertó al CTC y ordenó detener el tren de viajeros 2419 en Avilés apeadero, evacuando a los viajeros al andén. Tras recibir autorización del CTC, una locomotora fue enviada a recoger el material escapado, que fue remolcado de vuelta a Trasona. La incidencia tuvo una duración de 25 minutos (16:00 a 16:25). No se suprimió ningún tren, pero 16 trenes sufrieron un retraso total de 269 minutos. No hubo víctimas ni daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Trasona",
+    "pk": "PK 27+510",
+    "linea": "11 Ferrol - Gijón",
+    "provincia": "Asturias",
+    "descripcion_lugar": "Vía 3A (vía de apartado) de la estación de Trasona, tramo 12 Aboño-Avilés, trayecto Avilés apeadero - El Regueral. Municipio de Corvera de Asturias (Parroquia de Trasona). Vía en curva a derecha radio 307 m, pendiente 10 milésimas sentido Pravia."
+   },
+   "pagina": 3,
+   "cita": "parte del maquinista y del especialista de estaciones, al no realizar correctamente el frenado del tren y",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños ni en la infraestructura ni en el material móvil",
+    "afectacion_servicio": "Incidencia de 25 minutos (16:00-16:25). No se suprimió ningún tren. 16 trenes sufrieron un retraso total de 269 minutos. Tren de viajeros 2419 detenido en Avilés apeadero con evacuación de viajeros al andén."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños ni en la infraestructura ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren 9203",
+     "implicacion": "No realizó el frenado total del tren ni comprobó la inmovilidad de todos los vehículos (incumplimiento RCT art. 6/15/00). Antigua 23 años. Último reciclaje 16/03/09."
+    },
+    {
+     "rol": "Especialista de estaciones",
+     "implicacion": "No comprobó la inmovilización de los vagones antes del desacople, no aplicó frenos de estacionamiento ni calces, cerró ambos grifos simultáneamente sin descargar la TFA, desconocía la pendiente de la vía 3A y no iba acompañado de agente caracterizado. Antigua 2 años y 10 meses. Último reciclaje 28/02/08."
+    },
+    {
+     "rol": "Jefa de circulación",
+     "implicacion": "Mantuvo las agujas 1 y 3 dispuestas hacia vía general una vez estacionado el tren, permitiendo que el escape accediera a la vía general. No hizo que el personal comprobara los frenos de estacionamiento (incumplimiento Anexo IX RCT art. 7/03/00). Antigua 19 años y 8 meses. Último reciclaje 31/08/10."
+    }
+   ],
+   "pagina": 6,
+   "cita": "El maquinista del tren 9203, con carné ferroviario (CF) 7852.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "9203",
+     "tipo": "mercancías",
+     "operador": "Feve",
+     "danos": "Ningún daño material; una plataforma presentaba problemas de frenado detectados tras el incidente"
+    },
+    {
+     "numero": "2419",
+     "tipo": "viajeros (cercanías)",
+     "operador": "Feve",
+     "danos": "Detenido en Avilés apeadero; viajeros evacuados al andén. Sin daños."
+    }
+   ],
+   "pagina": 3,
+   "cita": "tren 9203, de Feve, tras haberse realizado el desacople de las dos locomotoras, en la vía de apartado",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotoras diésel-eléctricas 1607 y 1612; plataformas portabobinas tipo 2SSag (8 unidades); Tipo 50 (velocidad máxima 50 km/h)",
+    "averia": "Una de las plataformas presentaba problemas de frenado (detectados tras el incidente, ordenada su retirada inmediata)",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Material Rodante Operador",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:subsistema"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E1 en amarillo; radiotelefonía analógica; no existían indicadores de rasante en la vía 3A (no preceptivos en red Feve)",
+    "tipo_via": "Vía única electrificada; vía 3A de apartado con curva derecha radio 307 m y pendiente 10 milésimas sentido Pravia",
+    "velocidad_maxima": "80 km/h (tramo); 50 km/h (tipo material rodante)",
+    "ancho": null,
+    "electrificacion": "Sí, vía única electrificada",
+    "estado_via": "Pendiente 10 milésimas en vía 3A; perfil con tramo horizontal de 620 m y rampa de 5 milésimas en vía general; bloqueo automático (BAU) con CTC; mando local en el momento del incidente",
+    "otro": "Estación conectada con factoría Aceralia (maniobras de mercancías); 66 circulaciones diarias de cercanías; 73 circulaciones en días laborables (66 cercanías + 8 mercancías); obras en la estación"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Señal de entrada E1 en amarillo; radiotelefonía analógica; no existían indicadores de rasante en la vía 3A (no preceptivos en red Feve)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": "Radiotelefonía analógica.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicaci[óo]n$",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños ni en la infraestructura ni en el material móvil",
+    "afectacion_servicio": "Incidencia de 25 minutos (16:00-16:25). No se suprimió ningún tren. 16 trenes sufrieron un retraso total de 269 minutos. Tren de viajeros 2419 detenido en Avilés apeadero con evacuación de viajeros al andén."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños ni en la infraestructura ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños ni en la infraestructura ni en el material móvil",
+    "afectacion_servicio": "Incidencia de 25 minutos (16:00-16:25). No se suprimió ningún tren. 16 trenes sufrieron un retraso total de 269 minutos. Tren de viajeros 2419 detenido en Avilés apeadero con evacuación de viajeros al andén."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños ni en la infraestructura ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 0,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se producen daños ni en la infraestructura ni en el material móvil",
+    "afectacion_servicio": "Incidencia de 25 minutos (16:00-16:25). No se suprimió ningún tren. 16 trenes sufrieron un retraso total de 269 minutos. Tren de viajeros 2419 detenido en Avilés apeadero con evacuación de viajeros al andén."
+   },
+   "pagina": 7,
+   "cita": "No se producen daños ni en la infraestructura ni en el material móvil.",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras diésel-eléctricas 1607 y 1612; plataformas portabobinas tipo 2SSag (8 unidades); Tipo 50 (velocidad máxima 50 km/h)",
+    "averia": "Una de las plataformas presentaba problemas de frenado (detectados tras el incidente, ordenada su retirada inmediata)",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E1 en amarillo; radiotelefonía analógica; no existían indicadores de rasante en la vía 3A (no preceptivos en red Feve)",
+    "tipo_via": "Vía única electrificada; vía 3A de apartado con curva derecha radio 307 m y pendiente 10 milésimas sentido Pravia",
+    "velocidad_maxima": "80 km/h (tramo); 50 km/h (tipo material rodante)",
+    "ancho": null,
+    "electrificacion": "Sí, vía única electrificada",
+    "estado_via": "Pendiente 10 milésimas en vía 3A; perfil con tramo horizontal de 620 m y rampa de 5 milésimas en vía general; bloqueo automático (BAU) con CTC; mando local en el momento del incidente",
+    "otro": "Estación conectada con factoría Aceralia (maniobras de mercancías); 66 circulaciones diarias de cercanías; 73 circulaciones en días laborables (66 cercanías + 8 mercancías); obras en la estación"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Tiempo despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Asturias",
+    "municipio": null,
+    "estacion": "Trasona"
+   },
+   "pagina": 3,
+   "cita": "El día 1 de junio de 2011, a las 16:00 horas, en la estación de Trasona (Asturias), perteneciente a la",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Tiempo despejado",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Señal de entrada E1 en amarillo; radiotelefonía analógica; no existían indicadores de rasante en la vía 3A (no preceptivos en red Feve)",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Señal de entrada E1 en amarillo; radiotelefonía analógica; no existían indicadores de rasante en la vía 3A (no preceptivos en red Feve)",
+    "tipo_via": "Vía única electrificada; vía 3A de apartado con curva derecha radio 307 m y pendiente 10 milésimas sentido Pravia",
+    "velocidad_maxima": "80 km/h (tramo); 50 km/h (tipo material rodante)",
+    "ancho": null,
+    "electrificacion": "Sí, vía única electrificada",
+    "estado_via": "Pendiente 10 milésimas en vía 3A; perfil con tramo horizontal de 620 m y rampa de 5 milésimas en vía general; bloqueo automático (BAU) con CTC; mando local en el momento del incidente",
+    "otro": "Estación conectada con factoría Aceralia (maniobras de mercancías); 66 circulaciones diarias de cercanías; 73 circulaciones en días laborables (66 cercanías + 8 mercancías); obras en la estación"
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": "Radiotelefonía analógica.",
+   "pagina": 7,
+   "cita": "2.2.4. Sistemas de comunicación",
+   "origen": "determinista",
+   "regla": "sec:^sistemas de comunicacion",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotoras diésel-eléctricas 1607 y 1612; plataformas portabobinas tipo 2SSag (8 unidades); Tipo 50 (velocidad máxima 50 km/h)",
+    "averia": "Una de las plataformas presentaba problemas de frenado (detectados tras el incidente, ordenada su retirada inmediata)",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "maquinista no acciona freno neumático",
+    "especialista no descarga circuito de aire",
+    "tren entra con treinta minutos retraso",
+    "jefa no cambia posición agujas"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": "El maquinista del tren 9203 se encuentra habilitado para la conducción de vehículos ferroviarios en \nvirtud de la capacitación adquirida de conformidad con el estatuto propio y la normativa legal aplicable \na Feve. \nÉste tiene una antigüedad en el cargo de 23 años. \nRealizó su último reciclaje formativo el 16/03/09 y su último reconocimiento médico y psicotécnico el \n02/02/11, conforme a la normativa vigente establecida por Feve. \nLa jefa de circulación de Trasona se encuentra habilitada como factora de circulación de primera, en \nvirtud de la capacitación adquirida de conformidad con el estatuto propio y la normativa legal aplicable \na Feve. \nÉsta tiene una antigüedad en el cargo de 19 años y 8 meses. \nRealizó su último reciclaje formativo el 31/08/10 y su último reconocimiento médico y psicotécnico el \n16/03/11, conforme a la normativa vigente establecida por Feve. \nEl especialista de estaciones se encuentra habilitado en virtud de la capacitación adquirida de \nconformidad con el estatuto propio y la normativa legal aplicable a Feve. \nÉste tiene una antigüedad en el cargo de 2 años y 10 meses. \nRealizó su último reciclaje formativo el 28/02/08 y su último reconocimiento médico y psicotécnico el \n31/03/11, conforme a la normativa vigente establecida por Feve. \n\n## Página 10\n\n \n \n \nA \nMINISTERIO \nDE FOMENTO \nSECRETARÍA DE ESTADO \nDE \nPLANIFICACIÓN \nE \nINFRAESTRUCTURAS \n \nSECRETARÍA GENERAL DE \nTRANSPORTES \nInvestigación del incidente \nnº 0026/2011 ocurrido el 01.06.2011 \nInforme final  \nCOMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \n \nIF-010611-310112-CIAF \n \n \nPág. 10 de 14\n3.3. \nNORMATIVA",
+   "pagina": 9,
+   "cita": "3.2.1. Requisitos del personal",
+   "origen": "determinista",
+   "regla": "sec:^requisitos del personal",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El día 1 de junio de 2011, el tren de mercancías 9203 de Feve, compuesto por dos locomotoras diésel-eléctricas (1607 y 1612) y ocho plataformas portabobinas vacías (tipo 2SSag), procedente de Pravia con destino Trasona, realizó su entrada a la estación de Trasona con treinta minutos de retraso, estableciéndose itinerario sobre vía 3A. El tren pasó la señal de entrada E1 en amarillo a las 15:59:57 a 40 km/h. El maquinista cortó tracción 30 metros antes del punto de detención (a 18 km/h) y accionó únicamente el freno directo de la locomotora 20 metros antes (a 8 km/h), deteniéndose a las 16:02:05 sin haber accionado el freno neumático del convoy. La estación estaba en mando local para realizar la maniobra de desacople.\n\nInmediatamente después de la detención, el especialista de estaciones procedió al corte: cerró simultáneamente los grifos de la locomotora y del primer vagón, desconectó las mangueras de aire sin abrir el grifo del primer vagón (por lo que no se descargó el circuito y no se activó el freno automático), no aplicó los frenos de estacionamiento manuales de los vagones ni utilizó calces. Las dos locomotoras se encaminaron al parque de Aceralia mientras las ocho plataformas iniciaron deslizamiento en dirección Pravia por la pendiente de 10 milésimas de la vía 3A. Como las agujas 1 y 3 seguían dispuestas hacia vía general (la jefa de circulación no las había modificado aún), el corte accedió a la vía general y recorrió 1.380 metros a la deriva, deteniéndose por sí solo cerca del apeadero de Llaranes al pasar el perfil a horizontal.\n\nLa jefa de circulación detectó la ocupación de circuitos de vía, alertó al CTC y ordenó detener el tren de viajeros 2419 en Avilés apeadero, evacuando a los viajeros al andén. Tras recibir autorización del CTC, una locomotora fue enviada a recoger el material escapado, que fue remolcado de vuelta a Trasona. La incidencia tuvo una duración de 25 minutos (16:00 a 16:25). No se suprimió ningún tren, pero 16 trenes sufrieron un retraso total de 269 minutos. No hubo víctimas ni daños materiales.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.hechos"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Incumplimiento normativo del personal ferroviario: el maquinista no realizó el frenado total del tren (solo freno directo de locomotora, sin freno neumático del convoy) y el especialista de estaciones no comprobó la inmovilización, no aplicó frenos de estacionamiento ni calces, y cerró simultáneamente ambos grifos sin descargar la TFA, impidiendo el frenado automático del corte.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "Pendiente de 10 milésimas de la vía 3A sin señalización mediante indicadores de rasante",
+    "Agujas 1 y 3 mantenidas en posición vía general por la jefa de circulación, permitiendo el acceso del escape a la vía general",
+    "Desconocimiento por el especialista de estaciones de la pendiente de la vía 3A (no era su residencia habitual)",
+    "El especialista no iba acompañado de agente caracterizado que conociera la estación",
+    "La jefa de circulación no hizo que el personal a su cargo comprobara los frenos de estacionamiento",
+    "Existe de obras en la estación que alteraban la forma de trabajo",
+    "No se documentó mediante consigna la realización de maniobras en la estación (RCT art. 6/12/00)"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    "Insistir en el cumplimiento de la normativa a todo el personal implicado en la circulación de los trenes, en lo referente a la realización de operaciones de enganche y desenganche.",
+    "Analizar la conveniencia de colocar, en la estación de Trasona y en otras estaciones de características similares, indicadores de rasante que señalicen la pendiente existente en la vía.",
+    "Dadas las características de la estación de Trasona (elevadas pendientes, realización de maniobras para mercancías y fluido tráfico de cercanías), y según lo estipulado en el artículo 6/12/00 del RCT, analizar la conveniencia de documentar mediante consigna la realización de maniobras en esta estación.",
+    "Insistir en el cumplimiento de la normativa a todo el personal implicado en la circulación de los trenes, en lo referente a la realización de operaciones de enganche y desenganche.",
+    "Analizar la conveniencia de colocar, en la estación de Trasona y en otras estaciones de características similares, indicadores de rasante que señalicen la pendiente existente en la vía.",
+    "Dadas las características de la estación de Trasona (elevadas pendientes, realización de maniobras para mercancías y fluido tráfico de cercanías), y según lo estipulado en el artículo 6/12/00 del RCT, analizar la conveniencia de documentar mediante consigna la realización de maniobras en esta estación."
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    "Feve",
+    "Feve",
+    "Feve",
+    "Feve",
+    "Feve",
+    "Feve"
+   ],
+   "pagina": 3,
+   "cita": "| Destinatario final | Número | Recomendación |",
+   "origen": "determinista",
+   "regla": "tabla_md",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "15:56",
+     "evento": "Llegada del tren 9203 a la estación de Trasona (según jefa de circulación)"
+    },
+    {
+     "hora": "15:57",
+     "evento": "El maquinista llega a Trasona con el tren 9203 y estaciona en vía 3A"
+    },
+    {
+     "hora": "15:59:57",
+     "evento": "El tren pasa la señal de entrada E1 en amarillo a 40 km/h (registrador de seguridad)"
+    },
+    {
+     "hora": "16:00",
+     "evento": "Hora oficial del incidente; el especialista de estaciones realiza el corte de locomotoras"
+    },
+    {
+     "hora": "16:02:05",
+     "evento": "El tren queda detenido por freno directo de locomotora (sin freno neumático del convoy)"
+    },
+    {
+     "hora": "16:02",
+     "evento": "Inmediatamente tras el corte, las 8 plataformas inician deslizamiento sentido Pravia"
+    },
+    {
+     "hora": "16:25",
+     "evento": "Fin de la incidencia; material escapado detenido cerca del apeadero de Llaranes"
+    },
+    {
+     "hora": "19:12",
+     "evento": "El inspector general de Feve comunica el suceso a la CIAF"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0026/2011",
+ "expediente": "0026/011",
+ "anio": 2011,
+ "titulo": "Escape de ocho plataformas portabobinas vacías en la estación de Trasona (Asturias) tras desacople",
+ "cobertura": "completo",
+ "estado_cobertura": "completo",
+ "md": "database/md_base/IF-010611-310112-CIAF.md"
+}

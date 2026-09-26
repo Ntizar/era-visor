@@ -1,0 +1,914 @@
+{
+ "id": "ID_070507_191007",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID_070507_191007.pdf",
+ "pdf": "pdfs/ES/ID_070507_191007.pdf",
+ "md5_pdf": "748de869709dd09b292d412457bdcbf6",
+ "paginas_md": 7,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 12,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "0029/2007",
+   "pagina": 1,
+   "cita": "Nº 0029/2007 OCURRIDO EL DÍA 07.05.2007 ## Página 2 A MINISTERIO DE FOMENTO SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y PLANIFICACIÓN SECRETARÍA GENERAL DE INFRAESTRUCTURAS Investigación del accidente",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 7 de mayo de 2007, a las 19:20, una niña de unos 10 años fue arrollada mortalmente por el tren de Larga Distancia 165 de Renfe en el paso a nivel clase C de la estación de Algemesí (PK 81,454, Línea 300). El paso a nivel estaba cerrado con semibarreras bajadas y señalización luminosa y acústica funcionando. La víctima cruzó corriendo haciendo caso omiso de las advertencias del maquinista y del vigilante de seguridad. El tren circulaba a 76 km/h, por debajo de la velocidad máxima autorizada de 140 km/h. No se produjeron daños materiales. La investigación concluyó que la causa fue la imprudencia de la víctima.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-05-07",
+    "hora": "19:20",
+    "lugar": {
+     "tipo": "estacion",
+     "estacion": "Algemesí",
+     "pk": "81,454",
+     "linea": "Línea 300 Madrid Puerta de Atocha – Valencia Nord",
+     "provincia": "Valencia",
+     "descripcion_lugar": "Paso a nivel clase C con semibarreras enclavadas, dotado de paso peatonal y señalización luminosa y acústica, situado en la estación de Algemesí, al final del edificio de viajeros. La estación estaba en mando local con Jefe de Circulación. Bloqueo Automático en vía doble electrificada con CTC."
+    }
+   },
+   "pagina": 3,
+   "cita": "Una persona resultó arrollada a las 19:20 horas del 07.05.07 en el paso a nivel clase C de",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación en vías 1 y 2. Desvío a vía 3 hasta el levantamiento del cadáver. Retraso del tren LD 165: 97 minutos. Retraso acumulado: 7 trenes de Cercanías (62 min), 3 trenes de Mercancías (104 min), 6 trenes de Larga Distancia (41 min), 1 tren de Media Distancia (7 min). Limitación de 50 km/h hasta las 21:35."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Invasión por parte de la víctima del gálibo de la vía, cruzando el paso a nivel cerrada haciendo caso omiso de la señalización del paso a nivel, así como de las advertencias del maquinista y del vigilante de seguridad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima era una menor de unos 10 años que cruzó corriendo sin atender a las semibarreras bajadas, señales luminosas y acústicas, megafonía ni avisos verbales.",
+    "Existía una afluencia de personas en el andén central intentando cruzar pese al cierre del paso a nivel, lo que indica un comportamiento generalizado de riesgo en ese punto."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "El paso a nivel clase C en el interior de una estación con andén central constituía un punto de cruce peatonal conflictivo cuya supresión estaba proyectada pero no ejecutada.",
+    "La necesidad de campañas de sensibilización y concienciación ciudadana sobre el peligro de cruzar las vías del ferrocarril."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Dado que existe un proyecto de supresión del paso a nivel, convendría agilizar los trámites que permitan realizar la obra a la mayor brevedad posible.",
+     "destinatario": "Adif / Administrador de Infraestructuras Ferroviarias"
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril.",
+     "destinatario": "Adif / Renfe / Autoridades competentes"
+    }
+   ],
+   "pagina": 7,
+   "cita": "7. RECOMENDACIONES - Dado que existe un proyecto de supresión del paso a nivel, convendría agilizar los trámites que permitan realizar la obra a la mayor brevedad posible. - Impulsar campañas de sensibilización y co",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Dado que existe un proyecto de supresión del paso a nivel, convendría agilizar los trámites que permitan realizar la obra a la mayor brevedad posible.",
+     "destinatario": "Adif / Administrador de Infraestructuras Ferroviarias"
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril.",
+     "destinatario": "Adif / Renfe / Autoridades competentes"
+    }
+   ],
+   "pagina": 7,
+   "cita": "7. RECOMENDACIONES - Dado que existe un proyecto de supresión del paso a nivel, convendría agilizar los trámites que permitan realizar la obra a la mayor brevedad posible. - Impulsar campañas de sensibilización y co",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de una persona",
+   "pagina": 2,
+   "cita": "(Adif), comunicó por mensaje de correo electrónico que se había producido el arrollamiento de",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó por mensaje de correo electrónico que se había producido el arrollamiento de",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-05-07",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "19:20",
+   "pagina": 3,
+   "cita": "Una persona resultó arrollada a las 19:20 horas del 07.05.07 en el paso a nivel clase C de",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Algemesí",
+    "pk": "81,454",
+    "linea": "Línea 300 Madrid Puerta de Atocha – Valencia Nord",
+    "provincia": "Valencia",
+    "descripcion_lugar": "Paso a nivel clase C con semibarreras enclavadas, dotado de paso peatonal y señalización luminosa y acústica, situado en la estación de Algemesí, al final del edificio de viajeros. La estación estaba en mando local con Jefe de Circulación. Bloqueo Automático en vía doble electrificada con CTC."
+   },
+   "pagina": 2,
+   "cita": "una persona resultando esta fallecida, en la estación de Algemesí, en el paso a nivel Clase C",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "Línea 300 Madrid Puerta de Atocha – Valencia Nord",
+   "pagina": 2,
+   "cita": "Línea: Punto kilométrico 81,454 de la Línea 300 Madrid Puerta de Atocha – Valencia Nord.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": "Locomotora 252-068-2 con 9 vehículos (Talgo), masa remolcada 157 Tm",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "Una persona resultó arrollada a las 19:20 horas del 07.05.2007 en el paso a nivel clase C de la estación de Algemesí, situado en el punto kilométrico 81,454 de la Línea 300 Madrid Puerta de Atocha – Valencia Nord. El arrollamiento se produjo al paso del tren de Viajeros de Larga Distancia 165, compuesto por locomotora 252068-2 y 9 vehículos con masa remolcada de 157 Tm, de la empresa Renfe, que efectuaba su entrada por vía 1 sin parada prescrita en dicha estación. La persona arrollada, una niña de unos 10 años, cruzaba corriendo el paso a nivel de derecha a izquierda según el sentido de la circulación del tren, estando el paso a nivel cerrado con las semibarreras bajadas y funcionando las indicaciones luminosas y sonoras. El vigilante de seguridad había dado el alto a varias personas que intentaban cruzar desde el andén central a pesar de estar las barreras bajadas, la señal acústica, la megafonía y los continuos avisos suyos y del factor de circulación.\n\nTras el arrollamiento, el cuerpo salió despedido a vía 2, quedando interrumpida la circulación en vías 1 y 2. El maquinista, al detectar a la niña a pocos metros del paso, hizo uso del silbato en repetidas ocasiones y del freno de urgencia, pero no hubo tiempo de detener el tren. La locomotora golpeó a la menor con el lado izquierdo sentido de la marcha, despidiéndola fuera de la vía. A las 19:32 horas se personó la Policía Local y 8 minutos después los servicios médicos, certificando el fallecimiento de la víctima. A las 20:45 se reanudó la circulación del tren 165 tras relevar al maquinista. A las 21:10 la Autoridad Judicial ordenó el levantamiento del cadáver, restableciéndose la circulación con limitación de 50 km/h por afluencia de personas, y a las 21:35 se permitió la marcha normal.",
+   "pagina": 3,
+   "cita": "Una persona resultó arrollada a las 19:20 horas del 07.05.07 en el paso a nivel clase C de",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "estacion",
+    "estacion": "Algemesí",
+    "pk": "81,454",
+    "linea": "Línea 300 Madrid Puerta de Atocha – Valencia Nord",
+    "provincia": "Valencia",
+    "descripcion_lugar": "Paso a nivel clase C con semibarreras enclavadas, dotado de paso peatonal y señalización luminosa y acústica, situado en la estación de Algemesí, al final del edificio de viajeros. La estación estaba en mando local con Jefe de Circulación. Bloqueo Automático en vía doble electrificada con CTC."
+   },
+   "pagina": 2,
+   "cita": "una persona resultando esta fallecida, en la estación de Algemesí, en el paso a nivel Clase C",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación en vías 1 y 2. Desvío a vía 3 hasta el levantamiento del cadáver. Retraso del tren LD 165: 97 minutos. Retraso acumulado: 7 trenes de Cercanías (62 min), 3 trenes de Mercancías (104 min), 6 trenes de Larga Distancia (41 min), 1 tren de Media Distancia (7 min). Limitación de 50 km/h hasta las 21:35."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren LD 165",
+     "implicacion": "Matrícula 9733155. Jornada efectiva 3h36min; 24h anteriores 4h45min; 48h anteriores 8h50min. Hizo uso del silbato y del freno de urgencia al detectar a la niña. Alcoholemia negativa. Relevado tras el suceso."
+    },
+    {
+     "rol": "Jefe de Circulación de la estación de Algemesí",
+     "implicacion": "Informó del suceso al CTC. Declaró haber visto correr a la niña hacia el lado del pueblo cruzando el paso a nivel a unos 25 metros antes del paso del tren. Confirmó el funcionamiento de todos los sistemas de seguridad del paso a nivel."
+    },
+    {
+     "rol": "Vigilante de Seguridad de la estación de Algemesí",
+     "implicacion": "Testigo de los hechos. Dio el alto a varias personas que intentaban cruzar desde el andén central pese a barreras bajadas, señal acústica, megafonía y avisos. Quedó custodiando el cuerpo e intentando socorrer a la víctima."
+    }
+   ],
+   "pagina": 3,
+   "cita": "El Jefe de Circulación de la estación de Algemesí.",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "165",
+     "tipo": "Viajeros de Larga Distancia (Talgo)",
+     "operador": "Renfe",
+     "danos": "Sin daños materiales. Retraso de 97 minutos."
+    }
+   ],
+   "pagina": 2,
+   "cita": "Responsable de seguridad de Renfe: que entregó su informe particular del accidente el",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": "Locomotora 252-068-2 con 9 vehículos (Talgo), masa remolcada 157 Tm",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase C con semibarreras enclavadas, señalización luminosa y acústica, paso peatonal, megafonía. Todos los sistemas funcionaban correctamente.",
+    "tipo_via": "Vía doble electrificada con CTC. Bloqueo Automático.",
+    "velocidad_maxima": "140 km/h al paso por la estación de Algemesí (según cuadro de velocidades y libro de itinerarios). Limitación temporal de 80 km/h a la salida de la estación.",
+    "ancho": null,
+    "electrificacion": "Vía electrificada",
+    "estado_via": "Correcto. Las instalaciones del paso a nivel funcionaban correctamente.",
+    "otro": "Estación en mando local con Jefe de Circulación. El tren entraba por vía 1 sin parada prescrita. Tras el arrollamiento, circulación desviada a vía 3 hasta el levantamiento del cadáver. Limitación de 50 km/h por afluencia de personas hasta las 21:35."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático en vía doble electrificada, con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso a nivel clase C con semibarreras enclavadas, señalización luminosa y acústica, paso peatonal, megafonía. Todos los sistemas funcionaban correctamente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación en vías 1 y 2. Desvío a vía 3 hasta el levantamiento del cadáver. Retraso del tren LD 165: 97 minutos. Retraso acumulado: 7 trenes de Cercanías (62 min), 3 trenes de Mercancías (104 min), 6 trenes de Larga Distancia (41 min), 1 tren de Media Distancia (7 min). Limitación de 50 km/h hasta las 21:35."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación en vías 1 y 2. Desvío a vía 3 hasta el levantamiento del cadáver. Retraso del tren LD 165: 97 minutos. Retraso acumulado: 7 trenes de Cercanías (62 min), 3 trenes de Mercancías (104 min), 6 trenes de Larga Distancia (41 min), 1 tren de Media Distancia (7 min). Limitación de 50 km/h hasta las 21:35."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": null,
+    "heridos_leves": null,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Interrupción de la circulación en vías 1 y 2. Desvío a vía 3 hasta el levantamiento del cadáver. Retraso del tren LD 165: 97 minutos. Retraso acumulado: 7 trenes de Cercanías (62 min), 3 trenes de Mercancías (104 min), 6 trenes de Larga Distancia (41 min), 1 tren de Media Distancia (7 min). Limitación de 50 km/h hasta las 21:35."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252-068-2 con 9 vehículos (Talgo), masa remolcada 157 Tm",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase C con semibarreras enclavadas, señalización luminosa y acústica, paso peatonal, megafonía. Todos los sistemas funcionaban correctamente.",
+    "tipo_via": "Vía doble electrificada con CTC. Bloqueo Automático.",
+    "velocidad_maxima": "140 km/h al paso por la estación de Algemesí (según cuadro de velocidades y libro de itinerarios). Limitación temporal de 80 km/h a la salida de la estación.",
+    "ancho": null,
+    "electrificacion": "Vía electrificada",
+    "estado_via": "Correcto. Las instalaciones del paso a nivel funcionaban correctamente.",
+    "otro": "Estación en mando local con Jefe de Circulación. El tren entraba por vía 1 sin parada prescrita. Tras el arrollamiento, circulación desviada a vía 3 hasta el levantamiento del cadáver. Limitación de 50 km/h por afluencia de personas hasta las 21:35."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático en vía doble electrificada, con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Valencia",
+    "municipio": null,
+    "estacion": "Algemesí"
+   },
+   "pagina": 2,
+   "cita": "situado en el punto kilométrico 81,454 en la Línea 300 Madrid Puerta de Atocha – Valencia",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso a nivel clase C con semibarreras enclavadas, señalización luminosa y acústica, paso peatonal, megafonía. Todos los sistemas funcionaban correctamente.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a nivel clase C con semibarreras enclavadas, señalización luminosa y acústica, paso peatonal, megafonía. Todos los sistemas funcionaban correctamente.",
+    "tipo_via": "Vía doble electrificada con CTC. Bloqueo Automático.",
+    "velocidad_maxima": "140 km/h al paso por la estación de Algemesí (según cuadro de velocidades y libro de itinerarios). Limitación temporal de 80 km/h a la salida de la estación.",
+    "ancho": null,
+    "electrificacion": "Vía electrificada",
+    "estado_via": "Correcto. Las instalaciones del paso a nivel funcionaban correctamente.",
+    "otro": "Estación en mando local con Jefe de Circulación. El tren entraba por vía 1 sin parada prescrita. Tras el arrollamiento, circulación desviada a vía 3 hasta el levantamiento del cadáver. Limitación de 50 km/h por afluencia de personas hasta las 21:35."
+   },
+   "pagina": 2,
+   "cita": "Tipo de bloqueo: Bloqueo Automático en vía doble electrificada, con CTC.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": "Locomotora 252-068-2 con 9 vehículos (Talgo), masa remolcada 157 Tm",
+    "averia": null,
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Niña cruza paso a nivel cerrado",
+    "Ignora semibarreras y señales",
+    "No hace caso a advertencias verbales"
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:precursores"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(Adif), comunicó por mensaje de correo electrónico que se había producido el arrollamiento de \nuna persona resultando esta fallecida, en la estación de Algemesí, en el paso a nivel Clase C \nsituado en el punto kilométrico 81,454 en la Línea 300 Madrid Puerta de Atocha – Valencia \nNord, en la provincia de Valencia, perteneciente a la Red Ferroviaria de Interés General \nadministrada por Adif. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles de acuerdo \ncon el citado artículo.  \nDe conformidad con el artículo 112 del mencionado Reglamento, el 1 de mayo de 2007 la \nDirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios para el periodo comprendido entre el 01.05.07 al 30.06.07 compuesto por las \nsiguientes personas para este accidente: \n \nTécnico responsable de la investigación del accidente: un funcionario adscrito a la \nDirección General de Ferrocarriles, que suscribe este informe. \n \nResponsable de seguridad de Adif en la zona de Levante: que entregó su informe \nparticular del accidente el 14.09.07. \n \nResponsable de seguridad de Renfe: que entregó su informe particular del accidente el \n20.06.07 \nLa empresa pública INECO S.A. en el marco del convenio de colaboración suscrito con la \nDirección General de Ferrocarriles el 26.09.06 ha realizado trabajos de apoyo en la \ninvestigación de este accidente al Técnico responsable de la misma.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), comunicó por mensaje de correo electrónico que se había producido el arrollamiento de una persona re",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "Una persona resultó arrollada a las 19:20 horas del 07.05.2007 en el paso a nivel clase C de la estación de Algemesí, situado en el punto kilométrico 81,454 de la Línea 300 Madrid Puerta de Atocha – Valencia Nord. El arrollamiento se produjo al paso del tren de Viajeros de Larga Distancia 165, compuesto por locomotora 252068-2 y 9 vehículos con masa remolcada de 157 Tm, de la empresa Renfe, que efectuaba su entrada por vía 1 sin parada prescrita en dicha estación. La persona arrollada, una niña de unos 10 años, cruzaba corriendo el paso a nivel de derecha a izquierda según el sentido de la circulación del tren, estando el paso a nivel cerrado con las semibarreras bajadas y funcionando las indicaciones luminosas y sonoras. El vigilante de seguridad había dado el alto a varias personas que intentaban cruzar desde el andén central a pesar de estar las barreras bajadas, la señal acústica, la megafonía y los continuos avisos suyos y del factor de circulación.\n\nTras el arrollamiento, el cuerpo salió despedido a vía 2, quedando interrumpida la circulación en vías 1 y 2. El maquinista, al detectar a la niña a pocos metros del paso, hizo uso del silbato en repetidas ocasiones y del freno de urgencia, pero no hubo tiempo de detener el tren. La locomotora golpeó a la menor con el lado izquierdo sentido de la marcha, despidiéndola fuera de la vía. A las 19:32 horas se personó la Policía Local y 8 minutos después los servicios médicos, certificando el fallecimiento de la víctima. A las 20:45 se reanudó la circulación del tren 165 tras relevar al maquinista. A las 21:10 la Autoridad Judicial ordenó el levantamiento del cadáver, restableciéndose la circulación con limitación de 50 km/h por afluencia de personas, y a las 21:35 se permitió la marcha normal.",
+   "pagina": 3,
+   "cita": "Una persona resultó arrollada a las 19:20 horas del 07.05.07 en el paso a nivel clase C de",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR EL OPERADOR FERROVIARIO. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por ADIF concluye “Se estima imprudencia de la víctima que cruza el P.N., sin \nhacer caso a las indicaciones de las instalaciones del P.N., ni a las advertencias del Vigilante \nde Seguridad”.  \nEl elaborado por RENFE establece que “Imprudencia de la víctima por invadir el gálibo de la \nvía en el momento del paso de tren de Larga Distancia 165, haciendo caso omiso de las \nseñales del Paso a Nivel y de las advertencias de peligro de las personas que se encontraban \nante el mismo…”.  \nPor tanto, ambas conclusiones son coincidentes entre sí en cuanto a la causa del accidente. \n\n## Página 7\n\n \n \n \nA \nMINISTERIO DE \nFOMENTO \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nInvestigación del accidente \nnº 29/2007 ocurrido el 07.05.2007 \nInforme definitivo \n \nDIRECCION GENERAL DE \nFERROCARRILES \nID-070507-191007 \n \n \nPág. 7 de 7",
+   "pagina": 6,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Invasión por parte de la víctima del gálibo de la vía, cruzando el paso a nivel cerrada haciendo caso omiso de la señalización del paso a nivel, así como de las advertencias del maquinista y del vigilante de seguridad.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima era una menor de unos 10 años que cruzó corriendo sin atender a las semibarreras bajadas, señales luminosas y acústicas, megafonía ni avisos verbales.",
+    "Existía una afluencia de personas en el andén central intentando cruzar pese al cierre del paso a nivel, lo que indica un comportamiento generalizado de riesgo en ese punto."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "A la vista de la investigación realizada, se estima que el accidente tuvo su origen en la \ninvasión por parte de la víctima del gálibo de la vía, que hizo caso omiso de la señalización del \npaso a nivel.",
+   "pagina": 7,
+   "cita": "6. CONCLUSIONES A la vista de la investigación realizada, se estima que el accidente tuvo su origen en la invasión por parte de la víctima del gálibo de la vía, que hizo caso omiso de la señalización del paso a nivel.",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "A la vista de la investigación realizada, se estima que el accidente tuvo su origen en la \ninvasión por parte de la víctima del gálibo de la vía, que hizo caso omiso de la señalización del \npaso a nivel.",
+   "pagina": 7,
+   "cita": "6. CONCLUSIONES A la vista de la investigación realizada, se estima que el accidente tuvo su origen en la invasión por parte de la víctima del gálibo de la vía, que hizo caso omiso de la señalización del paso a nivel.",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Dado que existe un proyecto de supresión del paso a nivel, convendría agilizar los trámites que permitan realizar la obra a la mayor brevedad posible.",
+     "destinatario": "Adif / Administrador de Infraestructuras Ferroviarias"
+    },
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar las vías del ferrocarril.",
+     "destinatario": "Adif / Renfe / Autoridades competentes"
+    }
+   ],
+   "pagina": 7,
+   "cita": "7. RECOMENDACIONES - Dado que existe un proyecto de supresión del paso a nivel, convendría agilizar los trámites que permitan realizar la obra a la mayor brevedad posible. - Impulsar campañas de sensibilización y co",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "19:20",
+     "evento": "Arrollamiento de la menor por el tren LD 165 en el paso a nivel clase C de la estación de Algemesí"
+    },
+    {
+     "hora": "19:32",
+     "evento": "Se personan la Policía Local en el lugar"
+    },
+    {
+     "hora": "19:40",
+     "evento": "Llegada de los servicios médicos, que certifican el fallecimiento de la víctima"
+    },
+    {
+     "hora": "20:45",
+     "evento": "Se reanuda la circulación del tren 165 una vez relevado el maquinista"
+    },
+    {
+     "hora": "21:10",
+     "evento": "La Autoridad Judicial ordena el levantamiento del cadáver; vía expedita con limitación de 50 km/h por afluencia de personas"
+    },
+    {
+     "hora": "21:35",
+     "evento": "Se permite la circulación a marcha normal"
+    },
+    {
+     "hora": "22:10",
+     "evento": "Prueba de alcoholemia al maquinista en Alicante con resultado negativo (0,00 mg/1000 ml)"
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0029/2007",
+ "expediente": "0029/2007",
+ "anio": 2007,
+ "titulo": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0029/2007 OCURRIDO EL DÍA 07.05.2007",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID_070507_191007.md"
+}

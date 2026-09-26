@@ -1,0 +1,921 @@
+{
+ "id": "ID_270807_300108",
+ "url_oficial": "https://www.era.europa.eu/system/files/2023-07/ID_270807_300108.pdf",
+ "pdf": "pdfs/ES/ID_270807_300108.pdf",
+ "md5_pdf": "488643ca6258ea6db0fcb2439cd42bbc",
+ "paginas_md": 6,
+ "fecha_proceso": "2026-09-26",
+ "n_secciones": 13,
+ "n_tablas": 0,
+ "tablas": [],
+ "campos": {
+  "0.1": {
+   "nombre": "Número de referencia del informe",
+   "valor_fuente": "44/2007",
+   "pagina": 1,
+   "cita": "nº 44/2007 ocurrido el 27.08.2007",
+   "origen": "importado",
+   "regla": "db:expediente",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "0.2": {
+   "nombre": "Código interno del suceso",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.5": {
+   "nombre": "Fecha del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "0.6": {
+   "nombre": "Versión / revisión del informe",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "1.1": {
+   "nombre": "Descripción breve del suceso",
+   "valor_fuente": "El 27 de agosto de 2007 a las 09:47, el tren de Media Distancia 4512, que cubría el trayecto Murcia del Carmen-Cartagena, arrolló a una persona en el Paso a Nivel Clase C (semibarreras automáticas) del km 467,110, denominado Camino a Torreagüera, entre las estaciones de Murcia del Carmen y Los Ramos-Alquerías. La víctima intentó cruzar la vía por la parte izquierda en el sentido de la marcha del tren, haciendo caso omiso de la señalización luminosa y acústica activa y de las semibarreras bajadas. La persona falleció en el acto. No se produjeron daños materiales en el tren ni en la infraestructura. La investigación atribuyó el accidente a la imprudencia de la víctima, agravada por la posible confusión al haber pasado previamente un tren por la vía contraria.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.resumen",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.resumen"
+  },
+  "1.2": {
+   "nombre": "Fecha, hora y lugar del suceso",
+   "valor_fuente": {
+    "fecha": "2007-08-27",
+    "hora": "09:47",
+    "lugar": {
+     "tipo": "plena_via",
+     "estacion": null,
+     "pk": "467,110",
+     "linea": "320 Chinchilla a Cartagena",
+     "provincia": "Murcia",
+     "descripcion_lugar": "Paso a Nivel Clase C (SBA) del km 467,110, denominado Camino a Torreagüera, situado entre las estaciones de Murcia del Carmen y Los Ramos-Alquerías, en la Red Ferroviaria de Interés General administrada por Adif. Tramo de vía doble con Bloqueo Telefónico, sin electrificar."
+    }
+   },
+   "pagina": 2,
+   "cita": "a las 09:47 horas del lunes 27 de Agosto de 2007 por tren de Media Distancia 4512.",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "1.3": {
+   "nombre": "Consecuencias principales",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Suspensión de la circulación por ambas vías desde las 09:47. Vía 1 autorizada con marcha a la vista a las 10:00; circulación normal restablecida a las 13:15. Afectados: 2 trenes de Larga Distancia (59 min de retraso), 5 trenes de Media Distancia (288 min de retraso), 13 trenes de Cercanías (209 min de retraso). El tren 4512 (18 viajeros) detenido 94 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "1.4": {
+   "nombre": "Causas directas",
+   "valor_fuente": "Imprudencia de la víctima al cruzar las vías haciendo caso omiso de la señalización (semibarreras bajadas, señales luminosas y acústicas activas) en el Paso a Nivel Clase C del km 467,110.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "1.5": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima posiblemente no percibió la llegada del tren por la vía contraria, dado que acababa de pasar otro tren por una vía.",
+    "El paso a nivel, con un momento de circulación AxT de 50.100 (muy superior al umbral de 24.000 de la LOTT), presentaba un riesgo elevado que motivó su inclusión en el listado de supresión."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "1.6": {
+   "nombre": "Causas subyacentes",
+   "valor_fuente": [
+    "Existencia de un paso a nivel de clase C con alto tráfico (AxT 50.100) cuya supresión estaba pendiente de la variante del Reguerón en obras."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.sistemicas",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.sistemicas"
+  },
+  "1.7": {
+   "nombre": "Recomendaciones principales",
+   "valor_fuente": [
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril.",
+     "destinatario": "Ciudadanía / Administraciones competentes en seguridad vial"
+    },
+    {
+     "texto": "Se optó por la supresión del paso a nivel al licitar y contratar la variante del Reguerón (en obras, fecha de finalización prevista 2008), dado que el momento de circulación AxT de 50.100 supera el umbral de 24.000 establecido en la LOTT.",
+     "destinatario": "Adif / Ministerio de Fomento"
+    }
+   ],
+   "pagina": 6,
+   "cita": "Se recomienda: Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril. 8. COMENTARIOS Y SUGERENCIAS PAR",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "1.8": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": [
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril.",
+     "destinatario": "Ciudadanía / Administraciones competentes en seguridad vial"
+    },
+    {
+     "texto": "Se optó por la supresión del paso a nivel al licitar y contratar la variante del Reguerón (en obras, fecha de finalización prevista 2008), dado que el momento de circulación AxT de 50.100 supera el umbral de 24.000 establecido en la LOTT.",
+     "destinatario": "Adif / Ministerio de Fomento"
+    }
+   ],
+   "pagina": 6,
+   "cita": "Se recomienda: Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril. 8. COMENTARIOS Y SUGERENCIAS PAR",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.1": {
+   "nombre": "Tipo de suceso",
+   "valor_fuente": "Arrollamiento de una persona",
+   "pagina": 2,
+   "cita": "(Adif), comunicó por correo electrónico que se había producido el arrollamiento de una",
+   "origen": "importado",
+   "regla": "db:tipo_categoria",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.2": {
+   "nombre": "Administrador de infraestructura y empresas ferroviarias implicadas",
+   "valor_fuente": [
+    "Adif",
+    "Renfe Operadora"
+   ],
+   "pagina": 2,
+   "cita": "(Adif), comunicó por correo electrónico que se había producido el arrollamiento de una",
+   "origen": "importado",
+   "regla": "db:entidades",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.A": {
+   "nombre": "Fecha del suceso",
+   "valor_fuente": "2007-08-27",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:fecha",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:fecha"
+  },
+  "2.1.3.B": {
+   "nombre": "Hora del suceso",
+   "valor_fuente": "09:47",
+   "pagina": 2,
+   "cita": "a las 09:47 horas del lunes 27 de Agosto de 2007 por tren de Media Distancia 4512.",
+   "origen": "importado",
+   "regla": "db:hora",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.3.C": {
+   "nombre": "Localización exacta del suceso",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "467,110",
+    "linea": "320 Chinchilla a Cartagena",
+    "provincia": "Murcia",
+    "descripcion_lugar": "Paso a Nivel Clase C (SBA) del km 467,110, denominado Camino a Torreagüera, situado entre las estaciones de Murcia del Carmen y Los Ramos-Alquerías, en la Red Ferroviaria de Interés General administrada por Adif. Tramo de vía doble con Bloqueo Telefónico, sin electrificar."
+   },
+   "pagina": 2,
+   "cita": "Línea: 320 Chinchilla a Cartagena.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.4": {
+   "nombre": "Identificación y características de la infraestructura ferroviaria",
+   "valor_fuente": "320 Chinchilla a Cartagena",
+   "pagina": 2,
+   "cita": "Línea: 320 Chinchilla a Cartagena.",
+   "origen": "importado",
+   "regla": "db:linea",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.5": {
+   "nombre": "Identificación y características de los vehículos ferroviarios",
+   "valor_fuente": {
+    "series": null,
+    "averia": "Ninguna. El tren circulaba correctamente a 80 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.1.6": {
+   "nombre": "Descripción de los hechos",
+   "valor_fuente": "El tren de viajeros de Media Distancia 4512, que efectuaba su recorrido entre las estaciones de Murcia del Carmen y Cartagena, circulaba por el tramo de vía doble con Bloqueo Telefónico a una velocidad de 80 km/h (inferior a los 120 km/h máximos del tramo). Al aproximarse al Paso a Nivel Clase C (SBA) del km 467,110, denominado Camino a Torreagüera, una persona intentó cruzar la vía por la parte izquierda en el sentido de la marcha del tren, pese a que las semibarreras estaban bajadas y las señales luminosas y acústicas peatonales funcionaban correctamente. El maquinista, con matrícula 9753195, usó de forma continua el silbato de la locomotora y aplicó el freno de emergencia, pero el arrollamiento fue inevitable y la persona falleció.\n\nTras el suceso, el maquinista notificó al Puesto de Mando de Valencia a las 09:47, se suspendió la circulación por ambas vías y se movilizaron los servicios de emergencia. A las 10:00 se autorizó la circulación por la vía 1 con marcha a la vista; a las 10:15 llegaron sanitarios y Policía Local; a las 10:50 llegaron vigilantes de seguridad de Protección Civil; a las 11:10 reanudó la marcha el tren 4512 (que transportaba 18 viajeros y estuvo detenido 94 minutos); y a las 13:15 se restableció la circulación normal por ambas vías. Se realizó control de alcoholemia al maquinista con resultado negativo.\n\nLas comprobaciones posteriores confirmaron que todos los sistemas de protección del paso a nivel (barreras, iluminación de señales al tráfico carretero y peatonal, sonería, diodos luminosos) funcionaban correctamente, quedando reflejado en el Registro de Eventos de la Instalación. El itinerario del tren 60 estaba establecido con indicaciones de vía libre en las señales de avanzada, entrada y salida. La visibilidad era buena: trazado en recta, día y tiempo despejado. La investigación concluyó que la causa fue la imprudencia de la víctima al cruzar las vías haciendo caso omiso de la señalización, debiendo de concurrir la circunstancia de que acababa de pasar un tren por una vía y la víctima no se dio cuenta de que venía otro tren por la vía contraria.",
+   "pagina": 3,
+   "cita": "HECHOS El tren de viajeros de Media Distancia 4512, que efectuaba su recorrido entre las estaciones de Murcia del Carmen y Cartagena, detuvo su marcha al haber arroyado a una persona con resultado de muerte, que inten",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.7": {
+   "nombre": "Descripción del lugar del accidente/incidente",
+   "valor_fuente": {
+    "tipo": "plena_via",
+    "estacion": null,
+    "pk": "467,110",
+    "linea": "320 Chinchilla a Cartagena",
+    "provincia": "Murcia",
+    "descripcion_lugar": "Paso a Nivel Clase C (SBA) del km 467,110, denominado Camino a Torreagüera, situado entre las estaciones de Murcia del Carmen y Los Ramos-Alquerías, en la Red Ferroviaria de Interés General administrada por Adif. Tramo de vía doble con Bloqueo Telefónico, sin electrificar."
+   },
+   "pagina": 2,
+   "cita": "Línea: 320 Chinchilla a Cartagena.",
+   "origen": "importado",
+   "regla": "db:v3.lugar",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.1.9": {
+   "nombre": "Causas presuntas inicialmente identificadas",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.1.10": {
+   "nombre": "Consecuencias inicialmente identificadas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Suspensión de la circulación por ambas vías desde las 09:47. Vía 1 autorizada con marcha a la vista a las 10:00; circulación normal restablecida a las 13:15. Afectados: 2 trenes de Larga Distancia (59 min de retraso), 5 trenes de Media Distancia (288 min de retraso), 13 trenes de Cercanías (209 min de retraso). El tren 4512 (18 viajeros) detenido 94 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.1.11": {
+   "nombre": "Medidas inmediatas adoptadas por la entidad",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.1.A": {
+   "nombre": "Personal ferroviario implicado",
+   "valor_fuente": [
+    {
+     "rol": "Maquinista del tren MD 4512 (matrícula 9753195)",
+     "implicacion": "Condujo el tren a 80 km/h (inferior a los 120 km/h máximos). Usó de forma continua el silbato y aplicó el freno de emergencia. Control de alcoholemia negativo. Jornada previa: 6 a 14 h, llevaba 3 h 30 min de servicio. Descanso en las 24 y 48 h anteriores."
+    },
+    {
+     "rol": "Técnico responsable de la investigación (Dirección General de Ferrocarriles)",
+     "implicacion": "Elaboró el informe definitivo. Firma en Madrid, 30 de enero de 2008."
+    },
+    {
+     "rol": "Remitente del informe de Adif (zona territorial Levante)",
+     "implicacion": "Entregó su informe particular del accidente el 16.01.08."
+    },
+    {
+     "rol": "Responsable de seguridad de Renfe",
+     "implicacion": "Entregó su informe particular del accidente el 14.09.07."
+    }
+   ],
+   "pagina": 2,
+   "cita": "Remitente del informe de Adif en la zona territorial Levante: entregó su informe particular",
+   "origen": "importado",
+   "regla": "db:v3.personal",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.1.B": {
+   "nombre": "Terceros implicados",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.2": {
+   "nombre": "Trenes implicados y composición",
+   "valor_fuente": [
+    {
+     "numero": "4512",
+     "tipo": "Media Distancia (viajeros)",
+     "operador": "Renfe Operadora",
+     "danos": "No se produjeron daños materiales. El tren transportaba 18 viajeros y estuvo detenido 94 minutos."
+    }
+   ],
+   "pagina": 2,
+   "cita": "a las 09:47 horas del lunes 27 de Agosto de 2007 por tren de Media Distancia 4512.",
+   "origen": "importado",
+   "regla": "db:v3.trenes",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.3": {
+   "nombre": "Matrícula del material rodante implicado",
+   "valor_fuente": {
+    "series": null,
+    "averia": "Ninguna. El tren circulaba correctamente a 80 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.2.4": {
+   "nombre": "Subsistema afectado",
+   "valor_fuente": "Infraestructura",
+   "pagina": 2,
+   "cita": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias",
+   "origen": "importado",
+   "regla": "db:subsistema",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.5": {
+   "nombre": "Descripción de la infraestructura: vía, agujas y otros elementos",
+   "valor_fuente": {
+    "senalizacion": "Paso a Nivel Clase C (SBA) con dos pasos peatonales dotados de señales luminosas y acústicas. Semibarreras bajadas y señales luminosas peatonales en correcto funcionamiento (reflejado en el Registro de Eventos). Señales de avanzada, entrada y salida con indicación de vía libre. Itinerario del tren 60 establecido.",
+    "tipo_via": "Vía doble",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": "Sin electrificar",
+    "estado_via": "Recta, buena visibilidad. Todos los sistemas de protección del paso a nivel activos y funcionando correctamente.",
+    "otro": "Bloqueo Telefónico (BT). El paso a nivel figura en el Listado de Pasos a Nivel y Actuaciones de Supresión del Ministerio de Fomento con un momento de circulación AxT de 50.100 (superior al umbral de 24.000 de la LOTT), por lo que se optó por su supresión mediante la variante del Reguerón, en obras con fecha de finalización prevista en 2008."
+   },
+   "pagina": 4,
+   "cita": "arrollamiento era de 80 Km/h, siendo la velocidad máxima en el tramo de 120 km/h.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.2.6": {
+   "nombre": "Sistema de señalización, enclavamiento, señales y protección",
+   "valor_fuente": "Paso a Nivel Clase C (SBA) con dos pasos peatonales dotados de señales luminosas y acústicas. Semibarreras bajadas y señales luminosas peatonales en correcto funcionamiento (reflejado en el Registro de Eventos). Señales de avanzada, entrada y salida con indicación de vía libre. Itinerario del tren 60 establecido.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "2.2.7": {
+   "nombre": "Sistemas de comunicación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.2.9": {
+   "nombre": "Obras en el lugar o en sus cercanías",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.1.A": {
+   "nombre": "Viajeros",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Suspensión de la circulación por ambas vías desde las 09:47. Vía 1 autorizada con marcha a la vista a las 10:00; circulación normal restablecida a las 13:15. Afectados: 2 trenes de Larga Distancia (59 min de retraso), 5 trenes de Media Distancia (288 min de retraso), 13 trenes de Cercanías (209 min de retraso). El tren 4512 (18 viajeros) detenido 94 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.B": {
+   "nombre": "Personal ferroviario",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Suspensión de la circulación por ambas vías desde las 09:47. Vía 1 autorizada con marcha a la vista a las 10:00; circulación normal restablecida a las 13:15. Afectados: 2 trenes de Larga Distancia (59 min de retraso), 5 trenes de Media Distancia (288 min de retraso), 13 trenes de Cercanías (209 min de retraso). El tren 4512 (18 viajeros) detenido 94 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.1.C": {
+   "nombre": "Terceras personas",
+   "valor_fuente": {
+    "fallecidos": 1,
+    "heridos_graves": 0,
+    "heridos_leves": 0,
+    "danos_materiales": "No se produjeron daños materiales.",
+    "afectacion_servicio": "Suspensión de la circulación por ambas vías desde las 09:47. Vía 1 autorizada con marcha a la vista a las 10:00; circulación normal restablecida a las 13:15. Afectados: 2 trenes de Larga Distancia (59 min de retraso), 5 trenes de Media Distancia (288 min de retraso), 13 trenes de Cercanías (209 min de retraso). El tren 4512 (18 viajeros) detenido 94 minutos."
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.consecuencias",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.consecuencias"
+  },
+  "2.3.2": {
+   "nombre": "Carga",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.3": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": null,
+    "averia": "Ninguna. El tren circulaba correctamente a 80 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "2.3.4": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a Nivel Clase C (SBA) con dos pasos peatonales dotados de señales luminosas y acústicas. Semibarreras bajadas y señales luminosas peatonales en correcto funcionamiento (reflejado en el Registro de Eventos). Señales de avanzada, entrada y salida con indicación de vía libre. Itinerario del tren 60 establecido.",
+    "tipo_via": "Vía doble",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": "Sin electrificar",
+    "estado_via": "Recta, buena visibilidad. Todos los sistemas de protección del paso a nivel activos y funcionando correctamente.",
+    "otro": "Bloqueo Telefónico (BT). El paso a nivel figura en el Listado de Pasos a Nivel y Actuaciones de Supresión del Ministerio de Fomento con un momento de circulación AxT de 50.100 (superior al umbral de 24.000 de la LOTT), por lo que se optó por su supresión mediante la variante del Reguerón, en obras con fecha de finalización prevista en 2008."
+   },
+   "pagina": 4,
+   "cita": "arrollamiento era de 80 Km/h, siendo la velocidad máxima en el tramo de 120 km/h.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "2.3.5": {
+   "nombre": "Medio ambiente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.3.6": {
+   "nombre": "Impacto económico",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "2.4.1": {
+   "nombre": "Condiciones meteorológicas",
+   "valor_fuente": "Día, tiempo despejado. Buena visibilidad. Trazado en recta.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "2.4.2": {
+   "nombre": "Referencias geográficas",
+   "valor_fuente": {
+    "provincia": "Murcia",
+    "municipio": null,
+    "estacion": null
+   },
+   "pagina": 2,
+   "cita": "persona, en el Paso a Nivel C del km. 467,110 entre las estaciones de Murcia del Carmen y los",
+   "origen": "importado",
+   "regla": "multi",
+   "verificado": false,
+   "estado": "importado"
+  },
+  "2.4.3": {
+   "nombre": "Condiciones de visibilidad, iluminación u otras condiciones ambientales",
+   "valor_fuente": "Día, tiempo despejado. Buena visibilidad. Trazado en recta.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.clima",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.clima"
+  },
+  "3.4.1": {
+   "nombre": "Sistema de control de mando y señalización",
+   "valor_fuente": "Paso a Nivel Clase C (SBA) con dos pasos peatonales dotados de señales luminosas y acústicas. Semibarreras bajadas y señales luminosas peatonales en correcto funcionamiento (reflejado en el Registro de Eventos). Señales de avanzada, entrada y salida con indicación de vía libre. Itinerario del tren 60 establecido.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura.senalizacion",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.infraestructura.senalizacion"
+  },
+  "3.4.3": {
+   "nombre": "Infraestructura",
+   "valor_fuente": {
+    "senalizacion": "Paso a Nivel Clase C (SBA) con dos pasos peatonales dotados de señales luminosas y acústicas. Semibarreras bajadas y señales luminosas peatonales en correcto funcionamiento (reflejado en el Registro de Eventos). Señales de avanzada, entrada y salida con indicación de vía libre. Itinerario del tren 60 establecido.",
+    "tipo_via": "Vía doble",
+    "velocidad_maxima": "120 km/h",
+    "ancho": null,
+    "electrificacion": "Sin electrificar",
+    "estado_via": "Recta, buena visibilidad. Todos los sistemas de protección del paso a nivel activos y funcionando correctamente.",
+    "otro": "Bloqueo Telefónico (BT). El paso a nivel figura en el Listado de Pasos a Nivel y Actuaciones de Supresión del Ministerio de Fomento con un momento de circulación AxT de 50.100 (superior al umbral de 24.000 de la LOTT), por lo que se optó por su supresión mediante la variante del Reguerón, en obras con fecha de finalización prevista en 2008."
+   },
+   "pagina": 4,
+   "cita": "arrollamiento era de 80 Km/h, siendo la velocidad máxima en el tramo de 120 km/h.",
+   "origen": "importado",
+   "regla": "db:v3.infraestructura",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.4.4": {
+   "nombre": "Equipo de comunicaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.4.5": {
+   "nombre": "Material rodante",
+   "valor_fuente": {
+    "series": null,
+    "averia": "Ninguna. El tren circulaba correctamente a 80 km/h.",
+    "mantenimiento": null
+   },
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.material_rodante",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.material_rodante"
+  },
+  "3.5.1": {
+   "nombre": "Medidas tomadas por el personal de circulación",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.1": {
+   "nombre": "Accidente con precursor o causa Factor Humano",
+   "valor_fuente": [
+    "Intentó cruzar la vía",
+    "Cruzar por la izquierda",
+    "Ignoró señalización del paso",
+    "No advirtió otro tren"
+   ],
+   "pagina": 3,
+   "cita": "persona con resultado de muerte, que intentó cruzar la vía por la parte izquierda, en el",
+   "origen": "importado",
+   "regla": "db:precursores",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "3.6.2": {
+   "nombre": "Tiempo de trabajo del personal implicado",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.3": {
+   "nombre": "Circunstancias médicas y personales con posible influencia",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.4": {
+   "nombre": "Existencia de tensión física o psicológica",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.5": {
+   "nombre": "Diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.6.6": {
+   "nombre": "Factores humanos y organizativos relevantes",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "3.7.1": {
+   "nombre": "Otros sucesos anteriores de carácter similar",
+   "valor_fuente": "El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias \n(Adif), comunicó por correo electrónico que se había producido el arrollamiento de una \npersona, en el Paso a Nivel C del km. 467,110 entre las estaciones de Murcia del Carmen y los \nRamos-Alquerías, perteneciente a la Red Ferroviaria de Interés General administrada por Adif, \na las 09:47 horas del lunes 27 de Agosto de 2007 por tren de Media Distancia 4512. \nEn consecuencia, y de acuerdo con el artículo 111 del Reglamento del Sector Ferroviario \n(R.D 2387/2004 de 30.12), el accidente ferroviario fue calificado como grave, siendo \nprocedente la investigación del mismo por la Dirección General de Ferrocarriles de acuerdo \ncon el citado artículo.  \nDe conformidad con el artículo 112 del mencionado Reglamento, el 1 de julio de 2007 la \nDirección General de Ferrocarriles designó el equipo de investigación de accidentes \nferroviarios para el periodo comprendido entre el 01.07.07 al 31.08.07 compuesto por las \nsiguientes personas para este accidente:  \n \nTécnico responsable de la investigación del accidente: un funcionario adscrito a la \nDirección General de Ferrocarriles, que suscribe este informe. \n \nRemitente del informe de Adif en la zona territorial Levante: entregó su informe particular \ndel accidente el 16.01.08. \n \nResponsable de seguridad de Renfe: entregó su informe particular del accidente el \n14.09.07. \nLa empresa pública INECO S.A. en el marco del convenio de colaboración suscrito con la \nDirección General de Ferrocarriles el 26.09.06 ha realizado trabajos de apoyo en la \ninvestigación de este accidente al Técnico responsable de la misma.",
+   "pagina": 2,
+   "cita": "1. ANTECEDENTES El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), comunicó por correo electrónico que se había producido el arrollamiento de una persona, en el Paso a",
+   "origen": "determinista",
+   "regla": "sec:^antecedentes",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "3.7.3": {
+   "nombre": "Información sobre riesgos, defectos o disconformidades",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.1": {
+   "nombre": "Descripción definitiva de la cadena de acontecimientos",
+   "valor_fuente": "El tren de viajeros de Media Distancia 4512, que efectuaba su recorrido entre las estaciones de Murcia del Carmen y Cartagena, circulaba por el tramo de vía doble con Bloqueo Telefónico a una velocidad de 80 km/h (inferior a los 120 km/h máximos del tramo). Al aproximarse al Paso a Nivel Clase C (SBA) del km 467,110, denominado Camino a Torreagüera, una persona intentó cruzar la vía por la parte izquierda en el sentido de la marcha del tren, pese a que las semibarreras estaban bajadas y las señales luminosas y acústicas peatonales funcionaban correctamente. El maquinista, con matrícula 9753195, usó de forma continua el silbato de la locomotora y aplicó el freno de emergencia, pero el arrollamiento fue inevitable y la persona falleció.\n\nTras el suceso, el maquinista notificó al Puesto de Mando de Valencia a las 09:47, se suspendió la circulación por ambas vías y se movilizaron los servicios de emergencia. A las 10:00 se autorizó la circulación por la vía 1 con marcha a la vista; a las 10:15 llegaron sanitarios y Policía Local; a las 10:50 llegaron vigilantes de seguridad de Protección Civil; a las 11:10 reanudó la marcha el tren 4512 (que transportaba 18 viajeros y estuvo detenido 94 minutos); y a las 13:15 se restableció la circulación normal por ambas vías. Se realizó control de alcoholemia al maquinista con resultado negativo.\n\nLas comprobaciones posteriores confirmaron que todos los sistemas de protección del paso a nivel (barreras, iluminación de señales al tráfico carretero y peatonal, sonería, diodos luminosos) funcionaban correctamente, quedando reflejado en el Registro de Eventos de la Instalación. El itinerario del tren 60 estaba establecido con indicaciones de vía libre en las señales de avanzada, entrada y salida. La visibilidad era buena: trazado en recta, día y tiempo despejado. La investigación concluyó que la causa fue la imprudencia de la víctima al cruzar las vías haciendo caso omiso de la señalización, debiendo de concurrir la circunstancia de que acababa de pasar un tren por una vía y la víctima no se dio cuenta de que venía otro tren por la vía contraria.",
+   "pagina": 3,
+   "cita": "HECHOS El tren de viajeros de Media Distancia 4512, que efectuaba su recorrido entre las estaciones de Murcia del Carmen y Cartagena, detuvo su marcha al haber arroyado a una persona con resultado de muerte, que inten",
+   "origen": "importado",
+   "regla": "db:v3.hechos",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.2": {
+   "nombre": "Análisis de los hechos y eficacia de los servicios de salvamento",
+   "valor_fuente": "INFRAESTRUCTURA Y POR LA EMPRESA FERROVIARIA. \nEn los respectivos informes particulares se incluyen las siguientes conclusiones: \nEl elaborado por Adif concluye en su página 7, punto 9 “Se estima imprudencia de la \nvíctima, al cruzar las vías, sin respetar las indicaciones de la señalización”. \nEl elaborado por Renfe Operadora concluye en su página 5 punto 4.3 “Imprudencia de la \nvíctima por invadir el gálibo de la vía Par en el momento del paso del tren de Media Distancia \n4512, haciendo caso omiso de las señales del Paso a Nivel, siendo  inevitable el accidente a \npesar de la actuación del maquinista consistente en el reiterado aviso acústico mediante el \nsilbato del tren y la aplicación urgente del freno de emergencia.” \nPor tanto, ambas conclusiones son coincidentes en cuanto a la causa del accidente.",
+   "pagina": 5,
+   "cita": "5. ANÁLISIS DE LAS CONCLUSIONES REALIZADAS POR EL ADMINISTRADOR DE LA",
+   "origen": "determinista",
+   "regla": "sec:^an[áa]lisis",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.1": {
+   "nombre": "Causas directas e inmediatas del suceso",
+   "valor_fuente": "Imprudencia de la víctima al cruzar las vías haciendo caso omiso de la señalización (semibarreras bajadas, señales luminosas y acústicas activas) en el Paso a Nivel Clase C del km 467,110.",
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.directa",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.directa"
+  },
+  "4.3.2": {
+   "nombre": "Factores coadyuvantes",
+   "valor_fuente": [
+    "La víctima posiblemente no percibió la llegada del tren por la vía contraria, dado que acababa de pasar otro tren por una vía.",
+    "El paso a nivel, con un momento de circulación AxT de 50.100 (muy superior al umbral de 24.000 de la LOTT), presentaba un riesgo elevado que motivó su inclusión en el listado de supresión."
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.causas.contribuyentes",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → db:v3.causas.contribuyentes"
+  },
+  "4.3.3": {
+   "nombre": "Causas subyacentes: cualificaciones y mantenimiento",
+   "valor_fuente": "## Página 6\n\n \n \n \nA \nMINISTERIO DE \nFOMENTO \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nInvestigación del accidente \nnº 44/2007 ocurrido el 27.08.2007 \nInforme definitivo \n \nDIRECCION GENERAL DE \nFERROCARRILES \n \nID-270807-300108 \n \n \nPág. 6 de 6 \nSe estima que el accidente fue debido a la imprudencia de la víctima al cruzar las vía \nhaciendo caso omiso de la señalización. \n \nEn el accidente debió de concurrir la circunstancia que acababa de pasar un tren por una \nvía y la victima no se dio cuenta que también venía otro tren por la vía contraria.",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES ## Página 6 A MINISTERIO DE FOMENTO SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y PLANIFICACIÓN SECRETARÍA GENERAL DE INFRAESTRUCTURAS Investigación del accidente nº 44/2007 ocurrido el",
+   "origen": "determinista",
+   "regla": "sec:^conclusiones",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.3.4": {
+   "nombre": "Causas relacionadas con el marco normativo",
+   "valor_fuente": "## Página 6\n\n \n \n \nA \nMINISTERIO DE \nFOMENTO \nSECRETARIA DE ESTADO \nDE INFRAESTRUCTURAS Y \nPLANIFICACIÓN \n \nSECRETARÍA GENERAL DE \nINFRAESTRUCTURAS \nInvestigación del accidente \nnº 44/2007 ocurrido el 27.08.2007 \nInforme definitivo \n \nDIRECCION GENERAL DE \nFERROCARRILES \n \nID-270807-300108 \n \n \nPág. 6 de 6 \nSe estima que el accidente fue debido a la imprudencia de la víctima al cruzar las vía \nhaciendo caso omiso de la señalización. \n \nEn el accidente debió de concurrir la circunstancia que acababa de pasar un tren por una \nvía y la victima no se dio cuenta que también venía otro tren por la vía contraria.",
+   "pagina": 5,
+   "cita": "6. CONCLUSIONES ## Página 6 A MINISTERIO DE FOMENTO SECRETARIA DE ESTADO DE INFRAESTRUCTURAS Y PLANIFICACIÓN SECRETARÍA GENERAL DE INFRAESTRUCTURAS Investigación del accidente nº 44/2007 ocurrido el",
+   "origen": "determinista",
+   "regla": "sec:^causas relacionadas con el marco normativo",
+   "verificado": true,
+   "estado": "determinista"
+  },
+  "4.4": {
+   "nombre": "Observaciones adicionales",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.1": {
+   "nombre": "Medidas adoptadas inmediatamente",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.2": {
+   "nombre": "Medidas adoptadas después del análisis",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.5.3": {
+   "nombre": "Medidas preventivas para evitar la repetición",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.1": {
+   "nombre": "Recomendaciones de seguridad",
+   "valor_fuente": [
+    {
+     "texto": "Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril.",
+     "destinatario": "Ciudadanía / Administraciones competentes en seguridad vial"
+    },
+    {
+     "texto": "Se optó por la supresión del paso a nivel al licitar y contratar la variante del Reguerón (en obras, fecha de finalización prevista 2008), dado que el momento de circulación AxT de 50.100 supera el umbral de 24.000 establecido en la LOTT.",
+     "destinatario": "Adif / Ministerio de Fomento"
+    }
+   ],
+   "pagina": 6,
+   "cita": "Se recomienda: Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril. 8. COMENTARIOS Y SUGERENCIAS PAR",
+   "origen": "importado",
+   "regla": "db:v3.recomendaciones",
+   "verificado": true,
+   "estado": "importado"
+  },
+  "4.6.2.A": {
+   "nombre": "Destinatarios de las recomendaciones",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "4.6.3": {
+   "nombre": "Implementadores previstos",
+   "valor_fuente": null,
+   "pagina": null,
+   "cita": null,
+   "origen": "sin_dato",
+   "estado": "no consta",
+   "verificado": false
+  },
+  "_cronologia": {
+   "nombre": "Cronología minuto a minuto (análisis v3)",
+   "valor_fuente": [
+    {
+     "hora": "09:47",
+     "evento": "Arrollamiento de una persona en el P.N. C del km 467,110 por el tren MD 4512. El maquinista notifica al PM de Valencia. Se suspende la circulación por ambas vías y se movilizan servicios de emergencia."
+    },
+    {
+     "hora": "10:00",
+     "evento": "Se autoriza la circulación por la vía 1 con marcha a la vista."
+    },
+    {
+     "hora": "10:15",
+     "evento": "Llegada de sanitarios y Policía Local al lugar del suceso."
+    },
+    {
+     "hora": "10:50",
+     "evento": "Llegada de Vigilantes de Seguridad de Protección Civil y Seguridad."
+    },
+    {
+     "hora": "11:10",
+     "evento": "Reanuda la marcha el tren 4512 (tras 94 minutos detenido)."
+    },
+    {
+     "hora": "13:15",
+     "evento": "Se restablece la circulación por las 2 vías a velocidad normal."
+    },
+    {
+     "hora": "14:20",
+     "evento": "Levantamiento del acta de verificación del funcionamiento de las instalaciones de seguridad del P.N. Clase C SBA del km 467,110, en presencia de los Delegados de Seguridad de Adif y Renfe Operadora."
+    }
+   ],
+   "pagina": null,
+   "cita": "",
+   "origen": "importado",
+   "regla": "db:v3.cronologia",
+   "verificado": false,
+   "estado": "importado_llm",
+   "procedencia": "data/db/reports/ES.json → v3.cronologia"
+  }
+ },
+ "clave": "0044/2007",
+ "expediente": "44/2007",
+ "anio": 2007,
+ "titulo": "Arrollamiento mortal de una persona en Paso a Nivel Clase C, km 467,110 (Murcia)",
+ "cobertura": "solo_local",
+ "estado_cobertura": "solo_local",
+ "md": "database/md_base/ID_270807_300108.md"
+}
