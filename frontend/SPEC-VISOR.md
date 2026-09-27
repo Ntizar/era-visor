@@ -15,6 +15,7 @@ Carga en tres tiempos — esto es el alma del cambio:
 | Arranque | `data/db/index.json` | **tabla, mapa, filtros y KPIs** — se pinta sin esperar nada más | ~380 KB |
 | 1ª vez que se abre la pestaña Dashboard | `data/db/dashboard.json` | solo campos de gráficos: `{id: {causa_directa, causas{directa,contribuyentes,sistemicas}, precursores[], factores_humanos[], mitigaciones[], meteorologia[], circulation_type, fase_ciclo_vida, velocidad_maxima, clima, tags[]}}` | ~600 KB, se cachea en memoria |
 | Al abrir la ficha de un informe | `data/db/detalle/<id>.json` | registro COMPLETO (con `v3`, `trenes`, `entidades`, `recomendaciones`, `cronologia`, `hechos`, `conclusiones`…) | ~12 KB |
+| Al abrir la PRIMERA ficha (una vez, memorizado) | `data/db/clima.json` | clima del día/hora del suceso por id: `{dia:{tmax,tmin,lluvia_mm,horas_lluvia,viento_kmh,rafagas_kmh,wmo}, hora:{t,lluvia_mm,viento_kmh,rafagas_kmh,wmo}\|null}` — reanálisis ERA5 (Open-Meteo), precomputado por `scripts/clima_informes.py`; los 3 sin coordenadas no llevan entrada | ~86 KB |
 
 **Elimina** cualquier petición a `data/db/reports/ES.json` (4,4 MB). Añade `?v=VERSION_DATOS`
 a las peticiones nuevas como ya se hace con las actuales.

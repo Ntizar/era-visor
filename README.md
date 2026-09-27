@@ -38,7 +38,7 @@ Hecho con ❤️ por David Antizar
 | Localización auditada | **344 bien · 0 duda · 4 mal · 3 sin coords** (99 % con punto) |
 | Veredicto geo por método | `via_pk` 209 · `via_pkteorico` 82 · `estacion_ign` 39 · `poblacion` 17 · `estacion_adif` 1 · `sin_geo` 3 |
 | Recomendaciones estructuradas | **651 únicas** (destinatario/implementador/texto/página en celdas separadas, con `tipo_suceso` para filtrar) |
-| `VERSION_DATOS` | `2026-09-27-4` (bump en cada despliegue de datos) |
+| `VERSION_DATOS` | `2026-09-27-5` (bump en cada despliegue de datos) |
 
 **Residuos conocidos:** 3 sin coords — Barcelona Marina (estación de Cercanías abierta en 2022, ausente de IGN/OSM), Río Huerva (apeadero sin mapear) y el puesto de bloqueo Río Duero (nombre no localizable). No se inventa: sin fuente no hay punto.
 El informe escaneado `ID_230507_140907` ya está OCRado y estructurado como `0033/2007`;
@@ -73,7 +73,8 @@ era-visor/
 ├── frontend/index.html   ← el visor completo (mapa + dashboard + tabla), IGN WMTS
 │                            Carga en tres tiempos: index.json al arranque →
 │                            dashboard.json al abrir esa pestaña →
-│                            data/db/detalle/<id>.json al abrir cada ficha.
+│                            data/db/detalle/<id>.json al abrir cada ficha
+│                            (+ data/db/clima.json UNA vez, al abrir la primera ficha).
 ├── index.html            ← redirect a frontend/index.html (raíz de Pages)
 ├── scripts/
 │   ├── scrape_pais.py             1. descubre informes en ERA
@@ -156,6 +157,21 @@ La ubicación es lo que más errores ha dado. Se resuelve por capas, de más a m
   1440 × mapa/dashboard/informes) → **0 desbordes**, 0 errores JS. Capturas en
   `%TEMP%\era-{360,1440}-{informes,dashboard}.png`.
 
+- **Clima histórico en cada ficha (nuevo, 2026-09-27).** Cada informe con coordenadas
+  (348/351) muestra el **clima real del día del suceso** y, si el informe publica hora
+  (311), también **a la hora exacta**: estado, máx/mín, lluvia y horas de lluvia, viento
+  y ráfagas. Fuente: **reanálisis ERA5 vía Open-Meteo Archive** (gratis, sin API key,
+  348 consultas en 20 s), precomputado en `data/db/clima.json` por
+  `scripts/clima_informes.py` (reanudable: solo consulta huecos; `--refrescar` lo hace
+  todo); el visor baja ese JSON **una sola vez** al abrir la primera ficha.
+  **Límites honestos**: es reanálisis con resolución ~25 km, no una estación junto a la
+  vía — sirve para ver si pudo influir (lluvia, nieve, calor, viento), no como pericial.
+  Los 3 informes sin coordenadas no llevan clima: nunca se inventa.
+- **Filtro de años táctil**: tiradores de 14 px (lotería con el dedo) → **26 px sobre
+  pista de 34 px** con `touch-action:none`, más **dos selects «Desde/Hasta»** para
+  elegir el año de un toque y botón «todos». Verificado: 2013–2015 deja 52 de 351 filas
+  y «todos» restaura.
+
 ### Bugs de geolocalización corregidos (lecciones duras)
 
 - **`codtramo` estructura**: es `eje(2)+línea(3)+seq(4)` (9 dígitos). El código de línea vive en
@@ -188,7 +204,8 @@ python scripts/geocodificar_via.py DE     # 7a. coords sobre la vía (← red de
 python scripts/geocodificar_estacion.py DE# 7b. o por estación (← dataset del país)
 python scripts/corregir_ubicaciones.py DE # 8. correcciones verificadas a mano
 python scripts/revisar_localizacion.py DE # 9. auditoría (veredictos)
-python scripts/revisar_json.py DE         # 10. revisor IA
+python scripts/clima_informes.py ES       # 10. clima histórico (ERA5, solo huecos)
+python scripts/revisar_json.py DE         # 11. revisor IA
 python scripts/consolidar.py DE           # 11. → data/db/ (dedupe + geo_veredicto)
 python scripts/revisar_localizacion.py DE # 12. RE-auditar la DB (el auditor lee coords de la DB)
 python scripts/verificar_todo.py DE       # 13. comprobación integral (gate; --limpiar duplicados)

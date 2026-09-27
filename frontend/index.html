@@ -87,28 +87,42 @@
             outline: none; border-color: var(--primario); box-shadow: 0 0 0 3px var(--primario-suave);
         }
         .sidebar input[type="range"] { width: 100%; padding: 0; }
-        .sidebar .range-values { display: flex; justify-content: space-between; font-size: 0.72rem; color: var(--texto-suave); margin-top: 2px; }
-        .dual-range { position: relative; height: 20px; margin: 0.2rem 0 0.15rem; }
+        .sidebar .range-values { display: flex; flex-wrap: wrap; align-items: center; gap: .3rem .45rem; font-size: 0.74rem; color: var(--texto-medio); margin-top: .3rem; }
+        .range-values .rv { display: inline-flex; align-items: center; gap: .3rem; color: var(--texto-suave); font-size: .66rem; text-transform: uppercase; letter-spacing: .4px; }
+        .range-values select {
+            min-height: 34px; padding: 0 .3rem; font-size: .88rem; font-weight: 650;
+            color: var(--primario); background: var(--fondo); border: 1px solid var(--borde-fuerte);
+            border-radius: 8px; appearance: auto;
+        }
+        .range-values .rv-todo {
+            min-height: 34px; padding: 0 .55rem; font-size: .74rem; font-weight: 650;
+            color: var(--texto-medio); background: transparent; border: 1px solid var(--borde-fuerte);
+            border-radius: 999px; cursor: pointer;
+        }
+        .range-values .rv-todo:hover { color: var(--primario); border-color: var(--primario); }
+        /* Pista alta y tiradores de 26px: con 14px era lotería con el dedo */
+        .dual-range { position: relative; height: 34px; margin: 0.35rem 0 0.1rem; touch-action: none; }
         .dual-range .dual-track {
-            position: absolute; top: 50%; left: 0; right: 0; height: 4px; transform: translateY(-50%);
-            background: var(--borde); border-radius: 2px;
+            position: absolute; top: 50%; left: 0; right: 0; height: 6px; transform: translateY(-50%);
+            background: var(--borde); border-radius: 3px;
         }
         .dual-range .dual-fill {
-            position: absolute; top: 50%; height: 4px; transform: translateY(-50%);
-            background: var(--primario); border-radius: 2px;
+            position: absolute; top: 50%; height: 6px; transform: translateY(-50%);
+            background: var(--primario); border-radius: 3px;
         }
         .dual-range .dual-thumb {
-            position: absolute; top: 0; left: 0; width: 100%; height: 20px;
+            position: absolute; top: 0; left: 0; width: 100%; height: 34px;
             -webkit-appearance: none; appearance: none; background: none; pointer-events: none; margin: 0;
         }
         .dual-range .dual-thumb::-webkit-slider-thumb {
             -webkit-appearance: none; appearance: none; pointer-events: auto;
-            width: 14px; height: 14px; border-radius: 50%; background: var(--primario);
-            border: 2px solid #fff; box-shadow: 0 1px 3px rgba(16,24,40,0.25); cursor: pointer;
+            width: 26px; height: 26px; border-radius: 50%; background: var(--primario);
+            border: 3px solid #fff; box-shadow: 0 1px 4px rgba(16,24,40,0.35); cursor: grab;
         }
+        .dual-range .dual-thumb:active::-webkit-slider-thumb { cursor: grabbing; }
         .dual-range .dual-thumb::-moz-range-thumb {
-            pointer-events: auto; width: 14px; height: 14px; border-radius: 50%;
-            background: var(--primario); border: 2px solid #fff; box-shadow: 0 1px 3px rgba(16,24,40,0.25); cursor: pointer;
+            pointer-events: auto; width: 26px; height: 26px; border-radius: 50%;
+            background: var(--primario); border: 3px solid #fff; box-shadow: 0 1px 4px rgba(16,24,40,0.35); cursor: grab;
         }
         .sidebar .filter-count {
             font-size: 0.76rem; color: var(--texto-medio); margin-top: 0.75rem;
@@ -245,6 +259,10 @@
         .detail-info-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.55rem 1rem; }
         .geo-warn { display: inline-block; font-size: 0.62rem; font-weight: 600; color: var(--rojo); background: #fee2e2; border: 1px solid #fecaca; border-radius: 999px; padding: 1px 7px; margin-left: 6px; vertical-align: 1px; }
         .geo-warn.duda { color: #b45309; background: #fef3c7; border-color: #fde68a; }
+        .clima-caja { display: grid; gap: .28rem; background: var(--fondo); border: 1px solid var(--borde); border-radius: 10px; padding: .6rem .65rem; }
+        .clima-estado { font-size: .88rem; font-weight: 700; color: var(--texto); }
+        .clima-linea { font-size: .79rem; color: var(--texto-medio); }
+        .clima-fuente { font-size: .64rem; color: var(--texto-suave); margin-top: .1rem; line-height: 1.35; }
         .geo-aviso { display: flex; gap: 0.5rem; align-items: flex-start; font-size: 0.8rem; color: #b45309; background: #fffbeb; border: 1px solid #fde68a; border-radius: 8px; padding: 0.6rem 0.75rem; margin-bottom: 1.15rem; }
         .geo-aviso.mal { color: var(--rojo); background: #fef2f2; border-color: #fecaca; }
         .detail-info-item { font-size: 0.82rem; }
@@ -471,7 +489,11 @@
             <input type="range" id="yearMin" class="dual-thumb">
             <input type="range" id="yearMax" class="dual-thumb">
         </div>
-        <div class="range-values"><span id="yearMinVal">—</span><span id="yearMaxVal">—</span></div>
+        <div class="range-values">
+            <label class="rv">Desde <select id="yearMinVal" aria-label="Año desde"></select></label>
+            <label class="rv">Hasta <select id="yearMaxVal" aria-label="Año hasta"></select></label>
+            <button type="button" class="rv-todo" id="yearTodo">todos</button>
+        </div>
 
         <h3>Víctimas</h3>
         <div class="chk"><input type="checkbox" id="filterVictimas"> Solo con víctimas</div>
@@ -722,7 +744,7 @@
 
 <script>
 /* bump para refrescar cache de la DB en cada despliegue */
-const VERSION_DATOS = "2026-09-27-4";
+const VERSION_DATOS = "2026-09-27-5";
 const TIPOS_ES = {
     "descarrilamiento": "Descarrilamiento", "arrollamiento": "Arrollamiento", "colision": "Colisión",
     "paso_a_nivel": "Paso a nivel", "incendio": "Incendio", "fallos_senal": "Fallo de señalización", "otro": "Otro"
@@ -1263,23 +1285,26 @@ async function verDetalle(id) {
     if (!r) return;
     // 3ª petición: el registro completo, SOLO cuando se abre su ficha.
     let full = cacheDetalle.get(id) || r;
-    if (!cacheDetalle.has(id)) {
-        // se abre ya con lo que trae el índice y el resto se rellena
-        pintarFicha(full, r);
-        try {
-            const resp = await fetch(`../data/db/detalle/${encodeURIComponent(id)}.json?v=` + VERSION_DATOS);
-            if (resp.ok) {
-                full = await resp.json();
-                cacheDetalle.set(id, full);
-                pintarFicha(full, r);
-            }
-        } catch (e) { /* se queda con el índice */ }
-    } else {
-        pintarFicha(full, r);
-    }
+    cargarClima().then(climaDB => {
+        const miClima = climaDB ? climaDB[id] : null;
+        if (!cacheDetalle.has(id)) {
+            // se abre ya con lo que trae el índice y el resto se rellena
+            pintarFicha(full, r, miClima);
+            fetch(`../data/db/detalle/${encodeURIComponent(id)}.json?v=` + VERSION_DATOS)
+                .then(resp => (resp.ok ? resp.json() : null))
+                .then(det => {
+                    if (!det) return;
+                    full = det;
+                    cacheDetalle.set(id, full);
+                    pintarFicha(full, r, miClima);
+                }).catch(() => { /* se queda con el índice */ });
+        } else {
+            pintarFicha(full, r, miClima);
+        }
+    });
 }
 
-function pintarFicha(full, r) {
+function pintarFicha(full, r, climaDia) {
     r = r || full;
     const er = full.erail || {};
     document.getElementById('dpTitulo').textContent = tituloIF(full.titulo ? {...full, titulo: full.titulo} : r);
@@ -1372,6 +1397,18 @@ function pintarFicha(full, r) {
         ${chips(factores) ? seccion('Factores humanos', chips(factores)) : ''}
         ${chips(mitig) ? seccion('Mitigaciones', chips(mitig)) : ''}
         ${chips(meteo) ? seccion('Meteorología', chips(meteo)) : ''}
+        ${(climaDia && climaDia.dia) ? (() => {
+            const d = climaDia.dia, h = climaDia.hora;
+            const est = WMO_ES[d.wmo] || ['—', '·'];
+            const f = (v, nd) => (v === null || v === undefined) ? '—'
+                : Number(v).toFixed(nd === undefined ? 1 : nd).replace('.', ',');
+            return seccion('Clima el día del suceso (datos)', `<div class="clima-caja">
+                <div class="clima-estado">${est[1]} ${est[0]} · ${f(d.tmax)} °C máx / ${f(d.tmin)} °C mín</div>
+                <div class="clima-linea">💧 ${f(d.lluvia_mm)} mm en ${f(d.horas_lluvia, 0)} h · 🌬 ráfagas ${f(d.rafagas_kmh, 0)} km/h · viento ${f(d.viento_kmh, 0)} km/h</div>
+                ${h ? `<div class="clima-linea">🕐 A la hora del suceso (${r.hora || ''}): ${f(h.t)} °C · ${f(h.lluvia_mm, 1)} mm · ráfagas ${f(h.rafagas_kmh, 0)} km/h</div>` : ''}
+                <div class="clima-fuente">Reanálisis ERA5 · Open-Meteo (resolución ~25 km). Dato orientativo, no una estación junto a la vía.</div>
+            </div>`);
+        })() : ''}
         ${recs.length ? seccion(`Recomendaciones de seguridad (${recs.length})`, recHtml) : ''}
         ${matRod ? seccion('Material rodante', `<div class="detail-info-grid">${
             Object.entries(matRod).filter(([, v]) => v && typeof v !== 'object').map(([k, v]) => info(pretty(k), v)).join('')}</div>`) : ''}
@@ -1419,8 +1456,8 @@ function resetFilters() {
     document.getElementById('filterExplot').value = '';
     const rMin = document.getElementById('yearMin'), rMax = document.getElementById('yearMax');
     rMin.value = rMin.min; rMax.value = rMax.max;
-    document.getElementById('yearMinVal').textContent = rMin.min;
-    document.getElementById('yearMaxVal').textContent = rMax.max;
+    document.getElementById('yearMinVal').value = rMin.min;
+    document.getElementById('yearMaxVal').value = rMax.max;
     document.getElementById('yearLabel').textContent = 'todos';
     document.getElementById('yearFill').style.left = '0%';
     document.getElementById('yearFill').style.right = '0%';
@@ -1434,6 +1471,33 @@ function resetFilters() {
    (3) data/db/detalle/<id>.json al abrir cada ficha. Se acabaron los 4,4 MB
    de reports/ES.json en cada arranque. */
 let DASH = null, dashPend = null;
+
+/* ===== CLIMA DEL DÍA (reanálisis ERA5 vía Open-Meteo) =====
+   Precomputado por scripts/clima_informes.py en data/db/clima.json (348/351:
+   los 3 sin coordenadas no llevan clima, nunca se inventa). Se descarga UNA
+   vez y se guarda en memoria; sin él la ficha simplemente no pinta la sección. */
+let CLIMA = null, climaPend = null;
+async function cargarClima() {
+    if (CLIMA) return CLIMA;
+    if (!climaPend) {
+        climaPend = fetch('../data/db/clima.json?v=' + VERSION_DATOS)
+            .then(x => (x.ok ? x.json() : {})).catch(() => ({}));
+    }
+    CLIMA = await climaPend;
+    return CLIMA;
+}
+const WMO_ES = {
+    0: ['Despejado', '☀️'], 1: ['Poco nublado', '🌤️'], 2: ['Parcialmente nublado', '⛅'], 3: ['Cubierto', '☁️'],
+    45: ['Niebla', '🌫️'], 48: ['Niebla con escarcha', '🌫️'],
+    51: ['Llovizna ligera', '🌦️'], 53: ['Llovizna', '🌦️'], 55: ['Llovizna intensa', '🌦️'],
+    56: ['Llovizna helada', '🌧️'], 57: ['Llovizna helada', '🌧️'],
+    61: ['Lluvia ligera', '🌦️'], 63: ['Lluvia', '🌧️'], 65: ['Lluvia intensa', '🌧️'],
+    66: ['Lluvia helada', '🌧️'], 67: ['Lluvia helada intensa', '🌧️'],
+    71: ['Nieve ligera', '🌨️'], 73: ['Nieve', '🌨️'], 75: ['Nieve intensa', '🌨️'], 77: ['Gránulos de nieve', '🌨️'],
+    80: ['Chubascos', '🌦️'], 81: ['Chubascos', '🌧️'], 82: ['Chubascos violentos', '⛈️'],
+    85: ['Chubascos de nieve', '🌨️'], 86: ['Chubascos de nieve', '🌨️'],
+    95: ['Tormenta', '⛈️'], 96: ['Tormenta con granizo', '⛈️'], 99: ['Tormenta intensa', '⛈️']
+};
 
 async function cargarDashboard() {
     if (DASH) return true;
@@ -1465,26 +1529,34 @@ async function cargar() {
     const tipos = [...new Set(TODO.map(r => categoriaDe(r.tipo)))].sort();
     const selT = document.getElementById('filterType');
     for (const t of tipos) selT.insertAdjacentHTML('beforeend', `<option value="${t}">${CATEGORIAS[t]}</option>`);
-    // años: doble tirador sobre una sola barra
+    // años: doble tirador + SELECTS (en móvil elegir el año de un toque es mucho
+    // mejor que arrastrar 20 años a ciegas sobre una barra de 14px)
     const anios = TODO.map(r => +(r.fecha || '').slice(0, 4)).filter(Boolean);
     const amin = Math.min(...anios), amax = Math.max(...anios);
     const rMin = document.getElementById('yearMin'), rMax = document.getElementById('yearMax');
+    const sMin = document.getElementById('yearMinVal'), sMax = document.getElementById('yearMaxVal');
     const fill = document.getElementById('yearFill');
     [rMin, rMax].forEach(el => { el.min = amin; el.max = amax; });
     rMin.value = amin; rMax.value = amax;
-    document.getElementById('yearMinVal').textContent = amin;
-    document.getElementById('yearMaxVal').textContent = amax;
+    for (let a = amin; a <= amax; a++) {
+        sMin.insertAdjacentHTML('beforeend', `<option value="${a}">${a}</option>`);
+        sMax.insertAdjacentHTML('beforeend', `<option value="${a}">${a}</option>`);
+    }
+    sMin.value = amin; sMax.value = amax;
     document.getElementById('yearLabel').textContent = amin + '–' + amax;
     function pintaFill() {
         const lo = Math.min(+rMin.value, +rMax.value), hi = Math.max(+rMin.value, +rMax.value);
         const span = amax - amin || 1;
         fill.style.left = ((lo - amin) / span * 100) + '%';
         fill.style.right = ((amax - hi) / span * 100) + '%';
-        document.getElementById('yearMinVal').textContent = lo;
-        document.getElementById('yearMaxVal').textContent = hi;
+        sMin.value = lo; sMax.value = hi;
         document.getElementById('yearLabel').textContent = (lo <= amin && hi >= amax) ? 'todos' : (lo + '–' + hi);
     }
     [rMin, rMax].forEach(el => el.oninput = () => { pintaFill(); aplicaFiltros(); });
+    // selects: año exacto de un toque; no se puede dejar un rango al revés
+    sMin.onchange = () => { rMin.value = sMin.value; if (+rMin.value > +rMax.value) rMax.value = rMin.value; pintaFill(); aplicaFiltros(); };
+    sMax.onchange = () => { rMax.value = sMax.value; if (+rMax.value < +rMin.value) rMin.value = rMax.value; pintaFill(); aplicaFiltros(); };
+    document.getElementById('yearTodo').onclick = () => { rMin.value = amin; rMax.value = amax; pintaFill(); aplicaFiltros(); };
     ['filterPais', 'filterType', 'filterVictimas', 'filterInforme', 'filterGeo', 'filterEntidad', 'filterSubsistema', 'filterATP', 'filterRed', 'filterExplot'].forEach(id =>
         document.getElementById(id).onchange = aplicaFiltros);
     document.getElementById('filterSearch').oninput = aplicaFiltros;
