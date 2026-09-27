@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ERA Visor — Accidentes ferroviarios europeos</title>
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='9' fill='%232563eb'/%3E%3C/svg%3E">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
@@ -14,23 +15,28 @@
     <style>
         :root {
             --primario: #2563eb;
+            --primario-hoy: #1d4ed8;
             --primario-suave: #dbeafe;
+            --primario-fondo: #eff4ff;
             --rojo: #dc2626;
             --ambar: #d97706;
             --verde: #059669;
-            --bg: #f6f7f9;
+            --bg: #f4f6fa;
             --card: #ffffff;
-            --borde: #e5e7eb;
-            --texto: #111827;
-            --texto-medio: #4b5563;
-            --texto-suave: #9ca3af;
+            --borde: #e6e9ef;
+            --texto: #0f172a;
+            --texto-medio: #475569;
+            --texto-suave: #64748b;
             --sombra: 0 1px 2px rgba(16,24,40,0.05), 0 1px 3px rgba(16,24,40,0.06);
             --sombra-hover: 0 4px 12px rgba(16,24,40,0.10), 0 2px 4px rgba(16,24,40,0.06);
             --radio: 8px;
             --font: 'Segoe UI', system-ui, -apple-system, sans-serif;
         }
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: var(--font); background: var(--bg); color: var(--texto); font-size: 14px; }
+        body { font-family: var(--font); background: var(--bg); color: var(--texto); font-size: 15px; -webkit-text-size-adjust: 100%; }
+        /* táctil: 44px mínimo y 16px en los campos (si no, iOS hace zoom al enfocar) */
+        input, select, textarea { font-size: 16px; }
+        button, .tab, .chk, a { -webkit-tap-highlight-color: transparent; }
 
         /* ===== HEADER ===== */
         .app-header {
@@ -53,14 +59,14 @@
             padding: 0 1rem; gap: 0.25rem;
         }
         .tabs-bar .tab {
-            padding: 0.6rem 1rem; cursor: pointer; font-size: 0.84rem; color: var(--texto-medio);
+            padding: 0.72rem 1rem; cursor: pointer; font-size: 0.86rem; color: var(--texto-medio);
             border-bottom: 2px solid transparent; margin-bottom: -1px; user-select: none; transition: color 0.15s;
         }
         .tabs-bar .tab:hover { color: var(--primario); }
         .tabs-bar .tab.active { color: var(--primario); border-bottom-color: var(--primario); font-weight: 600; }
 
         /* ===== LAYOUT ===== */
-        .main-layout { display: flex; height: calc(100vh - 95px); }
+        .main-layout { display: flex; height: calc(100vh - 96px); height: calc(100dvh - 96px); }
         .sidebar {
             width: 264px; background: var(--card); border-right: 1px solid var(--borde);
             overflow-y: auto; padding: 1rem 0.9rem; flex-shrink: 0;
@@ -72,8 +78,9 @@
         .sidebar h3:first-child { margin-top: 0; }
         .sidebar label { display: block; font-size: 0.79rem; margin-bottom: 0.25rem; color: var(--texto-medio); }
         .sidebar select, .sidebar input[type="text"] {
-            width: 100%; padding: 0.38rem 0.5rem; border: 1px solid var(--borde); border-radius: 6px;
-            font-size: 0.81rem; margin-bottom: 0.5rem; background: white; color: var(--texto);
+            width: 100%; padding: 0.55rem 0.6rem; border: 1px solid var(--borde); border-radius: 8px;
+            font-size: 0.95rem; margin-bottom: 0.55rem; background: white; color: var(--texto);
+            min-height: 44px; appearance: auto;
             transition: border-color 0.15s, box-shadow 0.15s;
         }
         .sidebar select:focus, .sidebar input[type="text"]:focus {
@@ -108,13 +115,13 @@
             padding: 0.45rem 0.6rem; background: var(--bg); border-radius: 6px; text-align: center; font-weight: 500;
         }
         .sidebar .btn-reset {
-            background: white; color: var(--rojo); border: 1px solid var(--borde); padding: 0.45rem 1rem;
-            border-radius: 6px; cursor: pointer; font-size: 0.79rem; margin-top: 0.5rem; width: 100%;
+            background: white; color: var(--rojo); border: 1px solid var(--borde); padding: 0.6rem 1rem;
+            border-radius: 8px; cursor: pointer; font-size: 0.88rem; margin-top: 0.5rem; width: 100%; min-height: 44px;
             transition: background 0.15s, border-color 0.15s;
         }
         .sidebar .btn-reset:hover { background: #fef2f2; border-color: #fecaca; }
-        .sidebar .chk { display: flex; align-items: center; gap: 7px; font-size: 0.81rem; margin: 0.4rem 0; color: var(--texto-medio); }
-        .sidebar .chk input { accent-color: var(--primario); width: 14px; height: 14px; }
+        .sidebar .chk { display: flex; align-items: center; gap: 9px; font-size: 0.88rem; margin: 0.25rem 0; color: var(--texto-medio); min-height: 40px; }
+        .sidebar .chk input { accent-color: var(--primario); width: 18px; height: 18px; }
 
         .content { flex: 1; overflow: hidden; position: relative; }
         .tab-content { display: none; height: 100%; overflow-y: auto; }
@@ -173,14 +180,14 @@
         .reports-table-wrapper { padding: 1.1rem; }
         .search-bar { display: flex; gap: 0.7rem; margin-bottom: 0.7rem; align-items: center; }
         .search-bar input {
-            flex: 1; padding: 0.45rem 0.7rem; border: 1px solid var(--borde); border-radius: 6px;
-            font-size: 0.85rem; background: white;
+            flex: 1; padding: 0.6rem 0.75rem; border: 1px solid var(--borde); border-radius: 8px;
+            font-size: 0.95rem; background: white; min-height: 44px; min-width: 0;
         }
         .search-bar input:focus { outline: none; border-color: var(--primario); box-shadow: 0 0 0 3px var(--primario-suave); }
         .search-bar .result-count { font-size: 0.77rem; color: var(--texto-suave); white-space: nowrap; }
         .btn-excel {
-            background: var(--primario); color: white; border: none; padding: 0.45rem 0.9rem;
-            border-radius: 6px; cursor: pointer; font-size: 0.8rem; font-weight: 550; white-space: nowrap;
+            background: var(--primario); color: white; border: none; padding: 0.6rem 1rem;
+            border-radius: 8px; cursor: pointer; font-size: 0.86rem; font-weight: 600; white-space: nowrap; min-height: 44px;
             transition: background 0.15s;
         }
         .btn-excel:hover { background: #1d4ed8; }
@@ -224,7 +231,7 @@
         .detail-panel-header .detail-id { font-size: 0.75rem; color: var(--texto-suave); margin-top: 0.25rem; }
         .detail-panel-close {
             background: var(--bg); border: 1px solid var(--borde); color: var(--texto-medio); font-size: 1.05rem;
-            cursor: pointer; width: 30px; height: 30px; border-radius: 6px; display: flex;
+            cursor: pointer; width: 44px; height: 44px; border-radius: 10px; display: flex;
             align-items: center; justify-content: center; flex-shrink: 0; transition: background 0.15s;
         }
         .detail-panel-close:hover { background: #fee2e2; color: var(--rojo); border-color: #fecaca; }
@@ -280,14 +287,115 @@
         }
         @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
 
-        /* ===== RESPONSIVE ===== */
-        @media (max-width: 1024px) { .sidebar { width: 225px; } }
-        @media (max-width: 900px) {
-            .sidebar { display: none; }
-            .chart-row { grid-template-columns: 1fr; }
-            .kpi-row { grid-template-columns: repeat(2, 1fr); }
-            .detail-panel { width: 100vw; }
+        /* ===== RESPONSIVE — mobile-first: la base ES el móvil =====
+           Regla del sistema: nada se esconde con display:none (en móvil los
+           filtros entran como cajón lateral, la tabla se apila en tarjetas
+           con la etiqueta de su columna, y el desktop recupera su layout
+           a partir de 900 px). */
+
+        /* --- botón de filtros (solo en móvil/tablet) --- */
+        .btn-filtros {
+            display: inline-flex; align-items: center; gap: 6px;
+            min-height: 44px; padding: 0.45rem 0.85rem; margin: 0.3rem 0;
+            background: var(--card); border: 1px solid var(--borde); border-radius: 10px;
+            color: var(--texto-medio); font-size: 0.86rem; font-weight: 600; cursor: pointer;
         }
+        .btn-filtros[aria-expanded="true"] { background: var(--primario-fondo); border-color: var(--primario); color: var(--primario); }
+        .filtro-punto { width: 7px; height: 7px; border-radius: 50%; background: var(--primario); }
+
+        /* --- cajón de filtros --- */
+        .scrim { position: fixed; inset: 0; background: rgba(15,23,42,.45); opacity: 0; pointer-events: none; transition: opacity .2s ease; z-index: 1400; }
+        .scrim.open { opacity: 1; pointer-events: auto; }
+        .sidebar {
+            position: fixed; top: 0; bottom: 0; left: 0; width: min(88vw, 330px);
+            transform: translateX(-103%); transition: transform .22s ease;
+            z-index: 1500; box-shadow: 0 0 40px rgba(15,23,42,.25); padding-top: .75rem;
+        }
+        .sidebar.open { transform: none; }
+        .sidebar .drawer-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: .5rem; }
+        .sidebar .drawer-close { min-width: 44px; min-height: 44px; background: var(--bg); border: 1px solid var(--borde); border-radius: 10px; font-size: 1rem; cursor: pointer; }
+
+        /* --- cabecera compacta en móvil --- */
+        .app-header { height: auto; min-height: 56px; flex-wrap: wrap; gap: .35rem; padding: .55rem .8rem; }
+        .app-header h1 { font-size: .95rem; }
+        .app-header h1 .h1-largo { display: none; }
+        .app-header a { min-height: 44px; display: inline-flex; align-items: center; padding: .4rem .7rem; }
+
+        /* --- pestañas táctiles --- */
+        .tabs-bar { overflow-x: visible; flex-wrap: wrap; }
+        .tabs-bar .tab { display: flex; align-items: center; min-height: 44px; white-space: nowrap; }
+        .tabs-bar .btn-filtros { margin: .3rem .3rem .3rem 0; }
+
+        /* --- dashboard --- */
+        .dashboard-grid { padding: .75rem; }
+        .kpi-row { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .55rem; }
+        .chart-row { grid-template-columns: 1fr; gap: .7rem; }
+        .chart-card canvas { max-height: 240px; }
+
+        /* --- tabla apilada en tarjetas (cada celda con el nombre de su columna) --- */
+        .reports-table-wrapper { padding: .75rem; }
+        .search-bar { flex-wrap: wrap; }
+        .search-bar .result-count { width: 100%; order: 3; }
+        .tabla-scroll { overflow: visible; }
+        table.reports-table { border-radius: 12px; box-shadow: none; background: none; }
+        .reports-table thead { display: none; }
+        .reports-table, .reports-table tbody, .reports-table tr, .reports-table td { display: block; width: 100%; }
+        .reports-table tr {
+            background: var(--card); border: 1px solid var(--borde); border-radius: 12px;
+            margin-bottom: .6rem; padding: .4rem .6rem; box-shadow: var(--sombra); cursor: pointer;
+        }
+        .reports-table td {
+            display: flex; gap: .6rem; align-items: baseline; border: none;
+            padding: .3rem .15rem; white-space: normal !important; min-width: 0;
+        }
+        .reports-table td::before {
+            content: attr(data-etiqueta); flex: 0 0 40%; color: var(--texto-suave);
+            font-size: .66rem; text-transform: uppercase; letter-spacing: .5px; font-weight: 700;
+        }
+        .reports-table td:nth-child(3) { font-weight: 650; color: var(--texto); font-size: .92rem; }
+        .reports-table td:nth-child(3)::before { display: none; }
+        .reports-table td:empty { display: none; }
+
+        /* --- ficha --- */
+        .detail-panel { width: 100vw; max-width: 100vw; }
+        .detail-info-grid { grid-template-columns: 1fr; }
+        .detail-panel-body { padding: .9rem; }
+
+        /* ===== 700 px: vuelve la tabla (14 columnas con scroll propio) ===== */
+        @media (min-width: 700px) {
+            .tabla-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+            table.reports-table { border-radius: var(--radio); overflow: hidden; box-shadow: var(--sombra); background: var(--card); }
+            .reports-table thead { display: table-header-group; }
+            .reports-table, .reports-table tbody, .reports-table tr, .reports-table td { display: revert; }
+            .reports-table tr { background: none; border: none; border-radius: 0; margin: 0; padding: 0; box-shadow: none; }
+            .reports-table td { display: table-cell; padding: .45rem .7rem; border-bottom: 1px solid #f0f1f3; }
+            .reports-table td::before { content: none; }
+            .reports-table td:nth-child(3) { font-weight: normal; color: var(--texto-medio); font-size: inherit; }
+            .reports-table td:nth-child(3)::before { display: block; content: none; }
+            .reports-table td:empty { display: table-cell; }
+            .search-bar { flex-wrap: nowrap; }
+            .search-bar .result-count { width: auto; order: 0; }
+        }
+
+        /* ===== 900 px: escritorio ===== */
+        @media (min-width: 900px) {
+            .btn-filtros, .scrim, .sidebar .drawer-head { display: none; }
+            .sidebar {
+                position: static; transform: none; width: 264px; box-shadow: none; padding-top: 1rem;
+                background: var(--card); border-right: 1px solid var(--borde); overflow-y: auto; flex-shrink: 0;
+            }
+            .app-header { height: 56px; min-height: 56px; flex-wrap: nowrap; padding: 0.65rem 1.25rem; }
+            .app-header h1 .h1-largo { display: inline; }
+            .chart-row { grid-template-columns: 1fr 1fr; }
+            .detail-panel { width: 560px; max-width: 95vw; }
+            .detail-info-grid { grid-template-columns: 1fr 1fr; }
+            .dashboard-grid { padding: 1.1rem; }
+            .reports-table-wrapper { padding: 1.1rem; }
+            .kpi-row { grid-template-columns: repeat(auto-fit, minmax(165px, 1fr)); gap: .7rem; }
+            input, select, textarea { font-size: 14px; }
+            .sidebar select, .sidebar input[type="text"] { font-size: .81rem; min-height: 0; padding: .38rem .5rem; }
+        }
+        @media (min-width: 900px) and (max-width: 1024px) { .sidebar { width: 225px; } }
     
 .detail-tags{display:flex;flex-wrap:wrap;gap:6px}
 .detail-tag{display:inline-block;padding:3px 10px;border:1px solid var(--border);border-radius:999px;font-size:12px;color:var(--muted-foreground);background:var(--card)}
@@ -326,7 +434,7 @@
 <!-- Header -->
 <header class="app-header">
     <div>
-        <h1><span class="logo">●</span>ERA Visor<span style="font-weight:400;color:var(--texto-suave)"> · Accidentes ferroviarios en Europa</span></h1>
+        <h1><span class="logo">●</span>ERA Visor<span class="h1-largo" style="font-weight:400;color:var(--texto-suave)"> · Accidentes ferroviarios en Europa</span></h1>
         <div class="subtitle">Informes de investigación de accidentes e incidentes ferroviarios · 30 países · <span id="selloVersion" title="Versión de los datos publicados. Si el año no es el último, tu navegador está sirviendo una copia en caché de la página.">datos —</span></div>
     </div>
     <a href="https://www.era.europa.eu/era-folder/accident-investigation-reports" target="_blank">Fuente: ERA / eRAIL ↗</a>
@@ -334,6 +442,7 @@
 
 <!-- Tabs -->
 <nav class="tabs-bar" id="tabsBar">
+    <button class="btn-filtros" id="btnFiltros" aria-expanded="false" aria-controls="sidebar">☰ Filtros</button>
     <div class="tab active" data-tab="mapa">🗺️ Mapa</div>
     <div class="tab" data-tab="dashboard">📊 Dashboard</div>
     <div class="tab" data-tab="informes">📋 Informes</div>
@@ -342,7 +451,12 @@
 <!-- Main -->
 <div class="main-layout">
     <!-- Sidebar -->
+    <div class="scrim" id="scrim"></div>
     <aside class="sidebar" id="sidebar">
+        <div class="drawer-head">
+            <strong style="font-size:.9rem">Filtros</strong>
+            <button class="drawer-close" id="drawerClose" aria-label="Cerrar filtros">✕</button>
+        </div>
         <h3>Filtros</h3>
         <label>País</label>
         <select id="filterPais"><option value="">Todos</option></select>
@@ -432,7 +546,7 @@
                         <div class="value" id="kpiLocaliz">-</div>
                         <div class="label">Localizados</div>
                     </div>
-                    <div class="kpi-card ambar">
+                    <div class="kpi-card azul">
                         <div class="value" id="kpiRecomendaciones">-</div>
                         <div class="label">Recomendaciones</div>
                     </div>
@@ -608,7 +722,7 @@
 
 <script>
 /* bump para refrescar cache de la DB en cada despliegue */
-const VERSION_DATOS = "2026-09-27-3";
+const VERSION_DATOS = "2026-09-27-4";
 const TIPOS_ES = {
     "descarrilamiento": "Descarrilamiento", "arrollamiento": "Arrollamiento", "colision": "Colisión",
     "paso_a_nivel": "Paso a nivel", "incendio": "Incendio", "fallos_senal": "Fallo de señalización", "otro": "Otro"
@@ -1123,20 +1237,20 @@ function pintaTabla() {
             : r.geo_veredicto === 'duda' ? `<span class="geo-warn duda" title="${r.geo_motivo || 'ubicación dudosa'}">?</span>`
             : (r.lat && r.lng) ? `<span class="geo-ok" title="${r.metodo_geo || 'verificado contra la red ADIF'}">✓</span>` : '<span title="sin coordenadas">—</span>';
         const rec = r.n_recomendaciones > 0 ? `<span class="badge badge-rec">${r.n_recomendaciones}</span>` : '<span style="color:var(--texto-suave)">—</span>';
-        tr.innerHTML = `<td>${r.clave || '—'}</td>
-            <td>${r.fecha || '—'}</td>
-            <td>${tituloIF(r)}${geoMal}</td>
-            <td>${CATEGORIAS[categoriaDe(r.tipo)]}</td>
-            <td>${r.provincia || '—'}</td>
-            <td>${r.estacion || r.ubicacion_nombre || '—'}</td>
-            <td>${r.linea || '—'}</td>
-            <td>${r.pk ? 'PK ' + r.pk : '—'}</td>
-            <td style="text-align:center">${sev}</td>
-            <td style="text-align:center">${r.heridos_graves || 0}</td>
-            <td style="text-align:center">${r.heridos_leves || 0}</td>
-            <td style="text-align:center">${rec}</td>
-            <td style="text-align:center">${geo}</td>
-            <td>${r.url_pdf ? '<a href="' + r.url_pdf + '" target="_blank" onclick="event.stopPropagation()">PDF ↗</a>' : ''}</td>`;
+        tr.innerHTML = `<td data-etiqueta="Clave">${r.clave || '—'}</td>
+            <td data-etiqueta="Fecha">${r.fecha || '—'}</td>
+            <td data-etiqueta="Informe">${tituloIF(r)}${geoMal}</td>
+            <td data-etiqueta="Tipo">${CATEGORIAS[categoriaDe(r.tipo)]}</td>
+            <td data-etiqueta="Provincia">${r.provincia || '—'}</td>
+            <td data-etiqueta="Estación">${r.estacion || r.ubicacion_nombre || '—'}</td>
+            <td data-etiqueta="Línea">${r.linea || '—'}</td>
+            <td data-etiqueta="PK">${r.pk ? 'PK ' + r.pk : '—'}</td>
+            <td data-etiqueta="Fallecidos" style="text-align:center">${sev}</td>
+            <td data-etiqueta="Her. graves" style="text-align:center">${r.heridos_graves || 0}</td>
+            <td data-etiqueta="Her. leves" style="text-align:center">${r.heridos_leves || 0}</td>
+            <td data-etiqueta="Recom." style="text-align:center">${rec}</td>
+            <td data-etiqueta="Geo" style="text-align:center">${geo}</td>
+            <td data-etiqueta="Informe PDF">${r.url_pdf ? '<a href="' + r.url_pdf + '" target="_blank" onclick="event.stopPropagation()">PDF ↗</a>' : ''}</td>`;
         tb.appendChild(tr);
     }
 }
@@ -1409,6 +1523,26 @@ document.querySelectorAll('.tabs-bar .tab').forEach(tab => tab.onclick = () => {
         // 2ª petición: solo si el usuario entra en esta pestaña
         cargarDashboard().then(() => pintaDashboard());
     }
+});
+
+/* ===== CAJÓN DE FILTROS (móvil) =====
+   En pantallas <900 px la barra de filtros entra por la izquierda como
+   cajón superpuesto (en escritorio se queda fija y el botón desaparece). */
+const btnFiltros = document.getElementById('btnFiltros');
+const sidebarFiltros = document.getElementById('sidebar');
+const scrimFiltros = document.getElementById('scrim');
+function abrirFiltros(abierto) {
+    sidebarFiltros.classList.toggle('open', abierto);
+    scrimFiltros.classList.toggle('open', abierto);
+    btnFiltros.setAttribute('aria-expanded', abierto ? 'true' : 'false');
+}
+btnFiltros.onclick = () => abrirFiltros(!sidebarFiltros.classList.contains('open'));
+scrimFiltros.onclick = () => abrirFiltros(false);
+document.getElementById('drawerClose').onclick = () => abrirFiltros(false);
+document.addEventListener('keydown', e => { if (e.key === 'Escape') abrirFiltros(false); });
+// al cambiar cualquier filtro desde el cajón, se cierra para ver el resultado
+sidebarFiltros.addEventListener('change', () => {
+    if (window.matchMedia('(max-width: 899px)').matches) abrirFiltros(false);
 });
 
 initMapa();

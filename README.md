@@ -38,7 +38,7 @@ Hecho con ❤️ por David Antizar
 | Localización auditada | **344 bien · 0 duda · 4 mal · 3 sin coords** (99 % con punto) |
 | Veredicto geo por método | `via_pk` 209 · `via_pkteorico` 82 · `estacion_ign` 39 · `poblacion` 17 · `estacion_adif` 1 · `sin_geo` 3 |
 | Recomendaciones estructuradas | **651 únicas** (destinatario/implementador/texto/página en celdas separadas, con `tipo_suceso` para filtrar) |
-| `VERSION_DATOS` | `2026-09-27-3` (bump en cada despliegue de datos) |
+| `VERSION_DATOS` | `2026-09-27-4` (bump en cada despliegue de datos) |
 
 **Residuos conocidos:** 3 sin coords — Barcelona Marina (estación de Cercanías abierta en 2022, ausente de IGN/OSM), Río Huerva (apeadero sin mapear) y el puesto de bloqueo Río Duero (nombre no localizable). No se inventa: sin fuente no hay punto.
 El informe escaneado `ID_230507_140907` ya está OCRado y estructurado como `0033/2007`;
@@ -145,6 +145,16 @@ La ubicación es lo que más errores ha dado. Se resuelve por capas, de más a m
   donde sí es dato (fallecidos / heridos graves).
 - **Sello `datos <versión>`** en la cabecera: si no coincide con el último `VERSION_DATOS`
   publicado, el navegador está sirviendo una copia en caché de la página.
+- **Mobile-first medido, no presumido (2026-09-27):** las media queries se reescribieron
+  al revés (base = móvil, `min-width` para crecer) y nada se esconde con `display:none`.
+  En móvil los filtros entran como **cajón lateral** (botón «☰ Filtros», se cierra al
+  cambiar un filtro o tocando fuera), la tabla de 14 columnas se **apila en tarjetas**
+  con `data-etiqueta` en cada celda, y desde 700 px vuelve a ser tabla con scroll propio.
+  Táctil ≥44 px en pestañas, botones y campos; `font-size: 16px` en los inputs (si no,
+  iOS hace zoom al enfocar); `100dvh` en el layout (con `100vh` de reserva).
+  **Verificación real con Chrome headless**: 21 comprobaciones (320/360/390/414/768/1024/
+  1440 × mapa/dashboard/informes) → **0 desbordes**, 0 errores JS. Capturas en
+  `%TEMP%\era-{360,1440}-{informes,dashboard}.png`.
 
 ### Bugs de geolocalización corregidos (lecciones duras)
 
