@@ -42,6 +42,9 @@ def normalizar(t):
         return ""
     t = unicodedata.normalize("NFD", str(t).lower())
     t = "".join(c for c in t if unicodedata.category(c) != "Mn")
+    # el guion cuenta como espacio: el IGN escribe «Madrid-Chamartín» y el
+    # informe «Madrid Chamartín» — sin esto nunca casaban (2026-09-27)
+    t = re.sub(r"[-–—/]", " ", t)
     t = re.sub(r"\b(estacion|de|del|la|el|apeadero|ferrocarril)\b", " ", t)
     return re.sub(r"\s+", " ", t).strip()
 

@@ -13,7 +13,12 @@
   "estacion": null,
   "provincia": "Alicante",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 38.3842144,
+  "lng": -0.7674146,
+  "metodo_geo": "poblacion",
+  "poblacion_nombre": "Novelda, El Vinalopó Medio, Alicante, Comunidad Valenciana, 03660, España",
+  "fuente_geo": "Nominatim relation/341444 (administrative)"
  },
  "entidades": [
   "ADIF",

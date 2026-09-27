@@ -13,7 +13,12 @@
   "estacion": "Bifurcación Cerrato",
   "provincia": "Palencia",
   "pk": null,
-  "linea": "LAV Madrid - Valladolid - León"
+  "linea": "LAV Madrid - Valladolid - León",
+  "lat": 41.9619946,
+  "lng": -4.4771599,
+  "metodo_geo": "poblacion",
+  "poblacion_nombre": "Bifurcación Cerrato, PP-4105, Villamuriel de Cerrato, Palencia, Castilla y León, 34190, España",
+  "fuente_geo": "Nominatim node/8057319956 (junction)"
  },
  "entidades": [
   "Renfe Viajeros",

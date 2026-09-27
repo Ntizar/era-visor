@@ -13,7 +13,11 @@
   "estacion": "Madrid Chamartín",
   "provincia": "Madrid",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 40.47422836413183,
+  "lng": -3.6815063559809618,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Tren de Madrid-Chamartín-Clara Campoamor / Estación de Metro de Cham"
  },
  "entidades": [
   "Adif",

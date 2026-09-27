@@ -1,6 +1,6 @@
 # ERA Visor — Visor europeo de accidentes ferroviarios
 
-![Fase](https://img.shields.io/badge/Fase-Espa%C3%B1a-blue) ![Informes](https://img.shields.io/badge/Informes-351-green) ![An%C3%A1lisis%20v3](https://img.shields.io/badge/An%C3%A1lisis%20v3-351%2F351-brightgreen) ![Geoloc%20bien](https://img.shields.io/badge/Geoloc%20bien-315-orange)
+![Fase](https://img.shields.io/badge/Fase-Espa%C3%B1a-blue) ![Informes](https://img.shields.io/badge/Informes-351-green) ![An%C3%A1lisis%20v3](https://img.shields.io/badge/An%C3%A1lisis%20v3-351%2F351-brightgreen) ![Geoloc%20bien](https://img.shields.io/badge/Geoloc%20bien-348-green)
 
 Visor y base de datos de informes de investigación de accidentes ferroviarios. Convierte los
 PDF oficiales (ERA/eRAIL + organismos nacionales como el CIAF) en una **base de datos plana,
@@ -35,12 +35,12 @@ Hecho con ❤️ por David Antizar
 |---|---|
 | Informes en la DB | **351** (2006-2025, CIAF + ERA) |
 | Con análisis v3 completo | **351/351** |
-| Localización auditada | **315 bien · 0 duda · 0 mal · 36 sin coords** |
-| Veredicto geo por método | `via_pk` 209 · `via_pkteorico` 75 · `estacion_ign` 28 · `estacion_adif` 2 · `poblacion` 1 · `sin_geo` 36 |
+| Localización auditada | **344 bien · 0 duda · 4 mal · 3 sin coords** (99 % con punto) |
+| Veredicto geo por método | `via_pk` 209 · `via_pkteorico` 82 · `estacion_ign` 39 · `poblacion` 17 · `estacion_adif` 1 · `sin_geo` 3 |
 | Recomendaciones estructuradas | **651 únicas** (destinatario/implementador/texto/página en celdas separadas, con `tipo_suceso` para filtrar) |
-| `VERSION_DATOS` | `2026-09-27-1` (bump en cada despliegue de datos) |
+| `VERSION_DATOS` | `2026-09-27-2` (bump en cada despliegue de datos) |
 
-**Residuos conocidos:** 36 sin coords (informes sin PK ni estación en el PDF — no se inventa).
+**Residuos conocidos:** 3 sin coords — Barcelona Marina (estación de Cercanías abierta en 2022, ausente de IGN/OSM), Río Huerva (apeadero sin mapear) y el puesto de bloqueo Río Duero (nombre no localizable). No se inventa: sin fuente no hay punto.
 El informe escaneado `ID_230507_140907` ya está OCRado y estructurado como `0033/2007`;
 la localización geográfica se dejó como `sin_coords` porque la fuente pública no da estación.
 
@@ -127,6 +127,21 @@ La ubicación es lo que más errores ha dado. Se resuelve por capas, de más a m
 | `poblacion` | Línea sin geometría en ADIF / estación sin mapear → centro urbano declarado | Media (regla de David) |
 | `previa` | Sin match → conserva la coordenada previa (NPI) | Baja → señal de revisión |
 
+### Capa de vías ADIF, paleta y sello del visor (2026-09-27)
+
+- **Capa de vías ADIF:** el WMS oficial (`ideadif.adif.es/gservices/Tramificacion/wms`)
+  responde **403** a cualquier petición (medido con y sin cabeceras de navegador), así
+  que la capa se dibuja desde `data/adif-pkteoricos.geojson` (3,3 MB): los 17.200 PKs se
+  agrupan por `codtramo` y se ordenan por `pk` → 1.142 polilíneas. Carga diferida tras
+  el arranque, una sola vez, registrada en el selector de capas; si falla, el mapa queda
+  como estaba.
+- **Paleta del dashboard: monocroma azul + gris** (`TONOS` = #1e3a8a → #bfdbfe, `GRIS`
+  para la tendencia) con `Chart.defaults` global (texto #64748b, rejillas #eef1f6,
+  leyendas con punto). Sin rojos ni ámbar en gráficos: ese color queda para el MAPA,
+  donde sí es dato (fallecidos / heridos graves).
+- **Sello `datos <versión>`** en la cabecera: si no coincide con el último `VERSION_DATOS`
+  publicado, el navegador está sirviendo una copia en caché de la página.
+
 ### Bugs de geolocalización corregidos (lecciones duras)
 
 - **`codtramo` estructura**: es `eje(2)+línea(3)+seq(4)` (9 dígitos). El código de línea vive en
@@ -211,7 +226,7 @@ de MBs y "sigue saliendo mal" aunque el servidor ya esté bien.
 
 - **Fase 4A (actual): España al 100% y normalizada.** OCR resuelto, claves `NNNN/AAAA`,
   años a 4 cifras, taxonomía única de `tipo_suceso` y recomendaciones en celdas separadas
-  (ver `database/SPEC-NORMALIZACION.md`). Queda: los 36 sin coords (no se inventan) y la
+  (ver `database/SPEC-NORMALIZACION.md`). Queda: los 3 sin coords (no se inventan) y la
   decisión sobre los dudosos.
 - **Fase 2: Alemania** (452 PDFs detectados), Francia, Italia, Polonia.
 - **Traducción** de los informes al castellano en el pipeline (`titulo_normalizado` +

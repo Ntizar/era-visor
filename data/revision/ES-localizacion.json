@@ -5,10 +5,20 @@
   "provincia": "Zamora",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 42.04564065348572,
+  "lng": -6.626649035521583,
+  "metodo": "estacion_ign",
+  "dist_via_m": 32,
+  "dist_via_geo_m": 32,
+  "pk_cercano": 106.9,
+  "provincia_ine": "Zamora",
+  "coord_pkcercano": [
+   42.04540691,
+   -6.62688047
+  ],
+  "codtramo_cercano": "068220020",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-191217-230317-IF-SN_CIAF",
@@ -16,10 +26,20 @@
   "provincia": "Madrid",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 40.47422836413183,
+  "lng": -3.6815063559809618,
+  "metodo": "estacion_ign",
+  "dist_via_m": 19,
+  "dist_via_geo_m": 19,
+  "pk_cercano": 0.0,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.47428106,
+   -3.68171902
+  ],
+  "codtramo_cercano": "022000005",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-191217-280717-if-sn_ciaf",
@@ -69,10 +89,21 @@
   "provincia": "Zamora",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 42.0245478,
+  "lng": -6.6938232,
+  "metodo": "poblacion",
+  "dist_via_m": 307,
+  "dist_via_geo_m": 166,
+  "pk_cercano": 114.4,
+  "provincia_ine": "Zamora",
+  "coord_pkcercano": [
+   42.02246055,
+   -6.69625266
+  ],
+  "codtramo_cercano": "068220032",
+  "veredicto": "bien",
+  "motivo": "ubicación por población declarada en el informe (no cae sobre vía por diseño; sin geometría de línea en ADIF)",
+  "provincia_ok": true
  },
  {
   "id": "ES-200723-201118-IF-SN_CIAF",
@@ -126,10 +157,21 @@
   "provincia": "Madrid",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 40.4051406,
+  "lng": -3.6878589,
+  "metodo": "poblacion",
+  "dist_via_m": 149,
+  "dist_via_geo_m": 5,
+  "pk_cercano": 0.0,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.4061993,
+   -3.68893679
+  ],
+  "codtramo_cercano": "029320004",
+  "veredicto": "bien",
+  "motivo": "ubicación por población declarada en el informe (no cae sobre vía por diseño; sin geometría de línea en ADIF)",
+  "provincia_ok": true
  },
  {
   "id": "ES-2024-122-1213-if",
@@ -137,10 +179,21 @@
   "provincia": "León",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 42.5816322,
+  "lng": -5.5796371,
+  "metodo": "poblacion",
+  "dist_via_m": 4,
+  "dist_via_geo_m": 0,
+  "pk_cercano": 343.9,
+  "provincia_ine": "León",
+  "coord_pkcercano": [
+   42.58161078,
+   -5.57959881
+  ],
+  "codtramo_cercano": "111800010",
+  "veredicto": "bien",
+  "motivo": "ubicación por población declarada en el informe (no cae sobre vía por diseño; sin geometría de línea en ADIF)",
+  "provincia_ok": true
  },
  {
   "id": "ES-2024-64-0625-if",
@@ -148,10 +201,21 @@
   "provincia": null,
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 40.0339646,
+  "lng": -2.1436891,
+  "metodo": "poblacion",
+  "dist_via_m": 82,
+  "dist_via_geo_m": 2,
+  "pk_cercano": 194.8,
+  "provincia_ine": "Cuenca",
+  "coord_pkcercano": [
+   40.03444956,
+   -2.14441033
+  ],
+  "codtramo_cercano": "130400070",
+  "veredicto": "bien",
+  "motivo": "ubicación por población declarada en el informe (no cae sobre vía por diseño; sin geometría de línea en ADIF)",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 02.07.204 150324-140702-IF-CIAF",
@@ -247,10 +311,20 @@
   "provincia": "Valencia",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 39.49078025009008,
+  "lng": -0.6862624169011897,
+  "metodo": "estacion_ign",
+  "dist_via_m": 446,
+  "dist_via_geo_m": 13,
+  "pk_cercano": 59,
+  "provincia_ine": "Valencia",
+  "coord_pkcercano": [
+   39.48907377,
+   -0.69095485
+  ],
+  "codtramo_cercano": "033100090",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 04.11.2016 180718-161104-IF-SN_CIAF_HOSPITALET DE LLOBREGAT ",
@@ -304,10 +378,20 @@
   "provincia": "Huesca",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.97576600773955,
+  "lng": -0.5383460593733029,
+  "metodo": "estacion_ign",
+  "dist_via_m": 12,
+  "dist_via_geo_m": 12,
+  "pk_cercano": 52.9,
+  "provincia_ine": "Huesca",
+  "coord_pkcercano": [
+   41.97567725,
+   -0.53843652
+  ],
+  "codtramo_cercano": "120700020",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 06.01.2017 180718-170106-IF-SN_CIAF",
@@ -403,10 +487,20 @@
   "provincia": "Pontevedra",
   "pk": null,
   "linea": "Vigo-Guillarei",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 42.164073121636854,
+  "lng": -8.621993752041101,
+  "metodo": "estacion_ign",
+  "dist_via_m": 21,
+  "dist_via_geo_m": 13,
+  "pk_cercano": 151.6,
+  "provincia_ine": "Pontevedra",
+  "coord_pkcercano": [
+   42.16422927,
+   -8.62213978
+  ],
+  "codtramo_cercano": "068100060",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 09.11.2014 151124-141109-IF-CIAF",
@@ -464,10 +558,21 @@
   "provincia": "Barcelona",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.3790068,
+  "lng": 2.1400042,
+  "metodo": "poblacion",
+  "dist_via_m": 18,
+  "dist_via_geo_m": 12,
+  "pk_cercano": 99.3,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.37884396,
+   2.13996276
+  ],
+  "codtramo_cercano": "022760200",
+  "veredicto": "bien",
+  "motivo": "ubicación por población declarada en el informe (no cae sobre vía por diseño; sin geometría de línea en ADIF)",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 11 07 2014 150525-140711-IF-CIAF-1",
@@ -770,10 +875,20 @@
   "provincia": "Madrid",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 40.47422836413183,
+  "lng": -3.6815063559809618,
+  "metodo": "estacion_ign",
+  "dist_via_m": 19,
+  "dist_via_geo_m": 19,
+  "pk_cercano": 0.0,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.47428106,
+   -3.68171902
+  ],
+  "codtramo_cercano": "022000005",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 17.04.2016 171017-160417-IF-CIAF",
@@ -802,10 +917,21 @@
   "provincia": "Asturias",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 43.5550902,
+  "lng": -5.7235756,
+  "metodo": "poblacion",
+  "dist_via_m": 12,
+  "dist_via_geo_m": 8,
+  "pk_cercano": 9,
+  "provincia_ine": "Asturias",
+  "coord_pkcercano": [
+   43.55504427,
+   -5.72344729
+  ],
+  "codtramo_cercano": "061500030",
+  "veredicto": "bien",
+  "motivo": "ubicación por población declarada en el informe (no cae sobre vía por diseño; sin geometría de línea en ADIF)",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 18.07.2016 171017-160718-IF-CIAF",
@@ -834,23 +960,24 @@
   "provincia": "Tarragona",
   "pk": "PK 0+571",
   "linea": "Línea 622 Aguja Clasif. PK 272,0 a Tarragona Clasificación",
-  "lat": 41.11105,
-  "lng": 1.22475,
-  "metodo": "estacion_ign",
-  "dist_via_m": 22,
-  "dist_via_geo_m": 16,
-  "dist_linea_geo_m": 22,
-  "pk_cercano": 101,
-  "provincia_ine": "Tarragona",
+  "lat": 41.11130219,
+  "lng": 1.25341095,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 2404,
+  "pk_cercano": 275.6,
+  "provincia_ine": "00",
   "coord_pkcercano": [
-   41.11084864,
-   1.22474869
+   41.11130219,
+   1.25341095
   ],
-  "codtramo_cercano": "026240010",
+  "codtramo_cercano": "026300030",
   "linea_declarada": "622",
-  "dist_linea_m": 22,
+  "dist_linea_m": 2405,
   "pk_linea_cercano": 273.1,
-  "veredicto": "bien",
+  "motivo": "cae sobre OTRA vía: a 0 m del tramo 022100150 (línea 210), la declarada 622 está a 2404 m",
+  "veredicto": "mal",
   "provincia_ok": null
  },
  {
@@ -901,10 +1028,21 @@
   "provincia": "Madrid",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 40.40420199170629,
+  "lng": -3.60895683709213,
+  "metodo": "estacion_ign",
+  "dist_via_m": 1055,
+  "dist_via_geo_m": 976,
+  "pk_cercano": 10.2,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.39564342,
+   -3.60361271
+  ],
+  "codtramo_cercano": "029300030",
+  "veredicto": "bien",
+  "motivo": "nodo de estación sobre la red real: a 976 m de la vía más cercana (la declarada None es ramal interno/truncado en ADIF — p.ej. Salou, Zaragoza-Delicias)",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 22.10.2015 160927151022IFCIAF",
@@ -990,23 +1128,24 @@
   "provincia": "Alicante",
   "pk": "435,900",
   "linea": "336 El Reguerón a Alacant Terminal",
-  "lat": 38.2721481,
-  "lng": -0.6950608,
-  "metodo": "estacion_ign",
-  "dist_via_m": 33,
-  "dist_via_geo_m": 4,
-  "dist_linea_geo_m": 4,
-  "pk_cercano": 20.6,
+  "lat": 38.40604604,
+  "lng": -0.6480192,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 12898,
+  "pk_cercano": 436.1,
   "provincia_ine": "Alicante",
   "coord_pkcercano": [
-   38.27205184,
-   -0.69541755
+   38.40604604,
+   -0.6480192
   ],
-  "codtramo_cercano": "033360040",
+  "codtramo_cercano": "033300025",
   "linea_declarada": "336",
-  "dist_linea_m": 33,
-  "pk_linea_cercano": 20.6,
-  "veredicto": "bien",
+  "dist_linea_m": 13036,
+  "pk_linea_cercano": 2.6,
+  "motivo": "cae sobre OTRA vía: a 0 m del tramo 033300025 (línea 330), la declarada 336 está a 12898 m",
+  "veredicto": "mal",
   "provincia_ok": true
  },
  {
@@ -1015,10 +1154,20 @@
   "provincia": "Soria",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.13632218974722,
+  "lng": -2.4930053319716547,
+  "metodo": "estacion_ign",
+  "dist_via_m": 42,
+  "dist_via_geo_m": 39,
+  "pk_cercano": 157.7,
+  "provincia_ine": "Soria",
+  "coord_pkcercano": [
+   41.13594656,
+   -2.4929322
+  ],
+  "codtramo_cercano": "022000150",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 26.09.2014 150922-140926-IF-CIAF_SANTA MARÍA DE LA ALAMEDA",
@@ -1047,10 +1196,21 @@
   "provincia": "Barcelona",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.3842421,
+  "lng": 2.1880415,
+  "metodo": "poblacion",
+  "dist_via_m": 211,
+  "dist_via_geo_m": 47,
+  "pk_cercano": 685.4,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.38422082,
+   2.1855107
+  ],
+  "codtramo_cercano": "022000585",
+  "veredicto": "bien",
+  "motivo": "ubicación por población declarada en el informe (no cae sobre vía por diseño; sin geometría de línea en ADIF)",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 27.08.2015 161129150827IFCIAF",
@@ -1058,10 +1218,20 @@
   "provincia": "Málaga",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 36.81981497800608,
+  "lng": -4.699654782571199,
+  "metodo": "estacion_ign",
+  "dist_via_m": 11,
+  "dist_via_geo_m": 11,
+  "pk_cercano": 155.3,
+  "provincia_ine": "Málaga",
+  "coord_pkcercano": [
+   36.81972404,
+   -4.69959896
+  ],
+  "codtramo_cercano": "044300120",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 28.05.2016 180223-160528-IF-SN_CIAF",
@@ -1090,10 +1260,21 @@
   "provincia": "Asturias",
   "pk": null,
   "linea": "Tramo Busdongo-Pajares",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 43.1065235,
+  "lng": -5.9946368,
+  "metodo": "poblacion",
+  "dist_via_m": 13305,
+  "dist_via_geo_m": 13277,
+  "pk_cercano": 408.2,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   43.0841345,
+   -5.83385764
+  ],
+  "codtramo_cercano": "119840020",
+  "veredicto": "bien",
+  "motivo": "ubicación por población declarada en el informe (no cae sobre vía por diseño; sin geometría de línea en ADIF)",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES 31.03.2015 160223-150331-IF-CIAF",
@@ -1184,10 +1365,20 @@
   "provincia": "Valencia",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 39.02619746101838,
+  "lng": -0.21478063840949507,
+  "metodo": "estacion_ign",
+  "dist_via_m": 293,
+  "dist_via_geo_m": 14,
+  "pk_cercano": 43.2,
+  "provincia_ine": "Valencia",
+  "coord_pkcercano": [
+   39.02862123,
+   -0.2160906
+  ],
+  "codtramo_cercano": "033440020",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES-10111 - 2021-09-0205-IF Blanes",
@@ -1216,10 +1407,21 @@
   "provincia": "Alicante",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 38.3842144,
+  "lng": -0.7674146,
+  "metodo": "poblacion",
+  "dist_via_m": 2285,
+  "dist_via_geo_m": 2253,
+  "pk_cercano": 426.1,
+  "provincia_ine": "Alicante",
+  "coord_pkcercano": [
+   38.40422917,
+   -0.76162821
+  ],
+  "codtramo_cercano": "033300025",
+  "veredicto": "bien",
+  "motivo": "ubicación por población declarada en el informe (no cae sobre vía por diseño; sin geometría de línea en ADIF)",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES-10137 - 2021-64 IF v1.1 Medinaceli",
@@ -1252,10 +1454,21 @@
   "provincia": "Valencia",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 39.0444939,
+  "lng": -0.4808417,
+  "metodo": "poblacion",
+  "dist_via_m": 617,
+  "dist_via_geo_m": 477,
+  "pk_cercano": 61.7,
+  "provincia_ine": "Valencia",
+  "coord_pkcercano": [
+   39.04907482,
+   -0.4768293
+  ],
+  "codtramo_cercano": "033000270",
+  "veredicto": "bien",
+  "motivo": "ubicación por población declarada en el informe (no cae sobre vía por diseño; sin geometría de línea en ADIF)",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES-10227 - 221220-210503-IF_CIAF",
@@ -1263,10 +1476,21 @@
   "provincia": null,
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 42.6341451,
+  "lng": -5.9714151,
+  "metodo": "poblacion",
+  "dist_via_m": 10668,
+  "dist_via_geo_m": 10606,
+  "pk_cercano": 190.4,
+  "provincia_ine": "León",
+  "coord_pkcercano": [
+   42.59273546,
+   -6.0888451
+  ],
+  "codtramo_cercano": "068000060",
+  "veredicto": "bien",
+  "motivo": "ubicación por población declarada en el informe (no cae sobre vía por diseño; sin geometría de línea en ADIF)",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES-10228 - 202171 0906 IF sn_en",
@@ -1299,10 +1523,24 @@
   "provincia": "Tarragona",
   "pk": null,
   "linea": "Línea 210 Miraflores - Sant Vicenç de Calders",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.12014,
+  "lng": 1.14222,
+  "metodo": "estacion_adif",
+  "dist_via_m": 24,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
+  "pk_cercano": 251.6,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.11994981,
+   1.14234333
+  ],
+  "codtramo_cercano": "036320010",
+  "linea_declarada": "210",
+  "dist_linea_m": 32,
+  "pk_linea_cercano": 93.3,
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES-10252 - 2022-46-0601-IF",
@@ -1453,10 +1691,21 @@
   "provincia": "Madrid",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 40.5520132,
+  "lng": -3.8964729,
+  "metodo": "poblacion",
+  "dist_via_m": 48,
+  "dist_via_geo_m": 18,
+  "pk_cercano": 24,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.5523292,
+   -3.89685724
+  ],
+  "codtramo_cercano": "019120020",
+  "veredicto": "bien",
+  "motivo": "ubicación por población declarada en el informe (no cae sobre vía por diseño; sin geometría de línea en ADIF)",
+  "provincia_ok": true
  },
  {
   "id": "ES-es-10699 - final report, 2024-111-1029-if_1",
@@ -1489,10 +1738,20 @@
   "provincia": "Navarra",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.91482112206532,
+  "lng": -1.4202982673862043,
+  "metodo": "estacion_ign",
+  "dist_via_m": 16,
+  "dist_via_geo_m": 15,
+  "pk_cercano": 55.3,
+  "provincia_ine": "Zaragoza",
+  "coord_pkcercano": [
+   41.9149291,
+   -1.42017893
+  ],
+  "codtramo_cercano": "017000020",
+  "veredicto": "bien",
+  "provincia_ok": false
  },
  {
   "id": "ES-ES-5925 - 210624-190208-if-sn_ciaf",
@@ -1500,10 +1759,20 @@
   "provincia": "Barcelona",
   "pk": null,
   "linea": null,
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.682012806304066,
+  "lng": 1.8475975979978707,
+  "metodo": "estacion_ign",
+  "dist_via_m": 127,
+  "dist_via_geo_m": 14,
+  "pk_cercano": 307.7,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.68172812,
+   1.84907995
+  ],
+  "codtramo_cercano": "022200050",
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES-6201 - 210520-200124-IF-CIAF",
@@ -1511,10 +1780,21 @@
   "provincia": "Palencia",
   "pk": null,
   "linea": "LAV Madrid - Valladolid - León",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.9619946,
+  "lng": -4.4771599,
+  "metodo": "poblacion",
+  "dist_via_m": 292,
+  "dist_via_geo_m": 1,
+  "pk_cercano": 222.6,
+  "provincia_ine": "Palencia",
+  "coord_pkcercano": [
+   41.96425293,
+   -4.47895087
+  ],
+  "codtramo_cercano": "110840010",
+  "veredicto": "bien",
+  "motivo": "ubicación por población declarada en el informe (no cae sobre vía por diseño; sin geometría de línea en ADIF)",
+  "provincia_ok": true
  },
  {
   "id": "ES-ES-6255-210121-200419-IF-SN_CIAF",
@@ -2512,24 +2792,23 @@
   "provincia": "Tarragona",
   "pk": "263,600",
   "linea": "600 Valencia-San Vicente Calders",
-  "lat": 41.08846,
-  "lng": 1.14599,
-  "metodo": "estacion_ign",
-  "dist_via_m": 11,
-  "dist_via_geo_m": 11,
-  "dist_linea_geo_m": 3851,
-  "pk_cercano": 265.6,
+  "lat": 41.14069575,
+  "lng": 1.169706,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
+  "pk_cercano": 254.1,
   "provincia_ine": "00",
   "coord_pkcercano": [
-   41.08850062,
-   1.14587335
+   41.14069575,
+   1.169706
   ],
-  "codtramo_cercano": "026300010",
+  "codtramo_cercano": "036000175",
   "linea_declarada": "600",
-  "dist_linea_m": 3868,
-  "pk_linea_cercano": 249.1,
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 254.1,
   "veredicto": "bien",
-  "motivo": "nodo de estación sobre la red real: a 11 m de la vía más cercana (la declarada 600 es ramal interno/truncado en ADIF — p.ej. Salou, Zaragoza-Delicias)",
   "provincia_ok": null
  },
  {
@@ -3273,10 +3552,20 @@
   "provincia": "Barcelona",
   "pk": "30+000",
   "linea": "Línea Sant Vicent de Calders-L'Hospitalet de Llobregat",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.22277891451613,
+  "lng": 1.5398238548387095,
+  "metodo": "via_pk",
+  "dist_via_m": 248,
+  "dist_via_geo_m": 0,
+  "pk_cercano": 29.1,
+  "provincia_ine": "Tarragona",
+  "coord_pkcercano": [
+   41.22444447,
+   1.54178532
+  ],
+  "codtramo_cercano": "022400010",
+  "veredicto": "bien",
+  "provincia_ok": false
  },
  {
   "id": "ES-ID_230707_300108",
@@ -3968,25 +4257,25 @@
   "provincia": "Badajoz",
   "pk": "24+420",
   "linea": "510 Aljucén - Cáceres",
-  "lat": 39.1542463,
-  "lng": -6.338543,
-  "metodo": "poblacion",
-  "dist_via_m": 1647,
-  "dist_via_geo_m": 1645,
-  "dist_linea_geo_m": 24201,
-  "pk_cercano": 116.1,
-  "provincia_ine": "00",
+  "lat": 38.7332068,
+  "lng": -6.38794189,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 22517,
+  "pk_cercano": 24,
+  "provincia_ine": "Badajoz",
   "coord_pkcercano": [
-   39.15643673,
-   -6.3574095
+   38.7332068,
+   -6.38794189
   ],
-  "codtramo_cercano": "150260080",
+  "codtramo_cercano": "045160010",
   "linea_declarada": "510",
-  "dist_linea_m": 24361,
-  "pk_linea_cercano": 140.5,
-  "veredicto": "bien",
-  "motivo": "ubicación por población declarada en el informe (no cae sobre vía por diseño; sin geometría de línea en ADIF)",
-  "provincia_ok": true
+  "dist_linea_m": 22674,
+  "pk_linea_cercano": 142,
+  "motivo": "cae sobre OTRA vía: a 0 m del tramo 045160010 (línea 516), la declarada 510 está a 22517 m",
+  "veredicto": "mal",
+  "provincia_ok": null
  },
  {
   "id": "ES-IF-061209-290610-CIAF",
@@ -3994,10 +4283,25 @@
   "provincia": "Barcelona",
   "pk": null,
   "linea": "Línea 270 Cerbère-Barcelona Sant Andreu Comtal",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.5996549,
+  "lng": 2.291612,
+  "metodo": "poblacion",
+  "dist_via_m": 1,
+  "dist_via_geo_m": 1,
+  "dist_linea_geo_m": 1,
+  "pk_cercano": 135.3,
+  "provincia_ine": "Barcelona",
+  "coord_pkcercano": [
+   41.59965134,
+   2.29160274
+  ],
+  "codtramo_cercano": "022700070",
+  "linea_declarada": "270",
+  "dist_linea_m": 1,
+  "pk_linea_cercano": 135.3,
+  "veredicto": "bien",
+  "motivo": "ubicación por población declarada en el informe (no cae sobre vía por diseño; sin geometría de línea en ADIF)",
+  "provincia_ok": true
  },
  {
   "id": "ES-IF-070311-290512-CIAF",
@@ -4078,10 +4382,25 @@
   "provincia": "Valencia",
   "pk": null,
   "linea": "300 Madrid Chamartín – Valencia Estació del Nord",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 39.3632045,
+  "lng": -0.4112618,
+  "metodo": "poblacion",
+  "dist_via_m": 365,
+  "dist_via_geo_m": 272,
+  "dist_linea_geo_m": 272,
+  "pk_cercano": 0.0,
+  "provincia_ine": "Valencia",
+  "coord_pkcercano": [
+   39.36180503,
+   -0.41510307
+  ],
+  "codtramo_cercano": "033440010",
+  "linea_declarada": "300",
+  "dist_linea_m": 371,
+  "pk_linea_cercano": 100.6,
+  "veredicto": "bien",
+  "motivo": "ubicación por población declarada en el informe (no cae sobre vía por diseño; sin geometría de línea en ADIF)",
+  "provincia_ok": true
  },
  {
   "id": "ES-IF-080709-260110-CIAF",
@@ -4160,22 +4479,22 @@
   "provincia": "Barcelona",
   "pk": "28+158",
   "linea": "276 Maçanet-Massanes a Bifurcación Sagrera",
-  "lat": 41.5358357,
-  "lng": 2.4442839,
-  "metodo": "estacion_adif",
-  "dist_via_m": 308,
-  "dist_via_geo_m": 281,
-  "dist_linea_geo_m": 281,
-  "pk_cercano": 133.1,
+  "lat": 41.57750209,
+  "lng": 2.54946552,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
+  "pk_cercano": 38,
   "provincia_ine": "00",
   "coord_pkcercano": [
-   41.53327016,
-   2.44565545
+   41.57750209,
+   2.54946552
   ],
-  "codtramo_cercano": "022760140",
+  "codtramo_cercano": "022760120",
   "linea_declarada": "276",
-  "dist_linea_m": 308,
-  "pk_linea_cercano": 133.1,
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 38,
   "veredicto": "bien",
   "provincia_ok": null
  },
@@ -5625,10 +5944,24 @@
   "provincia": "Madrid",
   "pk": null,
   "linea": "Línea 900 Madrid-Chamartín a Madrid–Atocha Cercanías (Túnel de Sol)",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 40.47422836413183,
+  "lng": -3.6815063559809618,
+  "metodo": "estacion_ign",
+  "dist_via_m": 19,
+  "dist_via_geo_m": 19,
+  "dist_linea_geo_m": 19,
+  "pk_cercano": 0.0,
+  "provincia_ine": "Madrid",
+  "coord_pkcercano": [
+   40.47428106,
+   -3.68171902
+  ],
+  "codtramo_cercano": "022000005",
+  "linea_declarada": "900",
+  "dist_linea_m": 19,
+  "pk_linea_cercano": 7.9,
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-IF-200109-190509-CIAF-LA FLORIDA",
@@ -5732,24 +6065,23 @@
   "provincia": "Tarragona",
   "pk": "263,208",
   "linea": "600 Valencia Nord - Sant Vicent de Calders",
-  "lat": 41.08846,
-  "lng": 1.14599,
-  "metodo": "estacion_ign",
-  "dist_via_m": 11,
-  "dist_via_geo_m": 11,
-  "dist_linea_geo_m": 3851,
-  "pk_cercano": 265.6,
+  "lat": 41.13896209,
+  "lng": 1.16108948,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
+  "pk_cercano": 253.6,
   "provincia_ine": "00",
   "coord_pkcercano": [
-   41.08850062,
-   1.14587335
+   41.13896209,
+   1.16108948
   ],
-  "codtramo_cercano": "026300010",
+  "codtramo_cercano": "036000175",
   "linea_declarada": "600",
-  "dist_linea_m": 3868,
-  "pk_linea_cercano": 249.1,
+  "dist_linea_m": 0,
+  "pk_linea_cercano": 253.6,
   "veredicto": "bien",
-  "motivo": "nodo de estación sobre la red real: a 11 m de la vía más cercana (la declarada 600 es ramal interno/truncado en ADIF — p.ej. Salou, Zaragoza-Delicias)",
   "provincia_ok": null
  },
  {
@@ -6250,23 +6582,24 @@
   "provincia": "Barcelona",
   "pk": "26,100",
   "linea": "276 Barcelona Sagrera a Maçanet-Massanes",
-  "lat": 41.500487,
-  "lng": 2.389831,
-  "metodo": "estacion_adif",
-  "dist_via_m": 57,
-  "dist_via_geo_m": 1,
-  "dist_linea_geo_m": 1,
-  "pk_cercano": 127.1,
-  "provincia_ine": "00",
+  "lat": 41.58732319,
+  "lng": 2.27202133,
+  "metodo": "via_pkteorico",
+  "dist_via_m": 0,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 12606,
+  "pk_cercano": 26,
+  "provincia_ine": "Barcelona",
   "coord_pkcercano": [
-   41.50021619,
-   2.38924398
+   41.58732319,
+   2.27202133
   ],
-  "codtramo_cercano": "022760140",
+  "codtramo_cercano": "022220010",
   "linea_declarada": "276",
-  "dist_linea_m": 57,
-  "pk_linea_cercano": 127.1,
-  "veredicto": "bien",
+  "dist_linea_m": 12697,
+  "pk_linea_cercano": 120.1,
+  "motivo": "cae sobre OTRA vía: a 0 m del tramo 022220010 (línea 222), la declarada 276 está a 12606 m",
+  "veredicto": "mal",
   "provincia_ok": null
  },
  {
@@ -7326,10 +7659,25 @@
   "provincia": "Lleida",
   "pk": null,
   "linea": "Línea 200 Madrid Chamartín - Barcelona Estació de França",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.6207307,
+  "lng": 0.6330353,
+  "metodo": "poblacion",
+  "dist_via_m": 25,
+  "dist_via_geo_m": 5,
+  "dist_linea_geo_m": 31,
+  "pk_cercano": 442.1,
+  "provincia_ine": "Lleida",
+  "coord_pkcercano": [
+   41.62091523,
+   0.63287396
+  ],
+  "codtramo_cercano": "120560020",
+  "linea_declarada": "200",
+  "dist_linea_m": 40,
+  "pk_linea_cercano": 183.6,
+  "veredicto": "bien",
+  "motivo": "ubicación por población declarada en el informe (no cae sobre vía por diseño; sin geometría de línea en ADIF)",
+  "provincia_ok": true
  },
  {
   "id": "ES-IF_120312_260213_CIAF",
@@ -7362,10 +7710,24 @@
   "provincia": "Soria",
   "pk": null,
   "linea": "Línea 200 Madrid Chamartín – Barcelona Estació de França",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.13632218974722,
+  "lng": -2.4930053319716547,
+  "metodo": "estacion_ign",
+  "dist_via_m": 42,
+  "dist_via_geo_m": 39,
+  "dist_linea_geo_m": 42,
+  "pk_cercano": 157.7,
+  "provincia_ine": "Soria",
+  "coord_pkcercano": [
+   41.13594656,
+   -2.4929322
+  ],
+  "codtramo_cercano": "022000150",
+  "linea_declarada": "200",
+  "dist_linea_m": 42,
+  "pk_linea_cercano": 157.7,
+  "veredicto": "bien",
+  "provincia_ok": true
  },
  {
   "id": "ES-IF_150612_290413_CIAF",
@@ -7494,10 +7856,25 @@
   "provincia": "Barcelona",
   "pk": null,
   "linea": "220 Lleida Pirineus – L'Hospitalet de Llobregat",
-  "lat": null,
-  "lng": null,
-  "metodo": null,
-  "veredicto": "sin_coords"
+  "lat": 41.3790068,
+  "lng": 2.1400042,
+  "metodo": "poblacion",
+  "dist_via_m": 18,
+  "dist_via_geo_m": 12,
+  "dist_linea_geo_m": 4095,
+  "pk_cercano": 99.3,
+  "provincia_ine": "00",
+  "coord_pkcercano": [
+   41.37884396,
+   2.13996276
+  ],
+  "codtramo_cercano": "022760200",
+  "linea_declarada": "220",
+  "dist_linea_m": 4100,
+  "pk_linea_cercano": 365.4,
+  "veredicto": "bien",
+  "motivo": "ubicación por población declarada en el informe (no cae sobre vía por diseño; sin geometría de línea en ADIF)",
+  "provincia_ok": true
  },
  {
   "id": "ES-IF_210612_260313_CIAF",
@@ -7574,23 +7951,24 @@
   "provincia": "A Coruña",
   "pk": "85.0",
   "linea": "Línea 082 Bifurcación Coto da Torre - Bifurcación A Grandeira",
-  "lat": 42.85768368,
-  "lng": -8.53312749,
-  "metodo": "via_pk",
-  "dist_via_m": 0,
-  "dist_via_geo_m": 0,
-  "dist_linea_geo_m": 0,
-  "pk_cercano": 375.4,
+  "lat": 42.87078726766731,
+  "lng": -8.544711955846234,
+  "metodo": "estacion_ign",
+  "dist_via_m": 31,
+  "dist_via_geo_m": 31,
+  "dist_linea_geo_m": 1718,
+  "pk_cercano": 378.5,
   "provincia_ine": "A Coruña",
   "coord_pkcercano": [
-   42.85768368,
-   -8.53312749
+   42.87054138,
+   -8.5445215
   ],
-  "codtramo_cercano": "068220111",
+  "codtramo_cercano": "068220125",
   "linea_declarada": "082",
-  "dist_linea_m": 0,
+  "dist_linea_m": 1738,
   "pk_linea_cercano": 85,
   "veredicto": "bien",
+  "motivo": "nodo de estación sobre la red real: a 31 m de la vía más cercana (la declarada 082 es ramal interno/truncado en ADIF — p.ej. Salou, Zaragoza-Delicias)",
   "provincia_ok": true
  },
  {

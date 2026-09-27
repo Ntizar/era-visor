@@ -13,7 +13,11 @@
   "estacion": null,
   "provincia": null,
   "pk": null,
-  "linea": "Línea 810 Vigo – Monforte de Lemos"
+  "linea": "Línea 810 Vigo – Monforte de Lemos",
+  "lat": 42.2691451,
+  "lng": -8.6696546,
+  "metodo_geo": "poblacion",
+  "fuente_geo": "Nominatim way/737251863 (residential) · Rúa da Estación, A Ponte de Abaixo, Chapela, Redondela, Vigo, Pontevedra, G"
  },
  "entidades": [
   "Adif"

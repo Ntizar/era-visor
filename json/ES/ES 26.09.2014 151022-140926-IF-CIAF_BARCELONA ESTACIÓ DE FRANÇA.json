@@ -13,7 +13,12 @@
   "estacion": "Barcelona Estació de França",
   "provincia": null,
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 41.3842421,
+  "lng": 2.1880415,
+  "metodo_geo": "poblacion",
+  "poblacion_nombre": "Barcelona-Estació de França, Passeig de Circumval·lació, la Ribera, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella,",
+  "fuente_geo": "Nominatim node/7215418555 (stop)"
  },
  "entidades": [
   "Renfe Operadora",

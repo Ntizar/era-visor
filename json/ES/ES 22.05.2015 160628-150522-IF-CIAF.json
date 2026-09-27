@@ -13,7 +13,11 @@
   "estacion": "Estación de Vicálvaro",
   "provincia": "Madrid",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 40.40420199170629,
+  "lng": -3.60895683709213,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Vicalvaro"
  },
  "entidades": [
   "Continental Rail",

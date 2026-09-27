@@ -13,7 +13,11 @@
   "estacion": "Santiago de Compostela",
   "provincia": "A Coruña",
   "pk": null,
-  "linea": "Línea 082 Bifurcación Coto da Torre - Bifurcación A Grandeira"
+  "linea": "Línea 082 Bifurcación Coto da Torre - Bifurcación A Grandeira",
+  "lat": 42.87078726766731,
+  "lng": -8.544711955846234,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Santiago de Compostela"
  },
  "entidades": [
   "Adif",

@@ -13,7 +13,12 @@
   "estacion": "Las Matas",
   "provincia": "Madrid",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 40.5520132,
+  "lng": -3.8964729,
+  "metodo_geo": "poblacion",
+  "poblacion_nombre": "Las Matas, Plaza del Ferrocarril, Las Matas, Las Rozas de Madrid, Comunidad de Madrid, 28290, España",
+  "fuente_geo": "Nominatim way/204188155 (station)"
  },
  "entidades": [
   "Renfe Mercancías",

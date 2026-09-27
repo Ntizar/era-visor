@@ -13,7 +13,11 @@
   "estacion": "antiguo apeadero de Castellgalí",
   "provincia": "Barcelona",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 41.682012806304066,
+  "lng": 1.8475975979978707,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Castellgali"
  },
  "entidades": [
   "ADIF",

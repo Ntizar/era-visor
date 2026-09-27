@@ -13,7 +13,11 @@
   "estacion": null,
   "provincia": "Asturias",
   "pk": null,
-  "linea": "Tramo Busdongo-Pajares"
+  "linea": "Tramo Busdongo-Pajares",
+  "lat": 43.1065235,
+  "lng": -5.9946368,
+  "metodo_geo": "poblacion",
+  "fuente_geo": "Nominatim node/6981965731 (locality) · Busdongo, Jomezana, Lena, Asturias, 33628, España"
  },
  "entidades": [
   "Adif"

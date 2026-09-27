@@ -13,7 +13,11 @@
   "estacion": "Apeadero de L’Énova-Manuel",
   "provincia": "Valencia",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 39.0444939,
+  "lng": -0.4808417,
+  "metodo_geo": "poblacion",
+  "fuente_geo": "Nominatim relation/348160 (administrative) · L'Énova, La Ribera Alta, Valencia, Comunidad Valenciana, España"
  },
  "entidades": [
   "Renfe Viajeros",

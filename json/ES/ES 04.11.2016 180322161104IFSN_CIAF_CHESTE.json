@@ -13,7 +13,11 @@
   "estacion": "Cheste",
   "provincia": "Valencia",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 39.49078025009008,
+  "lng": -0.6862624169011897,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apartadero de Cheste"
  },
  "entidades": [
   "Renfe Viajeros"

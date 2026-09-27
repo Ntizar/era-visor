@@ -13,7 +13,11 @@
   "estacion": "O Porriño",
   "provincia": "Pontevedra",
   "pk": null,
-  "linea": "Vigo-Guillarei"
+  "linea": "Vigo-Guillarei",
+  "lat": 42.164073121636854,
+  "lng": -8.621993752041101,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apartadero de O Porriño"
  },
  "entidades": [
   "Renfe Operadora",

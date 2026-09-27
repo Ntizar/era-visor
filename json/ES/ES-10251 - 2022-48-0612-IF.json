@@ -13,7 +13,11 @@
   "estacion": "Bifurcación Vila-seca",
   "provincia": "Tarragona",
   "pk": null,
-  "linea": "Línea 210 Miraflores - Sant Vicenç de Calders"
+  "linea": "Línea 210 Miraflores - Sant Vicenç de Calders",
+  "lat": 41.12014,
+  "lng": 1.14222,
+  "metodo_geo": "estacion_adif",
+  "fuente_geo": "OpenStreetMap node/5481489050 «Bifurcació Vila-seca»"
  },
  "entidades": [
   "FGC",

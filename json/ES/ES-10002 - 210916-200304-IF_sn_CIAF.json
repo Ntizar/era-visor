@@ -13,7 +13,11 @@
   "estacion": "Xeraco",
   "provincia": "Valencia",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 39.02619746101838,
+  "lng": -0.21478063840949507,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apartadero de Xeraco"
  },
  "entidades": [
   "ADIF"

@@ -13,7 +13,12 @@
   "estacion": "León Clasificación",
   "provincia": null,
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 42.5816322,
+  "lng": -5.5796371,
+  "metodo_geo": "poblacion",
+  "poblacion_nombre": "Cambiador de León Clasificación, Calle del Sol, Armunia, León, Castilla y León, 24190, España",
+  "fuente_geo": "Nominatim node/5781708056 (gauge_conversion)"
  },
  "entidades": [
   "ADIF",

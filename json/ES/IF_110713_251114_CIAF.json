@@ -13,7 +13,12 @@
   "estacion": "Lleida Pirineus",
   "provincia": "Lleida",
   "pk": null,
-  "linea": "Línea 200 Madrid Chamartín - Barcelona Estació de França"
+  "linea": "Línea 200 Madrid Chamartín - Barcelona Estació de França",
+  "lat": 41.6207307,
+  "lng": 0.6330353,
+  "metodo_geo": "poblacion",
+  "poblacion_nombre": "Lleida-Pirineus, Plaça de Ramon Berenguer IV, Rambla de Ferran - Estació, Lérida, Segriá, Lérida, Cataluña, 25007, Españ",
+  "fuente_geo": "Nominatim node/7487337013 (station)"
  },
  "entidades": [
   "Renfe Operadora",

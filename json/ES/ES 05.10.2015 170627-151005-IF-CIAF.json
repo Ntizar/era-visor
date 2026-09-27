@@ -13,7 +13,11 @@
   "estacion": "Tardienta",
   "provincia": "Huesca",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 41.97576600773955,
+  "lng": -0.5383460593733029,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Estación de Tardienta"
  },
  "entidades": [
   "Continental Rail",

@@ -13,7 +13,11 @@
   "estacion": "Torralba",
   "provincia": "Soria",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 41.13632218974722,
+  "lng": -2.4930053319716547,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apartadero de Torralba"
  },
  "entidades": [
   "Adif",

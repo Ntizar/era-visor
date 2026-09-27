@@ -13,7 +13,12 @@
   "estacion": "Barcelona Sants",
   "provincia": null,
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 41.3790068,
+  "lng": 2.1400042,
+  "metodo_geo": "poblacion",
+  "poblacion_nombre": "Barcelona - Sants, 1-7, Plaça dels Països Catalans, Sants, Sants-Montjuïc, Barcelona, Barcelonés, Barcelona, Cataluña, 0",
+  "fuente_geo": "Nominatim node/2158044594 (station)"
  },
  "entidades": [
   "Renfe Viajeros",

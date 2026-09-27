@@ -13,7 +13,11 @@
   "estacion": null,
   "provincia": null,
   "pk": null,
-  "linea": "Línea 100 Madrid-Hendaya"
+  "linea": "Línea 100 Madrid-Hendaya",
+  "lat": 42.9387131,
+  "lng": -2.2600594,
+  "metodo_geo": "poblacion",
+  "fuente_geo": "Nominatim node/303012999 (hamlet) · Otsaurte, Cegama, Guipúzcoa, País Vasco, 20215, España"
  },
  "entidades": [
   "Adif",

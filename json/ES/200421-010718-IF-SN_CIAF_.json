@@ -13,7 +13,12 @@
   "estacion": "Pedralba",
   "provincia": "Zamora",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 42.0245478,
+  "lng": -6.6938232,
+  "metodo_geo": "poblacion",
+  "poblacion_nombre": "Pedralba de la Pradería, Zamora, Castilla y León, 49392, España",
+  "fuente_geo": "Nominatim node/639550361 (village)"
  },
  "entidades": [
   "ADIF",

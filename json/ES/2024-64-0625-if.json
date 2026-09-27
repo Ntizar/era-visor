@@ -13,7 +13,12 @@
   "estacion": "Cuenca-Fernando Zóbel",
   "provincia": null,
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 40.0339646,
+  "lng": -2.1436891,
+  "metodo_geo": "poblacion",
+  "poblacion_nombre": "Cuenca-Fernando Zóbel, Calle Alta Velocidad, Cuenca, Castilla-La Mancha, 16003, España",
+  "fuente_geo": "Nominatim node/10592347455 (station)"
  },
  "entidades": [
   "ADIF",

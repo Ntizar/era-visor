@@ -13,7 +13,11 @@
   "estacion": null,
   "provincia": "Málaga",
   "pk": null,
-  "linea": "420 Bif. Las Maravillas - Algeciras"
+  "linea": "420 Bif. Las Maravillas - Algeciras",
+  "lat": 36.8621836,
+  "lng": -5.1787,
+  "metodo_geo": "poblacion",
+  "fuente_geo": "Nominatim relation/346647 (administrative) · Setenil de las Bodegas, Sierra de Cádiz, Cádiz, Andalucía, 11692, España"
  },
  "entidades": [],
  "resumen": "La Comisión de Investigación de Accidentes Ferroviarios aprobó como definitivo el informe particular del accidente nº 0031/2009. El suceso ocurrió el 6 de julio de 2009 en el paso a nivel entre Ronda y Setenil (Málaga), en la línea 420 Bif. Las Maravillas - Algeciras. La resolución no establece recomendaciones de seguridad.",

@@ -13,7 +13,11 @@
   "estacion": "Álora",
   "provincia": "Málaga",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 36.81981497800608,
+  "lng": -4.699654782571199,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apartadero de Álora"
  },
  "entidades": [
   "Renfe Operadora",

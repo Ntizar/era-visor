@@ -13,7 +13,12 @@
   "estacion": "Granollers Centre",
   "provincia": "Barcelona",
   "pk": null,
-  "linea": "Línea 270 Cerbère-Barcelona Sant Andreu Comtal"
+  "linea": "Línea 270 Cerbère-Barcelona Sant Andreu Comtal",
+  "lat": 41.5996549,
+  "lng": 2.291612,
+  "metodo_geo": "poblacion",
+  "poblacion_nombre": "Granollers Centre, Carrer Llevant, Sant Miquel, Granollers, Vallés Oriental, Barcelona, Cataluña, 08402, España",
+  "fuente_geo": "Nominatim node/7229212778 (station)"
  },
  "entidades": [
   "Renfe Operadora",

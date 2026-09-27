@@ -13,7 +13,11 @@
   "estacion": "Cortes de Navarra",
   "provincia": "Navarra",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 41.91482112206532,
+  "lng": -1.4202982673862043,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apartadero de Cortes de Navarra"
  },
  "entidades": [
   "Renfe Viajeros",

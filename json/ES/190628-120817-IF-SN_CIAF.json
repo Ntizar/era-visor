@@ -13,7 +13,11 @@
   "estacion": "Puebla de Sanabria",
   "provincia": "Zamora",
   "pk": null,
-  "linea": null
+  "linea": null,
+  "lat": 42.04564065348572,
+  "lng": -6.626649035521583,
+  "metodo_geo": "estacion_ign",
+  "estacion_ign": "Apartadero-cargadero de Puebla de Sanabria"
  },
  "entidades": [
   "ADIF",
