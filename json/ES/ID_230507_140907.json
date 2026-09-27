@@ -1,0 +1,83 @@
+{
+ "id": "ES-ID_230507_140907",
+ "pais": "ES",
+ "archivo_pdf": "pdfs/ES/ID_230507_140907.pdf",
+ "url_pdf": null,
+ "erail_id": "ES-237",
+ "expediente": "033/2007",
+ "titulo": "Arrollamiento mortal por locomotora en pk 30+000 de la línea Sant Vicent de Calders-L'Hospitalet de Llobregat",
+ "fecha_suceso": "2007-05-23",
+ "tipo_informe": "final",
+ "tipo_suceso": "arrollamiento",
+ "ubicacion": {
+  "estacion": null,
+  "provincia": "Barcelona",
+  "pk": "30+000",
+  "linea": "Línea Sant Vicent de Calders-L'Hospitalet de Llobregat",
+  "lat": 41.22277891451613,
+  "lng": 1.5398238548387095,
+  "metodo_geo": "via_pk"
+ },
+ "entidades": [
+  "ADIF",
+  "Renfe Operadora"
+ ],
+ "resumen": "El 23 de mayo de 2007, a las 23:52, una locomotora aislada TG552 de Renfe Operadora arrolló a una persona en el punto kilométrico 30+000 de la línea Sant Vicent de Calders-L'Hospitalet de Llobregat, en Barcelona. La víctima caminaba al margen de la vía, de noche y hablando por teléfono, e invadió el gálibo del tren. El maquinista usó el silbato y el freno de emergencia, pero no pudo evitar el arrollamiento. Se produjeron retrasos en trenes de cercanías y mercancías, sin daños materiales.",
+ "causa_directa": "Imprudencia de la persona arrollada al circular por la vía de noche, de espaldas al tren y hablando por teléfono, invadiendo el gálibo de la locomotora.",
+ "causas_sistemicas": "Ausencia de vallas en los márgenes de la vía en el punto del suceso, lo que permitía el acceso indebido a las instalaciones ferroviarias.",
+ "recomendaciones": [
+  "Estudiar la necesidad de ejecutar un vallado de la vía en la zona del arrollamiento.",
+  "Sensibilizar a la ciudadanía de los peligros que supone acceder a las instalaciones ferroviarias por puntos no autorizados."
+ ],
+ "fallecidos": 1,
+ "heridos_graves": 0,
+ "notas": null,
+ "erail": {
+  "Report Type": "Final report",
+  "Investigation Status": "Closed",
+  "Reporting Body": "Ministry of Development - Investigation Commission of Railway Accidents",
+  "Occurrence type": "Accident to persons caused by RS in motion",
+  "Occurrence description": "A person is knocked down by a locomotive when walking alongside the rail.",
+  "Location name": "At the kilometre point 30,000 between El Vendrell and L´Arboc stations. Railway from Barcelona to San Vicente Calders.(240 Barcelona - San Vicente de Calders railway line)",
+  "Railway System type": "Railway",
+  "Location type": "Line",
+  "Movement type": "Locomotive running solo",
+  "RU involved": "RENFE-Operadora",
+  "IM involved": "ADIF",
+  "Unauthorised person fatalities": 1,
+  "Total fatalities": 1,
+  "Direct cause description (including causal and contributing factors, excluding those of systemic nature)": "Victim´s carelessness"
+ },
+ "subsistema": "Infraestructura",
+ "sistema_proteccion": null,
+ "tipo_red": "Convencional",
+ "explotacion": "Nominal",
+ "circulation_type": "via_multiple",
+ "fase_ciclo_vida": null,
+ "precursores": [
+  "Acceso indebido de persona",
+  "Caminaba de espaldas al tren",
+  "Hablando por teléfono móvil",
+  "Márgenes sin vallas"
+ ],
+ "mitigaciones": [
+  "Freno de emergencia",
+  "Uso del silbato",
+  "Vallado de la vía",
+  "Sensibilización de la ciudadanía"
+ ],
+ "factores_humanos": [
+  "Imprudencia de persona arrollada",
+  "Distracción por teléfono móvil",
+  "Acceso no autorizado vía",
+  "Falta de vallado perimetral"
+ ],
+ "meteorologia": [],
+ "enriquecido_v2": true,
+ "fecha": "2007-05-23",
+ "hora": "23:52",
+ "provincia": "Barcelona",
+ "pk": "30+000",
+ "linea": "Sant Vicent de Calders-L'Hospitalet de Llobregat",
+ "tipo": "Arrollamiento"
+}

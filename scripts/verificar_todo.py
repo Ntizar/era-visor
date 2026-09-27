@@ -116,6 +116,27 @@ def comprobar_cadena():
                       + ", ".join(sorted(db_sin_json)[:5]))
     else:
         check("DB→json")("OK", f"{len(db)} registros DB con json origen")
+
+    # json → DB (el sentido que faltaba): un .md ya estructurado que no acabe en
+    # la DB es un informe PERDIDO. Así se descubrió 0013/2007 (El Carrión), que
+    # llevaba fuera desde que su JSON traía mal el número de expediente.
+    # Los stems "documentos" son fusiones legítimas (IF + RS del mismo suceso).
+    fusionados = set()
+    for r in db:
+        fusionados.update(r.get("documentos") or [])
+    fusionados -= stems_db          # solo lo aportado por OTROS (doble IF+RS)
+    estructurados = (jsons & mds_all) - ocr
+    huerfanos = estructurados - stems_db - fusionados
+    docs_roto = {d for r in db for d in (r.get("documentos") or []) if d not in jsons}
+    if docs_roto:
+        check("documentos")("AVISO", f"{len(docs_roto)} documentos enlazados en la DB cuyo json ya no existe: "
+                             + ", ".join(sorted(docs_roto)[:5]))
+    if huerfanos:
+        check("json→DB")("ERROR", f"{len(huerfanos)} json con md SIN registro en la DB (informe perdido): "
+                      + ", ".join(sorted(huerfanos)[:5]))
+    else:
+        check("json→DB")("OK", f"{len(estructurados)} json estructurados presentes en la DB "
+                          f"({len(fusionados)} dobles fusionados)")
     return db
 
 

@@ -14,9 +14,9 @@
   "provincia": "Badajoz",
   "pk": "24+420",
   "linea": "510 Aljucén - Cáceres",
-  "lat": 39.1542463,
-  "lng": -6.338543,
-  "metodo_geo": "poblacion",
+  "lat": 38.7332068,
+  "lng": -6.38794189,
+  "metodo_geo": "via_pkteorico",
   "fuente_geo": "Carmonita, Badajoz (centro urbano, Nominatim/OSM CC BY 4.0); accidente a pk 24,250-24,420 de la línea 510 Aljucén-Cáceres"
  },
  "entidades": [

@@ -15,7 +15,34 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Instalar dependencias de los gates
+        run: pip install openpyxl
+      - name: Arnés de la base de datos
+        run: python database/scripts/99_tests.py --rapido
+      - name: Verificación integral
+        run: python scripts/verificar_todo.py ES
+      - name: Sintaxis del visor
+        run: |
+          python - <<'PY'
+          import re, subprocess, tempfile, os
+          html = open('frontend/index.html', encoding='utf-8').read()
+          js = ''.join(re.findall(r'<script(?![^>]*\bsrc=)[^>]*>(.*?)</script>', html, re.S))
+          with tempfile.NamedTemporaryFile('w', suffix='.js', delete=False, encoding='utf-8') as f:
+              f.write(js); ruta = f.name
+          r = subprocess.run(['node', '--check', ruta], capture_output=True, text=True)
+          os.unlink(ruta)
+          print(r.stdout or r.stderr)
+          raise SystemExit(r.returncode)
+          PY
   deploy:
+    needs: tests
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

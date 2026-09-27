@@ -1,6 +1,6 @@
 # ERA Visor — Visor europeo de accidentes ferroviarios
 
-![Fase](https://img.shields.io/badge/Fase-Espa%C3%B1a-blue) ![Informes](https://img.shields.io/badge/Informes-349-green) ![An%C3%A1lisis%20v3](https://img.shields.io/badge/An%C3%A1lisis%20v3-349%2F349-brightgreen) ![Geoloc%20bien](https://img.shields.io/badge/Geoloc%20bien-309-orange)
+![Fase](https://img.shields.io/badge/Fase-Espa%C3%B1a-blue) ![Informes](https://img.shields.io/badge/Informes-351-green) ![An%C3%A1lisis%20v3](https://img.shields.io/badge/An%C3%A1lisis%20v3-351%2F351-brightgreen) ![Geoloc%20bien](https://img.shields.io/badge/Geoloc%20bien-315-orange)
 
 Visor y base de datos de informes de investigación de accidentes ferroviarios. Convierte los
 PDF oficiales (ERA/eRAIL + organismos nacionales como el CIAF) en una **base de datos plana,
@@ -33,15 +33,32 @@ Hecho con ❤️ por David Antizar
 
 | Métrica | Valor |
 |---|---|
-| Informes en la DB | **349** (2006-2025, CIAF + ERA) |
-| Con análisis v3 completo | **349/349** |
-| Localización auditada | **314 bien · 0 duda · 0 mal · 35 sin coords** |
-| Veredicto geo por método | `via_pk` 213 · `via_pkteorico` 78 · `estacion_*`/`poblacion` + · `sin_geo` 41 |
-| `VERSION_DATOS` | `2026-09-08-2` (bump en cada despliegue de datos) |
+| Informes en la DB | **351** (2006-2025, CIAF + ERA) |
+| Con análisis v3 completo | **351/351** |
+| Localización auditada | **315 bien · 0 duda · 0 mal · 36 sin coords** |
+| Veredicto geo por método | `via_pk` 209 · `via_pkteorico` 75 · `estacion_ign` 28 · `estacion_adif` 2 · `poblacion` 1 · `sin_geo` 36 |
+| Recomendaciones estructuradas | **939** (destinatario/implementador/texto/página en celdas separadas) |
+| `VERSION_DATOS` | `2026-09-27-1` (bump en cada despliegue de datos) |
 
-**Residuos conocidos:** 35 sin coords (informes sin PK ni estación en el PDF — no se inventa),
-1 pendiente de OCR (`ID_230507_140907`), 1 "mal" que es un patio de clasificación
-(`0061/2014`, Tarragona Clasificación — distancia inherente del recinto).
+**Residuos conocidos:** 36 sin coords (informes sin PK ni estación en el PDF — no se inventa).
+El informe escaneado `ID_230507_140907` ya está OCRado y estructurado como `0033/2007`;
+la localización geográfica se dejó como `sin_coords` porque la fuente pública no da estación.
+
+## Entregables
+
+Se generan con `database/scripts/08_entregables.py`, que parte de la normalización de
+`database/scripts/07_normalizar.py` (contrato en `database/SPEC-NORMALIZACION.md`):
+
+| Ruta | Qué es |
+|---|---|
+| `entregables/01-md-puros/` | Los 372 informes en Markdown, tal cual salen del PDF (14 MB) |
+| `entregables/02-excel-crudo/` | `ciaf_desde_md_puros.xlsx` — Excel reconstruido desde los md, sin tocar |
+| `entregables/03-excel-normalizado/` | `ciaf_normalizado.xlsx` — claves `NNNN/AAAA`, años a 4 cifras, taxonomía única de `tipo_suceso`, `categoria_suceso` y recomendaciones en celdas separadas |
+| `entregables/base_ciaf.json` | Base única: 351 informes + 939 recomendaciones |
+
+**Verificación de la normalización (salida real):** 41.319 claves/expedientes comprobados ·
+**0** mal formateados · **0** años sin 4 cifras · **0** `tipo_suceso` fuera de la taxonomía ·
+**0** títulos canceléricos · **939** recomendaciones con tipo (0 sin clasificar).
 
 ## Estructura del proyecto
 
@@ -183,8 +200,10 @@ de MBs y "sigue saliendo mal" aunque el servidor ya esté bien.
 
 ## Hoja de ruta
 
-- **Fase 1 (actual): España al 100%.** Queda: OCR del informe pendiente, decisión sobre los
-  4 dudosos, y validar los 35 sin coords contra la fuente.
+- **Fase 4A (actual): España al 100% y normalizada.** OCR resuelto, claves `NNNN/AAAA`,
+  años a 4 cifras, taxonomía única de `tipo_suceso` y recomendaciones en celdas separadas
+  (ver `database/SPEC-NORMALIZACION.md`). Queda: los 36 sin coords (no se inventan) y la
+  decisión sobre los dudosos.
 - **Fase 2: Alemania** (452 PDFs detectados), Francia, Italia, Polonia.
 - **Traducción** de los informes al castellano en el pipeline (`titulo_normalizado` +
   `idioma_original`), no solo campos cortos.

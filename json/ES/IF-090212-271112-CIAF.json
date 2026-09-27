@@ -14,9 +14,9 @@
   "provincia": "Barcelona",
   "pk": "28+158",
   "linea": "276 Maçanet-Massanes a Bifurcación Sagrera",
-  "lat": 41.5358357,
-  "lng": 2.4442839,
-  "metodo_geo": "estacion_adif",
+  "lat": 41.57750209,
+  "lng": 2.54946552,
+  "metodo_geo": "via_pkteorico",
   "fuente_geo": "OSM node/4683201319 'estación de Mataró' (OpenData ADIF, CC BY 4.0)"
  },
  "entidades": [

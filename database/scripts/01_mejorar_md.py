@@ -229,14 +229,30 @@ def procesar(pdf: Path, url_oficial: str) -> dict:
         total_chars += len(t.strip())
         paginas_txt.append(t)
     escaneado = total_chars < UMBRAL_OCR * max(1, n_pag // 10)
+    # PDF escaneado sin capa de texto: si md/ES/ YA trae texto (OCR hecho por
+    # scripts/ocr_pendiente.py), ese texto ES la fuente — un escaneado no
+    # vuelve a quedar "[Pendiente de OCR]" mientras exista su md.
+    texto_ocr = ""
+    if escaneado:
+        orig_ocr = MD_ORIG / (pdf.stem + ".md")
+        if orig_ocr.exists():
+            _bruto = orig_ocr.read_text(encoding="utf-8", errors="replace")
+            _cuerpo = re.sub(r"^---\n.*?\n---\n", "", _bruto, flags=re.S)
+            if len(_cuerpo.strip()) > 500:
+                texto_ocr = _cuerpo.strip()
+                total_chars = len(texto_ocr)
 
     tablas_tot = tablas_utiles = 0
     idx_quitadas = 0
     partes: list[str] = []
 
     if escaneado:
-        cuerpo = "[Pendiente de OCR — PDF sin capa de texto]"
-        cuerpo_sin_idx, idx_quitadas = cuerpo, 0
+        if texto_ocr:
+            cuerpo = "\n\n## Página 1\n\n" + texto_ocr
+            cuerpo_sin_idx, idx_quitadas = cuerpo, 0
+        else:
+            cuerpo = "[Pendiente de OCR — PDF sin capa de texto]"
+            cuerpo_sin_idx, idx_quitadas = cuerpo, 0
     else:
         for i, page in enumerate(doc):
             txt, nq = quitar_indice(paginas_txt[i])

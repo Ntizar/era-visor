@@ -2721,6 +2721,31 @@
   "provincia_ok": true
  },
  {
+  "id": "ES-ID-270207-200607-DGF_El Carrión",
+  "titulo": "Arrollamiento de dos personas por tren en el apeadero de El Carrión (Palencia)",
+  "provincia": "Palencia",
+  "pk": "310,550",
+  "linea": "Línea 160 Santander-Palencia",
+  "lat": 42.0814446909,
+  "lng": -4.5308446827,
+  "metodo": "via_pk",
+  "dist_via_m": 448,
+  "dist_via_geo_m": 0,
+  "dist_linea_geo_m": 0,
+  "pk_cercano": 305.3,
+  "provincia_ine": "Palencia",
+  "coord_pkcercano": [
+   42.07886376,
+   -4.53500765
+  ],
+  "codtramo_cercano": "061600010",
+  "linea_declarada": "160",
+  "dist_linea_m": 448,
+  "pk_linea_cercano": 305.3,
+  "veredicto": "bien",
+  "provincia_ok": true
+ },
+ {
   "id": "ES-ID-271106-020307",
   "titulo": "Informe definitivo sobre la investigación del accidente ferroviario nº 0051/2006 ocurrido ",
   "provincia": "Madrid",
@@ -3241,6 +3266,17 @@
   "pk_linea_cercano": 657.3,
   "veredicto": "bien",
   "provincia_ok": true
+ },
+ {
+  "id": "ES-ID_230507_140907",
+  "titulo": "Arrollamiento mortal por locomotora en pk 30+000 de la línea Sant Vicent de Calders-L'Hosp",
+  "provincia": "Barcelona",
+  "pk": "30+000",
+  "linea": "Línea Sant Vicent de Calders-L'Hospitalet de Llobregat",
+  "lat": null,
+  "lng": null,
+  "metodo": null,
+  "veredicto": "sin_coords"
  },
  {
   "id": "ES-ID_230707_300108",

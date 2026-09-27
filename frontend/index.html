@@ -291,6 +291,26 @@
     
 .detail-tags{display:flex;flex-wrap:wrap;gap:6px}
 .detail-tag{display:inline-block;padding:3px 10px;border:1px solid var(--border);border-radius:999px;font-size:12px;color:var(--muted-foreground);background:var(--card)}
+
+/* ---- tabla ampliada (14 columnas) ---- */
+.tabla-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.reports-table th,.reports-table td{white-space:nowrap}
+.reports-table td:nth-child(3){white-space:normal;min-width:15rem}
+.geo-ok{color:#16a34a;font-weight:700}
+.badge-rec{display:inline-block;min-width:1.6rem;padding:2px 6px;border-radius:999px;background:#eff6ff;color:#2563eb;font-size:.72rem;font-weight:700;text-align:center}
+/* recomendaciones en tabla dentro de la ficha */
+.rec-table{width:100%;border-collapse:collapse;font-size:.8rem}
+.rec-table th,.rec-table td{border-bottom:1px solid var(--borde);padding:.5rem .4rem;text-align:left;vertical-align:top;white-space:normal}
+.rec-table th{background:#f8fafc;font-weight:600;color:var(--muted-foreground)}
+@media (max-width:768px){
+    /* móvil: la tabla se queda con lo esencial y el resto vive en la ficha */
+    .reports-table th:nth-child(5),.reports-table td:nth-child(5),
+    .reports-table th:nth-child(7),.reports-table td:nth-child(7),
+    .reports-table th:nth-child(8),.reports-table td:nth-child(8),
+    .reports-table th:nth-child(11),.reports-table td:nth-child(11){display:none}
+    .reports-table th,.reports-table td{padding:.55rem .45rem;font-size:.82rem}
+    .kpi-row{grid-template-columns:repeat(auto-fit,minmax(9.5rem,1fr))}
+}
 </style>
 </head>
 <body>
@@ -416,6 +436,18 @@
                         <div class="value" id="kpiRecomendaciones">-</div>
                         <div class="label">Recomendaciones</div>
                     </div>
+                    <div class="kpi-card rojo">
+                        <div class="value" id="kpiMortal">-</div>
+                        <div class="label">Informes con fallecidos</div>
+                    </div>
+                    <div class="kpi-card azul">
+                        <div class="value" id="kpiProv">-</div>
+                        <div class="label">Provincias</div>
+                    </div>
+                    <div class="kpi-card azul">
+                        <div class="value" id="kpiGeoPct">-</div>
+                        <div class="label">Geolocalizado</div>
+                    </div>
                 </div>
                 <div class="chart-row">
                     <div class="chart-card">
@@ -530,18 +562,27 @@
                     <span class="result-count" id="resultCount"></span>
                     <button class="btn-excel" onclick="exportarExcel()">⬇ Exportar Excel (selección actual)</button>
                 </div>
+                <div class="tabla-scroll">
                 <table class="reports-table" id="tablaInformes">
                     <thead><tr>
+                        <th data-k="clave">Clave</th>
                         <th data-k="fecha">Fecha</th>
-                        <th data-k="pais">País</th>
-                        <th data-k="titulo">Título</th>
+                        <th data-k="titulo">Informe</th>
                         <th data-k="tipo">Tipo</th>
+                        <th data-k="provincia">Provincia</th>
+                        <th data-k="estacion">Estación</th>
+                        <th data-k="linea">Línea</th>
+                        <th data-k="pk">PK</th>
                         <th data-k="fallecidos">Fallecidos</th>
-                        <th data-k="heridos_graves">Heridos graves</th>
+                        <th data-k="heridos_graves">Her. graves</th>
+                        <th data-k="heridos_leves">Her. leves</th>
+                        <th data-k="n_recomendaciones">Recom.</th>
+                        <th>Geo</th>
                         <th>Informe</th>
                     </tr></thead>
                     <tbody></tbody>
                 </table>
+                </div>
             </div>
         </div>
     </main>
@@ -567,7 +608,7 @@
 
 <script>
 /* bump para refrescar cache de la DB en cada despliegue */
-const VERSION_DATOS = "2026-09-08-4";
+const VERSION_DATOS = "2026-09-27-1";
 const TIPOS_ES = {
     "descarrilamiento": "Descarrilamiento", "arrollamiento": "Arrollamiento", "colision": "Colisión",
     "paso_a_nivel": "Paso a nivel", "incendio": "Incendio", "fallos_senal": "Fallo de señalización", "otro": "Otro"
@@ -754,7 +795,15 @@ function pintaDashboard() {
     document.getElementById('kpiHeridosLeves').textContent = herL;
     document.getElementById('kpiVic').textContent = conVic;
     document.getElementById('kpiLocaliz').textContent = nLocal + '/' + VISTA.length;
-    document.getElementById('kpiRecomendaciones').textContent = VISTA.reduce((a, r) => a + ((r.v3 && r.v3.recomendaciones && r.v3.recomendaciones.length) || 0), 0);
+    document.getElementById('kpiRecomendaciones').textContent = VISTA.reduce((a, r) => a + (r.n_recomendaciones || 0), 0);
+    document.getElementById('kpiMortal').textContent = VISTA.filter(r => (r.fallecidos || 0) > 0).length;
+    document.getElementById('kpiProv').textContent = new Set(VISTA.map(r => r.provincia).filter(Boolean)).size;
+    document.getElementById('kpiGeoPct').textContent = VISTA.length ? Math.round(nLocal / VISTA.length * 100) + '%' : '—';
+
+    // Los gráficos solo se repintan con la pestaña Dashboard abierta: al
+    // abrirlos (cargarDashboard) y luego con cada filtrado. Así el arranque
+    // no paga el coste de 15 gráficos que nadie está mirando.
+    if (!document.getElementById('tab-dashboard').classList.contains('active')) return;
 
     // sucesos por año + regresión lineal
     const porAnio = {};
@@ -910,7 +959,7 @@ function contaCausas() {
     const c = {};
     const add = t => { for (const [b, re] of CAUSA_BUCKETS) { if (re.test(t)) { c[b] = (c[b] || 0) + 1; return; } } c['Otras'] = (c['Otras'] || 0) + 1; };
     for (const r of VISTA) {
-        const cu = (r.v3 || {}).causas || {};
+        const cu = r.causas || (r.v3 || {}).causas || {};
         if (cu.directa) add(cu.directa);
         for (const x of (cu.contribuyentes || [])) add(x);
         for (const x of (cu.sistemicas || [])) add(x);
@@ -939,7 +988,7 @@ function contaFactores() {
 function contaVelocidad() {
     const bins = { '<60 km/h': 0, '60-100': 0, '100-140': 0, '140-200': 0, '200+ km/h': 0 };
     for (const r of VISTA) {
-        const vm = ((r.v3 || {}).infraestructura && (r.v3.infraestructura.velocidad_maxima || '')) || '';
+        const vm = r.velocidad_maxima || ((r.v3 || {}).infraestructura && (r.v3.infraestructura.velocidad_maxima || '')) || '';
         // primer número 1-3 dígitos (el campo del LLM a veces trae basura concadenada)
         const m = /(\d{1,3})\s*(?:km\/h|km|km\/hora)?/i.exec(vm);
         const n = m ? +m[1] : NaN;
@@ -1017,28 +1066,54 @@ function pintaTabla() {
             : '<span class="badge badge-sin">0</span>';
         const geoMal = r.geo_veredicto === 'mal' ? '<span class="geo-warn" title="' + (r.geo_motivo || 'mal geolocalizado') + '">⚠ ubicación</span>'
             : r.geo_veredicto === 'duda' ? '<span class="geo-warn duda" title="' + (r.geo_motivo || 'ubicación dudosa') + '">? ubicación</span>' : '';
-        tr.innerHTML = `<td>${r.fecha || '—'}</td><td>${r.pais}</td><td>${tituloIF(r)}${geoMal}</td>
+        const geo = r.geo_veredicto === 'mal' ? `<span class="geo-warn" title="${r.geo_motivo || 'mal geolocalizado'} (${r.metodo_geo || ''})">✕</span>`
+            : r.geo_veredicto === 'duda' ? `<span class="geo-warn duda" title="${r.geo_motivo || 'ubicación dudosa'}">?</span>`
+            : (r.lat && r.lng) ? `<span class="geo-ok" title="${r.metodo_geo || 'verificado contra la red ADIF'}">✓</span>` : '<span title="sin coordenadas">—</span>';
+        const rec = r.n_recomendaciones > 0 ? `<span class="badge badge-rec">${r.n_recomendaciones}</span>` : '<span style="color:var(--texto-suave)">—</span>';
+        tr.innerHTML = `<td>${r.clave || '—'}</td>
+            <td>${r.fecha || '—'}</td>
+            <td>${tituloIF(r)}${geoMal}</td>
             <td>${CATEGORIAS[categoriaDe(r.tipo)]}</td>
+            <td>${r.provincia || '—'}</td>
+            <td>${r.estacion || r.ubicacion_nombre || '—'}</td>
+            <td>${r.linea || '—'}</td>
+            <td>${r.pk ? 'PK ' + r.pk : '—'}</td>
             <td style="text-align:center">${sev}</td>
             <td style="text-align:center">${r.heridos_graves || 0}</td>
+            <td style="text-align:center">${r.heridos_leves || 0}</td>
+            <td style="text-align:center">${rec}</td>
+            <td style="text-align:center">${geo}</td>
             <td>${r.url_pdf ? '<a href="' + r.url_pdf + '" target="_blank" onclick="event.stopPropagation()">PDF ↗</a>' : ''}</td>`;
         tb.appendChild(tr);
     }
 }
 
 /* ===== DETALLE ===== */
+const cacheDetalle = new Map();
+
 async function verDetalle(id) {
     const r = TODO.find(x => x.id === id);
     if (!r) return;
-    // el JSON completo vive en data/db/reports/ES.json (cargado al inicio) o en json/
-    let full = r;
-    try {
-        const resp = await fetch(`../data/db/reports/${r.pais}.json?v=` + VERSION_DATOS);
-        if (resp.ok) {
-            const regs = await resp.json();
-            full = regs.find(x => x.id === id) || r;
-        }
-    } catch (e) {}
+    // 3ª petición: el registro completo, SOLO cuando se abre su ficha.
+    let full = cacheDetalle.get(id) || r;
+    if (!cacheDetalle.has(id)) {
+        // se abre ya con lo que trae el índice y el resto se rellena
+        pintarFicha(full, r);
+        try {
+            const resp = await fetch(`../data/db/detalle/${encodeURIComponent(id)}.json?v=` + VERSION_DATOS);
+            if (resp.ok) {
+                full = await resp.json();
+                cacheDetalle.set(id, full);
+                pintarFicha(full, r);
+            }
+        } catch (e) { /* se queda con el índice */ }
+    } else {
+        pintarFicha(full, r);
+    }
+}
+
+function pintarFicha(full, r) {
+    r = r || full;
     const er = full.erail || {};
     document.getElementById('dpTitulo').textContent = tituloIF(full.titulo ? {...full, titulo: full.titulo} : r);
     document.getElementById('dpSubtitulo').textContent = full.titulo || r.titulo || '';
@@ -1048,12 +1123,33 @@ async function verDetalle(id) {
     const erCausa = er['Direct cause description (including causal and contributing factors, excluding those of systemic nature)'];
     const erSistem = er['Underlying and root causes description (i.e. systemic factors, if any)'];
     const tags = (full.tags || []).map(t => `<span class="detail-tag">${t}</span>`).join('');
-    const trenes = (full.trenes || []).map(t =>
+    const v3t = (full.v3 || {}).trenes || [];
+    const listaTrenes = (full.trenes && full.trenes.length) ? full.trenes : v3t;
+    const trenes = listaTrenes.map(t =>
         `<div class="di-value">🚆 ${t.tipo || 'Tren'} ${t.numero || ''}${t.operador ? ' — ' + t.operador : ''}</div>`).join('');
+    const recs = (full.recomendaciones && full.recomendaciones.length)
+        ? full.recomendaciones : ((full.v3 || {}).recomendaciones || []);
+    const recHtml = recs.length ? `<table class="rec-table"><thead><tr><th>Nº</th><th>Destinatario</th><th>Implementador</th><th>Recomendación</th><th>Pág.</th></tr></thead><tbody>${
+        recs.map((x, i) => typeof x === 'string'
+            ? `<tr><td>${i + 1}</td><td colspan="3">${x}</td><td>—</td></tr>`
+            : `<tr><td>${x.numero ?? (i + 1)}</td><td>${x.destinatario || '—'}</td><td>${x.implementador || '—'}</td><td>${x.texto || x.recomendacion || ''}</td><td>${x.pagina || '—'}</td></tr>`).join('')
+    }</tbody></table>` : '';
+    const chips = arr => (arr && arr.length) ? `<div class="detail-tags">${arr.map(a => `<span class="detail-tag">${typeof a === 'string' ? a : (a.texto || a.evento || JSON.stringify(a))}</span>`).join('')}</div>` : '';
+    const pretty = k => String(k).replace(/_/g, ' ').replace(/^\w/, c => c.toUpperCase());
+    const precursores = full.precursores || [];
+    const factores = full.factores_humanos || [];
+    const mitig = full.mitigaciones || [];
+    const meteo = full.meteorologia || [];
+    const matRod = (full.v3 || {}).material_rodante || full.material_rodante || null;
+    const consRaw = (full.v3 || {}).consecuencias || null;
+    const consH = !consRaw ? '' : (typeof consRaw === 'string' ? `<div class="detail-resumen">${consRaw}</div>`
+        : Array.isArray(consRaw) ? `<ul class="detail-list">${consRaw.map(c => `<li>${c}</li>`).join('')}</ul>`
+        : `<div class="detail-info-grid">${Object.entries(consRaw).filter(([, v]) => v && typeof v !== 'object').map(([k, v]) => info(pretty(k), v)).join('')}</div>`);
     document.getElementById('dpBody').innerHTML = `
         ${full.geo_veredicto === 'mal' || full.geo_veredicto === 'duda' ? `<div class="geo-aviso ${full.geo_veredicto === 'mal' ? 'mal' : ''}"><span>${full.geo_veredicto === 'mal' ? '⚠' : '?'}</span><span><b>Ubicación ${full.geo_veredicto === 'mal' ? 'no verificada' : 'dudosa'}.</b> ${full.geo_motivo || ('La coordenada marcada está a ' + (full.geo_dist_m || '?') + ' m de la vía ADIF más cercana.')} Puede que el punto en el mapa no refleje el lugar real del suceso.</span></div>` : ''}
         ${full.resumen ? seccion('Resumen', `<div class="detail-resumen">${full.resumen}</div>`) : ''}
         <div class="detail-section"><h3>Datos del suceso</h3><div class="detail-info-grid">
+            ${info('Clave', full.clave || (full.expediente ? 'IF ' + full.expediente : ''))}
             ${info('Tipo', CATEGORIAS[categoriaDe(full.tipo)] + (SUBTIPO_ES[full.tipo] && SUBTIPO_ES[full.tipo] !== CATEGORIAS[categoriaDe(full.tipo)] ? ' — ' + SUBTIPO_ES[full.tipo] : ''))}
             ${info('Fecha', full.fecha || full.fecha_suceso)}
             ${info('Hora', full.hora)}
@@ -1062,8 +1158,19 @@ async function verDetalle(id) {
             ${info('Gravedad', full.gravedad)}
             ${info('Fallecidos', full.fallecidos || 0)}
             ${info('Heridos graves', full.heridos_graves || 0)}
+            ${info('Heridos leves', full.heridos_leves || 0)}
             ${full.danos_materiales != null ? info('Daños materiales', full.danos_materiales ? 'Sí' : 'No') : ''}
             ${info('Expediente', full.expediente)}
+            ${info('Tipo de informe', full.tipo_informe)}
+            ${info('Documentos', full.n_documentos > 1 ? full.n_documentos + ' (principal + complementario)' : '1')}
+            ${info('Subsistema', full.subsistema)}
+            ${info('Sistema de protección', full.sistema_proteccion)}
+            ${info('Tipo de red', full.tipo_red)}
+            ${info('Explotación', full.explotacion)}
+            ${info('Entidades', (full.entidades || []).join(' · '))}
+            ${info('Coordenadas', full.lat && full.lng ? `${(+full.lat).toFixed(5)}, ${(+full.lng).toFixed(5)}` : '')}
+            ${info('Método geográfico', full.metodo_geo)}
+            ${info('Verificación geo', full.geo_veredicto === 'bien' ? 'Verificado contra la red ADIF' : (full.geo_veredicto === 'sin_coords' ? 'Sin coordenadas' : full.geo_veredicto))}
             ${info('ID eRAIL', full.erail_id)}
         </div></div>
         ${trenes ? seccion('Trenes implicados', trenes) : ''}
@@ -1094,11 +1201,18 @@ async function verDetalle(id) {
             const climaHtml = clima ? seccion('Condiciones meteorológicas', `<div class="detail-resumen">${clima}</div>`) : '';
             return cronHtml + infHtml + perHtml + climaHtml + leccHtml;
         })()}
-        ${(full.entidades && full.entidades.length) ? seccion('Entidades implicadas', `<div class="detail-tags">${full.entidades.map(e => `<span class="detail-tag">${e}</span>`).join('')}</div>`) : ''}
-        ${(full.recomendaciones && full.recomendaciones.length) ? seccion('Recomendaciones de seguridad', `<ul class="detail-list recommendations">${full.recomendaciones.map(x => `<li>${typeof x === 'string' ? x : (x.texto || JSON.stringify(x))}</li>`).join('')}</ul>`) : ''}
+        ${chips(precursores) ? seccion('Precursores', chips(precursores)) : ''}
+        ${chips(factores) ? seccion('Factores humanos', chips(factores)) : ''}
+        ${chips(mitig) ? seccion('Mitigaciones', chips(mitig)) : ''}
+        ${chips(meteo) ? seccion('Meteorología', chips(meteo)) : ''}
+        ${recs.length ? seccion(`Recomendaciones de seguridad (${recs.length})`, recHtml) : ''}
+        ${matRod ? seccion('Material rodante', `<div class="detail-info-grid">${
+            Object.entries(matRod).filter(([, v]) => v && typeof v !== 'object').map(([k, v]) => info(pretty(k), v)).join('')}</div>`) : ''}
+        ${consH ? seccion('Consecuencias', consH) : ''}
         ${tags ? seccion('Conceptos', `<div class="detail-tags">${tags}</div>`) : ''}
         <div class="detail-section">
             ${full.url_pdf || r.url_pdf ? `<a class="detail-link-btn" href="${full.url_pdf || r.url_pdf}" target="_blank">📄 Informe original (PDF)</a>` : '<span class="detail-empty">Sin PDF vinculado</span>'}
+            ${full.clave ? `<div class="detail-id" style="margin-top:.5rem">${full.clave} · ${full.id}${full.fecha_consulta ? ' · consulta ' + full.fecha_consulta : ''}</div>` : `<div class="detail-id" style="margin-top:.5rem">${full.id}</div>`}
         </div>`;
     document.getElementById('detailOverlay').style.display = 'block';
     document.getElementById('detailPanel').style.display = 'block';
@@ -1146,16 +1260,38 @@ function resetFilters() {
     aplicaFiltros();
 }
 
-/* ===== CARGA ===== */
-async function cargar() {
-    const idx = await (await fetch('../data/db/index.json?v=' + VERSION_DATOS)).json();
-    const paises = [...new Set(idx.map(r => r.pais))];
-    for (const p of paises) {
-        try {
-            const d = await (await fetch(`../data/db/reports/${p}.json?v=` + VERSION_DATOS)).json();
-            TODO = TODO.concat(d);
-        } catch (e) {}
+/* ===== CARGA =====
+   Tres tiempos: (1) SOLO index.json → tabla+mapa+KPIs al instante;
+   (2) dashboard.json la primera vez que se abre esa pestaña (campos de
+   gráficos que no estorban en la carga inicial);
+   (3) data/db/detalle/<id>.json al abrir cada ficha. Se acabaron los 4,4 MB
+   de reports/ES.json en cada arranque. */
+let DASH = null, dashPend = null;
+
+async function cargarDashboard() {
+    if (DASH) return true;
+    if (!dashPend) {
+        dashPend = fetch('../data/db/dashboard.json?v=' + VERSION_DATOS)
+            .then(r => (r.ok ? r.json() : null)).catch(() => null);
     }
+    const d = await dashPend;
+    if (!d || !Object.keys(d).length) return false;
+    DASH = d;
+    for (const r of TODO) if (DASH[r.id]) Object.assign(r, DASH[r.id]);
+    return true;
+}
+
+async function cargar() {
+    let idx = [];
+    try {
+        idx = await (await fetch('../data/db/index.json?v=' + VERSION_DATOS)).json();
+    } catch (e) {
+        const ov = document.getElementById('loadingOverlay');
+        ov.innerHTML = '<div style="text-align:center"><p>No se pudo cargar la base de datos.</p><button class="btn-excel" onclick="location.reload()">Reintentar</button></div>';
+        return;
+    }
+    TODO = Array.isArray(idx) ? idx : [];
+    const paises = [...new Set(TODO.map(r => r.pais))];
     // filtros
     const selP = document.getElementById('filterPais');
     for (const p of paises) selP.insertAdjacentHTML('beforeend', `<option>${p}</option>`);
@@ -1216,6 +1352,10 @@ document.querySelectorAll('.tabs-bar .tab').forEach(tab => tab.onclick = () => {
     tab.classList.add('active');
     document.getElementById('tab-' + tab.dataset.tab).classList.add('active');
     if (tab.dataset.tab === 'mapa') setTimeout(() => mapa.invalidateSize(), 50);
+    if (tab.dataset.tab === 'dashboard') {
+        // 2ª petición: solo si el usuario entra en esta pestaña
+        cargarDashboard().then(() => pintaDashboard());
+    }
 });
 
 initMapa();

@@ -14,9 +14,9 @@
   "provincia": "Alicante",
   "pk": "435,900",
   "linea": "336 El Reguerón a Alacant Terminal",
-  "lat": 38.2721481,
-  "lng": -0.6950608,
-  "metodo_geo": "estacion_ign",
+  "lat": 38.40604604,
+  "lng": -0.6480192,
+  "metodo_geo": "via_pkteorico",
   "estacion_ign": "Estación de Sabadell Parc del Nord",
   "fuente_geo": "Estación de Elx-Parc (IGN 38.27215,-0.69506); PK 435,900 línea 336 'El Reguerón a Alacant Terminal' (no 657,718 del desvío a la 700)"
  },

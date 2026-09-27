@@ -14,9 +14,9 @@
   "provincia": "Tarragona",
   "pk": "PK 0+571",
   "linea": "Línea 622 Aguja Clasif. PK 272,0 a Tarragona Clasificación",
-  "lat": 41.11105,
-  "lng": 1.22475,
-  "metodo_geo": "estacion_ign",
+  "lat": 41.11130219,
+  "lng": 1.25341095,
+  "metodo_geo": "via_pkteorico",
   "fuente_geo": "Tarragona-Mercaderies (IGN 41.11105,1.22475, ~380 m de la línea 210); patio de clasificación, vía EV pk 0+571"
  },
  "entidades": [

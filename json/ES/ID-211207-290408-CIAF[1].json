@@ -14,9 +14,9 @@
   "provincia": "Tarragona",
   "pk": "263,600",
   "linea": "600 Valencia-San Vicente Calders",
-  "lat": 41.08846,
-  "lng": 1.14599,
-  "metodo_geo": "estacion_ign",
+  "lat": 41.14069575,
+  "lng": 1.169706,
+  "metodo_geo": "via_pkteorico",
   "fuente_geo": "Salou-Port Aventura (IGN 'Apartadero de Port Aventura' 41.08846,1.14599; a 0,01 km de la red); línea 600 truncada en ADIF en pk 254"
  },
  "entidades": [

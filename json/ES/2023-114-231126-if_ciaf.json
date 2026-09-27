@@ -34,7 +34,7 @@
  "heridos_leves": 14,
  "danos_materiales": true,
  "gravedad": "grave",
- "hora": "23:59",
+ "hora": "14:24",
  "subsistema": "Infraestructura",
  "sistema_proteccion": null,
  "tipo_red": "Convencional",
@@ -60,5 +60,9 @@
   "Diseño del aparato de vía"
  ],
  "meteorologia": [],
- "enriquecido_v2": true
+ "enriquecido_v2": true,
+ "fecha": "2023-11-26",
+ "provincia": "Madrid",
+ "estacion": "Atocha-Cercanías",
+ "tipo": "Descarrilamiento"
 }

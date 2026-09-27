@@ -14,3 +14,7 @@ __pycache__/
 
 # cache del scraping (reproducible con --refrescar)
 database/data/cache_web/
+
+# entregables: se regeneran con database/scripts/08_entregables.py
+# (los Excel ya están cubiertos por *.xlsx; aquí se evita duplicar los 372 md)
+entregables/
