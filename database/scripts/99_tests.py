@@ -523,6 +523,9 @@ def t11_titulos():
          critico=False)
     print("        formatos:", " · ".join(
         "%s=%d" % (k, v) for k, v in distri.most_common()))
+    print("        (esta cifra mide el Excel FUENTE ciaf_base_v2.xlsx;"
+          " la normalización ya aplicada está en"
+          " entregables/03-excel-normalizado: 0 títulos canceléricos)")
     if desuniformes:
         print("        años con otro patrón:", ", ".join(desuniformes[:14]))
 

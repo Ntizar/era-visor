@@ -1,6 +1,6 @@
 # Informe de verificación — ES
 
-> `scripts/verificar_todo.py` · 2026-09-27 11:48 · **APTO** · 2 avisos · 15 checks OK
+> `scripts/verificar_todo.py` · 2026-09-27 12:03 · **APTO** · 2 avisos · 15 checks OK
 
 ## 1. Integridad de la cadena PDF ↔ md ↔ json ↔ DB
 

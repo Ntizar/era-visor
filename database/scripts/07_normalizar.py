@@ -437,6 +437,15 @@ def main() -> int:
     it_clave = hr.index("clave")
     recs_por_clave = defaultdict(list)
     n_rec_cruzadas = 0
+    # El Excel trae la misma recomendación citada en dos páginas distintas
+    # (p. ej. anexo pág. 7 y tabla pág. 70): para filtrar por tipo debe
+    # contar UNA vez, así que se fusiona y se guardan las dos páginas.
+    vistas = {}                 # (clave, número) → celda de la página
+    filas_borrar = []
+    n_fusionadas = 0
+    i_pag = hr.index("pagina")
+    i_num = hr.index("numero")
+    i_txt = hr.index("texto")
     for fila in wr.iter_rows(min_row=2, max_col=len(hr)):
         fila[iex2].value = normalizar_expediente(fila[iex2].value)
         clave = fila[it_clave].value
@@ -444,19 +453,38 @@ def main() -> int:
         wsx = wr
         wsx.cell(row=fila[0].row, column=it_tipo + 1).value = d.get("tipo_suceso", "")
         wsx.cell(row=fila[0].row, column=it_cat + 1).value = d.get("categoria_suceso", "")
+        numero = fila[i_num].value
+        texto = fila[i_txt].value
+        # la llave es el TEXTO (normalizado): el número de la tabla viene
+        # escrito de dos formas («38/17 - 1» y «38/2017 - 1») y no sirve
+        txt_norm = re.sub(r"\s+", " ", str(texto or "")).strip().lower()[:120]
+        llave = (str(clave), txt_norm) if txt_norm else (str(clave), str(numero))
+        if llave in vistas:
+            celda_pag = vistas[llave]
+            p0 = str(celda_pag.value or "").strip()
+            p1 = str(fila[i_pag].value or "").strip()
+            if p1 and p1 not in p0.split(";"):
+                celda_pag.value = f"{p0};{p1}" if p0 else p1
+            filas_borrar.append(fila[0].row)
+            n_fusionadas += 1
+            continue
+        vistas[llave] = fila[i_pag]
         if d:
             n_rec_cruzadas += 1
         recs_por_clave[clave].append({
-            "numero": fila[hr.index("numero")].value,
+            "numero": numero,
             "destinatario": fila[hr.index("destinatario")].value,
             "implementador": fila[hr.index("implementador")].value,
-            "texto": fila[hr.index("texto")].value,
-            "pagina": fila[hr.index("pagina")].value,
+            "texto": texto,
+            "pagina": fila[i_pag].value,
             "tipo_suceso": d.get("tipo_suceso", ""),
             "categoria_suceso": d.get("categoria_suceso", ""),
         })
-    print(f"[07] recomendaciones: {sum(len(v) for v in recs_por_clave.values())} "
-          f"cruzadas por tipo en {n_rec_cruzadas} filas")
+    for r in sorted(filas_borrar, reverse=True):
+        wr.delete_rows(r)
+    print(f"[07] recomendaciones: {sum(len(v) for v in recs_por_clave.values())} únicas"
+          f" ({n_fusionadas} duplicados de página fusionados) ·"
+          f" cruzadas por tipo en {n_rec_cruzadas} filas")
 
     # ---- 4) Informes: rec_1..rec_3 en celdas separadas -----------------
     n_rec_cols = 3

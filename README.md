@@ -37,7 +37,7 @@ Hecho con ❤️ por David Antizar
 | Con análisis v3 completo | **351/351** |
 | Localización auditada | **315 bien · 0 duda · 0 mal · 36 sin coords** |
 | Veredicto geo por método | `via_pk` 209 · `via_pkteorico` 75 · `estacion_ign` 28 · `estacion_adif` 2 · `poblacion` 1 · `sin_geo` 36 |
-| Recomendaciones estructuradas | **939** (destinatario/implementador/texto/página en celdas separadas) |
+| Recomendaciones estructuradas | **651 únicas** (destinatario/implementador/texto/página en celdas separadas, con `tipo_suceso` para filtrar) |
 | `VERSION_DATOS` | `2026-09-27-1` (bump en cada despliegue de datos) |
 
 **Residuos conocidos:** 36 sin coords (informes sin PK ni estación en el PDF — no se inventa).
@@ -58,7 +58,13 @@ Se generan con `database/scripts/08_entregables.py`, que parte de la normalizaci
 
 **Verificación de la normalización (salida real):** 41.319 claves/expedientes comprobados ·
 **0** mal formateados · **0** años sin 4 cifras · **0** `tipo_suceso` fuera de la taxonomía ·
-**0** títulos canceléricos · **939** recomendaciones con tipo (0 sin clasificar).
+**0** títulos canceléricos · **651** recomendaciones únicas con tipo (0 sin clasificar).
+
+**Nota de coherencia (pendiente):** la hoja `Recomendaciones` trae 651 únicas tras fusionar
+288 filas que citaban la misma recomendación en dos páginas del PDF. El visor publica 614,
+porque esas salen de la Fase 2 (extraídas del md por LLM) y estas de la tabla determinista
+del PDF; difieren en 71 informes (49 con más en el Excel, 22 con más en la DB). Sincronizar
+ambas fuentes en una sola queda pendiente.
 
 ## Estructura del proyecto
 
