@@ -54,7 +54,7 @@ Se generan con `database/scripts/08_entregables.py`, que parte de la normalizaci
 | `entregables/01-md-puros/` | Los 372 informes en Markdown, tal cual salen del PDF (14 MB) |
 | `entregables/02-excel-crudo/` | `ciaf_desde_md_puros.xlsx` — Excel reconstruido desde los md, sin tocar |
 | `entregables/03-excel-normalizado/` | `ciaf_normalizado.xlsx` — claves `NNNN/AAAA`, años a 4 cifras, taxonomía única de `tipo_suceso`, `categoria_suceso` y recomendaciones en celdas separadas |
-| `entregables/base_ciaf.json` | Base única: 351 informes + 939 recomendaciones |
+| `entregables/base_ciaf.json` | Base única: 351 informes + 651 recomendaciones |
 
 **Verificación de la normalización (salida real):** 41.319 claves/expedientes comprobados ·
 **0** mal formateados · **0** años sin 4 cifras · **0** `tipo_suceso` fuera de la taxonomía ·
@@ -71,6 +71,9 @@ ambas fuentes en una sola queda pendiente.
 ```
 era-visor/
 ├── frontend/index.html   ← el visor completo (mapa + dashboard + tabla), IGN WMTS
+│                            Carga en tres tiempos: index.json al arranque →
+│                            dashboard.json al abrir esa pestaña →
+│                            data/db/detalle/<id>.json al abrir cada ficha.
 ├── index.html            ← redirect a frontend/index.html (raíz de Pages)
 ├── scripts/
 │   ├── scrape_pais.py             1. descubre informes en ERA
