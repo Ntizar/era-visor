@@ -1,0 +1,194 @@
+{
+ "stem": "IF_210612_260313_CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "IF-210612-260313-CIAF",
+   "cita": "Investigación del accidente nº 0050/2012 ocurrido el 21.06.2012 Informe final COMISIÓN DE INVESTIGACIÓN DE ACCIDENTES FERROVIARIOS IF-210612-260313-CIAF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": "Informe final",
+   "cita": "Investigación del accidente nº 0050/2012 ocurrido el 21.06.2012 Informe final COMISIÓN DE INVESTIGACIÓN DE ACCIDENTES FERROVIARIOS IF-210612-260313-CIAF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "927161203108",
+   "cita": "Tren de viajeros de larga distancia 601, formado por material de la serie 120 de CAF, compuesto por 4 vehículos, 16 ejes y 266 toneladas. Tipo 250 (velocidad máxima 250 km/h). Nº UIC: 927161203108.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": "Han sido objeto de investigación por esta Comisión tres descarrilamientos (expedientes 7/11, 63/11 y 47/12) de trenes de material CAF 120 en las operaciones de cambio de ancho. No obstante la causalidad de los mismos es diferente a la de este suceso.",
+   "cita": "Han sido objeto de investigación por esta Comisión tres descarrilamientos (expedientes 7/11, 63/11 y 47/12) de trenes de material CAF 120 en las operaciones de cambio de ancho. No obstante la causalidad de los mismos es diferente a la de este suceso.",
+   "pagina": 13,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": "Renfe Operadora ha creado un nuevo registro de inspección para controlar desde el taller la verificación del estado de casquillos y pitones. El nuevo registro recoge con mucho más detalle las operaciones de engrase que la ficha de control de calidad que actualmente aparece en la NTM código 1200.202.00 (nº de ficha: 01) apartado C.2.7. El nuevo registro será incorporado a la NTM.",
+   "cita": "Renfe Operadora ha creado un nuevo registro de inspección para controlar desde el taller la verificación del estado de casquillos y pitones. El nuevo registro recoge con mucho más detalle las operaciones de engrase que la ficha de control de calidad",
+   "pagina": 15,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

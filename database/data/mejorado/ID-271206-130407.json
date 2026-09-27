@@ -1,0 +1,194 @@
+{
+ "stem": "ID-271206-130407",
+ "campos": {
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "Hacia el lado izquierdo: 350 metros (lugar por donde se aproximaba el tren). Hacia el lado derecho: 500 metros.",
+   "cita": "Del estudio de visibilidades tomadas a 5 metros del paso y a 1,20 metros de altura se obtiene: Hacia el lado izquierdo: 350 metros (lugar por donde se aproximaba el tren). Hacia el lado derecho: 500 metros.",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": "El informe menciona un accidente precursor previo (15.03.2006) en el mismo paso a nivel y aborda la posible implicación del Factor Humano. El ADIF y RENFE concluyen que la causa fue la imprudencia de la víctima.",
+   "cita": "Con fecha 15.03.2006 aconteció un accidente grave en el paso a nivel ubicado en el p.k. 371,078 de la línea Madrid-Hendaya, en el municipio de Burgos.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": "No se realizó la prueba de control de alcoholemia por decisión del ADIF, considerándola secundaria dada la ubicación y el tiempo de realización.",
+   "cita": "no se realizó la prueba de control de alcoholemia ya que el ADIF consideró que, no siendo un accidente cuya causa probable sea un fallo Humano",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "0.2": {
+   "valor": "27.12.2006",
+   "cita": "Día/Hora: 27.12.06/19:19.",
+   "pagina": 2,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": "P.K. 371,068",
+   "cita": "Lugar: paso a nivel de clase C sito en P.K. 371,068, entre las estaciones de Villafría y Burgos.",
+   "pagina": 2,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.5": {
+   "valor": "19:19",
+   "cita": "Día/Hora: 27.12.06/19:19.",
+   "pagina": 2,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.6": {
+   "valor": "Bloqueo eléctrico manual",
+   "cita": "Tipo de bloqueo: Bloqueo eléctrico manual.",
+   "pagina": 2,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.1.9": {
+   "valor": "Varón de 46 años",
+   "cita": "A consecuencia del arrollamiento resultó fallecido un varón de 46 años.",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.3": {
+   "valor": "No se produjeron daños materiales",
+   "cita": "No se produjeron daños materiales.",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": "El maquinista informó del suceso al Puesto de Mando de Miranda de Ebro",
+   "cita": "El maquinista informó del suceso al Puesto de Mando de Miranda de Ebro que cursó aviso a",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.9": {
+   "valor": "71 minutos de incidencia; 103 minutos de retrasos en 3 trenes de viajeros y 130 minutos en 2 trenes de mercancías",
+   "cita": "La incidencia tuvo una duración de 71 minutos desde las 19:19 horas hasta las 20:30 horas.",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.2": {
+   "valor": "52 Km/h",
+   "cita": "el tren circulaba a 52 Km/h en el momento del arrollamiento",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  }
+ }
+}

@@ -1,0 +1,194 @@
+{
+ "stem": "ID-170107-200607-DGF",
+ "campos": {
+  "2.3.5": {
+   "valor": "Condiciones meteorológicas: Niebla intensa.",
+   "cita": "Condiciones meteorológicas: Niebla intensa.",
+   "pagina": 2,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.6": {
+   "valor": "No se producen daños materiales. El tren 54615 implicado en el accidente sufrió un retraso de 42 minutos.",
+   "cita": "No se producen daños materiales.",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.4.3": {
+   "valor": "Se constata la escasa visibilidad del paso en el momento del accidente, ya que aunque el paso está situado en traza recta, la visual del peatón se vió reducida por la intensa niebla.",
+   "cita": "Se constata la escasa visibilidad del paso en el momento del accidente, ya que aunque el paso está situado en traza recta, la visual del peatón se vió reducida por la intensa niebla.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "El maquinista comunicó el suceso al Puesto de Mando, que cursó aviso a Seguridad Corporativa, Gerencias de Seguridad en la Circulación de Adif y Renfe Operadora, Autoridad Competente y servicios de emergencia. Se hizo uso del silbato de la locomotora para apercibir de la presencia del tren.",
+   "cita": "El maquinista comunicó el suceso al Puesto de Mando, que cursó aviso a Seguridad Corporativa, Gerencias de Seguridad en la Circulación de Adif y Renfe Operadora, Autoridad Competente y servicios de emergencia.",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": "El accidente se origina por imprudencia de la víctima, al transitar indebidamente por las instalaciones de la estación, y cruzar las vías en el momento del paso del tren.",
+   "cita": "El accidente se origina por imprudencia de la víctima, al transitar indebidamente por las instalaciones de la estación, y cruzar las vías en el momen o del paso del tren.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": "La víctima era un varón de 88 años. Su avanzada edad y mobilidad reducida dificultaron que pudiera salir de la trayectoria del tren a tiempo.",
+   "cita": "Su avanzada edad y mobilidad reducida dificultaron que pudiera salir de la trayectoria del tren a tiempo.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "0.2": {
+   "valor": "arrollamiento de una persona",
+   "cita": "se había producido el arrollamiento de una persona resultando fallecida la misma",
+   "pagina": 2,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": "17.01.07 / 11:02",
+   "cita": "Día / Hora: 17.01.07./ 11:02.",
+   "pagina": 2,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.5": {
+   "valor": "Niebla intensa",
+   "cita": "Condiciones meteorológicas: Niebla intensa.",
+   "pagina": 2,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.6": {
+   "valor": "Bloqueo de Liberación Automática de vía doble B.L.A.D con CTC",
+   "cita": "Tipo de bloqueo: Bloqueo de Liberación Automática de vía doble B.L.A.D con CTC.",
+   "pagina": 2,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.1.9": {
+   "valor": "101 Km/h",
+   "cita": "la velocidad de circulación en el momento del accidente era de 101 Km/h",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.3": {
+   "valor": "608 metros",
+   "cita": "necesitando un total de 608 metros desde la aplicación del freno de emergencia hasta la detención del tren",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": "42 minutos",
+   "cita": "El tren 54615 implicado en el accidente sufrió un retraso de 42 minutos.",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.9": {
+   "valor": "Interrupción de la circulación por vía I y vía II, estableciendo el paso por vía III a los trenes 50535, 80658, 32052, 7405, FB182, 58052 y 60150 sin originar retrasos.",
+   "cita": "Interrupción de la circulación por vía I y vía II, estableciendo el paso por vía III a los trenes 50535, 80658, 32052, 7405, FB182, 58052 y 60150 sin originar retrasos.",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.2": {
+   "valor": "Negativo (0,00 mg/ml)",
+   "cita": "obteniendo resultado negativo (0,00 mg/ml)",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  }
+ }
+}

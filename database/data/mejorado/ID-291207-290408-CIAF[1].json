@@ -1,0 +1,194 @@
+{
+ "stem": "ID-291207-290408-CIAF[1]",
+ "campos": {
+  "0.2": {
+   "valor": "ID-291207-290408-CIAF",
+   "cita": "Informe definitivo \n \nID-291207-290408-CIAF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": "Informe definitivo",
+   "cita": "Informe definitivo \n \nID-291207-290408-CIAF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "269266-3",
+   "cita": "compuesto por la \nlocomotora 269266-3 y 19 vehículos con masa remolcada de 831 toneladas",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": "Masa remolcada de 831 toneladas",
+   "cita": "compuesto por la \nlocomotora 269266-3 y 19 vehículos con masa remolcada de 831 toneladas",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "La visibilidad, aunque de noche, era buena. La locomotora del tren 50565 (269266) circulaba con la intensidad del foco reducida, tal y como se determina en el artículo 258, en su punto 5º, del Reglamento General de Circulación del año 1992.",
+   "cita": "La visibilidad, aunque de noche, era buena. La locomotora del tren 50565 (269266) circulaba con la intensidad del foco reducida, tal y como se determina en el artículo 258, en su punto 5º, del Reglamento General de Circulación del año 1992.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": "El accidente tuvo su origen cuando la víctima cruza por la vía, en un lugar no autorizado, al paso del tren nº 50565.",
+   "cita": "El accidente tuvo su origen cuando la víctima cruza por la vía, en un lugar no autorizado, al paso del tren nº 50565.",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": "Jornada laboral efectiva el día del accidente: 2 horas y 27 minutos (1 hora y 32 minutos de conducción). Jornada laboral 24 horas anteriores: 6 horas y 36 minutos (3 horas y 5 minutos de conducción). Jornada laboral 48 horas anteriores: Descanso.",
+   "cita": "Jornada laboral efectiva el día del accidente: 2 horas y 27 minutos (1 hora y 32 minutos de conducción) Jornada laboral 24 horas anteriores: 6 horas y 36 minutos (3 horas y 5 minutos de conducción) Jornada laboral 48 horas anteriores: Descanso.",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Se realiza la prueba de alcoholemia al maquinista, con resultado negativo (0,00 mg/ml).",
+   "cita": "Se realiza la prueba de alcoholemia al maquinista, con resultado negativo (0,00 mg/ml).",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

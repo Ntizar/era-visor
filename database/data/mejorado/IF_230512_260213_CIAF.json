@@ -1,0 +1,194 @@
+{
+ "stem": "IF_230512_260213_CIAF",
+ "campos": {
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "En el momento del suceso el tiempo atmosférico era despejado y estaba anocheciendo. El sol se encontraba en el lado derecho en sentido de la marcha, y casi desaparecido en la línea del horizonte.",
+   "cita": "En el momento del suceso el tiempo atmosférico era despejado y estaba anocheciendo.\n\nEl sol se encontraba en el lado derecho en sentido de la marcha, y casi desaparecido en la línea del horizonte.",
+   "pagina": 11,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": "El incidente tuvo su origen en el incumplimiento por parte del personal de conducción de la orden dada por la señal de avanzada de la estación de Tocón – Montefrío, en indicación de anuncio de precaución.",
+   "cita": "El incidente tuvo su origen en el incumplimiento por parte del personal de conducción de la orden dada por la señal de avanzada",
+   "pagina": 17,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": "Jornada laboral del maquinista del tren 13946: día 23: 6 horas y 16 minutos (3 horas y 49 minutos de conducción efectiva); día 22: 5 horas y 23 minutos; día 21: 5 horas y 41 minutos. Jornada laboral del responsable de circulación: 8 horas los días 21, 22 y 23.",
+   "cita": "Jornada laboral del maquinista del tren 13946: - el día 23: 6 horas y 16 minutos (3 horas y 49 minutos de conducción efectiva), - el día 22: 5 horas y 23 minutos (2 horas y 59 minutos de conducción efectiva), - el día 21: 5 horas y 41 minutos (3 horas y 46 minutos de conducción efectiva).",
+   "pagina": 15,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Al maquinista se le realizan pruebas de alcoholemia y drogas con resultado negativo en ambas; al responsable de circulación control de alcoholemia con resultado negativo. Último reconocimiento médico y psicotécnico del maquinista el 16/12/2009.",
+   "cita": "Al maquinista del tren 13946, el mismo día del incidente, en Tocón - Montefrío a las 22:37 horas, se le realizan pruebas de alcoholemia y drogas con resultado negativo en ambas.",
+   "pagina": 15,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "0.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "Descripción de la infraestructura: vía única no electrificada con bloqueo telefónico; estación con dos vías (1 y 3), enclavamiento mecánico por cerraduras Bouré; desvíos 1 y 2 tipo C con admisión de 50 km/h por vía desviada; señales de avanzada y entrada altas, mecánicas, sin balizas ASFA",
+   "cita": "El tramo de vía donde se ubica la estación de Tocón-Montefrío es de vía única no electrificada con bloqueo telefónico.",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": "Radiotelefonía modalidad C.",
+   "cita": "2.2.4. Sistemas de comunicación Radiotelefonía modalidad C.",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": "Infraestructura: no se producen daños. Material rodante: no se producen daños.",
+   "cita": "Infraestructura: no se producen daños. Material rodante: no se producen daños.",
+   "pagina": 11,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

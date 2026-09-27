@@ -1,0 +1,194 @@
+{
+ "stem": "IF-010611-310112-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "IF-010611-310112-CIAF",
+   "cita": "IF-010611-310112-CIAF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": "Informe final",
+   "cita": "Informe final",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "Locomotoras 1607 y 1612; 8 vagones (plataformas 2SSag)",
+   "cita": "compuesto por dos locomotoras diesel eléctricas (1607 y 1612), con 8 vagones vacíos (plataformas 2SSag).",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": "Sí, se menciona la existencia de obras en Trasona",
+   "cita": "Que en Trasona se está trabajando de manera diferente debido a la existencia de obras.",
+   "pagina": 9,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.2": {
+   "valor": "Vacía (ocho plataformas portabobinas vacías)",
+   "cita": "se produce el escape de 8 plataformas portabobinas vacías procedentes de tren 9203",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "En el momento del suceso el tiempo era despejado.",
+   "cita": "2.4. CIRCUNSTANCIAS EXTERNAS\nEn el momento del suceso el tiempo era despejado.",
+   "pagina": 8,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Radiotelefonía analógica.",
+   "cita": "2.2.4. Sistemas de comunicación\nRadiotelefonía analógica.",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": "El incidente se produce por el incumplimiento normativo del personal ferroviario. Por una parte, del maquinista y del especialista de estaciones al no realizar correctamente el frenado del tren y el posterior corte del material, dando origen al deslizamiento. Por otra parte, de la jefa de circulación al no modificar la posición de las agujas originando que el corte deslizado acceda a la vía general.",
+   "cita": "El incidente se produce por el incumplimiento normativo del personal ferroviario. Por una parte, del maquinista y del especialista de estaciones al no realizar correctamente el frenado del tren y el posterior corte del material, dando origen al deslizamiento.",
+   "pagina": 13,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": "Maquinista: día 1: 2 horas (conducción efectiva: 2 horas); día 31: 6 h 30 min (conducción efectiva: 5 h 30 min); día 30: 7 horas (conducción efectiva: 6 horas). Jefa de circulación: día 1: 2 horas 10 minutos; día 31: descanso; día 30: descanso. Especialista de estaciones: día 1: 2 horas; día 31: 7 horas; día 30: 7 horas.",
+   "cita": "Jornada laboral del maquinista del tren 9203: - el día 1: 2 horas (conducción efectiva: 2 horas); - el día 31: 6 horas y 30 minutos (conducción efectiva: 5 horas y 30 minutos); - el día 30: 7 horas (conducción efectiva: 6 horas).",
+   "pagina": 11,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "El maquinista realizó su último reconocimiento médico y psicotécnico el 02/02/11; la jefa de circulación el 16/03/11; el especialista de estaciones el 31/03/11, conforme a la normativa vigente establecida por Feve. No se realizaron pruebas de alcoholemia a ninguno de los tres implicados.",
+   "cita": "Realizó su último reciclaje formativo el 16/03/09 y su último reconocimiento médico y psicotécnico el 02/02/11, conforme a la normativa vigente establecida por Feve.",
+   "pagina": 9,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

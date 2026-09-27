@@ -1,0 +1,194 @@
+{
+ "stem": "ID-270207-200607-DGF_El Carrión",
+ "campos": {
+  "0.2": {
+   "valor": "ID-270207-200607-DGFDGF",
+   "cita": "ID-270207-200607-DGFDGF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": "Informe definitivo",
+   "cita": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 014/2007",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": "Al parecer el accidente estuvo motivado, en un principio, porque el marido se tropezó al subir la rampa de acceso al andén del apeadero y la esposa apresurarse a sacar al marido de la caja de la vía sin percatarse de la llegada del tren",
+   "cita": "Causas subyacentes relacionadas: Al parecer el acciden e estuvo motivado, en un principio, porque el marido se tropezó al subir la rampa de acceso al anden del apeadero y la esposa apresurarse a sacar al marido de la caja de la vía sin perca arse de la llegada del tren",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "269406",
+   "cita": "compuesto por la locomotora 269406 y 11 vehículos con masa remolcada de 189 toneladas",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": "Obras de la línea de alta velocidad Palencia-Santander (tramo Palencia-Alar del Rey, subtramo I Palencia-Amusco), en fase de redacción del proyecto constructivo",
+   "cita": "se encuentran dentro de la actuación de la línea de alta velocidad Palencia-Santander, en su tramo Palencia-Alar del Rey y en su subtramo I Palencia-Amusco en fase de redacción del proyecto constructivo",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.2": {
+   "valor": "11 vehículos con masa remolcada de 189 toneladas",
+   "cita": "compuesto por la locomotora 269406 y 11 vehículos con masa remolcada de 189 toneladas",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": "Interrupción de la circulación desde las 12:10 hasta las 14:10 horas, con retraso de 58 minutos en el tren nº61 y 25 minutos en el tren nº60. No se producen daños materiales.",
+   "cita": "Interrupción de la circulación desde las 12:10 horas hasta las 14:10 horas, provocando un retraso de 58 minutos en el tren nº61",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.4.3": {
+   "valor": "Buena visibilidad, no disminuida por las condiciones atmosféricas del día del accidente. Andén en buen estado de conservación tanto en su solado como en la iluminación del mismo.",
+   "cita": "El tramo ferroviario dispone de buena visibilidad no disminuida por las condiciones atmosféricas del día del accidente.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Bloqueo Telefónico de Vía Única. El maquinista comunicó el suceso al Puesto de Mando de Santander, que cumplimentó los Protocolos de aviso.",
+   "cita": "Tipo de bloqueo: Bloqueo Telefónico de Vía Unica.",
+   "pagina": 2,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": "Factor humano por parte de las víctimas: invasión del gálibo de vía al paso del tren nº61. Adif lo atribuyó a la imprudencia de las personas arrolladas.",
+   "cita": "el accidente tuvo su origen en la invasión del gálibo de vía al paso del tren nº61 de las víctimas",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": "Se realizó prueba de control de alcoholemia al maquinista con resultado negativo (0,00 mg/ml). Víctimas: un hombre de 77 años y una mujer de 75 años.",
+   "cita": "realizaron la prueba de control de alcoholemia al maquinista obteniendo resultado negativo (0,00 mg/ml)",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

@@ -1,0 +1,194 @@
+{
+ "stem": "IF-221108-240209-CIAF_Salamanca – Ávila",
+ "campos": {
+  "0.2": {
+   "valor": "IF-221108-240209-CIAF",
+   "cita": "Informe Final \n \nIF-221108-240209-CIAF \n \nPág. 1 de 9",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "594102-6 (Nº UIC: 967195941026)",
+   "cita": "Tren de media distancia 18918 compuesto por el automotor 594102-6 (dos vehículos y 101 Tn de masa remolcada).  Nº UIC: 967195941026",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": "Se realizaban trabajos en la carretera a ambos márgenes de la vía",
+   "cita": "La vía tiene un trazado recto en el punto donde ocurre el accidente. A ambos márgenes de la vía se realizaban trabajos en la carretera.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "En el momento del arrollamiento el tiempo atmosférico era despejado.",
+   "cita": "En el momento del arrollamiento el tiempo atmosférico era despejado.",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Radiotelefonía modalidad A",
+   "cita": "2.2.4 \nSistemas de comunicación \nRadiotelefonía modalidad A",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": "El accidente tuvo su origen en el tránsito de la víctima (que circulaba en motocicleta por la caja de la vía) por el lugar por donde pasaba el tren, sin estar autorizado para ello.",
+   "cita": "El accidente tuvo su origen en el tránsito de la víctima (que circulaba en motocicleta por la caja de la vía) por el lugar por donde pasaba el tren, sin estar autorizado para ello.",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": "Jornada efectiva de conducción del maquinista del tren 18918: en el día del accidente: 7 minutos; 24 horas anteriores: 2 horas y 35 minutos; 48 horas anteriores: 5 horas y 18 minutos.",
+   "cita": "Jornada efectiva de conducción del maquinista del tren 18918. -en el día del accidente: 7 minutos -24 horas anteriores: 2 horas y 35 minutos -48 horas anteriores: 5 horas y 18 minutos",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Al maquinista, el día del accidente, se le realiza la prueba de alcoholemia en aire expirado dando resultado negativo (0,00 mg/1000 ml).",
+   "cita": "Al maquinista, el día del accidente, se le realiza la prueba de alcoholemia en aire expirado dando resultado negativo (0,00 mg/1000 ml).",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

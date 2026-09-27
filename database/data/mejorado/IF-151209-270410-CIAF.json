@@ -1,0 +1,194 @@
+{
+ "stem": "IF-151209-270410-CIAF",
+ "campos": {
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": "Se analizaron los datos del archivo histórico del período 2001-2010 referentes a los desprendimientos que han dado lugar a accidentes (48 desprendimientos en total, 25 colisiones y 23 colisiones con descarrilo, 1 herido grave y 47 leves). El Comité Central de Seguridad en la Circulación de FEVE, en su reunión del 30 de marzo de 2006, abordó las incidencias en la circulación producidas por desprendimientos en Asturias, proponiendo medidas de vigilancia, obras de protección, estudio de taludes e inversión anual.",
+   "cita": "Analizados los datos del archivo histórico del período 2001-2010, referentes a los desprendimientos que han dado lugar a accidentes, se ha elaborado el cuadro adjunto (cuadro 1) donde los sucesos se distribuyen por tramos de líneas y tipología.",
+   "pagina": 8,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "0.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "El trayecto es de vía única con bloqueo telefónico. El perfil de la vía tiene una inclinación en rampa de 15 milésimas. La velocidad máxima establecida, entre el P.K. 192+600 y el P.K. 189+180, es de 50 km/h, no existiendo ninguna limitación temporal de velocidad. A la salida del túnel nº 42 comienza una bajada con curva pronunciada a la izquierda (P.K. 191+200). El accidente se produce en una zona de trinchera de 80 metros lineales con una altura media de 7,50 metros y protegido con malla metálica.",
+   "cita": "El trayecto es de vía única con bloqueo telefónico. El perfil de la vía tiene una inclinación en rampa de 15 milésimas. La velocidad máxima establecida, entre el P.K. 192+600 y el P.K. 189+180, es de 50 km/h, no existiendo ninguna limitación temporal de velocidad.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": "Radio y GSM.",
+   "cita": "Radio y GSM.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": "Daños de consideración en la parte frontal, lateral derecho y parte inferior de la UTDE 2466 y de menor consideración en la UTDE 2416.",
+   "cita": "Daños de consideración en la parte frontal, lateral derecho y parte inferior de la UTDE 2466 y de menor consideración en la UTDE 2416.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  }
+ }
+}

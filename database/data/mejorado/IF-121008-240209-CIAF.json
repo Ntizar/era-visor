@@ -1,0 +1,194 @@
+{
+ "stem": "IF-121008-240209-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "0048/2008",
+   "cita": "el expediente nº 0048/2008 del accidente acaecido en la estación de Pravia",
+   "pagina": 12,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "Locomotoras 1907 y 1915 (tren LL-902)",
+   "cita": "Tren LL-902, compuesto por las locomotoras 1907 - 1915 y 8 plataformas cargadas de contenedores vacíos.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": "Contenedores de aluminio vacíos",
+   "cita": "8 vagones 2SS, cargados con contenedores de aluminio vacíos",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.5": {
+   "valor": "No se produjeron daños ni en el material rodante, ni en la infraestructura ni al medio ambiente.",
+   "cita": "No se produjeron daños ni en el material rodante, ni en la infraestructura ni al medio ambiente.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "En el momento del arrollamiento el tiempo atmosférico era despejado.",
+   "cita": "En el momento del arrollamiento el tiempo atmosférico era despejado.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "El maquinista comunica el suceso a la estación de Pravia y desde allí al Jefe de Circulación y al Puesto de Mando. El Plan de Emergencia exterior se activa por medio del 112.",
+   "cita": "El maquinista comunica el suceso a la estación de Pravia y desde allí al Jefe de Circulación y al Puesto de Mando.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": "El accidente tuvo su origen en el tránsito de la víctima, ocupando la vía, sin estar autorizado para ello.",
+   "cita": "El accidente tuvo su origen en el tránsito de la víctima, ocupando la vía, sin estar autorizado para ello.",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": "Jornada laboral del maquinista: en el día del accidente: 6 horas y 35 minutos; 24 horas anteriores: 6 horas 53 minutos; 48 horas anteriores: 6 horas 35 minutos. La jornada de trabajo del maquinista cumple lo establecido en la normativa laboral de FEVE en cuanto al tiempo máximo de conducción.",
+   "cita": "Jornada laboral del maquinista: -en el día del accidente: 6 horas y 35 minutos -24 horas anteriores: 6 horas 53 minutos -48 horas anteriores: 6 horas 35 minutos",
+   "pagina": 8,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Realizó su último reciclaje formativo el 24/01/2008 y su último reconocimiento médico y psicotécnico el 21/01/2008. Al maquinista no se le practicó prueba de alcoholemia.",
+   "cita": "Realizó su último reciclaje formativo el 24/01/2008 y su último reconocimiento médico y psicotécnico el 21/01/2008.",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": "Hasta la fecha de realización de este informe, no se ha adoptado ninguna medida específica de protección.",
+   "cita": "Hasta la fecha de realización de este informe, no se ha adoptado ninguna medida específica de protección.",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

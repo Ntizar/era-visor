@@ -1,0 +1,194 @@
+{
+ "stem": "IF-231008-140709-CIAF",
+ "campos": {
+  "2.3.5": {
+   "valor": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente.",
+   "cita": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.6": {
+   "valor": "El tren 87018 sufre un retraso de 315 minutos.",
+   "cita": "Minutos perdidos\nEl tren 87018 sufre un retraso de 315 minutos.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.4.3": {
+   "valor": "En el momento del incidente el día era despejado y había buena visibilidad.",
+   "cita": "En el momento del incidente el día era despejado y había buena visibilidad.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Radiotelefonía modalidad A.",
+   "cita": "Sistemas de comunicación\nRadiotelefonía modalidad A.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": "Jornada efectiva de conducción del maquinista formador responsable del tren 87018. -día 23: 2 horas y 50 minutos. -día 22: 5 horas y 40 minutos (jornada laboral: 8 horas y 15 minutos) -día 21: 5 horas y 15 minutos (jornada laboral: 7 horas y 5 minutos). Jornada efectiva de conducción del maquinista en prácticas que conducía el tren 87018: día 23: 2 horas y 50 minutos (jornada laboral: 2 horas y 50 minutos), día 22: 5 horas y 40 minutos (jornada laboral: 8 horas y 15 minutos), día 21: 5 horas y 15 minutos (jornada laboral: 7 horas y 5 minutos). Jornada efectiva de conducción del maquinista en prácticas presente en cabina: día 23: 2 horas y 50 minutos (jornada laboral: 2 horas y 50 minutos), día 22: 5 horas y 40 minutos (jornada laboral: 8 horas y 15 minutos), día 21: 5 horas y 15 minutos (jornada laboral: 7 horas y 5 minutos).",
+   "cita": "Jornada efectiva de conducción del maquinista en prácticas (habilitación de vehículo y línea) que\nconducía el tren 87018.\n- día 23: 2 horas y 50 minutos (jornada laboral: 2 horas y 50 minutos)\n- día 22: 5 horas y 40 minutos (jornada laboral: 8 horas y 15 minutos)\n- día 21: 5 horas y 15 minutos (jornada laboral: 7 horas y 5 minutos)",
+   "pagina": 9,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "0.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

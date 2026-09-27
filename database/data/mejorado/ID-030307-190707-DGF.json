@@ -126,6 +126,69 @@
    "pagina": null,
    "verificado": true,
    "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": "LUGAR DEL SUCESO",
+   "cita": "3.6.1. LUGAR DEL SUCESO \nEl lugar donde se produjo el arrollamiento, se encuentra en el punto kilométrico 7,755 del",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": "VISIBILIDAD",
+   "cita": "3.6.2  VISIBILIDAD \nLa visibilidad desde el punto del arrollamiento es de unos 250 metros en dirección Lugo de Llanera",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "VELOCIDAD DEL TREN",
+   "cita": "3.6.3. VELOCIDAD DEL TREN \nSegún la representación gráfica de la memoria estática de la locomotora, el tren de mercancías 58272 circulaba a una velocidad de 69 km/h.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
   }
  }
 }

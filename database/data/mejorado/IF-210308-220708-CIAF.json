@@ -1,0 +1,194 @@
+{
+ "stem": "IF-210308-220708-CIAF",
+ "campos": {
+  "2.3.5": {
+   "valor": "No se produjeron daños ni en el material rodante, ni en la infraestructura ni al medio ambiente.",
+   "cita": "No se produjeron daños ni en el material rodante, ni en la infraestructura ni al medio ambiente.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.6": {
+   "valor": "Catorce trenes de cercanías sufrieron retrasos por un total de 148 minutos.",
+   "cita": "Catorce trenes de cercanías sufrieron retrasos por un total de 148 minutos.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.4.3": {
+   "valor": "En el momento del arrollamiento las condiciones atmosféricas eran buenas.",
+   "cita": "En el momento del arrollamiento las condiciones atmosféricas eran buenas.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Radiotelefonía tren-tierra.",
+   "cita": "Sistemas de comunicación\nRadiotelefonía tren-tierra.",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": "Jornada efectiva de conducción del maquinista del tren 28833: en el día del accidente: 4 horas y 18 minutos; 24 horas anteriores: 4 horas; 48 horas anteriores: 5 horas y 17 minutos.",
+   "cita": "Jornada efectiva de conducción del maquinista del tren 28833 -en el día del accidente: 4 horas y 18 minutos -24 horas anteriores: 4 horas -48 horas anteriores: 5 horas y 17 minutos",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Prueba de alcoholemia en aire expirado con resultado negativo (0,00 mg/1000 ml); último reconocimiento psicofísico el 16/03/2004.",
+   "cita": "Al maquinista, el día del accidente, se le realiza la prueba de alcoholemia en aire expirado dando resultado negativo (0,00 mg/1000 ml).",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "0.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "Trayecto con bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C), en vía doble.",
+   "cita": "2.2.3 \nDescripción de la infraestructura \nTrayecto con bloqueo automático banalizado (B.A.B.) con control de tráfico centralizado (C.T.C), en vía doble.",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": "Radiotelefonía tren-tierra.",
+   "cita": "2.2.4 \nSistemas de comunicación \nRadiotelefonía tren-tierra.",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": "No se produjeron daños ni en el material rodante, ni en la infraestructura ni al medio ambiente.",
+   "cita": "2.3.2 \nDaños materiales \nNo se produjeron daños ni en el material rodante, ni en la infraestructura ni al medio ambiente.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  }
+ }
+}

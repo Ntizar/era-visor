@@ -1,0 +1,194 @@
+{
+ "stem": "ID-180307-200607-DGF",
+ "campos": {
+  "0.2": {
+   "valor": "ID-180307-200607-DGF",
+   "cita": "ID-180307-200607-DGF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "333034",
+   "cita": "remolcado por locomotora 333034, con 4 vehículos y 105 toneladas, procedente de Fuentes de Oñoro y destino Hendaya",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": "105 toneladas",
+   "cita": "remolcado por locomotora 333034, con 4 vehículos y 105 toneladas, procedente de Fuentes de Oñoro",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": "La incidencia tuvo una duración de 52 minutos, retraso de 34 minutos al tren 311, 59 minutos acumulados en 3 trenes de Cercanías y 29 minutos en Larga Distancia 205.",
+   "cita": "La incidencia tuvo una duración de 52 minutos, desde las 06:03 horas del día 18 de marzo hasta las 06:55 horas del mismo día, lo que produjo un retraso al tren 311 implicado en los hechos de 34 minutos.",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.4.3": {
+   "valor": "El arrollamiento se produjo de noche; la visibilidad del tramo se ve reducida, pero la locomotora está dotada de foco de gran intensidad. Las condiciones meteorológicas eran buenas considerando la nocturnidad.",
+   "cita": "El arrollamiento se produjo de noche y aunque esta circunstancia reduce la visibilidad del tramo ferroviario, la locomotora del tren 311 está dotada del foco de gran intensidad que pudo avisar de su presencia al viandante.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "El maquinista informó al Puesto de mando de Miranda de Ebro una vez detenido el tren.",
+   "cita": "Una vez detenido el tren informa al Puesto de mando de Miranda de Ebro.",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": "El accidente tuvo su origen en la imprudencia de la víctima que transitaba indebidamente por las vías sin percatarse de la llegada del tren 311.",
+   "cita": "El accidente tuvo su origen en la imprudencia de la víctima que transitaba indebidamente por las vías sin percatarse de la llegada del tren 311.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": "Jornada día del incidente: 3 horas y 39 minutos; jornada 24 horas anteriores: 3 horas y 28 minutos; jornada 48 horas anteriores: 3 horas y 45 minutos.",
+   "cita": "Jornada día del incidencia: 3 horas y 39 minutos. Jornada 24 horas anteriores: 3 horas y 28 minutos. Jornada 48 horas anteriores: 3 horas y 45 minutos.",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Prueba de alcoholemia al maquinista con resultado negativo (0,00mg/1000ml); el maquinista se encontraba en perfectas condiciones para el desarrollo de sus funciones.",
+   "cita": "se realizó la prueba de control de alcoholemia al maquinista en Irún con resultado negativo (0,00mg/1000ml.).",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

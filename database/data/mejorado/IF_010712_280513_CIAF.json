@@ -1,0 +1,194 @@
+{
+ "stem": "IF_010712_280513_CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "IF-010712-280513-CIAF",
+   "cita": "COMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-010712-280513-CIAF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": "Informe final",
+   "cita": "Investigación del accidente \nnº 0047/2012 ocurrido el 01.07.2012 \nInforme final",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "967191200112",
+   "cita": "Nº UIC rama descarrilada: 967191200112",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "En el momento del suceso no existían condiciones meteorológicas adversas.",
+   "cita": "En el momento del suceso no existían condiciones meteorológicas adversas.",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Radiotelefonía modalidad A en la línea de ancho convencional. GSM-R en la línea de ancho UIC.",
+   "cita": "Radiotelefonía modalidad A en la línea de ancho convencional. \nGSM-R en la línea de ancho UIC.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": "Jornada laboral del maquinista del tren 534: el día 1: 23 minutos, el día 31: 5 horas y 40 minutos, el día 30: 3 horas y 31 minutos.",
+   "cita": "Jornada laboral del maquinista del tren 534: \n- el día 1: 23 minutos, \n- el día 31: 5 horas y 40 minutos, \n- el día 30: 3 horas y 31 minutos.",
+   "pagina": 13,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "El personal de conducción cumple la normativa vigente en cuanto al título, habilitaciones, reciclaje y reconocimiento médico y psicotécnico. Al maquinista, el día del accidente, a las 11:48 horas en Zaragoza, se le realiza prueba de alcoholemia en aire espirado con resultado negativo (0,00 mg/1000 ml).",
+   "cita": "Al maquinista, el día del accidente, a las 11:48 horas en Zaragoza, se le realiza prueba de alcoholemia en aire espirado con resultado negativo (0,00 mg/1000 ml).",
+   "pagina": 13,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": "Otros sucesos similares en fechas 23/12/2007, 04/01/2011 y 27/12/2011, investigados los dos últimos por la CIAF con números de expedientes 07/11 y 63/11 respectivamente.",
+   "cita": "Con fechas 23/12/2007, 04/01/2011 y 27/12/20011 se producen otros sucesos similares al que nos ocupa en este informe, investigados los dos últimos por la CIAF con números de expedientes 07/11 y 63/11 respectivamente.",
+   "pagina": 13,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": "Medidas adoptadas por Renfe Operadora: inspecciones de mantenimiento preventivo cada 5.000 km (ES) y 30.000 km (V1), reuniones periódicas con fabricante/mantenedor, incorporación de inspección de holgura con galgas en V1, instalación de avisadores acústicos, presencia de dos agentes en cambiadores, punto de soldadura en tornillos en flotas 120/121/120.05, inspección de planitud y profundidad de pasadores de todos soportes palanca, y cordón de soldadura entre soporte de palanca y caja soporte con implantación total prevista en diciembre de 2014.",
+   "cita": "- Cada 5.000 kilómetros, coincidiendo con las revisiones tipo ES, se realizan inspecciones de mantenimiento preventivo en donde, conforme a su plan de mantenimiento, se verifica, entre otros elementos del mecanismo de bloqueo/desbloqueo del cambio de ancho, el estado del dispositivo de seguridad",
+   "pagina": 15,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

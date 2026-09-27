@@ -1,0 +1,194 @@
+{
+ "stem": "IF-130711-250912-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "IF-130711-250912-CIAF",
+   "cita": "IF-130711-250912-CIAF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": "Estado de la vía con fuertes alabeos y baches; indicios de una inadecuada estiba de la carga; condiciones desfavorables en el trazado (radio de 300 metros y rampa de 21,5 milésimas).",
+   "cita": "En el accidente se dieron una confluencia de hechos que ocasionaron el remonte y posterior descarrilamiento de la rueda derecha del primer eje del vagón que ocupaba la novena posición. Por un lado el estado de la vía que presentaba fuertes alabeos y baches. Por otro lado hay indicios de una inadecuada estiba de la carga. Además se daban unas condiciones en el trazado de la vía nada favorables, como son un radio de 300 metros y una rampa de 21,5 milésimas.",
+   "pagina": 16,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "Locomotora 335027. Nº UIC locomotora: 957103350279. Tren de Mercancías 97845, con 28 vagones (25 plataformas MC y 3 MMC).",
+   "cita": "Tren de Mercancías 97845, remolcado por locomotora 335027 con 28 vagones (25 plataformas MC y 3 MMC) cargados con contenedores y 807 toneladas. Tipo N (velocidad máxima 100 km/h). Nº UIC locomotora: 957103350279.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": "Contenedores con bobinas de cable estibadas por BEN TRADE CABLES IBERICA, S.A. (BTC Ibérica), posicionadas con su eje paralelo al suelo del contenedor, cargados sobre plataformas MC y MMC.",
+   "cita": "La plataforma MC nº 9 descarrilada transportaba un contenedor con bobinas de cable, estibadas por la empresa BEN TRADE CABLES IBERICA, S.A. (BTC Ibérica). Las bobinas estaban posicionadas con su eje paralelo al suelo del contenedor.",
+   "pagina": 12,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "En el momento del accidente estaba anocheciendo, y el tiempo atmosférico era nublado.",
+   "cita": "2.4. CIRCUNSTANCIAS EXTERNAS \nEn el momento del accidente estaba anocheciendo, y el tiempo atmosférico era nublado.",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Radiotelefonía modalidad A.",
+   "cita": "2.2.4. Sistemas de comunicación \nRadiotelefonía modalidad A.",
+   "pagina": 9,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": "Jornada laboral del maquinista del tren 97845: el día 13: 4 horas y 10 minutos (4 horas y 10 minutos de conducción efectiva); el día 12: 6 horas (6 horas de conducción efectiva); el día 11: descanso.",
+   "cita": "Jornada laboral del maquinista del tren 97845: \n- el día 13: 4 horas y 10 minutos (4 horas y 10 minutos de conducción efectiva); \n- el día 12: 6 horas (6 horas de conducción efectiva); \n - el día 11: descanso.",
+   "pagina": 15,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Al maquinista, el día del accidente, a las 01:45 horas en Caparrates, se le realiza prueba de alcoholemia con resultado negativo.",
+   "cita": "Al maquinista, el día del accidente, a las 01:45 horas en Caparrates, se le realiza prueba de alcoholemia con resultado negativo.",
+   "pagina": 15,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

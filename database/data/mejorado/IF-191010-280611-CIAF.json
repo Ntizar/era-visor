@@ -1,0 +1,194 @@
+{
+ "stem": "IF-191010-280611-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "IF-191010-280611-CIAF",
+   "cita": "IF-191010-280611-CIAF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "Tren de viajeros 4519, unidades 3637-3638 (UTE 3638 en cabeza), tren tipo 100; tren de viajeros 5418, unidades 3635-3636 (UTE 3636 en cabeza), tren tipo 100",
+   "cita": "Tren de viajeros 4519, compuesto por las unidades de tren eléctricas 3637- 3638 (UTE 3638 en cabeza). Tren tipo 100.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "En el momento del suceso el tiempo era despejado.",
+   "cita": "En el momento del suceso el tiempo era despejado.",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": "Jornada laboral de la jefa del CTC: el día 19: 4 horas, el día 18: 6 horas y 30 minutos, el día 17: 6 horas y 30 minutos. Jornada laboral de la jefa de la estación de Gijón: el día 19: 35 minutos, el día 18: 8 horas y 50 minutos, el día 17: descanso. Jornada laboral del maquinista 4519: el día 19: 3 horas y 15 minutos (3 horas de conducción efectiva), el día 18: 8 horas y 26 minutos (5 horas y 25 minutos de conducción efectiva), el día 17: descanso. Jornada laboral del maquinista del tren 5418: el día 19: 2 horas y 19 minutos (2 horas y 10 minutos de conducción efectiva), el día 18: 8 horas y 12 minutos (5 horas y 20 minutos de conducción efectiva), el día 17: 7 horas y 34 minutos (5 horas y 10 minutos de conducción efectiva).",
+   "cita": "Jornada laboral de la jefa del CTC: \n- el día 19: 4 horas, \n- el día 18: 6 horas y 30 minutos, \n- el día 17: 6 horas y 30 minutos.",
+   "pagina": 12,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "No se le realizan pruebas de alcoholemia ni de drogas a ninguno de los implicados.",
+   "cita": "No se le realizan pruebas de alcoholemia ni de drogas a ninguno de los implicados.",
+   "pagina": 12,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": "En el texto de los telefonemas de expedición y recepción existen diferencias en su contenido y en la hora.",
+   "cita": "OBSERVACIONES ADICIONALES \nEn el texto de los telefonemas de expedición y recepción existen diferencias en su contenido y en la hora.",
+   "pagina": 14,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

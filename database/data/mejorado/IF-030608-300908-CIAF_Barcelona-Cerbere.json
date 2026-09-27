@@ -1,0 +1,194 @@
+{
+ "stem": "IF-030608-300908-CIAF_Barcelona-Cerbere",
+ "campos": {
+  "0.2": {
+   "valor": "0020/2008",
+   "cita": "analizado el expediente nº 0020/2008; del accidente acaecido en el",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "Matrícula UIC: 907174401386",
+   "cita": "Matrícula UIC: 907174401386",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": "No se produjeron daños ni en el material rodante, ni en la infraestructura ni al medio ambiente.",
+   "cita": "No se produjeron daños ni en el material rodante, ni en la infraestructura ni al medio ambiente.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "En el momento del arrollamiento era de día y las condiciones atmosféricas eran buenas. La visibilidad tanto para los trenes como para los usuarios del paso a nivel es buena.",
+   "cita": "En el momento del arrollamiento era de día y las condiciones atmosféricas eran buenas.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Radiotelefonía modalidad A",
+   "cita": "2.2.5 \nSistemas de comunicación \nRadiotelefonía modalidad A",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": "Jornada efectiva de conducción del maquinista: en el día del accidente: 3 horas y 44 minutos (jornada de trabajo: 7 horas y 12 minutos); 24 horas anteriores: 3 horas y 46 minutos (jornada de trabajo: 6 horas); 48 horas anteriores: 3 horas y 17 minutos (jornada de trabajo: 7 horas).",
+   "cita": "Jornada efectiva de conducción del maquinista del tren 15810. \n-en el día del accidente: 3 horas y 44 minutos (jornada de trabajo: 7 horas y 12 minutos)",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Último reconocimiento médico y psicotécnico el 05/06/2007. Prueba de alcoholemia negativa (0,00 mg/1000 ml).",
+   "cita": "Al maquinista, el día del accidente, se le realiza la prueba de alcoholemia en aire expirado dando resultado negativo (0,00 mg/1000 ml).",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "cita": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 8,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "4.5.3": {
+   "valor": "Puesto que está prevista la supresión del paso a nivel, no se estima necesario formular ninguna recomendación.",
+   "cita": "Puesto que está prevista la supresión del paso a nivel, no se estima necesario formular ninguna recomendación.",
+   "pagina": 8,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

@@ -1,0 +1,197 @@
+{
+ "stem": "IF-070910-290311-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "0050/2010",
+   "cita": "EL ACCIDENTE FERROVIARIO Nº 0050/2010",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": "INFORME FINAL",
+   "cita": "INFORME FINAL SOBRE",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "M3618-M3617",
+   "cita": "Tren regular de viajeros 8939, compuesto por las unidades de tren eléctricas (UTE) M3618-M3617.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "En el momento del suceso, el tiempo era despejado.",
+   "cita": "En el momento del suceso, el tiempo era despejado.",
+   "pagina": 8,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Radiotelefonía analógica.",
+   "cita": "Radiotelefonía analógica.",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": "El accidente tuvo su origen en la invasión del gálibo de la vía, por parte de la víctima",
+   "cita": "El accidente tuvo su origen en la invasión del gálibo de la vía, por parte de la víctima,",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": "el día 7: 3 horas y 37 minutos (conducción efectiva: 1 hora y 52 minutos)",
+   "cita": "el día 7: 3 horas y 37 minutos (conducción efectiva: 1 hora y 52 minutos)",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "pruebas de alcoholemia y drogas con resultado negativo en ambas",
+   "cita": "Al maquinista, el día del accidente, se le realizan pruebas de alcoholemia y drogas con resultado negativo en ambas.",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": "La salida del apeadero de Aranguren está situada en el medio del paso a nivel (C3).",
+   "cita": "La salida del apeadero de Aranguren está situada en el medio del paso a nivel (C3).",
+   "pagina": 12,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001.",
+   "cita": "Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001.",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "4.6.3": {
+   "valor": [
+    "Ayuntamiento de Zalla",
+    "Feve"
+   ],
+   "cita": "Ayuntamiento de Zalla | 50/10-1 | Adaptar la señalización del camino del paso a nivel conforme a lo establecido en la Orden Ministerial de 2 de agosto de 2001. |\n| Feve",
+   "pagina": 12,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  }
+ }
+}

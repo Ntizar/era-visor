@@ -126,6 +126,69 @@
    "pagina": null,
    "verificado": true,
    "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": "Velocidad del tren",
+   "cita": "3.6.2. Velocidad del tren. Del análisis del registro de eventos del tren la distancia recorrida desde el inicio de la marcha hasta la detención total es de 21 metros.",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": "Lugar del suceso. EL lugar del suceso es el andén de la vía 10 de la estación de Villalba. El andén de la vía 10 está en recta. En el gabinete de circulación existen monitores de circuito cerrado de TV, por los que el Jefe de Circulación verifica la señal de marcha del tren y tiene una visión longitudinal del andén. En la estación existe megafonía y cartelones luminosos anunciando la salida de los trenes. Según el informe de ADIF, en el momento del accidente, estaba lloviendo y la visibilidad era reducida.",
+   "cita": "EL lugar del suceso es el andén de la vía 10 de la estación de Villalba.",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
   }
  }
 }

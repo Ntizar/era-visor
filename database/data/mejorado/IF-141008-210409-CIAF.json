@@ -1,0 +1,194 @@
+{
+ "stem": "IF-141008-210409-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "IF-141008-210409-CIAF",
+   "cita": "IF-141008-210409-CIAF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "997194461399",
+   "cita": "Nº UIC: 997194461399",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": "440 Tn de masa remolcada",
+   "cita": "Tren de viajeros 27398 (motores 446139/123, 6 coches y 440 Tn de masa remolcada).",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.5": {
+   "valor": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente.",
+   "cita": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.6": {
+   "valor": "Resultan afectados varios trenes de cercanías con un retraso total de 36 minutos.",
+   "cita": "Resultan afectados varios trenes de cercanías con un retraso total de 36 minutos.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.4.3": {
+   "valor": "En el momento del arrollamiento el tiempo era despejado. Es un tramo recto de vía doble y buena visibilidad.",
+   "cita": "En el momento del arrollamiento el tiempo era despejado.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Radiotelefonía modalidad A",
+   "cita": "Sistemas de comunicación\nRadiotelefonía modalidad A.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": "El accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello.",
+   "cita": "El accidente tuvo su origen en el tránsito de la víctima por el lugar por donde pasaba el tren, sin estar autorizado para ello.",
+   "pagina": 11,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": "En el día del accidente: 5 horas y 35 minutos (jornada laboral: 7 horas y 30 minutos). 24 horas anteriores: 5 horas y 40 minutos (jornada laboral: 8 horas). 48 horas anteriores: descanso/vacaciones.",
+   "cita": "-en el día del accidente: 5 horas y 35 minutos (jornada laboral: 7 horas y 30 minutos).\n-24 horas anteriores: 5 horas y 40 minutos (jornada laboral: 8 horas).\n-48 horas anteriores: descanso/vacaciones.",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "El maquinista realizó su último reconocimiento médico y psicotécnico el 22/11/05, de acuerdo con la normativa vigente. El fallecido era vecino del lugar y vivía cerca de la estación por lo que se presupone que conocía bien el lugar.",
+   "cita": "Realizó su último reciclaje formativo el 09/03/06 y su último reconocimiento médico y psicotécnico el 22/11/05, de acuerdo con la normativa vigente.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

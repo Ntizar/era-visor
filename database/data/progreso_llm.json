@@ -218,9 +218,9 @@
   },
   "ES 11 07 2014 150525-140711-IF-CIAF": {
    "estado": "hecho",
-   "campos": 18,
+   "campos": 27,
    "con_cita": 3,
-   "null_honestos": 15,
+   "null_honestos": 24,
    "rechazados": 0,
    "intentos": 1
   },
@@ -258,9 +258,9 @@
   },
   "ES 12.08.2013 IF_120813_100215_CIAF": {
    "estado": "hecho",
-   "campos": 18,
-   "con_cita": 0,
-   "null_honestos": 18,
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
    "rechazados": 0,
    "intentos": 1
   },
@@ -330,9 +330,9 @@
   },
   "ES 17.02.2015 151222-150217-IF-CIAF": {
    "estado": "hecho",
-   "campos": 18,
-   "con_cita": 8,
-   "null_honestos": 10,
+   "campos": 27,
+   "con_cita": 9,
+   "null_honestos": 18,
    "rechazados": 0,
    "intentos": 1
   },
@@ -362,9 +362,9 @@
   },
   "ES 18.11.2014 151124-141118-IF-CIAF": {
    "estado": "hecho",
-   "campos": 18,
-   "con_cita": 4,
-   "null_honestos": 14,
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
    "rechazados": 0,
    "intentos": 1
   },
@@ -450,9 +450,9 @@
   },
   "ES 26.09.2014 151022-140926-IF-CIAF_BARCELONA ESTACIÓ DE FRANÇA": {
    "estado": "hecho",
-   "campos": 18,
+   "campos": 27,
    "con_cita": 4,
-   "null_honestos": 14,
+   "null_honestos": 23,
    "rechazados": 0,
    "intentos": 1
   },
@@ -562,9 +562,9 @@
   },
   "ES-10251 - 2022-48-0612-IF": {
    "estado": "hecho",
-   "campos": 18,
+   "campos": 27,
    "con_cita": 3,
-   "null_honestos": 15,
+   "null_honestos": 24,
    "rechazados": 0,
    "intentos": 1
   },
@@ -594,9 +594,9 @@
   },
   "ES-10382 - 2022-108-1105-IF": {
    "estado": "hecho",
-   "campos": 18,
-   "con_cita": 4,
-   "null_honestos": 14,
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
    "rechazados": 0,
    "intentos": 1
   },
@@ -679,7 +679,2303 @@
    "null_honestos": 21,
    "rechazados": 0,
    "intentos": 1
+  },
+  "ID-030307-190707-DGF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-050207-200607-DGF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-050208-240608-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-050906-020207": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-051006-020307": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-060108-240608-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-060207-200607-DGF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-060407-190707-DGF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-060507-190707-DGF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 9,
+   "null_honestos": 18,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-070207-200607-DGF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-070406-020207": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-071006-130407": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 8,
+   "null_honestos": 19,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-071106-130407": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-081006-020307": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-090606-020207": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-101106-180507-DGF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-111106-130407": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-111206-130407": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-120506-020207": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-130207-190707-DGF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-140308-240608-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-151006-020307-SALOU_Valencia to Barcelona": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-151006-020307-STACRUZ": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-151006-150107-SFELIU_ES-24": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-151106-130407": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-160506-020307": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 8,
+   "null_honestos": 19,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-160906-020207": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-170107-200607-DGF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 15,
+   "null_honestos": 12,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-170506-020207": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 9,
+   "null_honestos": 18,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-180107-200607-DGF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 10,
+   "null_honestos": 17,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-180307-200607-DGF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 9,
+   "null_honestos": 18,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-180406-020207": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-181207-230508-CIAF[1]": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-191006-020307": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-210406-020307": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-210806-131106-PLG (003)": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-211106-020307": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-211207-290408-CIAF[1]": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-220208-230508-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 9,
+   "null_honestos": 18,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-220906-020207": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-230207-200607-DGF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-230606-020207": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-241207-230508-CIAF[1]": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-260108-240608-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-260506-020307": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-270207-200607-DGF_14_Sant Vicenç de Calders": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-270207-200607-DGF_El Carrión": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 11,
+   "null_honestos": 16,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-271106-020307": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-271206-130407": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 12,
+   "null_honestos": 15,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-280207-190707-DGF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-281106-020307": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-291006-020307": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-291207-290408-CIAF[1]": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 8,
+   "null_honestos": 19,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-300307-140907-DGF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-300407-190707-DGF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-300606-020307": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-301106-130407": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID-311206-130407": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID_040407_140907": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID_050407_140907": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID_070507_191007": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID_070607_191007": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID_080707_191007-2_Barcelona-Sagrera_Maçanet-Massanes": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID_080707_191007_Betanzos–Infesta a Ferrol,": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID_090807_260208": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 8,
+   "null_honestos": 19,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID_120507_140907": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID_130407_190707": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID_130607_191007": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID_160507_300108": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID_230507_140907": {
+   "estado": "hecho",
+   "campos": 0,
+   "con_cita": 0,
+   "null_honestos": 0,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID_230707_300108": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID_240607_300108": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID_250407_171207": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID_250507_140907": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID_270807_300108": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ID_300407_190907_Tocón - Montefrío": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-010109-190509-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-010611-310112-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 10,
+   "null_honestos": 17,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-010908-310309-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-011209-230310-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-020209-221209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-021008-281108-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-021108-240209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-030608-2-300908-CIAF_y Lora del Río": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 8,
+   "null_honestos": 19,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-030608-300908-CIAF_Barcelona-Cerbere": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 9,
+   "null_honestos": 18,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-031108-240209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-031210-270411-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-040111-200911-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-040309-140709-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-040708-190509-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-050310-310111-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-050411-280212-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-050609-221209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 10,
+   "null_honestos": 17,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-050708-181208-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-050710-310111-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-051111-290512-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-060508-181208-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-060709-221209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-060910-290711-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-061209-290610-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-070311-290512-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-070409-271009-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 9,
+   "null_honestos": 18,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-070910-290311-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 11,
+   "null_honestos": 16,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-080410-281210-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-080709-260110-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-081009-230210-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-081108-240209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 8,
+   "null_honestos": 19,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-090212-271112-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-090508-300908-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-090810-250211-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-091108-240209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-100108-300908-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 9,
+   "null_honestos": 18,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-100110-280910-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-100310-261010-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-100611-290512-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-100710-290311-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-100908-200109-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-101108-240209-CIAF_ES-607": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-101108-310309-CIAF_ES-651": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-101110-270411-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-110210-280910-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-110310-261010-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-110508-281108-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 9,
+   "null_honestos": 18,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-110711-270312-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-111110-280611-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-111209-270410-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-120112-250912-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-120209-260110-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-120908-200109-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-121008-240209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 10,
+   "null_honestos": 17,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-121011-260612-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-130508-281008-CIAF_ES-547": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-130508-300908-CIAF_ES-548": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-130709-260110-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-130711-250912-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 8,
+   "null_honestos": 19,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-131008-240209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-131208-210409-CIAF_ES-672": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 9,
+   "null_honestos": 18,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-131208-310309-CIAF_ES-671": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-131209-270410-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-140109-190509-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-140209-290909-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-140508-220708-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-140610-310111-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-140710-250211-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-141008-210409-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 10,
+   "null_honestos": 17,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-150110-310510-CIAF-GETAFE": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-150110-310510-CIAF_VILA-REAL": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-150112-221012-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-151008-240209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-151209-270410-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-151211-260612-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-160111-200911-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-160311-251011-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-160408-300908-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 8,
+   "null_honestos": 19,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-160511-280212-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-160708-281108-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 11,
+   "null_honestos": 16,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-160710-290311-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-161009-270410-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-161109-310510-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-170409-221209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-170810-270411-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-170909-270410-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 8,
+   "null_honestos": 19,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-180609-221209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-180810-290311-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-181008-240209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-190112-271112-CIAF-El Clot-Aragó": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-190112-271112-CIAF_ASTURIAS": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-191010-280611-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-191211-240712-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-200109-190509-CIAF-LA FLORIDA": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-200109-2-190509-CIAF_TORDERA Y BLANES": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-200711-260612-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-201008-240209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-201208-210409-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-201209-310510-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-210308-220708-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 9,
+   "null_honestos": 18,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-220109-190509-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-220209-140709-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-220408-220708-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-220608-240209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-220609-221209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-221108-2-240209-CIAF- Alcalá de Henares": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-221108-240209-CIAF_Salamanca – Ávila": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 8,
+   "null_honestos": 19,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-230209-140709-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-230411-271211-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-230510-310511-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-230610-310111-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-231008-140709-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-231009-270410-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-240309-140709-CIAF_ALGEMESÍ": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-240309-290909-CIAF_VILLARGORDO Y GRAÑENA": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-240508-2-300908-CIAF_Majarabique Estación-Huelva Término": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-240508-300908-CIAF_La Encina-Alicante": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-240511-270312-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-240608-281108-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 8,
+   "null_honestos": 19,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-240809-260110-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-240909-310510-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-241008-140709-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-250908-190509-CIAF_Balmaseda Mercancías": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-250908-200109-CIAF_Granada- Fuente de Piedra": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 8,
+   "null_honestos": 19,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-260310-281210-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-260609-221209-CIAF_ALUCHE": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-260609-260110-CIAF_HUMANES": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 8,
+   "null_honestos": 19,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-260610-310111-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-261011-290512-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-261108-310309-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-270508-300908-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-270709-260110-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-270811-240712-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-271011-240712-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-271211-250912-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-280411-271211-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-280809-230210-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-280908-181208-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-280909-230210-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-281209-290610-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-290610-250211-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-290808-181208-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-291108-310309-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 10,
+   "null_honestos": 17,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-300109-140709-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 8,
+   "null_honestos": 19,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-300511-270312-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-300608-281008-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-300611-240412-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-300708-2-281108-CIAF_Fuengirola-Málaga": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 9,
+   "null_honestos": 18,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-300708-281108-CIAF_Andoaín, Guipúzcoa": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 6,
+   "null_honestos": 21,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-300910-280611-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-301209-290610-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF-310809-060410-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_010612_280513_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_010712_280513_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 9,
+   "null_honestos": 18,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_040613_230914_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_060912__300713_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_061212_170913_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_070313_140714_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_081012_250613_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_090113_240614_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_090512_261212_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_100213_240614_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_110512_290113_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_110713_251114_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_120312_260213_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_140813_251114_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_150612_290413_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_180412_261212_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_190712_280513_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_200413_250214_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_200513_140714_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_200913_230914_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_210612_260313_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_211212_250613_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_230114_270115_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_230512_260213_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 7,
+   "null_honestos": 20,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_240713_200514_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_240713_ERA-2014-0070-EN": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_241212_300713_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_260213_291013_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 5,
+   "null_honestos": 22,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_260313_240614_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_260412_290113_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_260513_140714_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_260712__300713_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_270213_291013_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_271013_231214_CIAF_ES-2902": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_271013_251114_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_280413_200514_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_291012_290113_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "IF_310113_291013_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "RS-020209-221209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "RS-040309-140709-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "RS-050609-221209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 0,
+   "null_honestos": 27,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "RS-060709-221209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 0,
+   "null_honestos": 27,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "RS-070409-271009-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "RS-140209-290909-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "RS-170409-221209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 0,
+   "null_honestos": 27,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "RS-180609-221209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "RS-220209-140709-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "RS-220609-221209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 0,
+   "null_honestos": 27,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "RS-230209-140709-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 0,
+   "null_honestos": 27,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "RS-231008-140709-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "RS-240309-140709-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "RS-240309-290909-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 1,
+   "null_honestos": 26,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "RS-241008-140709-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 0,
+   "null_honestos": 27,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "RS-260609-221209-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 0,
+   "null_honestos": 27,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "RS-300109-140709-CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "ZS 12.05.2017 190125-170512-IF-SN_CIAF": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 2,
+   "null_honestos": 25,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "es-10687 - final report, 2025-17-0207-if": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "es-10699 - final report, 2024-111-1029-if_1": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 3,
+   "null_honestos": 24,
+   "rechazados": 0,
+   "intentos": 1
+  },
+  "es-10728 - final report, 2025-41-0522-if": {
+   "estado": "hecho",
+   "campos": 27,
+   "con_cita": 4,
+   "null_honestos": 23,
+   "rechazados": 0,
+   "intentos": 1
   }
  },
- "actualizado": "2026-09-26 23:58:34"
+ "actualizado": "2026-09-27 10:26:36"
 }

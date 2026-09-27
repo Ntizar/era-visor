@@ -1,0 +1,194 @@
+{
+ "stem": "IF-170909-270410-CIAF",
+ "campos": {
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "En el momento del arrollamiento el tiempo era despejado.",
+   "cita": "En el momento del arrollamiento el tiempo era despejado.",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Radiotelefonía A.",
+   "cita": "Radiotelefonía A.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": "Jornada del día 17: 5 horas (2 horas y 24 minutos de conducción); día 16: 6 horas y 55 minutos (3 horas y 54 minutos de conducción); día 15: descanso.",
+   "cita": "- el día 17: 5 horas (2 horas y 24 minutos de conducción).\n- el día 16: 6 horas y 55 minutos (3 horas y 54 minutos de conducción).\n- el día 15: descanso.",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Último reconocimiento médico y psicotécnico el 11/05/05; prueba de alcoholemia el día del accidente con resultado negativo (0,00 mg/1000 ml).",
+   "cita": "Realizó su último reciclaje formativo el 14/12/07 y su último reconocimiento médico y psicotécnico el 11/05/05, conforme a la normativa vigente.",
+   "pagina": 8,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": "En los vagones descarrilados figuraba la inscripción errónea “exceso de gálibo cumplimentará consigna C-6”, cuando la consigna C-6 no hace referencia a este tipo de vagones. En origen, al maquinista se le entrega, erróneamente, el Boletín de Órdenes e Informaciones Temporales de Circulación, que contempla “Circulando con las prescripciones de la consigna C-6” entre otras.",
+   "cita": "En los vagones descarrilados figuraba la inscripción errónea “exceso de gálibo cumplimentará consigna C-6”, cuando la consigna C-6 no hace referencia a este tipo de vagones.",
+   "pagina": 11,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "0.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "Descripción de la infraestructura: Trayecto de vía doble electrificada con bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado (C.T.C.). En el punto del descarrilamiento el perfil de vía es un tramo en curva de transición tipo clotoide de radio 285 m., rampa del 10%, carril de 54 Kg. y traviesas monobloque. En el trayecto del accidente la velocidad máxima es de 80 km/h.",
+   "cita": "2.2.3. Descripción de la infraestructura\nTrayecto de vía doble electrificada con bloqueo automático banalizado (B.A.B.) y control de tráfico centralizado (C.T.C.)",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": "Sistemas de comunicación: Radiotelefonía A.",
+   "cita": "2.2.4. Sistemas de comunicación\nRadiotelefonía A.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": "Daños materiales: Se derriban dos columnas de electrificación y el poste de la señal S1/2 y se produce el arrollamiento de los motores de las agujas 4 y 6 y de la caseta de obra. Los daños en las instalaciones, según valoración de Adif, ascienden a 971.695,62 euros. No se dispone de datos de los daños causados al material móvil.",
+   "cita": "Los daños en las instalaciones, según valoración de Adif, ascienden a la cantidad de 971.695,62 euros.",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  }
+ }
+}

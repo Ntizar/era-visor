@@ -1,0 +1,194 @@
+{
+ "stem": "IF-160708-281108-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "0030/2008",
+   "cita": "Investigación del accidente nº 0030/2008 ocurrido el 16.07.2008",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "490203 y 490006",
+   "cita": "Tren de viajeros 1094, autopropulsado de doble composición, motores 490203 y 490006.",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": "No se produjeron daños ni en el material rodante, ni en la infraestructura ni al medio ambiente.",
+   "cita": "No se produjeron daños ni en el material rodante, ni en la infraestructura ni al medio ambiente.",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "En el momento del arrollamiento el tiempo atmosférico era nublado.",
+   "cita": "En el momento del arrollamiento el tiempo atmosférico era nublado.",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Radiotelefonía modalidad A",
+   "cita": "Sistemas de comunicación\nRadiotelefonía modalidad A",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": "El 21 de julio de 2005, en el P.K. 109,817, entre Alfafar- Benetusser y Valencia Nord, se produjo el arrollamiento de una persona en presunto acto de suicidio.",
+   "cita": "El 21 de julio de 2005, en el P.K. 109,817, entre Alfafar- Benetusser y Valencia Nord, se produjo el arrollamiento de una persona en presunto acto de suicidio.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": "En el día del accidente: 3 horas y 17 minutos (jornada de trabajo: 4 horas y 32 minutos); 24 horas anteriores: 4 horas y 13 minutos (jornada de trabajo: 8 horas y 14 minutos); 48 horas anteriores: Descanso/vacaciones",
+   "cita": "-en el día del accidente: 3 horas y 17 minutos (jornada de trabajo: 4 horas y 32 minutos) -24 horas anteriores: 4 horas y 13 minutos (jornada de trabajo: 8 horas y 14 minutos) -48 horas anteriores: Descanso /vacaciones",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Último reciclaje formativo el 28/09/2006 y último reconocimiento médico y psicotécnico el 08/02/2005. Prueba de alcoholemia negativa (0,00 mg/1000 ml).",
+   "cita": "Realizó su último reciclaje formativo el 28/09/2006 y su último reconocimiento médico y psicotécnico el 08/02/2005.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": "El 21 de julio de 2005, en el P.K. 109,817, entre Alfafar- Benetusser y Valencia Nord, se produjo el arrollamiento de una persona en presunto acto de suicidio.",
+   "cita": "El 21 de julio de 2005, en el P.K. 109,817, entre Alfafar- Benetusser y Valencia Nord, se produjo el arrollamiento de una persona en presunto acto de suicidio.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "cita": "Dadas las características del suceso no se han adoptado medidas específicas de protección.",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "4.5.3": {
+   "valor": "Dadas las características del suceso, no se establecen recomendaciones.",
+   "cita": "Dadas las características del suceso, no se establecen recomendaciones.",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

@@ -1,0 +1,194 @@
+{
+ "stem": "IF-170409-221209-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "IF-170409-221209-CIAF",
+   "cita": "IF-170409-221209-CIAF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "Nº UIC: 967194630109 (tren 22126); Nº UIC: 967194630075 (tren 22347)",
+   "cita": "Tren de cercanías 22126 compuesto por el automotor 463010-9, 3 coches y masa remolcada de 154 toneladas Nº UIC: 967194630109.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "Tiempo atmosférico despejado; buena visibilidad en la zona de la señal de entrada 4S",
+   "cita": "La señal de entrada (4S) de la estación de El Caleyo se encuentra en una recta de 595 metros y en pendiente de 15,5 milésimas, con buena visibilidad. En el momento del accidente el tiempo atmosférico era despejado.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Equipo de radiotelefonía modalidad A; el pulsador de emergencia del equipo de radiotelefonía de cabina A2 presentó funcionamiento incorrecto tras la colisión, no siendo posible establecer comunicación con el puesto de mando de Oviedo",
+   "cita": "El pulsador de emergencia del equipo de radiotelefonía de cabina A2 correspondiente al vehículo 463510-8 del automotor 463010-9 presentó un funcionamiento incorrecto tras la colisión",
+   "pagina": 8,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": "El accidente tuvo causa en Factor Humano: rebase de la señal de entrada por incumplimiento de las órdenes dadas por las señales al personal de conducción; el maquinista sufrió un despiste según su propia declaración",
+   "cita": "El accidente tuvo su origen en el rebase, por el tren 22126, de la señal de entrada de la estación, que presentaba la indicación de parada (rojo), por incumplimiento de las órdenes dadas por las señales al personal de conducción.",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": "Maquinista del tren 22126: día 17: 4 h 45 min (conducción: 2 h 46 min); día 16: 8 h 0 min (conducción: 4 h 0 min); día 15: 6 h 57 min (conducción: 3 h 46 min). Maquinista del tren 22347: día 17: 5 h 7 min (conducción: 1 h 45 min); día 16: 7 h 51 min (conducción: 4 h 24 min); día 15: descanso/vacaciones",
+   "cita": "Jornada de trabajo del maquinista del tren 22126: -el día 17: 4 horas y 45 minutos (horas de conducción: 2 horas y 46 minutos). -el día 16: 8 horas y 0 minutos (horas de conducción: 4 horas y 0 minutos).",
+   "pagina": 8,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Prueba de alcoholemia en aire espirado negativa (0,00 mg/1000 ml) al maquinista del tren 22126 el día del accidente. Último reciclaje formativo del maquinista 22126: 25/02/09; último reconocimiento médico y psicotécnico: 08/05/06",
+   "cita": "Al maquinista, el día del accidente, se le realiza la prueba de alcoholemia en aire espirado dando resultado negativo (0,00 mg/1000 ml).",
+   "pagina": 8,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

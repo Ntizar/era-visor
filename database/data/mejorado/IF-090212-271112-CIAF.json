@@ -1,0 +1,194 @@
+{
+ "stem": "IF-090212-271112-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "IF-090212-271112-CIAF",
+   "cita": "COMISIÓN DE INVESTIGACIÓN \nDE ACCIDENTES FERROVIARIOS \nIF-090212-271112-CIAF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "447030 y 447043",
+   "cita": "Tren de viajeros de cercanías 28867, compuesto por los automotores 447030 en cabeza y 447043 en cola, 6 vehículos, 144 metros de longitud y 432 toneladas.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": "El 10 de abril de 2009 ocurrió un suceso similar en la vía 4 de la estación de Mataró. El tren colisionó con la topera a una velocidad de unos 4 km/h con el resultado de 5 heridos leves.",
+   "cita": "El 10 de abril de 2009 ocurrió un suceso similar en la vía 4 de la estación de Mataró. El tren colisionó con la topera a una velocidad de unos 4 km/h con el resultado de 5 heridos leves.",
+   "pagina": 12,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": "Renfe Operadora aplica medidas contempladas en la Circular nº 1 de Presidencia: control de alcoholemia, retirada del servicio, reconocimiento psicofísico, programa individualizado de reciclaje (simulador, reciclaje formativo y acompañamiento en cabina por tutor) y posterior reincorporación. Además, ha creado una oficina dedicada a la gestión del fallo humano, una \"comunidad de gestión de conocimiento\" y programas formativos centrados en la fiabilidad de la conducción. Renfe ha establecido un plan específico de conducción para el ámbito de cercanías de Barcelona que incluye talleres de conducción segura, intensificación de acompañamientos en cabina, análisis de registros de seguridad, lista de puntos de infraestructura que requieran especial atención, campaña de sensibilización sobre elementos de distracción en cabina y regulación del uso de la velocidad prefijada.",
+   "cita": "Renfe ha establecido un plan específico de conducción para el ámbito de cercanías de Barcelona, con el fin de reducir el fallo humano en la conducción que incluye: talleres de conducción segura, intensificación de los acompañamientos en cabina, intensificación de los análisis de los registros de seguridad de los trenes, elaboración y divulgación de una lista con puntos de la infraestructura que requieran especial atención, campaña de sensibilización sobre el uso inadecuado de elementos de distracción en cabina y regulación del uso de la velocidad prefijada.",
+   "pagina": 14,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

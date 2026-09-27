@@ -10,7 +10,7 @@
   },
   "0.6": {
    "valor": "Informe definitivo",
-   "cita": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO",
+   "cita": "INFORME DEFINITIVO SOBRE LA INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO Nº 0035/2006",
    "pagina": 1,
    "verificado": true,
    "verificacion": "cita literal en página"
@@ -37,8 +37,8 @@
    "verificacion": "null honesto: no consta en el informe"
   },
   "2.2.3": {
-   "valor": "269297 y 269217",
-   "cita": "compuesto por las locomotoras 269297 y 269217, 19 vagones y 495 toneladas remolcadas",
+   "valor": "Locomotoras 269297 y 269217, tren de Mercancías nº54883",
+   "cita": "tren de Mercancías nº54883 de la empresa ferroviaria Renfe, compuesto por las locomotoras 269297 y 269217, 19 vagones y 495 toneladas remolcadas",
    "pagina": 3,
    "verificado": true,
    "verificacion": "cita literal en página"
@@ -58,74 +58,74 @@
    "verificacion": "null honesto: no consta en el informe"
   },
   "2.3.2": {
-   "valor": "495 toneladas",
+   "valor": "19 vagones y 495 toneladas remolcadas",
    "cita": "compuesto por las locomotoras 269297 y 269217, 19 vagones y 495 toneladas remolcadas",
    "pagina": 3,
    "verificado": true,
    "verificacion": "cita literal en página"
   },
   "2.3.5": {
-   "valor": "El informe no menciona el medio ambiente",
+   "valor": null,
    "cita": null,
    "pagina": null,
-   "verificado": false,
-   "verificacion": "cita demasiado corta (o vacía)"
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
   },
   "2.3.6": {
-   "valor": "El informe no menciona el impacto económico",
+   "valor": null,
    "cita": null,
    "pagina": null,
-   "verificado": false,
-   "verificacion": "cita demasiado corta (o vacía)"
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
   },
   "2.4.3": {
-   "valor": "El informe no menciona condiciones de visibilidad, iluminación ni otras condiciones externas relevantes",
+   "valor": null,
    "cita": null,
    "pagina": null,
-   "verificado": false,
-   "verificacion": "cita demasiado corta (o vacía)"
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
   },
   "3.4.4": {
-   "valor": "El informe no describe un equipo de comunicaciones en particular",
+   "valor": null,
    "cita": null,
    "pagina": null,
-   "verificado": false,
-   "verificacion": "cita demasiado corta (o vacía)"
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
   },
   "3.6.1": {
-   "valor": "Sí, la víctima cruzó las vías por lugar no autorizado, haciendo caso omiso de la señalización acústica",
-   "cita": "Se estima que el accidente fue causado porque la víctima se dispuso a cruzar las vías por lugar no autorizado para ello, haciendo caso omiso de la señalización acústica que efectuó el tren 54883",
-   "pagina": 5,
+   "valor": null,
+   "cita": null,
+   "pagina": null,
    "verificado": true,
-   "verificacion": "cita literal en página"
+   "verificacion": "null honesto: no consta en el informe"
   },
   "3.6.2": {
-   "valor": "Jornadas del maquinista: día del incidente inicio 07:30 - finalización 13:07; día anterior inicio 09:20 - finalización 17:25; 48 horas antes inicio 05:15 - finalización 14:00",
+   "valor": "Jornada día del incidente: inicio 07:30 h, finalización 13:07 h. Jornada día anterior: inicio 09:20 h, finalización 17:25 h. Jornada 48 horas antes: inicio 05:15 h, finalización 14:00 h.",
    "cita": "Jornada día del incidente: inicio a las 07:30 horas. Finalización 13:07 horas. Jornada día anterior: inicio a las 09:20 horas. Finalización 17:25 horas. Jornada 48 horas antes: inicio a las 05:15 horas. Finalización 14:00 horas.",
    "pagina": 3,
    "verificado": true,
    "verificacion": "cita literal en página"
   },
   "3.6.3": {
-   "valor": "El maquinista se encontraba en condiciones aptas para el desarrollo de su función; prueba de alcoholemia negativa (0,00mg/1000ml)",
-   "cita": "Se realizó la prueba de control de alcoholemia al maquinista con resultado negativo (0,00mg/1000ml.)",
-   "pagina": 3,
+   "valor": null,
+   "cita": null,
+   "pagina": null,
    "verificado": true,
-   "verificacion": "cita literal en página"
+   "verificacion": "null honesto: no consta en el informe"
   },
   "3.6.4": {
-   "valor": "El informe no menciona la existencia de tensión física o psicológica",
+   "valor": null,
    "cita": null,
    "pagina": null,
-   "verificado": false,
-   "verificacion": "cita demasiado corta (o vacía)"
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
   },
   "3.6.5": {
-   "valor": "El informe no menciona diseño del equipo con efectos en la interfaz hombre-máquina",
+   "valor": null,
    "cita": null,
    "pagina": null,
-   "verificado": false,
-   "verificacion": "cita demasiado corta (o vacía)"
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
   },
   "3.6.6": {
    "valor": null,

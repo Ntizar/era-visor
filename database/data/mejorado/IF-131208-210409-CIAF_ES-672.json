@@ -1,0 +1,194 @@
+{
+ "stem": "IF-131208-210409-CIAF_ES-672",
+ "campos": {
+  "0.2": {
+   "valor": "IF-131208-210409-CIAF",
+   "cita": "IF-131208-210409-CIAF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "Nº UIC: 957102690626 (locomotora 269062)",
+   "cita": "Tren de mercancías 93161 (locomotora 269062, 11 vagones y 346 Tn de masa remolcada). 2. Nº UIC: 957102690626.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": "Hay obras en las inmediaciones para completar el vallado; se está montando una puerta para el personal de mantenimiento de la vía.",
+   "cita": "El entorno donde sucede el accidente está vallado y hay obras en las inmediaciones para completar el vallado. El lugar por donde presuntamente accedió la víctima a la vía es una puerta que se está montando para el personal de mantenimiento de la vía.",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente.",
+   "cita": "No se producen daños ni en el material rodante, ni en la infraestructura ni en el medio ambiente.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.6": {
+   "valor": "Resultan afectados dos trenes de larga distancia con un retraso total de 11 minutos y un tren de mercancías con un retraso total de 6 minutos. El tren implicado en el accidente sufre un retraso de 166 minutos.",
+   "cita": "Resultan afectados dos trenes de larga distancia con un retraso total de 11 minutos y un tren de mercancías con un retraso total de 6 minutos. El tren implicado en el accidente sufre un retraso de 166 minutos.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.4.3": {
+   "valor": "En el momento del arrollamiento el tiempo era lluvioso. Es un tramo recto de vía doble y buena visibilidad.",
+   "cita": "En el momento del arrollamiento el tiempo era lluvioso.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Radiotelefonía modalidad A.",
+   "cita": "Sistemas de comunicación \nRadiotelefonía modalidad A.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": "Jornada efectiva de conducción del maquinista: día del accidente: 44 minutos (jornada laboral: 59 minutos); 24 horas anteriores: 3 horas y 20 minutos (jornada laboral: 6 horas y 30 minutos); 48 horas anteriores: 4 horas y 50 minutos (jornada laboral: 4 horas y 55 minutos).",
+   "cita": "-en el día del accidente: 44 minutos (jornada laboral: 59 minutos) -24 horas anteriores: 3 horas y 20 minutos (jornada laboral: 6 horas y 30 minutos) -48 horas anteriores: 4 horas y 50 minutos (jornada laboral: 4 horas y 55 minutos)",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Al maquinista, el día del accidente, se le realiza la prueba de alcoholemia en aire expirado dando resultado negativo (0,00 mg/1000 ml). Además, realizó su último reconocimiento médico y psicotécnico el 31/10/05, de acuerdo con la normativa vigente.",
+   "cita": "Al maquinista, el día del accidente, se le realiza la prueba de alcoholemia en aire expirado dando resultado negativo (0,00 mg/1000 ml).",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

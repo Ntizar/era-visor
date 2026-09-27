@@ -1,0 +1,194 @@
+{
+ "stem": "ID-180107-200607-DGF",
+ "campos": {
+  "0.2": {
+   "valor": "ID-180107-200607-DGF",
+   "cita": "ID-180107-200607-DGF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": "Informe definitivo - Madrid, 20 de junio de 2007",
+   "cita": "Madrid, 20 de junio de 2007.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "Unidades de tracción 447051 y 447108 (tren de Cercanías nº 39212)",
+   "cita": "tren de Cercanías nº 39212 de la empresa ferroviaria RENFE compuesto por las unidades de tracción 447051 y 447108",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": "Trabajos programados de nivelación de desvíos en la estación de Cornellá",
+   "cita": "se estaban realizando trabajos programados de nivelación de desvíos en la estación de Cornellá.",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "Se constata la buena visibilidad del paso a nivel.",
+   "cita": "Se constata la buena visibilidad del paso a nivel.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": "Con fechas 20.05.06 y 15.10.06 se produjeron los accidentes graves 0023/06 y 0037/06 en el mismo paso a nivel y con las mismas características.",
+   "cita": "Con fechas 20.05.06 y 15.10.06 se produjeron los accidentes graves 0023/06 y 0037/06 en el mismo paso a nivel y con las mismas características.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": "Jornada día del incidente: inicio a las 00:00 horas. Finalización 00:50 horas. Jornada día anterior: inicio a las 19:00 horas. Finalización 24:00 horas. Jornada 48 horas antes: Descanso.",
+   "cita": "Jornada día del incidente: inicio a las 00:00 horas. Finalización 00:50 horas. Jornada día anterior: inicio a las 19:00 horas. Finalización 24:00 horas.",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Se realizó la prueba de control de alcoholemia al maquinista a las 04:15 horas, con resultado negativo (0,00mg/1000ml.).",
+   "cita": "Se realizó la prueba de control de alcoholemia al maquinista a las 04:15 horas, con resultado negativo (0,00mg/1000ml.).",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": "Con fechas 20.05.06 y 15.10.06 se produjeron los accidentes graves 0023/06 y 0037/06 en el mismo paso a nivel y con las mismas características.",
+   "cita": "Con fechas 20.05.06 y 15.10.06 se produjeron los accidentes graves 0023/06 y 0037/06 en el mismo paso a nivel y con las mismas características.",
+   "pagina": 5,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": "Impulsar campañas de concienciación destinadas a la ciudadanía del peligro que supone el no hacer uso de las correctas zonas de paso.",
+   "cita": "se estima conveniente recomendar que se impulsen campañas de concienciación destinadas a la ciudadanía del peligro que supone el no hacer uso de las correctas zonas de paso",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

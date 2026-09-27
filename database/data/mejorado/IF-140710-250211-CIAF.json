@@ -1,0 +1,194 @@
+{
+ "stem": "IF-140710-250211-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "IF-140710-250211-CIAF",
+   "cita": "IF-140710-250211-CIAF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": "incorrecto establecimiento de la velocidad máxima del tramo en la zona del accidente",
+   "cita": "Como factor subyacente se destaca el incorrecto establecimiento de la velocidad máxima del tramo en la zona del accidente.",
+   "pagina": 11,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "1601 y 1613",
+   "cita": "compuesto por dos locomotoras diesel eléctricas (1601 y 1613), con 18 vagones (plataformas 2ssag)",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.2": {
+   "valor": "contenedores cargados de madera y contenedores cargados con lingotes de aluminio",
+   "cita": "los nueve primeros llevaban contenedores cargados de madera y los nueve siguientes contenedores cargados con lingotes de aluminio.",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": "El día 14 de junio de 2010 -exactamente un mes antes del accidente que nos ocupa- en la misma línea 11 Ferrol- Gijón y en el mismo tramo Ferrol - Pravia se produce otro descarrilamiento de un tren de mercancías por idénticas circunstancias.",
+   "cita": "El día 14 de junio de 2010 -exactamente un mes antes del accidente que nos ocupa- en la misma línea 11 Ferrol- Gijón y en el mismo tramo Ferrol - Pravia se produce otro descarrilamiento de un tren de mercancías por idénticas circunstancias.",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": "Se establece una limitación de velocidad permanente en este punto de 50 km/h mediante la consigna serie C nº 5/2010.",
+   "cita": "Se establece una limitación de velocidad permanente en este punto de 50 km/h mediante la consigna serie C nº 5/2010.",
+   "pagina": 11,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "4.5.3": {
+   "valor": "38/10-1: Establecer un programa de sondeos con lecturas periódicas de los registradores de seguridad, con objeto de comprobar si el comportamiento de los maquinistas se ajusta a la reglamentación. 38/10-2: Realizar una inspección del tramo Ferrol - Pravia mediante la auscultación de la vía, comprobando que los parámetros cumplen la norma NFI vía 002 «Parámetros geométricos» de Feve.",
+   "cita": "Establecer un programa de sondeos con lecturas periódicas de los registradores de seguridad, con objeto de comprobar si el comportamiento de los maquinistas se ajusta a la reglamentación.",
+   "pagina": 12,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

@@ -1,0 +1,194 @@
+{
+ "stem": "IF-050609-221209-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "IF-050609-221209-CIAF",
+   "cita": "Informe final IF-050609-221209-CIAF",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": "Informe final",
+   "cita": "INFORME FINAL SOBRE EL ACCIDENTE FERROVIARIO Nº 0025/2009",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "Nº UIC: 957102692242 (locomotora 269224)",
+   "cita": "Tren de mercancías 93559 (locomotora 269224, 15 vagones y 641 Tn de masa remolcada). Tipo 100. Nº UIC: 957102692242.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": "Obras de supresión del paso a nivel del PK 176+126 mediante paso superior en el PK 176+274 (términos municipales de Maçanet de la Selva y Massanes, Girona)",
+   "cita": "Actualmente se están realizando las obras del proyecto de “Supresión del paso a nivel del PK 176+126 mediante paso superior en el PK 176+274",
+   "pagina": 11,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.2": {
+   "valor": "641 Tn de masa remolcada",
+   "cita": "Tren de mercancías 93559 (locomotora 269224, 15 vagones y 641 Tn de masa remolcada).",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": "En el momento del arrollamiento era de noche y el tiempo era despejado.",
+   "cita": "En el momento del arrollamiento era de noche y el tiempo era despejado.",
+   "pagina": 8,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Radiotelefonía modalidad A.",
+   "cita": "Sistemas de comunicación \nRadiotelefonía modalidad A.",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": "Un tren regional pasó antes sin que se abrieran las barreras ni dejaran de lucir los focos en rojo, lo que pudo confundir a la víctima.",
+   "cita": "minutos antes de que hiciera su paso el tren de mercancías había pasado un tren regional por el paso a nivel sin que entre ambos trenes se abrieran las barreras o dejaran de lucir los focos en rojo, lo que pudo confundir a la víctima.",
+   "pagina": 12,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": "Día 5: 5 horas y 40 minutos; día 4: descanso; día 3: 6 horas y 8 minutos. Cumple los tiempos máximos de conducción.",
+   "cita": "Jornada laboral del maquinista del tren 93559: \n- el día 5: 5 horas y 40 minutos \n- el día 4: descanso. \n- el día 3: 6 horas y 8 minutos.",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Prueba de alcoholemia negativa (0,00 mg/1000 ml); último reconocimiento médico y psicotécnico el 15/11/04.",
+   "cita": "Al maquinista, el día del accidente, se le realiza la prueba de alcoholemia en aire espirado dando resultado negativo (0,00 mg/1000 ml).",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

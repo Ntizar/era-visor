@@ -1,7 +1,7 @@
 # Cobertura de la Fase 2 (crudo)
 
 - md procesados: **372**
-- escritos ahora: 372 · saltados: 0 · fallos: 0
+- escritos ahora: 1 · saltados: 0 · fallos: 0
 
 | Métrica | Valor |
 |---|---|

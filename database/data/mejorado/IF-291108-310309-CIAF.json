@@ -1,0 +1,194 @@
+{
+ "stem": "IF-291108-310309-CIAF",
+ "campos": {
+  "0.2": {
+   "valor": "0066/2008",
+   "cita": "INFORME FINAL SOBRE LA INVESTIGACIÓN  DEL ACCIDENTE FERROVIARIO Nº 0066/2008  OCURRIDO EL DÍA 29.11.2008  EN LA ESTACIÓN DE TEMBLEQUE",
+   "pagina": 1,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "0.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "1.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.1.9": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.3": {
+   "valor": "333380",
+   "cita": "Tren de mercancías 97401, de la empresa ferroviaria Continental Rail, compuesto de 28 vehículos, masa remolcada 553 toneladas y locomotora 333380.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.2.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.2.9": {
+   "valor": "Trabajos de desguarnecido en la vía II en la estación de Tembleque",
+   "cita": "En la estación de Tembleque se estaban realizando trabajos de desguarnecido en la vía II, al amparo del punto 191 del Acta de trabajos semanal y de la Consigna Serie B nº11",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": "No se producen daños en el medio ambiente.",
+   "cita": "No se producen daños ni en el material rodante, ni en la infraestructura, ni en el medio ambiente.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.3.6": {
+   "valor": "Resultan afectados un tren de larga distancia con un retraso de 82 minutos y 7 trenes de mercancías con un retraso total de 1.036 minutos. La vía I permanece interceptada durante 3 horas y 20 minutos y la vía II desde las 23:28 horas del día 28 hasta las 6:35 horas del día 29 de noviembre.",
+   "cita": "Resultan afectados un tren de larga distancia con un retraso de 82 minutos y 7 trenes de mercancías con un retraso total de 1.036 minutos.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "2.4.3": {
+   "valor": "En el momento del arrollamiento era de noche y el tiempo atmosférico era lluvioso.",
+   "cita": "En el momento del arrollamiento era de noche y el tiempo atmosférico era lluvioso.",
+   "pagina": 7,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.4.4": {
+   "valor": "Sistemas de comunicación: entre el maquinista del tren y el puesto de mando: radiotelefonía modalidad A; entre el puesto de mando y el encargado de trabajos: teléfono móvil corporativo; entre el encargado de trabajos y la maquinaria de obra: radiotelefonía modalidad C; entre el encargado de trabajos y pilotos de seguridad: radioteléfonos portátiles.",
+   "cita": "Entre el maquinista del tren de mercancías y el puesto de mando: radiotelefonía modalidad A.",
+   "pagina": 6,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.1": {
+   "valor": "El accidente tuvo su origen en la invasión del gálibo de la vía por parte de la víctima en el momento en que pasaba el tren.",
+   "cita": "El accidente tuvo su origen en la invasión por parte de la víctima del galibo de la vía en el momento en que pasaba el tren.",
+   "pagina": 14,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": "Jornada laboral del maquinista: día del accidente 6 h 10 min, 24 horas anteriores 8 h 30 min, 48 horas anteriores descanso. Encargado de trabajos: día 3 h 10 min, 24 h anteriores 7 h, 48 h anteriores 7 h. Piloto de desguarnecido: día 3 h 10 min, 24 h anteriores 7 h, 48 h anteriores 7 h. Piloto electrificación PK 103,500: día 7 h 40 min, 24 h anteriores 12 h, 48 h anteriores 12 h. Piloto electrificación PP.KK. 103,500-104,500: día 3 h 40 min, 24 h anteriores 8 h, 48 h anteriores 8 h.",
+   "cita": "Jornada laboral del maquinista del tren 97401. -en el día del accidente: 6 horas y 10 minutos -24 horas anteriores: 8 horas y 30 minutos -48 horas anteriores: descanso",
+   "pagina": 10,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": "Tasa de alcoholemia negativa (0,00 mg/1000 ml) en el maquinista y resto de trabajadores. El maquinista realizó su último reconocimiento médico y psicotécnico en marzo de 2007. Las jornadas de trabajo y la tasa de alcoholemia cumplen lo establecido en la normativa.",
+   "cita": "Al maquinista y al resto de trabajadores presentes en el momento del accidente se les realiza la prueba de alcoholemia en aire expirado dando resultado negativo (0,00 mg/1000 ml).",
+   "pagina": 11,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.1": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.7.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.3.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.2": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.5.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "4.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  }
+ }
+}

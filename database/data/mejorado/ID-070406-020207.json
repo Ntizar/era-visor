@@ -126,6 +126,69 @@
    "pagina": null,
    "verificado": true,
    "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.3.6": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "2.4.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.4.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.1": {
+   "valor": "El lugar del arrollamiento se encuentra en el casco urbano de Villena, a 230 metros del paso a nivel de la estación del municipio sita en el PK 325,615.",
+   "cita": "3.6.1. Lugar del suceso. El lugar del arrollamiento se encuentra en el casco urbano de Villena, a 230 metros del paso a nivel de la estación del municipio sita en el PK 325,615.",
+   "pagina": 3,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.2": {
+   "valor": "El tren tenía en el momento del arrollamiento una velocidad de 85 Km/h, siendo la velocidad máxima de 160 Km/h.",
+   "cita": "3.6.2. Velocidad del tren. Según el registro de la memoria estática del automotor, el tren que tiene parada prescrita en Villena, tenía en el momento del arrollamiento una velocidad de 85Km/h, siendo la velocidad máxima de 160 Km/h.",
+   "pagina": 4,
+   "verificado": true,
+   "verificacion": "cita literal en página"
+  },
+  "3.6.3": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.4": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
+  },
+  "3.6.5": {
+   "valor": null,
+   "cita": null,
+   "pagina": null,
+   "verificado": true,
+   "verificacion": "null honesto: no consta en el informe"
   }
  }
 }

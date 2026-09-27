@@ -3,14 +3,14 @@
  "campos": {
   "0.2": {
    "valor": "ID-060507-190707-DGF",
-   "cita": "ID-060507-190707-DGF ",
+   "cita": "ID-060507-190707-DGF",
    "pagina": 1,
    "verificado": true,
    "verificacion": "cita literal en página"
   },
   "0.6": {
-   "valor": "Informe definitivo",
-   "cita": "Informe definitivo 19.07.2007 ",
+   "valor": "Informe definitivo - 19.07.2007",
+   "cita": "Informe definitivo 19.07.2007",
    "pagina": 1,
    "verificado": true,
    "verificacion": "cita literal en página"
@@ -37,8 +37,8 @@
    "verificacion": "null honesto: no consta en el informe"
   },
   "2.2.3": {
-   "valor": "UT.447026 y UT.447071",
-   "cita": "tren de viajeros de Media Distancia 8257 (UT.447026 y UT.447071) de la empresa ferroviaria RENFE",
+   "valor": "UT.447026 y UT.447071 (tren 8257)",
+   "cita": "tren de viajeros de Media Distancia 8257 (UT.447026 y UT.447071) de la empresa ferroviaria",
    "pagina": 3,
    "verificado": true,
    "verificacion": "cita literal en página"
@@ -79,22 +79,22 @@
    "verificacion": "null honesto: no consta en el informe"
   },
   "2.4.3": {
-   "valor": "Visibilidad buena hacia ambos lados; condiciones meteorológicas soleadas; el paso se encuentra a la salida de una curva de radio 2.500 m, lo que en condiciones normales permite una buena visibilidad.",
-   "cita": "3.6.1. Visibilidad. La visibilidad es buena hacia ambos lados.",
+   "valor": "La visibilidad es buena hacia ambos lados. Condiciones meteorológicas: Soleado.",
+   "cita": "La visibilidad es buena hacia ambos lados.",
    "pagina": 5,
    "verificado": true,
    "verificacion": "cita literal en página"
   },
   "3.4.4": {
    "valor": "El maquinista comunicó el suceso al Puesto de Mando de Barcelona, que cursó aviso a las Gerencias de Seguridad en la Circulación de ADIF y RENFE, así como a las Gerencias de Seguridad y Protección Civil y servicios de emergencia.",
-   "cita": "El maquinista comunicó el suceso al Puesto de Mando de Barcelona, que cursó aviso a las Gerencias de Seguridad en la Circulación de ADIF y RENFE, así como a las Gerencias de Seguridad y Protección Civil y servicios de emergencia.",
+   "cita": "El maquinista comunicó el suceso al Puesto de Mando de Barcelona, que cursó aviso a las Gerencias de Seguridad en la Circulación de ADIF y RENFE",
    "pagina": 3,
    "verificado": true,
    "verificacion": "cita literal en página"
   },
   "3.6.1": {
-   "valor": "Sí, causa atribuida a Factor Humano: imprudencia de la víctima al intentar cruzar las vías por un punto no autorizado (paso vicioso), causando la invasión indebida de la vía.",
-   "cita": "El elaborado por RENFE establece como causa directa del accidente “Imprudencia de la víctima al intentar cruza las vías por un punto no autorizado”.",
+   "valor": "Causa por Factor Humano: imprudencia de la víctima al intentar cruzar las vías por un punto no autorizado (paso vicioso).",
+   "cita": "El elaborado por RENFE establece como causa directa del accidente \"Imprudencia de la víctima al intentar cruza las vías por un punto no autorizado\"",
    "pagina": 6,
    "verificado": true,
    "verificacion": "cita literal en página"
@@ -107,18 +107,18 @@
    "verificacion": "cita literal en página"
   },
   "3.6.3": {
-   "valor": "El maquinista se encontraba bajo los efectos de un fuerte shock emocional tras el suceso; la analítica de orina y sangre dio resultado negativo tanto en alcohol como en drogas; de los análisis se constata que el maquinista se encontraba apto para el desarrollo de sus funciones.",
-   "cita": "dando resultado negativo tanto en alcohol como en drogas.",
-   "pagina": 4,
+   "valor": "El maquinista se encontraba apto para el desarrollo de sus funciones; análisis toxicológicos negativos en alcohol y drogas.",
+   "cita": "De los análisis efectuados al maquinista, se constata que el maquinista se encontraba apto para el desarrollo de sus funciones.",
+   "pagina": 5,
    "verificado": true,
    "verificacion": "cita literal en página"
   },
   "3.6.4": {
-   "valor": "Sí, el maquinista se encontraba bajo los efectos de un fuerte shock emocional tras el accidente, lo que impidió realizar la declaración y la prueba de alcoholemia in situ.",
-   "cita": "no pudiendo realizar la toma de declaración ni la prueba de alcoholemia al maquinista por encontrarse éste bajo los efectos de un fuerte shock emocional por lo ocurrido.",
+   "valor": "Se encontraba bajo los efectos de un fuerte shock emocional por lo ocurrido.",
+   "cita": "por encontrarse éste bajo los efectos de un fuerte shock emocional por lo ocurrido",
    "pagina": 4,
-   "verificado": false,
-   "verificacion": "cita NO está en la página 4"
+   "verificado": true,
+   "verificacion": "cita literal en página"
   },
   "3.6.5": {
    "valor": null,
