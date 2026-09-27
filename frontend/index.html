@@ -608,7 +608,7 @@
 
 <script>
 /* bump para refrescar cache de la DB en cada despliegue */
-const VERSION_DATOS = "2026-09-27-2";
+const VERSION_DATOS = "2026-09-27-3";
 const TIPOS_ES = {
     "descarrilamiento": "Descarrilamiento", "arrollamiento": "Arrollamiento", "colision": "Colisión",
     "paso_a_nivel": "Paso a nivel", "incendio": "Incendio", "fallos_senal": "Fallo de señalización", "otro": "Otro"
@@ -687,27 +687,33 @@ let VISTA = [];
 let mapa, cluster, viasEstado = 'pendiente';
 
 /* ===== VÍAS ADIF =====
-   Une los puntos de la malla `data/adif-pkteoricos.geojson` por tramo (en
-   orden de PK) para dibujar el trazado de la red. Se carga una sola vez y
+   El WMS oficial de Adif (ideadif.adif.es) responde 403 a cualquier petición,
+   así que la red se dibuja desde `data/vias-adif.geojson`: el trazado oficial
+   de adif-tramos.geojson simplificado a 10 m con Douglas-Peucker por
+   `scripts/preparar_vias_visor.py` (40.157 vértices, 1,3 MB, 1.178 líneas
+   con su código de línea, provincia y tipo de red). Se carga una sola vez y
    sin bloquear el arranque; si falla, el mapa queda como estaba. */
+let viasCargadas = 0;
 async function cargarViasADIF(capa) {
     if (viasEstado !== 'pendiente') return viasEstado;
     viasEstado = 'cargando';
     try {
-        const resp = await fetch('../data/adif-pkteoricos.geojson?v=' + VERSION_DATOS);
+        const resp = await fetch('../data/vias-adif.geojson?v=' + VERSION_DATOS);
         if (!resp.ok) throw new Error('HTTP ' + resp.status);
         const gj = await resp.json();
-        const porTramo = {};
-        for (const f of gj.features) {
-            const c = f.properties && f.properties.codtramo;
-            if (!c || !f.geometry || !f.geometry.coordinates) continue;
-            (porTramo[c] = porTramo[c] || []).push([+f.properties.pk || 0, f.geometry.coordinates]);
-        }
-        for (const k in porTramo) {
-            const pts = porTramo[k].sort((a, b) => a[0] - b[0]).map(x => [+x[1][1], +x[1][0]]);
-            if (pts.length < 2) continue;
-            L.polyline(pts, { color: '#2563eb', weight: 1.5, opacity: 0.55 }).addTo(capa);
-        }
+        const trazado = L.geoJSON(gj, {
+            style: { color: '#2563eb', weight: 1.4, opacity: 0.55 },
+            onEachFeature: (feat, layer) => {
+                const p = (feat && feat.properties) || {};
+                if (p.cod_linea) {
+                    layer.bindTooltip(
+                        p.cod_linea + (p.provincia ? ' · ' + p.provincia : ''),
+                        { sticky: true, direction: 'top', className: 'tip-via' });
+                }
+            }
+        });
+        capa.addLayer(trazado);
+        viasCargadas = (gj.features || []).length;
         viasEstado = 'ok';
     } catch (e) {
         viasEstado = 'error';

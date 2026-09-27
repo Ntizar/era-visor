@@ -1,6 +1,6 @@
 # Informe de verificación — ES
 
-> `scripts/verificar_todo.py` · 2026-09-27 13:11 · **APTO** · 3 avisos · 14 checks OK
+> `scripts/verificar_todo.py` · 2026-09-27 14:45 · **APTO** · 3 avisos · 14 checks OK
 
 ## 1. Integridad de la cadena PDF ↔ md ↔ json ↔ DB
 
@@ -48,4 +48,4 @@
 
 ## 6. Cache-busting del frontend
 
-- **[OK]** VERSION_DATOS: 2026-09-27-1 cubre la DB (2026-09-27)
+- **[OK]** VERSION_DATOS: 2026-09-27-3 cubre la DB (2026-09-27)

@@ -38,7 +38,7 @@ Hecho con ❤️ por David Antizar
 | Localización auditada | **344 bien · 0 duda · 4 mal · 3 sin coords** (99 % con punto) |
 | Veredicto geo por método | `via_pk` 209 · `via_pkteorico` 82 · `estacion_ign` 39 · `poblacion` 17 · `estacion_adif` 1 · `sin_geo` 3 |
 | Recomendaciones estructuradas | **651 únicas** (destinatario/implementador/texto/página en celdas separadas, con `tipo_suceso` para filtrar) |
-| `VERSION_DATOS` | `2026-09-27-2` (bump en cada despliegue de datos) |
+| `VERSION_DATOS` | `2026-09-27-3` (bump en cada despliegue de datos) |
 
 **Residuos conocidos:** 3 sin coords — Barcelona Marina (estación de Cercanías abierta en 2022, ausente de IGN/OSM), Río Huerva (apeadero sin mapear) y el puesto de bloqueo Río Duero (nombre no localizable). No se inventa: sin fuente no hay punto.
 El informe escaneado `ID_230507_140907` ya está OCRado y estructurado como `0033/2007`;
@@ -130,11 +130,15 @@ La ubicación es lo que más errores ha dado. Se resuelve por capas, de más a m
 ### Capa de vías ADIF, paleta y sello del visor (2026-09-27)
 
 - **Capa de vías ADIF:** el WMS oficial (`ideadif.adif.es/gservices/Tramificacion/wms`)
-  responde **403** a cualquier petición (medido con y sin cabeceras de navegador), así
-  que la capa se dibuja desde `data/adif-pkteoricos.geojson` (3,3 MB): los 17.200 PKs se
-  agrupan por `codtramo` y se ordenan por `pk` → 1.142 polilíneas. Carga diferida tras
-  el arranque, una sola vez, registrada en el selector de capas; si falla, el mapa queda
-  como estaba.
+  responde **403** a cualquier petición — probado por https, http, WFS, geoserver y la
+  raíz: toda la subdominio está tras un WAF que bloquea. La capa se dibuja por tanto
+  desde `data/vias-adif.geojson`, generado por `scripts/preparar_vias_visor.py` desde el
+  trazado oficial `data/adif-tramos.geojson`: Douglas-Peucker a 10 m sobre 604.913
+  vértices → **40.157 vértices (1,3 MB, 1.178 líneas)** con `cod_linea`, `provincia`,
+  `tipo_red` y `estado`, los dos últimos en el tooltip al pasar el cursor. Carga
+  diferida tras el arranque, una sola vez; si falla, el mapa queda como estaba.
+  (La primera versión reconstruía la red desde la malla de PKs — un punto cada ~944 m,
+  16.058 vértices: se veía recta y con 2,5× menos detalle que el WMS que había antes.)
 - **Paleta del dashboard: monocroma azul + gris** (`TONOS` = #1e3a8a → #bfdbfe, `GRIS`
   para la tendencia) con `Chart.defaults` global (texto #64748b, rejillas #eef1f6,
   leyendas con punto). Sin rojos ni ámbar en gráficos: ese color queda para el MAPA,
