@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/IF-190112-271112-CIAF_ASTURIAS.pdf
+url_oficial: https://www.transportes.gob.es/recursos_mfom/pdf/0D488A72-103D-491A-9773-4E3F1414CC91/114719/IF190112271112CIAF.pdf
+md5_pdf: b9bded5ea978e1e1eb22ed87e5fe7376
 paginas: 16
 chars: 25969
+tablas_detectadas: 19
+tablas_convertidas: 1
+indice_quitadas: 19
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -80,7 +85,6 @@ reducir los riesgos en el transporte ferroviario. Dicha investigación no se
 ocupará, en ningún caso, de la determinación de la culpa o responsabilidad y 
 será independiente de cualquier investigación judicial. 
 
-
 ## Página 2
 
  
@@ -101,32 +105,12 @@ IF-190112-271112-CIAF
  
 Pág. 2 de 16
 1. 
-RESUMEN ........................................................................................................................................ 3 
 2. 
-HECHOS INMEDIATOS DEL SUCESO ............................................................................................ 3 
-2.1.  SUCESO ................................................................................................................................................. 3 
-2.2.  CIRCUNSTANCIAS DEL SUCESO ............................................................................................................ 6 
-2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES ................................................................... 11 
-2.4.  CIRCUNSTANCIAS EXTERNAS .............................................................................................................. 11 
 3. 
-RELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ...................................................... 11 
-3.1.  RESUMEN DE LAS DECLARACIONES .................................................................................................... 11 
-3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD ........................................................................................ 12 
-3.3.  NORMATIVA ........................................................................................................................................ 12 
-3.4.  FUNCIONAMIENTO DEL MATERIAL RODANTE FERRROVIARIO Y DE LA INFRAESTRUCTURA .............. 12 
-3.5.  INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO ................................................................ 13 
-3.6.  OTROS SUCESOS SIMILARES DE CARÁCTER SIMILAR ......................................................................... 14 
 4. 
-ANÁLISIS Y CONCLUSIONES ...................................................................................................... 14 
-4.1.  DESCRIPCIÓN DE LOS ACONTECIMIENTOS......................................................................................... 14 
-4.2.  DELIBERACIÓN .................................................................................................................................... 14 
-4.3.  CONCLUSIONES ................................................................................................................................... 15 
 5. 
-MEDIDAS ADOPTADAS ................................................................................................................ 15 
 6. 
-RECOMENDACIONES ................................................................................................................... 16 
  
-
 
 ## Página 3
 
@@ -197,7 +181,6 @@ velocidad hasta 70 km/h, pasando a esta velocidad por la señales de aviso y de 
 de velocidad a 40 km/h (por curva). A unos 100 metros de esta última señal, y ya en la curva, es 
 cuando se aplica freno eléctrico y descarrila.  
 
-
 ## Página 4
 
  
@@ -253,7 +236,6 @@ EL BERRON
 ARRIONDAS 
 SANTANDER 
 
-
 ## Página 5
 
  
@@ -304,7 +286,6 @@ SOTO DE DUEÑAS
 EL BERRON 
 ARRIONDAS 
 SANTANDER 
-
 
 ## Página 6
 
@@ -360,7 +341,6 @@ del tipo 2SSag. El tren es de tipo T50.
 La composición real del tren era la siguiente: 
  
  
-
 
 ## Página 7
 
@@ -489,6 +469,30 @@ Contenedor vacío
 20 t 
  
 
+### Tablas de la página 7
+
+| Lugar en la composición | SERIE | Nº | CARGA | PESO |
+|---|---|---|---|---|
+| 1º | Sgh | 9044 | Bobinas | 43 t |
+| 2º | Sgh | 9084 | Bobinas | 43 t |
+| 3º | Sgh | 9064 | Bobinas | 62 t |
+| 4º | Sgh | 9059 | Bobinas | 60 t |
+| 5º | 2SSag | 406 | Bobinas | 62 |
+| 6º | Sgh | 6036 | Bobinas | 61 t |
+| 7º | Sgh | 9046 | Bobinas | 54 t |
+| 8º | Sgh | 9087 | Bobinas | 62 t |
+| 9º | Sgh | 9039 | Bobinas | 57 t |
+| 10º | Sgh | 9052 | Bobinas | 52 t |
+| 11º | Sgh | 9035 | Bobinas | 56 t |
+| 12º | Sgh | 9080 | Bobinas | 58 t |
+| 13º | 2SSag | 263 | Bobinas | 53 t |
+| 14º | Sgh | 9095 | Bobinas | 60 t |
+| 15º | 2SSag | 521 | Contenedor vacío | 20 t |
+| 16º | 2SSag | 151 | Contenedor vacío | 20 t |
+| 17º | 2SSag | 170 | Contenedor vacío | 20 t |
+| 18º | 2SSag | 154 | Contenedor vacío | 20 t |
+| 19º | 2SSag | 173 | Contenedor vacío | 20 t |
+| 20º | 2SSag | 473 | Contenedor vacío | 20 t |
 
 ## Página 8
 
@@ -542,7 +546,6 @@ las circulaciones son 12 trenes (6 de viajeros y 6 de mercancías).
  
 Señal de anuncio de L.P.V. a 40 km/h antes del lugar del descarrilamiento. 
 (Fuente: Feve) 
-
 
 ## Página 9
 
@@ -599,7 +602,6 @@ Tren 9561
 Limitación de velocidad en el 
 sentido de avance del tren 9561 
 
-
 ## Página 10
 
  
@@ -654,7 +656,6 @@ Pág. 10 de 16
 Punto del descarrilamiento (PK 378+049) 
 (Fuente Feve) 
 
-
 ## Página 11
 
  
@@ -703,7 +704,6 @@ Que tenía buen conocimiento de la línea y que no le acompañaba ninguna person
 accidente. 
 Que no mantuvo conversaciones telefónicas previas al suceso. 
 Que desconoce las causas del accidente. 
-
 
 ## Página 12
 
@@ -766,7 +766,6 @@ Los equipos de seguridad del tren funcionaron correctamente.
 Del registrador de seguridad de la locomotora 1911 que circulaba en cabeza se verifica que el tren 
 circulaba en la curva del descarrilamiento a una velocidad de 70 km/h, existiendo en ésta una 
 
-
 ## Página 13
 
  
@@ -820,7 +819,6 @@ Jornada laboral del maquinista del tren 9561:
 - el día 18: descanso; 
 - el día 17: descanso. 
 Al maquinista se le realiza prueba de alcoholemia con resultado positivo. 
-
 
 ## Página 14
 
@@ -879,7 +877,6 @@ El personal de conducción cumple la normativa vigente de Feve en cuanto al tít
 formación y reconocimiento médico y psicotécnico. El día del accidente se le hace prueba de 
 alcoholemia al maquinista con resultado positivo. 
 El material rodante es tipo T50 (velocidad máxima 50 km/h) y su funcionamiento fue correcto. 
-
 
 ## Página 15
 
@@ -944,7 +941,6 @@ MEDIDAS ADOPTADAS
 Por parte de Feve 
 El maquinista fue expedientado y sancionado con 45 días de suspensión de empleo y sueldo, 
 apercibimiento e inhabilitación definitiva para servicios relacionados con circulaciones en línea.  
-
 
 ## Página 16
 

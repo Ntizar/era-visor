@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/ID-151006-020307-SALOU_Valencia to Barcelona.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/ID-151006-020307-SALOU_Valencia%20to%20Barcelona.pdf
+md5_pdf: 3cd9c8a7cff9805c6157aaf426966ce3
 paginas: 6
 chars: 10721
+tablas_detectadas: 6
+tablas_convertidas: 0
+indice_quitadas: 0
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -72,7 +77,6 @@ ID-151006-020307
  
 Pág. 1 de 6
 
-
 ## Página 2
 
  
@@ -128,7 +132,6 @@ ID-151006-020307
  
  
 Pág. 2 de 6
-
 
 ## Página 3
 
@@ -190,7 +193,6 @@ ID-151006-020307
  
  
 Pág. 3 de 6
-
 
 ## Página 4
 
@@ -254,7 +256,6 @@ ID-151006-020307
  
  
 Pág. 4 de 6
-
 
 ## Página 5
 
@@ -323,7 +324,6 @@ ID-151006-020307
  
  
 Pág. 5 de 6
-
 
 ## Página 6
 

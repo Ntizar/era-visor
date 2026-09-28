@@ -945,5 +945,5 @@
  "titulo": "Descarrilamiento del tren 533 de Renfe Operadora en el cambiador de ancho de Zaragoza Delicias (Zaragoza)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/ES IF_060613_281014_CIAF.md"
+ "md": "md/ES/ES IF_060613_281014_CIAF.md"
 }

@@ -508,6 +508,13 @@
             <option value="bien">Solo verificados</option>
         </select>
 
+        <h3>Índice oficial CIAF</h3>
+        <select id="filterIndice">
+            <option value="">Todos (281 oficiales + 70 anteriores)</option>
+            <option value="si">Solo índice oficial (281)</option>
+            <option value="no">Solo fuera del índice (2006-2007)</option>
+        </select>
+
         <h3>Análisis v2 (IA)</h3>
         <label>Subsistema implicado</label>
         <select id="filterSubsistema"><option value="">Todos</option></select>
@@ -744,7 +751,7 @@
 
 <script>
 /* bump para refrescar cache de la DB en cada despliegue */
-const VERSION_DATOS = "2026-09-27-5";
+const VERSION_DATOS = "2026-09-28-1";
 const TIPOS_ES = {
     "descarrilamiento": "Descarrilamiento", "arrollamiento": "Arrollamiento", "colision": "Colisión",
     "paso_a_nivel": "Paso a nivel", "incendio": "Incendio", "fallos_senal": "Fallo de señalización", "otro": "Otro"
@@ -930,6 +937,7 @@ function aplicaFiltros() {
     const conVic = document.getElementById('filterVictimas').checked;
     const conInf = document.getElementById('filterInforme').checked;
     const geo = document.getElementById('filterGeo').value;
+    const soloIndice = document.getElementById('filterIndice').value;
     const subs = document.getElementById('filterSubsistema').value;
     const atp = document.getElementById('filterATP').value;
     const red = document.getElementById('filterRed').value;
@@ -946,6 +954,8 @@ function aplicaFiltros() {
         if (conVic && !((r.fallecidos || 0) > 0 || (r.heridos_graves || 0) > 0)) return false;
         if (conInf && !r.url_pdf) return false;
         if (geo && (r.geo_veredicto || 'sin_coords') !== geo) return false;
+        if (soloIndice === 'si' && r.indice_oficial !== true) return false;
+        if (soloIndice === 'no' && r.indice_oficial !== false) return false;
         if (subs && r.subsistema !== subs) return false;
         if (atp && r.sistema_proteccion !== atp) return false;
         if (red && r.tipo_red !== red) return false;
@@ -1447,6 +1457,7 @@ function resetFilters() {
     document.getElementById('filterVictimas').checked = false;
     document.getElementById('filterInforme').checked = false;
     document.getElementById('filterGeo').value = '';
+    document.getElementById('filterIndice').value = '';
     document.getElementById('filterSearch').value = '';
     document.getElementById('tableSearch').value = '';
     document.getElementById('filterSubsistema').value = '';
@@ -1557,7 +1568,7 @@ async function cargar() {
     sMin.onchange = () => { rMin.value = sMin.value; if (+rMin.value > +rMax.value) rMax.value = rMin.value; pintaFill(); aplicaFiltros(); };
     sMax.onchange = () => { rMax.value = sMax.value; if (+rMax.value < +rMin.value) rMin.value = rMax.value; pintaFill(); aplicaFiltros(); };
     document.getElementById('yearTodo').onclick = () => { rMin.value = amin; rMax.value = amax; pintaFill(); aplicaFiltros(); };
-    ['filterPais', 'filterType', 'filterVictimas', 'filterInforme', 'filterGeo', 'filterEntidad', 'filterSubsistema', 'filterATP', 'filterRed', 'filterExplot'].forEach(id =>
+    ['filterPais', 'filterType', 'filterVictimas', 'filterInforme', 'filterGeo', 'filterIndice', 'filterEntidad', 'filterSubsistema', 'filterATP', 'filterRed', 'filterExplot'].forEach(id =>
         document.getElementById(id).onchange = aplicaFiltros);
     document.getElementById('filterSearch').oninput = aplicaFiltros;
     document.getElementById('tableSearch').oninput = aplicaFiltros;

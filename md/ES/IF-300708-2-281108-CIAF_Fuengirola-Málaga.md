@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/IF-300708-2-281108-CIAF_Fuengirola-Málaga.pdf
+url_oficial: https://www.transportes.gob.es/recursos_mfom/pdf/AA7C5752-80FB-4CD2-9CA5-40D5E9992BC5/46966/IF300708281108CIAF.pdf
+md5_pdf: 0c18034f3b1e45853afc973905b56a93
 paginas: 9
 chars: 13266
+tablas_detectadas: 9
+tablas_convertidas: 0
+indice_quitadas: 0
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -73,7 +78,6 @@ INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO
 Nº 0032/2008 
 OCURRIDO EL DÍA 30.07.2008 
 
-
 ## Página 2
 
  
@@ -139,7 +143,6 @@ por el Real Decreto 810/2007, de 22 de junio (B.O.E. nº 162 de 07.07.07), en su
 competencia para la investigación de accidentes ferroviarios a la Comisión de Investigación de 
 Accidentes Ferroviarios. 
 
-
 ## Página 3
 
  
@@ -204,7 +207,6 @@ Trayecto de vía única con bloqueo automático (B.A.U.) y control de tráfico c
 El lugar del arrollamiento se sitúa en curva y en terraplén. Además, es de difícil acceso y se 
 encuentra vallado por ambos lados. 
 
-
 ## Página 4
 
  
@@ -262,7 +264,6 @@ Se produjeron retrasos en ocho trenes de cercanías entre Fuengirola y Málaga.
 2.4 
 CIRCUNSTANCIAS EXTERNAS 
 En el momento del arrollamiento era de día y las condiciones atmosféricas eran buenas. 
-
 
 ## Página 5
 
@@ -324,7 +325,6 @@ Orden Ministerial de Homologación de Material Rodante, 233 de 31 de enero de 20
 Orden Circular 1/2008 Pautas para la investigación técnica de los accidentes ferroviarios que 
 competen a la Comisión de Investigación de accidentes ferroviarios. 
 
-
 ## Página 6
 
  
@@ -384,7 +384,6 @@ Tiempos máximos de conducción en el transporte ferroviario.
 Tanto el material rodante como los sistemas de control de la infraestructura funcionaban 
 correctamente en el momento del accidente y de acuerdo a la normativa de seguridad. 
 
-
 ## Página 7
 
  
@@ -431,7 +430,6 @@ Dadas las características del suceso no se han adoptado medidas específicas de
 Madrid, 28 de noviembre de 2008. 
  
  
-
 
 ## Página 8
 
@@ -499,7 +497,6 @@ RESOLUCIÓN SOBRE LA
 INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO 
 Nº 0032/2008 
 OCURRIDO EL DÍA 30.07.2008 
-
 
 ## Página 9
 

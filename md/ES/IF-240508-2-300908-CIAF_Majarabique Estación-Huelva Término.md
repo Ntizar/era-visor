@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/IF-240508-2-300908-CIAF_Majarabique Estación-Huelva Término.pdf
+url_oficial: https://www.transportes.gob.es/recursos_mfom/pdf/980ED161-7AC6-4715-B3EC-2409DA732EFD/46948/IF240508300908CIAF.pdf
+md5_pdf: 51c6dd4b583aa6152b755aa15bc407d3
 paginas: 9
 chars: 14959
+tablas_detectadas: 9
+tablas_convertidas: 0
+indice_quitadas: 0
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -72,7 +77,6 @@ INFORME FINAL SOBRE LA
 INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO 
 Nº 0019/2008 
 OCURRIDO EL DÍA 24.05.2008 
-
 
 ## Página 2
 
@@ -141,7 +145,6 @@ de Investigación de accidentes ferroviarios que se había producido el arrollam
 por el tren de media distancia 13049, en el punto kilométrico 24,900 de la línea 440 Majarabique 
 Estación-Huelva Término. 
 
-
 ## Página 3
 
  
@@ -209,7 +212,6 @@ Descripción de la infraestructura
 Trayecto de vía única con bloqueo de liberación automática (B.L.A.U.) y control de tráfico 
 centralizado (C.T.C).  
 
-
 ## Página 4
 
  
@@ -269,7 +271,6 @@ Minutos perdidos. Interceptación de vía
 La circulación normal por la línea estuvo suspendida durante 2 horas y 38 minutos:  
 -25 minutos en los que la vía estuvo interceptada  
 -2 horas y 13 minutos durante las que se circuló marcha a la vista. 
-
 
 ## Página 5
 
@@ -332,7 +333,6 @@ circulación de la Red Ferroviaria de Interés General
 Real Decreto 2387/2004, de 30 de diciembre, por el que se aprueba el Reglamento del Sector 
 Ferroviario 
 
-
 ## Página 6
 
  
@@ -390,7 +390,6 @@ El lugar del accidente es en plena vía, en el P.K. 24,900 de la línea 440 Maja
 Huelva Término. El tramo está en recta por lo que la visibilidad es buena. 
 Según el registrador de seguridad del automotor, el tren circulaba a una velocidad inferior a la 
 máxima permitida en el tramo. 
-
 
 ## Página 7
 
@@ -450,7 +449,6 @@ transitar por las instalaciones ferroviarias no autorizadas para ello.
 Madrid, 30 de septiembre de 2008. 
  
  
-
 
 ## Página 8
 
@@ -518,7 +516,6 @@ RESOLUCIÓN SOBRE LA
 INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO 
 Nº 0019/2008 
 OCURRIDO EL DÍA 24.05.2008 
-
 
 ## Página 9
 

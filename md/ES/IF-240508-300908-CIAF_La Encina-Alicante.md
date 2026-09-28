@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/IF-240508-300908-CIAF_La Encina-Alicante.pdf
+url_oficial: https://www.transportes.gob.es/recursos_mfom/pdf/D13BECCF-E8B9-4FBA-8A77-1BA4A6AA36EB/46946/IF240508300908CIAF.pdf
+md5_pdf: 70cbc9bd3b081a3567dc658b248105de
 paginas: 9
 chars: 14398
+tablas_detectadas: 9
+tablas_convertidas: 0
+indice_quitadas: 0
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -73,7 +78,6 @@ INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO
 Nº 0017/2008 
 OCURRIDO EL DÍA 24.05.2008 
 
-
 ## Página 2
 
  
@@ -138,7 +142,6 @@ Decisión de abrir la investigación
 El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras Ferroviarias (Adif), 
 el 26 de mayo a las 10:19 horas, a través de mensaje de telefonía móvil, comunicó a la Comisión de 
 Investigación de accidentes ferroviarios que se había producido el arrollamiento de una persona por el 
-
 
 ## Página 3
 
@@ -205,7 +208,6 @@ Material rodante
 Tren de viajeros de larga distancia 1183, automotor 101106 
 Matrícula UIC: 967191011063 
 
-
 ## Página 4
 
  
@@ -266,7 +268,6 @@ establece la circulación marcha a la vista por el lugar del accidente.
 Cuatro trenes de viajeros de Larga Distancia sufrieron un retraso total de 106 minutos. 
 Un tren de viajeros de Media Distancia sufrió un retraso de 21 minutos. 
 Un tren de viajeros de Cercanías sufrió un retraso de 4 minutos. 
-
 
 ## Página 5
 
@@ -331,7 +332,6 @@ Otras normas
 Reglamento General de Circulación 
 Orden Ministerial de Habilitación de Personal, 2520 de 27 de julio de 2006 
 
-
 ## Página 6
 
  
@@ -389,7 +389,6 @@ inmediaciones del núcleo urbano de Villena. (Expediente 10/07)
 DELIBERACIÓN 
 En las inmediaciones del lugar donde se produjo el arrollamiento existe un vallado que presenta 
 una rotura constituyendo un paso vicioso. 
-
 
 ## Página 7
 
@@ -451,7 +450,6 @@ Madrid, 30 de septiembre de 2008.
  
  
  
-
 
 ## Página 8
 
@@ -519,7 +517,6 @@ RESOLUCIÓN SOBRE LA
 INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO 
 Nº 0017/2008 
 OCURRIDO EL DÍA 24.05.2008 
-
 
 ## Página 9
 

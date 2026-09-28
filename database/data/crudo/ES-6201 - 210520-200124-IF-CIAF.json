@@ -1405,5 +1405,5 @@
  "titulo": "Accidente ferroviario ocurrido el día 24 de enero de 2020 en Bifurcación Cerrato (Palencia)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/ES-6201 - 210520-200124-IF-CIAF.md"
+ "md": "md/ES/ES-6201 - 210520-200124-IF-CIAF.md"
 }

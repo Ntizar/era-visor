@@ -882,5 +882,5 @@
  "titulo": "Incidente ferroviario: tren Renfe rebasa señales en parada en estación Viana de Cega (Valladolid)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF_070313_140714_CIAF.md"
+ "md": "md/ES/IF_070313_140714_CIAF.md"
 }

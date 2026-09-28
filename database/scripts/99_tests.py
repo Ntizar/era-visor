@@ -54,14 +54,16 @@ DB = RAIZ / "database"
 DATA = DB / "data"
 CRUDO = DATA / "crudo"
 SINC = DATA / "sincronizado"   # Fase 4A: geo auditada + análisis v3
-MDB = DB / "md_base"
+MDB = RAIZ / "md" / "ES"            # única colección md (la mejorada)
 XLSX = DATA / "ciaf_base_global.xlsx"
 MEJ = DATA / "mejorado"
 
-DOCS = 372              # documentos (md_base == crudo)
+DOCS = 351              # documentos (md_base == crudo, tras 09_dedupe.py)
 EXPEDIENTES = 351       # filas del manifest (1 trae la clave vacía)
 CLAVES = 350            # claves únicas del manifest (351 filas - 1 vacía)
-DOBLES = 21             # expedientes con DOS documentos (IF+RS, Final+Interim...)
+DOBLES = 21             # expedientes que TENÍAN dos documentos (resueltos
+                        # por 09_dedupe.py: ganador en crudo, descartado en
+                        # duplicados_excel/, trazabilidad en dedupe_map.json)
 CAMPOS_GUIA = 70        # columnas reales de la guía (85 filas - 15 títulos)
 RAPIDO = "--rapido" in sys.argv
 # T3 (modo completo) vuelca el stdout de 01 si el gate falla: sin esta
@@ -115,7 +117,7 @@ def t1_estructura():
     n_cr = len(glob.glob(str(CRUDO / "*.json")))
     ok = not faltan and n_md == DOCS and n_cr == DOCS
     test("estructura", ok,
-         "%d md · %d crudo · falta: %s" % (n_md, n_cr, faltan or "-"))
+         "%d md (md/ES) · %d crudo · falta: %s" % (n_md, n_cr, faltan or "-"))
 
 
 # ---------------------------------------------------------------- T2
@@ -305,14 +307,22 @@ def t7_consistencia():
 
 # ---------------------------------------------------------------- T8
 def t8_dobles():
-    """21 expedientes con 2 documentos: marcados, jamás fusionados."""
+    """21 expedientes que TENÍAN dos documentos: resueltos por 09_dedupe.py.
+
+    Contrato nuevo (Fase 2B): en el Excel cada expediente aparece UNA vez;
+    los 21 con dedupe traen n_documentos=2, tipo_documento2 y descartado_pdf
+    (el documento perdedor vive en database/data/duplicados_excel/)."""
+    dedupe = json.loads((DATA / "dedupe_map.json").read_text(encoding="utf-8")) \
+        if (DATA / "dedupe_map.json").exists() else {}
+    # el crudo ya no trae duplicados: un expediente = un fichero
     from collections import defaultdict
     por = defaultdict(list)
     for f in glob.glob(str(CRUDO / "*.json")):
         d = json.loads(Path(f).read_text(encoding="utf-8"))
-        por[d.get("clave") or "?"].append(f)
-    dobles = {k: v for k, v in por.items() if len(v) > 1}
-    # el Excel debe distinguirlos: columna tipo_documento + principal
+        por[d.get("expediente") or "?"].append(f)
+    dups_restantes = {k: v for k, v in por.items() if len(v) > 1}
+    perdedores = len(glob.glob(str(DATA / "duplicados_excel" / "*.json")))
+    # el Excel debe traer la trazabilidad del descartado
     ok_excel = False
     try:
         from openpyxl import load_workbook
@@ -320,24 +330,23 @@ def t8_dobles():
         filas = list(wb["Informes"].iter_rows(values_only=True))
         cab = [str(x or "") for x in filas[0]]
         wb.close()
-        if "tipo_documento" in cab and "principal" in cab:
-            i_exp = cab.index("clave")     # NO `expediente`: el crudo se
-                                           # indexa por clave y a veces difiere
-            i_prin = cab.index("principal")
-            # cada expediente doble tiene exactamente 1 principal
-            from collections import Counter
-            prin = Counter((f[i_exp], f[i_prin]) for f in filas[1:]
-                           if f[i_exp] in dobles)
-            por_exp = Counter(f[i_exp] for f in filas[1:]
-                              if f[i_exp] in dobles)
-            ok_excel = all(prin.get((e, "sí")) == 1 for e in dobles) \
-                and all(por_exp[e] == len(dobles[e]) for e in dobles)
-    except Exception as e:
+        if all(c in cab for c in ("n_documentos", "tipo_documento2", "descartado_pdf")):
+            i_exp = cab.index("expediente")
+            i_nd = cab.index("n_documentos")
+            i_d2 = cab.index("descartado_pdf")
+            filas_ok = [f for f in filas[1:] if f[i_exp] in dedupe]
+            ok_excel = (len(filas_ok) == len(dedupe)
+                        and all(f[i_nd] == 2 for f in filas_ok)
+                        and all(f[i_d2] for f in filas_ok))
+    except Exception:
         ok_excel = False
     test("dobles por expediente",
-         len(dobles) == DOBLES and ok_excel,
-         "%d/%d dobles · Excel con tipo_documento+principal: %s"
-         % (len(dobles), DOBLES, "sí" if ok_excel else "NO"))
+         len(dedupe) == DOBLES and not dups_restantes
+         and perdedores == DOBLES and ok_excel,
+         "%d/%d expedientes con dedupe · %d duplicados restantes en crudo · "
+         "%d descartados archivados · Excel con trazabilidad: %s"
+         % (len(dedupe), DOBLES, len(dups_restantes), perdedores,
+            "sí" if ok_excel else "NO"))
 
 
 # ---------------------------------------------------------------- T9
@@ -626,7 +635,7 @@ def main():
     print("== Arnés de tests de la base de datos CIAF ==")
     t1_estructura()
     if not (MDB.is_dir() and CRUDO.is_dir()):
-        print("GATE TESTS: IMPOSIBLE — faltan md_base/crudo")
+        print("GATE TESTS: IMPOSIBLE — faltan md/ES o crudo")
         return 1
     t2_manifest()
     t3_md_base()

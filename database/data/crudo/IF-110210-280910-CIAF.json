@@ -943,5 +943,5 @@
  "titulo": "Descarrilamiento del tren 27239 en la estación de Pinar de Las Rozas (Madrid)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-110210-280910-CIAF.md"
+ "md": "md/ES/IF-110210-280910-CIAF.md"
 }

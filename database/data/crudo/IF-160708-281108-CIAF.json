@@ -857,5 +857,5 @@
  "titulo": "Arrollamiento de persona por tren 1094 en PK 108,898 línea Madrid-Valencia (Valencia Nord)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-160708-281108-CIAF.md"
+ "md": "md/ES/IF-160708-281108-CIAF.md"
 }

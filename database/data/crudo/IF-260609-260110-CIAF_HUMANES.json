@@ -946,5 +946,5 @@
  "titulo": "Conato de colisión entre trenes HU171 y LU110 en la estación de Humanes (Madrid)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-260609-260110-CIAF_HUMANES.md"
+ "md": "md/ES/IF-260609-260110-CIAF_HUMANES.md"
 }

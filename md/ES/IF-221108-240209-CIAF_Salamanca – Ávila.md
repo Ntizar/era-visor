@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/IF-221108-240209-CIAF_Salamanca – Ávila.pdf
+url_oficial: https://www.transportes.gob.es/recursos_mfom/pdf/C9F96194-D3F3-438E-8E1A-493E71245058/46996/IF221108240209CIAF.pdf
+md5_pdf: bffa3e79bac61e559f2e4e719fc13c65
 paginas: 9
 chars: 14016
+tablas_detectadas: 9
+tablas_convertidas: 0
+indice_quitadas: 0
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -71,7 +76,6 @@ INFORME FINAL SOBRE LA
 INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO 
 Nº 0063/2008 
 OCURRIDO EL DÍA 22.11.2008 
-
 
 ## Página 2
 
@@ -139,7 +143,6 @@ por el tren de media distancia 18918, en el P.K. 104,857 entre Babilafuente y Sa
 El Reglamento sobre seguridad en la circulación de la Red Ferroviaria de Interés General, aprobado 
 por el Real Decreto 810/2007, de 22 de junio (B.O.E. nº 162 de 07.07.07), en su artículo 21, asigna la 
 
-
 ## Página 3
 
  
@@ -204,7 +207,6 @@ Descripción de la infraestructura
 Trayecto de vía única con bloqueo de liberación automática (BLAU) y control de tráfico centralizado 
 (CTC). 
 
-
 ## Página 4
 
  
@@ -261,7 +263,6 @@ La vía estuvo interceptada 1 hora 39 minutos (desde las 15:00 horas hasta las 1
 2.4 
 CIRCUNSTANCIAS EXTERNAS 
 En el momento del arrollamiento el tiempo atmosférico era despejado. 
-
 
 ## Página 5
 
@@ -323,7 +324,6 @@ Orden Ministerial de Homologación de Material Rodante, 233 de 31 de enero de 20
 Orden Circular 1/2008 Pautas para la investigación técnica de los accidentes ferroviarios que 
 competen a la Comisión de Investigación de accidentes ferroviarios. 
 
-
 ## Página 6
 
  
@@ -384,7 +384,6 @@ desglosan en: 110 de media distancia; 17 de mercancías y 3 de servicio.
 DELIBERACIÓN 
 El accidente tuvo lugar en el P.K. 104,857 de la línea 122 Salamanca – Ávila. 
 
-
 ## Página 7
 
  
@@ -444,7 +443,6 @@ Madrid, 24 de febrero de 2009.
  
  
  
-
 
 ## Página 8
 
@@ -512,7 +510,6 @@ RESOLUCIÓN SOBRE LA
 INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO 
 Nº 0063/2008 
 OCURRIDO EL DÍA 22.11.2008 
-
 
 ## Página 9
 

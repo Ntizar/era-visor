@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/IF-240309-140709-CIAF_ALGEMESÍ.pdf
+url_oficial: https://www.transportes.gob.es/recursos_mfom/pdf/A7344E91-D04C-4BAF-9D77-D01141A62A01/53044/240309140709CIAF.pdf
+md5_pdf: 72952c602e9e94652446c96a2a25e1da
 paginas: 12
 chars: 19581
+tablas_detectadas: 14
+tablas_convertidas: 0
+indice_quitadas: 19
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -73,7 +78,6 @@ IF-240309-140709-CIAF
  
 Pág. 1 de 12
 
-
 ## Página 2
 
  
@@ -96,43 +100,24 @@ IF-240309-140709-CIAF
  
 Pág. 2 de 12
 1. 
-RESUMEN .............................................................................................................................................3 
 2. 
-HECHOS INMEDIATOS DEL SUCESO.................................................................................................3 
 2.1 
-SUCESO......................................................................................................................................................3 
 2.2 
-CIRCUNSTANCIAS DEL SUCESO.................................................................................................................5 
 2.3 
-VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................7 
 2.4 
-CIRCUNSTANCIAS EXTERNAS.....................................................................................................................7 
 3. 
-RELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................7 
 3.1 
-RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................7 
 3.2 
-SISTEMAS DE GESTIÓN DE LA SEGURIDAD...............................................................................................8 
 3.3 
-NORMATIVA...............................................................................................................................................8 
 3.4 
-FUNCIONAMIENTO DEL MATERIAL RODANTE FERROVIARIO Y DE LAS INSTALACIONES TÉCNICAS.........8 
 3.5 
-INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO.......................................................................9 
 3.6 
-INSPECCIÓN DEL LUGAR DEL ACCIDENTE.................................................................................................9 
 3.7 
-SUCESOS DE CARACTERÍSTICAS SIMILARES. ..........................................................................................11 
 3.8 
-DATOS DE TRÁFICO FERROVIARIO..........................................................................................................11 
 4. 
-ANÁLISIS Y CONCLUSIONES...........................................................................................................11 
 4.1 
-DELIBERACIÓN.........................................................................................................................................11 
 4.2 
-CONCLUSIONES .......................................................................................................................................12 
 5. 
-RECOMENDACIONES ........................................................................................................................12 
  
  
  
@@ -140,7 +125,6 @@ RECOMENDACIONES ................................................................
  
  
  
-
 
 ## Página 3
 
@@ -205,7 +189,6 @@ Al mismo tiempo que el tren implicado era estacionado en el andén 2, otro tren 
 andén 1, lo que pudo confundir a la víctima. 
  
 
-
 ## Página 4
 
  
@@ -253,7 +236,6 @@ IF-240309-140709-CIAF
  
  
 Pág. 4 de 12
-
 
 ## Página 5
 
@@ -308,7 +290,6 @@ pavimento es de tipo strail. Los elementos de protección se sitúan a ambos lad
 nivel. Fue creado con carácter provisional mientras duraban las obras de construcción de un 
 paso inferior para la sustitución del paso a nivel tipo C que existía en el P.K. 81,454.  
 
-
 ## Página 6
 
  
@@ -354,7 +335,6 @@ IF-240309-140709-CIAF
  
  
 Pág. 6 de 12
-
 
 ## Página 7
 
@@ -407,7 +387,6 @@ Cuando el tren se detuvo avisé al puesto de mando y bajé a reconocer el estado
 del tren, viendo que se habían personado agentes del Orden Público y de la estación. 
 Como no se produjo la intercepción de la vía, continué el servicio cuando me lo autorizaron. 
 Lo que pongo en su conocimiento para los efectos oportunos.” 
-
 
 ## Página 8
 
@@ -463,7 +442,6 @@ Según el libro horario del tren 24048, su velocidad máxima permitida, al paso 
 Algemesí, es de 120 km/hora, por lo que el tren circulaba por debajo de su velocidad máxima 
 autorizada. 
 
-
 ## Página 9
 
  
@@ -514,7 +492,6 @@ IF-240309-140709-CIAF
  
 Pág. 9 de 12
 
-
 ## Página 10
 
  
@@ -560,7 +537,6 @@ IF-240309-140709-CIAF
  
  
 Pág. 10 de 12
-
 
 ## Página 11
 
@@ -617,7 +593,6 @@ activados.
 Según declaraciones del maquinista, al tiempo que el tren implicado (tren 24048) estaba 
 estacionándose en el andén de la vía 2, había otro tren en sentido contrario que lo hacía en el andén 
 de la vía 1, lo que pudo confundir a la víctima. 
-
 
 ## Página 12
 

@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/IF-150110-310510-CIAF_VILA-REAL.pdf
+url_oficial: https://www.transportes.gob.es/recursos_mfom/pdf/641E1797-A272-4A15-85E0-BCADFF1B3966/75514/0002CIAF.pdf
+md5_pdf: 83e83f6ad51e7bb112a8c7e2cbc24c9a
 paginas: 12
 chars: 21863
+tablas_detectadas: 14
+tablas_convertidas: 0
+indice_quitadas: 18
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -77,7 +82,6 @@ IF-150110-310510-CIAF (2) Vilareal.doc
  
 Pág. 1 de 12
 
-
 ## Página 2
 
  
@@ -102,30 +106,11 @@ IF-150110-310510-CIAF (2) Vilareal.doc
  
 Pág. 2 de 12
 1. 
-RESUMEN ........................................................................................................................................ 3 
 2. 
-HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3 
-2.1. SUCESO................................................................................................................................................. 3 
-2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 5 
-2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 7 
-2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8 
 3. 
-RELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 8 
-3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS........................................................................ 8 
-3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................................................................... 8 
-3.3. NORMATIVA.......................................................................................................................................... 9 
-3.4. FUNCIONAMIENTO DEL MATERIAL RODANTE FERROVIARIO Y DE LAS INSTALACIONES TÉCNICAS.... 9 
-3.5. INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO................................................................ 10 
-3.6. SUCESOS ANTERIORES DE CARACTERÍSTICAS SIMILARES................................................................. 10 
 4. 
-ANÁLISIS Y CONCLUSIONES...................................................................................................... 10 
-4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS ........................................................................................ 10 
-4.2. DELIBERACIÓN.................................................................................................................................... 11 
-4.3. CONCLUSIONES .................................................................................................................................. 11 
 5. 
-RECOMENDACIONES ................................................................................................................... 12 
  
-
 
 ## Página 3
 
@@ -196,7 +181,6 @@ antes de que el convoy quede totalmente parado. El conductor del vehículo, úni
 tras el arrollamiento, quedando su cuerpo en la cuneta de la vía impar (P.K. 63+050). Al tiempo que 
 el tren 264 circulaba por la vía 2, el tren de cercanías 24391 se aproximaba, en sentido contrario, por 
 
-
 ## Página 4
 
  
@@ -251,7 +235,6 @@ IF-150110-310510-CIAF (2) Vilareal.doc
  
 Pág. 4 de 12
 
-
 ## Página 5
 
  
@@ -303,7 +286,6 @@ Tramo de vía doble electrificada, con bloqueo automático (B.A.D.) y sin contro
 (C.T.C.).  
 La velocidad máxima para trenes tipo B, al paso por la estación de Vila-real, es de 140 Km/h, no 
 existiendo ninguna limitación temporal de velocidad en el momento del accidente. 
-
 
 ## Página 6
 
@@ -360,7 +342,6 @@ IF-150110-310510-CIAF (2) Vilareal.doc
  
 Pág. 6 de 12
 
-
 ## Página 7
 
  
@@ -412,7 +393,6 @@ IF-150110-310510-CIAF (2) Vilareal.doc
  
  
 Pág. 7 de 12
-
 
 ## Página 8
 
@@ -468,7 +448,6 @@ El maquinista del tren posee el título B de conducción y está habilitado conf
 FOM/2520/2006, de 27 de julio. 
 Realizó su último reciclaje formativo el 18/07/07 y su último reconocimiento médico y psicotécnico el 
 30/10/06, conforme a la normativa vigente. 
-
 
 ## Página 9
 
@@ -531,7 +510,6 @@ Del registrador de seguridad del tren se comprueba que, a su paso por la señal 
 (situada a 120 metros del paso) y en el momento que el maquinista actúa sobre el freno de urgencia, 
 el convoy circulaba a 124 km/h y 122 Km/h respectivamente. 
 
-
 ## Página 10
 
  
@@ -587,7 +565,6 @@ anuncio de parada, amarillo) de dicha estación lo realiza a 124 km/h a las 18:2
 El maquinista observa que, de derecha a izquierda, sentido de su marcha, cruza un motocarro 
 sorteando las semibarreras bajadas. 
 
-
 ## Página 11
 
  
@@ -636,7 +613,6 @@ como los informes particulares de Adif y Renfe Operadora, el técnico responsabl
 concluye que: 
 El accidente tuvo su origen al cruzar el vehículo, ocupado por la víctima, por el paso a nivel cuando 
 las semibarreras se encontraban bajadas y las señales indicaban la llegada del tren 264. 
-
 
 ## Página 12
 

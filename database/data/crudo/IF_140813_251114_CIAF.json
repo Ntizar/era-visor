@@ -931,5 +931,5 @@
  "titulo": "Incidente ferroviario en estación de Torralba (Soria): rebase de señal y conato de colisión",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF_140813_251114_CIAF.md"
+ "md": "md/ES/IF_140813_251114_CIAF.md"
 }

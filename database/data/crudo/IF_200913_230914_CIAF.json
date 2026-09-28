@@ -937,5 +937,5 @@
  "titulo": "Colisión por alcance y descarrilamiento en la estación de Barcelona Sants",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF_200913_230914_CIAF.md"
+ "md": "md/ES/IF_200913_230914_CIAF.md"
 }

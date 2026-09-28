@@ -15,7 +15,9 @@ Contrato:
     (Fase 4B: revisión LLM celda a celda con su cita literal).
   • Hojas de control: Diccionario (los 70 campos) y Cobertura (% por campo).
 
-Fuente única: database/data/crudo/*.json (Fase 2) + database/data/mejorado/
+Fuente única: database/data/crudo/*.json (Fase 2, tras 09_dedupe.py:
+un expediente = una fila, los 21 documentos descartados viven en
+database/data/duplicados_excel/) + database/data/mejorado/
 (Fase 4B, opcional). Un valor LLM SÓLO rellena huecos deterministas: nunca
 pisa un valor con cita (columna `campos_llm` cuenta los rellenados).
 
@@ -54,7 +56,8 @@ TITULO = Font(bold=True, size=11, color="111827")
 # columnas analíticas de cabecera (siempre presentes, ordenadas primero)
 IDENT = ["clave", "expediente", "anio", "titulo", "titulo_normalizado",
          "url_oficial", "pdf", "md", "tipo_documento", "n_documentos",
-         "principal",
+         "principal", "tipo_documento2", "descartado_pdf",
+         "en_indice_oficial_ciaf",
          "paginas", "estado_cobertura", "campos_con_valor", "campos_con_cita",
          "campos_llm", "cobertura_pct"]
 
@@ -219,10 +222,6 @@ def cargar():
     # acceso por ref → dict indexado. Los valores conservan su orden original
     # porque Python 3.7+ respeta el de inserción.
     guia_lista = json.loads((DATA / "guia_campos.json").read_text(encoding="utf-8"))
-    # La tabla de la guía mezcla TÍTULOS de bloque ("0. DATOS DE CONTROL DEL
-    # INFORME", campo vacío) con los campos reales (ref numérica). Los títulos
-    # se usan para rellenar el `bloque` de lo que viene detrás; NO deben ser
-    # columna del Excel.
     guia = {}
     bloque = ""
     for c in guia_lista:
@@ -245,6 +244,12 @@ def cargar():
              for f in bases_lista[1:] if f and isinstance(f[0], str)}
     man = json.loads((DATA / "manifest_maestro.json").read_text(encoding="utf-8"))
     por_clave = {r["clave"]: r for r in man["informes"]}
+    # Fase 2B (dedupe): un expediente = una fila. Los documentos descartados
+    # por 09_dedupe.py viven en duplicados_excel/ y NO vuelven al Excel —
+    # el mapa trae su pdf/tipo para dejarlos en las columnas de trazabilidad.
+    dedupe = {}
+    if (DATA / "dedupe_map.json").exists():
+        dedupe = json.loads((DATA / "dedupe_map.json").read_text(encoding="utf-8"))
     docs = []
     for f in sorted(CRUDO.glob("*.json")):
         docs.append(json.loads(f.read_text(encoding="utf-8")))
@@ -254,7 +259,7 @@ def cargar():
         for f in sorted(MEJORADO.glob("*.json")):
             d = json.loads(f.read_text(encoding="utf-8"))
             mej[d.get("stem") or f.stem] = d
-    return guia, bases, por_clave, docs, mej
+    return guia, bases, por_clave, docs, mej, dedupe
 
 
 def cargar_sinc():
@@ -368,7 +373,7 @@ def hoja_textos(sinc, docs):
 
 
 # --------------------------------------------------------------------- hojas
-def filas_informes(guia, por_clave, docs, mej=None, sinc=None):
+def filas_informes(guia, por_clave, docs, mej=None, sinc=None, dedupe=None):
     """Una fila por informe: identificación + 70 columnas de guía + derivadas.
 
     REGLA DE ORO 1: un valor LLM sólo puede rellenar un hueco determinista,
@@ -399,6 +404,22 @@ def filas_informes(guia, por_clave, docs, mej=None, sinc=None):
             "tipo_documento": tipo_documento(d.get("pdf", ""),
                                              d.get("md", "")),
         }
+        # Fase 2B: trazabilidad del dedupe — qué OTRO documento había para
+        # este expediente y qué era (nunca se pierde: vive en duplicados_excel/).
+        dec = (dedupe or {}).get(fila["expediente"]) or {}
+        if dec:
+            g = dec.get("ganador") or {}
+            # la fila actual ES el ganador (el descartado ya no está en crudo/)
+            if Path(d.get("md") or "").stem == g.get("stem"):
+                fila["n_documentos"] = 2
+                fila["principal"] = "sí"
+                fila["tipo_documento2"] = dec.get("descartado", {}).get("tipo", "")
+                fila["descartado_pdf"] = dec.get("descartado", {}).get("pdf", "")
+        else:
+            fila["n_documentos"] = ""
+            fila["principal"] = ""
+            fila["tipo_documento2"] = ""
+            fila["descartado_pdf"] = ""
         con_valor = con_cita = rellenos_llm = 0
         for ref in refs:
             c = campos.get(ref, {})
@@ -686,6 +707,8 @@ def hoja_mejorado(docs, mej):
 
     Es la trazabilidad Celda a Celda de la Fase 4B: sin esta hoja, un valor
     LLM rellenado en `Informes` sería indistinguible de uno determinista.
+    Fase 2B: los stems de documentos DESCARTADOS por 09_dedupe.py no salen
+    (su informe no está en el Excel: url_oficial vacía rompería el gate H4).
     """
     # url_oficial/expediente del crudo, indexados por stem del md_base
     idx = {}
@@ -696,6 +719,8 @@ def hoja_mejorado(docs, mej):
     filas = []
     for stem, doc in sorted(mej.items()):
         clave, exp, url = idx.get(stem, ("", "", ""))
+        if not url:            # stem descartado (o huérfano): fuera
+            continue
         for ref, m in sorted((doc.get("campos") or {}).items()):
             filas.append({
                 "clave": clave, "expediente": exp, "url_oficial": url,
@@ -711,29 +736,51 @@ def hoja_mejorado(docs, mej):
 
 
 def main() -> int:
-    guia, bases, por_clave, docs, mej = cargar()
+    guia, bases, por_clave, docs, mej, dedupe = cargar()
     if not docs:
         print("No hay database/data/crudo/ — corre primero 02_extraer_crudo.py")
         return 1
 
     # Fase 4A sólo con --v2: sin flag, sinc()={} y el v1 sale idéntico
     sinc = cargar_sinc() if V2 else {}
-    refs, filas_inf = filas_informes(guia, por_clave, docs, mej, sinc)
+    refs, filas_inf = filas_informes(guia, por_clave, docs, mej, sinc, dedupe)
     # título canónico: un solo formato para todos los años (columna nueva)
     for f in filas_inf:
         f["titulo_normalizado"] = titulo_canonico(f.get("titulo", ""))
-    # expedientes con DOS documentos (21 medidos: IF+RS, Final+Interim,
-    # es+eRAIL): se marcan y se elige el principal por número de campos.
-    # NO se fusionan nunca — cada fila sigue siendo UN documento.
-    por_exp = {}
-    for i, f in enumerate(filas_inf):
-        por_exp.setdefault(f.get("expediente") or f.get("clave"), []).append(
-            (i, f.get("campos_con_valor", 0) or 0))
-    for lst in por_exp.values():
-        mejor = max(lst, key=lambda t: t[1])[0]
-        for i, _ in lst:
-            filas_inf[i]["n_documentos"] = len(lst)
-            filas_inf[i]["principal"] = "sí" if i == mejor else "no"
+    # Fase 2B (dedupe): un expediente = una fila. Los 21 expedientes con DOS
+    # documentos ya fueron resueltos por 09_dedupe.py (ganador en crudo/,
+    # descartado en duplicados_excel/) y las columnas tipo_documento2 /
+    # descartado_pdf traen la trazabilidad del documento descartado. Aquí
+    # sólo se marca qué expedientes tenían más de un documento — ya no se
+    # eligen principales (la elección la hizo 09 con paginas+campos).
+    exp_con_dos = {dec["expediente"] for dec in (dedupe or {}).values()}
+    for f in filas_inf:
+        if not f.get("n_documentos"):
+            f["n_documentos"] = 2 if f.get("expediente") in exp_con_dos else 1
+            f["principal"] = "" if f.get("expediente") in exp_con_dos else "sí"
+
+    # marca del ÍNDICE OFICIAL CIAF (281 informes listados en la web del
+    # CIAF hoy, 2007-2025; los 70 de 2006-2007 sólo vienen del scrape de ERA)
+    listado = DATA / "listado_web_ciaf.json"
+    if listado.exists():
+        def _ne(e):
+            m = re.match(r"^\s*(\d{1,4})\s*/\s*(\d{2,4})\s*$", str(e or ""))
+            if not m:
+                return None
+            y = m.group(2)
+            y4 = int(y) if len(y) == 4 else (2000 + int(y) if int(y) < 30 else 1900 + int(y))
+            return "%04d/%d" % (int(m.group(1)), y4)
+        oficiales = {_ne(i["expediente_web"]) for i in
+                     json.loads(listado.read_text(encoding="utf-8"))["informes"]}
+        oficiales.discard(None)
+        n_si = n_no = 0
+        for f in filas_inf:
+            f["en_indice_oficial_ciaf"] = "sí" if _ne(f.get("expediente")) in oficiales else "no"
+            if f["en_indice_oficial_ciaf"] == "sí":
+                n_si += 1
+            else:
+                n_no += 1
+        print(f"  Índice oficial CIAF: {n_si} sí · {n_no} no")
     rec = hoja_recomendaciones(docs)
     ent = hoja_lista_simple(docs, "2.1.2", "entidad")
     cro = hoja_cronologia(docs)

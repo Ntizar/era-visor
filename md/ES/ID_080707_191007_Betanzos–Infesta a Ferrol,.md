@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/ID_080707_191007_Betanzos–Infesta a Ferrol,.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/ID_080707_191007_Betanzos%E2%80%93Infesta%20a%20Ferrol%2C.pdf
+md5_pdf: ce191a8e7abc4a0ba91d33005b1026a2
 paginas: 6
 chars: 10998
+tablas_detectadas: 6
+tablas_convertidas: 0
+indice_quitadas: 0
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -72,7 +77,6 @@ INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO
 Nº 0039/2007 
 OCURRIDO EL DÍA 08.07.2007 
 
-
 ## Página 2
 
  
@@ -129,7 +133,6 @@ kilométrico 37/600 de la Línea Betanzos – Infesta a Ferrol.
 Provincia: A Coruña. 
 Día/Hora: 08.07.07/15:53. 
 Tipo de bloqueo: Bloqueo Automático de vía única con C.T.C. 
-
 
 ## Página 3
 
@@ -194,7 +197,6 @@ Seguridad en la Circulación Noroeste del ADIF, Gerencia Territorial de Segurida
 Circulación Noroeste de RENFE Operadora, Operadores afectados, Jefatura Técnica de 
 Operaciones y servicios de emergencia. 
 
-
 ## Página 4
 
  
@@ -252,7 +254,6 @@ A.3.
 OTROS DATOS 
 Del parte de accidentes e incidentes del maquinista se extracta lo siguiente: “...observo un 
 hombre sobre el carril izquierdo en el sentido de la marcha, pescando sobre la ría, hago uso 
-
 
 ## Página 5
 
@@ -314,7 +315,6 @@ Por tanto, ambas conclusiones son coincidentes en cuanto a la causa del accident
  
 El accidente tuvo su origen en la imprudencia de la víctima que se encontraba en una zona 
 no autorizada invadiendo el gálibo de la vía. 
-
 
 ## Página 6
 

@@ -16,5 +16,10 @@ __pycache__/
 database/data/cache_web/
 
 # entregables: se regeneran con database/scripts/08_entregables.py
-# (los Excel ya están cubiertos por *.xlsx; aquí se evita duplicar los 372 md)
+# (los Excel ya están cubiertos por *.xlsx; aquí se evita duplicar los 351 md)
 entregables/
+
+# versiones históricas (md originales, JSON de los 21 duplicados del Excel,
+# entregables viejos): archivo LOCAL. Ya están en la historia de git y los
+# duplicados del Excel en database/data/duplicados_excel/ (ese sí va al repo).
+data_antigua/

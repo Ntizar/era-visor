@@ -1,0 +1,380 @@
+{
+ "0005/14": {
+  "expediente": "0005/14",
+  "ganador": {
+   "stem": "ES 23.01.2014 IF_230114_270115_CIAF",
+   "pdf": "pdfs/ES/ES 23.01.2014 IF_230114_270115_CIAF.pdf",
+   "tipo": "IF",
+   "paginas": 23.0,
+   "campos": 45
+  },
+  "descartado": {
+   "stem": "IF_230114_270115_CIAF",
+   "pdf": "pdfs/ES/IF_230114_270115_CIAF.pdf",
+   "tipo": "IF",
+   "paginas": 23.0,
+   "campos": 18
+  },
+  "motivo": "más páginas e información: 23p/45 campos contra 23p/18"
+ },
+ "0007/09": {
+  "expediente": "0007/09",
+  "ganador": {
+   "stem": "IF-300109-140709-CIAF",
+   "pdf": "pdfs/ES/IF-300109-140709-CIAF.pdf",
+   "tipo": "IF",
+   "paginas": 11.0,
+   "campos": 42
+  },
+  "descartado": {
+   "stem": "RS-300109-140709-CIAF",
+   "pdf": "pdfs/ES/RS-300109-140709-CIAF.pdf",
+   "tipo": "RS",
+   "paginas": 2.0,
+   "campos": 1
+  },
+  "motivo": "más páginas e información: 11p/42 campos contra 2p/1"
+ },
+ "0009/09": {
+  "expediente": "0009/09",
+  "ganador": {
+   "stem": "IF-140209-290909-CIAF",
+   "pdf": "pdfs/ES/IF-140209-290909-CIAF.pdf",
+   "tipo": "IF",
+   "paginas": 18.0,
+   "campos": 43
+  },
+  "descartado": {
+   "stem": "RS-140209-290909-CIAF",
+   "pdf": "pdfs/ES/RS-140209-290909-CIAF.pdf",
+   "tipo": "RS",
+   "paginas": 2.0,
+   "campos": 5
+  },
+  "motivo": "más páginas e información: 18p/43 campos contra 2p/5"
+ },
+ "0010/09": {
+  "expediente": "0010/09",
+  "ganador": {
+   "stem": "IF-020209-221209-CIAF",
+   "pdf": "pdfs/ES/IF-020209-221209-CIAF.pdf",
+   "tipo": "IF",
+   "paginas": 12.0,
+   "campos": 46
+  },
+  "descartado": {
+   "stem": "RS-020209-221209-CIAF",
+   "pdf": "pdfs/ES/RS-020209-221209-CIAF.pdf",
+   "tipo": "RS",
+   "paginas": 2.0,
+   "campos": 5
+  },
+  "motivo": "más páginas e información: 12p/46 campos contra 2p/5"
+ },
+ "0012/09": {
+  "expediente": "0012/09",
+  "ganador": {
+   "stem": "IF-220209-140709-CIAF",
+   "pdf": "pdfs/ES/IF-220209-140709-CIAF.pdf",
+   "tipo": "IF",
+   "paginas": 10.0,
+   "campos": 44
+  },
+  "descartado": {
+   "stem": "RS-220209-140709-CIAF",
+   "pdf": "pdfs/ES/RS-220209-140709-CIAF.pdf",
+   "tipo": "RS",
+   "paginas": 2.0,
+   "campos": 5
+  },
+  "motivo": "más páginas e información: 10p/44 campos contra 2p/5"
+ },
+ "0013/09": {
+  "expediente": "0013/09",
+  "ganador": {
+   "stem": "IF-230209-140709-CIAF",
+   "pdf": "pdfs/ES/IF-230209-140709-CIAF.pdf",
+   "tipo": "IF",
+   "paginas": 11.0,
+   "campos": 42
+  },
+  "descartado": {
+   "stem": "RS-230209-140709-CIAF",
+   "pdf": "pdfs/ES/RS-230209-140709-CIAF.pdf",
+   "tipo": "RS",
+   "paginas": 2.0,
+   "campos": 5
+  },
+  "motivo": "más páginas e información: 11p/42 campos contra 2p/5"
+ },
+ "0015/09": {
+  "expediente": "0015/09",
+  "ganador": {
+   "stem": "IF-040309-140709-CIAF",
+   "pdf": "pdfs/ES/IF-040309-140709-CIAF.pdf",
+   "tipo": "IF",
+   "paginas": 11.0,
+   "campos": 41
+  },
+  "descartado": {
+   "stem": "RS-040309-140709-CIAF",
+   "pdf": "pdfs/ES/RS-040309-140709-CIAF.pdf",
+   "tipo": "RS",
+   "paginas": 2.0,
+   "campos": 1
+  },
+  "motivo": "más páginas e información: 11p/41 campos contra 2p/1"
+ },
+ "0017/09": {
+  "expediente": "0017/09",
+  "ganador": {
+   "stem": "IF-240309-140709-CIAF_ALGEMESÍ",
+   "pdf": "pdfs/ES/IF-240309-140709-CIAF_ALGEMESÍ.pdf",
+   "tipo": "IF",
+   "paginas": 12.0,
+   "campos": 41
+  },
+  "descartado": {
+   "stem": "RS-240309-140709-CIAF",
+   "pdf": "pdfs/ES/RS-240309-140709-CIAF.pdf",
+   "tipo": "RS",
+   "paginas": 2.0,
+   "campos": 1
+  },
+  "motivo": "más páginas e información: 12p/41 campos contra 2p/1"
+ },
+ "0018/09": {
+  "expediente": "0018/09",
+  "ganador": {
+   "stem": "IF-240309-290909-CIAF_VILLARGORDO Y GRAÑENA",
+   "pdf": "pdfs/ES/IF-240309-290909-CIAF_VILLARGORDO Y GRAÑENA.pdf",
+   "tipo": "IF",
+   "paginas": 10.0,
+   "campos": 48
+  },
+  "descartado": {
+   "stem": "RS-240309-290909-CIAF",
+   "pdf": "pdfs/ES/RS-240309-290909-CIAF.pdf",
+   "tipo": "RS",
+   "paginas": 2.0,
+   "campos": 5
+  },
+  "motivo": "más páginas e información: 10p/48 campos contra 2p/5"
+ },
+ "0019/09": {
+  "expediente": "0019/09",
+  "ganador": {
+   "stem": "IF-070409-271009-CIAF",
+   "pdf": "pdfs/ES/IF-070409-271009-CIAF.pdf",
+   "tipo": "IF",
+   "paginas": 10.0,
+   "campos": 41
+  },
+  "descartado": {
+   "stem": "RS-070409-271009-CIAF",
+   "pdf": "pdfs/ES/RS-070409-271009-CIAF.pdf",
+   "tipo": "RS",
+   "paginas": 2.0,
+   "campos": 1
+  },
+  "motivo": "más páginas e información: 10p/41 campos contra 2p/1"
+ },
+ "0022/09": {
+  "expediente": "0022/09",
+  "ganador": {
+   "stem": "IF-170409-221209-CIAF",
+   "pdf": "pdfs/ES/IF-170409-221209-CIAF.pdf",
+   "tipo": "IF",
+   "paginas": 11.0,
+   "campos": 50
+  },
+  "descartado": {
+   "stem": "RS-170409-221209-CIAF",
+   "pdf": "pdfs/ES/RS-170409-221209-CIAF.pdf",
+   "tipo": "RS",
+   "paginas": 2.0,
+   "campos": 5
+  },
+  "motivo": "más páginas e información: 11p/50 campos contra 2p/5"
+ },
+ "0025/09": {
+  "expediente": "0025/09",
+  "ganador": {
+   "stem": "IF-050609-221209-CIAF",
+   "pdf": "pdfs/ES/IF-050609-221209-CIAF.pdf",
+   "tipo": "IF",
+   "paginas": 12.0,
+   "campos": 45
+  },
+  "descartado": {
+   "stem": "RS-050609-221209-CIAF",
+   "pdf": "pdfs/ES/RS-050609-221209-CIAF.pdf",
+   "tipo": "RS",
+   "paginas": 2.0,
+   "campos": 1
+  },
+  "motivo": "más páginas e información: 12p/45 campos contra 2p/1"
+ },
+ "0027/09": {
+  "expediente": "0027/09",
+  "ganador": {
+   "stem": "IF-180609-221209-CIAF",
+   "pdf": "pdfs/ES/IF-180609-221209-CIAF.pdf",
+   "tipo": "IF",
+   "paginas": 11.0,
+   "campos": 50
+  },
+  "descartado": {
+   "stem": "RS-180609-221209-CIAF",
+   "pdf": "pdfs/ES/RS-180609-221209-CIAF.pdf",
+   "tipo": "RS",
+   "paginas": 2.0,
+   "campos": 5
+  },
+  "motivo": "más páginas e información: 11p/50 campos contra 2p/5"
+ },
+ "0028/09": {
+  "expediente": "0028/09",
+  "ganador": {
+   "stem": "IF-220609-221209-CIAF",
+   "pdf": "pdfs/ES/IF-220609-221209-CIAF.pdf",
+   "tipo": "IF",
+   "paginas": 11.0,
+   "campos": 42
+  },
+  "descartado": {
+   "stem": "RS-220609-221209-CIAF",
+   "pdf": "pdfs/ES/RS-220609-221209-CIAF.pdf",
+   "tipo": "RS",
+   "paginas": 2.0,
+   "campos": 1
+  },
+  "motivo": "más páginas e información: 11p/42 campos contra 2p/1"
+ },
+ "0030/09": {
+  "expediente": "0030/09",
+  "ganador": {
+   "stem": "IF-260609-221209-CIAF_ALUCHE",
+   "pdf": "pdfs/ES/IF-260609-221209-CIAF_ALUCHE.pdf",
+   "tipo": "IF",
+   "paginas": 16.0,
+   "campos": 50
+  },
+  "descartado": {
+   "stem": "RS-260609-221209-CIAF",
+   "pdf": "pdfs/ES/RS-260609-221209-CIAF.pdf",
+   "tipo": "RS",
+   "paginas": 2.0,
+   "campos": 5
+  },
+  "motivo": "más páginas e información: 16p/50 campos contra 2p/5"
+ },
+ "0031/09": {
+  "expediente": "0031/09",
+  "ganador": {
+   "stem": "IF-060709-221209-CIAF",
+   "pdf": "pdfs/ES/IF-060709-221209-CIAF.pdf",
+   "tipo": "IF",
+   "paginas": 11.0,
+   "campos": 51
+  },
+  "descartado": {
+   "stem": "RS-060709-221209-CIAF",
+   "pdf": "pdfs/ES/RS-060709-221209-CIAF.pdf",
+   "tipo": "RS",
+   "paginas": 2.0,
+   "campos": 1
+  },
+  "motivo": "más páginas e información: 11p/51 campos contra 2p/1"
+ },
+ "0036/14": {
+  "expediente": "0036/14",
+  "ganador": {
+   "stem": "ES 11 07 2014 150525-140711-IF-CIAF-1",
+   "pdf": "pdfs/ES/ES 11 07 2014 150525-140711-IF-CIAF-1.pdf",
+   "tipo": "IF",
+   "paginas": 19.0,
+   "campos": 46
+  },
+  "descartado": {
+   "stem": "ES 11 07 2014 150525-140711-IF-CIAF",
+   "pdf": "pdfs/ES/ES 11 07 2014 150525-140711-IF-CIAF.pdf",
+   "tipo": "IF",
+   "paginas": 19.0,
+   "campos": 18
+  },
+  "motivo": "más páginas e información: 19p/46 campos contra 19p/18"
+ },
+ "0043/2023": {
+  "expediente": "0043/2023",
+  "ganador": {
+   "stem": "ES-10479 - Final Report - 2023-43-0518-IF",
+   "pdf": "pdfs/ES/ES-10479 - Final Report - 2023-43-0518-IF.pdf",
+   "tipo": "IF",
+   "paginas": 27.0,
+   "campos": 55
+  },
+  "descartado": {
+   "stem": "ES-10479 - Interim Staatement -NotaAvanceInvestigaciónWeb_CIAF_Les Borges del Camp",
+   "pdf": "pdfs/ES/ES-10479 - Interim Staatement -NotaAvanceInvestigaciónWeb_CIAF_Les Borges del Camp.pdf",
+   "tipo": "INTERIM",
+   "paginas": 2.0,
+   "campos": 0
+  },
+  "motivo": "más páginas e información: 27p/55 campos contra 2p/0"
+ },
+ "0053/08": {
+  "expediente": "0053/08",
+  "ganador": {
+   "stem": "IF-231008-140709-CIAF",
+   "pdf": "pdfs/ES/IF-231008-140709-CIAF.pdf",
+   "tipo": "IF",
+   "paginas": 11.0,
+   "campos": 47
+  },
+  "descartado": {
+   "stem": "RS-231008-140709-CIAF",
+   "pdf": "pdfs/ES/RS-231008-140709-CIAF.pdf",
+   "tipo": "RS",
+   "paginas": 2.0,
+   "campos": 5
+  },
+  "motivo": "más páginas e información: 11p/47 campos contra 2p/5"
+ },
+ "0054/08": {
+  "expediente": "0054/08",
+  "ganador": {
+   "stem": "IF-241008-140709-CIAF",
+   "pdf": "pdfs/ES/IF-241008-140709-CIAF.pdf",
+   "tipo": "IF",
+   "paginas": 16.0,
+   "campos": 44
+  },
+  "descartado": {
+   "stem": "RS-241008-140709-CIAF",
+   "pdf": "pdfs/ES/RS-241008-140709-CIAF.pdf",
+   "tipo": "RS",
+   "paginas": 3.0,
+   "campos": 5
+  },
+  "motivo": "más páginas e información: 16p/44 campos contra 3p/5"
+ },
+ "0054/13": {
+  "expediente": "0054/13",
+  "ganador": {
+   "stem": "IF_240713_200514_CIAF",
+   "pdf": "pdfs/ES/IF_240713_200514_CIAF.pdf",
+   "tipo": "IF",
+   "paginas": 266.0,
+   "campos": 47
+  },
+  "descartado": {
+   "stem": "IF_240713_ERA-2014-0070-EN",
+   "pdf": "pdfs/ES/IF_240713_ERA-2014-0070-EN.pdf",
+   "tipo": "IF",
+   "paginas": 110.0,
+   "campos": 0
+  },
+  "motivo": "más páginas e información: 266p/47 campos contra 110p/0"
+ }
+}

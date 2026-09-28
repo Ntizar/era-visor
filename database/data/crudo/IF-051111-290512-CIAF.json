@@ -884,5 +884,5 @@
  "titulo": "Rebase de señal en parada en Bifurcación Sagrera (Barcelona) con conato de colisión entre trenes",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-051111-290512-CIAF.md"
+ "md": "md/ES/IF-051111-290512-CIAF.md"
 }

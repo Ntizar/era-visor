@@ -909,5 +909,5 @@
  "titulo": "Arrollamiento de vehículo por tren en paso a nivel tipo A, línea Madrid-Barcelona, P.K. 214,220 (Zaragoza)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-090508-300908-CIAF.md"
+ "md": "md/ES/IF-090508-300908-CIAF.md"
 }

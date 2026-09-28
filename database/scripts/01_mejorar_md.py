@@ -38,8 +38,8 @@ import fitz  # PyMuPDF
 
 RAIZ = Path(__file__).resolve().parent.parent.parent
 PDFS = RAIZ / "pdfs" / "ES"
-MD_ORIG = RAIZ / "md" / "ES"
-MD_BASE = RAIZ / "database" / "md_base"
+MD_ORIG = RAIZ / "data_antigua" / "md_originales"   # originales (solo lectura)
+MD_BASE = RAIZ / "md" / "ES"        # única colección md (la mejorada)
 DATA = RAIZ / "database" / "data"
 UMBRAL_OCR = 500  # mismo umbral que extraer_pais.py
 
@@ -348,12 +348,12 @@ def procesar(pdf: Path, url_oficial: str) -> dict:
 def verificar_no_perdida() -> int:
     """GATE H2 — verifica la no-pérdida POR FUERA de la lógica interna.
 
-    No se fía de 'problemas': relee los md originales de md/ES, quita el
-    índice, y comprueba que CADA línea del original existe en el de
-    database/md_base/. Salida: nº de fallos (0 = verde).
+    No se fía de 'problemas': relee los md originales de data_antigua/md_originales,
+    quita el índice, y comprueba que CADA línea del original existe en el de
+    md/ES/. Salida: nº de fallos (0 = verde).
     """
     if not MD_BASE.exists():
-        print("  no existe database/md_base/ — nada que verificar")
+        print("  no existe md/ES/ — nada que verificar")
         return 1
     idx = re.compile(r"^.*\.{4,}.*\d\s*$", re.M)
     fallos = []

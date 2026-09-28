@@ -919,5 +919,5 @@
  "titulo": "Conato de colisión entre trenes de mercancías por rebase de señal en Ponferrada",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-170810-270411-CIAF.md"
+ "md": "md/ES/IF-170810-270411-CIAF.md"
 }

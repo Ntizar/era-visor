@@ -974,5 +974,5 @@
  "titulo": "Incidente ferroviario: rebase indebido de señal S1/1L en la estación de Astillero (Cantabria)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF_090512_261212_CIAF.md"
+ "md": "md/ES/IF_090512_261212_CIAF.md"
 }

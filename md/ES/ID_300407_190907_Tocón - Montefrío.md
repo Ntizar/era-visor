@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/ID_300407_190907_Tocón - Montefrío.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/ID_300407_190907_Toc%C3%B3n%20-%20Montefr%C3%ADo.pdf
+md5_pdf: 41b64e605b0f3a196dcee5345fcd322d
 paginas: 7
 chars: 13536
+tablas_detectadas: 7
+tablas_convertidas: 0
+indice_quitadas: 0
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -72,7 +77,6 @@ INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO
 Nº 0026/2007 
 OCURRIDO EL DÍA 30.04.2007 
 
-
 ## Página 2
 
  
@@ -130,7 +134,6 @@ Municipio: Tocón - Montefrío.
 Provincia: Granada. 
 Día/Hora: 30.04.07/14:37. 
 Tipo de bloqueo: Bloqueo Telefónico con vía única. 
-
 
 ## Página 3
 
@@ -195,7 +198,6 @@ El Jefe de Circulación de la estación Tocón – Montefrío.
 3.4 
 DAÑOS MATERIALES 
 
-
 ## Página 4
 
  
@@ -253,7 +255,6 @@ para peatones.
  
  
 3.7.2. Velocidad del tren. 
-
 
 ## Página 5
 
@@ -317,7 +318,6 @@ lanzándolo a unos 50 o 60 metros, quedando tendido en la vía paralela de la es
 4.1 
 CONSIDERACIONES 
 
-
 ## Página 6
 
  
@@ -380,7 +380,6 @@ Por tanto, ambas conclusiones son coincidentes entre sí en cuanto a la causa de
 6. CONCLUSIONES 
 A la vista de los datos recogidos por el Administrador de la infraestructura y de la 
 investigación realizada, se estima que el accidente tuvo su origen en el uso indebido del paso 
-
 
 ## Página 7
 

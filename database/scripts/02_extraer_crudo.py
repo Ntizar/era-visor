@@ -34,7 +34,7 @@ from datetime import date
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent.parent
-MD_BASE = RAIZ / "database" / "md_base"
+MD_BASE = RAIZ / "md" / "ES"          # única colección md (la mejorada)
 CRUDO = RAIZ / "database" / "data" / "crudo"
 DATA = RAIZ / "database" / "data"
 INFORMES = RAIZ / "database" / "informes"

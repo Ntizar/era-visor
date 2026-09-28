@@ -980,5 +980,5 @@
  "titulo": "Conato de colisión entre trenes por rebase de señal en Flaçà (Girona)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-070311-290512-CIAF.md"
+ "md": "md/ES/IF-070311-290512-CIAF.md"
 }

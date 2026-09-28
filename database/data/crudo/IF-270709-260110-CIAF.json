@@ -922,5 +922,5 @@
  "titulo": "Rebase indebido de señal en Bif. Clot (Barcelona) con riesgo de colisión entre trenes 15052 y 25552",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-270709-260110-CIAF.md"
+ "md": "md/ES/IF-270709-260110-CIAF.md"
 }

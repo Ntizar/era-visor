@@ -1418,5 +1418,5 @@
  "titulo": "Accidente grave ferroviario en las proximidades de la estación de Santiago de Compostela (A Coruña)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF_240713_200514_CIAF.md"
+ "md": "md/ES/IF_240713_200514_CIAF.md"
 }

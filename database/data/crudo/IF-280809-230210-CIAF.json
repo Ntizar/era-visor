@@ -941,5 +941,5 @@
  "titulo": "Descarrilamiento del tren 18160 de Renfe Operadora en la estación de El Rebollar (Valencia)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-280809-230210-CIAF.md"
+ "md": "md/ES/IF-280809-230210-CIAF.md"
 }

@@ -245,6 +245,27 @@ def main(codigo: str):
         if cons.get("heridos_leves") is not None:
             r["heridos_leves"] = cons["heridos_leves"]
 
+    # marca del ÍNDICE OFICIAL CIAF (2026-09-28): 281 informes listados hoy en
+    # la web del CIAF (transportes.gob.es, 2007-2025) vs los 70 de 2006-2007
+    # que sólo existen vía ERA. Detalle: data/revision/281-vs-70.md
+    listado_path = RAIZ / "database" / "data" / "listado_web_ciaf.json"
+    if listado_path.exists():
+        def _norm_exp(e):
+            m = re.match(r"^\s*(\d{1,4})\s*/\s*(\d{2,4})\s*$", str(e or ""))
+            if not m:
+                return None
+            y = m.group(2)
+            y4 = int(y) if len(y) == 4 else (2000 + int(y) if int(y) < 30 else 1900 + int(y))
+            return "%04d/%d" % (int(m.group(1)), y4)
+        oficiales = {_norm_exp(i["expediente_web"])
+                     for i in json.loads(listado_path.read_text(encoding="utf-8"))["informes"]}
+        oficiales.discard(None)
+        for r in registros:
+            r["indice_oficial"] = _norm_exp(r.get("expediente")) in oficiales
+        print(f"[{codigo}] índice oficial CIAF: "
+              f"{sum(1 for r in registros if r.get('indice_oficial'))}/{len(registros)} "
+              f"presentes en la web del CIAF")
+
     # propagar el veredicto del auditor geográfico: los mal geolocalizados deben
     # ser visibles y filtrables EN EL VISOR, no solo en data/revision/
     rev_path = RAIZ / "data" / "revision" / f"{codigo}-localizacion.json"
@@ -298,6 +319,7 @@ def main(codigo: str):
             "metodo_geo": r.get("metodo_geo"),
             "geo_veredicto": r.get("geo_veredicto"),
             "geo_dist_m": r.get("geo_dist_m"),
+            "indice_oficial": r.get("indice_oficial"),
             "fuente": r.get("fuente"), "url_pdf": r["url_pdf"],
             "subsistema": r.get("subsistema"),
             "sistema_proteccion": r.get("sistema_proteccion"),

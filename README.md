@@ -1,6 +1,6 @@
 # ERA Visor — Visor europeo de accidentes ferroviarios
 
-![Fase](https://img.shields.io/badge/Fase-Espa%C3%B1a-blue) ![Informes](https://img.shields.io/badge/Informes-351-green) ![An%C3%A1lisis%20v3](https://img.shields.io/badge/An%C3%A1lisis%20v3-351%2F351-brightgreen) ![Geoloc%20bien](https://img.shields.io/badge/Geoloc%20bien-348-green)
+![Fase](https://img.shields.io/badge/Fase-Espa%C3%B1a-blue) ![Informes](https://img.shields.io/badge/Informes-351-green) ![An%C3%A1lisis%20v3](https://img.shields.io/badge/An%C3%A1lisis%20v3-351%2F351-brightgreen) ![Geoloc%20bien](https://img.shields.io/badge/Geoloc%20bien-344-green) ![%C3%8Dndice%20CIAF](https://img.shields.io/badge/%C3%8Dndice%20CIAF-281%2F351-informational)
 
 Visor y base de datos de informes de investigación de accidentes ferroviarios. Convierte los
 PDF oficiales (ERA/eRAIL + organismos nacionales como el CIAF) en una **base de datos plana,
@@ -34,15 +34,62 @@ Hecho con ❤️ por David Antizar
 | Métrica | Valor |
 |---|---|
 | Informes en la DB | **351** (2006-2025, CIAF + ERA) |
+| En el índice oficial del CIAF | **281** · los otros 70 (2006-2007) solo vía ERA — ver «De dónde sale cada dato» |
 | Con análisis v3 completo | **351/351** |
 | Localización auditada | **344 bien · 0 duda · 4 mal · 3 sin coords** (99 % con punto) |
 | Veredicto geo por método | `via_pk` 209 · `via_pkteorico` 82 · `estacion_ign` 39 · `poblacion` 17 · `estacion_adif` 1 · `sin_geo` 3 |
-| Recomendaciones estructuradas | **651 únicas** (destinatario/implementador/texto/página en celdas separadas, con `tipo_suceso` para filtrar) |
-| `VERSION_DATOS` | `2026-09-27-5` (bump en cada despliegue de datos) |
+| Recomendaciones estructuradas | **651 en la DB · 644 en el Excel normalizado** (destinatario/implementador/texto/página en celdas separadas) |
+| `VERSION_DATOS` | `2026-09-28-1` (bump en cada despliegue de datos) |
 
-**Residuos conocidos:** 3 sin coords — Barcelona Marina (estación de Cercanías abierta en 2022, ausente de IGN/OSM), Río Huerva (apeadero sin mapear) y el puesto de bloqueo Río Duero (nombre no localizable). No se inventa: sin fuente no hay punto.
-El informe escaneado `ID_230507_140907` ya está OCRado y estructurado como `0033/2007`;
-la localización geográfica se dejó como `sin_coords` porque la fuente pública no da estación.
+## De dónde sale cada dato (procedencia)
+
+Regla de oro: **cada dato lleva su fuente al lado** (cita literal + página en el crudo,
+`metodo_geo` en la localización, `procedencia` en los derivados). Resumen:
+
+| Dato | Fuente | Dónde vive |
+|---|---|---|
+| Informes (PDF) | Scrape de ERA/eRAIL + índice del CIAF | `pdfs/ES/` (fuera de git) · `data/pdf-manifest/ES.json` |
+| Markdown | PDF → texto (PyMuPDF, OCR si hace falta), **mejorado en Fase 1** (tablas → markdown) | `md/ES/` — **la única colección md**; originales en `data_antigua/md_originales/` |
+| Campos de la guía CIAF (0.x-7.x) | Fase 2, extracción **determinista** del md con cita + página | `database/data/crudo/` (351 JSON, uno por expediente) |
+| Huecos que el informe no rellena | Fase 4B, LLM que SOLO rellena huecos con cita verificada; nunca pisa un valor determinista | `database/data/mejorado/` → hoja `Mejorado` del Excel |
+| Taxonomía v2 y análisis v3 | LLM con anti-invención estricta: si el informe no lo dice, `null` | `json/ES/*.json` + `json/ES/v3/` (351) |
+| Coordenadas | Geocodificación por capas sobre la red ADIF (ver «Geolocalización») + auditor | `data/db/` (`metodo_geo`, `geo_veredicto`) |
+| Clima del día | Reanálisis ERA5 vía Open-Meteo Archive (gratis, ~25 km) | `data/db/clima.json` |
+| `indice_oficial` | Cruce con el índice de la web del CIAF (scrape 2026-09-26: `database/data/listado_web_ciaf.json`) | `data/db/` y columna `en_indice_oficial_ciaf` del Excel |
+
+### Los 281 del índice oficial vs los 70 que no aparecen
+
+El índice online del CIAF (transportes.gob.es, 2007-2025) lista **281 informes**, verificado
+año a año; el cruce por expediente casa **281/281**. Los otros **70** (34 de 2006 y 36 de
+2007) son informes finales reales que el CIAF **no publica hoy en su índice** (el índice
+empieza en 2007 con solo 4): se conocen por el espejo de ERA/eRAIL y por los PDF originales.
+Mismo tratamiento y misma auditoría que el resto. En el visor hay un filtro «Índice oficial
+CIAF» para separarlos y el listado completo está en
+[`data/revision/281-vs-70.md`](data/revision/281-vs-70.md).
+
+### Los 21 duplicados del Excel del CIAF
+
+El Excel de partida traía 21 expedientes con DOS documentos (IF + nota de 2-3 páginas,
+final + interim, español + inglés de eRAIL). Regla aplicada: **se queda el de más páginas
+e información** (desempate por nº de campos, luego alfabético). El ganador es la fila del
+Excel; el descartado **no se borra**: vive en `database/data/duplicados_excel/` con su traza
+en `database/data/dedupe_map.json` y las columnas `n_documentos`, `tipo_documento2` y
+`descartado_pdf`. Las 21 decisiones, una a una:
+[`data/revision/dedupe-excel.md`](data/revision/dedupe-excel.md).
+
+### Lo que NO aparece (y por qué)
+
+- **3 sin coordenadas**: Barcelona Marina (estación de Cercanías abierta en 2022, ausente de
+  IGN/OSM), Río Huerva (apeadero sin mapear), puesto de bloqueo Río Duero (nombre no
+  localizable) y el escaneado `0033/2007`, cuya fuente pública no da estación. **No se inventa.**
+- **3 sin clima**: los mismos sin coordenadas.
+- **Campo 3.7.3 de la guía** («Información sobre riesgos, defectos…»): vacío en el 100 % de
+  los informes — la guía lo contempla pero el CIAF no lo rellena nunca (igual que «0.5
+  Fecha del informe», documentada como «no publica»).
+- **Versiones antiguas** (md originales, JSON de los duplicados, entregables viejos):
+  archivadas en `data_antigua/` — nada borrado.
+- **17 ficheros md con nombres corruptos** (`201vila.md"`, `241 de Henares.md"`…): residuo de
+  un bug antiguo de extracción; ya no estaban en disco, git los purga en el próximo commit.
 
 ## Entregables
 
@@ -51,10 +98,10 @@ Se generan con `database/scripts/08_entregables.py`, que parte de la normalizaci
 
 | Ruta | Qué es |
 |---|---|
-| `entregables/01-md-puros/` | Los 372 informes en Markdown, tal cual salen del PDF (14 MB) |
-| `entregables/02-excel-crudo/` | `ciaf_desde_md_puros.xlsx` — Excel reconstruido desde los md, sin tocar |
-| `entregables/03-excel-normalizado/` | `ciaf_normalizado.xlsx` — claves `NNNN/AAAA`, años a 4 cifras, taxonomía única de `tipo_suceso`, `categoria_suceso` y recomendaciones en celdas separadas |
-| `entregables/base_ciaf.json` | Base única: 351 informes + 651 recomendaciones |
+| `entregables/01-md/` | Los **351** informes en Markdown — la colección única (mejorada, con tablas convertidas) |
+| `entregables/02-excel-crudo/` | `ciaf_desde_md_puros.xlsx` — Excel con cita y página de cada dato (export Fase 2/3), columna `en_indice_oficial_ciaf` |
+| `entregables/03-excel-normalizado/` | `ciaf_normalizado.xlsx` — claves `NNNN/AAAA`, años a 4 cifras, taxonomía única de `tipo_suceso`, `categoria_suceso`, recomendaciones en celdas separadas y expediente normalizado |
+| `entregables/base_ciaf.json` | Base única: 351 informes + 644 recomendaciones |
 
 **Verificación de la normalización (salida real):** 41.319 claves/expedientes comprobados ·
 **0** mal formateados · **0** años sin 4 cifras · **0** `tipo_suceso` fuera de la taxonomía ·
@@ -101,18 +148,32 @@ era-visor/
 │   ├── ign-estaciones{1,2}.json  ← estaciones IGN (~2.000, FeatureServer)
 │   ├── revision/      ← auditoría: ES-localizacion.json, ES-verificacion.md
 │   └── db/            ← SALIDA FINAL: index.json + reports/ES.json + recs/
-├── json/ES/           ← un JSON por informe (+ /v3/ con el análisis completo)
-├── md/ES/             ← un .md por informe (texto extraído del PDF)
+├── json/ES/           ← un JSON por informe (+ /v3/ con el análisis completo) — 351
+├── md/ES/             ← la ÚNICA colección md (la mejorada de Fase 1) — 351
 ├── pdfs/              ← PDFs originales (fuera de git, ver .gitignore)
+├── database/          ← el Excel CIAF de verdad: crudo con cita (data/crudo/),
+│                         mecanizado (data/mejorado/), excels base (ciaf_base_*.xlsx),
+│                         scripts 01-09 + arnés 99_tests.py
+│                         · data/duplicados_excel/ ← los 21 duplicados descartados
+│                         · data/ es la ÚNICA fuente de los excels entregables
+├── data_antigua/      ← versiones históricas: md originales, JSON de los 21
+│                         duplicados, entregables viejos. NADA se borra.
 └── docs/              ← estructura del informe, taxonomías, análisis inicial
 ```
 
-### Nota sobre `_duplicados_descartados/`
-En `json/ES/_duplicados_descartados/`, `json/ES/v3/_duplicados_descartados/` y
-`md/ES/_duplicados_descartados/` se archivan los JSON/MD **duplicados descartados por el
-dedupe** (CIAF viejos sin análisis, duplicados por contenido). **Nunca se borran** — quedan
-como evidencia de que no se perdió ningún dato. `verificar_todo.py --limpiar` archiva ahí los
-duplicados por md5.
+### Dedupe y trazabilidad (2026-09-28)
+
+- El Excel del CIAF traía **21 expedientes con dos documentos**: gana el de más páginas
+  e información (`database/scripts/09_dedupe.py`); el descartado se archiva en
+  `database/data/duplicados_excel/` y su traza viaja en el propio Excel
+  (`n_documentos`, `tipo_documento2`, `descartado_pdf`) y en
+  [`data/revision/dedupe-excel.md`](data/revision/dedupe-excel.md).
+- **281 informes están en el índice oficial del CIAF**; los 70 de 2006-2007 solo vienen
+  de ERA. Marca `indice_oficial` en la DB, columna `en_indice_oficial_ciaf` en los Excel,
+  filtro en el visor y listado completo en
+  [`data/revision/281-vs-70.md`](data/revision/281-vs-70.md).
+- Pipeline de la base: `02_extraer_crudo → 09_dedupe → 03_exportar_excel → 07_normalizar`.
+  Arnés: `py database/scripts/99_tests.py` (13 tests, gate).
 
 ## Geolocalización (la clave de la calidad)
 
@@ -255,14 +316,14 @@ de MBs y "sigue saliendo mal" aunque el servidor ya esté bien.
 
 ## Hoja de ruta
 
-- **Fase 4A (actual): España al 100% y normalizada.** OCR resuelto, claves `NNNN/AAAA`,
-  años a 4 cifras, taxonomía única de `tipo_suceso` y recomendaciones en celdas separadas
-  (ver `database/SPEC-NORMALIZACION.md`). Queda: los 3 sin coords (no se inventan) y la
-  decisión sobre los dudosos.
-- **Fase 2: Alemania** (452 PDFs detectados), Francia, Italia, Polonia.
+- **España: cerrada y auditada (2026-09-28).** Dedupe del Excel aplicado (351 expedientes,
+  0 duplicados), marca de índice oficial CIAF (281/70), colecciones únicas (una sola md,
+  una sola fuente por JSON), procedencia documentada. Verificación con arnés: 13 tests.
+- **Fase 2: Alemania** (452 PDFs detectados), Francia, Italia, Polonia — reusar este mismo
+  pipeline de dedupe/auditoría desde el día 1.
 - **Traducción** de los informes al castellano en el pipeline (`titulo_normalizado` +
   `idioma_original`), no solo campos cortos.
-- **Capas extra:** meteorología del día del accidente (Open-Meteo histórico), LTV.
+- **Capas extra:** LTV. *(El clima histórico del día ya está: ERA5 en cada ficha.)*
 - **API JSON pública** (Pages ya sirve `data/db/`).
 
 ## Referencias

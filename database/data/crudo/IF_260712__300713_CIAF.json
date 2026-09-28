@@ -964,5 +964,5 @@
  "titulo": "Conato de colisión entre trenes por autorización indebida de rebase en Atocha-Cercanías (Madrid)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF_260712__300713_CIAF.md"
+ "md": "md/ES/IF_260712__300713_CIAF.md"
 }

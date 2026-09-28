@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/ID-270207-200607-DGF_14_Sant Vicenç de Calders.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/ID-270207-200607-DGF_14_Sant%20Vicen%C3%A7%20de%20Calders.pdf
+md5_pdf: 45199762f9b65d7bbb972be3ca908968
 paginas: 7
 chars: 12343
+tablas_detectadas: 7
+tablas_convertidas: 0
+indice_quitadas: 0
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -72,7 +77,6 @@ ID-270207-200607-DGF
  
 Pág. 1 de 7
 
-
 ## Página 2
 
  
@@ -127,7 +131,6 @@ ID-270207-200607-DGF
  
  
 Pág. 2 de 7
-
 
 ## Página 3
 
@@ -191,7 +194,6 @@ ID-270207-200607-DGF
  
 Pág. 3 de 7
 
-
 ## Página 4
 
  
@@ -248,7 +250,6 @@ ID-270207-200607-DGF
  
  
 Pág. 4 de 7
-
 
 ## Página 5
 
@@ -316,7 +317,6 @@ ID-270207-200607-DGF
  
 Pág. 5 de 7
 
-
 ## Página 6
 
  
@@ -374,7 +374,6 @@ ID-270207-200607-DGF
  
  
 Pág. 6 de 7
-
 
 ## Página 7
 

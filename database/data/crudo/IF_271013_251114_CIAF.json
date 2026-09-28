@@ -941,5 +941,5 @@
  "titulo": "Incidente en estación de Zalla (Vizcaya): rebase indebido de señal y conato de colisión entre trenes de Renfe Operadora",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF_271013_251114_CIAF.md"
+ "md": "md/ES/IF_271013_251114_CIAF.md"
 }

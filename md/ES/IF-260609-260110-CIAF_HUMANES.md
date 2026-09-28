@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/IF-260609-260110-CIAF_HUMANES.pdf
+url_oficial: https://www.transportes.gob.es/recursos_mfom/pdf/CE43975E-99E3-45D2-A156-282FBBAD03A1/70235/0032_09_CIAF.pdf
+md5_pdf: a71925217045ce3adf81cee285298c86
 paginas: 12
 chars: 19674
+tablas_detectadas: 14
+tablas_convertidas: 2
+indice_quitadas: 16
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -89,7 +94,6 @@ reducir los riesgos en el transporte ferroviario. Dicha investigación no se
 ocupará, en ningún caso, de la determinación de la culpa o responsabilidad y 
 será independiente de cualquier investigación judicial. 
 
-
 ## Página 2
 
  
@@ -113,29 +117,12 @@ IF-260609-260110-CIAF
  
 Pág. 2 de 12
 1. 
-RESUMEN ........................................................................................................................................ 3 
 2. 
-HECHOS INMEDIATOS DEL SUCESO............................................................................................ 3 
-2.1. SUCESO................................................................................................................................................. 3 
-2.2. CIRCUNSTANCIAS DEL SUCESO............................................................................................................ 6 
-2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..................................................................... 7 
-2.4. CIRCUNSTANCIAS EXTERNAS................................................................................................................ 8 
 3. 
-RELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES........................................................ 8 
-3.1. RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS........................................................................ 8 
-3.2. SISTEMAS DE GESTIÓN DE LA SEGURIDAD.......................................................................................... 9 
-3.3. NORMATIVA.......................................................................................................................................... 9 
 3.4. FUNCIONAMIENTO DEL MATERIAL RODANTE FERRROVIARIO Y DE LAS INSTALACIONES TÉCNICAS.. 9 
-3.5. INTERFAZ HOMBRE-MAQUÍNA DEL PERSONAL IMPLICADO................................................................ 10 
 4. 
-ANÁLISIS Y CONCLUSIONES...................................................................................................... 10 
-4.1. DESCRIPCIÓN DE LOS ACONTECIMIENTOS ........................................................................................ 10 
-4.2. DELIBERACIÓN.................................................................................................................................... 11 
-4.3. CONCLUSIONES .................................................................................................................................. 11 
 5. 
-RECOMENDACIONES ................................................................................................................... 12 
  
-
 
 ## Página 3
 
@@ -200,6 +187,11 @@ establecer itinerario de salida al tren HU171 (procedente de Humanes, con destin
 estacionado en vía 1) hacia Fuenlabrada por vía 2, no produciéndose la apertura de la señal S1 , por 
 ello procedió a orientar la aguja 4 a invertido, pero quedando la aguja 2 a normal y seguidamente 
 
+### Tablas de la página 3
+
+| Destinatario | Número | Recomendación |
+|---|---|---|
+| Adif | 32/09-1 | La formación de los responsables de circulación debe incluir la gestión de la misma en condiciones no habituales, tanto la inicial como los sucesivos reciclajes. |
 
 ## Página 4
 
@@ -235,7 +227,6 @@ por lo que efectúa parada inmediata, poniéndose en comunicación con la jefa d
 Croquis detallado del lugar del incidente: 
  
  
-
 
 ## Página 5
 
@@ -275,7 +266,6 @@ rebase por la jefe de circulación
 FUENLABRADA 
 ILLESCAS 
 MÓSTOLES 
-
 
 ## Página 6
 
@@ -328,7 +318,6 @@ La jefa de circulación de la estación de Humanes, matrícula 2838803.
 Por parte de Renfe Operadora 
 El maquinista del tren de viajeros HU171, matrícula 9682733. 
 
-
 ## Página 7
 
  
@@ -378,7 +367,6 @@ No fue necesario activar el plan de emergencia.
 2.3. VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES 
 2.3.1. Víctimas mortales 
 No se producen ni víctimas mortales ni heridos. 
-
 
 ## Página 8
 
@@ -431,7 +419,6 @@ estos no estaban bien dispuestos; efectuando parada inmediata. Sin interceptar n
 inmediatamente después me pongo en comunicación con el jefe de circulación que los tiene a su 
 cargo, comunicándole en la situación que se encontraban. Posteriormente este me autoriza el 
 retroceso a la estación, lo cual realizo tomando todas la medidas necesarias.” 
-
 
 ## Página 9
 
@@ -494,7 +481,6 @@ registrador de seguridad.
 Las instalaciones técnicas funcionaron correctamente según la información facilitada por el 
 registrador de eventos. 
 
-
 ## Página 10
 
  
@@ -553,7 +539,6 @@ efectúa parada después de recorridos 220 metros;
  
 transcurridos 6 minutos retrocede ante la señal S1. 
 
-
 ## Página 11
 
  
@@ -605,7 +590,6 @@ técnico responsable de la investigación concluye que:
 El incidente tuvo su origen en el fallo humano por error de la jefa de circulación en el 
 establecimiento del itinerario de salida del tren HU 171. 
 
-
 ## Página 12
 
  
@@ -642,3 +626,9 @@ como los sucesivos reciclajes.
  
 Madrid, 26 de enero de 2010 
  
+
+### Tablas de la página 12
+
+| Destinatario | Número | Recomendación |
+|---|---|---|
+| Adif | 32/09-1 | La formación de los responsables de circulación debe incluir la gestión de la misma en condiciones no habituales, tanto la inicial como los sucesivos reciclajes. |

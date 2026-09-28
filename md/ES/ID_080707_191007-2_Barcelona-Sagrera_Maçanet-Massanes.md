@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/ID_080707_191007-2_Barcelona-Sagrera_Maçanet-Massanes.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/ID_080707_191007-2_Barcelona-Sagrera_Ma%C3%A7anet-Massanes.pdf
+md5_pdf: 2d54a9d00df8ad2d0213b62bead77983
 paginas: 6
 chars: 10789
+tablas_detectadas: 6
+tablas_convertidas: 0
+indice_quitadas: 0
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -72,7 +77,6 @@ INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO
 Nº 0040/2007 
 OCURRIDO EL DÍA 08.07.2007 
 
-
 ## Página 2
 
  
@@ -129,7 +133,6 @@ el punto kilométrico 37/325 de la Línea Barcelona-Sagrera a Maçanet-Massanes.
 Provincia: Barcelona. 
 Día/Hora: 08.07.07/08:41. 
 Tipo de bloqueo: Bloqueo Automático Banalizado con CTC. 
-
 
 ## Página 3
 
@@ -196,7 +199,6 @@ de emergencia.
 Se realizó por parte de personal de la Gerencia Territorial de Seguridad la prueba de 
 control de alcoholemia al maquinista en Barcelona con resultado negativo (0,00mg/1000ml.). 
 
-
 ## Página 4
 
  
@@ -254,7 +256,6 @@ vía. Hice uso de la bocina y del freno de emergencia, sin poder evitar su arrol
 B. INVESTIGACIÓN DEL ACCIDENTE 
 B.1. 
 CONSIDERACIONES 
-
 
 ## Página 5
 
@@ -320,7 +321,6 @@ Intensificar el Plan de instalación de cerramientos de las líneas.
  
 Impulsar campañas de sensibilización y concienciación destinadas a la ciudadanía 
 para incidir en el peligro que supone cruzar o deambular por las vías del ferrocarril. 
-
 
 ## Página 6
 

@@ -991,5 +991,5 @@
  "titulo": "Incidente operacional ocurrido el día 5/11/2022 en la Estación de Torelló (Barcelona)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/ES-10382 - 2022-108-1105-IF.md"
+ "md": "md/ES/ES-10382 - 2022-108-1105-IF.md"
 }

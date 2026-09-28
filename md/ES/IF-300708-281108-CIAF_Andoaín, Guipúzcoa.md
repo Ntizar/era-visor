@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/IF-300708-281108-CIAF_Andoaín, Guipúzcoa.pdf
+url_oficial: https://www.transportes.gob.es/recursos_mfom/pdf/0DBAB5B4-9975-45FA-91D5-81E1B458F55B/46965/IF300708281108CIAF.pdf
+md5_pdf: 8d7b89fbbbaa8cbb1164226ff38bb772
 paginas: 10
 chars: 17480
+tablas_detectadas: 10
+tablas_convertidas: 0
+indice_quitadas: 0
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -64,7 +69,6 @@ INFORME FINAL SOBRE LA
 INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO 
 Nº 0031/2008 
 OCURRIDO EL DÍA 30.07.2008 
-
 
 ## Página 2
 
@@ -133,7 +137,6 @@ Investigación de accidentes ferroviarios que se había producido el fallecimien
 había sido arrollada en el apeadero de Andoaín Centro, por el tren de mercancías 91608, al intentar 
 cruzar las vías. 
 
-
 ## Página 3
 
  
@@ -201,7 +204,6 @@ situado en el P.K. 608+155, en un trayecto con B.A.B. con C.T.C (Bloqueo Automá
 con Control de Tráfico Centralizado), en un tramo de vía, a la salida de un túnel, en transición de 
 curva a izquierda (sentido de la marcha del tren) y con una rampa del 0.75 ‰.    
 
-
 ## Página 4
 
  
@@ -266,7 +268,6 @@ derecha dirección de la marcha…. He echado urgencia y he comunicado al Puesto
 Después ha llegado la Ertzaintza y Municipales. Me han preguntado lo sucedido y me han dejado 
 continuar”. 
 
-
 ## Página 5
 
  
@@ -326,7 +327,6 @@ competen a la Comisión de Investigación de accidentes ferroviarios.
 3.3.3 
 Instrucciones locales, condiciones especiales de circulación 
 Ninguna. En el lugar y momento del accidente, no existían condiciones especiales de circulación. 
-
 
 ## Página 6
 
@@ -395,7 +395,6 @@ con el riesgo cierto si se acerca un tren impar en ese momento ya que el propio 
 curva existente impiden la visibilidad de dichos trenes. 
  
 
-
 ## Página 7
 
  
@@ -461,7 +460,6 @@ La persona arrollada era viajera habitual que se desplazaba desde el andén de l
 la vía I para adquirir su billete. 
  La señalización del apeadero se encuentra en buen estado. 
 
-
 ## Página 8
 
  
@@ -520,7 +518,6 @@ A la vista de las actuaciones previstas, no se establecen recomendaciones.
 Madrid, 28 de noviembre de 2008. 
  
  
-
 
 ## Página 9
 
@@ -588,7 +585,6 @@ RESOLUCIÓN SOBRE LA
 INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO 
 Nº 0031/2008 
 OCURRIDO EL DÍA 30.07.2008 
-
 
 ## Página 10
 

@@ -984,5 +984,5 @@
  "titulo": "Colisión por retroceso indebido de tren de cercanías en la estación de Aluche (Madrid)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-260609-221209-CIAF_ALUCHE.md"
+ "md": "md/ES/IF-260609-221209-CIAF_ALUCHE.md"
 }

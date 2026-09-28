@@ -966,5 +966,5 @@
  "titulo": "Informe final sobre el accidente ferroviario nº 0001/2013 ocurrido el día 09.01.2013 en la estación de Villafranca de Córdoba (Córdoba)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF_090113_240614_CIAF.md"
+ "md": "md/ES/IF_090113_240614_CIAF.md"
 }

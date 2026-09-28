@@ -29,7 +29,7 @@ import collections
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parents[2]
-MD_BASE = RAIZ / "database" / "md_base"
+MD_BASE = RAIZ / "md" / "ES"          # única colección md (la mejorada)
 CRUDO = RAIZ / "database" / "data" / "crudo"
 DATA = RAIZ / "database" / "data"
 INFO = RAIZ / "database" / "informes"

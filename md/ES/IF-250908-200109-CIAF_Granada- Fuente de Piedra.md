@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/IF-250908-200109-CIAF_Granada- Fuente de Piedra.pdf
+url_oficial: https://www.transportes.gob.es/recursos_mfom/pdf/B8B8EE25-B178-4271-9F9C-5F7D8FB11F07/46973/IF250908200109CIAF.pdf
+md5_pdf: 7cffb3eafe53398fb94c419ca78593e7
 paginas: 9
 chars: 14381
+tablas_detectadas: 9
+tablas_convertidas: 0
+indice_quitadas: 0
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -72,7 +77,6 @@ INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO
 Nº 0043/2008 
 OCURRIDO EL DÍA 25.09.2008 
 
-
 ## Página 2
 
  
@@ -138,7 +142,6 @@ Comisión de Investigación de accidentes ferroviarios que se había producido e
 persona por el tren de Media Distancia GR376 en el trayecto entre Antequera y Bif. Las Maravillas. 
 El Reglamento sobre seguridad en la circulación de la Red Ferroviaria de Interés General, aprobado 
 por el Real Decreto 810/2007, de 22 de junio (B.O.E. nº 162 de 07.07.07), en su artículo 21, asigna la 
-
 
 ## Página 3
 
@@ -207,7 +210,6 @@ Trayecto de Bloqueo Automático de Vía Única con CTC (BAU con CTC), con travie
 en buen estado y alineación recta. 
 El accidente ocurre en plena vía. 
 
-
 ## Página 4
 
  
@@ -271,7 +273,6 @@ RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS
 3.1.1 
 Personal ferroviario 
 
-
 ## Página 5
 
  
@@ -333,7 +334,6 @@ Tanto el material rodante como las instalaciones técnicas funcionaron correctam
 Del análisis de la memoria estática del automotor se desprende que en el momento de accionar el 
 freno de emergencia el tren circulaba a una velocidad de 105 km/hora.  
 
-
 ## Página 6
 
  
@@ -390,7 +390,6 @@ DELIBERACIÓN
 El accidente tuvo lugar en plena vía en el P.K. 14,250 de la línea 426 Granada – Fuente de Piedra. 
 Según el registrador de velocidad del tren, éste circulaba a una velocidad inferior a la máxima 
 permitida en el tramo. 
-
 
 ## Página 7
 
@@ -453,7 +452,6 @@ Madrid, 20 de enero de 2009.
  
  
  
-
 
 ## Página 8
 
@@ -521,7 +519,6 @@ RESOLUCIÓN SOBRE LA
 INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO 
 Nº 0043/2008 
 OCURRIDO EL DÍA 25.09.2008 
-
 
 ## Página 9
 

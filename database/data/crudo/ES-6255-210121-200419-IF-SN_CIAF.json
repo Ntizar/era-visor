@@ -1066,5 +1066,5 @@
  "titulo": "Incidente ferroviario en la estación de Mataró (Barcelona), ocurrido el 20 de abril de 2019",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/ES-6255-210121-200419-IF-SN_CIAF.md"
+ "md": "md/ES/ES-6255-210121-200419-IF-SN_CIAF.md"
 }

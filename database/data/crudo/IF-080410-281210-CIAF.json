@@ -970,5 +970,5 @@
  "titulo": "Colisión y descarrilamiento durante maniobras en la terminal de contenedores de Silla (Valencia)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-080410-281210-CIAF.md"
+ "md": "md/ES/IF-080410-281210-CIAF.md"
 }

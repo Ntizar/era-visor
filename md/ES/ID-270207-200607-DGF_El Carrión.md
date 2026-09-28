@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/ID-270207-200607-DGF_El Carrión.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/ID-270207-200607-DGF_El%20Carri%C3%B3n.pdf
+md5_pdf: 944ca0480ea8b9b5bb2af68754f05904
 paginas: 6
 chars: 12459
+tablas_detectadas: 6
+tablas_convertidas: 0
+indice_quitadas: 0
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -68,7 +73,6 @@ ID-270207-200607-DGFDGF
  
 Pág. 1 de 6
 
-
 ## Página 2
 
  
@@ -126,7 +130,6 @@ ID-270207-200607-DGFDGF
  
  
 Pág. 2 de 6
-
 
 ## Página 3
 
@@ -191,7 +194,6 @@ ID-270207-200607-DGFDGF
  
 Pág. 3 de 6
 
-
 ## Página 4
 
  
@@ -253,7 +255,6 @@ ID-270207-200607-DGFDGF
  
  
 Pág. 4 de 6
-
 
 ## Página 5
 
@@ -324,7 +325,6 @@ ID-270207-200607-DGFDGF
  
  
 Pág. 5 de 6
-
 
 ## Página 6
 

@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/IF-030608-2-300908-CIAF_y Lora del Río.pdf
+url_oficial: https://www.transportes.gob.es/recursos_mfom/pdf/FF85E9DB-48C3-4790-9662-76D087FDFDFB/46951/IF030608300908CIAF.pdf
+md5_pdf: 841bea475a9bcf4ec1882fc2738e6cc5
 paginas: 10
 chars: 17737
+tablas_detectadas: 10
+tablas_convertidas: 0
+indice_quitadas: 0
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -72,7 +77,6 @@ INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO
 Nº 0021/2008 
 OCURRIDO EL DÍA 03.06.2008 
 
-
 ## Página 2
 
  
@@ -136,7 +140,6 @@ vagones y masa remolcada de 574 Tm, arrolla a un automóvil (Ford Fiesta, matrí
 invade, por el lado derecho en el sentido de la marcha del tren, el paso a nivel tipo P, quedando el 
 coche empotrado debajo de la locomotora y siendo arrastrado unos 265 metros.  
 El conductor del vehículo, único ocupante del turismo, fallece minutos más tarde. 
-
 
 ## Página 3
 
@@ -202,7 +205,6 @@ Por parte de Renfe Operadora
 El Maquinista principal del tren de mercancías 55340 
 Matrícula: 9654260 
 
-
 ## Página 4
 
  
@@ -266,7 +268,6 @@ de Emergencia de la Comunidad Andaluza, Gerencias Territoriales de Protección C
 la Circulación de Adif y Renfe Operadora, Jefatura Técnica de Operaciones y Operador del tren 
 afectado. 
 
-
 ## Página 5
 
  
@@ -321,7 +322,6 @@ Dos trenes de media distancia sufrieron un retraso total de 54 minutos.
 2.4 
 CIRCUNSTANCIAS EXTERNAS 
 En el momento del arrollamiento era de día y las condiciones atmosféricas eran buenas. 
-
 
 ## Página 6
 
@@ -385,7 +385,6 @@ Circular 1/2008 de la Dirección General de Ferrocarriles, sobre plan de revisi�
 autorizaciones de pasos a nivel particulares de la Red Ferroviaria de Interés General administrada por 
 Adif. 
 
-
 ## Página 7
 
  
@@ -442,7 +441,6 @@ resultado negativo (0,00 mg/1000 ml).
 DELIBERACIÓN 
 El accidente tuvo lugar en el paso a nivel tipo P, situado entre las estaciones de El Priorato y Lora 
 del Río, en el P.K. 511,635 de la línea 400 Alcázar de San Juan-Cádiz. 
-
 
 ## Página 8
 
@@ -504,7 +502,6 @@ su autorización que el Administrador de Infraestructura ha de presentar antes d
 2009 a dicha Dirección General. 
 Madrid, 30 de septiembre de 2008. 
  
-
 
 ## Página 9
 
@@ -571,7 +568,6 @@ RESOLUCIÓN SOBRE LA
 INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO 
 Nº 0021/2008 
 OCURRIDO EL DÍA 03.06.2008 
-
 
 ## Página 10
 

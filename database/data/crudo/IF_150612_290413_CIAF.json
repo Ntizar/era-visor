@@ -927,5 +927,5 @@
  "titulo": "Conato de colisión por alcance entre trenes de mercancías 90602 y 82202 en la estación de Arévalo (Ávila)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF_150612_290413_CIAF.md"
+ "md": "md/ES/IF_150612_290413_CIAF.md"
 }

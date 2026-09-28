@@ -942,5 +942,5 @@
  "titulo": "Rebase de señal de salida y conato de colisión en estación de Renedo (Cantabria)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-111209-270410-CIAF.md"
+ "md": "md/ES/IF-111209-270410-CIAF.md"
 }

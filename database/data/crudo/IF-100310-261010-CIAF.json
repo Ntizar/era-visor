@@ -877,5 +877,5 @@
  "titulo": "Conato de colisión por rebase indebido de señal en la estación de Logroño",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-100310-261010-CIAF.md"
+ "md": "md/ES/IF-100310-261010-CIAF.md"
 }

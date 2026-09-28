@@ -996,5 +996,5 @@
  "titulo": "Colisión del tren 222 con señal y herramientas en vía 2 de la estación de Socuéllamos",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF_120312_260213_CIAF.md"
+ "md": "md/ES/IF_120312_260213_CIAF.md"
 }

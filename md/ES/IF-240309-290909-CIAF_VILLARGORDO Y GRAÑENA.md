@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/IF-240309-290909-CIAF_VILLARGORDO Y GRAÑENA.pdf
+url_oficial: https://www.transportes.gob.es/recursos_mfom/pdf/A5F0A1D0-8B3F-4B4D-BE0A-FBFE05371D88/53846/INF001809CIAF.pdf
+md5_pdf: 5ec9721e9544e005718911828d4b1949
 paginas: 10
 chars: 19025
+tablas_detectadas: 12
+tablas_convertidas: 2
+indice_quitadas: 18
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -74,7 +79,6 @@ IF-240309-290909-CIAF
  
 Pág. 1 de 10
 
-
 ## Página 2
 
  
@@ -97,41 +101,23 @@ IF-240309-290909-CIAF
  
 Pág. 2 de 10
 1. 
-RESUMEN .............................................................................................................................................3 
 2. 
-HECHOS INMEDIATOS DEL SUCESO.................................................................................................3 
 2.1 
-SUCESO......................................................................................................................................................3 
 2.2 
-CIRCUNSTANCIAS DEL SUCESO.................................................................................................................5 
 2.3 
-VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................7 
 2.4 
-CIRCUNSTANCIAS EXTERNAS.....................................................................................................................7 
 3. 
-RELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................7 
 3.1 
-RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................7 
 3.2 
-SISTEMAS DE GESTIÓN DE LA SEGURIDAD...............................................................................................8 
 3.3 
-NORMATIVA...............................................................................................................................................8 
 3.4 
-FUNCIONAMIENTO DEL MATERIAL RODANTE FERROVIARIO Y DE LAS INSTALACIONES TÉCNICAS.........8 
 3.5 
-INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO.......................................................................9 
 3.6 
-INSPECCIÓN DEL LUGAR DEL ACCIDENTE.................................................................................................9 
 3.7 
-DATOS DE TRÁFICO FERROVIARIO............................................................................................................9 
 4. 
-ANÁLISIS Y CONCLUSIONES.............................................................................................................9 
 4.1 
-DELIBERACIÓN...........................................................................................................................................9 
 4.2 
-CONCLUSIONES .......................................................................................................................................10 
 5. 
-RECOMENDACIONES ........................................................................................................................10 
  
  
  
@@ -139,7 +125,6 @@ RECOMENDACIONES ................................................................
  
  
  
-
 
 ## Página 3
 
@@ -206,6 +191,11 @@ desde la carretera N-323-A de Bailén a Motril, que por este tramo transcurre pa
 vía. Debido al impacto, el vehículo es desplazado fuera del paso a nivel. 
 Como consecuencia del arrollamiento resultó cadáver el conductor y único ocupante del vehículo. 
 
+### Tablas de la página 3
+
+| Destinatario | Número | Recomendación |
+|---|---|---|
+| Organismo titular del camino. (Ayuntamiento de Jaén) | 18/09-1 | Se recomienda que se mejore el acceso al paso a nivel y se instale la señalización prevista en el apartado 2.1.2. del artículo 9 de la Orden de 2 agosto de 2001 en materia de supresión y protección de pasos a nivel. |
 
 ## Página 4
 
@@ -264,7 +254,6 @@ IF-240309-290909-CIAF
  
 Pág. 4 de 10
 
-
 ## Página 5
 
  
@@ -314,7 +303,6 @@ denominado “Camino del Cortijo de Manzano”, es de titularidad pública y est
 ayuntamiento de Jaén.  
 La distancia de visibilidad real es de 500 metros y la distancia de visibilidad técnica es de 184 
 metros. 
-
 
 ## Página 6
 
@@ -368,7 +356,6 @@ IF-240309-290909-CIAF
  
 Pág. 6 de 10
 
-
 ## Página 7
 
  
@@ -418,7 +405,6 @@ Reconociendo dicha U.T se observa grandes desperfectos en el frontal C/RC. Pidie
 a las 23´05 llegando a las 23´52 transbordando los viajeros. Una vez reparada la UT 470163 sale del 
 k.137+500 a las 1´20, llegando a Jaén 1´42. Adjunto acta de silbato y ticket del resultado de 
 alcoholemia. Lo que pongo en su conocimiento para los efectos oportunos.” 
-
 
 ## Página 8
 
@@ -476,7 +462,6 @@ INSTALACIONES TÉCNICAS
 Los equipos de seguridad del tren funcionaron correctamente. Del registrador de seguridad se 
 desprende que el tren, en el momento de aplicar el freno, circulaba a 77 km/h. 
 
-
 ## Página 9
 
  
@@ -525,7 +510,6 @@ Estas circulaciones se desglosan en: 105 de media distancia.
 4.1. DELIBERACIÓN 
 El accidente tuvo lugar en el paso a nivel tipo A, situado en plena vía, en el P.K. 137,803 de la 
 línea 402 Espeluy Aguja Km. 340.1 - Jaén, entre los apeaderos de Grañena y Villargordo. 
-
 
 ## Página 10
 
@@ -588,3 +572,9 @@ nivel.
 Madrid, 29 de septiembre de 2009. 
  
  
+
+### Tablas de la página 10
+
+| Destinatario | Número | Recomendación |
+|---|---|---|
+| Organismo titular del camino. (Ayuntamiento de Jaén) | 18/09-1 | Se recomienda que se mejore el acceso al paso a nivel y se instale la señalización prevista en el apartado 2.1.2. del artículo 9 de la Orden de 2 agosto de 2001 en materia de supresión y protección de pasos a nivel. |

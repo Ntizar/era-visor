@@ -913,5 +913,5 @@
  "titulo": "Rebase de señal en parada con conato de colisión en la estación de Lleida Pirineus (Lleida)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF_110713_251114_CIAF.md"
+ "md": "md/ES/IF_110713_251114_CIAF.md"
 }

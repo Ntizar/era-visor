@@ -946,5 +946,5 @@
  "titulo": "Descarrilamiento de un vagón cisterna en la línea 516 entre Torremejía y Almendralejo (Badajoz)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF_200513_140714_CIAF.md"
+ "md": "md/ES/IF_200513_140714_CIAF.md"
 }

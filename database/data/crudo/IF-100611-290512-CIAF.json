@@ -938,5 +938,5 @@
  "titulo": "Informe final sobre el accidente ferroviario nº 0028/2011 ocurrido el día 10.06.2011 en el PK 11+100 de la línea Madrid Puerta de Atocha a Sevilla Santa Justa",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-100611-290512-CIAF.md"
+ "md": "md/ES/IF-100611-290512-CIAF.md"
 }

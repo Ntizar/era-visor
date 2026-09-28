@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/IF-200109-2-190509-CIAF_TORDERA Y BLANES.pdf
+url_oficial: https://www.transportes.gob.es/recursos_mfom/pdf/254DEAFD-A974-43AE-A06E-8FE4B52D018C/47503/409IF200109190509CIAF1.pdf
+md5_pdf: 4ee2c7ec8a8728d8921c392390ab579b
 paginas: 12
 chars: 18113
+tablas_detectadas: 15
+tablas_convertidas: 3
+indice_quitadas: 18
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -77,7 +82,6 @@ IF-200109-190509-CIAF
  
 Pág. 1 de 12
 
-
 ## Página 2
 
  
@@ -105,41 +109,23 @@ IF-200109-190509-CIAF
  
 Pág. 2 de 12
 1. 
-RESUMEN .............................................................................................................................................3 
 2. 
-HECHOS INMEDIATOS DEL SUCESO.................................................................................................3 
 2.1 
-SUCESO......................................................................................................................................................3 
 2.2 
-CIRCUNSTANCIAS DEL SUCESO.................................................................................................................5 
 2.3 
-VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................6 
 2.4 
-CIRCUNSTANCIAS EXTERNAS.....................................................................................................................6 
 3. 
-RELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................6 
 3.1 
-RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................6 
 3.2 
-SISTEMAS DE GESTIÓN DE LA SEGURIDAD...............................................................................................7 
 3.3 
-NORMATIVA...............................................................................................................................................7 
 3.4 
-FUNCIONAMIENTO DEL MATERIAL RODANTE FERROVIARIO Y DE LAS INSTALACIONES TÉCNICAS.........7 
 3.5 
-INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO.......................................................................8 
 3.6 
-INSPECCIÓN DEL LUGAR DEL ACCIDENTE.................................................................................................8 
 3.7 
-DATOS DE TRÁFICO FERROVIARIO............................................................................................................9 
 4. 
-ANÁLISIS Y CONCLUSIONES.............................................................................................................9 
 4.1 
-DELIBERACIÓN...........................................................................................................................................9 
 4.2 
-CONCLUSIONES .......................................................................................................................................10 
 5. 
-RECOMENDACIONES ........................................................................................................................10 
  
  
  
@@ -147,7 +133,6 @@ RECOMENDACIONES ................................................................
  
  
  
-
 
 ## Página 3
 
@@ -210,6 +195,11 @@ derecha en sentido de la circulación del tren. Aunque el maquinista hace uso de
 emergencia no puede evitar el accidente. 
 Como consecuencia del impacto la víctima fallece en el acto. 
 
+### Tablas de la página 3
+
+| Destinatario | Número | Recomendación |
+|---|---|---|
+| DGF | 04/09-1 | Retirada de todas las señales vinculadas al paso a nivel que ya fue suprimido. |
 
 ## Página 4
 
@@ -257,7 +247,6 @@ IF-200109-190509-CIAF
  
  
 Pág. 4 de 12
-
 
 ## Página 5
 
@@ -313,7 +302,6 @@ Trayecto de vía única  electrificada con bloqueo de liberación automática (B
 tráfico centralizado (CTC). 
 Sistemas de comunicación 
 Radiotelefonía modalidad A. 
-
 
 ## Página 6
 
@@ -372,7 +360,6 @@ De la toma de declaración realizada al maquinista del tren 25630, se transcribe
 “Salí de Tordera en la cual tenía parada. Al salir tengo una curva hacia la derecha y a continuación 
 curva hacia la izquierda, al salir de esta contracurva veo a un señor en el lado izquierdo según el 
 
-
 ## Página 7
 
  
@@ -430,7 +417,6 @@ correctamente.
 Del análisis del registrador de seguridad se desprende que, en el momento de accionar el freno de 
 emergencia, el tren circulaba a 104 km/hora. 
 
-
 ## Página 8
 
  
@@ -485,7 +471,6 @@ IF-200109-190509-CIAF
  
  
 Pág. 8 de 12
-
 
 ## Página 9
 
@@ -543,7 +528,6 @@ IF-200109-190509-CIAF
  
 Pág. 9 de 12
 
-
 ## Página 10
 
  
@@ -598,6 +582,11 @@ Madrid, 19 de mayo de 2009.
  
  
 
+### Tablas de la página 10
+
+| Destinatario | Número | Recomendación |
+|---|---|---|
+| DGF | 04/09-1 | Retirada de todas las señales vinculadas al paso a nivel que ya fue suprimido. |
 
 ## Página 11
 
@@ -666,7 +655,6 @@ DEL ACCIDENTE FERROVIARIO Nº 0004/2009
 OCURRIDO EL DÍA 20.01.2009  
 EN PLENA VÍA, ENTRE TORDERA Y BLANES 
 
-
 ## Página 12
 
  
@@ -723,3 +711,9 @@ Madrid, 19 de mayo de 2009
  
  
  
+
+### Tablas de la página 12
+
+| Destinatario | Número | Recomendación |
+|---|---|---|
+| DGF | 04/09-1 | Retirada de todas las señales vinculadas al paso a nivel que ya fue suprimido. |

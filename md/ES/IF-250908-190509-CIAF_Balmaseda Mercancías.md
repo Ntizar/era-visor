@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/IF-250908-190509-CIAF_Balmaseda Mercancías.pdf
+url_oficial: https://www.transportes.gob.es/recursos_mfom/pdf/EAA273DA-EE1E-4AEF-96F4-29250629E96A/47276/4408IF250908190509CIAF.pdf
+md5_pdf: bbc4db9ec758fdbae935d3759fcaff86
 paginas: 14
 chars: 24114
+tablas_detectadas: 17
+tablas_convertidas: 3
+indice_quitadas: 17
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -82,7 +87,6 @@ IF-250908-190509-CIAF
  
 Pág. 1 de 14
 
-
 ## Página 2
 
  
@@ -111,39 +115,22 @@ IF-250908-190509-CIAF
  
 Pág. 2 de 14
 1. 
-RESUMEN .............................................................................................................................................3 
 2. 
-HECHOS INMEDIATOS DEL SUCESO.................................................................................................3 
 2.1 
-SUCESO......................................................................................................................................................3 
 2.2 
-CIRCUNSTANCIAS DEL SUCESO.................................................................................................................6 
 2.3 
-VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................7 
 2.4 
-CIRCUNSTANCIAS EXTERNAS.....................................................................................................................7 
 3. 
-RELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................7 
 3.1 
-RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................8 
 3.2 
-SISTEMAS DE GESTIÓN DE LA SEGURIDAD...............................................................................................9 
 3.3 
-NORMATIVA...............................................................................................................................................9 
 3.4 
-FUNCIONAMIENTO DEL MATERIAL RODANTE FERROVIARIO Y DE LAS INSTALACIONES TÉCNICAS.......10 
 3.5 
-INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO.....................................................................10 
 4. 
-ANÁLISIS Y CONCLUSIONES...........................................................................................................10 
 4.1 
-DELIBERACIÓN.........................................................................................................................................10 
 4.2 
-CONCLUSIONES .......................................................................................................................................11 
 5. 
-MEDIDAS ADOPTADAS.....................................................................................................................11 
 6. 
-RECOMENDACIONES ........................................................................................................................12 
  
  
  
@@ -156,7 +143,6 @@ RECOMENDACIONES ................................................................
  
  
  
-
 
 ## Página 3
 
@@ -229,6 +215,11 @@ el P.K. 276,900  entre los apeaderos de Arla-Berrón y Ungo- Nava. Se decide arr
 situ puesto que en el tren viajan personas cualificadas para ello. Cuando se estaban realizando las 
 labores necesarias para arrancar el motor diesel, por fallo en los sistemas de frenado, se produce 
 
+### Tablas de la página 3
+
+| Destinatario | Número | Recomendación |
+|---|---|---|
+| Feve | 44/08-1 | Que se garantice que el material histórico que circule por su red cumpla las normas relativas al mantenimiento y a la autorización para circular que se recogen en su Norma Básica de Seguridad del Material. |
 
 ## Página 4
 
@@ -279,7 +270,6 @@ IF-250908-190509-CIAF
  
  
 Pág. 4 de 14
-
 
 ## Página 5
 
@@ -334,7 +324,6 @@ IF-250908-190509-CIAF
  
  
 Pág. 5 de 14
-
 
 ## Página 6
 
@@ -395,7 +384,6 @@ estación Balmaseda Mercancías. Se trata de una vía no electrificada de la est
 horizontal, que termina en una topera por el lado Bilbao. El trayecto por el que el automotor 
 efectúa su recorrido a la deriva es un tramo de vía única no electrificada con bloqueo telefónico. 
 
-
 ## Página 7
 
  
@@ -450,7 +438,6 @@ No se produjo ninguna alteración del tráfico ferroviario.
 CIRCUNSTANCIAS EXTERNAS 
 En el momento del arrollamiento el tiempo atmosférico es despejado. 
 3. RELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES 
-
 
 ## Página 8
 
@@ -517,7 +504,6 @@ palancas del cambio de marchas introducir alguna velocidad, siendo imposible. Cu
 cuenta que íbamos a estrellarnos contra la topera  de la Estación antigua de la Robla, opté por 
 tirarme al suelo entre los asientos y esperar el impacto contra ella. Después que se detuvo el 
 
-
 ## Página 9
 
  
@@ -576,7 +562,6 @@ Otras normas
 Reglamento de Circulación de Trenes y Reglamento de Señales de Feve. 
 Orden Circular 1/2008 Pautas para la investigación técnica de los accidentes ferroviarios que 
 competen a la Comisión de Investigación de accidentes ferroviarios. 
-
 
 ## Página 10
 
@@ -640,7 +625,6 @@ alimentación de combustible. Tras accionar el freno, todo el sistema neumático
 poco tiempo (el tiempo en que se intentó subsanar la avería), por lo que quedó sin retención, 
 iniciando su movimiento en deriva.  
 
-
 ## Página 11
 
  
@@ -701,7 +685,6 @@ produciéndose la deriva del mismo.
 Como medida cautelar, FEVE ha suspendido la aplicación del convenio de colaboración con la 
 Asociación de Amigos del Ferrocarril, para la circulación de material histórico por la red de FEVE. 
 
-
 ## Página 12
 
  
@@ -748,6 +731,11 @@ Madrid, 19 mayo de 2009.
  
  
 
+### Tablas de la página 12
+
+| Destinatario | Número | Recomendación |
+|---|---|---|
+| Feve | 44/08-1 | Que se garantice que el material histórico que circule por su red cumpla las normas relativas al mantenimiento y a la autorización para circular que se recogen en su Norma Básica de Seguridad del Material. |
 
 ## Página 13
 
@@ -817,7 +805,6 @@ DEL ACCIDENTE FERROVIARIO Nº 0044/2008
 OCURRIDO EL DÍA 25.09.2008 
 EN LA ESTACIÓN DE BALMASEDA MERCANCÍAS 
 
-
 ## Página 14
 
  
@@ -876,3 +863,9 @@ Madrid, 19 de mayo de 2009
  
  
  
+
+### Tablas de la página 14
+
+| Destinatario | Número | Recomendación |
+|---|---|---|
+| Feve | 44/08-1 | Que se garantice que el material histórico que circule por su red cumpla las normas relativas al mantenimiento y a la autorización para circular que se recogen en su Norma Básica de Seguridad del Material. |

@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/IF-200109-190509-CIAF-LA FLORIDA.pdf
+url_oficial: https://www.transportes.gob.es/recursos_mfom/pdf/82FC203C-D8D2-48B7-BED6-59EDE2F6135B/47502/309IF200109190509CIAF.pdf
+md5_pdf: 983f8983c9525398abf2f7b35a1b083b
 paginas: 12
 chars: 18978
+tablas_detectadas: 15
+tablas_convertidas: 3
+indice_quitadas: 17
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -93,7 +98,6 @@ IF-200109-190509-CIAF
  
 Pág. 1 de 12
 
-
 ## Página 2
 
  
@@ -122,41 +126,23 @@ IF-200109-190509-CIAF
  
 Pág. 2 de 12
 1. 
-RESUMEN .............................................................................................................................................3 
 2. 
-HECHOS INMEDIATOS DEL SUCESO.................................................................................................3 
 2.1 
-SUCESO......................................................................................................................................................3 
 2.2 
-CIRCUNSTANCIAS DEL SUCESO.................................................................................................................5 
 2.3 
-VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES..........................................................................6 
 2.4 
-CIRCUNSTANCIAS EXTERNAS.....................................................................................................................6 
 3. 
-RELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES.............................................................7 
 3.1 
-RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS.............................................................................7 
 3.2 
-SISTEMAS DE GESTIÓN DE LA SEGURIDAD...............................................................................................8 
 3.3 
-NORMATIVA...............................................................................................................................................8 
 3.4 
-FUNCIONAMIENTO DEL MATERIAL RODANTE FERROVIARIO Y DE LAS INSTALACIONES TÉCNICAS.........8 
 3.5 
-INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO.......................................................................9 
 3.6 
-SUCESOS DE CARACTERÍSTICAS SIMILARES .............................................................................................9 
 4. 
-ANÁLISIS Y CONCLUSIONES.............................................................................................................9 
 4.1 
-DELIBERACIÓN...........................................................................................................................................9 
 4.2 
-CONCLUSIONES .......................................................................................................................................10 
 5. 
-RECOMENDACIONES ........................................................................................................................10 
  
-
 
 ## Página 3
 
@@ -237,6 +223,11 @@ estación, dando lugar a un conato de colisión. Ambos trenes estaban en contact
 Control de Tráfico Centralizado (CTC), cuyo operador gestionó las maniobras pertinentes para resolver 
 la situación. 
 
+### Tablas de la página 3
+
+| Destinatario | Número | Recomendación |
+|---|---|---|
+| Feve | 03/09-1 | Revisar los programas de reciclaje del personal de conducción, de manera que se haga especial énfasis en las actitudes y comportamientos que son fuentes de riesgos. |
 
 ## Página 4
 
@@ -294,7 +285,6 @@ IF-200109-190509-CIAF
  
 Pág. 4 de 12
 
-
 ## Página 5
 
  
@@ -350,7 +340,6 @@ Nº CF: 9590
  El Operador del CTC 
 Nº CF: 9942 
 
-
 ## Página 6
 
  
@@ -400,7 +389,6 @@ Seis trenes con retrasos entre 5 y 20 minutos.
 2.4 
 CIRCUNSTANCIAS EXTERNAS 
 En el momento del incidente el tiempo  era lluvioso y con nieve. 
-
 
 ## Página 7
 
@@ -459,7 +447,6 @@ ordenándome que detenga la marcha ante la señal de avanzada de Florida, inform
 habido un rebase en dicha estación y que no reanudara la marcha hasta nuevo aviso, cosa que se 
 produjo aproximadamente a las 12:15 horas del mediodía informándome de que hiciera el paso por 
 las agujas a paso de hombre de dicha estación con atención especial a la primera aguja”. 
-
 
 ## Página 8
 
@@ -520,7 +507,6 @@ Los equipos de seguridad (freno, ASFA, etc.) del tren funcionaron correctamente.
 De la secuencia de la moviola del CTC se deduce que las instalaciones técnicas funcionaron 
 correctamente. 
 
-
 ## Página 9
 
  
@@ -576,7 +562,6 @@ correctamente a las órdenes del telemando.
 La jornada laboral del maquinista cumple lo establecido en el XVIII Convenio Colectivo de Feve 
 (Artículo 9), donde se establece que la jornada diaria de trabajo no excederá de 9 horas y será 
 superior a 6 horas. 
-
 
 ## Página 10
 
@@ -637,6 +622,11 @@ Madrid, 19 de mayo de 2009
  
  
 
+### Tablas de la página 10
+
+| Destinatario | Número | Recomendación |
+|---|---|---|
+| Feve | 03/09-1 | Revisar los programas de reciclaje del personal de conducción, de manera que se haga especial énfasis en las actitudes y comportamientos que son fuentes de riesgos. |
 
 ## Página 11
 
@@ -706,7 +696,6 @@ DEL INCIDENTE FERROVIARIO Nº 0003/2009
 OCURRIDO EL DÍA 20.01.2009 
 EN LA ESTACIÓN DE LA FLORIDA 
 
-
 ## Página 12
 
  
@@ -764,3 +753,9 @@ Madrid, 19 de mayo de 2009
  
  
  
+
+### Tablas de la página 12
+
+| Destinatario | Número | Recomendación |
+|---|---|---|
+| Feve | 03/09-1 | Revisar los programas de reciclaje del personal de conducción, de manera que se haga especial énfasis en las actitudes y comportamientos que son fuentes de riesgos. |

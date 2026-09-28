@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/IF-190112-271112-CIAF-El Clot-Aragó.pdf
+url_oficial: https://www.transportes.gob.es/recursos_mfom/pdf/9855C7A3-8ED1-409D-B74C-575C6CBEA037/114720/IF190112271112CIAF.pdf
+md5_pdf: ba7ee3c9f82213441700443e76721626
 paginas: 16
 chars: 36451
+tablas_detectadas: 18
+tablas_convertidas: 2
+indice_quitadas: 19
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -83,7 +88,6 @@ reducir los riesgos en el transporte ferroviario. Dicha investigación no se
 ocupará, en ningún caso, de la determinación de la culpa o responsabilidad y 
 será independiente de cualquier investigación judicial. 
 
-
 ## Página 2
 
  
@@ -104,33 +108,13 @@ IF-190112-271112-CIAF
  
 Pág. 2 de 16
 1. 
-RESUMEN .................................................................................................................................................... 3 
 2. 
-HECHOS INMEDIATOS DEL SUCESO ...................................................................................................... 3 
-2.1.  SUCESO ............................................................................................................................................................ 3 
-2.2.  CIRCUNSTANCIAS DEL SUCESO ...................................................................................................................... 5 
-2.3.  VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES .............................................................................. 7 
-2.4.  CIRCUNSTANCIAS EXTERNAS .......................................................................................................................... 9 
 3. 
-RELACIÓN DE LAS INVESTIGACIONES E INDAGACIONES ................................................................ 9 
-3.1.  RESUMEN DE LAS DECLARACIONES ................................................................................................................ 9 
-3.2.  SISTEMAS DE GESTIÓN DE LA SEGURIDAD .................................................................................................. 10 
-3.3.  NORMATIVA ................................................................................................................................................... 11 
 3.4.  FUNCIONAMIENTO DEL MATERIAL RODANTE FERRROVIARIO, INSTALACIONES TÉCNICAS E 
-INFRAESTRUCTURA ....................................................................................................................................... 11 
-3.5.  INTERFAZ HOMBRE-MÁQUINA DEL PERSONAL IMPLICADO ......................................................................... 12 
-3.6.  SUCESOS DE CARACTERÍSTICAS SIMILARES ................................................................................................ 13 
 4. 
-ANÁLISIS Y CONCLUSIONES ................................................................................................................13 
-4.1.  DESCRIPCIÓN DE LOS ACONTECIMIENTOS .................................................................................................. 13 
-4.2.  DELIBERACIÓN ............................................................................................................................................... 14 
-4.3.  CONCLUSIONES ............................................................................................................................................. 15 
 5. 
-MEDIDAS ADOPTADAS ...........................................................................................................................15 
 6. 
-RECOMENDACIONES ..............................................................................................................................16 
  
-
 
 ## Página 3
 
@@ -203,6 +187,12 @@ El tren 37506 (material vacío Talgo del tren 00273), procedente de Barcelona Sa
 con destino a la estación Barcelona Estació de França, estaba detenido ante la señal de entrada 
 1094 (PK 109+499) a Bif. Glorias, que se encontraba en indicación de parada.  
 
+### Tablas de la página 3
+
+| Destinatario final | Número | Recomendación |
+|---|---|---|
+| Renfe Operadora | 07/12-1 | Analizar la viabilidad de prohibir el establecimiento de la velocidad prefijada cuando se circule con marcha a la vista. |
+| Adif | 07/12-2 | Analizar la viabilidad de que en aquellas señales avanzadas que tengan la condición de permisivas se cambien a absolutas en los casos con circunstancias similares a las de este suceso. |
 
 ## Página 4
 
@@ -266,7 +256,6 @@ COLISIÓN
 PK 109+810 
  
 
-
 ## Página 5
 
  
@@ -316,7 +305,6 @@ CIRCUNSTANCIAS DEL SUCESO
 Por parte de Renfe Operadora 
 El maquinista del tren 25652 con matrícula 6825939. 
 El maquinista del tren 37506 (material vacío Talgo del tren 00273) con matrícula 1347087. 
-
 
 ## Página 6
 
@@ -373,7 +361,6 @@ señal luminosa indicadora de dirección. Se encuentra situada después del apea
 unos 577 metros del final del andén. 
 Ambas señales están dotadas de balizas Asfa de pie de señal y previa. 
 
-
 ## Página 7
 
  
@@ -426,7 +413,6 @@ VÍCTIMAS MORTALES, LESIONES Y DAÑOS MATERIALES
 2.3.1. Víctimas mortales y heridos 
 Como consecuencia del accidente resultan heridas leves 27 personas (dos empleados de la tripulación 
 del tren 37506 y 25 viajeros del tren 25652). 
-
 
 ## Página 8
 
@@ -481,7 +467,6 @@ rasguños.  El importe total estimado de los daños es de 175.539 €.
  
 Tren 25652 (Fuente: Renfe Operadora)
 Tren 37506 -material Talgo vacío- (Fuente; Renfe Operadora) 
-
 
 ## Página 9
 
@@ -540,7 +525,6 @@ finalizadas las operaciones comerciales reanuda la marcha. Que se encuentra una 
 visibilidad y de inmediato se encuentra la cola de un tren. Que actúa sobre el manipulador de 
 tracción-freno a la posición de urgencia no pudiendo evitar el alcance del otro tren. 
 
-
 ## Página 10
 
  
@@ -593,7 +577,6 @@ FOM/2520/2006, de 27 de julio (Título V – Personal de conducción – en vigo
 material de 10/03/1997. 
 Realizó su último reciclaje formativo el 12/07/2011 y su último reconocimiento médico y psicotécnico el 
 10/02/2011 de acuerdo a la normativa vigente. 
-
 
 ## Página 11
 
@@ -648,7 +631,6 @@ emergencia del freno, recorriendo 48 metros hasta colisionar a 14 km/h.
 Del registrador de seguridad del tren 37506 (material vacío Talgo) se comprueba que el tren está 
 detenido ante la señal 1094, en el momento de la colisión. 
 Se comprueba que las luces de cola rojas del tren 37506 funcionaban correctamente. 
-
 
 ## Página 12
 
@@ -705,7 +687,6 @@ Jornada laboral del maquinista del tren 25652:
 - el día 17: 5 horas y 32 minutos. 
 Al maquinista del tren 25652, el mismo día del accidente a las 20:30 horas, se le realiza prueba de 
 alcoholemia con resultado negativo. 
-
 
 ## Página 13
 
@@ -764,7 +745,6 @@ estar 48 segundos detenido, reinicia la marcha actuando sobre el pulsador de reb
 velocidad de 22 km/h, y ocupando el circuito de vía CV 1100 (que está ocupado por tren 37506), y 
 realiza parada comercial en el apeadero de El Clot Aragó.  
 
-
 ## Página 14
 
  
@@ -822,7 +802,6 @@ Fuente. Adif
 Bif. Glorias – Bif Clot – Barcelona Estació de França-L´Hospitalet de Llobregat 
 Barcelona Sagrera– Sant Andreu Comtal- Maçanet-Massanes 
  
-
 
 ## Página 15
 
@@ -883,7 +862,6 @@ pruebas y previo informe favorable del tutor.
 De forma complementaria, Renfe Operadora también ha emprendido diversas acciones orientadas a la 
 mejora de la gestión del riesgo por fallo humano como son: creación de una oficina dedicada a la 
 
-
 ## Página 16
 
  
@@ -937,3 +915,10 @@ similares a las de este suceso.
  
 Madrid, 27 de noviembre de 2012 
  
+
+### Tablas de la página 16
+
+| Destinatario final | Número | Recomendación |
+|---|---|---|
+| Renfe Operadora | 07/12-1 | Analizar la viabilidad de prohibir el establecimiento de la velocidad prefijada cuando se circule con marcha a la vista. |
+| Adif | 07/12-2 | Analizar la viabilidad de que en aquellas señales avanzadas que tengan la condición de permisivas se cambien a absolutas en los casos con circunstancias similares a las de este suceso. |

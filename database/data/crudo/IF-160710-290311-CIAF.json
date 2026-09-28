@@ -922,5 +922,5 @@
  "titulo": "Conato de colisión entre trenes 4141 y 8168 en la señal E1 de la dependencia Río Duero (Valladolid)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-160710-290311-CIAF.md"
+ "md": "md/ES/IF-160710-290311-CIAF.md"
 }

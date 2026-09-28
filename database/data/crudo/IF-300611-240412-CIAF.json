@@ -946,5 +946,5 @@
  "titulo": "Descarrilamiento de trenes en la línea 116 Los Cotos-Cercedilla, entre Siete Picos y Puerto de Navacerrada (Madrid)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-300611-240412-CIAF.md"
+ "md": "md/ES/IF-300611-240412-CIAF.md"
 }

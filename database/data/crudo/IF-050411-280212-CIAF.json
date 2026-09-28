@@ -963,5 +963,5 @@
  "titulo": "Descarrilamiento de tren de mercancías por rebase indebido de señal en estación de Rubí (Barcelona)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-050411-280212-CIAF.md"
+ "md": "md/ES/IF-050411-280212-CIAF.md"
 }

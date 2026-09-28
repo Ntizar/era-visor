@@ -960,5 +960,5 @@
  "titulo": "Colisión por alcance entre trenes de Renfe en el PK 109+810, entre El Clot Aragó y Bif. Glorias, Barcelona",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-190112-271112-CIAF-El Clot-Aragó.md"
+ "md": "md/ES/IF-190112-271112-CIAF-El Clot-Aragó.md"
 }

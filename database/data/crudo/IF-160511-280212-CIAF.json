@@ -996,5 +996,5 @@
  "titulo": "Conato de colisión entre trenes 5180 y 8182 por rebase de señal de parada en estación de Los Gavilanes (Madrid)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-160511-280212-CIAF.md"
+ "md": "md/ES/IF-160511-280212-CIAF.md"
 }

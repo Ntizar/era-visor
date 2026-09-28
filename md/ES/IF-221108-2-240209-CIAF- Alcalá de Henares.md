@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/IF-221108-2-240209-CIAF- Alcalá de Henares.pdf
+url_oficial: https://www.transportes.gob.es/recursos_mfom/pdf/B567AB27-04DF-4B24-8693-C14BBFAE3265/46997/IF221108240209CIAF.pdf
+md5_pdf: ea638c2448089560649c2618fec0cb16
 paginas: 10
 chars: 15324
+tablas_detectadas: 10
+tablas_convertidas: 0
+indice_quitadas: 0
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -72,7 +77,6 @@ INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO
 Nº 0064/2008 
 OCURRIDO EL DÍA 22.11.2008 
 
-
 ## Página 2
 
  
@@ -137,7 +141,6 @@ El Coordinador de accidentes ferroviarios del Administrador de Infraestructuras 
 el 22 de noviembre a las 21:14 horas, a través de mensaje de telefonía móvil, comunicó a la Comisión 
 de Investigación de accidentes ferroviarios que se había producido el arrollamiento de un joven  por el 
 tren de media distancia 17011 en la estación de Alcalá de Henares. 
-
 
 ## Página 3
 
@@ -205,7 +208,6 @@ y 161 Tn de masa remolcada).
  
 Nº UIC: 967194701181 
 
-
 ## Página 4
 
  
@@ -265,7 +267,6 @@ Las vías G1 y G2, entre Alcalá de Henares y Torrejón de Ardoz, quedan interce
 2.4 
 CIRCUNSTANCIAS EXTERNAS 
 En el momento del arrollamiento el tiempo atmosférico era de noche y despejado. 
-
 
 ## Página 5
 
@@ -329,7 +330,6 @@ Reglamento General de Circulación.
 Orden Ministerial de Habilitación de Personal, 2520 de 27 de julio de 2006. 
 Orden Ministerial de Homologación de Material Rodante, 233 de 31 de enero de 2006. 
 
-
 ## Página 6
 
  
@@ -388,7 +388,6 @@ En informaciones aparecidas en la prensa, el lugar del accidente está cercano a
 DATOS DE TRÁFICO FERROVIARIO. 
 Circulaciones reales (media semanal) del tramo Bifurcación Base Aérea – Alcalá de Henares, tramo 
 al que pertenece la estación de Alcalá de Henares: 
-
 
 ## Página 7
 
@@ -449,7 +448,6 @@ estar autorizado para ello.
 Tras el accidente, según información facilitada por Adif, los servicios municipales de Alcalá de 
 Henares procedieron a la reparación de la rotura del vallado por donde accedió la víctima. 
 
-
 ## Página 8
 
  
@@ -485,7 +483,6 @@ necesarias para su mantenimiento.
 Madrid, 24 de febrero de 2009. 
  
  
-
 
 ## Página 9
 
@@ -553,7 +550,6 @@ RESOLUCIÓN SOBRE LA
 INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO 
 Nº 0064/2008 
 OCURRIDO EL DÍA 22.11.2008 
-
 
 ## Página 10
 

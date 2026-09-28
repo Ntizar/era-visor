@@ -1,11 +1,16 @@
 ---
 pdf: pdfs/ES/IF-030608-300908-CIAF_Barcelona-Cerbere.pdf
+url_oficial: https://www.transportes.gob.es/recursos_mfom/pdf/17F219F5-23FB-4D7D-A4A0-E6EDCA025602/46950/IF030608300908CIAF.pdf
+md5_pdf: 371b093a2f0069d634e53f7facd90c3c
 paginas: 10
 chars: 17097
+tablas_detectadas: 10
+tablas_convertidas: 0
+indice_quitadas: 0
+escaneado: false
+fecha_proceso: 2026-09-26
+generador: 01_mejorar_md.py (PyMuPDF page.get_text + find_tables)
 ---
-
-
-
 ## Página 1
 
  
@@ -71,7 +76,6 @@ INFORME FINAL SOBRE LA
 INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO 
 Nº 0020/2008 
 OCURRIDO EL DÍA 03.06.2008 
-
 
 ## Página 2
 
@@ -139,7 +143,6 @@ Investigación de accidentes ferroviarios que se había producido el arrollamien
 tren de media distancia 15810, en el paso a nivel tipo C, de la línea 270 Barcelona-Cerbere, situado en 
 la estación de Figueres. 
 
-
 ## Página 3
 
  
@@ -203,7 +206,6 @@ Por parte de Adif
 Mando Intermedio de Seguridad en la Circulación, como agente de 
 acompañamiento 
 
-
 ## Página 4
 
  
@@ -266,7 +268,6 @@ El maquinista comunica el suceso al Puesto de Mando de Barcelona desde donde se 
 Grupo de Logística, Jefatura de Operaciones de Gerona, Seguridad en la Circulación, Seguridad 
 Corporativa y operadores afectados. 
 
-
 ## Página 5
 
  
@@ -325,7 +326,6 @@ RESUMEN DE LAS DECLARACIONES DE LOS TESTIGOS
 Personal ferroviario 
 De la toma de declaración realizada al maquinista del tren 15810, el día del accidente, se 
 transcribe lo siguiente:  
-
 
 ## Página 6
 
@@ -391,7 +391,6 @@ Ordenación de los Transportes Terrestres, en materia de supresión y protecció
 Otras normas 
 Reglamento General de Circulación 
 
-
 ## Página 7
 
  
@@ -447,7 +446,6 @@ El accidente tuvo lugar en el paso a nivel tipo C, situado en la estación de Fi
 247,215 de la línea 270 Barcelona-Cerbere. 
 Según el registrador de seguridad del automotor, el tren circulaba a una velocidad inferior a la 
 máxima permitida en el tramo. 
-
 
 ## Página 8
 
@@ -509,7 +507,6 @@ Madrid, 30 de septiembre de 2008.
  
  
  
-
 
 ## Página 9
 
@@ -577,7 +574,6 @@ RESOLUCIÓN SOBRE LA
 INVESTIGACIÓN DEL ACCIDENTE FERROVIARIO 
 Nº 0020/2008 
 OCURRIDO EL DÍA 03.06.2008 
-
 
 ## Página 10
 

@@ -895,5 +895,5 @@
  "titulo": "Colisión por alcance entre trenes de cercanías en el apeadero de El Clot-Aragó (Barcelona)",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF-280411-271211-CIAF.md"
+ "md": "md/ES/IF-280411-271211-CIAF.md"
 }

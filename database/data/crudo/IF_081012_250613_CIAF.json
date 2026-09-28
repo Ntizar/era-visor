@@ -897,5 +897,5 @@
  "titulo": "Rotura de eje del tren 15640 entre Villanueva de Gállego y Zuera, Huesca",
  "cobertura": "completo",
  "estado_cobertura": "completo",
- "md": "database/md_base/IF_081012_250613_CIAF.md"
+ "md": "md/ES/IF_081012_250613_CIAF.md"
 }
