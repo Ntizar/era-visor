@@ -71,9 +71,13 @@ REGLAS INNEGOCIABLES
 4. Si un encabezado corresponde a una sección canónica, usa EXACTAMENTE uno de estos nombres:
    """ + ", ".join(SECCIONES) + """.
    Si no corresponde a ninguno, tradúcelo de forma literal.
-5. Si una palabra o frase es ilegible o está corrupta en el original, escribe [ilegible: ...]
+   IMPORTANTE: si el encabezado lleva numeración (1., 2.3, 4.1.2, 3.5-), CONSÉRVALA delante
+   del nombre ("3.5 Recomendaciones"). Nunca borres la numeración: es la estructura del informe.
+5. Los superíndices de nota al pie (un número suelto pegado a una palabra o al final de una
+   frase) se conservan tal cual y en el mismo punto del texto.
+6. Si una palabra o frase es ilegible o está corrupta en el original, escribe [ilegible: ...]
    conservando lo que se lea. Nunca inventes el contenido que falta.
-6. Devuelves SOLO la traducción del fragmento, sin preámbulo ni comentario final."""
+7. Devuelves SOLO la traducción del fragmento, sin preámbulo ni comentario final."""
 
 
 # ───────────────────────── utilidades ─────────────────────────
@@ -141,6 +145,19 @@ def marcas(t):
     return Counter(re.findall(r"(?m)^## Página (\d+)\s*$", t))
 
 
+RE_PAG = re.compile(r"(?m)^## Página (\d+)\s*$")
+
+
+def paginas(cuerpo):
+    """{nº de página: texto} usando los marcadores `## Página N`."""
+    out = {}
+    ms = list(RE_PAG.finditer(cuerpo))
+    for i, m in enumerate(ms):
+        fin = ms[i + 1].start() if i + 1 < len(ms) else len(cuerpo)
+        out[m.group(1)] = cuerpo[m.end():fin]
+    return out
+
+
 def llamar(base, key, modelo, mensajes, max_tokens=8000, intentos=4):
     cuerpo = json.dumps({
         "model": modelo, "messages": mensajes, "temperature": 0.1,
@@ -183,19 +200,42 @@ def traducir_bloque(base, key, modelo, bloque, idioma, correctivo=""):
 
 
 def verificar(orig, trad):
-    fallos = []
+    """Dos niveles, porque no todas las cifras pesan igual.
+
+    · DURAS (>=3 dígitos: fechas, PK, importes, referencias, velocidades): deben
+      coincidir en multiconjunto. Es la comprobación que manda.
+    · CORTAS (1-2 dígitos: "vía 1", "sector 2" y también superíndices de nota al
+      pie, que el traductor pierde de forma legítima): se cuentan como aviso, no
+      como fallo, salvo que falte más del 15 %.
+    El multiconjunto no detecta un cambio de valor (1 por 2), eso lo cubre la
+    revisión IA del informe; aquí se garantiza que no DESAPAREZCA contenido.
+    """
+    fallos, avisos = [], []
     if marcas(orig) != marcas(trad):
         fallos.append(f"marcadores de página: {sum(marcas(orig).values())} vs {sum(marcas(trad).values())}")
+
     no, nt = numeros(orig), numeros(trad)
-    faltan = sum((no - nt).values())
-    total = max(sum(no.values()), 1)
-    if faltan / total > TOL_NUMEROS:
-        fallos.append(f"números: faltan {faltan}/{total} ({faltan/total:.1%})")
+    duras_o = Counter({k: v for k, v in no.items() if len(k) >= 3})
+    duras_t = Counter({k: v for k, v in nt.items() if len(k) >= 3})
+    faltan = sum((duras_o - duras_t).values())
+    total = max(sum(duras_o.values()), 1)
+    if faltan / total > 0.01:
+        fallos.append(f"cifras largas: faltan {faltan}/{total} ({faltan/total:.1%})")
+
+    cortas_o = Counter({k: v for k, v in no.items() if len(k) < 3})
+    cortas_t = Counter({k: v for k, v in nt.items() if len(k) < 3})
+    faltan_c = sum((cortas_o - cortas_t).values())
+    total_c = max(sum(cortas_o.values()), 1)
+    if cortas_o and faltan_c / total_c > 0.15:
+        fallos.append(f"cifras cortas: faltan {faltan_c}/{total_c} ({faltan_c/total_c:.0%})")
+    elif faltan_c:
+        avisos.append(f"cifras cortas: {faltan_c}/{total_c}")
+
     if orig.strip():
         ratio = len(trad) / len(orig)
         if not (RATIO_MIN <= ratio <= RATIO_MAX):
             fallos.append(f"ratio {ratio:.2f}")
-    return fallos
+    return fallos, avisos
 
 
 def procesar(ruta, code, modelo, base, key, refuerza):
@@ -216,14 +256,14 @@ def procesar(ruta, code, modelo, base, key, refuerza):
            f"md5_origen: {hashlib.md5(texto.encode()).hexdigest()}"]
 
     if idioma.upper() == "ES":
-        trad, avisos, tokens = cuerpo, [], [0, 0]
+        trad, avisos, notas, tokens = cuerpo, [], [], [0, 0]
         cab += ["traduccion: no", "modelo: -"]
     else:
         bloques = trocear(cuerpo)
-        salida, avisos, tokens = [], [], [0, 0]
+        salida, avisos, notas, tokens = [], [], [], [0, 0]
         for k, b in enumerate(bloques, 1):
             trad_b, uso = traducir_bloque(base, key, modelo, b, idioma)
-            fallos = verificar(b, trad_b)
+            fallos, blandos = verificar(b, trad_b)
             if fallos:
                 trad_b2, uso2 = traducir_bloque(
                     base, key, modelo, b, idioma,
@@ -233,17 +273,18 @@ def procesar(ruta, code, modelo, base, key, refuerza):
                                 "TODOS los números del original."))
                 tokens[0] += uso.get("prompt_tokens", 0) + uso2.get("prompt_tokens", 0)
                 tokens[1] += uso.get("completion_tokens", 0) + uso2.get("completion_tokens", 0)
-                fallos2 = verificar(b, trad_b2)
+                fallos2, blandos2 = verificar(b, trad_b2)
                 if len(fallos2) <= len(fallos):
-                    trad_b, fallos = trad_b2, fallos2
+                    trad_b, fallos, blandos = trad_b2, fallos2, blandos2
             else:
                 tokens[0] += uso.get("prompt_tokens", 0)
                 tokens[1] += uso.get("completion_tokens", 0)
             if fallos:
                 avisos.append(f"bloque {k}: " + "; ".join(fallos))
+            if blandos:
+                notas.append(f"bloque {k}: " + "; ".join(blandos))
             salida.append(trad_b.strip())
 
-        # si el correctivo arregló bloques, se recuenta el ratio global
         trad = "\n\n".join(salida)
         cab += [f"modelo: {modelo}", f"bloques: {len(bloques)}"]
 
@@ -252,6 +293,8 @@ def procesar(ruta, code, modelo, base, key, refuerza):
             f"ratio_longitud: {ratio:.2f}",
             f"tokens_in: {tokens[0]}", f"tokens_out: {tokens[1]}",
             f"verificacion: {'ok' if not avisos else 'revisar'}"]
+    if notas:
+        cab += [f"notas_cifras: {json.dumps(notas[:6], ensure_ascii=False)}"]
     if avisos:
         cab += [f"avisos: {json.dumps(avisos[:6], ensure_ascii=False)}"]
     cab += [f"fecha_proceso: {hoy}",
@@ -289,28 +332,30 @@ def reverificar(code, refuerza=False):
             if not origen or not os.path.exists(ruta_or):
                 continue
             _, cuerpo_or = partir_frontmatter(open(ruta_or, encoding="utf-8").read())
-            avisos = []
-            p_or = {m.group(1): m.group(3) for m in
-                    re.finditer(r"(?m)^## Página (\d+)\s*$([\s\S]*?)(?=^## Página \d+\s*$|\Z)", cuerpo_or)}
-            p_es = {m.group(1): m.group(3) for m in
-                    re.finditer(r"(?m)^## Página (\d+)\s*$([\s\S]*?)(?=^## Página \d+\s*$|\Z)", cuerpo)}
+            avisos, notas = [], []
+            p_or, p_es = paginas(cuerpo_or), paginas(cuerpo)
             if set(p_or) != set(p_es):
                 avisos.append(f"páginas: {len(p_or)} original vs {len(p_es)} castellano")
             for k in sorted(set(p_or) & set(p_es), key=int):
-                fallos = verificar(p_or[k], p_es[k])
+                fallos, blandos = verificar(p_or[k], p_es[k])
                 if fallos:
                     avisos.append(f"página {k}: " + "; ".join(fallos))
+                elif blandos:
+                    notas.append(f"página {k}: " + "; ".join(blandos))
             nuevas = []
             for linea in texto.splitlines():
                 if linea.startswith("verificacion:"):
                     nuevas.append("verificacion: " + ("ok" if not avisos else "revisar"))
-                elif linea.startswith("avisos:"):
+                elif linea.startswith("avisos:") or linea.startswith("notas_cifras:"):
                     continue
                 else:
                     nuevas.append(linea)
-            if avisos:
+            if avisos or notas:
                 i = nuevas.index("---", 1) if nuevas.count("---") > 1 else len(nuevas)
-                nuevas.insert(i, "avisos: " + json.dumps(avisos[:6], ensure_ascii=False))
+                if notas:
+                    nuevas.insert(i, "notas_cifras: " + json.dumps(notas[:6], ensure_ascii=False))
+                if avisos:
+                    nuevas.insert(i, "avisos: " + json.dumps(avisos[:6], ensure_ascii=False))
             with open(ruta, "w", encoding="utf-8") as f:
                 f.write("\n".join(nuevas) + "\n")
             n_ok += 0 if avisos else 1

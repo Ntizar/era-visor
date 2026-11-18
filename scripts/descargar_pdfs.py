@@ -33,7 +33,7 @@ def descargar(codigo: str):
             continue
         url = BASE + ruta
         datos = None
-        for intento in range(4):
+        for intento in range(6):
             try:
                 req = urllib.request.Request(url, headers=UA)
                 with urllib.request.urlopen(req, timeout=120) as r:
@@ -41,8 +41,8 @@ def descargar(codigo: str):
                 break
             except urllib.error.HTTPError as e:
                 if e.code == 429:
-                    pausa = 120 * (intento + 1)
-                    print(f"  ⏳ 429 en {nombre[:50]} — espero {pausa}s (intento {intento + 1}/4)")
+                    pausa = 20 * (intento + 1)
+                    print(f"  ⏳ 429 en {nombre[:50]} — espero {pausa}s (intento {intento + 1}/6)")
                     time.sleep(pausa)
                 else:
                     print(f"  ✗ {nombre[:60]}: HTTP {e.code}")
@@ -57,7 +57,7 @@ def descargar(codigo: str):
                 print(f"  [{codigo}] {ok}/{len(manifest)} descargados")
         else:
             fail += 1
-        time.sleep(8.0)  # cortesía con ERA (evita 429)
+        time.sleep(1.2)  # cortesía mínima con ERA (los PDF los sirve su CDN: ~0,4 s)
     print(f"[{codigo}] LISTO: {ok} descargados, {fail} fallos, total manifest {len(manifest)}")
 
 
