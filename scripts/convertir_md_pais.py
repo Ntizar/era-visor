@@ -25,6 +25,7 @@ Uso:
 import argparse
 import datetime
 import hashlib
+import html
 import json
 import multiprocessing
 import os
@@ -220,7 +221,9 @@ def procesar_pdf(ruta, con_tablas=True):
 
 
 def slug(nombre):
-    s = os.path.splitext(nombre)[0]
+    # ERA publica nombres con entidades HTML ("&amp;"); se limpian para que el
+    # árbol de ficheros sea navegable y los enlaces no se rompan.
+    s = html.unescape(os.path.splitext(nombre)[0])
     s = re.sub(r'[<>:"/\\|?*]', "-", s)
     s = re.sub(r"\s+", " ", s).strip(" .")
     return s or "sin-titulo"
