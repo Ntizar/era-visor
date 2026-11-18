@@ -1,6 +1,6 @@
 # ERA Visor — Visor europeo de accidentes ferroviarios
 
-![Fase](https://img.shields.io/badge/Fase-Espa%C3%B1a-blue) ![Informes](https://img.shields.io/badge/Informes-351-green) ![An%C3%A1lisis%20v3](https://img.shields.io/badge/An%C3%A1lisis%20v3-351%2F351-brightgreen) ![Geoloc%20bien](https://img.shields.io/badge/Geoloc%20bien-344-green) ![%C3%8Dndice%20CIAF](https://img.shields.io/badge/%C3%8Dndice%20CIAF-281%2F351-informational)
+![Fase](https://img.shields.io/badge/Fase-Espa%C3%B1a%20cerrada%20·%20Europa%20en%20curso-blue) ![Países](https://img.shields.io/badge/Pa%C3%ADses-28-success) ![PDFs%20ERA](https://img.shields.io/badge/PDFs%20ERA-4.015-informational) ![Informes%20ES](https://img.shields.io/badge/Espa%C3%B1a-351-green)
 
 Visor y base de datos de informes de investigación de accidentes ferroviarios. Convierte los
 PDF oficiales (ERA/eRAIL + organismos nacionales como el CIAF) en una **base de datos plana,
@@ -40,6 +40,31 @@ Hecho con ❤️ por David Antizar
 | Veredicto geo por método | `via_pk` 209 · `via_pkteorico` 82 · `estacion_ign` 39 · `poblacion` 17 · `estacion_adif` 1 · `sin_geo` 3 |
 | Recomendaciones estructuradas | **651 en la DB · 644 en el Excel normalizado** (destinatario/implementador/texto/página en celdas separadas) |
 | `VERSION_DATOS` | `2026-09-28-1` (bump en cada despliegue de datos) |
+
+## Fase 2 — la base en castellano, país a país
+
+España está cerrada. La fase en curso lleva **todos** los informes de la ERA (28 países,
+4.015 PDFs publicados) a la misma calidad, en dos colecciones paralelas y auditadas:
+
+| Ruta | Qué es |
+|---|---|
+| `md/<CC>/<AAAA>/<slug>.md` | Extracción **original** del PDF (idioma de origen), tipográfica, con `verbatim_fallos` en el frontmatter |
+| `md-es/<CC>/<AAAA>/<slug>.md` | **Castellano normalizado** (traducción IA + verificación numérica por bloque) |
+| `data/pdf-manifest/<CC>.json` | Qué publica ERA de cada país (año y URL oficial) |
+| `data/traduccion/<CC>.json` · `data/revision/<CC>.json` | Estado reanudable y revisión IA (fidelidad por página) |
+| `ESTADO.md` | Tabla maestra del progreso, generada del disco (`scripts/estado_paises.py`) |
+
+Norma completa del pipeline, con las garantías y las trampas conocidas:
+[`docs/PIPELINE-MD.md`](docs/PIPELINE-MD.md).
+
+```shell
+python scripts/scrape_pais.py AT BE       # 1. manifiesto de ERA (reintentos ante 429)
+python scripts/descargar_todo.py          # 2. PDFs (reanudable, cabeceras de navegador real)
+python scripts/convertir_md_pais.py AT    # 3. PDF → MD original por país y año
+python scripts/traducir_md_es.py AT       # 4. MD → castellano con verificación
+python scripts/revisar_md_es.py AT        # 5. revisor IA (deepseek) contra el original
+python scripts/estado_paises.py           # 6. ESTADO.md + índices por país
+```
 
 ## De dónde sale cada dato (procedencia)
 
