@@ -1,0 +1,891 @@
+---
+pais: DE
+anio: 2017
+idioma: DE
+pdf: Untersuchungsbericht Zugkollision, Leese-Stolzenau_30062017.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/Untersuchungsbericht%20Zugkollision%2C%20Leese-Stolzenau_30062017.pdf
+md5_pdf: 33a0ced987d73511d75a30ce01cacd47
+paginas: 31
+chars: 54437
+tablas: 3
+cuerpo: "11.0pt; encabezados 2 niveles"
+rotulos_excluidos: "90 (seite # von #, untersuchungsbericht, zugkollision, #.#.#, leese-stolzenau)"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 2
+fecha_proceso: 2026-11-18
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+Aktenzeichen: 
+60uu2017-06/014-3323 
+Stand: 
+26.01.2018    Version:  1.0 
+Gefährliches Ereignis im Eisenbahnbetrieb 
+| Ereignisart: | Zugkollision |
+| Datum: | 30 06 2017 . . |
+| Zeit: | 14:44 Uhr |
+| Bahnhof: | Leese-Stolzenau |
+| Gleis: | 1 |
+| Kilometer: | 21 020 , |
+
+## Página 2
+
+## Veröffentlicht durch: 
+Bundesstelle für Eisenbahnunfalluntersuchung 
+Heinemannstraße 6 
+53175 Bonn 
+
+## Página 3
+
+# Inhaltsverzeichnis: 
+### Seite 
+## 1 
+Zusammenfassung .............................................................................................. 7 
+1.1 
+Kurzbeschreibung des Ereignisses ....................................................................... 7 
+1.2 
+Folgen .................................................................................................................... 7 
+1.3 
+Ursachen ............................................................................................................... 7 
+## 2 
+Vorbemerkungen ................................................................................................. 9 
+2.1 
+Organisatorischer Hinweis ..................................................................................... 9 
+2.2 
+Ziel der Eisenbahn-Unfalluntersuchung ............................................................... 10 
+2.3 
+Beteiligte und Mitwirkende ................................................................................... 10 
+## 3 
+Ereignis ............................................................................................................... 10 
+3.1 
+Hergang ............................................................................................................... 10 
+3.2 
+Todesopfer, Verletzte und Sachschäden ............................................................. 12 
+3.3 
+Wetterbedingungen ............................................................................................. 13 
+## 4 
+Untersuchungsprotokoll ................................................................................... 13 
+4.1 
+Zusammenfassung von Aussagen ...................................................................... 13 
+4.2 
+Notfallmanagement .............................................................................................. 13 
+4.3 
+Untersuchung der Infrastruktur ............................................................................ 14 
+4.4 
+Untersuchung der Leit- und Sicherungstechnik ................................................... 15 
+4.5 
+Untersuchung von Fahrzeugen ........................................................................... 17 
+4.6 
+Untersuchung der betrieblichen Handlungen ...................................................... 17 
+4.6.1 
+Allgemeines ......................................................................................................... 17 
+4.6.2 
+Angaben zu den beteiligten Mitarbeitern ............................................................. 17 
+4.6.3 
+Betrieblicher Ablauf .............................................................................................. 19 
+4.7 
+Interpretation der Unfallspuren ............................................................................ 26 
+## 5 
+Auswertung und Schlussfolgerungen ............................................................. 27 
+## 6 
+Sicherheitsempfehlungen ................................................................................. 31 
+
+## Página 4
+
+# Abbildungsverzeichnis: 
+Abb. 1: Aufnahmen an der Unfallstelle ..................................................................................... 8 
+Abb. 2: Lageskizze ................................................................................................................. 11 
+Abb. 3: Bahnhof Leese-Stolzenau, Blickrichtung Norden (Estorf(Weser)) ............................. 15 
+Abb. 4: Auszug aus dem Zugmeldebuch ............................................................................... 19 
+Abb. 5: graf. Darstellung der EFR-Daten; DGS 42757 ........................................................... 21 
+Abb. 6: Fahrstraßenhebel mit Hilfssperren ............................................................................. 21 
+Abb. 7: Auszug aus dem Zugmeldebuch ............................................................................... 22 
+Abb. 8: Esig F und Asig P1 mit Stelleinrichtung und Vorsignal p ........................................... 23 
+Abb. 9: grafische Darstellung Teloc-Datensatz des DGS 42597 ........................................... 25 
+Abb. 10: grafische Darstellung ETCS-Datensatz des DGS 42597 ......................................... 25 
+Abb. 11: Die Tfz nach der Kollision ........................................................................................ 27 
+
+## Página 5
+
+# Abkürzungsverzeichnis 
+AEG 
+Allgemeines Eisenbahngesetz 
+Asig 
+Ausfahrsignal 
+Bebu 
+Betriebsstellenbuch 
+BEU 
+Bundesstelle für Eisenbahnunfalluntersuchung 
+BMVI 
+Bundesministerium für Verkehr und digitale Infrastruktur 
+BPol 
+Bundespolizei 
+BÜ 
+Bahnübergang 
+D-Weg 
+Durchrutschweg 
+EBA 
+Eisenbahn-Bundesamt 
+BZ 
+Betriebszentrale 
+DSK 
+Datenspeicherkassette 
+EBL 
+Eisenbahnbetriebsleiter 
+EBO 
+Eisenbahn- Bau- und Betriebsordnung 
+EFR 
+Elektronische Fahrtenregistrierung 
+EIU 
+Eisenbahninfrastrukturunternehmen 
+ERA 
+Europäische Eisenbahn Agentur 
+Esig 
+Einfahrsignal 
+EUV 
+Eisenbahn-Unfalluntersuchungsverordnung 
+EVU 
+Eisenbahnverkehrsunternehmen 
+Fplo 
+Fahrplananordnung 
+Fdl/Fdl-in 
+Fahrdienstleiter/Fahrdienstleiterin 
+GSM-R 
+Global System for Mobile Communications – Rail 
+MESZ 
+Mitteleuropäische Sommerzeit 
+NE 
+Nichtbundeseigene Eisenbahn 
+Nmg 
+Notfallmanager 
+Ril 
+Richtlinie 
+SB 
+Sicherheitsbehörde 
+
+## Página 6
+
+| SMS | Sicherheitsmanagementsystem |
+| Tf / Tf -in | Triebfahrzeugführer / Triebfahrzeugführerin |
+| Tfz | Triebfahrzeug |
+| UTC | Coordinated Universal Time |
+| VzG | Verzeichnis der örtlich zugelassenen Geschwindigkeiten |
+
+## Página 7
+
+# 1 
+# Zusammenfassung 
+## 1.1 
+## Kurzbeschreibung des Ereignisses 
+Am 30.06.17 gegen 14:45 Uhr kollidierte Zug DGS 42597 (EVU: Lineas Group N.V./S.A. 
+(Belgien)) bei der Einfahrt nach Gleis 1 des Bf. Leese-Stolzenau mit dem in diesem Gleis 
+stehenden DGS 42757 (EVU: Hector Rail AB (Schweden)).  
+## 1.2 
+## Folgen 
+Durch den Unfall wurden die Triebfahrzeugführer (Tf) beider Züge schwer verletzt. Es ent-
+standen erhebliche Sachschäden an den Eisenbahnfahrzeugen und Bahnanlagen. 
+## 1.3 
+## Ursachen 
+Die schwere Zugkollision wurde verursacht durch die unzulässige Zustimmung zur Einfahrt 
+des DGS 42597 in das bereits durch DGS 42757 besetzte Einfahrgleis 1 im Bahnhof Leese-
+Stolzenau.
+
+## Página 8
+
+Abb. 1: Aufnahmen an der Unfallstelle 
+Quelle: BPol 
+
+## Página 9
+
+# 2 
+# Vorbemerkungen 
+## 2.1 
+## Organisatorischer Hinweis 
+Mit der Richtlinie RL 2004/49/EG zur Eisenbahnsicherheit in der Gemeinschaft (Eisenbahn-
+sicherheitsrichtlinie) wurden die Mitgliedstaaten der europäischen Union verpflichtet, unab-
+hängige Untersuchungsstellen für die Untersuchung bestimmter gefährlicher Ereignisse ein-
+zurichten. 
+Diese Richtlinie wurde mit dem 5. Gesetz zur Änderung eisenbahnrechtlicher Vorschriften 
+vom 16. April 2007 umgesetzt und die Eisenbahn-Unfalluntersuchungsstelle des Bundes 
+(EUB) eingerichtet. Die weitere Umsetzung der Sicherheitsrichtlinie erfolgte durch die Eisen-
+bahn-Unfalluntersuchungsverordnung (EUV) vom 05.07.2007. 
+Mit dem Gesetz zur Neuordnung der Eisenbahnunfalluntersuchung vom 27. Juni 2017 wur-
+den die rechtlichen Grundlagen zur Errichtung der Bundesstelle für Eisenbahnunfalluntersu-
+chung (BEU) geschaffen. Durch das Gesetz sind das Allgemeine Eisenbahngesetz (AEG) 
+und das Bundeseisenbahnverkehrsverwaltungsgesetz (BEVVG) geändert worden, wobei 
+Zuständigkeiten und Kompetenzen auf die neue Behörde, der BEU, übertragen wurden. Mit 
+Errichtung der BEU wurde die EUB, bestehend aus der Leitung der EUB im Bundesministe-
+rium für Verkehr und digitale Infrastruktur und der Untersuchungszentrale der EUB im Eisen-
+bahn-Bundesamt aufgelöst. Mit dem Organisationserlass des Bundesministeriums für Ver-
+kehr und digitale Infrastruktur (BMVI) zur Errichtung der Bundesstelle für Eisenbahnunfallun-
+tersuchung vom 14. Juli 2017 wurde die BEU als selbstständige Bundesoberbehörde im Ge-
+schäftsbereich des BMVI zur Erfüllung der Aufgaben nach §7 BEVVG errichtet. 
+Die Aufgaben zur Untersuchung bestimmter gefährlicher Ereignisse im Eisenbahnbetrieb 
+gingen dabei nahtlos von der EUB an die BEU über. 
+Da das vorliegende Ereignis vor dem Tag der Errichtung der BEU am 14.07.2017 lag, wur-
+den Aufgaben, wie die Untersuchung vor Ort durch die EUB durchgeführt. Andere Arbeiten, 
+wie bspw. die Erstellung dieses Untersuchungsberichts, erfolgten nach diesem Stichtag und 
+wurden deshalb von der BEU wahrgenommen. Aus diesem Grund wird im vorliegendem Be-
+richt, sowohl die Bezeichnung EUB, als auch der Name BEU verwendet.  
+Näheres hierzu ist im Internet unter >> www.beu.bund.de << eingestellt. 
+
+## Página 10
+
+## 2.2 
+## Ziel der Eisenbahn-Unfalluntersuchung 
+Ziel und Zweck der Untersuchungen ist es, die Ursachen von gefährlichen Ereignissen auf-
+zuklären und hieraus Hinweise zur Verbesserung der Sicherheit abzuleiten. Untersuchungen 
+der EUB dienen nicht dazu, ein Verschulden festzustellen oder Fragen der Haftung oder 
+sonstiger zivilrechtlicher Ansprüche zu klären und werden unabhängig von jeder gerichtli-
+chen Untersuchung durchgeführt.  
+Die Untersuchung umfasst die Sammlung und Auswertung von Informationen, die Erarbei-
+tung von Schlussfolgerungen einschließlich der Feststellung der Ursachen und gegebenen-
+falls die Abgabe von Sicherheitsempfehlungen. Die Vorschläge der Untersuchungsstelle zur 
+Vermeidung von Unfällen und Verbesserung der Sicherheit im Eisenbahnverkehr werden der 
+Sicherheitsbehörde und, soweit erforderlich, anderen Stellen und Behörden oder anderen 
+Mitgliedstaaten der EU in Form von Sicherheitsempfehlungen mitgeteilt. 
+## 2.3 
+## Beteiligte und Mitwirkende 
+An dem Unfall waren folgende Unternehmen beteiligt: 
+ 
+DB Netz AG als Eisenbahninfrastrukturunternehmen (EIU) 
+ 
+Die Lineas Group N.V./S.A als Eisenbahnverkehrsunternehmen (EVU) des Güterzu-
+ges DGS 42597 mit Sitz in Brüssel (Belgien). Der Eisenbahnbetriebsleiter der Firma 
+MEV Eisenbahn-Verkehrsgesellschaft mbH aus Mannheim war im Auftrag des EVU 
+für das Notfallmanagement vor Ort im Einsatz. 
+ 
+Hector Rail AB als EVU des Güterzuges DGS 42757 mit Sitz in Danderyd (Schwe-
+den). Der Mitarbeiter des Notdienstes wurde hier durch die Firma Kompetenz für 
+Schienengebundene Verkehre GmbH aus Leipzig im Auftrag der Hector Rail AB ge-
+stellt. 
+Im Rahmen der Sachverhaltsermittlung und Ursachenerforschung wurden folgende externe 
+Stellen einbezogen: 
+ 
+Bundespolizeiinspektion Hannover 
+# 3 
+# Ereignis 
+## 3.1 
+## Hergang 
+Am 30.06.2017 fuhr der Güterzug DGS 42757 (Helsingborgs C – Krefeld-Uerdingen) aus 
+nördlicher Richtung kommend gegen 13:59 Uhr in das Gleis 1 des Bahnhofs Leese-
+
+## Página 11
+
+Stolzenau ein. Der Fahrdienstleiter (Fdl) des Bahnhofs erhielt kurz zuvor durch einen Zug-
+disponenten aus der Betriebszentrale (BZ) Hannover den Auftrag, diesen Zug zur Kreuzung 
+zweier Gegenfahrten in Leese-Stolzenau warten zu lassen. Die Weiterfahrt sollte erst nach 
+Durchfahrt des DGS 42597 und eines einzeln fahrenden Triebfahrzeugs (Tfz) mit der Zug-
+nummer 81806 erfolgen. 
+Gegen 14:26 Uhr wurde dem Fdl Zug 42597 (Antwerpen – Maschen Rbf) von der im Süden 
+benachbarten Zugmeldestelle Windheim/Weser mit der Durchfahrzeit 14:29 Uhr angeboten. 
+Der Fdl in Leese-Stolzenau nahm den Zug an und bot ihn um 14:40 Uhr, mit der voraussicht-
+lichen Durchfahrzeit 14:44 Uhr, dem Fdl der im Norden benachbarten Zugmeldestelle 
+Estorf/Weser an. 
+Für die Durchfahrt des DGS 42597 stellte der Fdl das Einfahrsignal (Esig) F und das Aus-
+fahrsignal (Asig) P1 auf Fahrt. Dazu wählte er die Zugfahrstraße durch das durchgehende 
+Hauptgleis 1 aus. Dass dieses Gleis noch immer mit DGS 42757 besetzt war, hatte er offen-
+sichtlich vergessen und nicht bemerkt. 
+Zug 42597 näherte sich um 14:44 Uhr dem Bahnhof Leese-Stolzenau. Der Tf erkannte an-
+hand der Haupt- und Vorsignale die für seinen Zug eingestellte Durchfahrt durch den Bahn-
+hof. Er fuhr deshalb mit nahezu unverminderter Geschwindigkeit in den Bahnhof ein. Er-
+schwert durch einen langen Rechtsbogen im Einfahrbereich konnte er die Tatsache, dass 
+sein Fahrweg in ein besetztes Gleis führt, erst sehr spät erkennen. Die daraufhin vom Tf ein-
+geleitete Schnellbremsung brachte nur eine geringfügige Geschwindigkeitsverzögerung, be-
+vor der DGS 42597 frontal im Gleis 1, ca. im Streckenkilometer 21,020, mit dem dort stehen-
+den DGS 42757 zusammenstieß.  
+Abb. 2: Lageskizze 
+Quelle: DB Netz AG bearbeitet durch EUB 
+
+## Página 12
+
+## 3.2 
+## Todesopfer, Verletzte und Sachschäden 
+Die Tf der beiden Züge wurden bei dem Ereignis schwer, jedoch nicht lebensbedrohlich ver-
+letzt. Den Angaben der EBL zufolge konnten beide das Krankenhaus nach wenigen Tagen 
+verlassen.  
+Durch die Wucht des Aufpralls wurden die ersten drei Containertragwagen des stehenden 
+Zuges 42757 über das Tfz hinweg aus dem Gleis gedrückt und zerstört. Hierbei handelte es 
+sich um die Wagen 27 80 4377 053-8 Laagrs, 27 80 4377 050-4 Laagrs und 31 80 4992 223-
+6 Sdggmrss. Die auf diesen Wagen verladenen vier Container und vier Tankcontainer wur-
+den abgeworfen. Zwei dieser Tankcontainer für Lebensmittel stürzten die Böschung hinab 
+auf die angrenzende öffentliche Straße „Zappenberg“. Ein weiterer Behälter und der dazu 
+gehörige Tragwagen blieben an der Böschung hängen. Die beiden anderen Wagen wurden 
+samt Container auf die Gleise 2 und 3 des Bahnhofs geschleudert. Die stehende Zuglokomo-
+tive der TRAXX F140 AC-Typ wurde durch den Aufprall ca. 75 m nach hinten bis vor den an 
+4. Stelle laufenden Wagen geschoben. Dabei entgleisten alle Radsätze. Das Fahrzeug wur-
+de massiv beschädigt. 
+Der an 8. Stelle des Zugverbandes laufende Wagen 37 80 4993 703-0, Sdggmrs war mit 
+dem Ladegut Natriumdithionit (UN 1484) beladen. Das Gefahrgut trat jedoch nicht aus. Die 
+an der Unfallstelle eingesetzte Feuerwehr hatte dennoch vorsorglich eine kurzzeitige Evaku-
+ierung der angrenzenden Bewohner vorgenommen.  
+Im Zugverband des einfahrenden DGS 42597 entgleisten die an 1. Stelle (Sggmrs 37 80 
+4952 579-3), 3. Stelle (Sggmrs 37 80 4952 567-8), 5. Stelle (Sggmrs 37 80 4952 576-9) und 
+10. Stelle (Sggmrss 37 80 4952 568-6) laufenden Wagen durch Überpufferung. Auch das Tfz 
+(TRAXX 2E-Typ) dieses Zuges wurde stark zerstört.  
+An den Bahnanlagen entstanden ebenfalls hohe Sachschäden. So mussten ca. 400 m Ober-
+leitung nebst drei umgestürzter Maste ersetzt werden. Am Oberbau wurden ca. 140 m Gleis 
+beschädigt. Darüber hinaus wurden Teile der im Bereich der Unfallstelle verbauten Leit- und 
+Sicherungstechnik und Teile einer Eisenbahnüberführung beschädigt. 
+Die DB Netz AG beziffert die Schäden an der Infrastruktur auf ca. 445.000,00 Euro. Dabei 
+entfallen auf die Schäden an  
+ 
+Fahrbahn ca. 260.000,00 Euro 
+ 
+Leit- und Sicherungstechnik ca. 30.000,00 Euro 
+ 
+Oberleitung ca. 140.000,00 Euro und auf 
+
+## Página 13
+
+ 
+Sonstiges, wie Einsatz der DB Sicherheit ca. 15.000,00 Euro 
+Für die beiden Tfz wird der Sachschaden auf jeweils 4 Mio. Euro geschätzt. Die Sachschä-
+den an Wagen und Ladungen belaufen sich auf geschätzte 320.000,00 Euro.  
+Daraus ergibt sich ein geschätzter Gesamtsachschaden in Höhe von 8.765.000,00 Euro. 
+## 3.3 
+## Wetterbedingungen 
+Am Tag des Unfalls herrschte wechselhaftes sommerliches Wetter mit aufziehenden Schau-
+ern. Zum Unfallzeitpunkt bestand klare Sicht bei Tageslicht. 
+# 4 
+# Untersuchungsprotokoll 
+## 4.1 
+## Zusammenfassung von Aussagen  
+Der BEU liegen keine Aussagen der am Unfall beteiligten Personen vor.  
+Der Notfallmanager der DB Netz AG gab gegenüber der EUB an, dass der Fdl ihm gegen-
+über geäußert habe, dass dieser nach dem Unfall keine Veränderungen an den Stellwerks-
+anlagen vorgenommen habe.  
+## 4.2 
+## Notfallmanagement  
+Nach § 4 Abs. 3 Allgemeines Eisenbahngesetz (AEG) haben die Eisenbahnen die Verpflich-
+tung, an Maßnahmen des Brandschutzes und der technischen Hilfeleistung mitzuwirken. In 
+einer Vereinbarung zwischen den Innenministerien der Länder und der DB AG hat man sich 
+auf eine Verfahrensweise verständigt. Für die DB Netz AG gelten die entsprechenden Brand- 
+und Katastrophenschutzgesetze der Länder. Das Notfallmanagement der DB AG ist in der 
+Richtlinie (Ril) 423 näher beschrieben und geregelt.  
+Der Fdl hat ca. eine Minute nach dem Unfall dem Notfallmanager das Ereignis gemeldet. 
+Dieser gab die Unfallmeldung um 14:47 Uhr an die Notfallleitstelle weiter. Die Rettungsleit-
+stelle wurde um 14:49 Uhr verständigt, die zu diesem Zeitpunkt jedoch bereits Kenntnis von 
+dem Unfall hatte. Die ersten Rettungskräfte trafen ab ca. 15:10 Uhr an der Unfallstelle ein. 
+Gegen 15:32 Uhr wurde die Rettungsleitstelle über das in Zug 42757 befindliche Gefahrgut 
+unterrichtet. Kurz zuvor erreichte der Notfallmanager der DB Netz AG den Ereignisort. Ge-
+gen 16:10 Uhr wurde die Oberleitung in den Gleisen 1 und 2 geerdet. 
+Insgesamt kamen ca. 20 Personen der Rettungsdienste und ca. 10 Personen des THW zum 
+Einsatz. 10 bis 15 Beamte der Bundespolizei und ca. 15 bis 20 Beamte der Landespolizei 
+begaben sich zur Unfallstelle. Die Feuerwehr war mit über 200 Kräften im Einsatz.  
+
+## Página 14
+
+Nach Einschätzung der BEU kam es aufgrund der schnellen Erstmeldung durch den Fdl und 
+der unverzüglich anlaufende Meldekette zu keinen nennenswerten Verzögerungen beim 
+Herbeirufen der Hilfskräfte, die zur Rettung der verunfallten Personen und zum Schutz der 
+Anwohner sowie der Umwelt erforderlich waren.  
+## 4.3 
+## Untersuchung der Infrastruktur 
+Der Bahnhof Leese-Stolzenau erstreckt sich von km 20,0 bis km 21,5 der eingleisigen, 
+elektrifizierten Nebenbahn (Strecke 1741) zwischen Nienburg (Weser) und Minden (Westf). 
+Die zulässige Höchstgeschwindigkeit auf der Strecke beträgt entsprechend dem Verzeichnis 
+der örtlich zulässigen Geschwindigkeiten (VzG) 80 km/h bei einem max. Bremsweg von 
+700 m. Im Bereich der Unfallstelle galt im durchgehenden Hauptgleis 1 des Bf. Leese-
+Stolzenau für durchfahrende Züge die Streckengeschwindigkeit von 80 km/h als Höchstge-
+schwindigkeit. 
+Die Strecke ist mit GSM-R – Zugfunk ausgerüstet. 
+Die benachbarten Bahnhöfe sind in nördlicher Richtung der Bahnhof Estorf (Weser) und in 
+südlicher Richtung der Bahnhof Heimsen. Dieser Bahnhof war jedoch zum Unfallzeitpunkt 
+unbesetzt und durchgeschaltet. Aus diesem Grund war der folgende Bahnhof Windheim 
+(Weser) die im Süden benachbarte Zugmeldestelle. 
+Zur Durchführung der Zugmeldegespräche steht neben GSM-R auch die analoge, drahtge-
+bundene Fernsprechverbindung (Fs-Verbindungen) zwischen Estorf und Windheim zur Ver-
+fügung. Die Zugmeldungen der am Unfall beteiligten Züge wurden mittels Fs-Verbindung 
+durchgeführt. Eine Aufzeichnung dieser Gespräche erfolgte deshalb nicht. 
+Bei dem Bahnhof Leese-Stolzenau handelt es sich um eine kleine Betriebsstelle, die mit ei-
+nem Fdl besetzt ist. Dessen Dienstraum befindet sich im bzw. am Empfangsgebäude.  
+Der Bahnhof verfügt über drei Hauptgleise. In den Gleisen 1 und 2 sind Durchfahrten mit 
+Ausfahrvorsignalabhängigkeit zugelassen. Das Gleis 1 ist durchgehendes Hauptgleis. Es 
+liegt entgegen der sonst üblichen Gleisbezeichnung am weitesten vom Empfangsgebäude 
+und damit auch vom Fdl entfernt. Gleis 3 liegt somit unmittelbar am Empfangsgebäude. Bei 
+Zugkreuzungen wird der erste Zug nach Gleis 1 gefahren, um die Sicht auf die für die Kreu-
+zung benötigten Gleise 2 oder 3 frei zu halten. Haltende Reisezüge fahren hiervon abwei-
+chend an den Inselbahnsteig in die Gleise 2 und 3. 
+
+## Página 15
+
+Abb. 3: Bahnhof Leese-Stolzenau, Blickrichtung Norden (Estorf(Weser)) 
+Auf eine weiterführende Untersuchung der Infrastruktur insbesondere der Fahrbahn wurde 
+verzichtet. Letztere konnte nach Eintreffen der EUB an der Unfallstelle schnell als unfallver-
+ursachend oder begünstigend ausgeschlossen werden. 
+## 4.4 
+## Untersuchung der Leit- und Sicherungstechnik 
+Die Durchführung der Zug- und Rangierfahrten im Bahnhof Leese-Stolzenau obliegt dem Fdl 
+im Stellwerk Lf. Hierbei handelt es sich um mechanisches Stellwerk der Bauart Einheit. Es 
+befindet sich im Kilometer 20,708 und somit recht mittig innerhalb des Bahnhofs. Der Fdl ist 
+der einzige Mitarbeiter im Bahnbetrieb in Leese-Stolzenau. Er bedient alle Haupt- und Vor-
+signale und die Weichen des Bahnhofs. Die Haupt- und Vorsignale sind Formsignale und mit 
+Gleismagnete der punktförmigen Zugbeeinflussungseinrichtung (PZB) ausgerüstet. Die ein-
+gleisige Strecke verfügt in beiden Richtungen über einen Streckenblock der Bauform Feld-
+erblock Form C. Eine selbsttätige Gleisfreimeldeanlage ist im Bahnhof Leese-Stolzenau nicht 
+vorhanden. Somit obliegt dem Fdl allein auch die Fahrwegprüfung durch Hinsehen für die 
+Gleise 1 bis 3. Zur Prüfung des Abschnitts zwischen den Einfahrweichen 21 und 43 hat der 
+Fdl, lt. einer ergänzenden Regel im Betriebsstellenbuch (Bebu), das Dienstgebäude zu ver-
+lassen und sich auf den Bahnsteig in Gleis 4 bzw. Gleis 2 zu begeben. Die Fahrwegprüf-
+grenze im südlichen Bahnhofskopf befindet sich in km 21,283 in Höhe des Signals Ra 10. 
+Der Abschnitt von der Spitze der Weiche 43 bis zum Ra 10 kann vom Fdl nicht eingesehen 
+werden. Dieser Bereich wird deshalb im Bebu als ständig nicht einsehbarer Gleisabschnitt 
+benannt und ist folglich mittelbar zu prüfen. Der Abschnitt darf als frei angesehen werden, 
+
+## Página 16
+
+wenn Züge aus Richtung Heimsen / Windheim beim Fdl Leese-Stolzenau mit Zugschluss 
+vorbeigefahren sind bzw. nach Eingang des Rückblocks/Rückmeldung aus Heimsen / Wind-
+heim für Züge der Gegenrichtung. 
+Das mittelbare Prüfen des Fahrwegs ist auch für den Teil zwischen den Einfahrweichen 21 
+und 43 anzuwenden vor Beginn der Dunkelheit, bei witterungsbedingter Verschlechterung 
+der Sichtverhältnisse und vor Beginn der unterbrochenen Arbeitszeit. Im Gegensatz zu o.g. 
+ständig nicht einsehbarem Gleisabschnitt ist hier das mittelbare Prüfen einzuführen, nach-
+dem der Abschnitt zwischen den Einfahrweichen durch Hinsehen auf Freisein geprüft wurde. 
+Die Feststellungen durch Hinsehen sind für die Gleise 1 bis 3, sowie auch das Einführen und 
+Aufheben der mittelbaren Fahrwegprüfung vom Fdl im Zugmeldebuch nachzuweisen. 
+Kameras zur Fahrwegprüfung bzw. zur Zugschlussfeststellung sind in Leese-Stolzenau nicht 
+vorhanden. Letzteres führt dazu, dass bei im Bahnhof haltenden Zügen, bspw. zur Kreuzung 
+mit einem Gegenzug, der Fdl zur Feststellung des Zugschlusses seinen Dienstraum verlas-
+sen muss, wenn er den Zugschluss aufgrund der Zuglänge nicht von seinem Arbeitsplatz 
+erkennen kann. 
+Sind Einfahrgleise vsl. länger als 10 Minuten besetzt, hat der Fdl an den im Bebu genannten 
+Fahrstraßenhebeln in Grundstellung Hilfssperren anzubringen. Für das Gleis 1 sind das die 
+Fahrstraßenhebel a1 , f1
+1, a1 und f1. Diese Aufzählung lässt eine für mechanische Stellwerke 
+1
+eher seltene sicherungstechnische Besonderheit erkennen. So gibt es die Möglichkeit das 
+Gleis 1 von beiden Seiten mit langem oder kurzem Durchrutschweg (D-Weg) zu befahren. 
+Bei der Einfahrt mit langem D-Weg wird am Esig Hp1 gezeigt. Die zulässige Geschwindigkeit 
+beträgt 80 km/h. Die Einfahrt bei kurzem D-Weg hingegen wird mit Signal Hp 2 und entspre-
+chenden 40 km/h zugelassen. 
+Die sicherungstechnischen Anlagen im Bahnhof Leese-Stolzenau arbeiteten im Zusammen-
+hang mit den am Unfall beteiligten Fahrten störungsfrei. Die Zugfahrten wurden mit Bedie-
+nung der entsprechenden Hauptsignale zugelassen. Die Stellung der Innen- und Außenan-
+lagen stimmten überein. Auf umfangreiche Untersuchungen an den sicherungstechnischen 
+Anlagen konnte aufgrund der am Unfallort getroffenen Feststellungen verzichtet werden. Die 
+sicherungstechnischen Anlagen konnten in der hier verbauten Form den Unfall nicht verhin-
+dern. 
+
+## Página 17
+
+## 4.5 
+## Untersuchung von Fahrzeugen 
+An der Zugkollision in Leese-Stolzenau waren die Zugfahrten DGS 42757 und DGS 42597 
+beteiligt. Beide Züge wurden wegen Bauarbeiten mit entsprechenden Fahrplananordnungen 
+(Fplo) über die Strecke 1741 und somit über Leese-Stolzenau umgeleitet. 
+Der zum Unfallzeitpunkt in Gleis 1 stehende DGS 42757 wurde aus dem Tfz 91 74 6241 
+007-2 S-HCTOR und 22 beladenen Containertragwagen gebildet. Der Zug hatte 120 Ach-
+sen, eine Länge von 709 m und ein Gesamtgewicht von 1641 t. Bei einem Gesamtbremsge-
+wicht von 1390 t verfügte der in Bremsstellung G gefahrene Zug über 84 Bremshundertstel 
+gegenüber 82 geforderten Mindestbremshundertstel. Die Fahrzeuge des DGS 42757 stehen 
+mit der Unfallursache in keinem kausalen Zusammenhang. Auf eine fahrzeugtechnische Un-
+tersuchung wurde deshalb verzichtet. 
+Der DGS 42597 bestand aus dem Tfz 91 88 7186 228-3 B-B und 19 beladenen Container-
+tragwagen. Der Zug verfügte über 118 Achsen, eine Länge 580 m und ein Gesamtzugge-
+wicht von 855 t. Mit einem Gesamtbremsgewicht von 844 t wurden 98 Bremshundertstel, 
+gegenüber 66 Mindestbremshundertstel, erreicht. Bei dem ebenfalls in der Bremsstellung G 
+fahrenden Zug waren alle 19 Wagen an die durchgehende Hauptluftleitung angeschlossen 
+und entsprechend eingeschaltet. Bei einer ersten Inaugenscheinnahme durch die EUB nach 
+dem Unfall waren alle Bremsen im Zug angelegt. Die in der elektronischen Fahrtenregistrie-
+rung (EFR) aufgezeichneten Daten ließen weder Unregelmäßigkeiten im Bremsverhalten 
+des Zuges noch andere Auffälligkeiten erkennen, die den Unfall hätten begünstigen können. 
+Aus diesen Gründen wurden auch an diesem Zug keine tiefgreifenden fahrzeugtechnischen 
+Untersuchungen für erforderlich gehalten.  
+## 4.6 
+## Untersuchung der betrieblichen Handlungen 
+## 4.6.1 
+## Allgemeines 
+Die betrieblichen Handlungen der am Unfall beteiligten Mitarbeiter konnten anhand der Auf-
+schreibungen des Fdl, der Stellung der Stellwerksinnen- und Außenanlagen, der Auswertung 
+der aufgezeichneten Gespräche und durch Auswertung der EFR-Daten beider Züge hinrei-
+chend genau rekonstruiert werden. Im Folgenden werden die betrieblichen Handlungen der 
+Beteiligten in zeitlicher Reihenfolge wiedergegeben. 
+## 4.6.2 
+## Angaben zu den beteiligten Mitarbeitern 
+Am Unfall in Leese-Stolzenau waren folgende Mitarbeiter der unterschiedlichen Eisenbahn-
+unternehmen beteiligt. 
+
+## Página 18
+
+1) Der Fdl als Mitarbeiter des EIU DB Netz AG 
+2) Die Tf-in des DGS 42757 für das EVU Hector Rail AB 
+3) Der Tf des DGS 42597 für das EVU Lineas Group N.V./S.A 
+Zu 1) Der Fdl des Bahnhofs Leese-Stolzenau besaß die nötige Qualifikation. Er wurde auf 
+dem Stellwerk Lf örtlich eingewiesen und geprüft. Der Fdl war berechtigt allein den Dienst im 
+Stellwerk Lf zu verrichten. Seit Oktober 2013 war er auf diesem Dienstposten im Einsatz. 
+Darüber hinaus durfte er auf vier weiteren Bahnhöfen den Dienst als Fdl ausführen. Er hatte 
+an den regelmäßigen Fortbildungsunterrichten teilgenommen und wurde nach dem unter-
+nehmensinternen Regelwerk 8-mal im Jahr hinsichtlich der Dienstausübung überwacht. Die 
+letzte örtliche Überwachung in Leese-Stolzenau fand am 24.04.2017 statt. Das durchgeführ-
+te Lehrgespräch hatte u.a. den Umleitungsverkehr über die Strecke 1741 zum Thema. Die 
+letzte schriftliche Kontrolle mit Ereignistest fand im Jahr 2015 statt. Der Fdl besaß die erfor-
+derliche medizinische Tauglichkeit. Die notwendigen Ruhezeiten zwischen den Diensten 
+wurden eingehalten. Am Vortag war er im Dienst von 13:00 Uhr bis 22:00 Uhr. Am Unfalltag 
+hat der Fdl ebenfalls um 13:00 Uhr seinen Dienst begonnen.  
+Im Rahmen der Untersuchungen wurden keine Einschränkungen bekannt, die dem Einsatz 
+des Fdl am Ereignistag entgegenstanden.  
+Zu 2) Die Tf-in des DGS 42757 war im Besitz eines gültigen europäischen Triebfahrzeugfüh-
+rerscheins. Durch das EVU Hector Rail AB wurde ihr die Zusatzbescheinigung ausgestellt. 
+Sie war berechtigt Rangier- und Zugfahrten im Güter- und Personenverkehr (Klasse A und 
+B) durchzuführen. Sie besaß die erforderlichen Qualifikationen, das Tfz auf der Infrastruktur 
+der DB Netz AG zu führen. Die erforderliche Streckenkunde wurde nachgewiesen. Die 
+Nachweise über die Teilnahme an Fortbildungsunterrichten, die Ergebnisse von Überwa-
+chungsfahrten sowie die Einsatzplanung waren nicht zu beanstanden.  
+Zu 3) Der Tf des DGS 42597, ein niederländischer Staatsbürger, war ebenfalls im Besitz des 
+Triebfahrzeugführerscheins nach einheitlichem europäischem Muster. Die vom EVU Line-
+as N.V./S.A. ausgestellte Zusatzbescheinigung berechtigte ihn zur Durchführung von Ran-
+gier- und Zugfahrten im Güter- und Personenverkehr im Streckennetz der Deutschen Bahn. 
+Er war berechtigt das am Unfall beteiligte Tfz zu führen. Die vom EVU vorgelegten Unterla-
+gen hinsichtlich Fortbildung und Überwachung des Tf standen seinem Einsatz nicht entge-
+gen.  
+
+## Página 19
+
+## 4.6.3 
+## Betrieblicher Ablauf 
+Wegen umfangreicher Bauarbeiten zwischen Bremen Hbf und Osnabrück Hbf wurden zum 
+Zwecke der Entlastung dieser Strecke im Zeitraum von Mai 2017 bis Juli 2017 mehrere Züge 
+über die Strecke 1741 und damit über Leese-Stolzenau umgeleitet. Dies betraf auch die am 
+Unfall beteiligten Züge. Der DGS 42757 wurde ab Rotenburg/Wümme über Nienburg (We-
+ser) und Minden (Westf) nach Fplo 20830 N Hectorrail T1 umgeleitet. Planmäßig sollte der 
+Zug um 5:58 Uhr den Bahnhof Leese-Stolzenau durchfahren. An diesem Tag war der Zug 
+jedoch ca. 8 Stunden später. Gegen 13:45 Uhr erhielt der Fdl in Leese-Stolzenau von der BZ 
+in Hannover fernmündlich die Weisung, den anrückenden DGS 42757 in Leese-Stolzenau 
+mit den entgegenkommenden Zugfahrten DGS 42597 und Tfzf 81806 kreuzen zu lassen.  
+Um 13:47 Uhr nahm der Fdl den ihm vom Fdl Estorf (Weser) angebotenen Zug 42757 an. Er 
+trug die Zugmeldung in sein Zugmeldebuch ein und vermerkte dahinter die Zugkreuzung mit 
+Zug 42597. Warum er hier nicht auch die anschließende Tfz-Leerfahrt vermerkte, konnte 
+nicht geklärt werden. Auf die Entstehung des späteren Unfalls hatte dies keine Auswirkun-
+gen. 
+Abb. 4: Auszug aus dem Zugmeldebuch 
+Anschließend stellte der Fdl das Esig A für den DGS 42757 nach Gleis 1 auf Fahrt. Er wählte 
+hierzu die Zugstraße mit kurzem D-weg. Das Esig A zeigte deshalb Hp 2 „Langsamfahrt“, 
+das zugehörige Vorsignal dementsprechend Vr 2. Das Zielsignal Asig N1 zeigte Hp 0 „Halt“ 
+und das in Höhe des Esig A dazu gehörige Vorsignal Vn signalisierte Vr 0. 
+Der DGS 42757 fuhr gegen 13:40 Uhr in Estorf durch und näherte sich dem Bahnhof Leese-
+Stolzenau mit einer Geschwindigkeit von ca. 80 km/h. Lt. den auf einer Datenspeicherkasset-
+te (DSK) aufgezeichneten EFR – Daten waren am Zugdatensteller des Tfz 80 Bremshun-
+dertstel, die Bremsart 4, eine Zuglänge von 710 m und eine max. zulässige Geschwindigkeit 
+von 100 km/h eingestellt. Die Fahrt fand in der Zugart M statt. Die fehlerhafte Eingabe der 
+maximal zulässigen Höchstgeschwindigkeit sowie der falschen Zugart in den Zugdaten hatte 
+keinerlei Auswirkungen auf den späteren Unfall. 
+
+## Página 20
+
+In etwa 200 m vor dem Vorsignal Va begann die Tf-in die Geschwindigkeit des Zuges mittels 
+Betriebsbremsung zu senken. Am Standort des Vorsignals wurde die PZB-Einrichtung des 
+Tfz um 13:56:26 Uhr (DSK-Zeit) bei einer Geschwindigkeit von ca. 70 km/h von einem 1000 
+Hz Gleismagnet beeinflusst. Diese Beeinflussung wurde durch die Tf-in mit der Bedienung 
+der Taste „Wachsam“ quittiert. Im weiteren Verlauf wurde die Geschwindigkeit des Zuges 
+weiter abgesenkt. Bei einer Geschwindigkeit von ca. 31 km/h kam es um 13:57:52 Uhr (DSK-
+Zeit) am Standort des Esig A mit Ausfahrvorsignals Vn erneut zu einer 1000 Hz Zugbeein-
+flussung, die die Tf-in wiederum mit der Wachsamkeitstastenbedienung quittierte. Um
+13:59:34 Uhr (DSK-Zeit) wurde bei einer Geschwindigkeit von ca. 15 km/h eine Beeinflus-
+sung durch einen 500 Hz Gleismagnet aufgezeichnet. Der Grund dieser und der zuvor re-
+gistrierten 1000 Hz Beeinflussung lag in der Haltstellung des Asig N1. Um 14:00:39 Uhr 
+(DSK-Zeit) wurde die angehängte Geschwindigkeitsüberwachung, wegen des Unterschrei-
+tens der Umschaltgeschwindigkeit, restriktiv. Der DGS 42757 kam um 14:00:51 Uhr (DSK-
+Zeit) in etwa im km 21,020 und somit ca. 25 m vor dem Halt zeigenden Asig N1 zum Still-
+stand. Dabei stand die Zugspitze auf der Eisenbahnüberführung der Stolzenauer Straße 
+(B215 / 441). In den folgenden ca. 45 Minuten wurden zunächst keine weiteren Daten aufge-
+zeichnet. 
+Zum besseren Verständnis der Darstellung wurden die aufgezeichneten Wegdaten bei der 
+Auswertung normiert. Dabei wurden die Wegaufzeichnungen der tatsächlichen Streckenki-
+lometrierung angepasst. Als Bezugspunkt wurde die Zugbeeinflussung durch den PZB-
+Gleismagnet am Einfahrsignal A / Vorsignal n in km 20,030 gewählt. 
+
+## Página 21
+
+Abb. 5: graf. Darstellung der EFR-Daten; DGS 42757 
+Nachdem der DGS 42757 in Gleis 1 eingefahren war, musste sich der Fdl zunächst von der 
+Vollständigkeit des Zuges überzeugen. Da er den Zugschluss des über 700 m langen Zuges 
+von seinem Dienstraum nicht sehen konnte, musste er sich offensichtlich zum letzten Wagen 
+begeben haben, um die Feststellung dort zu treffen. Die Abläufe hierbei wurden nicht näher 
+untersucht, da es keinen Zusammenhang mit der späteren Unfallursache gab. Letztendlich 
+hatte der Fdl das Esig A auf Halt gestellt und das Endfeld des Streckenblocks geblockt. Im 
+weiteren Verlauf brachte er dann zwei Hilfssperren an, und zwar an den Fahrstraßenhebeln 
+a2 und f2. Auf die Bedeutung dieser Handlungen wird im Abschnitt 5 eingegangen. 
+Abb. 6: Fahrstraßenhebel mit Hilfssperren 
+
+## Página 22
+
+Um 14:26 Uhr meldet der Fdl Windheim den DGS 42597 mit der Durchfahrzeit 14:29 Uhr in 
+Windheim. Der Fdl Leese-Stolzenau nahm den Zug an und trug die Zugmeldung in sein 
+Zugmeldebuch ein. Anschließend meldete er um 14:40 Uhr den Zug an den Fdl Estorf mit 
+der Durchfahrzeit 14:44 Uhr voraus. Auch diese Zugmeldung wies er im Zugmeldebuch 
+nach. 
+Abb. 7: Auszug aus dem Zugmeldebuch 
+Der DGS 42597 wurde ebenfalls als Sonderzug über die Strecke 1741 zwischen Minden 
+(Westf) und Nienburg (Weser) umgeleitet. Entsprechend der Fplo 0630-42597-N-00 des Re-
+gionalbereichs Nord sollte der Zug um 12:20 Uhr in Leese-Stolzenau durchfahren. Auch die-
+ser Zug war am Unfalltag verspätet. 
+Nach den Zugmeldungen für DGS 42597 stellte der Fdl Leese-Stolzenau die Durchfahrt für 
+den Zug durch seinen Bahnhof her. Dafür wählte er für die Einfahrt die Zugstraße vom Esig 
+F nach Gleis 1 bis zum Asig P1 mit langem D-Weg. Für die Ausfahrt stellte er dann das Asig 
+P1 in Richtung Estorf auf Fahrt. Für den DGS 42597 wurde dadurch die Durchfahrt in Leese-
+Stolzenau wie folgt signalisiert. Das Vorsignal zum Esig F zeigte Vr 1 „Fahrt erwarten“. Das 
+Esig F zeigte Hp 1 „Fahrt“ (Anm.: mit der zul. Streckengeschwindigkeit; hier 80 km/h). Das 
+Vorsignal p signalisierte Vr 1 und das zugehörige Asig P1 ließ die Ausfahrt ebenfalls mit 80 
+km/h (Hp 1) zu. 
+
+## Página 23
+
+Abb. 8: Esig F und Asig P1 mit Stelleinrichtung und Vorsignal p 
+Anschließend rief der Fdl um 14:41 Uhr die Tf-in des im Bahnhof stehenden DGS 42757 
+mittels GSM-R Zugfunk an. In dem folgenden Gespräch informierte er die Tf-in zunächst 
+über die bevorstehenden zwei Zugkreuzungen. Dann diktierte er ihr im Auftrag des Fdl in 
+Windheim einen Befehl Nr. 8 zur Sicherung eines Bahnübergangs in km 39,443. Dabei 
+machte er die nötigen Angaben zum Ausfüllen des schriftlichen Befehls. Bezüglich des 
+Standorts des Zuges sagte der Fdl: „Du bist in Gleis 1 am Signal N1“. Die Tf-in wiederholte: 
+Gleis 1, Signal N1“. Worauf der Fdl antwortete: „genau, vom Bahnhof Leese-Stolzenau“. 
+Noch während des Gesprächs näherte sich der DGS 42597 dem Bahnhof. Der Zug fuhr mit 
+einer Geschwindigkeit von ca. 73 km/h mit leicht fallender Tendenz. Die EFR-Daten wurden 
+auf einem Datenrekorder vom Typ Teloc 2500 aufgezeichnet. Hieraus ist ersichtlich, dass 
+am Zugdatensteller 90 Bremshundertstel, die Bremsart 2, eine Zuglänge von 580 m und eine 
+max. zulässige Geschwindigkeit von 90 km/h eingestellt waren. Die Fahrt fand in der Zugart 
+U statt. Zur Rekonstruktion dieser Zugfahrt wurden der Teloc-Datensatz und der ETCS-
+Datensatz des Speichergeräts ausgewertet. Beide Datensätze registrieren die Uhrzeit sys-
+temintern, die von der realen Uhrzeit abweichen kann. Untereinander wiesen die Zeiten eine 
+Differenz von ca. 7 s auf. Zudem wurden der Teloc-Datensatz in UTC-Zeit und der ETCS-
+Datensatz in MESZ aufgezeichnet.  Durch den Abgleich der beiden Datensätze waren hin-
+reichend genaue Rückschlüsse auf den Fahrtverlauf des Zuges möglich. Auch hier wurden 
+zur besseren Veranschaulichung die aufgezeichneten Wegdaten der tatsächlichen Stre-
+
+## Página 24
+
+ckenkilometrierung angepasst. Als Referenzpunkt wurde die vermutete Kollisionsstelle (Ab-
+knicken der Geschwindigkeitskurven in beiden Datensätzen) in km 21,020 gewählt. 
+Während der Vorbeifahrt des Zuges an den Vorsignalen f und p wurden keine Beeinflussun-
+gen durch PZB-Gleismagnete aufgezeichnet, da beide Vr 1 signalisierten. Ca.12:43:59 Uhr 
+(UTC, Systemzeit) wurde ca. 190 m vor dem späteren Kollisionspunkt bei ca. 71 km/h die 
+Bedienung der Zugbremse in Form einer Schnellbremsung aufgezeichnet. Nach einem 
+Fahrweg von ca. 30 m wird um 14:44:07 Uhr (MESZ, Systemzeit) die Absenkung der Druck-
+luft in der Hauptluftleitung (Luftversorgungs- und Steuerleitung der Zugbremse) auf unter 2,2 
+bar registriert. Daraufhin setzt eine allmähliche Absenkung der Geschwindigkeit bis auf ca. 
+64 km/h ein. 
+Zu diesem Zeitpunkt waren der Fdl und die Tf-in des DGS 42757 noch im Gespräch zur Be-
+fehlsübermittlung. Die Tf-in war gerade dabei, die gesamten Angaben des Befehls zu wie-
+derholen als die Aufzeichnungen durch einen Aufschrei der Tf-in und durch heftige Kollisi-
+onsgeräusche unterbrochen wurden. Das Gespräch brach um 14:44:18 (GSMR-Zeit) ab. 
+In den beiden EFR-Datensätzen des DGS 42597 wurde in diesem Augenblick ein sprunghaf-
+ter Geschwindigkeitsabfall von 5 km/h bis 7 km/h aufgezeichnet. Innerhalb der folgenden 
+Sekunde wurden im ETCS-Datensatz die Bedienung der Taste „Wachsam“, eine PZB-
+Zwangsbremsung und der Abfall der Digitalspuren für den Führerstand 1 und die Zugart U 
+vom Wert 1 auf den Wert 0 abgebildet. Diese Aufzeichnungen sprechen für die infolge der 
+Kollision eingetretene Zerstörung von Teilen der PZB-Fahrzeugeinrichtung. Nahezu gleich-
+zeitig wurde im Teloc-Datensatz die Bedienung der Pfeifeinrichtung des Tfz aufgezeichnet. 
+Auch hierbei dürfte es sich um eine Folge der Kollision handeln, denn in dem Gesprächsmit-
+schnitt war kein Pfeifen eines Tfz zu hören. Ca. 2 s vor der Kollision wurde im Teloc-
+Datensatz eine Sifa-Zwangsbremsung registriert. Diese war eingetreten, weil der Tf ange-
+sichts des bevorstehenden Zusammenstoßes offensichtlich die Sifa nicht mehr bedient hatte. 
+Auswirkungen auf das Ereignis hatte dies nicht. Zu diesem Zeitpunkt war die Schnellbrem-
+sung des Tf bereits aktiv. Nach der Kollision zeichneten beide Datensätze einen Weg von ca. 
+102 m – bis 111 m bis zum Stillstand des Zuges auf. Diese Aufzeichnungen sind aufgrund 
+möglicher wechselnder Reibwerte nach der Kollision eventuell fehlerbehaftet.  
+Gegen 14:44:28 Uhr (MESZ, Systemzeit) kam der Zug zum Stillstand 
+
+## Página 25
+
+Abb. 9: grafische Darstellung Teloc-Datensatz des DGS 42597 
+Abb. 10: grafische Darstellung ETCS-Datensatz des DGS 42597 
+
+## Página 26
+
+In den EFR-Daten der DSK des DGS 42757 wurden um 14:44:08 Uhr (DSK-Zeit) zunächst 
+eine 2000 Hz Zwangsbremsung mit anschließendem Luftverlust in der Hauptluftleitung, ge-
+folgt von einer Überschreitung der Überwachungsgeschwindigkeiten aus 1000 Hz und
+500 Hz Beeinflussungen, noch während des Stillstands aufgezeichnet. Zwischen 14:44:09 
+Uhr und 14:44:19 Uhr (DSK-Zeiten) wurde das Tfz des 42757 mit einer Geschwindigkeit bis 
+ca. 23 km/h über einen Weg von ca. 74 m abrupt bewegt.  
+Die Aufzeichnungen ab 14:44:08 Uhr sind Folge der Zugkollision und hinsichtlich der norma-
+len PZB-Funktionalität teils nicht plausibel. Bei der aufgezeichneten Bewegung handelt es 
+sich um eine Rückwärtsbewegung, entgegen der vorherigen Fahrtrichtung (siehe Abb. 5) 
+Diese wurde verursacht durch den heftigen Aufprall des einfahrenden DGS 42597. Die Auf-
+zeichnungen zu Weg und Geschwindigkeit sind in diesem Zusammenhang fehlerbelastet 
+und müssen nicht mit der Realität übereinstimmen. Der Grund liegt auch hierfür in der Ent-
+gleisung des Fahrzeugs und den damit unterschiedliche Reibwerten an der Geberachse, die 
+die Aufzeichnungen verfälschen können. 
+Um 14:44:55 Uhr (GSMR-Zeit) rief die Tf-in des DGS 42757 den Fdl an, der zu diesem Zeit-
+punkt den Notfallmanager bereits über den Unfall unterrichtet. In diesem und einem weiteren 
+Zugfunkgespräch, das um 14:50 Uhr geführt wurde, teilte die Tf-in dem Fdl u.a. mit, dass 
+sowohl sie, als auch der Tf des DGS 42597 den Unfall überlebt haben.  
+## 4.7 
+## Interpretation der Unfallspuren 
+Bis zum Eintreffen der EUB gegen 17:30 Uhr wurden an den Fahrzeugen und Sicherungsan-
+lagen keine Veränderungen vorgenommen. Die im Gleis 1 kollidierten Züge in Verbindung 
+mit den Fahrt zeigenden Signalen für DGS 42597 ließen recht schnell den Schluss zu, dass 
+die Zugkollision infolge einer durch Hauptsignal zugelassenen Einfahrt in ein besetztes Gleis 
+entstand. Die weiteren Untersuchungen bestätigten dies. Anhand der Folgen, wie die stark 
+verformten Tfz, die umherliegenden Wagen einschließlich deren Ladung machten deutlich, 
+dass der Zusammenstoß der beiden Züge mit relativ hoher Geschwindigkeit erfolgt war. Die 
+starken Zerstörungen des, bezogen auf die ursprüngliche Fahrtrichtung, hinteren Führer-
+stands des Tfz des DGS 42757 lassen den Schluss zu, dass das Tfz durch die Kollision un-
+ter die ersten Wagen des Zuges gedrückt wurde, bzw. dass die ersten Wagen über das Tfz 
+hinweg entgleisten. 
+
+## Página 27
+
+Abb. 11: Die Tfz nach der Kollision 
+# 5 
+# Auswertung und Schlussfolgerungen 
+Die Zugkollision am 30.06.2017 im Bahnhof Leese-Stolzenau wurde durch mehrere Arbeits-
+fehler des dort verantwortlichen Fdl verursacht. Dieser hatte vor der Zulassung der Zugfahrt 
+des DGS 42597 den Fahrweg auf Freisein von Fahrzeugen nicht geprüft. Bereits zuvor hatte 
+er es versäumt, nach Einfahrt des DSG 42757 in Gleis 1 Hilfssperren an den Fahrstraßen-
+hebeln a1, a 1
+1 , f1 und f 1
+1 anzubringen, um sich so vor der späteren Fehlhandlung zu schützen. 
+Letztendlich hat der Fdl das Esig F für den DGS 42597 auf Fahrt gestellt und dem Zug somit 
+die Einfahrt in das besetzte Gleis 1 erlaubt. 
+Der Tf des DGS 42597 hatte die Erlaubnis mit der zulässigen Höchstgeschwindigkeit von 
+80 km/h in den Bahnhof Leese-Stolzenau ein und auszufahren. Dabei galt natürlich auch für 
+ihn der Grundsatz, auf einen freien Fahrweg vertrauen zu dürfen.  
+Der Tf des DGS 42597 hatte keine Möglichkeit das Ereignis zu verhindern oder dessen Fol-
+gen wesentlich zu mindern. Der lang gezogene Rechtsbogen im südlichen Einfahrbereich 
+des Bahnhofs machte es dem Tf lange Zeit unmöglich, die drohende Gefahr zu erkennen. 
+Als der Tf den im Bahnhof stehenden Zug sehen und erkennen konnte, dass dieser Zug in 
+seinem Einfahrgleis steht, war er mit seinem Zug bereits soweit in den Bahnhof eingefahren, 
+dass auch die sofortige Schnellbremsung keine wesentliche Geschwindigkeitsreduzierung 
+und damit ein Abschwächen der Folgen bewirken konnte. 
+
+## Página 28
+
+Die Tf-in des DGS 42757 hatte mit ihrem stehenden Zug keinen Einfluss auf das Gesche-
+hen. Von der nach Gleis 1 zugelassenen Einfahrt des Gegenzuges konnte sie nichts bemer-
+ken. Außerdem war sie bis zum Zusammenstoß mit dem Ausfüllen des Befehlsvordrucks 
+beschäftigt, so dass sie den herannahenden Zug erst im letzten Augenblick bemerkte. Ihr 
+Handeln hatte weder etwas mit der Entstehung des Unfalls zu tun, noch hatte sie eine Mög-
+lichkeit die Folgen dessen zu mindern oder das Ereignis gänzlich zu verhindern. 
+Letztendlich stellt sich die Frage nach den Gründen des falschen Handelns des Fdl. Warum 
+ließ der Fdl die Einfahrt des DGS 42597 in das durch DGS 42757 besetzte Gleis 1 zu? Diese 
+Frage kann die BEU nicht abschließend beantworten. Da offensichtliche Gründe nicht fest-
+gestellt wurden, sind lediglich Mutmaßungen zu eventuellen Einflussfaktoren möglich.  
+Nach Auffassung der BEU war der Fdl hinreichend ausgebildet und qualifiziert die Tätigkeit 
+als Fdl auszuführen. Er verfügte über eine mehrjährige Arbeitserfahrung. Der kleine Bahnhof 
+mit der eingleisigen Strecke stellt keine sonderlich großen Herausforderungen an einen Fdl. 
+Hinsichtlich der Arbeitsbelastung des Fdl ist festzustellen, dass es durch Bauarbeiten im 
+Raum Bremen und Osnabrück zwischen Mai und Juli 2017 mehrere sogenannte Umleiterzü-
+ge gab, die die Strecke 1741 und damit den Bahnhof Leese-Stolzenau zusätzlich befuhren. 
+Der BEU liegen 24 Fahrplananordnungen vor nach denen eine Vielzahl von Zügen von die-
+sem Umleitungsverkehr betroffen waren. Da der Großteil dieser Züge jedoch nur an be-
+stimmten Verkehrstagen umgeleitet wurde, blieben für den 30.06.17 letztendlich nur ca. acht 
+Züge, die den Bahnhof Leese-Stolzenau zusätzlich passierten. Gleichzeitig wurden wegen 
+der Umleiterzüge die planmäßig verkehrenden Züge des Personennahverkehrs durch einen 
+Schienenersatzverkehr ersetzt. Somit wird deutlich, dass selbst durch die Umleitung der Zü-
+ge für den Fdl in Leese-Stolzenau keine deutlich größere Arbeitsbelastung entstand. Selbst 
+die Abweichungen der Unfallzüge von den planmäßigen Durchfahrtzeiten sind im Güterver-
+kehr keine Besonderheit. Die dadurch notwendige Zugkreuzung stellt zudem keine besonde-
+ren Herausforderungen an das Stellwerkspersonal, da diese im planmäßigen Betrieb ohne 
+Umleitungsverkehre zum täglichen Arbeitsablauf gehören. 
+Der Fdl hatte gegen 13:00 Uhr seinen Dienst begonnen. Die beiden am Unfall beteiligten 
+Züge waren die Zugfahrten zwei und drei, die der Fdl während seines Dienstes durchführte. 
+Von der Ankunft des DGS 42757 im Gleis 1 bis zur Zugmeldung des DGS 42597 aus Wind-
+heim vergingen 27 Minuten. Diese Zeit war auch ausreichend, um vom eingefahrenen 42757 
+den Zugschluss am letzten Wagen feststellen zu können. Auch wenn damit ein nicht ganz 
+unerheblicher Fußweg verbunden war, gab es für den Fdl keinen Grund unter Zeitdruck zu 
+geraten bzw. in Hektik zu verfallen. Der Fdl hatte offensichtlich ausreichend Zeit, die Zug-
+
+## Página 29
+
+meldungen für den DGS 42597 an- bzw. abzugeben und die Signale für die Durchfahrt des 
+Zuges auf Fahrt zu stellen. Ob der Fdl währenddessen anderweitig abgelenkt war ist nicht 
+bekannt. Beim anschließenden Diktieren des Befehls wirkte der Fdl ruhig und ausgeglichen. 
+Anhand dieser Feststellungen lässt sich hinsichtlich der Belastung des Fdl schlussfolgern, 
+dass diese vom Dienstbeginn bis zum Unfall als eher niedrig anzusehen ist und sich somit 
+nicht begünstigend auf das Ereignis ausgewirkt haben dürfte. 
+Schenkt man der Aussage des Fdl Glauben, er habe nach dem Unfall nichts im Stellwerk 
+verändert, dann hat dieser nach der Einfahrt des 42757 Hilfssperren an den Fahrstraßenhe-
+beln angebracht. Dabei hat er jedoch die Einfahrten nach Gleis 2 und nicht nach Gleis 1 un-
+terbunden. Eine völlig unnötige Handlung also, da Gleis 2 nicht besetzt war. An dieser Stelle 
+drängt sich der Verdacht auf, dass der Fdl womöglich die Gleise verwechselt habe und er im 
+Glauben war, den ersten Zug nach Gleis 2 gefahren zu haben. Diesem Verdacht stehen je-
+doch zwei Tatsachen entgegen. So musste der Fdl zur Zugschlussfeststellung nach Gleis 1 
+gehen und dabei die freien Gleis 3 und 2 passieren (siehe Abb. 3). Außerdem musste der 
+Fdl der Tf-in beim Diktieren des Befehls den Standort ihres Zuges angeben. Hier sagte der 
+Fdl „ du stehst in Gleis 1 vor Signal N1“. Die Wiederholung der Tf-in „Gleis 1, N1“ kommen-
+tierte der Fdl mit „genau“ und ergänzte „in Leese-Stolzenau“. Besonders Letzteres macht 
+deutlich, dass sich der Fdl im Klaren darüber war, dass Zug 42757 in Gleis 1 und nicht in 
+Gleis 2 stand. Hätte der Fdl die Hilfssperren zur Kennzeichnung besetzter Einfahrgleise re-
+gelkonform an den Fahrstraßenhebeln für die Einfahrten nach Gleis 1 angebracht, dann hät-
+ten ihn diese Hilfssperren vor der späteren Fehlhandlung, der Zulassung der Zweiten Zug-
+fahrt nach Gleis 1, schützen können. Dennoch ist das falsche Anbringen der Hilfssperren 
+nicht in unmittelbaren Zusammenhang mit der Kollision zu bringen. Die Hilfssperren sind 
+schließlich kein Ersatz für die unmittelbar vor Zulassung der Zugfahrt zwingend erforderliche 
+Fahrwegprüfung durch Hinsehen. Hierbei hätte der Fdl nach den Regeln der Fahrdienstvor-
+schrift in Verbindung mit den Bestimmungen des Bebu vor die Tür seines Dienstraumes tre-
+ten müssen und das Gleis innerhalb der vorgegebenen Fahrwegprüfgrenzen auf Freisein 
+augenscheinlich prüfen müssen. Erst danach hätte er die Zugfahrt zulassen dürfen. Leider 
+hat er dies offensichtlich nicht getan, denn sonst hätte er den DGS 42757 in Gleis 1 stehen 
+gesehen. Selbst wenn er entgegen der Regeln des Bebu den Dienstraum nicht zur Fahr-
+wegprüfung verlassen hätte, so hätte bereits ein kurzer Blick aus einem der Fenster seines 
+Dienstraumes gereicht, um den Zug in Gleis 1 zu erkennen. Der DGS 42757 hatte eine Län-
+ge von über 700 m und füllte damit nahezu das Gleis 1 auf voller Länge aus, wobei der stän-
+dig nicht einsehbare Gleisbereich nicht einmal betroffen war. Der Zug oder wenigstens ein 
+
+## Página 30
+
+Teil des Zuges war aus jedem der sechs Fenster des kleinen Dienstgebäudes sichtbar. Es 
+scheint fast nicht vorstellbar, dass der Fdl nicht wenigsten einmal nach der Zugmeldung 
+durch eines dieser Fenster hindurchgesehen hat. Möglicherweise hat er dies auch getan, 
+weil es mehr oder weniger zwangsläufig geschieht, wenn man sich in dem Raum hin und her 
+bewegt. Doch offensichtlich hat er dann das Gesehene nicht bewusst wahrgenommen und 
+nicht realisiert, dass der Zug in dem Gleis steht, durch das er die Durchfahrt des DGS 42597 
+zugelassen hat. Selbst als er der Tf-in den Befehl diktierte wurde ihm dieser gefährliche Wi-
+derspruch nicht bewusst. 
+Da es in Leese-Stolzenau weder eine technische Einrichtung, noch einen zweiten Mitarbei-
+ter, der an der Fahrwegprüfung beteiligt ist, gibt (Vier –Augen - Prinzip) führte der Fehler des 
+Fdl zwangsläufig zu einem schweren Unfall. Es gab quasi keine Rückfallebene, die den Feh-
+ler hätte offenbaren und das Ereignis hätte verhindern können. Diese Anforderungen hätte 
+zweifellos eine selbsttätige Gleisfreimeldeeinrichtung erfüllt. Diese hätte das besetzte Ein-
+fahrgleis erkannt und die Fahrtstellung des Esig F für den DGS 42597 nicht zugelassen. 
+In der Vergangenheit gab es immer wieder Zugkollisionen und Beinaheunfälle, weil bei der 
+Fahrwegprüfung durch Hinsehen Fehler begangen wurden. Oft wurden nur durch glückliche 
+Umstände die Zusammenstöße verhindert, weil bspw. die Sichtbedingungen für den Tf güns-
+tiger oder die Geschwindigkeit niedriger waren als in Leese-Stolzenau. Zu den folgenreichs-
+ten Zugkollisionen infolge mangelhafter Fahrwegprüfung durch Hinsehen zählen die Unfälle 
+von Bleicherode Ost am 21.09.2011 und in Hosena am 11.11.2013. Im Gegensatz zu Leese-
+Stolzenau waren hier jeweils zwei Mitarbeiter an der Fahrwegprüfung beteiligt. Glücklicher-
+weise waren bei beiden Ereignissen keine Menschenleben zu beklagen. Die Sach- und Um-
+weltschäden waren jedoch teils enorm. Die EUB empfahl in ihrem Untersuchungsbericht zum 
+Ereignis in Bleicherode Ost zur Verbesserung der Sicherheit eine „Überprüfung, ob in den 
+durchgehenden Hautgleisen von Bahnhöfen selbsttätige Gleisfreimeldeanlage vorgesehen 
+werden sollten“. Das EIU die DB Netz AG gab daraufhin an, dass der Bahnhof Bleicherode 
+Ost im Zuge der Modernisierung der Strecke mit ESTW – Technik ausgerüstet wird. Dies ist 
+bis zur Erstellung dieses Berichts im September 2017 nicht geschehen. Der Bahnhof Hosena 
+hingegen wurde umgebaut. Mit der Realisierung des ESTW werden die Gleise hier mit einer 
+selbsttätigen Gleisfreimeldeanlage u.a. auf Frei- und Besetztsein geprüft. Wann und ob dies 
+in Bleicherode Ost der Fall sein wird, ist der BEU nicht bekannt. Unbekannt bleibt der BEU 
+auch, zu welchem Zeitpunkt Bahnhöfe, für die keine ESTW in absehbarer Zeit geplant sind, 
+mit einer Gleisfreimeldeanlage ausgerüstet werden. Aus diesem Grund scheint eine Konkre-
+tisierung der Sicherheitsempfehlung aus dem Unfallbericht zu Bleicherode Ost sinnvoll. 
+
+## Página 31
+
+Demnach sollten alle Bahnhöfe, die bisher über keine selbsttätige Gleisfreimeldeanlage ver-
+fügen, einer Risikobetrachtung unterzogen und sukzessive mit einer solchen Anlage nachge-
+rüstet werden. In die Risikobetrachtung sollten Fakten wie bspw. Anzahl der Reise- und Gü-
+terzüge, Streckengeschwindigkeit, Sichtverhältnisse (nichteinsehbare Bereiche, Verlassen 
+des Dienstraums erforderlich) und Anzahl der an der Fahrwegprüfung beteiligten Mitarbeiter 
+in jedem Fall Berücksichtigung finden.  
+Dadurch könnten Bahnhöfe wie Leese-Stolzenau, die an doch recht stark frequentierten 
+Strecken liegen, über einen Taktfahrplan im Reisezugverkehr verfügen und wo zudem nur 
+ein einzelner Mitarbeiter zum Prüfen des freien Fahrwegs zur Verfügung steht, zeitnah mit 
+einer Gleisfreimeldeanlage nachgerüstet werden. Dies könnte künftige Zugkollisionen mit 
+gleichgelagerter Ursache verhindern und die Sicherheit in diesen Bahnhöfen deutlich erhö-
+hen.  
+Unabhängig von der Unfallursache sollten die Verantwortlichen die Frage klären, ob es nicht 
+sinnvoll ist, den Bahnhof Leese-Stolzenau künftig mit Zugschlussbeobachtungsanlagen aus-
+zurüsten. Dadurch müsste der Fdl künftig bei Güterzugkreuzungen nicht mehrere Hundert-
+meter zur Zugschlussfeststellung durch den Bahnhof laufen. Eine Beschleunigung des Be-
+triebsablaufs und die Erhöhung der Betriebs- und Arbeitssicherheit wären die Folge. Hin-
+sichtlich des hier untersuchten Unfalls hätte diese Maßnahme jedoch keine Auswirkungen. 
+# 6 
+# Sicherheitsempfehlungen  
+Gemäß § 6 Eisenbahn-Unfalluntersuchungsverordnung (EUV) und Art. 26 Abs. 2 der Richtli-
+nie (EU) 2016/798 ergeht nachfolgende Sicherheitsempfehlung: 
+| lfd Nr . . | Sicherheitsempfehlung | betrifftUnternehmen |
+| 1/2018 | Bahnhöfe die bisher über keine selbsttätige Gleisfreimeldean- , lagen verfügen sollten dahingehend einer Risikobetrachtung , unterzogen werden Im Ergebnis dessen sollten die Hauptglei . - se dieser Bahnhöfe entsprechend der Risikoklassifizierung sukzessive mit einer selbsttätigen Gleisfreimeldeanlage nach - gerüstetwerden | EIU |

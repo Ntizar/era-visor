@@ -1,0 +1,369 @@
+{
+ "md-es/EE/2007/Manniku.24.06.07.md": {
+  "estado": "aviso",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   9,
+   11,
+   14
+  ],
+  "fidelidad_media": 94.7,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "õnnetusjuhtum traducido como 'incidente' en lugar de 'accidente'",
+   "Señal 121 traducida como «Vía única» en lugar de «Monorraíl» (original: 'Monorail')",
+   "Señal 222 traducida como «Ceda el paso» en lugar de «Deténgase y ceda el paso» (original: 'Stop and Give Way')",
+   "koljulae- ja põhimikluude hulgimurdudega traducido como 'fracturas múltiples de los huesos frontal y occipital' - 'põhimikluud' es 'hueso esfenoides', no 'occipital'",
+   "pehmekelmealuse verevalumitega traducido como 'hematomas subdurales' - 'pehmekelmealune' se refiere a 'bajo las meninges blandas' (subaracnoideo/subdural), pero la traducción es imprecisa",
+   "Señal 222: 'Peatu ja anna teed' se traduce como 'Ceda el paso', pero la equivalencia normalizada en castellano es 'Deténgase y ceda el paso' o 'Stop y ceda el paso'."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/EE/2007/Manniku.24.06.07.md"
+ },
+ "md-es/EE/2007/Hertu.14.04.07[1].md": {
+  "estado": "aviso",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   9,
+   11,
+   14
+  ],
+  "fidelidad_media": 95.8,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Traducción de 'raudteeõnnetus' como 'incidente' en la categoría de la Directiva 2004/49/CE, cuando el original la clasifica como 'õnnetusjuhtum' (accidente), no como 'intsident' (incidente).",
+   "motorcar traducido como 'locomotora' en lugar de 'coche motor' o 'automotor'",
+   "boogie traducido como 'bogie' (correcto en español, pero el original usa 'boogie' que es una variante; no es un error de traducción)",
+   "OTSESED FAKTID JUHTUMI KOHTA traducido como 'Hechos' en lugar de 'Hechos directos sobre el incidente'",
+   "raudteeavariid / rongiõnnetused traducido como 'accidentes ferroviarios / accidentes de trenes' sin distinguir claramente entre 'accidente ferroviario' y 'accidente de tren'",
+   "Liiklushäire traducido como 'Incidencia en la circulación' en lugar de 'Perturbación del tráfico'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/EE/2007/Hertu.14.04.07[1].md"
+ },
+ "md-es/EE/2007/Toila.10.07.07.md": {
+  "estado": "revisar",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   9,
+   12,
+   15
+  ],
+  "fidelidad_media": 94.2,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "õnnetusjuhtum traducido como 'incidente' en lugar de 'accidente'",
+   "reguleerimata raudteeülesõidukohal traducido como 'paso a nivel regulado' en lugar de 'paso a nivel no regulado'",
+   "auto traducido como 'coche' en lugar de 'camión' o 'vehículo'",
+   "raudteekorraldajale traducido como 'coordinador ferroviario' en lugar de un término más normalizado como 'regulador ferroviario' o 'despachador ferroviario'",
+   "rongidispetšerile traducido como 'regulador de trenes' en lugar de 'despachador de trenes'"
+  ],
+  "fallos": [
+   {
+    "pagina": 6,
+    "fidelidad": 95,
+    "omisiones": [],
+    "invenciones": [
+     "La traducción incluye un párrafo adicional con cifras de gastos (751403, 1694727, 19475, 7871 coronas) que no aparece en el fragmento original proporcionado.",
+     "La traducción incluye una sección adicional con la Foto 2 y la descripción de los daños de la locomotora que no aparece en el fragmento original proporcionado."
+    ],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción añade contenido no presente en el fragmento original, probablemente de la página siguiente."
+   }
+  ],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/EE/2007/Toila.10.07.07.md"
+ },
+ "md-es/EE/2007/Paldiski.08.09.07.md": {
+  "estado": "aviso",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   10,
+   13,
+   16
+  ],
+  "fidelidad_media": 93.4,
+  "fidelidad_min": 85,
+  "sin_dictamen": [
+   13
+  ],
+  "terminos": [
+   "Traducción incorrecta de 'õnnetusjuhtum' como 'incidente' en lugar de 'accidente' en la clasificación de la Directiva 2004/49/CE.",
+   "raudteetupikute võrgustik traducido como 'red de postes de catenaria' en lugar de 'red de vías muertas' o 'red de toperas ferroviarias'",
+   "Traducción de 'raudteeliiklusõnnetustest' como 'accidentes de circulación ferroviaria' en lugar de 'accidentes de tráfico ferroviario' o 'accidentes ferroviarios'.",
+   "Traducción de 'rongiveeremi vigastustest' como 'daños al material rodante' en lugar de 'daños al material rodante del tren' o 'averías del material rodante'."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/EE/2007/Paldiski.08.09.07.md"
+ },
+ "md-es/EE/2008/Suigu.03.06.08[1].md": {
+  "estado": "aviso",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   3,
+   6,
+   9,
+   12,
+   15
+  ],
+  "fidelidad_media": 96.6,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   12
+  ],
+  "terminos": [
+   "õnnetusjuhtum traducido como 'incidente' en lugar de 'accidente'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/EE/2008/Suigu.03.06.08[1].md"
+ },
+ "md-es/EE/2010/Pikkjarve.21.01.10.md": {
+  "estado": "revisar",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   10,
+   13,
+   16
+  ],
+  "fidelidad_media": 96.7,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "õnnetusjuhtum traducido como 'incidente' en lugar de 'accidente'"
+  ],
+  "fallos": [
+   {
+    "pagina": 10,
+    "fidelidad": 95,
+    "omisiones": [],
+    "invenciones": [
+     "La traducción añade 'ante los accidentes ferroviarios ocurridos' al final del texto, mientras que el original termina abruptamente en 'AS EVR Infra infrastruktuuril' sin especificar el tipo de suceso."
+    ],
+    "numeros_ok": true,
+    "terminos": [],
+    "comentario": "La traducción es muy completa y fiel, pero añade una especificación al final que no está presente en el fragmento original."
+   }
+  ],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/EE/2010/Pikkjarve.21.01.10.md"
+ },
+ "md-es/EE/2013/Raasiku_23.08.13_EE.md": {
+  "estado": "aviso",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   2,
+   6,
+   10,
+   14,
+   18,
+   22
+  ],
+  "fidelidad_media": 94.2,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [
+   "El término 'jätkumuhv' se traduce como 'junta de dilatación', cuando en el contexto ferroviario se refiere a un 'manguito de empalme' o 'manguito de unión' para cables.",
+   "El término 'mootorvagun' se traduce como 'coche motor', que es correcto, pero en el punto 2 se omite la precisión de que el tren estaba 'de paso' (läbisõidul) por la estación, traduciéndose como 'transitaba'.",
+   "jätkumuhv → base de balasto (debería ser 'manguito de empalme' o 'manguito de continuación')",
+   "lumeraua → faldón antiniebla (debería ser 'quitanieves' o 'faldón quitanieves')",
+   "rooliseadmed → dispositivos de dirección (debería ser 'mecanismo de dirección')",
+   "jalgpidur → pedal de freno de servicio (debería ser 'freno de pie')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/EE/2013/Raasiku_23.08.13_EE.md"
+ },
+ "md-es/EE/2010/Aegviidu.23.12.2010.md": {
+  "estado": "aviso",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   11,
+   21,
+   31,
+   41,
+   51
+  ],
+  "fidelidad_media": 98.2,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   31,
+   51
+  ],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/EE/2010/Aegviidu.23.12.2010.md"
+ },
+ "md-es/EE/2014/Raasiku_16.04.14_EE.md": {
+  "estado": "aviso",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   2,
+   7,
+   12,
+   17,
+   22,
+   27
+  ],
+  "fidelidad_media": 91.4,
+  "fidelidad_min": 85,
+  "sin_dictamen": [
+   27
+  ],
+  "terminos": [
+   "urvad suured traducido como 'las ramas gruesas' en lugar de 'amentos grandes' o 'amentos desarrollados'",
+   "autojuhi traducido como 'conductor del coche' en lugar de 'conductor del camión' (el original se refiere al conductor del camión MAN)",
+   "Teede- ja sideministr: traducido como 'Ministro de Carreteras e Infraestructuras' en lugar de 'Ministro de Transportes y Comunicaciones'",
+   "raudteeülesõidu- ja ülekäigukoha: traducido como 'pasos a nivel y pasos elevados ferroviarios' en lugar de 'pasos a nivel y pasos peatonales ferroviarios'",
+   "remondipukile: traducido como 'taller de reparación' en lugar de 'pórtico de reparación' o 'caballete de reparación'",
+   "teerullikule: traducido como 'rodillo de vía' en lugar de 'rodillo compactador de vía' o 'apisonadora de vía'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/EE/2014/Raasiku_16.04.14_EE.md"
+ },
+ "md-es/EE/2010/Manniku.16.04.2010.md": {
+  "estado": "aviso",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   1,
+   4,
+   7,
+   11,
+   14,
+   17
+  ],
+  "fidelidad_media": 95.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   11,
+   17
+  ],
+  "terminos": [
+   "Traducción de 'õnnetusjuhtum' como 'incidente' en lugar de 'accidente'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/EE/2010/Manniku.16.04.2010.md"
+ },
+ "md-es/EE/2017/EE 12.03.2017 Sompa 12.03.17 EE OJK.md": {
+  "estado": "revisar",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   2,
+   5,
+   8,
+   12,
+   15,
+   19
+  ],
+  "fidelidad_media": 93.6,
+  "fidelidad_min": 85,
+  "sin_dictamen": [
+   8
+  ],
+  "terminos": [
+   "vedurifooris põleb kollane tuli traducido como 'faro delantero de la locomotora brilla la luz amarilla' en lugar de 'señal de la locomotora' o 'semáforo de la locomotora'"
+  ],
+  "fallos": [
+   {
+    "pagina": 12,
+    "fidelidad": 85,
+    "omisiones": [
+     "En la Tabla 1 falta la columna/valores de la categoría y el producto (solo se traduce el encabezado, no los datos)."
+    ],
+    "invenciones": [
+     "Se traduce 'Teede- ja sideministri' como 'Ministro de Carreteras e Infraestructuras', cuando el original dice Ministro de Transportes y Comunicaciones."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'barreras' debería ser 'barrera' o 'semibarreras' según normativa ferroviaria en castellano.",
+     "'regulador' es ambiguo; en contexto ferroviario se refiere a 'agente de circulación' o 'guardabarrera'.",
+     "'semáforos de paso a nivel' es aceptable, pero 'señales de paso a nivel' sería más normalizado."
+    ],
+    "comentario": "La traducción es mayormente completa, pero contiene un error institucional y varios términos técnicos ferroviarios no normalizados."
+   },
+   {
+    "pagina": 19,
+    "fidelidad": 95,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": false,
+    "terminos": [],
+    "comentario": "La traducción es completa y fiel, pero contiene un error numérico: 'veerandi kilomeetri' (un cuarto de kilómetro) se tradujo como 'medio kilómetro'."
+   }
+  ],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/EE/2017/EE 12.03.2017 Sompa 12.03.17 EE OJK.md"
+ },
+ "md-es/EE/2018/Kulna 20.02.18 EE avalik.md": {
+  "estado": "aviso",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   2,
+   8,
+   13,
+   19,
+   24,
+   29
+  ],
+  "fidelidad_media": 95.4,
+  "fidelidad_min": 92,
+  "sin_dictamen": [
+   8
+  ],
+  "terminos": [
+   "«Paso a nivel superior delante» para la señal 125 no es una traducción normalizada; el original dice 'Ees on raudteeületuskoht' (Paso a nivel delante), no 'superior'.",
+   "«situada al final del tramo común» no refleja fielmente 'ühise posti otsas asuvatest' (situadas en el extremo de un poste común)."
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/EE/2018/Kulna 20.02.18 EE avalik.md"
+ },
+ "md-es/EE/2022/EE-10203 - Ropka 11.03.22 juurdlusaruanne.md": {
+  "estado": "aviso",
+  "idioma_origen": "FI",
+  "paginas_revisadas": [
+   2,
+   8,
+   17,
+   24,
+   31,
+   37
+  ],
+  "fidelidad_media": 99.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   37
+  ],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/EE/2022/EE-10203 - Ropka 11.03.22 juurdlusaruanne.md"
+ }
+}

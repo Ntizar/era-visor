@@ -162,6 +162,14 @@ def revisar_uno(ruta, base, key, modelo, n_muestras):
         ev["pagina"] = num
         evaluaciones.append(ev)
 
+    if not evaluaciones:
+        # Sin texto no hay nada que revisar: es un PDF escaneado, no una mala
+        # traducción. Se declara como tal y queda fuera de la media de fidelidad.
+        return {"estado": "sin_texto", "idioma_origen": fm.get("idioma_origen", ""),
+                "paginas_revisadas": [], "fidelidad_media": None, "fidelidad_min": None,
+                "motivo": "el md no tiene páginas con texto (PDF escaneado sin OCR)",
+                "fecha": datetime.date.today().isoformat()}
+
     con_nota = [e for e in evaluaciones if isinstance(e.get("fidelidad"), (int, float))]
     fids = [e["fidelidad"] for e in con_nota] or [0]
     # "sin dictamen" (el revisor no devolvió JSON válido) NO es un defecto del

@@ -1,0 +1,113 @@
+{
+ "md-es/LT/2018/LT-5621 - Interim Statement 2019-03-05.md": {
+  "estado": "ok",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": 0.0,
+  "fidelidad_min": 0,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/LT/2018/LT-5621 - Interim Statement 2019-03-05.md"
+ },
+ "md-es/LT/2018/LT-5621 - Interim Statement 2020-03-05.md": {
+  "estado": "ok",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1
+  ],
+  "fidelidad_media": 95.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/LT/2018/LT-5621 - Interim Statement 2020-03-05.md"
+ },
+ "md-es/LT/2018/LT-5621- interim Statement - 2022-03-21+Tarpinis+pranešimas.md": {
+  "estado": "revisar",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1
+  ],
+  "fidelidad_media": 85.0,
+  "fidelidad_min": 85,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [
+   {
+    "pagina": 1,
+    "fidelidad": 85,
+    "omisiones": [
+     "Falta traducir 'Mirtinai' (Muertos) y 'Sunkiai' (Gravemente heridos) como encabezados de fila; en la traducción aparecen como celdas sueltas.",
+     "Falta traducir 'Nesunkiai' (Levemente heridos) como encabezado de fila.",
+     "Falta traducir 'Saugos tyrimas atliekamas vadovaujantis' (La investigación de seguridad se realiza conforme a la) - texto incompleto en original y traducción."
+    ],
+    "invenciones": [
+     "La traducción añade 'DEL ACCIDENTE' en el título, que no está explícito en el original.",
+     "La traducción añade 'Gravemente heridos' y 'Levemente heridos' como texto separado, cuando en el original son encabezados de fila."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "Prekinis traukinys traducido como 'Tren de mercancías' es correcto, pero 'katastro' se traduce como 'accidente' cuando podría ser 'catástrofe' o 'siniestro' según el contexto lituano."
+    ],
+    "comentario": "La traducción es mayormente fiel, pero presenta problemas de formato en la tabla de víctimas y una posible imprecisión terminológica en 'katastro'."
+   }
+  ],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/LT/2018/LT-5621- interim Statement - 2022-03-21+Tarpinis+pranešimas.md"
+ },
+ "md-es/LT/2022/LT-10288 - Interim statement - 2024-08-20 Tarpinis pranešimas G-22-52-1.md": {
+  "estado": "ok",
+  "idioma_origen": "??",
+  "paginas_revisadas": [],
+  "fidelidad_media": 0.0,
+  "fidelidad_min": 0,
+  "sin_dictamen": [],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/LT/2022/LT-10288 - Interim statement - 2024-08-20 Tarpinis pranešimas G-22-52-1.md"
+ },
+ "md-es/LT/2018/LT-5621 - Interim Statement 2021-03-08.md": {
+  "estado": "aviso",
+  "idioma_origen": "??",
+  "paginas_revisadas": [
+   1
+  ],
+  "fidelidad_media": 0.0,
+  "fidelidad_min": 0,
+  "sin_dictamen": [
+   1
+  ],
+  "terminos": [],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/LT/2018/LT-5621 - Interim Statement 2021-03-08.md"
+ },
+ "md-es/LT/2016/LT 18.10.2016 Gelezinkelio transporto eismo ivykio faktine ataskaita-1.md": {
+  "estado": "aviso",
+  "idioma_origen": "LT",
+  "paginas_revisadas": [
+   2,
+   3,
+   4,
+   6,
+   7,
+   8
+  ],
+  "fidelidad_media": 99.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [
+   7
+  ],
+  "terminos": [
+   "traukinių derintojas traducido como 'formador de trenes' en lugar de 'coordinador de trenes' o 'encargado de maniobras'",
+   "manevrinį šilumvežį traducido como 'locomotora térmica de maniobras' en lugar de 'locomotora diésel de maniobras'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/LT/2016/LT 18.10.2016 Gelezinkelio transporto eismo ivykio faktine ataskaita-1.md"
+ }
+}

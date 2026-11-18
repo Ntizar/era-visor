@@ -1,0 +1,113 @@
+---
+pais: FI
+anio: 2010
+idioma: EN
+pdf: C1-2010R-DataSummary.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/C1-2010R-DataSummary.pdf
+md5_pdf: e6bc557ba85a35d69b3b82adb887f8c6
+paginas: 1
+chars: 2218
+tablas: 0
+cuerpo: "10.6pt; encabezados 1 niveles"
+rotulos_excluidos: "0 ()"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 0
+fecha_proceso: 2026-11-18
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+YHTEENVETOTAULUKKO – SAMMANDRIFTNING – DATA SUMMARY 
+Aika: 
+19.2.2010, 4.43 
+Tidpunkt för händelsen: 
+Date and time: 
+Paikka: 
+Kilpilahden Neste Oil Oyj:n purkausterminaalin raiteisto 
+Lossningsterminalen vid Neste Oil Abp i Sköldvik 
+Plats: 
+The tracks at the Neste Oil Oyj unloading terminal in Kilpilahti 
+Location: 
+Onnettomuustyyppi: 
+Törmäys kiinteään kohteeseen (raidepuskimeen) 
+Kollision med ett fast objekt (stoppbock) 
+Typ av olycka: 
+Collision with a solid object (buffer stop) 
+Type of accident: 
+Junan tyyppi ja numero: 
+Vaihtotyöyksikkö, Dr14-dieselveturi + 51 säiliövaunua 
+Växlingsenhet, Dr14-locomotiv + 51 vagnar 
+Tågtyp och tågnummer: 
+Shunting unit, Dr14 diesel locomotive + 51 tank wagons 
+Train type and number: 
+Junassa: 
+Henkilökuntaa: 
+1+2 
+Antalet personer ombord: 
+Personal: 
+Persons on board:  
+Crew: 
+Matkustajia: 
+0 
+Passagerare: 
+Passengers: 
+Henkilövahingot: 
+Kuollut: 
+Henkilökuntaa: 
+0 
+Personskador: 
+Dödsfall: 
+Personal: 
+Injuries: 
+Fatally injured: 
+Crew: 
+Matkustajia: 
+0 
+Passagerare: 
+Passengers: 
+Vakavasti loukkaantunut:
+Henkilökuntaa: 
+0 
+Allvarligt skadats: 
+Personal: 
+Seriously injured: 
+Crew: 
+Matkustajia: 
+0 
+Passagerare: 
+Passengers: 
+Lievästi loukkaantunut: 
+Henkilökuntaa: 
+0 
+Lindrigt skadats: 
+Personal: 
+Slightly injured: 
+Crew: 
+Matkustajia: 
+0 
+Passagerare: 
+Passengers: 
+Kalustovauriot: 
+Yksi säiliövaunu vaurioitui pahoin ja toisen vaunun pyöriin tuli 
+lovet.  
+En cisternvagn skadades svårt och ytterligare en vagn fick slag i 
+Skador på fordon: 
+hjulen. 
+One tank wagon was badly damaged, whilst the wheels of another got flats. 
+Damages of rolling stock: 
+Ratavauriot: 
+Raiteen raidepuskin vaurioitui. 
+Spårets stoppbock skadades. 
+Skador på spåranläggning: 
+The rail barrier on the track was  damaged. 
+Damages on track equipment: 
+Muut vauriot: 
+Nesteen jalostamon kaasuputkiin tuli vääntymiä ja putkien 
+eristykset vaurioituivat. Putkien kannatinraudat vaurioituivat. 
+Gasrören vid Nestes raffinaderi blev deformerade och rörens isolering 
+Övriga skador: 
+skadades. Rörens fästen skadades. 
+Some of the gas pipelines at the refinery were bent, and the pipe insulation was 
+Other damages: 
+damaged. The pipeline supports were also damaged.

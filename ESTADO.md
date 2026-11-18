@@ -16,39 +16,39 @@ No editar a mano: se regenera.
 | Países con manifiesto | 28 |
 | PDFs en manifiesto | 4015 |
 | PDFs descargados | 4014 |
-| MD originales | 1167 |
-| MD en castellano | 382 |
-| Informes revisados por IA | 12 (ok 3) |
+| MD originales | 1602 |
+| MD en castellano | 507 |
+| Informes revisados por IA | 32 (ok 6) |
 
 ## Tabla por país
 
 | Código | País | PDFs manifiesto | Descargados | MD orig. | MD-es | Revisados | Rev. ok | Fidelidad media | Escaneados | Años |
 |---|---|---|---|---|---|---|---|---|---|---|
-| **CZ** | Chequia | 577 | 577 | 168 | 0 | 0 | 0 | — | 0 | 2013-2019 |
+| **CZ** | Chequia | 577 | 577 | 240 | 0 | 0 | 0 | — | 0 | 2013-2023 |
 | **HU** | Hungría | 495 | 495 | 0 | 0 | 0 | 0 | — | 0 | — |
 | **ES** | España | 374 | 376 | 354 | 351 | 0 | 0 | — | 1 | 2006-2025 |
-| **DE** | Alemania | 368 | 366 | 215 | 0 | 0 | 0 | — | 1 | 2006-2025 |
+| **DE** | Alemania | 368 | 366 | 337 | 0 | 0 | 0 | — | 1 | 2006-2025 |
 | **UK** | Reino Unido | 364 | 363 | 0 | 0 | 0 | 0 | — | 0 | — |
-| **FI** | Finlandia | 312 | 312 | 0 | 0 | 0 | 0 | — | 0 | — |
-| **AT** | Austria | 184 | 184 | 184 | 0 | 0 | 0 | — | 2 | 2005-2025 |
+| **FI** | Finlandia | 312 | 312 | 142 | 0 | 0 | 0 | — | 38 | 2004-2011 |
+| **AT** | Austria | 184 | 184 | 184 | 91 | 0 | 0 | — | 2 | 2005-2025 |
 | **NO** | Noruega | 168 | 168 | 0 | 0 | 0 | 0 | — | 0 | — |
-| **DK** | Dinamarca | 146 | 146 | 66 | 0 | 0 | 0 | — | 0 | 2006-2023 |
+| **DK** | Dinamarca | 146 | 146 | 117 | 0 | 0 | 0 | — | 0 | 2006-2024 |
 | **PL** | Polonia | 128 | 128 | 0 | 0 | 0 | 0 | — | 0 | — |
 | **FR** | Francia | 118 | 118 | 0 | 0 | 0 | 0 | — | 0 | — |
-| **BE** | Bélgica | 112 | 112 | 112 | 0 | 0 | 0 | — | 1 | 2007-2025 |
+| **BE** | Bélgica | 112 | 112 | 112 | 3 | 0 | 0 | — | 1 | 2007-2025 |
 | **HR** | Croacia | 107 | 107 | 0 | 0 | 0 | 0 | — | 0 | — |
 | **IT** | Italia | 94 | 94 | 0 | 0 | 0 | 0 | — | 0 | — |
 | **SE** | Suecia | 88 | 88 | 0 | 0 | 0 | 0 | — | 0 | — |
 | **RS** | Serbia | 57 | 57 | 0 | 0 | 0 | 0 | — | 0 | — |
 | **PT** | Portugal | 57 | 57 | 0 | 0 | 0 | 0 | — | 0 | — |
-| **BG** | Bulgaria | 56 | 56 | 56 | 19 | 0 | 0 | — | 4 | 2010-2026 |
+| **BG** | Bulgaria | 56 | 56 | 56 | 28 | 0 | 0 | — | 4 | 2010-2026 |
 | **IE** | Irlanda | 51 | 51 | 0 | 0 | 0 | 0 | — | 0 | — |
-| **SI** | Eslovenia | 39 | 39 | 0 | 0 | 0 | 0 | — | 0 | — |
 | **SK** | Eslovaquia | 39 | 39 | 0 | 0 | 0 | 0 | — | 0 | — |
-| **LV** | Letonia | 26 | 26 | 0 | 0 | 0 | 0 | — | 0 | — |
+| **SI** | Eslovenia | 39 | 39 | 0 | 0 | 0 | 0 | — | 0 | — |
+| **LV** | Letonia | 26 | 26 | 26 | 1 | 1 | 0 | 95.0 | 0 | 2008-2025 |
 | **NL** | Países Bajos | 21 | 21 | 0 | 0 | 0 | 0 | — | 0 | — |
-| **EE** | Estonia | 13 | 13 | 0 | 0 | 0 | 0 | — | 0 | — |
+| **EE** | Estonia | 13 | 13 | 13 | 13 | 13 | 0 | 95.2 | 0 | 2007-2022 |
 | **CH** | Suiza | 8 | 8 | 8 | 8 | 8 | 3 | 96.1 | 0 | 2017-2023 |
-| **LT** | Lituania | 6 | 6 | 0 | 0 | 0 | 0 | — | 0 | — |
+| **LT** | Lituania | 6 | 6 | 6 | 6 | 6 | 3 | 46.5 | 2 | 2016-2022 |
 | **LU** | Luxemburgo | 4 | 4 | 4 | 4 | 4 | 0 | 94.6 | 0 | 2006-2017 |
-| **EL** | Grecia | 3 | 3 | 0 | 0 | 0 | 0 | — | 0 | — |
+| **EL** | Grecia | 3 | 3 | 3 | 2 | 0 | 0 | — | 0 | 2023-2024 |

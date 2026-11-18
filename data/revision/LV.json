@@ -1,0 +1,24 @@
+{
+ "md-es/LV/2009/Extract-EN-causes and recommendations.md": {
+  "estado": "aviso",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   1,
+   2
+  ],
+  "fidelidad_media": 95.0,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "signalmen traducido como 'guardagujas' en lugar de 'señaleros'",
+   "traffic safety internal monitoring system traducido como 'sistema interno de supervisión de la seguridad operativa' en lugar de 'sistema interno de supervisión de la seguridad de la circulación'",
+   "internal monitoring of traffic safety traducido como 'supervisión interna de la seguridad operativa' en lugar de 'supervisión interna de la seguridad de la circulación'",
+   "Technological Slots traducido como 'ventanas tecnológicas' en lugar de 'franjas tecnológicas' o 'surcos tecnológicos'",
+   "traffic safety traducido como 'seguridad operativa' en lugar de 'seguridad en la circulación' (Recomendaciones 2010-1 y 2010-2)",
+   "technological slots traducido como 'ventanas tecnológicas' en lugar de 'franjas tecnológicas' o 'surcos tecnológicos'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/LV/2009/Extract-EN-causes and recommendations.md"
+ }
+}

@@ -1,0 +1,45 @@
+---
+pais: FI
+anio: 2008
+idioma: EN
+pdf: C1-2009R-Summary.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/C1-2009R-Summary.pdf
+md5_pdf: 8fbadcadf2c72117be751a209286a1bb
+paginas: 1
+chars: 2120
+tablas: 0
+cuerpo: "10.6pt; encabezados 1 niveles"
+rotulos_excluidos: "0 ()"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 0
+fecha_proceso: 2026-11-18
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+SUMMARY 
+SAFETY FAILURE IN AUTOMATIC TRAIN PROTECTION OBSERVED ON 30 
+DECEMBER 2008 ON THE KERAVA–LAHTI DIRECTION OF LINE, FINLAND 
+According to a deviation notification a safety problem was encountered in Korvensuo on 30 December 
+2008. Engine drivers notified that they were receiving restrictive information. A distant signal was 
+indicating stop even though a balise at the previous signal had given to the automatic train protection 
+equipment (ATP) the preliminary information that driving at the fastest speed was permitted (proceed 
+Fsl), and, as the train caught sight of the subsequent main signal, it showed the proceed aspect. 
+The reasons for the faulty ATP operation was that an outdated card version had been placed in the IM1-
+module (signal box computer) controlling data transfer between Haarajoki and Korvensuo signal boxes. 
+The wrong flash card had been installed because the software version had not been verified before 
+installing the card. The installers said that this was because verification equipment was not operational 
+due to the transfer of the office to another location. The card had also not been marked sufficiently 
+clearly. 
+The situation was temporarily fixed once the deviation had become apparent by setting an 80 km/h 
+speed limit in the area. The Thales “Emergency Team” met on 5 January 2009 to analyse the situation. 
+Once the reason for the irregularity was observed, a new flash card was installed in the Haarajoki signal 
+box module on 5 January 2009 at 23.00. The operations were tested and on 7 January 2009 the 80 
+km/h speed limit was lifted from the area. 
+In order to prevent the installation of wrong cards, the Accident Investigation Board recommends that 
+signal box adjustment and repair work inspections, and documentation relating to them, should be 
+supervised and the importance of inspections should be emphasised in signal box maintenance 
+training. In addition, component up-to-datedness should be clearly marked on the component and 
+personnel should be made aware of what the latest version in connection with maintenance actions is. 
+1

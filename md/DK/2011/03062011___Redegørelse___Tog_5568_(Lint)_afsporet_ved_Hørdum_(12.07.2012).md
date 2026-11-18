@@ -1,0 +1,207 @@
+---
+pais: DK
+anio: 2011
+idioma: DA
+pdf: 03062011___Redegørelse___Tog_5568_(Lint)_afsporet_ved_Hørdum_(12.07.2012).pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/03062011___Redeg%C3%B8relse___Tog_5568_%28Lint%29_afsporet_ved_H%C3%B8rdum_%2812.07.2012%29.pdf
+md5_pdf: c0b063666b26f6e3f870f3a31bc30bd9
+paginas: 9
+chars: 9346
+tablas: 0
+cuerpo: "11.0pt; encabezados 1 niveles"
+rotulos_excluidos: "8 (side # af #)"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 2
+fecha_proceso: 2026-11-18
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+12.7.2012                     
+Side 1 af 9     
+REDEGØRELSE 
+Lint togsæt afsporet ved Hørdum. 
+HCLJ 610-2012-6 
+Ulykke 
+Afsporing 
+Togkørsel 
+Dato: 
+03-06-2011 
+Tidspunkt 
+23:10 
+Sted 
+Hørdum 
+Infrastrukturforvalter: 
+Banedanmark 
+Jernbanevirksomhed: 
+Arriva 
+Personskade: 
+Ingen 
+1 
+Hændelse 
+Fredag den 3. juni kl. 22:43 afgik tog 5568 fra Thisted mod Struer. Toget bestod af Lint 41 togsæt 
+med Arriva litra nr. 1015. Knap 2 km efter Hørdum station afsporede togsættets bagerste bogie i 
+overkørsel 160 og kørte ca. 125 meter inden standsning. Der kom ingen personer til skade ved 
+hændelsen. 
+Postadresse: 
+boh@havarikommissionen.dk 
+Langebjergvænget 21 
+Telefon: 
+Telefax: 
+CVR nr. 25775910 
+uheld@havarikommissionen.dk 
+4000 Roskilde 
+38 71 10 66 
+38 71 92 31 
+EAN nr. 5798000893344 
+www.havarikommissionen.dk 
+
+## Página 2
+
+## 2 
+### Fakta  
+2.1 
+Hændelsesforløb 
+Fredag den 3. juni kl. 22:43 afgik tog 5568 fra Thisted mod Struer. Toget var dagens sidste tog fra 
+Thisted mod Struer, og var stort set fyldt med passagerer på vej hjem efter et arrangement i Thisted.  
+Ca. kl. 23:06 og knap 1½ km efter Hørdum station (se bilag 1, oversigtskort Hørdum) ramte dele fra 
+togsættet skærverne mellem skinnerne. Akselvendegear (AVG) fra bagerste bogie i kørselsretningen 
+(frontbogie på Lint 1015A) var gået løst fra gearets transmission, faldet ned og havde ramt 
+skærverne mellem skinnerne adskillige gange. Efter ca. 180 meters kørsel passerede toget overkørsel 
+160. Ved passage af overkørslen ramte togets gear overkørselsfliserne. Flisestykkerne blev skubbet 
+mellem skinne og hjul, og afsporede begge aksler på togsættets bagerste bogie umiddelbart efter 
+overkørsel 160. Efter yderligere ca. 125 meters kørsel standsede togsættet godt 6 meter efter 
+overkørsel 159 (se bilag 2, oversigtskort, uheldssted). 
+2.2 
+Involveret materiel 
+Toget bestod af Lint 41 AR1, med Arriva litra nr. 1015, vognnummer EVN 95 86 001 1015 8 (A-
+enden, den afsporede ende) og vogn nummer 95 86 002 1015 6. Den afsporede bogie havde nr: 
+1061TD115. 
+2.3 
+Omkomne, kvæstede og skader i øvrigt 
+Der var ingen tilskadekommende passagerer eller medarbejdere. 
+Der var betydelige skader på togsættet, specielt på bagerste bogie, gear, vognkasse / ophæng, samt 
+skader på motoren. Omfanget af skader er blevet vurderet til omkring 1.350.000 kr. 
+Der var betydelige skadet på infrastruktur. Overkørselsfliser i overkørsel 160 er totalt knuste, sveller 
+samt befæstelse på ca. 200 meter spor ødelagt, og overkørselsfliser i overkørsel 159 beskadiget. 
+Omfanget af skader er blevet vurderet til omkring 150.000 kr. 
+## 3 
+### Undersøgelser 
+3.1 
+Tekniske undersøgelser 
+Ved besigtigelse på værkstedet i Struer kunne det konstateres at der inden afsporingen sandsynligvis 
+havde manglet op til 10 af 12 bolte på det ene gear (fig. 2), idet der var synligt "skidt" i bolthullerne. 
+Vedr. de sidste 2 bolte sad rester af de knækkede bolte stadig i gearet på toget. På det andet gear på 
+samme bogie var alle 12 bolte så løse at de kunne drejes uden brug af værktøj, og der var løbet olie 
+ud af gearet (fig. 3). 
+
+## Página 3
+
+Ved efterfølgende besigtigelse af udgangsstation (Thisted) fandtes ingen af de manglende bolte fra 
+AVG. Der var heller ingen af de manglende bolte blandt de dele af gear og kardan som blev fundet 
+på strækningen forud for afsporingen. 
+Sporet blev efterset ca. 500 meter tilbage fra første findested af dele fra gear uden at finde flere 
+yderligere dele.  
+
+## Página 4
+
+Ved efterfølgende undersøgelser af kardanaksel leddene kunne der ikke konstateres noget tegn på at 
+kardan krydsene skulle have været varme eller andre tegn på lejehavari, eller konstateres nogen 
+defekter på kardankrydsenes svejsninger. 
+Gear på Lint-togsæt blev vedligeholdt hos ekstern underleverandør (UL). Gearet blev sendt til 
+reparation i april 2010 pga. skader på gearets spidshjul. Reparationen var afsluttet den 28. maj 2010, 
+hvor gear efterfølgende blev leveret færdigmonteret på akslen fra UL til Arriva. Hos Arriva lå gear 
+og aksel på lager, indtil det blev monteret på Lint 1015 i maj 2011. Togsættet blev frigivet fra 
+værkstedet til drift 1. juni 2011. Toget havde kørt 1771 km efter idriftsættelse da uheldet skete. 
+UL oplyser at værkstedet ca. 1 måned før gearet blev repareret havde indført brug af Logtite ved 
+montage af de bolte på gear, AVG og kardanled, som skulle spændes med moment. UL har oplyst at 
+dette skyldes konstateringer af at bolte til lejedæksler var gået løse i drift. Brug af Logtite omfattede 
+alle bolte på gear som skulle spændes med moment, og dermed også boltene til montage af AVG 
+som skulle spændes med 180 Nm. 
+3.2 
+Interview af involverede 
+Lokomotivføreren (lkf) har forklaret at han hørte mislyde fra undervogn og rystelser ved kørsel i 
+kurve, da togsættet tidligere på dagen kørte fra Struer til Thisted. Lkf kontaktede på det tidspunkt 
+Arrivas Lki-vagt, hvor de blev enige om at lydene skyldes manglende flangesmøring, idet lydene 
+ikke kunne høres ved kørsel på lige strækning. Efter ankomst til Thisted kunne gearet ikke vende 
+retning. Lkf midstillede (elektronisk) gearet uden problemer. 
+Der var ikke yderligere personale på toget ud over lkf. 
+Et vidne har til Havarikommissionen forklaret at der lød høje og unormale lyde lige fra toget kørte 
+fra Thisted. Umiddelbart før afsporingen var der voldsom larm / højt brag fra undervogn, og der kom 
+nogle kraftige ryk i vognen. Vidnet trak derefter i nødbremsen og toget standsede. 
+Det var ikke muligt at interviewe den håndværker som havde gennemført reparationen på gearet i 
+maj 2010, da denne ikke mere arbejdede hos underleverandøren.  
+3.3 
+Tidligere hændelser af lignende art 
+Ingen kendte på Lint 41. Producenten, som er en af europas store leverandører af transmissioner til 
+bl.a. jernbanemateriel, off- og onroad køretøjer og søfart, har oplyst at de ikke har kendskab til 
+tilsvarende hændelser. 
+## 4 
+### Analyse 
+4.1 
+Gennemgang af hændelsesforløbet 
+Togsættet (Lint 1015) havde fået skiftet aksler og gear i A-enden og blev sat i drift den 1. juni 2011.  
+
+## Página 5
+
+Ved kørsel tidligere på hændelsesdagen fra Struer til Thisted, hørte lkf mislyde fra undervogn og 
+mærkede rystelser ved kørsel i kurve. Efter ankomst til Thisted kunne AVG ikke skifte køreretning. 
+Lkf midstillede (elektronisk) gearet uden problemer, og kørte senere retur mod Struer. 
+Ved besigtigelse på strækningen kunne der konstateres ødelagte dele fra gear og kardanled startende 
+406 meter før toget holdt stille (km 52.493). Toget holdt stille efter afsporingen i km 52.087 (togets 
+bagende). Der kunne konstateres nedslagsmærker i skærverne fra 319 meter før toget holdt stille (se 
+fig. 4). I km. 52.305 lå dele fra den korte kardanaksel (se bilag 2, oversigtskort uheldssted). 
+
+## Página 6
+
+Betondæksler i overkørsel 160 mellem sporet var flået op af AVG, som lå lige efter overkørsel 160 
+(fig. 5). AVG var tabt / revet umiddelbart efter eller samtidig med afsporingen - ca. 125 meter før 
+toget holdt stille. Ca. 50 meter længere fremme i kørselsretningen lå dele fra den lange kardanaksel. 
+Der var tydelige og voldsomme slagmærker midt i sporet fra ca. km 52.407 (fig. 3), og frem til toget 
+holder stille. Det vurderes at afsporingen skyldes AVG, der som følge af manglende bolte var blevet 
+adskilt, og faldet ned i sporet. Gear / kardanaksel havde derefter ramt betonklodser mellem sporet i 
+usikret overkørsel 160 - og revet betonklodserne op. Betonklodserne er skubbet op mellem 
+skinneoverkant og hjul, og har afsporet bogien umiddelbart (4 - 6 meter) efter overkørsel 160. Toget 
+har kørt knap 130 meter inden det holdt stille lige efter overkørsel 159. 
+Ved undersøgelser af kardanaksel leddene kunne der ikke konstateres noget tegn på at kardan 
+krydsene skulle have været varme / tegn på lejehavari, eller konstateres nogen defekter på kardan 
+krydsenes svejsninger. Dette indikerer at skaderne på kardan akslerne / kardanaksel leddene er 
+følgeskader og ikke årsag til hændelsen. 
+## 5 
+### Konklusion 
+Havarikommissionen vurderer at årsagen til afsporingen skyldes at AVG gik løs fra selve gearet og i 
+overkørsel 160 forårsagede afsporingen, samt at årsagen til at gearet gik løs skyldes at gearet i 
+forbindelse med reparation ikke blev tilspændt i henhold til vedligeholdelsesforeskrifterne 
+(manglende efterspænding med korrekt moment). Havarikommissionen vurderer også at hændelsen 
+er et enkeltstående tilfælde. 
+
+## Página 7
+
+## 6 
+### Allerede trufne foranstaltninger 
+Umiddelbart efter hændelsen gennemførte Arriva øjeblikkelig kontrol af alle Lint togsæt som havde 
+fået skiftet AVG, samt efterfølgende kontrol af gearene på resten af Lint flåden. 
+Derudover har UL skærpet deres udsynskontrol så moment, identifikation af momentværktøj og 
+kvittering / navn på udførende håndværker noteres på det kontrolskema som leveres med gear og 
+aksel. 
+Arriva har opdateret deres indsynskontrol ved leverance af gear og aksler, så kontrolskema 
+gennemgås og underskrives af værkstedslederen. 
+## 7 
+### Sikkerhedsmæssige rekommandationer 
+Hændelsen og de foreliggende oplysninger giver ikke anledning til rekommandationer af 
+forebyggelsesmæssig karakter. 
+## 8 
+### Bilag 
+1. 
+Oversigtskort, Hørdum. 
+2. 
+Oversigtskort, uheldssted. 
+
+## Página 8
+
+Bilag 1, oversigtskort Hørdum 
+
+## Página 9
+
+Bilag 2, oversigtskort, uheldssted.

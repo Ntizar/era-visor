@@ -1,0 +1,97 @@
+---
+pais: FI
+anio: 2008
+idioma: ??
+pdf: C1-2009R-DataSummary.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/C1-2009R-DataSummary.pdf
+md5_pdf: bc53c41bcb81686e16c9aa0a621601d3
+paginas: 1
+chars: 1366
+tablas: 0
+cuerpo: "10.6pt; encabezados 1 niveles"
+rotulos_excluidos: "0 ()"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 0
+fecha_proceso: 2026-11-18
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+YHTEENVETOTAULUKKO – SAMMANFATTNING – DATA SUMMARY 
+Aika: 
+30.12.2008 
+Tidpunkt för händelsen: 
+Date and time: 
+Paikka: 
+Korvensuo–Haarajoki, rataosa Kerava–Hakosilta 
+Plats: 
+Korvensuo–Haarajoki, banavsnitt Kervo–Hakosilta 
+Location: 
+Korvensuo–Haarajoki, Kerava Hakosilta section of line 
+Onnettomuustyyppi: 
+Vaaratilanne; JKV:n antama väärä opastintieto 
+Typ av olycka: 
+Tillbud, inkorrekt signaldata av ATP 
+Type of accident: 
+Incident, wrong signal information of the ATP 
+Junan tyyppi ja numero: 
+Tågtyp och tågnummer: 
+Train type and number: 
+Junassa: 
+Henkilökuntaa: 
+Antalet personer ombord: 
+Personal: 
+Persons on board:  
+Crew: 
+Matkustajia: 
+Passagerare: 
+Passengers: 
+Henkilövahingot: 
+Kuollut: 
+Henkilökuntaa: 
+Personskador: 
+Dödsfall: 
+Personal: 
+Injuries: 
+Fatally injured: 
+Crew: 
+Matkustajia: 
+Passagerare: 
+Passengers: 
+Vakavasti loukkaantunut:
+Henkilökuntaa: 
+Allvarligt skadats: 
+Personal: 
+Seriously injured: 
+Crew: 
+Matkustajia: 
+Passagerare: 
+Passengers: 
+Lievästi loukkaantunut: 
+Henkilökuntaa: 
+Lindrigt skadats: 
+Personal: 
+Slightly injured: 
+Crew: 
+Matkustajia: 
+Passagerare: 
+Passengers: 
+Kalustovauriot: 
+Ei. 
+Skador på fordon: 
+Inga 
+Damages of rolling stock: 
+None. 
+Ratavauriot: 
+Ei. 
+Skador på spåranläggning: 
+Inga. 
+Damages on track equipment: 
+None. 
+Muut vauriot: 
+Ei. 
+Övriga skador: 
+Inga. 
+Other damages: 
+None.

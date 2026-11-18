@@ -1,0 +1,1785 @@
+---
+pais: FI
+anio: 2010
+idioma: EN
+pdf: B3-2010R-Report.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/B3-2010R-Report.pdf
+md5_pdf: aa9d98f7ee518f1896c327254e82115a
+paginas: 57
+chars: 102856
+tablas: 0
+cuerpo: "10.6pt; encabezados 2 niveles"
+rotulos_excluidos: "78 (b#/#r, kuolemaan johtanut tasoristeysonnettomuus karjaalla #.#.#)"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 12
+fecha_proceso: 2026-11-18
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+Tutkintaselostus 
+B3/2010R 
+Kuolemaan johtanut tasoristeysonnettomuus Karjaalla 
+14.4.2010 
+Tämä tutkintaselostus on tehty turvallisuuden parantamiseksi ja uusien onnettomuuksien ennalta ehkäisemiseksi. 
+Tässä ei käsitellä onnettomuudesta mahdollisesti johtuvaa vastuuta tai vahingonkorvausvelvollisuutta. Tutkin-
+taselostuksen käyttämistä muuhun tarkoitukseen kuin turvallisuuden parantamiseen on vältettävä. 
+
+## Página 2
+
+### Onnettomuustutkintakeskus 
+### Centralen för undersökning av olyckor 
+### Accident Investigation Board 
+Osoite / Address: 
+Sörnäisten rantatie 33 C 
+Adress: 
+Sörnäs strandväg 33 C 
+FIN-00500 HELSINKI 
+00500 HELSINGFORS 
+Puhelin / Telefon: 
+(09) 1606 7643 
+Telephone: 
++358 9 1606 7643 
+Fax: 
+(09) 1606 7811 
+Fax: 
++358 9 1606 7811 
+Sähköposti: 
+onnettomuustutkinta@om.fi  tai  etunimi.sukunimi@om.fi 
+E-post: 
+onnettomuustutkinta@om.fi  eller  förnamn.släktnamn@om.fi 
+Email: 
+onnettomuustutkinta@om.fi  or  first name.last name@om.fi 
+Internet: 
+www.onnettomuustutkinta.fi 
+Henkilöstö / Personal / Personnel: 
+Johtaja / Direktör / Director  
+Veli - Pekka Nurmi 
+Hallintopäällikkö / Förvaltningsdirektör / Administrative Director 
+Pirjo Valkama-Joutsen 
+Osastosihteeri / Avdelningssekreterare / Assistant 
+Sini Järvi 
+Toimistosihteeri / Byråsekreterare / Assistant 
+Leena Leskelä 
+Ilmailuonnettomuudet / Flygolyckor / Aviation accidents 
+Johtava tutkija / Ledande utredare / Chief Air Accident Investigator  
+Hannu Melaranta (vv) 
+Markus Bergman 
+Erikoistutkija / Utredare / Air Accident Investigator 
+Tii-Maria Siitonen 
+Raideliikenneonnettomuudet / Spårtrafikolyckor / Rail accidents 
+Johtava tutkija / Ledande utredare / Chief Rail Accident Investigator 
+Esko Värttiö 
+Erikoistutkija / Utredare / Rail Accident Investigator  
+Reijo Mynttinen 
+Vesiliikenneonnettomuudet / Sjöfartsolyckor / Marine accidents 
+Johtava tutkija / Ledande utredare / Chief Marine Accident Investigator  
+Martti Heikkilä 
+Erikoistutkija / Utredare / Marine Accident Investigator  
+Risto Repo 
+Muut onnettomuudet / Övriga olyckor / Other accidents 
+Johtava tutkija / Ledande utredare / Chief Accident Investigator   
+Kai Valonen 
+
+## Página 3
+
+## TIIVISTELMÄ 
+Raaseporin Karjaalla, Leskinen/Leppämäentien vartioimattomassa tasoristeyksessä tapahtui 
+keskiviikkona 14.4.2010 kello 16.47 kuolemaan johtanut tasoristeysonnettomuus. Onnettomuus 
+tapahtui, kun tasoristeyksen lähellä olevalta metsänhakkuutyömaalta poistuva maastohenkilöauto 
+ajoi tasoristeyksessä Hangosta Karjaalle matkalla olleen taajamajunan (kiskobussin) alle. Henki-
+löautossa oli ainoastaan kuljettaja, joka kuoli välittömästi onnettomuudessa saamiinsa vammoi-
+hin. Onnettomuudessa raidekalustolle aiheutuneet kustannukset olivat 94 500 euroa. Maastohen-
+kilöauto romuttui täysin. 
+Onnettomuuden syynä oli se, että auton kuljettaja havaitsi junan liian myöhään eikä enää ehtinyt 
+pysähtyä ennen tasoristeystä.  
+Taustatekijöinä tähän olivat: 
+- kuljettajan tarkkaavaisuus oli todennäköisesti suuntautunut muuhun kuin tasoristeyksen 
+turvalliseen ylittämiseen 
+- tasoristeys oli kuljettajalle melko tuttu, mikä yleensä vähentää varovaisuutta tasoristeyk-
+seen saavuttaessa 
+- tasoristeyksessä ei ollut varoituslaitteita 
+- tien nousu tasoristeykseen, odotustasanteiden puute, ratapenkereen korkeus ja tien varren 
+puusto vaikeuttivat kuljettajan ajotehtävää ja heikensivät mahdollisuutta tasoristeyksen tur-
+valliseen ylittämiseen. 
+Vastaavanlaisten onnettomuuksien välttämiseksi tutkintalautakunta suosittaa, että Leski-
+nen/Leppämäen tasoristeys tulisi korvata eritasoliittymällä. Lisäksi lautakunta toistaa tutkin-
+taselostuksessa B1/2005R esitetyn suosituksen S211 suorasta matkapuhelinyhteydestä onnet-
+tomuuspaikalta hätäkeskukseen. 
+## SAMMANDRAG 
+## PLANKORSNINGSOLYCKA MED DÖDLIG UTGÅNG I KARIS 14.4.2010 
+En plankorsningsolycka med dödlig utgång inträffade vid en obevakad plankorsning vid Leski-
+nen/Albackavägen i Raseborg, Karis onsdagen den 14 april 2010 klockan 16.47. Olyckan inträf-
+fade då en terrängpersonbil som kom från en skogsavverkningsplats nära plankorsningen blev 
+påkörd i plankorsningen av ett lokaltåg (rälsbuss) på väg från Hangö till Karis. I personbilen fanns 
+endast föraren som omkom omedelbart av skadorna från olyckan. De kostnader som olyckan 
+förorsakade på spårmaterielen uppgick till 94 500 euro. Terrängpersonbilen förstördes fullstän-
+digt. 
+Orsaken till olyckan var att bilens förare upptäckte tåget för sent och inte hann stanna före plan-
+korsningen.  
+Följande faktorer bidrog till detta: 
+I
+
+## Página 4
+
+- föraren hade troligen sin uppmärksamhet riktad på någonting annat än att passera genom 
+plankorsningen på ett säkert sätt 
+- plankorsningen var tämligen bekant för föraren vilket i allmänhet minskar försiktigheten när 
+man kommer till en plankorsning 
+- plankorsningen saknade varningsanordningar 
+- vägen gick uppför fram till plankorsningen, viloplanerna saknades, banvallen var hög och 
+det fanns träd vid vägen som försvårade förarens köruppgift och försämrade möjligheten att 
+korsa plankorsningen på ett säkert sätt. 
+För att förebygga motsvarande olyckor rekommenderar undersökningskommissionen att plan-
+korsningen vid Leskinen/Leppämäki borde med en planskild anslutning. Dessutom upprepar kom-
+missionen rekommendationen S211 i undersökningsrapporten B1/2005R om direkt mobiltelefon-
+kontakt mellan en olycksplats och nödcentralen. 
+## SUMMARY 
+## FATAL LEVEL CROSSING ACCIDENT IN KARJAA, FINLAND, ON 14 APRIL 2010 
+On Wednesday 14 April 2010 at 4.47pm, a fatal level crossing accident occurred on the Leski-
+nen/Leppämäentie unprotected level crossing in Raasepori, Karjaa. The accident occurred when 
+an SUV1 leaving a nearby logging site collided with a commuter train (railbus) en route from 
+Hanko to Karjaa.  The only person in the SUV was the driver, who died immediately. The damage 
+caused by the accident to track equipment amounted to € 94,500. The SUV was wrecked beyond 
+repair. 
+The accident occurred because the car driver observed the approaching train too late and was no 
+longer able to stop before the level crossing.  
+The factors contributing to this were: 
+- The driver was probably focused on something other than making a safe crossing. 
+- The crossing was quite familiar to the driver, which usually reduces vigilance when ap-
+proaching.  
+- The level crossing was not equipped with warning installations. 
+- Driving and a safe crossing were hindered by the road being on an incline, the lack of wait 
+platforms, high track embankment and trees surrounding the road. 
+In order to prevent similar accidents, the investigation commission recommends that the Leski-
+nen/Leppämäki unprotected level crossing should be replaced by an interchange. In addition, the 
+investigation commission reiterates recommendation S211 presented in investigation report 
+1 Sports Utility Vehicle 
+II
+
+## Página 5
+
+B1/2005R concerning the establishment of a direct mobile phone connection from accident site to 
+the emergency response centre. 
+III
+
+## Página 6
+
+## YHTEENVETOTAULUKKO – SAMMANFATTNING – DATA SUMMARY  
+Aika: 
+Tidpunkt för händelsen: 
+14.4.2010, 16.47 
+Date and time: 
+Paikka: 
+Karjaa, Leskinen/Leppämäentien tasoristeys, vartioimaton 
+Plats: 
+Karjaa, Leskinen/Leppämentie plankorsning, obevakad 
+Location: 
+Karjaa, Leskinen/Leppämäentie level crossing, unprotected 
+Onnettomuustyyppi: 
+Tasoristeysonnettomuus, taajamajuna – henkilöauto 
+Typ av olycka: 
+Olycka i plankorsning, lokaltåg – personbil 
+Type of accident: 
+Level crossing accident,  commuter train - car 
+Junan tyyppi ja numero: 
+Taajamajuna 389, Dm12-dieselmoottorivaunu  
+Tågtyp och tågnummer: 
+Regionaltåg 389, Dm12-rälsbuss 
+Train type and number: 
+Commuter train 389, Dm12-railbus 
+Ajoneuvo: 
+Maastohenkilöauto Mitsubishi PAJERO, vuosimallia 1993 
+Fordon: 
+Terrängpersonbil Mitsubishi PAJERO, årsmodell 1993 
+Road vehicle: 
+SUV Mitsubishi PAJERO, model 1993 
+Junassa, I tåget, In the 
+Ajoneuvossa, I fordonet, 
+train 
+In the road vehicle 
+Junassa ja ajoneuvossa: 
+Henkilökuntaa: 
+Antalet personer ombord: 
+Personal: 
+3 
+1 
+Persons on board: 
+Crew: 
+Matkustajia: 
+Passagerare: 
+~ 30–40 
+0 
+Passengers: 
+Kuollut: 
+Henkilökuntaa: 
+Dödsfall: 
+Personal: 
+0 
+1 
+Fatally injured: 
+Crew: 
+Matkustajia: 
+Passagerare: 
+0 
+0 
+Passengers: 
+Vakavasti loukkaantunut:
+Henkilökuntaa: 
+Allvarligt skadats: 
+Personal: 
+0 
+0 
+Seriously injured: 
+Crew: 
+Matkustajia: 
+Passagerare: 
+0 
+0 
+Passengers: 
+Lievästi loukkaantunut: 
+Henkilökuntaa: 
+Lindrigt skadats: 
+Personal: 
+0 
+0 
+Slightly injured: 
+Crew: 
+Matkustajia: 
+Passagerare: 
+0 
+0  
+Passengers: 
+Kalustovauriot: 
+Taajamajunan keula vaurioitui, maastohenkilöauto romuttui täysin. 
+Skador på fordon: 
+Regionaltågets front skadades, terrängpersonbilen förstördes fullständigt. 
+Damages of rolling stock: 
+The front of the commuter train was damaged; the SUV was wrecked beyond repair. 
+Ratavauriot: 
+Ei. 
+Skador på spåranläggning: 
+Inga. 
+Damages on track equipment: 
+None. 
+Muut vauriot: 
+Ei. 
+Övriga skador: 
+Inga. 
+Other damages: 
+None. 
+IV
+
+## Página 7
+
+## ALKUSANAT 
+Karjaalla 14.4.2010 sattuneen tasoristeysonnettomuuden selvittämiseksi Onnettomuustutkinta-
+keskus asetti onnettomuuksien tutkinnasta annetun lain (373/1985) 5 §:n nojalla tutkintalautakun-
+nan tutkimaan onnettomuutta. Tutkintalautakunnan puheenjohtajaksi nimitettiin Onnettomuustut-
+kintakeskuksen asiantuntija, tutkija Kati Hernetkoski ja jäseniksi Onnettomuustutkintakeskuksen 
+asiantuntijat, tutkija Jari Auvinen sekä ylikonstaapeli Tuomo Markoff. 
+Onnettomuustutkintakeskus on tutkinut vuoden 2007 alusta lähtien kaikki ajoneuvoille tapahtu-
+neet kuolemaan johtaneet tasoristeysonnettomuudet kesäkuussa 2006 voimaan tulleen rautatie-
+turvallisuusdirektiivin mukaisesti. Myös Vakuutusyhtiöiden liikenneturvallisuustoimikunnan (VALT) 
+liikenneonnettomuuksien tutkijalautakunnat tutkivat tie- ja maastoliikenneonnettomuuksista anne-
+tun lain (24/2001) mukaisesti kaikki kuolemaan johtaneet liikenneonnettomuudet. 
+Tässä tutkintaselostuksessa esitetään tapahtumat ennen onnettomuutta, törmäyshetkellä ja sen 
+jälkeen. Lisäksi siinä käsitellään pelastustoiminnan kulkua ja analysoidaan onnettomuuteen vai-
+kuttaneita syitä. Lopuksi esitetään turvallisuussuosituksia, jotka toteuttamalla vastaavanlaiset 
+onnettomuudet voitaisiin mahdollisesti välttää tai lieventää niiden seurauksia. Tutkinnan tarkoi-
+tuksena on turvallisuuden parantaminen, joten syyllisyys- ja vahingonkorvauskysymyksiin ei oteta 
+kantaa. 
+Tutkintalautakunnan yksi jäsen kävi onnettomuuspaikalla tapahtumapäivänä kaksi tuntia onnet-
+tomuuden jälkeen. Koko lautakunta kävi onnettomuuspaikalla 16.4.2010 ja suoritti tuolloin paikka-
+tutkinnan. Paikkatutkinnan yhteydessä suoritettiin erillinen onnettomuusajoneuvon silmämääräi-
+nen tarkastus karjaalaisen hinausyrityksen kalustohallissa. Tutkintalautakunta oli myös mukana 
+31.5.2010 normaaliliikenteessä olleen taajamajunan ohjaamossa välillä Tammisaari–Karjaa–
+Tammisaari. Lautakunta dokumentoi matkan sekä video- että digitaalisella kameralla molempiin 
+suuntiin eli Tammisaaresta Karjaalle ja Karjaalta Tammisaareen. Länsi-Uudenmaan poliisilaitos 
+suoritti onnettomuuden esitutkinnan ja laati onnettomuudesta esitutkintapöytäkirjan. Länsi-
+Uudenmaan tekninen rikostutkimuskeskus suoritti onnettomuuden teknisen tutkinnan ja onnetto-
+muuspaikan dokumentoinnin. Uudenmaan liikenneonnettomuuksien tutkijalautakunta suoritti on-
+nettomuudesta tie- ja maastoliikenneonnettomuuksia koskevan lain mukaisen tutkinnan. Edellä 
+mainitut aineistot ovat olleet myös tutkintalautakunnan käytössä. 
+Tämä tutkintaselostus on ollut lausunnolla liikenne- ja viestintäministeriössä, Liikenteen turvalli-
+suusvirastossa (Trafi), Liikennevirastossa, VR-Yhtymä Oy:ssä, sisäasiainministeriön pelastus-
+osastolla, Hätäkeskuslaitoksessa sekä Raaseporin kaupungissa. Lausunnot ovat tutkintaselos-
+tuksen liitteessä 1. Lisäksi asianosaiset ovat saaneet kommentoida tutkintaselostusta. Tutkin-
+taselostukseen on tehty muutoksia ja tarkennuksia lausuntojen ja kommenttien perusteella. 
+Tutkintamateriaalista on luettelo tämän tutkintaselostuksen lopussa. Lähdemateriaalia säilytetään 
+Onnettomuustutkintakeskuksessa.  
+Tämä tutkintaselostus on myös Onnettomuustutkintakeskuksen internet-sivuilla osoitteessa 
+www.onnettomuustutkinta.fi. 
+V
+
+## Página 8
+
+Tutkintaselostuksen tiivistelmä, alkusanat, yhteenvetotaulukko, johtopäätökset, toteutetut toimen-
+piteet ja turvallisuussuositukset sekä kuvien, kaavioiden ja taulukoiden otsikkotekstit ovat suomen 
+lisäksi myös ruotsiksi ja englanniksi. 
+## FÖRORD 
+Centralen för undersökning av olyckor tillsatte en undersökningskommission enligt 5 § i lagen om 
+undersökning av olyckor (373/1985) för att undersöka den plankorsningsolycka som inträffade i 
+Karis 14.4.2010. Till ordförande för undersökningskommissionen utsågs experten vid Centralen 
+för undersökning av olyckor, utredaren Kati Hernetkoski och till medlemmar experterna vid Cen-
+tralen för undersökning av olyckor, utredaren Jari Auvinen och överkonstapel Tuomo Markoff. 
+Centralen för undersökning av olyckor har från början av 2007 undersökt alla fordonsolyckor i 
+plankorsningar med dödlig utgång enligt direktivet om järnvägssäkerhet som trädde i kraft i juni 
+2006. Undersökningskommissionerna för trafikolyckor vid Försäkringsbolagens trafiksäkerhets-
+kommitté (VALT) undersöker alla trafikolyckor som leder till dödsfall i enlighet med lagen om un-
+dersökning av trafikolyckor på väg och i terräng (24/2001). 
+I denna undersökningsrapport beskrivs händelserna före olyckan, vid kollisionsögonblicket och 
+efter kollisionen. Dessutom behandlas räddningsverksamhetens förlopp samt analyseras de or-
+saker som ledde till olyckan. Till slut lämnas säkerhetsrekommendationer om åtgärder som kunde 
+förhindra motsvarande olyckor eller lindra följderna av olyckorna. Avsikten med undersökningen 
+är att förbättra säkerheten, och därför tas ingen ställning till skuld- eller skadeståndsfrågor.  
+En medlem i undersökningskommissionen besökte olyckplatsen samma dag som olyckan inträf-
+fade, två timmar efter olyckan. Hela kommissionen besökte olycksplatsen 16.4.2010 och utförde 
+då en platsundersökning. I samband med platsundersökningen utfördes en separat visuell kon-
+troll av olycksfordonet i en fordonshall som tillhör ett bärgningsföretag i Karis. Den 31 maj 2010 
+var undersökningskommissionen också i förarhytten på ett lokaltåg på sträckan Ekenäs–Karis–
+Ekenäs när tåget körde i normaltrafik. Kommissionen dokumenterade resan både med video- och 
+digitalkamera i båda riktningarna, dvs. från Ekenäs till Karis och från Karis till Ekenäs. Polisinrätt-
+ningen i Västra Nyland utförde en förundersökning av olyckan och upprättade ett förundersök-
+ningsprotokoll om denna. Västra Nylands tekniska brottsundersökningscentral utförde en teknisk 
+undersökning av olyckan och dokumenterade olycksplatsen. Kommissionen för undersökning av 
+trafikolyckor i Nyland utförde en undersökning av olyckan i enlighet med lagen om undersökning 
+av trafikolyckor på väg och i terräng. Även undersökningskommissionen har haft tillgång till det 
+ovan angivna materialet. 
+Denna olycksfallsutredning har varit ute på remiss hos kommunikationsministeriet, Trafiksäker-
+hetsverket, Trafikverket, VR-Group Ab, inrikesministeriets räddningsavdelning, Nödcentralsverket 
+och Raseborg stad. Utlåtandena finns i undersökningsrapportens bilaga 1. Dessutom har sak-
+ägarna fått kommentera undersökningsrapporten. I undersökningsrapporten har ändringar och 
+preciseringar gjorts utifrån utlåtandena och kommentarerna. 
+En förteckning över undersökningsmaterialet finns i slutet av denna undersökningsrapport. Un-
+dersökningsmaterialet förvaras vid Centralen för undersökning av olyckor.  
+VI
+
+## Página 9
+
+Denna undersökningsrapport finns också på de webbsidor som upprätthålls av Centralen för un-
+dersökning av olyckor, www.onnettomuustutkinta.fi. 
+Sammandrag av utredningsrapporten, förordet, sammanfattningstabellen, slutsatserna, vidtagna 
+åtgärderna, säkerhetsrekommendationerna samt texterna till bilderna, scheman och tabellerna 
+finns förutom på finska även på svenska och engelska. 
+## PREFACE 
+In accordance with legislation currently in force (373/1985), the Accident Investigation Board ap-
+pointed an investigation commission to investigate the accident that occurred in Karjaa on 14 
+April 2010. AIB Researcher Kati Hernetkoski was appointed investigator-in-charge, and AIB ex-
+perts, senior police sergeant Tuomo Markoff and investigator Jari Auvinen were appointed as 
+members of the commission. 
+In accordance with the EU Railway Safety Directive in force since June 2006, the Accident Inves-
+tigation Board has investigated all fatal level crossing accidents involving road vehicles since the 
+start of 2007. In accordance with the relevant legislation on the matter (24/2001), the traffic acci-
+dent investigation teams of the Traffic Safety Committee of Insurance Companies VALT also in-
+vestigate all fatal road and terrain accidents in Finland. 
+This investigation report presents the events before, during and after the accident. Moreover, it 
+discusses the progress of the rescue operation and analyses the factors that had an impact on 
+the accident. Lastly, this report presents safety recommendations that could provide assistance in 
+averting similar accidents or alleviating their consequences. The objective of this investigation is 
+the promotion of safety, meaning that no conclusions are drawn concerning responsibilities or 
+compensation for damages. 
+A member of the investigation commission visited the accident site two hours after the accident. 
+The full investigation team visited the accident site on 16 April 2010, and also completed an on-
+site investigation. The on-site investigation included visual inspection of the car at the premises of 
+a Karjaa-based towing company. The investigation commission on 31 May 2010 also rode in the 
+cabin of a commuter train driving along the Tammisaari-Karjaa-Tammisaari route. The commis-
+sion recorded the trip on video and digital camera in both directions, i.e. from Tammisaari to Kar-
+jaa and from Karjaa to Tammisaari. The Länsi-Uusimaa police completed a preliminary accident 
+investigation and prepared a preliminary accident report. The Länsi-Uusimaa technical criminal 
+investigation centre completed a technical investigation and documented the accident site. In ad-
+dition, the Uusimaa road accident investigation team of VALT completed an investigation of the 
+accident, as stipulated in the relevant legislation on road and terrain traffic accidents. The docu-
+mentation mentioned above was also at the disposal of the investigation commission. 
+This report has been circulated for comments within the Ministry of Transport and Communica-
+tions, the Finnish Transport Safety Agency, the Finnish Transport Agency, VR Group Ltd, the 
+Rescue Department of the Ministry of the Interior, the Emergency Response Centre Administra-
+tion and Raasepori Town. The statements can be found in annex 1 of the investigation report. 
+VII
+
+## Página 10
+
+The involved parties were given the opportunity to comment on the investigation report. The text 
+of this investigation report has been amended based on the statements and comments received. 
+Investigation material is listed at the end of this investigation report. The material has been ar-
+chived by the Accident Investigation Board.  
+This investigation report can also be found on the Accident Investigation Board’s website at 
+www.onnettomuustutkinta.fi. 
+The summary, data summary, introduction, conclusions, measures that have been taken and 
+recommendations, as well as the legends for the figures, charts and tables of this report are also 
+available in Swedish and English. 
+VIII
+
+## Página 11
+
+## SISÄLLYSLUETTELO 
+TIIVISTELMÄ......................................................................................................................................I 
+SAMMANDRAG..................................................................................................................................I 
+SUMMARY ........................................................................................................................................II 
+YHTEENVETOTAULUKKO – SAMMANFATTNING – DATA SUMMARY..................................... IV 
+ALKUSANAT .................................................................................................................................... V 
+FÖRORD ......................................................................................................................................... VI 
+PREFACE....................................................................................................................................... VII 
+1 ONNETTOMUUS..........................................................................................................................1 
+1.1 Tapahtuma-aika ja -paikka ...................................................................................................1 
+1.2 Tapahtumien kulku ...............................................................................................................1 
+1.3 Onnettomuudesta aiheutuneet vahingot ..............................................................................3 
+1.3.1 Henkilövahingot ..........................................................................................................3 
+1.3.2 Kalusto-, rata- ja laitevauriot.......................................................................................4 
+1.3.3 Ympäristövahingot ......................................................................................................5 
+1.4 Tiedottaminen.......................................................................................................................5 
+2 ONNETTOMUUDEN TUTKINTA .................................................................................................6 
+2.1 Liikennevälineet ....................................................................................................................6 
+2.2 Paikkatiedot ..........................................................................................................................6 
+2.3 Turvalaitteet ..........................................................................................................................9 
+2.4 Viestintävälineet....................................................................................................................9 
+2.5 Olosuhteet...........................................................................................................................10 
+2.6 Onnettomuuteen liittyvät organisaatiot ja henkilöt..............................................................10 
+2.7 Pelastustoimen organisaatiot ja niiden toimintavalmius.....................................................12 
+2.8 Tallenteet ............................................................................................................................13 
+2.8.1 Kulunrekisteröintilaitteet............................................................................................13 
+2.8.2 Liikenteenohjauksen puherekisteri ...........................................................................13 
+2.8.3 Hätäkeskuksen puherekisteri....................................................................................13 
+2.8.4 Muut pelastustoimen tallenteet.................................................................................14 
+2.9 Määräykset ja ohjeet...........................................................................................................14 
+2.10 Poliisin tekemä tutkinta.......................................................................................................15 
+2.11 Muut tutkimukset.................................................................................................................15 
+IX
+
+## Página 12
+
+2.12 Asiakirjat ...................................................................................................................15 
+3 ANALYYSI ..................................................................................................................................15 
+3.1 Onnettomuuden analysointi................................................................................................15 
+3.2 Pelastustoiminnan analysointi............................................................................................18 
+4 JOHTOPÄÄTÖKSET..................................................................................................................19 
+4.1 Toteamukset.......................................................................................................................19 
+4.2 Onnettomuuden syyt ..........................................................................................................19 
+4 SLUTSATSER ............................................................................................................................20 
+4.1 Konstateranden ..................................................................................................................20 
+4.2 Orsaker till olyckan .............................................................................................................20 
+4 CONCLUSIONS .........................................................................................................................21 
+4.1 Statements..........................................................................................................................21 
+4.2 Causes of the occurrence...................................................................................................21 
+5 TOTEUTETUT TOIMENPITEET................................................................................................22 
+5 VIDTAGNA ÅTGÄRDER............................................................................................................22 
+5 MEASURES THAT HAVE BEEN TAKEN..................................................................................22 
+6 TURVALLISUUSSUOSITUKSET...............................................................................................22 
+6 SÄKERHETSREKOMMENDATIONER......................................................................................24 
+6 SAFETY RECOMMENDATIONS...............................................................................................26 
+LÄHDELUETTELO..........................................................................................................................29 
+LIITTEET 
+Liite 1. Lausunnot 
+Liite 2. Tasoristeyksiä koskevat säädökset ja ohjeet 
+X
+
+## Página 13
+
+##  1 
+## ONNETTOMUUS 
+## 1.1 
+### Tapahtuma-aika ja -paikka 
+Onnettomuus tapahtui keskiviikkona 14.4.2010 kello 16.47 Raaseporin Karjaalla Karjaa–
+Hanko -välisellä rataosuudella Leskinen/Leppämäentien vartiomattomassa tasoristeyk-
+sessä ratakilometrillä 161+39. Tasoristeys sijaitsee 3,2 kilometrin päässä Karjaan ase-
+malta Tammisaaren suuntaan. 
+Tasoristeys on yksiraiteisen radan ja yksityistien vartioimaton tasoristeys. Tasoristeyk-
+sen kohdalla radan suurin sallittu nopeus oli 110 km/h ja tien 80 km/h.  
+Kuva 1. Onnettomuus tapahtui Raaseporin Karjaalla Leskinen/Leppämäentien vartioi-
+mattomassa tasoristeyksessä Karjaan ja Hangon välisellä rataosuudella. On-
+nettomuustasoristeys on merkitty punaisella nuolella ja lähimmät tasoristeykset 
+(Sundberg/Hakutie ja Torppari) mustalla nuolella. 
+Bild 1. 
+Olyckan inträffade i en obevakad plankorsning vid Leskinen/Albackavägen i Raseborg, Karis, på 
+banavsnittet mellan Karis och Hangö. Olycksplankorsningen är utmärkt med en röd pil och de 
+närmaste plankorsningarna (Sundberg/Hakutie ja Torppari) med en svart pil. 
+Figure 1. The accident occurred in Raasepori, Karjaa on the Leskinen/Leppämäentie unprotected level 
+crossing along the Karjaa-Hanko section of line. The crossing where the accident took place is 
+marked by the red arrow and crossings in the vicinity (Sundberg/Hakutie and Torppari) by black 
+arrows. 
+## 1.2 
+### Tapahtumien kulku  
+Metsäkonealan yrittäjä oli keskiviikkona 14.4.2010 liikkeellä maastohenkilöautolla. Hä-
+nellä oli omistuksessaan myös puutavara-ajoneuvoyhdistelmiä ja metsätyökoneita. Hän 
+oli aamulla lähtenyt kotoaan noin kello yhdeksän aikaan ja ollut aamupäivän ja osittain il-
+tapäivänkin neuvottelussa työasioissa Nummelassa. Tämän jälkeen hän oli käynyt koto-
+naan Lohjalla ja vaihtanut ylleen metsätöihin sopivat vaatteet. Kuljettaja oli ajanut maas-
+1
+
+## Página 14
+
+tohenkilöautolla Leppämäentien varrella oleviin metsätyökohteisiin. Hän kävi tarkasta-
+massa kyseisiä työkohteita ja selvittämässä, miten niihin pääsee ajoneuvoyhdistelmällä. 
+Tasoristeyksen läheisessä talossa asunut henkilö oli nähnyt auton ajavan läheiselle tuk-
+kipinolle ja jatkavan siitä edelleen matkaa Leppämäentietä eteenpäin. Jonkin ajan kulut-
+tua hän oli nähnyt saman auton ajavan takaisin Leppämäentietä kohti tasoristeystä.  
+Taajamajuna 389 oli lähtenyt Tammisaaresta kohti Karjaata kello 16.37. Aikataulun mu-
+kainen saapumisaika Karjaalle oli kello 16.50. Juna lähestyi Leskinen/Leppämäentien 
+tasoristeystä nopeudella 110 km/h. Kuljettaja antoi junan nopeuden laskea edessä ole-
+van kaarteen vuoksi 100 km/h:iin. Leskinen/Leppämäentien tasoristeys alkaa näkyä ve-
+turinkuljettajalle junan ollessa kaarteen loppuosalla, matkaa tasoristeykseen on tuolloin 
+187 metriä. Saavuttuaan kaarteen jälkeiselle suoralle veturinkuljettaja huomasi vasem-
+malta puiden välistä vihreän maastohenkilöauton, joka lähestyi tasoristeystä tasaisella 
+nopeudella. Kertomansa mukaan veturinkuljettaja käytti vihellintä varoittaakseen auton-
+kuljettajaa lähestyvästä junasta ja aloitti samantien hätäjarrutuksen. Junan ohjaamossa 
+ollut toinen veturinkuljettaja havaitsi lähestyvän auton samanaikaisesti vuorossa olleen 
+veturinkuljettajan kanssa. 
+Veturinkuljettajien kertoman mukaan henkilöauto jatkoi matkaansa kohti tasoristeystä 
+tasaisella nopeudella vihellyksenkin jälkeen. Taajamajuna törmäsi hätäjarrutuksesta 
+huolimatta auton oikeaan etukulmaan ja kylkeen kello 16.46.57. Junan nopeus oli tör-
+mäyshetkellä 99 km/h. Törmäyksen voimasta henkilöauto raahautui junan edessä noin 
+7 metriä, minkä jälkeen auto sinkoutui radan vasemmalle puolella olevalle hakkuuauke-
+alle noin 37 metrin päähän tasoristeyksestä. Taajamajuna pysähtyi hätäjarrutettuna 
+247 metrin päähän tasoristeyksestä. Henkilöauton kuljettaja pysyi autossa ja menehtyi 
+saamiinsa vammoihin välittömästi. Taajamajunan henkilökunta ja matkustajat eivät louk-
+kaantuneet onnettomuudessa. Leppämäentiellä oli 6 metriä pitkä jarrutusjälki, mikä ker-
+too siitä, että autonkuljettaja oli viime hetkellä havainnut oikealta lähestyvän taajamaju-
+nan ja koettanut jarruttamalla estää törmäyksen. 
+2
+
+## Página 15
+
+Kuva 2. Maastohenkilöauto sinkoutui törmäyksen voimasta 30 metrin päähän tasoriste-
+yksestä (auto kuvan oikeassa reunassa). Kuvanottohetkellä juna oli jo peruutta-
+nut takaisin onnettomuuspaikalle. 
+Bild 2. 
+Terrängpersonbilen slungades 30 meter bort från plankorsningen av kraften i kollisionen (bilen 
+finns till höger på bilden). När bilden togs hade tåget redan backat tillbaka till olycksplatsen. 
+Figure 2. The force of the collision thrust the SUV 30 metres away from the level crossing (the car is 
+shown in the right hand corner of the picture). At the time the photo was taken the train had re-
+versed back to the accident site. 
+### Hälytykset 
+Ensimmäisen hätäilmoituksen Länsi-Uudenmaan hätäkeskukseen teki onnettomuuspai-
+kan ohi ajanut autoilija kello 16.48.54. Hän kertoi auton jääneen junan alle Karjaan kier-
+toliittymästä vähän matkaa Tammisaareen päin Tammisaaren vanhaa tietä. Autoilija tar-
+kensi tapahtumapaikan Leppämäentieksi kello 16.52. Junan pysähdyttyä veturinkuljetta-
+ja otti yhteyttä kauko-ohjaajaan ja ilmoitti onnettomuudesta. 
+Hätäkeskuspäivystäjä luokitteli onnettomuuden luokkaan raideliikenneonnettomuus pie-
+ni. Kohteeseen hälytettiin Länsi-Uudenmaan pelastuslaitokselta kello 16.52.39 lähin pe-
+lastusyksikkö, joka lähti Karjaan paloasemalta. Kello 16.53.24 lisähälytyksenä hätäkes-
+kuspäivystäjä hälytti alueen päivystävän palomestarin, kaksi pelastusyksikköä ja kaksi 
+ambulanssia. 
+## 1.3 
+### Onnettomuudesta aiheutuneet vahingot  
+## 1.3.1 
+### Henkilövahingot 
+Auton kuljettaja menehtyi välittömästi onnettomuudessa saamiinsa vammoihin. Taaja-
+majunan kuljettaja ja ohjaamossa ollut toinen veturinkuljettaja sekä matkustajaosastossa 
+3
+
+## Página 16
+
+olleet konduktööri ja matkustajat eivät loukkaantuneet onnettomuudessa. Paikalle saa-
+punut pelastushenkilöstö tarkasti tapahtumapaikalla junan matkustajat sekä henkilökun-
+nan.  
+## 1.3.2 
+### Kalusto-, rata- ja laitevauriot 
+### Juna 
+Onnettomuuden jälkeen juna pystyi jatkamaan matkaansa Karjaalle, josta se siirrettiin 
+myöhemmin Pieksämäelle korjattavaksi. Junan korjauskustannukset olivat 94 600 eu-
+roa, joista materiaalikustannusten osuus oli 76 100 euroa ja työkustannusten osuus 
+18 400 euroa.  
+Dm12-taajamajunan edessä oleva esteenraivaaja eli karja-aura vääntyi. Lisäksi päädys-
+sä oleva automaattikytkin ja automaattikytkimen yhteydessä, sen alapuolella oleva juna-
+rungon läpimenevien sähköisten ohjausten kytkentärasia vaurioituivat. Taajamajunan 
+puskimen ympärillä olevat keltaiset verhouslevyt saivat murtumia. Automaattikytkimen 
+paineilman sulkuhana junan keulalla säilyi ehjänä, joten junan paineilmatoiminnot olivat 
+käytettävissä ja jarrut toimivat, jonka vuoksi juna saatiin omin avuin onnettomuuspaikalta 
+Karjaalle ja edelleen tarkastettavaksi. 
+Kuva 3. Taajamajunan keula vaurioitui onnettomuudessa. 
+Bild 3. 
+Regionaltågets front skadades vid olyckan. 
+Figure 3. The train’s front was damaged. 
+4
+
+## Página 17
+
+### Ajoneuvo 
+Maastohenkilöauton koko kori vääntyi ja vaurioitui pahoin onnettomuudessa. Erityisesti 
+oikean puoleinen sivu vaurioitui pahoin. Edestä katsottuna vauriot ulottuivat tuulilasiin 
+asti. 
+Kuva 4. Maastohenkilöauto romuttui korjauskelvottomaksi onnettomuudessa. 
+Bild 4. 
+Terrängpersonbilen blev totalförstörd vid olyckan och var omöjlig att reparera. 
+Figure 4. The SUV was wrecked beyond repair. 
+### Rata- ja laitevauriot 
+Onnettomuudesta ei aiheutunut rata- eikä laitevaurioita. 
+## 1.3.3 
+### Ympäristövahingot 
+Onnettomuudesta ei aiheutunut ympäristövahinkoja.  
+## 1.4 
+### Tiedottaminen 
+Poliisi tiedotti onnettomuudesta Länsi-Uudenmaan poliisin johtokeskukseen, josta tiedo-
+te annettiin edelleen tiedotusvälineille. Poliisin tiedotteessa kerrottiin, että Raaseporissa 
+Leppämäentien vartiomattomassa tasoristeyksessä oli sattunut tasoristeysonnettomuus. 
+Onnettomuuden osapuolina olivat taajamajuna ja henkilöauto. Onnettomuudessa me-
+nehtyi mieshenkilö. Onnettomuus tapahtui henkilöauton ylittäessä Leppämäentien taso-
+risteystä. 
+5
+
+## Página 18
+
+## 2 
+## ONNETTOMUUDEN TUTKINTA 
+## 2.1 
+### Liikennevälineet 
+### Juna 
+Onnettomuusjuna oli Tammisaaresta Karjaalle matkalla ollut taajamajuna 389. Junassa 
+oli yksi Dm12-tyyppinen dieselmoottorivaunu, eli kiskobussi, jonka pituus oli 25,2 metriä 
+ja paino 55 tonnia. Junan jarrupaino oli 90 tonnia ja juna oli varustettu kiskojarruilla. Ju-
+nan suurin sallittu nopeus oli 120 km/h ja suurin sallittu nopeus rataosalla Karjaa–Hanko 
+oli 110 km/h. Kiskobussissa on 63 istumapaikkaa ja 60 seisomapaikkaa. Junassa oli on-
+nettomuushetkellä noin 35 matkustajaa. 
+Dm12
+BRT
+55 t
+JP
+90 t 
+KJ
+x
+Dm12 = dieselmoottorivaunu (kiskobussi) 
+ 
+= liikesuunta 
+BRT 
+= kokonaispaino 
+JP 
+= jarrupaino, jota on käytetty jarrutustehoa laskettaessa 
+KJ 
+= kiskojarru 
+### Ajoneuvo 
+Ajoneuvo oli nelivetoinen maastohenkilöauto Mitsubishi 5D PAJERO STW-TURBO 
+GLS-0-V440-4x4273, vuosimallia 1993 ja se oli otettu käyttöön 17.2.1993. Ajoneuvon 
+kori oli erittäin huonossa kunnossa ruostevaurioiden vuoksi. Autossa oli sekarengastus. 
+Eturenkaat olivat erittäin huonokuntoiset, niissä oli kulutuspintaa jäljellä 1–2 mm. Taka-
+renkaat olivat hyväkuntoiset, niissä oli kulutuspintaa 10 mm. Autossa oli kuljettajalle ja 
+matkustajalle 3-pisteturvavyöt, mutta ei muita turvavarusteita tai -rakenteita. Autossa ei 
+ollut lukkiutumattomia jarruja ja jarrujen kunto oli heikko. Ajoneuvo oli viimeksi katsastet-
+tu 28.9.2009. 
+## 2.2 
+### Paikkatiedot 
+Onnettomuus tapahtui Raaseporin Karjaalla sorapäällysteisen Leppämäentie nimisen 
+yksityistien ja Karjaa–Hanko-välisen radan Leskinen/Leppämäentie nimisessä vartioi-
+mattomassa tasoristeyksessä ratakilometrillä 161+39. Tasoristeyksessä on yksiraiteisen 
+radan tasoristeysmerkit. Leppämäentiellä ei ole tasoristeyksen lähestymismerkkejä. Ta-
+soristeyksen kohdalla radan suurin sallittu nopeus on 110 km/h. Tiellä ei ole nopeusra-
+joitusmerkkejä, joten siinä on voimassa yleisnopeusrajoitus 80 km/h. Onnettomuuspaik-
+ka sijaitsee Karjaan asemalta 3,2 kilometriä Hangon suuntaan. Leppämäentie on pituu-
+deltaan 2,2 kilometriä ja sen varrella on yhdeksän taloutta. Radan takana oleville taloille 
+ei ole vaihtoehtoista kulkureittiä. Rataosalla on sekä henkilöjuna- (14 junaa vuorokau-
+dessa) että tavarajunaliikennettä (12 junaa vuorokaudessa). 
+6
+
+## Página 19
+
+Leppämäentie kulkee tasoristeyksen yli lähes kohtisuoraan. Tie nousee tasoristeykseen 
+molemmista suunnista. Onnettomuusajoneuvon kuljettajan tulosuunnasta katsoen tie 
+nousee reilut kolme metriä viimeisten 40 metrin matkalla ennen tasoristeystä. Vastak-
+kaisesta suunnasta tien nousu viimeisten 40 metrin matkalla on vajaat kaksi metriä. 
+Varsinaista odotustasannetta ei ennen tasoristeystä ole. 
+Onnettomuusajoneuvon kuljettajan tulosuunnasta katsoen Leppämäentien oikealla puo-
+lella on puustoa ja pensaikkoa, jotka estävät näkyvyyden radalle. Tämän lisäksi rata-
+penger on niin korkea, että käytännössä puuston raivaus ei juuri helpottaisi havaintojen 
+tekoa. Näkemä oikealle, eli junan tulosuuntaan, oli henkilöauton tulosuunnasta katsottu-
+na 8 metriä ennen lähintä kiskoa 187 metriä. Leppämäentien vasemmalla puolella on 
+hakkuutyömaa, eli puusto ei rajoita näkemää radalle. Sen sijaan ratapenkereen korkeus 
+haittaa havaintojen tekoa myös vasemmalle.  
+Kuva 5. Näkymä kohti tasoristeystä henkilöauton tulosuunnasta noin 30 metriä ennen 
+tasoristeystä 
+Bild 5. 
+Vy mot plankorsningen från bilens ankomstriktning ca 30 meter före plankorsningen. 
+Figure 5. The view towards the level crossing from the direction of the approaching car about 30 metres 
+before the crossing. 
+7
+
+## Página 20
+
+Kuva 6 Mitatut näkemät tasoristeyksessä kahdeksan metriä ennen lähintä kiskoa (Län-
+si-Uudenmaan tekninen rikostutkimuskeskus). Piirroksessa näkyy lisäksi auton 
+sijainti törmäyksen jälkeen. 
+Bild 6. 
+Det frisiktsområde som uppmätts vid plankorsningen åtta meter före den närmaste rälsen (Väst-
+ra Nylands tekniska brottsundersökningscentral). I skissen syns även bilens position efter kol-
+lisionen. 
+Figure 6. Sightline measurements at the level crossing eight metres before the nearest rail (Länsi-
+Uusimaa technical criminal investigation centre). The drawing also shows the location of the car 
+after the collision. 
+Radan päällysrakenne on luokkaa C1, radalla on betonipölkyt, 54 E1-kiskotus sekä rai-
+desepeli. Rataosa on peruskorjattu vuonna 1987. 
+Ratahallintokeskus teetti VTT:llä vuonna 2000 Hyvinkää–Hanko-rataosan inventoinnin. 
+Raportissa todetaan Leppämäentien keskimääräisen ajoneuvojen vuorokausiliikenteen 
+olevan 35 ajoneuvoa. Vuoden 2000 tilanteeseen perustuvina toimenpide-ehdotuksina 
+Leskinen/Leppämäentie tasoristeykseen ehdotettiin heti toteutettavina toimenpiteinä nä-
+kemien raivausta, vihellysmerkkiä Hangosta Hyvinkään suuntaan ajettaessa, yhdistel-
+mäajoneuvojen ajokieltoa, junalle 100 km/h-nopeusrajoitusta Hangosta Hyvinkään suun-
+taan ajettaessa alkaen kilometriltä 161+414 päättyen kilometrille 161+39 sekä tielle 
+hiekkaa saataville. Myöhemmin toteutettavina toimenpiteinä mainitaan tasoristeyksen 
+poisto ja korvaavan tien rakentaminen Leskisen ja Sundbergin väliin rakennettavan eri-
+tasoristeykseen sekä junan pistemäisen nopeusrajoituksen poistoa. 
+8
+
+## Página 21
+
+### Kaksi edeltävää tasoristeystä  
+Onnettomuustasoristeyksestä noin 500 metrin päässä Hangon suuntaan sijaitsee Sund-
+berg/Hakutie niminen vartioimaton tasoristeys. Myös tämä tasoristeys on ominaisuuksil-
+taan erittäin vaarallinen. Radan nopeusrajoitus on tämän tasoristeyksen kohdalla 
+110 km/h eivätkä vaaditut näkemävaatimukset täyty mihinkään suuntaan. VTT:n teke-
+mässä tasoristeysraportissa todetaan lisäksi, että myöskään radan varren raivauksella 
+näkemävaatimuksia ei saada täytettyä. Lisäksi tien korkeusprofiili on tienkäyttäjälle hy-
+vin vaikea/ongelmallinen. Lähestyttäessä tasoristeystä etelän suunnasta tie laskee kohti 
+tasoristeystä viimeisten 40 metrin matkalla yli kolme metriä. Vastakkaisesta suunnasta 
+eli pohjoisen suunnasta tasoristeystä lähestyttäessä tie puolestaan nousee viimeisten 
+40 metrin matkalla lähes neljä metriä. 
+Seuraava tasoristeys Hangon suuntaan on nimeltään Torppari. Myös tämä tasoristeys 
+on vartiomaton ja radan nopeusrajoitus on myös tällä kohdalla 110 km/h. Pohjoisen 
+suunnasta näkemä 8 metriä ennen lähintä kiskoa on oikealle 512 metriä ja vasemmalle 
+279 metriä. Etelän suunnasta näkemä 8 metriä ennen lähintä kiskoa on vasemmalle 
+332 metriä ja oikealle 178 metriä. Tässä tapauksessa radan varren raivauksella näke-
+mävaatimukset saataisiin täytettyä Tammisaaren suuntaan. Lähestyttäessä Torpparin 
+tasoristeystä etelän suunnasta tie nousee tasoristeykseen yli neljä metriä viimeisten 
+40 metrin matkalla ja tämä nousu on ongelmallinen tienkäyttäjälle. Pohjoisen suunnasta 
+katsottuna tie ei nouse tasoristeykseen. Lisäksi tasoristeyksen molemmin puolin on 
+useita eri suuntiin lähteviä teitä ja kevyen liikenteen väylä. Muun liikenteen seuraaminen 
+vie autoilijalta huomiota tasoristeyksen turvallisesta ylittämisestä. 
+## 2.3 
+### Turvalaitteet 
+Rataosalla Hanko–Karjaa on käytössä junien automaattinen kulunvalvonta (JKV). Rata-
+osaa kauko-ohjataan Helsingistä Pasilan virastokeskuksessa sijaitsevasta liikenteenoh-
+jauskeskuksesta. Raaseporin kauko-ohjaaja ohjaa kyseisen rata-osan liikennettä. Hä-
+nelle kuuluu rataosan Hyvinkää–Hanko välinen liikenteen ohjaus. 
+Tasoristeyksessä ei ollut varoituslaitteita. 
+## 2.4 
+### Viestintävälineet  
+Veturinkuljettaja oli yhteydessä rataosan kauko-ohjaajaan linjaradiolla. Kauko-ohjaaja oli 
+RAILI2-verkon 
+Dicora3-
+yhteydessä 
+hätäkeskukseen 
+nauhoittavalla 
+lankaverkon 
+puhelimella. Pelastustoimi käytti VIRVE4-verkon puhelimia. 
+2 
+RAILI = Rautateiden integroitu liikenneviestintäjärjestelmä. 
+3 
+Dicora = Liikenteenohjauksen viestintäverkon puhelin. 
+4 
+VIRVE = Suomen viranomaisradioverkko. 
+9
+
+## Página 22
+
+## 2.5 
+### Olosuhteet 
+Onnettomuushetkellä sää oli kirkas ja aurinko paistoi autonkuljettajaan nähden etuoike-
+alta. Ilman lämpötila oli +10 ˚C. Tie oli sorapintainen lukuun ottamatta tasoristeyksen yli-
+kulkulankutusta. Tapahtumahetkellä tien pinta oli paljas ja kuiva. 
+## 2.6 
+### Onnettomuuteen liittyvät organisaatiot ja henkilöt  
+### Veturinkuljettaja 
+Veturinkuljettaja oli 34-vuotias mies. Hän on työskennellyt veturinkuljettajana kaksi vuot-
+ta. Veturinkuljettaja oli aloittanut työpäivän Karjaalta kello 14.42 ja ajanut taajamajunan 
+Hankoon. Hangosta hän lähti ajamaan junaa takaisin Karjaalle kello 16.10. Veturinkuljet-
+tajan terveydentila oli saatujen tietojen mukaan hyvä eikä hän ollut poliisin tekemän pu-
+halluskokeen mukaan onnettomuushetkellä alkoholin vaikutuksen alaisena. 
+Onnettomuusjunan ohjaamossa palasi Karjaalle matkustajana Hangossa työvuoronsa 
+päättänyt veturinkuljettaja. Hänen työvuoroonsa kuuluu siirtyminen Karjaalle kyseisellä 
+junavuorolla. Kuljettaja toimii oman työnsä ohella työnopastajana uusille kuljettajille, jo-
+ten hän seuraa uuden kollegan ajosuoritetta ollessaan siirtymässä työvuoron aikana 
+matkustajana työpisteestä toiseen. 
+Kaikilla tapahtumaan liittyvillä henkilöillä oli määräykset täyttävä koulutus ja riittävä ko-
+kemus tehtäväänsä. 
+10
+
+## Página 23
+
+Kuva 7. Näkymä taajamajunan ohjaamosta noin 50 metriä ennen Leppämäentien taso-
+risteystä. Henkilöauto lähestyi tasoristeystä vasemmalta. Onnettomuuden ta-
+pahtumahetkellä puissa ei ollut vielä lehtiä, kuva otettu 31.5.2010.  
+Bild 7. 
+Vy från regionaltågets förarhytt ca 50 meter före plankorsningen vid Albackavägen. Personbilen 
+närmade sig plankorsningen från vänster. Vid tidpunkten för olyckan hade träden ännu inte löv. 
+Bilden är tagen 31.5.2010. 
+Figure 7. The view from the train’s cabin about 50 metres before the Leppämäentie crossing. The car ap-
+proached from the left. At the time of the accident the trees did not yet have leaves (photo taken 
+31 May 2010). 
+### Ajoneuvon kuljettaja  
+Maastohenkilöauton kuljettaja oli 48-vuotias lohjalainen mies. Hänellä oli ABECE-luokan 
+ajo-oikeus, joka oli ollut voimassa 16.10.1984 alkaen. Kuljettajalla oli kolme omaa yritys-
+tä, joiden toimialana olivat erilaiset puutavarakuljetukset ja metsäkonetyöt. Yrityksillä oli 
+useita ajoneuvoyhdistelmiä, joilla puutavara haettiin hakkuupaikoilta. Yleensä onnetto-
+muusajoneuvon kuljettaja tai joku hänen työntekijöistään kävi etukäteen tarkastamassa 
+hakkuualueet ja varmistamassa miten niihin pääsee raskaalla ajoneuvoyhdistelmällä. 
+Onnettomuushetkellä kuljettaja oli palaamassa juuri tällaiselta tarkastusmatkalta katso-
+massa useampia Leppämäentiellä sijaitsevia hakkuualueita. Leppämäentie päättyy noin 
+kahden kilometrin päähän Leskinen/Leppämäen tasoristeyksestä eikä sieltä ole vaihto-
+ehtoista reittiä. 
+Kuljettaja ajoi paljon työkseen ja hän oli ajanut myös ajoneuvoyhdistelmiä. Kuljettaja hoi-
+ti käytännössä työasioita lähes vuorokauden ympäri. Tutkinnassa kävi ilmi, että kuljetta-
+11
+
+## Página 24
+
+jalla ei ollut tapana käyttää turvavyötä. Hän hoiti myös ajaessaan työasioitaan ja puhui 
+paljon puhelimessa. Hänellä ei ollut käytössään handsfree-laitetta.  
+Tiettävästi hänelle ei ollut sattunut aiempia onnettomuuksia, läheltä piti tilanteita kylläkin. 
+Kuljettaja oli saanut aiemmin sakkoja turvavyön käyttämättömyydestä ja puhelimeen 
+puhumisesta ajon aikana. 
+Kuljettajan kuulo oli oikeasta korvasta heikentynyt ja omaisten kertoman mukaan hän ei 
+kuullut sillä lähes lainkaan. Muutoin kuljettajan terveydentila oli saatujen tietojen mukaan 
+hyvä eikä hänellä ollut käytössään mitään säännöllistä lääkitystä. Kuljettaja ei ollut alko-
+holin vaikutuksen alaisena onnettomuushetkellä.  
+## 2.7 
+### Pelastustoimen organisaatiot ja niiden toimintavalmius 
+Onnettomuuspaikka kuuluu Länsi-Uudenmaan hätäkeskuksen ja Länsi-Uudenmaan pe-
+lastuslaitoksen toimialueeseen. Lähin pelastuslaitoksen toimipaikka on Karjaan palo-
+asema, joka on 4,3 kilometrin päässä onnettomuuspaikasta. Raaseporin Karjaan palo-
+asemalla on jatkuva lähtövalmius vahvuudella paloesimies ja kolmesta neljään palo-
+miestä. Tarvittaessa lähtövalmiuteen kuuluu myös sopimuspalokunnan hälytysosasto. 
+Seuraavaksi lähin, vakinaisesti miehitetty paloasema sijaitsee Tammisaaressa, 
+13,8 kilometrin päässä onnettomuuspaikasta.  
+Länsi-Uudenmaan pelastuslaitos on Espoon kaupungin hallinnossa toimiva liikelaitos, 
+joka toimii kahdentoista kunnan alueella. Toimialueeseen kuuluvat Espoo, Kirkkonummi, 
+Siuntio, Inkoo, Raasepori, Hanko, Lohja, Vihti, Nummi-Pusula, Karkkila, Kauniainen ja 
+Karjalohja. Alueen kahdessatoista kunnassa asuu noin 422 000 ihmistä. Alueella on 12 
+paloasemaa ja 44 sopimuspalokuntaa. Länsi-Uudenmaan pelastuslaitoksen johdossa 
+toimii pelastusjohtaja, jonka toimipaikka on Espoossa. 
+Länsi-Uudenmaan pelastuslaitoksen toiminta on järjestetty kolmen aluepalopäällikön 
+johtaman palvelualueen kautta (Espoo, Lohja ja Raasepori). Kullakin palvelualueella on 
+kolme maantieteellistä palveluyksikköä, joita johtaa palopäällikkö. Espoossa on kolme 
+palvelualuetta: itäinen, läntinen ja eteläinen. Lisäksi on Lohjan ja Raaseporin palvelu-
+alueet.  
+Länsi-Uudenmaan pelastuslaitoksen alueella toimi ympäri vuorokauden päivystävä pääl-
+likkö sekä kolme päivystävää palomestaria. Espoon aluetta johtaa Espoon P3. Lohjan ja 
+Raaseporin alueella toimii oma P3, joka voi olla joko Lohjalta tai Raaseporista. Leppä-
+mäentien tasoristeysonnettomuus tapahtui Raaseporin P3:n ollessa päivystäjänä, joten 
+hän otti tilanteesta johtovastuun.  
+Onnettomuuspaikka kuuluu riskialueeseen IV, jolle ei ole määrätty tavoitettavuusaikaa. 
+Raideliikenneonnettomuus, pieni -vastemuodostelma on pelastusjoukkue. Hälytyksessä 
+on mukana päivystävä palomestari ja kolme pelastusyksikköä. Yksiköiden määrää voi-
+daan lisätä ensimmäisen yksikönjohtajan tekemän tiedustelun perusteella tai hätäkes-
+kuksen tekemän arvion mukaan. 
+12
+
+## Página 25
+
+## 2.8 
+### Tallenteet 
+## 2.8.1 
+### Kulunrekisteröintilaitteet 
+Taajamajunan 389 kulunrekisteröintilaitteen tiedoista saatiin selville muun muassa junan 
+nopeuden, jarrujohdon paineen ja suurimman käytetyn nopeuden muutokset, sekä veto-
+tilan päällä olo. 
+Kulunrekisteröintilaitteen mukaan juna lähti Tammisaaresta kello 16.37.39 aikataulun 
+mukaisesti. Matkaa Tammisaaresta Dragsvikiin on 2,9 kilometriä. Tällä välillä junan no-
+peus vaihteli 98–108 km/h välillä. Juna saapui Dragsvikiin kello 16.40 ja lähti jatkamaan 
+matkaa Dragsvikistä kello 16.40.41. Matkaa Dragsvikistä Leskinen/Leppämäentien taso-
+risteykseen on 10 kilometriä. Junan nopeus vaihteli tällä matkalla välillä 100–110 km/h. 
+Onnettomuus tapahtui kulunrekisteröintilaitteen tietojen mukaan kello 16.46.57. Jarru-
+johdon paine alkoi laskea nopeasti sekuntia ennen törmäystä eli kello 16.46.56. Juna 
+törmäsi henkilöautoon nopeudella 99 km/h. Juna pysähtyi hätäjarrutettuna 247 metrin 
+päähän törmäyskohdasta kello 16.47.16. 
+## 2.8.2 
+### Liikenteenohjauksen puherekisteri 
+Puherekisterijärjestelmän sekä sen tallennusjärjestelmän muutoksesta johtuen oli tapah-
+tunut unohdus, jonka vuoksi tutkintalautakunnalla ei ollut käytössään veturinkuljettajan ja 
+liikenteenohjaajan välistä puherekisteriä.  
+## 2.8.3 
+### Hätäkeskuksen puherekisteri  
+Tutkijoilla on ollut käytössään Länsi-Uudenmaan hätäkeskuksen hätäkeskustallenteet, 
+jotka sisälsivät sairaankuljetuksen, pelastustoimen ja poliisin viranomaisverkon puhelu-
+liikenteen tiedot sekä hätäkeskuspuheluiden tiedot. Hätäkeskustallenteiden mukaan en-
+simmäinen hätäpuhelu tuli tapahtuman ohikulkevasta autostaan nähneeltä henkilöltä 
+kello 16.48.54. Onnettomuuspaikan tarkka sijainti selvisi hätäpuhelun aikana kello 
+16.52.04, kun soittaja sai varmuuden siitä, että paikka on Leppämäentien tasoristeys. 
+Hätäkeskuspäivystäjä hälytti ensimmäisen yksikön kello 16.52.39. Kohteen paikantami-
+seen hätäpuhelun alkamisesta kesti 3 minuuttia 45 sekuntia. 
+Tapahtuma-aikaan Länsi-Uudenmaan hätäkeskuksessa suoritettiin tietoteknisiä muutos-
+töitä ja tästä johtuen kaikkea pyydettyä materiaalia ei ollut käytettävissä. Hätäpuhelu- 
+sekä radioliikennenauhoitteiden ja hätäkeskustietojärjestelmän kellonajoissa on eroavai-
+suutta. Esimerkiksi ensimmäinen hätäpuhelu on puhelutallennejärjestelmän mukaan al-
+kanut kello 16.48 ja hätäkeskustietojärjestelmän tehtävälomakkeelle tehtävä on kirjautu-
+nut alkamaan kello 16.49. Tämä johtuu osaltaan kyseisenä ajankohtana hätäkeskukses-
+sa suoritetuista tietoteknisistä muutostöistä, ja osaltaan järjestelmien erilaisesta kellon-
+aikasynkronoinnista. 
+13
+
+## Página 26
+
+## 2.8.4 
+### Muut pelastustoimen tallenteet 
+Tutkijoilla on ollut käytössä Länsi-Uudenmaan pelastuslaitoksen tehtäväraportti sekä 
+PRONTO- tietokannan hälytys- ja onnettomuusseloste.  
+Ensimmäisenä onnettomuuspaikalle saapui Länsi-Uudenmaan pelastuslaitoksen Kar-
+jaan paloasemalta pelastusyksikkö R21 kello 16.58 (0+1+3) Sitten paikalle saapuivat 
+pelastusyksiköt RP3 (1+0+0) kello 16.59.09 ja RS211 (0+1+3) kello 17.01.00. Sairaan-
+kuljetusyksiköt R293 (0+0+2) ja R191 (0+1+1) saapuivat kello 17.05 sekä pelastusyk-
+sikkö R11 (0+1+3) kello 17.07.32.  
+Länsi-Uudenmaan hätäkeskukselle (Louhi) oli mennyt tieto, että taajamajuna olisi pu-
+donnut kiskoilta ja hätäkeskus aloitti suuronnettomuushälytykset, mutta kohteesta 
+RP3:lta kello 17.01 saatu tarkempi tieto sai hätäkeskuksen perumaan hälytetyt lisäyksi-
+köt. Lääkinnällinen johtovastuu kohteessa oli ambulanssin R191 esimiehellä, joka perui 
+kohteeseen hälytetyt lääkinnälliset lisäyksiköt R294, MH01, I193 ja SJ191. 
+## 2.9 
+### Määräykset ja ohjeet 
+Tasoristeyksiä koskevat säädökset ja ohjeet on esitetty liitteessä 2, joka koostejul-
+kaisussa esitetään koko julkaisun liitteenä. 
+Tätä selostusta koskevat erityisesti kohdat, jotka käsittelevät tasoristeysten yleisiä peri-
+aatteita, näkemiä, odotustasanteita, varoitustoimenpiteen valintaa, tien ja radanpitäjän 
+vastuita tasoristeyksen ja näkemien kunnossapidosta sekä tienkäyttäjiä koskevia mää-
+räyksiä.  
+### RATOn mukaan raiteiden suuntaiset näkemät mitataan 8 m päästä lähimmästä kiskos-
+ta. Näkemän tulee olla yksiraiteisessa vartioimattomassa tasoristeyksessä vähintään 6 x 
+junan suurin sallittu nopeus. Tulos saadaan suoraan metreissä. Leskinen/Leppämäen 
+tasoristeyksen kohdalla näkemävaatimus oli 6 x 110 km/h = 660 metriä. 
+### RATOn mukaan tien pituuskaltevuus saa olla maksimissaan 1,5 % tasoristeyksen mo-
+lemmin puolin niin pitkällä matkalla, että odotustasanne on riittävä mitoitusajoneuvon 
+pysähtymistä varten. Koska Leppämäentietä käyttävät myös yhdistelmäajoneuvot, odo-
+tustasanteiden tulisi olla metsäteitä vastaava, eli vähintään 30 metriä. 
+Raiteiden viereen tulevan tasoristeyksen risteysmerkit mahdollisine lisäkilpineen aset-
+taa radanpitäjä. Tasoristeyksen kannen kunnossapito kuuluu radanpitäjälle. Tienpitäjä 
+vastaa muiden kuin tasoristeyksen risteysmerkkien asettamisesta. Näitä ovat rautatien-
+tasoristeyksen varoitusmerkit, tasoristeyksen lähestymismerkit, nopeusrajoitusmerkit ja 
+pakollista pysähtymistä osoittavat merkit. Yksityisellä tiellä liikennemerkit voi asettaa ra-
+danpitäjä tienpitäjän luvalla. Edelleen tienpitäjän vastuulle kuuluu tasoristeyksen näke-
+mät muulla kuin Liikenneviraston hallitsemalla alueella sekä odotustasanteiden kunnos-
+sapito.  
+14
+
+## Página 27
+
+Tieliikennelain mukaan junalle on annettava esteetön kulku ja rautatien tasoristeystä lä-
+hestyvän tienkäyttäjän on noudatettava erityistä varovaisuutta. 
+## 2.10 
+### Poliisin tekemä tutkinta 
+Länsi-Uudenmaan poliisilaitos suoritti tapauksesta esitutkinnan. Länsi-Uudenmaan tek-
+ninen rikostutkimuskeskus suoritti teknisen tutkinnan ja dokumentoi onnettomuuspaikan 
+sekä luovutti aineiston tutkintalautakunnan käyttöön. 
+## 2.11 
+### Muut tutkimukset 
+VALT:n Uudenmaan liikenneonnettomuuksien tutkijalautakunta suoritti onnettomuudesta 
+tie- ja maastoliikenneonnettomuuksia koskevan lain mukaisen tutkinnan. Tämä aineisto 
+on ollut tutkintalautakunnan käytettävissä. 
+Tutkintalautakunta oli mukana 31.5.2010 normaaliliikenteessä olevassa taajamajunan 
+ohjaamossa välillä Tammisaari–Karjaa–Tammisaari. Lautakunta dokumentoi matkan 
+sekä videokameralla että digitaalisella kameralla molempiin suuntiin, Tammisaaresta 
+Karjaalle ja Karjaalta Tammisaareen. Lautakunta oli ensin mukana Tammisaaresta kello 
+14.37 lähteneessä taajamajunassa. Tuolloin veturinkuljettajana toimi sama kuljettaja, jo-
+ka ajoi taajamajunaa onnettomuushetkellä. Lautakunta matkasi takaisin Tammisaareen 
+Karjaalta kello 15.10 lähteneellä taajamajunalla. Seuraava vuoro Tammisaaresta Kar-
+jaalle lähti kello 16.37, eli kyseinen vuoro oli sama kuin onnettomuusjuna. Tässä junas-
+sa veturinkuljettajana toimi onnettomuusjunassa mukana ollut, tuolloin jo työvuoronsa 
+päättänyt veturinkuljettaja. Olosuhteet rekonstruktioajon aikana olivat kutakuinkin samat 
+kuin onnettomuuspäivänä, sillä poikkeuksella, että 31.5.2010 puissa oli jo lehdet. 
+## 2.12 
+### Asiakirjat 
+Lautakunnalla on ollut käytössään muun muassa seuraavat asiakirjat: ajoneuvon rekis-
+teriotteen tekniset tiedot, oikeuslääketieteellinen ruumiinavauspöytäkirja, poliisin tutkin-
+tailmoitus ja esitutkintapöytäkirja sekä VALT:n liikenneonnettomuuksien tutkijalautakun-
+nan jäsenkohtaiset tutkimuslomakkeet. 
+## 3 
+## ANALYYSI 
+## 3.1 
+### Onnettomuuden analysointi 
+### Onnettomuuspaikka 
+Leppämäentie on sorapäällysteinen, noin 4 metriä leveä vähäliikenteinen yksityistie. 
+Tiellä ei ole nopeusrajoitusmerkkejä, joten siinä on voimassa 80 km/h yleisrajoitus. Lep-
+pämäentien varrella on tällä hetkellä kymmenkunta kotitaloutta, joilla ei ole muuta kulku-
+reittiä. Tulevaisuudessa asutus tullee lisääntymään.  
+15
+
+## Página 28
+
+Leppämäentiellä ei ole tasoristeyksen varoitus- ja lähestymismerkkejä, mikä osaltaan 
+vähentää tasoristeyksen huomioarvoa. Tasoristeys oli auton kuljettajalle melko tuttu, jo-
+ten merkkien puuttumisella ei todennäköisesti ole ollut vaikutusta onnettomuuteen.  
+Auton kuljettajan tulosuunnasta katsottuna Leppämäentie kulkee kohti tasoristeystä vii-
+meisten 200 metrin ajan kutakuinkin suoraan. Tie nousee kohti tasoristeystä huomatta-
+van jyrkästi. Tien oikealla puolella oleva puusto ja pensaikko estävät näkemisen radalle 
+ja lisäksi ratapenkereen korkeus vaikeuttaa huomattavasti havaintojen tekoa radalle. 
+Leppämäentien vasemmalla puolella on tehty metsähakkuita, joten puusto ei haittaa nä-
+kemistä vasemmalle. Ratapenkereen korkeus haittaa kuitenkin havaintojen tekemistä 
+tähänkin suuntaan. 
+Vastakkaisesta suunnasta, eli Tammisaarentieltä päin, tie nousee koko matkan kohti ta-
+soristeystä. Matkaa Tammisaarentieltä tasoristeykseen on vain noin 30 metriä eli ajo-
+neuvon kuljettajalta vaaditaan erityistä tarkkaavaisuutta saavuttaessa tasoristeykseen 
+tästä suunnasta.  
+Tien nousu tasoristeykseen aiheuttaa myös sen, että ajoneuvonkuljettaja ei näe mahdol-
+lista vastaantulevaa ajoneuvoliikennettä kovinkaan pitkältä matkalta. Nousu ja keskitty-
+minen mahdolliseen vastaantulevaan ajoneuvoliikenteeseen vähentävätkin kuljettajan 
+tarkkaavaisuutta radan suuntaan tasoristeykseen saavuttaessa. Lisäksi talvikelillä tien 
+nousu on niin jyrkkä, että kuljettaja ei uskalla pysähtyä tarkistamaan radan liikennettä 
+peläten vaikeaa liikkeellelähtöä. Metsähakkuiden johdosta tietä käyttävät myös puutava-
+ra-ajoneuvoyhdistelmät ja raskas liikenne muodostaakin suurten riskitekijän myös juna-
+liikenteelle. Käytännössä raskaat ajoneuvoyhdistelmät eivät pysty ylittämään tasoriste-
+ystä turvallisesti hyvissä kesäolosuhteissakaan. Myös odotustasanteiden puute heiken-
+tää kuljettajan mahdollisuutta pysähtyä ennen tasoristeystä.  
+Leppämäki/Leskisen tasoristeyksessä näkemävaatimukset eivät täyty mihinkään suun-
+taan. Henkilöauton tulosuunnasta katsottuna näkemä oikealle, eli junan tulosuuntaan, oli 
+8 metriä ennen lähintä kiskoa 187 metriä ja vasemmalle 230 metriä. Lähestyttäessä ta-
+soristeystä vastakkaisesta eli Tammisaarentien suunnasta näkemä 8 metriä ennen lä-
+hintä kiskoa on oikealle 634 metriä ja vasemmalle 307 metriä. Junan lähestyessä Han-
+gon suunnasta 110 km/h-nopeudella autoilijalle jää aikaa havaintojen tekoon ja reagoin-
+tiin vain pari sekuntia. Tämä aika on liian lyhyt.  
+Mikäli auto lähestyy tasoristeystä esimerkiksi 30 km/h nopeudella, se etenee 8,3 m/s. 
+Tässä tasoristeyksessä näkemä 8 metriä ennen kiskoja oli junan tulosuuntaan 
+187 metriä. Jos oletetaan, että kuljettajan reaktioaika on optimitilanteessa kutakuinkin 
+sekunnin luokkaa, niin 30 km/h-nopeudella ajava auto on sekunnin kuluttua jo tasoriste-
+yksessä. Tasoristeyksen turvallinen ylittäminen vaatisikin sen, että auton kuljettaja py-
+sähtyisi ennen tasoristeystä ja varmistaisi sen, ettei radalla ole liikennettä. Näkemäolo-
+suhteiden vuoksi tässä tasoristeyksessä auton kuljettajalle jää maksimissaan kuusi se-
+kuntia aikaa ylittää tasoristeys (juna etenee sallitulla 110 km/h nopeudella 30,6 m/s eli 
+187 metrin näkemäalueen kulkemiseen sillä menee 6,1 sekuntia). Optimaalisessa tilan-
+teessa ajoneuvon kuljettaja voisi kenties tuon kuuden sekunnin aikana ehtiä näkemään 
+lähestyvän junan, tulkitsemaan näkemänsä ja valitsemaan sopivan toimintatavan. Tie-
+16
+
+## Página 29
+
+ympäristö (tien nousun jyrkkyys ja odotustasanteiden puute) ei kuitenkaan tue pysähty-
+mistä ennen tasoristeyksen ylittämistä, eikä tasoristeyksessä ole myöskään pakollista 
+pysäyttämistä edellyttävää STOP-merkkiä. 
+Myöskään veturinkuljettajalle ei juuri jää reagointiaikaa, mikäli auto lähestyy tasoristeys-
+tä samanaikaisesti. Vaikka veturinkuljettaja aloittaisikin jarrutuksen heti ajoneuvon huo-
+matessaan, junan nopeus ei näin lyhyellä matkalla ehdi käytännössä laskea juuri lain-
+kaan. Tien nousu tasoristeykseen, odotustasanteiden puute, ratapenkereen korkeus ja 
+huonot näkemät tekevätkin Leppämäki/Leskisen tasoristeyksestä erittäin vaarallisen.  
+Veturinkuljettajien haastattelussa ja 31.5. tehdyssä rekonstruktioajossa kävi ilmi sekä 
+Leskinen/Leppämäentie tasoristeyksen samoin kun kahden sitä edeltävän tasoristeyk-
+sen (Sundberg/Hakutie ja Torppari) vaarallisuus. Myös VTT:n vuonna 2000 tekemässä 
+raportissa Hyvinkää–Hanko rataosalta todetaan, että kaikki kolme tasoristeystä tulisi 
+poistaa ja korvata eritasoristeyksellä. Raportissa todetaan myös, että kaikissa kolmessa 
+tasoristeyksessä tulisi olla yhdistelmäajoneuvojen ajokielto. Nykyisellään nämä tasoris-
+teykset muodostavat suuren vaaran ajoneuvoliikenteelle. Riski suuronnettomuudelle ja 
+junaturvallisuuden vaarantumiselle on myös erittäin suuri, mikäli tasoristeyksessä sattui-
+si yhdistelmäajoneuvon ja junan välinen yhteentörmäys. 
+Raaseporin kaupunki on tehnyt kaavaehdotuksen, jossa esitetään alikulun rakentamista 
+Leppämäentien ja Almantien (jossa sijaitsee Sundberg/Hakutien tasoristeys) väliin. Tällä 
+kaavaratkaisulla saataisiin poistettua myös Torpparin tasoristeys. Hankkeen toteuttami-
+seen menee kuitenkin aikaa, joten ennen alikulun rakentamista tasoristeysten turvalli-
+suutta tulisi parantaa muilla keinoin.  
+### Juna ja veturinkuljettajan toiminta 
+Veturinkuljettajan on mahdollista nähdä Leppämäki/Leskisen tasoristeykseen silloin, kun 
+hän saapuu kaarteen jälkeen suoralle rataosuudelle. Tuolloin matkaa tasoristeykseen on 
+187 metriä. Nyt käytössä olleella 100 km/h nopeudella taajamajuna kulkee noin 
+28 metriä sekunnissa eli teoriassa kuljettajalla on vajaa seitsemän sekuntia aikaa tehdä 
+havaintoja tasoristeyksen liikenteestä, tulkita tekemänsä havainnot ja tehdä päätös tilan-
+teeseen sopivasta toiminnasta. Aika on käytännössä kuitenkin lyhyempi, koska Leppä-
+mäentien varrella oleva puusto haittaa havaintojen tekoa, silloin kun juna on 187 metrin 
+etäisyydellä tasoristeyksestä. Molemmat haastatellut veturinkuljettajat (vuorossa ollut ja 
+työvuoronsa päättänyt) toivat esiin Leskinen/Leppämäentien tasoristeyksen vaarallisuu-
+den samoin kuin tätä edeltävien kahden muun tasoristeyksen vaarallisuuden. 
+### Ajoneuvo ja sen turvavarusteet  
+Ajoneuvo oli otettu käyttöön 17 vuotta sitten. Auton kori oli ruostevaurioiden takia erittäin 
+huonossa kunnossa. Myös eturenkaat olivat erittäin huonokuntoiset. Jarrujen kunto oli 
+myös heikko. Autossa ei ollut muita turvavarusteita tai -laitteita kuin 3-pisteturvavyöt. 
+Ajoneuvon kunnolla ja katsastamattomuudella ei kuitenkaan ollut merkitystä kuljettajan 
+kuoleman kannalta törmäyksen suurienergisyyden vuoksi. 
+17
+
+## Página 30
+
+### Ajoneuvon kuljettajan toiminta  
+Kuljettaja oli tarkastamassa Leppämäentien varrella sijaitsevia yrityksensä metsähak-
+kuutyömaita ja oli poistumassa muihin työtehtäviinsä. Hän ajoi paljon työkseen ja oli aja-
+nut myös ajoneuvoyhdistelmiä. Kuljettaja hoiti käytännössä työasioita lähes vuorokau-
+den ympäri. Tutkinnassa kävi ilmi, että kuljettajalla ei ollut tapana käyttää turvavyötä. 
+Hän hoiti työasioitaan myös ajaessaan ja puhui paljon puhelimessa. Hänellä ei ollut käy-
+tössään handsfree-laitetta. 
+Tutkinnassa saatiin selville, että kuljettaja oli juuri ennen onnettomuutta puhunut puheli-
+meen. Mahdollista on myös, että hän oli aloittanut uuden puhelun tai selaillut autossa ol-
+leita työpapereita. Kuljettajan oikean korvan kuulo oli huomattavan heikko. Mikäli hän on 
+puhunut puhelimeen, on todennäköistä, että puhelin on ollut sen vuoksi vasemmalla kor-
+valla. Juna lähestyi tasoristeystä ajoneuvon kuljettajaan nähden oikealta eli huonompi-
+kuuloisen korvan puolelta. Tämä saattaa osaltaan selittää sitä, miksi kuljettaja ajoi taso-
+risteykseen samanaikaisesti oikealta saapuvan junan kanssa. Toisaalta Leppämäentiel-
+lä oli havaittavissa 6 metriä pitkä jarrutusjälki, mistä voi arvioida, että kuljettaja on viime 
+hetkellä havainnut oikealta lähestyvän taajamajunan ja koettanut jarruttamalla estää 
+törmäyksen siinä kuitenkaan onnistumatta. 
+Myös tiennousu tasoristeykseen, korkea ratapenger ja huonot näkemät ovat omalta 
+osaltaan vaikeuttaneet kuljettajan liikennetilannetta ja edesauttaneet onnettomuuden 
+syntymistä. 
+## 3.2 
+### Pelastustoiminnan analysointi 
+### Hälytykset 
+Onnettomuus tapahtui kello 16.46.57. Ensimmäinen hätäilmoitus hätäkeskukseen tuli 
+kello 16.48.54, eli aikaero onnettomuuden ja ensimmäisen hätäpuhelun välillä oli 
+1 minuutti ja 57 sekuntia. Ensimmäinen puhelu päättyi kello 16.55.59. Ensimmäinen hä-
+lytys tapahtui kello 16.52.39 eli 3 minuuttia 45 sekuntia hätäpuhelun alkamisesta. Hätä-
+keskuslaitoksen asettamaan kiireellisten tapausten hälytysaika tavoitteisiin ei päästy. 
+Onnettomuuden lopputuloksen kannalta sillä ei ollut tässä tapauksessa merkitystä, kos-
+ka onnettomuusajoneuvon kuljettaja menehtyi törmäyksessä välittömästi. 
+Veturinkuljettaja otti yhteyttä linjaradiolla rata-osan kauko-ohjaajaan ja kertoi onnetto-
+muudesta. Kauko-ohjaajan soitto hätäkeskukseen tapahtui kello 16.57.39 eli 8 minuuttia 
+45 sekuntia ensimmäisen hätäpuhelun alkamisesta. Kauko-ohjaaja käytti taajamajunas-
+ta rautateille ominaista sisäistä termiä (kiskobussi), joka hetkellisesti ja tarkentamatta voi 
+luoda väärää mielikuvaa bussin ja junan välisestä onnettomuudesta. Hätäkeskus olikin 
+tämän jälkeen tekemässä suuronnettomuushälytystä olettaen, että taajamajuna oli suis-
+tunut raiteilta. Kauko-ohjaaja korosti kuitenkin, että kyseessä on henkilöjuna. Onnetto-
+muuden todellinen tilanne varmentui myös onnettomuuspaikalle ehtineen P3:n ja hätä-
+keskuksen välisessä keskustelussa. 
+18
+
+## Página 31
+
+### Pelastustoimi 
+Onnettomuuspaikka kuuluu riskialueeseen IV, jolle ei ole määritetty tavoitettavuusaikaa. 
+Perusteena on alueen vähäinen asutus ja teollisuus. Onnettomuuspaikalle hälytetyt re-
+surssit olivat etupainoitteiset ja riittävät. 
+## 4 
+## JOHTOPÄÄTÖKSET 
+## 4.1 
+### Toteamukset 
+1. Tasoristeys oli auton kuljettajalle melko tuttu. 
+2. Tasoristeyksessä ei ollut varoituslaitteita. 
+3. Tie nousee tasoristeykseen jyrkästi, eikä tasoristeyksessä ole kunnollisia odotus-
+tasanteita. Ratapenkereen korkeus vaikeuttaa myös havaintojen tekoa radalle. 
+4. Tasoristeyksen lähestymismerkit puuttuivat. 
+5. Auton kuljettaja todennäköisesti havaitsi taajamajunan liian myöhään eikä enää eh-
+tinyt pysähtyä ennen tasoristeystä. 
+6. Auton kuljettajalla oli huonompi kuulo oikeassa korvassa, joka oli junan tulosuunnan 
+puolella. Mikäli auton kuljettaja puhui matkapuhelimeen onnettomuushetkellä, hän 
+on todennäköisesti pitänyt puhelinta vasemmalla korvallaan, mikä on heikentänyt 
+taajamajunan viheltimen äänen kuulemista. 
+7. Tien ja tasoristeyksen ominaisuuksien vuoksi tasoristeyksen ylittäminen on raskailla 
+ajoneuvoyhdistelmillä erittäin vaarallista ja tämä muodostaa suuren riskin myös ju-
+naliikenteen kannalta.  
+8. Taajamajuna lähestyi tasoristeystä nopeudella 100 km/h. 
+9. Auton kuljettaja menehtyi välittömästi onnettomuudessa saamiinsa vammoihin. 
+## 4.2 
+### Onnettomuuden syyt 
+Onnettomuuden syynä oli se, että auton kuljettaja havaitsi junan liian myöhään eikä 
+enää ehtinyt pysähtyä ennen tasoristeystä.  
+Taustatekijöinä tähän olivat: 
+- 
+tasoristeys oli kuljettajalle melko tuttu, mikä yleensä vähentää varovaisuutta tasoris-
+teykseen saavuttaessa 
+- 
+kuljettajan tarkkaavaisuus oli todennäköisesti suuntautunut muuhun kuin tasoriste-
+yksen turvalliseen ylittämiseen 
+19
+
+## Página 32
+
+- 
+tasoristeyksessä ei ollut varoituslaitteita 
+- 
+tien nousu tasoristeykseen, odotustasanteiden puute, ratapenkereen korkeus ja tien 
+varren puusto vaikeuttivat kuljettajan ajotehtävää ja heikensivät mahdollisuutta taso-
+risteyksen turvalliseen ylittämiseen. 
+## 4 
+## SLUTSATSER 
+## 4.1 
+### Konstateranden 
+1. Plankorsningen var tämligen bekant för bilens förare. 
+2. Plankorsningens avståndsmärke saknades. 
+3. Vägen går brant uppför till plankorsningen, som saknar ordentliga, viloplaner. Även 
+den höga banvallen gör det svårt att uppmärksamma vad som händer på banan. 
+4. Plankorsningen saknade avståndsmärken. 
+5. Bilens förare upptäckte troligen regionaltåget för sent och hann inte stanna före 
+plankorsningen. 
+6. Bilens förare hade sämre hörsel i det högra örat, vilket var samma sida som tåget 
+kom ifrån. Om bilens förare pratade i mobiltelefon en vid tidpunkten för olyckan har 
+han troligen hållit telefonen vid sitt vänstra öra, vilket gjorde att föraren hörde ljudet 
+från regionaltågets vissla sämre. 
+7. På grund av vägens och plankorsningens egenskaper är det ytterst farligt att korsa 
+plankorsningen med tunga fordonskombinationer, och detta utgör en stor risk även 
+för tågtrafiken.  
+8. Regionaltåget närmade sig plankorsningen med en hastighet på 100 km/h. 
+9. Bilens förare omkom omedelbart av skadorna från olyckan. 
+## 4.2 
+### Orsaker till olyckan 
+Orsaken till olyckan var att bilens förare upptäckte tåget för sent och inte hann stanna 
+före plankorsningen.  
+Följande faktorer bidrog till detta: 
+- 
+plankorsningen var tämligen bekant för föraren vilket i allmänhet minskar försiktighe-
+ten när man kommer till en plankorsning 
+- 
+föraren hade troligen sin uppmärksamhet riktad på någonting annat än att passera 
+genom plankorsningen på ett säkert sätt 
+- 
+plankorsningen saknade varningsanordningar 
+20
+
+## Página 33
+
+vägen gick uppför fram till plankorsningen, viloplanerna saknades, banvallen var hög 
+och det fanns träd vid vägen som försvårare förarens köruppgift och försämrade möjlig-
+heten att korsa plankorsningen på ett säkert sätt. 
+## 4 
+## CONCLUSIONS 
+## 4.1 
+### Statements 
+1. The level crossing was quite familiar to the car driver. 
+2. The level crossing was not equipped with warning installations. 
+3. The road rises sharply before the level crossing and the crossing does not have 
+proper wait platforms. The high track embankment also hinders sight of the track. 
+4. The level crossing did not have approach signs. 
+5. The car driver probably observed the train too late and no longer had enough time to 
+stop before the crossing. 
+6. The car driver had poorer hearing in his right ear, which was on the side of the ap-
+proaching train. If the car driver was talking on his mobile phone at the time of the 
+accident, the mobile was probably held to his left ear, making it more difficult to hear 
+the train's approach whistle. 
+7. The properties of the road and level crossing make it very dangerous to cross the 
+level crossing with heavy vehicle combinations and this also poses a great risk to 
+train traffic.  
+8. The train approached the crossing at 100 km/h. 
+9. The car driver died immediately from the injuries. 
+## 4.2 
+### Causes of the occurrence 
+The accident occurred because the car driver observed the approaching train too late 
+and was no longer able to stop before the level crossing.  
+The factors contributing to this were: 
+- 
+The crossing was quite familiar to the driver, which usually reduces vigilance when 
+approaching. 
+- 
+The driver was probably focused on something other than making a safe crossing. 
+- 
+The level crossing was not equipped with warning installations. 
+Driving and a safe crossing were hindered by the road being on an incline, the lack of 
+wait platforms, high track embankment and trees surrounding the road. 
+21
+
+## Página 34
+
+## 5 
+## TOTEUTETUT TOIMENPITEET 
+Tasoristeyksessä ei ole tehty turvallisuutta parantavia toimenpiteitä.  
+Liikennevirasto aikoo selvittää yhteistyössä muiden toimijoiden kanssa mahdollisuudet 
+tehdä muutoksia toimintatapoihin liittyen onnettomuudesta ilmoittamiseen onnettomuus-
+paikalta. Samalla selvitetään myös muutosten vaikutukset toimijoiden prosesseihin sekä 
+mahdolliset muutoksista aiheutuvat riskit. 
+## 5 
+## VIDTAGNA ÅTGÄRDER 
+Inga åtgärder som förbättrar säkerheten har vidtagits vid plankorsningen.  
+Trafikverket tänker i samarbete med andra aktörer ta reda på möjligheter att ändra till-
+vägagångssätten angående rapporteringen av en olycka från olycksplatsen. Samtidigt 
+tar man reda på hur förändringarna påverkar aktörernas processer samt vilka eventuella 
+risker förändringarna kan innebära. 
+## 5 
+## MEASURES THAT HAVE BEEN TAKEN 
+No actions have been taken to improve safety at the level crossing.  
+The Finnish Transport Agency will review in cooperation with other parties whether it 
+would be possible to alter practices relating to making an emergency notification from 
+the accident site. In the same time will be found out the impact of chances to the proc-
+esses of relevant parties and the risks caused by them. 
+## 6 
+## TURVALLISUUSSUOSITUKSET 
+### S302 Leskinen/Leppämäki tasoristeyksen korvaaminen eritasoliittymällä 
+Tasoristeyksen huonojen näkemien, tien nousun ja radan nopeusrajoituksen vuoksi tut-
+kintalautakunta suosittaa:  
+Leskinen/Leppämäen tasoristeys tulisi korvata eritasoliittymällä. [B3/10R/S302] 
+Raaseporin kaupunki on tehnyt kaavaehdotuksen, jossa esitetään alikulun rakentamista 
+Leppämäentien ja Almantien (jossa sijaitsee Sundberg/Hakutien tasoristeys) väliin. Tällä 
+kaavaratkaisulla saataisiin poistettua myös Torpparin tasoristeys. Hankkeen toteuttami-
+seen menee kuitenkin aikaa, joten ennen alikulun rakentamista tasoristeysten turvalli-
+suutta tulisi parantaa muilla keinoin. Yhtenä vaihtoehtona on Raaseporin kaupungin lau-
+sunnossaan esittämä: ”Myös radan pohjoispuolelle on tehty alustava kaavaehdotus 
+Leppämäentien yhteyteen, missä on esitetty tieyhteyden rakentamista itään Bäljarsin te-
+22
+
+## Página 35
+
+ollisuusalueelle ja edelleen maantielle 111.” Kaupunki toteaa myös, että tämä korvaava 
+tieyhteys voitaisiin toteuttaa nopeammin kuin alikulun rakentaminen.  
+### Aikaisemmissa tutkintaselostuksissa annettujen suositusten toistaminen 
+### S211 Suora matkapuhelinyhteys onnettomuuspaikalta hätäkeskukseen. 
+Tässä onnettomuudessa ensimmäinen hätäilmoitus tuli ohikulkijalta. Veturinkuljettajille 
+ohjeistettu toimintatapa soittaa ensimmäisenä liikenteenohjaukseen hidastaa kiireellisen 
+avun hälyttämistä paikalle. 
+Ilmoituksen tekeminen onnettomuuspaikalta ensimmäisenä suoraan hätäkeskukseen 
+nopeuttaisi pelastusyksiköiden hälyttämistä ja samalla tarkentaisi tapahtumapaikkatieto-
+ja. Näillä toimenpiteillä voidaan varmistua siitä, että tieto onnettomuudesta sen oikeasta 
+laajuudesta ja tarkasta tapahtumapaikasta välittyy hätäkeskukseen muuttumattomana. 
+Lisäksi näillä toimenpiteillä helpotetaan selkeästi hätäkeskuspäivystäjän suorittaman ris-
+kinarvion tekemistä sekä nopeutetaan oikeanlaisen avun hälyttämistä tapahtumapaikal-
+le. 
+Hätäilmoituksen tekemiseen liittyviä ohjeita tulisi kehittää siten, että aina tarvittaessa kii-
+reellistä pelastustoimen apua, tulisi onnettomuuspaikalta soittaa liikenteenohjaukseen 
+tehdyn ilmoituksen lisäksi myös suoraan yleiseen hätänumeroon. [B1/05R/S211] 
+Sisäasiainministeriön pelastusosasto edellyttää lausunnossaan, että hätäilmoituksen te-
+kemiseen liittyvät ohjeet on muutettava siten, että ne täyttävät pelastuslain 28 §:n vel-
+voitteet: ”Jokainen, joka huomaa tai saa tietää tulipalon syttyneen tai muun onnettomuu-
+den tapahtuneen tai uhkaavan eikä voi heti sammuttaa paloa tai torjua vaaraa, on vel-
+vollinen viipymättä ilmoittamaan siitä vaarassa oleville, tekemään hätäilmoituksen sekä 
+ryhtymään kykynsä mukaan pelastustoimintaan.” 
+Myös Hätäkeskuslaitos yhtyy lausunnossaan suositukseen suorasta matkapuhelinyh-
+teydestä hätäkeskukseen. Perusteluissaan laitos toteaa seuraavaa: ”VR-Yhtymä Oy:n 
+liikenteenohjauskeskus voi sijaita eri hätäkeskuksen alueella, kuin onnettomuuspaikka. 
+Tällöin liikenteenohjauskeskuksen puhelu joudutaan kääntämään onnettomuuspaikan 
+hätäkeskukseen, jolloin syntyy viivettä yksiköiden hälyttämiseen. Lisäksi suora matka-
+puhelinyhteys onnettomuuspaikalta vähentäisi joka tapauksessa onnettomuuden tapah-
+tumishetken ja avun hälyttämisen välistä viivettä, kun yksi vaihe jäisi välistä pois. Suora 
+matkapuhelinyhteys onnettomuuspaikalta edesauttaisi myös sitä, että tieto onnettomuu-
+desta ja sen tapahtumapaikasta välittyisi oikeana ja muuttumattomana hätäkeskukseen. 
+Hätäkeskuspäivystäjä voisi myös kysyä veturinkuljettajalta mahdollisesti tarvitsemiaan 
+lisätietoja.” 
+### Muita huomiota ja ehdotuksia 
+Rautatieliikenteessä ja sen kaluston ja tekniikan suhteen on käytössä paljon sisäisiä 
+termejä ja sisäistä slangia, jotka saattavat antaa virheellistä mielikuvaa hätäkeskukselle 
+23
+
+## Página 36
+
+onnettomuuteen osallisina olevasta kalustosta. Esimerkkinä voidaan mainita kiskobussi 
+ja ratakuorma-auto, jotka yksilöimättä voivat nopeita päätöksiä tehdessä antaa väärän 
+mielikuvan maantieliikenteen kalustosta. Rautatiehenkilökunnan soittaessa hätäkeskuk-
+seen tai ulkopuolisille tahoille tulisi käyttää nimityksiä henkilöjuna tai ratatyöyksikkö. 
+Onnettomuuden aikana Länsi-Uudenmaan hätäkeskuksessa suoritettiin tietoteknisiä 
+muutostöitä ja kaikkia pyydettyjä tallenteita ei ollut saatavana. Hätäkeskuksen tietotekni-
+set muutostyöt tulisi toteuttaa niin, että tarvittavat tallenteet ovat käytettävissä.  
+Liikenteen turvallisuusvirasto (Trafi), Liikennevirasto, VR-Yhtymä Oy, sisäasiainministe-
+riön pelastusosasto, Hätäkeskuslaitos ja Raaseporin kaupunki ovat antaneet suosituk-
+sista lausuntonsa. Lausunnot ovat täydellisinä liitteessä 1. Tutkintaselostukseen on tehty 
+muutoksia ja tarkennuksia lausuntojen ja kommenttien perusteella. 
+## 6 
+## SÄKERHETSREKOMMENDATIONER 
+### S302 Att ersätta plankorsningen vid Leskinen/Leppämäki med en planskild an-
+slutning 
+På grund av det dåliga frisiktsområdet, vägens stigning och banans hastighetsbegräns-
+ning vid plankorsningen rekommenderar undersökningskommission följande:  
+Plankorsningen vid Leskinen/Leppämäki borde ersättas med en planskild anslutning. 
+[B3/10R/S302] 
+Raseborg stad har utformat ett planförslag där det föreslås att man bygger en underfart 
+mellan Albackavägen och Almas väg (där plankorsningen Sundberg/Hakutie ligger). 
+Med denna planlösning skulle man även kunna ta bort Torpparis plankorsning. Det tar 
+dock tid att genomföra projektet, vilket betyder att innan man bygger en underfart bör 
+man förbättra säkerheten vid plankorsningarna på andra sätt. Ett alternativ är det som 
+Raseborg stad presenterar i sitt utlåtande: ”Det har även utformats ett preliminärt plan-
+förslag för området norr om banan, vid Albackavägen, där det har presenterats att man 
+skulle bygga en vägförbindelse österut till Bäljars industriområde och vidare till landsväg 
+111." Staden konstaterar också att denna ersättande vägförbindelse kan genomföras 
+snabbare än det går att bygga en underfart. 
+### Upprepning av rekommendationer i tidigare undersökningsrapporter 
+### S211 Direkt mobiltelefonkontakt från olycksplatsen till nödcentralen. 
+Vid denna olycka kom det första larmet från en förbipasserande. Det tillvägagångsätt 
+som lokförarna har blivit instruerade i, att först ringa till trafikledningen, gör att det dröjer 
+innan brådskande hjälp kan tillkallas till platsen. 
+24
+
+## Página 37
+
+Om man som första åtgärd skulle göra en anmälan från olycksplatsen direkt till nödcen-
+tralen skulle räddningsenheterna larmas snabbare och man skulle samtidigt få exaktare 
+uppgifter om vad som hänt. Med dessa åtgärder kan man försäkra sig om att informatio-
+nen om olyckan, dess korrekta omfattning och den exakta platsen förmedlas oförändrad 
+till nödcentralen. Dessutom är det tydligt att man med dessa åtgärder underlättar nöd-
+centraloperatörens riskbedömning samt påskyndar tillkallandet av rätt sorts hjälp till 
+olycksplatsen. 
+Instruktionerna om att göra en nödanmälan borde utvecklas så att man från olycksplat-
+sen utöver meddelandet till driftcentralen även ringer direkt till det allmänna nödnumret, 
+om det behövs brådskande hjälp av räddningsväsendet på platsen. [B1/05R/S211] 
+Inrikesministeriets räddningsavdelning förutsätter i sitt utlåtande att anvisningarna om 
+hur nödsamtalet görs ska ändras så att de uppfyller bestämmelserna i 28 § i räddnings-
+lagen: "Var och en som märker eller får veta att en eldsvåda har brutit ut eller att någon 
+annan olycka har inträffat eller är överhängande och som inte genast kan släcka bran-
+den eller avvärja faran är skyldig att utan dröjsmål underrätta dem som är i fara, göra 
+nödsamtalet samt efter förmåga vidta räddningsåtgärder." 
+Även nödcentralsverket understöder i sitt utlåtande rekommendationen om direkt mobil-
+telefonkontakt från olycksplatsen till nödcentralen. Verket konstaterar följande i sin moti-
+vering: ”VR-Group Ab:s trafikledningscentral kan ligga inom ett annat nödcentralområde 
+än olycksplatsen. Då måste samtalet från trafikledningscentralen kopplas vidare till 
+olycksplatsens nödcentral, vilket fördröjer larmandet av enheterna. Dessutom skulle en 
+direkt mobiltelefonkontakt från olycksplatsen i varje fall förkorta fördröjningen mellan 
+olyckstidpunkten och larmandet av hjälp, eftersom ett moment uteblir. En direkt mobilte-
+lefonkontakt från olycksplatsen skulle dessutom bidra till att information om olyckan och 
+olycksplatsen förmedlas korrekt och oförändrad till nödcentralen. Nödcentraloperatören 
+kunde även ställa eventuella nödvändiga frågor till lokföraren för ytterligare information.” 
+### Övrigt att beakta och förslag 
+Det används mycket interna termer och slang inom järnvägstrafiken och om materiel 
+och teknik inom järnvägstrafiken som kan ge nödcentralen en felaktig bild av materiel 
+som är inblandat i en olycka. Som exempel kan nämnas rälsbuss och banlastbil som 
+utan precisering kan, när man fattar snabba beslut, ge en felaktig association på grund 
+av materielen inom landsvägstrafiken. När järnvägspersonalen ringer nödcentralen eller 
+externa instanser bör benämningarna persontåg eller banarbetsenhet användas. 
+Vid tidpunkten för olyckan genomfördes datatekniska förändringsarbeten vid Västra Ny-
+lands nödcentral, och alla önskade registreringar fanns inte tillgängliga. Datatekniska 
+förändringsarbeten vid en nödcentral bör genomföras på ett sådant sätt att nödvändiga 
+registreringar finns tillgängliga 
+Trafiksäkerhetsverket, Trafikverket, VR-Group Ab, inrikesministeriets räddningsavdel-
+ning, Nödcentralsverket och Raseborg stad har gett utlåtanden om rekommendationer-
+25
+
+## Página 38
+
+na. De fullständiga utlåtandena finns i bilaga 1. I undersökningsrapporten har ändringar 
+och preciseringar gjorts utifrån utlåtandena och kommentarerna. 
+## 6 
+## SAFETY RECOMMENDATIONS 
+### S302 Replacement of the Leskinen/Leppämäki level crossing by an interchange 
+Considering the poor sightlines at the level crossing as well as the incline and track 
+speed limits, the investigation commission makes the following recommendation:  
+The Leskinen/Leppämäki level crossing should be replaced by an interchange. 
+[B3/10R/S302] 
+The Raasepori local authority plans to build an underpass between Leppämäentie and 
+Almantie (the location of the Sundberg/Hakutie level crossing). The plan would also al-
+low for the removal of the Torppari level crossing. Execution of this undertaking will take 
+time, however, and therefore safety should be improved at the level crossing in the in-
+terim period. One possibility is presented by Raasepori local authority in its statement: 
+“A plan has also been prepared for the north of the track in connection with Leppämäen-
+tie, whereby it is proposed that a road be built east to Bäijars industrial area and on-
+wards to highway 111." The local authority notes also that this road could also be built 
+more quickly than the underpass.  
+### Reiteration of recommendations issued in previous investigation reports 
+### S211 Direct mobile phone connection from accident site to the emergency cen-
+tre. 
+The first emergency call for this accident was made by a passer-by. The instruction 
+given to train drivers that they should first call traffic control causes a delay in calling for 
+urgent help to the scene of the accident. 
+Making the first emergency call directly to the relevant emergency response centre from 
+the accident site would ensure that rescue units are informed of the accident faster and 
+also make accident location information more precise. Such actions would ensure that 
+information about the accident and its scope and location would be accurately relayed to 
+the emergency response centre first hand. Such measures would also make it easier for 
+the emergency response centre operator to make a risk assessment and therefore also 
+alert the appropriate emergency response faster to the accident site. 
+The instructions for the drawing up of an emergency notice should be developed to en-
+sure that whenever urgent aid is needed from the rescue service, also the general 
+emergency number is called from the incident scene, in addition to the notifying of the 
+traffic control unit. [B1/05R/S211] 
+26
+
+## Página 39
+
+The Rescue Department of the Ministry of the Interior notes in its statement that emer-
+gency call instructions should be changed in such a way that they fulfil the requirements 
+of Section 28 of the Rescue Act: “Anyone who notices or becomes aware that a fire has 
+started or some other accident has occurred, or that there is a threat thereof, and cannot 
+stop the fire or prevent the danger, is under the obligation to inform anyone who is in 
+danger, to make an emergency call and to initiate rescue actions to the best of his or her 
+ability.” 
+The Emergency Response Centre Administration has also issued a statement indicating 
+that there should be a direct mobile phone connection to the emergency centre. The 
+reasons given are indicated in the following: “VR Group’s traffic control might be located 
+in an area other than the emergency response centre responsible for the accident 
+scene. This means in practice that the call has to be transferred to the accident scene’s 
+emergency response centre, which means that units are alerted with a delay. A direct 
+mobile phone connection would in any case reduce the delay from the moment of an 
+accident to the making of an emergency notification because it would do away with one 
+stage of the process. A direct mobile phone connection would also help to ensure that 
+the right information is communicated from the accident scene to the emergency re-
+sponse centre. The emergency response centre operator could ask the train driver for 
+more information directly.” 
+### Other observations and proposals 
+Railway traffic, including its rolling stock and technology, involves a significant amount of 
+terminology and jargon that has the potential to provide the emergency response centre 
+with a false impression of the rolling stock involved in an accident. For example, the Fin-
+nish terms kiskobussi (railbus) and ratakuorma-auto (railcar) might be wrongly under-
+stood when making quick decisions. When calling the emergency response centre or 
+other outside parties, railway staff should use the terms passenger train and railway 
+work unit. 
+At the time of the accident the Länsi-Uusimaa emergency response centre was complet-
+ing teleinformatic improvement work and not all recordings were available. Such telein-
+formatic work should be implemented in such a way that recordings are available. 
+The following parties have issued a statement on the recommendations: the Finnish 
+Transport Safety Agency, the Finnish Transport Agency, VR Group, the Rescue De-
+partment of the Ministry of the Interior, the Emergency Response Centre Administration 
+and Raasepori Town. The statements are given in full in Appendix 1. The text of this 
+investigation report has been amended based on the statements and comments 
+received. 
+27
+
+## Página 40
+
+Helsingissä 25.5.2011 
+Kati Hernetkoski 
+Jari Auvinen 
+Tuomo Markoff 
+28
+
+## Página 41
+
+## LÄHDELUETTELO 
+Seuraavat lähdeliitteet on taltioituna Onnettomuustutkintakeskuksessa: 
+1. 
+Päätös tutkinnan aloittamisesta B3/2010R, kirje 151/5R, 19.4.2010 
+2. 
+Lausunnot tutkintaselostusluonnoksesta: 
+Liikenteen turvallisuusviraston lausunto 
+Liikenneviraston lausunto 
+VR-Yhtymä Oy:n lausunto 
+sisäasianministeriön pelastusosaston lausunto 
+Hätäkeskuslaitoksen lausunto 
+Raaseporin kaupungin lausunto 
+3. 
+Länsi-Uudenmaan poliisilaitoksen tutkintailmoitus 8180/R/13279/10 (EI JULKINEN) 
+4. 
+Länsi-Uudenmaan hätäkeskuksen puherekisteritallenteet ajalta 14.4.2010 kello 16.48.54–
+17.50.37 
+5. 
+Pronto-tietokannassa oleva Länsi-Uudenmaan hätäkeskuksen hälytysseloste (EI JULKINEN) 
+6. 
+Pronto-tietokannassa oleva Länsi-Uudenmaan pelastuslaitoksen onnettomuusseloste (EI 
+JULKINEN) 
+7. 
+Taajamajunan 389 kulunrekisteröintilaitteen tiedot 
+29
+
+## Página 42
+
+
+
+## Página 43
+
+## Liite 1/1 (9) 
+## LAUSUNNOT 
+
+## Página 44
+
+## Liite 1/2 (9) 
+
+## Página 45
+
+## Liite 1/3 (9) 
+
+## Página 46
+
+## Liite 1/4 (9) 
+
+## Página 47
+
+## Liite 1/5 (9) 
+
+## Página 48
+
+## Liite 1/6 (9) 
+
+## Página 49
+
+## Liite 1/7 (9) 
+
+## Página 50
+
+## Liite 1/8 (9) 
+
+## Página 51
+
+## Liite 1/9 (9) 
+
+## Página 52
+
+
+
+## Página 53
+
+## Liite 2/1 (5) 
+### Tasoristeyksiä koskevat säädökset ja ohjeet 
+Maantielaissa säädetään muun muassa maanteiden näkemäalueista, tieliikennelaissa esitetään 
+tienkäyttäjiä koskevia määräyksiä, tieliikenneasetuksessa määrätään varoitusmerkkien sijoituk-
+sesta ja Rautatieviraston määräyksessä Radan rakenteet ja kunnossapito määrätään tasoristeyk-
+sistä ja niiden kunnossapidosta. Rautateiden suunnittelua, rakentamista ja kunnossapitoa ohjaa-
+va Ratahallintokeskuksen (RHK) ohjekokoelma on nimeltään Ratatekniset ohjeet (RATO). RA-
+TOn osassa 9 Tasoristeykset esitetään perusteet rautateiden tasoristeysten suunnittelua, raken-
+tamista ja kunnossapitoa varten. 
+## 1 
+Maantielaki ja liikenne- ja viestintäministeriön ohje yleisten teiden näkemäalueista 
+Maantielain (503/2005) 45 §:ssä säädetään maanteiden näkemäalueista. Lain 109 §:n mu-
+kaan liikenne- ja viestintäministeriö antaa ohjeet näkemäalueista. Liikenne- ja viestintäminis-
+teriön ohjeessa yleisten teiden näkemäalueista 24.1.2002 määritellään yleisen tien ja rauta-
+tien tasoristeyksen näkemäalue. Ohjeen mukaan lisäksi on noudatettava niitä ohjeita, jotka 
+RHK antaa tien ja rautatien tasoristeyksen näkemäalueista. 
+Sekä maantielaki että liikenne- ja viestintäministeriön ohje koskevat maanteitä eli yleiseen lii-
+kenteeseen luovutettuja teitä, joiden ylläpidosta valtio huolehtii. Muiden teiden osalta näke-
+mää ohjaavana normina on RATO, jonka kohdassa 9.2.1.3 annetaan näkemää koskevat oh-
+jeet. 
+## 2 
+### Tieliikennelaki 
+Tieliikennelain (267/1981) 7 §:n mukaan: "Junalle on annettava esteetön kulku. Junalla tar-
+koitetaan tässä pykälässä jokaista rautatiekiskoilla kulkevaa laitetta. Rautatien tasoristeystä 
+lähestyvän tienkäyttäjän on noudatettava erityistä varovaisuutta ja mahdollisista suojalaitteis-
+ta huolimatta tarkkailtava, onko juna tulossa. Kuljettajan on tällöin käytettävä sellaista nope-
+utta, että ajoneuvon voi tarvittaessa pysäyttää ennen rataa. Rautatietä ei saa lähteä ylittä-
+mään, jos juna lähestyy, taikka valo-opaste velvoittaa pysähtymään, erityinen ääniopaste 
+kuuluu, taikka puomi on alhaalla tai liikkuu. Tällöin on pysähdyttävä turvalliselle etäisyydelle 
+radasta, ennen opastinta tai puomia. Kun rautatien saa ylittää, se on tehtävä viivyttelemättä." 
+## 3 
+### Tieliikenneasetus 
+### Tasoristeyksen tieliikennemerkit ja niiden sijoittaminen 
+Tieliikenneasetuksen (182/1982) 3 luvun osan Varoitusmerkit 13 §:ssä määrätään varoitus-
+merkkien sijoituksesta siten, että varoitusmerkin tulee olla vähintään 150 ja enintään 250 
+metriä ennen vaaranpaikkaa. Taajamassa ja erityisestä syystä muuallakin varoitusmerkki 
+voidaan sijoittaa myös lähemmäksi vaaranpaikkaa. Tällaista sijoittamista voidaan käyttää, jos 
+nopeusrajoitus on enintään 60 km/h tai jos ajoneuvon nopeus muusta syystä on riittävän al-
+hainen vaarallista tienkohtaa lähestyttäessä.  
+Ennen tasoristeystä tulee olla merkki 171 Rautatien tasoristeys ilman puomeja tai 172 Rau-
+tatien tasoristeys, jossa puomit sekä Rautatien tasoristeyksen lähestymismerkit 173, 174 ja 
+175. Tasoristeyksen lähestymismerkit tulee sijoittaa siten, että merkki 173 on kauimpana ta-
+soristeyksestä merkin 171 tai 172 alla samassa pylväässä. Lisäksi välittömästi ennen lähintä 
+kiskoa tulee olla joko merkki 176 Yksiraiteisen rautatien tasoristeys tai 177 Kaksi- tai useam-
+piraiteisen rautatien tasoristeys. 
+
+## Página 54
+
+## Liite 2/2 (5) 
+Merkkejä 173–175 voidaan käyttää merkin 171 tai 172 lisäksi tehostamaan tasoristeyksen 
+havaittavuutta. Jos tasoristeys on risteävällä tiellä, ei lähestymismerkkejä kuitenkaan käyte-
+tä. Merkit sijoitetaan siten, että merkin punaiset poikkijuovat ovat tielle päin kaltevia ja ala-
+reunan korkeus on enintään yksi metri ajoradan pinnasta. Merkki 173 sijoitetaan merkin 171 
+tai 172 alle samaan pylvääseen, merkki 174 noin ⅔ etäisyydelle ja merkki 175 noin ⅓ etäi-
+syydelle tasoristeyksestä.  
+Merkkejä 176 ja 177 käytetään aina tien ja rautatien tasoristeyksissä, jollei junasta varoiteta 
+käsiohjauksella. Merkki sijoitetaan 5–7 metrin etäisyydelle lähimmästä kiskosta siten, että 
+sen alareunan korkeus ajoradan pinnasta on 2,4–3,0 metriä. 
+171. Rautatien 
+172. Rauta-
+173.       174.     
+176. Yksi-
+177. Kaksi- tai 
+tasoristeys il-
+tien tasoris-
+175. 
+raiteisen 
+useampi rai-
+man puomeja 
+teys, jossa 
+Rautatien taso-
+rautatien 
+teisen rauta-
+on puomit 
+tasoristeys 
+risteyksen lä-
+tien tasoriste-
+hestymismerkit 
+ys 
+Kuva 3. Tasoristeyksen tieliikennemerkit. 
+Bild 3. 
+Vägtrafikmärken vid plankorsningar. 
+Figure 3. Level crossing road signs. 
+Tieliikenneasetuksen (182/1982) 14 §:n Etuajo-oikeus- ja väistämismerkit mukaan etuajo-
+oikeus- ja väistämismerkit sijoitetaan ajoradan oikealle puolelle. Erityisestä syystä voidaan 
+samanlainen merkki lisäksi sijoittaa ajoradalla olevalle korokkeelle, ajoradan vasemmalle 
+puolelle tai ajoradan yläpuolelle. Liikennemerkillä 232 Pakollinen pysäyttäminen osoitetaan, 
+että risteykseen tai tielle tuleva ajoneuvo on aina pysäytettävä pysäytysviivan kohdalle. Mis-
+sä pysäytysviivaa ei ole, ajoneuvo on pysäytettävä välittömästi ennen risteävää tietä sellai-
+seen kohtaan, josta on mahdollisimman hyvä näkemä risteävälle tielle. Rautatien tasoriste-
+yksessä merkillä osoitetaan, että ajoneuvo on ennen tasoristeyksen ylittämistä pysäytettävä 
+merkin kohdalle. Merkki sijoitetaan mahdollisimman lähelle risteystä. Merkkiä ei saa sijoittaa 
+25 metriä kauemmas risteävän tien ajoradan lähimmästä reunasta. Merkki sijoitetaan ajora-
+dan oikealle puolelle. Jos tulosuunnassa on kaksi tai useampia ajokaistoja, sijoitetaan sa-
+manlainen merkki yleensä lisäksi ajoradalla olevalle korokkeelle, ajoradan vasemmalle puo-
+lelle tai ajoradan yläpuolelle. 
+## 4 
+### Rautatieviraston määräys Radan rakenteet ja kunnossapito 
+Rautatieviraston määräystä Radan rakenteet ja kunnossapito (RVI/902/431/2009) sovelle-
+taan uuteen, uudistettavaan ja parannettavaan rautatien tasoristeykseen ja rautatien tasoris-
+teyksen kunnossapitoon sekä rekisteröintiin. Määräystä ei sovelleta rautatien tasoristeykses-
+sä, jossa rautatien tasoristeykseen liittyvien raiteiden liikennöinti on estetty, tai jossa rai-
+teen/raiteiden suurin nopeus on enintään 20 km/h eikä ratatyön tasoristeyksessä. 
+Rautatien tasoristeys, joka ei ole määräyksen mukainen, on saatettava määräyksen mukai-
+seksi vuoden 2030 loppuun mennessä, ellei rautatien tasoristeykseen liittyvää raidetta uudis-
+teta tai paranneta tätä aiemmin. Rautatien tasoristeys, joka ei ole määräyksen mukainen vii-
+meistään vuoden 2030 loppuun mennessä, on poistettava käytöstä. 
+
+## Página 55
+
+## Liite 2/3 (5) 
+### Määräyksen tasoristeyksiä käsittelevän kohdan 7.1 Rakennemääräykset mukaan: 
+Rautatien tasoristeyksessä (jäljempänä tasoristeys) ei saa olla vaihdetta eikä raiteen sulkua.  
+Tasoristeyksen tien tai kulkuväylän suuntainen pituus saa olla enintään 60 m mitattuna 
+uloimmaisten raiteiden uloimpien kiskojen ulkoreunoista tien tai kulkuväylän keskeltä. 
+Tasoristeyksen ja tien tai kulkuväylän välisen terävän kulman on oltava vähintään 70 astetta. 
+Tasoristeyksessä on oltava puomi laitos, kun tasoristeykseen liittyvän raiteen suurin nopeus 
+on yli 100 krn/h ja kun keskivuorokausiliikenne (KVL) on yli 2000 ajoneuvoa. 
+### 7.1.1 Raiteen suurin nopeus 
+800 m:n matkalla ennen tasoristeystä, ellei tasoristeyksen ylittämistä ole estetty lukitulla 
+puomilla tai portilla. Lukitun puomin tai portin on oltava liikenteenohjauksen valvonnassa ja 
+kytketty siten, että junakulkutien varmistaminen on estetty, jos puomi tai portti ei ole lukossa 
+ja liikenteenohjauksen valvonnassa. 
+Tasoristeyksessä, jossa raiteessa on urakisko tai vastaava rakenne, saa raiteen suurin no-
+peus olla enintään 50 km/h. 
+### 7.1.2 Tasoristeykseen johtava tie tai kulkuväylä ja raiteen kallistus 
+Tasoristeykseen johtavan tien tai kulkuväylän on oltava suora vähintään 30 m: n matkalla 
+ennen tasoristeystä (mitattuna tasoristeykseen johtavaa tietä lähimmän kiskon hamaran ul-
+koreunasta tien keskeltä). 
+Tasoristeykseen johtavan tien pituuskaltevuus 5 m:n matkalla ennen tasoristeyksen kantta 
+saa olla enintään 0,2 %. Tätä edeltävällä 25 m:n matkalla tien pituuskaltevuus saa olla enin-
+tään 1,5 %, jos tasoristeyksen ylittäminen on sallittu yhdistelmäajoneuvolla. Jos ylittämistä ei 
+ole sallittu yhdistelmäajoneuvolla, saa pituuskaltevuus 5-15 m:n matkalla ennen tasoristeystä 
+olla enintään 1,5 %. 
+Raiteen kallistus taso risteyksessä saa olla enintään 100 mm. 
+Tien pituuskaltevuus raiteiden välissä saa poiketa tasoristeyksen kannen pituuskaltevuudes-
+ta enintään 0,2 %. 
+### 7.1.4 Kunnossapito, tarkastukset ja rekisteröinti 
+Tasoristeyksen näkemäalueella ei saa olla tien pinnasta mitattuna yli 1,1 m:n korkeuteen 
+ulottuvia näkemäesteitä. 
+Tasoristeyksen näkemä ja rakenteet on tarkastettava vähintään kerran kalenterivuodessa ja 
+aina, kun näkemäalueella tehdään näkemään vaikuttavia muutoksia. 
+Rataverkon haltijan on pidettävä tasoristeyksistä rekisteriä, josta käy ilmi tasoristeyksen nä-
+kemän ja rakenteiden tarkastaminen sekä kunnossapitotoimet. 
+Rekisteritietojen on oltava Onnettomuustutkintakeskuksen, poliisin, pelastusviranomaisen ja 
+Liikenteen turvallisuusviraston käytettävissä. 
+
+## Página 56
+
+## Liite 2/4 (5) 
+## 5 
+### Ratatekniset ohjeet (RATO) 
+### 5.1 Tasoristeysten suunnittelu, rakentaminen ja kunnossapito 
+Perusteet tasoristeysten suunnittelua, rakentamista ja kunnossapitoa varten on esitetty RA-
+TOn osassa 9 Tasoristeykset.  
+### Näkemät 
+Tasoristeysnäkemä on tieltä ratalinjalle rataa pitkin mitattu matka 1,1 m korkeudella kiskon 
+selästä olevaan esineeseen, jonka tasoristeyksen eteen pysähtyneen ajoneuvon kuljettaja 
+näkee, kun silmäpisteen korkeus tien pinnasta on 1,1 m ja etäisyys lähimmästä kiskosta on 
+8 m. RATOn kohdassa 9.2.1.3 määritellään tien ja radan tasoristeyksessä oleva näkemä-
+alue. Näkemäalue yksiraiteisella radalla 8 m etäisyydeltä ulommasta kiskosta tulee olla 6 x 
+V, jossa V on raiteella kyseisellä paikalla käytettävä suurin nopeus km/h ja matka saadaan 
+suoraan metreinä. Mikäli edellä mainittua vaatimusta ei voida toteuttaa, tasoristeykseen on 
+asennettava varoituslaitos tai junan nopeus sovitettava näkemien mukaiseksi.  
+Kuva 1. Näkemäalue, kun radalla on yksi raide. 
+### Tielinja ja risteyskulma 
+Tasoristeyksen risteyskulman tulee olla vähintään 65 gon5 (58,5 °), mutta yleensä 80–100 gon. 
+Yleisillä teillä tien tulee olla suora 60 metrin matkalla ennen risteystä. Tällä suoralla osuudel-
+la ei saa olla tieliittymiä. 
+Kuva 2. Tasoristeyksen risteyskulma ja tien linjaus. Piirroksessa: Ls = matka, jolla tien tulee 
+olla suora tasoristeyksen molemmin puolin; yleisillä teillä 60 m, kaduilla 35 m, yksi-
+tyistiet (10...) 20 m, metsäteillä 35 m ja viljelysteillä. 
+5  Gon = prosenttia suorasta kulmasta (suorakulma = 90 °). 
+
+## Página 57
+
+## Liite 2/5 (5) 
+### Tien tasausviiva6 
+Tien pituuskaltevuuden maksimiarvo on 1,5 % tasoristeyksen molemmin puolin niin pitkällä 
+matkalla, että odotustasanne7 on riittävä mitoitusajoneuvon pysähtymistä varten. Mahdolli-
+suuksien mukaan tien tulee olla radasta pois päin viettävä. Odotustasanteen vähimmäispi-
+tuus on yleisillä teillä 30 m, yksityisteillä 10 m, metsäautoteillä 30 m ja viljelysteillä 15 m. 
+### Tien poikkileikkaus 
+Tasoristeyksen kohdalla tien on oltava vähintään yhtä leveä kuin muuallakin, mutta vähin-
+tään 3,0 m. Puoli- tai paripuomein varustetuissa tasoristeyksissä tienpinnan minimileveys on 
+6,5 m. 
+### Tasoristeyksen tieliikennemerkit ja niiden sijoittaminen 
+RATOn osassa 17 Radan merkit esitetään radan merkkien vaatimukset. Kohdassa 17.16 
+määrätään, että tasoristeysmerkkien sijoittamisessa ja käytössä on noudatettava RATOn 
+osaa 9 Tasoristeykset. RATOn kohdassa 17.16.1 sanotaan, että risteysmerkit 176 ja 177 
+mahdollisine lisäkilpineen asettaa Tieliikennelain 51 §:n mukaan radanpitäjä ja muut liiken-
+nemerkit lisäkilpineen asettaa tien pitäjä. Yksityisillä teillä liikennemerkit voi radanpitäjä aset-
+taa tienpitäjän luvalla (RATOn kohta 9.2.5.1). 
+RATOn kohdan 9.2.5.1 mukaan tasoristeyksen merkitsemiseen käytetään tasoristeyksen lä-
+hestymismerkkejä (173, 174 ja 175) ja risteysmerkkejä (171 tai 172 sekä 176 tai 177). Säh-
+köistetyn radan tasoristeyksessä käytetään lisäksi sähköistetystä radasta varoittavaa lisäkil-
+peä 823 Sähköjohdon korkeus. 
+### Tasoristeyksen kunnossapito 
+RATOn kohdan 9.2.7.2 mukaan tasoristeyksen kannen (ulottuu uloimman kiskon ulkopuolel-
+le) kunnossapito kuuluu radanpitäjälle. Radan ja tien kunnossapitäjien vastuualueiden raja 
+on tasoristeyksen kannen reuna. Lumen auraus tasoristeyksen kohdalla kuuluu tien pitäjälle. 
+Teiden aurauksen ja talvihöyläyksen synnyttämät vallit on tien kunnossapitäjän toimesta siir-
+rettävä niin kauas, että ne eivät aiheuta haittaa raiteella liikkuvalle kalustolle tai radan kiinteil-
+le laitteille eivätkä muodosta näkemäestettä. 
+### Tasoristeyksen turvallisuuden parantaminen 
+RATOn kohdassa 9.3 TASORISTEYSTEN TURVALLISUUDEN PARANTAMINEN on esitet-
+ty tasoristeyksen vaarallisuuden arviointi, tasoristeysten turvallisuuteen vaikuttavia tekijöitä, 
+turvallisuuden parantamistoimenpiteet sekä varoittamistoimenpiteen valinta. 
+RATOn kohdassa 9.3.4 ohjeistetaan varoittamistoimenpiteiden valintaa. Tasoristeyksissä tu-
+lisi käyttää varoituslaitosta, jos joku seuraavista ehdoista toteutuu: 
+1. Radan paikallinen nopeus tasoristeyksen kohdalla voi olla yli 120 km/h. 
+2. Radan ylittävä tie on yleinen tie. 
+3. Tasoristeyksen näkemiä ei kohtuullisesti saa ohjeiden mukaisiksi. 
+4. Tieliikenteen määrä on yli 50 moottoriajoneuvoa vuorokaudessa. 
+5. Risteyskulma on alle 80gon (100gon = 90°). 
+6. Tieliittymä on liian lähellä tasoristeystä tai radan suuntainen tie on liian lähellä rataa. 
+6  Tasausviiva tarkoittaa tien pinnan korkeusvaihtelua tien pituussuunnassa. 
+7  Odotustasanne on tasoristeyksen molemmilla puolilla oleva tasaukseltaan rajattu tiealue.
