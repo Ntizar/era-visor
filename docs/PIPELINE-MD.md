@@ -48,7 +48,12 @@ ERA (era.europa.eu)
 
 - Traducción en lote con `qwen3.8-flash` **con `enable_thinking: false`** (sin eso el modelo
   se come el presupuesto en razonamiento, tarda 12× más y devuelve vacío).
-- Revisión con `deepseek-v4-pro` y **máximo 3 hilos/sesiones** a la vez.
+- Revisión con `deepseek-v4-pro`.
+- **Concurrencia**: 2 llamadas de día y **6 de 00:00 a 06:00** (`--workers 2 --workers-noche 6`).
+  La puerta consulta la hora antes de cada informe, así que el cambio de turno no requiere
+  reiniciar nada. Traducción y revisión nunca a la vez (van en fases separadas del driver).
+- Ritmo medido: ~40 k caracteres/min a 2 llamadas, ~64 k a 6. El corpus son ~204 M de
+  caracteres de traducción + ~55 h de revisión.
 - Todo es reanudable: `data/traduccion/<CC>.json` y `data/revision/<CC>.json` guardan el
   estado informe a informe. Volver a lanzar un país sólo hace lo que falta.
 
