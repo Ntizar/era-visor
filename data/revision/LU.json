@@ -1,0 +1,131 @@
+{
+ "md-es/LU/2013/Heisdorf_230513_rapport_final.md": {
+  "estado": "aviso",
+  "idioma_origen": "FR",
+  "paginas_revisadas": [
+   2,
+   3,
+   5,
+   7,
+   9,
+   11
+  ],
+  "fidelidad_media": 97.2,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "Compte rendu des investigations et enquêtes traducido como 'Relato de las investigaciones y pesquisas' en lugar de 'Informe de las investigaciones y encuestas'",
+   "Compte rendu final de la chaîne des évènements traducido como 'Relato final de la cadena de sucesos' en lugar de 'Informe final de la cadena de sucesos'",
+   "Règles et réglementations traducido como 'Reglas y normativas' en lugar de 'Reglas y reglamentaciones'",
+   "boucles d'annonce traducido como 'bobinas de aproximación' en lugar de 'bucles de anuncio' o 'circuitos de anuncio'",
+   "lisses traducido como 'barreras' en lugar de 'brazos' o 'barreras móviles' (término menos específico)",
+   "gong électronique traducido como 'campana electrónica' en lugar de 'gong electrónico'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/LU/2013/Heisdorf_230513_rapport_final.md"
+ },
+ "md-es/LU/2006/Rapport_Zoufftgen_VF[1]-111006.md": {
+  "estado": "aviso",
+  "idioma_origen": "FR",
+  "paginas_revisadas": [
+   3,
+   23,
+   44,
+   64,
+   83,
+   105
+  ],
+  "fidelidad_media": 97.5,
+  "fidelidad_min": 95,
+  "sin_dictamen": [],
+  "terminos": [
+   "poste d'aiguillage traducido como 'puesto de encaminamiento' en lugar de 'puesto de agujas' o 'puesto de enclavamiento'",
+   "aiguilleur traducido como 'encaminador' en lugar de 'guardagujas' o 'agente de agujas'",
+   "voie banalisée traducido como 'vía banalizada' en lugar de 'vía banalizada' (aceptable, pero podría normalizarse como 'vía de doble sentido banalizado')",
+   "analyse des risques traducido como 'evaluación de riesgos' en la primera aparición, cuando debería ser 'análisis de riesgos' para mantener la coherencia terminológica",
+   "disfuncionamientos (no es un término normalizado en castellano; debería ser 'disfunciones' o 'fallos de funcionamiento')",
+   "puesto de aguja (traducción literal de 'poste d'aiguillage'; el término normalizado es 'puesto de enclavamiento')"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/LU/2006/Rapport_Zoufftgen_VF[1]-111006.md"
+ },
+ "md-es/LU/2017/Rapport final_Dudelange_ 20170214version finale.md": {
+  "estado": "aviso",
+  "idioma_origen": "FR",
+  "paginas_revisadas": [
+   3,
+   17,
+   32,
+   48,
+   62,
+   77
+  ],
+  "fidelidad_media": 97.0,
+  "fidelidad_min": 92,
+  "sin_dictamen": [],
+  "terminos": [
+   "«Réglementation» traducido como «Normativa» en lugar de «Reglamentación»",
+   "«repères» traducido como «marcas» en lugar de «referencias» o «señales de referencia»",
+   "«lignes de contact» traducido como «líneas aéreas de contacto» (añade «aéreas» no presente en el original)",
+   "«commandement» traducido como «mando» en lugar de «orden» o «mandato»",
+   "«engins moteurs» traducido como «locomotoras» en lugar de «unidades motrices» o «vehículos motores»",
+   "Triage traducido como 'Clasificación' en lugar de 'Puesto de clasificación' o 'Estación de clasificación'"
+  ],
+  "fallos": [],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/LU/2017/Rapport final_Dudelange_ 20170214version finale.md"
+ },
+ "md-es/LU/2006/ERA-2009-0007-00-00-EN.md": {
+  "estado": "revisar",
+  "idioma_origen": "EN",
+  "paginas_revisadas": [
+   2,
+   22,
+   45,
+   65,
+   87,
+   107
+  ],
+  "fidelidad_media": 86.6,
+  "fidelidad_min": 55,
+  "sin_dictamen": [
+   2
+  ],
+  "terminos": [
+   "Traducción incorrecta de 'Switch Tender': 'Agujero' no es un término ferroviario normalizado; debería ser 'Guardagujas' o 'Operador de Agujas'.",
+   "Traducción incorrecta de 'Switch Post': 'Puesto de Enclavamiento' no es el término más preciso para 'Switch Post'; debería ser 'Puesto de Agujas' o 'Puesto de Maniobras'."
+  ],
+  "fallos": [
+   {
+    "pagina": 2,
+    "fidelidad": null,
+    "omisiones": [],
+    "invenciones": [],
+    "numeros_ok": null,
+    "terminos": [],
+    "comentario": "respuesta no parseable"
+   },
+   {
+    "pagina": 45,
+    "fidelidad": 55,
+    "omisiones": [
+     "Falta la frase final del original: 'the middle of the CCP Traffic Controller's desk' (la traducción corta en 'la hoja de papel en')."
+    ],
+    "invenciones": [
+     "Traducción de 'Switch Tender' como 'Agujero' (invención terminológica sin sentido en castellano)."
+    ],
+    "numeros_ok": true,
+    "terminos": [
+     "'Switch Tender' traducido como 'Agujero' en lugar de 'Guardagujas' o 'Operador de agujas'.",
+     "'track circuit' traducido como 'contador de eje' en lugar de 'circuito de vía'.",
+     "'GTR Exchange' traducido como 'Intercambiador de GTR' en lugar de 'Central de GTR' o 'Puesto de GTR'."
+    ],
+    "comentario": "La traducción contiene errores terminológicos graves y una omisión al final del fragmento."
+   }
+  ],
+  "fecha": "2026-11-18",
+  "md_es": "md-es/LU/2006/ERA-2009-0007-00-00-EN.md"
+ }
+}

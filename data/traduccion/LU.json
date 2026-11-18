@@ -1,0 +1,46 @@
+{
+ "md/LU/2013/Heisdorf_230513_rapport_final.md": {
+  "fichero": "md/LU/2013/Heisdorf_230513_rapport_final.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 21534,
+  "ratio": 1.0,
+  "avisos": [],
+  "tokens_in": 7595,
+  "tokens_out": 5167,
+  "destino": "md-es/LU/2013/Heisdorf_230513_rapport_final.md"
+ },
+ "md/LU/2017/Rapport final_Dudelange_ 20170214version finale.md": {
+  "fichero": "md/LU/2017/Rapport final_Dudelange_ 20170214version finale.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 213696,
+  "ratio": 1.0,
+  "avisos": [],
+  "tokens_in": 79915,
+  "tokens_out": 55073,
+  "destino": "md-es/LU/2017/Rapport final_Dudelange_ 20170214version finale.md"
+ },
+ "md/LU/2006/Rapport_Zoufftgen_VF[1]-111006.md": {
+  "fichero": "md/LU/2006/Rapport_Zoufftgen_VF[1]-111006.md",
+  "estado": "ok",
+  "idioma": "FR",
+  "chars": 320663,
+  "ratio": 1.02,
+  "avisos": [],
+  "tokens_in": 117564,
+  "tokens_out": 81810,
+  "destino": "md-es/LU/2006/Rapport_Zoufftgen_VF[1]-111006.md"
+ },
+ "md/LU/2006/ERA-2009-0007-00-00-EN.md": {
+  "fichero": "md/LU/2006/ERA-2009-0007-00-00-EN.md",
+  "estado": "ok",
+  "idioma": "EN",
+  "chars": 334257,
+  "ratio": 1.07,
+  "avisos": [],
+  "tokens_in": 107693,
+  "tokens_out": 86700,
+  "destino": "md-es/LU/2006/ERA-2009-0007-00-00-EN.md"
+ }
+}

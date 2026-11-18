@@ -18,7 +18,13 @@ import urllib.parse
 from pathlib import Path
 
 BASE = "https://www.era.europa.eu"
-UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+# UA completo + Accept + Referer: con un UA pelado ERA devuelve 429 (detección de bot).
+UA = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                   "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+}
 OUT_DIR = Path(__file__).resolve().parent.parent / "data" / "pdf-manifest"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -124,8 +130,18 @@ def main():
             print(f"  ✗ {code}: {type(e).__name__} {e} — se sigue con el próximo")
             continue
         dest = OUT_DIR / f"{code}.json"
-        dest.write_text(json.dumps(registros, ensure_ascii=False, indent=1), encoding="utf-8")
-        print(f"  ✓ {code}: {len(registros)} PDFs → {dest}")
+        # MERGE, no sustitución: un año que falle hoy no debe borrar lo cosechado ayer.
+        previos = []
+        if dest.exists():
+            try:
+                previos = json.loads(dest.read_text(encoding="utf-8"))
+            except Exception:
+                previos = []
+        # los nuevos mandan (traen año/país frescos)
+        por_url = {it["pdf"]: it for it in previos}
+        por_url.update({it["pdf"]: it for it in registros})
+        dest.write_text(json.dumps(list(por_url.values()), ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"  ✓ {code}: {len(registros)} PDFs ({len(por_url)} en el manifiesto) → {dest}")
 
 
 if __name__ == "__main__":

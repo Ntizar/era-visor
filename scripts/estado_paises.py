@@ -60,7 +60,7 @@ def contar_md(raiz):
         fich, esc, chars = [], 0, 0
         for dp, _, fs in os.walk(base):
             for f in sorted(fs):
-                if not f.endswith(".md"):
+                if not f.endswith(".md") or f.lower().startswith(("indice", "índice", "readme", "leeme")):
                     continue
                 ruta = os.path.join(dp, f)
                 anio = os.path.basename(dp)

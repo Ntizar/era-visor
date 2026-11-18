@@ -206,7 +206,8 @@ def main():
             print(f"[{code}] sin md-es")
             continue
         ficheros = sorted(os.path.join(dp, f) for dp, _, fs in os.walk(raiz)
-                          for f in fs if f.endswith(".md"))
+                          for f in fs if f.endswith(".md")
+                          and not f.lower().startswith(("indice", "índice", "readme", "leeme")))
         if a.limite:
             ficheros = ficheros[:a.limite]
         print(f"[{code}] revisando {len(ficheros)} informes · {a.muestras} muestras · {a.modelo}")
@@ -228,8 +229,10 @@ def main():
         salida = os.path.join(REV, f"{code}.json")
         json.dump(res, open(salida, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         ok = sum(1 for r in res.values() if r["estado"] == "ok")
+        av = sum(1 for r in res.values() if r["estado"] == "aviso")
+        mal = len(res) - ok - av
         medias = [r["fidelidad_media"] for r in res.values() if "fidelidad_media" in r]
-        print(f"[{code}] REVISADOS {len(res)} · ok {ok} · revisar {len(res)-ok} · "
+        print(f"[{code}] REVISADOS {len(res)} · ok {ok} · aviso {av} · revisar {mal} · "
               f"fidelidad media {round(sum(medias)/len(medias),1) if medias else '-'} → {salida}")
 
 

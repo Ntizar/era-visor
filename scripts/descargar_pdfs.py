@@ -15,11 +15,19 @@ import urllib.parse
 from pathlib import Path
 
 BASE = "https://www.era.europa.eu"
-UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+# ERA responde 429 si el UA no parece un navegador de verdad: hacen falta UA completo,
+# Accept y Referer. Con estas cabeceras los PDF bajan a ~0,5 s cada uno, sin límite.
+UA = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                   "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"),
+    "Accept": "application/pdf,text/html,application/xhtml+xml,*/*;q=0.8",
+    "Accept-Language": "es-ES,es;q=0.9,en;q=0.8",
+}
 RAIZ = Path(__file__).resolve().parent.parent
 
 
 def descargar(codigo: str):
+    cabeceras = dict(UA, Referer=f"{BASE}/era-folder/{codigo.lower()}-investigations")
     manifest = json.loads((RAIZ / "data" / "pdf-manifest" / f"{codigo}.json").read_text(encoding="utf-8"))
     dest_dir = RAIZ / "pdfs" / codigo
     dest_dir.mkdir(parents=True, exist_ok=True)
@@ -35,7 +43,7 @@ def descargar(codigo: str):
         datos = None
         for intento in range(6):
             try:
-                req = urllib.request.Request(url, headers=UA)
+                req = urllib.request.Request(url, headers=cabeceras)
                 with urllib.request.urlopen(req, timeout=120) as r:
                     datos = r.read()
                 break
