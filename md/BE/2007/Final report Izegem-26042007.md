@@ -1,0 +1,1811 @@
+---
+pais: BE
+anio: 2007
+idioma: NL
+pdf: Final report Izegem-26042007.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/Final%20report%20Izegem-26042007.pdf
+md5_pdf: 90396d39d463e707f0cee0e0436af327
+paginas: 46
+chars: 61162
+tablas: 1
+cuerpo: "12.0pt; encabezados 3 niveles"
+rotulos_excluidos: "83 (#)"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 5
+fecha_proceso: 2026-11-18
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+Onderzoeksorgaan 
+Spoorwegongevallen 
+Ongevalsverslag 
+Botsing tussen twee treinen in het 
+station Izegem op 26 april 2007 
+externe expertise  :  NMBS – Holding 
+directie Strategie en Coördinatie 
+Veiligheid en Milieu 
+september 2007                                               
+
+## Página 2
+
+### Inhoudsopgave 
+### Hoofdstuk I: Samenvatting  
+  4 
+### Hoofdstuk II:  Het relaas van de feiten  
+  6  
+1. Het verhaal van de botsing 
+  6 
+2. De interventies en het hulpplan  
+  8 
+3. De balans van het ongeval 
+  9  
+4.  De externe omstandigheden, weersomstandigheden 
+  9  
+5.  De maatregelen om de normale dienst te herstellen 
+10 
+### Hoofdstuk III: De opening van het onderzoek door het  
+### Onderzoeksorgaan  Spoorwegongevallen. 
+12  
+1.  De beslissing met de motivatie en de kennisgeving  
+12  
+2.  De samenstelling van het onderzoeksteam 
+12 
+### Hoofdstuk IV: De  context van het ongeval. 
+13  
+1. De infrastructuur. 
+13  
+2.  Het rollend  materieel. 
+15 
+3.  Het communicatiesysteem. 
+16 
+4. De werken, uitgevoerd in het voorgaande weekeinde 
+20 – 21 april 2007 
+17 
+### Hoofdstuk V: Het  onderzoek. 
+18  
+Deel  I: De rechtstreekse  oorzaak van het ongeval. 
+18 
+1. De  onmiddellijke  vaststellingen. 
+18 
+2. De  afgelegde verklaringen. 
+18  
+3. De  geregistreerde gegevens. 
+19 
+de snelheidsband van de trein E 818 
+21 
+de snelheidsband van de trein ER 8991 
+22           
+4.  De opeenvolgende seinbeelden van de seinen die  
+waargenomen zijn door beide treinen  en het verband  
+met het al dan niet koppelen  van 
+de spoorstroomkringen  
+23   
+ 5. Besluit van deel I 
+29 
+
+## Página 3
+
+Deel II: het verloop van de studie/ uitvoering bij het  
+| Deel II: het verloop van de studie/ uitvoering bij het aanpassen van de plaatselijke seininrichting . | 30 |
+| 1 De opdracht van het werk . . | 30 |
+| 2 De studie van een opdracht / de uitvoering van werken . . | 32 |
+| 2 1 Het organigram betrokken diensten op het . . ogenblik van de opdracht 2 2 De studie en uitvoering van werken infrastructuur . . | 32 32 |
+| 3 Hoe de studie en uitvoering van de seinaanpassingen . te Izegem in werkelijkheid verlopen is . 3 1 De afgelegde verklaringen . . . | 35 35 |
+| 3 2 Het relaas van het reële verloop van . . de studie/uitvoering . 4 Besluit van deel II . . | 36 44 |
+| Hoofdstuk VI: Aanbevelingen . | 45 |
+
+## Página 4
+
+### Hoofdstuk I   Samenvatting 
+Op 26 april 2007 rijdt om 19 u 10 te Izegem, gelegen op de spoorlijn 66, Brugge 
+– Kortrijk, een ledige reizigerstrein achteraan in op een beladen reizigerstrein die 
+net uit het station vertrokken is. 
+De gevolgen van het ongeval zijn ernstig, met name  53 ( licht ) gekwetste 
+personen waaronder twee personeelsleden van de NMBS en zware materiële 
+schade aan de spoorweginfrastructuur en het betrokken rollend materieel.  Het 
+bedrag van deze schade wordt op meer dan 6 miljoen EUR geraamd.. 
+Het onderzoek bevestigt in eerste instantie dat het toegangssein tot de lijnsectie 
+waarop de botsing was gebeurd, een GROEN seinbeeld aan de bestuurder van 
+de achterkomende, ledige reizigerstrein had getoond.  
+Klaarblijkelijk  had het seininrichtingssysteem nagelaten de bewuste trein een 
+stopbevel te geven, niettegenstaande zijn verdere reisweg niet vrij was.  
+De oorzaak van dit falen werd gevonden in het feit dat de aanwezigheid van de 
+aangereden trein  in het station ongedetecteerd gebleven was of althans dat de 
+spoorstroomkringen die functioneel hiervoor moeten instaan, deze informatie niet 
+hadden doorgestuurd naar het betrokken toegangssein. 
+Er was duidelijk geen koppeling tussen de spoorstroomkring en het sein in 
+kwestie. 
+Enkele dagen voor de treinbotsing waren op de plaats van het gebeuren seinen 
+verplaatst met het oog op een meer gebruiksvriendelijke exploitatie van het  
+station. Blijkbaar had men bij deze omvormingswerken nagelaten de 
+spoorstroomkringen van  de perronsporen van het station te verbinden met de 
+seinen die in de omgevormde configuratie de veilige toegang tot de betrokken 
+lijnsecties moesten verzekeren ( dit bleek het geval voor beide sporen, zowel in 
+de rijrichting, als in de  tegenrichting  ). 
+Verder onderzoek wees uit dat reeds bij de studie van de beoogde omvorming 
+deze koppelingen niet waren voorzien en dat om allerlei redenen op geen enkel 
+later ogenblik,  noch tijdens de eigenlijke uitvoeringswerken,  noch gedurende 
+het testen,  noch op het moment van de  proeven voor  de indienststelling aan 
+het licht was gekomen dat de gewijzigde seinininrichting zulke noodlottige 
+tekortkomingen vertoonde  
+Men kan dan ook moeilijk om de vaststelling heen dat het omvormingsproject 
+van de installaties  seinuitrusting van het type “al-relais” te Izegem onvoldoende 
+is verlopen aan de hand van bijgewerkte, heel duidelijk omschreven inhoudelijke 
+regels en procedures  van uitvoering en dat de beschikbare regels en procedures  
+bij momenten weinig nauwgezet zijn nagekomen. 
+
+## Página 5
+
+De aanbevelingen die uit de besluiten van het onderzoek zijn voortgekomen, 
+beogen dan ook op de eerste plaats alle betrokkenen  te doen beseffen hoezeer 
+het voor de veiligheid belangrijk is te beschikken over heel formeel uitgewerkte 
+en gestandaardiseerde werkmethodes, ook voor “ kleinere” projecten  en 
+hoezeer hun stipte naleving onontbeerlijk is. 
+                          --------------------------------------------- 
+
+## Página 6
+
+### Hoofdstuk II   Het  relaas  van  de  feiten 
+### 1.  Het verhaal van de botsing. 
+Op donderdag 26 april 2007 komt om 19u07 de trein E818 ( IC- verbinding 
+Oostende-Kortrijk, 8 min.vertraging) aan op het perronspoor 2  ( spoor A van de 
+doorgaande spoorlijn Brugge – Kortrijk   ) van het station te Izegem.  
+De  trein heeft er een voorziene stilstand .  De reizigers stappen af en op. 
+De treinbegeleider geeft het signaal  “verrichtingen gedaan” aan de 
+treinbestuurder en de trein vertrekt  met Kortrijk als bestemming. 
+Onmiddellijk nadat de trein E818 vertrokken is, komt om 19u10 een ledig treinstel 
+ER8991  ( Brugge - Kortrijk, 5 min. voor uur)  het station van Izegem aan hoge 
+snelheid ( de referentiesnelheid van de spoorlijn in de doortocht van het station 
+Izegem bedraagt 120 km/h) binnengereden, eveneens  op spoor 2 .  
+Bij het naderen van het station Izegem, vanuit de richting Brugge, vertoont het 
+tracé van de spoorlijn een bocht.  
+De bestuurder van de trein ER8991 merkt hierdoor heel laat dat de doortocht van 
+zijn trein door een voorliggende trein versperd is en  slechts op het laatste 
+ogenblik heeft hij  een noodremming ingezet. Op hetzelfde moment is hij uit zijn 
+stuurpost naar de achterzijde van het stuurrijtuig gevlucht in een poging om 
+bescherming te vinden tussen de achterste rij zetels. 
+Een botsing is op geen enkele manier nog te vermijden. 
+Trein ER8991 rijdt met hoge snelheid in op trein E818 ter hoogte van het 
+afstandspunt 43.875  van de spoorlijn. 
+De trein E818 wordt door de klap 
+brutaal vooruit gestoten en komt tot 
+stilstand op 120 m afwaarts van de 
+plaats van de aanrijding . 
+ De trein ontspoort niet, maar de  
+ achterste stuurpost van de locomotief   
+( Type 21 nr. 2132) die de trein duwt  
+(trek- duw opstelling ) is volledig  
+vernield. 
+
+## Página 7
+
+Het    stuurrijtuig  van de trein ER8991 schuift over de stuurpost van de 
+locomotief 2132 van de aangereden trein en raakt twee dwarsbalken van de 
+elektrische bovenleidingsportieken. 
+Het stuurrijtuig belandt  gedeeltelijk in het tussenspoor en wordt door de klap 
+volledig opengereten. 
+Het tweede rijtuig van de trein ER8991 ontspoort eveneens en komt deels op het 
+perron 2 van het station.     
+De  trein ER 8991 komt  tot stilstand  aan  afstandpunt 43.988 , op een afstand 
+van 113 m van de plaats  waar de botsing gebeurd is. 
+Op het ogenblik van de botsing bevindt de trein E839 ( IC–verbinding Kortrijk-
+Oostende,) zich aan perron 1 van het station. te Izegem.  
+Deze trein  komt van Kortrijk en is te Izegem  aan perron 1, (spoor B van de 
+doorgaande spoorlijn 66), met een vertraging van 7 minuten  om 19 u 08  
+aangekomen. 
+De  reizigersbeweging op het perron 1 is afgelopen en de treinbegeleider maakt 
+aanstalten  om aan de treinbestuurder het signaal  “ verrichtingen gedaan “ te 
+geven, wanneer op het nevenliggende spoor de  botsing plaats heeft. 
+Brokstukken en glasscherven vallen op het perron 1, waarop  nog reizigers die 
+afkomstig zijn van de trein E839, vertoeven.   De twee afgerukte dwarsbalken 
+van de bovenleidingsportieken komen zowel op het dak van de trein E 839, als 
+op het dak van de aanrijdende  trein ER 8991 terecht. 
+
+## Página 8
+
+### 2.  De interventies  en  het hulpplan. 
+Onmiddellijk na het ongeval worden alle betrokken diensten, de reddingsdiensten  
+en de noodhulpdienst in kennis gesteld van het gebeuren en de nodige acties 
+gaan onmiddellijk in. 
+## 26/04/2007  
+- 19u10: 
+tijdstip van het ongeval; 
+- 19u11:    toezicht  Izegem verwittigt  alle noodzakelijke hulpdiensten                          
+MUG, dienst 100, Brandweer, Rode Kruis, ... 
+- 19u12:   CMK (Centrale Meldkamer) informeert  Traffic Control.   Het 
+treinverkeer tussen Roeselare en Kortrijk wordt geschorst. De 
+regelaar van Blok 21 licht GBI-N en de ambtenaren van het 
+arrondissement Kortrijk in.  De  CMK organiseert de  tussenkomst 
+van de hulpdiensten. 
+- 19u20: 
+de 
+districtsdirecteur 
+NW 
+en 
+het 
+contactpunt 
+I-N 
+Gent                          
+worden  ingelicht; 
+- 19u25:  
+de ingenieur  exploitatieveiligheid en de zoneleider I-I zone 3 
+Gent worden van het ongeval in kennis gesteld; 
+- 19u50: 
+de leidend geneesheer district NW en hoofdgeneesheer  worden       
+ingelicht via mailbox-GSM.  Om 20u06 wordt geregeld dat de 
+geneesheer ongevallen district NW ter plaatse gaat; 
+- 19u50: 
+de ambtenaar van wacht NMBS District NW wordt ingelicht; 
+- 20u20:  
+het Medisch Urgentieplan type B wordt afgekondigd voor de 
+opvang 
+en/of 
+doorverwijzing 
+van 
+de 
+gekwetsten 
+naar 
+ziekenhuizen in de ruime omgeving van de plaats van het 
+ongeval( Roeselare, Izegem, Waregem en Kortrijk ).   Een 
+urgentietent wordt opgesteld op de plaats van het ongeval, het 
+coördinatiecentrum wordt opgericht in het nabijgelegen stadhuis 
+van Izegem; 
+- 20u24:  
+de beveiliging gevallen 29351, 29352, 29354 en 29355 wordt van 
+kracht ( de electrische voeding van de betrokken gedeelten van 
+de bovenleidingen wordt uitgeschakeld ). 
+
+## Página 9
+
+### 3.  De balans van het ongeval  
+menselijk : 
+Er zijn 53 gekwetsten, waaronder 51 reizigers, alsook de treinbestuurder 
+van de aanrijdende trein de  treinbegeleider van de aangereden trein.  
+materieel : 
+De materiële schade is een gevolg van: 
+- 
+de beschadiging van 17 rijtuigen M4, waaronder 1 stuurrijtuig 
+onherstelbaar. 
+- 
+de ernstige beschadiging van de locomotief  T21. 
+- 
+de zware beschadiging van de spoorweginfrastructuur (sporen, 
+bovenleiding en perron). 
+De totale schade wordt geraamd op 6 miljoen EUR. 
+milieu : 
+Het  treinongeval heeft  geen schade aan het milieu veroorzaakt.  Alle 
+schroot werd in containers afgevoerd naar een erkende schroothandelaar 
+waar de verschillende soorten schroot gesorteerd werden.  
+### 4.  De externe omstandigheden, weersomstandigheden. 
+Het treinongeval is gebeurd rond 19u bij klaarlichte dag. Er was geen bewolking.  
+De zon zit op dat uur reeds laag en staat in het verlengde van het spoor kant 
+Roeselare. Het zonlicht valt op de voorkant van de seinpanelen. 
+Het seinbeeld van het sein A424 is duidelijk zichtbaar van op de 
+waarnemingsafstand van 250 m.  
+
+## Página 10
+
+### 5.   De maatregelen om de normale dienst te herstellen. 
+## 26/04/2007 
+- 22u35:    het parket geeft toelating tot de verwijdering van de portieken. 
+- 22u40:    twee rangeerlocomotieven worden opgevorderd ter evacuatie van                           
+de bij het ongeval betrokken treinen  E818 en ER8991 
+- 23u06 :    de Brossel ES  Z90025 komt  aan te Lichtervelde 
+## 27/04/2007 
+- 00u01:    het hulpelement voor de trein E 839 komt aan te Lichtervelde; 
+- 00u41:     het hulpelement voor de trein  E818 komt aan te Kortrijk; 
+- 00u55:    de hersporingstrein komt aan te Kortrijk; 
+- 01u00: 
+de parketmagistraat geeft toelating om met het hulpelement tot 
+tegen de  trein E839 te komen; 
+- 02u33:    de trein  ER 839 kan vertrekken; 
+- 02u40: 
+de trein ER 818 die wordt geëvacueerd richting Roeselare kan                          
+vertrekken; 
+- 03u50:    de  Brossel ES  vertrekt te Roeselare naar de plaats van het 
+ongeval.  Twee kranen van firma Gheysens worden opgevorderd 
+om bijstand te geven aan de herstellings- en lichtingswerken; 
+- 04u30:      de treindienst op de lijn66  wordt aangepast en herneemt: 
+ - een 
+navette 
+treindienst 
+met 
+motorwagens 
+tussen                           
+Kortrijk en   Izegem; 
+- 
+een vervangende busdienst tussen Izegem en Roeselare; 
+- 
+de IC-C BXX wordt afgeschaft tussen Roeselare en 
+Kortrijk; 
+- 
+de L-relatie 8XX wordt afgeschaft tussen Roeselare en 
+Kortrijk.  
+de sporen  moeten ter beschikking van het parket blijven voor 
+verder     onderzoek. 
+- 13u54:  
+alle sporen worden door het parket vrijgegeven . 
+- 16u10:  
+een knipkraan komt ter plaatse; 
+- 16u30:  
+de diensten Infrastructuur komen met onderstoptoestel ter 
+plaatse. 
+
+## Página 11
+
+## 28/04/2007 
+- 02u11:  
+de beveiligingen gevallen 29352, 29354 en 29355 tabel II L66 
+worden 
+opgeheven 
+(de 
+electrische 
+voeding 
+van 
+de 
+bovenleidingen wordt weer ingesteld );  
+- 02u36 :   de herstellingswerken aan spoor B te Izegem worden beëindigd; 
+Het  spoor B wordt terug in dienst gesteld; 
+- 06u00:    een dienst op enkelspoor, over spoor B,  wordt ingericht                          
+tussen Roeselare en Izegem.  Alle treinen krijgen TNB het  bevel  
+E373 tot voorzichtig rijden tussen KP   44.072 en 43.621. 
+## 30/04/2007 
+- 04u36: 
+de beveiligingen geval 29351 tabel II L66 worden opgeheven 
+(opnieuw electrische voeding ). 
+## 01/05/2007 
+- 15u10:   de voorlopige herstelling van het spoor A te Izegem, is beëindigd.  
+Het spoor komt in dienst met een beperking van de snelheid tot                         
+20 
+km/h 
+tussen 
+kmp 
+43.870 
+en 
+44.000                           
+( diensttelegram  S381 )            
+## 03/05/2007 
+- 09u10:   definitieve 
+herstelling 
+van 
+het 
+spoor 
+A: 
+onderstop-
+werkzaamheden.  De werken zijn om 10u35 beëindigd.  
+## 07/08/2007 
+Het begin van de  herstelling van de klinkerbevloering op perron 2  te Izegem.   
+
+## Página 12
+
+### Hoofdstuk III     De  opening van het 
+### onderzoek door het Onderzoeksorgaan  
+###               Spoorwegongevallen  
+### 1. De beslissing met de motivatie en de kennisgeving. 
+Bewust ongeval is als “ ernstig “ te bestempelen wegens zijn zware gevolgen op 
+menselijk, technisch en financieel vlak.  Onder “licht verschillende “ 
+omstandigheden konden deze gevolgen  bovendien nog veel aanzienlijker 
+geweest zijn. 
+De wet van 19 december 2006 betreffende de exploitatieveiligheid van de 
+spoorwegen en haar uitvoeringsbesluiten van 16 januari 2007 m.b.t. de 
+oprichting van een onderzoeksorgaan voor ongevallen en incidenten op het 
+spoor  en m.b.t. vaststelling van sommige regels betreffende deze onderzoeken  
+bepalen dat boven genoemde ongevallen het voorwerp dienen uit te maken van 
+een grondig onderzoek door het voornoemde onderzoeksorgaan 
+Het onderzoeksorgaan heeft dan ook op 27 april 2007 alle betrokken partijen 
+ervan in kennis gesteld dat het een onderzoek had geopend naar de 
+omstandigheden van de treinbotsing op 26 april 2007 in het station van Izegem.. 
+Het bewuste onderzoek gebeurt onafhankelijk van  opsporings – en gerechtelijke 
+onderzoeken en heeft geenszins betrekking op het vaststellen van schuld of 
+aansprakelijkheid.  
+De bedoeling is op de eerste plaats om vanuit spoorwegtechnisch oogpunt de 
+omstandigheden van het ongeval  te onderzoeken en om vanuit de betrokken 
+besluiten te komen tot aanbevelingen aan de betrokken instanties met het oog 
+op een verbetering van de spoorwegveiligheid;    
+### 2.     De samenstelling van het onderzoeksteam. 
+Overeenkomstig artikel 4 van het koninklijk besluit van 16 januari 2007 m.b.t. zijn 
+oprichting heeft het onderzoeksorgaan de mogelijkheid om zich bij dit  onderzoek 
+te laten bijstaan door externe deskundigen.  
+In voorkomend geval werd voor deze expertise van buitenaf  beroep gedaan op 
+de  NMBS  Holding, meer bepaald zijn Dienst Strategie& Coordinatie Veiligheid 
+en Milieu, waarvan  de heren Dirk Vansteenkiste, manager , Joseph Fouquet 
+eerste industrieel ingenieur en Raphael Vermeire, industrieel ingenieur aan het 
+onderzoek hebben meegewerkt.  
+
+## Página 13
+
+### Hoofdstuk IV    De  context  
+van het ongeval 
+### 1.     De   infrastructuur. 
+-  de sporenconfiguratie 
+Het station van Izegem ligt op de spoorlijn 66 (Brugge-Kortrijk). 
+Vanuit de richting Roeselare gezien  maken de sporen een bocht net voor 
+station: het spoor is recht tot  kmp  43.327 waarna de bocht met een straal 
+van ongeveer  1100 m en een lengte van  470m ingaat.  Voor en na de 
+bocht is er een overgangsbocht van elk 60 m. 
+Deze bocht heeft voor gevolg dat vanuit de kant Roeselare het perron en 
+de perronsporen van het station pas vanaf 200 m afstand zichtbaar 
+worden. 
+De referentiesnelheid van de spoorlijn in de doortocht van het station  van 
+Izegem bedraagt  120 km/h. 
+- de seininrichting 
+.  
+Op 
+het 
+plan 
+hierna 
+zijn 
+de 
+seinen 
+en 
+de 
+onderscheiden 
+spoorstroomkringen  die de bezetting van de lijnsecties detecteren 
+weergegeven voor wat de zone in de omgeving van het station Izegem 
+betreft.   
+
+## Página 14
+
+
+
+## Página 15
+
+### 2. Het rollend  materieel.      
+Volgende treinen waren betrokken bij het ongeval: 
+- 
+### Trein E 818    de aangereden trein : 
+een trek-duw stel, samengesteld uit een stuurrijtuig M4 (58053), 5 
+rijtuigen M4 en een  locomotief  Type 21 (2132). De trein werd 
+bestuurd vanuit het stuurrijtuig.  
+Het materieel van deze  trein heeft de volgende registratienummers: 
+-  M4-stuurrijtuig:  58053 
+- 
+M4-rijtuig:   52311 
+- 
+M4-rijtuig    52388 
+- 
+M4-rijtuig    52363 
+- 
+M4-rijtuig    52331 
+- 
+M4-rijtuig    52420 
+- 
+locomotief T21: 2132 
+- 
+### Trein ER8991  de  aanrijdende trein  
+een trek-duw stel, samengesteld uit een stuurrijtuig M4 (58058),                          
+5 rijtuigen M4 en een locomotief  Type 21 (2135). De trein werd 
+bestuurd vanuit het stuurrijtuig. 
+Het materieel van deze trein heeft de volgende  registratienummers: 
+- 
+M4-stuurrijtuig:   58058 
+- 
+M4-rijtuig:   52358 
+- 
+M4-rijtuig    52401 
+- 
+M4-rijtuig    52265 
+- 
+M4-rijtuig    52280 
+- 
+M4-rijtuig    52315 
+- 
+Locomotief T21:  2135 
+- 
+### Trein E839   de trein die stilstond op het nevenliggend spoor, aan  het 
+perron 1 : 
+een trek-duw stel, samengesteld uit een stuurrijtuig M4 (58052),                          
+3 rijtuigen M4 en een  locomotief Type 21 (2107).  De trein werd 
+bestuurd vanuit de locomotief. 
+Het materieel van deze  trein heeft de volgende registratienummers: 
+- 
+M4-stuurrijtuig: 58052 
+- 
+M4-rijtuig:   52414 
+- 
+M4-rijtuig:  52258 
+- 
+M4-rijtuig:  52380 
+- 
+Locomotief T21: 2107 
+
+## Página 16
+
+In de  stuurrijtuigen  van deze treinen is een registratietoestel Deuta ER 16 
+gemonteerd met een snelheidsband voor een maximale snelheid van 180km/h. 
+Dit toestel registreert automatisch: 
+- 
+de tijd; 
+- 
+het verloop van de snelheid op elk ogenblik; 
+- 
+de bijkomende gegevens zoals: 
+-  de registratie negatieve en positieve impulsen van de seinen; 
+- 
+de werking van de uitrusting MEMOR; 
+- 
+de waakzaamheid van de treinbestuurder. 
+De nummers van de registratietoestellen  van beide treinen zijn: 
+- 
+E818:  
+731326ER16; 
+- 
+ER8991:  731428ER16. 
+### 3.   Het communicatiesysteem. 
+De volgende communicatiemiddelen zijn beschikbaar: 
+- 
+op de treinen: 
+Radio grond-trein: De bestuurder of de lijnregelaar kiest tussen de 
+verschillende 
+radiocommunicatietypes 
+het 
+voorgeschreven 
+type 
+(algemene oproep, gecodeerde boodschap, selectief gesprek). Alle 
+gesprekken moeten verlopen volgens een bepaalde procedure.  
+Deze gesprekken worden opgenomen en kunnen onder bepaalde 
+voorwaarden door bevoegd personeel beluisterd worden. 
+- 
+treinpersoneel: 
+GSM: zowel de treinbestuurder als de treinbegeleider beschikken over 
+een GSM.   Bij de aanvang van hun dienst moeten zij zich via een 
+gecodeerd SMS - bericht inloggen in het systeem ALASCA, een 
+informatica – toepassing waarmee de verkeersleiding steeds het GSM-
+nummer van een treinbestuurder kan kennen om contact te nemen. 
+De databank van dit systeem wordt bijgewerkt door de SMS-berichten 
+die de bestuurders met hun GSM verzenden en via de ingevoerde 
+gegevens in het GPS-systeem waarmee sommige krachtvoertuigen 
+uitgerust zijn. 
+- 
+langs de sporen: 
+Elk bediend sein is voorzien van een telefoon  en hiermee kan een  
+treinbestuurder met de betrokken blok- of seinpost contact nemen.    
+
+## Página 17
+
+### 4. De werken, uitgevoerd in het voorgaande weekeinde 
+20-21 april 2007. 
+Op vraag van Infrabel - Netwerk heeft Infrabel - Infrastructuur het 
+normaalspoorsein E1.10 en het tegenspoorsein F1.10 welke ingeplant waren  
+aan  KP 43.399,  verplaatst naar  KP 44.027 respectievelijk KP 44.022.  
+Het spoor A 
+Op die manier werd  voor spoor A de sectie tussen de seinen  A424 dat zich 
+aan kp 42.405 bevindt   en  het verplaatste sein E1.10  vergroot met 628 m,  
+wat de lengte van deze sectie op 1.622 m brengt.  
+Voor 
+de 
+wijziging 
+lagen 
+tussen 
+seinen 
+A424 
+en 
+E1.10 
+de 
+spoorstroomkringen: SK17,  SK19R,  en SK19K.  
+Door het verplaatsen van het sein E1.10 komen de spoorstroomkringen 
+SK21 en SK23 eveneens tussen de genoemde seinen te liggen. Zij hebben 
+samen een lengte van  ±640m.  
+Het spoor B 
+Door de verplaatsing van  het tegenspoorsein F1.10  op spoor B vergroot de 
+lengte van de sectie tussen dit sein F1.10 en het voorgaande sein BX424 
+dat aan KP 42.357 staat, met 623 m  waardoor deze sectie een lengte van 
+1665 m krijgt. 
+Voor de wijziging lagen tussen seinen BX424 en F1.10 de volgende 
+spoorstroomkringen SK18K, SK20 en SK22. 
+Door het verplaatsen van het sein F1.10 komen de spoorstroomkringen 
+SK24R en SK24K eveneens tussen de genoemde seinen te liggen. Zij 
+hebben  samen een lengte van ±620m. 
+De uitvoering van de nodige werken gebeurde in verschillende fazen: 
+- 
+een deel, uitgevoerd in aanneming: eind oktober 2006:  
+- 
+het plaatsen van de nieuwe seinen E1.10 en F1.10 voorbij de 
+perrons; 
+- 
+het trekken van de nieuwe kabels, vanuit de seinketen en de 
+relaiszaal naar de nieuw geplaatste seinen. 
+- 
+een deel, uitgevoerd door eigen personeel Infrabel Infrastructuur 
+ - het aansluiten van de verbindingen die geen invloed hebben 
+op de  uitbating van de spoorlijn 
+weekend 20-21 april 2007:  de gewijzigde seininrichting komt in dienst. 
+
+## Página 18
+
+### Hoofdstuk V   Het  Onderzoek 
+### Deel  I.  De rechtstreekse  oorzaak van het ongeval 
+### 1.  De  onmiddellijke  vaststellingen. 
+ - de seinbeelden: 
+Het sein A424 vertoonde een DUBBEL GEEL seinbeeld.  Gelet op de 
+aanwezigheid van de aanrijdende trein op de betrokken spoorsectie 
+werd dit als een anomalie ervaren.  
+- 
+de gegevens op het OKB: 
+De aanduidingen op het optische  controlebord in de seinzaal waren in 
+overeenstemming met de bezetting van de sporen. 
+- 
+de plannen in de seinkeet: 
+Het nazicht bevestigde het eerste vermoeden van gebreken  bij de 
+studie en de uitvoering van de aanpassing van de plaatselijke 
+seininrichting.  
+### 2.    De  afgelegde verklaringen.     
+- 
+de treinbestuurder van de aanrijdende trein ER 8991: 
+Bij het binnenrijden van station Izegem zag ik een trein voor mij. 
+Onmiddellijk heb ik een noodremming gegeven en ben ik uit de 
+pakwagen weggerend. 
+Ik ben zeker dat het voorgaande sein groen was. 
+- 
+de treinbestuurder van de aangereden trein E 818: 
+Na  de “verrichtingen gedaan “ gekregen te hebben, ben ik aangezet 
+en na  honderd meter een brutale klap gevoeld.   De hoogspanning is 
+weggevallen en ik heb de noodremming ingezet. 
+- 
+de  treinbestuurder stilstaande trein E 839 op spoor B. 
+Mijn trein stond stil te Izegem en naast mij stond nog een trein die weg    
+reed richting Kortrijk.   Plots zag ik nog een trein binnenrijden op het 
+spoor naast mij.  Ik hoorde een zware klap en zag dat beide treinen op 
+elkaar ingereden waren. 
+
+## Página 19
+
+### 3.    De  geregistreerde gegevens.   
+De  bladzijden 21 en 22 tonen een kopie van de snelheidsbanden  van de treinen 
+E818 en ER8991 met het verslag van hun analyse door het Ontledingscentrum 
+van de NMBS Directie Treinen 133.  
+Voorafgaandelijk, op bladzijde 20 bevindt zich een uittreksel uit de brochure 
+“Registrering van het ritverloop van de treinen” opgemaakt door B-TR 133  met 
+een toelichting  omtrent de manier waarop de geregistreerde tekens dienen 
+verklaard. 
+Op geen van beide  snelheidsbanden werden er onregelmatigheden vastgesteld. 
+Er dient bovendien op gelet dat de klokken van beide registratietoestellen niet 
+gelijk lopen, noch de werkelijke tijd aanduiden. 
+De klok van de snelheidsregistratie van de trein ER 8991 loopt   4 min 20 sec 
+achter op de klok van de trein E818 die op haar beurt 2 min 30 sec achter loopt 
+op de werkelijke tijd. 
+
+## Página 20
+
+
+
+## Página 21
+
+Snelheidsband van de trein E818. 
+De achtereenvolgende seinen, opwaarts aan de plaats van de botsing  in het 
+station van Izegem,  hadden allen het seinbeeld GROEN. 
+Op het moment van de aanrijding was de trein net  vertrokken en deze had een 
+snelheid van ±15 km/h. 
+ Door de aanrijding is de trein vooruitgeduwd en is er een snelheid geregistreerd 
+van 45km/h. Deze snelheid is mogelijks niet correct. 
+
+## Página 22
+
+snelheidsband van de trein ER 8991 
+De achtereenvolgende seinen, opwaarts aan de plaats van de botsing  in het 
+station van Izegem  hadden allen het seinbeeld GROEN. 
+In het bijzonder had ook  sein A424, dat de toegang tot de baansectie van de 
+aanrijding regelt,  het seinbeeld GROEN .  
+Deze vaststelling vormt het materieel bewijs van  de juistheid van de verklaring 
+die de bestuurder van trein ER 8991 terzake heeft afgelegd 
+De snelheid van trein ER8991  ter hoogte van het sein A424 bedroeg 120 km/h. 
+Deze  snelheid neemt vanaf deze plaats een weinig af en de noodremming 
+begint bij een snelheid van 110 km/h ,op  ± 200 m voor de plaats van de 
+aanrijding. 
+De aanrijding is gebeurd aan een snelheid van 100 km/h en  op 100 m van de 
+plaats waar de treinen tot stilstand gekomen zijn. 
+
+## Página 23
+
+### 4. De opeenvolgende seinbeelden van de seinen die                    
+waargenomen zijn door beide treinen  en het verband 
+met 
+het 
+al 
+dan 
+niet 
+koppelen 
+van 
+de 
+spoorstroomkringen.  
+De gegevens  van de snelheidsbanden van trein E818 en ER8991, meer 
+bepaald de registraties van de seinbeelden die de treinbestuurders te zien 
+gekregen hebben, werden op de bladzijden 24  en 27 samen gebracht in de 
+lijngrafieken en  de verschillende seinen en spoorstroomkringen werden er in 
+opgenomen. 
+### Lijn 1:  de opeenvolgende seinen met de vermelding van de afstanden 
+tussen de onderscheiden seinen. 
+### Lijn 2:   de aanwezige spoorstroomkringen vanaf sein A398 tot net voorbij 
+sein E1.10. De spoorstroomkringen SK 21 en 23 tussen sein A424 en E1.10 
+zijn op de grafiek op bladzijde 24 niet ingekleurd omdat deze blijkbaar niet 
+gekoppeld waren, in tegenstelling met de grafiek op bladzijde 27. 
+Per trein is de lijngrafiek weergegeven volgens zijn  registratie op de 
+snelheidsband, namelijk het voorbijrijden van de seinen waar er een 
+negatieve impuls is geregistreerd omdat het seinbeeld van het beschouwde 
+sein groen was. 
+De tijden van registratie worden weergegeven in de  kolomen “Q” en “R” voor 
+respectievelijk de  trein ER 8991 en de E818.  
+Zoals reeds vermeld lopen de uurwerken van de registreertoestellen  niet 
+synchroon en  verschilt hun aanduiding met de werkelijke tijd.  
+Het werkelijke moment van de botsing (de geregistreerde tijd van de 
+uitschakeling van de bovenleiding) is als referentie genomen.  
+De omgerekende waarden van de doorritten aan de seinen, opwaarts van de 
+plaats van de  botsing,worden weergegeven in kolom “S”.  
+Het uurwerk van het registratietoestel van de trein E818 loopt 2’30” achter op 
+de werkelijke tijd en de klok van het registratietoestel  van de trein ER8991   
+6’50”. 
+### Lijn 11:  de toestand waarbij de trein E818  de SK19K bezet. Op dat ogenblik 
+is de opeenvolging van de seinbeelden  volledig normaal: sein A424 ROOD,  
+sein A414 DUBBEL GEEL en sein A398  GROEN. 
+Het schematisch overzicht van de onderscheiden seinbeelden op de seinen 
+A394, A414, A424 en E1.10 zoals uitgewerkt op de volgende bladzijde 24, 
+geeft de toestand weer zoals deze zich op 26 april 2007 in de werkelijkheid 
+hebben voorgedaan. 
+
+## Página 24
+
+rekend naar het 
+## Schematisch verloop van de seinbeelden op de seinen 
+## A398, A414, A424 en E1.10 voor de treinen E818 en 
+tijdstip van de
+Tijden omge-
+aanrijding
+19u06'30"
+19u06'50"
+19u07'50"
+19u07'50"
+19u08'40"
+19u09'10"
+19u10'00"
+S
+Tijden volgens snelheidsband
+19u07'30"
+E818
+19u03'50"
+19u04'20"
+19u05'20"
+19u05'20"
+R
+Schematisch verloop van de  seinbeelden  op seinen A398, A414, A424 en EI.10 voor treinen E818 en ER8991.
+ER8991
+BOTSING 19u03'10"
+19u00'00"
+19u01'00"
+19u01'50"
+19u02'20"
+Q
+SK111
+P
+E818
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+ROOD
+ROOD
+ROOD
+BOTSING ROOD
+E1.10
+O
+SK23
+E818
+E818
+E818
+E818
+E818
+E818
+E818
+E818
+E818
+E818
+E818
+E818
+M
+ER8991
+SK21
+E818
+L
+1622m
+ER8991
+SK19R SK19K
+E818
+K
+ER8991
+E818
+## ER8991 op 26 april 2007.  
+J
+ER8991
+ER8991
+SK17
+E818
+E818
+I
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+ER8991 GROEN
+ROOD
+ROOD
+ROOD
+ROOD
+ER8991 ROOD
+ROOD
+ROOD
+ROOD
+A424
+H
+SK15R SK15K
+E818
+E818
+G
+1039m
+ER8991
+ER8991
+E818
+E818
+F
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+ER8991 GROEN
+GROEN
+GROEN
+ROOD
+ROOD
+ROOD
+ROOD
+ER8991 ROOD
+ROOD
+ROOD
+ROOD
+A414
+E
+SK13
+E818
+E818
+D
+1520m
+ER8991
+ER8991
+SK11
+E818
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+C
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+A398
+B
+13 ER8991
+14 ER8991
+A
+
+## Página 25
+
+### Lijn 12 : de situatie met de trein E818 op spoorstroomkring SK21 
+### Deze spoorstroomkring blijkt niet te zijn gekoppeld in de seinherhaling 
+### van sein A424, waardoor de trein plots niet meer gedetecteerd werd en 
+### de seinen A424 en A414 op GROEN  komen. 
+### Normaal had het  seinbeeld van het sein A 414  DUBBEL GEEL moeten 
+### zijn en het seinbeeld van het sein A424 ROOD. 
+### Lijn 13  de toestand met de trein E818 op de spoorstroomkring SK 23, de  
+spoorstroomkring die instaat voor de detectie van een trein op het 
+perronspoor 2 van het station. 
+### Ook deze spoorstroomkring blijkt niet gekoppeld  aan het sein A 424.  
+### De seinbeelden van de seinen A 424 en A 414 blijven dus onveranderlijk 
+### GROEN, daar waar zij nog steeds respectievelijk ROOD en DUBBEL 
+### GEEL hadden moeten zijn. 
+De bestuurder van de trein ER8991 die volgt  op de trein E818,  nadert  
+Izegem en krijgt op zijn reisweg uitsluitend GROENE seinbeelden te zien. 
+### Lijnen 15 en 16:  ook sein A414 vertoont een GROEN seinbeeld ,  maar 
+zoals boven uiteengezet, ten onrechte. 
+De bestuurder van de trein ER 8991 is vanzelfsprekend niet bewust van enig 
+kwaad en vervolgt zijn reisweg die volgens de gekregen seinbeelden vrij is 
+van  beperkingen. Hij moet er slechts voor zorgen dat zijn snelheid de voor 
+deze spoorlijn toegelaten maximum waarde van 120km/h niet te boven gaat. 
+### Lijnen 17,18,19,20,21,22 en 23: de seinbeelden van de seinen A414 en 
+A424   evolueren naarmate de trein ER 8991 verder rijdt onder invloed van de 
+treindetectie, gegeven door onderscheiden spoorstroomkringen die naar 
+behoren aangesloten zijn. De vertoonde seinbeelden zijn volkomen normaal. 
+Door de bocht in de spoorlijn die het  perronspoor te  Izegem aan zijn zicht 
+onttrekt,  ziet hij pas op het laatste moment,  ongeveer op de plaats waar hij 
+de spoorstroomkring SK 21 binnenrijdt , dat zijn weg een tweehonderd meter 
+verder is versperd door de aanwezigheid van een voorliggende trein en kan 
+hij slechts heel laat een noodremming inzetten. 
+
+## Página 26
+
+### Lijn 24:  even voor het moment van de botsing  was trein E818 vertrokken en 
+hij was reeds gedeeltelijk voorbij het sein E1.10. Op het moment van de 
+overschrijding van dit sein was dit op ROOD komen te staan en daarop 
+aansluitend sein A424 op DUBBEL GEEL.  
+### Lijn 25: de seinbeelden van de betrokken seinen op het ogenblik van de 
+botsing die werden waargenomen tijdens het onderzoek van het ongeval.  
+                                                    *           * 
+Het volgende schema op de bladzijde 27 toont de opeenvolging van 
+seinbeelden in het geval dat de spoorstroomkringen SK 21 en SK 23 wel 
+correct  aan het sein A424 hadden gekoppeld geweest. 
+In deze ( normale ) toestand zou de spoorstroomkring SK 23 tijdens de duur 
+van de stilstand van de trein E818 aan het perron 2  wegens zijn bezetting 
+ervoor gezorgd hebben dat sein A424 een ROOD seinbeeld vertoonde.  
+Op die manier had de trein ER8991 verbod gekregen verder te rijden en zou 
+het ongeval niet zijn gebeurd. 
+
+## Página 27
+
+## Schematisch verloop ,van de seinbeelden op de seinen 
+## A414,A424 en E1.10 na een correcte verplaatsing van 
+Schematisch verloop van de  seinbeelden  op seinen A414, A424 en EI.10 na een correcte verplaatsing sein E1.10 
+SK11
+E818
+E818
+P
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+E1.10
+O
+SK23
+E818
+E818
+E818
+E818
+E818
+E818
+E818
+E818
+E818
+E818
+E818
+M
+SK21
+E818
+L
+SK19K
+1622m
+E818
+K
+SK19R
+E818
+J
+ER8991
+ER8991
+SK17
+E818
+E818
+I
+DUBBEL GEEL
+DUBBEL GEEL
+ER8991 DUBBEL GEEL
+GROEN
+GROEN
+GROEN
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+A424
+H
+ER8991
+ER8991
+ER8991
+ER8991
+ER8991
+ER8991
+SK15R
+E818
+E818
+G
+1039m
+ER8991
+ER8991
+SK15R
+E818
+E818
+F
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+ER8991 UBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+GROEN
+GROEN
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+A414
+E
+ER8991
+SK13
+E818
+E818
+D
+## sein E1.10 
+ER8991
+SK11
+ER8919
+E818
+C
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+DUBBEL GEEL
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+GROEN
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+ROOD
+A398
+B
+13 ER8991
+14 ER8991
+A
+
+## Página 28
+
+De onderstaande uittreksels uit de voornaamste werkplannen illustreren het feit 
+dat de vereiste koppelingen  van de spoorstroomkringen SK21 en SK23 bij de 
+studie van de werken en hun uitvoering over het hoofd werden gezien. 
+In het rood werd het nodige bijgevoegd om de koppeling te verzekeren. 
+. 
+### uittreksels uit plan 1-LZG-224A/96 “Izegem SAT 1 van Blok 10 
+### (Roeselare) 6 Bedieningsstroomkringen spoor A waarin de contacten van 
+SK21 en SK 23 niet gekoppeld waren. Beide contacten zijn in het rood 
+aangeduid. 
+###  uittreksels uit plan 1-LZG-224B/96 “Izegem SAT 1 van Blok 10 
+### (Roeselare)  Bedieningsstroomkringen spoor B waarin het contact van 
+SK24R niet gekoppeld was. Het contact is in het rood aangeduid. 
+
+## Página 29
+
+.. 
+### 5.  BESLUIT  van  deel   I  
+De rechtstreekse oorzaak van de treinbotsing is het feit dat het sein A424 dat de 
+toegang tot de lijnsectie met het  perronspoor 2  ( spoor A ) te Izegem regelt, een 
+GROEN  seinbeeld vertoonde, niettegenstaande dit perronspoor door een trein 
+was bezet. 
+Deze onregelmatigheid was het gevolg van het nalaten de spoorstoomkringen 
+SK 21 en SK23 te koppelen aan het sein A424,  zodat de detectie van de 
+aanwezigheid van een trein aan het perron door de spoorstroomkring SK 23 niet 
+werd overgebracht naar het voornoemde sein.. 
+In 
+dezelfde 
+zin 
+was 
+er 
+eveneens 
+nagelaten 
+op 
+het 
+spoor 
+B 
+de 
+spoorstroomkringen SK 24R en SK 24K te koppelen aan het tegenspoorsein  BX 
+424. 
+Op die manier was de continuïteit van de treindetectie niet langer verzekerd.  
+De bestuurder van de trein ER8991 kreeg via het groene seinbeeld van het sein 
+A424 de toelating zijn reisweg verder te zetten  zonder dat de voorliggende 
+spoorsectie vrij was en een botsing werd wegens de beperkte zichtbaarheid door 
+een bocht in het spoortracé onvermijdelijk. 
+
+## Página 30
+
+### Deel II :    het verloop van de studie/ uitvoering bij 
+het aanpassen van de plaatselijke seininrichting 
+### 1.  De opdracht van het werk 
+Op 28  september 2004 geeft Infrabel - Netwerk de opdracht aan Infrabel - 
+Infrastructuur om de seininrichting  in het station te Izegem aan te passen met 
+het oog op de verbetering van de uitbating van het station.  De beoogde 
+wijzigingen hadden vooral betrekking op de  verplaatsing van de seinen E.1.10 ( 
+spoor A) en F1.10 ,(spoor B) naar inplantingsplaatsen  voorbij  de stationperrons. 
+Hierna bevindt zich  de officiële vraag van  Netwerk aan Infrastructuur met een 
+uittreksel uit het SSP met de aanpassingen. 
+
+## Página 31
+
+Deze opdracht werd vanuit de directie I-I naar de dienst I-I.NW E3 te Gent 
+gestuurd voor studie en uitvoering.  
+
+## Página 32
+
+### 2. De studie van een opdracht / de  uitvoering van 
+werken. 
+2.1.  Het organigram  betrokken diensten op het ogenblik van de opdracht 
+Organigram I-I. NW District NW op het moment van het krijgen van de opdracht.
+I-I. NW (Infrabel-Infrastructuur District NW)
+I-I.NW.K (kunstwerken)
+I-I.NW.E (Elektriciteit)
+I-I.NW.V (Sporen)
+I-I.NW.E1
+I-I.NW.E2
+I-I.NW.E3
+(Sterkstroom Bovenleiding'
+(VVDK)
+(Seininrichting)
++Onderstations)
+(1 ingenieur Al-relais(1,5,6,13)
++ 1 ingenieur EBP
+Studiedienst
+Uitvoerende Dienst
+Onderrichting
+6 toezichtsbedienden (tos) (2,3,4)
+ets 1 uitvoering (9,10,11,12)
+ets 2 uitvoering
+ets onderrichting
+Ploeg 1
+Ploeg 2
+Ploeg 3
+Ploeg 4
+per ploeg 1 tos
+(7,8)
+2.2.  De studie en uitvoering van werken infrastructuur 
+Hierna wordt in het kort toegelicht hoe volgens de vooropstaande werkmethodes  
+de verschillende fazen in de studie en uitvoering van  werken, in het bijzonder 
+voor seininstallaties van het type “al-relais “ verlopen. 
+Tijdens het onderzoek kon de hand niet worden gelegd op een volledig formeel, 
+procesmatig uitgewerkte manier van werken. De werkelijk toegepaste werkwijze  
+is gegroeid uit de gangbare praktijk en steunt op reglementeringen die sinds 
+langere tijd ongewijzigd behouden gebleven zijn. 
+De nummering verwijst naar de taken,zoals opgenomen in de tabel op  bladzijde 
+34 en ook naar het organigram waarin de betrokken uitvoerder gesitueerd wordt. 
+De studie. 
+1. 
+### Opmaak van het plan 102.   De ingenieur seininrichting die als het 
+ware de projectleider is brengt op een bestaand seininrichtingsplan de 
+beoogde wijzigingen aan.   De installaties die bijgeplaatst worden 
+krijgen een rode kleur en alles wat moet verwijderd worden komt in het 
+geel. 
+ 2,3 
+De  studie en de opmaak van de nodige plannen voor de binnen – en 
+de buiteninstallaties, de gestellen in de seinketen en de verdeelkasten 
+wordt gedaan door de  toezichtsbediende van de studiedienst van I-
+I.NW3  ( tos studie ). 
+
+## Página 33
+
+6. 
+### De ingenieur seininrichting maakt  het bestek voor de buitenwerken 
+op.   Het gaat om werken zoals het leggen van kabels, het plaatsen 
+van seinen die door een externe aannemer uitgevoerd worden. 
+De controle op de studie. 
+4. 
+### De eerste sectorchef  ( ets ) controleert de studie en de in dit kader 
+opgemaakte plannen voor  de binnen- en buiteninstallaties.  
+5. 
+### De ingenieur seininrichting controleert op zijn beurt boven 
+genoemde  plannen van de binnen- en buiteninstallatie.  Hij ziet alle 
+plannen na en keurt die goed. Eventuele aanpassingen worden door 
+de Studiedienst aangebracht. 
+De uitvoering. 
+7,8 
+Nadat 
+alle 
+plannen 
+volgens 
+bovenstaande 
+procedure 
+zijn 
+goedgekeurd,  worden die overgemaakt aan de  uitvoerende dienst. 
+### De toezichtsbediende uitvoering doet de nodige bevoorradingen van 
+de stoffen. Alle nieuwe verbindingen in de binnen- en buiteninstallatie 
+worden klaargemaakt en op etiket gezet.  Er wordt nog geen enkele 
+verbinding gemaakt die enige invloed kan hebben op de bestaande 
+seininrichtingsinstallatie. Alles wordt gecontroleerd (puntings- en 
+verbrekingsproeven) en wat reeds volledig kan getest worden op zijn 
+functionaliteit, wordt getest door de toezichtsbediende uitvoering. 
+De veiligheids- en integratietesten. 
+### 9, 10. De (eerste ) sectorchef  voert de voorziene veiligheidstest van de 
+### binnen- en buiteninstallatie uit.   De toezichtsbediendes studie en  
+uitvoering werken daar niet aan mee. 
+11.  
+Op de dag van de indienststelling worden de reeds aangebrachte 
+wijzigingen (punten 7 en 8 ) aangesloten in de bestaande 
+seininrichtingsinstallatie. 
+Alle 
+overbodige 
+bekabeling 
+wordt 
+weggenomen.  Wanneer alle aanpassingen uitgevoerd zijn, worden er 
+testen (integratietesten) uitgevoerd op de goede werking van de 
+seininrichtingsinstallatie  door de    (eerste ) sectorchef. 
+12.  
+De gewijzigde installatie wordt in dienst gesteld.   Na uitvoering van de 
+integratietests, worden er proefritten voorzien.  Met een losse 
+locomotief wordt het volledig gewijzigde traject bereden en  alle 
+veiligheidsaspecten worden gecontroleerd op hun correcte werking.  
+Deze proefritten verlopen volgens een voorziene tijdelijke plaatselijke 
+### onderrichting (TPO).   De  (eerste)sectorchef  voert deze testen uit. 
+
+## Página 34
+
+13.  
+Wanneer alles in orde bevonden is, wordt een testdossier opgemaakt 
+en worden alle wijzigingen  definitief aangebracht op de  plannen  die 
+verdeeld worden onder de bevoegde diensten. Dit laatste wordt 
+gedaan door de ingenieur seininrichting in samenwerking met alle 
+betrokkenen en uiteindelijk draagt de ingenieur seininrichting de 
+eindverantwoordelijkheid. 
+Onderstaande tabel geeft een schematisch overzicht  van de beschreven 
+verdeling van de bevoegdheden en de taken. 
+. 
+Structuur voor de studie en realisatie van een al-relaisinstallatie volgens I-I. 
+NW 3 
+Verdeling van de 
+Aanbevolen niveau 
+taken 
+ingenieur  seininrichting 
+¬ 
+( eerste) technische sectorchef  
+¬ 
+toezichtsbediende   studie 
+¬ 
+toezichtsbediende  Uitvoering 
+¬ 
+GEDEELTE STUDIE 
+Taken 
+1 
+Opmaak van het plan 102 
+VU   
+d 
+2 
+Opmaak van de plans van de binneninstallatie 
+V 
+U 
+3 
+Opmaak van de plans van de buiteninstallatie, de gestellen  
+V 
+U 
+in de keten en de verdeelkasten 
+4 
+Controle van de plans van de binnen- en buiteninstallatie 
+V 
+U 
+X 
+Controle en goedkeuring van de plans van de binnen- en 
+5 
+buiteninstallatie 
+VU X 
+X 
+6 
+Bestek voor de buitenwerken 
+VU   
+d 
+d 
+GEDEELTE UITVOERING 
+Taken 
+Voorafgaand 
+nazicht 
+en 
+functionele 
+tests 
+van 
+de 
+7 
+binneninstallatie 
+V 
+X 
+U 
+Voorafgaand 
+nazicht 
+en 
+functionele 
+tests 
+van 
+de 
+8 
+buiteninstallatie 
+V 
+X 
+U 
+9 
+Veiligheidstests van de binneninstallatie 
+V 
+U 
+X 
+X 
+10 
+Veiligheidstests van de buiteninstallatie 
+ X 
+V 
+U 
+X 
+11 
+Integratietests 
+Vd 
+U 
+d 
+12 
+Indienststelling 
+Vd 
+U 
+d 
+13 
+Testdossier 
+VU d 
+d 
+d 
+Verantwoordelijk  = V                                    Uitvoering = U 
+Onverenigbaar     = X                                     Deelname = d 
+
+## Página 35
+
+### 3. Hoe de studie en uitvoering van de seinaanpassingen 
+### te  Izegem  in werkelijkheid  verlopen is. 
+3.1. De afgelegde verklaringen. 
+- 
+ingenieur seininrichting 
+Ik heb het seininrichtingsplan met de nieuwe situatie overgemaakt aan de 
+studiedienst voor volledige uitwerking.  Eind maart is de ploeg uitvoering 
+gestart met de voorbereidingen en uitvoering van de werken.  De 
+buitenwerken werden gedaan door firma Cordec.  De studie werd door mij 
+niet nagezien door gebrek aan tijd en andere prioriteiten en gezien de 
+beperkte omvang van de ingreep heb ik het risico laag ingeschat en 
+voorrang gegeven aan complexer zaken.  De uitvoerende diensten 
+hebben hun werk gebaseerd op die plans.  De indienststelling is niet 
+eenvoudig verlopen wegens het veelvuldig optreden van storingen in niet 
+frequent gebruikte reiswegen. 
+- 
+TOS Studiedienst: 
+Het voorstel voor de verplaatsing  van de seinen E en F heb ik ontvangen 
+van de leidende ambtenaar in loop van 2006.   Tussen de studie van de 
+L58 Wondelgem  en Eeklo door ben ik gestart met de voorbereiding van 
+de plans Izegem.  Op  12/2/2007 inpakken om te verhuizen naar het 33ste 
+Arr. Aalst,  de plans voor zover ze afgewerkt zijn, blijven in Gent St 
+Pieters. 
+- 
+ETS Uitvoerende dienst: 
+Ik heb het dossier overgenomen van TOS Studiedienst.   De studie was 
+niet afgewerkt betreffende de aankondigingen overwegen.   Ik  heb de 
+studie uitgewerkt en voorgelegd aan de leidende ambtenaar die ze niet 
+nagezien heeft.   De testen herhaling van de seinen, aankondiging 
+overwegen werden uitgevoerd.   Het ontbreken van de 2 SK’s in elk sein is 
+door niemand opgemerkt.   De TPO vermeldde de eventuele wijzigingen in 
+de bediening van de overwegen en niet van de seinen wat door niemand 
+is opgemerkt. 
+De indienststelling is verlopen zonder dat dit opgemerkt is,zij werd enkel 
+gehinderd door talrijke storingen in de installatie (wissels die niet draaiden, 
+geen vrijmaking, isolering in verschillende contacten). 
+- 
+TOS Uitvoerende dienst: 
+Een collectie plans ontvangen van ETS Uitvoering. 
+Ik heb  opdracht gegeven aan ploeg om de werken voor te bereiden 
+volgens de gekregen plans. 
+Tijdens de periode tot voor de indienststelling was ik in verlof voor studie 
+examen TS van 18/4. 
+Tijdens de indienststelling van 21-22/4  bevond ik mij ter hoogte van ow.96 
+en tijdens de proefritten ter hoogte van de seinen E1.10 en F1.10.  
+
+## Página 36
+
+- 
+Toezicht Blok 1.10 Izegem Nachtdienst. 
+Ik hield van op afstand toezicht op de werken.    Er werd gestart met  de  
+aanpassingen spoor A.   Om 2u45 begonnen de proefritten met de 
+leidende ambtenaar op de locomotief voor nazicht seinbeelden. 
+De  ETS Opleidingen stond aan OKB Bord.   De  proefritten werden 
+regelmatig stilgelegd omwille van bijkomende storingen.  Op een bepaald 
+moment waren zoveel storingen dat het werk niet meer vorderde en de tijd 
+tot het  spoor in dienst moest krap was.  Iedereen was zeer nerveus 
+omdat er nog zoveel proefritten uitgevoerd moesten worden.   Om tijd te 
+winnen werden  enkele proeven geschrapt die niet belangrijk werden 
+ingeschat voor de veiligheid.   Om 6u was iedereen aanwezig op blokpost 
+voor verdere proeven op spoor A.   Op een bepaald ogenblijk was er geen 
+koppeling op het sein. Ik dacht dat het een storing was maar de 
+verkeersrichting lag verkeerd.  Iedereen was duidelijk vermoeid.  Er werd 
+gevraagd om het bestendige tracé na te zien. Het antwoord was: wij zijn er 
+niet aan geweest; het zal wel goed zijn en de rest doen wij maandag. Na 
+de werken op 22/4 omstreeks 7u terug problemen.   De eerste technisch 
+sectorchef werd terug opgeroepen. 
+3.2.  Het relaas van het reële verloop van de studie/uitvoering. 
+De studie. 
+### 1. Bij de opmaak van plan 102 heeft  de ingenieur seininrichting ( “project-
+leider “) de beoogde aanpassingen van de seininrichting op het plan 
+aangeduid. 
+Deze wijzigingen hielden het volgende in:                       : 
+- 
+het plaatsen van een nieuw sein E 1.10 (spoor A) op KP 44.027 
+(tussen perron 2 en de overweg 98 ); 
+- 
+het verwijderen van het bestaande sein E1.10 op KP 43.399; 
+- 
+het plaatsen van een nieuw tegenspoorsein F 1.10 (spoor B) op KP 
+44.022 ( tussen perron 1 en de overweg 98 ); 
+- 
+het verwijderen van het bestaande  tegenspoorsein F1.10 op KP 
+43.399;  
+- 
+het verwijderen van het sein kleine beweging FY 1.10 op 44.017. 
+Alles wat te verwijderen is wordt  op het seininrichtingsplan  met de hand in 
+het geel aangeduid en wat nieuw moet geplaatst worden komt in het rood. 
+Dit plan dient als basis voor de uit te voeren studie. 
+De Studiedienst weet aan de hand van de aangebrachte wijzigingen op plan 
+102 welke  punten  moeten bestudeerd worden en welke plannen  er 
+moeten afgeleverd  worden. 
+
+## Página 37
+
+
+
+## Página 38
+
+### 2.  Een  toezichtsbediende van de studiedienst heeft  de studie en de 
+opmaak van de plannen opgestart .  Hierna staat een voorbeeld van de 
+manier waarop een plan wordt aangepast. 
+
+## Página 39
+
+### De toezichtsbediende die deze studie had begonnen, werd  evenwel op 
+12 februari 2007  overgeplaatst (aanstelling) naar een andere afdeling 
+binnen Infrabel Infrastructuur en de onafgewerkte studie werd niet 
+overgenomen door  een andere toezichtsbediende van de studiedienst.  
+### 2,3 De ingenieur seininrichting  heeft opdracht gegeven aan de eerste 
+### technisch sectorchef om de bovenvermelde studie verder te zetten. Deze 
+laatste heeft de plannen opgehaald bij de studiedienst en meegenomen 
+naar zijn bureau. Uitleg over hoever de studie zat, heeft hij niet gekregen en 
+### gevraagd. Hij heeft geen contact gehad met technisch ondersectorchef 
+(toezichtsbediende studie) die voor hem de studie had gestart.   Er waren 
+reeds een aantal plannen opgemaakt en de eerste technisch sectorchef 
+### veronderstelde dat deze plans volledig af waren. De eerste technisch 
+sectorchef heeft enkel nog de resterende plans opgemaakt. 
+Bij de studie en opmaak van de plannen van de seinen E1.10 en F1.10 
+werden aldus de  spoorstroomkringen (SK’s) in de bezetting van het 
+spoorgedeelte, gelegen tussen de oude en nieuwe inplantingplaats van de 
+seinen E1.10 en F1.10, niet aangepast om deze in overeenstemming te 
+brengen met de nieuwe toestand.  
+De wijzigingen aan de SK’s voor de seinherhaling, de overwegen en de 
+weergave op het OKB werden wel uitgewerkt, met name door de 
+toezichtsbediende van de studiedienst bij de aanvang van zijn studie .  Op 
+het volgende blad wordt op een uittreksel van het vorig plan met blauw één 
+van de ontbrekende aanpassingen omkaderd. 
+De vereiste aanpassing werd in de blauwe cirkel in het rood uitgetekend ter 
+illustratie van wat er eigenlijk aan het plan ontbrak 
+
+## Página 40
+
+
+
+## Página 41
+
+De controle op de studie 
+### 4,5 Wanneer de studie af was, is men in overleg met ingenieur seininrichting 
+### gestart  met de uitvoering. De studieplannen zijn nooit naar het bureau van 
+### ingenieur seininrichting gebracht voor goedkeuring. De ingenieur 
+seininrichting had wel regelmatig contact (terplaatse en per telefoon) met 
+### de eerste technisch sectorchef over het verloop van de werken. De 
+ingenieur seininrichting stond in voor de opmaak en opvolging van het 
+bestek voor de aannemer die de seinpalen plaatst en de kabels trekt. De 
+ingenieur seininrichting heeft hem nooit gevraagd om de studieplannen 
+voor de praktische uitvoering van de wijzigingen in Izegem voor te leggen 
+voor nazicht en goedkeuring. 
+### De plannen werden niet aan de ingenieur seininrichting voorgelegd voor 
+nazicht en goedkeuring.  
+De ingenieur seininrichting heeft weinig aandacht aan de concrete inhoud 
+van het bewuste studiedossier geschonken. Volgens zijn verklaringen 
+waren de redenen hiervoor de geringe omvang van de ingreep, de 
+beroepsbekwaamheid van het betrokken personeel en tijdsgebrek wegens 
+de prioriteit voor meer complexe zaken.   Hij heeft dan ook de studie niet op 
+een formele wijze goedgekeurd en de plans werden niet getekend 
+De uitvoering. 
+### 7. Deze plannen zijn dan naar de Uitvoerende Dienst gegaan.  De 
+toezichtsbediende uitvoering treft de voorbereidingen voor de uitvoering.   
+De nodige stoffen werden besteld.  De uitvoering stond onder de leiding van 
+### technisch ondersectorchef uitvoering.   De technisch ondersectorchef 
+uitvoering moest in die periode het examen doen voor technisch 
+sectorchef. Hiervoor heeft hij verschillende dagen verlof genomen om te 
+### studeren.  De eerste technisch sectorchef,  die de chef is van de 
+technisch ondersectorchef uitvoering, heeft de verdere uitvoering op 
+### zich genomen.   De technisch ondersectorchef uitvoering is terug- 
+gekomen rond de periode van de indienststelling van de gewijzigde 
+### installatie.   De betrokken toezichtsbediende uitvoering is evenwel tijdens 
+de uitvoering van de werken met verlof en uiteindelijk worden deze werken 
+gevolgd door de eerste sectorchef die ook reeds de studie had afgewerkt. 
+De veiligheids- en integratietesten. 
+9. Tijdens de nazichten, functionele tests, veiligheidstesten en integratietesten 
+werd er door niemand opgemerkt dat sommige spoorstroomkringen, die de 
+aanwezigheid 
+van 
+treinen 
+detecteren, 
+niet 
+gekoppeld 
+waren 
+in 
+overeenstemming met de nieuwe toestand van de seininrichting. 
+
+## Página 42
+
+Gedurende de indienststelling zijn meerdere  testen uitgevoerd met de 
+seinen in handbediening terwijl het seinhuis normaal in bestendig tracé 
+staat. 
+Er hebben zich tijdens deze testen meerdere  storingen voorgedaan en 
+deze waren vooral het gevolg van het feit dat het seinhuis in handbediening 
+werd gezet. Het uitzonderlijk karakter van deze bediening leidt gemakkelijk 
+tot storingen omdat  bepaalde relais zich hierbij in een zelden gebruikte 
+stand bevinden en aldus in bepaalde stroomkringen slechte contacten 
+kunnen optreden.  In dezelfde zin kan het afnemen van de relaiskappen 
+ervoor zorgen dat de contacten onvoorzien loskomen.  
+Door al deze problemen heeft men maar pas rond 2u45min aan de 
+proefritten kunnen beginnen. De proefritten verliepen eveneens moeizaam  
+door de talrijke storingen in de stroomkringen van de weinig gebruikte 
+reiswegen.  
+Volgens de verklaringen van het personeel van Infrabel - Netwerk waren 
+verschillende betrokkenen van Infrabel - Infrastructuur nerveus en duidelijk 
+vermoeid. Dit werd nog vermeerderd doordat het uur van de eerste  trein 
+begon te naderen. 
+Op een bepaald moment heeft de ingenieur seininrichting beslist wegens 
+tijdsgebrek om bepaalde proeven die in bestendig tracé moesten gebeuren 
+niet uit te voeren met als reden dat er geen wijzigingen aangebracht werden 
+in het circuit van het bestendig tracé.   
+
+## Página 43
+
+### 4.  BESLUIT   deel   II 
+Uit de bovenstaande analyse blijkt dat reeds bij de initiële studie van het project 
+werd  nagelaten om te voorzien in de aansluiting van de spoorstoomkringen SK  
+21 en 23, welke de aanwezigheid van een trein op het perronspoor 2 ( spoor A )  
+detecteren,  in de kringen van het sein A424 dat in de nieuwe configuratie de 
+toegang tot de betrokken baansectie beveiligt. 
+In dezelfde zin werd  wat het spoor B betreft evenzeer nagelaten om de 
+koppeling van de spoorstroomkringen SK24R en SK24K met het tegenspoorsein  
+BX424 te voorzien. 
+Aan het feit dat de studie een dergelijke tekortkoming vertoonde werd in hoge 
+mate bijgedragen door de volgende elementen: 
+- 
+de toezichtsbediende studiedienst die aanvankelijk voor de bewuste studie 
+instond, werd naar een andere dienst overgeplaatst en de overdracht van 
+de lopende studietaken is niet formeel geregeld; 
+- 
+de eerste technisch sectorchef heeft alle taken uitgevoerd, ook al zijn deze 
+onverenigbaar voor uitvoering door dezelfde persoon : 
+- 
+de studie; 
+- 
+de controle op de studie; 
+- 
+de uitvoering; 
+- 
+de veiligheidstesten en de integratietesten 
+Dit is niet in overeenstemming met het gebruikelijke principe van de 
+scheiding der functies en daardoor is een mogelijkheid tot onafhankelijke 
+controle verloren gegaan; 
+- 
+de projectleider die verantwoordelijk is voor de controle en goedkeuring 
+van de studieopdracht heeft nagelaten om dit op een formele manier te 
+doen; 
+- 
+de projectleider kan voor de controle en goedkeuring van de 
+studieopdracht geen beroep doen op een vastgelegde procedure, bij 
+voorbeeld onder de vorm van gestandaardiseerde checklijsten. 
+      Hij vertrouwt in hoge mate de beroepsbekwaamheid van de afwerker van  
+de studie en ook omwille het beperkte belang van de opdracht en wegens 
+tijdsgebrek laat hij een aantal formele stappen tijdens het afwerken van 
+het project achterwege. 
+Na het aanvaarden van de studie werd  op geen enkel moment,  noch tijdens de 
+uitvoering van de werken , noch bij het  tussentijds functioneel testen van de 
+nieuwe inrichtingen, noch gedurende de proeven  tijdens de indienststelling  van 
+het project  opgemerkt dat de continuïteit van de treindetectie op de spoorlijn niet 
+langer verzekerd was. 
+
+## Página 44
+
+Het feit dat deze tekortkoming ook niet werd ontdekt  bij het  nazicht van de 
+installaties op hun  veilige werking gedurende de indienststelling van het project 
+is erg problematisch  en roept vragen op naar de doelmatigheid van het 
+testprogramma dat werd opgesteld met het oog op de indienststelling van het 
+project en naar de modaliteiten van zijn uitvoering, die volgens sommige 
+verklaringen, bovendien werden aangepast naarmate het wisselvallig verloop van 
+deze indienststelling  het tijdig vrijgeven van het baanvak in het gedrang dreigde 
+te brengen. 
+In het testprogramma voor het uitvoeren van de veiligheidstesten en de 
+integratietesten ontbrak de cruciale test om de continuïteit na te gaan van de 
+treindetectie afwaarst van het sein A424.   Het belang dient onderstreept te 
+worden van het opstellen van een volledig en correct testprogramma. De 
+specificiteit van de diverse deeltaken  en de fysieke scheiding van de 
+stroomkringen over meerdere locaties maakt dat  bij de uitvoering van de 
+bewuste werken een globaal zicht op  het geheel van de tussenkomst ontbreekt 
+en dit  verklaart waarom de opgetreden  anomalie niet   aan  licht is gekomen  
+tijdens de onderscheiden uitvoeringsfases en het testen van de goede  
+functionele werking van de nieuwe inrichtingen.  Deze tekorten waren wel 
+ontdekt bij het uitvoeren van een volledig en correct testprogramma. 
+Moeilijke werkomstandigheden, tijdsdruk, problemen van technische aard, 
+fysieke en geestelijke  vermoeidheid, …  zijn onmiskenbaar elementen die 
+dergelijke werken en indienststellingen sterk kunnen bezwaren.  Voor een groot 
+gedeelte gaat het niettemin  om gekende verschijnselen  en het is belangrijk er 
+op voorhand  voldoende aandacht aan te besteden om er bij de planning van de  
+indienststelling van  een  project zoveel als mogelijk mee rekening te houden. 
+Men kan dan ook moeilijk om de vaststelling heen dat het omvormingsproject van 
+de installaties  seinuitrusting van het type “al-relais” te Izegem onvoldoende is 
+verlopen aan de hand van bijgewerkte, heel duidelijk omschreven inhoudelijke 
+regels en procedures  van uitvoering en dat de beschikbare regels en procedures  
+bij momenten weinig nauwgezet zijn nagekomen. 
+
+## Página 45
+
+### HOOFDSTUK VI   Aanbevelingen 
+Onderhavig 
+onderzoek 
+naar 
+de 
+omstandigheden 
+waaronder 
+het 
+spoorwegongeval in Izegem heeft plaats gehad leidt tot de volgende 
+aanbevelingen.     
+1. beschrijf vanuit een procesmatige benadering op gedetailleerde wijze alle  
+acties die nodig zijn voor de verwezenlijking van elk ( infrastructuur) project 
+dat 
+rechtstreeks 
+weerslag 
+heeft 
+op 
+de 
+veiligheid 
+van 
+de 
+spoorwegexploitatie en werk stelselmatig en  nauwgezet  op basis van deze 
+procesbeschrijvingen,  ongeacht de omvang van het beoogde project. 
+Waarborg bovendien  ten allen tijde  de  continuïteit in elke deelfase van het 
+project  bij het wisselen van de  uitvoeringsomstandigheden, in het bijzonder 
+wanneer  veranderingen in de personeelsbezetting optreden. 
+2.  zorg voor een absolute scheiding van de functies en taken die betrekking 
+hebben op de studie, de uitvoering en het testen van de installaties en 
+overweeg  of de aanwezigheid van de latere gebruiker van de installatie    
+bij de (veiligheids)proeven tijdens de indienststelling kan bijdragen tot een 
+meer onafhankelijke beoordeling en aldus tot een vermindering van het 
+risico op tekortkomingen. 
+3.  leg   duidelijke en formeel gestandaardiseerde regels vast voor de controle 
+op de goede uitvoering van de studie en van de eigenlijke werken, alsook 
+voor hun   goedkeuring en  onderzoek in dat verband of  passende 
+checklijsten hiervoor een optimaal  instrument vormen; 
+4.  besteed  aandacht aan de opmaak van een methode om voorafgaand aan 
+de  indienststelling van een project de moeilijkheden die kunnen verwacht 
+worden, realistisch  in te schatten,  zodat  hiermee reeds bij de concrete 
+programmering van de acties tot indienststelling  rekening kan gehouden 
+worden en aldus in de mate van het mogelijke vermeden wordt dat 
+wisselvalligheden in  hun voorkomen het  verloop van de indienststelling al 
+te zeer verstoren; 
+5. neem  maatregelen om te komen tot vastgelegde, gestandaardiseerde 
+testprogramma ‘s die waarborgen dat alle nodige controles m.b.t. de veilige 
+werking van de nieuwe inrichtingen en hun probleemloze integratie in het 
+globale systeem worden gepland en leg dwingend op dat deze 
+programma’s steeds daadwerkelijk worden uitgevoerd en onder geen 
+beding worden ingekort en laat het verloop van de  testen en de 
+gebeurtenissen bij de indienststelling en de erop betrekking hebbende  
+relevante gegevens opnemen in een omstandige  rapportage aangaande  
+de indienststelling van het project.  
+
+## Página 46
+
+Deze aanbevelingen zijn  in eerste instantie bestemd voor Infrabel  die als 
+beheerder van de Belgische spoorweginfrastructuur dient te waarborgen dat bij 
+de 
+omvorming 
+van 
+de 
+spoorweginstallaties 
+op 
+ieder 
+moment 
+de 
+spoorwegveiligheid maximaal verzekerd blijft.    De veiligheisdsinstantie wordt 
+verzocht toe te zien  in welke mate deze aanbevelingen worden opgevolgd.

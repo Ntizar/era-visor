@@ -1,0 +1,6873 @@
+---
+pais: BE
+anio: 2010
+idioma: FR
+pdf: rapport_Buizingen-150210-FR.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/rapport_Buizingen-150210-FR.pdf
+md5_pdf: 87443b5948c6b65e70f4fc4b7ff172ba
+paginas: 186
+chars: 386922
+tablas: 11
+cuerpo: "11.0pt; encabezados 3 niveles"
+rotulos_excluidos: "294 (#)"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 33
+fecha_proceso: 2026-11-18
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+Organisme d’Enquête pour les Accidents et Incidents Ferroviaires
+RAPPORT D’ENQUÊTE DE SECURITE
+LA COLLISION FERROVIAIRE
+SURVENUE LE 15 FEVRIER 2010
+A BUIZINGEN
+Mai 2012
+
+## Página 2
+
+
+
+## Página 3
+
+Toute utilisation de ce rapport dans une perspective différente de celle de la prévention des accidents 
+- par exemple celle de définir des responsabilités, et a fortiori des culpabilités individuelles ou col-
+lectives - serait effectuée en distorsion totale avec les objectifs de ce rapport, les méthodes utilisées 
+pour le bâtir, la sélection des faits recueillis, la nature des questions posées, et les concepts qu’il mobi-
+lise, auxquels la notion de responsabilité est étrangère. Les conclusions qui pourraient alors en être 
+déduites seraient donc abusives au sens littéral du terme.
+
+## Página 4
+
+
+
+## Página 5
+
+## Table des matières
+1.	
+Résumé	
+10 
+2.	
+Les faits immédiats	
+14 
+2.1	
+L’événement	
+14
+2.1.1	 Description de l’événement	
+14
+2.1.2	 Description du site	
+15
+2.1.3	 Les services de secours	
+17
+2.1.4	 La décision d’ouvrir une enquête	
+17
+2.1.5	 Composition de l’équipe 	
+18
+2.1.6	 Conduite de l’enquête	
+19
+2.2	
+Les circonstances de l’événement	
+29
+2.2.1	 Entreprises et personnels concernés	
+29
+2.2.2	 Composition des trains	
+34
+2.2.3	 Description de l’infrastructure et du système de signalisation	
+37
+2.2.4	 Travail réalisé sur le site ou à proximité du site de l’accident	
+45
+2.2.5	 Déclenchement du plan d’urgence ferroviaire et sa chaîne d’événements	
+45
+2.2.6	 Déclenchement du plan d’urgence des services publics de secours, de la police  
+et des services médicaux et sa chaîne d’événements	
+47
+2.3	
+Pertes humaines, blessés et dommages matériels	
+49
+2.3.1	 Passagers et tiers, personnel, y compris les contractants	
+49
+2.3.2	 Fret, bagages et autres biens	
+49
+2.3.3	 Matériel roulant, infrastructure et environnement	
+50
+2.3.4	 Autres	
+51
+2.4	
+Circonstances externes	
+52
+2.4.1	 Conditions météorologiques	
+52
+2.4.2	 Références géographiques	
+53 
+3.	
+Compte-rendu des investigations et enquêtes	
+54
+3.1	
+Résumé des témoignages	
+54
+3.2.1	 Introduction	
+55
+3.2.2	 Instances concernées par la gestion de la sécurité	
+56
+3.2.3	 Les dispositifs d’assistance et de surveillance de la conduite  
+sur le réseau belge	
+61
+3.2.4	 Les publications et informations disponibles concernant la sécurité ferroviaire belge	
+63
+3.2.5	 La gestion des risques associés aux franchissements de signaux fermés sur la derniere  
+décénnie	
+64
+3.2.6	 Les analyses effectuées	
+65
+3.2.8	 Interface entre les différents acteurs présents sur l’infrastructure	
+68
+3.3	
+Règles et Réglementation	
+69
+3.3.1	 Règles et réglementation publique communautaire et nationale applicables	
+69
+3.3.2	 Autres règles, telles que les règles d’exploitation, les instructions locales, les exigences  
+applicables au personnel, les prescriptions d’entretien et les normes applicables	
+75
+3.4	
+Fonctionnement du matériel roulant et des installations techniques	
+82
+3.4.1	 Système de signalisation et de contrôle-commande, y compris les enregistrements  
+des enregistreurs automatiques de données	
+82
+3.4.2	 Matériel roulant, y compris les enregistrements des enregistreurs automatiques  
+de données	
+88
+3.5	
+Documentation du système opératoire	
+3.5.1	 Mesures prises par le personnel pour le contrôle du trafic et la signalisation	
+3.5.2	 Echange de messages verbaux en relation avec l’événement, y compris la documenta- 
+tion provenant des enregistrements	
+3.5.3	 Mesures prises pour protéger et sauvegarder le site de l’événement	
+
+## Página 6
+
+3.6	
+Interface Homme-Machine-Opération	
+3.6.1	 Données concernant les conducteurs	
+100
+3.6.2	 Temps de travail du personnel impliqué	
+101
+3.6.3	 Circonstances médicales et personnelles ayant influencé l’événement, y compris  
+l’existence de stress physique ou psychologique	
+104
+3.6.5	 Facteurs extérieurs de distraction	
+108
+3.6.6	 Visibilité du système de signalisation et interférence et reconstitution 	
+109
+3.6.7	 Reconstitution - Film Vidéo	
+111
+3.7	
+Evénements antérieurs de nature comparable	
+112
+3.7.1	 Collisions / prise en écharpe suite à un dépassement de signal	
+112
+3.7.2	 Statistiques dépassements de signaux	
+114 
+4	
+Analyses et Conclusions	
+116
+4.1	
+Compte-rendu final de la chaîne d’événements	
+116
+4.2	
+Discussion	
+117
+4.2.1	 Identification des principes de securité associés à la situation opérationelle	
+117
+4.2.2	 Analyse du fonctionnement et des dysfonctionnements des principes de maîtrise	
+118
+4.2.3	 Analyse du fonctionnement et dysfonctionnement des principes de récuperation 	
+125
+4.2.4	 Analyse du fonctionnement et dysfonctionnement des principes de mitigation	
+129
+4.2.5	 Analyse du fonctionnement et dysfonctionnement du SGS	
+131
+4.2.6	 Une sous-estimation du risque	
+136
+4.2.7	 Une mise en œuvre du SGS à pas lents	
+137
+4.3	
+Conclusions	
+138 
+5	
+Mesures prises	
+140
+5.1	
+Mesures prises par le Secrétaire d’Etat	
+140
+5.1.1	 Loi du 29.12.2010 : Indépendance du NSA	
+140
+5.1.2	 Loi - Fonds Organiques	
+140
+5.1.3	 Moyens mis à disposition pour l’amélioration du fonctionnement du SSICF	
+140
+5.1.4	 Loi du 28.12.2011 modifiant la Loi du 19.12.2006 : amendes administratives	
+140
+5.1.5	 Arrêté du 25 juin 2010 modifiant l’Arrêté Royal du 13.11.2009 	
+140
+5.1.6	 Arrêté Ministériel du 30.07.2010 : Arrêté Ministériel portant adoption des exigences  
+applicables au matériel roulant pour l’utilisation des sillons	
+141
+5.1.7	 Arrêté Royal du 01.07.2011	
+141
+5.2	
+Mesures prises ou planifiées par le SSICF	
+142
+5.2.1	 Concertation sur la sécurite ferroviaire	
+142
+5.2.2	 Plan d’actions	
+142
+5.3	
+Mesures prises ou planifiées par la SNCB	
+142
+5.3.1	 Accélération du programme d’investissments planifié de la TBL1+	
+142
+5.3.2	 Accélération des investissements ETCS	
+143
+5.3.3	 Installation d’une lampe de mémorisation sur les véhicules pourvus du système  
+Gong-Sifflet	
+143
+5.3.4	 Soutien aux conducteurs de trains	
+144
+5.3.5	 Projet de modification du Fascicule RGPS	
+144
+5.3.6	 Prévention des dépassements de signaux	
+144
+5.4	
+Mesures prises par Infrabel	
+144
+5.4.1	 Modification du matériel roulant équipé du système Gong-Sifflet	
+144
+5.4.2	 Sensibilisation dans le cadre des dépassements de signaux	
+145
+5.4.3	 Stratégie TBL1+ 2009-2015	
+145
+5.4.4	 STM Siemens ETCS / TBL1+	
+146
+5.4.5	 Stratégie ETCS 2010-2025	
+146
+5.4.6	 Analyse de risques 30/09/2011 : système pour le départ de train de voyageurs	
+147
+5.4.7	 Analyses de risques 27/07/2010 dépassements de signaux : le cas des portiques 	
+148
+5.4.8	 Analyse de risques 07/12/2010 dépassements de signaux : oubli du Double Jaune	
+5.4.9	 Analyse signal desservi à plus de 300m	
+
+## Página 7
+
+Recommandations	
+7 	
+Annexes	
+154
+7.1	
+Site de l’accident	
+154
+7.2	
+Grille d’entretien pour l’étude facteurs humains	
+155
+7.3	
+Grille d’entretetien concernant le SGS	
+156
+7.4	
+Bande TELOC 3678	
+158
+7.5	
+Bande TELOC 1707	
+159
+7.6	
+Plan de secours provincial	
+160
+7.7	
+Equipement à bord des trains	
+162
+7.7.1	 Veille automatique (Pédale d’Homme Mort) 	
+162
+7.7.2	 Gong Sifflet	
+162
+7.7.3	 Le système « MEMOR »	
+162
+7.7.4	 TBL1	
+163
+7.7.5	 TBL1+ 	
+163
+7.7.6	 TBL2	
+163
+7.7.7	 TVM430	
+164
+7.7.8	 ETCS	
+164
+7.8	
+Fiche de service du conducteur du 3678	
+165
+7.9	
+Annexe 3 à la Directive 2004/49/CE	
+166
+7.10	 SNCB Holding	
+167
+7.11	 Etude Infrabel	
+168
+7.12	 Matériel Gong-Sifflet SNCB au 20/08/2008	
+171
+7.13	 Matériel SNCB modifié avec lampe de memorisation	
+172
+7.14	 Matériel Infrabel équipé du système Gong-Sifflet au 28/08/2008	
+174
+7.15	 Analyse des données Psion du signal H-E.1	
+176
+7.16	 Commentaires reçus non intégrés au rapport	
+180
+
+## Página 8
+
+## GLOSSAIRE
+A R	
+ : 	
+Arrêté Royal 
+AM 	
+: 	
+Arrêté Ministériel
+ATP	
+:	
+Automatic Train Protection
+AW	
+:	
+Aiguillage
+EBP 	
+:	
+Poste de commande électronique 
+EMT 	
+: 	
+EBP Management Terminal
+EF	
+:	
+ Entreprise Ferroviaire
+ERA 	
+: 	
+European Rail Agency
+ERTMS :	
+European Rail Traffic Management System
+ETCS 	
+:	
+European Train Control System 
+ETRALI	
+:	
+Système d’enregistrement des conversations RST
+GI	
+:	
+Gestionnaire d’Infrastructure
+GPRS	
+:	
+General Packet Radio Service
+GSM-R :	
+GSM for Railways
+IOT 	
+:	
+Indicateur Opérations Terminées
+IBG	
+:	
+Infill Balise group
+MEMOR 	 :	
+Système d’aide à la conduite repris comme système national de type B dans la STI CCS
+NSA	
+:	
+National Security Autority - Autorité Nationale de Sécurité 
+O E 	
+: 	
+Organisme d’Enquête
+PANG 	
+: 	
+Point d’Arrêt Non Gardé
+PN :	
+Passage à niveau
+RGE	
+:	
+Règlement Général d’Exploitation
+RGUIF	
+:	
+Règlement Général des Utilisateurs de l’Infrastructure Ferroviaire
+RST	
+:	
+Radio Sol Train
+RSEIF	
+:	
+Règlement de Sécurité pour l’exploitation de l’infrastructure Ferroviaire
+SBG	
+:	
+Signal Balise Group
+SGS	
+:	
+Système de Gestion de la Sécurité
+SIL	
+:	
+Safety Integrity Level
+SNCB 	
+:	
+Société Nationale des Chemins de fer Belges
+SSICF	
+:	
+Service de Sécurité et Interopérabilité des Chemins de Fer
+STI	
+:	
+Spécifications techniques d’interopérabilité 
+TBL	
+:	
+Transmission Balise-Locomotive
+TBL1+	
+:	
+Transmission Balise-Locomotive avec contrôle de vitesse partielle
+TELOC	
+ :	
+Système d’enregistrement de paramètres sur bandes papier à bord des trains
+VCAW	
+:	
+Verwarming/chauffage Aiguillage/Wissel
+
+## Página 9
+
+
+
+## Página 10
+
+## 1.	 Résumé
+Le lundi 15 février 2010 à 8h28:19, les trains E3678 et E1707 exploités par la SNCB entrent en col-
+lision quasi frontale entre la gare de Hal et le PANG de Buizingen. Le train omnibus E 3678, parti 
+de Leuven, se dirigeait vers Braine-le-Comte sur la voie A de la ligne 96 conformément à l’horaire 
+prévu. Le train E 1707 Quiévrain-Liège se dirigeait de Hal vers Bruxelles-Midi sur la voie B de la 
+ligne 96 et avait accumulé un retard de 10 minutes en arrivant à Hal.
+Aux environs de 8h26 le train 3678 avait effectué son arrêt au PANG de Buizingen au quai N°1. 
+Après environ 30 secondes d’arrêt, ayant reçu l’information que les opérations de débarque-
+ment–embarquement étaient terminées via la « lampe porte » située en cabine de conduite, le 
+conducteur a redémarré à pleine accélération. Il est pratiquement certain qu’à ce moment, le 
+grand signal H-E.1 situé à 335 mètres en aval des quais de Buizingen était au rouge. Le conduc-
+teur en avait reçu et acquitté l’avertissement en passant le signal avertisseur C-D.1 au double 
+jaune, 590 mètres avant les quais. 
+L’enquête n’a fait apparaître aucune action, même fugitive, du signaleur de la cabine de Bruxelles-
+Midi en charge de la zone, susceptible d’ouvrir le signal H-E.1. Au contraire, à 8h26, le signaleur 
+a tracé pour le train 1707 un itinéraire qui le déviait vers la voie B de la ligne 96 N en cisaillant 
+l’itinéraire du train 3678. De par la logique du système, cette manœuvre verrouille automati-
+quement le signal H-E.1 à la fermeture. L’enquête n’a fait apparaître aucune des causes phy-
+siques imaginables d’un allumage intempestif du signal au vert. On peut donc considérer que 
+conduire la réflexion sur l’hypothèse que le signal H-E.1 ait toujours été rouge pendant l’arrêt 
+puis le démarrage et l’accélération du train suffit à extraire de cet accident les leçons de sécurité 
+nécessaires et pertinentes. 
+Le train 3678 est passé à hauteur du signal H-E.1 à une vitesse de 60km/h environ, et a poursuivi 
+son accélération. Le conducteur s’est alors aperçu que le train 1707 cisaillait son parcours. Il a 
+klaxonné à plusieurs reprises, et enclenché le freinage d’urgence. Les deux trains sont entrés en 
+collision de manière quasiment frontale. Le conducteur du train E1557 s’est arrêté à hauteur de 
+l’accident et a donné l’alerte. Dans un premier temps, le plan d’urgence d’Infrabel a été déclen-
+ché. Le Traffic Control a appelé les services de secours à 8h32. Le plan d’urgence des services 
+publics de secours a été déclenché rapidement suivi par le plan d’intervention provincial à 9h15. 
+On dénombrera 19 morts, 35 blessés graves, et 44 blessés légers et environ 92 contusionnés. 
+De très gros dégâts ont été provoqués sur la voie, les caténaires, le matériel roulant, les biens 
+personnels des passagers. 
+Le scénario de l’accident repose sur le franchissement d’un signal fermé. L’accident a mis en 
+évidence un échec du principe de sécurité fondamental du système ferroviaire qui veut que les 
+conducteurs respectent les signaux fermés. On a conduit une analyse des raisons possibles de 
+ce franchissement. Le signal H-E.1 était normalement visible. L’analyse n’a pas mis en évidence 
+de raisons physiques ou physiologiques susceptibles d’expliquer une mauvaise perception de 
+la couleur du signal par le conducteur du train 3678. Elle n’a pas identifié non plus de cause par-
+ticulière de distraction, ni un état de fatigue anormal, ni une pression du temps ou un état de 
+stress. L’étude du planning des prestations du conducteur sur les 45 jours ayant précédé l’acci-
+dent ne montre pas de dette cumulée de sommeil et donc ne majore pas le niveau de fatigue du 
+conducteur. Le seul élément significatif susceptible d’affecter le niveau de vigilance du conduc-
+teur est la privation de sommeil induite par un lever tôt (3h30) pour la prise de poste le matin 
+de l’accident.
+
+## Página 11
+
+En ce qui concerne les dimensions psychologiques, et notamment cognitives de l’activité du 
+conducteur du train 3678, le contexte opérationnel qu’il a rencontré fournit des éléments d’ex-
+plication possibles au franchissement d’un signal fermé : 
+• l’arrêt au PANG facilite la perte de mémoire à court terme du signal avertisseur double 
+jaune rencontré avant l’arrêt au PANG, d’autant plus qu’aucun soutien externe à cette mé-
+morisation ne lui était fourni,
+• les routines de conduite « sur du jaune » acquises de par la fréquence élevée de rencontre 
+de signaux en position « double jaune » avec libération de la voie avant le signal fermé font 
+perdre ou affaiblissent l’association mentale « double jaune-rouge », 
+• la diversité de modalités de communication aux conducteurs de l’information OT (Opéra-
+tions terminées) favorise les confusions,
+• la fourniture de l’information OT avant que la voie ne soit libre et indépendamment du 
+signal de voie libre favorise le déclenchement intempestif de la routine de départ. 
+Dans un contexte global d’activité très routinière (omnibus), avec un niveau de vigilance sans 
+doute un peu réduit par une nuit courte, un niveau d’attention sans doute momentanément 
+plutôt bas mais sans distraction majeure, l’ensemble de ces éléments suggère que le conducteur 
+a réagi par automatisme à la lampe porte et s’est alors enfermé dans une représentation erronée 
+de la situation dans laquelle le signal symboliquement ouvert ne pouvait qu’être vu « vert ». 
+Ces éléments ne révèlent pas un mécanisme de défaillance clair sur lequel on pourrait bâtir une 
+action corrective vraiment efficace. De ce point de vue, les pistes suggérées par l’analyse de la 
+défaillance sont notamment :
+• la suppression de l’interruption de séquence double jaune – rouge par les arrêts au PANG
+• uniformiser les modalités de communication de l’information OT
+• l’imposition d’attente du signal de voie ouvert avant toute information OT
+• une prise en compte du risque fatigue dans la conception des plannings des conducteurs
+Mais un constat essentiel est que le scénario de ce franchissement de signal est un scénario connu, 
+sur lequel de nombreux efforts ont été faits depuis des années. L’accident confirme donc surtout 
+l’existence d’un « bruit de fond » de franchissements de signaux fermés pour des raisons com-
+plexes, liées aux limites de la fiabilité humaine, et sur lequel le système ne peut pas véritablement 
+avoir de prise. Le taux de respect des signaux fermés est déjà à un niveau (de l’ordre de 10-5) qui 
+témoigne d’une fiabilité humaine excellente et difficilement améliorable dans un tel contexte. 
+La croissance d’année en année du nombre de franchissements de signaux fermés en Belgique 
+est due à la progression du trafic voyageur (nombre de trains circulant) et de sa densité relative 
+aux capacités du réseau, dont la croissance entraîne une croissance plus rapide des interférences 
+et donc du nombre de signaux rencontrés fermés par les conducteurs. Même si des marges de 
+progression résiduelle de la fiabilité humaine existent, elles ne permettraient plus à elles seules 
+de rattraper puis de compenser cette croissance de l’exposition au risque.
+La seule solution pour sécuriser suffisamment le système ferroviaire belge est d’installer des 
+automatismes de protection par contrôle de la vitesse et freinage automatique, comme l’ont fait 
+d’autres pays comparables en Europe et tel qu’en cours d’implémentation en Belgique depuis 
+2009 par le système TBL1+.
+
+## Página 12
+
+Une solution complémentaire serait de doter aussi le système, au delà des automatismes, d’une 
+vraie capacité de récupération des franchissements de signaux fermés. Celle-ci est quasi inexis-
+tante aujourd’hui : rien n’indique le franchissement d’un signal fermé au conducteur ou au si-
+gnaleur, le signaleur n’a pas de moyen d’action suffisamment rapide, etc.
+Plus généralement, la sécurité du système ferroviaire gagnerait à se doter d’une vraie préoccu-
+pation pour la récupération des situations de perte de contrôle, et pour la sécurité passive.
+Les éléments principaux – l’impuissance à réduire «  suffisamment  » l’erreur humaine, et sa 
+conclusion, la nécessité inéluctable d’une béquille technologique – étaient connus du système 
+ferroviaire belge depuis presqu’une décennie. Dès lors qu’est-ce qui a fait que le système de 
+gestion de la sécurité ferroviaire belge, pris au sens le plus large, n’ai pas été en mesure de trans-
+former cette conscience en action efficace ?
+Un premier élément est l’héritage culturel. Le système ferroviaire belge a été marqué historique-
+ment par une culture réactive, réagissant aux accidents au cas par cas, très normative, misant tout 
+sur l’obéissance au prescrit, et donc logiquement centrée sur les défaillances des opérateurs de 
+première ligne vues comme « explication » des problèmes de sécurité. Il a donc assez logiquement 
+« bouclé » sur ses efforts pour éradiquer, cause après cause, les franchissements de signal fermé.
+Les rythmes de changement adoptés ont été peu représentatifs d’une adhésion enthousiaste 
+des directions et des autorités de tutelle à la cause du SGS. Le concept n’a pas fait immédiate-
+ment apparaître dans les esprits l’intérêt qu’il présentait par rapport à tout ce qui se faisait déjà 
+pour la sécurité. La reconnaissance par le système ferroviaire du besoin de renforcer la sécurité 
+par un dispositif de surveillance et de freinage automatique n’a pas été suffisante pour choisir 
+une stratégie corrective efficace et la mettre en œuvre rapidement.
+L’évaluation du problème de sécurité posé par le franchissement de signaux fermés est res-
+tée assez qualitative, biaisée par la perception culturelle d’une responsabilité principale des 
+conducteurs, donc d’un problème soluble (par la formation, l’exhortation, la sanction). Tout cela 
+a construit le cadre d’une sous-estimation politique du problème et de ses délais de résolution, 
+d’une absence de remise en question et d’une sur-confiance des dirigeants dans la sécurité du 
+rail, dans un contexte institutionnel par ailleurs marqué par nature par une certaine instabilité 
+des décisions et du suivi des investissements sur le long terme.
+On a relevé aussi une certaine faiblesse de l’autorité nationale de sécurité, pourtant seule en 
+position de proposer et d’imposer une vision systémique intégrée et externe aux intérêts d’en-
+treprise, et une délégation importante de la responsabilité de gestion de la sécurité vers le ges-
+tionnaire d’infrastructure Infrabel. Cette faiblesse est le résultat direct du fait que l’installation 
+de cette autorité, et plus généralement la mise en œuvre du cadre réglementaire de la gestion 
+de la sécurité ferroviaire s’est faite avec des retards systématiques sur les butées temporelles des 
+obligations réglementaires.
+L’application de la directive européenne a entraîné une formalisation des démarches de ges-
+tion de risque. Des progrès ont été réalisés mais l’appropriation et la maîtrise des méthodes de 
+gestion de risque et d’analyse systémique et organisationnelle des incidents et des accidents 
+restent améliorables.
+Les deux entreprises Infrabel et SNCB ont déposé un plan d’équipement accéléré du système 
+TBL1+ au niveau de l’infrastructure (fin 2015) et au niveau du matériel roulant (fin 2013). Ce plan 
+constitue un rattrapage d’urgence acceptable répondant à la nécessité exprimée. Néanmoins 
+le système d’aide à la conduite TBL1+ n’est pas un système « full supervision ». Son installation 
+accélérée sur le réseau belge ne peut constituer qu’une solution transitoire et s’articuler avec 
+une installation telle que prévue par les deux entreprises du système ETCS.
+
+## Página 13
+
+
+
+## Página 14
+
+## 2.	Les faits immédiats
+### 2.1	 L’événement
+## 2.1.1	
+### Description de l’événement
+Le lundi 15 février 2010 à 8h28:19 entre la gare de Hal et le PANG1 de Buizingen, à hauteur de la 
+borne kilométrique 12.000 au niveau de l’aiguillage 46 A, les trains E3678 et E1707 exploités par la 
+SNCB entrent en collision quasi frontale.
+Le train omnibus2 E3678, parti de Leuven, se dirigeait vers Braine-le-Comte sur la voie A de la ligne 
+96 conformément à l’horaire prévu.
+Le train E1707 Quiévrain-Liège se dirigeait de Hal vers Bruxelles-Midi et avait accumulé un retard de 
+10 minutes en arrivant à Hal. 
+Les deux trains roulaient à voie normale c’est-à-dire dans le sens de circulation normale affecté à 
+leur voie.
+Lors de son parcours, à 8h16, le conducteur du train 3678 rencontre le signal avertisseur C-D.1, 
+présentant un double jaune. Ce signal se trouve 590 mètres avant le début des quais de Buizingen, 
+son prochain arrêt prévu. Le signal double jaune informe du caractère restrictif du signal suivant, à 
+savoir le grand signal H-E.1, situé à 335 mètres après la fin des quais de Buizingen.
+A 8h26 le train E1707 rencontre le O-H.1 signal jaune vert vertical et décélère à la vitesse d’environ 
+80 km/h, il rencontre ensuite le signal O-N.1 double jaune et décélère vers la vitesse de ± 40 km/h. 
+A 8h26 le signaleur de la cabine de signalisation de Bruxelles-Midi trace l’itinéraire du train 1707 
+pour le dévier de la voie B de la Ligne 96 vers la voie B de la ligne 96 N via la liaison 45A/45B, la liai-
+son 46A/46B, ligne 96N/voie B. Ce parcours cisaille l’itinéraire du train 3678. Cette manœuvre com-
+mande le signal O-E.1 à l’ouverture, et le train 1707 rencontre alors ce signal ouvert : il réaccélère et 
+franchit O-E.1 à 8h27:46 et atteint la vitesse d’environ 70 km/h.
+Aux environs de 8h26, le train 3678 effectue son arrêt au PANG de Buizingen au quai N°1. Le train 
+redémarre vers 8h27 à pleine accélération, passe à hauteur du signal H-E.1 à une vitesse de 60km/h 
+environ, et poursuit son accélération. Le conducteur s’aperçoit alors que le train 1707 cisaille son 
+parcours, il klaxonne à plusieurs reprises, et il enclenche le freinage d’urgence.
+Les deux trains entrent en collision à 8h28:19.
+Le train E 1557 venant de Grammont vers Bruxelles-Midi, circulant depuis la voie II de Hal via le 
+signal Q-E.1, s’est immobilisé à 8h29 au km 11.863 à hauteur de l’aiguillage 42B à proximité immé-
+diate du lieu de l’accident mais n’est pas directement impliqué.
+PANG : Point d’Arrêt Non Gardé
+Omnibus = trains locaux dans le jargon ferroviaire
+
+## Página 15
+
+### 2.1.2	 Description du site
+L’accident s’est produit entre Hal et Buizingen.
+Localisation géographique du lieu de l’accident
+
+## Página 16
+
+
+
+## Página 17
+
+Parcours du train 3678 (Leuven- Braine-le-Comte)
+En provenance de la voie 2 du PANG de Buizingen, le train emprunte la voie A de la ligne 96 et 
+poursuit son trajet jusque la gare de Hal sur la ligne 96 A. Il est représenté par un trait de couleur 
+rouge sur le schéma de la figure précédente. Le train est arrivé avec une minute de retard au PANG 
+de Buizingen sur l’horaire prévu.
+Parcours du train 1707 (Quiévrain - Liège)
+En provenance de la voie 2 de la gare de Hal, le train emprunte la voie B de la ligne 96.
+Il se dirige vers la voie B de la ligne 96N en empruntant l’aiguillage 45AE et l’aiguillage 46AE.
+Son parcours cisaille la ligne 96A. Il est représenté par un trait de couleur verte sur le schéma de la 
+figure précédente. Le train est arrivé avec 10 minutes de retard en gare de Hal sur l’horaire prévu.
+Parcours du train 1557
+En provenance de la voie II de la gare de Hal, le train emprunte la voie A de la ligne 26 et se dirige 
+vers la voie B de la ligne 96 via l’aiguillage 42 BE. Il est représenté par un trait de couleur jaune sur 
+le schéma de la figure précédente. Le train est arrivé avec 4 minutes de retard en gare de Hal sur 
+l’horaire prévu.
+Il s’est arrêté à hauteur des deux trains accidentés mais n’est pas impliqué dans l’accident.
+### 2.1.3	 Les services de secours
+Le conducteur du train 1557 signale immédiatement l’accident au Traffic Control.
+Le Traffic Control contacte les services de secours pour prévenir de l’accident.
+Le Traffic Control a informé très rapidement vers 8h29 le service 100 de Leuven d’une collision avec 
+déraillement et probablement des morts.
+La police locale est arrivée rapidement sur les lieux de l’accident.
+Le Traffic Control a également appelé les services d’aide pour informer de la situation et de la néces-
+sité d’envoyer rapidement plusieurs ambulances.
+Les pompiers de Hal sont arrivés quelques minutes après l’accident.
+Après s’être assuré de la coupure de la tension, les services de secours ont demandé aux passagers 
+qui en avaient la possibilité et la force de sortir et de se diriger le long des voies.
+### 2.1.4	 La décision d’ouvrir une enquête
+Au vu de l’ampleur du drame humain et des dégâts au niveau du matériel roulant et de l’infrastruc-
+ture, la décision d’ouvrir une enquête ne faisait pas question. Cette enquête répond à la définition 
+d’accident grave conformément à l’article 443 de la loi du 19 décembre 2006.
+La décision d’ouvrir l’enquête a donc été prise par l’enquêteur principal dès réception de la notifica-
+tion de l’accident, reçue le lundi 15 février 2010 par téléphone à 9h30 de la part d’Infrabel. 
+Conformément à la mission de l’organisme d’enquête définie dans la loi du 19 décembre 2006 en 
+son article 524, l’enquête n’a pas pour but de déterminer les responsabilités mais les causes directes, 
+indirectes ou sous-jacentes ayant pu jouer un rôle dans l’accident.
+Toute utilisation de ce rapport dans une perspective différente de celle de la prévention des acci-
+dents - par exemple celle de définir des responsabilités, et a fortiori des culpabilités individuelles 
+ou collectives - serait effectuée en distorsion totale avec les objectifs de ce rapport, les méthodes 
+utilisées pour le bâtir, la sélection des faits recueillis, la nature des questions posées, et les concepts 
+qu’il mobilise, auxquels la notion de responsabilité est étrangère. Les conclusions qui pourraient 
+alors en être déduites seraient donc abusives au sens littéral du terme. 
+Loi 19 DECEMBRE 2006. - Loi relative à la sécurité d’exploitation ferroviaire. Art. 44. L’organisme d’enquête effectue une enquête après 
+chaque accident grave survenu sur le système ferroviaire.
+Loi 19 DECEMBRE 2006. - Loi relative à la sécurité d’exploitation ferroviaire. Art. 52. L’enquête est effectuée indépendamment de toute infor-
+mation et instruction judiciaire et ne peut en aucun cas viser à la détermination de la faute ou de la responsabilité.
+
+## Página 18
+
+### 2.1.5	 Composition de l’équipe 
+| Rôle | Organismed’appartenance | Noms |
+| Enquêteurprincipal | SPFMobilitéetTransports/ Organismed’Enquête | L Mathues . |
+| Enquêteurs | SPFMobilitéetTransports/ Organismed’Enquête | M Gigounon . , JP Engelmann . |
+| Expertiseopérationnelle |  | C Feihle . |
+| Expertisetechnique | SNCBHolding | J Fouquet . , C Piette . , M Papeleu . |
+| ExpertisefacteursHumains | DédaleSAS | J Pariès . , F Magnin . , F Mourey . |
+| Assistancedocumentaire , logistique technique , | Serviced’enquêted’INFRABEL DiversservicesInfrabel |  |
+| Assistancedocumentaire , logistique technique , | Serviced’enquêtedelaSNCB DiversservicesSNCB |  |
+| Expertiseréglementaire | SSICF |  |
+
+## Página 19
+
+### 2.1.6	 Conduite de l’enquête
+## 2.1.6.1	
+général
+L’accident a été notifié à l’enquêteur principal par téléphone le lundi 15 février 2010 par le Traffic 
+Control. 
+L’enquêteur et l’enquêteur principal du SPF Mobilité et Transport se sont rendus sur le site le jour 
+même.
+Des contacts ont rapidement été pris avec des experts externes conformément aux dispositions de 
+l’article 50 de loi du 19 décembre 2006 pour compléter l’équipe.
+Des contrats ont été signés avec : 
+• un expert indépendant pour un appui de l’enquêteur principal tout au long du processus 
+d’enquête
+• la SNCB Holding pour fournir l’expertise technique pour une partie de l’enquête technique
+• la société Dédale SAS pour l’expertise en facteurs humains et organisationnels dans la gestion 
+des risques et pour son expertise en système de gestion de la sécurité.
+L’entreprise Dédale SAS a été choisie vu son implication dans de nombreuses industries à haut degré 
+de fiabilité (nucléaire, aviation, pharmaceutique,...) mais également pour son expérience du domaine 
+ferroviaire (SNCF) et des enquêtes sur accident ferroviaire (Zoufftgen Luxembourg, Waterfall Australie).
+La société a mis à disposition des experts en ergonomie et psychologie pour le facteur humain, 
+ainsi qu’une expertise en système de gestion de la sécurité pour le dernier volet de l’étude.
+
+## Página 20
+
+## 2.1.6.2	
+### Méthodologie générale d’analyse de l’accident
+Un accident peut être expliqué comme une perte de contrôle sur la dynamique d’une situa-
+tion, c’est à dire la survenue d’un événement pivot, ou initiateur, à partir duquel le cours des 
+événements bifurque. Avant l’événement initiateur, le processus est intrinsèquement stable en 
+sécurité. Des opérations « normales » se déroulent, ce qui ne veut pas dire que tout est standard 
+ou conforme aux anticipations: des pannes se produisent, des erreurs et même des écarts aux 
+règles et procédures peuvent être commis, des événements imprévus peuvent être rencontrés, 
+mais tout cela est amorti et gardé sous contrôle par des mécanismes homéostatiques de dé-
+fense et de sécurité du système, de sorte qu’aucune menace sérieuse ne se développe. Après 
+l’événement initiateur, le processus bascule dans un état instable en sécurité, il devient intrinsè-
+quement non sûr. Une porte vers l’accident s’est ouverte, et le cours des événements va inexo-
+rablement conduire à l’accident si une action de récupération volontaire et efficace n’est pas 
+effectuée à temps. Un événement initiateur est donc tout événement à partir duquel une séquence 
+accidentelle se développe si une action de récupération efficace n’est pas déclenchée. Il correspond 
+à la défaillance d’une fonction de sécurité principale du système, comme par exemple protéger 
+l’itinéraire tracé pour un train de toute autre circulation ferroviaire. 
+Cette représentation de l’accident peut être traduite par la métaphore suivante :
+Une bille dotée d’une certaine énergie (qui re-
+PREVENTION
+PREVENTION
+PREVENTION
+présente les variations quotidiennes et les dif-
+### Pivot
+### Pivot
+### Pivot
+férentes menaces) s’agite dans une coupelle. La 
+RECUPERATION
+RECUPERATION
+RECUPERATION
+géométrie du récipient (qui symbolise les prin-
+cipes de maîtrise de la situation) maintient la 
+bille à l’intérieur (stabilité dynamique). 
+Si l’énergie de la bille devient trop forte ou si la 
+hauteur des rebords diminue, la bille franchit 
+le rebord. Il y a perte de contrôle. A partir de 
+ce moment, le mouvement naturel de la bille 
+MITIGATION
+MITIGATION
+MITIGATION
+Accident
+Accident
+Accident
+devient divergent. Seule une action de récu-
+pération active peut stopper cette divergence. 
+Si cette récupération échoue, la bille chute et 
+s’écrase : c’est l’accident. 
+On peut en atténuer les conséquences en amor-
+tissant l’impact. 
+Les principes de sécurité destinés à empêcher la survenue de l’événement pivot sont dits prin-
+cipes de maîtrise, ou de prévention. Les principes de sécurité destinés à récupérer l’événement 
+pivot sont dits de récupération. Les principes de sécurité destinés à atténuer les conséquences 
+de l’accident sont dits de mitigation.
+L’ensemble des principes de sécurité, ou encore l’ensemble de tout ce qui est supposé empêcher 
+la survenue de l’événement initiateur, puis de l’accident, constituent le « modèle de sécurité » 
+associé à l’événement initiateur ou à l’accident. Cet ensemble comporte des zones explicites : 
+des dispositions réglementaires, des procédures à suivre, des caractéristiques de conception, 
+de limitations opérationnelles, etc. qui ont été conçues pour mettre et conserver le système en 
+sécurité. Il comprend aussi des zones implicites, plus ou moins claires : des « bonnes pratiques », 
+des « attentes raisonnables » vis-à-vis des comportements, voire des présupposés ou des hypo-
+thèses totalement implicites sur les comportements des différents acteurs. 
+
+## Página 21
+
+## 2.1.6.3	
+### Analyse technique
+Nous avons travaillé à partir :
+• des comptes rendus des premières auditions réalisées par Infrabel, SNCB et la Police des 
+Chemins de Fer
+• des mesures réalisées par Infrabel (sous le regard d’un agent de la Police des Chemins de fer)
+• des réglementations et documentations techniques applicables le jour de l’accident
+• des demandes d’informations d’analyses d’études obtenues d’Infrabel, de la SCNB, du SSICF
+• d’interviews de l’Autorité Nationale de Sécurité
+• de demandes d’information aux managers responsables pour la signalisation d’Infrabel
+• de l’interview du manager de la signalisation d’Infrabel
+• de demandes d’information aux managers responsables pour le matériel roulant SNCB
+• de l’interview du manager de SNCB Technics
+• diverses interviews
+L’enquête technique a pour but d’établir le scénario le plus probable en fonction des éléments 
+à notre disposition.
+Une première étude a été demandée aux experts techniques, qui ont notamment travaillé à 
+l’analyse du logbook des commandes effectuées par les signaleurs, fourni par Infrabel.
+Rapidement, les premiers éléments recueillis ont suggéré que le scénario le plus probable de 
+l’accident était lié à un franchissement de signal fermé. 
+L’accès à d’autres informations nous a ensuite permis de compléter notre enquête technique 
+et de confirmer ces premières hypothèses. Ces informations complémentaires concernaient 
+notamment :
+• les caractéristiques mécaniques du crocodile
+• l’état de fonctionnement des installations de signalisation
+• les bandes d’enregistrement des trains (TELOC)
+Cependant l’impossibilité d’accéder rapidement à certains éléments constituant des pièces de la 
+procédure judiciaire a retardé, compliqué, ou limité nos investigations. Ainsi, l’accès aux bandes 
+TELOC des deux trains ne nous a pas été accordé par les Autorités Judiciaires et ce malgré nos 
+diverses demandes. 
+Nous avons reçu une copie via Infrabel au début du mois de mars 2011 au travers de son rap-
+port d’enquête interne. Les copies des bandes TELOC nous ont été fournies par la SNCB à la mi 
+novembre 2011.
+Le non accès à l’ampoule du signal H-E.1 saisie par la Justice ne nous a pas permis d’aller plus en 
+profondeur dans nos investigations techniques.
+Plusieurs études ont été demandées aux experts techniques pour préciser ou élargir la réflexion : 
+• Etude sur l’IOT
+• Etude sur la mise en protection d’aiguillage
+• Etude sur le matériel roulant
+Malgré ces obstacles, les diverses études techniques réalisées confirment le scénario du dépas-
+sement d’un grand signal d’arrêt fermé avec une faible marge d’incertitude. 
+En conséquence, l’organisme d’enquête a décidé de confier à une société spécialisée une étude 
+spécifique sur les facteurs humains impliqués dans cet accident.
+
+## Página 22
+
+## 2.1.6.4	
+etude facteurs humains
+L’étude du « facteur humain » envisagée a pour objectif d’exposer l’ensemble des facteurs relatifs 
+aux individus (psychologie, degré de préparation, vigilance, …) et à leur organisation collective 
+(organisation du travail, aspects sociaux, …) qui peuvent influencer les comportements et les 
+réponses du système d’une manière qui peut affecter la sécurité. 
+L’analyse d’un accident du point de vue des facteurs humains et organisationnels consiste alors, 
+après en avoir soigneusement établi le scénario, à :
+• Expliciter la composante humaine du modèle de sécurité associé à l’événement initiateur, 
+c’est-à-dire reconstituer les principes de sécurité faisant appel à des comportements spé-
+cifiques, attendus des acteurs de première ligne, et censés successivement empêcher sa 
+survenue, permettre sa récupération avant l’accident, et atténuer les conséquences de 
+l’accident. 
+• Identifier parmi ces principes de sécurité celui ou ceux qui ont été défaillants le jour de 
+l’accident. 
+Il peut se faire qu’un accident se produise alors même que le système en fonctionnement se 
+conformait à ses spécifications : on parle alors d’accident « normal ». Dans ce cas, soit il s’agit de 
+la réalisation d’un accident dont on avait accepté la possibilité parce qu’elle paraissait suffisam-
+ment improbable, soit l’accident révèle une faille du modèle de sécurité lui-même, c’est-à-dire 
+un cas de figure accidentel qui n’avait pas été correctement envisagé. 
+Mais le plus souvent, la genèse de l’accident est associée de façon plus ou moins complexe à l’ef-
+fet d’écarts entre d’une part les spécifications, les prescriptions et les attentes de comportement 
+du système, et d’autre part son comportement réel. Ceci vaut autant pour les composantes tech-
+niques (pannes) que pour les composantes humaines du système (comportement inattendus, 
+erreurs, déviations), qui nous intéressent ici. Ces écarts entrainent alors des défaillances dans les 
+principes de sécurité sur lesquels on fondait la sécurité du système. 
+On s’intéresse donc ici aux « écarts » entre les comportements constatés et les comportements 
+attendus des acteurs de première ligne comme conditions de la sécurité. 
+Dans des cas assez rares, ces écarts peuvent constituer une exception aux pratiques courantes, 
+non anticipée ou non prise en compte, et dont le caractère exceptionnel suffit à prendre en 
+défaut les protections prévues. On peut alors chercher à comprendre l’exception, à la fois dans 
+le but de découvrir des moyens d’en diminuer la probabilité, et dans le but de renforcer les 
+protections amont et aval. Cette compréhension passe par la confrontation des modèles com-
+portementaux aux conditions perturbantes et contextes particuliers de l’activité « ce jour là ». 
+Mais le plus souvent il est difficile de garantir que cette exception, ou une autre exception, ne se 
+reproduira pas, et le plus efficace est de renforcer d’autres protections.
+Dans la plupart des cas, les écarts sont constitutifs des pratiques courantes. Ils traduisent no-
+tamment des ajustements des prescriptions à la variation des conditions réelles. Il s’agit d’ajus-
+tements « efficaces », voire nécessaires à l’accomplissement de la mission opérationnelle. Ils 
+peuvent aussi résulter d’une dérive lente des pratiques moyennes, pour des raisons d’utilité per-
+çue (ex : abandon d’une vérification qui d’expérience ne sert « jamais »), ou des raisons de confort 
+(ex : gain de temps). La fragilité de ces pratiques est qu’elles sont bâties sur une expertise limitée, 
+c’est-à-dire le repérage implicite dans l’expérience locale d’un certain nombre d’invariants qui 
+peuvent très bien s’avérer faux dans certaines circonstances particulières ou exceptionnelles, 
+non anticipées par les acteurs. L’accident résulte alors de la résonance entre cette variabilité des 
+pratiques et ces circonstances particulières. 
+
+## Página 23
+
+Généralement l’identification de mesures efficaces de correction des fragilités révélées par l’acci-
+dent dans le modèle de sécurité suppose une bonne compréhension de ces écarts. Cette explica-
+tion doit se faire à deux niveaux : le niveau de la causalité directe et le niveau de la causalité indi-
+recte. La causalité directe consiste à chercher ce qui dans l’environnement et le contexte, dans les 
+caractéristiques des opérateurs, ou dans la situation ce jour là, peut expliquer la défaillance en 
+question. La causalité indirecte consiste à chercher ce qui dans les modalités d’organisation, de 
+management, les formations, la culture professionnelle, etc. peut expliquer les causes directes.
+On se réfère pour cela au modèle général de l’accident « organisationnel » de J. Reason (figure 3). 
+Organisation
+Organisation
+Organisation
+Environnement
+Environnement
+Environnement
+Environnement
+Activité
+Activité
+de travail
+de travail
+de travail
+de travail
+Défenses
+Défenses
+“temps réel
+“temps réel
+ACCIDENT
+ACCIDENT
+ACCIDENT
+Figure 3 : Modèle général d’un accident par James Reason
+Ce modèle repose sur le constat est qu’il est impossible de supprimer l’erreur des opérateurs hu-
+mains, et qu’il revient à l’organisation d’intégrer à ses processus des mécanismes de gestion de 
+l’erreur, qu’ils soient destinés à en diminuer les fréquences ou à en empêcher les conséquences 
+indésirables.
+En résumé ce modèle postule qu’un système sûr est un système qui se protège par une suite de 
+défenses en profondeur contre le développement d’accidents grâce à l’efficacité d’un véritable 
+système de gestion de la sécurité établi en son sein. Finalement, l’analyse devra donc également 
+répondre à la question suivante : « comment le système de gestion de la sécurité (SGS) du sys-
+tème considéré (ici le système ferroviaire belge) a-t-il pris en compte et traité dans la période 
+précédant l’accident les problématiques de sécurité illustrées par l’accident ? ». De fait, c’est la 
+réponse à cette question qui permet de véritablement tirer les leçons de sécurité de l’accident.
+### Méthodologie pratique pour l’analyse des facteurs humains
+Comme indiqué précédemment, nous sommes partis d’une part du scénario de l’accident établi 
+par l’enquête, d’autre part des principes de sécurité et du référentiel d’action (procédures, etc.) 
+censés protéger de ce type d’accident.
+Ceci nous a permis de repérer des défaillances dans les principes de sécurité ou leur application 
+qui ont permis l’accident. Nous en avons déduit les comportements des acteurs de première 
+ligne qui étaient étroitement associés à ces défaillances et qui devaient par conséquent faire 
+l’objet d’une étude approfondie, notamment par comparaison aux pratiques courantes, par 
+comparaison aux référentiels, ou par recherche d’explication psychologique ou psychosociolo-
+gique.
+Ceci nous a orienté vers les documents à examiner, défini le contenu des grilles d’entretien, ainsi 
+que la nature des données et informations à recueillir. 
+
+## Página 24
+
+En effet, pour conduire cette étude, un certain nombre d’entretiens ont été réalisés sur la base du 
+volontariat des personnes rencontrées. Au sein de plusieurs entreprises (Infrabel et SNCB), quatre 
+types de populations ont été concernées par ces entretiens :
+• des cadres hiérarchiques
+• des opérateurs impliqués le jour de l’accident
+• des opérateurs non impliqués le jour de l’accident
+• des responsables d’organismes officiels concernés par la sécurité ferroviaire
+### Entretiens avec des cadres
+Nous avons réalisé des entretiens avec différents responsables. Les objectifs de ces entretiens 
+étaient notamment d’étudier :
+• L’organisation du travail (rôles attendus et effectivement tenus, contraintes de production, 
+management hiérarchique de la sécurité,…)
+• La définition des procédures de travail (connaissance, compréhension, adaptations et vision 
+« terrain » du travail, savoir-faire, règles autonomes éventuelles, rattrapages de situation)
+• L’utilisation du retour d’expérience
+• La mise en place de la formation
+• Les politiques en matière de management, de sécurité et de contrôle de la performance
+Dans ce cadre, nous avons rencontré les personnes suivantes : 
+• Le Safety Manager de la SNCB
+• Le Safety Manager d’Infrabel
+Lors des entretiens semi-directifs, une grille de questionnement préétablie et adaptée aux fonc-
+tions des interlocuteurs a été suivie. 
+### Entretiens avec des agents non impliqués
+Afin de compléter notre analyse de l’activité en poste de conduite et en cabine de signalisation, 
+nous avons interviewé des agents de conduite non impliqués dans l’accident ayant la connais-
+sance de la ligne 96 ou ayant franchi des signaux fermés ainsi que des agents de la cabine de 
+signalisation. Ces entretiens ont notamment permis de comprendre les pratiques quotidiennes 
+individuelles et usuelles (compréhension et représentation mentale de la situation, informations 
+utiles, disponibles, manquantes…).
+Dans ce cadre, nous avons rencontré les personnes suivantes : 
+• 3 agents de conduite ayant franchi des signaux fermés
+• 6 agents de conduite réalisant des prestations sur la ligne 96 : 3 francophones et 3 néerlan-
+dophones
+•1 desservant de la cabine de signalisation
+
+## Página 25
+
+### Entretiens avec les agents du jour de l’accident
+### Conditions d’entretien
+Comme les autres entretiens, ceux des personnes impliquées ont été réalisés sur la base du volontariat. 
+Les conditions annoncées de ces entretiens étaient:
+• La possibilité pour les personnes de choisir d’être accompagnées si elles le souhaitaient
+• La garantie de la stricte confidentialité de l’entretien 
+• La garantie que les transcriptions des entretiens ne soient pas annexés ni au rapport de Dédale 
+ni au rapport d’enquête officiel.
+### Grille d’entretien
+L’objectif de l’entretien était d’obtenir une description la plus détaillée possible du déroulement du 
+travail le jour de l’accident. Nous n’avons pas cherché à obtenir l’analyse du personnel sur ce qui s’est 
+passé. Pour cela nous avons utilisé une grille d’entretien qui vise à replacer la personne dans son 
+contexte du jour de l’accident. La grille a été annexée au présent rapport (annexe 7.2)
+### Personnes rencontrées
+• La Permanence ayant notifié le changement de planning (service 103 au lieu du 106)
+• Le supérieur hiérarchique du conducteur du train 3678
+• Le régulateur 
+• Le sous-chef signaleur
+• Les 3 signaleurs en poste
+## 2.1.6.5	
+etude du système de gestion de la sécurité
+L’analyse de l’accident de Buizingen s’est également intéressée aux dimensions organisationnelles 
+de l’accident, et donc au fonctionnement du Système de Gestion de la Sécurité (SGS) formel et infor-
+mel de l’entreprise ferroviaire belge intégrée, puis de ses descendantes, depuis une dizaine d’années, 
+sur la question particulière du franchissement des signaux fermés. En effet, l’accident a mis en évi-
+dence un certain nombre de fragilités dans les dispositions qui garantissent la sécurité des circula-
+tions vis-à-vis du risque de collision ou de prise en écharpe. Le nombre absolu de dépassements de 
+signaux fermés augmente régulièrement, malgré toutes les mesures prises ces dernières années. Le 
+but sera d’essayer d’expliquer cette situation, de comprendre comment le système de gestion de la 
+sécurité du système ferroviaire belge a fonctionné vis-à-vis du risque de collision associé aux fran-
+chissements de signaux fermés, par exemple au cours de la dernière décennie. Il ne s’agit donc pas 
+d’effectuer un audit du système de gestion de la sécurité, mais d’essayer de comprendre comment 
+le système de gestion de la sécurité a appréhendé la question des franchissements de signaux fer-
+més, a formulé des réponses, et les a mises en œuvre, ou encore comment les fragilités mentionnées 
+précédemment ont pu se développer et perdurer, afin de proposer des améliorations. La notion de 
+« système de gestion de la sécurité » est d’ailleurs prise ici au sens large (ensemble des organisations, 
+processus, dispositifs, principes, procédures, pratiques, etc. qui contribuent à garantir la sécurité), et 
+s’applique donc à la gestion de la sécurité par les organisations ferroviaires belges et les autorités, 
+y compris avant que n’y soient formellement mis en œuvre des Systèmes de Gestion de la Sécurité 
+(SGS) formalisés selon les référentiels pertinents et la Directive 2004/49/CEE (annexe III et article 9) 
+relative à la sécurité des chemins de fer.
+
+## Página 26
+
+### Méthodologie pratique pour l’analyse du SGS
+Afin de conduire cette réflexion, nous avons utilisé les sources d’information suivantes :
+• une reconstitution de l’historique des accidents ferroviaires par collision survenus en Bel-
+gique depuis 1989 suite à des dépassements de signaux;
+• la Directive 2004/49/CE du Parlement européen et du Conseil et la directive 2009/149/CE de 
+la Commission du 27 novembre 2009;
+• les référentiels réglementaires concernant le SGS ferroviaire au Royaume Uni, au Canada, et 
+en Australie;
+• un avis du Conseil Général des Ponts et Chaussées (France) sur le bilan de la Loi d’Orientation 
+des Transports Intérieurs concernant le « contrôle de vitesse des trains par balises (KVB) » ; 
+Rapport n° 005721-01 mars 2008 ; Philippe PEYRONNET, Frédéric RICO, ingénieurs généraux 
+au Conseil Général des Ponts et Chaussées;
+• un inventaire des règles nationales de sécurité ferroviaire applicables en Belgique;
+• le dossier soumis pour homologation de leur SGS par Infrabel et SNCB;
+• divers documents d’organisation sur la gestion de la sécurité par la SNCB intégrée, la SNCB 
+Holding, Infrabel, la SNCB, ainsi que par les autorités concernées au sein du SPF Mobilité 
+Transports (SSICF, …);
+• des documents de synthèse et de réflexion produits par les organisations concernées (SNCB 
+intégrée, SNCB Holding, Infrabel, SNCB, SSICF, SPF/Direction Rail) sur la question du fran-
+chissement de signaux fermés (statistiques, analyses des incidents recensés, rapports an-
+nuels de sécurité);
+• des comptes-rendus de réunion du groupe de réflexion transverse gestionnaire d’infrastructure- 
+entreprises ferroviaires « Safety Platform »;
+• des comptes-rendus de réunions et décisions de Comité de Direction et de Conseil d’admi-
+nistration de SNCB intégrée, SNCB Holding, Infrabel, et SNCB relatifs aux dépassements de 
+signaux. La SNCB Holding nous a permis de consulter toutes les archives des PV des Conseils 
+d’administration et Comités de direction tenu avant 2005, de choisir et de prendre copie de 
+ce que nous souhaitions. La SNCB et INFRABEL nous ont fourni quelques procès verbaux;
+• le rapport de la Commission parlementaire spéciale consacrée à l’accident de Buizingen;
+• le rapport spécial de la Cour des Comptes sur l’accident de Buizingen;
+• les données statistiques comparatives de l’ERA sur les niveaux de sécurité ferroviaire en Europe;
+• le rapport de la Safety Unit de l’ERA sur l’évaluation des activités du SSICF et du NIB (2010);
+• le Manuel de Certification des Personnels de Bord, à l’usage des assistants techniques du SSICF;
+• le rapport d’audit du SGS de la SNCB intégrée finalisé en 2004 après l’accident de Pécrot 
+(2001) par Loyds Register;
+• …
+
+## Página 27
+
+### Entretien avec des responsables du SGS
+### Grille d’entretien
+Pour cela nous avons utilisé une grille d’entretien qui vise à mieux cerner :
+• les instances concernées par la gestion de la sécurité,
+• la gestion du risque associé aux franchissements de signaux fermés.
+La grille se trouve en annexe 7.3.
+### Personnes rencontrées
+Interviews de : 
+- 7 responsables concernés par la mise en place de SGS :
+• SSICF 
+• SNCB 
+• Infrabel 
+• SPF/Direction Rail 
+- et d’un représentant du syndicat CGSP Cheminots
+L’enquête a été rendue difficile par 
+• Les réponses à nos demandes de données et d’informations d’ordre général (bandes Teloc, 
+mesures techniques sur le site après l’accident, dossier médical du conducteur du train E3678 
+etc.) ont été marquées par une grande lenteur, souvent attribuable aux interférences avec 
+la procédure judiciaire ; les délais de réponse étaient trop importants ;
+• Nous nous sommes heurtés à une faible disponibilité du personnel sollicité pour des inter-
+views, du fait de la multiplication des interrogatoires subis et du caractère pénible de l’exer-
+cice de mémoire demandé par plusieurs services d’enquête, ainsi que du fait de la réticence 
+perceptible des hiérarchies à voir interroger leurs employés;
+• L’avocat du conducteur survivant de l’accident lui a conseillé de refuser notre entretien ;
+• L’état de santé de certains agents (accompagnateurs de train) blessés dans l’accident rendait 
+leur interview plus délicate.
+
+## Página 28
+
+## 2.1.6.6	
+rapport
+### Structure du rapport
+La structure du rapport est conforme aux directives européennes et s’est inspiré du format re-
+commandé par l’ERA.
+Le premier chapitre est un résumé.
+Le second chapitre donne les faits et précise la méthodologie.
+Le troisième chapitre :
+• détaille les investigations techniques et organisationnelles qui ont été réalisées, 
+• détermine les règles qui étaient applicables dans le contexte de l’accident,
+• étudie les facteurs organisationnels qui permettent de comprendre l’origine des facteurs 
+précédents et plus précisément les aspects liés aux traitements des cas de franchissements 
+de signaux ainsi que les mesures mises en place.
+Le quatrième chapitre :
+• rappelle le modèle de sécurité,
+• présente l’analyse explicative des comportements qui ont contribué de façon directe ou 
+indirecte à provoquer l’accident,
+• présente l’analyse de sécurité c’est-à-dire le repérage du sous-ensemble des explications 
+précédentes qui sont accessibles à une politique de gestion de la sécurité à partir desquels 
+on déduit les recommandations.
+Le cinquième chapitre donne les mesures prises par les acteurs concernés suite à l’accident.
+Le sixième chapitre donne les recommandations de l’Organisme d’Enquête.
+### Publication du rapport 
+Dans un premier temps le projet de ce rapport a été présenté à la SNCB, à Infrabel et l’autorité de 
+sécurité pour leur permettre de présenter leurs observations. 
+Cette consultation n’a pas pour but de modifier le rapport produit par l’OE mais de permettre 
+aux parties concernées de réagir et de commenter le projet de rapport, notamment en relevant 
+des inexactitudes ou des erreurs factuelles. Les parties ont donc été informées que certaines de 
+leurs observations pourraient être acceptées et intégrées dans le rapport, et que d’autres, jugées 
+importantes mais en contradiction avec la position de l’OE, pourraient être jointes en annexe au 
+rapport. 
+
+## Página 29
+
+### 2.2	 Les circonstances de l’événement
+### 2.2.1	 Entreprises et personnels concernés
+## 2.2.1.1	
+### Le gestionnaire d’infrastructure : Infrabel
+Suite à l’Arrêté Royal du 14 juin 2004, Infrabel est le gestionnaire d’infrastructure scindé de la 
+SNCB «unifiée» (Loi du 23 juillet 1926).
+Le gestionnaire est responsable de :
+• L’acquisition, la construction, le renouvellement, l’entretien et la gestion de l’infrastructure
+• La gestion des systèmes de régulation et de sécurité de cette infrastructure
+• La fourniture aux entreprises ferroviaires de services relatifs à l’infrastructure ferroviaire
+• La répartition des capacités de l’infrastructure ferroviaire disponibles (horaires et sillons)
+• La tarification, la facturation et la perception des redevances d’utilisation de l’infrastructure 
+ferroviaire et des services.
+Le gestionnaire possède un agrément de sécurité depuis le 22 mai 2008. Il reste valide pour une 
+durée de 5 ans.
+Le gestionnaire de l’infrastructure doit veiller à l’application correcte des normes techniques et 
+des règles afférentes à la sécurité de l’infrastructure ferroviaire et à son utilisation.
+Le gestionnaire est divisé en trois directions principales :
+• Direction Infrastructure
+• Direction Réseau 
+• Direction Accès Réseau 
+
+## Página 30
+
+A ces directions principales, s’ajoutent divers services généraux ainsi que l’audit interne. 
+A la date de l’accident, l’organigramme d’Infrabel est le suivant :
+Les directions d’Infrabel plus particulièrement concernées par l’accident sont :
+• la direction Infrastructure qui gère l’infrastructure ferroviaire sur le terrain ainsi que les postes 
+de signalisation,
+• la direction Réseau qui gère l’exploitation des postes de signalisation et la régulation du trafic. 
+Les postes de signalisation sont des installations d’où sont commandés les tracés d’itinéraires 
+pour les trains et les équipements de signalisation pour exécuter les plans de circulation. 
+C’est le poste de signalisation de Bruxelles-Midi qui gère les circulations de la partie du réseau 
+ferroviaire concernée par l’accident de Buizingen.
+Le poste de signalisation de cette zone est un poste EBP dont l’ordre de commande des aiguil-
+lages, d’enclenchement des routes, d’ouverture des signaux, etc. est donné par un ordinateur 
+sous la supervision du personnel responsable (les « signaleurs »). 
+
+## Página 31
+
+Le personnel impliqué du poste de signalisation est : 
+le signaleur responsable pour la zone Buizingen - Lot :
+• sexe masculin
+• âgé de 56 ans
+• en repos du 9 au 12 février
+• horaire de travail les 13, 14 et 15 février : 6h à 14h
+le régulateur, responsable pour la zone Linkebeek-Hal-Ruisbroek
+• sexe masculin
+• âgé de 35 ans
+• en repos le 14 février 
+• horaire de travail le jour de l’accident : 6h à 14h
+
+## Página 32
+
+## 2.2.1.2	
+### L’entreprise ferroviaire : SNCB
+Les deux trains de voyageurs impliqués dans l’accident étaient opérés par l’entreprise 
+ferroviaire SNCB.
+Suite à l’Arrêté Royal du 18 octobre 2004, la SNCB est l’entreprise ferroviaire qui résulte 
+de la scission de la SNCB unifiée.
+Elle est responsable 
+• du transport ferroviaire des voyageurs et des marchandises.
+Audit interne et externe
+• des services logistiques liés au transport de marchandises
+• de l’acquisition la construction, l’entretien, la gestion et 
+le financement du matériel roulant
+Elle possède un certificat de sécurité délivré par l’Autorité 
+Nationale de Sécurité belge, le SSICF 
+Partie A : partie générale relative aux systèmes de sécurité 
+depuis le 30 juin 2008
+VoyageursNational
+Partie B : partie spécifique liée aux conditions spécifiques 
+du réseau ferroviaire depuis le 13 mai 2009 valide jusqu’au 
+Pilotage SGS par les processus
+12 mai 2012
+Head of Safety
+L’entreprise ferroviaire est divisée en 4 directions 
+principales au sein de chacune desquelles est attachée une 
+division « sécurité » qui traite à la fois de la sécurité au travail 
+Sécurité d’exploitation
+et de la sécurité d’exploitation :
+Sécurité au travail
+• Voyageurs National
+• Voyageurs International
+• Technique et Production
+VN1
+• B-Cargo 
+VN2
+VN3
+Auxquelles s’ajoutent 2 services d’appui :
+• Achat et Logistiques
+terrain
+• Finances
+et 3 services de l’Administrateur Délégué
+• Cellule stratégique
+• Cellule « corporate safety »
+• Audit interne et externe
+La division B-AD.24 est responsable de la gestion des affaires concernant la sécurité d’exploitation 
+au niveau « corporate » et n’intervient pas au niveau de la sécurité au travail.
+A la date de l’accident, l’organigramme de la SNCB, qui détaille les relations hiérarchiques et fonc-
+tionnelles entre les différentes divisions « sécurité » des directions et le division « sécurité » « cor-
+porate » B-AD.24, était le suivant: 
+
+## Página 33
+
+Cell Strategy
+Administrateur Délégué
+Corporate Safety Cell
+Corporate Head of Safety
+SGSI/ICT & Knowledge
+Operations, Engineering and Risk
+Projects
+VoyageursInteVNational
+Technique & Production
+B-Cargo
+Pilotage SGS par les processus
+Pilotage SGS
+Pilotage SGS par les processus
+Head of Safety
+Head of Safety
+Head of Safety
+Sécurité d’exploitation
+Sécurité d’exploitation
+Sécurité d’exploitation
+Sécurité au travail
+Sécurité au travail
+Sécurité au travail
+TP2
+VI-31
+TP4
+RCC’s
+TP5/6/07
+terrain
+terrain
+terrain
+### Personnels SNCB concernés par l’accident 
+Train E3678
+Train E1707
+Un Conducteur
+Un conducteur
+• 
+• 
+Sexe masculin
+Sexe masculin
+• 
+• 
+Agé de 32 ans
+Agé de 38 ans
+• 
+• 
+Expérience d’environ 2 ans
+Expérience d’environ 8 ans
+Un accompagnateur de train 
+Un accompagnateur
+• 
+• 
+Sexe masculin
+Sexe masculin
+• 
+• 
+Agé de 27 ans 
+Agé de 52 ans
+• 
+• 
+Se trouvait dans la première voiture 
+Attestation depuis 01/07/1999
+au moment de l’impact
+• 
+Attestation depuis 5/09/2007
+Une accompagnatrice
+• 
+Sexe féminin
+• 
+Agée de 41 ans
+• 
+Attestation depuis 27/01/1999
+
+## Página 34
+
+### 2.2.2	 Composition des trains
+## 2.2.2.1	
+### Train 1707 
+### Composition
+La rame était composée de douze voitures M4m poussées par la locomotive électrique 2111:
+Une voiture pilote de type M4ADx portant le 
+numéro d’immatriculation 58042 (N° UIC 5088 
+817 80 42-5) était placée en tête du train.
+La voiture 58042 comptait 3 616 393 km dont 
+143 474 après la dernière révision générale qui 
+datait du 10 juin 2009.
+Date de mise en service : 1982
+Elle avait subi une visite approfondie en date du 
+19 janvier 2010.
+La dernière visite complète avait été effectuée le 
+22 décembre 2009.
+Dix voitures de type M4mB de deuxième classe portant les numéros d’immatriculation internes 
+à la SNCB :
+2ème position 	
+52375 (N° UIC 5088 20 78 375-3)
+3ème position	
+52281 (N° UIC 5088 20 78 281-3)
+4ème position	
+52335 (N° UIC 5088 20 78 335-7)
+5ème position	
+52427 (N° UIC 5088 20 78 427-2)
+6ème position 	
+52387 (N° UIC 5088 20 78 387-8)
+8ème position	
+52350 (N° UIC 5088 20 78 350-6)
+9ème position	
+52339 (N° UIC 5088 20 78 339-9)
+10ème position	
+52346 (N° UIC 5088 20 78 346-4)
+11ème position	
+52368 (N° UIC 5088 20 78 368-8)
+12ème position	
+52256 (N° UIC 5088 20 78 256-5)
+Une voiture de première classe/voiture fourgon à bagage portant le numéro d’immatriculation 
+SNCB 58013 (N° UIC 5088 20 78 013) était placée au milieu du train en septième position.
+### Equipements
+La voiture pilote était équipée des systèmes5 suivants:
+• MEMOR
+• système de contrôle de vigilance par pédale de veille automatique (pédale d’homme mort), 
+• dispositif d’enregistrement (vitesse, impulsions crocodile, temps), 
+• radio sol/train (radio de bord).
+La voiture pilote 58042 n’était pas équipée du système TBL1+, ni de l’ETCS.
+Les systèmes sont brièvement décrits en annexe 7.7.
+
+## Página 35
+
+### Caractéristiques techniques 
+| Type | M4ADx (58042) | M4mB 52xx | M4m 58013 |
+| Tare(tonnes Nombredeplacesassisses MasseenserviceUIC410(tonnes) MasseenserviceUIC566(tonnes) Typedebogies Rayondevirageminimum(mètres) Vitessemaximale(km/h) | 39 48 43 47 Y32t42 125/75 160 A:48(+18) | 39 104 42 47 Y32t42 125/75 160 A:56(+15) | 38 56 |
+Les voitures M4 ont été construites et mises en service à partir de 1979 et pendant les premières 
+années de la décennie suivante.
+### 2.2.2.2	 Train 3678
+### Composition
+La rame était composée par l’accouplement de trois automotrices doubles : 214 ; 641 ; 705
+Une automotrice double de type AM 63 portant le numéro 
+d’immatriculation 214.
+L’automotrice 214 comptait 5 691 912 km dont 2 171 435 
+après la dernière révision générale qui datait du 7 septembre 
+1989.
+Date de mise en service : 1963
+Elle avait subi :
+• Un examen limité en date du 12/02/2010
+• Une visite approfondie en date du 8/02/2010
+Une automotrice double de type AM 66 portant le numéro 
+d’immatriculation 641.
+L’automotrice 641 comptait 4 856 640 km dont 718 551 après 
+la dernière révision générale qui datait du 24 janvier 2003.
+Elle avait subi :
+• Un examen limité en date du 12/02/2010
+• Une visite approfondie en date du 31/12/2009.
+Une automotrice double de type AM 73 portant le numéro 
+d’immatriculation 705.
+L’automotrice 705 comptait 4 174 313 km dont 573 371 après 
+la dernière révision général qui datait du 28 mars 2006.
+Elle avait subi :
+• Un examen limité en date du 11/02/2010
+• Une visite approfondie en date du 1/02/2010.
+
+## Página 36
+
+### Equipements 
+L’automotrice 214 était équipée des systèmes d’aide à la conduite suivants :
+• système Gong-Sifflet6
+• système de contrôle de vigilance par pédale de veille automatique (pédale d’homme mort), 
+• appareil d’enregistrement (vitesse, impulsions crocodile, temps), 
+• radio sol/train (radio de bord). 
+Elle n’était pas équipée du :
+• MEMOR
+• Du système TBL1+
+• De l’ETCS ou équivalent
+• GSM R
+### Caractéristiques techniques
+AM63
+| Annéedeconstruction: | 1963 |
+| Nombredeplacesassises | 180(28A+152B) |
+| Massetotale | 101tonnes |
+| Puissancemotrice | 735kW |
+| Vitessemaximale | 130km/h |
+| Rayondecourbureminimal | 125mètres |
+| Tensiond’alimentation | 3kVDC |
+| Longueurtotale | 46575mm |
+| Longueurd’unélément | 22849mm(élémentABD) 22970mm(élémentB) |
+| Largeur | 2990mm |
+Les systèmes sont décrit en annexe 7.5
+
+## Página 37
+
+### 2.2.3	 Description de l’infrastructure et du système de signalisation
+
+## Página 38
+
+## 2.2.3.1	
+### Les lignes
+La zone comprise entre le PANG de Buizingen et la gare de Hal est constituée de 4 lignes électri-
+fiées de 3 kV qui constituent le Gril de Hal (côté Bruxelles)
+La ligne 96 E :	 Hal – Lot : La vitesse de référence de la ligne est de 120km/h. Cette ligne est utilisée 
+principalement lors de déviations locales.
+ La ligne 26 :	 Hal – Etterbeek : après la formation de Hal, cette ligne emprunte un pont (passage 
+supérieur) afin de prendre la direction d’Etterbeek et se dissocie des lignes 96 et 96N. La vitesse 
+de référence de la ligne est de 90km/h.
+La ligne 96 :	
+Hal – Y Ruisbroek : la vitesse de référence de la ligne est de 160 km/h. En situation 
+normale, elle est empruntée par des trains du service intérieur et donne, le cas échéant, accès aux 
+quais des points d’arrêt non gardés de Buizingen, Lot, Ruisbroek et Forest-Midi.
+La ligne 96N :	 Hal – Bruxelles : cette ligne est considérée comme « la voie rapide ». La vitesse 
+de référence de cette ligne est de 160 km/h. Elle est parallèle à la ligne 96 et est habituellement 
+empruntée par les trains devant rejoindre la ligne à grande vitesse ou venant de celle-ci.
+### 2.2.3.2	 Les aiguillages
+Les aiguillages concernés dans l’accident ne sont pas des aiguillages à retour automatique en posi-
+tion préférentielle. Le principe des aiguillages avec position préférentielle n’est jamais appliqué 
+dans des grills en voie principale.
+Les aiguillages peuvent être parcourus à plus de 90 km/h, ils sont donc équipés d’un verrouillage 
+complémentaire (verrouillage de la crémaillère).
+Le verrouillage complémentaire d’aiguillage est contrôlé pour tous les itinéraires. Ce dispositif est 
+commandé dès qu’un itinéraire est tracé et que l’aiguillage occupe la position requise.
+Le contrôle du verrouillage complémentaire des aiguillages est repris dans la commande de 
+l’ouverture du signal. Le déverrouillage se passe à la libération de la section.
+La manœuvre des aiguillages est effectuée par le poste central EBP Blok 1 de Bruxelles-Midi.
+Elle s’effectue par un appareil à commande électrique.
+### 2.2.3.3	 Les pédales
+Les pédales sont des appareils de détection placés dans la voie ayant pour but d’enregistrer le 
+passage d’un véhicule à un certain point de la voie. Elles sont entre autres utilisées pour la remise 
+à l’arrêt des signaux, le transfert des numéros de mouvement, etc.
+Elles sont caractérisées par une référence au signal, à l’appareil de voie ou au passage à niveau 
+situé à proximité.
+
+## Página 39
+
+### 2.2.3.4	 Circuit de voie
+Le contrôle voie libre est effectué par des appareils de détection placés dans la voie dont les données 
+sont acheminées au poste de signalisation. 
+Dans le cas présent, ces appareils de détection sont constitués par ce qu’on appelle des « circuits 
+de voie ».
+Un circuit de voie (CV) délivre au poste de signalisation l’information voie libre si la section de voie 
+correspondante est libre de tout engin lourd ou de dérangement.
+### 2.2.3.5	 La signalisation latérale
+La signalisation permet de donner aux conducteurs les informations nécessaires à l’exécution 
+d’un mouvement. 
+Les indications sont données au moyen de signaux latéraux. 
+Les signaux fixes sont établis à demeure en un endroit déterminé dans la voie.
+Les grand signaux d’arrêt sont implantés à gauche de voie parcourue pour les grands mouve-
+ments à voie normale.
+Le signal H-E.1 est un signal fixe, un grand signal d’arrêt 
+desservi de la voie normale A de la ligne 96, implanté à 
+gauche de la voie à parcourir, à la borne kilométrique 
+11 510.
+Un signal d’arrêt desservi est un signal commandé par 
+une cabine de signalisation sous la supervision d’un 
+opérateur.
+Ce signal est situé à 335 mètres de l’extrémité des 
+quais du point d’arrêt de Buizingen.
+Le signal H-E.1 est équipé :
+• du système TBL1+ 
+• d’un crocodile.
+La balise TBL1+ est implantée à 300 m en amont du si-
+gnal, soit 30 m après la fin du quai de Buizingen. Elle se 
+rapporte au signal suivant qui est également équipé 
+d’une balise TBL1+  (au pied du signal).
+Le signal H-E.1 est muni d’un panneau annonçant une zone de réduc-
+tion de vitesse à 50 km/h. Cette vitesse ne doit être prise en compte que 
+si les feux du signal H-E.1 présentent l’aspect « vert-jaune horizontal ».
+
+## Página 40
+
+Le signal avertisseur du signal H-E.1 est le C-D.1. Il s’agit d’un grand signal d’arrêt desservi de voie 
+normale. Un signal fixe assure la fonction d’avertissement lorsqu’il donne des informations rela-
+tives aux aspects du grand signal d’arrêt fixe qui le suit.
+Une section est la partie de voie comprise entre deux signaux d’arrêts successifs.
+Elle est considérée comme section courte lorsque sa longueur est inférieure à la distance d’aver-
+tissement prévue réglementairement pour passer de la vitesse de référence à l’arrêt.
+La section de voie entre le signal C-D.1 et le signal H-E.1 est une section courte. 
+Ils sont séparés d’une distance de 1225 mètres alors que la distance de freinage en fonction de 
+la vitesse signalisée de référence de la ligne devrait être de 1484 mètres. Une signalisation de 
+double avertissement est de ce fait mise en place à savoir le signal KD-1.
+Le quai de Buizingen est un « point d’arrêt non gardé » (PANG).
+Il n’est pas muni d’un signal fixe en fin de quai ni d’un système d’indicateur opérations terminées 
+(IOT7) ni d’un répétiteur.
+Tous les signaux d’arrêts desservis de la zone de Hal sont contrôlés en permanence à la fermeture. 
+IOT : information d’opérations terminées est une communication interne à l’entreprise ferroviaire entre l’accompagna-
+teur du train de voyageur et le conducteur. Cette information peut être transmise par le biais d’une installation IOT mise à la 
+disposition de l’entreprise ferroviaire par le gestionnaire de l’infrastructure
+
+## Página 41
+
+### 2.2.3.6	 Poste EBP
+Un « poste de commande électronique » (EBP) est un poste de signalisation dont l’ordre de com-
+mande des aiguillages, d’enclenchement des routes, d’ouverture des signaux, etc. est donné par 
+un ordinateur sous la supervision d’un opérateur. 
+Le système EBP assure en outre:
+• la gestion du service des trains;
+• l’automatisation éventuelle du tracé de l’itinéraire, de l’enclenchement des routes et de 
+l’ouverture du signal;
+• le suivi de la circulation des trains et la distribution de ces données vers des systèmes péri-
+phériques [régulation (régionale), système de téléaffichage, etc.];
+• le recueil d’informations et les commandes relatives aux installations techniques  (VCAW, 
+zones d’éclairage, d’alimentation, …);
+• l’archivage des données relatives aux opérations de desserte, à la circulation et aux  problèmes 
+survenus.
+Le système EBP est constitué :
+• de postes de travail;
+• d’un poste de consultation;
+• d’un poste de gestion EMT (EBP-Management-Terminal).
+L’EMT est utilisé pour :
+• La consultation des données relatives au service de train
+• La consultation du livre de bord électronique (logbook) qui enregistre : les mouvements de 
+trains, les fonctions, les messages affichés à l’opérateur, les problèmes rencontrés, 
+Le tracé des itinéraires et la commande à l’ouverture des signaux sont réalisés par le traitement 
+des lignes de mouvement au moyen du clavier de dialogue ou de la souris.
+Ces lignes de mouvement apparaissent à l’écran de dialogue.
+
+## Página 42
+
+Le clavier de dialogue et la souris permettent également de commander l’exécution de certaines 
+fonctions de secours.
+La ligne de mouvement est :
+• soit préalablement programmée dans le système EBP,
+• soit réalisée par l’utilisateur concerné au moment voulu.
+La ligne de mouvement est, en principe, présentée à l’écran de dialogue de chaque utilisateur 
+impliqué dans l’exécution du mouvement.
+L’utilisateur peut, en fonction des besoins, créer ou modifier la ligne de mouvement. Si elle corres-
+pond au trajet à effectuer, l’utilisateur procède à l’acquittement, et la ligne de mouvement apparaîtra :
+• dans la zone de commande de son écran de dialogue;
+• dans la zone d’édition de l’écran de dialogue des autres utilisateurs impliqués dans l’exécu-
+tion du mouvement.
+Les routes peuvent être tracées et les signaux commandés à l’ouverture (automatiquement ou 
+manuellement).
+Les points de trajet impliqués dans un itinéraire sont supprimés de la ligne de mouvement au fur 
+et à mesure de l’avancement du mouvement et de la libération des routes.
+Les lignes de mouvement disparaissent en principe de la zone de commande lorsque le mouve-
+ment quitte la zone d’action de l’utilisateur concerné ou lorsque celui-ci rend la ligne de mouve-
+ment passive.
+Diverses catégories d’utilisateurs sont définies suivant leurs compétences :
+| Catégoried’utilisateurs | Compétences |
+| Observateur | -observationd’uneoudeplusieurszonesd’action (e x:suivrel’éc oulem ent du trafi c); - mo difi ca tion partielle d u t ableau de service des trains . |
+| Desservant | dessertedesinstallationsdesignalisationàl’exclusion desfonctionsdesécurité . |
+| Surveillant | dessertedesinstallationsdesignalisation fonctions , desécuritécomprises . |
+| Opérateur |  |
+| Régulateur |  |
+| ELM | commande des installations de signalisation fonctions de - , sécuritécomprises; - fonctions particulières au service Infrastructure . |
+| Chefdegare(adj) . | -gestiondesutilisateursdusystèmeEBP; -adaptationdesdonnéesrelativesauservicedestrains; compétences de l’opérateur - . |
+
+## Página 43
+
+Toutes les modifications apportées aux lignes de mouvement par l’utilisateur (par ex., édition, 
+commande de signal, etc.) ou par le mouvement lui-même (par ex., fermeture automatique des 
+signaux, libération des routes, etc.) sont enregistrées dans le Logbook ou livre de bord. 
+La cabine EBP de Bruxelles Midi est entre autres, reliée à un système tout relais pour la zone de Hal.
+La salle de commande du Blok 1 est équipée de 8 postes de travail :
+• 1 poste de travail « opérateur » pour la zone de Ruisbroek
+• 1 poste de travail « opérateur » pour la zone de Linkebeek - Rhode St Genèse
+• 2 postes de travail « opérateur » pour la zone de Hal
+• 1 poste de travail « surveillant »
+• 1 poste de travail « régulateur EBP »
+• 1 poste de travail « téléphoniste »
+• 1 poste de travail « opérateur » réserve
+### 2.2.3.7	 Salle à relais 
+La salle à relais constitue l’interface entre :
+• l’appareillage intérieur : la salle de commande où les signaleurs et les agents régulateurs des 
+mouvements règlent et contrôlent le trafic, et
+• l’appareillage extérieur : la commande en puissance des signaux, des moteurs d’aiguillages 
+et les systèmes de contrôle
+Dans la salle à relais dont l’accès est réglementé, les ordres des signaleurs sont transformés en 
+impulsions électriques pour envoyer les ordres à l’appareillage extérieur et vérifier leur bonne 
+exécution. Les relais électriques, électroniques et les circuits de contrôle de cette salle assurent la 
+sécurité du trafic.
+Pour pénétrer dans le bâtiment du block 7 de Hal, toute personne doit utiliser un badge.
+Les entrées dans la salle à relais, avec ou sans autorisation, sont enregistrées dans le logbook de 
+l’EBP.
+La porte d’accès de la salle à relais est plombée et le plomb est numéroté. De plus, elle est surveil-
+lée par une caméra.
+Toute personne autorisée doit d’abord contacter le régulateur pour signaler qu’il va ouvrir la 
+porte. Il doit indiquer le numéro de plomb de la porte, le numéro de son autorisation, la nature de 
+son travail et son nom. La demande d’autorisation est inscrite manuellement dans un livre (E934) 
+et également dans le système EBP.
+### 2.2.3.8	 Installation de traction électrique
+La section de ligne est équipée en 3 kV courant continu.
+Les interrupteurs du réseau caténaire peuvent être commandés et contrôlés à distance. La com-
+mande est concentrée en un poste par zone.
+Le répartiteur courant de traction dit répartiteur ES contrôle l’alimentation du réseau caténaire.
+C’est lui qui gère les mises hors tension dans sa zone.
+La mise hors tension d’une ligne comprend :
+• la coupure de la tension, par manœuvre des appareils de coupure, 
+• et par la mise aux rails des caténaires, par le placement d’une perche.
+
+## Página 44
+
+### 2.2.3.9	 Moyens de communication
+Radio Sol Train
+Elle permet de mettre en communication le conducteur et le dispatching national. Il est possible 
+de transmettre des messages de groupe, des « messages prioritaires » et notamment des mes-
+sages d’alarme
+C’est un système radio analogique qui est amené à disparaitre.
+GSM R
+Le GSM for Railways (GSM-R) est un standard international pour 
+le réseau radio numérique pan-européen de communication. 
+Le GSM-R supporte les services de voix et de données et four-
+nira le support radio pour le système de signalisation euro-
+péen ERTMS (European Rail Traffic Management System) / ETCS 
+(European Train Control System).
+Le réseau radio numérique GSM-R travaille dans des bandes 
+de fréquences allouées par la Communauté Européenne iden-
+tiques en Europe.
+Il permet d’effectuer des appels par groupe, gérer la priorité des 
+appels, enregistrer toutes les conversations.
+Le réseau ferroviaire est entièrement équipé cependant cer-
+taines zones plus faibles restent à renforcer.
+Le matériel ferroviaire doit également en être équipé.
+La Couverture de la section
+La section de ligne Hal-Buizingen est équipée de la radio sol train et du GSM-R.
+Diffusion et enregistrement des conversations
+Les conversations sont enregistrées via le système ETRALI
+
+## Página 45
+
+### 2.2.4	 Travail réalisé sur le site ou à proximité du site de l’accident
+Il n’y a eu aucune activité de maintenance ou de remplacement sur l’infrastructure ni dans 
+les heures ni dans les jours qui ont précédé l’accident.
+### 2.2.5	 Déclenchement du plan d’urgence ferroviaire et sa chaîne d’événements
+## 2.2.5.1	
+### Plan prévu
+Infrabel a défini des tâches prioritaires dans son plan d’Urgence :
+• alarme et mesures de protection immédiate
+• couverture 
+• secours aux victimes
+• Information
+Pour faciliter la tâche des agents des fiches d’alarme sont disponibles pour les postes de signalisation, 
+le régulateur de ligne et le répartiteur ES.
+Le desservant du poste de signalisation
+• ferme les signaux desservis
+• utilise la commande d’arrêt d’urgence de la signalisation dans le tronçon de voie concernée 
+pour bloquer les circulations
+Application et levée des couvertures des « cas du tableau 1 »
+L’application d’un tel cas de protection supprime la commande :
+• automatique du tracé des itinéraires ;
+• d’ouverture des signaux dans le secteur ;
+• d’ouverture des signaux donnant accès ou autorisant la sortie du secteur correspondant.
+Il provoque directement la fermeture ou le maintien à l’arrêt de ces signaux.
+Identification des « cas du tableau 1 »
+Un cas du tableau 1 est identifié par un nombre de 5 chiffres commençant par le chiffre « 1 ».
+Exemples: cas n° 14567, cas n° 12754
+Un cas du tableau 1 est appliqué par le responsable du mouvement.
+La levée définitive du cas du tableau 1 incombe à un agent ayant la compétence de surveillant.
+Le régulateur de ligne
+• Lance le message alarme par Radio Sol train, GSM-R;
+• Lance l’alarme aux postes de signalisation, répartiteur ES et aux autres régulateurs de ligne
+Répartiteur ES
+• Coupe l’alimentation de la caténaire dans le secteur concerné.
+
+## Página 46
+
+### 2.2.5.2	 Déroulement effectif
+### Le Traffic Control appelle les services de secours.
+### Le Traffic Control informe :
+08h30 : TC informe le SOC, le RDV, les gares impliquées et le répartiteur de traction.
+Le desservant du poste de signalisation applique divers cas du tableau 1.
+08h31 : Cas 11701 TI ligne 26 appliqué.
+08h32 : Cas 11803, 11804 et 11012 TI ligne 96 appliqués.
+### Traffic Control informe les différents services concernés :
+08h40 : Ingénieur Exploitation Accident I-AR, District Centre informé se rend sur place
+08h41 : Ingénieur Exploitation Accident H-SE, District Centre informé se rend sur place
+08h49 : Haut fonctionnaire de garde I-I, District Centre informé se rend sur place
+08h53 : Directeur District Centre informé
+08h53 : Directeur Adjoint District Centre se rend sur place
+08h53 : Directeur Adjoint District Centre informé 
+08h55 : Second Ingénieur Exploitation Accidents I-AR informé se rend sur place
+08h55 : Haut fonctionnaire de garde SNCB-Holding informé
+08h58 : I-I Signalisation informé
+08h59 : Haut fonctionnaire de garde B-TC informé
+09h00 : I-I Voies et Ouvrage d’Art-Bâtiments informé
+09h17 : Service social informé
+09h20 : Centre GGC informé
+Une partie des mesures de protection sont levées sur ordre du responsable mouvement pour 
+permettre de dégager les trains dans le secteur. 
+08h50 : Cas 11807 TI ligne 96 appliqué.
+08h51 : Arrivée E7515 (Moescron – Leuven) sur la voie 01 à Hal
+08h54 : Cas 11011 TI ligne 96 appliqué.
+09h05 : Cas 11702 TI ligne 26 appliqué.
+
+## Página 47
+
+### 2.2.6	 Déclenchement du plan d’urgence des services publics de secours, de 
+la police et des services médicaux et sa chaîne d’événements
+## 2.2.6.1	
+### Plan d’urgence prévu
+Le plan d’urgence est un outil de gestion visant à permettre un engagement rapide des moyens 
+de secours disponibles ainsi qu’à réaliser une coordination optimale.
+L’Arrêté Royal du 16 février 2006 donne les dispositions et principes concernant les plans d’inter-
+vention d’urgence et la circulaire ministérielle du 26 octobre 2006 a pour objet d’expliquer les 
+dispositions de l’A.R.
+L’A.R. poursuit un triple objectif :
+• Actualiser les principes de la planification d’urgence;
+• Fournir au bourgmestre et au gouverneur un outil clair et précis les aidant dans leur obliga-
+tion légale d’établir un plan d’urgence et d’intervention, afin de gérer de manière optimale 
+les situations d’urgence à laquelle ils seraient confrontés;
+• Harmoniser la terminologie.
+La planification d’urgence est constituée des plans suivants :
+• Le plan multidisciplinaire d’urgence et d’intervention est établi au niveau fédéral, provincial 
+et communal;
+• Le plan mono disciplinaire qui règle les modalités d’intervention d’une discipline;
+• Le plan interne d’urgence est un document au niveau de l’entreprise visant à limiter les 
+conséquences néfastes d’une situation d’urgence par la mise au point de mesures maté-
+rielles et organisationnelles d’urgence adaptées.
+La coordination stratégique et la coordination opérationnelle des interventions s’effectuent à 
+trois niveaux, appelés phases :
+• phase communale;
+• phase provinciale;
+• phase fédérale.
+Il n’est pas nécessaire de déclencher d’abord la phase communale pour déclencher la phase 
+provinciale.
+La province du Brabant Flamand était en possession d’un plan d’urgence « accidents ferroviaires » 
+actualisé aux prescriptions de l’A.R. du 16 février 2006.
+Le plan d’urgence et d’intervention délimite et répartit les missions des 5 disciplines fonctionnelles. 
+### 1. Les opérations de secours
+Maitriser la situation d’urgence, rechercher, libérer, secourir, sauver et mettre en sécurité les 
+personnes en danger, neutraliser les risques.
+### 2. Les secours médicaux
+Créer la chaîne médicale, prendre en charge, trier, soigner les victimes, gérer les ambulances sur place.
+### 3. La police du lieu de la situation d’urgence
+Dégager les voies d’accès et d’évacuation;
+Installer les périmètres nécessaires et assurer l’évacuation;
+Effectuer les actes d’enquête sous la direction de l’autorité judiciaire.
+
+## Página 48
+
+### 4. L’appui logistique
+Fournir une assistance à d’autres disciplines, organiser les ravitaillements
+Organiser les moyens techniques pour la communication entre les disciplines
+### 5. L’information
+Informer la population, organiser la communication avec la presse.
+### 2.2.6.2	 Déroulement effectif
+8h32 	: 	Le plan d’intervention médicale a été déclenché.
+8h39 	: 	Le gouverneur a été informé 
+9h15	 : 	Le plan d’intervention provincial a été déclenché 
+Les premiers agents sur les lieux ainsi qu’un accompagnateur de train ont demandé aux pas-
+sagers d’attendre que l’électricité soit coupée avant de sortir des voitures vu les fils électriques 
+jonchant le sol et recouvrant les voitures.
+Les premières évacuations se sont déroulées dans la direction de Bruxelles avec l’aide des agents 
+de la SNCB et d’Infrabel un chemin a été tracé après le mur pour évacuer les passagers.
+Ils ont été dirigés vers le hall de sport de Buizingen.
+Entre-temps les blessés graves et non mobiles ont été pris en charge par les premiers services de 
+secours sur place avec l’aide de passagers et d’agents de la SNCB et d’Infrabel.
+Les différents corps de police sont allés à la recherche de passagers dans les trains.
+Ils ont informé les pompiers et services médicaux de plusieurs personnes trouvées avec un be-
+soin de soins médicaux.
+Un poste de secours médical a été installé sur la place de la gare de Hal.
+
+## Página 49
+
+### 2.3	 Pertes humaines, blessés et dommages matériels
+Au terme de l’article 45 de la loi du 19 décembre 2006, cet accident est classé en tant qu’accident 
+grave : il y a plus d’un décès, plus de 5 blessés graves et l’estimation des dégâts matériels est 
+supérieure à 2 000 000 euros
+### 2.3.1	 Passagers et tiers, personnel, y compris les contractants
+Le conducteur du train 1707 a perdu la vie dans l’accident.
+Le conducteur du train 3678 a été gravement blessé8. 
+L’accompagnateur du train 3678 a été contusionné.
+L’accompagnateur du train 1707 n’a pas été blessé mais a subi des séquelles psychologiques.
+L’accompagnatrice du 1707 a été légèrement blessée.
+Le nombre de passagers décédés s’élève à 18 personnes. 
+Le nombre total de décès s’élève à 19 personnes.
+Le nombre de blessés et contusionnés s’élèvent à environ 171 personnes.
+Les blessés et contusionnés ont été répartis dans diverses cliniques de la région, plusieurs passa-
+gers (± 92) se sont rendus le jour même par leur propre moyen dans un centre hospitalier. 
+Au total 15 centres hospitaliers sont concernés. Ils ont dénombré 35 blessés graves et 44 blessés 
+légers, autres contusionnés. 
+Il est difficile de dénombrer les personnes victimes de séquelles psychologiques. Il est cepen-
+dant indéniable qu’un tel accident puisse produire certaines séquelles. De nombreux passagers 
+se trouvaient à bord du train 1707 en direction de Bruxelles en pleine heure de pointe, les passa-
+gers se rendaient sur leur lieu de travail.
+### 2.3.2	 Fret, bagages et autres biens
+Nombreuses pertes de clefs, de GSM, d’ordinateurs portables, par les passagers qui se rendaient 
+au travail.
+Les personnes sont considérées selon les termes des directives européennes comme contusionnées lors de séquelle phy-
+sique n’entrainant pas un hospitalisation de plus de 24 h et/ou victime de séquelle psychologique.
+
+## Página 50
+
+### 2.3.3	 Matériel roulant, infrastructure et environnement
+## 2.3.3.1	
+### Infrastructure
+Les voies A et B de la ligne 96 ont été détériorées 
+entre les km 11.800 et 12.000.
+La voie B de la ligne 96 N a été endommagée par 
+l’automotrice 214.
+La ligne 26 a subi également certains dommages 
+suite aux projections.
+Les aiguillages des liaisons 43, 44, 45, 46 et 47 ont 
+été endommagés.
+Les fils des caténaires ont été arrachés et une 
+potence des lignes 96 et 26 située au km 12.000 
+a été fortement endommagée.
+Plusieurs équipements de signalisation en voie 
+ont également été endommagés : circuit de voie, 
+manœuvre des aiguillages.
+### 2.3.3.2	 Rame du 1707
+La voiture de tête a été totalement détruite. Suite à la violence du choc une partie de la voiture 
+de tête du 1707 a été emportée par la voiture de tête du train 3678, l’autre partie de la voiture 
+s’est écrasée.
+La seconde voiture s’est couchée sur le flanc gauche le long de la voie A de la ligne 96 et a subi 
+d’important dommages mais la structure ne s’est pas écrasée.
+La troisième voiture s’est penchée du côté gauche, a subi également d’importants dommages, 
+mais la structure ne s’est pas écrasée.
+A partir de la quatrième, les voitures sont restées sur les rails, elles sont peu endommagées. 
+
+## Página 51
+
+### 2.3.3.3	 Rame du 3678
+La voiture de tête s’est couchée sur le flanc gauche sur la ligne 26 A. Le poste de conduite s’est 
+écrasé devant la violence du choc mais le reste de la structure a résisté au choc.
+La seconde voiture a été percutée par la troisième voiture.
+L’avant de la seconde voiture s’est enfoncé dans le sol et l’arrière s’est soulevé. Les boggies se sont 
+désolidarisés des voitures.
+L’avant de le troisième voiture est soulevé, le poste de conduite s’est écrasé mais le reste de la 
+structure des voyageurs a résisté au choc.
+Les quatrième, cinquième et sixième voitures qui composaient la rame sont restées sur la voie B 
+de la ligne 96 et n’ont pas subi de gros dommages.
+L’accident a également causé d’importantes perturbations ferroviaires jusqu’au 19 mars 2010. 
+### 2.3.4	 Autres
+Selon chiffres fournis par Infrabel :
+• 1109 trains ont été supprimés entre le 16 février et le 2 mars 2010
+• 2615 trains partiellement supprimés entre le 16 février et 11 mars 2010 
+• 41 257 minutes de retard ont été accumulées sur la période du 16 février au 19 mars 2010 
+
+## Página 52
+
+### 2.4	 Circonstances externes
+### 2.4.1	 Conditions météorologiques
+Selon les informations recueillies auprès de l’Observatoire Royal de Belgique, la situation météo-
+rologique au 15 février 2010 entre 8h et 9h dans la région de Buizingen était la suivante :
+• temps couvert avec possibilité de chute de neige,
+• visibilité horizontale de 2 km environ,
+• vent faible de 1 à 2 m/s de direction est à Est Sud Est,
+• température de l’air sous abri (Uccle) environ -4°C.
+Informations obtenues l’Institut Royal de Météorologie :
+• Le commencement du crépuscule civil : 7h21,
+• Lever du soleil 7h55 (on considère généralement que le jour commence 30 minutes après).
+
+## Página 53
+
+### 2.4.2	 Références géographiques
+Pont rencontré de la ligne 26 
+enjambant la ligne 96 sous
+lequel le train E3678 passera
+PANG de Buizingen
+Lieu de l’accident
+Gare de Hal
+
+## Página 54
+
+
+
+## Página 55
+
+## 3.	Compte-rendu des investi-
+gations et enquêtes
+### 3.1	 Résumé des témoignages
+### Accompagnateur de train du 1707
+Il tente de contacter le conducteur du train par GSM mais n’obtient pas de réponse. Il a pensé 
+à une coupure d’électricité et a regardé par la fenêtre. Il a vu que c’était un accident et que des 
+câbles électriques jonchaient le sol à proximité du train. Il s’est rendu dans la voiture fourgon 
+et a fait une annonce dans le train pour demander aux personnes de ne pas sortir, de ne pas se 
+pencher par les fenêtres vu le danger. Il a également demandé si des médecins et des infirmières 
+se trouvaient à bord de se rendre en tête de voiture. Il est retourné pour faire un inventaire des 
+blessés à ce moment, les premiers secours sont arrivés. Le courant était coupé, il a été possible 
+d’évacuer les voyageurs. 
+### Accompagnateur de train du 3678
+Il se trouvait dans la première voiture de l’automotrice 214.
+Il a entendu le conducteur de son train klaxonner à de nombreuses reprises et a ressenti un lourd 
+freinage en même temps. Il a vu la porte séparant le conducteur des voyageurs s’ouvrir. Il a vu le 
+conducteur courir dans leur direction. Il a aperçu l’autre train par la porte restée ouverte et s’est 
+mis également à courir mais ne peut pas dire combien de temps. Les trains sont entrés en colli-
+sion. Les premiers secours sont arrivés rapidement sur place.
+### Conducteur de train du 3678
+Il a démarré à pleine vitesse au départ du PANG de Buizingen, car pour lui le signal H-E.1 est passé 
+au vert. Il ne se souvient plus avoir reçu un gong à hauteur du signal.
+### Opérateurs / signaleurs
+Le signal n’a pas été commandé à l’ouverture et aucun tracé n’a été effacé. 
+Aucun message d’erreur n’est intervenu avant 8h28.
+Tous les signaux et aiguillages étaient contrôlés (contrôle de la fermeture).
+A 8h28 le système affichait 2 messages d’erreurs : pédale ou compteur d’essieu HE dérangé, perte 
+de contrôle de l’AW 44AE.
+### 3.2	 Système de gestion de la sécurité
+### 3.2.1	 Introduction
+La directive européenne 2004/49 sur la sécurité de l’exploitation ferroviaire prescrit que tout ges-
+tionnaire de l’infrastructure et toute entreprise ferroviaire doivent établir un Système de Gestion 
+de la Sécurité (SGS) garantissant la maîtrise de tous les risques créés par ses activités. 
+
+## Página 56
+
+Ce SGS vise notamment à bien connaitre et à évaluer en permanence la situation et l’évolution 
+des risques et de la sécurité sur le terrain, afin de prendre des mesures préventives utiles pour 
+éviter les accidents. L’examen du fonctionnement du SGS constitue donc une composante essen-
+tielle de toute analyse d’accident : tout accident de ce type est en quelque sorte l’expression 
+d’une faillite du SGS. 
+Cependant notre objectif n’est pas de produire un audit du Système de Gestion de la Sécurité du 
+gestionnaire ou de l’entreprise ferroviaire, mais seulement d’examiner si d’éventuels dysfonction-
+nements ou carences de ces SGS peuvent être en lien avec la causalité de l’accident.
+Les exigences et les éléments essentiels du système de gestion de la sécurité sont développés en 
+annexe 3 à la directive 2004/49/CE, dont la copie est annexée au présent rapport en annexe 7.9.
+### 3.2.2	 Instances concernées par la gestion de la sécurité
+## 3.2.2.1	
+### Avant la scission (2005)
+L’activité ferroviaire belge est depuis 1926 intégrée dans une entreprise unique : la SNCB « historique » 
+placée sous la tutelle du Ministère des Communications. En 1991, elle acquiert le statut d’entreprise de 
+droit public et gagne une autonomie de gestion cadrée par un contrat de gestion avec l’Etat, qui fixe les 
+conditions d’accomplissement de la mission de service public, ainsi que les compensations financières. 
+La transposition de la directive 91/440/CEE du 29 juillet 1991, qui vise à l’adaptation des chemins 
+de fer communautaires aux exigences du marché unique, entraine ensuite une réorganisation 
+progressive de la SNCB en deux pôles : la gestion de l’infrastructure et l’entreprise ferroviaire. 
+Le démantèlement de la Section Transport et la création des « Business Units » en janvier 1998 
+marque le passage d’une organisation orientée fonctions à une organisation orientée produits et 
+prestations, et à une décentralisation par type d’activité avec une allocation des responsabilités 
+par finalité. Les Arrêtés Royaux des 5 février 1997 et 11 décembre 1998 déterminent les droits 
+d’accès à l’infrastructure, les conditions de licence ferroviaire, et les modalités d’utilisation de 
+l’infrastructure. Ils organisent la distinction au sein de la SNCB entre les activités de gestion de 
+l’infrastructure et celle de l’opérateur ferroviaire. D’abord comptable, cette bipolarisation devient 
+organique de 2002 à 2004 et prépare la séparation institutionnelle. L’organigramme ci-dessous 
+représente l’organisation de la SNCB avant la scission :
+
+## Página 57
+
+Au sein de la SNCB intégrée, il n’y avait pas d’organisation explicite dédiée à la gestion de la 
+sécurité, ni a fortiori de mise en œuvre d’un SGS à part entière. L’utilité d’un SGS n’est alors pas 
+perçue, et la doctrine concernant la mise en place d’un SGS était d’attendre les dates limites des 
+obligations réglementaires, comme le montrent les calendriers respectifs des dates butoir et 
+de la mise en œuvre effective des différentes dispositions en Belgique. Il existait néanmoins un 
+« Service Sécurité Environnement » qui centralisait les données concernant la sécurité, condui-
+sait essentiellement les enquêtes sur les accidents et les incidents, définissait un plan d’action 
+réactif au cas par cas, accident par accident, et produisait un rapport annuel notamment distri-
+bué au Conseil d’Administration et à la DGTT. Selon l’un des responsables interviewés, il s’agis-
+sait d’un service centralisé, qui projetait sa vision de la sécurité, mais ne conduisait pas de réelle 
+concertation sur l’analyse des causes ». 
+Au plan des institutions, la directive 91/440 demande que les états membres « veillent à la défi-
+nition des normes et des règles de sécurité et au contrôle de leur application ». En réalité, il 
+existe alors en Belgique très peu d’activité d’écriture réglementaire ou de surveillance étatique, 
+du moins en ce qui concerne la sécurité. L’Etat belge a confié cette tâche à la SNCB unifiée elle-
+même. En 1991, le contrat de gestion avec l’Etat ne concernait pas la sécurité. Jusqu’en 1997, la 
+production réglementaire et la surveillance de son application sont donc internes à l’entreprise 
+ferroviaire intégrée. La réglementation est élaborée par les départements concernés, ou émane 
+de sources internationales (RIV, RID, Fiches UIC). Des documents métiers établis sur base de la ré-
+glementation générale sont publiés pour les opérateurs de première ligne (conducteurs, agents 
+d’accompagnement, agents de triage). Chaque département peut publier des avis, circulaires 
+ou instructions complétant sa réglementation. 
+Cette délégation du pouvoir réglementaire ayant été jugée constitutionnellement inadmissible 
+par le Conseil d’Etat, l’Arrêté Royal du 5 février 1997 précise les principes selon lesquels, d’une 
+part, le gestionnaire de l’infrastructure ferroviaire fixe les normes et règles afférentes à la sécu-
+rité de l’infrastructure et les reprend dans des règlements, d’autre part, qu’il revient au Ministre 
+d’approuver ces règlements par Arrêté Ministériel.
+Le Service Technique d’Appui Ferroviaire (STAF) est créé conformément à l’article 71 du second 
+contrat de gestion (1997-2001) conclu entre l’Etat et la SNCB «unifiée », par décision du Conseil 
+des Ministres du 19 mai 2000. Le STAF avait été mis en place au 1er mars 1999 avec la mission 
+d’assister l’administration du Transport terrestre du Ministère des Communications et de l’Infras-
+tructure dans l’exécution technique des missions qui lui sont imparties notamment dans l’éva-
+luation des règles proposées par le gestionnaire d’infrastructure et d’assurer un rôle consultatif 
+dans la délivrance des certificats de sécurité. 
+En exécution de l’article 2 de l’Arrêté Royal du 5 février 1997, l’Arrêté Ministériel du 26 mars 1999 
+portant approbation des normes et règles afférentes à la sécurité de l’infrastructure ferroviaire et 
+à son utilisation, reprend l’inventaire des règles et règlements proposés par le gestionnaire d’In-
+frastructure. Du point de vue de la sécurité, le STAF est également chargé de mener les enquêtes 
+sur les accidents par l’Administration du Transport terrestre.
+L’administration ne disposant pas des compétences techniques requises, le STAF est composé 
+d’agents détachés de la SNCB. D’abord prévue pour un an, l’existence du STAF a été prolongée à 
+cinq reprises jusqu’au moment où le Service de Sécurité et d’Interopérabilité Ferroviaire (SSICF) 
+lui a succédé. Le SSICF a été crée par l’ Arrêté Royal du 16 janvier 2007.
+A partir de l’Arrêté Royal du 12 mars 2003 pris en application des directives européennes, le 
+STAF est chargé d’assister l’Administration du Transport Terrestre dans l’écriture du cahier des 
+charges du matériel et du personnel (Arrêtés Royaux), de soutenir celle-ci dans l’homologation 
+du matériel. 
+
+## Página 58
+
+### 3.2.2.2	 Apres la scission (depuis 2005)
+Au 1er janvier 2005, en application de l’Arrêté Royal du 18 octobre 2004, la SNCB est scindée en 
+deux sociétés distinctes (l’entreprise ferroviaire SNCB et le gestionnaire d’infrastructure Infrabel) 
+mais rattachées à une « maison mère » commune : la SNCB Holding qui conserve des activités 
+transverses telles que le Ressources Humaines, les Finances, l’Audit Interne, la gestion des gares 
+importantes.
+Dans un premier temps, la SNCB Holding a conservé le « Service Sécurité Environnement » et 
+projetait de gérer la sécurité depuis la Holding, avec un seul SGS. Cependant il est rapidement 
+apparu que cela était incompatible avec la conception des directives européennes concernant 
+les responsabilités du gestionnaire d’infrastructure vis à vis de toutes les entreprises ferroviaires 
+et des responsabilités des entreprises ferroviaires.
+Dans la version initiale de la loi du 19 décembre (article 18 alinéa 29), c’était la SNCB Holding qui 
+était responsable de donner son avis sur la cohérence et la coordination des SGS. Cet alinéa a 
+disparu lors de la révision de la loi en mai 2009. 
+La première révision de la loi du 19 décembre 2006 par la loi du 6 mai 2009 a supprimé cette pré-
+rogative de la SNCB Holding.
+Dans la version initiale de la loi du 19 décembre 2006 en son (article 20), la SNCB et Infrabel pou-
+vaient utiliser les rapports d’enquête effectués par la SNCB-Holding dans le cadre des SGS. C’est 
+lors de la troisième révision10 de la loi du 19 décembre 2006 par la loi du 26 janvier 2010 que cette 
+prérogative de la SNCB Holding a été supprimée.
+Afin d’assurer la coordination et la cohérence des systèmes de gestion de la sécurité et des procédures d’urgence, le gestionnaire de l’infras-
+tructure ferroviaire et les entreprises ferroviaires demandent l’avis de la S.N.C.B.-Holding sur leur projet de système de gestion de la sécurité. La 
+S.N.C.B.-Holding rend son avis dans les trente jours ouvrables de la demande. A défaut de réponse dans ce délai, l’avis est réputé positif.
+10	 La seconde révision de la loi du 19 décembre 2009 est intervenue par la loi programme du 23 décembre 2009.
+
+## Página 59
+
+## INFRABEL
+Le gestionnaire d’infrastructure (GI), se voit confier un rôle particulier en matière de sécurité. Il 
+veille à l’application des normes techniques et des règles afférentes à la sécurité de l’infrastruc-
+ture ferroviaire et à son utilisation. Il adopte les règles de sécurité nécessaires pour compléter les 
+STI ou compenser l’absence de STI, après avoir sollicité l’avis conforme de l’Autorité de sécurité. 
+Cette Autorité lui délivre un agrément de sécurité, par lequel elle « accepte » son Système de 
+Gestion de la Sécurité, ainsi que les dispositions qu’il déclare prendre pour garantir la sécurité de 
+l’infrastructure au plan de la conception, de l’exploitation et de l’entretien de cette infrastructure, 
+y compris le système de contrôle du trafic et la signalisation. 
+En application de l’article 4 § 1 de l’Arrêté Royal du 16 janvier 2007 relatif à l’agrément de sécurité 
+et au certificat de sécurité, à la mise en circulation du matériel roulant ainsi qu’au rapport annuel 
+de sécurité exécutant l’article 23 de la loi du 19 décembre 2006 relative à la sécurité d’exploi-
+tation ferroviaire, le gestionnaire d’infrastructure devait introduire sa demande d’agrément de 
+sécurité, en ce compris son système de gestion de la sécurité, le jour de l’entrée en vigueur de 
+l’Arrêté Royal du 16 janvier 2007.
+Infrabel a introduit sa demande d’agrément de sécurité le 6 février 2007.
+La dimension « gestion de risques » du SGS a été introduite mais couvre essentiellement les 
+obligations réglementaires concernant les changements significatifs.
+La sécurité d’exploitation est organisée au sein du service I-AR.2 au niveau central et régional. 
+La division I-AR.23 mène une enquête pour chaque accident et presqu’accident, ou incident tel 
+que prescrit dans le RGE 2.1.1. A cet égard, le service peut accepter le rapport de la première 
+enquête effectuée par la hiérarchie locale, ou décider d’exécuter sa propre enquête. La division 
+gère la base de données d’Infrabel dans laquelle s’effectuent le signalement et l’enregistrement 
+des événements relatifs à la sécurité d’exploitation (depuis le 1° juillet 2007, c’est l’application 
+« SafeRail »).
+La division I-AR.23 procède à l’enquête d’accident sur place, jugé pertinent, effectue la rédaction 
+des rapports d’enquête, assure le suivi local des mesures prises et leur impact sur les protocoles 
+locaux, et identifie les nouveaux risques locaux. 
+Le service d’enquête créé est composé de 12 enquêteurs qui se rendent sur le terrain en cas 
+d’accident et d’incidents. Les enquêteurs en charge possèdent de bonnes connaissances ferro-
+viaires, soit par leur formation, soit par leurs expériences passées, mais le plan de formation reçu 
+ne mentionne pas de formation spécifique en technique d’enquête.
+Chaque accident et quasi-accident ou incident – jugé pertinent par sa nature ou son caractère 
+spécifique (inhabituel, répétitif,...) – doit être discuté lors de la « formation permanente » du 
+personnel. Ce feedback consiste en un entretien personnel entre la ligne hiérarchique et l’agent 
+concerné par l’événement. Lors de cet entretien, la ligne hiérarchique explique concrètement 
+les aspects positifs et négatifs de l’intervention de l’agent lors de l’événement. Elle insiste sur ce 
+qu’il est attendu de l’agent pour éviter que d’éventuelles erreurs commises ne se reproduisent 
+ultérieurement. Il est fait mention de cet entretien sur la fiche individuelle de l’agent.
+Le service I-AR.2 conseille les différentes directions d’Infrabel sur les adaptations utiles du sys-
+tème de gestion de la sécurité et des procédures, ou de la réglementation. Il assure la concerta-
+tion avec les entreprises ferroviaires en vue d’améliorer la sécurité d’exploitation. 
+
+## Página 60
+
+## SNCB 
+La SNCB, ainsi que toutes les autres entreprises ferroviaires, doivent se voir délivrer un certifi-
+cat de sécurité par l’Autorité de sécurité ferroviaire. Cette délivrance suppose l’acceptation par 
+l’Autorité du Système de Gestion de la Sécurité de l’entreprise ferroviaire. 
+La SNCB a commencé à travailler sur son SGS plus tard qu’Infrabel. La responsabilité de la sécu-
+rité d’exploitation est organisée au niveau central et confiée à un bureau central. C’est la « cellule 
+sécurité » qui se charge de réglementer les dispositions de sécurité. Elle est située dans un des 
+services de l’administrateur délégué « Cellule stratégique». La cellule « corporate safety » assure 
+la concertation avec le gestionnaire d’infrastructure en vue d’améliorer la sécurité d’exploitation. 
+Il gère la base de données de la SNCB dans laquelle s’effectuent le signalement et l’enregistre-
+ment des événements relatifs à la sécurité d’exploitation (c’est l’application « SafeTrain »). Il effec-
+tue les analyses et études de sécurité et rédige le rapport annuel de sécurité. 
+Ce bureau mène une enquête uniquement pour les accidents graves. Les enquêteurs en charge 
+possèdent de bonnes connaissances ferroviaires soit par de la formation soit par leurs expé-
+riences passées, mais le plan de formation ne prévoit pas de formation spécifique en technique 
+d’enquête.
+Les enquêtes sur les accidents moins graves et les presqu’accidents, ou sur les incidents, sont 
+effectuées par la hiérarchie locale dans les différentes directions. La hiérarchie locale procède à 
+l’enquête d’accident sur place, et effectue la rédaction des rapports d’enquête. Le bureau central 
+peut conseiller les différentes directions sur les adaptations utiles des rapports fournis.
+ La manière dont la hiérarchie locale analyse les événements, décide de mesures à prendre, 
+assure le suivi des mesures prises, évalue leur impact sur les protocoles locaux, et identifie les 
+nouveaux risques locaux n’est pas claire. Elle n’a pas reçu de formation spécifique pour effectuer 
+les enquêtes, interviewer les acteurs, analyser les causes directes et les causes profondes. Par 
+ailleurs, elle est à la fois juge et partie, ce qui ne facilite pas la remise en cause des contextes qui 
+résultent de ses propres décisions passées, et contribue à développer une culture d’attribution 
+causale centrée sur les opérateurs de première ligne.
+### Autorité Nationale de Sécurité
+La transposition de la Directive 2004/49/CEE relative à la sécurité des chemins de fer (annexe 
+III et article 9) entraine également une modification importante du paysage de la gestion ré-
+glementaire de la sécurité ferroviaire belge. Cette directive dont la date limite de transposition 
+était le 30 avril 2006 demande la constitution au sein de chaque Etat membre d’une Autorité de 
+sécurité ferroviaire, d’un organisme d’enquête indépendant sur les accidents et les incidents, 
+d’un processus de validation des systèmes de gestion de la sécurité des acteurs du système fer-
+roviaire, et d’un processus de surveillance du respect des normes de sécurité. La directive pose 
+également des principes de définition et d’évaluation du niveau de sécurité ferroviaire com-
+muns aux Etats membres. 
+Le GI et les EF établissent leur propre système de gestion de la sécurité dans le respect des objec-
+tifs de sécurité communs définis par l’Autorité, et dans le respect des règles de sécurité art 6 et 
+exigences. Le SGS garantit la maitrise de tous les risques créés par les activités du GI ou de l’EF, 
+y compris la fourniture de maintenance du matériel et le recours à des contractants. Le système 
+de gestion de la sécurité tient également compte, selon le cas et dans la limite du raisonnable, 
+des risques résultant des activités d’autres parties.
+
+## Página 61
+
+L’Autorité nationale de sécurité a pour rôle de délivrer un agrément de sécurité au GI qui confirme :
+• l’acceptation des dispositions prises par le gestionnaire afin de garantir la sécurité de l’infras-
+tructure aux niveaux de la conception, de l’entretien et de l’exploitation, y compris le cas 
+échéant, l’entretien et l’exploitation du système de contrôle du trafic et  de la signalisation; 
+• l’acceptation du système de gestion de la sécurité.
+De même, l’Autorité délivre aux entreprises ferroviaires un agrément de leur SGS par le biais d’un 
+certificat de sécurité.
+En application de cette directive la Belgique, a institué le Service de Sécurité et d’Interopérabilité 
+des Chemins de Fer (SSICF) au sein de la Direction Générale des Transports Terrestres appartenant 
+au SPF Mobilité et Transports. Le statut et les missions légales du SSICF en matière de sécurité 
+sont fixés par la loi du 19 décembre 2006 relative à la sécurité d’exploitation ferroviaire, et par ses 
+arrêtés d’application. L’Arrêté Royal du 16 janvier 2007 désigne le SSICF comme Autorité natio-
+nale de sécurité et définit les exigences de sécurité auxquelles doivent satisfaire le gestionnaire 
+d’infrastructure et les entreprises ferroviaires. 
+Une évaluation du fonctionnement et de l’efficacité de l’autorité nationale de sécurité et de l’or-
+ganisme d’enquête a été conduite en 2010 par l’Agence Ferroviaire Européenne (ERA) pour le 
+compte de la commission spéciale établie par le parlement belge suite à l’accident de Buizingen. 
+En résumé, concernant l’autorité de sécurité, les évaluateurs de l’ERA critiquent l’insuffisance de 
+ses ressources, l’absence de formalisation des processus de travail, et les liens de filiation qui la 
+lient à la SNCB Holding11. Nous renvoyons le lecteur à ce rapport s’il souhaite plus de détail.
+### 3.2.3	 Les dispositifs d’assistance et de surveillance de la conduite 
+sur le réseau belge
+Un aperçu de l’historique des dispositifs d’assistance et de surveillance de la conduite sur le ré-
+seau belge est présenté ci-après.
+Les systèmes « brosse-crocodile », « Gong-Sifflet » et « MEMOR » ont été développés pendant 
+l’entre-deux guerres et installés progressivement sur une grande partie du réseau à partir des 
+années trente, à la suite de plusieurs accidents ferroviaires importants.
+Suite à l’accident de Aalter en juillet 1982 où un train direct ne respecte pas un signal fermé et 
+emboutit un omnibus (l’accident a fait 5 morts), la « SNCB » a décidé d’implanter un système tech-
+nique. Des axes ferroviaires sélectionnés ont commencé à être équipés du système TBL1 appelé 
+également MEMOR/Stop. Il était prévu d’équiper quelques 120 engins moteurs et 2 000 équipe-
+ments au sol au cours d’une première phase. Par la suite, 6 854 signaux seraient sécurisés sur un 
+total de 15 187, le système concernait tous les signaux importants placés sur une voie principale 
+et la majeure partie des engins à moteur qui circulaient régulièrement sur une voie principale.
+En 1991, seuls 9 % des signaux (947 signaux) et 7 % des engins de traction (114 véhicules) étaient 
+équipés du TBL1.
+Les installations TBL1 existantes n’ont fait l’objet d’aucune mise à niveau technologique. Début 
+septembre 2000, le service de maintenance a indiqué qu’environ 30% des installations TBL1 
+étaient hors d’usage suite à des problèmes d’approvisionnement de pièces.
+En 2001, 1700 signaux étaient équipés du système TBL1. La technologie de ce système était dé-
+passée et n’était plus disponible sur le marché. 
+A partir de 2009, quelques installations TBL1 ont été retirées du réseau ferroviaire suite à l’implé-
+mentation du système TBL1+ plus performant, mais en concertation avec l’autorité nationale, 
+Infrabel a replacé ces installations TBL1 dans les voies.
+11	 Voir Chapitre V «Mesures prises»
+
+## Página 62
+
+Ces systèmes ne répondaient pas aux normes nécessaires pour les trains à grande vitesse. 
+Il était impossible de conduire en toute sécurité à des vitesses dépassant 160 km/h en utilisant 
+uniquement des signaux latéraux, même avec l’ajout d’une fonction de contrôle de vitesse à 
+ce système. Il était nécessaire de développer ou d’installer un nouveau système de sécurité. La 
+SNCB intégrée a opté pour le développement d’un nouveau système : le système TBL2/3.
+Il avait été décidé que le système TBL2/3 en développement ne serait pas réservé au TGV et aux 
+lignes intérieures rapides, mais serait introduit de manière généralisée sur le réseau intérieur. 
+Au départ, l’option était d’équiper les principales lignes du réseau intérieur avec le système de 
+sécurité sur la base de l’une des principales priorités, à savoir l’exploitation avec un « niveau de 
+sécurité raisonnable (outre d’autres priorités, telles que l’augmentation de la vitesse commer-
+ciale et l’amélioration de la régularité des trains).
+Le système TBL2 permettrait le contrôle continu de la vitesse des engins équipés du système TBL2. 
+La poursuite du développement du TBL2/3 a pris beaucoup de temps. Les difficultés rencontrées 
+dans l’avancement des travaux, avec toutes les conséquences négatives, ont impliqué des retard 
+dans le processus d’homologation de l’appareillage, initialement prévu en septembre 1995.
+En octobre 1999, le TBL2/3 en était toujours à la phase d’homologation. Le fait que l’homologa-
+tion n’était pas encore achevée était le principal problème empêchant l’installation du système. 
+En vue de respecter la planification, il fut alors décidé de procéder à l’homologation en phases 
+différentes à celles initialement prévues, dans un premier temps sur les rames TGV, et puis plus 
+tard sur le matériel destiné au trafic intérieur. 
+Dans l’intervalle, les spécifications européennes d’un système de sécurité avec signalisation en 
+cabine étaient également disponibles. Ce système européen, l’ETCS, avait pour objectif de stan-
+dardiser l’appareillage et de réaliser l’interopérabilité du réseau ferroviaire européen.
+On ne savait pas encore précisément quand débuterait la commercialisation proprement dite 
+de l’ETCS.
+Mais globalement, la Belgique a été rattrapée par l’évolution européenne : le système TBL2/3 ne 
+pouvait être mis en œuvre dans la pratique avant le développement d’un programme de migra-
+tion vers le système européen. 
+Il fallut attendre 2002 pour qu’un système opérationnel TBL 2 soit mis au point et installé sur la 
+ligne TGV L2 Louvain-Ans. Aucun projet concret n’a été élaboré concernant la mise en œuvre du 
+système TBL2/3 sur le réseau intérieur. Environ 205 véhicules sont équipés de ce système TBL2.
+Après avoir passé en revue les divers niveaux de sécurité possibles, le Conseil d’administration 
+de la SNCB avait opté en décembre 1999 pour l’option d’équiper le réseau ferroviaire belge du 
+système ETCS 1 et pour une généralisation du niveau ETCS 2 sur toutes les lignes où la vitesse 
+excéderait 160 km/h, pour lesquelles un niveau de sécurité plus élevé serait prévu.
+Après cette décision du conseil d’administration, la sécurisation du réseau ferroviaire belge par 
+des dispositifs techniques ne s’est pas améliorée de manière significative. 
+Le processus d’étude du développement du système ETCS se poursuit, des tests sont effectués.
+La SNCB unifiée évalue alors que les équipements de bord pour l’ETCS ne seraient pas commer-
+cialisés avant 2005, ce qui rendait une phase intermédiaire indispensable. 
+En raison de la difficulté technique et du délai d’installation du système ETCS, la SNCB et Infrabel 
+ont décidé dans le courant de l’année 2006 que l’implémentation de ce projet comprendrait, 
+dans une première phase, une solution transitoire : développer un système ATP propre, utilisant 
+comme matériel l’Eurobalise mais doté d’un logiciel et d’une fonctionnalité propres. 
+
+## Página 63
+
+Le terme actuellement utilisé pour désigner ce système est « TBL1+ ». Sur le plan technique, 
+l’équipement de bord TBL1+ n’est pas suffisant pour décoder et comprendre tous les signaux 
+d’informations émis en ETCS et ne répond donc pas au standard européen de contrôle automa-
+tique des trains. 
+Le système TBL1+, contrairement à l’ETCS, n’effectue pas un contrôle permanent de la vitesse 
+dans le sens où l’ensemble de la courbe de vitesse n’est pas supervisée. En plus du freinage 
+automatique lors du dépassement d’un signal fermé, le système permet de provoquer l’arrêt du 
+mouvement du train s’approchant à une vitesse supérieure à 40km/h au droit de la balise située 
+300m en amont d’un signal imposant l’arrêt et d’ensuite contrôler sa vitesse jusqu’à celui-ci. 
+Divers problèmes de conception, de mise au point,… ont retardé la mise en place du système 
+TBL1+.
+L’homologation du système TBL1+ en tant que système au sol est intervenue en février 2009 et 
+l’homologation de l’intégration du système sol / bord est intervenu en septembre 2009.
+L’appareillage à bord des rames n’est pas conforme à la norme ERTMS et devra en tout cas être 
+remplacé passer à l’équipement ETCS 1 ou 2.
+Nous n’avons pas connaissance de rapports détaillés motivant les choix et notamment des ana-
+lyses qui auraient été réalisées d’un point de vue de la sécurité et des analyses de risques dans 
+les décisions successives résumées précédemment. Ni les entretiens menés, ni les analyses des 
+documents mis à notre disposition ne nous ont permis de reconstituer une rationalité suivie. Par 
+le passé, des plans très ambitieux ont été établis mais n’ont pas toujours été respectés.
+Au début de l’année 2010, la Belgique affiche toujours un score médiocre en ce qui concerne 
+l’instauration de systèmes de protection automatique des trains (ou ATP pour « Automatic Train 
+Protection ») sur les lignes conventionnelles. Des systèmes ATC (« Automatic Train Control »)ont 
+été principalement installés sur les lignes à grande vitesse.
+L’objectif de la TBL1+ est d’augmenter la sécurité du système ferroviaire conventionnel en ré-
+duisant la probabilité du dépassement d’un point dangereux. La totalité des signaux (environ 
+10 705 signaux) en voie principale sera équipée du système TBL1+ mais pas tous les signaux en 
+voie accessoire. C’est une analyse de risque12 qui détermine les signaux à équiper afin d’obtenir 
+une couverture d’efficacité déterminée.
+Le système TBL1+ reste un système national et ne peut être imposé aux entreprises ferroviaires 
+circulant sur le réseau ferroviaire belge.Le système TBL1+ est considéré comme un système tran-
+sitoire.
+A terme, les lignes et le matériel roulant devront être sécurisés par des systèmes de protection
+automatique des trains ETCS 1 ou ETCS 213 tel que se sont engagés à réaliser Infrabel et la SNCB. 
+### 3.2.4	 Les publications et informations disponibles concernant la sécurité 
+ferroviaire belge
+Jusqu’en 2000, la SNCB ne publiait qu’un aperçu sommaire concernant la sécurité d’exploitation, 
+dans lequel elle présentait le nombre d’accidents et d’incidents, des commentaires à propos de 
+certaines catégories d’événements, et les actions prises. En application de la directive 91/440/
+CEE, l’Arrêté Royal du 5 février 1997 demande explicitement un rapport de sécurité circonstan-
+cié, et l’Arrêté Ministériel du 20/04/2000 précise les données et analyses à fournir à l’administra-
+tion par la SNCB. 
+Le premier rapport rédigé pour répondre à ces dispositions concerne l’année 2000. Il est rédigé 
+par l’UCC Sécurité et Environnement de la SNCB. Un rapport sera ensuite publié chaque année 
+jusqu’en 2005. 
+12	 Voir Chapitre V « Mesures prises »
+13	 Voir Chapitre V « Mesures prises » - Masterplan ETCS
+
+## Página 64
+
+A partir de 2006, un rapport annuel est publié séparément par la SNCB et par Infrabel concer-
+nant la sécurité de l’année précédente. 
+Depuis le 14 décembre 2006, Infrabel a établi des « Safety Platform » avec la SNCB notamment 
+pour discuter de la problématique des dépassements de signaux. 
+Le but de ces réunions était d’améliorer le fonctionnement ou la sécurité par un retour d’expé-
+rience ainsi que d’informer les entreprises ferroviaires sur la réglementation et ses modifications.
+Elles sont organisées environ 4 fois par an.
+Ces «safety platform» sont ouvertes à l’ensemble des entreprises ferroviaires en possession d’un 
+certificat de sécurité ou ayant introduit une demande de certificat en Belgique.
+Un de leurs objectifs est de réaliser une analyse fine des raisons des franchissements, notam-
+ment dans le cas de signaux franchis plusieurs fois, et le repérage de facteurs contributifs ty-
+piques (tels que l’oubli du double jaune ou l’inexpérience des conducteurs), ou spécifiques (tels 
+que les caractéristiques d’implantation du signal) et la recherche de correctifs.
+L’interaction directe du gestionnaire d’infrastructure et des entreprises ferroviaires a également 
+permis d’ouvrir les discussions portant sur le déplacement de certains signaux, leur répétition, 
+l’installation ou non d’IOT. 
+Les comptes rendus de ces réunions fournissent des informations intéressantes sur la manière 
+dont la question des dépassements de signaux a été appréhendée au cours de ces années, et 
+montrent bien les différences de perspectives et les divergences de point de vue entre le ges-
+tionnaire d’infrastructure et les entreprises ferroviaires.
+### 3.2.5	 La gestion des risques associés aux franchissements de signaux fermés 
+sur la derniere décénnie
+Une note de réflexion de l’UCC Stratégie et Développement de la SNCB et datée du 01/10/2000 
+traite de la problématique du contrôle et de la protection de la marche des trains à la SNCB. 
+Elle distingue : 
+• la « protection de l’itinéraire » (garantie que la section d’infrastructure autorisée sera par-
+courue en toute sécurité) ; 
+• la « liaison voie-machine » (délivrance par la protection d’itinéraire d’une autorisation ou 
+d’une restriction de circulation ; repose essentiellement sur des signaux lumineux et donc 
+sur leur perception et interprétation par les conducteurs) ; 
+• la « protection du train », qui a pour objet de vérifier que le conducteur se conforme bien 
+aux instructions de la liaison voie-machine (trois niveaux : vigilance – contrôle sur l’atten-
+tion du conducteur ; mise à l’arrêt – freinage automatique en cas de dépassement d’un 
+signal d’arrêt ; surveillance des courbes de vitesse et de freinage). 
+Cette note conclut : « En résumé, nous pouvons affirmer que le degré de protection du train sur notre 
+réseau peut être amélioré de façon significative. Il existe un important déséquilibre du niveau de sé-
+curité des équipements qui génèrent l’autorisation de circuler (les aspects de signal) et le contrôle de 
+leur bonne utilisation (le système conducteur/engin de traction). Pour l’instant, la protection du train 
+repose dans une large mesure sur la bonne visibilité des signaux et sur l’attention et la discipline du 
+conducteur. Néanmoins, les dépassements de signaux ne surviennent pas fréquemment sur notre 
+réseau. Le dernier accident grave, survenu suite à un dépassement de signal, date de 1982. Tout pro-
+gramme qui vise à la sécurité du trafic doit impliquer davantage le véhicule dans le circuit de protec-
+tion et donc se concentrer sur l’amélioration de la protection train ». 
+Il est intéressant de constater que la note identifie bien le maillon faible de la chaîne de sécurité 
+(la traduction du signal en action conforme), tout en sous-estimant la fréquence des échecs 
+associés (sur base du temps écoulé depuis le dernier accident grave).
+Ceci suggère une sous-estimation du risque de collision par rapport à la fréquence réelle des 
+dépassements de signal.
+De fait, l’accident qui suivit cette note devait se produire six mois plus tard (Pécrot le 27 mars 
+2001 - 8 morts). 
+
+## Página 65
+
+Par contre, le rapport de sécurité relatif à l’année 2000, rédigé après l’accident de Pécrot, consacre 
+un paragraphe entier aux dépassements de signaux et mentionne trois accidents (dont deux 
+collisions frontales) consécutifs à des dépassements de signaux. Il note que « l’année 2000 a été 
+particulièrement marquée par un nombre croissant de dépassements de signaux. La cause de ces 
+accidents est attribuée en particulier à un manque de vigilance et de mémorisation de l’aspect res-
+trictif des signaux, à la confusion entre le signal à respecter et le signal de la voie voisine, au manque 
+d’expérience de certains conducteurs ». 
+Les rapports annuels suivants confirment ce constat de hausse tendancielle du nombre de 
+dépassements de signaux (tout en minimisant leur fréquence en la rapportant au nombre de 
+trains-km). Ils confirment également l’imputation « principalement à un manque de vigilance 
+des conducteurs » et la forte contribution des « jeunes conducteurs » (moins de cinq ans d’an-
+cienneté). Ces constats amènent un regard critique sur le recrutement et la formation initiale et 
+permanente des conducteurs. 
+A partir de 2005, la SNCB et Infrabel publient dans leur rapport annuel sur la sécurité les données 
+concernant le franchissement des signaux fermés, et les analyses qu’elles en font. Le recueil est 
+basé sur les déclarations des conducteurs, ou la détection automatique de franchissement per-
+mise par les cabines informatisées. Une distinction est faite entre les franchissements de signaux 
+en voie principale et en voie secondaire. En plus du dépassement lui-même, des informations 
+sont recueillies sur la distance de dépassement et l’atteinte ou non du point dangereux (environ 
+1/3 des cas). 
+|  | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 |
+| Nombre total de dépassements14 (chiff res Infrab el) | 68 | 75 | 79 | 97 | 117 | 130 |
+### 3.2.6	 Les analyses effectuées
+Les chiffres montrent clairement que les franchissements de signaux augmentent régulière-
+ment depuis le début des années 2000. Une partie de l’augmentation est expliquée par les pro-
+grès accomplis en matière de détection, du fait de l’extension des cabines informatisées. Mais 
+l’évolution défavorable du nombre de dépassements de signal est globalement reconnue par la 
+SNCB intégrée, puis par la SNCB et Infrabel. 
+En 2006 et 2007, dans les analyses réalisées, les dépassements de signaux sont principalement 
+imputés à des « erreurs humaines », qui tendent à être présentées comme la conséquence d’un 
+« manque d’attention » des conducteurs du côté d’Infrabel, et comme la conséquence de dé-
+fauts dans la localisation ou l’environnement des signaux du côté de la SNCB. 
+A partir de 2008, les réunions du groupe de travail entre la SNCB et Infrabel sur les dépassements 
+de signaux permettent à l’analyse de s’approfondir et de rechercher des solutions pratiques. Par-
+mi les problèmes répertoriés lors de ces réunions, on note le cas des dépassements de signaux 
+à imputer à une absence de mémorisation du conducteur lors du départ d’un train voyageurs 
+après un arrêt à un point d’arrêt non gardé.
+14	 Dépassements de signaux fermés en voies principales et accessoires.
+
+## Página 66
+
+Selon la SNCB, « l’évolution défavorable du nombre de dépassements de signal est principale-
+ment à imputer à la saturation croissante du trafic ferroviaire ». En effet, l’augmentation du trafic 
+ferroviaire entraine une saturation du réseau qui se traduit par des signaux plus régulièrement 
+fermés. « Un tel trafic demande au conducteur une attention sans relâche et requiert la prudence 
+lors de l’approche d’un signal présentant un aspect restrictif (…) le passage d’un signal double-
+jaunes qui se présentent successivement augmente la charge de la vigilance chez le conducteur 
+et accroît le risque de dépassement de signal » (Extrait du Rapport de sécurité de la SNCB 2008).
+La SNCB constate également que les conducteurs les moins expérimentés sont nettement plus 
+exposés (ce point est développé plus loin).
+Selon Infrabel, il n’y a pas d’augmentation du trafic ferroviaire entrainant une saturation du ré-
+seau. Au contraire, le tableau fourni (source : ARTROB Infrabel), démontre une diminution du 
+trafic par rapport aux années 2007 et 2008. 
+|  | 2007 | 2008 | 2009 | 2010 |
+| Voyageurs | 8348509079 . . , | 8419764890 . . , | 8511167011 . . , | 8580591797 . . , |
+| Marchandises | 2010224530 . . , | 1887877001 . . , | 1290935492 . . , | 1397309619 . . , |
+| Entreprisestouristique |  | 450297 . , | 741162 . , | 1260788 . , |
+| TOTAL | 10358733609 . . , | 10308092188 . . , | 9802843665 . . , | 9979162204 . . , |
+Nous pouvons constater sur ce tableau qu’effectivement le nombre total de trains/kilomètres 
+diminue d’année en année, cependant le nombre de trains/kilomètres de trains de voyageurs 
+quant à lui augmente. Ces chiffres ne permettent pas de tirer des conclusions sur l’augmenta-
+tion ou non du nombre de signaux rouges rencontrés par les conducteurs ni de renseigner sur 
+une éventuelle saturation du réseau ferroviaire notamment en heure de pointe.
+Une estimation ou une extrapolation du nombre de signaux rencontrés fermés n’a pas pu être 
+fournie ni par Infrabel, ni par la SNCB.
+En complément, Infrabel a fourni le tableau ci-dessous reprennant le nombre de trains circulant 
+sur le réseau.
+| Sillons-TOTAL | 2007 | 2008 | 2009 | 2010 |
+| HKV | 1490677 . . | 1460097 . . | 1508339 . . | 1585586 . . |
+| HKI | 36217 . | 36469 . | 34731 . | 35988 . |
+| Totalvoyageurs | 1526894 . . | 1496566 . . | 1543070 . . | 1621574 . . |
+| HKM | 413587 . | 443563 . | 309313 . | 311749 . |
+| Associationstouristique |  | 95 | 118 | 266 |
+| Total | 1940481 . . | 1940224 . . | 1852501 . . | 1933589 . . |
+En 2009 les analyses des bandes de vitesses montrent que les circulations sur « double jaunes » 
+sont fréquentes en heure de pointe, ce qui demande une vigilance accrue de la part du conduc-
+teur et constitue, en l’absence d’un équipement de contrôle permanent de la vitesse, un facteur 
+de risque pour ce qui concerne les dépassements de signaux. 
+Selon Infrabel, les éléments déduits des analyses de ces bandes de vitesse de la SNCB n’ont 
+jamais été portés ni à leur connaissance, ni à celle du secteur et n’ont pas fait l’objet de concer-
+tation avec les parties précitées.
+
+## Página 67
+
+Une analyse par Infrabel des dépassements de signaux encourus sur le réseau en 2009-2010 
+indique que 110 dépassements de signaux sont imputables à l’opérateur SNCB en 2010 contre 
+108 en 2009. La note poursuit : « parmi ces dépassements, 86 peuvent être considérés comme 
+imputables au conducteur » dont 67 à des conducteurs de train (-12% par rapport à 2009) et 
+19 à des conducteurs de manœuvre (+36% par rapport à 2009). Elle constate également que le 
+nombre de dépassements de plus de 50 mètres (50 cas) a augmenté de 19% et celui des dépas-
+sements de plus de 200 mètres (20 cas) a diminué de 5%. 
+Concernant les actions prises, la SNCB mentionne que « Plusieurs interventions de notre part 
+concernant notamment des signaux dépassés à répétition ont reçu une suite favorable chez 
+Infrabel (Zaventem, Bruxelles Nord,…). […] Ces signaux ne reviennent généralement plus dans 
+nos statistiques de dépassement. […] »
+L’analyse statistique des franchissements de signaux étudie les différents facteurs pouvant 
+contribuer à la survenue de tels événements. Parmi ces facteurs, les résultats mettent en évi-
+dence l’expérience du conducteur. La figure suivante tirée d’un rapport SNCB montre que les 
+conducteurs ayant une faible ancienneté et donc une faible expérience dépassent plus fré-
+quemment les signaux que les conducteurs expérimentés (Cela s’explique fort bien par le fait 
+qu’ils ne possèdent pas encore les routines de protection évoquées plus avant dans le présent 
+rapport). En 2009, le rapport de sécurité de la SNCB précise que « le nombre grandissant de 
+jeunes conducteurs est un élément qui influence [négativement] les évolutions constatées » en 
+matière d’augmentation des dépassements.
+Fréquence des dépassements par ancienneté : 2007, 2008, 2009
+
+## Página 68
+
+Une attention particulière a été donc portée à la formation des jeunes conducteurs. Un jour 
+supplémentaire orienté sur la prévention des dépassements de signaux a été ajouté à la fin de 
+la formation fondamentale. L’attention des aspirants conducteurs y est attirée sur les signaux 
+présentant un danger potentiel, notamment dans la jonction Nord-Midi. 
+### 3.2.7	 Synthèses des mesures prises
+Entre 2006 et 2009, les rapports de sécurité de la SNCB et d’Infrabel font état de différentes me-
+sures prises, pour diminuer le nombre de dépassements de signaux, dont une liste non exhaus-
+tive et non chronologique est donnée ci-après :
+• la décision d’installation du TBL1+; 
+• un travail sur l’implantation des signaux difficiles à voir, ou pouvant induire les conducteurs 
+de trains en erreur (notamment les signaux ayant été franchis plusieurs fois);
+• l’étude d’un dispositif visant à favoriser la mémorisation d’un signal restrictif;
+• la sensibilisation des personnels de conduite et le rappel des procédures;
+• des affichages et des communications sur les dépassements de signaux;
+• des modifications dans la formation initiale des conducteurs avec notamment le renforce-
+ment du travail en simulateur et le renforcement des accompagnements;
+• le contrôle régulier des bandes de vitesse;
+• la mise en place d’une cellule d’enquête à la SNCB pour une analyse en profondeur des 
+événements;
+• le passage d’un entretien des conducteurs de train ayant dépassé un signal auprès d’un 
+psychologue pour procéder à un examen approfondi afin de sonder de possibles causes 
+humaines plus profondes que l’inattention pouvant être à l’origine d’un dépassement de 
+signal.
+### 3.2.8	 Interface entre les différents acteurs présents sur l’infrastructure
+A l’époque de la SNCB « unifiée », une commission multidisciplinaire (signalisation, exploita-
+tion, conduite, sécurité d’exploitation) avait pour mission d’étudier et de publier des règles sur 
+l’implantation et l’utilisation de la signalisation.
+Les plans de signalisations étaient soumis à la critique des experts-conduite, au moment de 
+l’établissement du projet de renouvellement de la signalisation d’une installation.
+Actuellement, Infrabel n’utilise plus les conducteurs de la SNCB mais utilise ses propres conduc-
+teurs. Les conducteurs d’Infrabel sont des conducteurs d’engin de chantier et de trains de travaux.
+Les spécificités de la conduite des trains de travaux, des trains de marchandises, des trains 
+conventionnels de voyageurs ou des trains grande vitesse sont très différentes.
+A titre d’exemple, seuls les conducteurs de train omnibus sont confrontés au PANG (Point Arrêt 
+Non Gardé).
+Lors des diverses réunions organisées en 2009 avec Infrabel, mais également par l’envoi de cour-
+rier, la SNCB à maintes fois réitéré son souhait de poursuivre l’équipement de quais avec un 
+équipement IOT lumineux couplé au signal d’arrêt suivant estimant cela comme une nécessité.
+« Lorsqu’un HKV doit effectuer un arrêt à quai précédé d’un signal avertisseur ou d’un signal 
+d’arrêt combiné, le conducteur doit se rappeler de l’aspect du signal précédent lors de la reprise 
+de la marche. Si le dernier signal rencontré présentait deux feux jaunes, le signal d’arrêt suivant 
+ne se trouve pas dans le champ visuel immédiat au moment de la reprise de la marche. La vitesse 
+à l’approche du signal suivant risque d’être autant plus élevée que le signal se trouve à grande 
+distance et que sa distance de visibilité est faible. »
+
+## Página 69
+
+Selon ses chiffres de la SNCB rappelle que 12,5% des dépassements auraient été évités si les 
+quais suivis par un signal d’arrêt desservi étaient normalement pourvus d’une installation IOT.
+Pour Infrabel, l’IOT n’est et ne sera jamais ni un élément de signalisation, ni un élément d’aide à la 
+conduite. Infrabel est tenue de respecter notamment la STI Contrôle-Commande-Signalisation 
+(CCS). Or, la STI CCS ne reconnaît pas l’IOT en tant que système de signalisation.
+Il s’agit d’un système physique installé sur certains quais afin de pouvoir transmettre une infor-
+mation de l’accompagnateur au conducteur. Cette information ne vise que le statut des opé-
+rations relatives aux voyageurs, ne donne aucune information sur l’état du signal et ne signifie 
+pas une autorisation de départ du train. Le système IOT même couplé au signal ne permet pas 
+d’indiquer au conducteur la présence d’un signal restrictif (double jaune, jaune vert vertical,…) 
+mais uniquement deux positions permissif ou fermé.
+Infrabel rappelle que suite à ses enquêtes, il a constaté qu’il existe des cas de dépassement de 
+signaux malgré la présence d’IOT sur certains quais.
+Dans les cas spécifiques des signaux se trouvant à plus de 300m de l’extrémité du quai, il est 
+impossible de coupler toute information relative aux opérations terminées avec les futures ins-
+tallations de signalisation ETCS15.
+### 3.3	 Règles et Réglementation
+### 3.3.1	 Règles et réglementation publique communautaire et nationale 
+applicables
+## 3.3.1.1	
+### Système de gestion de la sécurité 
+### Loi du 19 décembre 2006
+La présente loi transpose :
+• la Directive 2004/49/CE du Parlement européen et du Conseil du 29 avril 2004, concer-
+nant la sécurité des chemins de fer communautaires et modifiant la Directive 95/18/CE du 
+Conseil concernant les licences des entreprises ferroviaires, ainsi que la Directive 2001/14/
+CE concernant la répartition des capacités d’infrastructure ferroviaire, la tarification de l’in-
+frastructure ferroviaire et la certification en matière de sécurité, modifiée par la Directive 
+2008/110/CE du Parlement européen et du Conseil du 16 décembre 2008;
+• la Directive 2007/59/CE du Parlement européen et du Conseil du 23 octobre 2007 relative 
+à la certification des conducteurs de train assurant la conduite de locomotives et de trains 
+sur le système ferroviaire dans la Communauté;
+• partiellement la Directive 2008/57/CE du Parlement européen et du Conseil du 17 juin 
+2008 relative à l’interopérabilité du système ferroviaire au sein de la Communauté.
+La présente loi règle l’ensemble des prescriptions relatives à la sécurité d’exploitation ferroviaire 
+belge
+Son article 12 détermine entre autres les missions et pouvoirs de l’Autorité de Sécurité dont fait 
+partie la délivrance, le renouvellement la modification et le retrait des certificats de sécurité et 
+des agréments de sécurité.
+15	 Voir Chapitre V «Mesures prises»
+
+## Página 70
+
+### Arrêté Royal du 13 novembre 2009
+Arrêté royal adoptant le cadre réglementaire national de sécurité.
+Les entreprises ferroviaires et le gestionnaire de l’infrastructure atteignent leur objectif de sécu-
+rité qui consiste à égaler au moins le niveau de sécurité de l’année précédente.
+Dans le cas d’une entreprise ferroviaire qui obtient un certificat de sécurité partie B, postérieure-
+ment au 1er janvier 2010, l’autorité de sécurité, pour permettre à cette entreprise de déterminer 
+si elle a atteint son objectif de sécurité pour l’année au cours de laquelle elle débute ses activi-
+tés, communique, pour chaque référence de sécurité, la plus basse des valeurs de référence de 
+sécurité des autres entreprises ferroviaires de l’année précédant l’octroi du certificat de sécurité.
+Si une entreprise ferroviaire ou le gestionnaire de l’infrastructure n’atteint pas son objectif de 
+sécurité, elle ou il justifie chaque valeur de référence en augmentation dans son rapport annuel 
+de sécurité. En outre, si l’objectif de sécurité n’est pas atteint, l’objectif de sécurité suivant sera 
+fixé par référence au dernier objectif de sécurité qui a été respecté.
+Le Ministre peut imposer aux entreprises ferroviaires et au gestionnaire de l’infrastructure fer-
+roviaire un objectif particulier de sécurité, consistant en l’obligation d’atteindre, pour un indica-
+teur spécifique, une valeur de référence de sécurité déterminée.
+## 3.3.1.2	
+### Personnel
+### Arrêté Royal du 16.01.2007
+Les conducteurs de train, les accompagnateurs de train et les signaleurs font partie du person-
+nel de sécurité et doivent répondre aux procédures et exigences de cet A.R. du 16.01.2007 por-
+tant exigences et procédures de sécurité applicables au gestionnaire de l’infrastructure et aux 
+entreprises ferroviaires a été modifié par l’Arrêté Royal du 25 juin 2010. 
+### Arrêté Ministériel du 9 juin 2009
+Cet arrêté ministériel portant adoption du cahier des charges du personnel de sécurité était au 
+moment de l’accident applicable à tout le personnel de l’infrastructure et des entreprises qui 
+exécutent une fonction de sécurité définies dans cet A.M.
+Cet A.M. reprend les conditions de certification du personnel exerçant des fonctions de sécurité.
+Dans ce personnel sont repris les conducteurs de trains mais également les accompagnateurs, 
+les opérateurs/signaleurs.
+L’A.M. définit les modalités liées à l’utilisation de ce personnel :
+• délivrance d’une autorisation,
+• mise en place d’un dispositif ayant pour but de s’assurer des temps de conduite, des durées 
+maximales de prestation, …
+• formation (fondamentale, complémentaire et permanente) adaptée à la fonction de sécu-
+rité qui lui est confiée.
+Les opérateurs/signaleurs sont des membres du personnel du gestionnaire d’infrastructure 
+exerçant des fonctions de sécurité telles que définies dans l’A.M.
+
+## Página 71
+
+Conducteur de train
+Pour être valable, la licence de conducteur doit être accompagnée simultanément de :
+• l’attestation de connaissance de ligne,
+• l’attestation de connaissance du matériel.
+L’attestation de connaissance de ligne est délivrée par l’entreprise ferroviaire qui atteste de ce fait 
+qu’elle reconnait le conducteur titulaire comme :
+• possédant les connaissances prescrites par les règles de sécurité en matière de connais-
+sance de lignes,
+• ayant satisfait aux formations fondamentales et complémentaires en matière de disposi-
+tions particulières relatives à certaines lignes ou tronçons.
+L’attestation de connaissance du matériel est délivrée par l’entreprise ferroviaire qui atteste de ce 
+fait qu’elle reconnait le conducteur titulaire comme :
+• possédant les connaissances prescrites par les règles de sécurité en matière de connais-
+sance du matériel,
+• ayant satisfait aux formations fondamentales et complémentaires en matière de type  de 
+service.
+Examens médicaux et psychologiques pour les conducteurs
+L’A.M. définit le contenu minimal des examens médicaux et psychologiques que doit subir un 
+conducteur avant affectation, à titre d’exemple : 
+• Vision, audition, perception des couleurs
+• Analyse de sang et d’urine
+• Recherche de substances psychotiques
+• Aptitudes cognitives
+• Communication 
+• Aptitudes psychomotrices
+• Examens psychologiques sur le plan professionnel
+Les examens sont réalisés de façon périodique. Tous les 3 ans jusqu’à 55 ans, ensuite tous les ans.
+Cette fréquence peut être augmentée. Des examens sont effectués automatiquement après tout 
+incident/accident du travail ainsi qu’après toute interruption du travail due à un accident impli-
+quant des personnes ou interruption d’au moins 30 jours.
+Les examens médicaux sont réalisés par le CPS possédant une certification.
+Accompagnateur de train
+Un certificat d’accompagnateur de train est délivré pour le compte d’une entreprise ferroviaire, 
+nominativement à la personne qui est certifiée et doit être accompagnée d’une attestation de 
+connaissance professionnelle. 
+Cette attestation est délivrée par l’entreprise ferroviaire qui atteste ainsi qu’elle reconnait le titulaire 
+comme :
+• Possédant les connaissances prescrites par les règles de sécurité en matière de connaissance 
+du matériel,
+• Ayant satisfait aux formations fondamentales et complémentaires en matière de disposi-
+tions particulières relatives à certaines lignes ou tronçons,
+• Possédant le niveau requis de connaissances linguistiques.
+Ils doivent répondre également à des critères médicaux et psychologiques défini dans cet A.M. 
+du 9/09/2009.
+
+## Página 72
+
+Obligation de personnel de sécurité
+Le personnel de sécurité ne peut à aucun moment être sous l’emprise de substances suscep-
+tibles d’altérer la vigilance, la concentration et le comportement.
+Le personnel de sécurité ne peut pas se trouver sous l’emprise d’un état alcoolique caractérisé 
+par la présence dans le sang d’une concentration d’alcool pur égale ou supérieure à 0.20 g pour 
+1000 ou par la présence dans l’air expiré d’une concentration d’alcool pur égale ou supérieure à 
+0.10 milligramme par litre. 
+### Arrêté Royal du 18 janvier 2008
+Cet arrêté relatif à la fourniture de services de formation aux conducteurs de train et au personnel 
+de bord a été modifié par l’arrêté Royal du 26 avril 2009.
+Cet arrêté prescrit entre autre :
+• que la formation fondamentale et la formation complémentaire des conducteurs de train 
+et du personnel de bord, circulant sur l’infrastructure ferroviaire belge, sont exclusivement 
+fournies par des organismes agréés.
+• que pour obtenir un agrément, l’organisme doit adresser au Ministre une demande par 
+envoi recommandé à la poste. L’organisme fournit des services de formation de qualité et 
+établit un programme de formation fondamentale dans le respect des exigences reprises 
+aux annexes 2 et 3 de l’A.R.,
+• que le contenu de la formation doit permettre aux candidats d’acquérir les compétences 
+professionnelles requises dans le cahier des charges du personnel de sécurité pour l’exer-
+cice des fonctions de sécurité concernées. Il est adapté à la catégorie de brevet que sou-
+haite obtenir le candidat. 
+• que l’organisme doit organiser des examens dans les cas suivants :
+ 1° à l’issue d’une session de formation fondamentale ou complémentaire;
+ 2° lors du contrôle tous les trois ans des compétences professionnelles;
+ 3° lors d’une demande ponctuelle et motivée de contrôle de l’aptitude profession-
+nelle faite par l’entreprise ferroviaire, le gestionnaire de l’infrastructure ferro-
+viaire utilisateur ou l’autorité de sécurité.
+• Que L’examen théorique a lieu devant un jury, constitué par l’organisme de manière à 
+éviter tout conflit d’intérêt. 
+Le jury est composé d’au moins deux examinateurs : l’autorité de sécurité et un représen-
+tant de l’entreprise ferroviaire ou du gestionnaire de l’infrastructure ferroviaire utilisateur 
+qui a inscrit le candidat peuvent siéger dans ce jury en tant qu’observateur. 
+L’examen a pour but de vérifier l’aptitude professionnelle du candidat et porte sur les com-
+pétences professionnelles nécessaires à l’exercice de la fonction de sécurité concernée.
+L’arrêté royal définit également la durée de la formation et assimilation des matières :
+1. La durée de la formation fondamentale en vue de l’obtention des brevets A1 et A2 est de 
+135 jours minimum (acquisition de la connaissance du matériel de traction et examen final 
+compris) comprenant :
+- au moins 50 jours de pratique en ligne pendant lesquels le candidat acquiert l’expé-
+rience indispensable à la conduite des convois;
+- au moins deux contrôles de l’assimilation des matières, équitablement répartis sur 
+la durée de la formation.
+2. La durée de la formation fondamentale en vue de l’obtention des brevets B1 et B2 est de 
+190 jours minimum (acquisition de la connaissance du matériel de traction et examen final 
+compris) comprenant :
+- au moins 70 jours de pratique en ligne pendant lesquels le candidat acquiert l’ex-
+périence indispensable à la conduite des convois;
+- au moins 3 contrôles de l’assimilation des matières, équitablement répartis sur la 
+durée de la formation.
+
+## Página 73
+
+## 3.3.1.3	
+### Matériel roulant
+### Arrêté Royal du 12 mars 2003
+Cet arrêté a abrogé l’Arrêté ministériel du 26 mars 1999, adopté sur base de l’article 2 de l’AR du 
+5 février 1997, portant sur l’approbation des normes et des règles afférentes à la sécurité qui 
+constituait la première réglementation nationale en la matière.
+Un inventaire des règlements pris sur base des articles 4 et 6 de l’Arrêté Royal du 12 mars 2003 
+relatif aux conditions d’utilisation de l’infrastructure a été par la suite régulièrement publié dès 
+2004 au moniteur belge.
+### Arrêté Ministériel du 20 juin 200816
+L’Arrêté Ministériel du 20 juin 2008 porte adoption du cahier des charges du matériel roulant, 
+arrête les trois points suivants :
+Art 1er. Sont adoptées les règles nationales de sécurité, comprenant leur propre annexe, figurant 
+à l’Annexe au présent arrêté.
+Art 2. Les dispositions reprises aux points 5.3.3.2.1.et 5.3.3.2.2 du fascicule 2.1.1 du RGUIF, relatif 
+au cahier des charges du matériel de l’utilisateur de l’infrastructure belge, sont abrogées.
+Art 3. Le présent arrêté entre en vigueur le jour de sa publication au Moniteur belge.
+Annexe à l’arrêté ministériel du 20 juin 2008 portant l’adoption d’un cahier des charges du maté-
+riel roulant
+Le « cahier des charges du matériel roulant pour l’utilisation des sillons » qui en constitue l’an-
+nexe reprend les prescriptions auxquelles doit répondre l’équipement du matériel roulant auto-
+risé à circuler sur réseau belge, dont voici un extrait :
+19.6 Equipements des systèmes de répétition des signaux et de signalisation de cabine du maté-
+riel en fonction des lignes parcourues ainsi que les systèmes d’enregistrement appropriés 
+19.6.1 Les postes de conduite de chaque véhicule doivent disposer d’un système de répétition 
+des signaux ou d’une signalisation de cabine le cas échéant capable de lire et de traiter les don-
+nées des systèmes de signalisation installés sur les lignes parcourues par cet engin ainsi que 
+l’appareillage d’enregistrement approprié. (Dossier technique avec PV d’essais d’intégration - 
+essai d’homologation à réaliser en collaboration avec le GI.)
+19.6.2 Sans préjuger du § 19.6.3, pour circuler sur les lignes conventionnelles, les véhicules visés 
+au § 19.6.1 doivent, au minimum, être équipé du système MEMOR. Les équipements TBL1, TBL1+ 
+et TBL2, qui doivent inclure obligatoirement les fonctionnalités MEMOR, sont également acceptés.
+16	 Depuis, l’Arrêté Ministériel du 20 juin 2008 a été modifié par l’Arrêté Ministériel du 30 juillet 2010 portant adoption du cahier des 
+charges du matériel roulant. Cfr Chapitre V «Mesures prises»
+
+## Página 74
+
+La description fonctionnelle du MEMOR est reprise après le point 19.6.7. (1)
+Pour circuler sur les lignes conventionnelles, les engins équipés du système ETCS doivent être 
+munis d’aumoins un des systèmes suivants : (2)
+• d’un STM MEMOR (NID_STM 18 (valeur décimale));
+• d’un système MEMOR pour lequel la fonction est contrôlée par l’ETCS et pour lequel l’inté-
+grité de l’ensemble est au moins égale à l’intégrité du système MEMOR;
+• d’un STM TBL1 (NID_STM 5 (valeur décimale));
+• d’un STM TBL1+ (NID_STM 28 (valeur décimale));
+• d’un STM TBL2 (NID_STM 7 (valeur décimale)).
+19.6.3 Les deux points suivants reprennent les exigences futures concernant les systèmes com-
+plémentaires à installer sur les engins en fonction de la circulation sur les lignes convention-
+nelles ou lignes grande vitesse 
+19.6.3.1 Lignes conventionnelles
+- Jusqu’au 31/12/2013 : aucune obligation immédiate pour le matériel existant.
+### Sécurité passive Décision de la Commission du 26 avril 2011
+La spécification technique d’interopérabilité relative à l’interopérabilité du système ferroviaire 
+au sein de la communauté est une spécification qui vise le matériel roulant du système ferro-
+viaire transeuropéen conventionnel. Elle précise des exigences essentielles pour les sous-sys-
+tèmes et définit les spécifications fonctionnelles et techniques à respecter,…
+Elle établit à titre d’exemple que toutes les clauses de la norme EN12663-1 2010 concernant la 
+résistance de la structure des véhicules sont applicables de même que toutes les clauses de la 
+norme EN 15227 :2008 sauf l’annexe A concernant la sécurité passive.
+La capacité de la caisse du véhicule doit résister à des déformations et fractures irréversibles et 
+peut être démontré à l’aide de calculs ou d’essais conformément aux conditions fixées dans la 
+clause 9.2.3.1 de la norme EN 12663-1 :2010
+La structure mécanique des véhicules doit protéger ses occupants en cas de collision en inté-
+grant des systèmes conformément à la norme EN15227 :2008 :
+• de limitation de la décélération
+• de protection des zones de survie et de l’intégrité structurelle des espaces occupés
+• de la réduction des risques de chevauchement
+• de réduction des risques de déraillement
+• de limitation des conséquences en cas de collision avec un obstacle sur la voie ;
+## 3.3.1.4	
+### L’infrastructure
+Au jour de l’accident, les règles relatives à l’infrastructure n’étaient pas formalisées sous la forme 
+d’un Arrêté Royal ou Ministériel17. Ces règles existaient cependant soit sous forme de règles de 
+sécurité d’exploitation (soumises à l’avis conforme de l’Autorité de sécurité) soit sous forme de 
+règles internes voire de Prescriptions Techniques Réglementaires documentées dans le système 
+de gestion de la sécurité d’Infrabel et contrôlées par le SSICF.
+17	 Depuis, l’Arrêté Royal 01/07/2011 portant adoption d’un premier cahier des charges de l’infrastructure ferroviaire a été publié. 
+Cet Arrêté Royal du 1er juillet 2011 a été modifié par l’Arrêté Royal du 13 octobre 2011.
+
+## Página 75
+
+### 3.3.2	 Autres règles, telles que les règles d’exploitation, les instructions 
+locales, les exigences applicables au personnel, les prescriptions 
+d’entretien et les normes applicables
+## 3.3.2.1	
+### Règle d’exploitation des trains 
+La voie est divisée en portions, appelées sections de block, dans chacune desquelles n’est nor-
+malement admis qu’un convoi. Chacune est protégée par un signal (en signalisation latérale) 
+placé à son entrée.
+Les sections de voies des portions de la ligne 96 sont tous des systèmes : block système à voie 
+fermée. 
+Un signal ne sera ouvert pour permettre le passage d’un convoi que si la section en aval est libre. 
+Lorsque le convoi pénètre dans la section d’aval, le signal revient à la position fermée (indication 
+«arrêt»), automatiquement ; ainsi le convoi qui suit sera arrêté.
+Les signaux desservis sont donc fermés par défaut.
+
+## Página 76
+
+### RSEIF 4.1 Départ d’un train de voyageur
+Selon le règlement RSEIF 4.1, deux conditions sont nécessaires pour le départ des trains de voya-
+geurs escortés :
+• réception par le conducteur d’une information «Opérations Terminées» (OT);
+• respect par le conducteur des indications données par la signalisation, par un ordre de 
+franchissement ou par une des autorisations prévues.
+L’information OT (opérations terminées) est définie comme étant une information qui indique 
+au conducteur que les opérations liées au stationnement sont terminées. 
+L’information OT signifie que les opérations à quai (débarquement et embarquement des voya-
+geurs, fermeture des portes, …) sont achevées et que, pour ce qui concerne le chef de bord, rien 
+ne s’oppose au départ du train.
+Cette information ne constitue pas un ordre de départ.
+L’information OT (opérations terminées) est donnée par l’accompagnateur de train selon la pro-
+cédure déterminée par l’entreprise ferroviaire.
+En pratique, cette information est donnée, suivant le type de matériel concerné, soit via des 
+signes convenus entre conducteur et chef de train (en lançant un coup de sifflet allongé, tourné 
+vers le conducteur et le bras levé, éventuellement appuyé de la lampe blanche), soit pour le 
+matériel qui en dispose (les automotrices principalement), au moyen du dispositif de transmis-
+sion propre au matériel desservi, à savoir l’allumage, par le chef de bord, d’une « lampe porte » 
+se trouvant dans le poste de conduite et qui confirme au conducteur la fermeture des portes du 
+train et par là même l’autorisation de départ pour autant que rien d’autre ne s’y oppose du point 
+de vue de la conduite et/ou de la signalisation.
+Le chef de bord n’a pas l’obligation d’observer l’état du signal de départ pour donner l’indication 
+OT. Le conducteur reste seul responsable de l’observation et du respect des signaux.
+### RSEIF 7.1 La conduite : Disposition relative au conducteur
+Le conducteur doit consulter les documents listés pour l’ensemble du matériel et des lignes qu’il 
+doit normalement desservir pendant son service.
+En plus de ses obligations en matières de respect de la signalisation et dans la mesure où la 
+conduite du train le lui permet, le conducteur observe la voie. 
+Le conducteur doit constamment être en mesure de déterminer la position ainsi que la vitesse 
+maximum autorisée de son train par rapport à la ligne qu’il parcourt.
+La circulation à vitesse normale s’effectue à la vitesse autorisée par la signalisation et/ou la régle-
+mentation (connaissance de ligne du conducteur).
+Le genre de mouvement est « grand mouvement », qui s’effectue à vitesse normale.
+Le régime de voie normale est le sens représenté conventionnellement indiqué : sur la plupart 
+des lignes à double voie, les trains circulent à gauche.
+### Réglementation sur les aiguillages de protection
+Le recours aux aiguillages de protection découle historiquement essentiellement des risques 
+liés à la dérive des véhicules ferroviaires (sans conducteur). Ces véhicules sont particulièrement 
+dangereux puisqu’ils ne répondent à aucune signalisation. Au fil du temps et du retour d’expé-
+rience des accidents, la protection des itinéraires s’est étendue à la volonté d’éviter des colli-
+sions et des prises en écharpe dues à tout mouvement intempestif, dérive et franchissements 
+irréguliers des signaux. Le retour d’expérience et les bonnes pratiques ainsi que des documents 
+internes (notes ou notices) constituent les seules références en la matière.
+
+## Página 77
+
+Pour assurer la sécurité d’un itinéraire18, il importe entre autres que :
+• les aiguillages à parcourir par le train soient orientés et immobilisés de manière à assurer 
+la continuité de l’itinéraire ;
+• les aiguillages non parcourus par le mouvement protègent l’itinéraire tracé contre les 
+mouvements sécants ; on parle alors d’aiguillages de protection.
+Des mouvements sécants peuvent :
+• provenir du tracé d’autres itinéraires ayant un point commun avec l’itinéraire considéré 
+(cette situation peut se rencontrer quand le gril comporte des traversées ordinaires ou des 
+traversées jonction-simples, on parle alors d’aiguillages d’incompatibilité). 
+• résulter de convois qui, accidentellement, circuleraient en dérive ; 
+Au temps de la SNCB « unifiée », le RGS fascicule III imposait que pour autoriser un mouvement, 
+le poste de signalisation place les aiguillages concernés dans la position exigée pour réaliser la 
+continuité et la protection de l’itinéraire. La dernière version date des années 2000 et depuis plus 
+aucune mise à jour de ce RGS n’est intervenue notamment lors de la mise en service des postes 
+EBP. Le RGS est au fur et à mesure du temps remplacé par le RSEIF.
+Aujourd’hui, le document interne d’Infrabel concernant les règles à appliquer en matière de 
+mise en protection des aiguillages est décrit dans la notice technique n°13. 
+Selon cette notice technique n°13 décrivant les principes de réalisation des postes de signalisa-
+tion à relais, « les aiguillages de protections retenus sont ceux dont la position exigée n’entrave 
+pas d’autres itinéraires signalisés compatibles ».
+De manière internationale, il n’y a pas de prescriptions, de code de bonne conduite ou de recom-
+mandation UIC à ce sujet. Chaque gestionnaire d’infrastructure applique ses propres prescrip-
+tions librement en fonction de ses spécificités.
+### Réglementation sur l’implantation des IOT
+Le dossier « IOT » évolue de longue date (depuis fin des années 70).
+Son développement s’est fait de manière interne à la SNCB unifiée au travers de notes, réunions, 
+consensus et les retours d’expérience suite à des incidents et accidents.
+C’est l’enquête sur l’accident de La Louvière en mars 1969 (13 tués, 70 blessés) qui a conduit à la 
+décision d’adopter l’IOT pour transmettre l’information « opérations terminées » aux quais suivis 
+d’un signal desservi.
+A l’époque de la SNCB «unifiée», les us en la matière pouvaient être résumés comme suit :
+« Dans toutes les gares et points d’arrêt qui sont équipés d’un signal de départ couvrant un 
+point dangereux (appareil de voie par ex.), l’installation d’IOT couplés à ce signal est obligatoire 
+lorsque l’erreur humaine est susceptible de provoquer le tamponnement entre deux trains ».
+Ce principe, convenu sur base de notes internes signées par des responsables d’un niveau « chef 
+de division» est susceptible d’être précisé, complété ou remis en cause par des responsables 
+d’un niveau au moins égal. Ce principe n’est donc pas absolu ni contraignant pour Infrabel qui 
+est susceptible de le remettre en cause sachant que, théoriquement, ces équipements IOT ne 
+sont pas des équipements constitutifs de la signalisation ferroviaire. 
+18	 Un itinéraire est le parcours suivi par un mouvement entre deux signaux d’arrêt successifs entre lesquels il emprunte un ou plusieurs 
+aiguillages.
+
+## Página 78
+
+L’équipement IOT n’est pas considéré comme un élément de signalisation ni comme un élé-
+ment d’ «aide à la conduite19 » comme le système MEMOR, la TBL1 ou la TBL1+ mais comme un 
+système physique installé sur certains quais afin de pouvoir transmettre une information de 
+l’accompagnateur au conducteur. 
+Le RSEIF livre 4, fascicule 4.1. “LES REGLES RELATIVES AUX TRAINS” explicite l’utilisation des IOT 
+mais n’en précise pas les règles d’installation. 
+Un IOT n’est pas placé sur tous les quais de toutes les gares et points d’arrêt. 
+Selon les règles internes d’Infrabel en vigueur au moment de l’accident, afin de pouvoir respec-
+ter les conditions de départ d’un train de voyageurs telles que reprises dans le RSEIF 4.1, les IOT 
+ne sont placés que sur les quais de gares que si :
+• le signal de départ est un signal desservi et 
+• le signal se trouve à moins de 300m (distance de visibilité d’un signal) de l’extrémité du quai.
+### Règles applicables à l’implantation de la TBL1+
+Elles ne sont pas formalisées dans un arrêté royal ou ministériel.
+Selon la décision de la Commission du 28 mars 2006 relative à la STI concernant le sous-système 
+contrôle-commande et signalisation du système ferroviaire transeuropéen conventionnel, les 
+Etats membres établissent un plan national de mise en oeuvre de la STI selon les critères indi-
+qués dans le chapitre 7 de l’annexe. La STI définit les exigences essentielles relatives aux parties 
+du sous-système « contrôle-commande» qui sont utiles pour l’interopérabilité. L’interopérabilité 
+du réseau ferroviaire dépend en partie de l’aptitude des équipements embarqués à fonctionner 
+avec les divers équipements au sol.
+Les Etats membres font en sorte que le champ des fonctionnalités des systèmes de classe B exis-
+tants visés dans l’annexe B de la STI, ainsi que leurs interfaces, soit conservé tel qu’il est défini, à 
+l’exception des modifications qui pourraient être jugées nécessaires pour atténuer les défauts 
+mettant en cause la sécurité dans ces systèmes. Les systèmes hérités du passé sont repris en 
+annexe B de la STI : le système TBL1+ n’y est pas repris.
+La Commission Européenne a accepté en octobre 2007 que la Belgique développe le système TBL1+.
+L’équipement de bord TBL1+ est considéré comme un simple « dispositif d’aide à la conduite » 
+selon la terminologie utilisée habituellement par le Gestionnaire d’Infrastructure. Il appartient 
+de ce fait à la catégorie SIL 0 de la norme EN 50126.
+L’objectif de la TBL1+ est d’augmenter la sécurité ferroviaire conventionnel en réduisant la pro-
+babilité du dépassement d’un point dangereux en :
+1) Généralisant en fonction du plan de migration les fonctionnalités MEMOR STOP au réseau 
+classique à savoir : 
+MEMOR 	
+- Répétition de l’aspect des signaux
+- Mémorisation de l’aspect restrictif d’un signal franchi
+- Surveillance de l’action d’acquittement par le conducteur
+- Arrêt automatique du convoi en cas de défaut de vigilance
+STOP 	 	
+- Arrêt automatique du convoi en cas de franchissment irrégu-
+   lier d’un signal imposant l’arrêt.
+2) maitrisant la vitesse à l’approche du signal couvrant ce point dangereux fermé ou ouvert 
+en petit mouvement en imposant une vitesse plafond en amont de ce signal et en provo-
+quant un freinage d’urgence en cas de dépassemennt de cette vitesse.
+19	 « Aide à la conduite » dans le sens : le conducteur doit veiller au respect absolu des signaux qu’il rencontre et dont il connaît l’emplace-
+ment ainsi que la signification. Ces signaux sont suffisants en eux-mêmes pour lui donner TOUTES les indications nécessaires pour assurer 
+la circulation en sécurité de son train.
+
+## Página 79
+
+L’activation du contrôle de vitesse est réalisée par le la balise située à 300m en amont du signal. 
+La balise «TBL1+IBG» fait commuter l’équipement de bord en mode CVR. Cette commutation per-
+met de contrôler que la vitesse d’approche ne dépasse pas 40km/h.
+La tolérance ± 7 % liées aux erreurs odométriques, la vitesse d’intervention est de 40km/h (- 0 , + 
+8km/h)
+Les règles d’implantation ont été définies par Infrabel en fonction d’une analyse pour des raisons 
+d’efficience.
+### 3.3.2.2	 Exigences applicables au personnel
+### Formation des conducteurs : livret HLT
+Le livret HLT est le livre de référence pour les conducteurs. Il reprend les prescriptions générales 
+d’organisation, les prescriptions réglementaires à la signalisation latérale, à la signalisation de 
+cabine, les instructions relatives à la desserte des engins moteurs.
+Les conducteurs suivent une formation de base appelée « formation fondamentale » au sein de 
+la SNCB.,
+Cette formation a pour but de faire acquérir les connaissances et aptitudes nécessaires aux 
+conducteurs pour assurer leurs fonctions.
+L’organisme de formation des conducteurs est titulaire de la certification ISO 9001 :2008 « sys-
+tème de management de la qualité ».
+Au sein de la SNCB, les conducteurs doivent suivre une formation composée :
+• d’une partie théorique de 92 jours
+• d’une partie pratique de 108 jours : 85 jours de conduite avec un moniteur et 23 jours 
+d’autres pratiques (freinage, dépannage,…)
+La partie théorique porte à titre d’exemple sur la signalisation, le règlement de la signalisation, 
+la sécurité du travail, connaissance de ligne, connaissance du matériel roulant mais également 
+2 jours de formation « qualités et attitudes » dispensées par des psychologues de l’entreprise 
+notamment pour apprendre comment adapter leur mode de vie à des horaires variables, l’inte-
+raction entre vie privée et vie publique, conseil d’alimentation, sommeil, détente,…
+Un système d’évaluation permanent est mis en place au cours de l’apprentissage.
+L’examen final est composé d’une partie écrite et d’une partie orale.
+Le jury est composé de divers instructeurs et parfois d’un membre de l’Autorité Nationale de 
+sécurité.
+Concernant les formations pratiques, l’instructeur doit signer une feuille pour valider la formation.
+La SNCB a mis en place un système de « coaching » depuis janvier 2010 afin de corriger si néces-
+saire leur comportement de conduite.
+Les conducteurs de moins de 2 ans d’expérience sont accompagnés trois fois par an par un ins-
+tructeur expérimenté, deux fois par an pour les conducteurs ayant moins de 5 ans d’expérience et 
+une fois pour les tous les autres conducteurs.
+Une formation permanente qui a pour but d’entretenir et d’améliorer les aptitudes du personnel 
+de conduite est dispensée au cours de l’exercice de ses fonctions. Cette formation prépare le per-
+sonnel pour le contrôle triennal de leur aptitude professionnelle. Elle porte sur la réglementation, 
+la sécurité du travail, la technologie, le dépannage,... La formation permanente est de 10 jours 
+répartis sur 3 ans comprenant des sessions d’exercice sur simulateur.
+
+## Página 80
+
+Le suivi des formations est réalisé au moyen d’un système informatique reprenant les dates de 
+formation.
+Des formations complémentaires sont également réalisées lorsqu’un conducteur est amené à 
+circuler sur un autre type de matériel ou/et sur une autre ligne.
+### Brochure M22-2 de 1977 : Etude et connaissance de ligne
+Cette brochure sert de manuel aux instructeurs chargés de :
+• La formation professionnelle des élèves conducteurs
+• L’organisation de l’étude de ligne des conducteurs 
+• La connaissance du matériel et de la ligne par un instructeur
+La connaissance de ligne n’est pas validée par un examen. C’est le conducteur qui signe pour 
+confirmer sa connaissance.
+### RGPS Fascicule 550 Règle de suspension après faute grave contre la sécurité
+Le fascicule 550 est le règlement disciplinaire applicable à l’ensemble du personnel de la «SNCB».
+(Holding, SNCB et Infrabel). Il détermine les conditions et modalités d’application des différentes 
+mesures disciplinaires possibles contre les agents, de même que les conditions en matière de 
+sursis à leur exécution. Il concerne les comportements inacceptables pour l’entreprise, tels que 
+l’indiscipline, le refus de service, le vol, le mensonge, etc.
+Ce règlement disciplinaire comporte un chapitre IV intitulé : « FAUTES CONTRE LA SECURITE DU 
+TRAFIC ». Ce chapitre associe des actes tels que le dépassement d’un signal d’arrêt fermé par un 
+conducteur, qui sont désignés comme des « fautes contre la sécurité du trafic », et des mesures 
+telles que la mise à pied pour des durées variables, désignées comme des « sanctions », des 
+« peines », ou des « punitions ». 
+Dans l’esprit de ce règlement, l’imposition d’une sanction a pour objectif de prévenir les sinistres 
+similaires. 
+La politique de sanction ne s’adresse pas uniquement à l’agent sanctionné mais fait aussi fonction 
+d’exemple vis-à-vis des autres agents.
+Par ailleurs, le règlement prévoit que tout conducteur qui dépasse un signal d’arrêt fermé et est 
+à ce titre susceptible de subir une mise à pied ou une peine plus sévère, doit être retiré préventi-
+vement du service pendant une durée qui viendra en déduction de sa mise à pied disciplinaire. 
+Le Groupe «SNCB» dispose donc d’un règlement répressif punissant les actions non sûres, 
+qu’elles soient involontaires ou sous le contrôle de l’intention20.
+En cas de dépassement de signal, le conducteur concerné se voit en outre imposer des mesures 
+conservatoires, qui ne sont pas présentées comme disciplinaires, jusqu’à ce que l’enquête in-
+terne ou externe soit terminée. Ces mesures conservatoires consistent pour le conducteur :
+• il est retiré du service 
+• il perd son brevet de conducteur. 
+20	 Voir Chapitre V «Mesures prises»
+
+## Página 81
+
+Pour récupérer son brevet, il doit :
+• suivre plusieurs journées de formation théorique et sur simulateur 
+• subir une nouvelle épreuve théorique orale
+• subir une nouvelle épreuve sur simulateur 
+• subir une nouvelle évaluation psychologique
+### RGPS fascicule 541 Régime de prestations des conducteurs 
+Durée des prestations
+La durée des prestations des conducteurs est de minimum 6h et de maximum 9 h.
+Il est prévu un intervalle minimum entre deux prestations mais il n’y a pas de pause obligatoire 
+durant les prestations.
+Repos et Congés
+Les conditions d’octroi et de durée des repos et des congés sont définies dans ce fascicule.
+Le conducteur doit avoir :
+• un week-end libre par période de 4 semaines
+• après 8 jours de prestations obtenir un repos
+• au moins 8 jours de libre par période de 4 semaines.
+• Il ne peut travailler plus de 5 nuits consécutives.
+Les prestations successives du personnel des trains sont groupées en série comprenant une 
+suite de services. Les séries sont établies de telle sorte qu’aucune prestation ne soit inférieure à 
+6h ni ne dépasse 9h et que les prestations pendant le déroulement d’une série ne dépassent pas 
+en moyenne 8h/jour.
+
+## Página 82
+
+### 3.4	 Fonctionnement du matériel roulant et des installations 
+techniques
+### 3.4.1	 Système de signalisation et de contrôle-commande, y compris les enre-
+gistrements des enregistreurs automatiques de données
+## 3.4.1.1	
+### Etude des écrans de détail 
+L’écran de détail présente une image détaillée, en temps réel, de la disposition et de l’occupation 
+des voies, de l’état de la signalisation et de la circulation dans un groupe, une partie d’un groupe 
+ou plusieurs groupes.
+Les voies sont représentées par un trait plein pour une voie électrifiée
+La couleur du trait représentant la voie dépend:
+• de son occupation éventuelle si la voie est pourvue d’un dispositif de détection;
+• de l’enclenchement éventuel d’un l’itinéraire dont la voie fait partie;
+• de l’immobilisation éventuelle d’un appareil de voie.
+Le fonctionnement du système EBP repose sur les données de l’Annonce Automatique
+des Trains (TNM_AAT).
+### Blanc 	 	
+itinéraire libre et non enclenché;
+### Blanc 	 	
+Section libre;
+### Vert	
+itinéraire libre et enclenché;
+### Rouge 		
+Section occupée ou dérangée;
+### Rouge 		
+itinéraire occupé ou dérangé, et enclenché;
+### Orange 	
+itinéraire occupé ou dérangé, et non enclenché;
+### Cyan 	 	
+appareil de voie immobilisé, itinéraire libre et non enclenché.
+Sur l’écran de vue générale, on représente les deux premières lettres de l’identification d’un signal 
+lorsque cette identification est composée de plus de deux lettres
+Les images sont une représentation EBP de l’évolution chronologique des trains
+### Image à 8h24
+
+## Página 83
+
+De cette image nous pouvons déduire que :
+Train E3678 
+Il évolue sur la voie A de la ligne 96
+La section de voie 351, entre le signal de contre voie NX-D.1 et le signal de voie C-D.121, est repré-
+sentéepar un trait rouge qui signifie « de l’occupation de la section de voie » Le train n’a pas 
+encore franchi le signal C-D.1.
+A la section de voie 341, le signal de voie C-D.1 est représenté par le sigle de couleur jaune qui signi-
+fie « signal non contrôlé à la fermeture et itinéraire tracé » 
+Le signal H-E.1 est représenté par le sigle de couleur blanche qui signifie « signal rouge et contrôlé 
+à la fermeture ».
+Train E1707
+La section de voie 328 est représentée par un trait vert qui signifie « de l’enclenchement d’itinéraire » 
+jusqu’au signal O-E.1. 
+Le signal O-E.1 est représenté par le sigle de couleur blanche qui signifie « signal rouge et contrôlé 
+à la fermeture ».
+### Image à 8h27 
+De cette image nous pouvons déduire que :
+Train E3678
+Il continue d’évoluer sur la voie A de la ligne 96
+La section de voie 341 est représentée par un trait rouge qui signifie « de l’occupation de la section 
+de voie », le train se trouve dans cette section.
+Le signal H-E.1 est toujours représenté par le sigle de couleur blanche qui signifie « signal rouge 
+et contrôlé à la fermeture ».
+La section au-delà du signal H-E.1 est blanche, il n’y a pas d’itinéraire tracé au-delà de celui-ci.
+Train E1707
+La section de voie 328 est représentée par un trait vert qui signifie « de l’enclenchement d’itinéraire » 
+jusqu’au signal O-E.1. 
+Le signal O-E.1 est représenté par le sigle de couleur jaune qui signifie « signal non contrôlé à la 
+fermeture et itinéraire tracé ».
+21	 Sur les images EBP, le signal C-D.1 est représenté par les lettres «CD», le signal H-E.1 par les lettres «HE», le signal O-E.1 par les lettres «OE».
+
+## Página 84
+
+### Image à 8h28
+La section après le signal O-E.1 est rouge ce qui signifie « de l’occupation de la section de voie ».
+La section après le signal H-E.1 est orange « bistre » qui témoigne de l’occupation de la section de 
+voie mais de façon irrégulière.
+Un dérangement à une pédale (uniquement sur les signaux lumineux et fictifs) se traduit dans la 
+fenêtre des messages de l’écran de dialogue par :
+« Alarme : -AFC- Pédale ou compteur d’essieux … -dérangée- Appelez l’ELM SI si les nécessités 
+d’exploitation l’exigent ».
+## 3.4.1.2	
+### Etude de l’état de fonctionnement du grand signal d’arrêt h-e.1
+Le jour de l’accident, la mesure de la tension réalisée dans la loge du signal H-E.1 par un agent 
+Infrabel concernant le signal montre que celle-ci était inférieure à la tension nominale de 7.2 V. 
+La tension mesurée était de 5.74 VAC, elle était donc hors des tolérances admises dans la régle-
+mentation d’Infrabel.
+La diminution de la tension a pour conséquence de diminuer l’intensité lumineuse du signal.
+D’après les expériences réalisées en laboratoire par Infrabel à la demande de l’OE, en fonction de 
+la tension disponible, l’intensité lumineuse serait d’environ 320 cd et donc dans les valeurs accep-
+tables selon les normes CIE « commission Internationale de l’Eclairage » Publication N°48 (TC-1.6) 
+de 1980 qui préconise un minimum de 200cd. L’interprétation du laboratoire est basée sur une 
+distance de 100m entre la source lumineuse (le signal H-E.1) et le poste de conduite du train. 
+Cependant cette publication concerne les signaux lumineux pour le contrôle de la circulation 
+routière et non la signalisation ferroviaire. 
+Il n’y a pas d’autres normes définies dans la législation belge.
+L’analyse sur les causes probables demandées au service compétent du gestionnaire d’infrastruc-
+ture sur cette diminution de la tension se trouve en annexe 7.11.
+
+## Página 85
+
+Selon la circulaire 13 I-I /2007 concernant les entretiens préventifs des installations de signali-
+sation et plus particulièrement la check-list 20A concernant « grand signal lumineux » doit être 
+réalisée selon une périodicité de 360 jours. Elle prévoit le mesurage de l’intensité du courant de 
+la lampe et un contrôle de la visibilité du signal. Le mesurage de la tension n’intervenant que 
+lorsque la visibilité du signal est mauvaise. 
+La checklist 20 A ne définit pas la mauvaise visibilité22.
+Le carnet S477 se trouvant dans la loge du signal est le registre des constations, instructions et 
+ordres. Les informations sont complétées manuellement par le technicien responsable.
+On y trouve les renseignements suivants concernant l’entretien dans le S477 lié au signal H-E.1 :
+• en date du 10.08.2006 : entretien général des signaux 
+• en date du 22.01.2007 : remplacement de lampes
+• divers remplacement de relais en 2008
+• en date du 27/09/2008 mise en service de la TBL1+ 
+• en date du 10/09/2009 le remplacement d’une carte d’alimentation LEU23 
+La fiche S453 enregistre les Programmes annuels des travaux d’entretien des signaux. Les infor-
+mations sont complétées manuellement par le technicien responsable. 
+Sur la fiche S453 du signal H-E.1 les derniers entretiens datent des 
+• 13.07.2005
+• 10.08.2006
+En parallèle, une « nouvelle » application informatique ATHENA a été mise en service concernant 
+les relevés électroniques d’entretien des signaux. Les derniers entretiens de la zone de Hal du 
+signal H-E.1 datent des :
+•10.08.2006
+• 03/09/2007
+La lampe à incandescence n’aurait donc pas été remplacée annuellement conformément aux 
+exigences de maintenance. 
+Le gestionnaire d’infrastructure a au niveau de la signalisation latérale du tronçon concerné un 
+retard dans la périodicité de la maintenance des installations. 
+Certains travaux indiqués sur le support papier S 477 se trouvant dans la loge du signal ne se re-
+trouvent pas sur le système informatique. La multiplication des systèmes d’enregistrement induit 
+des erreurs d’enregistrement.
+## 3.4.1.3	
+### Etude du fonctionnement de l’Installation TBL1+
+Le Psion est un appareil qui est utilisé par Infrabel pour introduire et recevoir des données codées 
+au départ d’une balise TBL1+. L’enregistrement du PSION se fait sur le télégramme reçu par la 
+balise TBL1+ et envoyé du LEU20.
+Au 28/02/2010, 750 signaux étaient équipés du système TBL1+, dont le signal H-E.1.
+Nous n’avons pas testé le fonctionnement de la balise TBL1+ du signal H-E.1.
+L’analyse des données Psion fournies par Infrabel (cfr annexe 7.15) confirme que la balise était 
+en bon état de fonctionnement au moment de l’accident et semble confirmer que le signal H-E.1 
+était rouge.
+22	 La visibilité au sens ferroviaire du terme est définie dans la circulaire 72-5-84 interne à Infrabel.
+23	 LEU : « Lineside Electronic Unit »
+
+## Página 86
+
+## 3.4.1.4	
+### Etude de l’état de fonctionnement du crocodile
+Le système fonctionne par un contact physique entre des lamelles métalliques dans la voie (ap-
+pelées « crocodile ») et une brosse métallique sous le train (qui détecte la présence ou l’absence 
+de tension sur le crocodile).
+Le crocodile est un appareil situé entre les deux rails de la voie qui aide le conducteur à respecter 
+les indications fournies par un signal ou un panneau. Il se compose d’un patin en acier, de deux 
+mètres de long environ, sur lequel vient frotter une brosse fixée sous le châssis des engins mo-
+teurs. Il y a, entre le crocodile et le rail le plus proche, une différence de potentiel dont la polarité 
+dépend de l’aspect affiché par le signal concerné.
+Cette différence de potentiel actionne un appareil installé à bord des engins de traction.
+Le fonctionnement correct du crocodile a été contrôlé par Infrabel et par les Autorités Judiciaire 
+au niveau de :
+• ses caractéristiques électriques ;
+• ses caractéristiques géométriques ;
+• la logique câblée.
+De plus, lors de l’étude de la bande TELOC du train précédent, le 3677, on constate qu’une impul-
+sion a bien été enregistrée au passage des signaux C-D.1 et H-E.1. Le crocodile du signal H-E.1 a 
+fonctionné lors du passage du convoi précédent à 8 h12.
+Lors de l’étude de la bande TELOC du train 3678, on constate qu’une impulsion a bien été enregis-
+trée au passage du signal C-D.1 et qu’aucune impulsion n’est enregistrée à hauteur du signal H-E.1.
+L’analyse du registre d’inscription des crocodiles dérangés montre qu’aucun dérangement de ce 
+crocodile n’a été signalé au Traffic control durant les 48 h précédant l’accident.
+## 3.4.1.5	
+### Installation IOT
+Avant les travaux de modernisation du gril de Hal, le quai de Buizingen était équipé d’IOT et ce 
+pour les deux sens de circulation.
+Les quais des voies A et B (voies I et II) sont encadrés par des points dangereux :
+Voie A :
+Appareil 44B protégé par signal commandé H-E.1 distant de 335 m de l’extrémité du quai
+Appareil 11B protégé par signal commandé FX-D.1 distant de 146 m de l’extrémité du quai
+Voie B :
+Appareil 44A protégé par signal commandé GX-E.1 distant de 270 m de l’extrémité du quai
+Appareil 12B protégé par signal commandé G-D.1 distant de 201 m de l’extrémité du quai
+
+## Página 87
+
+Nous avons demandé à Infrabel un historique de l’équipement des quais en IOT et des décisions: 
+« La configuration des quais entre Buizingen et Hal date des années 90. Nous n’avons hélas pas 
+pu retrouver de correspondance écrite ni sur la situation locale précédente ni sur les lignes direc-
+trices … ».
+Pour Infrabel, le signal est à une distance supérieure de 300m (335 m) et conformément aux règles 
+internes actuelles d’Infrabel, le quai ne doit pas être équipé.
+## 3.4.1.6	
+### Etude de la mise en protection des aiguillages
+Selon Infrabel, lors de l’étude de l’installation du grill de Hal au début des années 90, il a été 
+déterminé pour chaque itinéraire quels aiguillages étaient parcourus mais aussi quels aiguillages 
+fonctionneraient comme aiguillages de protection, en tenant compte du principe selon lequel 
+« les aiguillages de protection retenu sont ceux dont la position exigée n’entrave pas d’autres 
+itinéraires ».
+Les résultats de l’étude sont transcrits dans un plan (1005) du gril E à Hal : il est déterminé pour 
+chaque itinéraire les aiguillages de protection considérés comme nécessaires par Infrabel (aiguil-
+lages entourés ci-dessous) :
+Infrabel confirme :
+· que l’installation du gril de Hal respecte la prescription décrite dans la notice technique 13 
+depuis sa réalisation au début des années 90,
+· que les aiguillages 43 et 44 non pas été retenus comme aiguillages de proctection parce-
+qu’ils risquent d’entraver d’autres itinéraires et donc de provoquer d’autres accidents et en 
+particulier des collisions.
+
+## Página 88
+
+### 3.4.2	 Matériel roulant, y compris les enregistrements des enregistreurs 
+automatiques de données
+## 3.4.2.1	
+### Equipement à bord du train 3678
+Les équipements qui équipaient l’automotrice 214 placée en tête du train 3678 étaient les suivants :
+1. Veille automatique (pédale d’homme mort) 
+Le dispositif de veille automatique provoque l’arrêt automatique après l’écoulement d’un retard 
+de 4 secondes faisant suite à la détection d’une défaillance du conducteur et n’intervient pas 
+dans le cas d’un dépassement de signal rouge.
+2. Gong Sifflet
+Dans le cas d’un signal rouge, aucune impulsion n’est transmise par le crocodile et par consé-
+quent la vigilance du conducteur n’est pas testée. 
+Il n’y a pas d’arrêt automatique en cas de dépassement du signal rouge.
+3. Enregistreurs automatiques des données 
+Le principe d’enregistrement de l’aspect des signaux est le suivant :
+• pas d’impulsion : signal rouge ;
+• impulsion positive : signal restrictif ;
+• impulsion négative : signal vert.
+### 3.4.2.2	 Etude de la bande TELOC du 3678 
+La bande de vitesse se présente sous forme d’un rouleau de papier de 20 mètres de longueur qui 
+permet l’enregistrement d’environ 4000km de parcours.
+La bande se déplace de 5 mm :
+• par heure pendant l’arrêt
+• par kilomètre de distance pendant le parcours.
+Sur la bande on distingue trois zones :
+• la zone supérieure, réservée à l’enregistrement du temps ;
+• la zone médiane, réservée à l’enregistrement de la vitesse ;
+• la zone inférieure, réservée à l’enregistrement des impulsions reçues via le crocodile 
+• données complémentaires : notamment sur la vigilance du conducteur, le freinage,…
+L’analyse de la bande de vitesse de l’automotrice 214, qui se trouve en Annexe 7.4, on peut 
+constater :
+• l’impulsion enregistrée à hauteur du signal K-D.1 est une impulsion positive 
+• enregistrement de la vigilance du conducteur
+• le train s’arrête au PANG de Lot
+• l’impulsion enregistrée à hauteur du signal C-D.1 est une impulsion positive
+• enregistrement de la vigilance du conducteur
+• le train s’arrête au PANG de Buizingen
+• une accélération continue de la vitesse au départ du PANG de Buizingen pour atteindre la 
+vitesse de 90km/h, 
+• la vitesse au passage du signal est d’approximativement 60 km/h
+• qu’il n’y a pas d’impulsion à hauteur du signal H-E.124
+• le conducteur effectue un freinage quelques secondes avant l’impact
+• la vitesse de la rame au moment de la collision était d’environ 70km/h
+24	 En l’absence d’impulsion le conducteur n’a pas à vigiler
+
+## Página 89
+
+### 3.4.2.3	 Etude de la bande TELOC du 1707
+L’analyse de la bande de l’automotrice prélevé sur le train 1707 (en annexe 7.5), on peut constater :
+• l’impulsion enregistrée à la hauteur du signal O-H.1 est une impulsion positive : 
+• enregistrement de la vigilance du conducteur
+• le train décélère
+• l’impulsion enregistrée à la hauteur du signal O-N.1 est une impulsion positive 
+• Enregistrement de la vigilance du conducteur
+• décélération jusqu’à une vitesse d’environ 20 km/h
+• le train ré accélère
+• l’impulsion enregistrée à la hauteur du signal O-E.1 est une impulsion négative 
+• enregistrement de la vigilance du conducteur
+• freinage intervient très peu de temps, avant la collision
+• la vitesse de la rame au moment de la collision était d’environ 70 km/h
+### 3.4.2.4	 Matériel roulant du 3678
+L’automotrice 214 en tête du train N° E3678 appartient au type AM63 dont la mise en service et 
+l’autorisation de circuler remontent aux années 60.
+A l’époque de la construction des automotrices de type AM 63 (en 1963) et des voitures pilotes de 
+type M4ADx (en 1982), il n’y avait pas encore de réglementation en matière de sécurité passive.
+Au moment de l’accident l’arrêté du 20 juin 2008 prévoyait que le « Règlement général pour l’uti-
+lisation de l’infrastructure Ferroviaire, relatif au cahier des charges du matériel de l’utilisateur de 
+l’infrastructure Ferroviaire (RGUIF 2.1.1) restait globalement d’application à l’exception des deux 
+clauses abrogées.
+Selon le SSICF, il n’avait pas de raison légale au jour de l’accident pour interdire la circulation des 
+véhicules équipés uniquement du système gong sifflet étant donné que :
+• les automotrices de la série AM63 ont été mises en service avant la parution du RGUIF 2.1.1. ; 
+• le chapitre 2 du RGUIF n’a pas été abrogé par l’A.M. du 20 juin 2008.
+Une des clauses du RGUIF 2.1.1 qui restait en application était chapitre 2 « prescriptions tech-
+niques » qui en son alinéa 4 contient la disposition transitoire suivante :
+« Les matériels roulants existants, bénéficiant d’une autorisation de circulation sur l’infrastructure 
+ferroviaire belge avant la parution de ce document, continuent à bénéficier de cette autorisation. 
+Toutefois, le gestionnaire de l’infrastructure pourra imposer leur mise en conformité avec cer-
+taines exigences et plus particulièrement en cas de changement de propriétaire et/ou de remise 
+en service. »
+L’article 19.6.2 de l’annexe à l’ Arrêté Ministériels du 20 juin 2008 prescrit que : « sans préjuger du 
+§ 19.6.3 les véhicules doivent au minimum être équipé du système MEMOR »
+L’article 19.6.3.1 de l’annexe à l’ Arrêté Ministériel : « jusqu’au 31/12/2013 : aucune obligation pour 
+le matériel existant ».
+Le SSICF n’a cependant pas délivré d’autorisation de mise en service pour des véhicules équipés 
+uniquement du système Gong-Sifflet, il a interprété que l’automotrice 214 équipée du système 
+Gong-Sifflet était autorisée à circuler jusqu’en 2013. Les systèmes de gestion de la sécurité d’Infra-
+bel et SNCB prévoyant l’utilisation de ce matériel ont été acceptés.
+
+## Página 90
+
+Les automotrices AM 63, dont la 214, sont reprises sur cette liste 21A du LST tome III. 
+Celle-ci reprend le « matériel automoteur à voyageurs d’EF belges » autorisé à circuler en Belgique. 
+Le LST Tome III d’Infrabel constitue le Livret du Service des Trains et sa partie A reprend les « listes 
+communes à disposition des entreprises ferroviaires et du gestionnaire de l’infrastructure ».
+La SNCB utilise ce type d’automotrice électrique comme matériel automoteur à voyageurs de 
+référence pour un certain nombre de services et en particulier pour des trains omnibus.
+En février 2010, le nombre d’engins équipés du système gong sifflet représentait environ 11% du 
+nombre de véhicules de traction. En fonction des chiffres mis à notre disposition par la SNCB :
+Nombre total de véhicule de traction	
+1366
+Equipé de la fonctionnalité de la TBL1+	
+22
+Equipé de la fonctionnalité ETCS 	
+11
+Equipé de la fonctionnalité MEMOR/TBL1/TBL2 	
+1208
+Equipé de la fonctionnalité Gong Sifflet 	
+154
+Pour plus de compréhension, il est à noter que les divers équipements du système ferroviaire 
+belge ne sont pas tous interopérables entre eux.
+A titre d’exemple, une automotrice équipée du système TBL1 ou TBL2 ne peut lire les informa-
+tions au sol de la TBL1+.
+En date du 9.03.2010, Infrabel a interrogé le Secrétaire d’Etat à la Mobilité quant l’interprétation 
+de l’Arrêté Ministériel sur le caractère obligatoire du système MEMOR pour tout le matériel auto-
+risé à circuler sur les lignes conventionnelles. Ce besoin de confirmation étant double. Dans une 
+premier temps, Infrabel dispose encore de véhicules mis en servie avant 2003 non équipé du 
+système MEMOR. Dans un second temps, Infrabel doit adopter les règles de sécurité en matière 
+d’exploitation de l’infrastructure et les soumettre à l’avis conforme de l’autorité de sécurité.
+Dans son courrier, Infrabel indique que les auteurs de l’arrêté du 20 juin 2008 ont entendu impo-
+ser de manière générale le système MEMOR au matériel circulant sur le réseau belge au vu :
+• du texte clair utilisé dans l’article 19.6.2 
+• de l’article 19.6.1 qui impose au matériel roulant de disposer d’un système de répétition …. 
+Ainsi que l’appareillage d’enregistrement » 
+• que le renvoi général vers la disposition transitoire (RGUIF Chapitre 2 Prescriptions tech-
+niques) a dû être fait par inadvertance. La disposition transitoire s’insère dans un titre qui 
+est fondé sur une législation obsolète et devenue caduque (2003)
+• que le RGUIF 2.1.1 n’a pas été publié au Moniteur belge
+• qu’il parait difficile d’imaginer qu’une autorité publique, en 2008, a pu consciemment déci-
+der de laisser continuer à rouler du matériel non équipé d’un MEMOR, présenté comme le 
+système de base
+• que déjà dans les dispositions antérieures du RGUIF 2.1.1 qui ont été abrogées par l’arrêté 
+du 20 juin 2008, il était prévu un calendrier évolutif de déploiement des dispositifs d’aides 
+à la conduite.
+• que dans le contexte d’évolution et d’amélioration des normes, on peut comprendre 
+que les auteurs de l’A.M. du 20 juin 2008, en examinant l’état d’avancement du déploie-
+ment, aient décidé de mettre fin à tout régime transitoire permettant de ne pas utiliser de 
+MEMOR, cinq après qu’une telle exception ait été accordée.
+• que le RSEIF, livre 3 fascicule 3.2 (aide à la conduite) adopté par Infrabel et approuvé par 
+le SSICF « Tout engin moteur qui circule sur les lignes principales équipées de la signalisa-
+tion latérale doivent être équipés d’un dispositif de répétition des signaux en conformité 
+avec les prescriptions du Cahier des Charges du Matériel. Un dispositif de vigilance, asso-
+cié avec un dispositif d’arrêt automatique, est toujours intégré au dispositif de répétition. 
+Le fonctionnement des équipements de bord et la vigilance du conducteur doivent être 
+enregistrés» 
+
+## Página 91
+
+Elle conclut par « En toute hypothèse, même si la disposition transitoire du RGUIF 2.1.1 était 
+encore d’application, elle ne pourrait s’appliquer que suivant ses termes, c’est-à-dire que seul 
+pourrait en bénéficier le matériel roulant bénéficiant d’une autorisation avant le 24 juin 2003 et 
+en cours de validité aujourd’hui. »
+Le Secrétaire d’Etat a répondu dans un courrier daté du 25.05.2010 que « pour les raisons reprises 
+dans la lettre d’Infrabel, et afin de lever toute ambiguïté, je vous confirme que le système MEMOR est 
+en effet obligatoire aujourd’hui pour le matériel roulant circulant sur les lignes conventionnelles, sans 
+exception.
+La disposition transitoire du RGUIF 2.1.1 que vous mentionnez dans votre lettre ne permet plus, en 
+tout cas depuis l’entrée en vigueur de l’arrêté du 20 juin 2008, la circulation sur les lignes convention-
+nelles de matériel roulant non équipé du MEMOR.»
+En date du 28/08/2008, date de publication de l’Arrêté Ministériel du 20 juin 2008 :
+• le nombre d’engins équipés du système Gong sifflet au sein de la SNCB s’élevait au nombre 
+de 187 engins moteurs (annexe 7.12) soit un impact sur 12,3 millions de voyageurs,
+• le nombre d’engins équipés du système Gong sifflet (trains de travaux) au sein d’Infrabel 
+s’élevait au nombre de 74 (annexe 7.14), leur vitesse était limitée à 60km/h.
+En juin 2010 le parc opérationnel de la SNCB était de 100 automotrices type 62-65 équipées du 
+système gong-sifflet et 50 locomotives type 23 disposant du même type d’équipement assurant 
+de manière régulière des relations omnibus sur l’ensemble du réseau. Toutes les lignes ferro-
+viaires étaient parcourues par le matériel roulant équipé du système Gong-Sifflet à l’exception 
+des lignes à grande vitesse et des lignes exclusivement exploitées par du matériel automoteur 
+diesel (ligne 15, 19,58,86,122,132,15 et 166) soit un impact sur 10,4 millions de voyageurs.
+Le matériel d’Infrabel a en charge :
+• pour les locomotives : environ 95% de la traction des trains de travaux nécessaires à la 
+maintenance de l’infrastructure
+• pour les autorails caténaires : environ 30% des intervention de maintenance de la caténaire
+Au cours d’une réunion avec SNCB, Infrabel, le SSICF en date du 21 juin 2010 au Cabinet du 
+Secrétaire d’Etat, il a été décidé :
+• d’accélérer le plan de déploiement du système TBL1+ au plus tard pour fin 2013.
+• des dates limites d’installation de la modification « Ajout d’une lampe de mémorisation » : 
+le 30 mars 2011 pour les automotrices25  et le 30 septembre 2011 pour l’autre matériel.
+25	 La livraison des HLE18 et AM08 au sein de la SNCB diminuant l’impact des engins équipés du système «  gong-sifflet  ». 
+Cfr Chapitre V  «Mesures prise»
+
+## Página 92
+
+
+
+## Página 93
+
+### 3.5	 Documentation du système opératoire
+### 3.5.1	 Mesures prises par le personnel pour le contrôle du trafic et la 
+signalisation
+On appelle « itinéraire » le chemin qui permet la circulation d’un mouvement entre un signal 
+d’arrêt commandé et le premier signal d’arrêt ou panneau à respecter qui impose l’arrêt et qui 
+comprend en principe un ou plusieurs appareils de voie.
+Un itinéraire comprend généralement trois parties:
+• la première est située entre le signal d’amont et le premier appareil de voie;
+• la deuxième comprend les appareils de voie;
+• la troisième partie est située entre le dernier appareil de voie et le premier signal rencontré 
+ou panneau à respecter qui impose l’arrêt.
+Un « trajet » est le chemin constitué d’un ensemble d’itinéraires et de sections de block consé-
+cutifs à l’intérieur d’une même gare ou entre des gares différentes.
+Pour le système AAT (Annonce Automatique des Trains), un trajet est subdivisé en différents seg-
+ments. Un segment est une partie de voie ou tronçon de voie où les numéros de train peuvent 
+s’afficher. Les segments permettent à l’utilisateur de situer avec plus d’exactitude les mouve-
+ments sur la voie ou dans le tronçon.
+L’annonce automatique des trains a pour but :
+• de permettre l’automatisation de la commande de route et de la commande à l’ouverture 
+des signaux;
+• de permettre à l’utilisateur de suivre l’évolution des mouvements à l’intérieur de la zone EBP;
+• de transférer automatiquement les numéros des mouvements entre postes voisins;
+• de transmettre les données relatives au déroulement du trafic aux systèmes connectés 
+[régulation (régionale) du trafic, annonceurs à quai, sonorisation, etc.].
+Un tracé de route et une commande à l’ouverture d’un signal ne seront exécutés que si l’identi-
+fication du mouvement est le « premier mouvement » devant le signal.
+Les données « TR » permettent de saisir les informations relatives aux mouvements des trains.
+En dehors du tracé des routes et/ou de l’ouverture des signaux effectués par un utilisateur, le 
+système EBP peut réaliser automatiquement le tracé et/ou l’ouverture du signal. Ils seront réali-
+sés par le mouvement lui-même, lors de l’occupation de la zone d’approche (ZAP) du signal qui 
+couvre l’itinéraire.
+L’étendue de la zone d’approche (ZAP) est choisie de manière à ne pas perturber la circulation. 
+Elle commence immédiatement en aval du dernier signal qui ne répète pas le signal qui doit être 
+ouvert Le type de mouvement dépend de sa nature, de la signalisation de l’itinéraire à parcourir 
+et des possibilités d’exploitation (ex: manœuvre courte, manœuvre avec retour,...).
+Les conditions requises pour la mise au passage des signaux restent d’application lors de l’utili-
+sation des « commandes automatiques à l’ouverture ». 
+Dans ce type d’automatisme, c’est le train arrivant en premier à l’approche d’un signal qui prend 
+la main et réserve son itinéraire. Dans une gare de bifurcation telle que Hal, ce critère ne permet-
+tait pas de favoriser un train « prioritaire » qui aurait un léger retard. A l’époque de l’accident ces 
+automatismes n’étaient pas en service.
+
+## Página 94
+
+L’instruction Professionnelle – Partie spécifique EBP – Bruxelles Midi édition de janvier 2010, 
+donne la liste des signaux pour lesquelles un automatisme est réalisé dés qu’un utilisateur ac-
+quitte une ligne de mouvement relative à ces signaux si la zone d’annonce est occupée le signal 
+sera commandé à l’ouverture : le signal H-E.1 ne fait pas partie de cette liste.
+Ci après est repris un tableau avec les commandes de route, les mouvements, la chronologie 
+d’ouverture des signaux et l’avancement des deux trains E3678 et E1707 dans les différentes 
+sections parcourues.
+26 27 28 29 30 31 32
+Voie 
+Voie 
+Code 
+Heure
+Train
+Commandes
+information
+Evénement
+origine
+destination
+mouvt
+Train arrive 
+dans la zone 
+contrôlée par le 
+blok 1
+8 :14 :09
+E3678
+000
+013R
+VA
+8 :15 :01
+E3678
+000
+013R
+IT
+Entre dans la 
+8 :15 :01
+E3678
+IN_ZAP26
+LR
+zone d’approche 
+du signal LR
+8 :15 :04
+E3678
+START_EDIT
+LR >> 33 AUT 
+En grand 
+8 :15 :07
+E3678
+AUT27
+WW
+mouvement 
+8 :15 :13
+E3678
+ENDEDIT28
+8 :15 :14
+E3678
+CONFIRM29
+Fisrt SGV
+8 :15 :14
+E3678
+LINE_OP
+8 :15 :52
+E3678
+CONFIRM
+8 :16 :41
+E3678
+0132
+0131
+IT30
+Entre dans la 
+8:16:41
+E3678
+IN_ZAP
+KD 
+zone d’approche 
+du signal KD
+CD
+8:16:41
+E3678
+IN_ZAP
+LR >> 33 AUT 
+8 :17 :40
+E3678
+AUT
+AA
+8 :17 :42
+E3678
+ROUTE_UP31
+LR>>33
+8 :17 :48
+E3678
+SIG_CLEAR32
+LR>>33
+26	 IN_ZAP : Entre dans la zone d’approche du signal
+27	 AUT : Modifier l’automatisme d’une ligne de mouvement
+28	 ENDEDIT : Fin de la fonction d’édition de la ligne mouvement
+29	 CONFIRM : Confirmation d’une ligne de mouvement
+30	 IT : Transfert de numéro de train lors du passage entre 2 segments sur une voie
+31	 ROUTE_UP : Tracé de l’itinéraire
+32	 SIG_CLEAR : Commande ouverture du signal
+
+## Página 95
+
+Voie 
+Voie 
+Code 
+Heure
+Train
+Commandes
+information
+Evénement
+origine
+destination
+mouvt
+8 :17 :48
+E3678
+LR>>33
+013L
+033R
+RD33
+Large 
+8 :17 :48
+E3678
+013L
+033R
+VA34
+movement 
+8 :17 :50
+E3678
+ROUTE_UP
+KD>>351
+Ouverture signal 
+8 :17 :52
+E3678
+SIG_CLEAR
+KD>>351
+KD
+8 :17 :52
+E3678
+KD>>351
+033L
+351R
+RD
+Large 
+8 :17 :52
+E3678
+033L
+351R
+VA
+movement 
+Tracé de 
+8:17:54
+E3678
+ROUTE_UP
+CD >>341
+l’itinéraire 
+Ouverture du 
+8:17:56
+E3678
+SIG_CLEAR
+CD >>341
+signal CD 
+8 :17 :56
+E3678
+CD>>341
+351L
+341R
+RD
+Large 
+8 :17 :56
+E3678
+351L
+341R
+VA
+movement 
+Entre dans la 
+8:18:27
+E3678
+IN_ZAP
+HE 
+zone d’approche 
+du signal H-E.1
+8 :18 :27
+E3678
+Normal IT
+013L
+033R
+IT
+8 :19 :55
+E3678
+013L
+033R
+AR
+Entre dans la 
+8:23:01
+E3678
+IN_ZAP
+HN 
+zone d’approche 
+du signal HN 
+8 :23 :01
+E3678
+Normal IT
+033L
+351R
+IT
+8 :23 :36
+033L
+351R
+AR
+La ligne de 
+mouvement 
+8 :23 :47
+2 E1707 est 
+modifiée hors 
+de votre Zone 
+La ligne de 
+mouvement 
+2 E1707 est 
+8 :23 :47
+modifiée par 
+le desservant 
+4 dans votre 
+zone
+La ligne de 
+mouvement 
+8 :24 :07
+2 E1707 est 
+modifiée hors 
+de votre zone
+33	 RD : Itinéraire tracé- données d’itinéraire
+34	 Le train est pré-annoncé et va arriver sur la voie (il est dans la section d’amont et le signal est commandé à l’ouverture).
+
+## Página 96
+
+Voie 
+Voie 
+Code 
+Heure
+Train
+Commandes
+information
+Evénement
+origine
+destination
+mouvt
+La ligne de 
+mouvement 
+2 E1707 est 
+8 :24 :07
+modifiée par 
+le desservant 
+4 dans votre 
+zone
+Entre dans la 
+8:24:31
+E1707
+IN_ZAP
+OE 
+zone d’approche 
+du signal OE 
+Aut A-A 
+HH>>83 AUT 
+Tracé aut 
+8:24 :32
+E3678
+AUT
+AA
+Commande du 
+signal Aut
+Entre dans la 
+8:25:31
+E3678
+IN_ZAP
+HH
+zone d’approche 
+du signal HH 
+8 :25 :31
+E3678
+Normal IT
+351L
+341R
+IT
+8 :26 :04
+E3678
+351L
+341R
+AR
+Tracé de 
+8:26:12
+E1707
+ROUTE_UP 
+l’itinéraire OE 
+L98 VB -> L96 N
+Ouverture du 
+8:26:21
+E1707
+SIG_CLEAR
+OE
+signal OE
+Entre dans la 
+8:26:26
+E1707
+IN_ZAP
+DR
+zone d’approche 
+du signal DR
+8 :26 :38
+E1707
+CONFIRM
+8 :26 :40
+E3678
+CONFIRM
+Franchissement  
+8:27:46
+E1707
+du signal OE1
+Pédale ou 
+compteur 
+-> train foule la 
+8:27:55
+d’essieux HE 
+pédale 
+dérangée
+Appareil de 
+manœuvre 
+8:28:19
+44AE - 
+Messages 
+position 
+GAUCHE - pas 
+de contrôle
+ROUTE_UP 
+Tracé de 
+8:29:52
+E1707
+DR
+l’itinéraire DR
+SIG_CLEAR 
+Ouverture du 
+8:29:57
+E1707
+DR
+signal DR
+
+## Página 97
+
+## 3.5.1.1	
+### Etude des commandes du logbook
+La séquence normale de succession des trains n’a pu être appliquée en raison du conflit de prio-
+rité entre les trains E1557 et E1707. 
+C’est le retard accumulé par les deux trains qui apporte le conflit de priorité.
+Le train 1707 passe à hauteur de la gare de Hal à 8h 26 au lieu de 8h16.
+Le train E1557 arrive en gare de Hal à 8h26 au lieu de 8h22 et redémarre à 8h27 au lieu de 8h23 
+soit avec 4 minutes de retard. Les deux trains doivent être dirigés vers Bruxelles.
+La solution retenue par le signaleur permet :
+• la résolution du conflit de priorité entre les deux trains E1707 et E1557 
+• le passage d’un autre train en voie 3 au PANG de Buizingen
+• impose la retenue du train E3678 devant le signal H-E.1.
+L’étude montre que
+• Il n’y a pas de tracé d’itinéraire au-delà du signal H-E.1 pour le train 3678
+• le signal  H-E.1 n’a pas été commandé à l’ouverture.
+Il n’y a pas d’enregistrement de modification ou d’annulation d’itinéraire concernant le train 3678.
+Nous avons demandé plusieurs mois après l’accident, une liste des modifications et mises à jour 
+intervenues au niveau du software.
+La logique du système ne permet pas l’ouverture du signal H-E.1 suite à la présence d’un itiné-
+raire cisaillant et en fonction des informations reçues par Infrabel aucune modification du logi-
+ciel n’a été réalisée pour modifier cette logique.
+## 3.5.1.2	
+### Etude des messages du logbook
+Le logbook indique, en autres, les messages d’alarme enregistrés dans le module :
+8h27:55 « Pédale ou compteur d’essieux HE – dérangée – Appelez ELM si les nécessités d’exploi-
+tation l’exigent ». Ce message indique que la pédale a été foulée par un train dont l’itinéraire 
+n’avait pas été tracé ce qui donne un message d’erreur au niveau de la cabine de signalisation.
+8h28:19 « Appareil de manœuvre 44 AE – position gauche – pas de contrôle ». Ce message in-
+dique la perte de contrôle de l’aiguillage 44AE suite aux dégâts causés par l’accident.
+Il n’y a pas de message direct pour prévenir du dépassement de signal fermé. C’est la conjonc-
+tion des deux messages qui permet de déduire cette information. 
+ Lorsque le contrôle de fermeture d’un signal commandé n’est plus obtenu, le système applique 
+automatiquement un cas du tableau 4 sur le côté de la voie qui y donne accès. Un message 
+apparaît alors dans la fenêtre des messages de l’écran de dialogue. 
+Aucun message n’a été reçu concernant la perte de contrôle à la fermeture.
+Le signaleur/opérateur a reçu l’information à 8h27:55 que la pédale H-E.1 était dérangée soit 
+environ 25 secondes avant l’impact. Il lui était donc difficile d’agir pour stopper le train.
+Cependant nous nous sommes intéressés à l’existence d’une procédure qu’un signaleur/opéra-
+teur entre en contact avec un conducteur de train.
+
+## Página 98
+
+La procédure est la suivante :
+• introduire numéro de train à l’écran
+• se connecter au logiciel Kuberna
+• apparait le numéro de GSM du conducteur s’il s’est encodé dans le système lors de sa prise 
+de service
+• appeler le conducteur
+La procédure n’est certainement pas réalisable en 25 secondes
+Différentes fiches d’alarme existent notamment pour un poste de signalisation ou pour un régulateur.
+Le signaleur dispose :
+• d’une fonction SDG35  dont le but est de ne plus autoriser l’accès de nouveaux trains dans la 
+zone impactée.
+• de la fonction CSTR qui concerne la fermeture d’urgence des signaux de tronçon de voie.
+A l’application de la fonction CSTR :
+• En principe, tous les signaux automatiques du tronçon concerné sont fermés et/ou main-
+tenu fermés ;
+• Un tableau 3 est placé sur la voie concernée
+• Un éventuel signal ouvert pour un itinéraire donnant accès à la voie (tronçon) concernée 
+est soit automatiquement fermé par les système EBP soit fermé au moyen de la fonction 
+auxiliaire SDG, exécutée par l’utilisateur sur demande du système EBP.
+Ni le poste de signalisation, ni le régulateur de ligne n’ont l’autorisation de couper l’alimentation 
+de la caténaire en cas d’extrême urgence. Ils doivent prendre contact avec le répartiteur ES cou-
+rant de traction de la zone qui lui peut couper l’alimentation électrique.
+## 3.5.1.3	
+### Etude des fonctions auxiliaires du logbook 
+Les entrées et sorties dans la salle à relais de la cabine 7 de Hal sont contrôlées et enregistrées. 
+Pour entrer dans la salle à relais, une demande d’autorisation est toujours inscrite dans le log-
+book n°E934 (S427). La demande doit inclure le nom du demandeur, et la raison de l’intervention. 
+Chaque entrée et sortie dans la salle à relais est ensuite enregistré dans le logbook. Il y a toujours 
+une alarme quand le système est en défaut ou que quelqu’un pénètre dans la salle, avec ou sans 
+consentement.
+Pour la période considérée, il n’y a pas d’enregistrement d’ouverture de la porte de la salle à relais. 
+La vérification du numéro de plomb scellant la salle à relais d’une part et des numéros de registre 
+des déplombages d’autre part montre une concordance entre ces numéros. On peut donc rai-
+sonnablement affirmer que personne n’est entré dans la salle à relais N°7 de Hal le 15 février 2010 
+entre 6h et le moment de l’accident.
+## 3.5.1.4	
+### Etude des « fonctions de secours »
+Le CV où circuit de voie est un équipement électrique qui permet entre autres de constater la 
+présence d’engins ferroviaires lourd sur une partie bien déterminée d’une section de voie.
+Lorsqu’un tracé est enclenché, le système empêche le retrait de ce tracé sauf par l’activation des 
+fonctions de secours en cas d’absolue nécessité. 
+L’utilisation inadéquate des fonctions de secours peut compromettre la sécurité du trafic ferro-
+viaire. Ces fonctions sont seulement disponibles pour un utilisateur ayant les compétences de 
+surveillant. Le démarrage d’une fonction (de secours) ne provoque pas son exécution immédiate. 
+35	 SDG : Sein Dringend Gesloten
+
+## Página 99
+
+La fonction vérifie les conditions (de sécurité) à satisfaire avant de l’exécuter. Si une ou plusieurs 
+de ces conditions sont absentes, la fonction indique à l’utilisateur les conditions à vérifier ou les 
+mesures à prendre. La fonction sera effectivement exécutée après réponse et confirmation aux 
+questions posées. 
+Suite à l’étude du logbook, il n’y a aucune trace des fonctions de secours du type :  NT ; NISR ; …36
+### 3.5.2	 Echange de messages verbaux en relation avec l’événement, y compris 
+la documentation provenant des enregistrements
+Aucune communication n’a eu lieu le jour de l’accident vers ou au départ du train 3678 ou 1707.
+Les conversations existantes sont celles du conducteur du train 1552 qui s’est arrêté à proximité 
+de l’accident et du conducteur du train stationné en gare de Hal.
+L’étude des enregistrements n’apporte aucun élément sur les circonstances de l’accident.
+### 3.5.3	 Mesures prises pour protéger et sauvegarder le site de l’événement
+Le gestionnaire de l’infrastructure est le premier sur les lieux et à la responsabilité première de 
+conserver le site jusqu’à l’arrivée des services de secours et de police.
+La police et la police des chemins de fer ont sécurisé le site en plaçant un périmètre de sécurité 
+autour des voitures accidentées vers 10h30, pour que les services de secours puissent travailler 
+d’une façon ordonnée.
+Elles limitent l’accès du site au service de secours et technicien pour sécuriser la zone (mise à la 
+terre, …). Cependant, la zone de couverture du site était insuffisante car :
+• elle n’incluait pas la loge du signal H-E.1; 
+• le crocodile et signal incriminés ne faisaient pas partie de la zone de couverture par la police.
+Cette situation a permis au gestionnaire de mesurer certains composants de l’infrastructure sans 
+en demander l’autorisation et à d’autres personnes de réaliser des photos du câblage.
+Dans le début d’après midi les scellés ont été mis sur l’armoire et les lampes du signal ont été saisies.
+36	 NT : pour la suppression d’un enclenchement de route 
+NISR : utilisée pour lever la fonction ISR
+
+## Página 100
+
+### 3.6	 Interface Homme-Machine-Opération
+### 3.6.1	 Données concernant les conducteurs
+## 3.6.1.1	
+### Conducteur du train 3678
+Le conducteur a reçu sa certification initiale de conducteur en date du 7/11/2008.
+Sa licence de conducteur lui avait été délivrée en date du 18/11/2008 et était valable jusqu’au 
+6/11/2011.
+En date du 19/11/2008, il a reçu les attestations nécessaires de :
+• connaissance des lignes (96 A->N),
+• connaissance du matériel roulant (AM63).
+Par conséquent il possédait les attestations nécessaires.
+Par ailleurs il a reçu une formation permanente
+• FP1 du 19/10 au 22/10/2009
+• FP3 du 27/O4 au 30/09/2009
+• F Spec Regl le 23/10/2009
+• SIMPACT les 28/04/2009 et 20/10/2009
+En date du 23.03.2009, il avait dépassé le signal d’arrêt simplifié H928D au niveau du grill en 
+amont du nouveau carwash de Forest en voie secondaire. Comme cela est prévu dans le cas d’un 
+franchissement de signal fermé, le conducteur s’est vu retirer sa licence avec la nécessité d’une 
+re-certification.
+Il a subi une re-certification en date du 4 /05 /2009.
+La re-certification consiste en:
+• Un cours théorique
+• Une évaluation orale avec des instructeurs
+• Une évaluation médicale et psychologique
+Sa licence lui a été re-délivrée en date du 14/05/2009, la date d’expiration ne change pas.
+Le conducteur possédait donc les qualifications et certifications nécessaires à la prestation réali-
+sée le jour de l’accident.
+Au-delà de cet aspect réglementaire on peut considérer que sa connaissance de ligne était suf-
+fisante pour qu’il dispose des automatismes évoqués au paragraphe 3.6.4.1 - Perception d’un 
+signal et connaissance de ligne. 
+## 3.6.1.2	
+### Conducteur du train 1707
+Sa licence de conducteur lui avait été délivrée en date du 15 mai 2009 et était valable jusqu’au 
+2/07/2012.
+Il possédait les attestations nécessaires de :
+• connaissance des lignes (96A->N),
+• connaissance du matériel roulant (M4).
+
+## Página 101
+
+### 3.6.2	 Temps de travail du personnel impliqué
+## 3.6.2.1	
+### Impact potentiel de la fatigue
+Prestation du jour de l’accident 15/02/2010 et impact potentiel sur le niveau de vigilance du 
+conducteur du train E3678
+Le service du 15 février 2010 est une prestation du matin : heure de prise de service 5h30, heure 
+prévue de fin de service : 13h00. Concernant le service du 15/02/10, le conducteur du train E3678 
+déclare : « Ce jour là, je me suis levé à 03.30 heures afin de me rendre sur mon lieu de travail. Je vous 
+signale que j’avais passé une bonne nuit et que le jour précédent j’étais en repos. ». Le conducteur du 
+train E3678 est né le 25 février 1978 et a donc presque 32 ans au moment de l’accident.
+Nous n’avons pas d’indication sur l’heure de coucher du conducteur le 14/02/10. 
+Nous n’avons pas les données permettant de caractériser le profil du conducteur en termes de 
+sommeil (Besoin de sommeil : petit/gros dormeur ? Typologie : plutôt du matin/plutôt du soir ? 
+Apnées nocturnes ou pas ?).
+Par ailleurs, nous ne connaissons pas les activités du conducteur dans les jours précédents ni les 
+durées de sommeil des nuits précédentes.
+Les seuls éléments factuels disponibles sont :
+• l’heure de l’accident : vers 8h28
+• l’heure déclarée de réveil le 15/02/10 : 3h30
+En se basant sur les éléments factuels disponibles, on peut émettre les inférences suivantes :
+L’accident a eu lieu environ 5 heures après l’heure de réveil déclarée. A ce titre, on peut écarter un 
+effet éventuel d’inertie du sommeil.
+L’accident a eu lieu en dehors des deux fenêtres connues de baisse de vigilance : en début d’après-
+midi entre 13h et 15h (et ce indépendamment du déjeuner) et la nuit entre 2h et 5h du matin ; 
+ces périodes étant propices aux pics de somnolence. On peut donc écarter le facteur de risque de 
+baisse circadienne de vigilance. 
+Compte tenu des études scientifiques sur le sommeil (notamment de Folkard et Åkerstedt37), 
+on sait qu’un lever tôt - et ce indépendamment de la gestion personnelle du sommeil - induit 
+une privation de sommeil physiologique qui peut se traduire en manifestations d’hypovigilance. 
+Cette privation de sommeil est liée au fait qu’il est physiologiquement difficile (voire impossible) 
+d’avancer son heure d’endormissement. Ainsi, pour ce matin là, on peut inférer que le conducteur 
+s’étant levé à 3h30 n’avait pas un niveau de vigilance optimal. 
+Rotation des prestations antérieures au jour de l’accident et impact potentiel sur le niveau de 
+vigilance du conducteur du train E3678
+Les rotations antérieures au jour de l’accident pourraient, par leur rythme, leur durée et leur sens 
+de rotation, impacter le niveau de vigilance du conducteur le jour de l’accident. Nous avons donc 
+souhaité vérifier si le planning tel qu’il est organisé par la SNCB, et pour les services affectés au 
+conducteur du train E3678 ont pu potentiellement créer des conditions défavorisantes à la vigi-
+lance. Pour cela, nous avons utilisé le logiciel prédictif Fatigue and Risk Index (FRI).
+37	 Folkard, S.and Åkerstedt, T.- A three-process model of the regulation of alertness-sleepiness. In R. J. Broughton & R. D. Ogilvie (Eds.), Sleep, 
+Arousal,and Performance (1991).,. 11-26. Boston A : Birkhäuser
+
+## Página 102
+
+Ce logiciel, développé par Folkard et coll. (2007)38, résulte de l’association et de la réactualisation 
+de deux échelles antérieures : le HSE (Health and Safety Executive) Fatigue Index et le Risk Index. 
+L’objectif de ce modèle est de fournir un outil simple pour évaluer des horaires de travail et com-
+parer plusieurs types de grilles de services. Le FRI est largement utilisé dans le domaine ferroviaire 
+au Royaume-Uni et commence à être employé dans le secteur industriel. 
+L’indice de fatigue obtenu correspond à la probabilité exprimée en pourcentage d’obtenir un 
+score élevé (c’est-à-dire supérieur à 7) à l’échelle de somnolence KSS (Karolinska Spleepiness 
+Scale). Ce niveau de 7 correspond statistiquement à l’apparition de signes physiologiques de 
+micro-sommeils pendant l’éveil. L’échelle KSS varie de 1 (totalement éveillé) à 9 (très somnolent). 
+Nous avons donc évalué le risque fatigue associé au planning des prestations réalisées par le 
+conducteur du train E3678 sur la période des 45 jours précédant l’accident (du 01/01/2010 au 
+15/02/2010). La période considère l’ensemble des plages de service du 1er janvier au 14 février 
+2010 ainsi que la plage de service prévue pour le service du 15 février 2010 (de 5h30 à 13h00). 
+Prendre l’heure théorique de fin de service du 15/02/10 donne l’indice maximum de fatigue qui 
+aurait pu résulter de ce service. Sachant que l’accident a eu lieu vers 8h28, la durée du service a 
+été d’environ 3 heures au lieu des 7 heures 30 prévues.
+Les résultats du test FRI (Figure 2 : Représentation de la prestation réalisée par le conducteur du 
+train n°3678 sur la période des 45 jours précédant l’accident de Buizingen (du 01/01/2010 au 
+15/02/2010) – Test FRI / Fatigue) montrent un niveau de fatigue estimée relativement bas le jour 
+de l’accident : l’indice obtenu est de 11,8 (pour le service complet – index tombant à 4,3 du fait de 
+la durée écourtée de service). En dehors des aspects de gestion personnelle du sommeil, on fait 
+ainsi le constat que le planning des prestations affectées au conducteur du train E3678 n’induit 
+pas de dette cumulée de sommeil sur les services précédant le jour de l’accident (15 février 2010).
+38	 Folkard, S., Robertson, K.A., Spencer, M.B., (2007) A Fatigue/Risk Index to assess work schedules. Somnologie. 11 (3), 177-185. 
+http://www.hse.gov.uk/research/rrhtm/rr446.htm
+Akerstedt, T., Gillberg, M., (1990). Karolinska Institute, Stockholm, Sweden.
+
+## Página 103
+
+Représentation de la prestation réalisée par le conducteur du train n°3678 sur la période des 45 jours 
+précédant l’accident de Buizingen (du 01/01/2010 au 15/02/2010) – Test FRI / Fatigue
+### 3.6.2.2	 Conclusion 
+L’organisation théorique du planning des prestations sur les 45 jours ayant précédé l’accident 
+n’induit pas en soi de dette cumulée de sommeil et donc ne majore pas le niveau de fatigue du 
+conducteur.
+En revanche, le niveau de vigilance du conducteur du train E3678 pourrait être un facteur contri-
+butif au titre de la privation de sommeil induite par le lever à 3h30 pour la prise de poste le matin 
+de l’accident. Il est important de distinguer vigilance et attention : être attentif requiert forcément 
+un certain niveau de vigilance, mais être vigilant ne signifie pas forcément faire attention. 
+En résumé, être vigilant est une condition nécessaire mais pas suffisante pour être attentif au bon 
+objet au bon moment.
+
+## Página 104
+
+3.6.3	 Circonstances médicales et personnelles ayant influencé l’événement, 
+y compris l’existence de stress physique ou psychologique
+## 3.6.3.1	
+### Dimensions physiologiques
+Nous avons souhaité vérifier les aspects pouvant impacter la perception du signal H-E.1, à savoir :
+• Vision/discrimination des couleurs : à l’admission puis au cours de vérifications régulières
+• Alcoolémie du jour de l’accident et traces de prises régulières d’alcool
+• Drogues (traces au jour de l’accident et traces de prises régulières)
+• Médicaments susceptibles d’affecter la vigilance (ex : antidépresseurs) qu’il s’agisse de pres-
+cription médicale ou d’automédication
+La procédure d’accès au dossier médical du conducteur du train E3678 (22 mois après l’accident) 
+est à ce jour toujours en cours.
+Néanmoins, d’après les témoignages de ses supérieurs hiérarchiques, le conducteur du train du 3678 
+est une personne menant une vie saine. Il n’est ni fumeur ni buveur et est apprécié par sa hiérarchie. 
+### 3.6.3.2	 Stress et pression du temps
+Le 15/02/2010, le conducteur du train E3678 a accepté d’assurer le service n°103 au lieu du service 
+106 pour pallier l’absence d’un collègue. Initialement, ce conducteur commençait son service à 
+5h30 avec un premier train à 6h11. En revanche, le premier train du service 103 (le 3755) était 
+prévu à 5h39 au départ de Braine-le-Comte.
+Le conducteur est parti de Braine-le-Comte avec le train 3755 à 5h43 soit avec 4 minutes de retard 
+sur l’horaire prévu. Ces 4 minutes de retard en début de service ont été rattrapées progressive-
+ment jusqu’à Leuven où le train est arrivé à l’horaire prévu (7h05). A Leuven, le conducteur a réa-
+lisé l’accouplement de deux automotrices puis a continué le service n°103 à bord du train 3678 
+avec un départ de Leuven à 7h23 comme le prévoit l’horaire.
+Ce changement de service de dernière minute aurait pu générer du stress, de la précipitation et 
+un manque de temps pour réaliser la préparation de départ. En effet, le conducteur n’a eu que 
+13 minutes entre sa prise de service (5h30) et le départ effectif (5h43) de Braine-le-Comte. Mais 
+les transcriptions des auditions réalisées auprès du conducteur du train 3678 et de la personne 
+en charge de la Permanence le jour de l’accident ne font mention d’aucune de ces conséquences 
+dans ce qu’a ressenti le conducteur. 
+## 3.6.4	
+### Conception des équipements ayant un impact sur l’interface Homme-Machine
+Trois dispositifs au moins sont concernés par l’accident :
+• Le grand signal d’arrêt H-E.1 et son signal avertisseur C-D.1 : la signalisation constitue l’élé-
+ment fondamental de la sécurité en protégeant l’accès à une voie occupée ;
+• Le dispositif signalant au conducteur que les opérations de débarquement/embarquement 
+sont terminées : il contribue à la genèse de la décision de départ pour le conducteur;
+• Le système de surveillance de la réception des signaux dans le poste de conduite : il émet un 
+son caractéristique (gong) à chaque passage de signal (vert), permet au conducteur de véri-
+fier que son système de réception de l’information dans le poste de conduite fonctionne bien. 
+Nous examinons donc successivement dans ce qui suit l’interaction du conducteur avec ces trois 
+équipements.
+
+## Página 105
+
+## 3.6.4.1	
+### Perception d’un signal et connaissance de ligne
+Pour structurer leur activité de perception de signaux, les agents utilisent les informations dis-
+ponibles dans leur mémoire (procédure mémorisée), dans les documents de travail s’ils existent 
+(procédures, gammes, do-lists, check-lists, etc.) et dans l’environnement. Ils développent des « cir-
+cuits visuels » qui soutiennent leur mémoire en utilisant un certain ordre du monde pour repré-
+senter l’ordonnancement de leurs actions. On parle « d’action située » pour signifier qu’une partie 
+de l’organisation de l’action est dès lors comme « prise en charge » par l’environnement. On parle 
+de « cognition distribuée » pour signifier que le couplage opérateur-environnement constitue un 
+véritable « système cognitif », où la représentation des connaissances est à la fois dans la « tête du 
+sujet » et dans les artefacts qui l’entourent et qu’il met au service de sa représentation (on dit que 
+les experts « asservissent » leur environnement). 
+D’où l’importance de la connaissance de la ligne pour la perception correcte des signaux par les 
+conducteurs de train. Au-delà de la connaissance de ligne « académique » qui permet de mémo-
+riser le repérage des signaux, certains conducteurs s’appuient sur des repères qu’ils choisissent 
+dans l’environnement proche du signal pour se préparer au mieux à la perception d’un signal. Il 
+peut s’agir d’un passage à niveau, d’un bâtiment ou de tout autre élément durable et facilement 
+identifiable à proximité du signal. Ainsi, chaque conducteur a ses propres points de repères, cer-
+tains préférant plutôt utiliser les balises prévenant de la présence d’un signal. (N’ayant pas eu 
+accès au conducteur du train 3678, nous n’avons pas pu lui demander s’il dispose d’un repère 
+particulier concernant le signal H-E.1). 
+### 3.6.4.2	 Effet de l’arrêt au pang
+La présence de signaux avertisseurs (double jaune) prévient les conducteurs de la rencontre pro-
+bable d’un signal fermé. Ceci leur permet d’adapter leur vitesse et déclenche un processus atten-
+tionnel de recherche du signal principal, basé sur leur connaissance de sa position (connaissance 
+de ligne) et de l’inter-distance nominale entre signaux avertisseurs et signaux d’arrêt.
+Mais cette information « double jaune » est enregistrée dans la mémoire à court terme, qui ne 
+conserve les informations que quelques secondes (la seule façon d’augmenter cette durée serait 
+d’entretenir la mémorisation en la répétant, comme on se répète les chiffres du code que l’on 
+doit aller numéroter dans la pièce d’à côté). Ceci n’a pas d’importance en situation normale, car le 
+double jaune active la routine de recherche du signal rouge, qui ne s’arrête que lorsque le signal 
+est en vue. 
+Mais dans les cas où, comme à Buizingen, le signal avertisseur est implanté avant le PANG et le 
+signal d’arrêt après le PANG, l’arrêt au PANG rompt cette séquence de recherche et augmente 
+considérablement le risque d’oublier l’avertissement donné par un double jaune. N’importe 
+quel événement survenant lors de l’arrêt au PANG favorise l’oubli du signal avertisseur et de son 
+message. Conscients de ce « piège », les conducteurs mettent en place différentes astuces pour 
+mémoriser le double jaune malgré l’interruption que génère l’arrêt au PANG. La plupart d’entre 
+eux coupent la traction, certains utilisent des fiches prévues à cet effet d’autres encore préfèrent 
+réduire la puissance pour être sûrs de ne pas redémarrer à pleine vitesse. Dans ses différentes 
+dépositions, le conducteur du train 3678 déclare avoir coupé la traction à l’arrêt au quai de Bui-
+zingen. Mais cela n’a pas suffi à conserver la séquence attentionnelle active.
+
+## Página 106
+
+### 3.6.4.3	 Effet de la densité du trafic
+La densité du trafic a un impact sur la signalisation et par conséquent également un impact sur la 
+conduite. Lorsque le trafic est dense, les signaux avertisseurs sont plus souvent en position « double 
+jaune » et les signaux d’arrêt sont plus souvent fermés. Néanmoins, pour assurer la fluidité et la 
+régularité du trafic, les opérateurs de la cabine de signalisation essaient autant que possible de 
+ne pas immobiliser un train devant un signal fermé. Lorsqu’ils sont confrontés successivement à 
+plusieurs signaux en position double jaune, les conducteurs parlent de « rouler sur du jaune ». 
+« Rouler sur du jaune » n’implique donc pas l’arrêt à chaque signal. Au contraire, il s’agit plutôt de 
+rouler vers un signal qui est signalé comme fermé par son avertisseur mais qui passe au vert le 
+temps qu’on avance vers lui. En 2009 les analyses des bandes de vitesses montrent que les circu-
+lations sur « double jaunes » sont fréquentes en heure de pointe.
+Les conducteurs interrogés s’accordent pour dire que « rouler sur du jaune » est plus risqué que 
+circuler en ayant des signaux ouverts car lorsqu’un conducteur « roule sur du jaune » pendant 
+plusieurs kilomètres l’association cognitive double jaune - rouge est rompue et l’intensité de l’at-
+tente d’un signal rouge diminue. Il est même alors possible, si la situation se répète suffisamment, 
+que le conducteur s’attende après un double jaune à ce que le signal suivant passe au vert. 
+Ce type de phénomène est plus particulièrement présent pour les prestations de type « omni-
+bus » (par opposition aux trains directs) qui ne sont pas prioritaires. Les prestations réalisées par 
+les agents de conduite du dépôt de Braine-le-Comte sont essentiellement des Omnibus. Ces pres-
+tations ne permettent pas aux conducteurs de rouler à grande vitesse, les nombreux arrêts en 
+gare et aux PANG nécessitant d’être toujours en accélération/décélération. Lors des entretiens 
+réalisés, ces prestations ont été comparées à celles d’un « conducteur de métro », ce qui n’est pas 
+considéré comme valorisant pour les conducteurs de train. (Un certain nombre de conducteurs 
+du dépôt de Braine-le-Comte a d’ailleurs fait part du souhait de changer de dépôt en évoquant 
+un désintérêt pour ce type de prestation). Cette démotivation et la réalisation d’actions répétitives 
+lors des prestations réalisées entraine une activité routinière, par définition moins attentive, ce qui 
+peut renforcer les risques liés à une conduite « sur du jaune » évoqué ci-dessus. 
+Par contre, la fermeture signal H-E.1 à l’heure de l’accident, pour un train non prioritaire tel que 
+l’était l’omnibus 3678, n’était pas une situation inhabituelle pour son conducteur. La tranche ho-
+raire dans laquelle est survenue l’événement (entre 8h et 9h du matin) est considérée comme une 
+heure de pointe. La densité du trafic est davantage perçue par les conducteurs dans le sens Bui-
+zingen > Bruxelles car de nombreux trains affluent vers la gare de Bruxelles Midi, celle-ci pouvant 
+alors devenir un goulet d’étranglement. Néanmoins, la densité de trafic dans un sens peut avoir 
+des impacts sur les conducteurs de train circulant en sens inverse. Ainsi, on considère que le trafic 
+dans la zone de Buizingen à cet horaire est dense dans les 2 sens. Et selon les conducteurs inter-
+rogés, pour un train omnibus à cet horaire, le signal H-E.1 avait une plus grande probabilité d’être 
+fermé qu’ouvert. En effet, la zone de Buizingen possède de nombreux embranchements dont la 
+ligne 96 et la ligne 96N. Cette zone permet donc aux signaleurs de réguler le trafic en laissant par 
+exemple passer un train direct devant un train omnibus.
+### 3.6.4.4	 OT et conditions de départ
+L’information « Opérations Terminées » (OT) indique au conducteur que les opérations liées au 
+stationnement en gare ou au PANG sont terminées (débarquement /embarquement des pas-
+sagers, heure de départ atteinte et portes fermées). L’information « Opérations Terminées » est 
+l’une des deux conditions nécessaires au départ, l’autre condition étant la voie libre donnée par la 
+signalisation. Cette information est transmise au conducteur par le chef de bord, suivant diverses 
+modalités qui dépendent du matériel roulant et de l’équipement de la gare/du PANG : « lampe 
+porte » en cabine de pilotage, « marguerite (IOT)». 
+
+## Página 107
+
+Par ailleurs, cette diversité se combine à celle qui caractérise la localisation du signal de voie libre. 
+Dans certains cas il est situé immédiatement en sortie de gare, dans d’autres cas il est situé au-
+delà de 300m, distance à partir de laquelle la réglementation considère qu’il n’est plus visible.
+Cette diversité de modalités de communication aux conducteurs des informations de départ 
+favorise les confusions et les erreurs sur le départ. La fourniture éventuelle de l’information OT 
+avant que la voie ne soit libre, et indépendamment du signal de voie libre, favorise le déclenche-
+ment intempestif de la routine mentale de départ. 
+En effet le mode « normal » (fréquent) est : la voie est libre, le projet d’action du « départ » est 
+« armé » mentalement, l’information d’OT le déclenche. 
+Le mode « exception » (plus rare) est le processus inverse : les opérations sont terminées, le projet 
+d’action du départ est « armé », le signal voie libre le déclenche. 
+Dans ces conditions la probabilité de déclenchement intempestif du départ par le déclencheur 
+du mode « normal » (l’information OT) alors qu’on est dans le mode « exception » est élevée. Il 
+s’agit de mécanismes cognitifs, décrits notamment par D. Norman (1981)39, qui concernent glo-
+balement les ratés de l’activation (erreurs de capture, erreurs de séquencement) ou les ratés de 
+réalisation (contrepèteries, mélanges d’actions). Dans les « erreurs de capture », une routine do-
+minante (plus fréquemment utilisée) prend à tort le relai de la routine activée et qui comporte un 
+début identique (par exemple prendre la voiture au garage le dimanche matin pour se rendre au 
+stade, et se retrouver au bureau comme tous les jours de la semaine). Dans les contrepèteries, des 
+éléments d’action sont intervertis à l’intérieur d’une procédure (ex début et fin intervertis). Dans 
+les mélanges d’action, des éléments d’action sont échangés entre deux procédures différentes. 
+Il est toujours difficile, et impossible ici en l’absence de collaboration du conducteur concerné, de 
+définir précisément le mécanisme qui a joué. Néanmoins, dans le cas de Buizingen et du conduc-
+teur du train 3678, on est bien dans les conditions d’erreur décrites précédemment. L’information 
+OT a été reçue par la lampe porte et le signal de voie est situé à environ 335m du conducteur. Il 
+était presque certain que le signal était rouge lorsque l’information OT a été donnée. 
+Les conducteurs interrogés lors des entretiens confirment que sur la grande quantité d’arrêts en 
+gare/au PANG qu’ils effectuent durant un service, il est possible que l’OT puisse être considéré 
+parfois comme une autorisation de départ. Dans certains cas l’analyse d’événement a pu explici-
+tement incriminer l’interférence entre signal OT et départ. Les statistiques de dépassements de 
+signaux de 2008 à 2010 identifient certains cas de dépassement qui ont pour explication cette 
+confusion. A titre d’exemple : 
+- en 2008 : 2 dépassements de signaux ont pour cause un « départ à la lampe porte »
+- en 2009 : 1 dépassement de signal a pour cause le « départ suite à l’information verbale du 
+chef de bord »
+- en 2010 : la cause d’un dépassement de signal est notée « départ à l’obtention de la lampe 
+porte » et un autre « interprétation erronée de l’IOT ».
+39	 Norman, Donald A. «Categorization of Action Slips,» Psychology Review 88:1, pp. 1-15 (1981).
+
+## Página 108
+
+### 3.6.4.5	 Perception du réel et représentation mentale d’une situation
+Une étude des statistiques de dépassements de signaux réalisée par la Direction Sécurité du Fret 
+de la SNCF (France) à partir des bases de données REX montre que 46% des jeunes conducteurs 
+ayant franchi un signal pensent que ce dernier était ouvert. Il ne s’agit pas nécessairement comme 
+on pourrait le penser d’un mensonge défensif, mais plutôt de la mise en cohérence rétrospective 
+par la mémoire de la conscience (erronée) de la situation et de sa perception physiologique, ou 
+en d’autres termes, entre l’interprétation qui a été faite de la situation (« la voie est libre ») et la 
+couleur symbolique associée (feu vert).
+En effet, les opérateurs perçoivent et agissent en fonction de leur représentation mentale de la si-
+tuation, et non de la situation « réelle ». Ceci introduit la notion de conscience de la situation, c’est 
+à dire « une représentation globale et cohérente de la situation, continuellement réactualisée par 
+des évaluations périodiques de la situation. » (Sarter & Woods, 1991)40. La représentation mentale 
+est bien plus que la simple intégration des stimuli perçus. En fait, l’opérateur «filtre» la réalité et la 
+schématise en ne gardant que les informations qui lui sont essentielles pour comprendre et agir. 
+Les représentations mentales sont donc couplées à la réalité de façon complexe et récursive (à 
+travers elles-mêmes). Elles sont partiellement «réalistes» - influencées par le monde «réel» au tra-
+vers des canaux sensoriels - et partiellement auto-générées et «opératives», c’est à dire influen-
+cées par les objectifs internes. Ce couplage complexe permet de rendre compte de propriétés 
+surprenantes de la perception : un opérateur expert peut être sensible à un détail infime, et en 
+même temps rater une « énorme évidence ». En effet, les intentions et les attentes générées par 
+la représentation mentale guident l’attention vers les petits détails (utiles si la représentation est 
+cohérente avec la situation), mais détournent la conscience d’aspects qui peuvent être de grande 
+ampleur (et qui deviennent essentiels si la représentation est inappropriée). Par ailleurs, toute 
+l’attention n’est pas sélective, car cela conduirait à ignorer les événements imprévus, mais sus-
+ceptibles d’être un problème. Ce serait trop dangereux, et il faut donc en permanence que tout 
+événement inattendu puisse également attirer l’attention. La capacité d’un item à attirer notre 
+attention est connue sous le nom de « saillance». 
+Le problème, c’est que la saillance d’une information située en dehors du cadre de la représen-
+tation en cours (c’est-à-dire « impensable » ou saugrenue dans son contexte) est très faible. La 
+capacité d’un signal, même « objectivement » très fort, à déstabiliser une représentation erronée 
+est donc très faible. Comme le héros de dessin animé qui ne tombe que lorsqu’il prend conscience 
+qu’il est dans le vide, une représentation reste stable aussi longtemps que les actions qu’elle induit 
+contribuent à créer une réalité qui peut être perçue comme cohérente avec les attentes qu’elle 
+génère. On peut, contre toute évidence, maintenir par « biais de confirmation » une représenta-
+tion de la situation qui ne concorde pas avec la réalité, en évacuant l’information contradictoire, 
+et en mettant en valeur tout ce qui permet de confirmer nos schémas ou même en voyant litté-
+ralement ce qu’on s’attend à voir. 
+### 3.6.5	 Facteurs extérieurs de distraction
+Les relevés détaillés des téléphones portables du conducteur du train 3678 montrent que ce der-
+nier n’a pas été interrompu par un appel pendant la conduite (ni appel entrant, ni appel sortant).
+Dans ses différentes dépositions, le conducteur du train 3678 n’a pas déclaré avoir été perturbé 
+par un élément extérieur lors de la conduite, ni lors de l’arrêt au PANG de Buizingen.
+40	 Sarter, N.B. & Woods, D.D. (1991). Situation awareness: a critical but ill-defined problem. The international journal of aviation psycho-
+logy, 1, 45-57..
+
+## Página 109
+
+### 3.6.6	 Visibilité du système de signalisation et interférence et reconstitution 
+## 3.6.6.1	
+### Visibilité
+Si une enquête technique n’a montré aucun dysfonctionnement technique ou électrique sur la 
+logique de fonctionnement du signal, les paramètres de fonctionnement relevés sur le signal 
+après l’accident montrent néanmoins que ce dernier ne fonctionnait pas de manière optimum, 
+avec une tension de 5.74 volts au lieu de 7.2 volts.
+Une telle baisse de tension diminue l’intensité moyenne émise par le signal d’une valeur de 700 
+candélas (pour 7.2V) à environ 320 candélas (pour 5.74V).
+Cette baisse de tension entraine également une légère modification de la colorimétrie du feu. 
+Cette modification va dans le sens d’une augmentation de la distance colorimétrique entre ce feu 
+et une couleur verte. 
+En effet, la couleur rouge correspond à une longueur d’onde comprise entre 620 et 750nm alors 
+que la couleur verte s’étend entre 490 et 560nm. 
+Or, plus l’intensité lumineuse est faible, plus la couleur rouge apparait foncée c’est-à-dire qu’elle 
+tend à se situer dans des longueurs d’ondes proches des 750nm ou au-delà. Ceci diminue encore 
+la possibilité d’une confusion dans la perception des couleurs du signal. 
+Par ailleurs les conditions météorologiques du 15/02/2010 entre 8h et 9h étaient les suivantes :
+• ciel couvert avec de faibles chutes de neige
+• vent faible de 1 à 2m/s (direction E à ESE)
+• température de l’air sous abris de -4°C
+• visibilité horizontale de 2km.
+Dans de telles conditions, le signal, même affecté de la baisse de tension mentionnée ci-dessus, 
+reste parfaitement visible à la distance de 335m (depuis le PANG).
+Les lampes ont été saisies par le parquet en date du 15 février 2010. Il ne nous a pas été possible 
+de réaliser de nouveau test.
+Des tests ont été réalisés à la demande du parquet mais les conditions de réalisation des tests ne 
+nous ont pas été fournies. 
+### 3.6.6.2	 Perception des couleurs
+La vision est un ensemble de mécanismes physiologiques complexes par lesquels les stimuli lu-
+mineux donnent naissance à des perceptions. La lumière est composée de photons et la couleur 
+de ces derniers varie en fonction de leur longueur d’onde. Les yeux humains sont essentiellement 
+composés de deux types de capteurs : 
+- les bâtonnets, qui permettent de capter l’intensité lumineuse, et 
+- les cônes qui permettent de distinguer les couleurs.
+Il existe 3 types de cônes qui absorbent les photons dans des bandes de longueur d’onde cor-
+respondant approximativement au bleu, au rouge et au vert (couvrant ainsi tout le spectre des 
+couleurs).
+Ces cônes et bâtonnets sont «reliés» à des neurones qui transmettent ensuite l’information 
+jusqu’au cerveau, au niveau du cortex visuel. Le cerveau interprète alors ces messages nerveux 
+provenant des différents cônes pour donner une vision en couleurs.
+Le cerveau joue un rôle très important dans l’interprétation des couleurs et donc dans le rendu 
+chromatique.
+
+## Página 110
+
+### 3.6.6.3	 Champ de vision
+Au départ du quai 1 de Buizingen, la voie A de la ligne 96 en direction de Hal est en alignement 
+direct et le signal H-E.1 est en visibilité directe sans obstacle.
+Il n’y a pas d’autre signal dans le champ de vision qui aurait pu interférer avec le signal H-E.1. 
+
+## Página 111
+
+### 3.6.7	 Reconstitution - Film Vidéo
+Outre la distance de visibilité du signal, deux autres paramètres peuvent jouer sur sa perception : 
+le champ de vision du conducteur, et la luminance du fond. 
+Afin d’étudier le champ de vision du conducteur au poste de conduite un film a été réalisé par 
+la SNCB depuis le poste de pilotage d’une automotrice AM63 (Références du film : B-TC.602 s. 
+13/3911/83047 ; publ. SNCB le 09/11/2010). Le film a été réalisé dans des conditions aussi proches 
+que possible de l’accident de Buizingen à savoir :
+· sur le même parcours depuis l’amont du PANG de Buizingen (avant le signal K-D.1) de 
+Ruisbroek à Hal
+· au même horaire (vers 8h30)
+· avec un tracé au calque de la zone balayée par l’essuie glace (pour simuler une éventuelle 
+invisibilité liée au non nettoyage de la partie vitrée non balayée par l’essuie glace)
+· en vision conducteur (Hauteur : conducteur assis et Largeur de champ : pas de zoom)
+· les conditions météorologiques du jour de tournage présentent un ciel gris et couvert, mais 
+sans neige
+· le signal H-E.1 ne peut être reproduit exactement dans les conditions du 15/02/2010, le 
+signal ayant été nettoyé et l’ampoule changée, vu que celle-ci a été saisie pour les besoins 
+de l’enquête judiciaire.
+Du visionnage de ce film, il ressort qu’une fois arrêté au PANG de Buizingen, le signal H-E.1 est 
+visible, malgré la distance (335m) et le pont entre le quai de Buizingen et le signal H-E.1. Au redé-
+marrage du quai, et avec un profil d’accélération « classique » (30 km/h avant le pont, 40 km/h 
+en entrée sous le pont, 60km/h en sortie), on constate que le signal H-E.1 reste visible pendant 
+environ 42 secondes en mouvement (entre le départ du quai de Buizingen et le signal H-E.1). 
+L’entrée et la sortie sous le pont de la ligne 26 amènent un changement de luminance qui peut 
+potentiellement gêner temporairement la visibilité de H-E.1 mais cette visibilité est récupérée en 
+sortie et il reste environ 7 secondes à 60 km/h pour percevoir le signal H-E.1 (entre la sortie du 
+passage couvert et la dernière image du signal H-E.1).
+
+## Página 112
+
+### 3.7	 Evénements antérieurs de nature comparable
+### 3.7.1	 Collisions / prise en écharpe suite à un dépassement de signal
+Nous avons listés ci-après les collisions et prises en écharpe suite à un dépassement de signal. 
+Nous n’avons pas la prétention de dire que les circonstances initiales sont toutes comparables 
+à l’accident de Buizingen mais le but est d’attirer l’attention sur l’importance des risques liés aux 
+dépassements de signaux.
+Date
+Lieu
+Cause
+Conséquence
+Conducteur
+dépassement 
+Mars 1969
+La Louvière 
+Collision
+de signal
+Prise en écharpe 
+Dender-
+entre un train de 
+dépassement 
+1 voyageur 
+monde
+marchandises et un 
+de signal 
+contusionné
+train de voyageurs
+Collision entre un 
+4 voyageurs 
+Gent St-Pieters 
+train de voyageur 
+dépassement 
+blessés et 4 
+23/04/1990
+- Merelbeke
+et un train de 
+de signal 
+voyageurs 
+marchandises 
+contusionnés
+Prise en écharpe 
+d’un train de 
+dépassement 
+1 voyageur 
+31/03/1990
+Haversin
+marchandises 
+de signal 
+contusionné
+par un train de 
+voyageurs 
+Tamponnement 
+26 voyageurs 
+Bruxelles 
+d’un train de 
+dépassement 
+blessés et 29 
+24/06/1991 
+central
+voyageurs par un 
+de signal 
+voyageurs 
+train de voyageurs 
+contusionnés
+Prise en écharpe 
+dépassement 
+1 voyageur 
+06/10/1991
+Bruxelles midi
+entre deux trains de 
+de signal 
+contusionné
+voyageur
+Prise en écharpe 
+d’un train de 
+1 voyageur blessé 
+dépassement 
+24/08/1995
+Hasselt
+marchandises 
+et 2 voyageurs 
+de signal 
+par un train de 
+contusionnés
+voyageurs
+Tamponnement 
+d’une rame 
+Antwerpen 
+de voitures en 
+dépassement 
+11 voyageurs 
+10/08/1998
+Schijnpoort
+mouvement poussé 
+de signal 
+contusionnés
+par un train de 
+voyageurs
+4 voyageurs 
+Collision frontale 
+blessés et 118 
+dépassement 
+28/01/2000
+Herentals
+entre deux trains de 
+voyageurs 
+de signal 
+voyageurs
+contusionnés 
+2 agents blessés
+18 voyageurs 
+Collision frontale 
+contusionnés 
+Liège 
+dépassement 
+14/08/2000
+entre deux trains de 
+1 agent blessé
+Guillemins
+de signal 
+voyageurs
+3 agents 
+contusionnés
+
+## Página 113
+
+Date
+Lieu
+Cause
+Conséquence
+Conducteur
+5 voyageurs 
+Conducteur 
+Collision frontale 
+dépassement 
+décédés
+de 31 ans 
+27/03/2001
+Pecrot
+entre deux trains de 
+de signal
+3 agents décédés
+avec 10 mois 
+voyageurs
+12 blessés graves
+d’ancienneté
+Conducteur 
+Dépassement 
+de 46 ans 
+21/06/2001
+Schaerbeek
+Prise en écharpe
+signal
+avec 20 ans 
+d’ancienneté
+Conducteur 
+Dépassement 
+de 47 ans 
+13/03/2002
+Marbehan
+Collision
+signal H86
+avec 21 ans 
+d’ancienneté
+Collision entre 
+Conducteur 
+Dépassement 
+un train de 
+de 35 ans 
+03/06/2004
+Lier
+signal LX22/
+marchandise et 2 
+avec 3 ans 
+lx6 
+locomotives diesel
+d’ancienneté
+Conducteur 
+Prise en écharpe 
+Dépassement 
+de 44 ans 
+23/02/2005
+Zaventem
+entre deux trains de 
+Pas de blessé
+signal NY-D.9
+avec 4 ans 
+voyageurs
+d’ancienneté
+Conducteur 
+Dépassement 
+de 45 ans 
+21/09/2005
+?
+Prise en écharpe
+signal M-M9
+avec 25 ans 
+d’ancienneté
+Conducteur 
+Dépassement 
+de 43 ans 
+15/09/2006
+Brugge
+Prise en écharpe
+4 blessés légers
+signal JT52
+avec 3 ans 
+d’ancienneté
+15 blessés graves 
+dont 2 très graves
+Hermalle sous 
+Collision frontal 
+Dépassement 
+23 blessés 
+03/07/2008
+Huy
+entre deux trains
+signal éteint
+légers dont le 
+conducteur et 
+l’accompagnateur
+4 agents 
+légèrement 
+Dépassement 
+14/11/2008
+Diegem
+Prise en écharpe
+blessés
+signal RZ-D.9
+3 voyageurs 
+légèrement blessé
+Collision de trains / 
+Dépassement 
+19/03/2009
+Diest
+Rattrapage
+signal D8.6
+Dépassement 
+15/02/2010
+Buizingen
+Collision de trains
+signal H-E.1
+Prise en écharpe 
+Dépassement 
+15/09/2010
+Arlon
+de deux trains de 
+signal eyIII.96
+voyageurs 
+Soit 13 collisions ou prise en écharpe sur une période de 10 ans
+
+## Página 114
+
+Recommandations suite à l’accident de Pécrot 
+Le Ministre en charge de la mobilité et des Transports de l’époque a demandé qu’un audit sur la 
+sécurité soit réalisé au sein de l’entreprise SNCB « unifiée ». Le résultat de l’audit a été publié en 
+décembre 2004.
+Recommandations suite à l’enquête de Hermalle sous Huy
+L‘ enquête mène aux recommandations suivantes : 
+1. Il est indispensable d’équiper l’infrastructure ferroviaire belge d’un système automatisé pour 
+contrôler la vitesse des trains et d’obliger les entreprises ferroviaires à conformer leur matériel 
+roulant à cet équipement. 
+Les programmes en cours notamment l’équipement du réseau d’un système TBL1+ doivent conti-
+nuer avec la plus grande diligence. Tout doit être mis en œuvre pour éviter le moindre retard dans 
+l’exécution du programme. 
+2. Les entreprises ferroviaires ont à poursuivre leurs programmes d’action pour éviter les dépasse-
+ments de signaux à l’arrêt. Il est en particulier nécessaire de continuer les actions pour augmenter 
+la vigilance des conducteurs de train. En outre, il est important d’éviter, autant que possible, en 
+poste de conduite toute chose qui peut distraire les conducteurs entre autre la présence d’autres 
+personnes. 
+Il est en particulier recommandé qu’Infrabel et les entreprises ferroviaires fassent en concertation 
+des analyses de risques sur les dépassements des signaux placés à des endroits critiques afin de 
+mener des actions coordonnées pour éviter ces dépassements de signaux.
+### 3.7.2	 Statistiques dépassements de signaux
+Infrabel et SNCB soulignent dans leurs rapports qu’une partie de l’augmentation des dépasse-
+ments est imputable aux systèmes de détection plus performants mis en place. Les installations 
+EBP détectent et enregistrent les dépassements.
+L’analyse des dépassements de la part de la SNCB ou de la part d’Infrabel se recoupent dans le 
+sens où les dépassements sont rarement imputables à un manque de connaissance de la régle-
+mentation ou à un problème technique. Peu de cas concernent la distraction par une personne 
+dans le poste de conduite.
+L’examen des dépassements survenant sur le réseau montre que la majorité d’entre eux sont ana-
+lysés comme résultant de distractions et d’erreurs humaines liées à la distraction des conducteurs.
+Les causes techniques (mauvais fonctionnement des freins, défaut technique …) ou de mécon-
+naissance de la signalisation sont marginales.
+Au cours de l’année 2010, il y a eu 104 dépassements de signaux en voie principale et de signaux 
+en voie accessoire donnant accès aux voies principales
+Sur les 104 dépassements concernent :
+29	
+trains vides ou manœuvre
+16	
+trains de marchandises
+10	
+trains de travaux/ techniques
+trains de voyageurs
+
+## Página 115
+
+L’analyse de ces dépassements montre que 10 cas concernent l’oubli de double jaune après arrêt 
+en PANG sur 49 dépassements de signaux de trains de voyageurs 
+Suite à un arrêt en PANG :
+| Date | Heure | Ligne | Signal | Localisation | Ancienneté | Distancede dépassement | Point dangereux atteint |
+| 19 -janv | 19:28 | 130 | NQ30 | Hamsur Sambre | 31ans | 50m | Non |
+| 24 -janv | 8:40 | 124a | DF10 | Roux | 6ans | 100m | Non |
+| 6 -févr | 6:48 | 25 | C12 | Antwerpen | 2jours | 90m | Non |
+| 12 -févr | 7:13 | 130 | RO30 | Ronet | 2ans | 60m | Non |
+| 15 -févr | 8:28 | 96 | HE1 - . | Buizingen | 2ans | 537 | Oui |
+| 5 -mars | 10:19 | 124 | KS1 | RhodeSaint Genèse | 11ans | 25m | Non |
+| 22 -mars | 13:27 | 124A | DF10 | Roux | 4mois | 200m | Non |
+| 12 -mai | 10:59 | 27 | LX9 | Hove | 2jours | 232m | Non |
+| 23 -juin | 10:35 |  | CF10 | Roux | ? | 35m |  |
+| 20 -sept | 18:37 | 130 | E030 | Franière | 31ans | 5m | Non |
+Soit environ 20 % de dépassements de signaux pour les trains de voyageurs concerne l’oubli de 
+double jaune après arrêt au PANG.
+On peut également remarquer que l’ancienneté du conducteur est très variable et ne se limite pas 
+à de jeunes conducteurs; en effet dans 4 cas sur les 10, le conducteur a plus de 5 ans d’ancienneté.
+Sur les 10 cas de dépassements listés ci-dessus, 8 HKV étaient équipées du Système MEMOR et 
+deux du système Gong Sifflet. 
+Les dépassements de signaux sont suivis par Infrabel et la SNCB et sont analysés au cas par cas.
+Les signaux dépassés plus d’une fois sont suivis au sein des safety platforms organisées par Infra-
+bel au cours desquelles des solutions sont recherchées.
+Le signal H-E.1 au PANG de Buizingen n’avait pas fait l’objet d’un dépassement auparavant.
+A titre d’exemple, depuis 200541 :
+- au PANG de Franière le signal E0-30 a été dépassé 4 fois : 1x en 2005, 1x en 2007, 1x en 2008, 
+1x en 2010
+- au PANG de Roux le signal DF-10 a été dépassé 5 fois : 3 x en 2008, 2x en 2010
+- au PANG de Ronet le signal R0-30 a été dépassé 7 fois ; 2x en 2005, 2x en 2006, 1x en 2007, 
+1x en 2008, 1x en 2010.
+41	 A Franière  et à Roux, l’installation de la TBL1+ au sol a été réalisée; l’installation de la TBL1+ au sol est prévue pour le 1er mars 2013 à Ronet..
+
+## Página 116
+
+## 4	 Analyses et Conclusions
+### 4.1	 Compte-rendu final de la chaîne d’événements
+Le lundi 15 février 2010, à 5h43 du matin, le futur conducteur du train de voyageurs accidenté 
+E3678 accepte de remplacer un collègue absent sur le service 103, et prend le départ à Braine-
+le-Comte avec 4 minutes de retard sur l’horaire prévu (5h39), à destination de Leuven, sur le pre-
+mier train de ce service 103, le train E 3755. Ce conducteur était initialement programmé sur le 
+service 106, avec une prise de service à 5h30 et un départ prévu à 6h11. Ayant pu rattraper les 4 
+minutes de retard en route, il arrive à Leuven à l’horaire prévu (7h05). A 7h23, après avoir couplé 
+deux automotrices supplémentaires, il repart de Leuven à destination de Braine-le Comte, via 
+Bruxelles, à la tête du train de voyageurs omnibus E3678. 
+A 8h16, 590 mètres avant le PANG de Buizingen, son prochain arrêt, le train E3678 rencontre le 
+signal C-D.1, avertisseur du signal H-E.1 situé 335 mètres en aval du PANG de Buizingen. C-D.1 
+est au double jaune et H-E.1 est au rouge, car l’itinéraire du train E3678 n’est pas tracé au-delà 
+du signal H-E.1. Le train E3678 entre au PANG de Buizingen 8h26 et s’y arrête au quai N°1. Selon 
+la procédure en vigueur et en fonction des installations, après avoir reçu l’information de fer-
+meture des portes par l’accompagnateur de train via la « lampe porte » qui s’allume au poste 
+de conduite, le départ est autorisé jusqu’au prochain grand signal d’arrêt, ici le signal H-E.1, à 
+marche lente si le signal est rouge ou invisible. Le signal H-E.1 est au rouge, et visible à partir du 
+quai malgré la distance (335m), son intensité lumineuse est réduite par une tension d’alimenta-
+tion un peu inférieure à sa valeur nominale et la luminance de fond est encore très faible à cette 
+heure-ci en février (le temps est légèrement neigeux, le ciel couvert). 
+Vers 8h26:30, le conducteur du train E3678 redémarre du PANG de Buizingen après avoir reçu 
+l’information de fermeture des portes via la « lampe porte ». D’après l’enregistrement du profil 
+de vitesse de la motrice, ainsi que d’après le témoignage du conducteur lui-même, il redémarre 
+directement à pleine accélération. 
+Dans le même empan temporel, le train direct E1707 Quiévrain-Liège roulant vers le Nord passait 
+Hal vers Bruxelles-Midi. Comme le train 3678, il roulait à double voie, sur la voie normalement 
+affectée à son sens de circulation c’est-à-dire la voie B vers le nord, Bruxelles et Liège (et voie A 
+vers le sud, Braine-le-Comte et Mons, pour le train E3678). Mais le train direct E1707 avait accu-
+mulé un retard de 10 minutes en arrivant à Hal. Son conducteur avait avisé le Traffic Control à 
+7h53 des problèmes de traction qu’il rencontrait sur sa locomotive HLE 2111. A 8h26 il rencontre 
+le O-H.1 signal jaune vert vertical et décélère à la vitesse d’environ 80 km/h, il rencontre ensuite 
+le signal O-N.1 double jaune et décélère encore vers la vitesse de environ 40 km/h. Mais à 8h23 
+la cabine de signalisation a reçu l’ordre du Traffic Control de donner priorité au train E1707 sur 
+le train E3678. Pour concrétiser cette priorité, à 08h26:12 le signaleur du block 1 de la cabine de 
+Bruxelles-Midi qui a en charge le secteur de Buizingen trace un itinéraire permettant de dévier 
+le train E1707 vers la voie B de la ligne 96 N par les aiguillages de 2 liaisons 45A/45B et 46A/46B. 
+Cet itinéraire, protégé par le signal O-E.1 qui s’ouvre à 08h26:21, emprunte un court tronçon de 
+la ligne 96 voie A. Ce parcours cisaille donc l’itinéraire du train E3678. La logique de la cabine EBP 
+interdit dès lors l’ouverture du signal H-E.1, qui restera donc fermé pour le train E3678. Le train 
+1707 rencontre donc le signal O-E.1 ouvert : il accélère et franchit O-E.1 à 8h27:46 pour atteindre 
+la vitesse d’environ 70 km/h.
+
+## Página 117
+
+A 08h27:55 le train E3678 franchit le signal H-E.1 qui est toujours au rouge à une vitesse approxi-
+mative de 70 km/h. Le conducteur ne perçoit pas le franchissement, et aucun dispositif d’alerte 
+n’est disponible dans sa cabine de conduite pour le lui signaler. Il continue son accélération pour 
+atteindre la vitesse de 90 km/h. Le conducteur du E3678 s’aperçoit alors que le train 1707 cisaille 
+son parcours, il klaxonne à plusieurs reprises, il enclenche le freinage d’urgence et quitte son poste 
+de conduite. Il est établi qu’au moment où il quitte le poste de conduite, soit par le conducteur 
+lui-même, soit par l’intervention de la veille automatique, le freinage d’urgence est déclenché.
+A 08h28:19 secondes, le train E3678 entre en collision quasi frontale avec le train E1707, au mo-
+ment où celui-ci croisait sa voie sur l’itinéraire de déviation, entre Hal et Buizingen, à hauteur de la 
+borne kilométrique 12.049 au niveau de l’aiguillage 46 A. Au moment de l’impact les deux trains 
+roulaient à une vitesse d’environ 70 km/h.
+Le train E 1557 venant de Grammont vers Bruxelles-Midi était autorisé à circuler depuis la voie II 
+de Hal via le signal QE-1 par l’itinéraire : ligne 26/voie B, liaison 41A/41B, liaison 42A/42B, ligne 
+96/voie B vers Bruxelles. Ce train s’est immobilisé à 8h29 au km 11.863 à hauteur de l’aiguillage 
+42B à proximité immédiate du lieu de l’accident. Le conducteur du train signale immédiatement 
+l’accident au Traffic Control.
+Le Traffic Control prend alors les mesures de sécurité nécessaires pour éviter le sur-accident. Il 
+contacte le répartiteur ES qui coupe l’alimentation électrique sur ce tronçon de ligne, et les ser-
+vices de secours pour prévenir de la catastrophe. Le trafic ferroviaire est totalement interrompu 
+sur les lignes.
+### 4.2	 Discussion
+### 4.2.1	 Identification des principes de securité associés à la situation 
+opérationelle
+La situation opérationnelle rencontrée par le conducteur du train 3678 est le départ d’un train de 
+voyageurs escorté depuis un point d’arrêt non gardé (PANG). Selon le règlement RSEIF 4.1, deux 
+conditions sont nécessaires pour le départ des trains de voyageurs escortés:
+• la réception par le conducteur d’une information «Opérations Terminées» (OT), qui signifie 
+que pour ce qui concerne le chef de bord, rien ne s’oppose au départ du train, et donnée en 
+l’occurrence par l’allumage, par le chef de bord, d’une «lampe porte » se trouvant dans le 
+poste de conduite;
+• le respect par le conducteur des indications données par la signalisation, par un ordre de 
+franchissement ou par une des autorisations prévues. En effet le chef de bord n’a pas l’obli-
+gation d’observer l’état du signal de départ pour donner l’indication OT. Le conducteur reste 
+seul responsable de l’observation et du respect des signaux.
+En référence au scénario de l’accident, la fonction de sécurité principale qui est concernée est la 
+protection de l’itinéraire sécant et déclaré prioritaire, croisant celui du train 3678. Cette fonction 
+est sérieusement menacée dès lors que le train 3678 démarre du PANG de Buizingen à pleine ac-
+célération. Nous considérons donc ce démarrage comme l’événement pivot qui marque le point 
+de perte de contrôle sur la situation. 
+
+## Página 118
+
+Les principes de sécurité associés sont alors globalement les suivants : 
+| Principesde maîtrise | Pointdepertede contrôle | Principesde récupération | Accident | Principesde mitigation |
+| Maitr-1 -Tout tracéd’un itinéraire cisaillantentraine lafermeturedes signaux (ici H -E .1) surlesvoies traversées Maitr2 -Les conducteurs marquentl’arrêt enamontdes signauxfermés Maitr3 -en casd’itinéraire cisaillantle signaleurmetles aiguillagesdes voiessécantes enpositionde protection | Démarrage enpleine accélérationd’un pointd’arrêt nongardéen présenced’un itinérairesécant tracé | Recup1 -Le conducteurse rendcompte qu’ilafranchi ouvafranchir unsignalfermé etdéclenche àtempsun freinage d’urgencequi évitel’atteintedu pointdangereux Recup2 -Un freinage automatique empêcheou rattrapele franchissement designalfermé Recup3 -Le signaleurdétecte lefranchissement designalferméet prévientàtemps lesconducteurs | Collisionfrontale ouparpriseen écharpededeux trainsavecun itinérairesécant | Mitig-1 -La conceptiondu matérielroulant protègeau maximumles occupantsencas decollision Mitig2 - L’interventiondes secoursestrapide eteffi ca ce Mitig3 -Lesur accidentestévité pardesmesures effi c ace s |
+Ces principes de sécurité, ainsi que leurs implications techniques et comportementales, seront 
+davantage détaillés dans la discussion qui va suivre, dont le but est d’examiner leur fonctionne-
+ment (succès ou échec) lors de cet accident, d’en déduire une évaluation de leur robustesse, et 
+éventuellement des recommandations. 
+Nous examinerons donc successivement le comportement lors de l’accident des principes de 
+maîtrise, de récupération, et de mitigation. 
+### 4.2.2	 Analyse du fonctionnement et des dysfonctionnements des principes 
+de maîtrise
+Nous avons identifié trois grands principes de sécurité associés à la maîtrise de la situation, c’est-
+à-dire à l’évitement de la perte de contrôle : 
+Maitr 1 - Tout tracé d’un itinéraire cisaillant entraine la fermeture des signaux (ici H-E.1) sur les 
+voies traversées
+Maitr 2 - Les conducteurs marquent l’arrêt en amont des signaux fermés
+Maitr 3 - en cas d’itinéraire cisaillant le signaleur met les aiguillages des voies sécantes en posi-
+tion de protection
+Nous discutons dans les paragraphes suivants leur statut et leur fonctionnement lors de l’accident. 
+
+## Página 119
+
+## 4.2.2.1	
+### Protection de l’itinéraire cisaillant par un signal fermé
+La fermeture des signaux concernés par le tracé d’un itinéraire cisaillant est obtenue de façon 
+automatique par conception du système de commande. Cependant le conducteur du train 3678 
+a affirmé dans sa déposition qu’il avait vu le signal H-E.1 vert. 
+L’hypothèse du signal H-E.1 au moins momentanément vert correspondrait soit à une défaillance 
+ou anomalie technique fugitive du système de signalisation, soit à un tracé fugitif de l’itinéraire 
+du train E3678 au-delà du signal H-E.1 alors que le train est à quai, puis à son effacement avant ou 
+après son redémarrage. 
+Concernant l’hypothèse d’une anomalie technique, l’enquête technique a établi qu’elle était très 
+hautement improbable. 
+Aucune défectuosité ou incident concernant le signal H-E.1 n’a été notifié avant le 15/02/2010 
+(avant l’accident, le signal H-E.1 n’avait jamais été franchi). Une enquête technique n’a montré 
+aucun dysfonctionnement technique ou électrique sur la logique de fonctionnement du signal.
+Concernant l’hypothèse d’un tracé fugitif, les données du Logbook n’indiquent aucun tracé d’iti-
+néraire pour le train 3678 au-delà du signal H-E.1 et aucune indication informant de l’ouverture 
+du signal H-E.1 (SIG_CLEAR). Une retombée intempestive à l’arrêt n’a pu avoir lieu puisque le 
+signal n’a pas été commandé à l’ouverture. La position fermée (rouge) du signal est contrôlée par 
+la cabine de signalisation. Aucune perte de contrôle n’a été enregistrée dans le logbook. 
+Par ailleurs l’analyse des données reprenant les fonctions de sécurité du Block 1 de Bruxelles-Midi 
+confirme qu’aucune clé de sécurité NT (annulation du tracé), NGCAT (remise à zéro de l’état d’une 
+zone de comptage d’essieu) n’a été activée dans la zone EBP au moment de l’accident. Aucune 
+intention de détruire l’éventuel itinéraire tracé pour le train E3678 n’a été décelée.
+Par conséquent, aucun élément technique à notre disposition en date d’aujourd’hui ne vient 
+confirmer l’hypothèse d’un changement d’état du signal H-E.1 (rouge/vert/rouge).
+Nous considérons donc comme considérablement plus probable l’hypothèse que le signal H-E.1 
+ait toujours été rouge pendant l’arrêt puis le démarrage et l’accélération du train, et nous consi-
+dérons de ce fait que conduire la réflexion sur cette hypothèse suffit à extraire de cet accident les 
+leçons de sécurité nécessaires et pertinentes.
+## 4.2.2.2	
+### Les conducteurs marquent l’arrêt en amont des signaux fermés
+Si on élimine la défaillance du signal ou le tracé fugitif d’un itinéraire, le scénario de l’accident se 
+ramène au franchissement d’un signal fermé. C’est un scénario d’échec d’un principe de sécurité 
+fondamental du système ferroviaire, qui veut que les conducteurs respectent les signaux fermés. 
+Notre objectif principal a donc été non pas tant de comprendre ce franchissement, que de réap-
+précier a posteriori – à partir de l’accident - la robustesse de ce principe de sécurité.
+Il se peut néanmoins que la compréhension des raisons particulières de ce franchissement nous 
+permette de former un diagnostic plus précis sur la robustesse de ce principe de sécurité, et de 
+mieux cibler les recommandations sur les améliorations à apporter. Nous avons donc également 
+essayé de comprendre les raisons de ce franchissement. Pour guider cette recherche, nous de-
+vons décomposer plus avant le principe de sécurité « Les conducteurs marquent l’arrêt en amont 
+des signaux fermés ». Dans le cas général, le principe est de prévenir le conducteur par un signal 
+avertisseur de condition restrictive (signal double jaune) puis de lui présenter le signal d’arrêt, le 
+tout avec des intervalles permettant d’adapter la vitesse. 
+
+## Página 120
+
+Mais dans le cas présent, l’arrêt au PANG s’interpose entre le signal avertisseur et le signal d’arrêt. 
+Le respect de la signalisation se combine avec d’autres conditions pour former les critères de 
+démarrage, et le principe devient : « si le grand signal est fermé, le conducteur s’avance à faible 
+vitesse jusqu’à lui et s’arrête ». Deux cas de figure se présentent alors: le signal est visible depuis 
+le quai, ou il n’est pas visible. S’il est visible, l’application du principe va de soi. S’il ne l’est pas, 
+la règlementation postule que le conducteur connait la position du signal et se souvient de 
+l’avertissement reçu, et elle lui prescrit de démarrer à vitesse réduite jusqu’à la vision du grand 
+signal. Les conducteurs ont conscience que cette mémoire exigée du signal avertisseur est très 
+fragile et développent des astuces mnémotechniques personnelles pour la renforcer, comme 
+de couper l’alimentation électrique de la motrice ou de poser un carton jaune sur le pare-brise. 
+Ensemble de la séquence
+Si on prend en compte l’ensemble de la séquence de démarrage, les conditions détaillées sont 
+les suivantes :
+1) Le conducteur démarre en adaptant son accélération et sa vitesse pour pouvoir s’arrêter au 
+grand signal d’arrêt suivant :
+• il connait la procédure de départ associée au quai de Buizingen, (PANG, train de voyageurs 
+escorté);
+• il reçoit l’indication des opérations de débarquement et d’embarquement terminées via la 
+lampe porte (cela suppose que le système et la lampe porte au poste de conduite fonc-
+tionnent);
+• il gère efficacement d’éventuelles sources de distraction ou de ou perturbation;
+• il se souvient de l’aspect restrictif du signal double jaune reçu avant l’arrêt au PANG;
+• il connaît l’existence et la position du grand signal (connaissance de ligne);
+• il connait les règles et procédures associées et notamment la règle d’une circulation à basse 
+vitesse jusqu’au signal réputé fermé;
+• il dispose de la routine mentale nécessaire;
+• il alloue suffisamment d’attention à cette procédure.
+2) Le conducteur perçoit le signal H-E.1 rouge 
+2.1 Le signal est visible, ce qui implique que :
+• le signal est en fonctionnement; 
+• son intensité lumineuse est suffisante pour en assurer la visibilité dans les conditions de 
+luminosité et de transparence ambiantes;
+• le signal est protégé des perturbations possibles (soleil, reflets, autres sources lumineuses 
+parasites) et des obstacles éventuels (ex : végétation);
+• le champ de vision du conducteur lui permet de voir le signal;
+• la colorimétrie du signal est conforme aux conditions de perception;
+• la transmission de la lumière jusqu’au conducteur n’en modifie pas significativement la 
+couleur (aérosols, pare-brise, lunettes);
+• la vision des couleurs du conducteur est correcte.
+2.2 Le conducteur porte attention au signal, ce qui implique notamment que :
+• le conducteur connaît l’existence et la position du signal (connaissance de ligne);
+• le conducteur inclut la recherche du signal dans son circuit attentionnel (il dispose de la 
+routine mentale correspondante pour le départ du PANG considéré, cette routine mentale 
+est activée);
+• le conducteur gère efficacement d’éventuelles sources de distraction ou de ou perturbation;
+• le conducteur discrimine efficacement le signal d’avec un signal voisin ou plus proche.
+
+## Página 121
+
+2.3 Le conducteur prend conscience que le signal est rouge (interprète le rouge comme tel), ce 
+qui suppose notamment que :
+• il alloue suffisamment d’attention au décodage du signal;
+• il n’est pas entrainé dans l’interprétation contraire par d’autres signes ou une représenta-
+tion mentale de la situation incompatible.
+3) le conducteur s’arrête au pied du signal H-E.1 rouge.
+Comment ces différents principes de sécurité ont-ils donc « fonctionné » pendant le scénario de 
+l’accident ?
+Durant son parcours, le conducteur du train 3678 a rencontré le signal C-D.1, qui se trouve à 
+590 mètres avant le quai de Buizingen. Lors du franchissement du signal C-D.1, le système gong 
+sifflet avertit le conducteur d’une mission restrictive à respecter au signal suivant le signal H-E.1 
+par le déclenchement d’un sifflet. Le conducteur a bien perçu le signal et a acquitté en appuyant 
+sur le bouton poussoir associé, comme le confirme l’enregistrement sur la bande Teloc. Après cet 
+acquittement et contrairement à d’autres systèmes de répétition, il n’y a pas de mémorisation de 
+l’annonce restrictive « double jaune » par l’équipement. 
+Le conducteur du train E3678 s’est ensuite arrêté au PANG de Buizingen. L’arrêt au PANG facilite 
+la perte de mémoire à court terme du signal avertisseur double jaune rencontré avant l’arrêt 
+au PANG. Aucun signal extérieur ne matérialise pour le conducteur la nécessité de s’arrêter en 
+gare, c’est sa connaissance de la ligne et de son service, et son expérience qui interviennent. Son 
+attention est donc mobilisée. Il doit ensuite gérer son freinage et son arrêt. Lors de son arrêt au 
+PANG, le conducteur peut également être distrait ou perturbé par de nombreuses raisons : 
+• des passagers bruyants dans le compartiment jouxtant le poste de conduite;
+• des appels GSM ou radio sol/train vers le conducteur;
+• une perturbation technique dans le poste de conduite (un essuie-glace défectueux, un 
+dérangement technique soudain, …);
+• une conversation avec tiers (agent d’accompagnement ou autre personne, …);
+• des voyageurs qui montent ou descendent … ou se déplacent sur le quai;
+• l’annotation ou la consultation de documents ou appareils;
+• ….
+Dans le cas présent, l’enquête n’a pas permis de mettre en évidence une source particulière de 
+distraction lors de l’arrêt. Notre évaluation du stress et de la fatigue du conducteur ne conclut 
+pas non plus à une contribution forte et hautement probable de ces éléments. Par ailleurs, le 
+conducteur était raisonnablement expérimenté, en bon état d’aptitude médicale. Selon ses dé-
+clarations, il a utilisé comme un certain nombre de ses collègues un moyen mnémotechnique 
+personnel pour aider à la mémorisation du signal restrictif (coupure de l’alimentation). Tout ceci 
+n’a pas suffi à empêcher l’oubli. 
+Nous avons donc essayé d’expliquer la possibilité d’un tel oubli, et mis en évidence un certain 
+nombre de mécanismes potentiels, qui peuvent d’ailleurs fonctionner en synergie. 
+Le premier est la présence possible des distractions déjà évoquées, et l’absence de soutien ex-
+terne à la mémoire. Le système « gong-sifflet » est celui qui prend le moins bien en compte la 
+distraction potentielle du conducteur entre signal avertisseur et signal présumé fermé. Or ce 
+type de matériel « gong-sifflet » est celui normalement utilisé pour les trains omnibus, à savoir 
+ceux qui font le plus d’arrêts à quai. Par le passé, ces situations ont conduits à de multiples dé-
+passements de signaux dans des situations identiques avec ce type de matériel. D’autre part, les 
+conducteurs sont amenés fréquemment à conduire successivement plusieurs types de maté-
+riel lors de leurs prestations et parfois même différents matériels au cours de la même journée. 
+
+## Página 122
+
+Ils peuvent alors passer de matériel « Gong-Sifflet » à du matériel « Gong-Sifflet/MEMOR » ou 
+inversement lors d’une même prestation. Il est clair que ceci pourrait affecter leur capacité de 
+mémorisation d’une annonce restrictive. Les engins équipés « gong-sifflet » présentent donc 
+des risques particuliers bien connus et signalés depuis un certain nombre d’années. Ces engins 
+appartiennent à des types et séries qu’il est prévu de mettre hors service dans les prochaines 
+années et, pour cette raison, il a longtemps été estimé à la SNCB que leur modernisation en 
+système MEMOR ou TBL1+ ou ETCS ne pouvait être raisonnablement justifiée pour des raisons 
+techniques et/ou économiques. 
+Entre-temps, toutes les automotrices ont été  équipées du système MEMOR42
+Le système MEMOR qui aurait pu équiper l’automotrice a pour but d’obtenir par la présence 
+d’une assistance et de surveillance de la conduite, une réduction des risques liés à un éven-
+tuel relâchement de la vigilance du conducteur vis-à-vis du respect des consignes qui lui sont 
+transmises par la signalisation latérale. Le passage d’un signal restrictif (double jaune) provoque 
+l’allumage fixe de l’indicateur lumineux de mémorisation de l’aspect restrictif. Le système n’est 
+pas conçu pour effectuer un freinage d’urgence lors du franchissement d’un signal fermé. 
+Le 15 février, la collision entre les train 3678 et 1707 n’aurait peut-être pas eu lieu si le matériel 
+roulant avait été équipé du système MEMOR. La lampe MEMOR aurait été allumée depuis le 
+signal C-D.1 et, en visualisant le témoin allumé, le conducteur aurait peut-être pu amorcer un 
+freinage d’urgence plus rapidement.
+Lors de l’étude des dépassements de signaux (2010) dans des circonstances similaires à l’acci-
+dent de Buizingen, nous avons relevé que dans 8 cas sur 10 de dépassement de grand signal 
+d’arrêt fermé, le matériel était équipé du système MEMOR43.
+Depuis 2005, la SNCB avait décidé de réaliser une étude44 sur le manque d’efficacité du système 
+MEMOR : elle s’était penchée sur des propositions de modifications du système de mémorisation 
+(clignotement de la lampe) mais celles-ci n’avaient pas abouti.
+Un second mécanisme résulte de la densité du trafic, qui a un impact sur la signalisation et par 
+conséquent également un impact sur la conduite. Lorsque le trafic est dense, les signaux aver-
+tisseurs sont plus souvent en position « double jaune » et les signaux d’arrêt sont plus souvent 
+fermés. Néanmoins, pour assurer la fluidité et la régularité du trafic, les opérateurs de la cabine 
+de signalisation essaient autant que possible de ne pas immobiliser un train devant un signal 
+fermé. Lorsqu’ils sont confrontés successivement à plusieurs signaux en position double jaune, 
+les conducteurs parlent de « rouler sur du jaune ». « Rouler sur du jaune » n’implique donc pas 
+l’arrêt à chaque signal. Au contraire, il s’agit plutôt de rouler vers un signal qui est signalé comme 
+fermé par son avertisseur mais qui passe au vert le temps qu’on avance vers lui. Or « rouler sur 
+du jaune » est plus risqué que circuler en ayant des signaux ouverts car lorsqu’un conducteur 
+« roule sur du jaune » pendant plusieurs kilomètres l’association cognitive double jaune - rouge 
+est rompue et l’intensité de l’attente d’un signal rouge diminue. 
+42	 Cfr Chapitre V «Mesures prises»
+43	 Cfr Chapitre III au paragraphe 3.7.2
+44	 Document CD 2005/87, Document CD 2005/42, Document CD 2006/41, Document CD 2007/71
+
+## Página 123
+
+Il est même alors possible, si la situation se répète suffisamment, que le conducteur s’attende 
+après un double jaune à ce que le signal suivant passe au vert. Ce type de phénomène est plus 
+particulièrement présent pour les prestations de type « omnibus » (par opposition aux trains 
+directs) qui ne sont pas prioritaires. 
+Un troisième mécanisme tient à la diversité de modalités de communication aux conducteurs 
+des informations de départ, qui favorise les confusions et les erreurs sur le départ. En particulier, 
+la fourniture éventuelle de l’information OT avant que la voie ne soit libre, et indépendamment 
+du signal de voie libre, favorise le déclenchement intempestif de la routine mentale de départ. 
+En effet le mode « normal » (fréquent) est : la voie est libre, le projet d’action du « départ » est 
+« armé » mentalement, l’information d’OT le déclenche. Le mode « exception » (plus rare) est le 
+processus inverse : les opérations sont terminées, le projet d’action du départ est « armé », le 
+signal voie libre le déclenche. 
+Dans ces conditions la probabilité de déclenchement intempestif du départ par le déclencheur 
+du mode « normal » (le signal OT) alors qu’on est dans le mode « exception » est élevée. Il s’agit de 
+mécanismes cognitifs, décrits notamment par D. Norman (1981)40, qui concernent globalement 
+les ratés de l’activation (erreurs de capture, erreurs de séquencement) ou les ratés de réalisation 
+(contrepèteries, mélanges d’actions). Dans les « erreurs de capture », une routine dominante 
+(plus fréquemment utilisée) prend à tort le relai de la routine activée et qui comporte un début 
+identique (par exemple prendre la voiture au garage le dimanche matin pour se rendre au stade, 
+et se retrouver au bureau comme tous les jours de la semaine). Dans les contrepèteries, des élé-
+ments d’action sont intervertis à l’intérieur d’une procédure (ex : début et fin intervertis). Dans 
+les mélanges d’action, des éléments d’action sont échangés entre deux procédures différentes. 
+Le 15/02/2010, la collision entre les trains 3678 et 1707 n’aurait peut-être pas eu lieu si le quai de 
+Buizingen avait été équipé du système IOT couplé au signal desservi suivant. La marguerite de 
+l’IOT ne serait devenue blanche qu’au moment de l’ouverture du signal H-E.1.
+Une protection possible repose sur une répétition de la signalisation ou de l’état de la signalisa-
+tion aux quais de Buizingen.
+Dans un contexte global d’activité très routinière, avec un niveau d’attention sans doute mo-
+mentanément plutôt bas lié à la privation de sommeil induite par le lever à 3h30, mais sans 
+distraction majeure, l’ensemble de ces éléments permet de penser que le conducteur a réagi 
+par automatisme à la lampe porte et s’est alors enfermé dans une représentation erronée de la 
+situation dans laquelle le signal symboliquement ouvert ne pouvait qu’être « vert ». En effet, la 
+capacité d’une information contradictoire avec la représentation mentale en cours (c’est-à-dire 
+« impensable » ou saugrenue dans son contexte) à déstabiliser cette représentation est faible. La 
+capacité d’un signal, même « objectivement » très fort, à corriger une représentation erronée est 
+donc très faible. Comme le héros de dessin animé qui ne tombe que lorsqu’il prend conscience 
+qu’il est dans le vide, une représentation reste stable aussi longtemps que les actions qu’elle 
+induit contribuent à créer une réalité qui peut être perçue comme cohérente avec les attentes 
+qu’elle génère. On peut, contre toute évidence, maintenir par « biais de confirmation » une repré-
+sentation de la situation qui ne concorde pas avec la réalité, en évacuant l’information contradic-
+toire, et en mettant en valeur tout ce qui permet de confirmer nos schémas ou même en voyant 
+littéralement ce qu’on s’attend à voir. Ainsi une étude des statistiques de dépassements de si-
+gnaux réalisée par la Direction Sécurité du Fret de la SNCF (France) à partir des bases de données 
+REX montre que 46% des jeunes conducteurs ayant franchi un signal pensent que ce dernier 
+était ouvert. Il ne s’agit pas nécessairement comme on pourrait le penser d’un mensonge défen-
+sif, mais plutôt de la mise en cohérence rétrospective par la mémoire de la conscience (erronée) 
+de la situation et de sa perception physiologique, ou en d’autres termes, entre l’interprétation 
+qui a été faite de la situation (« la voie est libre ») et la couleur symbolique associée (feu vert).
+
+## Página 124
+
+En résumé, on peut dire que le contexte opérationnel rencontré par le conducteur fournit des 
+éléments d’explication crédibles au franchissement du signal fermé H-E.1: 
+• l’arrêt au PANG a facilité la perte de mémoire à court terme du signal avertisseur double 
+jaune rencontré avant l’arrêt au PANG, d’autant plus qu’aucun soutien externe à cette mé-
+morisation ne lui était fourni;
+• les routines de conduite « sur du jaune » acquises du fait de la fréquence élevée de ren-
+contre de signaux en position « double jaune » avec libération de la voie avant la rencontre 
+du signal fermé font perdre ou affaiblissent l’association mentale « double jaune - rouge », 
+• la diversité de modalités de communication aux conducteurs de l’information OT favorise 
+les confusions,
+• la fourniture de l’information OT avant que la voie ne soit libre et indépendamment du 
+signal de voie libre favorise le déclenchement intempestif de la routine de départ par 
+un mécanisme de type « erreur de capture » ou interversion d’actions dans la séquence 
+(contrepèterie).
+## 4.2.2.3	
+En cas d’itinéraire cisaillant, le signaleur met les aiguillages des voies sécantes en position de 
+protection
+Au vu de la complexité du grill de Hal et des nombreux trains circulant ou stationnant simultané-
+ment, on imagine aisément la complexité de la problématique de protection et les manœuvres 
+continues et nombreuses d’aiguillages en découlant pour assurer les protections optimales te-
+nant compte des configurations changeantes et des dépassements de signaux potentiels.
+A défaut de multiplier les aiguilles de déraillement ou les culs de sac de sécurité cela exigerait 
+effectivement une réduction drastique des mouvements ainsi que de l’occupation simultanée 
+des voies.
+Techniquement, le train E3678 aurait pu être dirigé vers la voie 329 via les liaisons 44 et 43 mises 
+à droite, pour éviter de croiser l’itinéraire du E1707.
+Cependant, et d’un point de vue sécuritaire, on ne sait toutefois pas jusqu’où le train 3678 aurait 
+pu aller indûment (en principe jusqu’au signal F-N.1) et les risques de face à face ou de prise en 
+écharpe liés en cas de dépassement de F-N.1 existent également. Les aiguillages 44 et 43 n’ont 
+donc pas été retenu comme aiguillage de protection lors de l’étude réalisée par Infrabel afin de 
+limiter les risques. 
+Garantir systématiquement via des aiguillages de protection que tout itinéraire autorisé et par-
+couru par un train ne puisse en aucun cas être cisaillé ou faire l’objet d’un face à face en cas 
+de dépassement de signal par tout autre mouvement, sont des exigences impossibles à satis-
+faire dans les situations actuelles d’exploitation sans restreindre fortement l’exploitation ou sans 
+adapter fortement l’infrastructure.
+
+## Página 125
+
+### 4.2.3	 Analyse du fonctionnement et dysfonctionnement des principes de 
+récuperation 
+Nous avons identifié trois grands principes de récupération associés à la situation, c’est-à-dire à 
+l’évitement de la collision : 
+• Recup 1 - Le conducteur se rend compte qu’il a franchi ou va franchir un signal fermé et 
+déclenche à temps un freinage d’urgence qui évite l’atteinte du point dangereux.
+• Recup 2 - Un freinage automatique empêche ou rattrape le franchissement de signal fermé.
+• Recup 3 - Le signaleur détecte le franchissement de signal fermé et prévient à temps les 
+conducteurs.
+Nous discutons dans les paragraphes suivants leur statut et leur fonctionnement lors de l’accident.
+## 4.2.3.1	
+### Le conducteur se rend compte qu’il a franchi ou va franchir un signal fermé
+Après sa reprise de marche depuis le quai de Buizingen, le conducteur du train 3678 disposait 
+d’environ 30 secondes, le temps nécessaire pour franchir la distance séparant le quai du signal 
+H-E.1, pour se rendre compte que ce dernier était rouge. Il peut donc sembler extrêmement 
+surprenant qu’il ne s’en soit pas rendu compte. Mais comme on l’a déjà évoqué, de nombreux 
+éléments permettent de penser qu’il a réagi par automatisme à la lampe porte et s’est alors en-
+fermé dans une représentation erronée de la situation dans laquelle le signal ne pouvait qu’être 
+« vert ». On a vu que dans ce cas, la capacité d’un signal, même « objectivement » très fort, à 
+contredire et corriger une représentation erronée est très faible, et que nous pouvons littéra-
+lement voir ce que nous nous attendons à voir. Le caractère a priori difficilement compréhen-
+sible de cette absence de perception du signal fermé est donc trompeur. Au contraire, sans être 
+nulles, les chances de détection de l’anomalie sont plutôt faibles.
+Une protection possible repose sur les différents systèmes de répétition de la signalisation 
+embarqués à bord du matériel roulant. Ils ont un impact important sur les dépassements de 
+signaux et la distance d’arrêt et donc de prévention du risque d’accident.
+Le poste de conduite du train 3678 était équipé du système « Gong-Sifflet » et non du système 
+«MEMOR». 
+Le but du système MEMOR est d’obtenir, par la présence d’un dispositif d’assistance et de sur-
+veillance de la conduite, une réduction des risques liés à un éventuel relâchement de la vigilance 
+du conducteur. Le système MEMOR est considéré comme un système d’aide à la conduite, il ne 
+fait pas partie du système de signalisation. Le franchissement d’un signal présentant un aspect 
+restrictif se traduit par différentes séquences d’allumage et d’extinction de l’indicateur lumineux 
+de mémorisation.
+Le jour de l’accident, si l’automotrice avait été équipée du système MEMOR, à l’approche du 
+signal C-D.1 qui présentait un aspect restrictif, le conducteur du 3678 aurait dû manifester sa 
+vigilance en appuyant sur le bouton poussoir d’acquittement jusqu’à ce que l’information « as-
+pect restrictif » ait été capturé. Cette manœuvre se traduit par l’allumage au fixe de l’indicateur 
+lumineux de mémorisation. Lorsque l’information est captée, l’indicateur de mémorisation de 
+l’aspect restrictif s’éteint. 
+Le conducteur relâche le bouton poussoir dans un délai de 4 secondes, cette manœuvre rallume 
+l’indicateur lumineux. A défaut d’agir dans ce délai, un freinage d’urgence est déclenché. 
+
+## Página 126
+
+L’indicateur de mémorisation reste allumé jusqu’au moment où le conducteur rencontre un 
+signal permissif.
+A l’approche du signal H-E.1, aucune action de vigilance ou autre n’aurait été demandée au 
+conducteur. L’indicateur de mémorisation n’est pas conçu pour déclencher un freinage d’ur-
+gence en cas de dépassement du signal, ni pour alerter le conducteur.
+Les dispositifs tels que le « Gong/Sifflet » et le système MEMOR, qui n’ont pas les mêmes fonc-
+tionnalités, ont pour but d’obtenir un dispositif d’assistance et de surveillance de la conduite, 
+une réduction des risques liés à un éventuel relâchement de la vigilance du conducteur d’un 
+véhicule ferroviaire vis-à-vis du respect des consignes qui lui sont transmises par la signalisation 
+latérale. 
+Mais ils n’avertissent pas du franchissement d’un signal fermé et ne réalisent pas un freinage en 
+cas de dépassement d’un signal fermé. 
+Avec ces systèmes, aucune alerte n’est prévue dans les postes de conduite pour avertir le conduc-
+teur de son franchissement et lui permettre d’effectuer un freinage d’urgence.
+C’est l’absence de signal sonore qui est censée « alerter » le conducteur du franchissement d’un 
+signal fermé.
+A titre d’exemple, en France où l’installation est assez similaire c’est-à-dire avec également un 
+système de crocodile et de brosse, on utilise un système de dispositif du type «optique à simple 
+répétition sonore» qui fonctionne suivant le principe inverse : 
+• Signal ouvert : Aucun signal sonore en cabine n’est émis lors du franchissement d’un signal 
+ouvert.
+• Signal fermé : il n’est plus nécessaire au conducteur de vigiler par appui sur le bouton d’ac-
+quittement à l’approche du signal fermé. En revanche lors du franchissement, 
+la lampe SF clignote, complétée par une alerte sonore forte. Le conducteur 
+doit alors appuyer sur le bouton d’acquittement pour couper cette sonorité. 
+La lampe SF s’allume alors au fixe, afin de rappeler au conducteur que le der-
+nier signal franchi était fermé. Elle s’éteindra au prochain signal rencontré 
+ouvert. Bien évidemment, l’arrêt d’urgence est déclenché si l’acquittement 
+par le conducteur n’est pas réalisé dans les délais.
+## 4.2.3.2	
+### Un freinage automatique empêche ou rattrape le franchissement de signal fermé
+Comme cela a été déjà mentionné, le train 3678 n’était équipé d’aucun système de freinage 
+automatique. 
+Cependant divers systèmes existent au niveau belge, et nous développerons les deux systèmes 
+qui auraient pu avoir un impact au niveau de l’accident de Buizingen: le système TBL1+ et le 
+système ETCS. 
+Chaque système nécessite un double équipement à la fois sur le réseau ferroviaire d’une part et 
+à bord des engins de traction d’autre part. En parallèle, les logiciels doivent être prévus pour que 
+ces deux équipements puissent dialoguer.
+Le premier équipement est le système TBL1+.
+Au niveau de l’infrastructure ferroviaire, il prévoit l’installation de deux balises, l’une est placée 
+à 300 m en amont du signal et l’autre à hauteur du signal. Le système ne réalise pas un contrôle 
+permanent de la vitesse de l’engin mais contrôle la vitesse d’approche en continu sur 300 mètres 
+en amont du signal d’arrêt fermé. 
+
+## Página 127
+
+Le système génère un freinage d’urgence automatiquement
+• s’il y a franchissement de la première balise à une vitesse supérieure de 40 km/h 
+• s’il y a dépassement de la seconde balise, située au niveau du signal
+Le signal H-E.1 est équipé du TBL1+. Les deux balises TBL 1+ étaient présentes au niveau de l’in-
+frastructure. La première balise se trouvant à 300 m en amont du signal soit une trentaine de 
+mètre après la fin des quais de Buizingen. Le matériel roulant du train 3678 n’était pas équipé du 
+TBL1+. 
+Suite à l’outil informatique dont dispose Infrabel, il est possible de simuler les courbes de freinage 
+des différents types de matériel roulant en fonction de leur composition, de leur régime de frei-
+nage, de leur masse,…
+Deux cas de figure possibles ont été envisagés: le premier cas lors du fonctionnement normal de 
+l’installation TBL1+ sol et installation à bord du train, le second cas lors d’un panne technique au 
+IBG45  (1ère balise TBL 1+) et du fonctionnement normal de l’installation à bord du train.
+Dans le premier cas, le train démarre à une vitesse de 0 km/h de l’extrémité du quai. Le train 
+lorsqu’il passe sur la balise IBG TBL 1+ se situant à plus ou moins 40 m de l’extrémité du quai reçoit 
+une information qui lui impose un mode CVR (Courbe de vitesse Réduite), en conséquence le 
+train ne peut dépasser la vitesse maximale de 40 km/h.
+A environ 150 m de l’extrémité du quai, le train atteint une vitesse supérieure à 40 km/ h. L’appa-
+reil à bord de l’automotrice reçoit une demande d’application d’un freinage d’urgence qui s’active 
+automatiquement vu le dépassement de la vitesse de 40 km/h.
+La distance d’arrêt suite à ce freinage d’urgence est de 105m. L’arrêt est assuré en amont du signal 
+H-E.1. Dans ce cas, le train ne franchit pas le signal.
+45	 IBG : Infill Balise Group
+
+## Página 128
+
+En cas de panne de première balise TBL1+, le  train reçoit la demande d’application d’un freinage 
+d’urgence au pied du signal H-E.1. A cet endroit, en fonction des bandes Teloc, le train a atteint 
+une vitesse de 60 km/h. La distance de freinage du train calculée par le simulateur informatique 
+avec marge sécuritaire est de 215m. Le train a dépassé le signal mais n’ a pas atteint le premier 
+point dangereux qui se trouve 126m plus loin.
+Le point de collision entre les deux trains a eu lieu à environ 537m après le signal H-E.1. La catas-
+trophe aurait pu être évitée.
+Un second système est l’ETCS qui agit par vérification de la diminution graduelle de la vitesse de 
+l’engin contrôlé par rapport à la position géographique du signal et son indication.
+Ce système dit « full supervision » assure un contrôle permanent et complet du train, y compris 
+un contrôle total et continu de la vitesse. Il donne une information automatisée au conducteur 
+via l’ordinateur de bord du poste de conduite.
+La transmission de l’information à l’ordinateur de bord s’effectue à l’aide de balise dans le cas de 
+l’ETCS 1 et du GSM R dans le cas de l’ETCS 2.
+Les indications de signalisation à respecter sont affichées au poste de conduite et non plus par 
+la signalisation latérale
+Le système de surveillance de vitesse et d’odométrie de bord interdit tout dépassement de si-
+gnal fermé. Un tel système aurait donc évité le dépassement du signal H-E.1 et donc l’accident. 
+4.2.3.3	 Le signaleur détecte le franchissement de signal fermé et prévient à temps les conducteurs
+Le système EBP n’indique pas explicitement au signaleur que le train a dépassé un signal fermé. 
+C’est le recoupement des informations qui lui permet de déduire qu’il y a un franchissement de 
+signal fermé.
+Si le signaleur détecte le franchissement de signal fermé deux options s’offrent à lui : 
+• prévenir le conducteur via un message radio sol train ou via le GSM R;
+• prévenir le répartiteur ES pour effectuer une coupure de courant.
+Dans le premier cas, pour contacter le conducteur de train, le signaleur doit se connecter sur un 
+autre système informatique appelé « Kuberna » où le conducteur s’est préalablement identifié.
+Il n’y a pas d’automatisation via le système EBP. Le signaleur contacte le conducteur qui effectue 
+alors un freinage d’urgence.
+Dans le second cas, le signaleur contacte le répartiteur ES, qui seul a le droit de réaliser une cou-
+pure de la tension électrique. Cette coupure constitue un moyen pour provoquer en dernier lieu 
+l’arrêt des circulations électriques46.
+Dans le cas de Buizingen, la collision est survenue moins d’une minute après le franchissement 
+du signal, et ce troisième principe potentiel de récupération n’a pu être activé.
+Les modalités de ces actions de récupération semblent toutes nécessiter une durée inadaptée à 
+la réactivité que requiert une intervention d’urgence. De plus lorsqu’ils sont interrogés, les signa-
+leurs ne font état d’aucune procédure clairement définie à appliquer lors de la détection d’un 
+franchissement de signal en cabine de signalisation pour stopper le train dans des conditions 
+similaires à l’accident de Buizingen.
+46	 Un train en mouvement a une certaine inertie et, même sans alimentation électrique, il continue à poursuivre sa route parfois pendant 
+plusieurs dizaines de mètres. S’il s’agit d’un train « diesel », la solution de la coupure de courant n’a, en toutes hypothèses, aucun impact
+
+## Página 129
+
+Le signaleur dispose :
+· d’une fonction SDG47 dont le but est de ne plus autoriser l’accès de nouveaux trains dans la 
+zone impactée,
+· de la fonction CSTR qui concerne la fermeture d’urgence des signaux de tronçon de voie.
+Le signal H-E.1 étant considéré comme fermé, ces fonctions ne sont pas utiles pour stopper le 
+train 3678 dans le cas de l’accident de Buizingen. Nous ne remettons pas en cause leurs utilités 
+pour éviter le suraccident ainsi que dans d’autres circonstances que celle évoquée dans le cas 
+présent.
+En résumé, les éléments recueillis révèlent plusieurs points faibles dans le processus de récupé-
+ration potentielle:
+• Aucune alerte claire et/ou sonore n’est prévue dans le système EBP pour avertir les signa-
+leurs d’un franchissement de signal.
+• Les signaleurs ne semblent pas suffisamment formés ou préparés à intervenir en urgence en 
+cas de franchissement de signal. 
+• Le dirigeant du poste EBP ne peut couper l’alimentation électrique.
+On constate donc un manque de capacité d’intervention rapide et efficace en cas de risque im-
+minent de collision consécutif à un franchissement de signal fermé.
+### 4.2.4	 Analyse du fonctionnement et dysfonctionnement des principes de 
+mitigation
+Nous avons identifié trois grands principes de mitigation associés à la situation, c’est-à-dire dimi-
+nuer les conséquences de la collision : 
+• Mitig 1 - La conception du matériel roulant protège au maximum les occupants en cas de 
+collision
+• Mitig 2 - L’intervention des secours est rapide et efficace
+• Mitig 3 - Le sur accident est évité par des mesures efficaces
+Nous discutons dans les paragraphes suivants leur statut et leur fonctionnement lors de l’accident.
+## 4.2.4.1	
+La conception du matériel roulant protège au maximum les occupants en cas de collision
+A l’époque de la conception des automotrices impliquées, il n’existait ni réglementation nationale, 
+ni réglementation européenne, ni recommandations de l’Union Internationale des chemins de fer 
+pour orienter la conception du matériel roulant vers une meilleure protection de leurs occupants 
+en cas d’accident. Dans la plupart des cas, les trains étaient conçu pour se replier en accordéon en 
+cas de collision afin d’absorber l’énorme quantité d’énergie libérée par l’impact.
+Depuis des recommandations de UIC existent sur l’anti- chevauchement des voitures et sur le fait 
+de veiller à ce que les zones susceptibles d’être utilisées par les voyageurs ou le personnel ne se 
+replient pas sur elles-mêmes.
+La résistance des caisses des véhicules aux sollicitations statiques et dynamiques doit garantir la 
+sécurité exigée pour les passagers et pour le personnel, en particulier en cas de collision avec des 
+obstacles ferroviaires ou des obstacles étrangers au système ferroviaire comme par exemple des 
+véhicules routiers ou de blocs de rochers.
+47	 SDG : Sein Dringend Gesloten
+
+## Página 130
+
+Des dispositions de construction assurent une sécurité dite passive. Elles sont là pour compléter 
+la sécurité des personnes pour des événements imprévus mais le but n’est pas de combler une 
+éventuelle lacune de la sécurité active.
+La sécurité passive se définit sur trois niveaux :
+• Chasse obstacle : les caractéristiques mécaniques du matériel roulant pour une résistance 
+statique des structures des véhicules.
+• Absorption d’énergie de collision : pour des accidents de référence, l’intégrité de l’espace de 
+survie du conducteur en poste de conduite et des espaces occupés par les voyageurs doit être 
+assurée.
+• Sollicitations aérodynamiques : la résistance des structures et des équipements aux sollicita-
+tions aérodynamiques doit garantir la sécurité exigée pour les voyageurs.
+Cependant, le choc quasi frontal de Buizingen n’est pas couvert pas les règles de conception de 
+« résistance passive » en raison de la trop grande énergie à absorber. Dans la philosophie actuelle, 
+c’est la sécurité active qui DOIT couvrir ce genre de risque. Ainsi, les spécifications techniques 
+d’interopérabilité pour le matériel récent demandent des dimensionnements en sécurité passive 
+pour des collisions ferroviaires limitées à 36 km/h. Pour rappel au moment de la collision les rames 
+roulaient à une vitesse approximative de 70km/h.
+Néanmoins, par comparaison à d’autres modes de transports (exemple : aviation) qui accordent 
+davantage d’attention à la sécurité passive (certification « crash » des structures, résistance des 
+sièges, ceintures de sécurité, issues de secours, etc.), il parait hautement probable que la gravité 
+des conséquences des collisions ferroviaires pour les occupants pourraient être très significative-
+ment diminuée par une évolution de la philosophie actuelle.
+## 4.2.4.2	
+### L’intervention des secours est rapide et efficace48
+La catastrophe a été gérée rapidement et de façon professionnelle.
+Les premiers secours sont arrivés rapidement sur place à 8h44.
+Les problèmes rencontrés lors de la gestion de la situation d’urgence n’ont eu que peu d’impact 
+sur le déroulement de la situation de crise.
+La collaboration entre les diverses disciplines et les services externes (SNCB et Infrabel) a été posi-
+tive et constructive. 
+Cependant la SNCB a été prévenue trop tardivement.
+De nombreuses ambulances étaient disponibles en provenance de diverses provinces : Brabant 
+flamand, Brabant wallon, Bruxelles et Hainaut. Les aires de stationnement pour les bus de la gare 
+de Hal ont permis de faciliter l’évacuation des blessés par ambulance.
+De nombreux véhicules de police, en particulier de la police de la route de diverses provinces ont 
+apporté une aide précieuse pour l’accompagnement et l’escorte des véhicules médicalisés vers 
+les centres hospitaliers.
+La confirmation de la mise en place du plan catastrophe a pris plus de temps que prévu. En effet 
+le plan d’urgence et d’intervention provincial n’a été déclenché que 45 minutes après l’accident.
+La procédure est revue pour un contact plus rapide vers le gouverneur de la province.
+48	 Extrait du rapport « Evaluatieverslag (hulp) diensten en overheden / debriefing Hal 8 maart 2010 aandachtpunten » reprenant certaines 
+conclusions concernant Infrabel et la SNCB.
+
+## Página 131
+
+Un débriefing entre les différentes disciplines a permis de tirer les leçons de cette catastrophe et 
+d’améliorer la mise en pratique des procédures prévues, et d’en ajuster d’autres pour répondre 
+aux exigences du terrain et palier les différences théoriques.
+Les accès au site de l’accident ont porté préjudice au déploiement des secours :  la configuration 
+du terrain, la présence d’un mur le long des voies et l’éloignement de la gare ont posé des pro-
+blèmes aux services de secours pour acheminer les blessés vers les ambulances.
+Les secouristes devaient en effet parcourir de longues distances à pied. 
+La SNCB a pris l’initiative de proposer des bus pour raccompagner les passagers. Cette action est 
+louable mais un listing reprenant le nom des personnes à bord des trains n’était pas disponible 
+avant de les acheminer vers d’autres gares. Plusieurs personnes se sont présentées de façon 
+spontanée aux hôpitaux.
+### 4.2.4.3	 Le sur-accident est évité par des mesures efficaces
+Le plan d’urgence d’Infrabel définit des tâches prioritaires afin de prendre les mesures :
+• d’alarme et mesures de protection immédiate;
+• de couverture;
+• de secours aux victimes;
+• d’Information.
+Le desservant du poste de signalisation a fermé les signaux desservis et a utilisé la commande 
+d’arrêt d’urgence de la signalisation dans le tronçon de voie concernée pour bloquer les circu-
+lations par l’application d’un « cas du tableau 1 ». Ce système de protection supprime la com-
+mande automatique du tracé des itinéraires, d’ouverture des signaux dans le secteur et d’ouver-
+ture des signaux donnant accès ou autorisant la sortie du secteur correspondant.
+Il provoque directement la fermeture ou le maintien à l’arrêt de ces signaux.
+Le régulateur de ligne a lancé un message d’alerte groupé aux conducteurs par Radio Sol train, 
+GSM R ainsi qu’aux aux postes de signalisation, répartiteur ES et aux autres régulateurs de ligne.
+La circulation des trains a été totalement interrompue dans le secteur.
+Le répartiteur ES a coupé l’alimentation de la caténaire dans le secteur concerné.
+Une fois l’alimentation de la caténaire coupée dans le secteur concerné, un agent d’Infrabel a 
+placé une perche reliant la caténaire via le rail au sol.
+Le système mis en place a été efficient et a permis d’éviter un sur accident.
+### 4.2.5	 Analyse du fonctionnement et dysfonctionnement du SGS
+## 4.2.5.1	
+### La problématique
+Malgré toutes les mesures prises ces dernières années en vue de la prévention des dépasse-
+ments de signaux, le nombre absolu de dépassements continue son augmentation. Ce constat 
+a été fait par le système ferroviaire belge, au moins à partir du début des années 2000. Mais il 
+ne semble pas que ce constat ait entraîné une réflexion synthétique sur le risque associé à cette 
+situation, ni qu’une stratégie d’action explicite ait pu être établie et mise en œuvre. 
+
+## Página 132
+
+D’une part, le problème est attribué aux défauts de vigilance des conducteurs. Le gestionnaire 
+d’infrastructure tend à incriminer plutôt la formation et la discipline des conducteurs, l’entre-
+prise ferroviaire plutôt la présentation des signaux et certains environnements. Mais des deux 
+côtés, on cherche à faire davantage ce qu’on fait déjà pour y remédier, et on boucle sur cette 
+vision sans la remettre en question.
+D’autre part, on semble en même temps reconnaître le besoin d’un dispositif technique géné-
+ralisé de prévention ou de récupération automatique de dépassement de signal. Mais le lien 
+logique à la première démarche n’est ni clairement explicité ni quantifié dans un modèle de 
+sécurité systémique explicite. On ne trouve pas un raisonnement du type: « la première ligne 
+de sécurité repose sur le respect des signaux, voici son niveau de fiabilité estimé, par consé-
+quent, compte tenu de notre niveau de trafic et de nos objectifs de sécurité, voici le niveau de 
+protection complémentaire par des dispositifs techniques qui nous est nécessaire ». On trouve 
+même presque le raisonnement inverse : le rapport de sécurité de la SNCB mentionnait en 2006 
+que « l’absence d’un équipement technique généralisé pour l’arrêt automatique du train lors 
+d’un dépassement de signal fait que la sécurité d’exploitation sur le réseau ferroviaire d’Infrabel 
+repose principalement sur la vigilance du conducteur » et en 2009 que « la SNCB se doit d’inten-
+sifier encore les mesures déjà prises pour enrayer ce phénomène, étant entendu que la sécurité 
+des circulations repose essentiellement sur la vigilance du conducteur et que par conséquent le 
+facteur humain reste prépondérant ».
+Cette absence de vision synthétique se traduit notamment par trois choses : l’introduction tar-
+dive d’une perspective « gestion de risque », l’absence d’une perspective systémique globale sur 
+le système ferroviaire belge et sa fragmentation en deux grandes « positions » : le gestionnaire 
+d’infrastructure d’une part et les entreprises ferroviaires d’autre part. 
+## 4.2.5.2	
+### L’absence d’une perspective systémique globale sur le système ferroviaire belge
+Compte tenu de la décomposition du système ferroviaire en grandes fonctions historiques (in-
+frastructure, contrôle commande, circulation, conduite, matériel roulant, etc.), l’une des difficul-
+tés de la sécurité ferroviaire est de conserver un raisonnement au niveau du système ferroviaire 
+global, seul à même de permettre une appréhension suffisante des problèmes. A cet égard, il y 
+avait déjà des cloisonnements au sein de la SNCB avant la scission de 2005. Le démantèlement 
+de la Section Transport a sans doute été une étape majeure du fractionnement : la création des 
+« Business Units » en janvier 1998 marque le passage d’une organisation orientée fonctions à 
+une organisation orientée produits et prestations, à une décentralisation par type d’activité et à 
+une allocation des responsabilités par finalité. Ceci a permis aux logiques d’activités de s’expri-
+mer. La séparation exigée par la Communauté Européenne entre gestionnaire d’infrastructure 
+et entreprises ferroviaires a ensuite consacré la perte de toute vision organisationnelle unifiée. 
+Dans l’esprit de la réglementation européenne, cette fragmentation du système ferroviaire est 
+compensée en matière de sécurité par le rôle de l’Etat et l’existence d’une autorité indépen-
+dante. Mais de part sa mise en place tardive, le rôle et l’autorité du SSICF ont été insuffisants en 
+Belgique pour compenser cette fragmentation. Comme l’a noté la mission d’étude de l’ERA, le 
+SSICF n’a pas joué un rôle de leader de la gestion de la sécurité en centralisant les données, en 
+portant les réflexions nécessaires, et en ciblant les priorités en matière d’application du cadre 
+réglementaire ou de besoin d’évolution de ce dernier. Le SSICF manque pour cela de moyens, et 
+notamment d’effectifs (28 personnes à la création – dont 10 pour l’Unité Sécurité- en croissance 
+vers 48), de moyens d’agir (« ma seule force est de refuser l’autorisation de mise en service ou 
+l’agrément de sécurité49. Une fois accordé, je n’ai plus rien » a déclaré l’un de ses responsables), et 
+sans doute aussi un peu de conscience de l’importance de ce rôle et de soutien pour l’assumer.
+49	 Voir Chapitre V «Mesures prises»
+
+## Página 133
+
+Sur la question spécifique des dépassements de signaux, le SSICF a néanmoins tenté d’intervenir 
+dès sa création. Dès janvier 2006, des courriers ont été envoyés au directeur de la SNCB pour atti-
+rer son attention sur la progression du nombre de franchissements de signaux et lui demander 
+les actions qu’il comptait prendre. Les réponses annonçaient des mesures centrées sur le « facteur 
+humain » et notamment le renforcement du suivi des conducteurs par les cadres, des actions de 
+sensibilisation au problème des franchissements, et du matériel plus performant. Divers courriers 
+ont été envoyés par le Secrétaire d’Etat aux divers Administrateurs délégués sur la probléma-
+tique des dépassements, l’Arrêté Royal du 13 novembre 2009 permettant au «  ministre de Tutelle 
+d’imposer aux entreprises ferroviaires et au gestionnaire d’infrastructure ferroviaire un objectif 
+particulier de sécurité a été publié en 2009 ».
+Depuis 2006 les discussions entre Infrabel et la SNCB sur la sécurité s’effectuaient dans le cadre 
+des Safety Platform sous la direction d’Infrabel. La discussion était représentative des divergences 
+de responsabilité, d’intérêt et de vision entre un gestionnaire de l’infrastructure et une entreprise 
+ferroviaire. Pour mieux traiter la question des dépassements de signaux, un Groupe de Travail 
+ad hoc a été établi en 2008, toujours sous la direction d’Infrabel, avec comme sujets les signaux 
+dépassés plusieurs fois, l’IOT, les cas particuliers de signalisation problématique, etc. Même si les 
+initiatives prises par Infrabel sont évidemment louables, les mêmes divergences se sont manifes-
+tées au sein de ce groupe de travail et ont confirmé la difficulté d’une vision systémique dans un 
+tel cadre.
+Un groupe de pilotage destiné à mieux coordonner les efforts des entreprises ferroviaires et du 
+gestionnaire d’infrastructure en vue de réduire le nombre de dépassements de signaux est insti-
+tué où le SSICF y est observateur.
+Un exemple de difficulté à adopter une vision systémique concerne la question de l’IOT. On a vu 
+que la multiplicité des configurations de l’information OT fragilise le respect des signaux. Parmi 
+les scénarios connus de dépassements de signaux figure notamment celui de l’accident de Bui-
+zingen : l’oubli du double jaune au départ d’un PANG avec un signal lointain ou non visible. En 
+raisonnant à l’échelle du système global, il est clair que la fourniture aux conducteurs d’une infor-
+mation  de départ unique intégrant toutes les conditions de départ, et donc une répétition du 
+feu de signalisation intégrée permettrait donc un progrès important en sécurité. Mais en raison-
+nant par domaine (infrastructure, circulation, conduite), on isole des responsabilités différentes 
+qui tendent ensuite à se protéger et à se renvoyer la responsabilité. Mais ce faisant, on reporte 
+simplement sur les conducteurs et leur employeur la responsabilité d’échecs globalement plus 
+nombreux de l’interaction signalisation-conducteurs. 
+Certaines analyses de risques menées par Infrabel depuis l’accident de Buizingen sont résumées 
+dans le chapitre V. Des réunions de concertation sur la sécurité de l’exploitation ferroviaire sont 
+programmées et présidées par le SSICF50.
+50	 Voir Chapitre V «Mesures prises» : deux réunions de concertations en 2011
+
+## Página 134
+
+### 4.2.5.3	 Une introduction tardive de la perspective « gestion de risque »
+Au sein d’Infrabel et de la SNCB, la perspective « gestion de risque » a été introduite tardivement 
+et au départ plus sous la pression de la conformité aux exigences de la réglementation euro-
+péenne,  que par conviction de son utilité. L’une de ses premières manifestations a été un travail 
+sur la définition d’une cartographie des risques, avec priorisation et fixation d’objectifs de sécu-
+rité ramenés à un dénominateur commun indicatif du niveau d’activité (ex : train*km). 
+Mais cet effort de priorisation amène une comparaison des risques pour les passagers avec par 
+exemple le risque aux passages à niveau et les suicides. Or le simple décompte des victimes51 
+sur une période de référence fait nécessairement apparaître les risques pour les tiers plus élevés 
+que les risques pour les passagers. En d’autres termes, la règle comptable des gestionnaires de 
+risque ne correspond pas à la perception sociale des risques et à leur acceptabilité.
+Par ailleurs l’adoption progressive d’une perspective gestion de risques n’a pas encore totale-
+ment modifié la culture de sécurité des organisations, qui reste orientée « responsabilité des 
+conducteurs  ». On en trouve de multiples signes dans les rapports de sécurité produits, les 
+études de sécurité conduites spécifiquement sur la question des dépassements de signaux : il 
+n’y a pas de remise en cause du modèle de sécurité, on boucle sur la « culpabilité » des conduc-
+teurs. On trouve des expressions telles que « les conducteurs reconnaissent » avoir manqué de 
+vigilance, etc. 
+Symétriquement, les procédures normalisées devraient couvrir l’opportunité et les modalités 
+d’exécution des enquêtes notamment les rapports établis devraient inclure la révision des me-
+sures de maîtrise des risques après un accident ou un incident, ainsi que la mise en application 
+des recommandations et des mesures préventives et correctives destinées à éviter la récurrence 
+de pareils événements.
+Les rapports d’incidents, justifiant l’exécution d’enquêtes, doivent inclure les anomalies affé-
+rentes aux processus (indicateurs avancés) et, le cas échéant, les écarts par rapport aux résultats 
+prévus (indicateurs retardés). 
+## 4.2.5.4	
+### La méthodologie de raisonnement et d’analyse. 
+La base des réflexions est le nombre absolu de signaux franchis annuellement. Dans le contexte 
+de l’analyse des dépassements au cas par cas, il y a une appréciation complémentaire de la cri-
+ticité des dépassements (distance de dépassement, atteinte ou non du point dangereux), mais 
+celle-ci n’est pas complète et finalement la probabilité et la gravité de collision associée à un 
+franchissement ne sont donc pas estimées. Ce mode de raisonnement est mal adapté pour 
+apprécier le risque global de catastrophe, car la probabilité et l’ampleur des dommages poten-
+tiels dépendent considérablement de l’implantation des signaux et du rôle qu’ils jouent. Une 
+approche systémique et un raisonnement en gestionnaire de risque amèneraient à se poser la 
+question de la criticité et de la distribution des points dangereux en fonction du trafic (ce qui va 
+bien au-delà d’un simple déplacement de signal pour améliorer sa visibilité). 
+Une première explication à cette difficulté à produire une vision systémique a déjà été évoquée: 
+elle réside dans la fragmentation du système ferroviaire et à l’absence d’une autorité transverse 
+reconnue pour effectuer la synthèse des points de vue. Cette absence n’est d’ailleurs pas néces-
+sairement reconnue au niveau des autorités nationales. Pour citer l’un des responsables inter-
+viewé, « la Commission Buizingen renvoie trop de responsabilité de coordination au SSICF. C’est 
+Infrabel qui est le responsable principal de coordinateur des EF ». Il y a là une mauvaise appré-
+ciation du rôle de l’autorité de sécurité dans le dispositif réglementaire européen actuel, et une 
+confusion entre le rôle opérationnel du gestionnaire d’infrastructure, effectivement en position 
+centrale, et le rôle d’autorité nécessairement joué par une entité nationale indépendante des 
+intérêts des différents acteurs. 
+51	 Dans le respect des KPI définis par l’ERA
+
+## Página 135
+
+Un second élément d’explication peut être la culture commune héritée de l’histoire ferroviaire 
+belge, caractéristique d’une société nationale très hiérarchisée, très axée sur l’obéissance des 
+opérateurs de terrain aux règles omnipotentes et la sanction des écarts, et fondée sur des plans 
+d’action réactifs aux accidents, cas par cas, accident par accident. Cette culture ne semble pas 
+avoir encore été fondamentalement modifiée avant l’accident de Buizingen par la mise en œuvre 
+progressive du SGS depuis 2006. L’appropriation et la maîtrise des méthodes de gestion de risque 
+et d’analyse systémique et organisationnelle des incidents et des accidents reste incomplète, no-
+tamment par manque de formation des hiérarchies et des analystes, à la fois chez les acteurs du 
+système (Infrabel et SNCB) et au niveau des autorités. Ceci est illustré par l’examen des rapports 
+des discussions au sein des Safety Platform (où on trouve des expressions du type « les conduc-
+teurs reconnaissent que… »), des rapports annuels de sécurité et des analyses d’événements pro-
+duites. 
+En réagissant aux événements pris séparément et en recherchant la cause de chaque dépasse-
+ment, le raisonnement incite à une compréhension centrée sur l’action et les « erreurs » des opéra-
+teurs de première ligne (conducteur, éventuellement signaleur). Il repose sur le postulat implicite 
+que les dépassements ont des causes, qu’on pourra les découvrir, ce qui permettra de les suppri-
+mer. Mais il ne permet pas de remettre en question ce postulat, et de se demander par exemple 
+s’il existe vraiment des marges de progrès résiduelles sur la fiabilité des conducteurs, et si elles 
+suffiraient potentiellement à atteindre les objectifs. Cela impliquerait d’abord d’évaluer la fiabilité 
+de l’arrêt sur signal fermé par les conducteurs, et donc de rapporter le nombre de franchisse-
+ments au nombre de signaux rencontrés fermés. Mais ce nombre – par conséquent essentiel - de 
+signaux rencontrés fermés ne fait pas l’objet de tentatives de mesures ou d’évaluation. La seule 
+estimation trouvée dans les recherches effectuées dans le contexte du présent rapport a pour 
+source une organisation syndicale de conducteurs, citée par un rapport de Conseil d’Administra-
+tion de la SNCB, et qui mentionne environ 13 millions de signaux fermés rencontrés par an. Si on 
+considère ce chiffre comme un ordre de grandeur valable, environ 100 dépassements pour 13 mil-
+lions de signaux fermés rencontrés correspondent à une fiabilité de l’ordre de (10-5). Ceci est une 
+valeur très élevée pour la fiabilité d’une action humaine, dont les fréquences d’erreur se situent 
+couramment entre 10-2 et 10-4. Quelles sont donc les véritables marges de progrès résiduelles en 
+matière de fiabilité du respect du signal fermé ? De quelle référence comparative dispose-t-on 
+avec des pays similaires? L’augmentation tendancielle constatée du nombre de signaux franchis 
+fermés correspond-elle à une dégradation de cette fiabilité (et alors à quoi attribuer cette dégra-
+dation ?) ou bien à une stabilité voire à une amélioration de cette fiabilité, cachée par une aug-
+mentation du nombre de signaux rencontrés fermés ? Il ne semble pas que le système ferroviaire 
+belge, à travers ses systèmes de gestion de la sécurité, ait été en mesure de se poser clairement 
+ces questions et de leur apporter des réponses. 
+Pourtant, malgré ce peu de formulation explicite et cette absence de quantification, la conscience 
+d’un problème de sécurité lié au dépassement des signaux, et à l’impuissance des mesures prises 
+pour empêcher la croissance de leur nombre, s’est exprimée à plusieurs reprises depuis le début 
+des années 2000. La reconnaissance du besoin consécutif d’un renfort par un dispositif de sur-
+veillance et de freinage automatique lui était associée. Mais malgré cette conscience, le système 
+ferroviaire belge et ses autorités n’ont pas été en mesure de choisir une stratégie corrective effi-
+cace et de la mettre en œuvre. L’analyse des raisons de cette carence dépasse le cadre du présent 
+rapport, mais il est intéressant de rappeler ici certaines conclusions de deux études qui ont été 
+plus spécifiquement consacrées à cette question suite à l’accident de Buizingen : le rapport de 
+la commission spéciale de la Chambre des Représentants de Belgique sur la sécurité du rail, et la 
+contribution de la Cour des Comptes à cette étude parlementaire. 
+De ces études, il ressort que le choix fait par la Belgique de développer ses propres systèmes 
+de surveillance et de freinage automatique en lieu et place d’utiliser des systèmes existants a 
+entrainé des problèmes d’homologation, puis carrément des conflits de compatibilité avec les 
+spécifications européennes, et donc généré des retards de plusieurs années dans l’installation de 
+systèmes de protection.
+
+## Página 136
+
+L’analyse de l’évolution des projets d’implantation, des dispositifs et des décisions afférentes 
+montrent également que les décisions sont faiblement documentées et ne sont pas soutenues 
+par une analyse de risque en bonne et due forme.
+Tout cela construit le cadre d’une sous-estimation politique du problème et de ses délais de 
+résolution, d’une absence de remise en question et d’une sur-confiance des dirigeants dans la 
+sécurité du rail, dans un contexte institutionnel par ailleurs marqué par nature par une certaine 
+instabilité des décisions et du suivi des investissements sur le long terme. 
+### 4.2.6	 Une sous-estimation du risque
+Avant 2005-2006, l’absence de perspective gestionnaire de risque et de données quantita-
+tives sur le risque de collision associé aux franchissements de signaux empêche une prise de 
+conscience à la hauteur du problème réel. L’absence de vision systémique favorise la persistance 
+de l’attribution causale aux défaillances des conducteurs, entretient l’illusion d’importants pro-
+grès futurs dans ce domaine, et minimise en conséquence la nécessité et l’urgence d’une assis-
+tance technique.
+Avec la mise en œuvre progressive du SGS après 2006, la construction d’une « réalité statistique » 
+et l’application des démarches préconisées de hiérarchisation des risques aurait pu mettre en 
+évidence le problème. Le risque associé aux franchissements de signaux fermés (FSF) peut s’ap-
+précier par le ratio moyen {nombre de FSF / nombre de collisions (mortelles ou non)} sur une 
+période suffisamment longue (par exemple la dernière décennie). Les collisions récentes sont 
+recensées au chapitre 3.7. Un calcul rapide donne 4 collisions pour 400 FSF donc un ratio de 10-2 
+collisions par FSF. 
+Si on raisonne par extrapolation du passé, la probabilité actuelle de collision en Belgique pour-
+rait donc être estimée être de l’ordre de 0,5 par an (une tous les deux ans).
+Mais comme toutes les collisions ne sont heureusement pas mortelles, traduit en pertes de vie 
+potentielles, le résultat fait apparaître le risque voyageur lié aux collisions comme secondaire, 
+loin derrière les accidents de passage à niveau, de tiers sur les voies, ou les suicides ! Il y a sans 
+doute ici des biais de sous-estimation de la probabilité des collisions, mais surtout distorsion 
+entre modèle « rationnel » d’acceptabilité du risque utilisé et les réalités de la psychologie collec-
+tive et de l’acceptabilité des catastrophes. Le postulat sous-jacent de l’équivalence des morts (ex 
+accident voyageur ou suicide) est peut être à reconsidérer. Par ses dimensions spectaculaires et 
+symboliques, une collision de type Buizingen par décennie n’équivaut pas réellement à 2 morts 
+par an. L’objectif de sécurité devrait être placé plus haut pour ce type d’accident que ce que sug-
+gère la simple comptabilité des victimes, par exemple une diminution de moitié de la fréquence 
+actuellement constatée. Or par rapport à cette ambition, la fiabilité unitaire du respect du signal 
+fermé offre peu de marges de progrès, en tout cas nettement moins que ce qui serait nécessaire 
+pour rétablir un niveau de protection contre les collisions suffisant. 
+La seule solution pour sécuriser suffisamment le système ferroviaire belge est donc d’installer 
+des automatismes de protection, comme l’ont fait les autres pays d’Europe et tel qu’en cours 
+d’implémentation en Belgique depuis 2009 via le système TBL1+. 
+Une solution complémentaire serait de doter le système d’une vraie capacité de récupération, qua-
+si inexistante aujourd’hui (rien n’indique le franchissement au conducteur ou au signaleur, etc.).
+
+## Página 137
+
+### 4.2.7	 Une mise en œuvre du SGS à pas lents
+Les rythmes de changement adoptés sont peu représentatifs d’une adhésion enthousiaste des 
+directions et des autorités de tutelle à la cause du SGS. Imposé par l’Europe, le concept n’a pas 
+fait immédiatement apparaître dans les esprits l’intérêt qu’il présentait par rapport à tout ce qui 
+se faisait déjà pour la sécurité. 
+Le SGS était peu formalisé avant 2006 et caractérisé par :
+• un manque de connaissance de l’administration, l’absence de surveillance externe véritable;
+• une fragmentation des raisonnements par activité, avec dominance des perspectives mar-
+quées par telle ou telle activité (ex : infrastructure vs exploitation);
+• une culture très normative marquée par l’obéissance aux consignes, peu encline à la remise 
+en question du réalisme des attentes impliquées par cette « obéissance » concernant les 
+capacités des opérateurs. Cette culture orientée « conducteurs en faute », ne permettait 
+guère de remise en cause du modèle de sécurité, et bouclait donc indéfiniment sur la res-
+ponsabilité, voire la culpabilité des conducteurs; 
+• une faiblesse du système de retour d’expérience, et d’analyse des incidents;
+• une culture réactive, normative, centrée sur les défaillances des opérateurs de 1° ligne ; si 
+le système n’est pas suffisamment fiable (ex: crocodile) il est conservé mais déclaré « aide 
+à la conduite »;
+• des enquêteurs peu/non formés aux techniques d’enquête;
+• une estimation du risque « signal franchi» qui n’est pas poussée à son terme : quel est le 
+risque de collision associé ? quel poids relatif par rapport aux autres sources de risque 
+voyageur (déraillement, chute)?
+• pas de vision systémique du risque;
+• pas d’analyse de risque associé aux modifications et changements;
+• vision prévention seule : rien en récupération.
+Après 2006 l’application de la directive européenne a entrainé une formalisation des démarches 
+de gestion de risque, et notamment un inventaire des risques et leur priorisation.
+Des progrès ont été réalisés mais l’appropriation et la maîtrise des méthodes de gestion de risque 
+et d’analyse systémique et organisationnelle des incidents et des accidents restent incomplètes.
+
+## Página 138
+
+### 4.3	 Conclusions
+Le scénario de l’accident repose sur le franchissement d’un signal fermé. L’accident a donc mis en 
+évidence un nouvel échec d’un principe de sécurité fondamental du système ferroviaire qui veut 
+que les conducteurs respectent les signaux fermés. 
+Le signal était normalement visible. L’analyse n’a pas mis en évidence de raisons physiques ou 
+physiologiques susceptibles d’expliquer une mauvaise perception de la couleur du signal par le 
+conducteur. 
+L’analyse des raisons de ce franchissement de signal fermé est difficile compte tenu de la nature 
+des phénomènes concernés, et des circonstances de l’enquête (du fait de l’existence d’une procé-
+dure judiciaire, le conducteur du train 3678 n’a pas accepté d’entretien). On peut dire néanmoins 
+que le contexte opérationnel rencontré par le conducteur fournit des éléments d’explication pos-
+sibles au franchissement d’un signal fermé : 
+• l’arrêt au PANG facilite la perte de mémoire à court terme du signal avertisseur double jaune 
+rencontré avant l’arrêt au PANG, d’autant plus qu’aucun soutien externe à cette mémorisa-
+tion ne lui était fourni,
+• les routines de conduite « sur du jaune » acquises de par la fréquence élevée de rencontre de 
+signaux en position « double jaune » avec libération de la voie avant la rencontre du signal 
+fermé consécutif font perdre ou affaiblissent l’association mentale « double jaune-rouge », 
+• la diversité de modalités de communication aux conducteurs de l’information OT favorise 
+les confusions,
+• la fourniture de l’information OT avant que la voie ne soit libre et indépendamment du si-
+gnal de voie libre favorise le déclenchement intempestif de la routine de départ. 
+Dans un contexte global d’activité très routinière, avec un niveau d’attention sans doute momen-
+tanément plutôt bas mais sans distraction majeure, l’ensemble de ces éléments suggère que le 
+conducteur a réagi par automatisme à la lampe porte et s’est alors enfermé dans une représentation 
+erronée de la situation dans laquelle le signal symboliquement ouvert ne pouvait qu’être « vert ». 
+Cependant, ces éléments ne révèlent pas un mécanisme de défaillance clair sur lequel on pour-
+rait bâtir une action corrective vraiment efficace. Les seules pistes suggérées par l’analyse de la 
+défaillance sont :
+• la suppression de l’interruption de séquence double jaune – rouge par les arrêts en gare,
+• uniformisation des modalités de communication de l’information OT aux conducteurs,
+• l’imposition d’attente du signal ouvert avant toute information OT,
+• une prise en compte du risque fatigue dans la conception des plannings des conducteurs.
+L’accident confirme donc surtout l’existence d’un « bruit de fond » de franchissements de signaux 
+fermés pour des raisons complexes liées aux limites de la fiabilité humaine, et sur lequel le sys-
+tème ne peut pas véritablement avoir de prise. De fait, le taux de respect des signaux fermés est 
+déjà à un niveau qui témoigne d’une fiabilité humaine excellente et difficilement améliorable 
+dans un tel contexte. 
+La croissance d’année en année du nombre de franchissements de signaux fermés est surtout 
+due à la progression du trafic (nombre de trains circulant) et de sa densité relative aux capacités 
+du réseau, dont la croissance entraîne une croissance encore plus rapide des interférences et 
+donc du nombre de signaux rencontrés fermés (SRF) par les conducteurs. Les marges de progres-
+sion résiduelle de la fiabilité humaine existent, mais ne permettraient plus à elles seules de rendre 
+le risque acceptable.
+
+## Página 139
+
+La seule solution pour sécuriser suffisamment le système ferroviaire belge est donc d’installer 
+des automatismes de protection par freinage automatique, comme l’ont d’ailleurs fait les autres 
+pays comparables en Europe et tel qu’en cours d’implémentation en Belgique depuis 2009 par le 
+système TBL1+.
+Une solution complémentaire serait de doter aussi le système, au delà des automatismes, d’une 
+vraie capacité de récupération des franchissements de signaux fermés. Celle-ci est quasi inexistante 
+aujourd’hui : rien n’indique le franchissement d’un signal fermé au conducteur ou au signaleur, le 
+signaleur n’a pas de moyen d’action suffisamment rapide, etc.
+Plus généralement, la sécurité du système ferroviaire gagnerait à se doter d’une vraie préoccupa-
+tion pour la récupération des situations de perte de contrôle, et pour la sécurité passive.
+Par ailleurs cette réflexion n’est pas nouvelle. Ses éléments principaux et sa conclusion étaient 
+connus du système ferroviaire belge depuis presque une décennie. La question est donc de savoir 
+pourquoi le système de gestion de la sécurité, au sens large, n’a pas été en mesure de générer les 
+réponses nécessaires. 
+A cet égard notre analyse a montré que ce système reste caractérisé par une culture réactive, réa-
+gissant aux accidents au cas par cas, et normative, centrée sur les défaillances des opérateurs de 
+première ligne comme « explication » des problèmes de sécurité. Ce système ne possède pas une 
+tradition de gestion de la sécurité sous-tendue par une vision systémique et intégrée du risque. 
+Les rythmes de changement adoptés ont été peu représentatifs d’une adhésion enthousiaste des 
+directions et des autorités de tutelle à la cause du SGS. Le concept n’a pas fait immédiatement 
+apparaître dans les esprits l’intérêt qu’il présentait par rapport à tout ce qui se faisait déjà pour 
+la sécurité. La reconnaissance par le système ferroviaire du besoin de renforcer de la sécurité par 
+un dispositif de surveillance et de freinage automatique n’a pas été suffisante pour choisir une 
+stratégie corrective efficace et la mettre en œuvre rapidement. Tout cela a construit le cadre d’une 
+sous-estimation politique du problème et de ses délais de résolution, d’une absence de remise 
+en question et d’une sur-confiance des dirigeants dans la sécurité du rail, dans un contexte insti-
+tutionnel par ailleurs marqué par nature par une certaine instabilité des décisions et du suivi des 
+investissements sur le long terme.
+L’évaluation du problème de sécurité posé par le franchissement de signaux fermés est restée assez 
+qualitative, et biaisée par la perception culturelle d’une responsabilité principale des conducteurs, 
+donc d’un problème soluble (par la formation, l’exhortation, la sanction).
+On a relevé aussi une certaine faiblesse de l’autorité nationale de sécurité, pourtant seule en posi-
+tion de proposer et d’imposer une vision systémique intégrée et externe aux intérêts d’entreprise, 
+et une délégation importante de la responsabilité de gestion de la sécurité vers le gestionnaire d’in-
+frastructure Infrabel. Cette faiblesse est le résultat direct du fait que l’installation de cette autorité, et 
+plus généralement la mise en œuvre du cadre réglementaire de la gestion de la sécurité ferroviaire 
+s’est faite avec des retards systématiques sur les butées temporelles des obligations réglementaires.
+L’application de la directive européenne a entraîné une formalisation des démarches de gestion 
+de risque, et notamment un inventaire des risques et leur priorisation. Des progrès ont été réalisés 
+mais l’appropriation et la maîtrise des méthodes de gestion de risque et d’analyse systémique et 
+organisationnelle des accidents et incidents restent améliorables.
+Les deux entreprises Infrabel et SNCB ont déposé un plan d’équipement accéléré du système 
+TBL1+ au niveau de l’infrastructure (fin 2015) et au niveau du matériel roulant (fin 2013). Ce plan 
+constitue un rattrapage d’urgence acceptable répondant à la nécessité exprimée. Néanmoins le 
+système d’aide à la conduite TBL1+ n’est pas un système « full supervision ». Son installation accé-
+lérée sur le réseau belge ne peut constituer qu’une solution transitoire et s’articuler avec une 
+installation telle que prévue par les deux entreprises du système ETCS.
+
+## Página 140
+
+## 5	 Mesures prises
+### 5.1	 Mesures prises par le Secrétaire d’Etat
+## 5.1.1	
+### Loi du 29.12.2010 : Indépendance du NSA
+Modifications de la loi du 19 décembre 2006 relative à la sécurité d’exploitation ferroviaire et la 
+loi-programme du 22 décembre 2008. Pour s’assurer de plus grande indépendance des autorités 
+nationales de sécurité.
+« § 2. Par dérogation au paragraphe 1er la direction de l’autorité de sécurité n’aura plus aucun 
+lien avec la SNCB Holding et ne pourra plus bénéficier des droits et avantages reconnus aux 
+agents statutaires de la SNCB Holding en vertu des alinéas 1er à 4 du paragraphe 1er au plus 
+tard dix-huit mois à partir de l’entrée en vigueur de la loi du 29 décembre 2010 portant des dis-
+positions diverses. »
+Le Roi détermine, par arrêté délibéré en Conseil des Ministres, le contenu du concept ‘direction’ 
+de l’autorité de sécurité prévu au présent paragraphe. 
+## 5.1.2	
+### Loi - Fonds Organiques
+La création d’un fonds organique budgétaire a pour objectif de garantir l’autonomie financière 
+de l’Autorité de sécurité ferroviaire ainsi que de démontrer que les montants versés sont affectés 
+aux coûts de cette autorité.
+Les recettes du fonds se composent des contributions à charge de l’ensemble du secteur fer-
+roviaire pour la surveillance de la sécurité et des redevances à charge des demandeurs d’une 
+prestation à l’Autorité de sécurité ferroviaire.
+ Le budget prévoit une augmentation des ressources humaines pour atteindre un objectif total 
+de 43 personnes 
+## 5.1.3	
+### Moyens mis à disposition pour l’amélioration du fonctionnement du SSICF
+L’Autorité Nationale de sécurité n’a plus de lien fonctionnel avec la Direction Générale Transport 
+Terrestre mais reporte directement au Ministre ayant la mobilité et le Transport dans ses attributions.
+## 5.1.4	
+### Loi du 28.12.2011 modifiant la Loi du 19.12.2006 : amendes administratives
+En réponse au manque de moyen de pression de la part des Autorités nationales de sécurité, une 
+modification de la loi du 19 décembre relative à la sécurité ferroviaire déterminant les amendes 
+administratives applicables à l’encontre des entreprises ferroviaires et du gestionnaires de l’in-
+frastructure en cas d’infraction à la loi ou à un des ses arrêtés d’exécution.
+## 5.1.5	
+### Arrêté du 25 juin 2010 modifiant l’Arrêté Royal du 13.11.2009 
+Modification de l’intitulé de l’arrêté royal du 13 novembre 2009 adoptant le cadre réglementaire 
+national de sécurité par ce qui suit : « Arrêté royal adoptant les objectifs et méthodes de sécurité 
+ferroviaire nationaux».
+
+## Página 141
+
+Notons que les dispositions transitoires et entrées en vigueur sont clairement identifiées :
+ « les dispositions du chapitre 4, abrogées par l’arrêté royal modifiant l’arrêté royal du 13 no-
+vembre 2009 adoptant le cadre réglementaire national de sécurité, restent applicables jusqu’au 
+30 juin 2012 aux modifications qui ne sont pas des modifications techniques importantes rela-
+tives aux véhicules visés par l’article 3, 32°, de la loi du 26 janvier 2010 relative à l’interopérabilité 
+du système ferroviaire au sein de la Communauté européenne, ou relatives aux sous-systèmes de 
+nature structurelle visés par article 19, § 1er de cette loi.»
+Art. 4. Dans le même arrêté l’annexe 2 est abrogée.
+Art. 5. Les articles 2, 3 et 4 entrent en vigueur le 19 juillet 2010.
+## 5.1.6	
+### Arrêté Ministériel du 30.07.2010 : Arrêté Ministériel portant adoption des 
+exigences applicables au matériel roulant pour l’utilisation des sillons
+Cet Arrêté Ministériel adopte les exigences applicables au matériel roulant pour l’utilisation des 
+sillons (texte annexé) et abroge l’arrêté ministériel du 20 juin 2008 portant adoption du cahier des 
+charges du matériel roulant.
+Il reprend clairement le champ d’application et mesures transitoires afin de lever toute ambigüité.
+L’arrêté ministériel du 30 juillet 2010 portant adoption des exigences applicables au matériel 
+roulant pour l’utilisation des sillons a été publié et détermine des règles de sécurité pour toute 
+demande d’autorisation de mise en service du matériel roulant.
+Cet A.M. prévoit un phasage pour l’installation du MEMOR en fonction du type de matériel roulant :
+• les automotrices équipées du gong sifflet avant la parution de cet A.M. doivent être équi-
+pées complémentairement d’un système de mémorisation visuelle pour le 31 mars 2011 au 
+plus tard ;
+• les autres engins pour le 30 septembre 2011 au plus tard;
+• les OTM pour le 30 septembre 2012.
+Cet Arrêté Ministériel donne des exigences techniques, il reprend une liste non exhaustive de 
+norme, fiches UIC ou autres documents de référence à utiliser afin de démontrer la satisfaction du 
+matériel aux exigences techniques.
+L’A.M. est applicable, tel que prévu par la directive européenne pour :
+• les véhicules construits avant la mise en vigueur du présent A.M. qui peuvent être admis sur 
+base des critères en vigueur lors de la construction
+• les véhicules faisant l’objet d’un contrat signé ou d’un marché attribué au moment de l’en-
+trée en vigueur de cet A.M. : le demandeur peut choisir d’appliquer la réglementation natio-
+nale en vigueur à la date de la signature du contrat ou à celle de l’attribution du marché.
+Cet arrêté reprend à titre d’exemple les exigences en matière de sécurité passive pour le matériel 
+roulant.
+## 5.1.7	
+### Arrêté Royal du 01.07.2011
+L’Arrêté Royal 01/07/2011 portant adoption d’un premier cahier des charges de l’infrastructure 
+ferroviaire a été publié.
+Cet arrêté royal du 1er juillet 2011 a été modifié par l’Arrêté Royal du 13 octobre 2011.
+
+## Página 142
+
+### 5.2	 Mesures prises ou planifiées par le SSICF
+## 5.2.1	
+### Concertation sur la sécurite ferroviaire
+Deux réunions ont été effectuées sous la présidence du SSICF en date des 11 février 2011 et 21 
+juin 2011 avec la participation du gestionnaire de l’infrastructure, des entreprises ferroviaires, 
+des organisations concernées, de l’organisme d ‘enquête,..
+### 5.2.2	 Plan d’actions
+Un plan d’actions a été mis en place pour répondre aux recommandations relatives au SSICF de 
+la Commission Buizingen.
+### 5.2.3	 Réorganisation du SSICF
+En 2011, des mesures ont été prises pour réorganiser le SSICF. Le SSICF a identifié un besoin de 
+renforcement des ressources administratives et de moyens complémentaires pour développer 
+les tâches liées à la surveillance.
+Depuis le 1er juin 2011, une quatrième unité gère ainsi les responsabilités administratives et bud-
+gétaires et une cinquième unité gère depuis le 1er janvier 2012 l’organisation et l’exécution des 
+tâches associées à la surveillance de l’application de la réglementation et de la sécurité.
+### 5.3	 Mesures prises ou planifiées par la SNCB
+## 5.3.1	
+### Accélération du programme d’investissments planifié de la TBL1+
+Le Comité de Direction de la SNCB du 22 juin 2009 a pris connaissance du planning ambitieux 
+relatif à la mise en œuvre du TBL1+ sur le matériel roulant et l’a approuvé conjointement avec 
+les budgets correspondants.
+En résumé, 1 021 voitures du parc existant seront équipées entre 2009 et 2013 pour un montant 
+global de 37 millions d’euros.
+A noter qu’en ce qui concerne le nouveau matériel roulant :
+• les voitures M6 seront dotées prochainement du système TBL1+ ;
+• le système TBL1+ sera installé sur les locomotives type 18 et les automotrices « Désiros ».
+D’ici 2013, tous les véhicules de la SNCB bénéficieront d’une protection accrue.
+D’ici 2013, 1 021 véhicules seront pourvus du système TBL1+.
+A titre d’exemple, le planning pour 2010 en vue de l’installation du système TBL1+ sur 297 en-
+gins de traction et de la mise à niveau du système de protection de 54 voitures pilotes M6.
+Plan d’investissement initial
+Déploiement TBL1+ par type de matériel (flotte existante)
+160
+140
+120
+100
+HLE
+AM
+HVR
+HLD+AR
+<2009
+
+## Página 143
+
+### 5.3.2	 Accélération des investissements ETCS
+D’ici 2013, 445 véhicules seront dotés du hardware ETCS (et continueront ainsi à disposer des 
+fonctionnalités TBL1+ :
+- 120 locomotives type 18 sont progressivement mises en service depuis 2011;
+- 184 AM 08 sont progressivement mises en service à partir de 2011;
+- 60 HLE type 13 sont (progressivement) mises en service;
+- 21 voitures I11 sont (progressivement) mises en service;
+- 60 voitures pilotes M6 sont mises en service depuis 2010.
+Il est prévu de doter le matériel ultérieurement du software ETCS, notamment en fonction de 
+l’avancement de l’équipement de l’infrastructure.
+Cette installation dépend entre autres de l’homologation en temps utile qui relève de la respon-
+sabilité des fournisseurs (selon le cahier des charges établi).
+Aperçu de l’installation accélérée du niveau accru de sécurité (approbation le 9.3.2010 par le 
+Comité de Direction de la SNCB)
+| TBL1+«fl otet existante» | 2009 | 2010 | 2011 | 2012 | 2013 |
+| Total | 22 | 297 | 334 | 283 | 85 |
+| Cumul | 22 | 319 | 653 | 936 | 1021 |
+| Cumul% | 2 | 31 | 64 | 92 | 100 |
+| ETCSetnouveaumatérielroulant |  |  |  |  |  |
+| Total | 0 | 60 | 83 | 199 | 103 |
+| Cumul | 0 | 60 | 143 | 342 | 445 |
+| Totalgénéral | 22 | 357 | 417 | 482 | 188 |
+| Cumul | 22 | 379 | 796 | 1278 | 1466 |
+| Cumul% | 2 | 26 | 54 | 87 | 100 |
+### 5.3.3	 Installation d’une lampe de mémorisation sur les véhicules pourvus 
+### du système Gong-Sifflet
+Le parc se composait de 117 véhicules pourvus du système « gong-sifflet ». Il s’agit de véhicules 
+atteignant la limite d’âge et qui seront mis hors service d’ici 2013. L’extension à la fonctionnalité 
+simplifiée de la mémorisation a été homologuée par le SSICF et a été installée sur le matériel 
+roulant.
+Les automotrices ont été modifiées pour le 30 mars 2011 (annexe 7.13)
+
+## Página 144
+
+### 5.3.4	 Soutien aux conducteurs de trains
+A partir de 2010, un conducteur de train sera accompagné 3 fois par an au cours des 2 premières 
+années de sa carrière par un instructeur expérimenté.
+Tous les conducteurs de train reçoivent pendant la durée de leur formation fondamentale, un jour 
+de formation supplémentaire sur « la politique de prévention de dépassement des signaux » lors 
+duquel les signaux comportant un danger potentiel de dépassement leur sont montrés.
+La formation permanente sera conçue de manière plus performante et plus ciblée par le biais 
+d’un coaching en retour.
+### 5.3.5	 Projet de modification du Fascicule RGPS
+Les responsables de la SNCB déclarent que la conception « sanction » est aujourd’hui dépassée à 
+la SNCB, et que la SNCB souhaite s’affranchir de cette politique de sanction « à tout va » et de ne 
+plus sanctionner les erreurs ou écarts involontaires de ses agents : « Ce n’est qu’en cas de faute 
+manifeste, sabotage, négligence grave et le cas échéant, en cas de dépassement de signal fermé 
+que l’agent risque une sanction disciplinaire infligée à l’initiative du chef immédiat de l’agent 
+concerné et non à la suite de l’enquête de sécurité d’exploitation ». Tant les agents de la SNCB 
+que ceux d’Infrabel et de la Holding sont des agents de la SNCB Holding soumis au statut du 
+personnel de la SNCB Holding, dont le fascicule 550.
+Aucune société du groupe ne peut s’affranchir de manière unilatérale de l’application d’une 
+règle statutaire sauf si cette dernière a fait l’objet d’une modification approuvée par la Commis-
+sion paritaire nationale. Les discussions sur le fascicule 550 qui ont lieu entre les trois sociétés du 
+groupe sont toujours en cours et n’ont pas encore abouti
+### 5.3.6	 Prévention des dépassements de signaux
+Un groupe de pilotage « dépassements de signaux » a été créé au niveau national, qui dirige en 
+premier lieu 3 groupes de travail dans le but de réduire de 35 %, le plus rapidement possible, le 
+nombre de dépassements de signaux au niveau de 2005.
+Mission des groupes de travail :
+- GT 1 : signalisation et technique ; départ d’un point d’arrêt non gardé (prioritaire) ; traite-
+ment des notifications non urgentes par les EF via Safe-IN ; gestion des PSS ; distinction 
+entre signal d’arrêt et signal avertisseur.
+- GT 2 : dépassements de signaux ; mieux comprendre les causes sous-jacentes de distrac-
+tion ; signaux franchis plus d’une fois ; analyse de tendance.
+- GT 3 : conducteurs : communication et simplification de la réglementation relative aux 
+dépassements de signaux.
+Un certain nombre de signaleurs et de conducteurs de train participent deux fois par an à un 
+forum national dans le but de rapprocher le terrain et la politique.
+### 5.4	 Mesures prises par Infrabel
+## 5.4.1	
+### Modification du matériel roulant équipé du système Gong-Sifflet
+Il s’agit du matériel de trains de travaux nécessaires à la maintenance d’l’infrastructure et de la caté-
+naire qui circulent principalement sur des voies hors service ou temporairement mises hors service.
+Le matériel locomotive de type 62 a été modifié pour le 30 septembre 2011 (annexe 7.14).
+
+## Página 145
+
+### 5.4.2	 Sensibilisation dans le cadre des dépassements de signaux
+La sensibilisation dans le cadre des dépassements de signaux se focalise sur trois axes :
+- gestion des risques et reporting 
+- structures de concertation
+- campagne de communication sécurité exploitation 
+Cette sensibilisation s’effectue également au travers de diverses plates-formes mises en
+place par Infrabel : 
+- au cours des safety platform portant le nom actuel de « safety desk » organisées avec les 
+entreprises ferroviaires;
+- le groupe de pilotage sur les dépassements de signaux : création d’une structure de coordi-
+nation et d’orientation pour le suivi des dépassements de signaux;
+- la mise en place de 4 groupes de travail sous le groupe de pilotage (Technique de signalisa-
+tion, Analyse des dépassements de signaux, programme des conducteurs, forum expérience 
+de terrain).
+### 5.4.3	 Stratégie TBL1+ 2009-2015
+Infrabel a décidé d’accélérer le planning d’implémentation de la TBL1+ dans le courant de l’année 
+2010. Là où il avait été programmé d’atteindre un taux de couverture d’efficacité 80% fin 2013, 
+grâce à l’accélération prévue par les services techniques il est maintenant envisagé d’arriver à un 
+taux de couverture d’efficacité de 87% fin 2012.
+La TBL1+ est un meilleur choix à court terme par rapport à l’ETCS car l’installation nécessite 50% 
+de balises en moins et 45 % en moins de charge de travail. De plus le hardware des balises sont 
+compatibles avec celui de l’ETCS.
+Une estimation du risque et de la possibilité d’un dépassement de signal a été faite sur base des 
+différents paramètres suivants :
+• Nombre de voyageurs
+• Vitesse de références
+• Nombre de signaux à respecter par un train qui traverse un nœud
+• Complexité de l’installation
+Cela a permis à Infrabel de déduire une couverture d’efficacité.
+Lors du planning il a été tenu compte de la concentration des cabines de signalisation et la coor-
+dination des travaux aux installations de signalisation.
+Les objectifs d’Infrabel étaient les suivants : en fin 2011, 68% de couverture d’efficacité et 87% 
+d’ici la fin 2012.
+| Année | Nombredesignauxmisenservice | Couvertured’effi cacité |
+| 2009 | 650 | 24100% , |
+| 2010 | 1000 | 29790% , |
+| 2011 | 900 | 17578% , |
+| Total | 2550 | 71468% , |
+Le planning est suivi de façon hebdomadaire par le management. Un envoi systématique des 
+modifications est effectué vers le SSICF.
+
+## Página 146
+
+### 5.4.4	 STM Siemens ETCS / TBL1+
+Un STM (System Transmission Module) est un module additionnel en cours de développement 
+chez Siemens à installer sur du matériel roulant équipé du système ETCS.
+Grâce à ce module, ce type de matériel roulant pourra lire et interpréter les informations émises 
+par les balises TBL 1+. 
+Le but est de réduire le coût par rapport à l’installation à bord de la TBL 1+.
+Cela permettra d’augmenter la couverture d’efficacité du système national TBL 1+.
+### 5.4.5	 Stratégie ETCS 2010-2025
+Infrabel a développé un Master Plan ETCS ambitieux qui reprend les objectifs qu’elle s’impose à 
+long terme ainsi que le choix technique qui y satisfait le mieux en fonction de la connaissance 
+actuelle d’Infrabel.
+Compte tenu du fait que l’ensemble n’est pas réalisable techniquement à très courte échéance 
+à cause des diverses technologies présentes sur le réseau, un plan avec plusieurs phases a été 
+construit.
+Ce plan est fondé sur une analyse de risques détaillée qui permet de définir le niveau ETCS à 
+installer sur chaque ligne du réseau belge.
+Pour que cette stratégie puisse être mise en place et les délais respectés, il faut que la mise à 
+disposition des investissements et l’approbation du projet s’effectuent dans leur ensemble.
+A titre d’exemple, l’évaluation des besoins en ressources humaines est estimée à un total de 223 
+personnes supplémentaires pour l’implémentation du système ETCS (ingénieur, mécanicien et 
+profil IT confondu au cours de différents phases et services : Phase de préparation, Roll-out, 
+Maintien du system, Communication, Administration HR).
+ETCS niveau 2 est la meilleure solution à long terme pour la réalisation des objectifs fonctionnels 
+déterminés. Cependant l’ETCS niveau 2 ne peut être placé sur chaque type d’enclenchement. 
+Les conditions préalables pour l’implémentation de l’ETCS niveau 2 :
+• modernisation de la signalisation;
+• modernisation des postes de signalisation;
+• mise à niveau du GSM-R sur les lignes où ETCS 2 sera implanté.
+L’implémentation de tout le réseau en ETCS 2, sur une trop brève échéance, amène trop de 
+contraintes techniques, économiques et budgétaires.
+C’est pourquoi Infrabel a établi une stratégie en plusieurs phases réparties dans le temps.
+La stratégie de migration est de remplacer tous les signaux longitudinaux - crocodiles MEMOR - 
+TBL1+ au fur et à mesure du temps par de l’équipement ETCS.
+Au cours des étapes intermédiaires qui courrent jusque 2022, le réseau sera équipé en partie de 
+l’ETCS niveau 1, de l’ETCS niveau 2 (sur les grands axes et le réseau RER) et d’un niveau 1 Limited 
+Supervision (en cours de développement).
+Le message «Limited Supervision» transmis par la balise ETCS serait du même niveau de richesse 
+que le message transmis par une balise TBL 1+.
+Les similitudes entre la gestion de la TBL 1+ et de l’ETCS Limited Supervision permettront à Infra-
+bel de faire migrer plus rapidement les lignes équipées TBL 1+ vers l’ETCS LS. 
+De la sorte, tout le matériel roulant équipé du système ETCS pourra, sans l’ajout d’un module 
+STM, rouler sur les voies ETCS LS.
+
+## Página 147
+
+Ce niveau ETCS Limited supervision serait installé sur toutes les voies principales et toutes les 
+voies accessoires donnant accès aux voies principales.
+Un accord entre Infrabel et la SNCB est intervenu pour les systèmes installés à bord soit l’ETCS 
+niveau 2 et permettent au matériel roulant de lire l’ETCS niveau 2, niveau 1 limited supervision, 
+TBL1+ via un STM développé par Siemens en cours d’homologation.
+Une analyse de risque a été réalisée pour déterminer par ligne l’ATP/ATC minimum.
+Le modèle tient compte :
+• du nombre de voies en ligne;
+• de la longueur de la voie;
+• du nombre de trains qui utilisent la ligne;
+• du nombre de km parcourus par train sur la ligne;
+• du nombre de voyageurs transportés sur la ligne;
+• de la vitesse de référence de la ligne;
+• des remarques de la Commission de sécurité.
+A partir de ce modèle, un score de risque déterminé est attribué à chaque ligne, tant pour la situa-
+tion en 2010 que pour la situation en 2022.
+Les recommandations de l’analyse de risque réalisée par Infrabel déterminent que :
+• l’ETCS 2 sera donc installé sur toutes les lignes où le niveau de sécurité exigé et où c’est éco-
+nomiquement justifié;
+• l’ETCS limited supervision sera installé sur les lignes où ce système permet d’atteindre le 
+niveau de sécurité attendu;
+• une étude spécifique des modifications à apporter à l’infrastructure sera réalisée pour les 
+lignes à haut potentiel de risque c’est-à-dire si un risque d’atteindre le point dangereux 
+existe malgré l’installation du système ETCS.
+### 5.4.6	 Analyse de risques 30/09/2011 : système pour le départ de train de 
+voyageurs
+Actuellement en Belgique plusieurs procédures de départ existent.
+Depuis 2010, un groupe de pilotage INFRABEL-SNCB a été mis en place afin d’optimaliser la pro-
+cédure de départ des trains de voyageurs.
+L’analyse a mis en évidence les différents risques liés à chacune des procédures de départ où le 
+plus grand danger identifié est « la zone grise » avant le départ du train.
+La zone grise est identifiée par le temps entre le moment où l’accompagnateur de train a tourné 
+la clef IOT et le moment où le train démarre. Les portes restent ouvertes jusqu’au moment où le 
+train démarre mais il n’est plus permis à des passagers d’embarquer dans le train vu l’imminence 
+du démarrage du train.
+Des alternatives à la procédure de départ avec l’IOT sont recherchées, à titre d’exemple, une nou-
+velle procédure totalement basée sur la technique GSM-R.
+
+## Página 148
+
+### 5.4.7	 Analyses de risques 27/07/2010 dépassements de signaux : le cas des 
+portiques 
+Suite à la récurrence des dépassements de signaux, une analyse de risques a été envisagée ayant 
+pour objectif d’analyser les dépassements de signaux sur portiques.
+Le but du rapport est de déterminer si les portiques présentent des risques supplémentaires par 
+rapport à une implémentation de la signalisation latérale sur mâts.
+### 5.4.8	 Analyse de risques 07/12/2010 dépassements de signaux : oubli du 
+### Double Jaune
+L’objectif du rapport est d’analyser les causes possibles pouvant engendrer le dépassement du 
+signal suivant.
+La méthode envisagée pour réaliser l’analyse se base sur le principe du brainstorming.
+L’analyse se compose d’un seul système (oubli du double jaune) divisé en 4 sous-systèmes : 
+• facteurs personnels;
+• facteurs liés à la fonction (pression de la régularité/ponctualité,…);
+• facteurs externes (Utilisation GSM, personne dans le poste de conduite, …);
+• facteurs liés à l’environnement ferroviaire.
+### 5.4.9	 Analyse signal desservi à plus de 300m
+Le but de cette analyse est d’évaluer les différentes solutions pour autoriser le départ d’un train 
+lorsque le signal en aval se trouve à plus de 300m du bout du quai.
+La méthode utilisée : analyses des risques individuels sur base d’un arbre des causes, combinée 
+à une estimation de fréquence par des experts.
+Deux systèmes ont été analysés 
+
+## Página 149
+
+L’analyse a mis en avant que :
+• déplacer des quais est non réaliste, 
+• le déplacement des signaux réduirait les sections et donc la distance de freinage,
+• le système sur base d’un répétiteur avec trois aspects est plus sûr que l’installation IOT dans 
+des endroits où le signal en aval se situe à plus de 300m du bout du quai.
+
+## Página 150
+
+## 6	 Recommandations
+De façon générale, les recommandations des organismes d’enquêtes doivent être adressées 
+à l’Autorité de Sécurité (le SSICF) et rédigées « goal-oriented ». Les recommandations ne font 
+pas l’objet d’une prioritisation. Il appartient au SSICF en concertation avec le gestionnaire 
+d’infrastructure et les entreprises ferroviaires de les traduire en recommandation « solution-
+oriented ».
+Une maitrise efficace des risques n’est possible que si elles mettent en place un processus axé 
+sur trois dimensions fondamentales :
+- composante technique : outils et équipements
+- composante humaine : compétences, formation, motivation du personnel
+- composante organisationnelle : procédures et méthodes permettant de définir les rela-
+tions entre les différentes tâches.
+### Franchissement de signaux fermés
+N°
+Constats et conclusions d’analyse
+Recommandations
+### R1.1 L’OE recommande à Infrabel et à 
+1
+la SNCB de fournir un plan d’actions 
+détaillé pour répondre aux diverses 
+recommandations de l’OE au SSICF dans 
+un délai maximum de 3 mois incluant 
+une estimation des dates de réalisation.
+## R1.2 
+L’OE 
+recommande 
+au 
+SSICF 
+de vérifier la nécessité d’étendre les 
+recommandations aux autres entreprises 
+ferroviaires.
+### R2.1 L’organisme d’enquête recommande 
+2
+L’accident a mis en évidence un échec 
+d’un principe de sécurité fondamental 
+à la SNCB et à Infrabel de prendre des 
+du système ferroviaire qui veut que les 
+mesures concrètes, pour prévenir les 
+conducteurs respectent les signaux fermés.
+collisions dues aux franchissements 
+de signaux fermés et de réduire les 
+Le contexte opérationnel fournit des éléments 
+conséquences des collisions de trains;
+d’explication possible au franchissement et 
+### R2.2 L’organisme d’enquête recommande 
+des pistes sont suggérées par l’analyse de la 
+défaillance dans le rapport :
+à la SNCB et à Infrabel de prendre des 
+• 
+la suppression de l’interruption de 
+mesures concrètes pour réduire la 
+séquence double jaune – rouge par 
+quantité de franchissements de signaux 
+les arrêts en PANG;
+fermés et les conséquences à court et à 
+• 
+uniformiser 
+les 
+modalités 
+de 
+long terme d’une manière systématique;
+communication du signal OT;
+• 
+l’imposition d’attente du signal de 
+voie ouvert avant toute information 
+OT;
+• 
+une prise en compte du risque 
+fatigue dans la conception des 
+plannings des conducteurs.
+
+## Página 151
+
+### R3 L’organisme d’enquête recommande 
+3
+Suite à l’accident de Buizingen, les deux 
+entreprises Infrabel et SNCB ont déposé 
+au SSICF, en coordination avec le ou 
+un plan d’équipement accéléré du système 
+les services concernés du SPF Mobilité 
+TBL1+ au niveau de l’infrastructure (fin 2015) 
+et Transport, d’assurer un suivi du 
+et au niveau du matériel roulant (fin 2013). 
+déploiement de l’ETCS avec une vision 
+Ce plan constitue un rattrapage d’urgence 
+globale sur l’évolution du niveau de 
+acceptable 
+répondant 
+à 
+la 
+nécessité 
+sécurité, à la fois avec une perspective 
+exprimée. Néanmoins le système d’aide à la 
+de vérification que les rythmes de 
+conduite TBL1+ n’est pas un système « full 
+déploiement soient respectés, et à 
+supervision ». Son installation accélérée sur 
+la fois pour vérifier que la transition, 
+le réseau belge ne peut constituer qu’une 
+et notamment la  désactivation des 
+solution transitoire et s’articuler avec une 
+systèmes existants, ne se réalise pas au 
+installation du système ETCS.
+détriment de la sécurité.
+Le planning ambitieux d’installation du 
+système ETCS proposé par Infrabel et par 
+la SNCB prévoit notamment l’équipement 
+complet (sol + bord) du réseau belge avant 
+2025 constitue une réponse de moyen et 
+long terme acceptable.
+## SYSTEME DE GESTION DE LA SECURITE
+N°
+Constats et conclusions d’analyse
+Recommandations
+### R4 L’organisme d’enquête recommande 
+4
+L’enquête a montré que l’appropriation et la 
+maîtrise des méthodes de gestion de risque 
+à Infrabel et à la SNCB d’introduire auprès 
+et d’analyse systémique et organisationnelle 
+du SSICF une révision de leurs manuels 
+des incidents et des accidents restent 
+de Systèmes de Gestion de la Sécurité 
+incomplètes tant à Infrabel qu’à la SNCB, 
+pour les faire évoluer positivement et 
+et ne permet pas à ces organisations de 
+de prendre les dispositions appropriées 
+remettre 
+suffisamment 
+en 
+cause 
+leurs 
+pour pallier aux déficiences identifiées 
+convictions et leur modèle de sécurité  en 
+dans le rapport d’enquête.
+cours. En réagissant aux événements pris 
+séparément et en recherchant la cause de 
+chaque dépassement, le raisonnement incite 
+à une compréhension centrée sur les actions 
+et les «erreurs  » de première ligne. De plus, 
+les plans de formations des enquêteurs ne 
+comprennent pas la formation en technique 
+d’enquête ni à l’analyse systémique des 
+incidents et accidents.
+La tentative d’analyse de l’évolution historique 
+des dispositifs de protection automatique 
+des trains en Belgique a mis en évidence 
+que les décisions ne sont pas suffisamment 
+documentées et soutenues par une évaluation 
+explicite des risques.
+Lors de toute décision en matière de gestion, il 
+convient de prendre en compte les incidences 
+directes et /ou indirectes sur la sécurité. Il y a 
+lieu de veiller à la transparence des processus 
+décisionnels.
+
+## Página 152
+
+### Les secours
+N°
+Constats et conclusions d’analyse
+Recommandations
+### R5 L’organisme d’enquête recommande 
+5
+Le périmètre de sécurité a été installé aux 
+environs de 10h30 alors que l’accident s’est 
+à Infrabel et à la SNCB de rappeler à 
+produit vers 8h30. Plusieurs personnes ont 
+leur personnel le respect des consignes 
+eu accès aux installations avant la mise sous 
+d’accès au site d’un accident, de rappeler 
+scellé. Infrabel a pu réaliser des mesures sur 
+au personnel que la prise de mesures, ou 
+le crocodile et dans la loge du signal.
+l’exécution de réparations sont interdites 
+Il y a lieu de rappeler que la prise de mesures, 
+sans 
+en 
+avoir 
+reçu 
+l’autorisation 
+ou l’exécution de réparations sont interdites 
+préalable des Autorités Judiciaires et/ou 
+sans en avoir reçu l’autorisation préalable des 
+de l’Organisme d’enquête, que l’accès 
+Autorités Judiciaires et/ou de l’Organisme 
+doit être strictement limité aux services 
+d’enquête.
+de secours et aux enquêteurs.
+### R6 L’organisme d’enquête recommande 
+6
+La configuration du terrain, le mur le long des 
+au gestionnaire de l’infrastructure et à 
+voies, la non proximité de la gare et le train 
+la SNCB de proposer un ajustement les 
+1557 stoppé à hauteur de l’accident ont posé 
+plans d’urgence pour l’évacuation des 
+de sérieux problèmes d’accès aux services 
+blessés, les passagers, etc. en fonction 
+de secours pour acheminer les blessés vers 
+de l’expérience tirée de l’accident.
+les ambulances. Les secouristes devaient 
+parcourir de longues distances à pied. 
+La SNCB a pris l’initiative de proposer des 
+bus pour raccompagner les passagers. Cette 
+action est louable mais un listing reprenant 
+le nom des personnes à bord des trains 
+n’était pas disponible avant de les acheminer 
+vers d’autres gares.
+
+## Página 153
+
+### Autres
+N°
+Constats et conclusions d’analyse
+Recommandations
+### R7 La loi du 19 décembre 2006 impose au 
+7
+L’Organisme d’Enquête du SPF Mobilité et 
+Transport a été informé trop tardivement 
+gestionnaire 
+d’infrastructure 
+d’informer 
+de l’accident. L’information est parvenue 
+immédiatement 
+l’organisme 
+d’enquête. 
+plus d’une heure après l’accident à l’OE.
+L’OE recommande à Infrabel de revoir les 
+priorités pour l’information des intervenants 
+pour permettre à chacun d’effectuer ses 
+devoirs.
+### R8 Il est recommandé à Infrabel de proposer 
+8
+Le signal H-E.1 ne délivrait pas son 
+intensité lumineuse nominale au moment 
+une modification de son manuel de gestion 
+de l’accident. Même si la visibilité du signal  
+de la sécurité au SSICF pour s’assurer du 
+H-E.1 n’est pas mise en cause dans cet 
+respect de la périodicité de la maintenance 
+accident, le manque d’intensité lumineuse 
+de la signalisation et de sa traçabilité de 
+aurait pu avoir une incidence sur la 
+façon non ambigüe.
+perception du signal par le conducteur 
+dans d’autres conditions météorologiques.
+### R 9 L’OE recommande à Infrabel, lors de la 
+9
+Garantir 
+systématiquement 
+via 
+des 
+aiguillages de protection que tout itinéraire 
+conception de nouvelles installations ou 
+autorisé et parcouru par un train ne puisse 
+lors de réaménagements en profondeur 
+en aucun cas être cisaillé ou faire l’objet 
+d’installations existantes, de limiter, en 
+d’un face à face en cas de dépassement 
+concertation avec les opérateurs, les risques 
+de signal par tout autre mouvement, sont 
+qu’un itinéraire autorisé et parcouru par un 
+des exigences impossibles à satisfaire dans 
+train soit cisaillé ou résulte en un face à face 
+les situations actuelles d’exploitation sans 
+en cas de dépassement de signal par tout 
+restreindre fortement l’exploitation ou sans 
+autre mouvement.
+adapter fortement l’infrastructure.
+
+## Página 154
+
+## 7 	Annexes
+### 7.1	 Site de l’accident
+
+## Página 155
+
+### 7.2	 Grille d’entretien pour l’étude facteurs humains
+
+## Página 156
+
+### 7.3	 Grille d’entretetien concernant le SGS
+A qui ? 
+Comment résumeriez-vous en une ou deux 
+Tous 
+phrases le problème des franchissements de 
+signaux fermés 
+Comment avez-vous évalué le risque associé aux 
+l’entreprise 
+ferroviaire, 
+du 
+des années 90 ? 
+-
+d’infrastructure  
+vous entre fréquence de franchissement et 
+SSICF 
+fréquence de collision ? comment avez-vous 
+OS  
+ ? le nombre de 
+ ? 
+Quelles priorités avez-vous établi entre les 
+l’entreprise 
+ferroviaire, 
+logique ? 
+d’infrastructure  
+SSICF 
+Q
+-vous 
+donnée 
+aux 
+franchissements 
+l’entreprise 
+ferroviaire, 
+fréquence?  
+d’infrastructure  
+SSICF 
+OS 
+-vous 
+déduit ? 
+l’entreprise 
+ferroviaire, 
+d’infrastructure  
+SSICF 
+-
+en œuvre ? 
+l’entreprise 
+ferroviaire, 
+e 
+d’infrastructure  
+ ?  
+l’entreprise 
+ferroviaire, 
+d’infrastructure  
+SSICF 
+OS 
+Pourquoi 
+la 
+décision 
+d’implanter 
+des 
+smes a-elle été aussi 
+l’entreprise 
+ferroviaire, 
+d’infrastructure  
+SSICF 
+OS 
+Comment le service sécurité est-il connecté aux 
+comités décisionnaires : écoute, crédibilité, 
+l’entreprise 
+ferroviaire, 
+pouvoir réel d
+ ? 
+d’infrastructure  
+SSICF 
+Faites-vous faire des enquêtes internes sur les 
+accidents ? Sur les incidents ? Dans quel but ? 
+l’entreprise 
+ferroviaire, 
+Qui les fait 
+çue ? Quelles 
+d’infrastructure  
+ ? 
+Quelles 
+SSICF 
+compétences 
+
+## Página 157
+
+ d’une autre instance décisionnaire 
+l’entreprise 
+ferroviaire, 
+d’Infrabel et SNCB sur les SPAD 
+d’infrastructure  
+SSICF 
+Comment a-t-on associé les OS notamment 
+ ; idem pour les 
+l’entreprise 
+ferroviaire, 
+d’infrastructure  
+d’hygiène et de sécurité, 
+OS 
+dimensionnement, 
+ses 
+compétences) 
+vous 
+l’entreprise 
+ferroviaire, 
+semble-t-
+d’infrastructure  
+carences décisionnelles du passé concernant les 
+SSICF 
+franchissements de signaux ? Si oui en quoi ? 
+Votre SGS vous semble-t-il aujourd’hui bien 
+structuré, bien dimensionné, doté des bonnes 
+l’entreprise 
+ferroviaire, 
+du 
+g
+méthodes 
+(notamment 
+sur 
+le 
+retour 
+d’infrastructure  
+d’expérience : 
+nombre 
+de 
+signalements, 
+SSICF 
+méthodes d’analyse)  
+L’entreprise vous semble-t-elle 
+avoir une 
+« bonne » culture de sécurité ? En quoi ? 
+l’entreprise 
+ferroviaire, 
+d’infrastructure  
+SSICF 
+OS 
+Selon-vous que faudrait-il améliorer rapidement 
+ ? 
+l’entreprise 
+ferroviaire, 
+d’infrastructure  
+SSICF 
+OS 
+Que pensez-vous, que faites-vous aujourd’hui, 
+qu’allez-vous faire demain, sur ce
+l’entreprise 
+ferroviaire, 
+du dépassement de signaux fermés? 
+d’infrastructure  
+SSICF 
+OS 
+
+## Página 158
+
+### 7.4	 Bande TELOC 3678
+
+## Página 159
+
+### 7.5	 Bande TELOC 1707
+
+## Página 160
+
+### 7.6	 Plan de secours provincial
+08u28: 1ste melding bij de Dienst 100 – Leuven: aanrijding met ontsporing 3’ voorbij Hal waars-
+chijnlijk met doden
+08u29: buurtbewoner meldt botsing van 2 passagierstreinen, geen info over slachtoffers
+08u30: 1ste oproep bij Dienst 101: onmiddellijk wordt interventieploeg Hal ter plaatse gestuurd
+08u31: Dienst 100 Leuven roept brandweerwagen en 2 ziekenwagens Hal op, afkondiging MIP
+08u32: Dienst 100 Leuven roept MUG Hal en Tubize op met melding MIP en vraagt SITREP
+08u33: centrale meldkamer NMBS meldt botsing met gewonden - aantal onbekend – geen be-
+vestiging van locatie; Dienst 100 Leuven bevestigt afkondiging MIP
+08u34: Dienst 100 Leuven verwittigt Dir.Med. met melding MIP, treinramp
+(dit Impliceert afroep van 3 MUG en 5 ziekenwagens, FGI en DirMed)
+Een interventieploeg Hal is ter plaatse en vraagt zoveel mogelijk ziekenwagens te sturen.
+08u35: Dienst 100 - Mons meldt GSM oproep van treinbegeleider
+08u38: treinbegeleider wordt gecontacteerd: hij heft geen exacte locatie en heeft zelf hulp no-
+dig
+08u40: FGI wordt verwittigd van MIP en treincrash
+08u41: adj. FGI wordt verwittigd; 
+1 ziekenwagen ter plaatse, geen SITREP beschikbaar
+08u42: Brandweer en Politie ter plaatse hebben eerste contact over RVP
+08u44: Dienst 100 Leuven vraagt alle voertuigen over te schakelen naar groep KTA/RAMP01
+08u46: Dir.Med vraagt update situatie
+08u47: MUG Tubize ter plaatse
+08u59: dispatching Brandweer Hal meldt verschillende wagons gekanteld
+08u50: eerste SITREP door MUG-arts Hal, 1 overleden en minimaal 3 à 4 zwaar gekwetste, 
+08u53: Dienst 100 – Leuven geeft SITREP aan Dir.Med. en meldt adres RVP1
+08u54: SITREP MUG Tubize: minstens een provinciale fase
+08u58: wijziging adres RVP1
+09u03: MUG Hal meldt minstens 10 doden
+09u03: oproep Rode Kruis doorgeschakeld via Dienst 100 Gent
+09u06: nieuwe wijziging adres RVP1
+09u10: Dir.Med ter plaatse; Dienst 100 vraagt SITREP en informatie i.v.m. mogelijke fase
+09u12: Dir. Med. meldt dat een provinciaal rampenplan moet afgekondigd worden
+09u14: in interventieverslag vermelding door 101 dat provinciale fase is afgekondigd
+09u15: FGI wordt verwittigd van provinciale fase, 
+09u15: Dir.Med. meldt 10 doden, 6 geknelden, rest stappende, 
+09u16: Brandweer Leuven wordt verwittigd van provinciale fase, voorlopige balans 10 doden en 
+6 zwaar geknelden;
+09u16: Dir.Med stelt voor om de stappenden naar D’Exaerdestraat te laten gaan
+09u18: Dir.Med. vraagt 3 extra ziekenwagens en evacuatieteam om SO via ladders te evacueren
+09u19: Lt. Brandweer Hal vraagt dringend meer medische teams; RVP Nederhem
+09u20 tot 09u23: MUG Erasmus St. Pieter en Braine l’Alleud worden uitgestuurd 
+09u24: Provincie meldt dat crisiscentrum bij Brandweer Leuven ingericht wordt
+Dir.Med OVL meldt zich
+09u25: Dir.Med meldt VMP of kleine crisiscel in D’Exaerdestraat
+09u25: MUG Braine en Erasmus vertrekken naar interventie
+09u25: 101 meldt provinciaal crisiscentrum in Brandweerkazerne Leuven
+09u26: Brandweer Hal meldt oprichting gemeentelijke crisiscel in Hal;
+09u27: Dir.Med vraagt nog 3 medische teams
+09u28: politie vraagt ziekenwagens aan de Jean Laroystraat, 
+
+## Página 161
+
+09u29: centrale meldkamer NMBS meldt dat gewonden toestromen in het station van Hal
+09u30: gemeentelijke coördinatiecomité meldt zich aan en vraagt hoe het provinciale CC kan 
+bereikt 
+09u32: verzoek aan 2 medische teams om groep KTA/RAMP01 te gebruiken	
+09u38: Dienst 100 vraagt aan Dir.Med. hoe de vrije bedden in ziekenhuizen kunnen doorgege-
+ven worden
+09u40: Dir.Med. meldt probleem telefooncommunicatie: beschikbare bedden via radio doorge-
+ven
+09u40: FGI vraagt naar laatste balans en of er nood is aan extra teams uit andere provincies
+09u42: MUG Erasmus is ter plaatse, MUG Aalst onderweg
+09u44: politie vraagt aan Dir.Med waar VMP is, DirMed meldt dat 2de VMP nodig is;
+09u45: La Hulpe stelt 6 ziekenwagens ter beschikking: Dir.Med. meldt dat deze absoluut nodig 
+zijn
+09u48: Brandweer geeft telefoonnummer van gemeentelijk crisiscomité door en vraagt of pro-
+vinciaal CC hen zo snel mogelijk kan contacteren
+09u51: VMP2 wordt ingericht aan het oude gemeentehuis van Buizingen
+09u52: Dienst 100 stuurt medische teams OLV Aalst naar VMP2 te sturen
+09u55: crisiscentrum gecontacteerd om te vragen of ze al operationeel zijn: affirmatief
+09u58: Rode Kruis meldt dat 6 ziekenwagens onderweg zijn: RVP Gemeenteplein wordt beves-
+tigd
+10u13: RVP Stationsplein wordt aan dispatching Rode Kruis doorgegeven
+10u13: VMP1 meldt dat eerste slachtoffers kunnen afgevoerd worden: wachten
+10u30: VMP2 is opgesteld
+10u36: Dienst 100 verzoekt De Lijn 4 autobussen ter beschikking te stellen
+10u37: Regulator meldt zijn aanwezigheid voor regulatie (verdeling slachtoffers over zieken-
+huizen en ziekenwagens)
+10u38: OLV Aalst heeft intern rampenplan in werking gesteld
+10u41: Rode Kruis meldt dat DSI op VMP1 aanwezig is
+10u49: CC maakt telefoonlijn vrij voor informatie naar de families
+10u56: Militair Hospitaal klaar voor opvang van overledenen
+11u07: Centrale Meldkamer NMBS vraagt info over slachtoffers
+11u33-42: Brandweer geeft balans van op VMP Stationsplein
+11u45: VMP1 meldt dat alle slachtoffers weg zijn en start met opruiming
+11u48: Dir.Med vraagt DSI (Dringende Sociale Interventie) naar VMP2 te gaan voor opvang fami-
+lie slachtoffers
+12u16-18: rondvraag naar identiteiten slachtoffers in ziekenhuizen
+12u32: FGI meldt dat alle MUG op het terrein mogen teruggetrokken worden, 2 ziekenwagens 
+blijven ter plaatse
+12u45: update Dir.Med nog 4 slachtoffers ter plaatse maar geen MUG nodig
+13u15: Centrale meldkamer NMBS vraagt balans: geen officiële cijfers beschikbaar, enkel raming
+13u23: Brandweer meldt dat medisch dispositief wordt opgeheven aan Stationsplein 
+Dir.Med gaat naar rampterrein met parket ivm dodelijke slachtoffers
+14u32: Dir.Med meldt dat 8 slachtoffers geborgen werden en werkt nu aan exacte lijsten voor 
+de familie
+14u38	 48 vraag aan ziekenhuizen om de identiteit van slachtoffers door te faxen naar CC
+17u30: Dienst 100 meldt aan de ziekenhuizen dat MIP is afgelopen
+18u34: Dir.Med OVL heeft alle overlijdensaktes ondertekend
+
+## Página 162
+
+### 7.7	 Equipement à bord des trains
+### 7.7.1	 Veille automatique (Pédale d’Homme Mort) 
+Le dispositif de veille automatique provoque l’arrêt automatique en cas de défaillance du 
+conducteur.
+Le conducteur se manifeste en appuyant sur une pédale toutes les minutes. Ce dispositif pro-
+voque la vidange de la conduite générale du frein automatique ainsi que la coupure de la trac-
+tion en cas de défaillance du conducteur. En conséquence, le train est soumis à un freinage 
+d’urgence.
+### 7.7.2	 Gong Sifflet
+Ce système utilise les impulsions électriques fournies par les crocodiles placés au milieu de la 
+voie et permet de contrôler la vigilance du conducteur. Quand le train franchit un signal ce sys-
+tème envoie un avertissement sonore à un appareillage se trouvant dans le poste de conduite 
+du train.
+Les crocodiles peuvent transmettre au convoi des impulsions positives ou négatives : 
+• les impulsions positives font « tomber » le sifflet, le conducteur reçoit un signal sonore ; Le 
+conducteur accuse réception de l’aspect du signal en réarmant le système pneumatique 
+dans un délai de quelques secondes, à défaut de quoi le dispositif d’arrêt automatique (frei-
+nage d’urgence) se déclenche Les impulsions positives sont reçues au droit de signaux pré-
+sentant l’aspect « 2 jaunes », « vert-jaune vertical », « vert-jaune horizontal ». 
+• les impulsions négatives font vibrer un gong sonore ; elles sont reçues au droit de signaux 
+présentant l’aspect « vert ». Une lampe bleue s’allume dans le poste de conduite 
+• absence d’impulsion : le signal est rouge, aucun signal n’est donné au train
+•Le système est un dispositif de vigilance pour contrôler l’attention du conducteur en lui 
+imposant d’accuser réception d’un signal avertisseur (impulsions positives). Si le conduc-
+teur n’appuie pas sur le bouton poussoir du contrôle de vigilance, il y a déclenchement d’un 
+freinage d’urgence et la fonction de mémorisation n’est pas obtenue.
+Dans le cas d’un signal rouge, aucune impulsion n’est transmise par le crocodile et par consé-
+quent la vigilance du conducteur n’est pas testée. 
+Il n’y a pas d’arrêt automatique en cas de dépassement du signal rouge.
+### 7.7.3	 Le système « MEMOR »
+Le système consiste en une mémorisation 
+de la mission restrictive imposée par le si-
+gnal d’avertissement
+Le système «  MEMOR  » réalise, à partir de 
+l’impulsion électrique fournie par les croco-
+diles, la répétition de l’aspect des signaux au 
+poste de conduite à l’aide d’un signal acous-
+tique émis par un gong ou par l’allumage 
+d’une lampe :
+Les impulsions positives provoquent le cli-
+gnotement d’une lampe jaune pendant 
+quelques secondes puis l’arrêt du convoi 
+(freinage d’urgence). Pour éviter cela, le 
+conducteur doit appuyer sur un bouton-
+
+## Página 163
+
+poussoir dit «de vigilance»; après la lampe reste allumée fixe pour aider à la mémorisation. Les 
+impulsions positives sont reçues au droit d’un signal présentant l’aspect «2 jaunes», «vert-jaune 
+vertical», «vert-jaune horizontal» ou éteint, et de certains panneaux annonçant une réduction de 
+vitesse.
+Les impulsions négatives provoquent l’allu-
+mage durant quelques instants d’une lampe 
+bleue et l’extinction de la lampe jaune si elle 
+était allumée. Elles sont reçues lors du pas-
+sage au droit d’un signal présentant l’aspect 
+«vert». 
+Absence d’impulsion : le signal est rouge, au-
+cun signal n’est donné au train
+La lampe jaune allumée aide le conducteur à 
+mémoriser la mission restrictive imposée par 
+le signal d’avertissement rencontré.
+## 7.7.4	 TBL1
+Ce système a les mêmes fonctionnalités que le système MEMOR mais lors d’un franchissement 
+d’un signal fermé, un freinage automatique est activé.
+## 7.7.5	 TBL1+ 
+Le système est appelé EURO TBL+ jusqu’en 2005.
+Comme dans le cas du système MEMOR, l’information restrictive est donnée au niveau du signal 
+avertisseur par la présence d’une lampe. 
+Un freinage d’urgence est déclenché automatiquement s’il y a dépassement d’une vitesse de 40km/h 
+au niveau de la balise placée à 300m du signal.
+L’amélioration par rapport au TBL1 consiste au placement d’une balise à 300 mètres en amont 
+du signal qui contrôle la vitesse du train : un freinage d’urgence est déclenché automatiquement 
+s’il y a dépassement d’une vitesse de 40km/h au niveau de la balise placée à 300m du signal et 
+la vitesse d’approche du signal fermé est contrôlée en continu depuis la balise située à 300m en 
+amont.
+## 7.7.6	 TBL2
+Ce système de signalisation de cabine belge a été développé et homologué pour la ligne à grande 
+vitesse Leuven-Liège est en activité depuis début 2002. Il effectue un contrôle de vitesse complet 
+et permanent, y compris le freinage. 
+
+## Página 164
+
+## 7.7.7	 TVM430
+Ce système de signalisation de cabine français est exclusivement utilisé sur la ligne à grande 
+vitesse L1 entre la frontière française (côté Lille) et Lembeek. Il effectue un contrôle de vitesse 
+complet et permanent, freinage inclus. Les trains à grande vitesse sont équipés de ce système 
+(Eurostar, Thalys, TGV).
+Ces deux systèmes (comme l’ETCS évoqué ci-après) sont des systèmes “full supervision”. Le 
+conducteur et l’avancement du train sont surveillés en permanence par l’ordinateur de bord 
+et il ne peut à aucun moment être créé de risque inacceptable contre la sécurité d’exploitation 
+(en dehors de l’isolement d’équipements de sécurité). Le système interdit tout dépassement 
+de vitesse et toute transgression des courbes de freinage calculées par l’ordinateur de bord et 
+qui sont nécessaires au respect de la signalisation. L’ordinateur prévient ainsi tout dépassement 
+d’un point dangereux qui serait non-autorisé par la signalisation.
+## 7.7.8	 ETCS
+Le système ETCS est le système que l’Europe impose pour toutes les nouvelles lignes ferroviaires 
+transeuropéennes.
+Ce système assure un contrôle permanent et complet du mouvement du train, en ce compris 
+un contrôle complet et continu de la vitesse. Il donne une information automatisée de la vitesse 
+autorisée au conducteur via l’équipement du poste de conduite.
+Dans l’ETCS1, la transmission est réalisée via les balises, comme pour le système TBL. Dans 
+l’ETCS2, la transmission de l’information est assurée par le GSM-R, un système de communica-
+tion international sans fil spécifique au monde ferroviaire.
+Comme pour TVM 430 et TBL2, les indications de signalisation à respecter sont affichées en ca-
+bine de conduite et non plus par signalisation latérale uniquement 
+Hiérarchisation des systèmes en vue de la prévention des dépassements de signaux
+L’information restrictive est donnée au niveau du signal avertisseur et est perpétuée par la signa-
+lisation de bord qui prévoit, affiche, surveille et actualise une séquence d’arrêt.
+Parachutes à la non mémorisation : le système de surveillance de vitesse et d’odométrie de bord 
+interdisent tout dépassement de signal fermé.
+ETCS agit par vérification de la diminution graduelle de la vitesse de l’engin contrôlé par rapport 
+à la position géographique du signal et à son indication. La distance de freinage variant selon 
+la courbe de vitesse calculée par le système pour que le train s’arrête avant le signal imposant 
+l’arrêt.
+
+## Página 165
+
+### 7.8	 Fiche de service du conducteur du 3678
+
+## Página 166
+
+### 7.9	 Annexe 3 à la Directive 2004/49/CE
+SYSTÈMES DE GESTION DE LA SÉCURITÉ
+1. Exigences applicables au système de gestion de la sécurité
+Le système de gestion de la sécurité doit être documenté dans toutes ses parties et décrire no-
+tamment la répartition des responsabilités au sein de l’organisation du gestionnaire de l’infras-
+tructure ou de l’entreprise ferroviaire. Il indique comment la direction assure le contrôle aux dif-
+férents niveaux de l’organisation, comment le personnel et ses représentants à tous les niveaux 
+participent et comment l’amélioration constante du système de gestion de la sécurité est assu-
+rée.
+2. Éléments essentiels du système de gestion de la sécurité
+Les éléments essentiels du système de gestion de la sécurité sont les suivants:
+a) une politique de sécurité approuvée par le directeur général de l’organisation et communi-
+quée à l’ensemble du personnel;
+b) des objectifs qualitatifs et quantitatifs de l’organisation en matière d’entretien et d’améliora-
+tion de la sécurité ainsi que des plans et des procédures destinés à atteindre ces objectifs;
+c) des procédures pour satisfaire aux normes techniques et opérationnelles existantes, nouvelles 
+et modifiées ou à d’autres prescriptions définies:
+— dans les STI, ou
+— dans les règles nationales visées à l’article 8 et à l’annexe II, ou
+— dans d’autres règles pertinentes, ou
+— dans les décisions de l’autorité, et des procédures pour assurer la conformité avec ces normes 
+et autres prescriptions tout au long du cycle de vie des équipements et des activités;
+d) des procédures et méthodes d’évaluation des risques et de mise en œuvre de mesures de 
+maîtrise des risques chaque fois qu’un changement des conditions d’exploitation ou l’introduc-
+tion de nouveau matériel comporte de nouveaux risques pour l’infrastructure ou l’exploitation;
+e) des programmes de formation du personnel et des systèmes permettant de veiller à ce que 
+les compétences du personnel soient maintenues et que les tâches soient effectuées en consé-
+quence;
+f) des dispositions garantissant une information suffisante au sein de l’organisation et, le cas 
+échéant, entre les organisations opérant sur la même infrastructure;
+g) des procédures et formats pour la documentation des informations sur la sécurité et la déter-
+mination de la procédure de contrôle de la configuration des informations vitales en matière de 
+sécurité;
+h) des procédures garantissant que les accidents, les incidents survenus ou évités de justesse 
+et les autres événements dangereux soient signalés, examinés et analysés, et que les mesures 
+préventives nécessaires soient prises;
+i) des plans d’action, d’alerte et d’information en cas d’urgence, adoptés en accord avec les auto-
+rités publiques compétentes;
+j) des dispositions prévoyant un audit interne régulier du système de gestion de la sécurité.
+
+## Página 167
+
+### 7.10	 SNCB Holding
+
+## Página 168
+
+### 7.11	 Etude Infrabel
+
+## Página 169
+
+
+
+## Página 170
+
+
+
+## Página 171
+
+### 7.12	 Matériel Gong-Sifflet SNCB au 20/08/2008
+
+## Página 172
+
+### 7.13	 Matériel SNCB modifié avec lampe de memorisation
+
+## Página 173
+
+
+
+## Página 174
+
+### 7.14	 Matériel Infrabel équipé du système Gong-Sifflet au 
+## 28/08/2008
+
+## Página 175
+
+
+
+## Página 176
+
+### 7.15	 Analyse des données Psion du signal H-E.1
+
+## Página 177
+
+
+
+## Página 178
+
+
+
+## Página 179
+
+
+
+## Página 180
+
+### 7.16	 Commentaires reçus non intégrés au rapport
+
+## Página 181
+
+
+
+## Página 182
+
+
+
+## Página 183
+
+
+
+## Página 184
+
+
+
+## Página 185
+
+
+
+## Página 186
+
+### Organisme d’Enquête pour les Accidents et Incidents Ferroviaires
+www.mobilit.fgov.be

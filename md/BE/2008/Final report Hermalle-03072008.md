@@ -1,0 +1,1574 @@
+---
+pais: BE
+anio: 2008
+idioma: FR
+pdf: Final report Hermalle-03072008.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/Final%20report%20Hermalle-03072008.pdf
+md5_pdf: d1bba537cbeaa9ddc77a1e2126437ce2
+paginas: 60
+chars: 62670
+tablas: 1
+cuerpo: "12.0pt; encabezados 3 niveles"
+rotulos_excluidos: "59 (#)"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 7
+fecha_proceso: 2026-11-18
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+Organisme d’enquête 
+Accidents ferroviaires 
+RAPPORT D’ENQUETE 
+Collision frontale entre deux trains 
+Le 03 juillet 2008 à Hermalle sous Huy 
+Expertise externe: SNCB-HOLDING 
+Direction Stratégie et Coordination 
+Sécurité et Environnement. 
+
+## Página 2
+
+Table des matières 
+Chapitre I : Résumé 
+Chapitre II : Les faits 
+1. Exposé des faits : 
+2. Informations, Interventions, mesures prises pour rétablir 
+le trafic 
+3. Conséquences de l’accident 
+4. Conditions atmosphériques  
+Chapitre III : Ouverture de l’enquête par l’organisme d’Enquête 
+Accidents ferroviaires 
+1. La décision d’enquêter et sa motivation. 
+2. Composition de la cellule d’enquête. 
+Chapitre IV: le contexte de l’accident 
+1. La ligne ferroviaire 125 
+2. L’infrastructure ferroviaire à Hermalle s/Huy 
+3. Le matériel roulant 
+Chapitre V : L’enquête 
+1. Eléments à la base de l’enquête 
+A. Résumé des déclarations : 
+B. Enregistrement de vitesse du train de voyageurs E2405 
+1. Généralités 
+2. Bande de vitesse   
+C. Vérification technique après l’accident 
+D. Essais effectués    
+E. Effondrement de tension chez TECTEO 
+2. Succession des évènements 
+3. Analyse du signal K10 
+
+## Página 3
+
+4. Conséquences de l’effondrement de tension 
+1. Influence de l’effondrement de tension chez TECTEO sur 
+les installations Infrabel. 
+1. Scénario 1  
+2. Scénario 2 
+2. Schéma électrique du signal K10 
+3. Influence de la chute de tension 110V et de son retour 
+sur les relais   
+4. Evolution de l’alimentation 110V sur le crocodile pendant 
+la commutation 
+5. Monocinétisme  
+6. Evolution du signal K10 lors de l’approche du train 
+1. Hypothèse 1 
+2. Hypothèse 2  
+5 - Distance de visibilité du signal K10 
+6 – Influence de la rupture d’alimentation sur la conduite 
+7 – Modification du tracé permanent 
+8 – Occurrence d’évènements semblables 
+1. Effondrements de tension chez TECTEO 
+2. Remises intempestives de signaux à l’arrêt 
+9 - Connaissance de ligne du conducteur  
+1. Réglementation en vigueur 
+2. Le conducteur de train de voyageurs 
+10 - Comportement de l’accompagnateur de train 
+1. Extrait du manuel de l’accompagnateur de train 
+2. Extrait de la consigne Personnel Accompagnement 
+des Trains  
+3. L’accompagnateur du train de voyageurs 
+Chapitre VI : Conclusions 
+1. cause directe 
+2. cause sous-jacente  
+Chapitre VII : Recommandations 
+
+## Página 4
+
+ANNEXE 1 Fiche signalétique Automotrice Type AM83 
+ANNEXE 2 Fiche signalétique machine Diesel Type 77 
+ANNEXE 3 Eléments de signalisation 
+1. Le circuit de voie 
+2. Le block system à voie ouverte 
+3. Le crocodile 
+4. Le système « MEMOR » 
+5. Le tracé permanent 
+
+## Página 5
+
+### Chapitre I : Résumé 
+Le jeudi 03-07-2008 à 6h48, ligne 125 (Namur- Liège) le train de 
+voyageurs E2405 entre en collision frontale avec le train de 
+marchandises Z74070 à la borne kilométrique 19.215 située sur la 
+commune de Hermalle s/Huy.  
+Le train de marchandises Z74070 est arrêté sur la voie A, de 
+Liège à Namur, devant le signal  C10 qui est au rouge. 
+L’itinéraire pour mener ce train vers le raccordement privé de 
+Dumont – Wauthier (aiguillages 1A et 1B, voie B en contre - voie, 
+aiguillage 2A)  a été tracé en cabine de signalisation de Flémalle 
+vers 06 h 45 après que le tracé permanent à Hermalle ait été 
+supprimé. 
+Le train de voyageurs E2405 circule en voie B vers Liège. Surpris 
+de voir le signal E10 au rouge (en protection de l’itinéraire vers le 
+raccordement pour le train de marchandises) le conducteur du 
+train amorce un freinage d’urgence. Il ne peut éviter de franchir 
+ce signal, de talonner l’aiguillage 2A et de terminer sa course par 
+une collision frontale avec le train de marchandises en voie A. 
+L’enquête a permis de constater que le système de signalisation, 
+aussi bien au niveau infrastructure qu’au niveau équipement de 
+bord, ne présentait aucune défaillance technique et que la 
+visibilité des signaux K10 et E10 était satisfaisante.  
+L’analyse de la bande de vitesse du train voyageur indique par 
+contre que le signal K10, qui précédait  un signal E10 avec le feu 
+au rouge ne montrait pas un feu double jaune comme on pouvait 
+s’y attendre. 
+Ce constat trouve son explication dans  la chute de tension que  
+l’alimentation électrique de la signalisation subit peu avant ou à 
+l’instant de passage du train de voyageurs au signal K10. Cette 
+chute de tension à ce moment est confirmée par TECTEO.  
+
+## Página 6
+
+Le rapport démontre que dans de telles circonstances le signal 
+K10 s’éteint brièvement ou se met au rouge. Son crocodile n’a par 
+conséquent pas la tension positive d’un signal double jaune et le 
+système mémor n’est pas activé par le frottement de la brosse sur 
+le crocodile au passage du train. 
+La collision est donc la conséquence directe du fait que le 
+conducteur du train de voyageurs a omis d’amorcer un freinage à 
+l’approche du signal K10. Normalement ce signal aurait dû 
+présenter un feu double jaune,  mais suite  à la chute de tension 
+dans l’alimentation électrique, il est passé au rouge ou était 
+éteint. 
+L’accident 
+devenait 
+inévitable 
+par 
+l’absence 
+d’équipement 
+technique pour contrôler la marche des trains et occasionner 
+automatiquement un freinage d’urgence  lorsque le train dépasse 
+un signal qui impose son arrêt ou qui est éteint. 
+Une  des recommandations concerne ainsi l’urgence de la mise en 
+place  d’un système de contrôle automatique de la marche des 
+trains et la nécessité de poursuivre sans relâche le programme en 
+cours d’exécution. 
+En tout état de cause, il reste important que les entreprises 
+ferroviaires continuent à sensibiliser leurs conducteurs aux risques 
+de dépassement des signaux imposant l’arrêt et qu’ils veillent à ce 
+que ces conducteurs ne soient sujet à la distraction lors de 
+l’exécution de leur tâche. Il est en plus nécessaire que ces 
+entreprises ferroviaires et le gestionnaire de l’infrastructure 
+fassent en commun des analyses de risques sur les points du 
+réseau ou la  problématique des dépassements de signaux reste 
+récurrente. 
+Une dernière recommandation fait suite au constat que lors de la 
+commutation, l’alimentation de secours présentait les mêmes 
+défaillances que l‘alimentation normale. Il serait dès lors indiqué 
+que toute commutation lors d’une chute de tension soit précédée 
+par un contrôle de la qualité de l’alimentation de secours et qu’à 
+défaut d’une qualité satisfaisante, il soit procédé à une coupure 
+complète de toute alimentation électrique.   
+
+## Página 7
+
+### Chapitre II : Les faits 
+1. Exposé des faits : 
+A 6h48, le train E2405 composé d’une automotrice AM 429 
+circulant, voie B, de Namur à Liège, entre en collision frontale 
+avec le train de marchandises Z74070 après avoir dépassé le 
+signal E10 rouge (bk 19.488).                                                                          
+Il talonne l’aiguillage n°2 et franchit de ± 30 m les aiguillages 1A 
+et 1B donnant accès à la contre-voie (voie A). 
+Le train de marchandises circulait de Liège à Hermalle s/Huy. Au 
+moment de l’accident, il est à l’arrêt devant le signal C10 fermé 
+(rouge).  
+Malgré le freinage d’urgence effectué par le conducteur du train 
+de voyageurs, sa vitesse au moment de l’impact était encore de 
+50 km/h. Le choc fait reculer le train de marchandises d’environ 
+30 mètres.  
+## E10
+Voie B 
+E2405 
+      Z74070 
+Voie A 
+## C10
+Namur 
+Liège 
+
+## Página 8
+
+2. Informations, Interventions, mesures prises pour 
+rétablir le trafic 
+### Jeudi 03/07/08 
+A 6h48, le train E2405 composé d’une automotrice AM 429 
+circulant, voie B, de Namur à Liège, entre en collision frontale 
+avec le train de marchandises Z74070 
+A 6h49, l’accompagnateur du train E 2405 informe le Security 
+Operation Center (SOC - centrale d’appel qui prend en charge les 
+appels aux services de secours), des blessés graves seraient à 
+déplorer. 
+A 6h51, Trafic Control (TC) informé par Security Operation 
+Center. 
+A 6h52, vaine tentative d’appel du 100 par SOC. 
+A 6h53, TC informe BL45 et les gares L 125 (Namur, Huy, …), le 
+COC, les CTC et CPA. 
+Des API et Buddy sont envoyés sur place. 
+A 6h54, le SOC informe le service 100 et les services de police.  
+A 7h15, 4 bus sont commandés au TEC Liège pour assurer un 
+service de navettes entre Flémalle-Haute et Huy. 
+A 9h30, la situation des blessés, communiquée par les services de 
+secours sur place, est de : 
+2 blessés très graves, 13 graves, 23 légers, 20 très légers. 
+Les conducteurs et l’accompagnateur comptent parmi les blessés 
+légers. 
+A 10h00, les services sur places informent TC que le parquet 
+descend sur les lieux et que les voies ne peuvent être libérées. 
+A 15h05, le block 7 de Flémalle-Haute récupère le contrôle de la 
+liaison 1 (A+B) dans les deux positions. 
+Les trains omnibus circulant entre Herstal et Statte sont 
+supprimés entre Flémalle-Haute et Statte et remplacés par un 
+service de bus et vice versa. 
+Certains trains sont supprimés entre Bruxelles- Huy, les rames 
+sont acheminées à vide via ligne 144 et 130 pour Ronet. 
+A 17h22, le block 7 de Flémalle-Haute récupère le contrôle de 
+l’aiguillage 2A à Hermalle-sous-Huy dans les deux positons suite à 
+l’intervention des services d’Infrabel. 
+A 20h10, T.C. est informé que le Parquet n’autorise pas la reprise 
+des circulations avant demain matin.  Des tests seront effectués 
+
+## Página 9
+
+dans la matinée du 4 courant avant de recevoir l’autorisation de 
+reprendre les circulations. 
+### Vendredi 04/07/08 
+A 21h28, la voie B est remise en service 
+### Dimanche 06/07/08 
+A 5h58, la voie A est remise en service 
+
+## Página 10
+
+3. Conséquences de l’accident 
+1. humaines : 
+2 blessés très graves, 13 blessés graves, 23 blessés légers, 20 
+blessés très légers. 
+Les conducteurs et l’accompagnateur comptent parmi les blessés 
+légers. 
+2. matérielles : 
+Dégâts au matériel roulant : 50.000 € pour les réparations 
+provisoires, les réparations définitives n’ayant pas encore été 
+exécutées. 
+Trains de voyageurs supprimés : 24 
+Trains de voyageurs partiellement supprimés : 156 
+Nombre de trains avec retard / total cumulé du retard :  
+570 trains /  4382 minutes 
+Trains de marchandises supprimés : 40 
+Nombre de trains de marchandises avec retard / total cumulé du 
+retard : 73 trains /  64.524 minutes 
+4. Conditions atmosphériques : 
+Elles étaient bonnes, il pluvinait, les rails étaient mouillés. A cette 
+heure, la clarté était bien présente.  
+La veille, intempéries et orages ont causé des inondations en de 
+nombreux endroits.
+
+## Página 11
+
+### Chapitre III : Ouverture de l’enquête par 
+### l’organisme d’Enquête Accidents ferroviaires 
+### 1. La décision d’enquêter et sa motivation. 
+Conformément à l’article 45 de la loi du 19 décembre 2006 
+relative à la sécurité d’exploitation ferroviaire l’Organisme 
+d’enquête a pris, le 4 juillet 2008, la décision d’ouvrir une enquête 
+sur la collision à Hermalle s/Huy. Cette décision est motivée par la 
+gravité de l’accident : une collision frontale entre deux trains en 
+voie principale avec un grand nombre de voyageurs blessés. De 
+surcroît l’accident aurait dans des circonstances légèrement 
+différentes pu être ‘ grave ‘ selon la définition de l’article 5,  10° 
+de cette loi. 
+L’enquête diligentée indépendamment des enquêtes judiciaires 
+vise à déterminer les causes de l’accident et non des 
+responsabilités impliquées. 
+Elle a pour but de proposer des recommandations visant à 
+prévenir la répétition de pareils accidents dans le futur. 
+2. Composition de la cellule d’enquête. 
+Conformément à l’article 4 de l’arrêté royal du 16 janvier 2007 
+portant la création d’un organisme d’enquête sur les accidents et 
+incidents ferroviaires et déterminant sa composition, l’organisme 
+d’enquête a décidé de faire appel à une expertise externe. 
+Dans le cas présent, l’Organisme d’enquête a fait appel à la 
+SNCB-HOLDING et plus particulièrement à son service  Sécurité et 
+Environnement. 
+Les enquêteurs suivants ont participés à l’enquête : 
+- M Vansteenkiste Dirk, Ingénieur en Chef, Manager, SNCB 
+Holding Sécurité Environnement. 
+- M 
+Piette 
+Claude, 
+ingénieur 
+industriel 
+principal 
+adjoint, 
+responsable de la zone Charleroi. 
+-  M Franche Thierry, ingénieur industriel, responsable de la zone 
+Namur. 
+
+## Página 12
+
+### Chapitre IV: le contexte de l’accident 
+1. La ligne ferroviaire 125 
+L’accident s’est produit sur la ligne 125 Namur - Liège à la bk 
+19.215 sur la commune de Hermalle s/Huy. 
+Ligne 125  
+Bloc de signalisation -        
+Flémalle Haute 
+La ligne 125 est une ligne qui constitue une partie de ce qu’on 
+appelle « la dorsale wallonne ». Elle est à double voie et relie la 
+gare de Namur à la gare de Liège. 
+Elle est équipée d’une signalisation latérale à bloc automatique et 
+la communication se fait par radio sol train. 
+2. L’infrastructure ferroviaire à Hermalle s/Huy . 
+La signalisation au niveau de Hermalle s/Huy est gérée par le bloc 
+de signalisation de Flémalle Haute. 
+La distance de visibilité du  signal K10 est d’environ  300m  et de 
+plus de 400m pour le signal E10. Ce qui est conforme à la 
+réglementation. 
+L’alimentation électrique du poste haute tension de 15kV à 
+Flémalle Haute se fait par une double liaison venant toutes deux 
+du poste haute tension 70 kV de Ivoz. 
+
+## Página 13
+
+La vitesse de référence sur la ligne 125 est de 120 km/h.  
+La ligne peut être considérée comme à trafic élevé puisqu’on 
+dénombre : 
+162 Trains de voyageurs / jour 
+68 Trains de marchandises / jour  
+3. Le matériel roulant. 
+1. Train de voyageurs E2405 automotrice type Break série 83 
+La fiche signalétique de l’automotrice se trouve en annexe 1. 
+
+## Página 14
+
+2. Train de marchandises Z74070 locomotive 77 + 4 wagons vides 
+charge réelle des wagons 94 tonnes. 
+La fiche signalétique de la locomotive se trouve en annexe 2. 
+
+## Página 15
+
+### Chapitre V : L’enquête 
+1. Eléments de base de l’enquête 
+L’enquête est basée sur les éléments suivants : 
+### A.  Les  déclarations des personnes directement impliquées 
+dans l’accident 
+### Auditions : 
+### A. Le conducteur de train de voyageurs est depuis plus de 6 ans 
+attaché au dépôt de Liège.  
+### B. L’accompagnateur de train à bord du train de voyageurs exerce 
+cette fonction depuis 27 ans.   
+### C. Le conducteur de train de marchandises exerce cette fonction 
+depuis 5 ans.   
+### D. Le sous-chef de gare dirigeant de la cabine de Flémalle Haute 
+(service 6h00-14h00) exerce cette fonction depuis 9 ans.   
+### E. Le sous-chef de gare dirigeant la cabine de Flémalle Haute 
+(service 22h00-6h00) exerce cette fonction depuis 21 ans.   
+- 
+### Résumé de l’audition du conducteur du train de 
+voyageurs 
+Il déclare qu’aux environs des quais de Haute Flone (± Bk 
+22.650), l’accompagnateur de train est entré dans le poste de 
+conduite. Ce dernier s’est informé au sujet du ralentissement du 
+train quelques instants auparavant.  
+Le conducteur répond à la question de l’accompagnateur. 
+Ce dernier s’assied sur le siège passager et se tait.  
+Le conducteur déclare être persuadé que les signaux sont au vert 
+jusqu’au moment où il aperçoit le signal E 10 qui est au rouge, il 
+effectue alors un freinage d’urgence. 
+
+## Página 16
+
+Pendant le freinage, le conducteur vérifie l’état de la lampe de 
+mémorisation. Celle-ci n’est pas allumée. Ce qui signifie que le 
+train n’a pas rencontré de signal double jaune. 
+Lorsque le conducteur voit l’aiguillage tourné vers la voie voisine 
+où il sait qu’il y a déjà un train sur un autre itinéraire cisaillant, il 
+se précipite avec l’accompagnateur hors du poste de conduite. 
+Le conducteur déclare que la visibilité était bonne, qu’il pluvinait. 
+Il n’était ni fatigué, ni malade. Il n’était ni sous influence d’alcool 
+ni de produits stupéfiants.     
+- 
+### Résumé de l’audition de l’accompagnateur du train de 
+voyageurs 
+Suite aux mauvaises conditions climatiques, les couloirs sous 
+voies d’Amay et d’Ampsin sont inondés. 
+Pour des raisons de sécurité, le train de voyageurs ralentit à 
+hauteur de ces deux gares. 
+L’accompagnateur s’informe auprès du conducteur des raisons de 
+ces ralentissements.  
+A ce moment, il voit un signal à l’arrêt et aperçoit les feux blancs 
+d’un  train croiseur. il se précipite avec le conducteur hors du 
+poste de conduite  
+- 
+### Résumé de l’audition du conducteur du train de 
+marchandises 
+Depuis la gare de Flémalle Haute, le train de marchandises est 
+précédé par un omnibus. Le train de marchandises ne peut donc 
+rouler à une vitesse élevée. Le signal A180 en amont du signal 
+C10 est double jaune lorsqu’il le franchit. 
+Le conducteur arrête son train au signal C10 qui est au rouge.    
+- 
+### Résumé de l’audition du sous-chef cabine 06h00-
+14h00 
+Il assure la prestation de 6h00 à 14h00 
+
+## Página 17
+
+Au moment de l’accident, le sous-chef déclare qu’il était occupé à 
+des tâches administratives. il rédigeait des formulaires de 
+réduction de vitesse pour les trains qui allaient passer par Ampsin 
+et Amay. Suite aux mauvaises conditions climatiques, les couloirs 
+sous voies étaient inondés.    
+Vers 6h48, il y a eu une interruption de courant (commutation) 
+dans la cabine 15 kV de Flémalle Haute. 
+- 
+### Résumé de l’audition du sous-chef cabine 22h00-
+06h00 
+Il assure la prestation de 22h00 à 6h00. 
+Le sous-chef propose son aide pour les formalités administratives 
+liées aux réductions de vitesse à appliquer aux trains. Ces 
+réductions de vitesse sont imposées suite aux intempéries de la 
+veille.  
+A 6h40, le train de marchandises Z74070 quitte la gare de 
+Flémalle Haute en direction de Hermalle s/Huy.  
+Vers 6h45, suite à la marche prudente imposée au conducteur du 
+E2405, l’itinéraire du C10 vers voie 3 à Hermalle s/Huy a été tracé 
+pour le train de marchandises, d’autant que le Thalys se trouvait 
+derrière lui.  
+L’itinéraire a été tracé pour permettre au E 2405 d’avancer 
+jusqu’au signal E10. 
+Entre 6h45 et 6h50, l’éclairage en cabine de signalisation s’est 
+éteint et rallumé 2 ou 3 fois, le personnel présent en cabine de 
+signalisation 
+a 
+constaté 
+une 
+interruption 
+de 
+courant 
+(commutation) dans la cabine 15 kV  de Flémalle Haute. Rien 
+d’anormal 
+n’a 
+été 
+constaté 
+dans 
+les 
+autres 
+cabines 
+de 
+signalisation satellites.  
+A 6h51, le conducteur du E2405 s’est présenté au téléphone du 
+signal C10 pour dire qu’il avait percuté frontalement un autre 
+convoi. 
+
+## Página 18
+
+### B.  Enregistrement de la vitesse du train E2405 
+1. Généralités 
+Chaque engin moteur qui assure un service de route doit être 
+équipé d’un appareil enregistreur avec bande continue. 
+Celui qui équipait le train E2405 était du type DEUTA ER 16. 
+La bande de vitesse se présente sous forme d’un rouleau de 
+papier de 20 mètres de longueur qui permet l’enregistrement 
+d’environ 4000km de parcours.  
+La bande se déplace de 5 mm : 
+- par heure pendant l’arrêt  
+- par kilomètre de distance pendant le parcours. 
+Sur la bande on distingue trois zones : 
+- la zone supérieure, réservée à l’enregistrement du 
+temps ; 
+- la zone médiane, réservée à l’enregistrement de la 
+vitesse ; 
+- la zone inférieure, réservée à l’enregistrement des 
+données complémentaires et notamment sur l’aspect 
+des signaux : 
+- pas d’impulsion : signal rouge ; 
+- impulsion positive : signal restrictif ; 
+- impulsion négative : signal vert.  
+
+## Página 19
+
+2. Bande de vitesse du train E2405 
+Période 
+d’incertitude sur 
+l’effondrement de 
+tension 
+Namur 
+Liège 
+Gare de Huy 
+ B 290 
+ B 264 
+ B 276 
+ F15 
+ D11 – Bk 23.657 
+ Quai Haute Flone 
+       6 h 44’ 21’’ 
+ K11 – Bk 24.913 
+       6 h 47’ 42’’ 
+ K10 – Bk 20.777 
+ E10 – Bk 19.488 
+ B222 – Bk 22.231 
+ C10 - Bk 19.240 
+ Collision Bk 19.215 
+  Arrêt Bk 19.185 
+6 h 48’ 33’’ 
+
+## Página 20
+
+De l’analyse de la bande de vitesse, on peut constater que : 
+- il n’y a pas d’impulsion enregistrée pour les signaux K10 et 
+E10 ;  
+- l’impulsion enregistrée avant le signal K10 est une 
+impulsion négative (signal vert) ; 
+- du signal F15 au signal B222, le conducteur a eu des 
+signaux verts ;  
+- la chute de vitesse avant l’immobilisation du convoi se 
+produit à environ 600 mètres en amont de l’arrêt situé à la 
+Bk 19.185. Elle se produit donc environ à la Bk 19.785 soit 
+environ 300 mètres en amont du signal E10 ;   
+- la collision se produit à environ 50km/h. 
+### C.  Vérification technique après accident 
+1- L’infrastructure 
+Le fonctionnement correct du crocodile a été contrôlé au niveau 
+de : 
+-  ses caractéristiques électriques ; 
+-  ses caractéristiques géométriques ; 
+-  la logique câblée. 
+De plus, on sait que le crocodile a fonctionné parfaitement lors 
+des passages des convois précédents. 
+Le signal en lui-même est contrôlé lors de chaque entretien 
+périodique : 
+- vérification de la logique câblée du signal ; 
+- intensité suffisante de la luminosité du signal ; 
+- orientation de la lentille.  
+Aucune anomalie n’a été détectée. 
+L’aiguillage 2A a été talonné par le train de voyageurs. On sait 
+donc que l’itinéraire pour faire entrer le train de marchandises 
+chez DUMONT WAUTHIER était tracé. Dans ce contexte, on est 
+certain que le signal E10 est obligatoirement à l’arrêt, c'est-à-dire 
+rouge.  
+
+## Página 21
+
+2- Le matériel roulant 
+Le fonctionnement du système mémor est vérifié à chaque 
+passage sur un signal vert.  
+Le système émet un son caractéristique lors du passage sur un 
+signal vert ce qui constitue pour le conducteur l’assurance que son 
+système de réception de l’information dans le poste de conduite 
+fonctionne correctement.   
+Les vérifications nécessaires ont été faites sur la bande vitesse et 
+ont conclu au bon fonctionnement du système.  
+### D – Essais effectués 
+Le 27 septembre, des essais ont été effectués en vue de 
+déterminer si des modifications du tracé permanent (voir 
+explications en annexe) effectué en cabine aurait pu induire en 
+erreur le conducteur. 
+Selon la déclaration du conducteur, avant l’arrivée devant le 
+signal E10 au rouge, les signaux étaient verts, ce qui suppose que 
+le signal K10 avertisseur du E10 était vert lui aussi. 
+D’autre part, on sait que pour permettre le passage du train de 
+marchandises, il faut qu’il emprunte une partie de la voie qui 
+aurait du être empruntée par le train de voyageurs. 
+L’itinéraire initialement prévu en automatique pour le train de 
+voyageurs, c'est-à-dire le tracé permanent doit être annulé et 
+remplacé par un tracé spécifique pour le train de marchandises. 
+Sur le terrain, l’aspect des signaux en est modifié pour laisser 
+passer le train de marchandises via le signal C10 mis au passage 
+et donc stopper le train de voyageurs via le signal E10 mis au 
+rouge et le signal K10 au double jaune. 
+Les essais et investigations sur place, ont permis de constater : 
+- qu’il est impossible de supprimer le tracé permanent 
+lorsque le train est trop proche du signal K10 
+(distance de minimum 800m) sans utiliser une clé de 
+sécurité couplée à un compteur. 
+- que si on supprime le tracé permanent et qu’on trace 
+un 
+itinéraire 
+pour 
+faire 
+entrer 
+un 
+train 
+de 
+
+## Página 22
+
+marchandises (voie A) vers Dumont Wauthier, le 
+signal E10 passe au rouge et K10 passe au double 
+jaune pour le train de voyageurs (voie B). 
+
+## Página 23
+
+### E - Effondrement de tension  
+TECTEO (ex ALE) confirme que le jour de l’accident à 6h47’56’’, 
+leur système de télé-contrôle d’enregistrement des défauts 
+d’alimentation 
+a 
+enregistré 
+un 
+défaut 
+de 
+câble 
+et 
+le 
+fonctionnement des protections. 
+La sous-station dans laquelle les protections ont fonctionné pour 
+isoler ce défaut est inscrite dans un cycle d’interrogation.   
+Le système de télé-contrôle ne reçoit donc l’information que 
+lorsque le cycle d’interrogation arrive à cette sous-station. Le 
+cycle complet dure au total 45 secondes. 
+On peut donc déduire que ce défaut de câble a pu conduire à des 
+perturbations sur l’alimentation de la signalisation Infrabel entre 
+6h47’11’’ et 6h47’56’’ et que la durée approximative de 
+l’effondrement de la tension est de 600 ms.  
+De plus, on sait que selon les enregistrements fournis par 
+Infrabel, le train E 2405 est passé à hauteur du signal K10 à 
+6h47’42’’. 
+Soit dans l’intervalle de temps, où se situe la rupture 
+d’alimentation.  
+Par expérience, TECTEO peut dire que l’effondrement de tension 
+se situe entre 40 et 90 % de la tension nominale du réseau. 
+Les effondrements de tension consécutifs à un défaut sont 
+uniques. Chaque défaut a ses propres caractéristiques conduisant 
+à des phénomènes différents et  à des effondrements de tension 
+différents. L’estimation de la variation de tension sur ce court 
+intervalle de temps est donc quasi impossible à déterminer. 
+C’est du poste de transformation d’Ivoz 70kV/15kV que sont 
+alimentées les 2 arrivées du poste haute tension de Flémalle 
+Haute.  
+Aucun enregistreur de tension n’était en place au poste d’Ivoz à 
+l’époque de l’accident.  
+
+## Página 24
+
+2. Succession des évènements  
+### A 6h39, le train de voyageurs E2405 quitte la gare de Huy en 
+direction de Hermalle s/Huy, voie B. Il rencontre des signaux 
+verts jusqu’au signal B222 (Bk 22.231) situé après les quais de 
+Haute Flone.  
+### A 6h40, le train de marchandises Z74070 quitte la gare de 
+Flémalle Haute en direction de Hermalle s/Huy, voie A.  
+### Vers 6h45 dans le poste de signalisation à Flémalle : suppression 
+du tracé permanent et la fixation de l’itinéraire pour le train de 
+marchandises vers le raccordement ; c'est-à-dire l’itinéraire du 
+C10 voie A vers la voie 3 est tracé pour ce train.  
+Une fois les conditions de sécurité nécessaires vérifiées le signal 
+C10 vient au passage. 
+### Vers 6h46, l’accompagnateur de train rentre dans le poste de 
+conduite du train de voyageurs. 
+### Entre 6h47’11’’ et 6h47’56’’, zone d’incertitude quant à l’heure 
+précise de l’effondrement de tension générant une commutation 
+dans la cabine 15 kV  de Flémalle Haute.  
+### A 6h47’42’’, le train de voyageurs passe au niveau du signal 
+K10. 
+### Vers 6h48, le conducteur voit le signal E10 et entame un freinage 
+d’urgence environ à hauteur de la Bk 19.800. 
+Le train de marchandises est à l’arrêt, voie A, devant le signal 
+C10. 
+### A 6h48’33’’, le train de voyageurs entre en collision frontale avec 
+le train de marchandises. 
+
+## Página 25
+
+3. Analyse du signal K10. 
+Le signal E10 étant fermé, le signal K10 aurait logiquement du 
+montrer un aspect double jaune et son crocodile une tension 
+positive ; la bande de vitesse du train E2405 devrait présenter 
+une impulsion positive à l’endroit du signal K10.   
+Vu que cette impulsion manque, le signal K10 ne pouvait pas 
+montrer le double jaune. 
+
+## Página 26
+
+4. Conséquences de l’effondrement de tension    
+1. Influence de l’effondrement de tension chez TECTEO sur les 
+installations Infrabel. 
+TECTEO a confirmé que pour un défaut similaire à celui qui a eu 
+lieu le 03/07, on assiste à un effondrement de tension sur 
+l’ensemble du réseau dépendant de la même alimentation en 
+l’occurrence en aval de l’alimentation 70 kV de Ivoz.  
+
+## Página 27
+
+Selon TECTEO, la tension lors de cet effondrement, est située 
+entre 40 et 90 % de la tension nominale de 15kV.  
+L’effondrement dure 0,6 sec (600ms), le temps nécessaire de 
+fonctionnement des protections TECTEO, et  se répercute sur les 
+installations Infrabel. 
+TECTEO précise également que les câbles d’alimentation normale 
+et secours qui arrivent au poste 15kV de Flémalle Haute sont tous 
+les deux issus du même jeu de barres de la sous-station 70kV 
+d’Ivoz.  
+Ce qui signifie que si l’alimentation « Normale » est défectueuse 
+en amont des installations Infrabel, l’alimentation « Secours » ne 
+sera pas meilleure. 
+Devant l’importance de l’incertitude quant à l’effondrement de 
+tension, on peut  distinguer deux scénarios possibles :  
+Scénario 1 : tension entre 70 et 90 % de la tension nominale (UN) 
+lors de l’effondrement. 
+Scénario 2 : tension entre 40 et 70 % de la tension nominale (UN) 
+lors de l’effondrement. 
+La signalisation est directement alimentée par le réseau 110V. 
+
+## Página 28
+
+1.1 Scénario 1 - tension entre 70 et 90 % de la tension nominale 
+Dans les postes de distribution 1000V, un relais voltmétrique  
+contrôle continuellement l’amplitude de l’alimentation normale UN. 
+Dès que la chute de tension de l’alimentation normale dépasse 
+10% (moins que 90%UN), le relais voltmétrique commande la 
+commutation vers l’alimentation de secours.  
+Les commutations de l’alimentation normale vers l’alimentation 
+secours sont prévues pour que lorsque la première fait défaut, la 
+seconde puisse palier cette défaillance. 
+Le 03/07/2008, au niveau des installations de Flémalle Haute, 
+l’effondrement est apparu sur l’ensemble de l’alimentation en aval 
+du 70kV d’Ivoz et par conséquent aussi bien sur l’alimentation 
+normale et l’alimentation secours 15kV d’Infrabel. 
+
+## Página 29
+
+Dans le scénario 1, la tension 15kV d’Infrabel atteint une valeur 
+entre 70 et 90 % de 15 kV lors de l’effondrement soit entre 
+10.500 V et 13.500 V. 
+Sur 
+la 
+figure, 
+l’effondrement 
+sur 
+les 
+alimentations 
+15kV 
+commence à l’instant t1 et disparaît à l’instant t4 (l’intervalle t1-t4 
+dure 600ms).  
+Au moment de la chute de tension importante, le relais 
+voltmétrique dans le poste 1kV (1000V) commande l’ouverture de 
+l’alimentation normale (contacteur K11 s’ouvre) et ensuite ferme 
+le contacteur K12 de l’alimentation secours. Le temps entre 
+l’ouverture de K11 et la fermeture de K12 (le temps de 
+commutation) est représenté par l’intervalle de temps entre t1 et 
+t2.  
+Durant la commutation, la tension 1000V tombe à 0 ; le passage 
+par 0 dure de 100 à 150ms (le temps entre t1 et t2).  
+La chute de tension de l’alimentation 1000V se transmet 
+intégralement à l’alimentation 110V ; si l’alimentation 1000V 
+tombe à 0, l’alimentation 110V aussi.  
+Comme on peut le voir sur le graphique, la tension 1000V et la 
+tension 110V chutent jusqu’à 0V entre les instants t1 et t2.  
+A l’instant t2, la commutation est finie et le poste 1kV est alimenté 
+par l’alimentation secours dégradée.  
+Dans les armoires situées en ligne, alimentées par 2 câbles 1kV 
+les contacteurs s’ouvrent pendant la commutation parce qu’il n’y a 
+pas de tension.  
+La tension revient en même temps sur les 2 câbles et le 
+contacteur de l’alimentation normale dans les armoires enclenche 
+directement. Le temps d’enclenchement du contacteur dure 
+environ 50ms. C’est pourquoi sur le graphique, on voit que 
+l’alimentation 110V reprend un peu plus tard que l’alimentation 
+1kV.  
+A partir de t3 jusqu’à t5, il n’y a pas de commutation ni dans le 
+poste, ni dans les armoires et toutes les tensions dans le réseau 
+ont la même forme. 
+A l’instant  t4, le court-circuit dans le réseau de TECTEO est isolé 
+et les tensions reprennent leurs valeurs nominales.  
+
+## Página 30
+
+Le relais voltmétrique dans le poste 1kV mesure que la tension 
+normale reprend sa valeur nominale. En effet, lorsque la tension 
+se maintient à sa valeur nominale pendant 14s (entre 13s et 15s), 
+le relais voltmétrique commande un rebasculement dans le poste 
+1kV vers l’alimentation normale et ouvre le contacteur K12 à 
+l’instant t5. Entre 100ms et 150ms plus tard (instant t6) le 
+contacteur K11 est enclenché et la situation normale est rétablie 
+dans le poste 1kV.  
+Pendant la commutation dans le poste (entre t5 et t6) il n’y pas 
+d’alimentation sur les 2 câbles qui fournissent les armoires. Par 
+conséquent, les contacteurs dans les armoires s’ouvrent et le 
+110V disparaît aussi.  
+A partir de t6 l’alimentation 1kV se rétablie  sur les câbles, mais il 
+faut encore 50ms avant que les contacteurs dans les armoires 
+soient attirés et que donc l’alimentation 110V revienne après un 
+délai t7.  
+Après l’instant t7, il n’y a plus de commutation. 
+On constate, dès lors, que dans le scénario 1, au niveau de 
+l’alimentation 110V, il y a  deux  chutes de tension : 
+     - la première dure 600ms et est composée : 
+                     - d’une chute à 0V qui dure entre 150 à 200ms  
+                         100 à 150ms temps de commutation de 
+                         L’alimentation 1000V et 50ms temps de  
+                          Commutation dans les armoires 110V. 
+d’une chute à 70 à 90 % de UN et qui dure entre 
+- 
+ 350 à 400ms. Ce qui représente le reste de 
+ Temps de l’effondrement de tension de   
+l’alimentation 15kV.   
+         - la seconde dure entre 150 et 200ms à un niveau de 0V. 
+Il s’agit du rétablissement de l’alimentation de 
+« Secours » 1000V vers l’alimentation normale 
+après un délai de 14 s. 
+100 à 150ms de temps de commutation de 
+l’alimentation 1000V et 50ms temps de 
+commutation dans les armoires 110V. 
+
+## Página 31
+
+1.2 Scénario 2 - chute de tension entre 40 et 70 % de la tension 
+nominale 
+Dans ce scénario, la tension 15kV d’Infrabel atteint donc une 
+amplitude entre 40 et 70 % de 15 kV soit entre 6.kV et 10,5 kV. 
+Au niveau des alimentations normale et secours UN et US, les 
+tensions chutent dans le même rapport. 
+L’alimentation 1000V ne commute  d’une alimentation normale 
+vers une  alimentation de secours, qu’a condition que s’ il existe 
+une tension d’alimentation qui permette cette commutation via 
+des éléments électriques alimentés par cette même tension. 
+Autrement dit, lors des 600 ms de l’effondrement de tension de 
+l’alimentation 15kV entre 6.000 et 10.500V, le commutateur 
+1000V n’a probablement pas pu basculer vers l’alimentation 
+secours. Dans ce cas, les deux contacteurs K11 et K12 se 
+trouvant en état de repos (ouvert).  ni l’alimentation normale ni 
+secours n’est enclenchée. 
+Ce qui signifie que pendant 600ms (entre t1 et t2) aussi bien 
+l’alimentation 1000V que l’alimentation 110V sont tombées à 0V. 
+
+## Página 32
+
+Il faut en plus rajouter 50 ms de temps de réenclenchement du 
+contacteur K12 sur l’alimentation secours (l’instant t3) et encore 
+50ms pour le réenclenchement des contacteurs dans les armoires 
+(t4).  
+Au total 650ms, ont été nécessaires pour retrouver les tensions 
+d’alimentation 1000V et 700ms, pour l’alimentation 110V. 
+La phase retour de l’alimentation secours vers l’alimentation 
+normale se déroule comme dans le scénario 1. 
+On constate, dès lors, que dans le scénario 2, il y a : 
+- 2 chutes de tension au niveau de l’alimentation qui 
+passe de 110V à 0V: 
+- la première dure 700ms  
+Ce 
+qui 
+s’explique 
+par 
+les 
+600 
+ms 
+du 
+fonctionnement des protections chez TECTEO 
+auxquels s’ajoutent les 50ms du temps de 
+réenclenchement 
+du 
+commutateur 
+de 
+l’alimentation secours au tableau 1000V et 
+50ms de l’enclenchement du contacteur dans 
+l’armoire 110V.   
+- la seconde dure entre 150 et 200ms 
+Il s’agit du rétablissement de l’alimentation 
+secours 1000V vers l’alimentation normale 
+après un délai de 14 s. 
+
+## Página 33
+
+2. Schéma électrique du signal K10 
+A la lecture du schéma électrique du signal K10, et dans la 
+situation d’un tracé permanent hors service (voir le point 7) 
+l’aspect du signal, c’est à dire la couleur de son feu lumineux est 
+directement déterminé par la position (haute ou basse) de deux 
+relais, notamment le relais CSA3 et le relais CZ. 
+Les deux relais en position basse mettent le signal K10 au rouge. 
+Le relais CSA3, en position haute, donne au signal un caractère 
+restrictif et si le relais CZ est également en position haute, le 
+signal devient vert. 
+- le relais CSA3 :   
+CSA3 est en position haute  à condition que : 
+ le desservant du bloc de signalisation 
+commande le signal K10 au passage.  
+ les 
+conditions 
+de 
+sécurité 
+pour 
+l’itinéraire 
+sélectionné 
+(aiguillages 
+contrôlés, etc.) sont remplies. 
+ les circuits de voie (CV) sont libres 
+(relais de voie haut) sur l’itinéraire 
+sélectionné 
+CSA3 est en position basse si l’une de ces conditions 
+n’est pas rencontrée.  
+- le relais CZ : relais dont la position reflète la répétition 
+provenant du signal aval (signal E10 dans ce cas) 
+CZ est en position haute (avec comme condition 
+préliminaire : le CSA3 du K10 en position haute) : 
+si le signal E10 est au vert 
+ou 
+si le signal E10 est au passage restrictif, par exemple 
+double jaune. 
+On constate donc que la chute d’un relais circuit de voie fait 
+chuter le CSA3 et que cette chute conditionne la position du CZ 
+qui sera bas. 
+
+## Página 34
+
+Le tableau ci-dessous reprend d’une façon systématique l’aspect 
+des signaux selon les positions hautes et basses des relais CZ et 
+CSA3.    
+| CSA3 | bas | haut | haut |
+| CZ | bas | bas | haut |
+| Signal K10 | Rouge | Restrictif | Vert |
+Le fonctionnement de ces relais, notamment leur position haute et 
+basse est basé sur la présence ou l’absence d’un courant 
+électrique dans la bobine, élément essentiel du relais. 
+Si un courant (I) suffisant traverse la bobine ou qu’une tension 
+(U) suffisante est appliquée à ses bornes, la partie mobile du 
+relais est attirée vers le haut, dans ce cas, le relais est en position 
+haute. 
+Dans le cas contraire, la partie mobile du relais ne peut être 
+attirée vers le haut, le relais est en position basse. 
+Le passage d’une position à l’autre demande un certain temps, 
+même s’il est parfois très court. Ce temps peut volontairement 
+être augmenté avec un équipement de temporisation.  
+Relais de voie :  
+temps de chute 100 ms. 
+Temporisation à l’attraction 1,2 s après 
+retour de la tension nominale dans le cas 
+où l’effondrement de tension est 
+suffisamment long (>100 à 200ms) sinon 
+la temporisation n’est pas complètement 
+activée et l’attraction peut s’effectuer en 
+moins de 1,2s. 
+Lors de la commutation, les relais de voies chutent 
+donc quasi instantanément.  
+CSA3: 
+temps de chute de 50ms à 200ms 
+U attraction de 65 à 85 V 
+U chute entre 50V et 65 V  
+Soumis au retour en position haute des CV 
+qui sont eux soumis à leur temporisation.  
+CZ :  
+soumis à la position du CSA3 et à 
+l’ouverture du signal E10 
+
+## Página 35
+
+KL :   
+temporisation à la chute de 500 à 750ms 
+I attraction  1,8A maxi, pas de valeur mini 
+ I chute entre 0,45A et 0,7A.  
+Ce relais KL fait également partie du circuit électrique du signal, 
+dans le but de vérifier le bon fonctionnement des ampoules des 
+feux lumineux.  
+Il n’a pas d’impact sur l’aspect du signal.  
+Le relais KL a par contre un impact sur le crocodile (et sur la 
+répétition du signal en amont).  En absence de courant électrique 
+pendant une période suffisamment longue, le relais KL chute et 
+fait en sorte qu’une tension positive apparaît au crocodile. 
+Du fait que la bande enregistreuse indique que le crocodile ne 
+présentait pas de tension électrique, on peut déduire que le KL  
+n’a pas chuté. On peut donc conclure que la tension lors de 
+l’effondrement n’est pas descendue à 0 Volt suffisamment 
+longtemps pour faire chuter le relais KL (voir plus haut : 
+caractéristiques électriques du relais KL). 
+3. Influence de la chute de tension 110V et de son retour sur les 
+relais. 
+De ce qui précède on constate qu’une rupture de l’alimentation 
+électrique 
+et 
+un 
+effondrement 
+de 
+tension 
+perturbent 
+le  
+fonctionnement habituel de la signalisation. 
+Les relais peuvent alors soit rester dans leur position (si la 
+diminution de la tension n’est pas suffisante en terme d’intensité 
+ou de durée), soit chuter.  
+Dans ce dernier cas, tous les relais, ceux des circuits de voie et 
+par conséquent le relais CSA3 et CZ, qui en plus sont privés de 
+leur propre alimentation 110 V, passent en position basse et le 
+signal devient rouge.    
+
+## Página 36
+
+Au retour de la tension après commutation, les circuits de voie 
+sont réalimentés, après 150ms minimum dans le scénario 1 et  
+700ms maximum dans le scénario 2. 
+Comme mentionné plus haut, les relais des circuits de voie ont 
+une temporisation à l’attraction de 1,2 seconde, du moins  si 
+l’effondrement de tension est suffisamment important (>100 à 
+200ms). 
+Ceci signifie que si un relais de voie chute suite à une rupture 
+d’alimentation d’une importance suffisante, celui-ci ne passera en 
+position haute qu’une fois la tension revenue et la temporisation 
+terminée soit : 
+Scénario 1 : après 150ms + 1,2 seconde = 1,35 s au minimum. 
+Scénario 2 : après 700ms + 1,2 seconde = 1,9 s au maximum.  
+Le temps d’établissement du circuit CSA3 est de 100ms. 
+4. Evolution de l’alimentation 110V sur le crocodile pendant la 
+commutation 
+De ce qui a été décrit dans le paragraphe « principes de 
+signalisation » de l’annexe 3, on peut déduire que si les positions 
+des relais conduisent à ce que le signal présente un feu double 
+jaune, les positions de ces relais conduiront le crocodile à 
+présenter une tension positive. Si le signal présente un feu rouge, 
+le crocodile sera à une tension nulle, tandis qu’un feu vert 
+correspond à un crocodile avec une tension négative. 
+Il existe donc un lien univoque entre l’aspect présenté par le 
+signal et la tension au crocodile. 
+Suite à la commutation de l’alimentation 1000V et à la chute des 
+relais de circuits de voie, le CSA3 du signal K10 chute également.  
+Le passage par 0V au niveau de l’alimentation 110V a duré selon 
+les scénarios entre 150 et 700ms. 
+La temporisation des CV étant de 1200ms (si l’effondrement de 
+tension est suffisamment important). 
+Le temps d’établissement du circuit du CSA3 et du circuit du croco 
+est de ±100ms. 
+Lorsqu’on cumule ces différents temps, on constate que le croco 
+n’a pas été alimenté pendant une période allant de 1,45 à 2 s. 
+
+## Página 37
+
+5. Monocinétisme 
+Le monocinétisme signifie que si ce système équipe un signal, ce 
+signal ne peut être ouvert qu’une seule fois pour un mouvement. 
+Pour que le monocinétisme soit enclenché (passage du signal au 
+rouge et maintien dans cette position),  
+L’une ou l’autre condition doit être présente :   
+- chute d’un ou plusieurs CV relatif à ce signal et d’une 
+durée supérieure à 500ms (monocinétisme du signal) 
+- premier contact rail foulé. 
+Lors d’une rupture d’alimentation, les CV chutent, ils sont 
+considérés comme occupés et font, par conséquent, passer les 
+signaux concernés au « rouge ». 
+Lors du retour de l’alimentation, et après temporisation de 1,2 
+seconde des relais de CV, le signal repasse dans sa position 
+initiale.  
+Si un signal est équipé d’un système monocinétique, cela signifie 
+que si ce signal passe au « rouge » suite à une rupture 
+d’alimentation par exemple et que celle-ci soit suffisamment 
+longue que pour que la temporisation du monocinétisme soit 
+dépassée, le signal restera au rouge après le retour de 
+l’alimentation. 
+Le schéma électrique du monocinétisme est constitué entre autres 
+d’un relais électrique temporisé à la chute qu’on appelle KV. 
+Celui-ci influence la position du CSA3 du signal. 
+Si le relais KV chute, le signal ne peut plus revenir au passage 
+pour ce mouvement. 
+La temporisation du  monocinétisme est réglée pour que ce 
+dernier ne s’enclenche pas en cas de commutation normale (= 
+disparition de la tension pendant 500 ms au maximum). 
+La temporisation de 1,82s est déterminée en simulant une 
+commutation en cabine de signalisation dans le but d’éviter que le 
+monocinétisme ne maintienne le signal au rouge suite à ce type 
+de commutation. 
+Si cette temporisation est dépassée lors d’un effondrement de 
+tension, le monocinétisme est susceptible de s’enclencher. Le 
+signal maintien son aspect rouge.    
+
+## Página 38
+
+6. Evolution du signal K10 lors de l’approche du train  
+La brosse du train n’ayant enregistré aucune impulsion au niveau 
+du signal K10, le crocodile lors du passage de celle-ci était bien 
+hors tension. 
+Selon les informations de TECTEO, l’effondrement de tension 
+aurait duré 600ms avec une tension variant entre 40 et 90% de la 
+tension nominale. 
+Les conditions ce jour là et celles selon lesquelles Infrabel effectue 
+le réglage de la temporisation de monocinétisme ne sont donc pas 
+identiques. 
+Le 03/07 et selon Infrabel, les différents éléments de l’installation 
+électriques ont réagi d’une manière difficilement déterminable en 
+particulier les circuits de voies et le monocinétisme du signal. 
+Etant donné l’incertitude entourant la réaction des différents 
+éléments électriques, on ne peut définir exactement quelle fut la 
+séquence suivie par le signal lors de l’approche du convoi.   
+On peut cependant émettre 2 hypothèses : 
+6.1. Hypothèse 1  
+La commutation se fait au moment ou juste avant (2 secondes 
+maximum) le passage du train sur le crocodile. Le signal est au 
+double jaune durant l’approche par le convoi. 
+Comme mentionné au point 4.4, on peut définir une période 
+temps ‘t’ couvrant la rupture d’alimentation accompagnée par une 
+chute de CV + temporisation soit au total, un crocodile qui n’émet 
+pas d’impulsion pendant maximum 2 secondes. 
+Dès lors, il est fort probable que le train E2405 soit passé à 
+hauteur du signal K10 et en particulier sur le crocodile associé à 
+celui-ci au cours de cette période de temps ‘t’.  
+Ce qui expliquerait qu’au moment du passage sur le crocodile, ce 
+dernier n’ait transmis aucune impulsion. 
+Tenant compte de la vitesse du train qui était d’environ 125 km/h 
+soit 34,7m/s, le train a parcouru une distance de 70 m pendant la 
+
+## Página 39
+
+durée de la rupture d’alimentation qui a pu durer jusqu’à 2 
+secondes. 
+La longueur de contact entre la brosse du train et le crocodile se 
+situant entre 2 et 3 mètres, on comprend que le train ait pu 
+passer sur le crocodile pendant le temps où il était sans tension. 
+6.2. Hypothèse 2 
+La commutation se produit avant le passage du train (quelques 
+secondes) sur le crocodile. Le conducteur aurait du voir durant 
+l’approche du signal K10, ce signal au double jaune, puis passer 
+au rouge et rester au rouge suite au déclenchement du 
+monocinétisme. 
+Dans ces 2 hypothèses, le signal a pu présenter un aspect éteint 
+pendant une fraction de seconde soit au maximum 700ms.   
+
+## Página 40
+
+Signaux K10 et C10 commandés à l’ouverture par le desservant 
+L’itinéraire est tracé et sélectionné de C10 vers voie 3 ;  
+le signal K10 est commandé à l’ouverture. 
+D10
+E10
+D11
+B222
+K10
+3
+I
+II
+C10
+Situation avant commutation 
+Le train a franchi les signaux D11 et B222. 
+D10
+E10
+D11
+B222
+K10
+3
+I
+II
+
+## Página 41
+
+Situation résultant de la commutation 
+Le train franchit le signal K10 lorsqu’il est à l’arrêt. Conséquemment, le 
+crocodile associé est sans tension.  
+D10
+E10
+D11
+B222
+K10
+3
+B
+A
+C10
+Le signal E10 étant à l’arrêt, son crocodile n’est pas non plus alimenté. Le 
+train le franchit et va percuter la machine voie A. 
+D10
+E10
+D11
+B222
+K10
+3
+B
+A
+C10
+
+## Página 42
+
+5. Distance de visibilité du signal K10 
+La distance de visibilité du signal K10 est d’environ 310 m. Ce qui 
+est conforme à la réglementation. 
+A une vitesse de 120 km/h, le conducteur a un temps pour réagir 
+au signal d’un peu plus de 9 secondes.  
+6. Influence de la rupture d’alimentation sur la conduite 
+En fonctionnement normal, le signal K10 aurait du présenté un 
+signal double jaune, et son crocodile aurait du transmettre une 
+impulsion positive. 
+Pour une impulsion positive, un avertissement lumineux apparait 
+dans le poste de conduite. 
+Si aucune impulsion n’est transmise au crocodile (signal rouge), 
+pas de génération d’avertissement en cabine.   
+Etant donné que le conducteur avait eu un aspect vert au signal 
+B222, il pouvait s'attendre à avoir un double jaune au signal 
+suivant si le E10 avait été rouge (voir principes de signalisation en 
+annexe 3).  
+Comme le K10 était rouge au lieu de double jaune, le conducteur 
+n’a donc pas eu l’attention attirée par l’avertisseur lumineux en 
+cabine lorsqu’il passait à hauteur du signal.     
+7. Modification du tracé permanent  (voir Eléments de 
+signalisation en annexe 3) 
+Pour permettre au train de marchandises de passer de la voie A à 
+la voie 3, en croisant la voie B, le tracé permanent d’application 
+par défaut, doit être supprimé. 
+Cette suppression ne peut se faire que si le train sur la voie B est 
+distant d’au moins 800m du signal K10, comme confirmé par les 
+essais du 27 septembre. 
+Il n’est pas possible de retirer le tracé permanent  lorsque le train 
+pour lequel ce tracé a été établi se trouve déjà sur le circuit de 
+
+## Página 43
+
+voie « d’annonce du tracé permanent » sauf en intervenant sur 
+les clés de sécurité en cabine de signalisation. 
+Ces clés de sécurité sont équipées de compteurs. 
+Chaque actionnement de ces clés doit être rigoureusement inscrit 
+dans un registre.  
+Le 03/07, le registre des compteurs a été relevé et aucune de ces 
+clés de sécurité n’a été actionnée en cabine avant l’accident. 
+On peut donc en déduire que le tracé permanent a été retiré 
+avant que le train ne passe sur le CV qui empêche le retrait de ce 
+tracé permanent. 
+8.  Occurrence d’évènements semblables 
+1. Effondrements de tension chez TECTEO 
+Il faut savoir que la société TECTEO fournit l’électricité à environ 
+les 2/3 de la province de Liège.  
+Le 03/07, on sait que l’effondrement de tension est dû à un défaut 
+de câble. 
+Mais des effondrements de tension comme ceux-là peuvent se 
+produire suite à d’autres types d’incidents. 
+Selon les chiffres fournis par TECTEO,  
+pour la zone qui le concerne :  
+En 2006, 556 incidents auraient pu conduire à des ruptures 
+d’alimentation dans les installations Infrabel. 
+En 2007, 585 incidents auraient pu conduire à des ruptures 
+d’alimentation dans les installations Infrabel. 
+En 2008, 590 incidents auraient pu conduire à des ruptures 
+d’alimentation dans les installations Infrabel. 
+Ces chiffres restent bien en dessous de la limite admise selon la 
+nome européenne EN 50160 « Caractéristiques de la tension 
+fournie par les réseaux publics de distribution » introduite en droit 
+belge dans l’arrêté royal du 24/07/2007.   
+En cas d’incident sur son réseau, TECTEO ne peut préciser son 
+incidence sur les installations Infrabel. 
+Toutefois, un effondrement de tension comme celui du 03/07 
+n’est pas sans conséquence et peut provoquer une remise à l’arrêt 
+intempestive d’un signal. 
+
+## Página 44
+
+2. Remises intempestives de signaux à l’arrêt  
+Selon les données issues de la base de données du service 
+sécurité d’exploitation de la SNCB Holding, on dénombre pour 
+l’année 2008, 259 remises à l’arrêt intempestives de signaux. 
+Ces remises à l’arrêt intempestives obligent les conducteurs de 
+train à des freinages d’urgence avec dépassement éventuel du 
+signal en question. 
+Elles sont principalement imputables à des causes techniques.  
+Selon les informations que nous avons reçues, 7 d’entre elles ont 
+pu être imputées au fournisseur d’électricité. 
+9. Connaissance de ligne du conducteur  
+1. Réglementation en vigueur 
+Extrait du HLT – manuel du conducteur de train 
+Pour assurer seul la desserte d'un engin moteur, le conducteur 
+acquiert au préalable la connaissance des installations à parcourir.  
+Quant il s'agit d'assurer des trains en ligne, on parle de 
+connaissance de ligne.   
+La connaissance de ligne porte sur : 
+– en pleine voie : les voies principales et les voies de garage ; 
+– dans les gares et les grands complexes : 
+ 
+les itinéraires d'accès, de sortie et de circulation en 
+relations avec les voies principales directes, les voies 
+principales de réception et les voies de circulation ; 
+ 
+les voies accessoires en relation avec les opérations à 
+effectuer. 
+– les itinéraires de déviation afférents à la ligne. 
+La connaissance de ligne est suffisante lorsqu'elle permet, pour 
+chaque sens de circulation, de respecter l'horaire dans des 
+conditions normales. 
+
+## Página 45
+
+Etude de ligne 
+### L'étude de ligne permet au conducteur de prendre connaissance 
+notamment : 
+– de l'ordre de succession des gares, des points d'arrêt, des 
+bifurcations, des tunnels, ... ; 
+– des possibilités de changement de voie en voie principale ; 
+– de la vitesse de référence de la ligne, des zones à vitesse 
+réduite, .... 
+Le conducteur utilise la fiche de ligne comme document de travail.  
+Il y apporte les renseignements qu'il juge utiles.  Avant d'effectuer 
+un parcours d'étude en ligne, le conducteur prend connaissance 
+des avis publiés aux livres d'ordres et des autres avis temporaires 
+distribués à titre individuel. 
+On peut donc conclure que tout conducteur qui roule sur une 
+ligne, en a repéré ses particularités et sait comment les 
+appréhender.  
+2. Le conducteur du train de voyageurs 
+L’attestation de connaissance de ligne du conducteur du train 
+voyageurs confirme qu’il est apte à circuler entre autres sur la 
+ligne 125. Il en a donc repéré les particularités et sait comment 
+les appréhender. 
+
+## Página 46
+
+10 - Comportement de l’accompagnateur de train 
+1. Extrait du manuel de l’accompagnateur de train 
+
+## Página 47
+
+2. Extrait de la consigne Personnel Accompagnement des Trains 
+3.5.4 – Rapport sur le flux d’information en trafic ferroviaire 
+perturbé  
+3. l’accompagnateur du train de voyageurs 
+La réglementation en vigueur prescrit que l’accompagnateur du 
+train ne peut entrer dans le  poste de conduite que si sa présence 
+est vraiment nécessaire. 
+Les ralentissements importants effectués par le train dus aux 
+inondations de la veille ont engendré des retards. 
+Afin d’anticiper une information ultérieure aux voyageurs, 
+l’accompagnateur s’informe auprès du conducteur. Il justifie ainsi 
+sa présence dans le poste de conduite.  
+
+## Página 48
+
+### Chapitre VI : Conclusions 
+1. Cause  directe  
+La collision est, en premier, lieu  la conséquence du fait que le 
+conducteur du train voyageurs E 2405 n’a pas immédiatement 
+amorcé un freinage d’urgence à l’approche du signal K10.   
+En raison d’une interruption dans l’alimentation électrique au 
+moment où le train passait ce signal K10, l’aspect de ce signal ne 
+pouvait être que rouge ou éteint. 
+2. Cause  sous-jacente 
+La cause sous-jacente de l’accident est l’absence d’un équipement 
+technique permettant le contrôle de la marche des trains et qui 
+occasionne automatiquement un freinage d’urgence lorsque le 
+train dépasse un signal qui impose l’arrêt ou qui est dérangé. 
+
+## Página 49
+
+### Chapitre VII : Recommandations 
+L‘ enquête mène aux recommandations suivantes : 
+1. Il est indispensable d’équiper l’infrastructure ferroviaire 
+belge d’un système automatisé pour contrôler la vitesse des 
+trains et d’obliger les entreprises ferroviaires à conformer 
+leur matériel roulant à cet équipement. 
+Les programmes en cours notamment l’équipement du 
+réseau d’un système TBL1+ doivent continuer avec la plus 
+grande diligence. Tout doit être mis en œuvre pour éviter le 
+moindre retard dans l’exécution du programme. 
+2. Les 
+entreprises 
+ferroviaires 
+ont 
+à 
+poursuivre 
+leurs 
+programmes d’action pour éviter les dépassements de 
+signaux à l’arrêt. Il est en  particulier nécessaire de 
+continuer les actions pour augmenter la vigilance des 
+conducteurs de train. En outre, il est important d’éviter, 
+autant que possible, en poste de conduite toute chose qui 
+peut distraire les conducteurs entre autre la présence 
+d’autres  personnes.   
+ Il est en particulier recommandé qu’Infrabel et les         
+entreprises ferroviaires fassent en concertation des analyses 
+de risques sur les dépassements des signaux placés à des         
+endroits critiques afin de mener des actions coordonnées 
+pour éviter ces dépassements de signaux. 
+3. Il est essentiel de garantir les critères de qualité de 
+l’alimentation électrique.  
+L’enquête a mis en évidence que la commutation de  
+l’alimentation normale s’est faite vers l’alimentation de 
+secours. Cette dernière étant tout aussi dégradée que 
+l’alimentation normale. 
+Il est recommandé que préalablement à une commutation 
+électrique un dispositif technique vérifie la qualité de 
+l’alimentation de secours et que l’alimentation électrique soit 
+complètement coupée dès  qu’une même déficience est 
+constatée au niveau des alimentations normales et de 
+secours.  
+
+## Página 50
+
+### ANNEXE 1 
+### Fiche signalétique Automotrice Type AM83 
+
+## Página 51
+
+
+
+## Página 52
+
+### ANNEXE 2 
+### Fiche signalétique machine Diesel Type 77 
+
+## Página 53
+
+
+
+## Página 54
+
+### ANNEXE 3 
+### Eléments de signalisation 
+
+## Página 55
+
+1. Le circuit de voie 
+Le circuit de voie est un équipement électrique qui permet de 
+constater la présence d'engins ferroviaires lourds sur une partie 
+bien déterminée d'une section de voie. Par engins ferroviaires 
+lourds on entend les véhicules ferroviaires capables, par leur 
+construction (poids, conductivité électrique), de faire fonctionner à 
+coup sûr des circuits de voie, des rails isolés et des contacts de 
+rail.  
+D'un point de vue électrique, un circuit de voie peut être comparé 
+à une ligne de transmission, où le court-circuit provoqué par les 
+essieux fait chuter la tension sur le récepteur en deçà d'un seuil 
+minimum, à la suite de quoi ce récepteur détecte une occupation, 
+c’est le relais de voie. La longueur de la partie de voie dans 
+laquelle un véhicule est détecté, est appelée zone de détection.  
+Cette zone de détection peut être délimitée de manière très 
+précise (par exemple, joints physiques isolés dans la voie), mais 
+peut aussi présenter des limites moins précises (quelques mètres) 
+dans le cas de joints électriques (par exemple, circuits de voie 
+sans joint physique).  
+Le circuit de voie constitue un élément important pour la fiabilité 
+des installations de signalisation et la sécurité du trafic ferroviaire. 
+C'est pourquoi il doit satisfaire à des exigences élevées de 
+fiabilité.  
+2. Block system à voie ouverte 
+Principe 
+Les sections sont normalement débloquées et le signal de block 
+s’ouvre dès que la section est libre. 
+Ouverture du signal de block 
+Le signal de block ne reste fermé que durant l’occupation de la 
+section. 
+Dénomination 
+Ce système est appelé block automatique. 
+
+## Página 56
+
+Exemple 
+Modification de la signalisation en fonction 
+de l’avancement du train 
+
+## Página 57
+
+3. Le Crocodile   
+Le crocodile est un appareil situé entre les deux rails de la voie qui 
+aide le conducteur à respecter les indications fournies par un 
+signal ou un panneau.  
+Il y a, entre le crocodile et le rail le plus proche, une différence de 
+tension dont la polarité dépend de l'aspect affiché par le signal 
+concerné :  
+– différence de tension négative : signal vert; 
+– différence de tension positive : signal restrictif (le 
+signal n’est pas vert). 
+– tension nulle : signal rouge 
+Cette différence de tension actionne un appareil installé à bord 
+des engins de traction, qui permet de contrôler la vigilance du 
+### conducteur : le système « MEMOR ».  
+
+## Página 58
+
+4. Le système « MEMOR » 
+Répétition des signaux 
+### Le système « MEMOR » réalise, à partir de l'impulsion 
+électrique fournie par les crocodiles, la répétition de l'aspect des 
+signaux au poste de conduite à l’aide d’un signal acoustique émis 
+par un gong ou par l’allumage d’une lampe : 
+– l'impulsion électrique négative provoque l’allumage 
+d’une lampe bleue ou le fonctionnement bref d’un 
+gong, ce qui constitue la répétition au poste de 
+conduite de l'aspect « feu vert » d'un grand signal ; 
+– l'impulsion électrique positive provoque l’allumage 
+d’une lampe jaune, ce qui constitue la répétition au 
+poste de conduite du panneau ou de l’aspect du 
+grand signal indiquant une mission restrictive. La 
+mémorisation 
+reste 
+enregistrée 
+jusqu'à 
+la 
+rencontre d'un croco avec tension négative. 
+Vigilance et arrêt automatique 
+Le conducteur manifeste sa vigilance en appuyant sur le bouton-
+poussoir « Vigilance » avant le passage au droit du signal que l’on 
+suppose « double jaune »; cette action provoque l'allumage de la 
+lampe jaune dans le poste de conduite.  Lorsque l'impulsion est 
+captée, la lampe jaune s'éteint.  Le conducteur libère alors le 
+bouton-poussoir ; la lampe jaune se rallume. 
+Si par manque de vigilance, le bouton-poussoir n'a pas été 
+enfoncé, la lampe jaune se met à clignoter dès la transmission de 
+l'impulsion.  Le conducteur dispose alors d’un délai de 4 secondes 
+pour enfoncer et lâcher le bouton-poussoir « Vigilance » (vigilance 
+tardive). Dans ce cas, une impulsion de pointage tardif est 
+enregistrée sur la bande de vitesse.  A défaut, la lampe jaune 
+continue à clignoter, le ronfleur du dispositif de veille automatique 
+fonctionne et la valve d'urgence s’ouvre, ce qui provoque l'arrêt 
+automatique du convoi. 
+Mémorisation de la mission restrictive imposée par le signal  
+La lampe jaune allumée aide le conducteur à mémoriser la 
+mission restrictive imposée par le signal rencontré.  Elle s'éteint 
+lors du passage au droit du prochain signal provoquant l'allumage 
+de la lampe bleue ou le fonctionnement bref du gong.   
+
+## Página 59
+
+Le conducteur éteint la lampe jaune de mémorisation en appuyant 
+sur son cabochon lorsque l'allumage de la lampe ne se justifie 
+plus. 
+Le système « MEMOR » est donc actif si le crocodile lui transmet 
+une impulsion positive. 
+Dans le cas d’un signal rouge, aucune impulsion n’est transmise 
+par le crocodile et par conséquent la vigilance du conducteur n’est 
+pas testée. Si le signal présente un tel aspect, il n’y a donc pas 
+d’arrêt automatique. 
+
+## Página 60
+
+5.  Tracé permanent 
+Le tracé permanent permet au desservant de laisser fonctionner la 
+cabine de signalisation en « mode automatique ». 
+Dans ce mode de fonctionnement de la cabine, aucune action 
+humaine en cabine n’est nécessaire pour faire circuler les trains. 
+Le tracé permanent ne permet pas de faire passer un train de la 
+voie A vers la voie B (voir plus haut le PSS). 
+Le tracé permanent permet uniquement le passage en voie 
+directe, c'est-à-dire pour les trains venant de voie A de continuer 
+voie A et pour les trains venant de voie B de continuer voie B. 
+Le jour de l’accident, le desservant du poste doit supprimer le 
+tracé permanent pour permettre le passage du train de 
+marchandises de la voie A vers la voie 3 dans le domaine privé de 
+l’entreprise DUMONT-WAUTHIER.  
+Le train de marchandises doit donc emprunter sur une courte 
+distance la voie B pour rentrer voie 3 (voir Plan). 
+Le tracé de l’itinéraire du train de marchandises voie A vers 3, ne 
+peut se faire que si le train en approche voie B est suffisamment 
+loin. 
+En effet, il faut que la signalisation s’adapte pour permettre au 
+train sur la voie B d’adapter sa vitesse pour franchir la liaison et 
+éventuellement de s’arrêter devant le signal en voie B qui protège 
+la portion de voie où s’effectuera le passage du train issu de la 
+voie A.  
+Selon le schéma et suite aux essais effectués sur le terrain, on 
+peut dire que si le train voie B est  plus de 836m (CVTH(Ia)) en 
+amont du signal K10, le tracé permanent pourra être supprimé et 
+l’itinéraire voie A vers voie 3 tracé.  
+Le mode tracé permanent fonctionne sur batterie donc en courant 
+continu 40V. 
+Le tracé permanent n’est donc pas affecté par une rupture 
+d’alimentation du 110V. 
+Si un convoi circule sur l’itinéraire ou a foulé le CV d’annonce, 
+l’itinéraire en cours reste enclenché et ne peut être modifié. 
+Il ne pourra être supprimé que si tous les CV sont hauts et que 
+toutes les pédales ont été foulées.

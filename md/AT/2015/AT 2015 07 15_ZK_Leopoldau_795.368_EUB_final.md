@@ -1,0 +1,986 @@
+---
+pais: AT
+anio: 2015
+idioma: DE
+pdf: AT 2015 07 15_ZK_Leopoldau_795.368_EUB_final.pdf
+url_oficial: https://www.era.europa.eu/system/files/2023-07/AT%202015%2007%2015_ZK_Leopoldau_795.368_EUB_final.pdf
+md5_pdf: 976fc99c768100eeb06dbc656da83535
+paginas: 33
+chars: 42340
+tablas: 5
+cuerpo: "10.0pt; encabezados 3 niveles"
+rotulos_excluidos: "144 (#, kollision z # mit z #, mimeattach, untersuchungsbericht)"
+verbatim_fallos: 0
+escaneado: false
+paginas_sin_texto: 3
+fecha_proceso: 2026-11-18
+generador: convertir_md_pais.py (PyMuPDF 2.1, dict tipográfico)
+---
+## Página 1
+
+Untersuchungsbericht 
+Bundesanstalt für Verkehr 
+Sicherheitsuntersuchungsstelle des Bundes 
+GZ: BMVIT-795.368-IV/BAV/UUB/SCH/2015 
+Kollision Z 35438 mit Z 48071 
+im Bahnhof Leopoldau 
+am 15. Juli 2015 
+Bundesministerium für Verkehr, Innovation und Technologie 
+
+## Página 2
+
+### Inhaltsverzeichnis 
+Inhaltsverzeichnis 
+Verzeichnis der Abbildungen 
+Verzeichnis Expertisen und Gutachten 
+Verzeichnis der Regelwerke 
+3 
+Verzeichnis der Regelwerke des IM/RU 
+4 
+Verzeichnis der Abkürzungen und Begriffe 
+4 
+Untersuchungsverfahren 
+4 
+Vorbemerkungen 
+5 
+Hinweis 
+5 
+Kontakt 
+5 
+Empfänger 
+6 
+Zusammenfassung 
+7 
+1 
+Allgemeine Angaben 
+8 
+1.1 
+Zeitpunkt 
+8 
+1.2 
+Örtlichkeit 
+8 
+1.3 
+Witterung; Sichtverhältnisse 
+8 
+1.4 
+Behördenzuständigkeit 
+8 
+1.5 
+Örtliche Verhältnisse 
+9 
+1.6 
+Beteiligte Fahrten 
+10 
+1.7 
+Zulässige Geschwindigkeiten 
+11 
+2 
+Sachverhaltsdarstellung, Befundaufnahme 
+14 
+2.1 
+Allgemeines 
+14 
+2.2 
+Bilddokumentation 
+15 
+2.3 
+Chronologie der Ereigniskette 
+16 
+3 
+Folgen 
+17 
+3.1 
+Verletzte Personen 
+17 
+3.2 
+Schäden an der Infrastruktur 
+17 
+3.3 
+Sachschäden an Fahrzeugen und Ladegut 
+17 
+3.4 
+Schäden an Umwelt 
+17 
+3.5 
+Betriebsbehinderungen 
+17 
+4 
+Beteiligte, Auftragnehmer, Zeugen 
+17 
+5 
+Rettungs- und Notfalldienst 
+17 
+6 
+Externe Ermittlungen 
+17 
+7 
+Aussagen, Beweismittel, Auswertungen 
+18 
+7.1 
+Betriebliche Situation 
+18 
+7.2 
+Auswertung Sprachspeicheraufzeichnungen 
+18 
+7.3 
+Registriereinrichtung der beteiligten Fahrten 
+19 
+7.4 
+Befragungen / Aussagen 
+21 
+7.5 
+Gesetzliche Bestimmungen (auszugsweise) 
+21 
+7.6 
+Regelwerke des IM 
+24 
+7.7 
+Auswertung der Expertisen und Gutachten 
+25 
+8 
+Faktor „Mensch“ 
+25 
+9 
+Safety Management System (SMS) 
+26 
+9.1 
+Dokumente und Nachweise 
+26 
+10 
+Schlussfolgerungen 
+27 
+11 
+Maßnahmen 
+27 
+12 
+Sonstiges (nicht unfallkausal) 
+27 
+13 
+Ursache 
+27 
+14 
+Berücksichtigte Stellungnahmen 
+28 
+14.1 
+Stellungnahme der ÖBB-Infrastruktur AG 
+28 
+14.2 
+Stellungnahme BMVT-IV/SCH2 Oberste Eisenbahnbaubehörde 
+28 
+14.3 
+Stellungnahme Caro Service GmbH Eisenbahnverkehrsunternehmen Z 48071 
+28 
+Sicherheitsempfehlungen 
+
+## Página 3
+
+15.1 
+Sicherheitsempfehlungen gemäß § 16 Abs. 2 UUG 2005 
+15.2 
+Sicherheitsempfehlungen gemäß § 16 Abs. 1 UUG 2005 
+Beilage 1 – Stellungnahmen zum Zwischen-Untersuchungsbericht 
+Beilage 2 – Stellungnahmen zum Untersuchungsbericht 
+### Verzeichnis der Abbildungen 
+Abbildung 1: 
+Skizze Eisenbahnlinien Wien (Quelle SUB) 
+8 
+Abbildung 2: 
+Lageskizze Bf Leopoldau (Quelle ÖBB) 
+9 
+Abbildung 3: 
+ES X005 und ES Z012 (Quelle SUB) 
+9 
+Abbildung 4: 
+Auszug VzG Strecke 11401 (Quelle ÖBB) 
+11 
+Abbildung 5: 
+Auszug Buchfahrplan Cargo Serv (Quelle SUB) 
+12 
+Abbildung 6: 
+Auszug VzG Strecke 13901 (Quelle ÖBB) 
+13 
+Abbildung 7: 
+Auszug Buchfahrplan Heft 802 (Quelle ÖBB) 
+13 
+Abbildung 8: 
+Skizze Verkehrssituation Leopoldau (Quelle SUB) 
+14 
+Abbildung 9: 
+Endposition der entgleisten Fahrzeuge (Quelle SUB) 
+15 
+Abbildung 10: 
+Entgleister Wagen 3356 5301 233-6 (Quelle SUB) 
+15 
+Abbildung 11: 
+Entgleistes drittes Drehgestell Triebzug 4124 024-3 (Quelle SUB) 
+16 
+Abbildung 12: 
+Auszug ARAMIS Streckenspiegel (Quelle ÖBB) 
+18 
+Abbildung 13: 
+Registriereinrichtung Z 35438 (Quelle ÖBB-Produktion GmbH) 
+19 
+Abbildung 14: 
+Registriereinrichtung Z 48071 (Quelle Logistik Service GmbH) 
+20 
+Abbildung 15: 
+Signal Kennzeichnung (Quelle EisbBBV) 
+22 
+Abbildung 16: 
+Signal Signalhinweis und Richtungspfeil (Quelle EisbBBV) 
+22 
+Abbildung 17: 
+Sicht auf die ES Bf Leopoldau aus einer Entfernung von 200 m(Quelle SUB) 
+23 
+Abbildung 18: 
+Sicht auf die ES Bf Leopoldau (Quelle SUB) 
+24 
+Abbildung 19: 
+DV V3 § 72 Auszug (Quelle IM) 
+24 
+Abbildung 20: 
+DV V3 § 97 Auszug (Quelle IM) 
+24 
+Abbildung 21: 
+Auszug Anweisung BL-STA-00003-000019-12 (Quelle IM) 
+25 
+### Verzeichnis Expertisen und Gutachten 
+Keine 
+### Verzeichnis der Regelwerke 
+RL 2004/49/EG 
+„Richtlinie über die Eisenbahnsicherheit“ 
+EisbG 1957 
+Eisenbahngesetz 1957 
+UUG 2005 
+Unfalluntersuchungsgesetz 2005 
+MeldeVO-Eisb 
+Meldeverordnung Eisenbahn 2006 
+EisbAV 1999 
+Eisenbahn-ArbeitnehmerInnenschutzverordnung 
+EisbBBV 
+Eisenbahnbau- und betriebsverordnung 
+EisbVO 2003 
+Eisenbahnverordnung 
+
+## Página 4
+
+### Verzeichnis der Regelwerke des IM/RU 
+DV V 2 
+Signalvorschrift der ÖBB 
+DV V 3 
+Betriebsvorschrift der ÖBB 
+ZSB 
+Zusatzbestimmungen zur Signal- und zur Betriebsvorschrift 
+### Verzeichnis der Abkürzungen und Begriffe 
+| AG | Aktiengesellschaft |
+| ARAMIS | AdvancedRailwayAutomationManagementInformationSystem |
+| Bf | Bahnhof |
+| BMVIT bmvit , | BundesministeriumfürVerkehr InnovationundTechnologie , |
+| DV | Dienstvorschrift |
+| EG | EuropäischeGemeinschaft |
+| ES | Einfahrsignal |
+| EVU | Eisenbahnverkehrsunternehmen |
+| Fbf | Frachtenbahnhof |
+| Fdl | Fahrdienstleiter |
+| GmbH | GesellschaftmitbeschränkterHaftung |
+| IM | InfrastructureManager(Infrastrukturbetreiber) |
+| La | ÜbersichtüberLangsamfahrstellenundBesonderheiten |
+| MA | Mitarbeiter |
+| MESZ | MitteleuropäischeSommerzeit |
+| mdl/fmdl | mündlich/fernmündlich |
+| NSA ÖBB | NationalSafetyAuthority(NationaleSicherheitsbehörde) Ö sterreichischeBundesbahnen |
+| PZB | PunktförmigeZugbeeinflussung |
+| RL | Richtlinie |
+| RU(EVU) | RailwayUndertaking(Eisenbahnverkehrsunternehmen) |
+| SUB | SicherheitsuntersuchungsstelledesBundes |
+| Tfzf | Triebfahrzeugführer |
+| UTC | UniversalTime Coordinated(KoordinierteWeltzeit) , |
+| Vmax | MaximaleGeschwindigkeit |
+| VzG | VerzeichnisörtlichzulässigerGeschwindigkeiten |
+| Z | Zug |
+### Untersuchungsverfahren 
+Der Untersuchungsbericht stützt sich auf folgende Aktivitäten der SUB: 
+ 
+Untersuchung vor Ort am 15. Juli 2015 
+ 
+Gemeinschaftlicher Lokalaugenschein des IM vom 15. Juli 2015 
+ 
+Untersuchungsakt des IM eingelangt am 9. September 2015 
+ 
+Allfällige Rückfragen behandelt bis 15. Februar 2016 
+ 
+Zwischen-Untersuchungsbericht versendet am 23.Juni 2016 
+ 
+Stellungnahmeverfahren zum abgeschlossenen Untersuchungsbericht vom 8. August bis 28. September 
+2016 
+
+## Página 5
+
+### Vorbemerkungen 
+Die Untersuchung wurde gemäß den Bestimmungen des Artikel 19 Abs. 1 der RL 2004/49/EG in Verbindung 
+mit den Bestimmungen des § 5 Abs. 2 und 4 UUG 2005 durchgeführt.  
+Gemäß § 4 UUG 2005 haben Untersuchungen als ausschließliches Ziel die Feststellung der Ursache des 
+Vorfalles, um Sicherheitsempfehlungen ausarbeiten zu können, die zur Vermeidung ähnlicher oder gleichar-
+tig gelagerter Vorfälle in der Zukunft beitragen können. Die rechtliche Würdigung der Umstände und Ursa-
+chen ist ausdrücklich nicht Gegenstand der Untersuchung. Es ist daher auch nicht der Zweck dieses Unter-
+suchungsberichtes, ein Verschulden festzustellen oder Haftungsfragen zu klären. Der Untersuchungsbericht 
+hat dabei die Anonymität aller Beteiligten derart sicherzustellen, dass jedenfalls keine Namen der beteiligten 
+natürlichen Personen enthalten sind.  
+Bei den verwendeten personenbezogenen Bezeichnungen gilt die gewählte Form für beide Geschlechter.  
+Die im Untersuchungsbericht zitierten Regelwerke beziehen sich ausschließlich auf die zum Zeitpunkt des 
+Vorfalls gültige Fassung. 
+Gemäß § 14 Abs. 2 UUG 2005 sind inhaltlich begründete Stellungnahmen im endgültigen Untersuchungsbe-
+richt in dem Umfang zu berücksichtigen, als sie für die Analyse des untersuchten Vorfalls von Belang sind. 
+Dem Untersuchungsbericht sind alle inhaltlich begründeten, rechtzeitig eingelangten Stellungnahmen als 
+Anhang anzuschließen. 
+Gemäß Artikel 25 Abs. 2 der RL 2004/49/EG werden Sicherheitsempfehlungen an die Sicherheitsbehörde 
+und, sofern es die Art der Empfehlung erfordert, an andere Stellen oder Behörden in dem Mitgliedstaat oder 
+an andere Mitgliedstaaten gerichtet. Die Mitgliedstaaten und ihre Sicherheitsbehörden ergreifen die erforder-
+lichen Maßnahmen, um sicherzustellen, dass die Sicherheitsempfehlungen der Untersuchungsstellen ange-
+messen berücksichtigt und gegebenenfalls umgesetzt werden.  
+Die Sicherheitsbehörde und andere Behörden oder Stellen sowie gegebenenfalls andere Mitgliedstaaten, an 
+die die Empfehlungen gerichtet sind, unterrichten die Untersuchungsstelle mindestens jährlich über Maß-
+nahmen, die als Reaktion auf die Empfehlung ergriffen wurden oder geplant sind (siehe Artikel 25 Abs. 3 der 
+RL 2004/49/EG). 
+### Hinweis 
+Dieser Untersuchungsbericht darf ohne ausdrückliche Genehmigung der Bundesanstalt für Verkehr, 
+Sicherheitsuntersuchungsstelle des Bundes, nicht auszugsweise wiedergegeben werden. 
+Hinweis zu abgebildeten Personen: 
+Auf in diesem Untersuchungsbericht eingebundenen Darstellungen der Gegenstände und Örtlichkeiten (Fo-
+tos) sind eventuell unbeteiligte, unfallerhebende oder organisatorisch tätige Personen und Einsatzkräfte zu 
+sehen und gegebenenfalls anonymisiert. Da die Farben der Kleidung dieser Personen (z.B. Leuchtfarben 
+von Warnwesten) möglicherweise von der Aussage der Darstellungen ablenken können, wurden diese bei 
+Bedarf digital retuschiert (z.B. ausgegraut). 
+### Kontakt 
+Bundesanstalt für Verkehr 
+Sicherheitsuntersuchungsstelle des Bundes 
+1210 Wien, Trauzlgasse 1 
+Fax: +43/1/71162-659298 
+Email: uus@bmvit.gv.at 
+Homepage: http//versa.bmvit.gv.at 
+
+## Página 6
+
+### Empfänger 
+Dieser Untersuchungsbericht ergeht an: 
+|  | Unternehmen/Stelle |  |
+| ÖBB -InfrastrukturAG |  |  |
+| ÖBB -Personenverkehr AG Eisenbahnverkehrsunternehmen Z 35438 , |  |  |
+| CargoServiceGmbH EisenbahnverkehrsunternehmenZ48071 , |  |  |
+| ÖBB -Produktion GmbH Dienstleistungsunternehmen Traktionierung Z 35438 , |  |  |
+| LogistikServiceGmbH DienstleistungsunternehmenTraktionierungZ48071 , |  |  |
+| BeteiligtesPersonal |  |  |
+| VertretungdesPersonals |  |  |
+| Verkehrs-Arbeitsinspektorat |  |  |
+| ObersteEisenbahnbehördeimbmvit |  |  |
+| NationaleSicherheitsbehördeinbmvit |  |  |
+
+## Página 7
+
+### Zusammenfassung 
+### Hergang 
+Am Mittwoch, 15. Juli 2015, 08:05 Uhr, kollidierte der Leerpersonenzug 35438 mit dem Güterzug 48071 auf 
+der Weiche 154 im Bf Leopoldau. 
+### Folgen 
+Durch die Kollision entgleisten bei Zug 35438 die ersten drei Drehgestelle des Triebzuges 4124 024-3 mit 
+allen Radsätzen. Bei Zug 48071 entgleiste das Triebfahrzeug 1193 890-1 mit allen Radsätzen. Der erste 
+Wagen im Zugverband entgleiste mit beiden Radsätzen des nachlaufenden Drehgestells und überpufferte 
+mit dem nachlaufenden zweiten Wagen. Es entstand erheblicher Sachschaden an den beteiligten Fahrzeu-
+gen und an den Infrastruktureinrichtungen. 
+Es wurden keine Personen verletzt oder getötet.   
+### Ursache 
+Zug 35438 überfuhr unerlaubt das „Halt“ zeigende Einfahrsignal (ES) X005 und kam nach der Zwangsbrem-
+sung durch das Zugsicherungssystem PZB ca. 60 m nach dem ES zum Stillstand. Die Fahrt wurde ohne 
+Einholung einer Zustimmung zur Weiterfahrt vom zuständigen Fdl fortgesetzt. Nach der Weiterfahrt von ca. 
+350 m erfolgte die Kollision mit Zug 48071 auf der Weiche 154. 
+
+## Página 8
+
+### Allgemeine Angaben 
+### 1.1 Zeitpunkt 
+Mittwoch, 15. Juli 2015, ca. 8:05 Uhr UTC +2 (MESZ)  
+### 1.2 Örtlichkeit 
+ 
+IM ÖBB-Infrastruktur AG 
+ 
+Bf Leopoldau 
+ 
+Gleis 104 
+ 
+Weiche 154, im km 9,960 
+Ereignisstelle  
+km 9,960 
+Abbildung 1: Skizze Eisenbahnlinien Wien (Quelle SUB) 
+### 1.3 Witterung; Sichtverhältnisse 
+Sonnig, 25o C, Tageslicht, keine witterungsbedingten Einschränkungen der Sichtverhältnisse. 
+### 1.4 Behördenzuständigkeit 
+Die zuständige Eisenbahnbehörde ist die Oberste Eisenbahnbehörde im bmvit. 
+
+## Página 9
+
+### 1.5 Örtliche Verhältnisse 
+Der Bf Leopoldau liegt auf der zweigleisigen, elektrisch betriebenen Hauptbahn 11401 von Wien Praterstern 
+nach Staatsgrenze nächst Bernhardsthal Fbf (Breclav) und ist jeweils Anfangs- und Endpunkt der eingleisi-
+gen, elektrisch betriebenen Hauptbahn 13801 von Jedlersdorf nach Leopoldau sowie der eingleisigen, 
+elektrisch betriebenen Hauptbahn 13901 von Wien Süßenbrunn Mitte nach Leopoldau. Der zweigleisige 
+Streckenabschnitt der Strecke 11401 wird planmäßig im Gleiswechselbetrieb betrieben, die Fahrordnung ist 
+rechts. Die genannten Strecken sind mit dem Zugsicherungssystem PZB ausgerüstet. Der Bf Leopoldau ist 
+unbesetzt und wird vom Zentralstellwerk im Bf Süßenbrunn fernbedient. Die Betriebsabwicklung erfolgt ge-
+mäß den Bestimmungen und Vorgaben der Regelwerke des IM. 
+Strecke 11401 
+Strecke 13901 
+### Kollisionsstelle Weiche 154, km 9,960 
+Abbildung 2: 
+Lageskizze Bf Leopoldau (Quelle ÖBB) 
+Das ES X005 der eingleisigen Strecke 13901 befindet sich auf gleicher Höhe mit den ES Z012 und Y011 der 
+Strecke 11401 im km 10,365. Das ES X005 ist nicht rechts sondern links vom Streckengleis der Strecke 
+13901 aufgestellt. Diese Abweichung wird mit dem Signal „Signalhinweis“ rechts vom Gleis angezeigt. Zur 
+eindeutigen Anzeige der Gleiszugehörigkeit des ES Z012 ist das Signal „Richtungspfeil“ am Signal ange-
+bracht. Die Bezeichnungen rechts und links sind im Sinn der Fahrtrichtung zu verstehen. 
+ES Z012 Strecke 11401 
+Signal „Richtungspfeil“ 
+ES X005 Strecke 13901 
+Signal „Signalhinweis“ 
+Abbildung 3: ES X005 und ES Z012 (Quelle SUB) 
+
+## Página 10
+
+### 1.6 Beteiligte Fahrten 
+|  |  |  |  | Z35438 |  |
+|  | Zugart |  | Leerpersonenzug |  |  |
+|  | Zuglauf |  | WienMeidlingnachFloridsdorf |  |  |
+| Triebzug | Triebzug |  | 93814124024 -3dreiteiliginDoppeltraktion mit93814124004 -5dreiteilig |  |  |
+|  | Gesamtgewicht(MassegemäßMaß -undEichgesetz) |  | 234t |  |  |
+|  | Gesamtlänge |  | 134m |  |  |
+|  | Buchfahrplan/Fahrplanmuster |  | Heft802/M7229 |  |  |
+|  | Fahrplanhöchstgeschwindigkeit |  | 120km/h |  |  |
+|  | Bremshundertstelerforderlich/vorhanden |  | 112%/150% |  |  |
+|  | Besetzung |  | 1Tfzf |  |  |
+|  | EVU |  | ÖBBPersonenverkehrAG |  |  |
+|  | Einstellungsregister |  | Eintragungvorhanden |  |  |
+|  |  |  |  | Z48071 |  |
+|  | Zugart |  | Ganzgüterzug |  |  |
+|  | Zuglauf |  | BreclavprednachLinzVoestAlpine |  |  |
+|  | Triebfahrzeug |  | 91811193890 1 - |  |  |
+|  | Wagen |  | 25Typ E“Schüttguttransport „ |  |  |
+|  | Gesamtgewicht(MassegemäßMaß -undEichgesetz) |  | 1885t |  |  |
+|  | Gesamtlänge |  | 370m |  |  |
+|  | Buchfahrplan/Fahrplanmuster |  | CargoServ/48071 |  |  |
+|  | Fahrplanhöchstgeschwindigkeit |  | 90km/h |  |  |
+|  | Bremshundertstelerforderlich/vorhanden |  | 52%/68% |  |  |
+|  | Besetzung |  | 1Tfzf |  |  |
+|  | EVU |  | CargoServ |  |  |
+|  | Einstellungsregister |  | TriebfahrzeugEintragungvorhanden |  |  |
+
+## Página 11
+
+## 1.7 
+### Zulässige Geschwindigkeiten 
+### 1.7.1 Auszug aus VzG Strecke 11401  
+Kollisionsstelle  
+km 9,960  
+Abbildung 4: 
+Auszug VzG Strecke 11401 (Quelle ÖBB)  
+Gemäß VzG des IM für die Strecke 11401 ist die örtlich zulässige Geschwindigkeit im Bereich der Kollisions-
+stelle mit 120 km/h festgelegt. 
+
+## Página 12
+
+### 1.7.2 Auszug aus Cargo Serv Buchfahrplan Z48701 
+Kollisionsstelle  
+km 9,960 Strecke 11401 
+Abbildung 5: 
+Auszug Buchfahrplan Cargo Serv (Quelle SUB) 
+Gemäß Buchfahrplan Cargo Serv für Z 48071 ist die Fahrplangeschwindigkeit im Bereich der Kollisionsstelle 
+mit 60 km/h festgelegt. 
+### 1.7.3 Signalisierte Geschwindigkeit Z 48071 
+Bei der Einfahrt des Z 48071 in den Bf Leopoldau vom Streckengleis 2 auf Gl 4 wurde am ES Z012 „Frei mit 
+40 km/h“ signalisiert. Im Vorfallbereich war für Z 48071 eine signalisierte Höchstgeschwindigkeit von 40 km/h 
+zulässig.  
+### 1.7.4 Geschwindigkeitseinschränkungen 
+Es gab keine weitere Einschränkung der Geschwindigkeit für Z 48071 im Bereich der Kollisionsstelle durch 
+Eintragung in der La bzw. durch schriftliche Befehle. 
+
+## Página 13
+
+### 1.7.5 Auszug aus VzG Strecke 13901  
+Kollisionsstelle 
+km 9,960 Strecke 11401 
+Abbildung 6: 
+Auszug VzG Strecke 13901 (Quelle ÖBB) 
+Gemäß VzG des IM für die Strecke 13901 ist die örtlich zulässige Geschwindigkeit im Bereich der Kollisions-
+stelle mit 60 km/h festgelegt. 
+### 1.7.6 Auszug aus Buchfahrplan Heft 802 für Z 35438 
+Abbildung 7: 
+Auszug Buchfahrplan Heft 802 (Quelle ÖBB) 
+Gemäß Buchfahrplan Heft 802 Muster M 7229 für Z 35438 ist die Fahrplangeschwindigkeit im Bereich der 
+Kollisionsstelle mit 60 km/h festgelegt.  
+
+## Página 14
+
+### Sachverhaltsdarstellung, Befundaufnahme 
+### 2.1 Allgemeines 
+Am Mittwoch, den 15. Juli 2015, 8:00 Uhr näherte sich vom Bf Süßenbrunn-Mitte kommend Z 35438 auf der 
+Strecke 13901 dem Bf Leopoldau. Das für die Fahrt zugehörige ES X005 des Bf Leopoldau zeigte „Halt“. 
+Für Z 48071 war vom Gegengleis 2 der Strecke 11401 eine signalmäßig taugliche Fahrstraße vom ES Z012 
+nach Bf Leopoldau Gl 104 und weiter auf die Strecke 13801 eingestellt.  
+Abbildung 8: 
+Skizze Verkehrssituation Leopoldau (Quelle SUB) 
+Die ES Z012 und X005 befinden sich auf gleicher Höhe im km 10,365 der Strecke 11401 (siehe Abb. 3 Sei-
+te 9). Z 35438 bezog das „Frei mit 40 km/h“ zeigende ES Z012, gültig für Z 48071, auf sich und überfuhr 
+unerlaubt das „Halt“ zeigende ES X005. Durch das unerlaubte Überfahren wurde vom Zugssicherungssys-
+tem PZB eine Zwangsbremsung (2000 Hz) bei Z 35438 ausgelöst. Z 35438 kam ca. 60 m nach dem ES 
+X005 zum Stillstand. Ohne Zustimmung zur Weiterfahrt durch den zuständigen Fdl setzte Z 35438 nach der 
+PZB-Zwangsbremsung die Fahrt in Richtung Bf Leopoldau fort.  
+In weiterer Folge ereignete sich auf der Weiche 154 eine seitliche Kollision (Flankenfahrt) mit dem auf 
+Gleis 4 einfahrenden Z 48071. Durch die Kollision entgleisten bei Z 35438 die ersten zwei Drehgestelle des 
+Triebzuges 4124 024-3 mit allen Radsätzen in Fahrtrichtung nach links. Durch die daraus resultierende 
+Schräglage wurden beim dritten Drehgestell beide Radsätze mit den in Fahrtrichtung rechten Rädern von 
+der Schienenkante abgehoben.  
+Bei Z 48071 entgleiste das Triebfahrzeug 1193 890-1 mit allen Radsätzen in Fahrtrichtung nach rechts. Der 
+nachlaufende erste Wagen 3356 5301 233-6 überpufferte mit dem zweiten Wagen 3354 59459 124-7 und 
+entgleiste mit beiden Radsätzen des nachlaufenden Drehgestells.  
+Durch die Kollision entstand erheblicher Sachschaden an den beteiligten Fahrzeugen und Infrastrukturein-
+richtungen. Für die weitere Betriebsabwicklung stand im Bf Leopoldau bis zur Beendigung der Aufräumarbei-
+ten nur das Gleis 1 zur Verfügung.  
+Bei dem Vorfall wurden keine Personen verletzt oder getötet. 
+
+## Página 15
+
+### 2.2 Bilddokumentation 
+Abbildung 9: 
+Endposition der entgleisten Fahrzeuge (Quelle SUB) 
+Abbildung 10: 
+Entgleister Wagen 3356 5301 233-6 (Quelle SUB) 
+
+## Página 16
+
+Abbildung 11: 
+Entgleistes drittes Drehgestell Triebzug 4124 024-3 (Quelle SUB) 
+### 2.3 Chronologie der Ereigniskette 
+|  | Zeitpunkt |  |  | Beschreibung |  |
+| 8:01Uhr |  |  | Z35438fährtvomBfSüßenbrunn-MitteaufdieStrecke13901inRichtungBfLeopoldau |  |  |
+| 8:01Uhr |  |  | BfSüßenbrunnstelltfürZ48071eineZugstraßevomESZ012zumASH4imBfLeo- poldauundvomASH4aufdasStreckengleis004derStrecke13801 . |  |  |
+| 8:03Uhr |  |  | Z35438überfährtunerlaubtdas Halt“zeigendeESX005undkommt60mnachdemES „ zumStillstand . |  |  |
+| 8:04Uhr |  |  | Z48071fährtam Freimit40km/h“zeigendenESZ012vorbeiinRichtungBfLeopoldau „ Gleis4 . |  |  |
+| 8:04Uhr |  |  | Z35438setztseineFahrtinRichtungBfLeopoldauohneZustimmungfort . |  |  |
+| 8:05Uhr |  |  | Z35438kollidiertmitZ48071aufderWeiche154 . |  |  |
+
+## Página 17
+
+### Folgen 
+### 3.1 Verletzte Personen 
+Es wurden keine Personen verletzt oder getötet. 
+### 3.2 Schäden an der Infrastruktur 
+Die Sachschäden an der Infrastruktur wurden auf € 420.000.- geschätzt. 
+### 3.3 Sachschäden an Fahrzeugen und Ladegut 
+Die Sachschäden an Fahrzeugen wurden auf  € 2.100.000.- geschätzt.  
+### 3.4 Schäden an Umwelt 
+Keine 
+### 3.5 Betriebsbehinderungen 
+Im Bf Leopoldau war das Gleis 2 von 15. Juli 2015 8:05 Uhr bis zum 16. Juli 2015 16:46 Uhr gesperrt. Die 
+Betriebsabwicklung zwischen Bf Leopoldau und Bf Süßenbrunn war nur im eingleisigen Betrieb über Gleis 1 
+möglich. Das Gleis 4 im Bf Leopoldau war vom 15. Juli 2015, 8:05 Uhr bis zum 17. Juli 2015, 11:10 Uhr ge-
+sperrt. Es kam zu Zugausfällen und umfangreichen Verspätungen im Regionalverkehr. 
+### 4 
+### Beteiligte, Auftragnehmer, Zeugen 
+ 
+ÖBB-Infrastruktur AG, IM 
+ 
+Fdl Bf Süßenbrunn 
+ 
+ÖBB-Personenverkehr AG, Eisenbahnverkehrsunternehmen Z 35438 
+ 
+Cargo Service GmbH, Eisenbahnverkehrsunternehmen Z 48071 
+ 
+ÖBB-Produktion GmbH, Dienstleistungsunternehmen Traktionierung Z 35438 
+ 
+Logistik Service GmbH, Dienstleistungsunternehmen Traktionierung Z 48071 
+ 
+Tfzf Z 35438 
+ 
+Tfzf Z 48071 
+### 5 
+### Rettungs- und Notfalldienst 
+Die SUB wurde gemäß MeldeVO-Eisb 2006 über den Vorfall in Kenntnis gesetzt. 
+Es wurde unverzüglich mit den Ermittlungsarbeiten zur Feststellung der Ursache des Vorfalls begonnen. Die 
+Ermittlungsarbeiten vor Ort wurden zwischen SUB und den für die Untersuchung von Vorfällen zuständigen 
+Mitarbeitern des IM koordiniert.   
+Nach dem Abschluss der Ermittlungsarbeiten vor Ort wurde die Unfallstelle durch den zuständigen Mitarbei-
+ter des IM nach Zustimmung der SUB zur Instandsetzung freigegeben.  
+### 6 
+### Externe Ermittlungen 
+Keine 
+
+## Página 18
+
+### Aussagen, Beweismittel, Auswertungen 
+### 7.1 Betriebliche Situation 
+Abbildung 12: 
+Auszug ARAMIS Streckenspiegel (Quelle ÖBB) 
+Auf dem Streckenspiegel des Betriebssystems ARAMIS in der Abbildung 11 ist der Bf Leopoldau (Abkür-
+zung LP) schematisch dargestellt. Um 8:03 Uhr war für Z 48071 eine Durchfahrt vom Streckengleis 2 über 
+Gleis 4 eingestellt. Für Z 35438 war das ES X005 in der Stellung „Halt“. Beide Züge befinden sich zu diesem 
+Zeitpunkt noch vor den zugehörigen Einfahrsignalen. Die farbige Linie stellt die eingestellte Zugstraße für 
+Z 48071 dar.  
+### 7.2 Auswertung Sprachspeicheraufzeichnungen 
+Es liegen keine für den Vorfall relevanten Sprachspeicheraufzeichnungen vor. 
+
+## Página 19
+
+### 7.3 Registriereinrichtung der beteiligten Fahrten 
+## 7.3.1 Z 35438 
+Die Registriereinrichtung des Z 35438 wurde durch die ÖBB-Produktion GmbH ausgewertet und der SUB 
+zur Verfügung gestellt.   
+Abbildung 13: 
+Registriereinrichtung Z 35438 (Quelle ÖBB-Produktion GmbH)  
+Zitat aus der Auswertung: 
+Zwangsbremsung registriert bei V-39 km/h, ES X005 wurde um 60 m überfahren, Quittierung der Zwangs-
+bremsung und unerlaubte Weiterfahrt nach 12 Sekunden Stillstand. Nach weiteren 300 m Fahrtstrecke und 
+einer Vmax von 38 km/h erfolgte eine SB durch den Tfzf, Stillstand nach weiteren 50 m. 
+Anmerkung der SUB: SB steht für Schnellbremsung 
+
+## Página 20
+
+## 7.3.2 Z 48071 
+Die Registriereinrichtung des Z 48071 wurde durch die Fa. Alstom im Auftrag der Cargo Service GmbH aus-
+gewertet und der SUB zur Verfügung gestellt.  
+Abbildung 14: 
+Registriereinrichtung Z 48071 (Quelle Cargo Service GmbH) 
+Zusammenfassung der Auswertung: 
+Um 08:00:38 Uhr, bei einer Geschwindigkeit von 75 km/h, Betätigung der Wachsamkeitstaste beim Einfahr-
+vorsignal. 
+Um 08:01:58 Uhr, bei einer Geschwindigkeit von 36 km/h Betätigung der Wachsamkeitstaste beim Ausfahr-
+vorsignal. 
+Um 08:05:02 Uhr, bei einer Geschwindigkeit von 41 km/h Bremsung mit der Druckluftbremse eingeleitet. 
+Um 08:05:07 Uhr, bei einer Geschwindigkeit von 36 km/h Betätigung des Makrofons.  
+Um 08:05:10 Uhr endet bei einer Geschwindigkeit von 27 km/h die Aufzeichnung. Zu diesem Zeitpunkt ist 
+offensichtlich die Spannungsversorgung des Triebfahrzeuges aufgrund der Kollision (Batteriekasten!) ausge-
+fallen. 
+Die maximal gefahrene Geschwindigkeit des Zuges 48071, zwischen dem Einfahrsignal und der Kollision, 
+betrug 42,75 km/h. 
+
+## Página 21
+
+### 7.4 Befragungen / Aussagen 
+Die Protokolle der Befragungen nachstehend angeführter am Unfall unmittelbar beteiligter Personen liegen 
+der SUB vor: 
+ 
+Tfzf Z 48071 
+ 
+Tfzf Z 35438. 
+Die Auswertung der Protokolle der durchgeführten Befragungen  wurde zur Feststellung der Schlussfolge-
+rungen sowie zur Ermittlung der Unfallursache herangezogen. 
+### 7.5 Gesetzliche Bestimmungen (auszugsweise) 
+### 7.5.1 Eisenbahnbau- und -betriebsverordnung– EisbBBV 
+Die erforderliche Sichtweite auf ortsfeste Signale ist im § 27 EisbBBV geregelt.  
+Zitat § 27 EisbBBV: 
+§ 27. (1) Ortsfeste Signale sind so zu errichten, dass die erforderliche Sichtweite gewahrt ist. Die erforderli-
+che Sichtweite bezieht sich auf den Standort des jeweiligen Signals sowie die Spitze einer Fahrt. Für die 
+Ermittlung der erforderlichen Sichtweite bleiben Witterungseinflüsse unberücksichtigt. 
+(2) Sofern in den Bestimmungen zu den einzelnen Signalen nichts anderes angeführt ist, beträgt die erfor-
+derliche Sichtweite auf ortsfeste Signale mindestens 100 m. 
+(3) Richtet sich die erforderliche Sichtweite auf ortsfeste Signale nach der Geschwindigkeit, muss die Sicht-
+weite (angegeben in Metern) mindestens dem zweieinhalbfachen Wert der am Standort des Signals zulässi-
+gen Geschwindigkeit (angegeben in km/h) entsprechen, jedoch mindestens 100 m betragen. Als zulässige 
+Geschwindigkeit dürfen höchstens 160 km/h zugrunde gelegt werden. 
+(4) Die Sichtbarkeit von Signalen muss grundsätzlich im gesamten Bereich gemäß Abs. 2 und 3 gegeben 
+sein, wobei kurze Unterbrechungen der Sichtbarkeit, etwa durch Oberleitungsmaste, zulässig sind. 
+Die erforderliche Sichtweite auf das ES X005 beträgt 150 m (2,5 fache Geschwindigkeit / 60 x 2,5 = 150).  
+Die Aufstellung von ortsfesten Signalen ist im § 28 EisbBBV geregelt. 
+Zitat §28 EisbBBV:  
+§ 28. (1) Sofern in den Bestimmungen zu den einzelnen Signalen nichts anderes angeführt ist, gilt für die 
+Aufstellungsseite von ortsfesten Signalen: 
+1. Signale sind grundsätzlich rechts neben oder über dem zugehörigen Gleis zu errichten, 
+2. auf Streckengleisen von zweigleisigen Strecken sind Signale außen neben, oder über dem zugehörigen 
+Gleis zu errichten. 
+(2) Von den Bestimmungen des Abs. 1 darf abgewichen werden, wenn 
+1. dadurch eine Verwechslung von Signalen vermieden werden kann oder 
+2. dadurch die erforderliche Sichtweite auf das jeweilige Signal erreicht werden kann, sofern dadurch keine 
+Verwechslungsgefahr entsteht oder 
+3. es die örtlichen Verhältnisse erfordern, sofern dadurch keine Verwechslungsgefahr entsteht. 
+
+## Página 22
+
+Zusätzlich wird an Haupt- oder Schutzsignale das Signal „Kennzeichnung“ nach § 41 EisbBBV angebracht. 
+Abbildung 15: 
+Signal Kennzeichnung (Quelle EisbBBV) 
+Zitat § 41 EisbBBV: 
+§ 41. (1) Das Signal „Kennzeichnung“ ist am Standort von Haupt- und Schutzsignalen zu errichten. Das Sig-
+nal „Kennzeichnung“ ist am Signalmast, bei Signalbrücken oder Auslegern am seitlichen Rand des Signal-
+schildes anzubringen. 
+(2) Zur Ankündigung des Standortes von Hauptsignalen dürfen zusätzlich nicht rückstrahlende weiß-rot-
+weiße Tafeln errichtet werden. In diesem Fall 
+1. ist bei örtlich zulässiger Geschwindigkeit bis einschließlich 60 km/h eine Ankündigung und 
+2. sind bei örtlich zulässiger Geschwindigkeit von mehr als 60 km/h drei Ankündigungen zu errichten. 
+(3) Wird der Standort von Hauptsignalen gemäß Abs. 2 angekündigt, hat der Abstand zwischen der letzten 
+weiß-rot-weißen Tafel und dem Hauptsignal sowie der Abstand zwischen den weiß-rot-weißen Tafeln grund-
+sätzlich 80 m zu betragen. Wenn es die örtlichen Verhältnisse erfordern, darf davon abgewichen werden, in 
+diesem Fall darf dieser Abstand zwischen 30 m und 140 m betragen. 
+(4) Wird auf Strecken mit elektrischem Betrieb der Standort von Hauptsignalen gemäß Abs. 2 angekündigt, 
+sind die weiß-rot-weißen Tafeln möglichst an den Oberleitungsmasten anzubringen. 
+Die Anbringung der Signale „Signalhinweis“ und „Richtungspfeil“ ist im § 59 EisbBBV 2003 geregelt. 
+Abbildung 16: 
+Signal Signalhinweis und Richtungspfeil (Quelle EisbBBV) 
+
+## Página 23
+
+Zitat § 59 EisbBBV:  
+(3) Die erforderliche Sichtweite auf das Signal „Signalhinweis“ richtet sich nach den örtlichen Verhältnissen 
+und darf 100 m unterschreiten. 
+(4) Das Signal „Signalhinweis“ ist dort zu errichten, wo das Haupt-, Schutz-, Vor- oder Verschubsignal ste-
+hen sollte und hat mit der Dreieckspitze zum jeweiligen Signal zu zeigen. Das Signal „Signalhinweis“ ist nicht 
+über dem Gleis zu errichten. 
+(5) Die Errichtung des Signals „Signalhinweis“ darf entfallen, wenn bei der Aufstellung des Haupt-, Schutz-, 
+Vor- oder Verschubsignals entsprechend der Bestimmung des § 28 Abs. 2 Z 1 (Erzielung der erforderlichen 
+Sichtweite) von der Aufstellungsseite gemäß § 28 Abs. 1 abgewichen wurde. 
+(6) Der Richtungspfeil ist zu errichten, 
+1. wenn die Gleiszugehörigkeit eines Signals nicht eindeutig erkennbar ist oder 
+2. zur Anzeige der Lage einer Langsamfahrstelle im Bahnhof, die sich nicht im durchgehenden Hauptgleis 
+befindet und deren Ankündigungssignal neben dem Streckengleis oder durchgehenden Hauptgleis aufge-
+stellt ist, bei Hinweisen nach zwei Seiten sind zwei Richtungspfeile anzubringen, oder 
+3. an Ankündigungssignalen und Ankündigungstafeln vor Abzweigstellen zur Anzeige, für welche Strecke 
+dieses Signal gilt. 
+(7) Der Richtungspfeil ist oberhalb des zugehörigen Signals anzubringen; davon darf abgewichen werden, 
+wenn es die örtlichen Verhältnisse erfordern und sich am selben Standort nur ein Signal gemäß Abs. 6 Z 1 
+bis 3 befindet. 
+Abbildung 17: 
+Sicht auf die ES Bf Leopoldau aus einer Entfernung von 200 m(Quelle SUB) 
+Die Abbildung 17 wurde in 200 m Entfernung von den ES X005 und Z012 aufgenommen. Links im Bild ist 
+am Oberleitungsmast das verwitterte Signal „Kennzeichnung“ zu erkennen.  
+
+## Página 24
+
+Abbildung 18: 
+Sicht auf die ES Bf Leopoldau (Quelle SUB) 
+Am 30. Juli 2015 wurde bei einem Lokalaugenschein der SUB festgestellt, dass die Sichtweite auf das 
+ES X005 mehr als 180 m beträgt. Die Signale „Kennzeichnung“ an den Oberleitungsmasten, die zur Ankün-
+digung von Hauptsignalen angebracht sein dürfen, sind für das ES X005 nicht mehr eindeutig zu erkennen. 
+Die drei an den Oberleitungsmasten angebrachten Signale sind zum Teil schon sehr verwittert und dadurch 
+unkenntlich. Das Signal „Kennzeichnung“ am Standort des ES X005 ist klar und eindeutig erkennbar.  
+### 7.6 Regelwerke des IM  
+### 7.6.1 DV V 3, § 72 und 97 (auszugsweise) 
+Die Vorgangsweise bei einem unvorhergesehenen Anhalten z. B. nach einer PZB Zwangsbremsung ist in 
+den Bestimmungen der DV V 3, § 72 Abs. 8 des IM festgelegt.  
+Abbildung 19: 
+DV V3 § 72 Auszug (Quelle IM) 
+Die Vorgangsweise bei einem unerlaubten Überfahren eines haltzeigendes Haupt- oder Schutzsignals ist in 
+den Bestimmungen der DV V 3, § 97 Abs. 15 und 16 des IM festgelegt.  
+Abbildung 20: 
+DV V3 § 97 Auszug (Quelle IM) 
+Ergänzend zu diesen Bestimmungen wurde am 29. Oktober 2012 nachstehende Anweisung der Betriebslei-
+tung des IM mit der Zahl BL-STA-00003-000019-12 im Kraft gesetzt. 
+
+## Página 25
+
+Abbildung 21: 
+Auszug Anweisung BL-STA-00003-000019-12 (Quelle IM) 
+Der Tfzf eines Zuges ist verpflichtet, bei einem unerlaubt überfahrenen haltzeigenden Haupt- oder Schutz-
+signal den Zug sofort anzuhalten. Auch bei einem unvorhergesehenen Anhalten ist der zuständige Fdl zu 
+verständigen und der Grund des Halts bekannt zu geben. Vor der Weiterfahrt ist in jedem Fall die Zustim-
+mung des zuständigen Fdl einzuholen.  
+### 7.7 Auswertung der Expertisen und Gutachten 
+Keine 
+### 8 
+### Faktor „Mensch“ 
+Im Rahmen der Sicherheitsuntersuchung wurde auch der Faktor Mensch untersucht. Zu diesem Zweck wur-
+de der Vorfall mit dem Tfzf Z 35438 in einem Gespräch am 15. Juli 2015 aufgearbeitet.  
+Zusammenfassung:  
+Der Tfzf ist seit 22 Jahren als Tfzf bei der ÖBB-Produktion GmbH tätig. Die Tätigkeit eines Tfzf ist von großer 
+Verantwortung geprägt und erfordert ein hohes Ausbildungsniveau. Der Tfzf ist mit dem Triebzug der Bau-
+reihe 4124 vertraut und führt seit 10 Jahren Züge mit dieser Baureihe. Seit ca. 20 Jahren ist der Tfzf auf der 
+Strecke 13901 streckenkundig. Diese Strecke wird ca. ein- bis zweimal im Monat planmäßig befahren, die 
+letzte Fahrt war ca. ein Monat vor dem Unfall.  
+Am Unfalltag begann die Dienstschicht um 5:53 Uhr nach einer 13 stündigen Arbeitspause. Die erste Fahrt 
+war mit einem Regionalzug von Bf Ebenfurth nach Bf Wien Meidling und anschließend mit diesem Triebzug 
+ohne Reisende nach Bf Floridsdorf in den Produktionsstützpunkt. Diese Fahrt verlief bis zum Vorfall ohne 
+Zwischenfälle und Störungen. 
+Die weiteren Handlungen bis zur seitlichen Kollision mit Z 48071 wurden umfassend besprochen.  
+Im Gespräch wurde auch darüber diskutiert, in wie weit eine Signalbrücke an diesem Standort die Erkenn-
+barkeit und vor allem die eindeutige Gleiszuordnung der ES des Bf Leopoldau wesentlich verbessern würde.  
+
+## Página 26
+
+Wesentlich ist jedenfalls, das bei Zugfahrten mit dem Zugsicherungssystem PZB die Signalbeachtung und 
+Führung eines Zuges nach der entsprechenden Signalisierung vom Faktor Mensch abhängig ist. Das Zugsi-
+cherungssystem PZB dient dabei als technische Absicherung. Es überwacht und unterstützt den Menschen 
+durch technische Maßnahmen dabei, Signale folgerichtig wahrzunehmen und entsprechend zu reagieren. 
+Die technischen Maßnahmen der PZB greifen bei Notwendigkeit auch aktiv in das Bremssystem eines Zu-
+ges ein. Das System bringt einen Zug unter anderem beim unerlaubten Überfahren eines „Halt“ zeigenden 
+Signales zum Stillstand. Für das weitere Procedere zur Weiterfahrt nach einer unerlaubten Signalüberfah-
+rung ist dann der Tfzf alleine verantwortlich und wird mit den entsprechenden normativen Regelungen sowie 
+durch Schulung angehalten, die richtigen Maßnahmen zu setzten.  
+### 9 
+### Safety Management System (SMS) 
+Gemäß § 39 EisbG 1957 haben Eisenbahnverkehrsunternehmen mit Sitz in Österreich und Eisenbahninfra-
+strukturunternehmen ein SMS einzuführen. Das SMS soll die Kontrolle aller Risiken, die mit den Tätigkeiten 
+eines Eisenbahninfrastrukturunternehmens oder eines Eisenbahnverkehrsunternehmens verbunden sind, 
+berücksichtigen. Die Regelwerke wie z.B. DV V2 und DV V3 sowie zugehörige Anweisungen sind Bestand-
+teil des SMS der ÖBB-Infrastruktur AG sowie des EVU ÖBB-Produktion GmbH. Von der ÖBB-Produktion 
+GmbH wurden im Rahmen ihres SMS für das gegenständliche Risiko „Unerlaubtes Überfahren von Haupt- 
+und Schutzsignalen“ folgende Maßnahmen gesetzt und dokumentiert:  
+ 
+Schulungsvideos mit nachweislicher Kenntnisnahme durch die betroffenen MA. 
+ 
+Thema Aufmerksamkeit sowie Verhalten der Tfzf nach Zwangsbremsungen mit nachweislicher Kennt-
+nisnahme durch die betroffenen MA. 
+ 
+Stichprobeweise Überprüfung von Fahrdaten auf Zwangsbremsungen, insbesondere Abklärung von 
+2000 Hz PZB Zwangsbremsungen und gegebenenfalls Setzen von entsprechenden Maßnahmen.  
+ 
+Statistische Auswertung von Zwangsbremsungen und Festlegung von erforderlichen Maßnahmen. 
+ 
+Außerdienststellung nach betriebsgefährlichen Fehlhandlungen (Maßnahmen für die Wiederzulassung 
+werden entsprechend der Verfehlung festgelegt und dokumentiert). 
+ 
+Nachbesprechung aller Außerdienststellungen und Festlegung von erforderlichen Maßnahmen. 
+ 
+Maßnahmen zur Erhöhung der Aufmerksamkeit (z.B. Erstellung internen Anweisung betreffend Verbot 
+jeglicher Kommunikationsmittel während des Fahrbetriebes vom 28. August 2015 mit nachweislicher 
+Kenntnisnahme durch die betroffenen MA). 
+Anmerkung der SUB: Nach Stellungnahme der ÖBB-Produktion GmbH werden sämtliche angeführte Maß-
+nahmen sowie Dokumentationen im Rahmen des SMS durch den Betriebsleiter gemeinsam mit den be-
+troffenen Organisationseinheiten der ÖBB-Produktion GmbH. festgelegt. Ein konkreter Prozess im SMS zur 
+Überprüfung von PZB-Zwangsbremsungen liegt der SUB nicht vor. 
+### 9.1 Dokumente und Nachweise 
+Der SUB wurden nachstehende Nachweise für den Tfzf Z 35438 zur Verfügung gestellt:  
+ 
+Dokumentation über die Orts- und Streckenkenntnis  
+ 
+Dokumentation über die letzten wiederkehrenden Schulungen 
+Der Tfzf verfügt über eine bis 14. Juli 2016 gültige Berechtigung, Züge auf den Strecken 11401,13801 und 
+13901 zu führen. Die letzten wiederkehrenden Schulungen wurden am 14. Mai 2014, am 
+24. November 2014 und am 21. Mai 2015 durchgeführt. Gemäß den Nachweisen wurde bei der Schulung 
+am 24. November 2014 auch das Thema PZB 90 (z.B. Befreiung aus der Geschwindigkeitsüberwachung 
+durch die PZB 90,  Signalüberfahrung auf Grund mangelhafter Bremswirkung) behandelt. 
+
+## Página 27
+
+### Schlussfolgerungen 
+Für die Einfahrt des Z 48071 vom Gegengleis 2 in den Bf Leopoldau zeigte das ES Z012 einen Freibegriff, 
+zu einem Zeitpunkt als sich auch der Z 35438 von der Strecke 13901 dem Bf Leopoldau näherte. Für den 
+Z 48071 war eine Fahrstraße vom Gegengleis 2 nach Bahnhofgleis 4 eingestellt. Das ES X005 konnte ent-
+sprechend der Fahrtausschlüsse der Sicherungsanlage nicht bedient werde und zeigte „Halt“.   
+Das „Halt“ zeigende ES X005 wurde durch den Z 35438 unerlaubt überfahren. Die erforderliche Sichtweite 
+auf das ES X005 des Bf Leopoldau war für den Z 35438 nach den gesetzlichen Bestimmungen der EisbBBV 
+gegeben. Die zur Ankündigung des ES X005 verwendeten Signale „Kennzeichnung“ sind als Orientierungs-
+hilfe für den Tfzf angebracht, jedoch stark verwittert. Dieser Umstand hat keinen Einfluss auf die Sichtbarkeit 
+des ES X005.  
+Das Zugsicherungssystem PZB des Z 35438 hat ordnungsgemäß gewirkt und nach dem Überfahren des 
+„Halt“ zeigenden ES X005 eine Zwangsbremsung des Zuges ausgelöst. Durch das Zugsicherungssystem 
+wäre die Kollision verhindert worden, da der Z 35438 vor dem Gefahrenpunkt (W 154) angehalten wurde.  
+Als Auslöser für die Kollision ist die Weiterfahrt des Z 35438 nach der PZB-Zwangsbremsung ohne Einho-
+lung einer entsprechenden Zustimmung vom zuständigen Fdl anzusehen.  
+### 11 
+### Maßnahmen 
+Der beteiligte Tfzf des Z 35438 wurde von der ÖBB-Produktion GmbH nach dem Vorfall außer Dienst ge-
+stellt. Nach entsprechender Nachschulung und anschließender erfolgreich abgelegter Zulassungsprüfung 
+wurde der Mitarbeiter wieder als Tfzf eingesetzt.   
+### 12 
+### Sonstiges (nicht unfallkausal)  
+Die im Vorfallbereich zulässige Geschwindigkeit von 40 km/h wurde vom Z 48071 geringfügig überschritten. 
+Die maximal gefahrene Geschwindigkeit betrug nach Auswertung der Registriereinrichtung 42,75 km/h.  
+Die Signale „Kennzeichnung“ die zur Ankündigung von Hauptsignalen angebracht sein dürfen, sind für das 
+ES X005 nicht mehr eindeutig zu erkennen. Die drei an den Oberleitungsmasten angebrachten Signale sind 
+zum Teil schon sehr verwittert und unkenntlich (siehe Abbildung 18) und wären im Zuge der nächsten In-
+spektionsarbeiten zu ersetzen. 
+### 13 
+### Ursache 
+Überfahren des haltzeigenden ES X005 durch Z 35438, vermutlich durch eine Verwechslung mit dem für die 
+Fahrt von Z 48071 in Freistellung befindlichen ES Z012.  
+Nach erfolgter PZB-Zwangsbremsung wurde die Fahrt ohne Einholung einer Zustimmung zur Weiterfahrt 
+vom zuständigen Fdl fortgesetzt.  
+
+## Página 28
+
+### Berücksichtigte Stellungnahmen 
+### 14.1 Stellungnahme der ÖBB-Infrastruktur AG 
+Nach Stellungnahme der ÖBB-Infrastruktur AG zur Sicherheitsempfehlung 15.2.1 im Zwischen- und Vorläu-
+figen Untersuchungsbericht wurde festgehalten, dass die Anordnung der gegenständlichen Einfahrsignale im 
+Bf Leopoldau  regelkonform ist. Sie wurde vor deren Errichtung mittels Signalstandortbestimmung festgelegt. 
+Im Falle eines Umbaus der Eisenbahnanlage im betroffenen Bereich wird die Errichtung einer Signalbrücke 
+für die Einfahrsignale Y011, Z012 und X005 auf technische Machbarkeit geprüft und bei positivem Ergebnis 
+umgesetzt.  
+Nach Stellungnahme der ÖBB-Infrastruktur AG zur Sicherheitsempfehlung 15.2.2 im Vorläufigen Untersu-
+chungsbericht wurde festgehalten, dass die verwitterten Signale „Kennzeichnung“ bereits ersetzt wurden. 
+### 14.2 Stellungnahme BMVT-IV/SCH2 Oberste Eisenbahnbaubehörde 
+Nach Stellungnahme mit der GZ. BMVIT-224.238/0001-IV/SCH5/2016 vom 30. August 2016 werden formel-
+le Anpassungen zu Begrifflichkeiten vorgeschlagen. 
+Im Untersuchungsbericht Punkt 2.3 und 7.1 wird der Begriff „Zugfahrstraße“ durch den Begriff „Zugstraße“ 
+ersetzt. 
+Im Untersuchungsbericht Punkt 9.1 wird die Wortfolge „Befreiung aus der PZB“ durch die Wortfolge „Befrei-
+ung aus der Geschwindigkeitsüberwachung durch die PZB 90“ ersetzt. 
+### 14.3 Stellungnahme Caro Service GmbH Eisenbahnverkehrsunternehmen Z 48071 
+Nach Stellungnahme vom 6. September 2016 formelle Anpassungen vorgeschlagen. 
+Im Punkt 7.3.2 wird der Begriff „Logistik Service GmbH“ durch den Begriff „Cargo Service GmbH“ ersetzt. 
+Die Abbildung 14 der Registriereinrichtung wird durch eine Abbildung ersetzt, welche den Zeitraum der Zug-
+fahrt des Z 48071 von 07:55:53 Uhr bis 08:05:10 Uhr darstellt. 
+
+## Página 29
+
+### Sicherheitsempfehlungen 
+### 15.1 Sicherheitsempfehlungen gemäß § 16 Abs. 2 UUG 2005 
+Keine. 
+### 15.2 Sicherheitsempfehlungen gemäß § 16 Abs. 1 UUG 2005 
+### Laufende Nummer 
+### Sicherheitsempfehlung  
+### Ergeht an 
+betrifft 
+Für zukünftig geplante Umbaumaßnahmen im 
+Bereich der sicherungstechnischen Einrichtungen 
+im Bf Leopoldau wird vorgeschlagen, eine Signal-
+brücke für die ES X005, Z012 und Y011 zu errich-
+ten.  
+## A-2016/007 
+## NSA 
+## IM 
+Anmerkung: Die betreffenden ES könnten ober-
+halb der Gleise in Gleismitte angebracht werden, 
+wodurch die Gefahr einer möglichen Verwechslung 
+durch eine eindeutige Gleiszuordnung  minimiert 
+werden könnte.  
+Die Signale „Kennzeichnung“ die zur Ankündigung 
+von Hauptsignalen angebracht sein dürfen, sind für 
+das ES X005 nicht mehr eindeutig zu erkennen. 
+Die drei an den Oberleitungsmasten angebrachten 
+Signale sind zum Teil schon sehr verwittert und 
+## A-2016/018 
+## NSA 
+## IM 
+unkenntlich und wären im Zuge der nächsten In-
+spektionsarbeiten zu ersetzen. 
+### Anmerkung: Nach Stellungnahme der ÖBB-
+### Infrastruktur AG wurden  die drei Signale 
+### „Kennzeichnung“ bereits ersetzt.  
+Wien, 13. Oktober 2016 
+Bundesanstalt für Verkehr 
+Sicherheitsuntersuchungsstelle des Bundes 
+Der gegenständliche Untersuchungsbericht gemäß § 15 UUG 2005 wurde vom Leiter der Sicherheitsunter-
+suchungsstelle des Bundes nach Abschluss des Stellungnahmeverfahrens gemäß § 14 UUG 2005 geneh-
+migt. 
+### Nicht zutreffendes bitte löschen! 
+EUB 
+Der gegenständliche Untersuchungsbericht gemäß § 15 UUG 2005 wurde vom Leiter der Sicherheitsunter-
+suchungsstelle des Bundes nach Abschluss des Stellungnahme Verfahrens gemäß § 14 UUG 2005 geneh-
+migt. 
+
+## Página 30
+
+### Beilage 1 – Stellungnahmen zum Zwischen-Untersuchungsbericht 
+### Stellungnahme der ÖBB-Infrastruktur AG zur Sicherheitsempfehlung 15.2.1 im Zwi-
+### schen-Untersuchungsbericht. 
+### Beilage 2 – Stellungnahmen zum Untersuchungsbericht 
+### Stellungnahme BMVIT-IV/SCH2 Oberste Eisenbahnbaubehörde 
+
+## Página 31
+
+
+
+## Página 32
+
+### Stellungnahme Cargo Service GmbH Eisenbahnverkehrsunternehmen Z 48071 
+
+## Página 33
+
+### Stellungnahme der ÖBB-Infrastruktur AG

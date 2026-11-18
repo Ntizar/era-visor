@@ -26,6 +26,7 @@ import argparse
 import datetime
 import hashlib
 import json
+import multiprocessing
 import os
 import re
 import sys
@@ -151,7 +152,7 @@ def texto_pagina_norm(p):
     return re.sub(r"\s+", " ", p.get_text()).strip()
 
 
-def procesar_pdf(ruta):
+def procesar_pdf(ruta, con_tablas=True):
     doc = pymupdf.open(ruta)
     n_pag = doc.page_count
     pags_lineas = [lineas_dict(p) for p in doc]
@@ -171,7 +172,7 @@ def procesar_pdf(ruta):
     md_paginas, verbatim_fallos, n_tablas, excluidos = [], 0, 0, Counter()
     for i, ls in enumerate(pags_lineas):
         H, p = doc[i].rect.height, doc[i]
-        tablas = tablas_de(p)
+        tablas = tablas_de(p) if con_tablas else []
         n_tablas += len(tablas)
         cajas = [t.bbox for t in tablas]
         elementos = []
@@ -238,13 +239,13 @@ def cargar_manifest(code):
     return idx
 
 
-def convertir_uno(ruta, code, anio, url, dest_dir, refuerza):
+def convertir_uno(ruta, code, anio, url, dest_dir, refuerza, con_tablas=True):
     nom = os.path.basename(ruta)
     nombre_md = slug(nom) + ".md"
     destino = os.path.join(dest_dir, nombre_md)
     if os.path.exists(destino) and not refuerza:
         return None
-    d = procesar_pdf(ruta)
+    d = procesar_pdf(ruta, con_tablas)
     md5 = hashlib.md5(open(ruta, "rb").read()).hexdigest()
     idioma = detectar_idioma(d["texto"])
     fm = [
@@ -257,7 +258,7 @@ def convertir_uno(ruta, code, anio, url, dest_dir, refuerza):
         f"md5_pdf: {md5}",
         f"paginas: {d['paginas']}",
         f"chars: {d['chars']}",
-        f"tablas: {d['tablas']}",
+        f"tablas: {d['tablas']}{'' if con_tablas else ' (extracción desactivada: la PDF colgaba find_tables)'}",
         f"cuerpo: \"{d['cuerpo']}pt; encabezados {len(d['tiers'])} niveles\"",
         f"rotulos_excluidos: \"{d['excluidos']} ({d['rotulos']})\"",
         f"verbatim_fallos: {d['verbatim_fallos']}",
@@ -274,13 +275,32 @@ def convertir_uno(ruta, code, anio, url, dest_dir, refuerza):
     return destino, d, idioma
 
 
+def _una(tarea):
+    """Convierte un PDF. Función de nivel de módulo para poder picklear en procesos."""
+    code, ruta, anio, url, refuerza, con_tablas = tarea
+    nom = os.path.basename(ruta)
+    dest_dir = os.path.join(MD, code, str(anio) if anio else "sin-ano")
+    try:
+        r = convertir_uno(ruta, code, anio, url, dest_dir, refuerza, con_tablas)
+        if r is None:
+            return code, nom, "ya", False
+        return code, nom, "ok", r[1]["escaneado"]
+    except Exception as e:
+        return code, nom, f"fallo: {type(e).__name__} {e}"[:160], False
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("paises", nargs="+")
-    ap.add_argument("--limite", type=int, default=0)
+    ap.add_argument("--limite", type=int, default=0, help="máx. PDFs por país (pruebas)")
     ap.add_argument("--refuerza", action="store_true")
+    ap.add_argument("--timeout", type=int, default=150,
+                    help="segundos máximos por PDF antes de descartarlo")
+    ap.add_argument("--workers", type=int, default=4,
+                    help="PDFs en paralelo (cada uno es un proceso PyMuPDF)")
     a = ap.parse_args()
 
+    tareas = []
     for code in [c.upper() for c in a.paises]:
         origen = os.path.join(PDFS, code)
         if not os.path.isdir(origen):
@@ -290,25 +310,69 @@ def main():
         pdfs = sorted(p for p in os.listdir(origen) if p.lower().endswith(".pdf"))
         if a.limite:
             pdfs = pdfs[:a.limite]
-        ok = fallos = escaneados = 0
         print(f"[{code}] {len(pdfs)} PDFs, manifiesto {len(man)}")
-        for k, nom in enumerate(pdfs, 1):
+        for nom in pdfs:
             anio, url = man.get(nom, (None, ""))
-            dest_dir = os.path.join(MD, code, str(anio) if anio else "sin-ano")
-            try:
-                r = convertir_uno(os.path.join(origen, nom), code, anio, url, dest_dir, a.refuerza)
-                if r is None:
-                    continue
-                ok += 1
-                if r[1]["escaneado"]:
-                    escaneados += 1
-                    print(f"  ⚠ ESCANEADO {nom} ({r[1]['paginas_sin_texto']}/{r[1]['paginas']} pág sin texto)")
-                if k % 10 == 0 or k == len(pdfs):
-                    print(f"  [{k}/{len(pdfs)}] ok={ok} fallos={fallos} escaneados={escaneados}")
-            except Exception as e:
-                fallos += 1
-                print(f"  FALLO {nom}: {type(e).__name__} {e}")
-        print(f"[{code}] CONVERTIDOS {ok} · fallos {fallos} · escaneados {escaneados}")
+            tareas.append((code, os.path.join(origen, nom), anio, url, a.refuerza, True))
+
+    if not tareas:
+        return
+    por_pais, ok, fallos, escaneados = {}, 0, 0, 0
+    pendientes = list(tareas)
+
+    def anotar(res):
+        nonlocal ok, fallos, escaneados
+        code, nom, estado, esc = res
+        if estado == "ok":
+            ok += 1
+            por_pais[code] = por_pais.get(code, 0) + 1
+            if esc:
+                escaneados += 1
+                print(f"  ⚠ ESCANEADO [{code}] {nom}")
+        elif estado.startswith("fallo"):
+            fallos += 1
+            print(f"  ✗ [{code}] {nom}: {estado}")
+        return estado
+
+    # multiprocessing.Pool (no ProcessPoolExecutor) porque permite matar y rehacer el
+    # pool cuando un PDF se cuelga o revienta: hay documentos que dejan find_tables
+    # girando minutos. Con timeout por fichero se aísla el venenoso y se sigue.
+    while pendientes:
+        mp = multiprocessing.Pool(processes=a.workers, maxtasksperchild=4)
+        cortado = False
+        try:
+            asyncs = [(t, mp.apply_async(_una, (t,))) for t in pendientes]
+            for t, ar in asyncs:
+                try:
+                    res = ar.get(timeout=a.timeout)
+                except multiprocessing.TimeoutError:
+                    print(f"  ⏱ TIMEOUT [{t[0]}] {os.path.basename(t[1])} "
+                          f"({a.timeout}s) — se descarta y se sigue", flush=True)
+                    pendientes.remove(t)
+                    if t[5]:          # reintento sin tablas antes de descartarla
+                        print(f"     ↻ reintento sin tablas: {os.path.basename(t[1])}", flush=True)
+                        pendientes.append((t[0], t[1], t[2], t[3], t[4], False))
+                    else:
+                        fallos += 1
+                    cortado = True
+                    break
+                except Exception as e:
+                    res = (t[0], os.path.basename(t[1]),
+                           f"fallo: {type(e).__name__} {e}"[:160], False)
+                anotar(res)
+                pendientes.remove(t)
+                hechas = len(tareas) - len(pendientes)
+                if hechas % 25 == 0:
+                    print(f"  [{hechas}/{len(tareas)}] ok={ok} fallos={fallos} "
+                          f"escaneados={escaneados}", flush=True)
+        finally:
+            mp.terminate()
+            mp.join()
+        if cortado:
+            continue
+
+    print("CONVERTIDOS por país: " + ", ".join(f"{c}:{n}" for c, n in sorted(por_pais.items())))
+    print(f"TOTAL {ok}/{len(tareas)} · fallos {fallos} · escaneados {escaneados}")
 
 
 if __name__ == "__main__":
