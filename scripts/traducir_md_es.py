@@ -28,13 +28,13 @@ Uso:
     python scripts/traducir_md_es.py --pendientes LU PT   # solo lo que falte
 """
 import argparse
-import concurrent.futures as cf
 import datetime
 import hashlib
 import json
 import os
 import re
 import sys
+import threading
 import time
 import urllib.error
 import urllib.request
@@ -384,7 +384,10 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("paises", nargs="+")
     ap.add_argument("--modelo", default=MODELO_DEF)
-    ap.add_argument("--workers", type=int, default=3)
+    ap.add_argument("--workers", type=int, default=2,
+                    help="llamadas simultáneas de día")
+    ap.add_argument("--workers-noche", type=int, default=6,
+                    help="llamadas simultáneas de 00:00 a 06:00")
     ap.add_argument("--limite", type=int, default=0)
     ap.add_argument("--refuerza", action="store_true")
     ap.add_argument("--reverificar", action="store_true",
@@ -407,22 +410,79 @@ def main():
             os.path.join(dp, f) for dp, _, fs in os.walk(raiz) for f in fs if f.endswith(".md"))
         if a.limite:
             ficheros = ficheros[:a.limite]
-        print(f"[{code}] {len(ficheros)} informes · modelo {a.modelo} · {a.workers} hilos")
+        print(f"[{code}] {len(ficheros)} informes · modelo {a.modelo} · "
+              f"{a.workers} hilos (noche {a.workers_noche} de 00:00 a 06:00)")
         hechos, t_in, t_out = [], 0, 0
-        with cf.ThreadPoolExecutor(max_workers=a.workers) as ex:
-            futs = {ex.submit(procesar, f, code, a.modelo, base, key, a.refuerza): f for f in ficheros}
-            for k, fut in enumerate(cf.as_completed(futs), 1):
+
+        # Concurrencia adaptativa: el límite se consulta antes de cada informe, así
+        # que a medianoche sube sola sin reiniciar el proceso y a las 06:00 vuelve a
+        # bajar. Se abren los hilos del turno más alto y la puerta los frena.
+        tope = max(a.workers, a.workers_noche)
+        indice = {"i": 0}
+        cerrojo = threading.Lock()
+        activos = {"n": 0}
+
+        def limite():
+            h = datetime.datetime.now().hour
+            return a.workers_noche if 0 <= h < 6 else a.workers
+
+        def coger():
+            with cerrojo:
+                if indice["i"] >= len(ficheros):
+                    return None
+                f = ficheros[indice["i"]]
+                indice["i"] += 1
+                return f
+
+        def obrero(resultados):
+            while True:
+                f = coger()
+                if f is None:
+                    return
+                while True:                      # puerta: espera a que haya hueco
+                    with cerrojo:
+                        if activos["n"] < limite():
+                            activos["n"] += 1
+                            break
+                    time.sleep(1)
                 try:
-                    r = fut.result()
+                    r = procesar(f, code, a.modelo, base, key, a.refuerza)
                 except Exception as e:
-                    r = {"fichero": futs[fut], "estado": "error", "error": str(e)[:300]}
+                    r = {"fichero": f, "estado": "error", "error": str(e)[:300]}
+                finally:
+                    with cerrojo:
+                        activos["n"] -= 1
+                with cerrojo:
+                    resultados.append(r)
+
+        resultados = []
+        hilos = [threading.Thread(target=obrero, args=(resultados,), daemon=True)
+                 for _ in range(tope)]
+        for h in hilos:
+            h.start()
+        vistos = 0
+        while any(h.is_alive() for h in hilos):
+            time.sleep(5)
+            with cerrojo:
+                nuevos = resultados[vistos:]
+                vistos = len(resultados)
+            for r in nuevos:
                 hechos.append(r)
                 t_in += r.get("tokens_in", 0)
                 t_out += r.get("tokens_out", 0)
                 if r["estado"] not in ("ya",):
-                    print(f"  [{k}/{len(ficheros)}] {r['estado']:8s} {os.path.basename(r['fichero'])}"
-                          + (f" · {r['chars']} chars · ratio {r['ratio']}" if r.get("chars") else "")
-                          + (f" · {r['avisos']}" if r.get("avisos") else ""))
+                    print(f"  [{len(hechos)}/{len(ficheros)}] {r['estado']:8s} "
+                          f"{os.path.basename(r['fichero'])}"
+                          + (f" · {r['chars']} chars · ratio {r['ratio']}"
+                             if r.get("chars") else "")
+                          + (f" · {r['avisos']}" if r.get("avisos") else ""), flush=True)
+        for h in hilos:
+            h.join()
+        with cerrojo:
+            for r in resultados[vistos:]:
+                hechos.append(r)
+                t_in += r.get("tokens_in", 0)
+                t_out += r.get("tokens_out", 0)
         estado = os.path.join(ESTADO, f"{code}.json")
         previo = json.load(open(estado, encoding="utf-8")) if os.path.exists(estado) else {}
         previo.update({r["fichero"]: r for r in hechos})
