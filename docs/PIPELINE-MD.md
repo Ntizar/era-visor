@@ -52,6 +52,18 @@ ERA (era.europa.eu)
 - Todo es reanudable: `data/traduccion/<CC>.json` y `data/revision/<CC>.json` guardan el
   estado informe a informe. Volver a lanzar un país sólo hace lo que falta.
 
+## Trampas conocidas (todas pagadas con tiempo real)
+
+| Síntoma | Causa | Solución en el código |
+|---|---|---|
+| ERA devuelve 429 en bucle | **Detección de bot**: `User-Agent` tipo `Mozilla/5.0 (Windows NT 10.0; Win64; x64)` pelado no lo envía ningún navegador | UA completo de Chrome + `Accept` + `Accept-Language` + `Referer` de la carpeta del país. Con eso: ~0,5 s por PDF |
+| Un año del manifiesto desaparece | Un 429 hace fallar la página del año y el scrape escribía el manifiesto desde cero | El manifiesto se **fusiona** por URL, nunca se sustituye |
+| La conversión se queda parada sin error | Alguna PDF deja `page.find_tables()` girando indefinidamente | `multiprocessing.Pool` con timeout por fichero; al vencer, **reintento con tablas desactivadas** (el texto se extrae igual y el frontmatter lo declara) |
+| `BrokenProcessPool` a mitad de tanda | Un PDF revienta PyMuPDF y mata el worker | Pool con `maxtasksperchild` y tareas de nivel de módulo (picklables) |
+| Traducción vacía y carísima | Los `qwen3.x` razonan por defecto | `enable_thinking: false` en cada llamada |
+| Falso «faltan cifras» | La coma decimal (`1,5` → `1.5`) y los superíndices de nota al pie | `verificar()` compara tiras de dígitos y separa cifras largas (fallo) de cortas (aviso) |
+| Título con `&amp;` | ERA publica entidades HTML en los nombres de fichero | `html.unescape()` en el slug |
+
 ## Orden de fases
 
 Se sube país a país, de los pequeños a los grandes (LU, CH, EE, SI, LT, LV, IE → PT, BE,
